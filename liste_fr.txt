@@ -44,6 +44,7 @@
 ||gambling-france.com^$third-party
 ||goodaction.com^$third-party
 ||hebdotop.com^$third-party
+||issentiel.com/media/affiliate/banner/$third-party
 ||jeuxvideo.com^*/avatar/$~stylesheet
 ||kreaffiliation.com^$third-party
 ||pub.media-clic.com^$third-party
@@ -94,6 +95,7 @@
 ||script.banstex.com^
 ||binnews.in/_images/ad
 ||binnews.me/_images/ad
+||blogdumac.com/pub/
 ||cdiscount.com^include/css/op_skin/
 ||cdiscount.com/imagesok/tetiere/partners/
 ||cdscdn.com/imagesok/tetiere/partners/
@@ -180,6 +182,9 @@ blogs.allocine.fr###pub
 blog.you-test.ch##BODY > :nth-child(n) + STYLE + DIV[id]:last-child
 blog.you-test.ch##BODY > NOSCRIPT > STYLE + DIV[id]:last-child
 bakchich.info##.scpe-pub.scpe-pub-nodebug
+blogdumac.com###encart-adsense-top-single
+blogdumac.com###pub-widget
+blogdumac.com###pub-widget2
 businessnews.com.tn###megaban-1000
 canalplus.fr##.banner
 canalplus.fr###idpublicitepave
@@ -354,6 +359,7 @@ zonebourse.com###Bottom
 @@||beead.fr/scripts/api/beead_apiv3.js$script,domain=play.nrj.fr
 @@||beead.fr/api/choixpubjs.htm$script,domain=play.nrj.fr
 @@||bigbrowser.blog.lemonde.fr/files/2012/02/adv3.jpg
+@@||blogdumac.com/pub/images/footer-bdm_02.png
 @@||ccmbenchmark.com
 @@||netavenir.com^$domain=zap-tele.com
 @@||nouvelobs.com/*@Top
