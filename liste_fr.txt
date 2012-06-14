@@ -359,13 +359,14 @@ zonebourse.com###Bottom
 @@||ads.adverline.com/adsmanager/*/nrjbillboard.js$script,domain=play.nrj.fr
 @@||vbs-ads.s3.amazonaws.com^$domain=premiere.fr
 @@||astw.adgear.com^$domain=tetesaclaques.tv
-@@||googleadservices.com^$domain=journaldugeek.com
 @@||beead.fr/scripts/api/beead_apiv3.js$script,domain=play.nrj.fr
 @@||beead.fr/api/choixpubjs.htm$script,domain=play.nrj.fr
-@@||blog.lemonde.fr/files/
+@@||donnemoilinfo.com/tuto/Ad-Remover/img/*
 @@||blogdumac.com/pub/images/footer-bdm_02.png
 @@||ccmbenchmark.com
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
+@@||googleadservices.com^$domain=journaldugeek.com
+@@||blog.lemonde.fr/files/
 @@||netavenir.com^$domain=zap-tele.com
 @@||nouvelobs.com/*@Top
 @@||openad.tf1.fr/realmedia/ads/adstream_mjx.ads/*/video/*$script
