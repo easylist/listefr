@@ -146,7 +146,6 @@
 ||onvasortir.com/pub/
 ||sbx.pagesjaunes.fr^
 ||petite-annonce-gratuite.com/encarts/bannieres/
-||static.playtv.fr/js/common.min.js?v=11
 ||ps3gen.fr/pub/
 ||rfi.fr/scripts/publicite.js
 ||rfi.fr/img/publicite_
@@ -389,7 +388,7 @@ zonebourse.com###Bottom
 @@||viamichelin.fr/static/advert/AFSQuery/AFSQuery.js
 @@||viamichelin.fr^*/rentacar.js
 @@||viamichelin.fr/static/advert/Sponsoring/ItineraryPage/ItineraryPage.js
-@@||videoplaza.tv^$domain=video.lequipe.fr|jeuxvideo.fr|m6replay.fr
+@@||videoplaza.tv^$domain=video.lequipe.fr|jeuxvideo.fr|m6replay.fr|playtv.fr
 @@||advertising.wellpack.fr/sites_annexes/optout/*
 ! Anti Adblock
 @@||awsclic.com/js/advertisement.js
@@ -398,11 +397,9 @@ zonebourse.com###Bottom
 @@||coursdeprofs.fr/adframe.js
 @@||meteomedia.com/common/js/master/adframe.js
 @@||partage-facile.com$elemhide
-@@||adserver.playtv.fr/delivery/afr.php?
-@@||static.playtv.fr/footad.htm
 @@||pro-zik.ws/wp-content/plugins/wordpress-adblock-blocker/adframe.js
 @@||sanwilltv.net/advertisement.js
 @@||uptobox.com^$script
 @@||wakanim.tv/Content/js/ads.js?
-~playtv.fr###GoogleAdsPlaceHolder
 ~letouriste.fr##.single-ad
+@@||playtv.fr$elemhide
