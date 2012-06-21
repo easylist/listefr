@@ -24,7 +24,7 @@
 ||au2m8.com^$third-party
 ||ax47mp-xp-21.com^$third-party
 ||avenir-affiliation.fr^$third-party
-||beead.fr^$third-party,domain=~ouifm.fr|~radiofg.com|~wakanim.tv
+||beead.fr^$third-party,domain=~ouifm.fr|~radiofg.com|~wakanim.tv|~play.nrj.fr
 ||blogbang.com^$third-party
 ||box.shopoon.fr^$third-party
 ||camsympa.com^$third-party
@@ -382,16 +382,12 @@ zdnet.fr###tickerRight
 zonebourse.com###Middle2_id
 zonebourse.com###Bottom
 !----------------------- EXCEPTIONS -----------------------!
-@@||adnext.fr^$domain=play.nrj.fr
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
 @@||adswizz.com^*/synchroclient2.js$domain=infomaniak.ch
 @@||adswizz.com/crossdomain.xml
 @@||allocine.fr/crossdomain.xml
-@@||ads.adverline.com/adsmanager/*/nrjbillboard.js$script,domain=play.nrj.fr
 @@||vbs-ads.s3.amazonaws.com^$domain=premiere.fr
 @@||astw.adgear.com^$domain=tetesaclaques.tv
-@@||beead.fr/scripts/api/beead_apiv3.js$script,domain=play.nrj.fr
-@@||beead.fr/api/choixpubjs.htm$script,domain=play.nrj.fr
 @@||donnemoilinfo.com/tuto/Ad-Remover/img/*
 @@||blogdumac.com/pub/images/footer-bdm_02.png
 @@||ccmbenchmark.com
