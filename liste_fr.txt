@@ -203,6 +203,7 @@
 ||fr.ard.yahoo.com^
 ||zonebourse.com/content_o_a_s.php?
 !----------------------- Elements -----------------------!
+##.fixe > A[href^="http://www.adcash.com/"]
 ##a[href^="http://www.crazyloader.com"]
 ###fixe_plugin
 !
