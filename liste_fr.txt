@@ -205,6 +205,8 @@
 ||torrentfrancais.com/pub.html
 ||tsa-algerie.com/images/pubs/
 ||pub/trictrac
+||vazigo.fr/css/pub.css
+||vazigo.fr/referencement/pub_frame.php
 ||outils.yesmessenger.com^
 ||fr.ard.yahoo.com^
 ||zonebourse.com/content_o_a_s.php?
@@ -225,8 +227,7 @@ agoravox.fr##.publarge
 allocine.fr##.coltop
 allocine.fr##.topheader
 blogs.allocine.fr###pub
-blog.you-test.ch##BODY > :nth-child(n) + STYLE + DIV[id]:last-child
-blog.you-test.ch##BODY > NOSCRIPT > STYLE + DIV[id]:last-child
+autocaravane.fr###pub468x60_gauche
 bakchich.info##.scpe-pub.scpe-pub-nodebug
 blogdumac.com###encart-adsense-top-single
 blogdumac.com###pub-widget
@@ -414,6 +415,8 @@ wat.tv##.pub
 webactus.net###text-4
 fr.yahoo.com###marketplace
 fr.news.yahoo.com##[id^="pmBannerContainer"]
+blog.you-test.ch##BODY > :nth-child(n) + STYLE + DIV[id]:last-child
+blog.you-test.ch##BODY > NOSCRIPT > STYLE + DIV[id]:last-child
 zap-tele.com##.pubRight1
 zdnet.fr###tickerRight
 zonebourse.com###Middle2_id
