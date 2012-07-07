@@ -496,9 +496,12 @@ zonebourse.com###Bottom
 @@||stickyadstv.com/crossdomain.xml
 @@||openad.tf1.fr/realmedia/ads/adstream_mjx.ads/*/video/*$script
 @@||tradedoubler.com^$domain=emv3.com
-@@||viamichelin.fr/static/advert/AFSQuery/AFSQuery.js
 @@||viamichelin.fr^*/rentacar.js
-@@||viamichelin.fr/static/advert/Sponsoring/ItineraryPage/ItineraryPage.js
+@@||viamichelin.be^*/rentacar.js
+@@||viamichelin.ch^*/rentacar.js
+@@||viamichelin.fr/static/advert/*
+@@||viamichelin.be/static/advert/*
+@@||viamichelin.ch/static/advert/*
 @@||videoplaza.tv^$domain=jeuxvideo.fr|m6replay.fr|w9replay.fr
 @@||advertising.wellpack.fr/sites_annexes/optout/*
 ! Anti Adblock
