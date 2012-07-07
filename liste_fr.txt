@@ -479,6 +479,7 @@ zdnet.fr###tickerRight
 zonebourse.com###Middle2_id
 zonebourse.com###Bottom
 !----------------------- EXCEPTIONS -----------------------!
+scooter-infos.com#@#.adlist
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
 @@||adswizz.com^*/synchroclient2.js$domain=infomaniak.ch
 @@||adswizz.com/crossdomain.xml
@@ -508,6 +509,7 @@ zonebourse.com###Bottom
 @@||videoplaza.tv^$domain=jeuxvideo.fr|m6replay.fr|w9replay.fr
 @@||advertising.wellpack.fr/sites_annexes/optout/
 ! Anti Adblock
+letouriste.fr#@#.single-ad
 @@||awsclic.com/js/advertisement.js
 @@||bizerta-soft.com/clientscript/advertisement.js$script
 @@||claymore.fr/advertisement.js
@@ -519,5 +521,4 @@ zonebourse.com###Bottom
 @@||sanwilltv.net/advertisement.js
 @@||uptobox.com^$script
 @@||wakanim.tv/Content/js/ads.js?
-~letouriste.fr##.single-ad
 @@||playtv.fr$elemhide
