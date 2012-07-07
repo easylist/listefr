@@ -272,8 +272,9 @@
 ###slidepub
 ###tag_pub_footer
 ###thePubDiv2
+##.blocPub
 ##.block.pub
-##.block.publicite
+##.publicite
 ##.carre_pub
 ##.container-pubcarre
 ##.fixe > A[href^="http://www.adcash.com/"]
@@ -439,6 +440,9 @@ forum.pcastuces.com##TABLE[width="95%"][cellspacing="4"][cellpadding="4"][align=
 forum.pcastuces.com##TABLE[width="728"][height="90"][align="center"]
 premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 tele.premiere.fr###pub_a2d_pave
+programme-tv.net###blocPub_MEGABAN
+programme-tv.net###pub_pole_position1
+programme-tv.net##.blocLeguide
 radio-canada.ca###wrapper-pub
 radio-canada.ca##.srcPub
 radiofrance.fr###banniere
