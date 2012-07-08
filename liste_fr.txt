@@ -120,7 +120,7 @@
 .com/fr/ads/
 .fr/ads-
 .fr/ads.
-.fr/ads/
+.fr/ads/$domain=~teads.fr
 .fr/ads?
 .fr/ads_
 /bandeaupublicite/*
@@ -493,7 +493,7 @@ zonebourse.com###Middle2_id
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|player.canalplus.fr|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=deezer.com|alloclips.com|portail.free.fr
 @@||stickyadstv.com/crossdomain.xml
-@@||tradedoubler.com^$domain=emv3.com
+@@||tradedoubler.com^$domain=emv3.com,teads.fr
 @@||vbs-ads.s3.amazonaws.com^$domain=premiere.fr
 @@||viamichelin.be/static/advert/
 @@||viamichelin.ch/static/advert/
