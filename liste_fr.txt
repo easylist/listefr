@@ -148,6 +148,7 @@
 /publicite_
 /template/pubs/*
 !----------------------- Sites specifiques -----------------------!
+||01net.com/front_office/images/regie/
 ||7sur7.be/static/nmc/adv/sponsor/
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
 ||ad.fr.doubleclick.net/pfadx/clubic/
@@ -162,6 +163,7 @@
 ||cdiscount.com/imagesok/tetiere/partners/
 ||cdiscount.com^include/css/op_skin/
 ||cdmail.fr/banniere/
+||cdn.installclick.fr^*/ad.html
 ||cdscdn.com/imagesok/tetiere/partners/
 ||choubijoux.com/image/banniere-
 ||conception-site-web.info/modules/creation-site/images/banner.jpg
@@ -331,6 +333,8 @@
 ##.txt-pub
 ##a[href^="http://www.crazyloader.com"]
 !----------------------- Elements -----------------------!
+01net.com###ic-ad
+01net.com###ic-ad-movie
 01net.com###v7_partenaire
 20min.ch##.box.left.x44
 20minutes.fr##.mn-footer-services
@@ -528,6 +532,7 @@ zdnet.fr###tickerRight
 zonebourse.com###Bottom
 zonebourse.com###Middle2_id
 !----------------------- EXCEPTIONS -----------------------!
+@@||01net.com/imgv6/publicite/puce_a_votre_serv.jpg
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
 @@||adswizz.com/crossdomain.xml
 @@||adswizz.com^*/synchroclient2.js$domain=infomaniak.ch
