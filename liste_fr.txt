@@ -241,6 +241,17 @@
 ||xooit.be/pub.php?
 ||zonebourse.com/content_o_a_s.php?
 !------------------ Elements generiques -----------------!
+###pub_header
+###pub300x250
+##.iframe_pub
+###pub_haut
+###pub_geante
+##.pub728x90
+###block_pub
+###banniere_pub
+##.pub_outer
+###cadre_pub_bas
+###block_pub_article
 ###Block_Pub_Right
 ###PubFooter
 ###PubHead
@@ -375,6 +386,8 @@ europe1.fr###ad-300x250-2
 europe1.fr##.s-partenaires
 extremepc.fr###pub
 extremepc.fr###pub2an
+femmemag.re###block_regie_pub_bas
+femmemag.re###block_regie_pub_bas_article
 flights-results.liligo.fr###pulledbanner
 flights-results.liligo.fr###pulledbanner-right-top
 flights-results.liligo.fr###top-banner-smart
