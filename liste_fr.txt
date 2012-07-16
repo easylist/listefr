@@ -139,15 +139,10 @@
 .fr/ads_
 /bandeaupublicite/*
 /banniere_pub/*
-/images/pub/*$domain=~usinedeco.com
-/images/pubs/*
-/images_pub/*
 /pub/banniere/*
-/pub_affichage_web/*
 /publicite.js
 /publicite/*
 /publicite_
-/template/pubs/*
 !----------------------- Sites specifiques -----------------------!
 ||01net.com/front_office/images/regie/
 ||7sur7.be/static/nmc/adv/sponsor/
@@ -177,6 +172,7 @@
 ||elwatan.com/campub/
 ||elwatan.com/img/swf/
 ||emploi-energie.com/banniere/
+||emploipartner.com/template/pubs/
 ||ergor.org^*/adserverpub?
 ||explorerlondres.com^*/hotelscom.gif
 ||export.kelkoo.fr/$subdocument
@@ -187,11 +183,13 @@
 ||flux.liberation.fr/fnac/
 ||forumactif.com/admgt/
 ||fr.ard.yahoo.com^
+||frandroid.com/visuals/pub_affichage_web/
 ||futura-sciences.com/fileadmin/templates/v4/css_habillage/
 ||gameblog.fr/skins/$image
 ||groupolitan.be/fr/partners/iframe/
 ||image.jeuxvideo.com/ope/
 ||images.fan-de-cinema.com/habillage/
+||images.gamekult.com/images/pubs/
 ||images1.soonnight.com/template/skins/*/skin.css
 ||impimg.free.fr/pubs/
 ||infos-mobiles.com/pub-
@@ -202,6 +200,7 @@
 ||lephoceen.fr^*/publicites/
 ||les-horaires.fr/ajax/staytuned.popup.php?city=
 ||les-terrains.com/bd_images/
+||les-terrains.com/images_pub/
 ||letour.fr^*/partenaires.swf?
 ||letraitdunion.com/images/headset/
 ||letraitdunion.com/images/wallpaper/
@@ -213,6 +212,7 @@
 ||mistergoodmovies.net/images/partners/
 ||monaco.mc/pages/getbandeau.jsp?
 ||mondissimo.com/*/bannerdisplay.asp?
+||mr-annonce.fr/images/pub/
 ||neezzmail.com/js/box.js
 ||ohm.adstronic.net^
 ||onvasortir.com/pub/
@@ -242,6 +242,7 @@
 ||textograto.com/iframe1.php
 ||ti.bank.free.fr/images/jarrety
 ||torrentfrancais.com/pub.html
+||tsa-algerie.com/images/pubs/
 ||vazigo.fr/css/pub.css
 ||vazigo.fr/referencement/pub_frame.php
 ||webmarchand.be/js/ov.js.php?
@@ -271,12 +272,14 @@
 ###footer_haut-publicite
 ###footerpubs
 ###general_subpub
+###head_pub
 ###header_bloc2_pub
 ###idMapAdvertising
 ###idpublicitepave
 ###iframesidebarpub
 ###news-droite-publicite
 ###pave_pub
+###pub-haut
 ###pub-widget
 ###pub-widget2
 ###pub01
@@ -302,6 +305,7 @@
 ###tag_pub_footer
 ###thePubDiv2
 ###top_pub
+###wrapper-pub
 ##.blocPub
 ##.block.pub
 ##.carre_pub
@@ -331,6 +335,7 @@
 ##.publicite-bas
 ##.publicite_3
 ##.sqrpub
+##.srcPub
 ##.txt-pub
 ##a[href^="http://www.crazyloader.com"]
 !----------------------- Elements -----------------------!
