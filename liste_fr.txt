@@ -30,7 +30,6 @@
 ||beead.fr^$third-party,domain=~ouifm.fr|~play.nrj.fr|~radiofg.com|~wakanim.tv
 ||blogbang.com^$third-party
 ||box.shopoon.fr^$third-party
-||piximedia.fr^$third-party,domain=~allocine.fr
 ||camsympa.com^$third-party,domain=~camsympa.fr
 ||cdn.emule-island.ru/pub/
 ||cdn.nextperf.net^$third-party
@@ -76,6 +75,7 @@
 ||partner.leguide.com^$third-party
 ||paruvendu.fr^$~image,image,popup,third-party
 ||pepitastore.com^$domain=clubic.com
+||piximedia.fr^$third-party,domain=~allocine.fr
 ||pornravage.com^$third-party
 ||pornstreet.com^$~image,image,popup,third-party
 ||promo.easy-dating.org^$third-party
@@ -142,9 +142,9 @@
 /pub/banniere/*
 /publicite.
 /publicite/*
+/publicite_
 /publicites.
 /publicites/*
-/publicite_
 !----------------------- Sites specifiques -----------------------!
 ||01net.com/front_office/images/regie/
 ||7sur7.be/static/nmc/adv/sponsor/
@@ -278,6 +278,7 @@
 ###header_bloc2_pub
 ###idMapAdvertising
 ###idpublicitepave
+###iframepub
 ###iframesidebarpub
 ###news-droite-publicite
 ###pave_pub
@@ -308,6 +309,7 @@
 ###thePubDiv2
 ###top_pub
 ###wrapper-pub
+##.bloc.pub
 ##.blocPub
 ##.block.pub
 ##.carre_pub
@@ -339,6 +341,7 @@
 ##.sqrpub
 ##.srcPub
 ##.txt-pub
+##.zonepub
 ##a[href^="http://www.crazyloader.com"]
 !----------------------- Elements -----------------------!
 01net.com###ic-ad
