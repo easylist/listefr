@@ -303,6 +303,7 @@
 ###pub_header_droite
 ###pub_pave_top
 ###pub_square
+###pubDroite
 ###publicite
 ###publicite_banniere
 ###pubright
@@ -427,7 +428,8 @@ forumactif.com##div[class^="add-google"]
 fr.news.yahoo.com##[id^="pmBannerContainer"]
 france.meteofrance.com###adColumn3
 franceantilles.fr,franceguyane.fr###megabanner
-franceinfo.fr##.megabanner
+francebleu.fr,franceinfo.fr###pub-ftv-top
+franceculture.fr###block-fcbloc-publicite
 frandroid.com##.widget.widget_text
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 gameblog.fr###gba300
@@ -513,6 +515,7 @@ programme-tv.net##.blocLeguide
 radio-canada.ca###wrapper-pub
 radio-canada.ca##.srcPub
 radiofrance.fr###banniere
+radiofrance.fr##TABLE[width="765"][height="100"]
 redlist-ultimate.be###partenaire
 redlist-ultimate.be##[style="display:none;"] + .block
 rolandgarros.com###rail_ad
@@ -563,6 +566,7 @@ zonebourse.com###Middle2_id
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/ad-remover/img/
 @@||e-sante.fr^*/ad-49x72.jpg
+@@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||googleadservices.com^$domain=journaldugeek.com
 @@||images.newmedia.lu^*/adtech_video/
