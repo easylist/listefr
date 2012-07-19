@@ -275,6 +275,7 @@
 ###block_pub
 ###block_pub_article
 ###cadre_pub_bas
+###carre_pub
 ###contextuel-publicite-video
 ###fixe_plugin
 ###footer_haut-publicite
@@ -376,7 +377,6 @@ blog.you-test.ch##body > :nth-child(n) + style + div[id]:last-child
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 blogdumac.com###encart-adsense-top-single
 blogs.allocine.fr###pub
-blogs.rue89.com###head_pub
 blogs.rue89.com##div[style="clear: both; text-align: center; margin: 0px auto;height: 250px; width: 300px;"]
 businessnews.com.tn###megaban-1000
 canalplus.fr##.banner
@@ -519,8 +519,6 @@ premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 programme-tv.net###blocPub_MEGABAN
 programme-tv.net###pub_pole_position1
 programme-tv.net##.blocLeguide
-radio-canada.ca###wrapper-pub
-radio-canada.ca##.srcPub
 radiofrance.fr###banniere
 radiofrance.fr##TABLE[width="765"][height="100"]
 redlist-ultimate.be###partenaire
