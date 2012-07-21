@@ -197,6 +197,8 @@
 ||impimg.free.fr/pubs/
 ||infos-mobiles.com/pub-
 ||jeuxvideo.com/hp_sponso/
+||lacanausurfinfo.com/admin/images/pubs/$object
+||lacanausurfinfo.com/ressources/pub/
 ||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
 ||lagur.com/a7fr/scroller.php$domain=israel7.com
 ||lanutrition.fr/images/banners/
@@ -288,6 +290,7 @@
 ###iframepub
 ###iframesidebarpub
 ###news-droite-publicite
+###news_pub_centre
 ###pave_pub
 ###pub-haut
 ###pub-widget
@@ -456,6 +459,8 @@ journaldugeek.com##.widget-current-offers.widget
 judgehype.com###news-droite-nepasmanquer A[href^="http://www.materiel.net/"]
 judgehype.com###partenaire
 korben.info##.advert-center
+lacanausurfinfo.com###banner_footer
+lacanausurfinfo.com###promo
 lachainemeteo.com###bloc_aquarelle
 lachainemeteo.com##DIV.bloc_1_col_middle[style="height:160px;"]
 lachainemeteo.com##div[style="float:left;width:615px;height:100px;"]
@@ -579,6 +584,7 @@ zonebourse.com###Middle2_id
 @@||e-sante.fr^*/ad-49x72.jpg
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francetelevisions.fr^*/publicite/silverlight.php?
+@@||francesurfinfo.com/affiliation/
 @@||googleadservices.com^$domain=journaldugeek.com
 @@||images.newmedia.lu^*/adtech_video/
 @@||lemde.fr/*/advert/sync.js
