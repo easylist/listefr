@@ -169,6 +169,9 @@
 ||ctqui.com/pub/
 ||deezer.com/ads/
 ||deliv.leboncoin.fr^
+||directvelo.com/images/habillage/
+||directvelo.com/images/partenaires/
+||directvelo.com/images/livre/pub-
 ||e-sante.fr/sites/default/files/templates/$image
 ||easyrencontre.com/promo
 ||education.ti.com^$domain=ti.bank.free.fr
@@ -340,6 +343,7 @@
 ##.position_pub
 ##.pub-banner
 ##.pub300x250
+##.pub468x60
 ##.pub728x90
 ##.pubContent
 ##.pubIframe
@@ -415,6 +419,7 @@ dailymotion.com##.dm_widget_advert_iabrighttitle
 deezer.com###bottom
 deezer.com##[id^="ads"]
 dinogaia.com###tableau_info
+directvelo.com###col_03_partenaires
 dogzer.com###header_tr_banniere
 dogzer.com###affichage_tag_58
 e-sante.fr##.ad
