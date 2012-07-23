@@ -7,6 +7,7 @@
 ||a.traficmax.com^$third-party
 ||a2dfp.net^$third-party,domain=~gulli.fr
 ||acpublicite.fr^$third-party
+||ad.zanox.com^$image,~image,popup,third-party
 ||ad4you.org^$third-party
 ||ad6media.fr^$third-party
 ||adcash.com^$image,~image,popup,third-party
@@ -479,6 +480,7 @@ lachainemeteo.com###bloc_aquarelle
 lachainemeteo.com##DIV.bloc_1_col_middle[style="height:160px;"]
 lachainemeteo.com##div[style="float:left;width:615px;height:100px;"]
 lagazettedescommunes.com##[class^="col-note-pub300x"]
+laptopspirit.fr##A[href^="http://www.prix-portables.fr/pub/"]
 lanutrition.fr##.moduletable-banner
 laposte.net###shoppingBox
 lapresse.ca###pubs
