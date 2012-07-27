@@ -44,6 +44,7 @@
 ||direction-x.com^$third-party
 ||double6affiliation.com^third-party
 ||doubleclick.net^$object-subrequest,third-party,domain=cinefil.com
+||duporno.biz^$third-party
 ||easyvols.org/leparisien/
 ||edintorni.net^$third-party
 ||effiliation.com^$third-party
@@ -172,6 +173,7 @@
 ||ctqui.com/pub/
 ||deezer.com/ads/
 ||deliv.leboncoin.fr^
+||desmatures.com^*/desmatures/images/pub
 ||directvelo.com/images/habillage/
 ||directvelo.com/images/partenaires/
 ||directvelo.com/images/livre/pub-
@@ -340,6 +342,8 @@
 ###thePubDiv2
 ###top_pub
 ###wrapper-pub
+##.pub600200
+##.pub300250
 ##.annonces_google
 ##.block-pubimage
 ##.blocPub
@@ -430,6 +434,8 @@ courrier-picard.fr##.megaban-top
 dailymotion.com##.dm_widget_advert_iabrighttitle
 deezer.com###bottom
 deezer.com##[id^="ads"]
+desmatures.com##.pub468100top
+desmatures.com##.sidebarpub350250
 dinogaia.com###tableau_info
 directvelo.com###col_03_partenaires
 dogzer.com###header_tr_banniere
