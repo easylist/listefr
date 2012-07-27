@@ -326,6 +326,7 @@
 ###pub_haut
 ###pub_header
 ###pub_header_droite
+~ouifm.fr###pub_megaban
 ###pub_pave_top
 ###pub_square
 ###pubDroite
@@ -601,7 +602,6 @@ zoomdici.fr##.innerArtAdd
 @@||01net.com^*/publicite/puce_a_votre_serv.jpg
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
 @@||adswizz.com/crossdomain.xml
-@@||adswizz.com^*/synchroclient2.js$domain=infomaniak.ch
 @@||advertising.wellpack.fr/sites_annexes/optout/
 @@||allocine.fr/crossdomain.xml
 @@||astw.adgear.com^$domain=tetesaclaques.tv
@@ -625,6 +625,8 @@ zoomdici.fr##.innerArtAdd
 @@||nouvelobs.com/*@top
 @@||ohm-immobilier.fr/images/ads/
 @@||openad.tf1.fr/realmedia/ads/adstream_mjx.ads/*/video/$script
+@@||ouifm.adswizz.com//www/components/
+@@||ouifm.adswizz.com/www/components/
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|player.canalplus.fr|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=deezer.com|alloclips.com|portail.free.fr
 @@||stickyadstv.com/crossdomain.xml
