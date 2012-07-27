@@ -15,8 +15,8 @@
 ||adfever.com^$third-party
 ||adnext.fr^$third-party
 ||adqia.com^$third-party
-||adserverpub.com^$third-party
 ||adserverpub.com^$image,~image,popup,third-party
+||adserverpub.com^$third-party
 ||affiliation-france.com^$third-party
 ||affilipub.com^$third-party
 ||affility.com^$third-party
@@ -36,8 +36,8 @@
 ||cdn.nextperf.net^$third-party
 ||comclick.com^$third-party
 ||cougar-rencontre.net^$third-party
-||danstonfion.com^$image,~image,popup
 ||danstonfion.com^
+||danstonfion.com^$image,~image,popup
 ||dekalee.net^$third-party
 ||deliv.prisma-presse.com^$third-party
 ||dfast.net^$third-party
@@ -58,8 +58,8 @@
 ||goodaction.com^$third-party
 ||goracash.com^$third-party
 ||hebdotop.com^$third-party
-||hopdream.com^$third-party
 ||hopdream.com^$image,~image,popup,third-party
+||hopdream.com^$third-party
 ||illyx.com^$third-party
 ||indecentes-voisines.com^$third-party
 ||issentiel.com/media/affiliate/banner/$third-party
@@ -73,8 +73,8 @@
 ||mediaffiliation.com^$third-party
 ||medncom.com^$third-party
 ||neckermann.be^$third-party
-||openadserving.com^$third-party
 ||openadserving.com^$image,~image,popup
+||openadserving.com^$third-party
 ||orangeads.fr^$third-party
 ||orangepublicite.fr^$third-party
 ||papycash.com$third-party
@@ -82,6 +82,7 @@
 ||paruvendu.fr^$image,~image,popup,third-party
 ||pepitastore.com^$domain=clubic.com
 ||piximedia.fr^$third-party,domain=~allocine.fr
+||porn.fr^$third-party
 ||pornravage.com^$third-party
 ||pornstreet.com^$image,~image,popup,third-party
 ||promo.easy-dating.org^$third-party
@@ -92,7 +93,6 @@
 ||promotions.djummer.com^$image,~image,popup,third-party
 ||pub-france.com^$third-party
 ||pub.media-clic.com^$third-party
-||porn.fr^$third-party
 ||puboclic.com^$third-party
 ||reactivpub.fr^$third-party
 ||regie-agricole.com/*/pubs^$third-party
@@ -114,8 +114,8 @@
 ||tag.regieci.com^$third-party
 ||teads.fr/js/footer.php$third-party
 ||teads.fr^*/inreadjq.js$third-party
-||the-adult-company.com^$third-party
 ||the-adult-company.com^$image,~image,popup,third-party
+||the-adult-company.com^$third-party
 ||tootrash.com^$third-party
 ||torrentfrancais.com/img/z2/
 ||touturf.com^$third-party
@@ -181,8 +181,8 @@
 ||deliv.leboncoin.fr^
 ||desmatures.com^*/desmatures/images/pub
 ||directvelo.com/images/habillage/
-||directvelo.com/images/partenaires/
 ||directvelo.com/images/livre/pub-
+||directvelo.com/images/partenaires/
 ||e-sante.fr/sites/default/files/templates/$image
 ||easyrencontre.com/promo
 ||education.ti.com^$domain=ti.bank.free.fr
@@ -230,7 +230,7 @@
 ||mesnotices.fr/shopping/
 ||millenium.org/images/contenu/habillages/
 ||millenium.org/indexpub.php?
-||miroirsocial.com/uploads/images/partenaires/*
+||miroirsocial.com/uploads/images/partenaires/
 ||mistergoodmovies.net/images/partners/
 ||mistergoodmovies.net^*/js.submgm.js
 ||monaco.mc/pages/getbandeau.jsp?
@@ -266,8 +266,8 @@
 ||static.rtl.fr/www-2010/skin/$stylesheet
 ||static.rtl.fr/www/skin/promo/
 ||stats.hosting24.com/count.php
-||strasbourg-tramway.fr/banner
 ||strasbourg-tramway.fr/ban_
+||strasbourg-tramway.fr/banner
 ||sylvainpellier.fr/bandeau/
 ||telechargementgratuits.com/hexa.png
 ||textograto.com/iframe1.php
@@ -326,6 +326,7 @@
 ###pub300
 ###pub300x250
 ###pubCarre
+###pubDroite
 ###pubEncart
 ###pubEncart1
 ###pubEncart2
@@ -339,7 +340,6 @@
 ~ouifm.fr###pub_megaban
 ###pub_pave_top
 ###pub_square
-###pubDroite
 ###publicite
 ###publicite_banniere
 ###pubright
@@ -349,11 +349,9 @@
 ###thePubDiv2
 ###top_pub
 ###wrapper-pub
-##.pub600200
-##.pub300250
 ##.annonces_google
-##.block-pubimage
 ##.blocPub
+##.block-pubimage
 ##.carre_pub
 ##.container-pubcarre
 ##.fixe > a[href^="http://www.adcash.com/"]
@@ -366,8 +364,10 @@
 ##.pave_pub
 ##.position_pub
 ##.pub-banner
+##.pub300250
 ##.pub300x250
 ##.pub468x60
+##.pub600200
 ##.pub728x90
 ##.pubContent
 ##.pubIframe
@@ -410,9 +410,9 @@ bakchich.info##.scpe-pub.scpe-pub-nodebug
 beaute-test.com##.addict_bloc
 blog.you-test.ch##body > :nth-child(n) + style + div[id]:last-child
 blog.you-test.ch##body > noscript > style + div[id]:last-child
+blog2mature.com##.download
 blog2mature.com##.liens
 blog2mature.com##.widget.widget_links
-blog2mature.com##.download
 blogdumac.com###encart-adsense-top-single
 blogs.allocine.fr###pub
 blogs.rue89.com##div[style="clear: both; text-align: center; margin: 0px auto;height: 250px; width: 300px;"]
@@ -452,8 +452,8 @@ desmatures.com##.pub468100top
 desmatures.com##.sidebarpub350250
 dinogaia.com###tableau_info
 directvelo.com###col_03_partenaires
-dogzer.com###header_tr_banniere
 dogzer.com###affichage_tag_58
+dogzer.com###header_tr_banniere
 e-sante.fr##.ad
 e-sante.fr##.public-info
 emule-island.ru###centre_haut
@@ -478,9 +478,9 @@ forum.pcastuces.com##table[width="728"][height="90"][align="center"]
 forumactif.com##div[class^="add-google"]
 fr.news.yahoo.com##[id^="pmBannerContainer"]
 france.meteofrance.com###adColumn3
-france2.fr###eShowPubTop
 france2.fr###AdBottomRight
 france2.fr###AdSquare02
+france2.fr###eShowPubTop
 franceantilles.fr,franceguyane.fr###megabanner
 francebleu.fr,franceinfo.fr###pub-ftv-top
 franceculture.fr###block-fcbloc-publicite
@@ -515,10 +515,10 @@ lachainemeteo.com###bloc_aquarelle
 lachainemeteo.com##DIV.bloc_1_col_middle[style="height:160px;"]
 lachainemeteo.com##div[style="float:left;width:615px;height:100px;"]
 lagazettedescommunes.com##[class^="col-note-pub300x"]
-laptopspirit.fr##A[href^="http://www.prix-portables.fr/pub/"]
 lanutrition.fr##.moduletable-banner
 laposte.net###shoppingBox
 lapresse.ca###pubs
+laptopspirit.fr##a[href^="http://www.prix-portables.fr/pub/"]
 leboncoin.fr##div[class="newPartnerbox"]
 leboncoin.fr##div[style="width:189px;float:left;margin-left:8px;"]
 ledevoir.com###A1
@@ -526,9 +526,9 @@ lefigaro.fr###beead_flash
 lefigaro.fr###boxshop3
 leguide-shopping.tele-2-semaines.fr##.body
 lemonde.fr##.bloc_part
-lemonde.fr##.global.services
 lemonde.fr##.bloc_part.attractive
 lemonde.fr##.conteneur_ligatus
+lemonde.fr##.global.services
 lemouv.fr###block-lemouv_bloc-pub_ftv_top
 lensois.com###transparentad
 lepoint.fr###seloger_annonces_immo
@@ -539,10 +539,10 @@ letour.fr###partenaires2
 letraitdunion.com###add_top
 letudiant.fr###pub
 libertyland.tv##.fixe
+lien-torrent.com##.bloc_plateforme
 lien-torrent.com##.block-banner
 lien-torrent.com##.nav-hd-inscrire
 lien-torrent.com##.nav-profil
-lien-torrent.com##.bloc_plateforme
 liveradio.fr###ad1
 lo.st##.home_partner_img
 maps.google.fr##.ad
@@ -585,7 +585,7 @@ programme-tv.net###blocPub_MEGABAN
 programme-tv.net###pub_pole_position1
 programme-tv.net##.blocLeguide
 radiofrance.fr###banniere
-radiofrance.fr##TABLE[width="765"][height="100"]
+radiofrance.fr##table[width="765"][height="100"]
 redlist-ultimate.be###partenaire
 redlist-ultimate.be##[style="display:none;"] + .block
 rolandgarros.com###rail_ad
@@ -642,8 +642,8 @@ zoomdici.fr##.innerArtAdd
 @@||e-sante.fr^*/ad-49x72.jpg
 @@||fatherandsons.fr^*/opecom/affiliation/
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
-@@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||francesurfinfo.com/affiliation/
+@@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||googleadservices.com^$domain=journaldugeek.com
 @@||images.newmedia.lu^*/adtech_video/
 @@||koifaire.com/upload/*/300x250-
@@ -669,8 +669,8 @@ zoomdici.fr##.innerArtAdd
 @@||viamichelin.fr/static/advert/
 @@||viamichelin.fr^*/rentacar.js
 @@||videoplaza.tv^$domain=jeuxvideo.fr|m6replay.fr|w9replay.fr
-scooter-infos.com#@#.adlist
 jeuxjeuxjeux.fr#@#.ad-left
+scooter-infos.com#@#.adlist
 ! Anti Adblock
 @@||awsclic.com/js/advertisement.js
 @@||bizerta-soft.com/clientscript/advertisement.js$script
