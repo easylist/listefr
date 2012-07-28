@@ -4,7 +4,6 @@
 ! Contact et CGU : http://adblock-listefr.com/
 ! Mises a jour : https://code.google.com/p/listefr-adblock/source/list
 !----------------------- Annonceurs -----------------------!
-||a.traficmax.com^$third-party
 ||a2dfp.net^$third-party,domain=~gulli.fr
 ||acpublicite.fr^$third-party
 ||ad.zanox.com^$image,~image,popup,third-party
@@ -63,6 +62,7 @@
 ||illyx.com^$third-party
 ||indecentes-voisines.com^$third-party
 ||issentiel.com/media/affiliate/banner/$third-party
+||imgpromo.easyrencontre.com^$third-party
 ||jeuxvideo.com^*/avatar/$~stylesheet
 ||kreaffiliation.com^$third-party
 ||lien-amateur.org^$third-party
@@ -119,6 +119,8 @@
 ||tootrash.com^$third-party
 ||torrentfrancais.com/img/z2/
 ||touturf.com^$third-party
+||traficmax.com^$third-party
+||traficmax.fr^$third-party
 ||trafic-booster.biz^$third-party
 ||twenga.fr^$domain=space-blogs.com
 ||videoplaza.tv/proxy/distributor/$object-subrequest,third-party
