@@ -63,7 +63,6 @@
 ||indecentes-voisines.com^$third-party
 ||issentiel.com/media/affiliate/banner/$third-party
 ||imgpromo.easyrencontre.com^$third-party
-||jeuxvideo.com^*/avatar/$~stylesheet
 ||kreaffiliation.com^$third-party
 ||lien-amateur.org^$third-party
 ||livechatdates.com^$image,~image,popup,third-party
@@ -215,6 +214,8 @@
 ||impimg.free.fr/pubs/
 ||infos-mobiles.com/pub-
 ||jeuxvideo.com/hp_sponso/
+||jeuxvideo.com^*/avatar/$~stylesheet
+||jeuxvideo.com/sponso/
 ||lacanausurfinfo.com/admin/images/pubs/$object
 ||lacanausurfinfo.com/ressources/pub/
 ||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
