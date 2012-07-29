@@ -6,6 +6,8 @@
 !----------------------- Annonceurs -----------------------!
 ||a2dfp.net^$third-party,domain=~gulli.fr
 ||acpublicite.fr^$third-party
+||ad.adserverplus.com^
+||ad.adserverplus.com^$image,~image,popup
 ||ad.zanox.com^$image,~image,popup,third-party
 ||ad4you.org^$third-party
 ||ad6media.fr^$third-party
@@ -13,10 +15,8 @@
 ||adecolo.com^$third-party
 ||adfever.com^$third-party
 ||adnext.fr^$third-party
-||ads.eorezo.com^
-||ad.adserverplus.com^$image,~image,popup
-||ad.adserverplus.com^
 ||adqia.com^$third-party
+||ads.eorezo.com^
 ||adserverpub.com^$image,~image,popup,third-party
 ||adserverpub.com^$third-party
 ||affiliation-france.com^$third-party
@@ -63,9 +63,9 @@
 ||hopdream.com^$image,~image,popup,third-party
 ||hopdream.com^$third-party
 ||illyx.com^$third-party
+||imgpromo.easyrencontre.com^$third-party
 ||indecentes-voisines.com^$third-party
 ||issentiel.com/media/affiliate/banner/$third-party
-||imgpromo.easyrencontre.com^$third-party
 ||kreaffiliation.com^$third-party
 ||lien-amateur.org^$third-party
 ||livechatdates.com^$image,~image,popup,third-party
@@ -121,9 +121,9 @@
 ||tootrash.com^$third-party
 ||torrentfrancais.com/img/z2/
 ||touturf.com^$third-party
+||trafic-booster.biz^$third-party
 ||traficmax.com^$third-party
 ||traficmax.fr^$third-party
-||trafic-booster.biz^$third-party
 ||twenga.fr^$domain=space-blogs.com
 ||videoplaza.tv/proxy/distributor/$object-subrequest,third-party
 ||videoplaza.tv^$object-subrequest,domain=20minutes.fr|frandroid.com|lemonde.fr|leparisien.fr|lequipe.fr|nowhereelse.fr|ouest-france.fr|playtv.fr
@@ -217,8 +217,8 @@
 ||impimg.free.fr/pubs/
 ||infos-mobiles.com/pub-
 ||jeuxvideo.com/hp_sponso/
-||jeuxvideo.com^*/avatar/$~stylesheet
 ||jeuxvideo.com/sponso/
+||jeuxvideo.com^*/avatar/$~stylesheet
 ||lacanausurfinfo.com/admin/images/pubs/$object
 ||lacanausurfinfo.com/ressources/pub/
 ||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
@@ -260,8 +260,8 @@
 ||pro.cdmail.fr/pro/images/
 ||ps3gen.fr/pub/
 ||rue89.com/files/skin/themes/visa/background.jpg
-||scoopers.com/?o=$image,~image,popup
 ||sbx.pagesjaunes.fr^
+||scoopers.com/?o=$image,~image,popup
 ||script.banstex.com^
 ||securite.01net.com/call/pubj/
 ||shopoon.fr/catalog/generated_boxes/
@@ -330,13 +330,13 @@
 ###news_pub_centre
 ###pave_pub
 ###pub-haut
-###pubContainer
 ###pub-widget
 ###pub-widget2
 ###pub01
 ###pub300
 ###pub300x250
 ###pubCarre
+###pubContainer
 ###pubDroite
 ###pubEncart
 ###pubEncart1
@@ -437,7 +437,7 @@ cbanque.com##.habillage
 cdiscount.com###downMall
 cdiscount.com##.SmartAdZoneList
 cdiscount.com##.downinbackMaullContainer
-cdiscount.com##TABLE.ptnlnk_table
+cdiscount.com##.ptnlnk_table
 cdmail.fr###banner
 centerblog.net###pub
 chronofoot.com##.add300
@@ -449,8 +449,8 @@ clubic.com###listBlock_mediatis
 clubic.com###shopper-widget-wrapper
 clubic.com##div[class="facebox layer_suggest"]
 clubic.com##div[class="facebox layer_suggest_nl"]
-coco.fr##DIV[onclick="window.open('http://www.joker.net/poker.html');"]
-coco.fr##A[href="http://www.joker.net"]
+coco.fr##a[href="http://www.joker.net"]
+coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 codeshttp.com##table[height="100"]
 codeshttp.com##table[height="118"]
 commentcamarche.net###ba_position4
@@ -512,8 +512,8 @@ gulli.fr##.banner
 histoire-pour-tous.fr##div[align="center"]
 ibuzzyou.fr##div[style="height:280px;float:left;"]
 ibuzzyou.tv-replay.fr###ad-ban
-imagik.fr###cb30popmedia
 imagedrole.de###main-bottom
+imagik.fr###cb30popmedia
 israel7.com##.box2[style="background-color:rgb(0,0,0);height:250px;"]
 israel7.com##.box2[style="background-color:rgb(0,0,0);padding:20px;"]
 israel7.com##.box2[style="padding:5px;height:600px;"]
@@ -521,13 +521,13 @@ israel7.com##table[style="margin:0px0px10px15px;"]
 jeuxjeuxjeux.fr###gamepage_ad
 jeuxjeuxjeux.fr##.top-ad-center
 journaldugeek.com##.widget-current-offers.widget
-judgehype.com###news-droite-nepasmanquer A[href^="http://www.materiel.net/"]
+judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
 judgehype.com###partenaire
 korben.info##.advert-center
 lacanausurfinfo.com###banner_footer
 lacanausurfinfo.com###promo
 lachainemeteo.com###bloc_aquarelle
-lachainemeteo.com##DIV.bloc_1_col_middle[style="height:160px;"]
+lachainemeteo.com##.bloc_1_col_middle[style="height:160px;"]
 lachainemeteo.com##div[style="float:left;width:615px;height:100px;"]
 lagazettedescommunes.com##[class^="col-note-pub300x"]
 lanutrition.fr##.moduletable-banner
@@ -567,9 +567,9 @@ masculin.com##div[style="float:left; width:980px; height:90px; text-align:left; 
 matchendirect.fr###prehome_contenu
 matchendirect.fr###prehome_fond
 matchendirect.mobi###pub1
+maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
 maxistreaming.com###header
 maxistreaming.com###searchform
-maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
 megaupload-download.net##.infoblock
 meilleurtaux.com##.pub
 meteoconsult.fr###bloc_pub_sommaire_terrestre
@@ -580,8 +580,8 @@ minutefacile.com##.pub
 miroirsocial.com###partners
 mistergoodmovies.net###addspace
 mon-ordi.com##td[width="567"]
-mu-streaming.com##.fixe
 mu-streaming.com###pb1
+mu-streaming.com##.fixe
 neomag.fr###big-ad
 neowebcar.com##.adv-format-1
 nrj.fr###pub
@@ -598,8 +598,8 @@ over-blog.com##.pub
 pagesjaunes.fr##.pushKeltravo
 paruvendu.fr##.h11-ad-top
 pcastuces.com##table[width="95%"][cellspacing="4"][cellpadding="4"][align="center"]
-portail.free.fr###partenaires
 planet.fr##.block-gc_ad
+portail.free.fr###partenaires
 premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 programme-tv.net###blocPub_MEGABAN
 programme-tv.net###pub_pole_position1
@@ -614,6 +614,7 @@ rtl.be###header
 rtl.fr##.result.sponsor
 rue89.com###partenariat89_masterblock
 rue89.com##.gam-holder
+search.ke.voila.fr###fontDivVignette
 silicon.fr###megabanner
 silicon.fr###skycraper
 silicon.fr##.widget_advertisement
@@ -621,7 +622,6 @@ slate.fr###smart14320
 softonic.fr##.topbanner
 spi0n.com##.spion_single_pub
 sports.fr###hablinkzone
-search.ke.voila.fr###fontDivVignette
 sports.orange.fr###adTop2
 strasbourg-tramway.fr###ws_embed_footer
 t411.me##.banner728
@@ -681,7 +681,7 @@ zoomdici.fr##.innerArtAdd
 @@||ouifm.adswizz.com//www/components/
 @@||ouifm.adswizz.com/www/components/
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|player.canalplus.fr|portail.free.fr
-@@||smartadserver.com/def/def/showdef.asp$script,domain=deezer.com|alloclips.com|portail.free.fr
+@@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
 @@||stickyadstv.com/crossdomain.xml
 @@||teads.fr/ads/
 @@||tradedoubler.com^$domain=emv3.com|teads.fr
