@@ -211,6 +211,7 @@
 ||forumactif.com/admgt/
 ||fr.ard.yahoo.com^
 ||frandroid.com/visuals/pub_affichage_web/
+||fr.audiofanzine.com/product.php?
 ||futura-sciences.com/fileadmin/templates/v4/css_habillage/
 ||gameblog.fr/skins/$image
 ||gamekult.com/i/fnac-hp-300x100.jpg
@@ -365,6 +366,7 @@
 ###pubright
 ###rightpubbox
 ###slidepub
+###sponsorizedLinks
 ###tag_pub_footer
 ###thePubDiv2
 ###top_pub
@@ -424,6 +426,7 @@ agoravox.fr##.simple.pub
 allocine.fr##.coltop
 allocine.fr##.topheader
 anime00.com###pb1
+audiofanzine.com###leaderboardContainer
 aujourdhui-en-france.fr,leparisien.fr###clubDealbloc
 aujourdhui-en-france.fr,leparisien.fr###module-rencontres
 aujourdhui-en-france.fr,leparisien.fr##.moduleNew300
@@ -501,6 +504,7 @@ forum-actif.net##.tradeDoubler
 forum.oujdacity.net###footer
 forum.pcastuces.com##table[width="728"][height="90"][align="center"]
 forumactif.com##div[class^="add-google"]
+fr.audiofanzine.com##.price
 fr.news.yahoo.com##[id^="pmBannerContainer"]
 france.meteofrance.com###adColumn3
 france2.fr###AdBottomRight
