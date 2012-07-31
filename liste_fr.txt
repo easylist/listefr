@@ -85,7 +85,6 @@
 ||paruvendu.fr^$image,~image,popup,third-party
 ||pepitastore.com^$domain=clubic.com
 ||piximedia.fr^$third-party,domain=~allocine.fr
-||pub.gdb-host.com^$third-party
 ||porn.fr^$third-party
 ||pornravage.com^$third-party
 ||pornstreet.com^$image,~image,popup,third-party
@@ -96,6 +95,7 @@
 ||promobenef.com^$third-party
 ||promotions.djummer.com^$image,~image,popup,third-party
 ||pub-france.com^$third-party
+||pub.gdb-host.com^$third-party
 ||pub.media-clic.com^$third-party
 ||puboclic.com^$third-party
 ||reactivpub.fr^$third-party
@@ -151,10 +151,13 @@
 /bandeaupublicite/*
 /banner-pub/*
 /banniere_pub/*
+/call/pubj/*
+/e-pubs/*
 /images/pub/*
 /images/pubs/*
 /images_pub/*
 /indexpub.
+/media/pub/*
 /pub/banniere/*
 /pub300-250.
 /pub728-90.
@@ -165,6 +168,9 @@
 /publicites.
 /publicites/*
 /pubpave.
+/ressources/pub/*
+/scripts/pub_
+/template/pubs/*
 !----------------------- Sites specifiques -----------------------!
 ||01net.com/front_office/images/regie/
 ||7sur7.be/static/nmc/adv/sponsor/
@@ -203,7 +209,6 @@
 ||elwatan.com/campub/
 ||elwatan.com/img/swf/
 ||emploi-energie.com/banniere/
-||emploipartner.com/template/pubs/
 ||explorerlondres.com^*/hotelscom.gif
 ||export.kelkoo.fr/$subdocument
 ||external.priceminister.com^$domain=strasbourg-tramway.fr
@@ -214,8 +219,8 @@
 ||flux.liberation.fr/fnac/
 ||forumactif.com/admgt/
 ||fr.ard.yahoo.com^
-||frandroid.com/visuals/pub_affichage_web/
 ||fr.audiofanzine.com/product.php?
+||frandroid.com/visuals/pub_affichage_web/
 ||futura-sciences.com/fileadmin/templates/v4/css_habillage/
 ||gameblog.fr/skins/$image
 ||gamekult.com/i/fnac-hp-300x100.jpg
@@ -231,7 +236,6 @@
 ||jeuxvideo.com/hp_sponso/
 ||jeuxvideo.com/sponso/
 ||jeuxvideo.com^*/avatar/$~stylesheet
-||lacanausurfinfo.com/ressources/pub/
 ||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
 ||lagur.com/a7fr/scroller.php$domain=israel7.com
 ||lanutrition.fr/images/banners/
@@ -255,7 +259,6 @@
 ||mondissimo.com^*/bannerdisplay.asp?
 ||moov.mg/images/offres/
 ||neezzmail.com/js/box.js
-||neomag.fr/e-pubs/
 ||ohm.adstronic.net^
 ||onvasortir.com/pub/
 ||onvillanuit.com^$domain=chartsinfrance.net
@@ -271,21 +274,20 @@
 ||pro.cdmail.fr/pro/images/
 ||promo.sextape-streaming.com^
 ||ps3gen.fr/pub/
-||roulettechat.fr^*/facebook-api-pub/
 ||roulettechat.fr/dynjs/geoloc
+||roulettechat.fr^*/facebook-api-pub/
 ||rue89.com/files/skin/themes/visa/background.jpg
 ||sbx.pagesjaunes.fr^
 ||scoopers.com/?o=$image,~image,popup
 ||script.banstex.com^
-||securite.01net.com/call/pubj/
 ||shopoon.fr/catalog/generated_boxes/
 ||shoppingbox.liberation.fr^
 ||shoppytab.com/shoppytab-id=
 ||shoppytab.com/shops/
 ||softonic.fr/specials-leaderboard
+||soonnight.com/images/mini_ban_partenaire/
 ||soonnight.com/template/purr/
 ||soonnight.com^*/bande_partenaires.png
-||soonnight.com/images/mini_ban_partenaire/
 ||sports.fr/includes/nav_footballfr/partenaires/
 ||sports.fr/includes/partenaires/
 ||sports.fr^*/habillage/
@@ -313,7 +315,6 @@
 ||zataz.com/cdn-cgi/pe/bag?
 ||zataz.com/images/images_news/
 ||zonebourse.com/content_o_a_s.php?
-||zoomdici.fr/media/pub/
 !------------------ Elements generiques -----------------!
 ###Block_Pub_Right
 ###PubFooter
@@ -327,6 +328,7 @@
 ###bandeau_publicite
 ###banniere-pub-top
 ###banniere_pub
+###bloc-pub
 ###blocPublicitaire
 ###block_pub
 ###block_pub_article
@@ -340,15 +342,18 @@
 ###general_subpub
 ###head_pub
 ###header_bloc2_pub
+###header_pub
 ###idMapAdvertising
 ###idpublicitepave
 ###iframepub
 ###iframesidebarpub
 ###news-droite-publicite
 ###news_pub_centre
-###pave_pub
 ###pavePub
+###pave_pub
+###pub-center
 ###pub-haut
+###pub-top
 ###pub-widget
 ###pub-widget2
 ###pub01
@@ -360,6 +365,7 @@
 ###pubEncart
 ###pubEncart1
 ###pubEncart2
+###pubVideo
 ###pub_ban
 ###pub_carre_1
 ###pub_contener_right
@@ -368,11 +374,13 @@
 ###pub_header
 ###pub_header_droite
 ~ouifm.fr###pub_megaban
+###pub_pave
 ###pub_pave_top
 ###pub_square
 ###pubdirecte
 ###publicite
 ###publicite_banniere
+###pubpreroll
 ###pubright
 ###rightpubbox
 ###slidepub
@@ -381,6 +389,7 @@
 ###thePubDiv2
 ###top_pub
 ###wrapper-pub
+###zone_pub
 ##.adsenseWrapper
 ##.annonces_google
 ##.blocPub
@@ -406,9 +415,11 @@
 ##.pubContent
 ##.pubIframe
 ##.pubRight1
+##.pub_300
 ##.pub_carre
 ##.pub_mobile
 ##.pub_outer
+##.pub_pave
 ##.pubaccueildroite1
 ##.pubaccueilgauche1
 ##.pubimage
@@ -419,6 +430,8 @@
 ##.publicite_3
 ##.sqrpub
 ##.srcPub
+##.titrePub
+##.toppubs
 ##.txt-pub
 ##.zonepub
 ##a[href^="http://www.crazyloader.com"]
@@ -590,8 +603,6 @@ matchendirect.fr###prehome_contenu
 matchendirect.fr###prehome_fond
 matchendirect.mobi###pub1
 maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
-moov.mg##DIV[style="margin-top:5px;float:auto;width:100%;height:250px;text-align:center"]
-moov.mg###extruderLeft1
 maxistreaming.com###header
 maxistreaming.com###searchform
 megaupload-download.net##.infoblock
@@ -604,6 +615,8 @@ minutefacile.com##.pub
 miroirsocial.com###partners
 mistergoodmovies.net###addspace
 mon-ordi.com##td[width="567"]
+moov.mg###extruderLeft1
+moov.mg##div[style="margin-top:5px;float:auto;width:100%;height:250px;text-align:center"]
 mu-streaming.com###pb1
 mu-streaming.com##.fixe
 neomag.fr###big-ad
@@ -633,8 +646,8 @@ radiofrance.fr##table[width="765"][height="100"]
 redlist-ultimate.be###partenaire
 redlist-ultimate.be##[style="display:none;"] + .block
 rolandgarros.com###rail_ad
-routard.com###A2dEmplacement97977Reserve
 roulettechat.fr###lateralAdWrapper
+routard.com###A2dEmplacement97977Reserve
 rtl.be###header
 rtl.fr##.result.sponsor
 rue89.com###partenariat89_masterblock
@@ -672,8 +685,8 @@ wat.tv##.pub
 webactus.net###text-4
 wikipedia.orange.fr###o_cartouchecarrepub
 za-gay.org###ads_line
-zdnet.fr###tickerRight
 zdnet.fr###pwcBox
+zdnet.fr###tickerRight
 zonebourse.com###Bottom
 zonebourse.com###Middle2_id
 zoomdici.fr##.innerArtAdd
@@ -701,8 +714,8 @@ zoomdici.fr##.innerArtAdd
 @@||lemde.fr^*/advert/sync.js
 @@||media.eurolive.com^$domain=live18ans.com
 @@||meteofrance.com^*/publicite/
+@@||moov.mg/images/offres/push_240x170_v2.01.jpg
 @@||moov.mg/images/offres/push_adsl_bt_v2.jpg
-@@||moov.mg/images/offres/Push_240x170_V2.01.jpg
 @@||naruto-one.com/images/bannieres/$domain=otaku-attitude.net
 @@||netavenir.com^$domain=zap-tele.com
 @@||nikel-dominique.com^*/pagepeel-
@@ -712,8 +725,8 @@ zoomdici.fr##.innerArtAdd
 @@||ouifm.adswizz.com//www/components/
 @@||ouifm.adswizz.com/www/components/
 @@||pneus-online.fr/layouts/*/images/pub/$image
-@@||radiovitamine.com^*/pub-standard-vitamine.gif
 @@||radiovitamine.com^*/carre-pub-myvita-01.jpg
+@@||radiovitamine.com^*/pub-standard-vitamine.gif
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|player.canalplus.fr|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
 @@||stickyadstv.com/crossdomain.xml
@@ -736,7 +749,7 @@ scooter-infos.com#@#.adlist
 @@||claymore.fr/advertisement.js
 @@||coursdeprofs.fr/adframe.js
 @@||debrideurstreaming.com/adsense.js
-@@||hamachifrance.com/advertisement-AdBlock.js
+@@||hamachifrance.com/advertisement-adblock.js
 @@||meteomedia.com/common/js/master/adframe.js
 @@||openrunner.com/js/advertisement.js
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=style-cataclysm.com
