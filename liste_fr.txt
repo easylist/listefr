@@ -162,6 +162,7 @@
 /pub300-250.
 /pub728-90.
 /pub_frame.
+/publicite-
 /publicite.
 /publicite/*
 /publicite_
@@ -174,12 +175,12 @@
 !----------------------- Sites specifiques -----------------------!
 ||01net.com/front_office/images/regie/
 ||7sur7.be/static/nmc/adv/sponsor/
-||animes-streaming.net/images/ruedufric.png
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
 ||ad.fr.doubleclick.net/pfadx/clubic/
 ||ad.oujdacity.net^
 ||adinlive.com/myslot.jsp?id=
 ||affilinks.fr/slide.js
+||animes-streaming.net/images/ruedufric.png
 ||autoreflex.com^profils/1004/images/fond$image
 ||binnews.in/_images/ad
 ||binnews.me/_images/ad
@@ -199,10 +200,10 @@
 ||ctqui.com/pub/
 ||deezer.com/ads/
 ||desmatures.com^*/desmatures/images/pub
+||dir-fr.com/banners/$domain=la-musique-rai.com
 ||directvelo.com/images/habillage/
 ||directvelo.com/images/livre/pub-
 ||directvelo.com/images/partenaires/
-||dir-fr.com/banners/*$domain=la-musique-rai.com
 ||e-sante.fr/sites/default/files/templates/$image
 ||easyrencontre.com/promo
 ||easyvols.org/leparisien/
@@ -236,12 +237,13 @@
 ||impimg.free.fr/pubs/
 ||infos-mobiles.com/pub-
 ||interstitial.powered-by.blamcity.com^$third-party
+||jeux-flash-gratis.com/pics/$domain=la-musique-rai.com
 ||jeuxvideo.com/hp_sponso/
 ||jeuxvideo.com/sponso/
 ||jeuxvideo.com^*/avatar/$~stylesheet
+||la-musique-rai.com/images/banner_
 ||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
 ||lagur.com/a7fr/scroller.php$domain=israel7.com
-||la-musique-rai.com/images/banner_
 ||lanutrition.fr/images/banners/
 ||laposte.net^*/scripts/pub_
 ||lemaghrebdz.com/pub/
@@ -265,8 +267,7 @@
 ||moov.mg/images/offres/
 ||neezzmail.com/js/box.js
 ||ohm.adstronic.net^
-||jeux-flash-gratis.com/pics/*$domain=la-musique-rai.com
-||one-piece-streaming.fr/images/Min/pub/
+||one-piece-streaming.fr/images/min/pub/
 ||onvasortir.com/pub/
 ||onvillanuit.com^$domain=chartsinfrance.net
 ||otaku-attitude.net^*/okazu-manga.gif
@@ -316,7 +317,7 @@
 ||une-recette.com/include/_iframe
 ||vazigo.fr/css/pub.css
 ||webmarchand.be/js/ov.js.php?
-||wtpn.twenga.fr/Publisher/$third-party
+||wtpn.twenga.fr/publisher/$third-party
 ||xooit.be/pub.php?
 ||xstarsnews.com/admin/gestion_bann/banniere.php
 ||yimg.com/dh/ap/default/*/yahoolast.jpg
@@ -388,6 +389,7 @@
 ###pubdirecte
 ###publicite
 ###publicite_banniere
+###publicite_top
 ###pubpreroll
 ###pubright
 ###rightpubbox
@@ -401,6 +403,7 @@
 ##.adsenseWrapper
 ##.annonces_google
 ##.blocPub
+##.bloc_pub_left
 ##.block-pubimage
 ##.carre_pub
 ##.container-pubcarre
@@ -423,6 +426,7 @@
 ##.pubContent
 ##.pubIframe
 ##.pubRight1
+##.pubTopContainer
 ##.pub_300
 ##.pub_carre
 ##.pub_mobile
@@ -441,6 +445,7 @@
 ##.titrePub
 ##.toppubs
 ##.txt-pub
+~meilleurmobile.com##.zone_pub
 ##.zonepub
 ##a[href^="http://www.crazyloader.com"]
 !----------------------- Elements -----------------------!
@@ -506,8 +511,8 @@ competition.dz##.header-b1-banner
 courrier-picard.fr##.megaban-top
 dailymotion.com##.dm_widget_advert_iabrighttitle
 deezer.com###bottom
-deezer.com##[id^="ads"]
 deezer.com##.block_content.pub.relative.p_5.mb_20
+deezer.com##[id^="ads"]
 desmatures.com##.pub468100top
 desmatures.com##.sidebarpub350250
 dinogaia.com###tableau_info
@@ -570,15 +575,15 @@ journaldugeek.com##.widget-current-offers.widget
 judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
 judgehype.com###partenaire
 korben.info##.advert-center
+la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
+la-musique-rai.com##.ban728
+la-musique-rai.com##.rowa
 lacanausurfinfo.com###banner_footer
 lacanausurfinfo.com###promo
 lachainemeteo.com###bloc_aquarelle
 lachainemeteo.com##.bloc_1_col_middle[style="height:160px;"]
 lachainemeteo.com##div[style="float:left;width:615px;height:100px;"]
 lagazettedescommunes.com##[class^="col-note-pub300x"]
-la-musique-rai.com##.adsr P[style="background-color:#FFF; text-align:center;"]
-la-musique-rai.com##.rowa
-la-musique-rai.com##.ban728
 lanutrition.fr##.moduletable-banner
 laposte.net###shoppingBox
 lapresse.ca###pubs
@@ -682,8 +687,8 @@ tele.premiere.fr###pub_a2d_pave
 telechargementgratuits.com###ads
 telechargementgratuits.com###hopdream
 telechargementgratuits.com##.fixe
-top-serie.org###top
 tf1.fr###ible149256
+top-serie.org###top
 turbo.fr##.croco.betclic
 tv5.org##.bloc_promomiddle
 une-recette.com##.banniere1
@@ -706,6 +711,7 @@ zonebourse.com###Middle2_id
 zoomdici.fr##.innerArtAdd
 !----------------------- EXCEPTIONS -----------------------!
 @@||01net.com^*/publicite/puce_a_votre_serv.jpg
+@@||ads.deezer.com/
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
 @@||adswizz.com/crossdomain.xml
 @@||advertising.wellpack.fr/sites_annexes/optout/
@@ -714,7 +720,6 @@ zoomdici.fr##.innerArtAdd
 @@||blog.lemonde.fr/files/
 @@||blogdumac.com/pub/images/footer-bdm_02.png
 @@||ccmbenchmark.com
-@@||ads.deezer.com/
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/ad-remover/img/
 @@||e-sante.fr^*/ad-49x72.jpg
