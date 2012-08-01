@@ -202,6 +202,7 @@
 ||directvelo.com/images/habillage/
 ||directvelo.com/images/livre/pub-
 ||directvelo.com/images/partenaires/
+||dir-fr.com/banners/*$domain=la-musique-rai.com
 ||e-sante.fr/sites/default/files/templates/$image
 ||easyrencontre.com/promo
 ||easyvols.org/leparisien/
@@ -238,6 +239,7 @@
 ||jeuxvideo.com^*/avatar/$~stylesheet
 ||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
 ||lagur.com/a7fr/scroller.php$domain=israel7.com
+||la-musique-rai.com/images/banner_
 ||lanutrition.fr/images/banners/
 ||laposte.net^*/scripts/pub_
 ||lemaghrebdz.com/pub/
@@ -260,6 +262,7 @@
 ||moov.mg/images/offres/
 ||neezzmail.com/js/box.js
 ||ohm.adstronic.net^
+||jeux-flash-gratis.com/pics/*$domain=la-musique-rai.com
 ||onvasortir.com/pub/
 ||onvillanuit.com^$domain=chartsinfrance.net
 ||otaku-attitude.net^*/okazu-manga.gif
@@ -567,6 +570,9 @@ lachainemeteo.com###bloc_aquarelle
 lachainemeteo.com##.bloc_1_col_middle[style="height:160px;"]
 lachainemeteo.com##div[style="float:left;width:615px;height:100px;"]
 lagazettedescommunes.com##[class^="col-note-pub300x"]
+la-musique-rai.com##.adsr P[style="background-color:#FFF; text-align:center;"]
+la-musique-rai.com##.rowa
+la-musique-rai.com##.ban728
 lanutrition.fr##.moduletable-banner
 laposte.net###shoppingBox
 lapresse.ca###pubs
