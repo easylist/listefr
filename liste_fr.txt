@@ -181,7 +181,7 @@
 /template/pubs/*
 _publicite.
 !----------------------- Sites specifiques -----------------------!
-/toolbarxooit/toolbar*.js$domain=vraiforum.com|clicforum.com|xooit.fr
+/toolbarxooit/toolbar*.js
 ||01net.com/front_office/images/regie/
 ||7sur7.be/static/nmc/adv/sponsor/
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
@@ -334,6 +334,7 @@ _publicite.
 ||vazigo.fr/css/pub.css
 ||webmarchand.be/js/ov.js.php?
 ||wtpn.twenga.fr/publisher/$third-party
+||webchoc.com/pop.js
 ||xooit.fr/pub.php?
 ||xooit.be/pub.php?
 ||xstarsnews.com/admin/gestion_bann/banniere.php
