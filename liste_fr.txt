@@ -173,8 +173,6 @@
 /scripts/pub_
 /template/pubs/*
 !----------------------- Sites specifiques -----------------------!
-||easyvols.org/liberation/
-||l.liberation.fr/img/promo/
 ||01net.com/front_office/images/regie/
 ||7sur7.be/static/nmc/adv/sponsor/
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
@@ -186,8 +184,8 @@
 ||autoreflex.com^profils/1004/images/fond$image
 ||binnews.in/_images/ad
 ||binnews.me/_images/ad
-||blague.info/pub/
 ||bittovore.com/popup.php$image,~image,popup
+||blague.info/pub/
 ||blog2mature.com/273_210/
 ||blogdumac.com/pub/
 ||brain-magazine.com/images/_habillages/
@@ -210,6 +208,8 @@
 ||e-sante.fr/sites/default/files/templates/$image
 ||easyrencontre.com/promo
 ||easyvols.org/leparisien/
+||easyvols.org/liberation/
+||ecrans.fr/pub.js
 ||education.ti.com^$domain=ti.bank.free.fr
 ||elwatan.com/campub/
 ||elwatan.com/img/swf/
@@ -244,21 +244,22 @@
 ||jeuxvideo.com/hp_sponso/
 ||jeuxvideo.com/sponso/
 ||jeuxvideo.com^*/avatar/$~stylesheet
+||l.liberation.fr/img/promo/
 ||la-musique-rai.com/images/banner_
 ||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
 ||lagur.com/a7fr/scroller.php$domain=israel7.com
 ||lanutrition.fr/images/banners/
 ||laposte.net^*/scripts/pub_
 ||lemaghrebdz.com/pub/
-||lepoint.fr^*/bellross_worldtime2010.swf
 ||lepoint.fr/images/*/partenariat/
+||lepoint.fr^*/bellross_worldtime2010.swf
 ||les-horaires.fr/ajax/staytuned.popup.php?city=
 ||les-terrains.com/bd_images/
 ||letour.fr^*/partenaires.swf?
 ||letraitdunion.com/images/headset/
 ||letraitdunion.com/images/wallpaper/
-||lien-torrent.com/pubs/
 ||libe.com/libepartnerships/
+||lien-torrent.com/pubs/
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||maxisciences.com/static/scripts/incentive.js
 ||meilleurmobile.com/scripts/var_xml_backgrounds.js
@@ -281,6 +282,7 @@
 ||oujdacity.net/kelkoo*.html
 ||outils.yesmessenger.com^
 ||petite-annonce-gratuite.com/encarts/bannieres/
+||pointscommuns.com/images/bannieres/$third-party
 ||porsche-99x.info/pagedirect/*/pub/
 ||portail.free.fr/modules/shopping/*/shopping.html
 ||pp.free.fr^
@@ -331,8 +333,6 @@
 ||zataz.com/images/images_news/
 ||zonebourse.com/content_o_a_s.php?
 !------------------ Elements generiques -----------------!
-###carre-pub
-##.pub300_contenu
 ###Block_Pub_Right
 ###PubFooter
 ###PubHead
@@ -350,6 +350,7 @@
 ###block_pub
 ###block_pub_article
 ###cadre_pub_bas
+###carre-pub
 ###carre_pub
 ###contextuel-publicite-video
 ###div_pub_google
@@ -427,6 +428,7 @@
 ##.position_pub
 ##.pub-banner
 ##.pub300250
+##.pub300_contenu
 ##.pub300x250
 ##.pub468x60
 ##.pub600200
@@ -457,8 +459,6 @@
 ##.zonepub
 ##a[href^="http://www.crazyloader.com"]
 !----------------------- Elements -----------------------!
-liberation.fr##.block-cPublicite
-voyages.liberation.fr###vHeader-pub
 01net.com###ic-ad
 01net.com###ic-ad-movie
 01net.com###v7_partenaire
@@ -596,7 +596,6 @@ lachainemeteo.com##div[style="float:left;width:615px;height:100px;"]
 lagazettedescommunes.com##[class^="col-note-pub300x"]
 lanutrition.fr##.moduletable-banner
 laposte.net###shoppingBox
-lepoint.fr##.pub
 lapresse.ca###pubs
 laptopspirit.fr##a[href^="http://www.prix-portables.fr/pub/"]
 lcd-compare.com##.ads1_label
@@ -613,11 +612,13 @@ lemouv.fr###block-lemouv_bloc-pub_ftv_top
 lensois.com###transparentad
 lepoint.fr###seloger_annonces_immo
 lepoint.fr###seloger_recherche_immo
+lepoint.fr##.pub
 lesnumeriques.com###ifr_pub
 lesoir.be###ads-leaderboard
 letour.fr###partenaires2
 letraitdunion.com###add_top
 letudiant.fr###pub
+liberation.fr##.block-cPublicite
 libertyland.tv##.fixe
 lien-torrent.com##.block-banner
 lien-torrent.com##.nav-hd-inscrire
@@ -713,6 +714,7 @@ viamichelin.fr##.vm-pub-home300
 vintageamps.com###videoads
 voila.fr###nosPartenaires
 voila.fr##.footer_tr
+voyages.liberation.fr###vHeader-pub
 wat.tv##.pub
 webactus.net###text-4
 wikipedia.orange.fr###o_cartouchecarrepub
@@ -745,10 +747,10 @@ zoomdici.fr##.innerArtAdd
 @@||koifaire.com/upload/*/300x250-
 @@||lacanausurfinfo.com/admin/images/pubs/pub_18.png
 @@||lemde.fr^*/advert/sync.js
-@@||libe.com/libepartnerships/*/visuel_PA-*.png
-@@||libe.com/libepartnerships/*/OJD.gif
 @@||libe.com/libepartnerships/*/iphone.png
+@@||libe.com/libepartnerships/*/ojd.gif
 @@||libe.com/libepartnerships/*/print_subscription.jpg
+@@||libe.com/libepartnerships/*/visuel_pa-*.png
 @@||media.eurolive.com^$domain=live18ans.com
 @@||meteofrance.com^*/publicite/
 @@||moov.mg/images/offres/push_240x170_v2.01.jpg
