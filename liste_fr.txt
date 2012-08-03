@@ -4,8 +4,8 @@
 ! Contact et CGU : http://adblock-listefr.com/
 ! Mises a jour : https://code.google.com/p/listefr-adblock/source/list
 !----------------------- Annonceurs -----------------------!
-||a2dfp.net^$third-party,domain=~gulli.fr
 ||a.adorika.net^$third-party
+||a2dfp.net^$third-party,domain=~gulli.fr
 ||acpublicite.fr^$third-party
 ||ad.adserverplus.com^
 ||ad.adserverplus.com^$image,~image,popup
@@ -184,8 +184,6 @@
 _publicite.
 !----------------------- Sites specifiques -----------------------!
 /toolbarxooit/toolbar*.js
-||pub.nyu-nyu.com^
-||misstrends.com/stats/promo/$third-party
 ||01net.com/front_office/images/regie/
 ||7sur7.be/static/nmc/adv/sponsor/
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
@@ -279,6 +277,7 @@ _publicite.
 ||metaboli.fr/partners/gamekult/
 ||millenium.org/images/contenu/habillages/
 ||miroirsocial.com/uploads/images/partenaires/
+||misstrends.com/stats/promo/$third-party
 ||mistergoodmovies.net/images/partners/
 ||mistergoodmovies.net^*/js.submgm.js
 ||monaco.mc/pages/getbandeau.jsp?
@@ -302,13 +301,14 @@ _publicite.
 ||pro.cdmail.fr/pro/images/
 ||promo.sextape-streaming.com^
 ||ps3gen.fr/pub/
+||pub.nyu-nyu.com^
 ||roulettechat.fr/dynjs/geoloc
 ||roulettechat.fr^*/facebook-api-pub/
 ||rue89.com/files/skin/themes/visa/background.jpg
 ||sbx.pagesjaunes.fr^
-||sexe-i.com/js/u.js
 ||scoopers.com/?o=$image,~image,popup
 ||script.banstex.com^
+||sexe-i.com/js/u.js
 ||shopoon.fr/catalog/generated_boxes/
 ||shoppingbox.liberation.fr^
 ||shoppytab.com/shoppytab-id=
@@ -321,8 +321,6 @@ _publicite.
 ||sports.fr/includes/partenaires/
 ||sports.fr^*/habillage/
 ||static.rtl.fr/www-2010/skin/$stylesheet
-||tool.acces-vod.com/infopop/
-||tool.acces-vod.com/popdhtml/
 ||static.rtl.fr/www/skin/promo/
 ||stats.hosting24.com/count.php
 ||strasbourg-tramway.fr/ban_
@@ -331,6 +329,8 @@ _publicite.
 ||telechargementgratuits.com/hexa.png
 ||textograto.com/iframe1.php
 ||ti.bank.free.fr/images/jarrety
+||tool.acces-vod.com/infopop/
+||tool.acces-vod.com/popdhtml/
 ||topanalyse.com/pub/
 ||torrent-topliste.com/popup.php$image,~image,popup
 ||torrentfrancais.com/img/z2/
@@ -339,11 +339,11 @@ _publicite.
 ||twenga.fr^$domain=space-blogs.com
 ||une-recette.com/include/_iframe
 ||vazigo.fr/css/pub.css
+||webchoc.com/pop.js
 ||webmarchand.be/js/ov.js.php?
 ||wtpn.twenga.fr/publisher/$third-party
-||webchoc.com/pop.js
-||xooit.fr/pub.php?
 ||xooit.be/pub.php?
+||xooit.fr/pub.php?
 ||xstarsnews.com/admin/gestion_bann/banniere.php
 ||yimg.com/dh/ap/default/*/yahoolast.jpg
 ||zataz.com/cdn-cgi/pe/bag?
@@ -371,6 +371,7 @@ _publicite.
 ###carre-pub
 ###carre_pub
 ###contextuel-publicite-video
+###divPub
 ###div_pub_google
 ###fixe_plugin
 ###footer_haut-publicite
@@ -395,14 +396,15 @@ _publicite.
 ###pub01
 ###pub300
 ###pub300x250
-###pub_460x60
 ###pubCarre
 ###pubContainer
 ###pubDroite
 ###pubEncart
 ###pubEncart1
 ###pubEncart2
+###pubFrame
 ###pubVideo
+###pub_460x60
 ###pub_ban
 ###pub_carre_1
 ###pub_contener_right
@@ -478,7 +480,6 @@ _publicite.
 ##.zonepub
 ##a[href^="http://www.crazyloader.com"]
 !----------------------- Elements -----------------------!
-vraiforum.com,clicforum.com,xooit.fr##DIV[style="margin: 0; padding: 0; visibilite: visible; display: block; height: 109px; width: 100%; background: url(/images/topbg.gif)"]
 01net.com###ic-ad
 01net.com###ic-ad-movie
 01net.com###v7_partenaire
@@ -524,6 +525,7 @@ chronofoot.com##.add300
 cinemay.com###pb1
 clicbienetre.com###popup
 clicbienetre.com##.sidebar_block
+clicforum.com,vraiforum.com,xooit.fr##div[style="margin: 0; padding: 0; visibilite: visible; display: block; height: 109px; width: 100%; background: url(/images/topbg.gif)"]
 clubic.com###listBlock_espacePartenaires
 clubic.com###listBlock_mediatis
 clubic.com###shopper-widget-wrapper
