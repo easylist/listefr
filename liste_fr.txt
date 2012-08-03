@@ -22,7 +22,6 @@
 ||affiliation-france.com^$third-party
 ||affilipub.com^$third-party
 ||affility.com^$third-party
-||africa1.com/regiepub/banners/
 ||africawin.com^$third-party
 ||allo-audience.fr^$third-party
 ||alloclick.com^$third-party
@@ -148,20 +147,27 @@
 .fr/ads?
 .fr/ads_
 /adserverpub?
+/afficher_pub.
+/ban_pub.
+/ban_pub/*
 /bandeaupublicite/*
 /banner-pub/*
+/banner/pub_
 /banniere_pub/*
 /call/pubj/*
 /e-pubs/*
+/images/pub.
 /images/pub/*
 /images/pubs/*
 /images_pub/*
+/img/pub/*
 /indexpub.
 /media/pub/*
 /pub/banniere/*
 /pub300-250.
 /pub728-90.
 /pub_frame.
+/pubban.
 /publicite-
 /publicite.
 /publicite/*
@@ -169,9 +175,11 @@
 /publicites.
 /publicites/*
 /pubpave.
+/regiepub/*
 /ressources/pub/*
 /scripts/pub_
 /template/pubs/*
+_publicite.
 !----------------------- Sites specifiques -----------------------!
 ||01net.com/front_office/images/regie/
 ||7sur7.be/static/nmc/adv/sponsor/
@@ -249,7 +257,6 @@
 ||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
 ||lagur.com/a7fr/scroller.php$domain=israel7.com
 ||lanutrition.fr/images/banners/
-||laposte.net^*/scripts/pub_
 ||lemaghrebdz.com/pub/
 ||lepoint.fr/images/*/partenariat/
 ||lepoint.fr^*/bellross_worldtime2010.swf
@@ -347,6 +354,7 @@
 ###banniere_pub
 ###bloc-pub
 ###blocPublicitaire
+###block-advertisement
 ###block_pub
 ###block_pub_article
 ###cadre_pub_bas
