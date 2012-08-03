@@ -173,6 +173,8 @@
 /scripts/pub_
 /template/pubs/*
 !----------------------- Sites specifiques -----------------------!
+||easyvols.org/liberation/
+||l.liberation.fr/img/promo/
 ||01net.com/front_office/images/regie/
 ||7sur7.be/static/nmc/adv/sponsor/
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
@@ -329,6 +331,8 @@
 ||zataz.com/images/images_news/
 ||zonebourse.com/content_o_a_s.php?
 !------------------ Elements generiques -----------------!
+###carre-pub
+##.pub300_contenu
 ###Block_Pub_Right
 ###PubFooter
 ###PubHead
@@ -453,6 +457,8 @@
 ##.zonepub
 ##a[href^="http://www.crazyloader.com"]
 !----------------------- Elements -----------------------!
+liberation.fr##.block-cPublicite
+voyages.liberation.fr###vHeader-pub
 01net.com###ic-ad
 01net.com###ic-ad-movie
 01net.com###v7_partenaire
