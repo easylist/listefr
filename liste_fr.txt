@@ -181,6 +181,7 @@
 /template/pubs/*
 _publicite.
 !----------------------- Sites specifiques -----------------------!
+/toolbarxooit/toolbar*.js$domain=vraiforum.com|clicforum.com|xooit.fr
 ||01net.com/front_office/images/regie/
 ||7sur7.be/static/nmc/adv/sponsor/
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
@@ -333,6 +334,7 @@ _publicite.
 ||vazigo.fr/css/pub.css
 ||webmarchand.be/js/ov.js.php?
 ||wtpn.twenga.fr/publisher/$third-party
+||xooit.fr/pub.php?
 ||xooit.be/pub.php?
 ||xstarsnews.com/admin/gestion_bann/banniere.php
 ||yimg.com/dh/ap/default/*/yahoolast.jpg
@@ -468,6 +470,7 @@ _publicite.
 ##.zonepub
 ##a[href^="http://www.crazyloader.com"]
 !----------------------- Elements -----------------------!
+vraiforum.com,clicforum.com,xooit.fr##DIV[style="margin: 0; padding: 0; visibilite: visible; display: block; height: 109px; width: 100%; background: url(/images/topbg.gif)"]
 01net.com###ic-ad
 01net.com###ic-ad-movie
 01net.com###v7_partenaire
