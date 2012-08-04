@@ -177,11 +177,13 @@
 /publicites.
 /publicites/*
 /pubpave.
+/regie_pub/*
 /regiepub/*
 /ressources/pub/*
 /scripts/pub_
 /template/pubs/*
 _publicite.
+_regiepub/*
 !----------------------- Sites specifiques -----------------------!
 /toolbarxooit/toolbar*.js
 ||01net.com/front_office/images/regie/
@@ -339,10 +341,10 @@ _publicite.
 ||twenga.fr^$domain=space-blogs.com
 ||une-recette.com/include/_iframe
 ||vazigo.fr/css/pub.css
+||videos-de-celebrites.com/pub/
 ||webchoc.com/pop.js
 ||webmarchand.be/js/ov.js.php?
 ||wtpn.twenga.fr/publisher/$third-party
-||videos-de-celebrites.com/pub/
 ||xooit.be/pub.php?
 ||xooit.fr/pub.php?
 ||xstarsnews.com/admin/gestion_bann/banniere.php
@@ -391,6 +393,7 @@ _publicite.
 ###pave_pub
 ###pub-center
 ###pub-haut
+###pub-main
 ###pub-top
 ###pub-widget
 ###pub-widget2
@@ -436,6 +439,7 @@ _publicite.
 ##.blocPub
 ##.bloc_pub_left
 ##.block-pubimage
+##.blocpub
 ##.carre_pub
 ##.container-pubcarre
 ##.fixe > a[href^="http://www.adcash.com/"]
@@ -678,10 +682,10 @@ neowebcar.com##.adv-format-1
 nrj.fr###pub
 numerama.com###general_dec
 one-piece-streaming.fr###fermerPub
+oopsbuzz.com##.behincontent
 orange.fr###blocServices
 orange.fr###lienComPart
 orange.fr###o_carrepub
-oopsbuzz.com##.behincontent
 otaku-attitude.net###smart-bann
 ouiounon.net##.headertitrelien[target="_blank"]
 oujdacity.net###common-top-widget
@@ -736,6 +740,7 @@ viamichelin.fr###idAFSRoadsheetBottom.afsAdvertisingBottom
 viamichelin.fr##.vm-gdhmegaban
 viamichelin.fr##.vm-pub-home300
 vintageamps.com###videoads
+vo2.fr###pub_background
 voila.fr###nosPartenaires
 voila.fr##.footer_tr
 voyages.liberation.fr###vHeader-pub
