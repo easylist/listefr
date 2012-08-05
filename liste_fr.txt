@@ -425,6 +425,7 @@ _regiepub/*
 ~ouifm.fr###pub_megaban
 ###pub_pave
 ###pub_pave_top
+###pub_pave_bottom
 ###pub_square
 ###pubdirecte
 ###publicite
@@ -449,6 +450,8 @@ _regiepub/*
 ##.carre_pub
 ##.container-pubcarre
 ##.fixe > a[href^="http://www.adcash.com/"]
+##.entete_pub
+##.encart_pub
 ##.footer-pub
 ##.footerpubleft
 ##.footerpubright
