@@ -115,6 +115,7 @@
 ||sponsoreo.com^$third-party
 ||star-advertising.com^$third-party
 ||static.p-comme-performance.com^$third-party
+||stigads.com^$third-party
 ||tag.regieci.com^$third-party
 ||teads.fr/js/footer.php$third-party
 ||teads.fr^*/inreadjq.js$third-party
@@ -339,6 +340,7 @@ _regiepub/*
 ||strasbourg-tramway.fr/banner
 ||sylvainpellier.fr/bandeau/
 ||telechargementgratuits.com/hexa.png
+||test-psycho.com/meetic.gif$domain=sortirensemble.com
 ||textograto.com/iframe1.php
 ||ti.bank.free.fr/images/jarrety
 ||tool.acces-vod.com/infopop/
@@ -401,6 +403,8 @@ _regiepub/*
 ###news-droite-publicite
 ###news_pub_centre
 ###pavePub
+###pub_top
+###innerpub
 ###pave_pub
 ###pub-center
 ###pub-haut
@@ -741,6 +745,7 @@ softonic.fr##.topbanner
 soonnight.com###partenaire
 spi0n.com##.spion_single_pub
 sports.fr###hablinkzone
+sortirensemble.com###sondage_age
 sports.orange.fr###adTop2
 strasbourg-tramway.fr###ws_embed_footer
 t411.me##.banner728
