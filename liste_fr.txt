@@ -31,7 +31,7 @@
 ||au2m8.com^$third-party
 ||avenir-affiliation.fr^$third-party
 ||ax47mp-xp-21.com^$third-party
-||beead.fr^$third-party,domain=~ouifm.fr|~play.nrj.fr|~radiofg.com|~wakanim.tv|~rfm.fr
+||beead.fr^$third-party,domain=~ouifm.fr|~play.nrj.fr|~radiofg.com|~rfm.fr|~wakanim.tv
 ||blogbang.com^$third-party
 ||box.shopoon.fr^$third-party
 ||camsympa.com^$third-party,domain=~camsympa.fr
@@ -155,23 +155,19 @@
 /ban_pub/*
 /bandeaupublicite/*
 /banner-pub/*
-/banns/pub.
 /banner/pub_
 /banniere_pub/*
+/banns/pub.
 /call/pubj/*
-/e-pubs/*
 /images/pub.
 /images/pub/*
 /images/pubs/*
 /images_pub/*
 /img/pub/*
-/indexpub.
-/media/pub/*
 /pub/banniere/*
 /pub/scripts/*
 /pub300-250.
 /pub728-90.
-/pub_frame.
 /pubban.
 /publicite-
 /publicite.
@@ -182,11 +178,8 @@
 /pubpave.
 /regie_pub/*
 /regiepub/*
-/ressources/pub/*
-/scripts/pub_
-/template/pubs/*
 _publicite.
-_regiepub/*
+_regiepub/
 !----------------------- Sites specifiques -----------------------!
 /toolbarxooit/toolbar*.js
 ||01net.com/front_office/images/regie/
@@ -196,11 +189,11 @@ _regiepub/*
 ||ad.oujdacity.net^
 ||adinlive.com/myslot.jsp?id=
 ||affilinks.fr/slide.js
+||air-journal.fr/wp-content/uploads/ad-
 ||animes-streaming.net/images/ruedufric.png
 ||asie-info.fr/wp-content/uploads/*/livre-franck-amat.jpg
 ||asie-info.fr/wp-content/uploads/*/pub_
 ||autoreflex.com^profils/1004/images/fond$image
-||air-journal.fr/wp-content/uploads/ad-
 ||binnews.in/_images/ad
 ||binnews.me/_images/ad
 ||bittovore.com/popup.php$image,~image,popup
@@ -217,10 +210,9 @@ _regiepub/*
 ||choubijoux.com/image/banniere-$third-party
 ||coco.fr/chat/bigban
 ||conception-site-web.info/modules/creation-site/images/banner.jpg
+||credit-az.net/pub/
+||credits-on-line.info/pub/
 ||ctqui.com/pub/
-||credit-az.net/pub/*
-||credits-on-line.info/pub/*
-||viacredit.net/pub/*
 ||deezer.com/ads/
 ||desmatures.com^*/desmatures/images/pub
 ||dir-fr.com/banners/$domain=la-musique-rai.com
@@ -236,6 +228,7 @@ _regiepub/*
 ||elwatan.com/campub/
 ||elwatan.com/img/swf/
 ||emploi-energie.com/banniere/
+||emploipartner.com/template/pubs/
 ||explorerlondres.com^*/hotelscom.gif
 ||export.kelkoo.fr/$subdocument
 ||external.priceminister.com^$domain=strasbourg-tramway.fr
@@ -270,9 +263,11 @@ _regiepub/*
 ||kelbillet.com/ws_smads_integration.php
 ||l.liberation.fr/img/promo/
 ||la-musique-rai.com/images/banner_
+||lacanausurfinfo.com/ressources/pub/
 ||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
 ||lagur.com/a7fr/scroller.php$domain=israel7.com
 ||lanutrition.fr/images/banners/
+||laposte.net^*/scripts/pub_
 ||lemaghrebdz.com/pub/
 ||lepoint.fr/images/*/partenariat/
 ||lepoint.fr^*/bellross_worldtime2010.swf
@@ -289,6 +284,7 @@ _regiepub/*
 ||mesnotices.fr/shopping/
 ||metaboli.fr/partners/gamekult/
 ||millenium.org/images/contenu/habillages/
+||millenium.org/indexpub.php?
 ||miroirsocial.com/uploads/images/partenaires/
 ||misstrends.com/stats/promo/$third-party
 ||mistergoodmovies.net/images/partners/
@@ -297,6 +293,7 @@ _regiepub/*
 ||mondissimo.com^*/bannerdisplay.asp?
 ||moov.mg/images/offres/
 ||neezzmail.com/js/box.js
+||neomag.fr/e-pubs/
 ||ohm.adstronic.net^
 ||one-piece-streaming.fr/images/min/pub/
 ||onvasortir.com/pub/
@@ -317,7 +314,7 @@ _regiepub/*
 ||pub.nyu-nyu.com^
 ||roulettechat.fr/dynjs/geoloc
 ||roulettechat.fr^*/facebook-api-pub/
-||routard.com/IMG/homePart/budget_air/
+||routard.com/img/homepart/budget_air/
 ||rue89.com/files/skin/themes/visa/background.jpg
 ||sbx.pagesjaunes.fr^
 ||scoopers.com/?o=$image,~image,popup
@@ -331,9 +328,9 @@ _regiepub/*
 ||soonnight.com/images/mini_ban_partenaire/
 ||soonnight.com/template/purr/
 ||soonnight.com^*/bande_partenaires.png
+||spi0n.com/p/
 ||sports.fr/includes/nav_footballfr/partenaires/
 ||sports.fr/includes/partenaires/
-||spi0n.com/p/
 ||sports.fr^*/habillage/
 ||static.rtl.fr/www-2010/skin/$stylesheet
 ||static.rtl.fr/www/skin/promo/
@@ -356,6 +353,8 @@ _regiepub/*
 ||une-recette.com/include/_iframe
 ||unlock-stream.com/js/disclamer.js
 ||vazigo.fr/css/pub.css
+||vazigo.fr/referencement/pub_frame.php
+||viacredit.net/pub/
 ||videos-de-celebrites.com/pub/
 ||webchoc.com/pop.js
 ||webmarchand.be/js/ov.js.php?
@@ -367,10 +366,10 @@ _regiepub/*
 ||zataz.com/cdn-cgi/pe/bag?
 ||zataz.com/images/images_news/
 ||zonebourse.com/content_o_a_s.php?
+||zoomdici.fr/media/pub/
 !------------------ Elements generiques -----------------!
 ###Block_Pub_Right
 ###PubFooter
-###pubHaut
 ###PubHead
 ###PubHeader
 ###PubPave
@@ -403,15 +402,16 @@ _regiepub/*
 ###idpublicitepave
 ###iframepub
 ###iframesidebarpub
+###innerpub
 ###news-droite-publicite
 ###news_pub_centre
 ###pavePub
-###pub_top
-###innerpub
 ###pave_pub
+###pubBandeau
 ###pub-center
 ###pub-haut
 ###pub-main
+###pub-right
 ###pub-top
 ###pub-widget
 ###pub-widget2
@@ -425,8 +425,8 @@ _regiepub/*
 ###pubEncart1
 ###pubEncart2
 ###pubFrame
+###pubHaut
 ###pubVideo
-###pub-right
 ###pub_460x60
 ###pub_ban
 ###pub_carre_1
@@ -437,9 +437,10 @@ _regiepub/*
 ###pub_header_droite
 ~ouifm.fr###pub_megaban
 ###pub_pave
-###pub_pave_top
 ###pub_pave_bottom
+###pub_pave_top
 ###pub_square
+###pub_top
 ###pubdirecte
 ~ma-meilleure-amie.com###publicite
 ###publicite_banniere
@@ -462,9 +463,9 @@ _regiepub/*
 ##.blocpub
 ##.carre_pub
 ##.container-pubcarre
-##.fixe > a[href^="http://www.adcash.com/"]
-##.entete_pub
 ##.encart_pub
+##.entete_pub
+##.fixe > a[href^="http://www.adcash.com/"]
 ##.footer-pub
 ##.footerpubleft
 ##.footerpubright
@@ -487,9 +488,11 @@ _regiepub/*
 ##.pubTopContainer
 ##.pub_300
 ##.pub_carre
+##.pub_leaderboard
 ##.pub_mobile
 ##.pub_outer
 ##.pub_pave
+##.pub_skyscraper
 ##.pubaccueildroite1
 ##.pubaccueilgauche1
 ##.pubimage
@@ -498,8 +501,6 @@ _regiepub/*
 ##.publicite
 ##.publicite-bas
 ##.publicite_3
-##.pub_skyscraper
-##.pub_leaderboard
 ##.sqrpub
 ##.srcPub
 ##.titrePub
@@ -676,12 +677,12 @@ lien-torrent.com##.nav-hd-inscrire
 lien-torrent.com##.nav-profil
 liveradio.fr###ad1
 lo.st##.home_partner_img
-maps.google.fr##.ad
 loisirados.com###intersticiel
+mangario.fr##.partenaires
+maps.google.fr##.ad
 marianne2.fr###mod_1171545
 maritima.info###PubHorizontaleInner
 maritima.info###PubHorizontaleMain
-mangario.fr##.partenaires
 masculin.com##div[style="float:left; width:980px; height:90px; text-align:left; padding-top:10px;"]
 matchendirect.fr###prehome_contenu
 matchendirect.fr###prehome_fond
@@ -731,12 +732,12 @@ radiofrance.fr###banniere
 radiofrance.fr##table[width="765"][height="100"]
 redlist-ultimate.be###partenaire
 redlist-ultimate.be##[style="display:none;"] + .block
+rfm.fr##.bloc_rightcol_pub
 rolandgarros.com###rail_ad
 roulettechat.fr###lateralAdWrapper
 routard.com###A2dEmplacement97977Reserve
 rtl.be###header
 rtl.fr##.result.sponsor
-rfm.fr##.bloc_rightcol_pub
 rue89.com###partenariat89_masterblock
 rue89.com##.gam-holder
 search.ke.voila.fr###fontDivVignette
@@ -746,9 +747,9 @@ silicon.fr##.widget_advertisement
 slate.fr###smart14320
 softonic.fr##.topbanner
 soonnight.com###partenaire
+sortirensemble.com###sondage_age
 spi0n.com##.spion_single_pub
 sports.fr###hablinkzone
-sortirensemble.com###sondage_age
 sports.orange.fr###adTop2
 strasbourg-tramway.fr###ws_embed_footer
 t411.me##.banner728
@@ -797,10 +798,11 @@ zoomdici.fr##.innerArtAdd
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
 @@||e-sante.fr^*/ad-49x72.jpg
 @@||fatherandsons.fr^*/opecom/affiliation/
+@@||feedburner.com/fb/images/pub/feed-icon$image
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
-@@||feedburner.com/fb/images/pub/feed-icon$image
 @@||francetelevisions.fr^*/publicite/silverlight.php?
+@@||google.com/uds/$domain=rfm.fr
 @@||googleadservices.com^$domain=journaldugeek.com
 @@||images.newmedia.lu^*/adtech_video/
 @@||koifaire.com/upload/*/300x250-
@@ -820,7 +822,6 @@ zoomdici.fr##.innerArtAdd
 @@||nikel-dominique.com^*/pagepeel-
 @@||nouvelobs.com/*@top
 @@||ohm-immobilier.fr/images/ads/
-@@||google.com/uds/$domain=rfm.fr
 @@||openad.tf1.fr/realmedia/ads/adstream_mjx.ads/*/video/$script
 @@||ouifm.adswizz.com//www/components/
 @@||ouifm.adswizz.com/www/components/
@@ -843,7 +844,7 @@ zoomdici.fr##.innerArtAdd
 @@||viamichelin.fr^*/rentacar.js
 @@||videoplaza.tv^$domain=m6replay.fr|w9replay.fr
 @@||visitvar.fr/ressources/pub/skyscraper/1/maxi/$image
-@@||vo2.fr/uploads/tx_regiepub/BANDO-SITE-
+@@||vo2.fr/uploads/tx_regiepub/bando-site-
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 fichier.net#@##contentAd
 jeuxjeuxjeux.fr#@#.ad-left
