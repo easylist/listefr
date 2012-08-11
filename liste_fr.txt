@@ -412,8 +412,6 @@ _regiepub/
 ###pub-widget
 ###pub-widget2
 ###pub01
-###pub300
-###pub300x250
 ###pubBandeau
 ###pubCarre
 ###pubContainer
@@ -424,7 +422,6 @@ _regiepub/
 ###pubFrame
 ###pubHaut
 ###pubVideo
-###pub_460x60
 ###pub_ban
 ###pub_carre_1
 ###pub_contener_right
@@ -474,17 +471,10 @@ _regiepub/
 ##.pave_pub
 ##.position_pub
 ##.pub-banner
-##.pub300250
-##.pub300_contenu
-##.pub300x250
-##.pub468x60
-##.pub600200
-##.pub728x90
 ##.pubContent
 ##.pubIframe
 ##.pubRight1
 ##.pubTopContainer
-##.pub_300
 ##.pub_carre
 ##.pub_leaderboard
 ##.pub_mobile
@@ -507,6 +497,17 @@ _regiepub/
 ~meilleurmobile.com##.zone_pub
 ##.zonepub
 ##a[href^="http://www.crazyloader.com"]
+! Dimensions
+###pub300
+###pub300x250
+###pub_460x60
+##.pub300250
+##.pub300_contenu
+##.pub300x250
+##.pub468x60
+##.pub600200
+##.pub728x90
+##.pub_300
 !----------------------- Elements -----------------------!
 01net.com###ic-ad
 01net.com###ic-ad-movie
