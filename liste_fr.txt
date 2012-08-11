@@ -58,9 +58,9 @@
 ||femme-cougar.tv^$image,~image,popup,third-party
 ||gagner-une-console.com^$third-party
 ||gambling-france.com^$third-party
+||gateway.eravage.com/hit.php?$image,~image,popup
 ||goodaction.com^$third-party
 ||goracash.com^$third-party
-||gateway.eravage.com/hit.php?$image,~image,popup
 ||hebdotop.com^$third-party
 ||hopdream.com^$image,~image,popup,third-party
 ||hopdream.com^$third-party
@@ -139,19 +139,11 @@
 ||widgetvillage.com/ministore/$third-party
 ||wslinx.com^$third-party
 !----------------------- Filtres generiques ----------------------!
-.be/ads-
 .be/ads.
 .be/ads/
-.be/ads?
-.be/ads_
-.com/fr/ads/
-.fr/ads-
 .fr/ads.
 .fr/ads/
-.fr/ads?
-.fr/ads_
 /adserverpub?
-/afficher_pub.
 /ban_pub.
 /ban_pub/*
 /bandeaupublicite/*
@@ -160,10 +152,7 @@
 /banniere_pub/*
 /banns/pub.
 /call/pubj/*
-/images/pub/*
 /images/pubs/*
-/images_pub/*
-/img/pub/*
 /pub/banniere/*
 /pub300-250.
 /pub728-90.
@@ -177,10 +166,10 @@
 /pubpave.
 /regie_pub/*
 /regiepub/*
+/toolbarxooit/toolbar*.js
 _publicite.
 _regiepub/
 !----------------------- Sites specifiques -----------------------!
-/toolbarxooit/toolbar*.js
 ||01net.com/front_office/images/regie/
 ||7sur7.be/static/nmc/adv/sponsor/
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
@@ -273,6 +262,7 @@ _regiepub/
 ||lepoint.fr^*/bellross_worldtime2010.swf
 ||les-horaires.fr/ajax/staytuned.popup.php?city=
 ||les-terrains.com/bd_images/
+||les-terrains.com/images_pub/
 ||letour.fr^*/partenaires.swf?
 ||letraitdunion.com/images/headset/
 ||letraitdunion.com/images/wallpaper/
@@ -292,6 +282,7 @@ _regiepub/
 ||monaco.mc/pages/getbandeau.jsp?
 ||mondissimo.com^*/bannerdisplay.asp?
 ||moov.mg/images/offres/
+||mr-annonce.fr/images/pub/
 ||neezzmail.com/js/box.js
 ||neomag.fr/e-pubs/
 ||ohm.adstronic.net^
@@ -314,8 +305,8 @@ _regiepub/
 ||ps3gen.fr/pub/
 ||pub.nyu-nyu.com^
 ||roulettechat.fr/dynjs/geoloc
-||roulettechat.fr^*/facebook-api-pub/
 ||roulettechat.fr/js/adsacwm.js
+||roulettechat.fr^*/facebook-api-pub/
 ||routard.com/img/homepart/budget_air/
 ||rue89.com/files/skin/themes/visa/background.jpg
 ||sbx.pagesjaunes.fr^
@@ -324,7 +315,6 @@ _regiepub/
 ||sexe-i.com/js/u.js
 ||shopoon.fr/catalog/generated_boxes/
 ||shoppingbox.liberation.fr^
-||theadultcompany.biz/*/ff_siteunder/$image,~image,popup
 ||shoppytab.com/shoppytab-id=
 ||shoppytab.com/shops/
 ||softonic.fr/specials-leaderboard
@@ -344,6 +334,7 @@ _regiepub/
 ||telechargementgratuits.com/hexa.png
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
 ||textograto.com/iframe1.php
+||theadultcompany.biz/*/ff_siteunder/$image,~image,popup
 ||ti.bank.free.fr/images/jarrety
 ||tool.acces-vod.com/infopop/
 ||tool.acces-vod.com/popdhtml/
@@ -361,6 +352,7 @@ _regiepub/
 ||videos-de-celebrites.com/pub/
 ||webchoc.com/pop.js
 ||webmarchand.be/js/ov.js.php?
+||winds-up.com/images/pub/
 ||wtpn.twenga.fr/publisher/$third-party
 ||xooit.be/pub.php?
 ||xooit.fr/pub.php?
@@ -390,13 +382,12 @@ _regiepub/
 ###block_pub_article
 ###cadre_pub_bas
 ###carre-pub
-###pub_right
-###encart_pub_image
-###encart_pub
 ###carre_pub
 ###contextuel-publicite-video
 ###divPub
 ###div_pub_google
+###encart_pub
+###encart_pub_image
 ###fixe_plugin
 ###footer_haut-publicite
 ###footerpubs
@@ -413,7 +404,6 @@ _regiepub/
 ###news_pub_centre
 ###pavePub
 ###pave_pub
-###pubBandeau
 ###pub-center
 ###pub-haut
 ###pub-main
@@ -424,6 +414,7 @@ _regiepub/
 ###pub01
 ###pub300
 ###pub300x250
+###pubBandeau
 ###pubCarre
 ###pubContainer
 ~visitvar.fr###pubDroite
@@ -445,6 +436,7 @@ _regiepub/
 ###pub_pave
 ###pub_pave_bottom
 ###pub_pave_top
+###pub_right
 ###pub_square
 ###pub_top
 ###pubdirecte
@@ -558,10 +550,11 @@ cdiscount.com##.ptnlnk_table
 cdmail.fr###banner
 centerblog.net###pub
 chronofoot.com##.add300
+chuck-streaming.fr,hawaii-streaming.com,smash-streaming.com,the-big-bang-streaming.com,trone-de-fer-streaming.com###cgu_pub
 cinemay.com###pb1
 clicbienetre.com###popup
 clicbienetre.com##.sidebar_block
-clicforum.com,vraiforum.com,xooit.fr,xooit.com##div[style="margin: 0; padding: 0; visibilite: visible; display: block; height: 109px; width: 100%; background: url(/images/topbg.gif)"]
+clicforum.com,vraiforum.com,xooit.com,xooit.fr##div[style="margin: 0; padding: 0; visibilite: visible; display: block; height: 109px; width: 100%; background: url(/images/topbg.gif)"]
 clubic.com###listBlock_espacePartenaires
 clubic.com###listBlock_mediatis
 clubic.com###shopper-widget-wrapper
@@ -634,7 +627,6 @@ google.fr##table[style="border: 1px solid #369"]
 gulli.fr##.banner
 histoire-pour-tous.fr##div[align="center"]
 ibuzzyou.fr##div[style="height:280px;float:left;"]
-chuck-streaming.fr,hawaii-streaming.com,trone-de-fer-streaming.com,smash-streaming.com,the-big-bang-streaming.com###cgu_pub
 ibuzzyou.tv-replay.fr###ad-ban
 imagedrole.de###main-bottom
 imagik.fr###cb30popmedia
@@ -856,8 +848,8 @@ zoomdici.fr##.innerArtAdd
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 fichier.net#@##contentAd
 jeuxjeuxjeux.fr#@#.ad-left
-scooter-infos.com#@#.adlist
 ratus13.com#@#.ad-block
+scooter-infos.com#@#.adlist
 ! Anti Adblock
 @@||awsclic.com/js/advertisement.js
 @@||bizerta-soft.com/clientscript/advertisement.js$script
