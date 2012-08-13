@@ -165,10 +165,10 @@
 /pubpave.
 /regie_pub/*
 /regiepub/*
-/toolbarxooit/toolbar*.js
 _publicite.
 _regiepub/
 !----------------------- Sites specifiques -----------------------!
+/toolbarxooit/toolbar*.js
 ||01net.com/front_office/images/regie/
 ||7sur7.be/static/nmc/adv/sponsor/
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
@@ -221,12 +221,12 @@ _regiepub/
 ||export.kelkoo.fr/$subdocument
 ||external.priceminister.com^$domain=strasbourg-tramway.fr
 ||fastecard.net^*/pub
-||forum-windows.com/open/www/delivre/
-||forum-windows.com/images/plimus/
 ||fdata.over-blog.net^*/js/ob.bar1*.js
 ||files-save.com/noyaux/pub/
 ||files.meteofrance.com/files/dm/moteurmfr/insertframe.js
 ||flux.liberation.fr/fnac/
+||forum-windows.com/images/plimus/
+||forum-windows.com/open/www/delivre/
 ||forumactif.com/admgt/
 ||fr.ard.yahoo.com^
 ||fr.audiofanzine.com/product.php?
@@ -332,9 +332,9 @@ _regiepub/
 ||strasbourg-tramway.fr/ban_
 ||strasbourg-tramway.fr/banner
 ||sylvainpellier.fr/bandeau/
+||tac2.xcams.com/livecams/$third-party
 ||telechargementgratuits.com/hexa.png
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
-||tac2.xcams.com/livecams/$third-party
 ||textograto.com/iframe1.php
 ||theadultcompany.biz/*/ff_siteunder/$image,~image,popup
 ||ti.bank.free.fr/images/jarrety
@@ -394,10 +394,10 @@ _regiepub/
 ###footer_haut-publicite
 ###footerpubs
 ###general_subpub
+###head-pub
 ###head_pub
 ###header_bloc2_pub
 ###header_pub
-###head-pub
 ###idMapAdvertising
 ###idpublicitepave
 ###iframepub
@@ -589,7 +589,6 @@ e-sante.fr##.public-info
 emule-island.ru###centre_haut
 emule-island.ru###droite_bas
 emule-island.ru###droite_haut
-fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
 emule-island.ru###pub
 ergor.org##.ladypub
 europe1.fr###ad-300x250-2
@@ -610,6 +609,7 @@ forum.oujdacity.net###footer
 forum.pcastuces.com##table[width="728"][height="90"][align="center"]
 forumactif.com##div[class^="add-google"]
 fr.audiofanzine.com##.price
+fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
 fr.news.yahoo.com##[id^="pmBannerContainer"]
 france.meteofrance.com###adColumn3
 france2.fr###AdBottomRight
@@ -654,7 +654,6 @@ lachainemeteo.com##div[style="float:left;width:615px;height:100px;"]
 lagazettedescommunes.com##[class^="col-note-pub300x"]
 lanutrition.fr##.moduletable-banner
 laposte.net###shoppingBox
-maison-facile.com##.texteb
 lapresse.ca###pubs
 laptopspirit.fr##a[href^="http://www.prix-portables.fr/pub/"]
 lcd-compare.com##.ads1_label
@@ -685,6 +684,7 @@ lien-torrent.com##.nav-profil
 liveradio.fr###ad1
 lo.st##.home_partner_img
 loisirados.com###intersticiel
+maison-facile.com##.texteb
 mangario.fr##.partenaires
 maps.google.fr##.ad
 marianne2.fr###mod_1171545
@@ -813,7 +813,6 @@ zoomdici.fr##.innerArtAdd
 @@||images.newmedia.lu^*/adtech_video/
 @@||koifaire.com/upload/*/300x250-
 @@||lacanausurfinfo.com/admin/images/pubs/pub_18.png
-@@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||libe.com/libepartnerships/*/iphone.png
 @@||libe.com/libepartnerships/*/ojd.gif
 @@||libe.com/libepartnerships/*/print_subscription.jpg
@@ -834,6 +833,7 @@ zoomdici.fr##.innerArtAdd
 @@||pole-emploi.fr^*/*_banniere_468x60_*.swf
 @@||radiovitamine.com^*/carre-pub-myvita-01.jpg
 @@||radiovitamine.com^*/pub-standard-vitamine.gif
+@@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|player.canalplus.fr|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
 @@||spi0n.com/p/spi0n-iphone.png
