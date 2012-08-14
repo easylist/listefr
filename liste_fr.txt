@@ -264,6 +264,7 @@ _regiepub/
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||maxisciences.com/static/scripts/incentive.js
 ||meilleurmobile.com/scripts/var_xml_backgrounds.js
+||melty.fr^*/meltyad/
 ||mesnotices.fr/shopping/
 ||metaboli.fr/partners/gamekult/
 ||millenium.org/images/contenu/habillages/
@@ -274,7 +275,6 @@ _regiepub/
 ||mistergoodmovies.net^*/js.submgm.js
 ||monaco.mc/pages/getbandeau.jsp?
 ||mondissimo.com^*/bannerdisplay.asp?
-||melty.fr^*/meltyad/
 ||moov.mg/images/offres/
 ||mr-annonce.fr/images/pub/
 ||neezzmail.com/js/box.js
@@ -349,10 +349,10 @@ _regiepub/
 ||webmarchand.be/js/ov.js.php?
 ||winds-up.com/images/pub/
 ||wtpn.twenga.fr/publisher/$third-party
-||xstarsnews.com/banner-pub/ 
 ||xooit.be/pub.php?
 ||xooit.fr/pub.php?
 ||xstarsnews.com/admin/gestion_bann/banniere.php
+||xstarsnews.com/banner-pub/
 ||yimg.com/dh/ap/default/*/yahoolast.jpg
 ||zataz.com/cdn-cgi/pe/bag?
 ||zataz.com/images/images_news/
@@ -436,6 +436,7 @@ _regiepub/
 ###pubdirecte
 ~ma-meilleure-amie.com###publicite
 ###publicite_banniere
+###publicite_header
 ###publicite_top
 ###pubpreroll
 ###pubright
@@ -495,12 +496,15 @@ _regiepub/
 ##.zonepub
 ##a[href^="http://www.crazyloader.com"]
 ! Dimensions
+###pub-728
+###pub250
 ###pub300
 ###pub300x250
 ###pub_460x60
 ##.pub300250
 ##.pub300_contenu
 ##.pub300x250
+##.pub46860
 ##.pub468x60
 ##.pub600200
 ##.pub728x90
