@@ -379,6 +379,7 @@ _regiepub/
 ###block_pub
 ###block_pub_article
 ###cadre_pub_bas
+###roundPub
 ###carre-pub
 ###carre_pub
 ###contextuel-publicite-video
@@ -776,6 +777,7 @@ top-serie.org###top
 turbo.fr##.croco.betclic
 tv5.org##.bloc_promomiddle
 une-recette.com##.banniere1
+voyage-economique.fr##.sideaff-container
 une-recette.com##.bannierebas
 une-recette.com##.milieubanniere2
 viamichelin.fr###idAFSRoadsheetBottom.afsAdvertisingBottom
@@ -801,6 +803,7 @@ zoomdici.fr##.innerArtAdd
 @@||ads.deezer.com/
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
 @@||adswizz.com/crossdomain.xml
+@@||adv.voyage-economique.fr^$domain=voyage-economique.fr
 @@||advertising.wellpack.fr/sites_annexes/optout/
 @@||allocine.fr/crossdomain.xml
 @@||astw.adgear.com^$domain=tetesaclaques.tv
