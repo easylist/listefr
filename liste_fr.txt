@@ -413,6 +413,7 @@ _regiepub/
 ###pubCarre
 ###pubContainer
 ~visitvar.fr###pubDroite
+###publicite-principale
 ###pubEncart
 ###pubEncart1
 ###pubEncart2
@@ -497,6 +498,7 @@ _regiepub/
 ##a[href^="http://www.crazyloader.com"]
 ! Dimensions
 ###pub-728
+###pub-728x90
 ###pub250
 ###pub300
 ###pub300x250
@@ -852,6 +854,10 @@ zoomdici.fr##.innerArtAdd
 @@||vo2.fr/uploads/tx_regiepub/bando-site-
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
+! Exception d'elements
+vente-a-domicile.fr#@#.btn-ad
+vente-a-domicile.fr#@#.ad-left
+vente-a-domicile.fr#@#.ad-right
 fichier.net#@##contentAd
 jeuxjeuxjeux.fr#@#.ad-left
 ratus13.com#@#.ad-block
