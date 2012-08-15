@@ -11,10 +11,10 @@
 ||ad.zanox.com^$image,~image,popup,third-party
 ||ad4you.org^$third-party
 ||ad6media.fr^$third-party
-||admark.fr^$third-party
 ||adcash.com^$image,~image,popup
 ||adecolo.com^$third-party
 ||adfever.com^$third-party
+||admark.fr^$third-party
 ||adnext.fr^$third-party
 ||adqia.com^$third-party
 ||ads.eorezo.com^
@@ -288,12 +288,12 @@ _regiepub/
 ||ouedkniss.com/pubs/
 ||oujdacity.net/kelkoo*.html
 ||outils.yesmessenger.com^
+||passeportsante.net^*/controls/pub/
 ||petite-annonce-gratuite.com/encarts/bannieres/
 ||pointscommuns.com/images/bannieres/$third-party
 ||pornomaniac.fr/javascript/popunder5.js
 ||porsche-99x.info/pagedirect/*/pub/
 ||portail.free.fr/modules/shopping/*/shopping.html
-||passeportsante.net^*/Controls/Pub/
 ||pp.free.fr^
 ||presse-citron.net^*/chicklets_pub/
 ||pro.cdmail.fr/pro/images/
@@ -326,7 +326,7 @@ _regiepub/
 ||stats.hosting24.com/count.php
 ||strasbourg-tramway.fr/ban_
 ||strasbourg-tramway.fr/banner
-||surf-report.com^*/files/Weeman_*.jpg
+||surf-report.com^*/files/weeman_*.jpg
 ||sylvainpellier.fr/bandeau/
 ||tac2.xcams.com/livecams/$third-party
 ||telechargementgratuits.com/hexa.png
@@ -380,7 +380,6 @@ _regiepub/
 ###block_pub
 ###block_pub_article
 ###cadre_pub_bas
-###roundPub
 ###carre-pub
 ###carre_pub
 ###contextuel-publicite-video
@@ -417,7 +416,6 @@ _regiepub/
 ###pubCarre
 ###pubContainer
 ~visitvar.fr###pubDroite
-###publicite-principale
 ###pubEncart
 ###pubEncart1
 ###pubEncart2
@@ -440,12 +438,14 @@ _regiepub/
 ###pub_top
 ###pubdirecte
 ~ma-meilleure-amie.com###publicite
+###publicite-principale
 ###publicite_banniere
 ###publicite_header
 ###publicite_top
 ###pubpreroll
 ###pubright
 ###rightpubbox
+###roundPub
 ###slidepub
 ###sponsorizedLinks
 ###tag_pub_footer
@@ -464,7 +464,6 @@ _regiepub/
 ##.encart_pub
 ##.entete_pub
 ##.fixe > a[href^="http://www.adcash.com/"]
-##.pubHeader
 ##.footer-pub
 ##.footerpubleft
 ##.footerpubright
@@ -476,6 +475,7 @@ _regiepub/
 ##.position_pub
 ##.pub-banner
 ##.pubContent
+##.pubHeader
 ##.pubIframe
 ##.pubRight1
 ##.pubTopContainer
@@ -521,9 +521,9 @@ _regiepub/
 01net.com###ic-ad-movie
 01net.com###v7_partenaire
 20min.ch##.box.left.x44
+20minutes.fr##.half-page-bons-plans
 20minutes.fr##.mn-footer-services
 20minutes.fr##.mn-mod.mn-cdiscount
-20minutes.fr##.half-page-bons-plans
 abrutis.com##.adsense
 abrutis.com##.home_menu_container
 abrutis.com##.pub
@@ -539,8 +539,6 @@ aujourdhui-en-france.fr,leparisien.fr##.venteprivee
 autocaravane.fr###pub468x60_gauche
 bakchich.info##.scpe-pub
 beaute-test.com##.addict_bloc
-boulistenaute.com###dropin
-boulistenaute.com##.xo-banner-ad-footer
 blog.you-test.ch##body > :nth-child(n) + style + div[id]:last-child
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 blog2mature.com##.download
@@ -549,6 +547,8 @@ blog2mature.com##.widget.widget_links
 blogdumac.com###encart-adsense-top-single
 blogs.allocine.fr###pub
 blogs.rue89.com##div[style="clear: both; text-align: center; margin: 0px auto;height: 250px; width: 300px;"]
+boulistenaute.com###dropin
+boulistenaute.com##.xo-banner-ad-footer
 boursier.com###banner
 boursier.com###footer-partenaires
 businessnews.com.tn###megaban-1000
@@ -593,7 +593,6 @@ directvelo.com###col_03_partenaires
 dogzer.com###affichage_tag_58
 dogzer.com###header_tr_banniere
 e-sante.fr##.ad
-livefootball.fr###ad6b_doubu8f6d5n
 e-sante.fr##.public-info
 emule-island.ru###centre_haut
 emule-island.ru###droite_bas
@@ -611,11 +610,11 @@ flights-results.liligo.fr###pulledbanner
 flights-results.liligo.fr###pulledbanner-right-top
 flights-results.liligo.fr###top-banner-smart
 fluket.com##.fixe
+football.fr###adRight3
 footmercato.net###pub-200x197
 footmercato.net###pub-728x90
 forum-actif.net##.tradeDoubler
 forum.oujdacity.net###footer
-football.fr###adRight3
 forum.pcastuces.com##table[width="728"][height="90"][align="center"]
 forumactif.com##div[class^="add-google"]
 fr.audiofanzine.com##.price
@@ -691,13 +690,14 @@ libertyland.tv##.fixe
 lien-torrent.com##.block-banner
 lien-torrent.com##.nav-hd-inscrire
 lien-torrent.com##.nav-profil
+livefootball.fr###ad6b_doubu8f6d5n
 liveradio.fr###ad1
 lo.st##.home_partner_img
 loisirados.com###intersticiel
 maison-facile.com##.texteb
+manga-sanctuary.com###hab
 mangario.fr##.partenaires
 maps.google.fr##.ad
-manga-sanctuary.com###hab
 marianne2.fr###mod_1171545
 maritima.info###PubHorizontaleInner
 maritima.info###PubHorizontaleMain
@@ -769,8 +769,8 @@ sortirensemble.com###sondage_age
 spi0n.com##.spion_single_pub
 sports.fr###hablinkzone
 sports.orange.fr###adTop2
-streamingdivx.com##.popplugin
 strasbourg-tramway.fr###ws_embed_footer
+streamingdivx.com##.popplugin
 t411.me##.banner728
 techno-science.net##.module.moduleBoutiqueEncart
 tele.premiere.fr###pub_a2d_pave
@@ -782,17 +782,17 @@ top-serie.org###top
 turbo.fr##.croco.betclic
 tv5.org##.bloc_promomiddle
 une-recette.com##.banniere1
-voyage-economique.fr##.sideaff-container
 une-recette.com##.bannierebas
 une-recette.com##.milieubanniere2
 viamichelin.fr###idAFSRoadsheetBottom.afsAdvertisingBottom
+viamichelin.fr###idHeaderGDH
 viamichelin.fr##.vm-gdhmegaban
 viamichelin.fr##.vm-pub-home300
-viamichelin.fr###idHeaderGDH
 vintageamps.com###videoads
 vo2.fr###pub_background
 voila.fr###nosPartenaires
 voila.fr##.footer_tr
+voyage-economique.fr##.sideaff-container
 voyages.liberation.fr###vHeader-pub
 wat.tv##.pub
 webactus.net###text-4
@@ -814,8 +814,8 @@ zoomdici.fr##.innerArtAdd
 @@||astw.adgear.com^$domain=tetesaclaques.tv
 @@||blog.lemonde.fr/files/
 @@||blogdumac.com/pub/images/footer-bdm_02.png
-@@||chronoprestige.com/images/pubs/
 @@||ccmbenchmark.com
+@@||chronoprestige.com/images/pubs/
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/ad-remover/img/
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
@@ -867,13 +867,13 @@ zoomdici.fr##.innerArtAdd
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 ! Exception d'elements
-vente-a-domicile.fr#@#.btn-ad
-vente-a-domicile.fr#@#.ad-left
-vente-a-domicile.fr#@#.ad-right
 fichier.net#@##contentAd
 jeuxjeuxjeux.fr#@#.ad-left
 ratus13.com#@#.ad-block
 scooter-infos.com#@#.adlist
+vente-a-domicile.fr#@#.ad-left
+vente-a-domicile.fr#@#.ad-right
+vente-a-domicile.fr#@#.btn-ad
 ! Anti Adblock
 @@||awsclic.com/js/advertisement.js
 @@||bizerta-soft.com/clientscript/advertisement.js$script
