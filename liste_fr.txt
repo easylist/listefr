@@ -11,6 +11,7 @@
 ||ad.zanox.com^$image,~image,popup,third-party
 ||ad4you.org^$third-party
 ||ad6media.fr^$third-party
+||admark.fr^$third-party
 ||adcash.com^$image,~image,popup
 ||adecolo.com^$third-party
 ||adfever.com^$third-party
@@ -292,6 +293,7 @@ _regiepub/
 ||pornomaniac.fr/javascript/popunder5.js
 ||porsche-99x.info/pagedirect/*/pub/
 ||portail.free.fr/modules/shopping/*/shopping.html
+||passeportsante.net^*/Controls/Pub/
 ||pp.free.fr^
 ||presse-citron.net^*/chicklets_pub/
 ||pro.cdmail.fr/pro/images/
@@ -460,6 +462,7 @@ _regiepub/
 ##.encart_pub
 ##.entete_pub
 ##.fixe > a[href^="http://www.adcash.com/"]
+##.pubHeader
 ##.footer-pub
 ##.footerpubleft
 ##.footerpubright
