@@ -77,11 +77,11 @@
 ||media.acces-charme.com^$third-party
 ||mediaffiliation.com^$third-party
 ||medncom.com^$third-party
+||megavisites.com^$third-party
 ||neckermann.be^$third-party
 ||openadserving.com^$image,~image,popup
 ||openadserving.com^$third-party
 ||orangeads.fr^$third-party
-||megavisites.com^$third-party
 ||orangepublicite.fr^$third-party
 ||papycash.com$third-party
 ||partner.leguide.com^$third-party
@@ -172,25 +172,25 @@ _regiepub/
 ||01net.com/front_office/images/regie/
 ||100pour100sexe.com/pop.js
 ||7sur7.be/static/nmc/adv/sponsor/
-||allo-heberge.com/interface/bannieres/*$domain=megavisites.com
-||alvinet.com/images/pub.gif
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
 ||ad.fr.doubleclick.net/pfadx/clubic/
 ||ad.oujdacity.net^
 ||adinlive.com/myslot.jsp?id=
 ||affilinks.fr/slide.js
 ||air-journal.fr/wp-content/uploads/ad-
+||allo-heberge.com/interface/bannieres/$domain=megavisites.com
+||alvinet.com/images/pub.gif
 ||animes-streaming.net/images/ruedufric.png
 ||asie-info.fr/wp-content/uploads/*/livre-franck-amat.jpg
 ||asie-info.fr/wp-content/uploads/*/pub_
 ||autoreflex.com^profils/1004/images/fond$image
+||ba.ccm2.net^
 ||binnews.in/_images/ad
 ||binnews.me/_images/ad
 ||bittovore.com/popup.php$image,~image,popup
 ||blague.info/pub/
 ||blog2mature.com/273_210/
 ||blogdumac.com/pub/
-||ba.ccm2.net^
 ||brain-magazine.com/images/_habillages/
 ||cbanque.com/i/*/habillage
 ||cdiscount.com/imagesok/tetiere/partners/
@@ -222,11 +222,11 @@ _regiepub/
 ||elwatan.com/img/swf/
 ||emploi-energie.com/banniere/
 ||emploipartner.com/template/pubs/
+||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
 ||explorerlondres.com^*/hotelscom.gif
 ||export.kelkoo.fr/$subdocument
 ||external.priceminister.com^$domain=strasbourg-tramway.fr
 ||fastecard.net^*/pub
-||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
 ||fdata.over-blog.net^*/js/ob.bar1*.js
 ||files-save.com/noyaux/pub/
 ||files.meteofrance.com/files/dm/moteurmfr/insertframe.js
@@ -246,8 +246,8 @@ _regiepub/
 ||hamachifrance.com^*/images/*banv.jpg
 ||hamachifrance.com^*/images/banvg.jpg
 ||hamachifrance.com^*/images/vg3.jpg
-||image.jeuxvideo.com/ope/
 ||humourquotidien.com/pubs/
+||image.jeuxvideo.com/ope/
 ||images.fan-de-cinema.com/habillage/
 ||images1.soonnight.com/template/skins/*/skin.css
 ||impimg.free.fr/pubs/
@@ -270,15 +270,16 @@ _regiepub/
 ||les-terrains.com/bd_images/
 ||les-terrains.com/images_pub/
 ||letour.fr^*/partenaires.swf?
-||linternaute.com/*@*,position$script
 ||letraitdunion.com/images/headset/
 ||letraitdunion.com/images/wallpaper/
 ||libe.com/libepartnerships/
 ||lien-torrent.com/pubs/
+||linternaute.com/*@*,position$script
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||maxisciences.com/static/scripts/incentive.js
 ||meilleurmobile.com/scripts/var_xml_backgrounds.js
 ||melty.fr^*/meltyad/
+||mesfilmsstreaming.com/images/download_films.png
 ||mesnotices.fr/shopping/
 ||metaboli.fr/partners/gamekult/
 ||millenium.org/images/contenu/habillages/
@@ -307,12 +308,12 @@ _regiepub/
 ||porsche-99x.info/pagedirect/*/pub/
 ||portail.free.fr/modules/shopping/*/shopping.html
 ||pp.free.fr^
-||mesfilmsstreaming.com/images/download_films.png
 ||presse-citron.net^*/chicklets_pub/
 ||pro.cdmail.fr/pro/images/
 ||promo.sextape-streaming.com^
 ||ps3gen.fr/pub/
 ||pub.nyu-nyu.com^
+||raje.fr/images/banners/
 ||roulettechat.fr/dynjs/geoloc
 ||roulettechat.fr/js/adsacwm.js
 ||roulettechat.fr^*/facebook-api-pub/
@@ -345,7 +346,6 @@ _regiepub/
 ||telechargementgratuits.com/hexa.png
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
 ||textograto.com/iframe1.php
-||raje.fr/images/banners/
 ||theadultcompany.biz/*/ff_siteunder/$image,~image,popup
 ||thepiratebay.se/custom/pp.php
 ||ti.bank.free.fr/images/jarrety
@@ -371,8 +371,8 @@ _regiepub/
 ||xooit.fr/pub.php?
 ||xstarsnews.com/admin/gestion_bann/banniere.php
 ||xstarsnews.com/banner-pub/
-||yesmessenger.com^$third-party,domain=~yes-messenger.com
 ||yes-messenger.com^$third-party,domain=~yesmessenger.com
+||yesmessenger.com^$third-party,domain=~yes-messenger.com
 ||yimg.com/dh/ap/default/*/yahoolast.jpg
 ||zataz.com/cdn-cgi/pe/bag?
 ||zataz.com/images/images_news/
@@ -424,7 +424,9 @@ _regiepub/
 ###pavePub
 ###pave_pub
 ###pub-center
+###pub-footer
 ###pub-haut
+###pub-header
 ###pub-main
 ###pub-right
 ###pub-top
@@ -433,8 +435,6 @@ _regiepub/
 ###pub01
 ###pubBandeau
 ###pubCarre
-###pub-footer
-###pub-header
 ###pubContainer
 ~visitvar.fr###pubDroite
 ###pubEncart
@@ -442,6 +442,7 @@ _regiepub/
 ###pubEncart2
 ###pubFrame
 ###pubHaut
+###pubPartenaires
 ###pubVideo
 ###pub_ban
 ###pub_carre_1
@@ -451,12 +452,12 @@ _regiepub/
 ###pub_header
 ###pub_header_droite
 ###pub_pave
-###pubbas
 ###pub_pave_bottom
 ###pub_pave_top
 ###pub_right
 ###pub_square
 ###pub_top
+###pubbas
 ###pubdirecte
 ~ma-meilleure-amie.com###publicite
 ###publicite-principale
@@ -480,6 +481,7 @@ _regiepub/
 ##.blocPub
 ##.bloc_pub_left
 ##.block-pubimage
+##.block_pub
 ##.blocpub
 ##.carre_pub
 ##.container-pubcarre
@@ -496,7 +498,6 @@ _regiepub/
 ##.pave_pub
 ##.position_pub
 ##.pub-banner
-##.block_pub
 ##.pubContent
 ##.pubHeader
 ##.pubIframe
@@ -521,7 +522,6 @@ _regiepub/
 ##.titrePub
 ##.toppubs
 ##.txt-pub
-~meilleurmobile.com##.zone_pub
 ##.zonepub
 ##a[href^="http://www.crazyloader.com"]
 ! Dimensions
@@ -553,11 +553,11 @@ abrutis.com##.adsense
 abrutis.com##.home_menu_container
 abrutis.com##.pub
 agoravox.fr##.simple.pub
-alvinet.com##.skyscraper
-alvinet.com##.leaderboard
 akelys.com##.cellulePUB
 allocine.fr##.coltop
 allocine.fr##.topheader
+alvinet.com##.leaderboard
+alvinet.com##.skyscraper
 anime00.com###pb1
 audiofanzine.com###leaderboardContainer
 aujourdhui-en-france.fr,leparisien.fr###clubDealbloc
@@ -711,8 +711,6 @@ lemouv.fr###block-lemouv_bloc-pub_ftv_top
 lensois.com###transparentad
 lepoint.fr###seloger_annonces_immo
 lepoint.fr###seloger_recherche_immo
-mesfilmsstreaming.com###pb1
-mesfilmsstreaming.com##.fixe
 lepoint.fr##.pub
 lesnumeriques.com###ifr_pub
 lesoir.be###ads-leaderboard
@@ -744,6 +742,8 @@ maxistreaming.com###header
 maxistreaming.com###searchform
 megaupload-download.net##.infoblock
 meilleurtaux.com##.pub
+mesfilmsstreaming.com###pb1
+mesfilmsstreaming.com##.fixe
 meteoconsult.fr###bloc_pub_sommaire_terrestre
 meteomedia.com###container_bac
 meteomedia.com###workopolis
@@ -759,7 +759,6 @@ mu-streaming.com##.fixe
 neomag.fr###big-ad
 neowebcar.com##.adv-format-1
 nrj.fr###pub
-pafpaf.com##.adBlocTop
 numerama.com###general_dec
 one-piece-streaming.fr###fermerPub
 oopsbuzz.com##.behincontent
@@ -772,6 +771,7 @@ oujdacity.net###common-top-widget
 oujdacity.net##.ads
 oujdacity.net##.ebuzzing_box
 over-blog.com##.pub
+pafpaf.com##.adBlocTop
 pagesjaunes.fr##.pushKeltravo
 paruvendu.fr##.h11-ad-top
 pcastuces.com##table[width="95%"][cellspacing="4"][cellpadding="4"][align="center"]
@@ -783,6 +783,7 @@ programme-tv.net###pub_pole_position1
 programme-tv.net##.blocLeguide
 radiofrance.fr###banniere
 radiofrance.fr##table[width="765"][height="100"]
+raje.fr##.ads
 redlist-ultimate.be###partenaire
 redlist-ultimate.be##[style="display:none;"] + .block
 rfm.fr##.bloc_rightcol_pub
@@ -791,7 +792,6 @@ roulettechat.fr###lateralAdWrapper
 routard.com###A2dEmplacement97977Reserve
 rtl.be###header
 rtl.fr##.result.sponsor
-raje.fr##.ads
 rue89.com###partenariat89_masterblock
 rue89.com##.gam-holder
 search.ke.voila.fr###fontDivVignette
@@ -806,8 +806,8 @@ spi0n.com##.spion_single_pub
 sports.fr###hablinkzone
 sports.orange.fr###adTop2
 strasbourg-tramway.fr###ws_embed_footer
-streamingdivx.com##.popplugin
 strastv.com##.post_pub
+streamingdivx.com##.popplugin
 techno-science.net##.module.moduleBoutiqueEncart
 tele.premiere.fr###pub_a2d_pave
 telechargementgratuits.com###ads
@@ -907,9 +907,9 @@ zoomdici.fr##.innerArtAdd
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 ! Exception d'elements
 fichier.net#@##contentAd
+gamexpo.fr#@#.advertisment
 jeuxjeuxjeux.fr#@#.ad-left
 ratus13.com#@#.ad-block
-gamexpo.fr#@#.advertisment
 scooter-infos.com#@#.adlist
 vente-a-domicile.fr#@#.ad-left
 vente-a-domicile.fr#@#.ad-right
