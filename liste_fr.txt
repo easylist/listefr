@@ -168,8 +168,8 @@ _regiepub/
 !----------------------- Sites specifiques -----------------------!
 !
 /toolbarxooit/toolbar*.js
-||100pour100sexe.com/pop.js
 ||01net.com/front_office/images/regie/
+||100pour100sexe.com/pop.js
 ||7sur7.be/static/nmc/adv/sponsor/
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
 ||ad.fr.doubleclick.net/pfadx/clubic/
@@ -439,7 +439,6 @@ _regiepub/
 ###pub_haut
 ###pub_header
 ###pub_header_droite
-~ouifm.fr###pub_megaban
 ###pub_pave
 ###pub_pave_bottom
 ###pub_pave_top
@@ -464,6 +463,7 @@ _regiepub/
 ###wrapper-pub
 ###zone_pub
 ##.adsenseWrapper
+##.adspave
 ##.annonces_google
 ##.blocPub
 ##.bloc_pub_left
@@ -536,11 +536,11 @@ _regiepub/
 20minutes.fr##.half-page-bons-plans
 20minutes.fr##.mn-footer-services
 20minutes.fr##.mn-mod.mn-cdiscount
-akelys.com##.cellulePUB
 abrutis.com##.adsense
 abrutis.com##.home_menu_container
 abrutis.com##.pub
 agoravox.fr##.simple.pub
+akelys.com##.cellulePUB
 allocine.fr##.coltop
 allocine.fr##.topheader
 anime00.com###pb1
@@ -576,6 +576,9 @@ cdmail.fr###banner
 centerblog.net###pub
 chronofoot.com##.add300
 chuck-streaming.fr,hawaii-streaming.com,smash-streaming.com,the-big-bang-streaming.com,trone-de-fer-streaming.com###cgu_pub
+cinemagora.com###adl_300x100
+cinemagora.com###adl_300x250
+cinemagora.com###adl_728x90
 cinemay.com###pb1
 clicbienetre.com###popup
 clicbienetre.com##.sidebar_block
@@ -589,9 +592,6 @@ coco.fr##a[href="http://www.joker.net"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 codeshttp.com##table[height="100"]
 codeshttp.com##table[height="118"]
-cinemagora.com###adl_728x90
-cinemagora.com###adl_300x250
-cinemagora.com###adl_300x100
 commentcamarche.net###ba_position4
 commentcamarche.net###partners_offers
 commentcamarche.net##.advertising
@@ -662,8 +662,8 @@ imagik.fr###cb30popmedia
 israel7.com##.box2[style="background-color:rgb(0,0,0);height:250px;"]
 israel7.com##.box2[style="background-color:rgb(0,0,0);padding:20px;"]
 israel7.com##.box2[style="padding:5px;height:600px;"]
-jeuxvideo.com###mc_sponso
 israel7.com##table[style="margin:0px0px10px15px;"]
+jeuxvideo.com###mc_sponso
 journaldugeek.com##.widget-current-offers.widget
 judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
 judgehype.com###partenaire
@@ -681,6 +681,7 @@ lanutrition.fr##.moduletable-banner
 laposte.net###shoppingBox
 lapresse.ca###pubs
 laptopspirit.fr##a[href^="http://www.prix-portables.fr/pub/"]
+lastminute.com##.adContainer
 lcd-compare.com##.ads1_label
 leboncoin.fr##div[class="newPartnerbox"]
 leboncoin.fr##div[style="width:189px;float:left;margin-left:8px;"]
@@ -689,7 +690,6 @@ lefigaro.fr###beead_flash
 lefigaro.fr###boxshop3
 leguide-shopping.tele-2-semaines.fr##.body
 lemonde.fr##.bloc_part
-lastminute.com##.adContainer
 lemonde.fr##.conteneur_ligatus
 lemonde.fr##.global.services
 lemouv.fr###block-lemouv_bloc-pub_ftv_top
@@ -906,8 +906,8 @@ vente-a-domicile.fr#@#.btn-ad
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=style-cataclysm.com
 @@||partage-facile.com$elemhide
 @@||playtv.fr$elemhide
-@@||protect-url.net^$elemhide
 @@||pro-zik.ws/wp-content/plugins/wordpress-adblock-blocker/adframe.js
+@@||protect-url.net^$elemhide
 @@||sanwilltv.net/advertisement.js
 @@||uptobox.com^$script
 @@||wakanim.tv/content/js/ads.js?
