@@ -3,7 +3,9 @@
 ! License: http://creativecommons.org/licenses/by-nc-sa/3.0/
 ! Contact et CGU : http://adblock-listefr.com/
 ! Mises a jour : https://code.google.com/p/listefr-adblock/source/list
+!
 !----------------------- Annonceurs -----------------------!
+!
 ||a2dfp.net^$third-party,domain=~gulli.fr
 ||acpublicite.fr^$third-party
 ||ad.adserverplus.com^
@@ -138,7 +140,9 @@
 ||widgetbooster.com^$third-party
 ||widgetvillage.com/ministore/$third-party
 ||wslinx.com^$third-party
+!
 !----------------------- Filtres generiques ----------------------!
+!
 .be/ads.
 .be/ads/
 .fr/ads.
@@ -160,7 +164,9 @@
 /regiepub/*
 _publicite.
 _regiepub/
+!
 !----------------------- Sites specifiques -----------------------!
+!
 /toolbarxooit/toolbar*.js
 ||100pour100sexe.com/pop.js
 ||01net.com/front_office/images/regie/
@@ -362,7 +368,9 @@ _regiepub/
 ||zataz.com/images/images_news/
 ||zonebourse.com/content_o_a_s.php?
 ||zoomdici.fr/media/pub/
+!
 !------------------ Elements generiques -----------------!
+!
 ###Block_Pub_Right
 ###PubFooter
 ###PubHead
@@ -517,7 +525,9 @@ _regiepub/
 ##.pub600200
 ##.pub728x90
 ##.pub_300
+!
 !----------------------- Elements -----------------------!
+!
 01net.com###ic-ad
 01net.com###ic-ad-movie
 01net.com###v7_partenaire
@@ -805,7 +815,9 @@ zdnet.fr###tickerRight
 zonebourse.com###Bottom
 zonebourse.com###Middle2_id
 zoomdici.fr##.innerArtAdd
-!----------------------- EXCEPTIONS -----------------------!
+!
+!----------------------- Exceptions -----------------------!
+!
 @@||01net.com^*/publicite/puce_a_votre_serv.jpg
 @@||ads.deezer.com/
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
