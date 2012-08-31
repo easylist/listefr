@@ -223,6 +223,7 @@ _regiepub/
 ||emploi-energie.com/banniere/
 ||emploipartner.com/template/pubs/
 ||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
+||eurosportbet.loa24.com^$domain=eurosport.fr
 ||explorerlondres.com^*/hotelscom.gif
 ||export.kelkoo.fr/$subdocument
 ||external.priceminister.com^$domain=strasbourg-tramway.fr
@@ -234,7 +235,6 @@ _regiepub/
 ||forum-windows.com/images/plimus/
 ||forum-windows.com/open/www/delivre/
 ||forumactif.com/admgt/
-||eurosportbet.loa24.com^$domain=eurosport.fr
 ||fr.ard.yahoo.com^
 ||fr.audiofanzine.com/product.php?
 ||frandroid.com/visuals/pub_affichage_web/
@@ -413,15 +413,13 @@ _regiepub/
 ###general_subpub
 ###head-pub
 ###head_pub
-##.pub-gigaban
-##.pub-pave
-###pubgoogle
 ###header_bloc2_pub
 ###header_pub
 ###idMapAdvertising
 ###idpublicitepave
 ###iframepub
 ###iframesidebarpub
+###imagePubPave
 ###innerpub
 ###news-droite-publicite
 ###news_pub_centre
@@ -463,6 +461,7 @@ _regiepub/
 ###pub_top
 ###pubbas
 ###pubdirecte
+###pubgoogle
 ~ma-meilleure-amie.com###publicite
 ###publicite-principale
 ###publicite_banniere
@@ -502,7 +501,10 @@ _regiepub/
 ##.pave_pub
 ##.position_pub
 ##.pub-banner
+##.pub-gigaban
+##.pub-pave
 ##.pubContent
+##.pubFlash
 ##.pubHeader
 ##.pubIframe
 ##.pubRight1
@@ -529,6 +531,7 @@ _regiepub/
 ##.zonepub
 ##a[href^="http://www.crazyloader.com"]
 ! Dimensions
+###pub-200x197
 ###pub-728
 ###pub-728x90
 ###pub250
@@ -636,10 +639,10 @@ emule-island.ru###pub
 ergor.org##.ladypub
 europe1.fr###ad-300x250-2
 europe1.fr##.s-partenaires
+eurosport.fr###Container_OAS_Right
 extremepc.fr###pub
 extremepc.fr###pub2an
 femmemag.re###block_regie_pub_bas
-eurosport.fr###Container_OAS_Right
 femmemag.re###block_regie_pub_bas_article
 filmze.com##.fixe
 flights-results.liligo.fr###pulledbanner
@@ -647,7 +650,6 @@ flights-results.liligo.fr###pulledbanner-right-top
 flights-results.liligo.fr###top-banner-smart
 fluket.com##.fixe
 football.fr###adRight3
-footmercato.net###pub-200x197
 forum-actif.net##.tradeDoubler
 forum.oujdacity.net###footer
 forum.pcastuces.com##table[width="728"][height="90"][align="center"]
@@ -689,7 +691,6 @@ judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
 judgehype.com###partenaire
 korben.info##.advert-center
 la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
-mediadico.com###NFBannierePublicitaire
 la-musique-rai.com##.ban728
 la-musique-rai.com##.rowa
 lacanausurfinfo.com###banner_footer
@@ -746,6 +747,7 @@ matchendirect.mobi###pub1
 maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
 maxistreaming.com###header
 maxistreaming.com###searchform
+mediadico.com###NFBannierePublicitaire
 megaupload-download.net##.infoblock
 meilleurtaux.com##.pub
 mesfilmsstreaming.com###pb1
@@ -833,9 +835,9 @@ viamichelin.fr##.vm-pub-home300
 vintageamps.com###videoads
 vo2.fr###pub_background
 voila.fr###nosPartenaires
-voyages-sncf.com###block-vsct_vsca-megabanner
 voila.fr##.footer_tr
 voyage-economique.fr##.sideaff-container
+voyages-sncf.com###block-vsct_vsca-megabanner
 voyages.liberation.fr###vHeader-pub
 wat.tv##.pub
 webactus.net###text-4
@@ -850,20 +852,20 @@ zoomdici.fr##.innerArtAdd
 !----------------------- Exceptions -----------------------!
 !
 @@||01net.com^*/publicite/puce_a_votre_serv.jpg
-@@||deliv.tmcregie.fr/crossdomain.xml$domain=videos.nt1.tv
-@@||afe2.specificclick.net/crossdomain.xml$domain=videos.nt1.tv
 @@||ads.deezer.com/
+@@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
-@@||adserver.adtech.de/addyn|3.0|*|ADTECH$script,domain=comfm.com
 @@||adswizz.com/crossdomain.xml
 @@||adv.voyage-economique.fr^$domain=voyage-economique.fr
 @@||advertising.wellpack.fr/sites_annexes/optout/
+@@||afe2.specificclick.net/crossdomain.xml$domain=videos.nt1.tv
 @@||allocine.fr/crossdomain.xml
 @@||astw.adgear.com^$domain=tetesaclaques.tv
 @@||blog.lemonde.fr/files/
 @@||blogdumac.com/pub/images/footer-bdm_02.png
 @@||ccmbenchmark.com^
 @@||chronoprestige.com/images/pubs/
+@@||deliv.tmcregie.fr/crossdomain.xml$domain=videos.nt1.tv
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/ad-remover/img/
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
