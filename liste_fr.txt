@@ -445,6 +445,10 @@ _regiepub/
 ###pubFrame
 ###pubHaut
 ###pubPartenaires
+##[id^="eShowPub"]
+##.pubBottomRight
+##.pubLarge
+##.little_pub
 ###pubVideo
 ###pub_ban
 ###pub_carre_1
@@ -660,7 +664,6 @@ fr.news.yahoo.com##[id^="pmBannerContainer"]
 france.meteofrance.com###adColumn3
 france2.fr###AdBottomRight
 france2.fr###AdSquare02
-france2.fr###eShowPubTop
 franceantilles.fr,franceguyane.fr###megabanner
 francebleu.fr,franceinfo.fr###pub-ftv-top
 franceculture.fr###block-fcbloc-publicite
