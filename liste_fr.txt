@@ -66,9 +66,9 @@
 ||hebdotop.com^$third-party
 ||hopdream.com^$image,~image,popup,third-party
 ||hopdream.com^$third-party
+||i-promotion.net^$third-party
 ||illyx.com^$third-party
 ||imgpromo.easyrencontre.com^$third-party
-||i-promotion.net^$third-party
 ||indecentes-voisines.com^$third-party
 ||issentiel.com/media/affiliate/banner/$third-party
 ||kreaffiliation.com^$third-party
@@ -170,8 +170,8 @@ _regiepub/
 !
 /toolbarxooit/toolbar*.js
 ||01net.com/front_office/images/regie/
-||20minutes.fr/img/auto-promos/
 ||100pour100sexe.com/pop.js
+||20minutes.fr/img/auto-promos/
 ||7sur7.be/static/nmc/adv/sponsor/
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
 ||ad.fr.doubleclick.net/pfadx/clubic/
@@ -219,12 +219,12 @@ _regiepub/
 ||easyvols.org/liberation/
 ||ecrans.fr/pub.js
 ||education.ti.com^$domain=ti.bank.free.fr
-||euroclix.fr^$domain=176.31.96.119
 ||elwatan.com/campub/
 ||elwatan.com/img/swf/
 ||emploi-energie.com/banniere/
 ||emploipartner.com/template/pubs/
 ||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
+||euroclix.fr^$domain=176.31.96.119
 ||eurosportbet.loa24.com^$domain=eurosport.fr
 ||explorerlondres.com^*/hotelscom.gif
 ||export.kelkoo.fr/$subdocument
@@ -238,7 +238,6 @@ _regiepub/
 ||forum-windows.com/open/www/delivre/
 ||forumactif.com/admgt/
 ||fr.ard.yahoo.com^
-||leparisien.fr/img/partenaires/
 ||fr.audiofanzine.com/product.php?
 ||frandroid.com/visuals/pub_affichage_web/
 ||futura-sciences.com/fileadmin/templates/v4/css_habillage/
@@ -259,6 +258,7 @@ _regiepub/
 ||jeux-flash-gratis.com/pics/$domain=la-musique-rai.com
 ||jeuxvideo.com/sponso/
 ||jeuxvideo.com^*/avatar/$~stylesheet
+||juif.org/img/partners/
 ||kelbillet.com/ws_smads_integration.php
 ||l.liberation.fr/img/promo/
 ||la-musique-rai.com/images/banner_
@@ -268,6 +268,7 @@ _regiepub/
 ||lanutrition.fr/images/banners/
 ||laposte.net^*/scripts/pub_
 ||lemaghrebdz.com/pub/
+||leparisien.fr/img/partenaires/
 ||lepoint.fr/images/*/partenariat/
 ||lepoint.fr^*/bellross_worldtime2010.swf
 ||les-horaires.fr/ajax/staytuned.popup.php?city=
@@ -331,6 +332,7 @@ _regiepub/
 ||shoppingbox.liberation.fr^
 ||shoppytab.com/shoppytab-id=
 ||shoppytab.com/shops/
+||signification-prenom.com/images/starmyname-prenom.gif
 ||softonic.fr/specials-leaderboard
 ||soonnight.com/images/mini_ban_partenaire/
 ||soonnight.com/template/purr/
@@ -344,7 +346,6 @@ _regiepub/
 ||stats.hosting24.com/count.php
 ||strasbourg-tramway.fr/ban_
 ||strasbourg-tramway.fr/banner
-||signification-prenom.com/Images/starmyname-prenom.gif
 ||surf-report.com^*/files/weeman_*.jpg
 ||sylvainpellier.fr/bandeau/
 ||tac2.xcams.com/livecams/$third-party
@@ -360,7 +361,6 @@ _regiepub/
 ||torrent-topliste.com/popup.php$image,~image,popup
 ||torrentfrancais.com/img/z2/
 ||torrentfrancais.com/pub.html
-||juif.org/img/partners/
 ||trefle.com/js/modules/su.*.js
 ||twenga.fr^$domain=space-blogs.com
 ||une-recette.com/include/_iframe
@@ -369,6 +369,7 @@ _regiepub/
 ||vazigo.fr/referencement/pub_frame.php
 ||viacredit.net/pub/
 ||videos-de-celebrites.com/pub/
+||wawa-mania.cc/ph.jpg
 ||webchoc.com/pop.js
 ||webmarchand.be/js/ov.js.php?
 ||winds-up.com/images/pub/
@@ -377,7 +378,6 @@ _regiepub/
 ||xooit.fr/pub.php?
 ||xstarsnews.com/admin/gestion_bann/banniere.php
 ||xstarsnews.com/banner-pub/
-||wawa-mania.cc/ph.jpg
 ||yes-messenger.com^$third-party,domain=~yesmessenger.com
 ||yesmessenger.com^$third-party,domain=~yes-messenger.com
 ||yimg.com/dh/ap/default/*/yahoolast.jpg
@@ -443,25 +443,20 @@ _regiepub/
 ###pub01
 ###pubBandeau
 ###pubCarre
-##.carrepub
 ###pubContainer
 ~visitvar.fr###pubDroite
 ###pubEncart
 ###pubEncart1
 ###pubEncart2
 ###pubFrame
-###pub_banner
 ###pubHaut
 ###pubPartenaires
-##[id^="eShowPub"]
-##.pubBottomRight
-##.pubLarge
-##.little_pub
 ###pubVideo
 ###pub_ban
-###pub_footer
+###pub_banner
 ###pub_carre_1
 ###pub_contener_right
+###pub_footer
 ###pub_geante
 ###pub_haut
 ###pub_header
@@ -500,6 +495,7 @@ _regiepub/
 ##.block_pub
 ##.blocpub
 ##.carre_pub
+##.carrepub
 ##.container-pubcarre
 ##.encart_pub
 ##.entete_pub
@@ -510,16 +506,19 @@ _regiepub/
 ##.header-pub
 ##.home_pub
 ##.iframe_pub
+##.little_pub
 ##.mailPubHeader
 ##.pave_pub
 ##.position_pub
 ##.pub-banner
 ##.pub-gigaban
 ##.pub-pave
+##.pubBottomRight
 ##.pubContent
 ##.pubFlash
 ##.pubHeader
 ##.pubIframe
+##.pubLarge
 ##.pubRight1
 ##.pubTopContainer
 ##.pub_carre
@@ -542,16 +541,17 @@ _regiepub/
 ##.toppubs
 ##.txt-pub
 ##.zonepub
+##[id^="eShowPub"]
 ##a[href^="http://www.crazyloader.com"]
 ! Dimensions
 ###pub-200x197
 ###pub-728
 ###pub-728x90
 ###pub250
-###pub_468x60
 ###pub300
 ###pub300x250
 ###pub_460x60
+###pub_468x60
 ##.pub300250
 ##.pub300_contenu
 ##.pub300x250
@@ -567,9 +567,10 @@ _regiepub/
 01net.com###ic-ad-movie
 01net.com###v7_partenaire
 20min.ch##.box.left.x44
+20minutes.fr###mn-autopromo
 20minutes.fr##.half-page-bons-plans
-20minutes.fr##.mn-footer-services
 20minutes.fr##.mn-cdiscount
+20minutes.fr##.mn-footer-services
 abrutis.com##.adsense
 abrutis.com##.home_menu_container
 abrutis.com##.pub
@@ -615,7 +616,6 @@ chuck-streaming.fr,hawaii-streaming.com,smash-streaming.com,the-big-bang-streami
 cinemagora.com###adl_300x100
 cinemagora.com###adl_300x250
 cinemagora.com###adl_728x90
-20minutes.fr###mn-autopromo
 cinemay.com###pb1
 clicbienetre.com###popup
 clicbienetre.com##.sidebar_block
@@ -641,10 +641,9 @@ deezer.com##.pub
 deezer.com##[id^="ads"]
 desmatures.com##.pub468100top
 desmatures.com##.sidebarpub350250
-leparisien.fr###parisien-partenaires
-do-tube.org##.ads
 dinogaia.com###tableau_info
 directvelo.com###col_03_partenaires
+do-tube.org##.ads
 dogzer.com###affichage_tag_58
 dogzer.com###header_tr_banniere
 e-sante.fr##.ad
@@ -732,6 +731,7 @@ lemonde.fr##.conteneur_ligatus
 lemonde.fr##.global.services
 lemouv.fr###block-lemouv_bloc-pub_ftv_top
 lensois.com###transparentad
+leparisien.fr###parisien-partenaires
 lepoint.fr###seloger_annonces_immo
 lepoint.fr###seloger_recherche_immo
 lepoint.fr##.pub
@@ -796,13 +796,13 @@ oujdacity.net##.ads
 oujdacity.net##.ebuzzing_box
 over-blog.com##.pub
 pafpaf.com##.adBlocTop
+pagesjaunes.fr##.containerPdsSitesPartenaires
 pagesjaunes.fr##.pushKeltravo
 paruvendu.fr##.h11-ad-top
 pcastuces.com##table[width="95%"][cellspacing="4"][cellpadding="4"][align="center"]
 planet.fr##.block-gc_ad
 portail.free.fr###partenaires
 premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
-pagesjaunes.fr##.containerPdsSitesPartenaires
 programme-tv.net###blocPub_MEGABAN
 programme-tv.net###pub_pole_position1
 programme-tv.net##.blocLeguide
@@ -839,8 +839,8 @@ telechargementgratuits.com###ads
 telechargementgratuits.com###hopdream
 telechargementgratuits.com##.fixe
 tf1.fr###ible149256
-trancegoa.org##TD > .fb-like-box + BR + .texteentete.taille2
 top-serie.org###top
+trancegoa.org##td > .fb-like-box + br + .texteentete.taille2
 turbo.fr##.croco.betclic
 tv5.org##.bloc_promomiddle
 une-recette.com##.banniere1
@@ -870,6 +870,7 @@ zoomdici.fr##.innerArtAdd
 !----------------------- Exceptions -----------------------!
 !
 @@||01net.com^*/publicite/puce_a_votre_serv.jpg
+@@||ad2play.ftv-publicite.fr/?sitepage=www.psg.fr$subdocument,domain=psg.fr
 @@||ads.deezer.com/
 @@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
@@ -887,7 +888,6 @@ zoomdici.fr##.innerArtAdd
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/ad-remover/img/
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
-@@||ad2play.ftv-publicite.fr/?sitepage=www.psg.fr$subdocument,domain=psg.fr
 @@||e-sante.fr^*/ad-49x72.jpg
 @@||fatherandsons.fr^*/opecom/affiliation/
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
