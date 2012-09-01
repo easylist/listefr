@@ -305,6 +305,7 @@ _regiepub/
 ||onvillanuit.com^$domain=chartsinfrance.net
 ||otaku-attitude.net^*/okazu-manga.gif
 ||ouedkniss.com/pubs/
+||mypornmotion.com/popunder.aspx$image,~image,popup
 ||oujdacity.net/kelkoo*.html
 ||passeportsante.net^*/controls/pub/
 ||petite-annonce-gratuite.com/encarts/bannieres/
@@ -425,6 +426,8 @@ _regiepub/
 ###header_bloc2_pub
 ###header_pub
 ###idMapAdvertising
+###PubBas
+##.pub_header_banner
 ###idpublicitepave
 ###iframepub
 ###iframesidebarpub
@@ -564,6 +567,7 @@ _regiepub/
 ##.pub600200
 ##.pub728x90
 ##.pub_300
+###Pub728x90
 !
 !----------------------- Elements -----------------------!
 !
@@ -697,6 +701,9 @@ google.fr##table[style="border: 1px solid #369"]
 gulli.fr##.banner
 histoire-pour-tous.fr##div[align="center"]
 ibuzzyou.fr##div[style="height:280px;float:left;"]
+mypornmotion.com##.LinePromo
+mypornmotion.com###VideoPub300x250
+mypornmotion.com###Pub
 ibuzzyou.tv-replay.fr###ad-ban
 imagedrole.de###main-bottom
 imagik.fr###cb30popmedia
