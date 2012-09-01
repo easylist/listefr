@@ -209,11 +209,11 @@ _regiepub/
 ||deezer.com/ads/
 ||deliv.leboncoin.fr/0/leboncoin/
 ||desmatures.com^*/desmatures/images/pub
-||dpstream.net/fichiers/pub/
 ||dir-fr.com/banners/$domain=la-musique-rai.com
 ||directvelo.com/images/habillage/
 ||directvelo.com/images/livre/pub-
 ||directvelo.com/images/partenaires/
+||dpstream.net/fichiers/pub/
 ||e-sante.fr/sites/default/files/templates/$image
 ||easyrencontre.com/promo
 ||easyvols.org/leparisien/
@@ -283,6 +283,7 @@ _regiepub/
 ||linternaute.com/*@*,position$script
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||maxisciences.com/static/scripts/incentive.js
+||megadvdrip.com/popup.js
 ||meilleurmobile.com/scripts/var_xml_backgrounds.js
 ||melty.fr^*/meltyad/
 ||mesfilmsstreaming.com/images/download_films.png
@@ -298,6 +299,7 @@ _regiepub/
 ||mondissimo.com^*/bannerdisplay.asp?
 ||moov.mg/images/offres/
 ||mr-annonce.fr/images/pub/
+||mypornmotion.com/popunder.aspx$image,~image,popup
 ||neezzmail.com/js/box.js
 ||neomag.fr/e-pubs/
 ||ohm.adstronic.net^
@@ -306,8 +308,6 @@ _regiepub/
 ||onvillanuit.com^$domain=chartsinfrance.net
 ||otaku-attitude.net^*/okazu-manga.gif
 ||ouedkniss.com/pubs/
-||megadvdrip.com/popup.js
-||mypornmotion.com/popunder.aspx$image,~image,popup
 ||oujdacity.net/kelkoo*.html
 ||passeportsante.net^*/controls/pub/
 ||petite-annonce-gratuite.com/encarts/bannieres/
@@ -343,8 +343,6 @@ _regiepub/
 ||spi0n.com/p/
 ||sports.fr/includes/nav_footballfr/partenaires/
 ||sports.fr/includes/partenaires/
-||topwarez.fr/promo/
-||topwarez.fr^*/TrendGlobes/images/promo.gif
 ||sports.fr^*/habillage/
 ||static.rtl.fr/www-2010/skin/$stylesheet
 ||static.rtl.fr/www/skin/promo/
@@ -363,11 +361,13 @@ _regiepub/
 ||tool.acces-vod.com/infopop/
 ||tool.acces-vod.com/popdhtml/
 ||topanalyse.com/pub/
+||topwarez.fr/promo/
+||topwarez.fr^*/trendglobes/images/promo.gif
+||torrent-avenue.com/popup.php$image,~image,popup
 ||torrent-topliste.com/popup.php$image,~image,popup
 ||torrentfrancais.com/img/z2/
-||torrentfrancais.com/z2/firefox-part$image
 ||torrentfrancais.com/pub.html
-||torrent-avenue.com/popup.php$image,~image,popup
+||torrentfrancais.com/z2/firefox-part$image
 ||trefle.com/js/modules/su.*.js
 ||twenga.fr^$domain=space-blogs.com
 ||une-recette.com/include/_iframe
@@ -396,6 +396,7 @@ _regiepub/
 !------------------ Elements generiques -----------------!
 !
 ###Block_Pub_Right
+###PubBas
 ###PubFooter
 ###PubHead
 ###PubHeader
@@ -429,8 +430,6 @@ _regiepub/
 ###header_bloc2_pub
 ###header_pub
 ###idMapAdvertising
-###PubBas
-##.pub_header_banner
 ###idpublicitepave
 ###iframepub
 ###iframesidebarpub
@@ -513,6 +512,7 @@ _regiepub/
 ##.footerpubleft
 ##.footerpubright
 ##.header-pub
+##.header_pub
 ##.home_pub
 ##.iframe_pub
 ##.little_pub
@@ -531,6 +531,7 @@ _regiepub/
 ##.pubRight1
 ##.pubTopContainer
 ##.pub_carre
+##.pub_header_banner
 ##.pub_leaderboard
 ##.pub_mobile
 ##.pub_outer
@@ -546,7 +547,6 @@ _regiepub/
 ##.publicite_3
 ##.sqrpub
 ##.srcPub
-##.header_pub
 ##.titrePub
 ##.toppubs
 ##.txt-pub
@@ -554,6 +554,7 @@ _regiepub/
 ##[id^="eShowPub"]
 ##a[href^="http://www.crazyloader.com"]
 ! Dimensions
+###Pub728x90
 ###pub-200x197
 ###pub-728
 ###pub-728x90
@@ -570,7 +571,6 @@ _regiepub/
 ##.pub600200
 ##.pub728x90
 ##.pub_300
-###Pub728x90
 !
 !----------------------- Elements -----------------------!
 !
@@ -704,9 +704,6 @@ google.fr##table[style="border: 1px solid #369"]
 gulli.fr##.banner
 histoire-pour-tous.fr##div[align="center"]
 ibuzzyou.fr##div[style="height:280px;float:left;"]
-mypornmotion.com##.LinePromo
-mypornmotion.com###VideoPub300x250
-mypornmotion.com###Pub
 ibuzzyou.tv-replay.fr###ad-ban
 imagedrole.de###main-bottom
 imagik.fr###cb30popmedia
@@ -794,6 +791,9 @@ moov.mg###extruderLeft1
 moov.mg##div[style="margin-top:5px;float:auto;width:100%;height:250px;text-align:center"]
 mu-streaming.com###pb1
 mu-streaming.com##.fixe
+mypornmotion.com###Pub
+mypornmotion.com###VideoPub300x250
+mypornmotion.com##.LinePromo
 neomag.fr###big-ad
 neowebcar.com##.adv-format-1
 nrj.fr###pub
@@ -829,8 +829,8 @@ rfm.fr##.bloc_rightcol_pub
 rolandgarros.com###rail_ad
 roulettechat.fr###lateralAdWrapper
 routard.com###A2dEmplacement97977Reserve
-rtl.be###header
 rtbf.be###bannerLeaderboard
+rtl.be###header
 rtl.fr##.result.sponsor
 rue89.com###partenariat89_masterblock
 rue89.com##.gam-holder
@@ -853,9 +853,9 @@ tele.premiere.fr###pub_a2d_pave
 telechargementgratuits.com###ads
 telechargementgratuits.com###hopdream
 telechargementgratuits.com##.fixe
-torrent-avenue.com##TABLE[width="160"][height="600"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 tf1.fr###ible149256
 top-serie.org###top
+torrent-avenue.com##table[width="160"][height="600"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 trancegoa.org##td > .fb-like-box + br + .texteentete.taille2
 turbo.fr##.croco.betclic
 tv5.org##.bloc_promomiddle
