@@ -70,7 +70,6 @@
 ||illyx.com^$third-party
 ||imgpromo.easyrencontre.com^$third-party
 ||indecentes-voisines.com^$third-party
-||issentiel.com/media/affiliate/banner/$third-party
 ||kreaffiliation.com^$third-party
 ||lien-amateur.org^$third-party
 ||livechatdates.com^$image,~image,popup,third-party
@@ -204,8 +203,8 @@ _regiepub/
 ||conception-site-web.info/modules/creation-site/images/banner.jpg
 ||credit-az.net/pub/
 ||credits-on-line.info/pub/
-||ctqui.com/pub/
 ||csconstantine.com^*/fb-like-pop.js
+||ctqui.com/pub/
 ||dailymotion.com/embed/video/xp3brc?$domain=spi0n.com
 ||deezer.com/ads/
 ||deliv.leboncoin.fr/0/leboncoin/
@@ -238,11 +237,11 @@ _regiepub/
 ||flux.liberation.fr/fnac/
 ||forum-windows.com/images/plimus/
 ||forum-windows.com/open/www/delivre/
-||french-movies.net/btn_usenet.png
 ||forumactif.com/admgt/
 ||fr.ard.yahoo.com^
 ||fr.audiofanzine.com/product.php?
 ||frandroid.com/visuals/pub_affichage_web/
+||french-movies.net/btn_usenet.png
 ||futura-sciences.com/fileadmin/templates/v4/css_habillage/
 ||gagnons-argent.com/pubd.php$image,~image,popup,third-party
 ||gameblog.fr/skins/$image
@@ -252,13 +251,14 @@ _regiepub/
 ||hamachifrance.com^*/images/*banv.jpg
 ||hamachifrance.com^*/images/banvg.jpg
 ||hamachifrance.com^*/images/vg3.jpg
+||hostingpics.net/pics/*ban.png$domain=tonchat.fr
 ||humourquotidien.com/pubs/
-||hostingpics.net/pics/*Ban.png$domain=tonchat.fr
 ||image.jeuxvideo.com/ope/
 ||images.fan-de-cinema.com/habillage/
 ||images1.soonnight.com/template/skins/*/skin.css
 ||impimg.free.fr/pubs/
 ||infos-mobiles.com/pub-
+||issentiel.com/media/affiliate/banner/$third-party
 ||jeux-flash-gratis.com/pics/$domain=la-musique-rai.com
 ||jeuxvideo.com/sponso/
 ||jeuxvideo.com^*/avatar/$~stylesheet
@@ -304,8 +304,8 @@ _regiepub/
 ||mr-annonce.fr/images/pub/
 ||mypornmotion.com/popunder.aspx$image,~image,popup
 ||neezzmail.com/js/box.js
-||netmediaeurope.fr^*/*_partnerzone.$image,domain=silicon.fr
 ||neomag.fr/e-pubs/
+||netmediaeurope.fr^*/*_partnerzone.$image,domain=silicon.fr
 ||ohm.adstronic.net^
 ||one-piece-streaming.fr/images/min/pub/
 ||onvasortir.com/pub/
@@ -840,8 +840,8 @@ rue89.com##.gam-holder
 search.ke.voila.fr###fontDivVignette
 silicon.fr###megabanner
 silicon.fr###skycraper
-silicon.fr##.widget_advertisement
 silicon.fr###slider-partnerzone
+silicon.fr##.widget_advertisement
 slate.fr###smart14320
 softonic.fr##.topbanner
 soonnight.com###partenaire
