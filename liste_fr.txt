@@ -23,9 +23,9 @@
 ||adserverpub.com^$image,~image,popup
 ||adserverpub.com^$third-party
 ||affiliation-france.com^$third-party
+||affiliaweb.eu^$third-party
 ||affilipub.com^$third-party
 ||affility.com^$third-party
-||affiliaweb.eu^$third-party
 ||africawin.com^$third-party
 ||allo-audience.fr^$third-party
 ||alloclick.com^$third-party
@@ -233,13 +233,12 @@ _regiepub/
 ||eurosportbet.loa24.com^$domain=eurosport.fr
 ||explorerlondres.com^*/hotelscom.gif
 ||export.kelkoo.fr/$subdocument
-||findmysexfriend.com/$image,~image,popup,domain=extremepc.fr
-||frenchfriendfinder.com^$domain=choualbox.com
 ||external.priceminister.com^$domain=strasbourg-tramway.fr
 ||fastecard.net^*/pub
 ||fdata.over-blog.net^*/js/ob.bar1*.js
 ||files-save.com/noyaux/pub/
 ||files.meteofrance.com/files/dm/moteurmfr/insertframe.js
+||findmysexfriend.com/$image,~image,popup,domain=extremepc.fr
 ||flux.liberation.fr/fnac/
 ||forum-windows.com/images/plimus/
 ||forum-windows.com/open/www/delivre/
@@ -248,6 +247,7 @@ _regiepub/
 ||fr.audiofanzine.com/product.php?
 ||frandroid.com/visuals/pub_affichage_web/
 ||french-movies.net/btn_usenet.png
+||frenchfriendfinder.com^$domain=choualbox.com
 ||futura-sciences.com/fileadmin/templates/v4/css_habillage/
 ||gagnons-argent.com/pubd.php$image,~image,popup,third-party
 ||gameblog.fr/skins/$image
@@ -288,13 +288,14 @@ _regiepub/
 ||letraitdunion.com/images/headset/
 ||letraitdunion.com/images/wallpaper/
 ||libe.com/libepartnerships/
+||libertyland.tv/libertyland/images/partenaire/
 ||lien-torrent.com/pubs/
+||liens-de-telechargement.com/popmodal/
 ||linternaute.com/*@*,position$script
 ||macside.fr^$domain=buzzdugrizzly.fr
-||liens-de-telechargement.com/popmodal/*
 ||maxisciences.com/static/scripts/incentive.js
-||megadvdrip.com/popup.js
 ||mega-divx.net/cdn-cgi/pe/bag?
+||megadvdrip.com/popup.js
 ||meilleurmobile.com/scripts/var_xml_backgrounds.js
 ||melty.fr^*/meltyad/
 ||mesfilmsstreaming.com/images/download_films.png
@@ -318,7 +319,6 @@ _regiepub/
 ||one-piece-streaming.fr/images/min/pub/
 ||onvasortir.com/pub/
 ||onvillanuit.com^$domain=chartsinfrance.net
-||libertyland.tv/libertyland/images/partenaire/
 ||otaku-attitude.net^*/okazu-manga.gif
 ||ouedkniss.com/pubs/
 ||oujdacity.net/kelkoo*.html
@@ -357,12 +357,12 @@ _regiepub/
 ||sports.fr/includes/nav_footballfr/partenaires/
 ||sports.fr/includes/partenaires/
 ||sports.fr^*/habillage/
+||starter.fm/blog/*/bg_$image
+||starter.fm/images/*/bg_
 ||static.rtl.fr/www-2010/skin/$stylesheet
 ||static.rtl.fr/www/skin/promo/
 ||stats.hosting24.com/count.php
 ||strasbourg-tramway.fr/ban_
-||starter.fm/images/*/bg_
-||starter.fm/blog/*/bg_$image
 ||strasbourg-tramway.fr/banner
 ||stream-film.com/images/pub.gif
 ||surf-report.com^*/files/weeman_*.jpg
@@ -400,10 +400,10 @@ _regiepub/
 ||xooit.fr/pub.php?
 ||xstarsnews.com/admin/gestion_bann/banniere.php
 ||xstarsnews.com/banner-pub/
-||yimg.com^*/manutan_$image
 ||yes-messenger.com^$third-party,domain=~yesmessenger.com
 ||yesmessenger.com^$third-party,domain=~yes-messenger.com
 ||yimg.com/dh/ap/default/*/yahoolast.jpg
+||yimg.com^*/manutan_$image
 ||zataz.com/cdn-cgi/pe/bag?
 ||zataz.com/images/images_news/
 ||zonebourse.com/content_o_a_s.php?
@@ -570,10 +570,6 @@ _regiepub/
 ##[id^="eShowPub"]
 ##a[href^="http://www.crazyloader.com"]
 ! Dimensions
-###pub_728x90-1
-###pub_728x90-2
-###pub_300x250-2
-###pub_300x250-1
 ###Pub728x90
 ###pub-200x197
 ###pub-728
@@ -581,8 +577,12 @@ _regiepub/
 ###pub250
 ###pub300
 ###pub300x250
+###pub_300x250-1
+###pub_300x250-2
 ###pub_460x60
 ###pub_468x60
+###pub_728x90-1
+###pub_728x90-2
 ##.pub300250
 ##.pub300_contenu
 ##.pub300x250
@@ -678,7 +678,6 @@ do-tube.org##.ads
 dogzer.com###affichage_tag_58
 dogzer.com###header_tr_banniere
 e-sante.fr##.ad
-extremepc.fr###promoHead + HR + .center
 e-sante.fr##.public-info
 emule-island.ru###centre_haut
 emule-island.ru###droite_bas
@@ -688,6 +687,7 @@ ergor.org##.ladypub
 europe1.fr###ad-300x250-2
 europe1.fr##.s-partenaires
 eurosport.fr###Container_OAS_Right
+extremepc.fr###promoHead + hr + .center
 extremepc.fr###pub
 extremepc.fr###pub2an
 femmemag.re###block_regie_pub_bas
@@ -746,8 +746,6 @@ lachainemeteo.com###bloc_aquarelle
 lachainemeteo.com##.bloc_1_col_middle[style="height:160px;"]
 lachainemeteo.com##div[style="float:left;width:615px;height:100px;"]
 lagazettedescommunes.com##[class^="col-note-pub300x"]
-libertyland.tv###leleftbas + DIV[style="width:160px; margin-top:10px;"]
-libertyland.tv##DIV[style="width:980px;height:25px;"]
 lanutrition.fr##.moduletable-banner
 laposte.net###shoppingBox
 lapresse.ca###pubs
@@ -775,7 +773,9 @@ letour.fr###partenaires2
 letraitdunion.com###add_top
 letudiant.fr###pub
 liberation.fr##.block-cPublicite
+libertyland.tv###leleftbas + div[style="width:160px; margin-top:10px;"]
 libertyland.tv##.fixe
+libertyland.tv##div[style="width:980px;height:25px;"]
 lien-torrent.com##.block-banner
 lien-torrent.com##.nav-hd-inscrire
 lien-torrent.com##.nav-profil
@@ -860,7 +860,6 @@ rue89.com##.gam-holder
 search.ke.voila.fr###fontDivVignette
 silicon.fr###megabanner
 silicon.fr###skycraper
-starter.fm##.conteneur_pub_vertical
 silicon.fr###slider-partnerzone
 silicon.fr##.widget_advertisement
 slate.fr###smart14320
@@ -870,6 +869,7 @@ sortirensemble.com###sondage_age
 spi0n.com##.spion_single_pub
 sports.fr###hablinkzone
 sports.orange.fr###adTop2
+starter.fm##.conteneur_pub_vertical
 strasbourg-tramway.fr###ws_embed_footer
 strastv.com##.post_pub
 streamingdivx.com##.popplugin
@@ -933,8 +933,8 @@ zoomdici.fr##.innerArtAdd
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
 @@||e-sante.fr^*/ad-49x72.jpg
 @@||fatherandsons.fr^*/opecom/affiliation/
-@@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||fr-advideum.videoplaza.tv/proxy/distributor?shares=lefigarooutstream$object-subrequest,domain=lefigaro.fr
+@@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
 @@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||google.com/uds/$domain=rfm.fr
@@ -947,8 +947,8 @@ zoomdici.fr##.innerArtAdd
 @@||libe.com/libepartnerships/*/print_subscription.jpg
 @@||libe.com/libepartnerships/*/visuel_pa-*.png
 @@||ma-meilleure-amie.com/participation-concours/publicite/id_categorie/$xmlhttprequest
-@@||media.eurolive.com^$domain=live18ans.com
 @@||malakoffmederic.com/entreprise/*/affiliation/
+@@||media.eurolive.com^$domain=live18ans.com
 @@||meteofrance.com^*/publicite/
 @@||moov.mg/images/offres/push_240x170_v2.01.jpg
 @@||moov.mg/images/offres/push_adsl_bt_v2.jpg
