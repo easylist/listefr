@@ -166,6 +166,7 @@
 /regie_pub/*
 /regiepub/*
 _publicite.
+_publicite_
 _regiepub/
 !
 !----------------------- Sites specifiques -----------------------!
@@ -232,6 +233,7 @@ _regiepub/
 ||eurosportbet.loa24.com^$domain=eurosport.fr
 ||explorerlondres.com^*/hotelscom.gif
 ||export.kelkoo.fr/$subdocument
+||findmysexfriend.com/$image,~image,popup,domain=extremepc.fr
 ||frenchfriendfinder.com^$domain=choualbox.com
 ||external.priceminister.com^$domain=strasbourg-tramway.fr
 ||fastecard.net^*/pub
@@ -676,6 +678,7 @@ do-tube.org##.ads
 dogzer.com###affichage_tag_58
 dogzer.com###header_tr_banniere
 e-sante.fr##.ad
+extremepc.fr###promoHead + HR + .center
 e-sante.fr##.public-info
 emule-island.ru###centre_haut
 emule-island.ru###droite_bas
