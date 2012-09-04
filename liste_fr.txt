@@ -6,6 +6,7 @@
 !
 !----------------------- Annonceurs -----------------------!
 !
+||1sponsor.com^$third-party
 ||a2dfp.net^$third-party
 ||acpublicite.fr^$third-party
 ||ad.adserverplus.com^
@@ -176,6 +177,7 @@ _regiepub/
 ||100pour100sexe.com/pop.js
 ||20minutes.fr/img/auto-promos/
 ||7sur7.be/static/nmc/adv/sponsor/
+||allopass.com^*/pub/$domain=fullanimes.free.fr
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
 ||ad.fr.doubleclick.net/pfadx/clubic/
 ||ad.oujdacity.net^
@@ -714,6 +716,7 @@ francebleu.fr,franceinfo.fr###pub-ftv-top
 franceculture.fr###block-fcbloc-publicite
 frandroid.com##.widget.widget_text
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
+fullanimes.free.fr##[href^="http://www.allopass.com/check/red.php"] > IMG
 gameblog.fr###gba300
 gameblog.fr##div[style=" background-color: #c0c0c0; padding: 7px; height: 260px; overflow: hidden;"]
 gentside.com###kk-widget
