@@ -177,7 +177,6 @@ _regiepub/
 ||100pour100sexe.com/pop.js
 ||20minutes.fr/img/auto-promos/
 ||7sur7.be/static/nmc/adv/sponsor/
-||allopass.com^*/pub/$domain=fullanimes.free.fr
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
 ||ad.fr.doubleclick.net/pfadx/clubic/
 ||ad.oujdacity.net^
@@ -185,6 +184,7 @@ _regiepub/
 ||affilinks.fr/slide.js
 ||air-journal.fr/wp-content/uploads/ad-
 ||allo-heberge.com/interface/bannieres/$domain=megavisites.com
+||allopass.com^*/pub/$domain=fullanimes.free.fr
 ||alvinet.com/images/pub.gif
 ||animes-streaming.net/images/ruedufric.png
 ||asie-info.fr/wp-content/uploads/*/livre-franck-amat.jpg
@@ -205,8 +205,8 @@ _regiepub/
 ||cdn.installclick.fr^*/ad.html
 ||cdscdn.com/imagesok/tetiere/partners/
 ||choubijoux.com/image/banniere-$third-party
-||coco.fr/chat/bigban
 ||citizenkane.fr^*/acurax-on-click-pop-under/js.php
+||coco.fr/chat/bigban
 ||conception-site-web.info/modules/creation-site/images/banner.jpg
 ||credit-az.net/pub/
 ||credits-on-line.info/pub/
@@ -467,7 +467,6 @@ _regiepub/
 ###pub-top
 ###pub-widget
 ###pub-widget2
-###pub01
 ###pubBandeau
 ###pubCarre
 ###pubContainer
@@ -501,13 +500,13 @@ _regiepub/
 ###publicite-principale
 ###publicite_banniere
 ###publicite_header
+###publicite_right
 ###publicite_top
 ###pubpreroll
 ###pubright
 ###rightpubbox
 ###roundPub
 ###slidepub
-###sponsorizedLinks
 ###tag_pub_footer
 ###thePubDiv2
 ###top_pub
@@ -547,6 +546,8 @@ _regiepub/
 ##.pubHeader
 ##.pubIframe
 ##.pubLarge
+##.pubLeft
+##.pubRight
 ##.pubRight1
 ##.pubTopContainer
 ##.pub_carre
@@ -558,11 +559,13 @@ _regiepub/
 ##.pub_skyscraper
 ##.pubaccueildroite1
 ##.pubaccueilgauche1
+##.pubadsense
 ##.pubimage
 ##.pubitem
 ##.publarge
 ##.publicite
 ##.publicite-bas
+##.publicite1
 ##.publicite_3
 ##.sqrpub
 ##.srcPub
@@ -615,7 +618,7 @@ allocine.fr##.topheader
 alvinet.com##.leaderboard
 alvinet.com##.skyscraper
 anime00.com###pb1
-assiste.com.free.fr##DIV.robots-nocontent > TABLE A > IMG
+assiste.com.free.fr##.robots-nocontent > TABLE a > img
 audiofanzine.com###leaderboardContainer
 aujourdhui-en-france.fr,leparisien.fr###clubDealbloc
 aujourdhui-en-france.fr,leparisien.fr###module-rencontres
@@ -717,7 +720,7 @@ francebleu.fr,franceinfo.fr###pub-ftv-top
 franceculture.fr###block-fcbloc-publicite
 frandroid.com##.widget.widget_text
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
-fullanimes.free.fr##[href^="http://www.allopass.com/check/red.php"] > IMG
+fullanimes.free.fr##[href^="http://www.allopass.com/check/red.php"] > img
 gameblog.fr###gba300
 gameblog.fr##div[style=" background-color: #c0c0c0; padding: 7px; height: 260px; overflow: hidden;"]
 gentside.com###kk-widget
@@ -874,11 +877,11 @@ sortirensemble.com###sondage_age
 spi0n.com##.spion_single_pub
 sports.fr###hablinkzone
 sports.orange.fr###adTop2
-super-drole.com###cadre_infoads
 starter.fm##.conteneur_pub_vertical
 strasbourg-tramway.fr###ws_embed_footer
 strastv.com##.post_pub
 streamingdivx.com##.popplugin
+super-drole.com###cadre_infoads
 techno-science.net##.module.moduleBoutiqueEncart
 tele.premiere.fr###pub_a2d_pave
 telechargementgratuits.com###ads
