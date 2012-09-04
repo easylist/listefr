@@ -325,9 +325,9 @@ _regiepub/
 ||otaku-attitude.net^*/okazu-manga.gif
 ||ouedkniss.com/pubs/
 ||oujdacity.net/kelkoo*.html
-||passeportsante.net^*/controls/pub/
 ||pafpaf.com/pubs/
 ||pafpaf.com/pubs/$image,~image,popup
+||passeportsante.net^*/controls/pub/
 ||petite-annonce-gratuite.com/encarts/bannieres/
 ||pointscommuns.com/images/bannieres/$third-party
 ||pornomaniac.fr/javascript/popunder5.js
@@ -375,9 +375,9 @@ _regiepub/
 ||sylvainpellier.fr/bandeau/
 ||tac2.xcams.com/livecams/$third-party
 ||telechargementgratuits.com/hexa.png
+||terasexe.com/pubs/
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
 ||textograto.com/iframe1.php
-||terasexe.com/pubs/
 ||theadultcompany.biz/*/ff_siteunder/$image,~image,popup
 ||ti.bank.free.fr/images/jarrety
 ||tool.acces-vod.com/infopop/
@@ -424,6 +424,7 @@ _regiepub/
 ###PubHead
 ###PubHeader
 ###PubPave
+###ad-rectangle1
 ###adsCarre
 ###adsHaut
 ###annonce_pub2
@@ -433,14 +434,14 @@ _regiepub/
 ###banniere_pub
 ###bloc-pub
 ###blocPublicitaire
+###bloc_pub_carre
 ###block-advertisement
 ###block_pub
 ###block_pub_article
 ###cadre_pub_bas
 ###carre-pub
-###content_pub_carre
-###bloc_pub_carre
 ###carre_pub
+###content_pub_carre
 ###contextuel-publicite-video
 ###divPub
 ###div_pub_google
@@ -582,6 +583,8 @@ _regiepub/
 ##[id^="eShowPub"]
 ##a[href^="http://www.crazyloader.com"]
 ! Dimensions
+###adl_300x250
+###adl_728x90
 ###Pub728x90
 ###pub-200x197
 ###pub-728
@@ -658,8 +661,6 @@ centerblog.net###pub
 chronofoot.com##.add300
 chuck-streaming.fr,hawaii-streaming.com,smash-streaming.com,the-big-bang-streaming.com,trone-de-fer-streaming.com###cgu_pub
 cinemagora.com###adl_300x100
-cinemagora.com###adl_300x250
-cinemagora.com###adl_728x90
 cinemay.com###pb1
 clicbienetre.com###popup
 clicbienetre.com##.sidebar_block
@@ -777,12 +778,12 @@ lemonde.fr##.conteneur_ligatus
 lemonde.fr##.global.services
 lemouv.fr###block-lemouv_bloc-pub_ftv_top
 lensois.com###transparentad
-lesdebiles.com##.menu_droite_partenaire
-lesdebiles.com##.pub
 leparisien.fr###parisien-partenaires
 lepoint.fr###seloger_annonces_immo
 lepoint.fr###seloger_recherche_immo
 lepoint.fr##.pub
+lesdebiles.com##.menu_droite_partenaire
+lesdebiles.com##.pub
 lesnumeriques.com###ifr_pub
 lesoir.be###ads-leaderboard
 letour.fr###partenaires2
