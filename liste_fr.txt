@@ -416,6 +416,12 @@ _regiepub/
 ||zataz.com/images/images_news/
 ||zonebourse.com/content_o_a_s.php?
 ||zoomdici.fr/media/pub/
+||zone911pub.com^
+||fm93.com/images/publiereportage/
+||fm93.com^*/pub/
+||fm93.com/js/larouche
+||fm93.com/webradio/poppers-
+||fm93.com/webradio/gabarits-webradio-poppers-bg.jpg
 !
 !------------------ Elements generiques -----------------!
 !
@@ -552,6 +558,7 @@ _regiepub/
 ##.pubBottomRight
 ##.pubContent
 ##.pubFlash
+##.pub_text
 ##.pubHeader
 ##.pubIframe
 ##.pubLarge
@@ -592,6 +599,7 @@ _regiepub/
 ###pub-728
 ###pub-728x90
 ###pub250
+##.pub300
 ###pub300
 ###pub300x250
 ###pub_300x250-1
