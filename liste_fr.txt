@@ -88,9 +88,9 @@
 ||orangepublicite.fr^$third-party
 ||oxiads.fr/www/images/
 ||papycash.com$third-party
-||payglad.com^$third-party
 ||partner.leguide.com^$third-party
 ||paruvendu.fr^$image,~image,popup,third-party
+||payglad.com^$third-party
 ||pepitastore.com^$domain=clubic.com
 ||piximedia.fr^$third-party,domain=~allocine.fr
 ||porn.fr^$third-party
@@ -245,6 +245,11 @@ _regiepub/
 ||files.meteofrance.com/files/dm/moteurmfr/insertframe.js
 ||findmysexfriend.com/$image,~image,popup,domain=extremepc.fr
 ||flux.liberation.fr/fnac/
+||fm93.com/images/publiereportage/
+||fm93.com/js/larouche
+||fm93.com/webradio/gabarits-webradio-poppers-bg.jpg
+||fm93.com/webradio/poppers-
+||fm93.com^*/pub/
 ||forum-windows.com/images/plimus/
 ||forum-windows.com/open/www/delivre/
 ||forumactif.com/admgt/
@@ -255,9 +260,9 @@ _regiepub/
 ||frenchfriendfinder.com^$domain=choualbox.com
 ||futura-sciences.com^*/templates/*/css_habillage/
 ||gagnons-argent.com/pubd.php$image,~image,popup,third-party
-||gigacu.com/jquery.js
 ||gameblog.fr/skins/$image
 ||gamekult.com/i/fnac-hp-300x100.jpg
+||gigacu.com/jquery.js
 ||globirank.com/image/$domain=unlock-stream.com
 ||groupolitan.be/fr/partners/iframe/
 ||hamachifrance.com^*/images/*banv.jpg
@@ -328,6 +333,7 @@ _regiepub/
 ||otaku-attitude.net^*/okazu-manga.gif
 ||ouedkniss.com/pubs/
 ||oujdacity.net/kelkoo*.html
+||p0rno.com/banners/
 ||pafpaf.com/pubs/
 ||pafpaf.com/pubs/$image,~image,popup
 ||passeportsante.net^*/controls/pub/
@@ -336,7 +342,6 @@ _regiepub/
 ||pornomaniac.fr/javascript/popunder5.js
 ||porsche-99x.info/pagedirect/*/pub/
 ||portail.free.fr/modules/shopping/*/shopping.html
-||p0rno.com/banners/
 ||pp.free.fr^
 ||presse-citron.net^*/chicklets_pub/
 ||pro.cdmail.fr/pro/images/
@@ -418,14 +423,9 @@ _regiepub/
 ||yimg.com^*/manutan_$image
 ||zataz.com/cdn-cgi/pe/bag?
 ||zataz.com/images/images_news/
+||zone911pub.com^
 ||zonebourse.com/content_o_a_s.php?
 ||zoomdici.fr/media/pub/
-||zone911pub.com^
-||fm93.com/images/publiereportage/
-||fm93.com^*/pub/
-||fm93.com/js/larouche
-||fm93.com/webradio/poppers-
-||fm93.com/webradio/gabarits-webradio-poppers-bg.jpg
 !
 !------------------ Elements generiques -----------------!
 !
@@ -435,8 +435,8 @@ _regiepub/
 ###PubHead
 ###PubHeader
 ###PubPave
-###ad-rectangle1
 ###ad-megaban2
+###ad-rectangle1
 ###adsCarre
 ###adsHaut
 ###annonce_pub2
@@ -562,7 +562,6 @@ _regiepub/
 ##.pubBottomRight
 ##.pubContent
 ##.pubFlash
-##.pub_text
 ##.pubHeader
 ##.pubIframe
 ##.pubLarge
@@ -577,6 +576,7 @@ _regiepub/
 ##.pub_outer
 ##.pub_pave
 ##.pub_skyscraper
+##.pub_text
 ##.pubaccueildroite1
 ##.pubaccueilgauche1
 ##.pubadsense
@@ -596,14 +596,14 @@ _regiepub/
 ##[id^="eShowPub"]
 ##a[href^="http://www.crazyloader.com"]
 ! Dimensions
+###Pub728x90
 ###adl_300x250
 ###adl_728x90
-###Pub728x90
+###ad-300x250-2
 ###pub-200x197
 ###pub-728
 ###pub-728x90
 ###pub250
-##.pub300
 ###pub300
 ###pub300x250
 ###pub_300x250-1
@@ -612,6 +612,7 @@ _regiepub/
 ###pub_468x60
 ###pub_728x90-1
 ###pub_728x90-2
+##.pub300
 ##.pub300250
 ##.pub300_contenu
 ##.pub300x250
@@ -814,6 +815,7 @@ livefootball.fr###ad6b_doubu8f6d5n
 liveradio.fr###ad1
 lo.st##.home_partner_img
 loisirados.com###intersticiel
+mail.voila.fr###blocServices
 maison-facile.com##.texteb
 manga-sanctuary.com###hab
 mangario.fr##.partenaires
@@ -825,7 +827,6 @@ masculin.com##div[style="float:left; width:980px; height:90px; text-align:left; 
 matchendirect.fr###prehome_contenu
 matchendirect.fr###prehome_fond
 matchendirect.mobi###pub1
-mail.voila.fr###blocServices
 maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
 maxistreaming.com###header
 maxistreaming.com###searchform
@@ -869,9 +870,9 @@ pagesjaunes.fr##.containerPdsSitesPartenaires
 pagesjaunes.fr##.pushKeltravo
 paruvendu.fr##.h11-ad-top
 pcastuces.com##table[width="95%"][cellspacing="4"][cellpadding="4"][align="center"]
+photos-persos-sexy.com##table[style="border-style: solid; border-width: 0px; background-color: #ffffff; width: 100%; height: 280px;"]
 planet.fr##.block-gc_ad
 portail.free.fr###partenaires
-photos-persos-sexy.com##TABLE[style="border-style: solid; border-width: 0px; background-color: #ffffff; width: 100%; height: 280px;"]
 premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 programme-tv.net###blocPub_MEGABAN
 programme-tv.net###pub_pole_position1
@@ -893,20 +894,20 @@ rue89.com##.gam-holder
 search.ke.voila.fr###fontDivVignette
 silicon.fr###megabanner
 silicon.fr###skycraper
-southparkstreaming.fr##.bannergroup
 silicon.fr###slider-partnerzone
 silicon.fr##.widget_advertisement
 slate.fr###smart14320
 softonic.fr##.topbanner
 soonnight.com###partenaire
 sortirensemble.com###sondage_age
+southparkstreaming.fr##.bannergroup
 spi0n.com##.spion_single_pub
 sports.fr###hablinkzone
 sports.orange.fr###adTop2
 starter.fm##.conteneur_pub_vertical
 strasbourg-tramway.fr###ws_embed_footer
-strastv.com##.post_pub
 strastv.com##.container_pubh_02
+strastv.com##.post_pub
 streamingdivx.com##.popplugin
 super-drole.com###cadre_infoads
 techno-science.net##.module.moduleBoutiqueEncart
@@ -958,8 +959,8 @@ zoomdici.fr##.innerArtAdd
 @@||afe2.specificclick.net/crossdomain.xml$domain=videos.nt1.tv
 @@||allocine.fr/crossdomain.xml
 @@||astw.adgear.com^$domain=tetesaclaques.tv
-@@||blog.lemonde.fr/files/
 @@||banners.oxiads.fr/player/$domain=rabbitfinder.com
+@@||blog.lemonde.fr/files/
 @@||blogdumac.com/pub/images/footer-bdm_02.png
 @@||ccmbenchmark.com^
 @@||chronoprestige.com/images/pubs/
@@ -1018,10 +1019,10 @@ zoomdici.fr##.innerArtAdd
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 ! Exception d'elements
-pointvente.fr#@#.ad_line
 fichier.net#@##contentAd
 gamexpo.fr#@#.advertisment
 jeuxjeuxjeux.fr#@#.ad-left
+pointvente.fr#@#.ad_line
 ratus13.com#@#.ad-block
 scooter-infos.com#@#.adlist
 vente-a-domicile.fr#@#.ad-left
