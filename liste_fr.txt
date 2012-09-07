@@ -271,6 +271,8 @@ _regiepub/
 ||hamachifrance.com^*/images/*banv.jpg
 ||hamachifrance.com^*/images/banvg.jpg
 ||hamachifrance.com^*/images/vg3.jpg
+||herault-tribune.com^*/rep_pub/
+||herault-tribune.com^*/flash_pub_
 ||hostingpics.net/pics/*ban.png$domain=tonchat.fr
 ||humourquotidien.com/pubs/
 ||image.jeuxvideo.com/ope/
@@ -505,6 +507,8 @@ _regiepub/
 ###pubEncart
 ###pubEncart1
 ###pubEncart2
+###pub_left
+###content_left_pub
 ###pubFrame
 ###pubHaut
 ###pubImg
@@ -769,6 +773,7 @@ google.fr###tadsb
 google.fr##table[style="border: 1px solid #369"]
 gulli.fr##.banner
 histoire-pour-tous.fr##div[align="center"]
+herault-tribune.com##[id^=content_right_pub]
 ibuzzyou.fr##div[style="height:280px;float:left;"]
 ibuzzyou.tv-replay.fr###ad-ban
 imagedrole.de###main-bottom
@@ -854,6 +859,7 @@ meteomedia.com###workopolis
 millenium.org###logo_droite
 minutefacile.com##.pub
 miroirsocial.com###partners
+midilibre.fr##.advert
 mistergoodmovies.net###addspace
 mon-ordi.com##td[width="567"]
 moov.mg###extruderLeft1
