@@ -44,8 +44,8 @@
 ||cdn.nextperf.net^$third-party
 ||comclick.com^$third-party
 ||cougar-rencontre.net^$third-party
-||danstonfion.com^$third-party
 ||danstonfion.com^$image,~image,popup,third-party
+||danstonfion.com^$third-party
 ||dekalee.net^$third-party
 ||deliv.prisma-presse.com^$third-party
 ||dfast.net^$third-party
@@ -221,6 +221,7 @@ _regiepub/
 ||directvelo.com/images/habillage/
 ||directvelo.com/images/livre/pub-
 ||directvelo.com/images/partenaires/
+||discountmanga.com/affilies/$domain=sky-animes.com
 ||dpstream.net/fichiers/pub/
 ||e-sante.fr/sites/default/files/templates/$image
 ||easyrencontre.com/promo
@@ -238,8 +239,6 @@ _regiepub/
 ||explorerlondres.com^*/hotelscom.gif
 ||export.kelkoo.fr/$subdocument
 ||external.priceminister.com^$domain=strasbourg-tramway.fr
-||kamehashop.fr/partenaire/$domain=sky-animes.com
-||discountmanga.com/affilies/$domain=sky-animes.com
 ||fastecard.net^*/pub
 ||fdata.over-blog.net^*/js/ob.bar1*.js
 ||files-save.com/noyaux/pub/
@@ -281,6 +280,7 @@ _regiepub/
 ||jeuxvideo.com/sponso/
 ||jeuxvideo.com^*/avatar/$~stylesheet
 ||juif.org/img/partners/
+||kamehashop.fr/partenaire/$domain=sky-animes.com
 ||kelbillet.com/ws_smads_integration.php
 ||l.liberation.fr/img/promo/
 ||la-musique-rai.com/images/banner_
@@ -356,10 +356,6 @@ _regiepub/
 ||routard.com/img/homepart/budget_air/
 ||rue89.com/files/skin/themes/visa/background.jpg
 ||sbx.pagesjaunes.fr^
-||sky-animes.com/pubs/
-||sky-animes.com/ban/partenaires/
-||sky-animes.com/scripts/liens.php?show=topsites
-||sky-animes.com/scripts/liens.php?show=partenaires
 ||scoopers.com/?o=$image,~image,popup
 ||script.banstex.com^
 ||sexe-i.com/js/u.js
@@ -369,6 +365,10 @@ _regiepub/
 ||shoppytab.com/shoppytab-id=
 ||shoppytab.com/shops/
 ||signification-prenom.com/images/starmyname-prenom.gif
+||sky-animes.com/ban/partenaires/
+||sky-animes.com/pubs/
+||sky-animes.com/scripts/liens.php?show=partenaires
+||sky-animes.com/scripts/liens.php?show=topsites
 ||softonic.fr/specials-leaderboard
 ||soonnight.com/images/mini_ban_partenaire/
 ||soonnight.com/template/purr/
@@ -439,6 +439,8 @@ _regiepub/
 ###PubFooter
 ###PubHead
 ###PubHeader
+###PubHorizontaleInner
+###PubHorizontaleMain
 ###PubPave
 ###ad-megaban2
 ###ad-rectangle1
@@ -455,6 +457,7 @@ _regiepub/
 ###block-advertisement
 ###block_pub
 ###block_pub_article
+###block_regie_pub_bas
 ###cadre_pub_bas
 ###carre-pub
 ###carre_pub
@@ -492,6 +495,7 @@ _regiepub/
 ###pub-widget
 ###pub-widget2
 ###pubBandeau
+###pubBottomRight
 ###pubCarre
 ###pubContainer
 ~visitvar.fr###pubDroite
@@ -500,6 +504,8 @@ _regiepub/
 ###pubEncart2
 ###pubFrame
 ###pubHaut
+###pubImg
+###pubMiddle
 ###pubPartenaires
 ###pubVideo
 ###pub_ban
@@ -518,7 +524,6 @@ _regiepub/
 ###pub_square
 ###pub_top
 ###pubbas
-###pubImg
 ###pubdirecte
 ###pubgoogle
 ~ma-meilleure-amie.com###publicite
@@ -542,12 +547,14 @@ _regiepub/
 ##.annonces_google
 ##.blocPub
 ##.bloc_pub_left
+##.bloc_rightcol_pub
 ##.block-pubimage
 ##.block_pub
 ##.blocpub
 ##.carre_pub
 ##.carrepub
 ##.container-pubcarre
+##.conteneur_pub_vertical
 ##.encart_pub
 ##.entete_pub
 ##.fixe > a[href^="http://www.adcash.com/"]
@@ -603,15 +610,16 @@ _regiepub/
 ##a[href^="http://www.crazyloader.com"]
 ! Dimensions
 ###Pub728x90
+###ad-300x250-2
 ###adl_300x250
 ###adl_728x90
-###ad-300x250-2
 ###pub-200x197
 ###pub-728
 ###pub-728x90
 ###pub250
 ###pub300
 ###pub300x250
+###pub468x60_gauche
 ###pub_300x250-1
 ###pub_300x250-2
 ###pub_460x60
@@ -654,7 +662,6 @@ aujourdhui-en-france.fr,leparisien.fr###clubDealbloc
 aujourdhui-en-france.fr,leparisien.fr###module-rencontres
 aujourdhui-en-france.fr,leparisien.fr##.moduleNew300
 aujourdhui-en-france.fr,leparisien.fr##.venteprivee
-autocaravane.fr###pub468x60_gauche
 bakchich.info##.scpe-pub
 beaute-test.com##.addict_bloc
 blog.you-test.ch##body > :nth-child(n) + style + div[id]:last-child
@@ -719,13 +726,11 @@ emule-island.ru###droite_bas
 emule-island.ru###droite_haut
 emule-island.ru###pub
 ergor.org##.ladypub
-europe1.fr###ad-300x250-2
 europe1.fr##.s-partenaires
 eurosport.fr###Container_OAS_Right
 extremepc.fr###promoHead + hr + .center
 extremepc.fr###pub
 extremepc.fr###pub2an
-femmemag.re###block_regie_pub_bas
 femmemag.re###block_regie_pub_bas_article
 filmze.com##.fixe
 flights-results.liligo.fr###pulledbanner
@@ -827,8 +832,6 @@ manga-sanctuary.com###hab
 mangario.fr##.partenaires
 maps.google.fr##.ad
 marianne2.fr###mod_1171545
-maritima.info###PubHorizontaleInner
-maritima.info###PubHorizontaleMain
 masculin.com##div[style="float:left; width:980px; height:90px; text-align:left; padding-top:10px;"]
 matchendirect.fr###prehome_contenu
 matchendirect.fr###prehome_fond
@@ -888,7 +891,6 @@ radiofrance.fr##table[width="765"][height="100"]
 raje.fr##.ads
 redlist-ultimate.be###partenaire
 redlist-ultimate.be##[style="display:none;"] + .block
-rfm.fr##.bloc_rightcol_pub
 rolandgarros.com###rail_ad
 roulettechat.fr###lateralAdWrapper
 routard.com###A2dEmplacement97977Reserve
@@ -902,6 +904,7 @@ silicon.fr###megabanner
 silicon.fr###skycraper
 silicon.fr###slider-partnerzone
 silicon.fr##.widget_advertisement
+sky-animes.com##.fixe
 slate.fr###smart14320
 softonic.fr##.topbanner
 soonnight.com###partenaire
@@ -910,11 +913,9 @@ southparkstreaming.fr##.bannergroup
 spi0n.com##.spion_single_pub
 sports.fr###hablinkzone
 sports.orange.fr###adTop2
-starter.fm##.conteneur_pub_vertical
 strasbourg-tramway.fr###ws_embed_footer
 strastv.com##.container_pubh_02
 strastv.com##.post_pub
-sky-animes.com##.fixe
 streamingdivx.com##.popplugin
 super-drole.com###cadre_infoads
 techno-science.net##.module.moduleBoutiqueEncart
