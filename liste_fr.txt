@@ -238,6 +238,8 @@ _regiepub/
 ||explorerlondres.com^*/hotelscom.gif
 ||export.kelkoo.fr/$subdocument
 ||external.priceminister.com^$domain=strasbourg-tramway.fr
+||kamehashop.fr/partenaire/$domain=sky-animes.com
+||discountmanga.com/affilies/$domain=sky-animes.com
 ||fastecard.net^*/pub
 ||fdata.over-blog.net^*/js/ob.bar1*.js
 ||files-save.com/noyaux/pub/
@@ -354,6 +356,10 @@ _regiepub/
 ||routard.com/img/homepart/budget_air/
 ||rue89.com/files/skin/themes/visa/background.jpg
 ||sbx.pagesjaunes.fr^
+||sky-animes.com/pubs/
+||sky-animes.com/ban/partenaires/
+||sky-animes.com/scripts/liens.php?show=topsites
+||sky-animes.com/scripts/liens.php?show=partenaires
 ||scoopers.com/?o=$image,~image,popup
 ||script.banstex.com^
 ||sexe-i.com/js/u.js
@@ -512,6 +518,7 @@ _regiepub/
 ###pub_square
 ###pub_top
 ###pubbas
+###pubImg
 ###pubdirecte
 ###pubgoogle
 ~ma-meilleure-amie.com###publicite
@@ -907,6 +914,7 @@ starter.fm##.conteneur_pub_vertical
 strasbourg-tramway.fr###ws_embed_footer
 strastv.com##.container_pubh_02
 strastv.com##.post_pub
+sky-animes.com##.fixe
 streamingdivx.com##.popplugin
 super-drole.com###cadre_infoads
 techno-science.net##.module.moduleBoutiqueEncart
