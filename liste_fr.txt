@@ -190,9 +190,9 @@ _regiepub/
 ||allopass.com^*/pub/$domain=fullanimes.free.fr
 ||alvinet.com/images/pub.gif
 ||animes-streaming.net/images/ruedufric.png
+||asie-info.fr/wp-content/uploads/*/banner-asieinfo-
 ||asie-info.fr/wp-content/uploads/*/livre-franck-amat.jpg
 ||asie-info.fr/wp-content/uploads/*/pub_
-||asie-info.fr/wp-content/uploads/*/banner-asieinfo-
 ||autoreflex.com^profils/1004/images/fond$image
 ||ba.ccm2.net^
 ||binnews.in/_images/ad
@@ -258,8 +258,8 @@ _regiepub/
 ||forumactif.com/admgt/
 ||fr.ard.yahoo.com^
 ||fr.audiofanzine.com/product.php?
-||free.fr^*/js/display_shopping_alice.js
 ||frandroid.com/visuals/pub_affichage_web/
+||free.fr^*/js/display_shopping_alice.js
 ||french-movies.net/btn_usenet.png
 ||frenchfriendfinder.com^$domain=choualbox.com
 ||futura-sciences.com^*/templates/*/css_habillage/
@@ -272,8 +272,8 @@ _regiepub/
 ||hamachifrance.com^*/images/*banv.jpg
 ||hamachifrance.com^*/images/banvg.jpg
 ||hamachifrance.com^*/images/vg3.jpg
-||herault-tribune.com^*/rep_pub/
 ||herault-tribune.com^*/flash_pub_
+||herault-tribune.com^*/rep_pub/
 ||hostingpics.net/pics/*ban.png$domain=tonchat.fr
 ||humourquotidien.com/pubs/
 ||image.jeuxvideo.com/ope/
@@ -310,8 +310,8 @@ _regiepub/
 ||lien-torrent.com/pubs/
 ||liens-de-telechargement.com/popmodal/
 ||linternaute.com/*@*,position$script
-||macside.fr^$domain=buzzdugrizzly.fr
 ||macbidouille.com/banners/
+||macside.fr^$domain=buzzdugrizzly.fr
 ||maxisciences.com/static/scripts/incentive.js
 ||mega-divx.net/cdn-cgi/pe/bag?
 ||megadvdrip.com/popup.js
@@ -419,14 +419,15 @@ _regiepub/
 ||vazigo.fr/css/pub.css
 ||vazigo.fr/referencement/pub_frame.php
 ||viacredit.net/pub/
+||videoplaza.tv/creatives/assets/$object-subrequest,domain=rfi.fr
 ||videos-de-celebrites.com/pub/
 ||wawa-mania.cc/ph.jpg
 ||webchoc.com/pop.js
 ||webmarchand.be/js/ov.js.php?
 ||weemove.com/ressources/images/habillages/
 ||winds-up.com/images/pub/
+||wtpn.twenga.com/publisher/$third-party
 ||wtpn.twenga.fr/publisher/$third-party
-||wtpn.twenga.com/Publisher/$third-party
 ||xooit.be/pub.php?
 ||xooit.fr/pub.php?
 ||xstarsnews.com/admin/gestion_bann/banniere.php
@@ -469,6 +470,7 @@ _regiepub/
 ###cadre_pub_bas
 ###carre-pub
 ###carre_pub
+###content_left_pub
 ###content_pub_carre
 ###contextuel-publicite-video
 ###divPub
@@ -511,13 +513,12 @@ _regiepub/
 ###pubEncart
 ###pubEncart1
 ###pubEncart2
-###pub_left
-###content_left_pub
 ###pubFrame
 ###pubHaut
 ###pubImg
 ###pubMiddle
 ###pubPartenaires
+###pubTop
 ###pubVideo
 ###pub_ban
 ###pub_banner
@@ -529,6 +530,7 @@ _regiepub/
 ###pub_haut
 ###pub_header
 ###pub_header_droite
+###pub_left
 ###pub_pave
 ###pub_pave_bottom
 ###pub_pave_top
@@ -554,8 +556,6 @@ _regiepub/
 ###top_pub
 ###wrapper-pub
 ###zone_pub
-##.pub_banner
-###pubTop
 ##.adsenseWrapper
 ##.adspave
 ##.annonces_google
@@ -596,6 +596,7 @@ _regiepub/
 ##.pubRight
 ##.pubRight1
 ##.pubTopContainer
+##.pub_banner
 ##.pub_carre
 ##.pub_header_banner
 ##.pub_leaderboard
@@ -778,8 +779,8 @@ google.fr###rhsline
 google.fr###tadsb
 google.fr##table[style="border: 1px solid #369"]
 gulli.fr##.banner
-histoire-pour-tous.fr##div[align="center"]
 herault-tribune.com##[id^=content_right_pub]
+histoire-pour-tous.fr##div[align="center"]
 ibuzzyou.fr##div[style="height:280px;float:left;"]
 ibuzzyou.tv-replay.fr###ad-ban
 imagedrole.de###main-bottom
@@ -862,10 +863,10 @@ mesfilmsstreaming.com##.fixe
 meteoconsult.fr###bloc_pub_sommaire_terrestre
 meteomedia.com###container_bac
 meteomedia.com###workopolis
+midilibre.fr##.advert
 millenium.org###logo_droite
 minutefacile.com##.pub
 miroirsocial.com###partners
-midilibre.fr##.advert
 mistergoodmovies.net###addspace
 mon-ordi.com##td[width="567"]
 moov.mg###extruderLeft1
@@ -989,6 +990,7 @@ zoomdici.fr##.innerArtAdd
 @@||blog.lemonde.fr/files/
 @@||blogdumac.com/pub/images/footer-bdm_02.png
 @@||ccmbenchmark.com^
+@@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
 @@||chronoprestige.com/images/pubs/
 @@||clic.reussissonsensemble.fr/click*.asp$domain=forfait-mobile-moins-cher.com
 @@||data.panachetech.com^$objetc-subrequest,domain=gameone.net
@@ -998,6 +1000,7 @@ zoomdici.fr##.innerArtAdd
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
 @@||e-sante.fr^*/ad-49x72.jpg
 @@||fatherandsons.fr^*/opecom/affiliation/
+@@||fr-advideum.videoplaza.tv/proxy/distributor/$object-subrequest,domain=rfi.fr
 @@||fr-advideum.videoplaza.tv/proxy/distributor?shares=lefigarooutstream$object-subrequest,domain=lefigaro.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
@@ -1032,8 +1035,8 @@ zoomdici.fr##.innerArtAdd
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|player.canalplus.fr|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
 @@||spi0n.com/p/spi0n-iphone.png
+@@||stickyads.adswizz.com/www/components/videocomponent.swf$object-subrequest,domain=nrj.fr|nrj12.fr
 @@||stickyadstv.com/crossdomain.xml
-@@||stickyads.adswizz.com/www/components/VideoComponent.swf$object-subrequest,domain=nrj12.fr|nrj.fr
 @@||teads.fr/ads/
 @@||tradedoubler.com^$domain=emv3.com|teads.fr
 @@||vbs-ads.s3.amazonaws.com^$domain=premiere.fr
