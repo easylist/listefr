@@ -425,6 +425,7 @@ _regiepub/
 ||weemove.com/ressources/images/habillages/
 ||winds-up.com/images/pub/
 ||wtpn.twenga.fr/publisher/$third-party
+||wtpn.twenga.com/Publisher/$third-party
 ||xooit.be/pub.php?
 ||xooit.fr/pub.php?
 ||xstarsnews.com/admin/gestion_bann/banniere.php
@@ -551,6 +552,8 @@ _regiepub/
 ###top_pub
 ###wrapper-pub
 ###zone_pub
+##.pub_banner
+###pubTop
 ##.adsenseWrapper
 ##.adspave
 ##.annonces_google
@@ -596,7 +599,7 @@ _regiepub/
 ##.pub_leaderboard
 ##.pub_mobile
 ##.pub_outer
-##.pub_pave
+~sport24.com##.pub_pave
 ##.pub_skyscraper
 ##.pub_text
 ##.pubaccueildroite1
