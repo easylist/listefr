@@ -42,10 +42,10 @@
 ||boostclic.com^$third-party
 ||box.shopoon.fr^$third-party
 ||camsympa.com^$third-party,domain=~camsympa.fr
+||carpediem.fr^$third-party
 ||cdn.emule-island.ru/pub/
 ||cdn.nextperf.net^$third-party
 ||comclick.com^$third-party
-||carpediem.fr^$third-party
 ||cougar-rencontre.net^$third-party
 ||danstonfion.com^$image,~image,popup,third-party
 ||danstonfion.com^$third-party
@@ -73,8 +73,8 @@
 ||hopdream.com^$image,~image,popup,third-party
 ||hopdream.com^$third-party
 ||i-promotion.net^$third-party
-||illyx.com^$third-party
 ||illyx.co^$third-party
+||illyx.com^$third-party
 ||imgpromo.easyrencontre.com^$third-party
 ||indecentes-voisines.com^$third-party
 ||kreaffiliation.com^$third-party
@@ -181,13 +181,14 @@ _regiepub/
 !
 /toolbarxooit/toolbar*.js
 ||01net.com/front_office/images/regie/
-||absoluflash.com^*/tube-pub-
-||absoluflash.com^*/jeux-ban/
 ||100pour100sexe.com/pop.js
-||achatventepagefan.com^*/banachat*.gif$third-party
 ||20minutes.fr/img/auto-promos/
 ||7sur7.be/static/nmc/adv/sponsor/
+||absoluflash.com^*/jeux-ban/
+||absoluflash.com^*/tube-pub-
+||achatventepagefan.com^*/banachat*.gif$third-party
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
+||actupc.info/ads_server_
 ||ad.fr.doubleclick.net/pfadx/clubic/
 ||ad.oujdacity.net^
 ||adinlive.com/myslot.jsp?id=
@@ -198,7 +199,6 @@ _regiepub/
 ||animes-streaming.net/images/ruedufric.png
 ||asie-info.fr/wp-content/uploads/*/banner-asieinfo-
 ||asie-info.fr/wp-content/uploads/*/livre-franck-amat.jpg
-||actupc.info/ads_server_
 ||asie-info.fr/wp-content/uploads/*/pub_
 ||autoreflex.com^*/logo_map_partenaires.png
 ||ba.ccm2.net^
@@ -212,7 +212,6 @@ _regiepub/
 ||cbanque.com/i/*/habillage
 ||cdiscount.com/imagesok/tetiere/partners/
 ||cdiscount.com/include/css/op_skin/
-||days-media.fr^*/disclaimers.js
 ||cdmail.fr/banniere/
 ||cdn.installclick.fr^*/ad.html
 ||cdscdn.com/imagesok/tetiere/partners/
@@ -224,6 +223,7 @@ _regiepub/
 ||credits-on-line.info/pub/
 ||csconstantine.com^*/fb-like-pop.js
 ||ctqui.com/pub/
+||days-media.fr^*/disclaimers.js
 ||deezer.com/ads/
 ||deliv.leboncoin.fr/0/leboncoin/
 ||dir-fr.com/banners/$domain=la-musique-rai.com
@@ -234,7 +234,6 @@ _regiepub/
 ||dpstream.net/fichiers/pub/
 ||e-sante.fr/sites/default/files/templates/$image
 ||easyrencontre.com/promo
-||eurolive.com^$domain=les-photos-volees.com
 ||easyvols.org/leparisien/
 ||easyvols.org/liberation/
 ||ecrans.fr/pub.js
@@ -245,6 +244,7 @@ _regiepub/
 ||emploipartner.com/template/pubs/
 ||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
 ||euroclix.fr^$domain=176.31.96.119
+||eurolive.com^$domain=les-photos-volees.com
 ||eurosportbet.loa24.com^$domain=eurosport.fr
 ||explorerlondres.com^*/hotelscom.gif
 ||export.kelkoo.fr/$subdocument
@@ -253,6 +253,7 @@ _regiepub/
 ||fdata.over-blog.net^*/js/ob.bar1*.js
 ||files-save.com/noyaux/pub/
 ||files.meteofrance.com/files/dm/moteurmfr/insertframe.js
+||filmscine.com/images/playerplus.jpg
 ||findmysexfriend.com/$image,~image,popup,domain=extremepc.fr
 ||flux.liberation.fr/fnac/
 ||fm93.com/images/publiereportage/
@@ -275,7 +276,6 @@ _regiepub/
 ||gamekult.com/i/fnac-hp-300x100.jpg
 ||gamekult.com/images/pubs/
 ||gigacu.com/jquery.js
-||filmscine.com/images/playerplus.jpg
 ||globirank.com/image/$domain=unlock-stream.com
 ||groupolitan.be/fr/partners/iframe/
 ||hamachifrance.com^*/images/*banv.jpg
@@ -301,7 +301,6 @@ _regiepub/
 ||la-musique-rai.com/images/banner_
 ||lacanausurfinfo.com/admin/images/pubs/
 ||lacanausurfinfo.com/ressources/pub/
-||letoutx.com/pubs/
 ||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
 ||lagur.com/a7fr/scroller.php$domain=israel7.com
 ||lanutrition.fr/images/banners/
@@ -314,6 +313,7 @@ _regiepub/
 ||les-terrains.com/bd_images/
 ||les-terrains.com/images_pub/
 ||letour.fr^*/partenaires.swf?
+||letoutx.com/pubs/
 ||letraitdunion.com/images/headset/
 ||letraitdunion.com/images/wallpaper/
 ||libe.com/libepartnerships/
@@ -353,7 +353,6 @@ _regiepub/
 ||ohm.adstronic.net^
 ||one-piece-streaming.fr/images/min/pub/
 ||onvasortir.com/pub/
-||socialboost.fr/promo/$third-party
 ||onvillanuit.com^$domain=chartsinfrance.net
 ||otaku-attitude.net^*/okazu-manga.gif
 ||ouedkniss.com/pubs/
@@ -366,16 +365,16 @@ _regiepub/
 ||pointscommuns.com/images/bannieres/$third-party
 ||pornomaniac.fr/javascript/popunder5.js
 ||porsche-99x.info/pagedirect/*/pub/
-||rmf.lesinrocks.com^
-||pub.lesinrocks.com^
 ||portail.free.fr/modules/shopping/*/shopping.html
 ||pp.free.fr^
 ||presse-citron.net^*/chicklets_pub/
 ||pro.cdmail.fr/pro/images/
 ||promo.sextape-streaming.com^
 ||ps3gen.fr/pub/
+||pub.lesinrocks.com^
 ||pub.nyu-nyu.com^
 ||raje.fr/images/banners/
+||rmf.lesinrocks.com^
 ||roulettechat.fr/dynjs/geoloc
 ||roulettechat.fr/js/adsacwm.js
 ||roulettechat.fr^*/facebook-api-pub/
@@ -395,6 +394,7 @@ _regiepub/
 ||sky-animes.com/pubs/
 ||sky-animes.com/scripts/liens.php?show=partenaires
 ||sky-animes.com/scripts/liens.php?show=topsites
+||socialboost.fr/promo/$third-party
 ||softonic.fr/specials-leaderboard
 ||soonnight.com/images/mini_ban_partenaire/
 ||soonnight.com/template/purr/
@@ -486,7 +486,6 @@ _regiepub/
 ###block_pub
 ###block_pub_article
 ###block_regie_pub_bas
-###pubheader
 ###cadre_pub_bas
 ###carre-pub
 ###carre_pub
@@ -560,6 +559,7 @@ _regiepub/
 ###pubbas
 ###pubdirecte
 ###pubgoogle
+###pubheader
 ~ma-meilleure-amie.com###publicite
 ###publicite-principale
 ###publicite_banniere
@@ -684,6 +684,7 @@ _regiepub/
 abrutis.com##.adsense
 abrutis.com##.home_menu_container
 abrutis.com##.pub
+actupc.info###casing > center > table[width="100%"][height="60"][cellspacing="0"][cellpadding="0"]
 agoravox.fr##.pub
 akelys.com##.cellulePUB
 allocine.fr##.coltop
@@ -697,7 +698,6 @@ aujourdhui-en-france.fr,leparisien.fr###clubDealbloc
 aujourdhui-en-france.fr,leparisien.fr###module-rencontres
 aujourdhui-en-france.fr,leparisien.fr##.moduleNew300
 aujourdhui-en-france.fr,leparisien.fr##.venteprivee
-actupc.info###casing > CENTER > TABLE[width="100%"][height="60"][cellspacing="0"][cellpadding="0"]
 autoreflex.com###arx_home_partenaires
 bakchich.info##.scpe-pub
 beaute-test.com##.addict_bloc
@@ -708,6 +708,7 @@ blog2mature.com##.liens
 blog2mature.com##.widget.widget_links
 blogdumac.com###encart-adsense-top-single
 blogs.allocine.fr###pub
+blogs.lesinrocks.com##.sub_headline.top
 blogs.rue89.com##div[style="clear: both; text-align: center; margin: 0px auto;height: 250px; width: 300px;"]
 boulistenaute.com###dropin
 boulistenaute.com##.xo-banner-ad-footer
@@ -741,13 +742,12 @@ codeshttp.com##table[height="100"]
 codeshttp.com##table[height="118"]
 commentcamarche.net###ba_position4
 commentcamarche.net###partners_offers
-slappyto.net##.Adsense
 commentcamarche.net##.advertising
 commentcamarche.net,journaldesfemmes.com,linternaute.com##.publi-info
-days-media.fr##.boxed[style^="width:300px; height:250px"]
 competition.dz##.header-b1-banner
 courrier-picard.fr##.megaban-top
 dailymotion.com##.dm_widget_advert_iabrighttitle
+days-media.fr##.boxed[style^="width:300px; height:250px"]
 deezer.com###bottom
 deezer.com##.pub
 deezer.com##[id^="ads"]
@@ -762,7 +762,6 @@ e-sante.fr##.ad
 e-sante.fr##.public-info
 elwatan.com###megabanner
 elwatan.com###pub_habillage_lien
-filmscine.com###pb1
 emule-island.ru###centre_haut
 emule-island.ru###droite_bas
 emule-island.ru###droite_haut
@@ -774,6 +773,7 @@ extremepc.fr###promoHead + hr + .center
 extremepc.fr###pub
 extremepc.fr###pub2an
 femmemag.re###block_regie_pub_bas_article
+filmscine.com###pb1
 filmze.com##.fixe
 flights-results.liligo.fr###pulledbanner
 flights-results.liligo.fr###pulledbanner-right-top
@@ -811,7 +811,6 @@ ibuzzyou.fr##div[style="height:280px;float:left;"]
 ibuzzyou.tv-replay.fr###ad-ban
 imagedrole.de###main-bottom
 imagik.fr###cb30popmedia
-blogs.lesinrocks.com##.sub_headline.top
 israel7.com##.box2[style="background-color:rgb(0,0,0);height:250px;"]
 israel7.com##.box2[style="background-color:rgb(0,0,0);padding:20px;"]
 israel7.com##.box2[style="padding:5px;height:600px;"]
@@ -831,10 +830,10 @@ lachainemeteo.com##.bloc_1_col_middle[style="height:160px;"]
 lachainemeteo.com##div[style="float:left;width:615px;height:100px;"]
 lagazettedescommunes.com##[class^="col-note-pub300x"]
 lanutrition.fr##.moduletable-banner
-lesinrocks.com##.skin-link
 laposte.net###shoppingBox
 lapresse.ca###pubs
 laptopspirit.fr##a[href^="http://www.prix-portables.fr/pub/"]
+lastfilmstreaming.com###pb1
 lastminute.com##.adContainer
 lcd-compare.com##.ads1_label
 leboncoin.fr##div[class="newPartnerbox"]
@@ -855,6 +854,7 @@ lepoint.fr###seloger_recherche_immo
 lepoint.fr##.pub
 lesdebiles.com##.menu_droite_partenaire
 lesdebiles.com##.pub
+lesinrocks.com##.skin-link
 lesnumeriques.com###ifr_pub
 lesoir.be###ads-leaderboard
 letour.fr###partenaires2
@@ -908,7 +908,6 @@ mypornmotion.com##.LinePromo
 neomag.fr###big-ad
 neowebcar.com##.adv-format-1
 nrj.fr###pub
-lastfilmstreaming.com###pb1
 numerama.com###general_dec
 one-piece-streaming.fr###fermerPub
 oopsbuzz.com##.behincontent
@@ -952,6 +951,7 @@ silicon.fr###skycraper
 silicon.fr###slider-partnerzone
 silicon.fr##.widget_advertisement
 sky-animes.com##.fixe
+slappyto.net##.Adsense
 slate.fr###smart14320
 softonic.fr##.topbanner
 soonnight.com###partenaire
@@ -1029,7 +1029,6 @@ zoomdici.fr##.innerArtAdd
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
 @@||e-sante.fr^*/ad-49x72.jpg
 @@||fatherandsons.fr^*/opecom/affiliation/
-@@||media.the-adult-company.com^$domain=celibataires.fr
 @@||fr-advideum.videoplaza.tv/proxy/distributor/$object-subrequest,domain=rfi.fr
 @@||fr-advideum.videoplaza.tv/proxy/distributor?shares=lefigarooutstream$object-subrequest,domain=lefigaro.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
@@ -1040,6 +1039,7 @@ zoomdici.fr##.innerArtAdd
 @@||images.newmedia.lu^*/adtech_video/
 @@||koifaire.com/upload/*/300x250-
 @@||lacanausurfinfo.com/admin/images/pubs/pub_18.png
+@@||lesinrocks.com/wp-content/plugins/minifier/min/?f=$script
 @@||libe.com/libepartnerships/*/iphone.png
 @@||libe.com/libepartnerships/*/ojd.gif
 @@||libe.com/libepartnerships/*/print_subscription.jpg
@@ -1047,6 +1047,7 @@ zoomdici.fr##.innerArtAdd
 @@||ma-meilleure-amie.com/participation-concours/publicite/id_categorie/$xmlhttprequest
 @@||malakoffmederic.com/entreprise/*/affiliation/
 @@||media.eurolive.com^$domain=live18ans.com
+@@||media.the-adult-company.com^$domain=celibataires.fr
 @@||meteofrance.com^*/publicite/
 @@||moov.mg/images/offres/push_240x170_v2.01.jpg
 @@||moov.mg/images/offres/push_adsl_bt_v2.jpg
@@ -1071,7 +1072,6 @@ zoomdici.fr##.innerArtAdd
 @@||vbs-ads.s3.amazonaws.com^$domain=premiere.fr
 @@||viamichelin.be/static/advert/
 @@||viamichelin.ch/static/advert/
-@@||lesinrocks.com/wp-content/plugins/minifier/min/?f=$script
 @@||viamichelin.ch^*/rentacar.js
 @@||viamichelin.fr/static/advert/
 @@||viamichelin.fr^*/rentacar.js
