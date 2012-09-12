@@ -1024,10 +1024,10 @@ zoomdici.fr##.innerArtAdd
 @@||banners.oxiads.fr/player/$domain=rabbitfinder.com
 @@||blog.lemonde.fr/files/
 @@||blogdumac.com/pub/images/footer-bdm_02.png
-@@||ccmbenchmark.com^$domain=~third-party
+@@||ccmbenchmark.com^$~third-party
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
 @@||clic.reussissonsensemble.fr/click*.asp$domain=forfait-mobile-moins-cher.com
-@@||data.panachetech.com^$objetc-subrequest,domain=gameone.net
+@@||data.panachetech.com^$object-subrequest,domain=gameone.net
 @@||deliv.tmcregie.fr/crossdomain.xml$domain=videos.nt1.tv
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/ad-remover/img/
