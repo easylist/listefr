@@ -182,6 +182,7 @@ _regiepub/
 /toolbarxooit/toolbar*.js
 ||01net.com/front_office/images/regie/
 ||100pour100sexe.com/pop.js
+||achatventepagefan.com^*/banachat*.gif$third-party
 ||20minutes.fr/img/auto-promos/
 ||7sur7.be/static/nmc/adv/sponsor/
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
@@ -209,6 +210,7 @@ _regiepub/
 ||cbanque.com/i/*/habillage
 ||cdiscount.com/imagesok/tetiere/partners/
 ||cdiscount.com/include/css/op_skin/
+||days-media.fr^*/disclaimers.js
 ||cdmail.fr/banniere/
 ||cdn.installclick.fr^*/ad.html
 ||cdscdn.com/imagesok/tetiere/partners/
@@ -349,6 +351,7 @@ _regiepub/
 ||ohm.adstronic.net^
 ||one-piece-streaming.fr/images/min/pub/
 ||onvasortir.com/pub/
+||socialboost.fr/promo/$third-party
 ||onvillanuit.com^$domain=chartsinfrance.net
 ||otaku-attitude.net^*/okazu-manga.gif
 ||ouedkniss.com/pubs/
@@ -481,6 +484,7 @@ _regiepub/
 ###block_pub
 ###block_pub_article
 ###block_regie_pub_bas
+###pubheader
 ###cadre_pub_bas
 ###carre-pub
 ###carre_pub
@@ -738,6 +742,7 @@ commentcamarche.net###partners_offers
 slappyto.net##.Adsense
 commentcamarche.net##.advertising
 commentcamarche.net,journaldesfemmes.com,linternaute.com##.publi-info
+days-media.fr##.boxed[style^="width:300px; height:250px"]
 competition.dz##.header-b1-banner
 courrier-picard.fr##.megaban-top
 dailymotion.com##.dm_widget_advert_iabrighttitle
