@@ -178,10 +178,10 @@
 _publicite.
 _publicite_
 _regiepub/
+/toolbarxooit/toolbar*.js
 !
 !----------------------- Sites specifiques -----------------------!
 !
-/toolbarxooit/toolbar*.js
 ||01net.com/front_office/images/regie/
 ||100pour100sexe.com/pop.js
 ||20minutes.fr/img/auto-promos/
@@ -227,6 +227,9 @@ _regiepub/
 ||days-media.fr^*/disclaimers.js
 ||deezer.com/ads/
 ||deliv.leboncoin.fr/0/leboncoin/
+||hotvideo.fr/pub/
+||hotvideo.fr^*/banners/
+||hotvideo.fr/popup.php$image,~image,popup
 ||dir-fr.com/banners/$domain=la-musique-rai.com
 ||directvelo.com/images/habillage/
 ||directvelo.com/images/livre/pub-
