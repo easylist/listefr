@@ -51,7 +51,6 @@
 ||danstonfion.com^$third-party
 ||dekalee.net^$third-party
 ||deliv.prisma-presse.com^$third-party
-||espacephr.fr^$third-party
 ||dfast.net^$third-party
 ||direction-x.com^$third-party
 ||double6affiliation.com^third-party
@@ -61,6 +60,7 @@
 ||effiliation.com^$third-party
 ||eravage.com^$third-party
 ||espace-plus.net^$third-party
+||espacephr.fr^$third-party
 ||esprit-click.com^$third-party
 ||euro-clic.com^$third-party
 ||every.com^$third-party
@@ -175,10 +175,10 @@
 /pubpave.
 /regie_pub/*
 /regiepub/*
+/toolbarxooit/toolbar*.js
 _publicite.
 _publicite_
 _regiepub/
-/toolbarxooit/toolbar*.js
 !
 !----------------------- Sites specifiques -----------------------!
 !
@@ -211,6 +211,7 @@ _regiepub/
 ||blog2mature.com/273_210/
 ||blogdumac.com/pub/
 ||brain-magazine.com/images/_habillages/
+||carrefoune.com^*/u.js
 ||cbanque.com/i/*/habillage
 ||cdiscount.com/imagesok/tetiere/partners/
 ||cdiscount.com/include/css/op_skin/
@@ -224,12 +225,10 @@ _regiepub/
 ||credits-on-line.info/pub/
 ||csconstantine.com^*/fb-like-pop.js
 ||ctqui.com/pub/
+||cyclisme-mag.com/includes/*/habillage/
 ||days-media.fr^*/disclaimers.js
 ||deezer.com/ads/
 ||deliv.leboncoin.fr/0/leboncoin/
-||hotvideo.fr/pub/
-||hotvideo.fr^*/banners/
-||hotvideo.fr/popup.php$image,~image,popup
 ||dir-fr.com/banners/$domain=la-musique-rai.com
 ||directvelo.com/images/habillage/
 ||directvelo.com/images/livre/pub-
@@ -250,17 +249,14 @@ _regiepub/
 ||euroclix.fr^$domain=176.31.96.119
 ||eurolive.com^$domain=les-photos-volees.com
 ||eurosportbet.loa24.com^$domain=eurosport.fr
-||weblettres.net/@images/pub/
 ||explorerlondres.com^*/hotelscom.gif
 ||export.kelkoo.fr/$subdocument
-||lettres-modeles.fr/include/_iframe300x200.php
-||lettres-modeles.fr/include/_iframe728x90.php
-||lettres-modeles.fr^*/lmodel.php
 ||external.priceminister.com^$domain=strasbourg-tramway.fr
 ||fastecard.net^*/pub
 ||fdata.over-blog.net^*/js/ob.bar1*.js
 ||files-save.com/noyaux/pub/
 ||files.meteofrance.com/files/dm/moteurmfr/insertframe.js
+||filmoviez.com/wp-content/plugins/social-traffic-pop/
 ||filmscine.com/images/playerplus.jpg
 ||findmysexfriend.com/$image,~image,popup,domain=extremepc.fr
 ||flux.liberation.fr/fnac/
@@ -274,7 +270,6 @@ _regiepub/
 ||forumactif.com/admgt/
 ||fr.ard.yahoo.com^
 ||fr.audiofanzine.com/product.php?
-||cyclisme-mag.com/includes/*/habillage/
 ||frandroid.com^*/pub_affichage_web/
 ||free.fr^*/js/display_shopping_alice.js
 ||french-movies.net/btn_usenet.png
@@ -289,18 +284,20 @@ _regiepub/
 ||groupolitan.be/fr/partners/iframe/
 ||hamachifrance.com^*/images/*banv.jpg
 ||hamachifrance.com^*/images/banvg.jpg
-||trimag.fr^*/tx_macinabanners/
-||iphone4.fr/bannieres/*
 ||hamachifrance.com^*/images/vg3.jpg
 ||herault-tribune.com^*/flash_pub_
 ||herault-tribune.com^*/rep_pub/
 ||hostingpics.net/pics/*ban.png$domain=tonchat.fr
+||hotvideo.fr/popup.php$image,~image,popup
+||hotvideo.fr/pub/
+||hotvideo.fr^*/banners/
 ||humourquotidien.com/pubs/
 ||image.jeuxvideo.com/ope/
 ||images.fan-de-cinema.com/habillage/
 ||images1.soonnight.com/template/skins/*/skin.css
 ||impimg.free.fr/pubs/
 ||infos-mobiles.com/pub-
+||iphone4.fr/bannieres/
 ||issentiel.com/media/affiliate/banner/$third-party
 ||jeux-flash-gratis.com/pics/$domain=la-musique-rai.com
 ||jeuxvideo.com/sponso/
@@ -327,6 +324,9 @@ _regiepub/
 ||letoutx.com/pubs/
 ||letraitdunion.com/images/headset/
 ||letraitdunion.com/images/wallpaper/
+||lettres-modeles.fr/include/_iframe300x200.php
+||lettres-modeles.fr/include/_iframe728x90.php
+||lettres-modeles.fr^*/lmodel.php
 ||libe.com/libepartnerships/
 ||libertyland.tv/libertyland/images/partenaire/
 ||lien-torrent.com/pubs/
@@ -334,6 +334,8 @@ _regiepub/
 ||linternaute.com/*@*,position$script
 ||macbidouille.com/banners/
 ||macside.fr^$domain=buzzdugrizzly.fr
+||mappy.com/*/files/campaigns/
+||mappy.com/services/annoncesjaunes/
 ||maxisciences.com/static/scripts/incentive.js
 ||mega-divx.net/cdn-cgi/pe/bag?
 ||megadvdrip.com/popup.js
@@ -347,8 +349,8 @@ _regiepub/
 ||mesnotices.fr/shopping/
 ||metaboli.fr/partners/gamekult/
 ||millenium.org/images/contenu/habillages/
-||millenium.org^*/par.tenaires/
 ||millenium.org/indexpub.php?
+||millenium.org^*/par.tenaires/
 ||miroirsocial.com/uploads/images/partenaires/
 ||misstrends.com/stats/promo/$third-party
 ||mistergoodmovies.net/images/partners/
@@ -392,12 +394,9 @@ _regiepub/
 ||roulettechat.fr^*/facebook-api-pub/
 ||routard.com/img/homepart/budget_air/
 ||rue89.com/files/skin/themes/visa/background.jpg
-||carrefoune.com^*/u.js
 ||sbx.pagesjaunes.fr^
 ||scoopers.com/?o=$image,~image,popup
 ||script.banstex.com^
-||mappy.com/*/files/campaigns/
-||mappy.com/services/annoncesjaunes/
 ||sexe-i.com/js/u.js
 ||sexefelin.com/pop.js
 ||shopoon.fr/catalog/generated_boxes/
@@ -437,7 +436,6 @@ _regiepub/
 ||ti.bank.free.fr/images/jarrety
 ||tool.acces-vod.com/infopop/
 ||tool.acces-vod.com/popdhtml/
-||filmoviez.com/wp-content/plugins/social-traffic-pop/*
 ||topanalyse.com/pub/
 ||topwarez.fr/promo/
 ||topwarez.fr^*/trendglobes/images/promo.gif
@@ -447,6 +445,7 @@ _regiepub/
 ||torrentfrancais.com/pub.html
 ||torrentfrancais.com/z2/firefox-part$image
 ||trefle.com/js/modules/su.*.js
+||trimag.fr^*/tx_macinabanners/
 ||tsa-algerie.com/images/pubs/
 ||twenga.fr^$domain=space-blogs.com
 ||une-recette.com/include/_iframe
@@ -458,6 +457,7 @@ _regiepub/
 ||videos-de-celebrites.com/pub/
 ||wawa-mania.cc/ph.jpg
 ||webchoc.com/pop.js
+||weblettres.net/@images/pub/
 ||webmarchand.be/js/ov.js.php?
 ||weemove.com/ressources/images/habillages/
 ||winds-up.com/images/pub/
@@ -590,6 +590,7 @@ _regiepub/
 ###tag_pub_footer
 ###thePubDiv2
 ###top_pub
+###tower_pub
 ###wrapper-pub
 ###zone_pub
 ##.adsenseWrapper
@@ -617,8 +618,8 @@ _regiepub/
 ##.iframe_pub
 ##.little_pub
 ##.mailPubHeader
-##.pave_pub
 ##.pave-pub
+##.pave_pub
 ##.position_pub
 ##.pub-banner
 ##.pub-gigaban
@@ -632,16 +633,19 @@ _regiepub/
 ##.pubLeft
 ##.pubRight
 ##.pubRight1
+##.pubTop
 ##.pubTopContainer
 ##.pub_banner
 ##.pub_carre
 ##.pub_header_banner
 ##.pub_leaderboard
+##.pub_left
 ##.pub_mobile
 ##.pub_outer
 ~sport24.com##.pub_pave
 ##.pub_skyscraper
 ##.pub_text
+##.pub_top
 ##.pubaccueildroite1
 ##.pubaccueilgauche1
 ##.pubadsense
@@ -683,11 +687,11 @@ _regiepub/
 ##.pub300_contenu
 ##.pub300x250
 ##.pub46860
-##.pub_468x60
 ##.pub468x60
 ##.pub600200
 ##.pub728x90
 ##.pub_300
+##.pub_468x60
 !
 !----------------------- Elements -----------------------!
 !
@@ -893,6 +897,9 @@ mail.voila.fr###blocServices
 maison-facile.com##.texteb
 manga-sanctuary.com###hab
 mangario.fr##.partenaires
+mappy.com###a300x600
+mappy.com##.leftHabillage
+mappy.com##.rightHabillage
 maps.google.fr##.ad
 marianne2.fr###mod_1171545
 masculin.com##div[style="float:left; width:980px; height:90px; text-align:left; padding-top:10px;"]
@@ -900,14 +907,10 @@ matchendirect.fr###prehome_contenu
 matchendirect.fr###prehome_fond
 matchendirect.mobi###pub1
 maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
-news-de-stars.com###popupBottomAd
 maxistreaming.com###header
 maxistreaming.com###searchform
 mediadico.com###NFBannierePublicitaire
 megaupload-download.net##.infoblock
-mappy.com##.leftHabillage
-mappy.com##.rightHabillage
-mappy.com###a300x600
 meilleurtaux.com##.pub
 mesfilmsstreaming.com###pb1
 mesfilmsstreaming.com##.fixe
@@ -915,22 +918,22 @@ meteoconsult.fr###bloc_pub_sommaire_terrestre
 meteomedia.com###container_bac
 meteomedia.com###workopolis
 midilibre.fr##.advert
-trimag.fr##.banner
 millenium.org###logo_droite
 minutefacile.com##.pub
 miroirsocial.com###partners
 mistergoodmovies.net###addspace
-multixa.net##.pub
 mon-ordi.com##td[width="567"]
 moov.mg###extruderLeft1
 moov.mg##div[style="margin-top:5px;float:auto;width:100%;height:250px;text-align:center"]
 mu-streaming.com###pb1
 mu-streaming.com##.fixe
+multixa.net##.pub
 mypornmotion.com###Pub
 mypornmotion.com###VideoPub300x250
 mypornmotion.com##.LinePromo
 neomag.fr###big-ad
 neowebcar.com##.adv-format-1
+news-de-stars.com###popupBottomAd
 nrj.fr###pub
 numerama.com###general_dec
 one-piece-streaming.fr###fermerPub
@@ -1000,6 +1003,7 @@ top-serie.org###top
 topanalyse.com###pid_f
 torrent-avenue.com##table[width="160"][height="600"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 trancegoa.org##td > .fb-like-box + br + .texteentete.taille2
+trimag.fr##.banner
 turbo.fr##.croco.betclic
 tv5.org##.bloc_promomiddle
 une-recette.com##.banniere1
@@ -1122,9 +1126,9 @@ vente-a-domicile.fr#@#.btn-ad
 @@||debrideurstreaming.com^*/adsense.js
 @@||hamachifrance.com/advertisement-adblock.js
 @@||instantmanga.com/js/advertisement.js
+@@||iphone4.fr/bannieres/header_icons.png
 @@||meteomedia.com/common/js/master/adframe.js
 @@||openrunner.com/js/advertisement.js
-@@||iphone4.fr/bannieres/header_icons.png
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=style-cataclysm.com
 @@||partage-facile.com$elemhide
 @@||playtv.fr$elemhide
