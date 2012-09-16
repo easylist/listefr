@@ -83,7 +83,7 @@
 ||lien-amateur.org^$third-party
 ||livechatdates.com^$image,~image,popup,third-party
 ||liveparadise.com^$third-party
-||media.acces-charme.com^$third-party
+||acces-charme.com^$third-party
 ||mediaffiliation.com^$third-party
 ||medncom.com^$third-party
 ||megavisites.com^$third-party
@@ -272,6 +272,7 @@ _regiepub/
 ||forumactif.com/admgt/
 ||fr.ard.yahoo.com^
 ||fr.audiofanzine.com/product.php?
+||vidule.com/js/u.js
 ||frandroid.com^*/pub_affichage_web/
 ||free.fr^*/js/display_shopping_alice.js
 ||french-movies.net/btn_usenet.png
@@ -933,6 +934,8 @@ meteoconsult.fr###bloc_pub_sommaire_terrestre
 meteomedia.com###container_bac
 meteomedia.com###workopolis
 midilibre.fr##.advert
+vidule.com##.catcher
+vidule.com###trade
 millenium.org###logo_droite
 minutefacile.com##.pub
 miroirsocial.com###partners
@@ -1119,6 +1122,7 @@ zoomdici.fr##.innerArtAdd
 @@||viamichelin.fr/static/advert/
 @@||viamichelin.fr^*/rentacar.js
 @@||videoplaza.tv^$domain=m6replay.fr|w9replay.fr
+@@||porn.fr^$object-subrequest,domain=vidule.com
 @@||vo2.fr/uploads/tx_regiepub/bando-site-
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
