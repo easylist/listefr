@@ -317,6 +317,7 @@ _regiepub/
 ||jeuxvideo.com^*/avatar/$~stylesheet
 ||juif.org/img/partners/
 ||kamehashop.fr/partenaire/$domain=sky-animes.com
+||lesbienne-gratis.com^*/u.js
 ||kelbillet.com/ws_smads_integration.php
 ||l.liberation.fr/img/promo/
 ||la-musique-rai.com/images/banner_
@@ -328,6 +329,7 @@ _regiepub/
 ||laposte.net^*/scripts/pub_
 ||lemaghrebdz.com/pub/
 ||leparisien.fr/img/partenaires/
+||lesbienne.cc^*/u.js
 ||lepoint.fr/images/*/partenariat/
 ||lepoint.fr^*/bellross_worldtime2010.swf
 ||les-horaires.fr/ajax/staytuned.popup.php?city=
@@ -444,6 +446,7 @@ _regiepub/
 ||static.rtl.fr/www/skin/promo/
 ||stats.hosting24.com/count.php
 ||strasbourg-tramway.fr/ban_
+||lesbeurettes.com^*/u.js
 ||strasbourg-tramway.fr/banner
 ||stream-film.com/images/pub.gif
 ||surf-report.com^*/files/weeman_*.jpg
@@ -468,6 +471,14 @@ _regiepub/
 ||sexy-tresors.com/ban/*$third-party
 ||stars-passion.com/ban/*$third-party
 ||teen-passion.net/annuaire/ban/*$third-party
+||toutporno.com^*/pub_col.js
+||1maxdegay.com/images/rotbas/*
+||1maxdegay.com/images/rotcol/*
+||lateen18.com^*/u.js
+||toutporno.com/boost_niche/
+||misstrends.com/stats/promo/*
+||gratuit-xxx.com/images/boost/
+||gratuit-xxx.com^*/boost_*.js
 ||videos-passion.com/ban/*$third-party
 ||petite-garce.com/ban/*$third-party
 ||mature-passion.fr/ban/*$third-party
@@ -485,6 +496,7 @@ _regiepub/
 ||sos-trique.com/ban/*$third-party
 ||trashixxx.com/ban/*$third-party
 ||planete-dangereuse.com/ban/*$third-party
+||fantasme-bisexuel.com^*/u.js
 ||pulsions-genereuses.com/ban/*$third-party
 ||missdark.com/bannieres/*$third-party
 ||films-2-boules.com/promo/$third-party
@@ -493,6 +505,7 @@ _regiepub/
 ||dracouilla.com/ban/*$third-party
 ||disco-sexe.com/ban/*$third-party
 ||bitchvolley.com/ban/*$third-party
+||maxtransexuelle.com^*/u.js
 ||beurette-passion.com/ban/*$third-party
 ||belledesfleurs.com/ban/*$third-party
 ||asia-passion.fr/annuaire/ban/*$third-party
@@ -512,6 +525,7 @@ _regiepub/
 ||trimag.fr^*/tx_macinabanners/
 ||tsa-algerie.com/images/pubs/
 ||twenga.fr^$domain=space-blogs.com
+||jeune-homme-gay.com^*/u.js
 ||une-recette.com/include/_iframe
 ||unlock-stream.com/js/disclamer.js
 ||vazigo.fr/css/pub.css
@@ -519,6 +533,7 @@ _regiepub/
 ||viacredit.net/pub/
 ||videoplaza.tv/creatives/assets/$object-subrequest,domain=rfi.fr
 ||videos-de-celebrites.com/pub/
+||jeveuxdestrans.com^*/u.js
 ||wawa-mania.cc/ph.jpg
 ||webchoc.com/pop.js
 ||weblettres.net/@images/pub/
@@ -562,6 +577,7 @@ _regiepub/
 ###bloc-pub
 ###blocPublicitaire
 ###bloc_pub_carre
+##.headerPub
 ###block-advertisement
 ###block_pub
 ###block_pub_article
@@ -806,6 +822,7 @@ canalplus.fr##.banner
 canalplus.fr##.visuel_preroll
 cbanque.com##.habillage
 cdiscount.com###downMall
+lesbeurettes.com###trade
 cdiscount.com##.SmartAdZoneList
 cdiscount.com##.downinbackMaullContainer
 cdiscount.com##.ptnlnk_table
@@ -845,6 +862,8 @@ dinogaia.com###tableau_info
 directvelo.com###col_03_partenaires
 do-tube.org##.ads
 dogzer.com###affichage_tag_58
+gratuit-xxx.com##.footerboost
+gratuit-xxx.com##div[class^="boost_g_"]
 dogzer.com###header_tr_banniere
 e-sante.fr##.ad
 e-sante.fr##.public-info
@@ -868,6 +887,7 @@ flights-results.liligo.fr###pulledbanner-right-top
 flights-results.liligo.fr###top-banner-smart
 fluket.com##.fixe
 football.fr###adRight3
+lesbienne-gratis.com###trade
 forum-actif.net##.tradeDoubler
 forum.oujdacity.net###footer
 forum.pcastuces.com##table[width="728"][height="90"][align="center"]
@@ -943,6 +963,7 @@ lepoint.fr##.pub
 lesdebiles.com##.menu_droite_partenaire
 lesdebiles.com##.pub
 lesinrocks.com##.skin-link
+lateen18.com###trade
 lesnumeriques.com###ifr_pub
 lesoir.be###ads-leaderboard
 letour.fr###partenaires2
