@@ -302,6 +302,7 @@ _regiepub/
 ||hotvideo.fr/popup.php$image,~image,popup
 ||hotvideo.fr/pub/
 ||hotvideo.fr^*/banners/
+||sexytout.com/ban/*$third-party
 ||humourquotidien.com/pubs/
 ||image.jeuxvideo.com/ope/
 ||images.fan-de-cinema.com/habillage/
@@ -984,6 +985,7 @@ midilibre.fr##.advert
 vidule.com##.catcher
 vidule.com###trade
 millenium.org###logo_droite
+sexytout.com###\5f email_catcher
 minutefacile.com##.pub
 miroirsocial.com###partners
 mistergoodmovies.net###addspace
@@ -1203,5 +1205,6 @@ flysurf.com#@#.ads_area
 @@||sanwilltv.net/advertisement.js
 @@||uptobox.com/ads.criteo.com.js?$script
 @@||videoxadulte.com/js/adframe.js
+@@||sexytout.com/ad.php?*$script
 @@||wakanim.tv/content/js/ads.js?
 letouriste.fr#@#.single-ad
