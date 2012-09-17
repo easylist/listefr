@@ -310,6 +310,7 @@ _regiepub/
 ||gamekult.com/i/fnac-hp-300x100.jpg
 ||gamekult.com/images/pubs/
 ||gigacu.com/jquery.js
+||capinfoproreport.com/cap_pub/
 ||globirank.com/image/$domain=unlock-stream.com
 ||gratuit-xxx.com/images/boost/
 ||gratuit-xxx.com^*/boost_*.js
@@ -695,6 +696,8 @@ _regiepub/
 ##.footerpubleft
 ##.footerpubright
 ##.header-pub
+###entete_pub
+###zone_pub1
 ##.headerPub
 ##.header_pub
 ##.home_pub
@@ -979,6 +982,8 @@ liberation.fr##.block-cPublicite
 libertyland.tv###leleftbas + div[style="width:160px; margin-top:10px;"]
 libertyland.tv##.fixe
 libertyland.tv##div[style="width:980px;height:25px;"]
+maisonapart.com##.map_pdp_pub
+maisonapart.com##.map_fond_pub
 lien-torrent.com##.block-banner
 lien-torrent.com##.nav-hd-inscrire
 lien-torrent.com##.nav-profil
