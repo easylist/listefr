@@ -190,6 +190,7 @@ _regiepub/
 ||7sur7.be/static/nmc/adv/sponsor/
 ||absoluflash.com^*/jeux-ban/
 ||absoluflash.com^*/tube-pub-
+||absolugirl.com^*/popunder5.js
 ||accesporno.com/mosaique/$third-party
 ||achatventepagefan.com^*/banachat*.gif$third-party
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
@@ -225,6 +226,8 @@ _regiepub/
 ||blog2mature.com/273_210/
 ||blogdumac.com/pub/
 ||brain-magazine.com/images/_habillages/
+||canoe.ca/accueil2007/images/btncruze.gif
+||capinfoproreport.com/cap_pub/
 ||carrefoune.com^*/u.js
 ||cbanque.com/i/*/habillage
 ||cdiscount.com/imagesok/tetiere/partners/
@@ -236,10 +239,7 @@ _regiepub/
 ||coco.fr/chat/bigban
 ||conception-site-web.info/modules/creation-site/images/banner.jpg
 ||credit-az.net/pub/
-||emu-france.com/images/minilogos/*
 ||credits-on-line.info/pub/
-||icpc.tv/banners/$domain=europeplusnet.info
-||toutsurlesabdos.com/images/bannieres_$domain=europeplusnet.info
 ||csconstantine.com^*/fb-like-pop.js
 ||ctqui.com/pub/
 ||cyclisme-mag.com/includes/*/habillage/
@@ -260,12 +260,12 @@ _regiepub/
 ||easyvols.org/liberation/
 ||ecrans.fr/pub.js
 ||education.ti.com^$domain=ti.bank.free.fr
-||widget.achetezfacile.com/widget.js$third-party
 ||elles-mouillent.com/ban/$third-party
 ||elwatan.com/campub/
 ||elwatan.com/img/swf/
 ||emploi-energie.com/banniere/
 ||emploipartner.com/template/pubs/
+||emu-france.com/images/minilogos/
 ||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
 ||euroclix.fr^$domain=176.31.96.119
 ||eurolive.com^$domain=les-photos-volees.com
@@ -310,7 +310,6 @@ _regiepub/
 ||gamekult.com/i/fnac-hp-300x100.jpg
 ||gamekult.com/images/pubs/
 ||gigacu.com/jquery.js
-||capinfoproreport.com/cap_pub/
 ||globirank.com/image/$domain=unlock-stream.com
 ||gratuit-xxx.com/images/boost/
 ||gratuit-xxx.com^*/boost_*.js
@@ -329,6 +328,7 @@ _regiepub/
 ||hotvideo.fr/pub/
 ||hotvideo.fr^*/banners/
 ||humourquotidien.com/pubs/
+||icpc.tv/banners/$domain=europeplusnet.info
 ||image.jeuxvideo.com/ope/
 ||images.fan-de-cinema.com/habillage/
 ||images1.soonnight.com/template/skins/*/skin.css
@@ -381,6 +381,7 @@ _regiepub/
 ||lettres-modeles.fr^*/lmodel.php
 ||libe.com/libepartnerships/
 ||libertyland.tv/libertyland/images/partenaire/
+||libre.eu/homepage/relooking/
 ||lien-torrent.com/pubs/
 ||liens-de-telechargement.com/popmodal/
 ||linternaute.com/*@*,position$script
@@ -481,7 +482,6 @@ _regiepub/
 ||sky-animes.com/scripts/liens.php?show=partenaires
 ||sky-animes.com/scripts/liens.php?show=topsites
 ||sm-passion.net/ban/$third-party
-||absolugirl.com^*/popunder5.js
 ||socialboost.fr/promo/$third-party
 ||softonic.fr/specials-leaderboard
 ||soonnight.com/images/mini_ban_partenaire/
@@ -507,7 +507,6 @@ _regiepub/
 ||teen-passion.net/annuaire/ban/$third-party
 ||telechargementgratuits.com/hexa.png
 ||terasexe.com/pubs/
-||canoe.ca/accueil2007/images/btnCruze.gif
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
 ||textograto.com/iframe1.php
 ||theadultcompany.biz/*/ff_siteunder/$image,~image,popup
@@ -521,10 +520,10 @@ _regiepub/
 ||torrent-topliste.com/popup.php$image,~image,popup
 ||torrentfrancais.com/img/z2/
 ||torrentfrancais.com/pub.html
-||libre.eu/homepage/relooking/
 ||torrentfrancais.com/z2/firefox-part$image
 ||toutporno.com/boost_niche/
 ||toutporno.com^*/pub_col.js
+||toutsurlesabdos.com/images/bannieres_$domain=europeplusnet.info
 ||trashixxx.com/ban/$third-party
 ||trefle.com/js/modules/su.*.js
 ||trimag.fr^*/tx_macinabanners/
@@ -545,6 +544,7 @@ _regiepub/
 ||weblettres.net/@images/pub/
 ||webmarchand.be/js/ov.js.php?
 ||weemove.com/ressources/images/habillages/
+||widget.achetezfacile.com/widget.js$third-party
 ||winds-up.com/images/pub/
 ||wtpn.twenga.com/publisher/$third-party
 ||wtpn.twenga.fr/publisher/$third-party
@@ -575,6 +575,7 @@ _regiepub/
 ###ad-rectangle1
 ###adsCarre
 ###adsHaut
+###adspave
 ###annonce_pub2
 ###bandeau_pub
 ###bandeau_publicite
@@ -597,6 +598,7 @@ _regiepub/
 ###div_pub_google
 ###encart_pub
 ###encart_pub_image
+###entete_pub
 ###fixe_plugin
 ###footer_haut-publicite
 ###footerpubs
@@ -634,7 +636,6 @@ _regiepub/
 ###pubEncart1
 ###pubEncart2
 ###pubFrame
-##.widget_publicite
 ###pubHaut
 ###pubImg
 ###pubMiddle
@@ -644,7 +645,6 @@ _regiepub/
 ###pub_ban
 ###pub_banner
 ###pub_bottom
-###adspave
 ###pub_carre_1
 ###pub_contener_right
 ###pub_footer
@@ -680,6 +680,7 @@ _regiepub/
 ###tower_pub
 ###wrapper-pub
 ###zone_pub
+###zone_pub1
 ##.adsenseWrapper
 ##.adspave
 ##.annonces_google
@@ -687,7 +688,6 @@ _regiepub/
 ##.bloc_pub_left
 ##.bloc_rightcol_pub
 ##.block-pubimage
-##.pubBox
 ##.block_pub
 ##.blocpub
 ##.carre_pub
@@ -701,8 +701,6 @@ _regiepub/
 ##.footerpubleft
 ##.footerpubright
 ##.header-pub
-###entete_pub
-###zone_pub1
 ##.headerPub
 ##.header_pub
 ##.home_pub
@@ -716,6 +714,7 @@ _regiepub/
 ##.pub-gigaban
 ##.pub-pave
 ##.pubBottomRight
+##.pubBox
 ##.pubContent
 ##.pubFlash
 ##.pubHeader
@@ -752,6 +751,7 @@ _regiepub/
 ##.titrePub
 ##.toppubs
 ##.txt-pub
+##.widget_publicite
 ##.zonepub
 ##[id^="eShowPub"]
 ##a[href^="http://www.crazyloader.com"]
@@ -851,7 +851,6 @@ clubic.com###listBlock_mediatis
 clubic.com###shopper-widget-wrapper
 clubic.com##div[class="facebox layer_suggest"]
 clubic.com##div[class="facebox layer_suggest_nl"]
-sports.fr###banner-full
 coco.fr##a[href="http://www.joker.net"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 codeshttp.com##table[height="100"]
@@ -888,6 +887,8 @@ eurosport.fr###Container_OAS_Right
 extremepc.fr###promoHead + hr + .center
 extremepc.fr###pub
 extremepc.fr###pub2an
+faclic.com##.lbx_content
+faclic.com##.lbx_overlay
 femmemag.re###block_regie_pub_bas_article
 filmscine.com###pb1
 filmze.com##.fixe
@@ -896,7 +897,6 @@ flights-results.liligo.fr###pulledbanner-right-top
 flights-results.liligo.fr###top-banner-smart
 fluket.com##.fixe
 football.fr###adRight3
-lalibre.be###headerRelook
 forum-actif.net##.tradeDoubler
 forum.oujdacity.net###footer
 forum.pcastuces.com##table[width="728"][height="90"][align="center"]
@@ -918,9 +918,6 @@ gameblog.fr##div[style=" background-color: #c0c0c0; padding: 7px; height: 260px;
 gentside.com###kk-widget
 gentside.com##.add300
 genybet.fr##.GGFODTBDCS
-omgtorrent.com##.tuyau
-faclic.com##.lbx_content
-faclic.com##.lbx_overlay
 girlsgogames.fr##.categoryBanner
 google.fr###rhsline
 google.fr###tadsb
@@ -952,6 +949,7 @@ lachainemeteo.com###bloc_aquarelle
 lachainemeteo.com##.bloc_1_col_middle[style="height:160px;"]
 lachainemeteo.com##div[style="float:left;width:615px;height:100px;"]
 lagazettedescommunes.com##[class^="col-note-pub300x"]
+lalibre.be###headerRelook
 lanutrition.fr##.moduletable-banner
 laposte.net###shoppingBox
 lapresse.ca###pubs
@@ -990,8 +988,6 @@ liberation.fr##.block-cPublicite
 libertyland.tv###leleftbas + div[style="width:160px; margin-top:10px;"]
 libertyland.tv##.fixe
 libertyland.tv##div[style="width:980px;height:25px;"]
-maisonapart.com##.map_pdp_pub
-maisonapart.com##.map_fond_pub
 lien-torrent.com##.block-banner
 lien-torrent.com##.nav-hd-inscrire
 lien-torrent.com##.nav-profil
@@ -1001,6 +997,8 @@ lo.st##.home_partner_img
 loisirados.com###intersticiel
 mail.voila.fr###blocServices
 maison-facile.com##.texteb
+maisonapart.com##.map_fond_pub
+maisonapart.com##.map_pdp_pub
 manga-sanctuary.com###hab
 mangario.fr##.partenaires
 mappy.com###a300x600
@@ -1042,6 +1040,7 @@ neowebcar.com##.adv-format-1
 news-de-stars.com###popupBottomAd
 nrj.fr###pub
 numerama.com###general_dec
+omgtorrent.com##.tuyau
 one-piece-streaming.fr###fermerPub
 oopsbuzz.com##.behincontent
 orange.fr###blocServices
@@ -1092,6 +1091,7 @@ soonnight.com###partenaire
 sortirensemble.com###sondage_age
 southparkstreaming.fr##.bannergroup
 spi0n.com##.spion_single_pub
+sports.fr###banner-full
 sports.fr###hablinkzone
 sports.orange.fr###adTop2
 strasbourg-tramway.fr###ws_embed_footer
@@ -1130,9 +1130,9 @@ voyages-sncf.com###block-vsct_vsca-megabanner
 voyages.liberation.fr###vHeader-pub
 wat.tv##.pub
 webactus.net###text-4
+wikipedia.orange.fr###o_cartouchecarrepub
 wix.com###wixFooter
 wix.com###wixfooter
-wikipedia.orange.fr###o_cartouchecarrepub
 za-gay.org###ads_line
 zdnet.fr###pwcBox
 zdnet.fr###tickerRight
