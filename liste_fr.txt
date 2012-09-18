@@ -439,6 +439,7 @@ _regiepub/
 ||p0rno.com/banners/
 ||pafpaf.com/pubs/
 ||pafpaf.com/pubs/$image,~image,popup
+||jedessine.com^*/monsterMunch/
 ||passeportsante.net^*/controls/pub/
 ||petite-annonce-gratuite.com/encarts/bannieres/
 ||petite-garce.com/ban/$third-party
@@ -724,6 +725,8 @@ _regiepub/
 ##.pub-banner
 ##.pub-block
 ##.pub-gigaban
+##.pub_topright
+##.pub_middle
 ##.pub-megaban
 ##.pub-pave
 ##.pubBottomRight
@@ -892,6 +895,7 @@ directvelo.com###col_03_partenaires
 do-tube.org##.ads
 dogzer.com###affichage_tag_58
 dogzer.com###header_tr_banniere
+jedessine.com##.pub_club
 e-sante.fr##.ad
 e-sante.fr##.public-info
 elwatan.com###megabanner
