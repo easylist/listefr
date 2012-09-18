@@ -290,6 +290,7 @@ _regiepub/
 ||fm93.com/webradio/gabarits-webradio-poppers-bg.jpg
 ||fm93.com/webradio/poppers-
 ||fm93.com^*/pub/
+||force-download.net^*/yellowtoolbar/
 ||forum-windows.com/images/plimus/
 ||forum-windows.com/open/www/delivre/
 ||forumactif.com/admgt/
@@ -478,7 +479,6 @@ _regiepub/
 ||shoppytab.com/shops/
 ||signification-prenom.com/images/starmyname-prenom.gif
 ||sky-animes.com/ban/partenaires/
-||force-download.net^*/yellowtoolbar/
 ||sky-animes.com/pubs/
 ||sky-animes.com/scripts/liens.php?show=partenaires
 ||sky-animes.com/scripts/liens.php?show=topsites
@@ -496,7 +496,6 @@ _regiepub/
 ||stars-passion.com/ban/$third-party
 ||starter.fm/blog/*/bg_$image
 ||starter.fm/images/*/bg_
-||wawacity.su/popup.html
 ||static.rtl.fr/www-2010/skin/$stylesheet
 ||static.rtl.fr/www/skin/promo/
 ||stats.hosting24.com/count.php
@@ -542,6 +541,7 @@ _regiepub/
 ||videos-passion.com/ban/$third-party
 ||vidule.com^*/u.js
 ||wawa-mania.cc/ph.jpg
+||wawacity.su/popup.html
 ||webchoc.com/pop.js
 ||weblettres.net/@images/pub/
 ||webmarchand.be/js/ov.js.php?
@@ -599,8 +599,6 @@ _regiepub/
 ###divPub
 ###div_pub_google
 ###encart_pub
-##.pub-block
-##.pub-megaban
 ###encart_pub_image
 ###entete_pub
 ###fixe_plugin
@@ -695,7 +693,6 @@ _regiepub/
 ##.block_pub
 ##.blocpub
 ##.carre_pub
-##.wrap-pub
 ##.carrepub
 ##.container-pubcarre
 ##.conteneur_pub_vertical
@@ -712,11 +709,14 @@ _regiepub/
 ##.iframe_pub
 ##.little_pub
 ##.mailPubHeader
+##.megapub
 ##.pave-pub
 ##.pave_pub
 ##.position_pub
 ##.pub-banner
+##.pub-block
 ##.pub-gigaban
+##.pub-megaban
 ##.pub-pave
 ##.pubBottomRight
 ##.pubBox
@@ -757,6 +757,7 @@ _regiepub/
 ##.toppubs
 ##.txt-pub
 ##.widget_publicite
+##.wrap-pub
 ##.zonepub
 ##[id^="eShowPub"]
 ##a[href^="http://www.crazyloader.com"]
@@ -772,20 +773,19 @@ _regiepub/
 ###pub300
 ###pub300x250
 ###pub468x60_gauche
-##.megapub
 ###pub_300x250-1
 ###pub_300x250-2
 ###pub_460x60
 ###pub_468x60
 ###pub_728x90-1
-##.pub160x600
-##.pub350x250left
 ###pub_728x90-2
 ##.pub-728
+##.pub160x600
 ##.pub300
 ##.pub300250
 ##.pub300_contenu
 ##.pub300x250
+##.pub350x250left
 ##.pub46860
 ##.pub468x60
 ##.pub600200
@@ -856,10 +856,10 @@ clicbienetre.com##.sidebar_block
 clicforum.com,vraiforum.com,xooit.com,xooit.fr##div[style="margin: 0; padding: 0; visibilite: visible; display: block; height: 109px; width: 100%; background: url(/images/topbg.gif)"]
 clubic.com###listBlock_espacePartenaires
 clubic.com###listBlock_mediatis
-lexpress.fr##.pub
 clubic.com###shopper-widget-wrapper
 clubic.com##div[class="facebox layer_suggest"]
 clubic.com##div[class="facebox layer_suggest_nl"]
+cmonjour.com##.megaddd
 coco.fr##a[href="http://www.joker.net"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 codeshttp.com##table[height="100"]
@@ -977,6 +977,7 @@ leguide-shopping.tele-2-semaines.fr##.body
 lemonde.fr##.bloc_part
 lemonde.fr##.conteneur_ligatus
 lemonde.fr##.global.services
+lemoteur.fr##.slpartner
 lemouv.fr###block-lemouv_bloc-pub_ftv_top
 lensois.com###transparentad
 leparisien.fr###parisien-partenaires
@@ -993,6 +994,7 @@ lesoir.be###ads-leaderboard
 letour.fr###partenaires2
 letraitdunion.com###add_top
 letudiant.fr###pub
+lexpress.fr##.pub
 liberation.fr##.block-cPublicite
 libertyland.tv###leleftbas + div[style="width:160px; margin-top:10px;"]
 libertyland.tv##.fixe
@@ -1012,9 +1014,6 @@ manga-sanctuary.com###hab
 mangario.fr##.partenaires
 mappy.com###a300x600
 mappy.com##.leftHabillage
-lemoteur.fr##.slpartner
-search.ke.voila.fr##.tpl_slpartner_container_top
-search.ke.voila.fr##.tpl_slpartner_container_bottom
 mappy.com##.rightHabillage
 maps.google.fr##.ad
 marianne2.fr###mod_1171545
@@ -1090,6 +1089,8 @@ rtl.fr##.result.sponsor
 rue89.com###partenariat89_masterblock
 rue89.com##.gam-holder
 search.ke.voila.fr###fontDivVignette
+search.ke.voila.fr##.tpl_slpartner_container_bottom
+search.ke.voila.fr##.tpl_slpartner_container_top
 sexytout.com###\5f email_catcher
 silicon.fr###megabanner
 silicon.fr###skycraper
@@ -1130,7 +1131,6 @@ une-recette.com##.bannierebas
 une-recette.com##.milieubanniere2
 viamichelin.fr###idAFSRoadsheetBottom.afsAdvertisingBottom
 viamichelin.fr###idHeaderGDH
-cmonjour.com##.megaddd
 viamichelin.fr##.vm-gdhmegaban
 viamichelin.fr##.vm-pub-home300
 vidule.com###trade
