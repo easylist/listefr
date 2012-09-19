@@ -269,7 +269,6 @@ _regiepub/
 ||easyvols.org/liberation/
 ||ecrans.fr/pub.js
 ||education.ti.com^$domain=ti.bank.free.fr
-||jeuxvideo.com/sponso_videos/
 ||elles-mouillent.com/ban/$third-party
 ||elwatan.com/campub/
 ||elwatan.com/img/swf/
@@ -308,6 +307,8 @@ _regiepub/
 ||fr.audiofanzine.com/product.php?
 ||frandroid.com^*/pub_affichage_web/
 ||free.fr^*/js/display_shopping_alice.js
+||freenduro.com/images/banners/
+||freenduro.com^*/banners-pub/
 ||french-movies.net/btn_usenet.png
 ||frenchfriendfinder.com^$domain=choualbox.com
 ||fullxmovies.com/catcheur-haut.php
@@ -318,10 +319,7 @@ _regiepub/
 ||futura-sciences.com^*/templates/*/css_habillage/
 ||gagnons-argent.com/pubd.php$image,~image,popup,third-party
 ||gameblog.fr/skins/$image
-||leforum.eu/pub.php?
 ||gamekult.com/i/fnac-hp-300x100.jpg
-||freenduro.com^*/banners-pub/
-||freenduro.com/images/banners/*
 ||gamekult.com/images/pubs/
 ||gigacu.com/jquery.js
 ||globirank.com/image/$domain=unlock-stream.com
@@ -357,6 +355,7 @@ _regiepub/
 ||jeunebaisemature.com^*/u.js
 ||jeux-flash-gratis.com/pics/$domain=la-musique-rai.com
 ||jeuxvideo.com/sponso/
+||jeuxvideo.com/sponso_videos/
 ||jeuxvideo.com^*/avatar/$~stylesheet
 ||jeveuxdestrans.com^*/u.js
 ||juif.org/img/partners/
@@ -375,6 +374,7 @@ _regiepub/
 ||larosededams.fr^*/bannieres/banniere
 ||lateen18.com^*/u.js
 ||lebaiseur.com/ban/$third-party
+||leforum.eu/pub.php?
 ||lemaghrebdz.com/pub/
 ||leparisien.fr/img/partenaires/
 ||lepoint.fr/images/*/partenariat/
@@ -454,6 +454,8 @@ _regiepub/
 ||passeportsante.net^*/controls/pub/
 ||petite-annonce-gratuite.com/encarts/bannieres/
 ||petite-garce.com/ban/$third-party
+||pharmasite.fr/img/pub/
+||pharmasite.fr/medias/pub/
 ||planete-dangereuse.com/ban/$third-party
 ||pointscommuns.com/images/bannieres/$third-party
 ||pornomaniac.fr/javascript/popunder5.js
@@ -486,8 +488,6 @@ _regiepub/
 ||sexe-pornxx-videos.com^*/mamexit.js
 ||sexe-pornxx-videos.com^*/x.js
 ||sexe-pornxx-videos.com^*/x2.js
-||pharmasite.fr/medias/pub/*
-||pharmasite.fr/img/pub/*
 ||sexe-venise.com/ban/$third-party
 ||sexe.trouves-tout.com/ban/$third-party
 ||sexefelin.com/pop.js
@@ -623,6 +623,7 @@ _regiepub/
 ###cadre_pub_bas
 ###carre-pub
 ###carre_pub
+###conteneur_pub
 ###content_left_pub
 ###content_pub_carre
 ###contextuel-publicite-video
@@ -635,6 +636,7 @@ _regiepub/
 ###footer_haut-publicite
 ###footerpubs
 ###general_subpub
+###head-ads
 ###head-pub
 ###head_pub
 ###header-pub
@@ -651,7 +653,6 @@ _regiepub/
 ###news_pub_centre
 ###pavePub
 ###pave_pub
-###conteneur_pub
 ###pub-center
 ###pub-footer
 ###pub-haut
@@ -660,10 +661,6 @@ _regiepub/
 ###pub-right
 ###pub-top
 ###pub-widget
-##.pub-megabanner
-##.head-pub
-###head-ads
-##.pub-carre
 ###pub-widget2
 ###pubBandeau
 ###pubBottomRight
@@ -685,6 +682,7 @@ _regiepub/
 ###pub_bottom
 ###pub_carre_1
 ###pub_col_right
+###pub_column
 ###pub_contener_right
 ###pub_footer
 ###pub_geante
@@ -740,6 +738,7 @@ _regiepub/
 ##.footer-pub
 ##.footerpubleft
 ##.footerpubright
+##.head-pub
 ##.header-pub
 ##.headerPub
 ##.header_pub
@@ -753,8 +752,10 @@ _regiepub/
 ##.position_pub
 ##.pub-banner
 ##.pub-block
+##.pub-carre
 ##.pub-gigaban
 ##.pub-megaban
+##.pub-megabanner
 ##.pub-pave
 ##.pubBottomRight
 ##.pubBox
@@ -919,6 +920,7 @@ competition.dz##.header-b1-banner
 courrier-picard.fr##.megaban-top
 dailymotion.com##.dm_widget_advert_iabrighttitle
 days-media.fr##.boxed[style^="width:300px; height:250px"]
+decitre.fr##.advertise
 deezer.com###bottom
 deezer.com##.pub
 deezer.com##[id^="ads"]
@@ -929,6 +931,7 @@ directvelo.com###col_03_partenaires
 do-tube.org##.ads
 dogzer.com###affichage_tag_58
 dogzer.com###header_tr_banniere
+e-booksland.com###pb1
 e-sante.fr##.ad
 e-sante.fr##.public-info
 elwatan.com###megabanner
@@ -953,8 +956,6 @@ fansub-resistance.net##[id^="pub_728x90_"]
 femmemag.re###block_regie_pub_bas_article
 filmscine.com###pb1
 filmze.com##.fixe
-pcinpact.com##.background_clic
-pcinpact.com###tophabillage
 flights-results.liligo.fr###pulledbanner
 flights-results.liligo.fr###pulledbanner-right-top
 flights-results.liligo.fr###top-banner-smart
@@ -968,7 +969,6 @@ fr.audiofanzine.com##.price
 fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
 fr.news.yahoo.com##[id^="pmBannerContainer"]
 france.meteofrance.com###adColumn3
-e-booksland.com###pb1
 france2.fr###AdBottomRight
 france2.fr###AdSquare02
 franceantilles.fr,franceguyane.fr###megabanner
@@ -1090,7 +1090,6 @@ mesfilmsstreaming.com##.fixe
 meteoconsult.fr###bloc_pub_sommaire_terrestre
 meteomedia.com###container_bac
 meteomedia.com###workopolis
-decitre.fr##.advertise
 midilibre.fr##.advert
 millenium.org###logo_droite
 minutefacile.com##.pub
@@ -1129,6 +1128,8 @@ pagesjaunes.fr##.containerPdsSitesPartenaires
 pagesjaunes.fr##.pushKeltravo
 paruvendu.fr##.h11-ad-top
 pcastuces.com##table[width="95%"][cellspacing="4"][cellpadding="4"][align="center"]
+pcinpact.com###tophabillage
+pcinpact.com##.background_clic
 photos-persos-sexy.com##table[style="border-style: solid; border-width: 0px; background-color: #ffffff; width: 100%; height: 280px;"]
 planet.fr##.block-gc_ad
 portail.free.fr###partenaires
