@@ -483,6 +483,8 @@ _regiepub/
 ||sexe-pornxx-videos.com^*/mamexit.js
 ||sexe-pornxx-videos.com^*/x.js
 ||sexe-pornxx-videos.com^*/x2.js
+||pharmasite.fr/medias/pub/*
+||pharmasite.fr/img/pub/*
 ||sexe-venise.com/ban/$third-party
 ||sexe.trouves-tout.com/ban/$third-party
 ||sexefelin.com/pop.js
@@ -655,6 +657,10 @@ _regiepub/
 ###pub-right
 ###pub-top
 ###pub-widget
+##.pub-megabanner
+##.head-pub
+###head-ads
+##.pub-carre
 ###pub-widget2
 ###pubBandeau
 ###pubBottomRight
@@ -816,7 +822,7 @@ _regiepub/
 ###pub_728x90_header
 ##.pub-728
 ##.pub160x600
-##.pub300
+~pharmasite.fr##.pub300
 ##.pub300250
 ##.pub300_contenu
 ##.pub300x250
