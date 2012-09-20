@@ -97,6 +97,7 @@
 ||nols-pub.fr^$third-party
 ||openadserving.com^$image,~image,popup
 ||openadserving.com^$third-party
+||tcadops.ca^$third-party
 ||orangeads.fr^$third-party
 ||orangepublicite.fr^$third-party
 ||oxiads.fr/www/images/
@@ -527,6 +528,7 @@ _regiepub/
 ||starter.fm/images/*/bg_
 ||static.rtl.fr/www-2010/skin/$stylesheet
 ||static.rtl.fr/www/skin/promo/
+||courrierlaval.com/images/wallpaper/*
 ||stats.hosting24.com/count.php
 ||strasbourg-tramway.fr/ban_
 ||strasbourg-tramway.fr/banner
@@ -664,6 +666,7 @@ _regiepub/
 ###pub-main
 ###pub-right
 ###pub-top
+##.publicity
 ###pub-widget
 ###pub-widget2
 ###pubBandeau
@@ -941,6 +944,10 @@ e-sante.fr##.ad
 e-sante.fr##.public-info
 elwatan.com###megabanner
 elwatan.com###pub_habillage_lien
+courrierlaval.com###add_top
+courrierlaval.com###add_bottom
+qc.ca###ad_wrapper
+lesaffaires.com###banner
 emule-island.ru###centre_haut
 emule-island.ru###droite_bas
 emule-island.ru###droite_haut
