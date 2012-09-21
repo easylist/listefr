@@ -402,6 +402,7 @@ _regiepub/
 ||lien-torrent.com/pubs/
 ||liens-de-telechargement.com/popmodal/
 ||linternaute.com/*@*,position$script
+||aufeminin.com/home4/skin/*/fond.jpg
 ||macbidouille.com/banners/
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||madamesimone.com/ban/$third-party
@@ -1127,6 +1128,7 @@ numerama.com###general_dec
 omgtorrent.com##.tuyau
 one-piece-streaming.fr###fermerPub
 oopsbuzz.com##.behincontent
+aufeminin.com##[class^="OffresSpe_"]
 orange.fr###blocServices
 orange.fr###lienComPart
 orange.fr###o_carrepub
@@ -1317,6 +1319,10 @@ zoomdici.fr##.innerArtAdd
 @@||videoplaza.tv^$domain=m6replay.fr|w9replay.fr
 @@||vo2.fr/uploads/tx_regiepub/bando-site-
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
+@@||network.aufeminin.com/crossdomain.xml,domain=aufeminin.com
+@@||network.aufeminin.com/call/pubj/$object-subrequest,domain=aufeminin.com
+@@||network.aufeminin.com/a/diff/$object-subrequest,domain=aufeminin.com
+@@||fr-advideum.videoplaza.tv/proxy/distributor?shares=$object-subrequest,domain=aufeminin.com
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 @@||videos-pub.ftv-publicite.fr/media/$object-subrequest,domain=playerftp.videostream.fr
 ! Exception d'elements
