@@ -515,6 +515,7 @@ _regiepub/
 ||sky-animes.com/ban/partenaires/
 ||sky-animes.com/pubs/
 ||sky-animes.com/scripts/liens.php?show=partenaires
+||lebest.fr/pub/
 ||sky-animes.com/scripts/liens.php?show=topsites
 ||sm-passion.net/ban/$third-party
 ||socialboost.fr/promo/$third-party
@@ -850,6 +851,8 @@ _regiepub/
 ##.pub300x250
 ##.pub350x250left
 ##.pub46860
+###pub_728x90
+###pub_300x250
 ##.pub468x60
 ##.pub600200
 ##.pub728x90
@@ -1001,6 +1004,9 @@ france2.fr###AdBottomRight
 france2.fr###AdSquare02
 franceantilles.fr,franceguyane.fr###megabanner
 francebleu.fr,franceinfo.fr###pub-ftv-top
+lebest.fr###ban_300x250
+lebest.fr###ban_728x90
+lebest.fr###liens_sponso
 franceculture.fr###block-fcbloc-publicite
 frandroid.com##.widget.widget_text
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
