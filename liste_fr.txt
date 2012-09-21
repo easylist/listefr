@@ -41,7 +41,7 @@
 ||au2m8.com^$third-party
 ||avenir-affiliation.fr^$third-party
 ||ax47mp-xp-21.com^$third-party
-||beead.fr^$third-party,domain=~ouifm.fr|~play.nrj.fr|~radiofg.com|~rfm.fr|~wakanim.tv
+||beead.fr^$third-party,domain=~ouifm.fr|~play.nrj.fr|~radiofg.com|~rfm.fr|~wakanim.tv|~virginradio.fr
 ||blogbang.com^$third-party
 ||boostclic.com^$third-party
 ||box.shopoon.fr^$third-party
@@ -1300,7 +1300,7 @@ zoomdici.fr##.innerArtAdd
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
 @@||francetelevisions.fr^*/publicite/silverlight.php?
-@@||google.com/uds/$domain=rfm.fr
+@@||google.com/uds/$script,domain=rfm.fr|virginradio.fr
 @@||googleadservices.com^$domain=journaldugeek.com
 @@||images.newmedia.lu^*/adtech_video/
 @@||koifaire.com/upload/*/300x250-
