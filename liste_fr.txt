@@ -83,6 +83,7 @@
 ||i-promotion.net^$third-party
 ||illyx.co^$third-party
 ||illyx.com^$third-party
+||myxpub.com^$third-party
 ||imgpromo.easyrencontre.com^$third-party
 ||indecentes-voisines.com^$third-party
 ||kreaffiliation.com^$third-party
@@ -338,6 +339,8 @@ _regiepub/
 ||groupolitan.be/fr/partners/iframe/
 ||hamachifrance.com^*/images/*banv.jpg
 ||hamachifrance.com^*/images/banvg.jpg
+||kiporn.com^$image,~image,popup,domain=yourporno.fr
+||yourporno.fr^*/pop.js
 ||hamachifrance.com^*/images/vg3.jpg
 ||hardcore-passion.com/ban/$third-party
 ||hentai-passion.net/annuaire/promo/$third-party
@@ -983,6 +986,7 @@ extreme-down.com##a[href^="http://clic.illyx.com/"]
 extreme-protect.com##a[href="http://www.extreme-down.com/usenet.html"]
 extremepc.fr###promoHead + hr + .center
 extremepc.fr###pub
+yourporno.fr##.ads
 extremepc.fr###pub2an
 faclic.com##.lbx_content
 faclic.com##.lbx_overlay
