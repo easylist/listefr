@@ -97,7 +97,6 @@
 ||nols-pub.fr^$third-party
 ||openadserving.com^$image,~image,popup
 ||openadserving.com^$third-party
-||tcadops.ca^$third-party
 ||orangeads.fr^$third-party
 ||orangepublicite.fr^$third-party
 ||oxiads.fr/www/images/
@@ -138,6 +137,7 @@
 ||static.p-comme-performance.com^$third-party
 ||stigads.com^$third-party
 ||tag.regieci.com^$third-party
+||tcadops.ca^$third-party
 ||teads.fr/js/footer.php$third-party
 ||teads.fr/js/inread/$third-party
 ||the-adult-company.com^$image,~image,popup,third-party
@@ -215,7 +215,6 @@ _regiepub/
 ||amatrices-passion.com/ban/$third-party
 ||animes-streaming.net/images/ruedufric.png
 ||annuaire-fille-sexy.com/ban/$third-party
-||spin-off.fr/images/vpngratuitSpinfOff.gif
 ||annuaire-gay-sexe.com/annuaire/promo/$third-party
 ||annuaire-transsexuelle.com/annuaire/ban/$third-party
 ||asia-passion.fr/annuaire/ban/$third-party
@@ -224,6 +223,7 @@ _regiepub/
 ||asie-info.fr/wp-content/uploads/*/pub_
 ||asse.fr^*/bandeau_ok.swf
 ||asse.fr^*/banniere_mcc_billetterie.gif
+||aufeminin.com/home4/skin/*/fond.jpg
 ||autoreflex.com^*/logo_map_partenaires.png
 ||ba.ccm2.net^
 ||belle-salope.fr/ban/$third-party
@@ -239,6 +239,7 @@ _regiepub/
 ||brain-magazine.com/images/_habillages/
 ||canoe.ca/accueil2007/images/btncruze.gif
 ||capinfoproreport.com/cap_pub/
+||carasexe.com/promo/$third-party
 ||carrefoune.com^*/u.js
 ||cbanque.com/i/*/habillage
 ||cdiscount.com/imagesok/tetiere/partners/
@@ -249,6 +250,7 @@ _regiepub/
 ||choubijoux.com/image/banniere-$third-party
 ||coco.fr/chat/bigban
 ||conception-site-web.info/modules/creation-site/images/banner.jpg
+||courrierlaval.com/images/wallpaper/
 ||credit-az.net/pub/
 ||credits-on-line.info/pub/
 ||csconstantine.com^*/fb-like-pop.js
@@ -350,6 +352,8 @@ _regiepub/
 ||infos-mobiles.com/pub-
 ||iphone4.fr/bannieres/
 ||issentiel.com/media/affiliate/banner/$third-party
+||jacquieetmicheltv.net^*/thumbpubressources/
+||jacquieetmicheltv2.net^*/thumbpubressources/
 ||jamaisjouis.com^*/u.js
 ||jardisexe.com/ban/$third-party
 ||jedessine.com^*/monstermunch/
@@ -402,7 +406,6 @@ _regiepub/
 ||lien-torrent.com/pubs/
 ||liens-de-telechargement.com/popmodal/
 ||linternaute.com/*@*,position$script
-||aufeminin.com/home4/skin/*/fond.jpg
 ||macbidouille.com/banners/
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||madamesimone.com/ban/$third-party
@@ -486,9 +489,6 @@ _regiepub/
 ||script.banstex.com^
 ||sexe-au-bois.com/ban/$third-party
 ||sexe-i.com^*/u.js
-||jacquieetmicheltv2.net^*/thumbpubressources/
-||jacquieetmicheltv.net^*/thumbpubressources/
-||carasexe.com/promo/$third-party
 ||sexe-pornxx-videos.com^*/exitb.js
 ||sexe-pornxx-videos.com^*/mamclic.js
 ||sexe-pornxx-videos.com^*/mamexit.js
@@ -520,6 +520,7 @@ _regiepub/
 ||soonnight.com^*/bande_partenaires.png
 ||sos-trique.com/ban/$third-party
 ||spi0n.com/p/
+||spin-off.fr/images/vpngratuitspinfoff.gif
 ||sports.fr/includes/nav_footballfr/partenaires/
 ||sports.fr/includes/partenaires/
 ||sports.fr/includes/sync/partenaires/
@@ -529,7 +530,6 @@ _regiepub/
 ||starter.fm/images/*/bg_
 ||static.rtl.fr/www-2010/skin/$stylesheet
 ||static.rtl.fr/www/skin/promo/
-||courrierlaval.com/images/wallpaper/*
 ||stats.hosting24.com/count.php
 ||strasbourg-tramway.fr/ban_
 ||strasbourg-tramway.fr/banner
@@ -667,7 +667,6 @@ _regiepub/
 ###pub-main
 ###pub-right
 ###pub-top
-##.publicity
 ###pub-widget
 ###pub-widget2
 ###pubBandeau
@@ -800,6 +799,7 @@ _regiepub/
 ##.publicite-bas
 ##.publicite1
 ##.publicite_3
+##.publicity
 ##.sqrpub
 ##.srcPub
 ##.titrePub
@@ -863,6 +863,8 @@ _regiepub/
 abrutis.com##.adsense
 abrutis.com##.home_menu_container
 abrutis.com##.pub
+accentice.com###sidebar
+accentice.com##div[style="padding:5;padding-top:0;background:#fffdf7;"]
 actupc.info###casing > center > table[width="100%"][height="60"][cellspacing="0"][cellpadding="0"]
 actustar.com##.ads
 agoravox.fr##.pub
@@ -874,6 +876,7 @@ alvinet.com##.skyscraper
 anime00.com,anime00.net###pb1
 assiste.com.free.fr##.robots-nocontent > TABLE a > img
 audiofanzine.com###leaderboardContainer
+aufeminin.com##[class^="OffresSpe_"]
 aujourdhui-en-france.fr,leparisien.fr###clubDealbloc
 aujourdhui-en-france.fr,leparisien.fr###module-rencontres
 aujourdhui-en-france.fr,leparisien.fr##.moduleNew300
@@ -926,13 +929,14 @@ commentcamarche.net##.advertising
 commentcamarche.net,journaldesfemmes.com,linternaute.com##.publi-info
 competition.dz##.header-b1-banner
 courrier-picard.fr##.megaban-top
+courrierlaval.com###add_bottom
+courrierlaval.com###add_top
 dailymotion.com##.dm_widget_advert_iabrighttitle
 days-media.fr##.boxed[style^="width:300px; height:250px"]
 decitre.fr##.advertise
 deezer.com###bottom
 deezer.com##.pub
 deezer.com##[id^="ads"]
-nowvideo.eu###adv1
 desmatures.com##.pub468100top
 desmatures.com##.sidebarpub350250
 dinogaia.com###tableau_info
@@ -945,10 +949,6 @@ e-sante.fr##.ad
 e-sante.fr##.public-info
 elwatan.com###megabanner
 elwatan.com###pub_habillage_lien
-courrierlaval.com###add_top
-courrierlaval.com###add_bottom
-qc.ca###ad_wrapper
-lesaffaires.com###banner
 emule-island.ru###centre_haut
 emule-island.ru###droite_bas
 emule-island.ru###droite_haut
@@ -1048,14 +1048,12 @@ lemonde.fr##.conteneur_ligatus
 lemonde.fr##.global.services
 lemoteur.fr##.slpartner
 lemouv.fr###block-lemouv_bloc-pub_ftv_top
-wakanim.tv##DIV[style="width: 728px; margin: auto; height: 140px;overflow:hidden"]
 lensois.com###transparentad
 leparisien.fr###parisien-partenaires
 lepoint.fr###seloger_annonces_immo
 lepoint.fr###seloger_recherche_immo
 lepoint.fr##.pub
-accentice.com##DIV[style="padding:5;padding-top:0;background:#fffdf7;"]
-accentice.com###sidebar
+lesaffaires.com###banner
 lesbeurettes.com###trade
 lesbienne-gratis.com###trade
 lesdebiles.com##.menu_droite_partenaire
@@ -1123,17 +1121,16 @@ mypornmotion.com##.LinePromo
 neomag.fr###big-ad
 neowebcar.com##.adv-format-1
 news-de-stars.com###popupBottomAd
+nowvideo.eu###adv1
 nrj.fr###pub
 numerama.com###general_dec
 omgtorrent.com##.tuyau
 one-piece-streaming.fr###fermerPub
 oopsbuzz.com##.behincontent
-aufeminin.com##[class^="OffresSpe_"]
 orange.fr###blocServices
 orange.fr###lienComPart
 orange.fr###o_carrepub
 orientation-chabab.com##.bann
-tomtomax.fr##A[href^="http://clk.tradedoubler.com/"]
 orientation-chabab.com##.banner
 otaku-attitude.net###smart-bann
 ouiounon.net##.headertitrelien[target="_blank"]
@@ -1155,6 +1152,7 @@ premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 programme-tv.net###blocPub_MEGABAN
 programme-tv.net###pub_pole_position1
 programme-tv.net##.blocLeguide
+qc.ca###ad_wrapper
 radiofrance.fr###banniere
 radiofrance.fr##table[width="765"][height="100"]
 raje.fr##.ads
@@ -1171,8 +1169,6 @@ rue89.com###partenariat89_masterblock
 rue89.com##.gam-holder
 search.ke.voila.fr###fontDivVignette
 search.ke.voila.fr##.tpl_slpartner_container_bottom
-wat.tv##.partner_one_wat
-wat.tv##.partner_two_wat
 search.ke.voila.fr##.tpl_slpartner_container_top
 sexytout.com###\5f email_catcher
 silicon.fr###megabanner
@@ -1189,9 +1185,9 @@ southparkstreaming.fr##.bannergroup
 spi0n.com##.spion_single_pub
 sports.fr###banner-full
 sports.fr###hablinkzone
-strasbourg-tramway.fr##DIV[style="width:125px;height:125px;text-align:center"]
 sports.orange.fr###adTop2
 strasbourg-tramway.fr###ws_embed_footer
+strasbourg-tramway.fr##div[style="width:125px;height:125px;text-align:center"]
 strastv.com##.container_pubh_02
 strastv.com##.post_pub
 streamgo.net##.fixe
@@ -1207,6 +1203,7 @@ telechargementgratuits.com###ads
 telechargementgratuits.com###hopdream
 telechargementgratuits.com##.fixe
 tf1.fr###ible149256
+tomtomax.fr##a[href^="http://clk.tradedoubler.com/"]
 top-serie.org###top
 topanalyse.com###pid_f
 torrent-avenue.com##table[width="160"][height="600"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
@@ -1230,6 +1227,9 @@ voila.fr##.footer_tr
 voyage-economique.fr##.sideaff-container
 voyages-sncf.com###block-vsct_vsca-megabanner
 voyages.liberation.fr###vHeader-pub
+wakanim.tv##div[style="width: 728px; margin: auto; height: 140px;overflow:hidden"]
+wat.tv##.partner_one_wat
+wat.tv##.partner_two_wat
 wat.tv##.pub
 webactus.net###text-4
 wikipedia.orange.fr###o_cartouchecarrepub
@@ -1270,6 +1270,7 @@ zoomdici.fr##.innerArtAdd
 @@||e-sante.fr^*/ad-49x72.jpg
 @@||fatherandsons.fr^*/opecom/affiliation/
 @@||fr-advideum.videoplaza.tv/proxy/distributor/$object-subrequest,domain=rfi.fr
+@@||fr-advideum.videoplaza.tv/proxy/distributor?shares=$object-subrequest,domain=aufeminin.com
 @@||fr-advideum.videoplaza.tv/proxy/distributor?shares=lefigarooutstream$object-subrequest,domain=lefigaro.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
@@ -1293,6 +1294,9 @@ zoomdici.fr##.innerArtAdd
 @@||moov.mg/images/offres/push_adsl_bt_v2.jpg
 @@||naruto-one.com/images/bannieres/$domain=otaku-attitude.net
 @@||netavenir.com^$domain=zap-tele.com
+@@||network.aufeminin.com/a/diff/$object-subrequest,domain=aufeminin.com
+@@||network.aufeminin.com/call/pubj/$object-subrequest,domain=aufeminin.com
+@@||network.aufeminin.com/crossdomain.xml$domain=aufeminin.com
 @@||nikel-dominique.com^*/pagepeel-
 @@||nouvelobs.com/*@top
 @@||ohm-immobilier.fr/images/ads/
@@ -1317,14 +1321,10 @@ zoomdici.fr##.innerArtAdd
 @@||viamichelin.fr/static/advert/
 @@||viamichelin.fr^*/rentacar.js
 @@||videoplaza.tv^$domain=m6replay.fr|w9replay.fr
+@@||videos-pub.ftv-publicite.fr/media/$object-subrequest,domain=playerftp.videostream.fr
 @@||vo2.fr/uploads/tx_regiepub/bando-site-
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
-@@||network.aufeminin.com/crossdomain.xml$domain=aufeminin.com
-@@||network.aufeminin.com/call/pubj/$object-subrequest,domain=aufeminin.com
-@@||network.aufeminin.com/a/diff/$object-subrequest,domain=aufeminin.com
-@@||fr-advideum.videoplaza.tv/proxy/distributor?shares=$object-subrequest,domain=aufeminin.com
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
-@@||videos-pub.ftv-publicite.fr/media/$object-subrequest,domain=playerftp.videostream.fr
 ! Exception d'elements
 fichier.net#@##contentAd
 flysurf.com#@#.ads_area
