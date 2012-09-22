@@ -196,6 +196,7 @@ _regiepub/
 ||1maxdegay.com/images/rotbas/
 ||1maxdegay.com/images/rotcol/
 ||20minutes.fr/img/auto-promos/
+||2folie.com^*/underpopup.js
 ||2siteweb.com/cccam.gif
 ||2siteweb.com/likeboxfbfanpro.js
 ||7sur7.be/static/nmc/adv/sponsor/
@@ -217,6 +218,7 @@ _regiepub/
 ||animes-streaming.net/images/ruedufric.png
 ||annuaire-fille-sexy.com/ban/$third-party
 ||annuaire-gay-sexe.com/annuaire/promo/$third-party
+||annuaire-inverse-gratuit.org/js/default.js
 ||annuaire-transsexuelle.com/annuaire/ban/$third-party
 ||asia-passion.fr/annuaire/ban/$third-party
 ||asie-info.fr/wp-content/uploads/*/banner-asieinfo-
@@ -305,7 +307,6 @@ _regiepub/
 ||fm93.com/webradio/gabarits-webradio-poppers-bg.jpg
 ||fm93.com/webradio/poppers-
 ||fm93.com^*/pub/
-||livefoot.fr/images/habillage_
 ||force-download.net^*/yellowtoolbar/
 ||forum-windows.com/images/plimus/
 ||forum-windows.com/open/www/delivre/
@@ -328,7 +329,6 @@ _regiepub/
 ||gameblog.fr/skins/$image
 ||gamekult.com/i/fnac-hp-300x100.jpg
 ||gamekult.com/images/pubs/
-||rireetchansons.fr/skin//
 ||gigacu.com/jquery.js
 ||globirank.com/image/$domain=unlock-stream.com
 ||gratuit-xxx.com/images/boost/
@@ -397,7 +397,6 @@ _regiepub/
 ||lesbeurettes.com^*/u.js
 ||lesbienne-gratis.com^*/u.js
 ||lesbienne-passion.com/ban/$third-party
-||annuaire-inverse-gratuit.org/js/default.js
 ||lesbienne.cc^*/u.js
 ||lesbiennesxxx.com^*/u.js
 ||letour.fr^*/partenaires.swf?
@@ -413,6 +412,7 @@ _regiepub/
 ||lien-torrent.com/pubs/
 ||liens-de-telechargement.com/popmodal/
 ||linternaute.com/*@*,position$script
+||livefoot.fr/images/habillage_
 ||macbidouille.com/banners/
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||madamesimone.com/ban/$third-party
@@ -432,7 +432,6 @@ _regiepub/
 ||mesdialogues.net^*/page_pub.php?
 ||mesfilmsstreaming.com/images/download_films.png
 ||mesnotices.fr/shopping/
-||2folie.com^*/underpopup.js
 ||metaboli.fr/partners/gamekult/
 ||millenium.org/images/contenu/habillages/
 ||millenium.org/indexpub.php?
@@ -479,8 +478,6 @@ _regiepub/
 ||portail.free.fr/modules/shopping/*/shopping.html
 ||pp.free.fr^
 ||presse-citron.net^*/chicklets_pub/
-||rireetchansons.fr/rire/pub-
-||rireetchansons.fr/rire/pub2-
 ||pro.cdmail.fr/pro/images/
 ||promo.sextape-streaming.com^
 ||ps3gen.fr/pub/
@@ -489,6 +486,9 @@ _regiepub/
 ||pub.plan-dial.com^
 ||pulsions-genereuses.com/ban/$third-party
 ||raje.fr/images/banners/
+||rireetchansons.fr/rire/pub-
+||rireetchansons.fr/rire/pub2-
+||rireetchansons.fr/skin//
 ||rmf.lesinrocks.com^
 ||rollersexe.com/ban/$third-party
 ||roulettechat.fr/dynjs/geoloc
@@ -710,7 +710,6 @@ _regiepub/
 ###pubVideo
 ###pub_ban
 ###pub_banner
-##.hp_ad_box
 ###pub_bottom
 ###pub_carre_1
 ###pub_col_right
@@ -729,6 +728,7 @@ _regiepub/
 ###pub_square
 ###pub_top
 ###pubbas
+###pubcoldroite
 ###pubdirecte
 ###pubgoogle
 ###pubheader
@@ -775,6 +775,7 @@ _regiepub/
 ##.headerPub
 ##.header_pub
 ##.home_pub
+##.hp_ad_box
 ##.iframe_pub
 ##.little_pub
 ##.mailPubHeader
@@ -787,7 +788,6 @@ _regiepub/
 ##.pub-carre
 ##.pub-gigaban
 ##.pub-megaban
-###pubcoldroite
 ##.pub-megabanner
 ##.pub-pave
 ##.pubBottomRight
@@ -958,7 +958,6 @@ codeshttp.com##table[height="118"]
 commentcamarche.net###ba_position4
 commentcamarche.net###partners_offers
 commentcamarche.net##.advertising
-lol89.com##.s-300
 commentcamarche.net,journaldesfemmes.com,linternaute.com##.publi-info
 commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##.google_grand_rectangle
 commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##.skyscraper_large
@@ -974,7 +973,6 @@ deezer.com###bottom
 deezer.com##.pub
 deezer.com##[id^="ads"]
 desmatures.com##.pub468100top
-matchendirect.fr###pubtetiere
 desmatures.com##.sidebarpub350250
 dinogaia.com###tableau_info
 directvelo.com###col_03_partenaires
@@ -1001,6 +999,8 @@ extremepc.fr###pub
 extremepc.fr###pub2an
 faclic.com##.lbx_content
 faclic.com##.lbx_overlay
+fan-de-cinema.com##.megasquare
+fan-de-cinema.com##.topmargin
 fansub-resistance.net##[id^="pub_468x60_"]
 fansub-resistance.net##[id^="pub_728x90_"]
 femmemag.re###block_regie_pub_bas_article
@@ -1034,8 +1034,6 @@ gentside.com###kk-widget
 gentside.com##.add300
 genybet.fr##.GGFODTBDCS
 girlsgogames.fr##.categoryBanner
-fan-de-cinema.com##.megasquare
-fan-de-cinema.com##.topmargin
 google.fr###rhsline
 google.fr###tadsb
 google.fr##table[style="border: 1px solid #369"]
@@ -1053,7 +1051,6 @@ israel7.com##.box2[style="padding:5px;height:600px;"]
 israel7.com##table[style="margin:0px0px10px15px;"]
 jamaisjouis.com,vidule.com##.catcher
 jedessine.com##.pub_club
-yahoo.com###yad-billboard
 jeuxvideo.com###mc_sponso
 journaldugeek.com##.widget-current-offers.widget
 judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
@@ -1080,10 +1077,10 @@ lcd-compare.com##.ads1_label
 lebest.fr###ban_300x250
 lebest.fr###ban_728x90
 lebest.fr###liens_sponso
+leboncoin.fr##.google
 leboncoin.fr##div[class="newPartnerbox"]
 leboncoin.fr##div[style="width:189px;float:left;margin-left:8px;"]
 lecalendrier.fr###bottom-ad-leaderboard
-leboncoin.fr##.google
 ledevoir.com###A1
 lefigaro.fr###beead_flash
 lefigaro.fr###boxshop3
@@ -1095,7 +1092,6 @@ lemoteur.fr##.slpartner
 lemouv.fr###block-lemouv_bloc-pub_ftv_top
 lensois.com###transparentad
 leparisien.fr###parisien-partenaires
-soonnight.com###cadre_partenaire
 lepoint.fr###seloger_annonces_immo
 lepoint.fr###seloger_recherche_immo
 lepoint.fr##.pub
@@ -1123,6 +1119,7 @@ livefootball.fr###ad6b_doubu8f6d5n
 liveradio.fr###ad1
 lo.st##.home_partner_img
 loisirados.com###intersticiel
+lol89.com##.s-300
 mail.voila.fr###blocServices
 maison-facile.com##.texteb
 maisonapart.com##.map_fond_pub
@@ -1139,6 +1136,7 @@ matchendirect.fr###prehome_contenu
 matchendirect.fr###prehome_fond
 matchendirect.fr###pub_criteo_300x250_1
 matchendirect.fr###pub_criteo_468x60_1
+matchendirect.fr###pubtetiere
 matchendirect.mobi###pub1
 maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
 maxistreaming.com###header
@@ -1231,6 +1229,7 @@ sky-animes.com##.fixe
 slappyto.net##.Adsense
 slate.fr###smart14320
 softonic.fr##.topbanner
+soonnight.com###cadre_partenaire
 soonnight.com###partenaire
 sortirensemble.com###sondage_age
 southparkstreaming.fr##.bannergroup
@@ -1268,12 +1267,12 @@ une-recette.com##.banniere1
 une-recette.com##.bannierebas
 une-recette.com##.milieubanniere2
 viamichelin.fr###idAFSRoadsheetBottom.afsAdvertisingBottom
-vivastreet.com##.vs-advert-300x250
 viamichelin.fr###idHeaderGDH
 viamichelin.fr##.vm-gdhmegaban
 viamichelin.fr##.vm-pub-home300
 vidule.com###trade
 vintageamps.com###videoads
+vivastreet.com##.vs-advert-300x250
 vo2.fr###pub_background
 voila.fr###nosPartenaires
 voila.fr##.footer_tr
@@ -1288,6 +1287,7 @@ webactus.net###text-4
 wikipedia.orange.fr###o_cartouchecarrepub
 wix.com###wixFooter
 wix.com###wixfooter
+yahoo.com###yad-billboard
 yourporno.fr##.ads
 za-gay.org###ads_line
 zdnet.fr###pwcBox
