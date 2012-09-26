@@ -217,6 +217,7 @@ _regiepub/
 ||air-journal.fr/wp-content/uploads/ad-
 ||allo-heberge.com/interface/bannieres/$domain=megavisites.com
 ||allopass.com^*/pub/$domain=fullanimes.free.fr
+||allstream.fr/images/partenaires/
 ||alvinet.com/images/pub.gif
 ||amatrices-passion.com/ban/$third-party
 ||animes-streaming.net/images/ruedufric.png
@@ -245,6 +246,7 @@ _regiepub/
 ||blog2mature.com/273_210/
 ||blogdumac.com/pub/
 ||brain-magazine.com/images/_habillages/
+||canal-plus.com/design/*/header_flash.swf
 ||canoe.ca/accueil2007/images/btncruze.gif
 ||capinfoproreport.com/cap_pub/
 ||carasexe.com/promo/$third-party
@@ -297,7 +299,6 @@ _regiepub/
 ||eurosportbet.loa24.com^$domain=eurosport.fr
 ||explorerlondres.com^*/hotelscom.gif
 ||export.kelkoo.fr/$subdocument
-||canal-plus.com/design/*/header_Flash.swf
 ||external.priceminister.com^$domain=strasbourg-tramway.fr
 ||fantasme-bisexuel.com^*/u.js
 ||fastecard.net^*/pub
@@ -309,8 +310,6 @@ _regiepub/
 ||films-2-boules.com/promo/$third-party
 ||filmscine.com/images/playerplus.jpg
 ||filmze.com/xhtml/dsnr*.html
-||fmgsconcept.com^*/images/pub/
-||troc-velo.com/images/pub/*
 ||findmysexfriend.com/$image,~image,popup,domain=extremepc.fr
 ||flux.liberation.fr/fnac/
 ||fm93.com/images/publiereportage/
@@ -318,6 +317,7 @@ _regiepub/
 ||fm93.com/webradio/gabarits-webradio-poppers-bg.jpg
 ||fm93.com/webradio/poppers-
 ||fm93.com^*/pub/
+||fmgsconcept.com^*/images/pub/
 ||force-download.net^*/yellowtoolbar/
 ||forum-windows.com/images/plimus/
 ||forum-windows.com/open/www/delivre/
@@ -348,7 +348,6 @@ _regiepub/
 ||gratuit-xxx.com^*/boost_*.js
 ||grosse-passion.com/ban/$third-party
 ||groupolitan.be/fr/partners/iframe/
-||allstream.fr/images/partenaires/
 ||hamachifrance.com^*/images/*banv.jpg
 ||hamachifrance.com^*/images/banvg.jpg
 ||hamachifrance.com^*/images/vg3.jpg
@@ -418,7 +417,6 @@ _regiepub/
 ||letoutx.com/pubs/
 ||letraitdunion.com/images/headset/
 ||letraitdunion.com/images/wallpaper/
-||novaplanet.com^*/widget/pub_pave_
 ||lettres-modeles.fr/include/_iframe300x200.php
 ||lettres-modeles.fr/include/_iframe728x90.php
 ||lettres-modeles.fr^*/lmodel.php
@@ -436,7 +434,6 @@ _regiepub/
 ||mappy.com/services/annoncesjaunes/
 ||matchendirect.fr^*/image/pub/
 ||mature-passion.fr/ban/$third-party
-||ouifm.fr^*/images/partners/
 ||maxisciences.com/static/scripts/incentive.js
 ||maxtransexuelle.com^*/u.js
 ||mega-divx.net/cdn-cgi/pe/bag?
@@ -459,9 +456,6 @@ _regiepub/
 ||misstrends.com/stats/promo/$third-party
 ||mistergoodmovies.net/images/partners/
 ||mistergoodmovies.net^*/js.submgm.js
-||ruedesjoueurs.com^*/campagnes/habillage/
-||ruedesjoueurs.fr^*/campagnes/habillage/
-||ruedesjoueurs.fr/images/banners/
 ||monaco.mc/pages/getbandeau.jsp?
 ||mondedux.com/catcher/
 ||mondissimo.com^*/bannerdisplay.asp?
@@ -472,6 +466,7 @@ _regiepub/
 ||neezzmail.com/js/box.js
 ||neomag.fr/e-pubs/
 ||netmediaeurope.fr^*/*_partnerzone.$image,domain=silicon.fr
+||novaplanet.com^*/widget/pub_pave_
 ||nrj.fr/skin/classique/
 ||ohm.adstronic.net^
 ||one-piece-streaming.fr/images/min/pub/
@@ -480,6 +475,7 @@ _regiepub/
 ||orientation-chabab.com/img/pub.jpg
 ||otaku-attitude.net^*/okazu-manga.gif
 ||ouedkniss.com/pubs/
+||ouifm.fr^*/images/partners/
 ||oujdacity.net/kelkoo*.html
 ||ox.jeuxonline.info^
 ||p0rno.com/banners/
@@ -517,6 +513,9 @@ _regiepub/
 ||roulettechat.fr^*/facebook-api-pub/
 ||routard.com/img/homepart/budget_air/
 ||rue89.com/files/skin/themes/visa/background.jpg
+||ruedesjoueurs.com^*/campagnes/habillage/
+||ruedesjoueurs.fr/images/banners/
+||ruedesjoueurs.fr^*/campagnes/habillage/
 ||sbx.pagesjaunes.fr^
 ||scoopers.com/?o=$image,~image,popup
 ||script.banstex.com^
@@ -597,6 +596,7 @@ _regiepub/
 ||trashixxx.com/ban/$third-party
 ||trefle.com/js/modules/su.*.js
 ||trimag.fr^*/tx_macinabanners/
+||troc-velo.com/images/pub/
 ||trocdestrains.com/images/vista-print_600x90.gif
 ||tsa-algerie.com/images/pubs/
 ||twenga.fr^$domain=space-blogs.com
@@ -653,6 +653,8 @@ _regiepub/
 ###ad-megaban2
 ###ad-rectangle1
 ###ad_megabanner
+###adcontainer2
+###adcontainer3
 ###adsCarre
 ###adsHaut
 ###adspave
@@ -672,6 +674,7 @@ _regiepub/
 ###cadre_pub_bas
 ###carre-pub
 ###carre_pub
+###conteneurPub
 ###conteneur_pub
 ###content_left_pub
 ###content_pub_carre
@@ -718,6 +721,7 @@ _regiepub/
 ###pub-widget
 ###pub-widget2
 ###pubBandeau
+###pubBanner
 ###pubBottomRight
 ###pubCarre
 ###pubContainer
@@ -730,9 +734,6 @@ _regiepub/
 ###pubImg
 ###pubMiddle
 ###pubPartenaires
-###pubBanner
-###adcontainer2
-###adcontainer3
 ###pubTop
 ###pubVideo
 ###pub_ban
@@ -976,9 +977,6 @@ clicbienetre.com###popup
 clicbienetre.com##.sidebar_block
 clicforum.com,hack-games-crack.com,vraiforum.com,xooit.com,xooit.fr##div[style="margin: 0; padding: 0; visibilite: visible; display: block; height: 109px; width: 100%; background: url(/images/topbg.gif)"]
 clubic.com###listBlock_espacePartenaires
-ruedesjoueurs.com##.esspo736x110
-ruedesjoueurs.com###supersticiel
-ruedesjoueurs.com##.esspo232x70
 clubic.com###listBlock_mediatis
 clubic.com###shopper-widget-wrapper
 clubic.com##div[class="facebox layer_suggest"]
@@ -1057,7 +1055,6 @@ france2.fr###AdSquare02
 franceantilles.fr,franceguyane.fr###megabanner
 francebleu.fr,franceinfo.fr###pub-ftv-top
 franceculture.fr###block-fcbloc-publicite
-novaplanet.com###block_novadraganddrop_pub
 frandroid.com##.widget.widget_text
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 fullanimes.free.fr##[href^="http://www.allopass.com/check/red.php"] > img
@@ -1072,7 +1069,6 @@ google.fr###rhsline
 google.fr###tadsb
 google.fr##table[style="border: 1px solid #369"]
 gratuit-xxx.com##.footerboost
-ouifm.fr###partenaires
 gratuit-xxx.com##div[class^="boost_g_"]
 gulli.fr##.banner
 herault-tribune.com##[id^=content_right_pub]
@@ -1179,7 +1175,6 @@ maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
 maxistreaming.com###header
 maxistreaming.com###searchform
 mediadico.com###NFBannierePublicitaire
-troc-velo.com###publine
 megaupload-download.net##.infoblock
 meilleurtaux.com##.pub
 mesfilmsstreaming.com###pb1
@@ -1207,6 +1202,7 @@ mypornmotion.com##.LinePromo
 neomag.fr###big-ad
 neowebcar.com##.adv-format-1
 news-de-stars.com###popupBottomAd
+novaplanet.com###block_novadraganddrop_pub
 nowvideo.eu###adv1
 nrj.fr###pub
 numerama.com###general_dec
@@ -1219,6 +1215,7 @@ orange.fr###o_carrepub
 orientation-chabab.com##.bann
 orientation-chabab.com##.banner
 otaku-attitude.net###smart-bann
+ouifm.fr###partenaires
 ouiounon.net##.headertitrelien[target="_blank"]
 oujdacity.net###common-top-widget
 oujdacity.net##.ads
@@ -1255,6 +1252,9 @@ rtl.fr##.result.sponsor
 rue-montgallet.com##.adBuyRight
 rue89.com###partenariat89_masterblock
 rue89.com##.gam-holder
+ruedesjoueurs.com###supersticiel
+ruedesjoueurs.com##.esspo232x70
+ruedesjoueurs.com##.esspo736x110
 search.ke.voila.fr###fontDivVignette
 search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
@@ -1298,6 +1298,7 @@ topanalyse.com###pid_f
 torrent-avenue.com##table[width="160"][height="600"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 trancegoa.org##td > .fb-like-box + br + .texteentete.taille2
 trimag.fr##.banner
+troc-velo.com###publine
 trocdestrains.com##.boite-partenaire-v
 turbo.fr##.croco.betclic
 tv5.org##.bloc_promomiddle
