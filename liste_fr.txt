@@ -337,7 +337,6 @@ _regiepub/
 ||fullxmovies.com/payglad/
 ||fullxmovies.com/popunderclic.js
 ||fullxmovies.com/randomthumbs*.php
-||futura-sciences.com^*/templates/*/css_habillage/
 ||gagnons-argent.com/pubd.php$image,~image,popup,third-party
 ||gameblog.fr/skins/$image
 ||gamekult.com/i/fnac-hp-300x100.jpg
@@ -696,7 +695,7 @@ _regiepub/
 ###head-ads
 ###head-pub
 ###head_pub
-###header-pub
+~futura-sciences.com###header-pub
 ###header_bloc2_pub
 ###header_pub
 ###idMapAdvertising
