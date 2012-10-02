@@ -339,7 +339,6 @@ _regiepub/
 ||fullxmovies.com/randomthumbs*.php
 ||gagnons-argent.com/pubd.php$image,~image,popup,third-party
 ||gameblog.fr/skins/$image
-||gamekult.com/i/fnac-hp-300x100.jpg
 ||gamekult.com/images/pubs/
 ||gayxperience.com/index.php?$third-party
 ||gigacu.com/jquery.js
@@ -1342,7 +1341,6 @@ zoomdici.fr##.innerArtAdd
 !
 !----------------------- Exceptions -----------------------!
 !
-@@||01net.com^*/publicite/puce_a_votre_serv.jpg
 @@||ad.zanox.com/ppc/$image,~image,popup,domain=bons-plans-astuces.com
 @@||ad2play.ftv-publicite.fr/?sitepage=www.psg.fr$subdocument,domain=psg.fr
 @@||ads.deezer.com/
@@ -1365,11 +1363,10 @@ zoomdici.fr##.innerArtAdd
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/ad-remover/img/
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
-@@||e-sante.fr^*/ad-49x72.jpg
+@@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
 @@||fatherandsons.fr^*/opecom/affiliation/
 @@||fr-advideum.videoplaza.tv/proxy/distributor/$object-subrequest,domain=rfi.fr
-@@||fr-advideum.videoplaza.tv/proxy/distributor?shares=$object-subrequest,domain=aufeminin.com
-@@||fr-advideum.videoplaza.tv/proxy/distributor?shares=lefigarooutstream$object-subrequest,domain=lefigaro.fr
+@@||fr-advideum.videoplaza.tv/proxy/distributor?shares=$object-subrequest,domain=aufeminin.com|lefigaro.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
 @@||francetelevisions.fr^*/publicite/silverlight.php?
