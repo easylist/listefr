@@ -564,6 +564,9 @@ _regiepub/
 ||sports.fr/includes/partenaires/
 ||sports.fr/includes/sync/partenaires/
 ||sports.fr^*/habillage/
+||korben.info^*/korben-steaw/adv/
+||korben.info^*/logoagarik2010officiel.png
+||korben.info^*/textmaster.jpg
 ||stars-passion.com/ban/$third-party
 ||starter.fm/blog/*/bg_$image
 ||starter.fm/images/*/bg_
@@ -795,6 +798,7 @@ _regiepub/
 ##.block-pubimage
 ##.block_pub
 ##.blocpub
+##.advert-center
 ##.cadre-pub-google
 ##.carre_pub
 ##.carrepub
@@ -1024,6 +1028,8 @@ emule-island.ru###centre_haut
 emule-island.ru###droite_bas
 emule-island.ru###droite_haut
 emule-island.ru###pub
+korben.info###samsarin_php_widget-9 A[style^="display:block"]
+korben.info###samsarin_php_widget-5 DIV[style*="width: 125px; height: 125px"]
 ergor.org##.ladypub
 europe1.fr##.s-partenaires
 eurosport.fr###Container_OAS_Right
@@ -1092,7 +1098,6 @@ jeuxvideo.com###mc_sponso
 journaldugeek.com##.widget-current-offers.widget
 judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
 judgehype.com###partenaire
-korben.info##.advert-center
 la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
 la-musique-rai.com##.ban728
 la-musique-rai.com##.rowa
