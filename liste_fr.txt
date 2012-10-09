@@ -876,7 +876,6 @@ _regiepub/
 ##.widget_publicite
 ##.wrap-pub
 ##.zonepub
-~sport.francetv.fr##[id^="eShowPub"]
 ##a[href^="http://www.crazyloader.com"]
 ! Dimensions
 ###Pub728x90
@@ -886,6 +885,7 @@ _regiepub/
 ###adl_300x250
 ###adl_728x90
 ###ads300x250
+###annonce_pub
 ###pub-200x197
 ###pub-728
 ###pub-728x90
@@ -1316,6 +1316,8 @@ trancegoa.org##td > .fb-like-box + br + .texteentete.taille2
 trimag.fr##.banner
 troc-velo.com###publine
 trocdestrains.com##.boite-partenaire-v
+~sport.francetv.fr,francetv.fr,la1ere.fr,france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetvinfo.fr##div[id^="eShowPub"]
+sport.francetv.fr###archePromo
 turbo.fr##.croco.betclic
 tv5.org##.bloc_promomiddle
 une-recette.com##.banniere1
