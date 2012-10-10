@@ -336,6 +336,7 @@ _regiepub/
 ||fm93.com/js/larouche
 ||fm93.com/webradio/gabarits-webradio-poppers-bg.jpg
 ||fm93.com/webradio/poppers-
+||midinews.com^*/oas/oas.php?*
 ||fm93.com^*/pub/
 ||fmgsconcept.com^*/images/pub/
 ||force-download.net^*/yellowtoolbar/
@@ -951,6 +952,7 @@ _regiepub/
 ###pub_728x90-2
 ###pub_728x90_header
 ##.pub-728
+##._meltypub
 ##.pub160x600
 ~pharmasite.fr##.pub300
 ##.pub300250
@@ -1311,6 +1313,9 @@ programme-tv.net###pub_pole_position1
 programme-tv.net##.blocLeguide
 qc.ca###ad_wrapper
 radiofrance.fr###banniere
+clubic.com##[id^="pub_dart_"]
+mistergooddeal.com##DIV[style="padding: 8px; border: 1px solid #CCC; border-radius: 3px; position: relative; margin-top: 10px; width: 728px; height: 200px; align: center; margin-left: "]
+melty.fr,meltyfood.fr,meltycampus.fr,meltyfashion.fr,meltystyle.fr,meltybuzz.fr,meltyxtrem.fr,meltyxtrem.fr##[id^="container_A2_"]
 radiofrance.fr##table[width="765"][height="100"]
 raje.fr##.ads
 redlist-ultimate.be###partenaire
