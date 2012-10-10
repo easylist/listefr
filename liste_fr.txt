@@ -25,8 +25,8 @@
 ||adnext.fr^$third-party
 ||adqia.com^$third-party
 ||ads.eorezo.com^
-||adserverpub.com^$third-party
 ||adserverpub.com^$popup
+||adserverpub.com^$third-party
 ||affidate.com^$third-party
 ||affiliation-france.com^$third-party
 ||affiliaweb.eu^$third-party
@@ -55,8 +55,8 @@
 ||comclick.com^$third-party
 ||connexplace.com^$third-party
 ||cougar-rencontre.net^$third-party
-||danstonfion.com^$third-party
 ||danstonfion.com^$popup,third-party
+||danstonfion.com^$third-party
 ||ddfcash.com^$third-party
 ||dekalee.net^$third-party
 ||deliv.prisma-presse.com^$third-party
@@ -83,8 +83,8 @@
 ||goodaction.com^$third-party
 ||goracash.com^$third-party
 ||hebdotop.com^$third-party
-||hopdream.com^$third-party
 ||hopdream.com^$popup,third-party
+||hopdream.com^$third-party
 ||i-promotion.net^$third-party
 ||illyx.co^$third-party
 ||illyx.com^$third-party
@@ -100,8 +100,8 @@
 ||myxpub.com^$third-party
 ||neckermann.be^$third-party
 ||nols-pub.fr^$third-party
-||openadserving.com^$third-party
 ||openadserving.com^$popup
+||openadserving.com^$third-party
 ||orangeads.fr^$third-party
 ||orangepublicite.fr^$third-party
 ||oxiads.fr/www/images/
@@ -336,7 +336,6 @@ _regiepub/
 ||fm93.com/js/larouche
 ||fm93.com/webradio/gabarits-webradio-poppers-bg.jpg
 ||fm93.com/webradio/poppers-
-||midinews.com^*/oas/oas.php?*
 ||fm93.com^*/pub/
 ||fmgsconcept.com^*/images/pub/
 ||force-download.net^*/yellowtoolbar/
@@ -364,6 +363,8 @@ _regiepub/
 ||gigacu.com/jquery.js
 ||gigatopsexe.com/550x100.gif
 ||globirank.com/image/$domain=unlock-stream.com
+||goelovb.com^*/ArmorTV.png
+||goelovb.com^*/fps.gif
 ||goziga.com/ban/
 ||goziga.com^*/banangela.gif
 ||goziga.com^*/banhead_
@@ -387,6 +388,7 @@ _regiepub/
 ||hotvideo.fr^*/banners/
 ||humourquotidien.com/pubs/
 ||icpc.tv/banners/$domain=europeplusnet.info
+||imados.fr^*/habbo/
 ||image.jeuxvideo.com/ope/
 ||images.fan-de-cinema.com/habillage/
 ||images1.soonnight.com/template/skins/*/skin.css
@@ -486,6 +488,7 @@ _regiepub/
 ||mesfilmsstreaming.com/images/download_films.png
 ||mesnotices.fr/shopping/
 ||metaboli.fr/partners/gamekult/
+||midinews.com^*/oas/oas.php?
 ||milisexe.com/vador*.html
 ||millenium.org/images/contenu/habillages/
 ||millenium.org/indexpub.php?
@@ -554,9 +557,6 @@ _regiepub/
 ||rireetchansons.fr/rire/pub-
 ||rireetchansons.fr/rire/pub2-
 ||rireetchansons.fr/skin//
-||goelovb.com^*/ArmorTV.png
-||goelovb.com^*/fps.gif
-||imados.fr^*/habbo/
 ||rmf.lesinrocks.com^
 ||rollersexe.com/ban/$third-party
 ||roulettechat.fr/dynjs/geoloc
@@ -839,6 +839,7 @@ _regiepub/
 ###wrapper-pub
 ###zone_pub
 ###zone_pub1
+##._meltypub
 ##.adsbantop
 ##.adsenseWrapper
 ##.adspave
@@ -852,7 +853,6 @@ _regiepub/
 ##.blocpub
 ##.cadre-pub-google
 ##.carre_pub
-##._meltypub
 ##.carrepub
 ##.container-pubcarre
 ##.conteneur_pub_vertical
@@ -921,9 +921,9 @@ _regiepub/
 ##.publicity
 ##.sqrpub
 ##.srcPub
-##.titrePub
 ##.texte_ads
 ##.texte_ads_plug
+##.titrePub
 ##.toppubs
 ##.txt-pub
 ##.widget_publicite
@@ -991,6 +991,7 @@ accentice.com###sidebar
 accentice.com##div[style="padding:5;padding-top:0;background:#fffdf7;"]
 actupc.info###casing > center > table[width="100%"][height="60"][cellspacing="0"][cellpadding="0"]
 actustar.com##.ads
+ados.fr##.pub
 agoravox.fr##.pub
 akelys.com##.cellulePUB
 allocine.fr##.coltop
@@ -1044,6 +1045,7 @@ clicforum.com,hack-games-crack.com,vraiforum.com,xooit.com,xooit.fr##div[style="
 clubic.com###listBlock_espacePartenaires
 clubic.com###listBlock_mediatis
 clubic.com###shopper-widget-wrapper
+clubic.com##[id^="pub_dart_"]
 clubic.com##div[class="facebox layer_suggest"]
 clubic.com##div[class="facebox layer_suggest_nl"]
 cmonjour.com##.megaddd
@@ -1116,7 +1118,6 @@ fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
 fr.news.yahoo.com##[id^="pmBannerContainer"]
 france.meteofrance.com###adColumn3
 france2.fr###AdBottomRight
-ados.fr##.pub
 france2.fr###AdSquare02
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,~sport.francetv.fr##div[id^="eShowPub"]
 franceantilles.fr,franceguyane.fr###megabanner
@@ -1249,6 +1250,7 @@ maxistreaming.com###searchform
 mediadico.com###NFBannierePublicitaire
 megaupload-download.net##.infoblock
 meilleurtaux.com##.pub
+melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,meltyxtrem.fr##[id^="container_A2_"]
 mesfilmsstreaming.com###pb1
 mesfilmsstreaming.com##.fixe
 meteoconsult.fr###bloc_pub_sommaire_terrestre
@@ -1259,6 +1261,7 @@ millenium.org###logo_droite
 minutefacile.com##.pub
 miroirsocial.com###partners
 miss34.com##td[style="height:99px; vertical-align:top; background:#ffffff"]
+mistergooddeal.com##div[style="padding: 8px; border: 1px solid #CCC; border-radius: 3px; position: relative; margin-top: 10px; width: 728px; height: 200px; align: center; margin-left: "]
 mistergoodmovies.net###addspace
 mobileguide.be##.mobistar-banner
 mobileguide.be##.mobistar-banner-small
@@ -1317,9 +1320,6 @@ programme-tv.net###pub_pole_position1
 programme-tv.net##.blocLeguide
 qc.ca###ad_wrapper
 radiofrance.fr###banniere
-clubic.com##[id^="pub_dart_"]
-mistergooddeal.com##DIV[style="padding: 8px; border: 1px solid #CCC; border-radius: 3px; position: relative; margin-top: 10px; width: 728px; height: 200px; align: center; margin-left: "]
-melty.fr,meltyfood.fr,meltycampus.fr,meltyfashion.fr,meltystyle.fr,meltybuzz.fr,meltyxtrem.fr,meltyxtrem.fr##[id^="container_A2_"]
 radiofrance.fr##table[width="765"][height="100"]
 raje.fr##.ads
 redlist-ultimate.be###partenaire
