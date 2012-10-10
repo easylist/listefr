@@ -554,6 +554,9 @@ _regiepub/
 ||rireetchansons.fr/rire/pub-
 ||rireetchansons.fr/rire/pub2-
 ||rireetchansons.fr/skin//
+||goelovb.com^*/ArmorTV.png
+||goelovb.com^*/fps.gif
+||imados.fr^*/habbo/
 ||rmf.lesinrocks.com^
 ||rollersexe.com/ban/$third-party
 ||roulettechat.fr/dynjs/geoloc
@@ -1113,6 +1116,7 @@ fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
 fr.news.yahoo.com##[id^="pmBannerContainer"]
 france.meteofrance.com###adColumn3
 france2.fr###AdBottomRight
+ados.fr##.pub
 france2.fr###AdSquare02
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,~sport.francetv.fr##div[id^="eShowPub"]
 franceantilles.fr,franceguyane.fr###megabanner
@@ -1433,7 +1437,7 @@ zoomdici.fr##.innerArtAdd
 @@||afe2.specificclick.net/crossdomain.xml$domain=videos.nt1.tv|videos.tmc.tv
 @@||allocine.fr/crossdomain.xml
 @@||astw.adgear.com^$domain=tetesaclaques.tv
-@@||banners.oxiads.fr/player/$domain=rabbitfinder.com|sexandtrash.com
+@@||banners.oxiads.fr/player/$object,object-subrequest
 @@||blog.lemonde.fr/files/
 @@||blogdumac.com/pub/images/footer-bdm_02.png
 @@||ccmbenchmark.com^$~third-party
