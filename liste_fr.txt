@@ -212,6 +212,7 @@ _regiepub/
 ||7sur7.be/static/nmc/adv/sponsor/
 ||a18ans.com/iframe_pub_header.php
 ||a18ans.com/pub/
+||abcbourse.com^*/cortal_home.jpg
 ||absoluflash.com^*/jeux-ban/
 ||absoluflash.com^*/tube-pub-
 ||absolugirl.com^*/popunder5.js
@@ -299,9 +300,6 @@ _regiepub/
 ||dpstream.net/fichiers/pub/
 ||dracouilla.com/ban/$third-party
 ||e-sante.fr/sites/default/files/templates/$image
-||surf-report.com^*/Wallpaper293x936-
-||surf-report.com/sites/default/files/wall_
-||surf-report-shop.com^$popup,domain=surf-report.com
 ||easyrencontre.com/promo
 ||easyvols.org/leparisien/
 ||easyvols.org/liberation/
@@ -403,6 +401,7 @@ _regiepub/
 ||jamaisjouis.com^*/u.js
 ||jardisexe.com/ban/$third-party
 ||jedessine.com^*/monstermunch/
+||jeu.net/pub/
 ||jeune-homme-gay.com^*/u.js
 ||jeunebaisemature.com^*/u.js
 ||jeux-flash-gratis.com/pics/$domain=la-musique-rai.com
@@ -477,7 +476,6 @@ _regiepub/
 ||matvsexe.com/bans/
 ||max-videos.com/tools/
 ||maxisciences.com/static/scripts/incentive.js
-||jeu.net/pub/
 ||maxtransexuelle.com^*/u.js
 ||mega-divx.net/cdn-cgi/pe/bag?
 ||megadvdrip.com/popup.js
@@ -623,14 +621,16 @@ _regiepub/
 ||strasbourg-tramway.fr/banner
 ||stream-film.com/images/pub.gif
 ||streamgo.net^*/rapidlikes.js
+||surf-report-shop.com^$popup,domain=surf-report.com
+||surf-report.com/sites/default/files/wall_
 ||surf-report.com^*/files/weeman_*.jpg
+||surf-report.com^*/Wallpaper293x936-
 ||sylvainpellier.fr/bandeau/
 ||tac2.xcams.com/livecams/$third-party
 ||teen-passion.net/annuaire/ban/$third-party
 ||telechargementgratuits.com/hexa.png
 ||terasexe.com/pubs/
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
-||abcbourse.com^*/cortal_home.jpg
 ||textograto.com/iframe1.php
 ||theadultcompany.biz/*/ff_siteunder/$popup
 ||ti.bank.free.fr/images/jarrety
@@ -987,6 +987,7 @@ _regiepub/
 2siteweb.com##.fixe
 750g.com###header
 a18ans.com##.catcher
+abcbourse.com###header_click
 abrutis.com##.adsense
 abrutis.com##.home_menu_container
 abrutis.com##.pub
@@ -1027,6 +1028,7 @@ boulistenaute.com###dropin
 boulistenaute.com##.xo-banner-ad-footer
 boursier.com###banner
 boursier.com###footer-partenaires
+braindamaged.fr##a[href^="index.php?adclick="]
 businessnews.com.tn###megaban-1000
 canalplus.fr##.banner
 canalplus.fr##.visuel_preroll
@@ -1153,14 +1155,15 @@ israel7.com##.box2[style="padding:5px;height:600px;"]
 israel7.com##table[style="margin:0px0px10px15px;"]
 jamaisjouis.com,vidule.com##.catcher
 jedessine.com##.pub_club
+jeu.net##div[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
 jeuxonline.info###pub
 jeuxvideo.com###mc_sponso
 journaldugeek.com##.widget-current-offers.widget
 judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
 judgehype.com###partenaire
 korben.info###samsarin_php_widget-5 div[style*="width: 125px; height: 125px"]
-korben.info##[id^="google_ads_"]
 korben.info###samsarin_php_widget-9 a[style^="display:block"]
+korben.info##[id^="google_ads_"]
 korben.info##a[style="background:transparent; position:absolute; top:0px; left:0; width:100%; height:100%; z-index:0;"]
 la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
 la-musique-rai.com##.ban728
@@ -1178,7 +1181,6 @@ lapresse.ca###pubs
 laptopspirit.fr##a[href^="http://www.prix-portables.fr/pub/"]
 lastfilmstreaming.com###pb1
 lastminute.com##.adContainer
-braindamaged.fr##A[href^="index.php?adclick="]
 lateen18.com###trade
 lcd-compare.com##.ads1_label
 lebest.fr###ban_300x250
@@ -1356,7 +1358,6 @@ slappyto.net##.Adsense
 slate.fr###smart14320
 softonic.fr##.topbanner
 soonnight.com###cadre_partenaire
-abcbourse.com###header_click
 soonnight.com###partenaire
 sortirensemble.com###sondage_age
 southparkstreaming.fr##.bannergroup
@@ -1378,7 +1379,6 @@ streamxd.com###topbar
 super-drole.com###cadre_infoads
 swissquote.ch##.partner
 techno-science.net##.module.moduleBoutiqueEncart
-jeu.net##DIV[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
 tele.premiere.fr###pub_a2d_pave
 telechargementgratuits.com###ads
 telechargementgratuits.com###hopdream
@@ -1525,6 +1525,7 @@ vente-a-domicile.fr#@#.ad-right
 vente-a-domicile.fr#@#.btn-ad
 ! Anti Adblock
 @@||0xp.be/js/adframe.js
+@@||anime-story.com/js/ads.js
 @@||awsclic.com/js/advertisement.js
 @@||bizerta-soft.com/clientscript/advertisement.js$script
 @@||claymore.fr/advertisement.js
@@ -1538,7 +1539,6 @@ vente-a-domicile.fr#@#.btn-ad
 @@||partage-facile.com$elemhide
 @@||playtv.fr$elemhide
 @@||protect-url.net^$elemhide
-@@||anime-story.com/js/ads.js
 @@||sanwilltv.net/advertisement.js
 @@||scan-manga.com/ads.html
 @@||scan-manga.com/ads/banner.jpg?
