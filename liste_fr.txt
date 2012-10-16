@@ -635,12 +635,11 @@ _regiepub/
 ||soonnight.com^*/bande_partenaires.png
 ||sos-trique.com/ban/$third-party
 ||spin-off.fr/images/vpngratuitspinfoff.gif
-||sports.fr/includes/nav_footballfr/partenaires/
-||sports.fr/includes/partenaires/
-||sports.fr/includes/sync/partenaires/
-||sports.fr^*/habillage/
+||sports.fr^*/partenaires/
+||sports.fr/includes/cobrand/*/habillage/
 ||stars-passion.com/ban/$third-party
 ||starter.fm/blog/*/bg_$image
+||football.fr/includes/cobrand/*/habillage/
 ||starter.fm/images/*/bg_
 ||static.rtl.fr/www-2010/skin/$stylesheet
 ||static.rtl.fr/www/skin/promo/
@@ -853,6 +852,7 @@ _regiepub/
 ###pub_pave_bottom
 ###pub_pave_top
 ###pub_right
+###ad-rectangle2
 ###pub_square
 ###pub_top
 ###pubbas
@@ -1214,6 +1214,7 @@ korben.info##[id^="google_ads_"]
 korben.info##a[style="background:transparent; position:absolute; top:0px; left:0; width:100%; height:100%; z-index:0;"]
 la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
 la-musique-rai.com##.ban728
+football.fr###hablinkzone
 la-musique-rai.com##.rowa
 lacanausurfinfo.com###banner_footer
 lacanausurfinfo.com###promo
