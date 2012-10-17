@@ -256,6 +256,7 @@ _regiepub/
 ||bazardux.com/index.php?$third-party
 ||belle-salope.fr/ban/$third-party
 ||belledesfleurs.com/ban/$third-party
+||benkhouya.com^*/hebergement-web-maroc.png
 ||beurette-passion.com/ban/$third-party
 ||beurettes-faciles.com/promo/
 ||binnews.in/_images/ad_
@@ -289,7 +290,6 @@ _regiepub/
 ||conception-site-web.info/modules/creation-site/images/banner.jpg
 ||coquinissime.com/promo/
 ||courrierlaval.com/images/wallpaper/
-||benkhouya.com^*/hebergement-web-maroc.png
 ||credit-az.net/pub/
 ||credits-on-line.info/pub/
 ||csconstantine.com^*/fb-like-pop.js
@@ -341,14 +341,13 @@ _regiepub/
 ||filmze.com/xhtml/dsnr*.html
 ||findmysexfriend.com/$popup,domain=extremepc.fr
 ||flux.liberation.fr/fnac/
-||journaldunet.com^*/0_pub/
-||linternaute.com^*/0_pub/
 ||fm93.com/images/publiereportage/
 ||fm93.com/js/larouche
 ||fm93.com/webradio/gabarits-webradio-poppers-bg.jpg
 ||fm93.com/webradio/poppers-
 ||fm93.com^*/pub/
 ||fmgsconcept.com^*/images/pub/
+||football.fr/includes/cobrand/*/habillage/
 ||force-download.net^*/yellowtoolbar/
 ||forum-windows.com/images/plimus/
 ||forum-windows.com/open/www/delivre/
@@ -367,6 +366,7 @@ _regiepub/
 ||fullxmovies.com/payglad/
 ||fullxmovies.com/popunderclic.js
 ||fullxmovies.com/randomthumbs*.php
+||funradio.fr^*/skin/promo/
 ||gagnons-argent.com/pubd.php$popup,third-party
 ||gameblog.fr/skins/$image
 ||gamekult.com/images/pubs/
@@ -422,6 +422,7 @@ _regiepub/
 ||jeuxvideo.com/sponso/
 ||jeuxvideo.com/sponso_videos/
 ||jeveuxdestrans.com^*/u.js
+||journaldunet.com^*/0_pub/
 ||juif.org/img/partners/
 ||kamehashop.fr/partenaire/$domain=sky-animes.com
 ||kelbillet.com/ws_smads_integration.php
@@ -476,6 +477,7 @@ _regiepub/
 ||lien-torrent.com/pubs/
 ||liens-de-telechargement.com/popmodal/
 ||linternaute.com/*@*,position$script
+||linternaute.com^*/0_pub/
 ||liste2cul.com/iframe_pub_header.php?
 ||liste2cul.com/pub/
 ||livefoot.fr/images/habillage_
@@ -582,7 +584,6 @@ _regiepub/
 ||pulsions-genereuses.com/ban/$third-party
 ||raje.fr/images/banners/
 ||rireetchansons.fr/rire/pub-
-||funradio.fr^*/skin/promo/
 ||rireetchansons.fr/rire/pub2-
 ||rireetchansons.fr/skin//
 ||rmf.lesinrocks.com^
@@ -637,11 +638,10 @@ _regiepub/
 ||soonnight.com^*/bande_partenaires.png
 ||sos-trique.com/ban/$third-party
 ||spin-off.fr/images/vpngratuitspinfoff.gif
-||sports.fr^*/partenaires/
 ||sports.fr/includes/cobrand/*/habillage/
+||sports.fr^*/partenaires/
 ||stars-passion.com/ban/$third-party
 ||starter.fm/blog/*/bg_$image
-||football.fr/includes/cobrand/*/habillage/
 ||starter.fm/images/*/bg_
 ||static.rtl.fr/www-2010/skin/$stylesheet
 ||static.rtl.fr/www/skin/promo/
@@ -749,6 +749,7 @@ _regiepub/
 ###PubPave
 ###ad-megaban2
 ###ad-rectangle1
+###ad-rectangle2
 ###ad_megabanner
 ###adcontainer2
 ###adcontainer3
@@ -854,7 +855,6 @@ _regiepub/
 ###pub_pave_bottom
 ###pub_pave_top
 ###pub_right
-###ad-rectangle2
 ###pub_square
 ###pub_top
 ###pubbas
@@ -1000,12 +1000,12 @@ _regiepub/
 ###pub_728x90-1
 ###pub_728x90-2
 ###pub_728x90_header
+##.pub-300x250
 ##.pub-728
 ##.pub160x600
 ~pharmasite.fr##.pub300
 ##.pub300250
 ##.pub300_contenu
-##.pub-300x250
 ##.pub300x250
 ##.pub350x250left
 ##.pub46860
@@ -1060,6 +1060,7 @@ autoreflex.com###arx_home_partenaires
 bakchich.info##.scpe-pub
 base64decode.org,base64encode.org##.banner_300_250
 base64decode.org,base64encode.org##.banner_468_60
+basketusa.com##.pub-1000x90-top
 beaute-test.com##.addict_bloc
 beezik.com##.ads
 blog.you-test.ch##body > :nth-child(n) + style + div[id]:last-child
@@ -1067,7 +1068,6 @@ blog.you-test.ch##body > noscript > style + div[id]:last-child
 blog2mature.com##.download
 blog2mature.com##.liens
 blog2mature.com##.widget.widget_links
-basketusa.com##.pub-1000x90-top
 blogdumac.com###encart-adsense-top-single
 blogs.allocine.fr###pub
 blogs.lesinrocks.com##.sub_headline.top
@@ -1162,6 +1162,7 @@ flights-results.liligo.fr###pulledbanner-right-top
 flights-results.liligo.fr###top-banner-smart
 fluket.com##.fixe
 football.fr###adRight3
+football.fr###hablinkzone
 forum-actif.net##.tradeDoubler
 forum.oujdacity.net###footer
 forum.pcastuces.com##table[width="728"][height="90"][align="center"]
@@ -1218,7 +1219,6 @@ korben.info##[id^="google_ads_"]
 korben.info##a[style="background:transparent; position:absolute; top:0px; left:0; width:100%; height:100%; z-index:0;"]
 la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
 la-musique-rai.com##.ban728
-football.fr###hablinkzone
 la-musique-rai.com##.rowa
 lacanausurfinfo.com###banner_footer
 lacanausurfinfo.com###promo
@@ -1493,6 +1493,7 @@ zoomdici.fr##.innerArtAdd
 !
 @@||ad.zanox.com/ppc/$popup,domain=bons-plans-astuces.com
 @@||ad2play.ftv-publicite.fr/?sitepage=www.psg.fr$subdocument,domain=psg.fr
+@@||admedia.rtl.fr/online/sound/$object-subrequest,domain=rtl.fr
 @@||ads.deezer.com/
 @@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|rtl.fr
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
@@ -1525,6 +1526,7 @@ zoomdici.fr##.innerArtAdd
 @@||google.com/uds/$script,domain=rfm.fr|virginradio.fr
 @@||googleadservices.com^$domain=journaldugeek.com
 @@||images.newmedia.lu^*/adtech_video/
+@@||iphone4.fr/bannieres/header_icons.png
 @@||kapaza.be/*/ad_view_
 @@||koifaire.com/upload/*/300x250-
 @@||lacanausurfinfo.com/admin/images/pubs/pub_18.png
@@ -1538,7 +1540,6 @@ zoomdici.fr##.innerArtAdd
 @@||media.eurolive.com^$domain=live18ans.com
 @@||media.the-adult-company.com^$domain=celibataires.fr
 @@||moov.mg/images/offres/push_240x170_v2.01.jpg
-@@||admedia.rtl.fr/online/sound/$object-subrequest,domain=rtl.fr
 @@||moov.mg/images/offres/push_adsl_bt_v2.jpg
 @@||naruto-one.com/images/bannieres/$domain=otaku-attitude.net
 @@||netavenir.com^$domain=zap-tele.com
@@ -1548,7 +1549,6 @@ zoomdici.fr##.innerArtAdd
 @@||nikel-dominique.com^*/pagepeel-
 @@||nouvelobs.com/*@top
 @@||ohm-immobilier.fr/images/ads/
-@@||iphone4.fr/bannieres/header_icons.png
 @@||openad.tf1.fr/realmedia/ads/adstream_mjx.ads/*/video/$script
 @@||ouifm.adswizz.com//www/components/
 @@||ouifm.adswizz.com/www/components/
@@ -1597,8 +1597,8 @@ vente-a-domicile.fr#@#.btn-ad
 @@||openrunner.com/js/advertisement.js
 @@||partage-facile.com$elemhide
 @@||playtv.fr$elemhide
-@@||protect-url.net^$elemhide
 @@||protect-url.net/js/advertisement.js
+@@||protect-url.net^$elemhide
 @@||sanwilltv.net/advertisement.js
 @@||scan-manga.com/ads.html
 @@||scan-manga.com/ads/banner.jpg?
