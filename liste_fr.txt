@@ -172,6 +172,7 @@
 !
 !----------------------- Filtres generiques ----------------------!
 !
+-publicite.
 .be/ads.
 .be/ads/
 .ch/ads.
@@ -199,7 +200,6 @@
 _publicite.
 _publicite1.
 _publicite_
--publicite.
 _regiepub/
 !
 !----------------------- Sites specifiques -----------------------!
@@ -740,6 +740,8 @@ _regiepub/
 !
 !------------------ Elements generiques -----------------!
 !
+###AdBottomRight
+###AdSquare02
 ###Block_Pub_Right
 ###PubBas
 ###PubFooter
@@ -748,9 +750,12 @@ _regiepub/
 ###PubHorizontaleInner
 ###PubHorizontaleMain
 ###PubPave
+###ad-ban
 ###ad-megaban2
 ###ad-rectangle1
 ###ad-rectangle2
+###adRight3
+###adTop2
 ###ad_megabanner
 ###adcontainer2
 ###adcontainer3
@@ -763,11 +768,6 @@ _regiepub/
 ###bandeau_pub
 ###bandeau_publicite
 ###banniere-pub-top
-###AdBottomRight
-###AdSquare02
-###adRight3
-##.ads1_label
-###adTop2
 ###banniere_pub
 ###bloc-pub
 ###blocPublicitaire
@@ -814,6 +814,7 @@ _regiepub/
 ###news_pub_centre
 ###pavePub
 ###pave_pub
+###pavepub
 ###pub-banner
 ###pub-center
 ###pub-footer
@@ -851,12 +852,14 @@ _regiepub/
 ###pub_col_right
 ###pub_column
 ###pub_contener_right
+###pub_content
 ###pub_footer
 ###pub_geante
 ###pub_haut
 ###pub_header
 ###pub_header_droite
 ###pub_left
+###pub_megaban
 ###pub_pave
 ###pub_pave_bottom
 ###pub_pave_top
@@ -892,6 +895,7 @@ _regiepub/
 ###zone_pub
 ###zone_pub1
 ##._meltypub
+##.ads1_label
 ##.adsbantop
 ##.adsenseWrapper
 ##.adspave
@@ -927,6 +931,7 @@ _regiepub/
 ##.megapub
 ##.pave-pub
 ##.pave_pub
+##.pave_pub2
 ##.position_pub
 ##.pub-banner
 ##.pub-block
@@ -1200,7 +1205,6 @@ hentai-3x.com##.boost
 hentai-3x.com##.pub
 herault-tribune.com##[id^=content_right_pub]
 ibuzzyou.fr##div[style="height:280px;float:left;"]
-ibuzzyou.tv-replay.fr###ad-ban
 imagedrole.de###main-bottom
 imagik.fr###cb30popmedia
 israel7.com##.box2[style="background-color:rgb(0,0,0);height:250px;"]
@@ -1228,12 +1232,12 @@ lacanausurfinfo.com###promo
 lachainemeteo.com###bloc_aquarelle
 lachainemeteo.com##.bloc_1_col_middle[style="height:160px;"]
 lachainemeteo.com##div[style="float:left;width:615px;height:100px;"]
+ladepeche.fr##.pub
 lagazettedescommunes.com##[class^="col-note-pub300x"]
 lalibre.be###headerRelook
 lanutrition.fr##.moduletable-banner
 laposte.net###shoppingBox
 lapresse.ca###pubs
-liberty-lands.com##.fixe
 laptopspirit.fr##a[href^="http://www.prix-portables.fr/pub/"]
 lastfilmstreaming.com###pb1
 lastminute.com##.adContainer
@@ -1274,6 +1278,7 @@ letraitdunion.com###add_top
 letudiant.fr###pub
 lexpress.fr##.pub
 liberation.fr##.block-cPublicite
+liberty-lands.com##.fixe
 libertyland.tv###leleftbas + div[style="width:160px; margin-top:10px;"]
 libertyland.tv##.fixe
 libertyland.tv##div[style="width:980px;height:25px;"]
@@ -1338,7 +1343,6 @@ msn.com##.sponsorship
 mu-streaming.com###pb1
 mu-streaming.com##.fixe
 multixa.net##.pub
-ladepeche.fr##.pub
 mypornmotion.com###Pub
 mypornmotion.com###VideoPub300x250
 mypornmotion.com##.LinePromo
@@ -1496,7 +1500,6 @@ zoomdici.fr##.innerArtAdd
 !
 @@||ad.zanox.com/ppc/$popup,domain=bons-plans-astuces.com
 @@||ad2play.ftv-publicite.fr/?sitepage=www.psg.fr$subdocument,domain=psg.fr
-@@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||admedia.rtl.fr/online/sound/$object-subrequest,domain=rtl.fr
 @@||ads.deezer.com/
 @@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|rtl.fr
@@ -1523,6 +1526,7 @@ zoomdici.fr##.innerArtAdd
 @@||fatherandsons.fr^*/opecom/affiliation/
 @@||fr-advideum.videoplaza.tv/proxy/distributor/$object-subrequest,domain=rfi.fr
 @@||fr-advideum.videoplaza.tv/proxy/distributor?shares=$object-subrequest,domain=aufeminin.com|lefigaro.fr
+@@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
 @@||francetelevisions.fr^*/publicite/silverlight.php?
