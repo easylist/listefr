@@ -244,6 +244,7 @@ _regiepub/
 ||asia-passion.fr/annuaire/ban/$third-party
 ||asie-info.fr/wp-content/uploads/*/banner-asieinfo-
 ||asie-info.fr/wp-content/uploads/*/pub_
+||asie-info.fr^*/livre-100*.png
 ||asie-info.fr^*/livre-franck-amat.jpg
 ||asie-info.fr^*/Prodcam-pub-
 ||asse.fr^*/bandeau_ok.swf
@@ -326,6 +327,7 @@ _regiepub/
 ||explorerlondres.com^*/hotelscom.gif
 ||export.kelkoo.fr/$subdocument
 ||external.priceminister.com^$domain=strasbourg-tramway.fr
+||extraithentai.com/admin/spnsr/
 ||extraitsmatures.com^*/pop.js
 ||fantasme-bisexuel.com^*/u.js
 ||fastecard.net^*/pub
@@ -370,6 +372,7 @@ _regiepub/
 ||gameblog.fr/skins/$image
 ||gamekult.com/images/pubs/
 ||gayxperience.com/index.php?$third-party
+||generation-nt.com/iframe/ovh.php
 ||gigacu.com/jquery.js
 ||gigatopsexe.com/550x100.gif
 ||globirank.com/image/$domain=unlock-stream.com
@@ -422,13 +425,13 @@ _regiepub/
 ||jeuxvideo.com/sponso/
 ||jeuxvideo.com/sponso_videos/
 ||jeveuxdestrans.com^*/u.js
+||journaldunet.com/*@*,position$script
 ||journaldunet.com^*/0_pub/
 ||juif.org/img/partners/
 ||kamehashop.fr/partenaire/$domain=sky-animes.com
 ||kelbillet.com/ws_smads_integration.php
 ||kiporn.com^$popup,domain=yourporno.fr
 ||kokinette.com/ban/$third-party
-||asie-info.fr^*/livre-100*.png
 ||korben.info^*/adv/
 ||korben.info^*/logoagarik2010officiel.png
 ||korben.info^*/textmaster.jpg
@@ -439,7 +442,6 @@ _regiepub/
 ||lacanausurfinfo.com/ressources/pub/
 ||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
 ||lagur.com/a7fr/scroller.php$domain=israel7.com
-||generation-nt.com/iframe/ovh.php
 ||lanutrition.fr/images/banners/
 ||laposte.net^*/scripts/pub_
 ||larosededams.fr^*/bannieres/banniere
@@ -493,7 +495,6 @@ _regiepub/
 ||matter-du-sexe.com/infopop/
 ||mature-passion.fr/ban/$third-party
 ||matvsexe.com/bans/
-||pc-overware.be/index/images/banners/*
 ||max-videos.com/tools/
 ||maxisciences.com/static/scripts/incentive.js
 ||maxisexy.com/pub/
@@ -512,7 +513,6 @@ _regiepub/
 ||midinews.com^*/oas/oas.php?
 ||milisexe.com/vador*.html
 ||millenium.org/images/contenu/habillages/
-||journaldunet.com/*@*,position$script
 ||millenium.org/indexpub.php?
 ||millenium.org^*/re.clame/
 ||miroirsocial.com/uploads/images/partenaires/
@@ -558,6 +558,7 @@ _regiepub/
 ||pafpaf.com/pubs/$popup
 ||partner.leguide.com^$third-party
 ||passeportsante.net^*/controls/pub/
+||pc-overware.be/index/images/banners/
 ||petite-annonce-gratuite.com/encarts/bannieres/
 ||petite-garce.com/ban/$third-party
 ||pharmasite.fr/img/pub/
@@ -567,6 +568,8 @@ _regiepub/
 ||plageporno.com/pex/exitp.js
 ||planete-dangereuse.com/ban/$third-party
 ||pointscommuns.com/images/bannieres/$third-party
+||porn-video-hd.com/js/pop.js
+||porn-video-hd.com/js/pop2.js
 ||porn.fr/v3/index.php?
 ||porno-gratuit.ws/boost/
 ||porno-gratuit.ws/images/catcher_
@@ -621,6 +624,7 @@ _regiepub/
 ||sexefelin.com/pop.js
 ||sexegratuit.be/ban/$third-party
 ||sexegratuit.be^*/u.js
+||sexeoptimal.com/boost/
 ||sexeplus.com/bannieres/
 ||sexparadisiac.net/*/img/pub.jpg
 ||sexy-cocktail.com/promo/
@@ -701,10 +705,6 @@ _regiepub/
 ||twenga.fr^$domain=space-blogs.com
 ||twodollarclick.com/earnbanner.php?
 ||uncadeau.com^$domain=spi0n.com
-||porn-video-hd.com/js/pop.js
-||porn-video-hd.com/js/pop2.js
-||sexeoptimal.com/boost/*
-||extraithentai.com/admin/spnsr/*
 ||une-recette.com/include/_iframe
 ||unlock-stream.com/js/disclamer.js
 ||upp-auteurs.fr/annonces/
@@ -947,7 +947,6 @@ _regiepub/
 ##.pave_pub2
 ##.position_pub
 ##.pub-banner
-##.pub_droite
 ##.pub-block
 ##.pub-carre
 ##.pub-gigaban
@@ -969,6 +968,7 @@ _regiepub/
 ##.pubTopContainer
 ##.pub_banner
 ##.pub_carre
+##.pub_droite
 ##.pub_header_banner
 ##.pub_leaderboard
 ##.pub_left
@@ -1094,7 +1094,6 @@ blog.you-test.ch##body > noscript > style + div[id]:last-child
 blog2mature.com##.download
 blog2mature.com##.liens
 blog2mature.com##.widget.widget_links
-fredzone.org##.entry-pub
 blogdumac.com###encart-adsense-top-single
 blogs.allocine.fr###pub
 blogs.lesinrocks.com##.sub_headline.top
@@ -1164,14 +1163,10 @@ elwatan.com###megabanner
 elwatan.com###pub_habillage_lien
 emule-island.ru###centre_haut
 emule-island.ru###droite_bas
-pornojeune.net##.promo_texte2
-porn-video-hd.com##.catcher-videos
-porn-video-hd.com##.header
 emule-island.ru###droite_haut
 emule-island.ru###pub
 ergor.org##.ladypub
 europe1.fr##.s-partenaires
-golem13.fr##.banner-halfpage
 eurosport.fr###Container_OAS_Right
 extreme-down.com##a[href="http://www.extreme-down.com/telechargement_rapide.html"]
 extreme-down.com##a[href^="http://clic.illyx.com/"]
@@ -1205,6 +1200,7 @@ franceantilles.fr,franceguyane.fr###megabanner
 francebleu.fr,franceinfo.fr###pub-ftv-top
 franceculture.fr###block-fcbloc-publicite
 frandroid.com##.widget.widget_text
+fredzone.org##.entry-pub
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 fullanimes.free.fr##[href^="http://www.allopass.com/check/red.php"] > img
 gameblog.fr###gba300
@@ -1214,6 +1210,7 @@ gentside.com###kk-widget
 gentside.com##.add300
 genybet.fr##.GGFODTBDCS
 girlsgogames.fr##.categoryBanner
+golem13.fr##.banner-halfpage
 google.fr###rhsline
 google.fr###tadsb
 google.fr##table[style="border: 1px solid #369"]
@@ -1403,8 +1400,11 @@ photo.fr##.ad
 photo.fr##.parrains
 photos-persos-sexy.com##table[style="border-style: solid; border-width: 0px; background-color: #ffffff; width: 100%; height: 280px;"]
 planet.fr##.block-gc_ad
+porn-video-hd.com##.catcher-videos
+porn-video-hd.com##.header
 pornofrance.org###formulaire
 pornofrance.org##.promomenu
+pornojeune.net##.promo_texte2
 portail.free.fr###partenaires
 portaildusexe.com##.player-catcher
 premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
@@ -1581,9 +1581,6 @@ zoomdici.fr##.innerArtAdd
 @@||naruto-one.com/images/bannieres/$domain=otaku-attitude.net
 @@||netavenir.com^$domain=zap-tele.com
 @@||network.aufeminin.com/a/diff/$object-subrequest,domain=aufeminin.com
-@@||pc-overware.be/index/images/banners/annuaire%20test%206%20png.png
-@@||pc-overware.be/index/images/banners/forum.jpg
-@@||pc-overware.be/index/images/banners/pc-overware.be.png
 @@||network.aufeminin.com/call/pubj/$object-subrequest,domain=aufeminin.com
 @@||network.aufeminin.com/crossdomain.xml$domain=aufeminin.com
 @@||nikel-dominique.com^*/pagepeel-
@@ -1592,6 +1589,9 @@ zoomdici.fr##.innerArtAdd
 @@||openad.tf1.fr/realmedia/ads/adstream_mjx.ads/*/video/$script
 @@||ouifm.adswizz.com//www/components/
 @@||ouifm.adswizz.com/www/components/
+@@||pc-overware.be/index/images/banners/annuaire%20test%206%20png.png
+@@||pc-overware.be/index/images/banners/forum.jpg
+@@||pc-overware.be/index/images/banners/pc-overware.be.png
 @@||photo.fr/img/ad_$image
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||securite.01net.com/crossdomain.xml
