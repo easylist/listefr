@@ -228,6 +228,7 @@ _regiepub/
 ||adinlive.com/myslot.jsp?id=
 ||agayn.com/aff_pub_$third-party
 ||air-journal.fr/wp-content/uploads/ad-
+||allmetsat.com/data/pub/
 ||allo-heberge.com/interface/bannieres/$domain=megavisites.com
 ||allopass.com^*/pub/$domain=fullanimes.free.fr
 ||allstream.fr/images/partenaires/
@@ -246,7 +247,7 @@ _regiepub/
 ||asie-info.fr/wp-content/uploads/*/pub_
 ||asie-info.fr^*/livre-100*.png
 ||asie-info.fr^*/livre-franck-amat.jpg
-||asie-info.fr^*/Prodcam-pub-
+||asie-info.fr^*/prodcam-pub-
 ||asse.fr^*/bandeau_ok.swf
 ||asse.fr^*/banniere_mcc_billetterie.gif
 ||aufeminin.com/home4/skin/*/fond.jpg
@@ -262,7 +263,6 @@ _regiepub/
 ||binnews.in/_images/ad_
 ||binnews.me/_images/ad_
 ||bitchvolley.com/ban/$third-party
-||static.pcinpact.com/uvxc2/20.jpg
 ||bittovore.com/popup.php$image,~image,popup
 ||blague.info/pub/
 ||blog-nouvelles-technologies.fr/wp-content/annonceurs/
@@ -284,6 +284,8 @@ _regiepub/
 ||cdn.installclick.fr^*/ad.html
 ||cdscdn.com/imagesok/tetiere/partners/
 ||centerblog.net/cadre-*?zoneid=$subdocument
+||cession-commerce.com/images/bandeaux/
+||cession-commerce.com/images/pub_
 ||choubijoux.com/image/banniere-$third-party
 ||clip-x.net/images/pub/
 ||club-salopes.com/partenaires/
@@ -330,7 +332,6 @@ _regiepub/
 ||external.priceminister.com^$domain=strasbourg-tramway.fr
 ||extraithentai.com/admin/spnsr/
 ||extraitsmatures.com^*/pop.js
-||allmetsat.com/data/pub/*
 ||fantasme-bisexuel.com^*/u.js
 ||fastecard.net^*/pub
 ||fdata.over-blog.net^*/js/ob.bar1*.js
@@ -351,10 +352,7 @@ _regiepub/
 ||fm93.com^*/pub/
 ||fmgsconcept.com^*/images/pub/
 ||football.fr/includes/cobrand/*/habillage/
-||lettres-modeles.fr/include/_iframe300x600.php
 ||force-download.net^*/yellowtoolbar/
-||cession-commerce.com/images/bandeaux/*
-||cession-commerce.com/images/pub_
 ||forum-windows.com/images/plimus/
 ||forum-windows.com/open/www/delivre/
 ||forumactif.com/admgt/
@@ -381,12 +379,12 @@ _regiepub/
 ||gigacu.com/jquery.js
 ||gigatopsexe.com/550x100.gif
 ||globirank.com/image/$domain=unlock-stream.com
-||goelovb.com^*/ArmorTV.png
+||goelovb.com^*/armortv.png
 ||goelovb.com^*/fps.gif
 ||goziga.com/ban/
 ||goziga.com^*/banangela.gif
 ||goziga.com^*/banhead_
-||goziga.com^*/goziga_underFLV.gif
+||goziga.com^*/goziga_underflv.gif
 ||gratuit-xxx.com/images/boost/
 ||gratuit-xxx.com^*/boost_*.js
 ||grosse-passion.com/ban/$third-party
@@ -478,6 +476,7 @@ _regiepub/
 ||letraitdunion.com/images/headset/
 ||letraitdunion.com/images/wallpaper/
 ||lettres-modeles.fr/include/_iframe300x200.php
+||lettres-modeles.fr/include/_iframe300x600.php
 ||lettres-modeles.fr/include/_iframe728x90.php
 ||lettres-modeles.fr^*/lmodel.php
 ||libe.com/libepartnerships/
@@ -660,6 +659,7 @@ _regiepub/
 ||stars-passion.com/ban/$third-party
 ||starter.fm/blog/*/bg_$image
 ||starter.fm/images/*/bg_
+||static.pcinpact.com/uvxc2/20.jpg
 ||static.rtl.fr/www-2010/skin/$stylesheet
 ||static.rtl.fr/www/skin/promo/
 ||stats.hosting24.com/count.php
@@ -670,7 +670,7 @@ _regiepub/
 ||surf-report-shop.com^$image,~image,popup,domain=surf-report.com
 ||surf-report.com/sites/default/files/wall_
 ||surf-report.com^*/files/weeman_*.jpg
-||surf-report.com^*/Wallpaper293x936-
+||surf-report.com^*/wallpaper293x936-
 ||sylvainpellier.fr/bandeau/
 ||tac2.xcams.com/livecams/$third-party
 ||teen-passion.net/annuaire/ban/$third-party
@@ -1211,12 +1211,11 @@ fullanimes.free.fr##[href^="http://www.allopass.com/check/red.php"] > img
 gameblog.fr###gba300
 gameblog.fr##div[style=" background-color: #c0c0c0; padding: 7px; height: 260px; overflow: hidden;"]
 gaytag.net##.pub96590
+generation-nt.com##.gnt-msg-carre
 gentside.com###kk-widget
 gentside.com##.add300
 genybet.fr##.GGFODTBDCS
 girlsgogames.fr##.categoryBanner
-parolesmania.com###leftcolumn2 > .thinbox DIV[style="height: 600px;"]
-parolesmania.com###rectangle > .thinbox DIV[style="height: 250px;"]
 golem13.fr##.banner-halfpage
 google.fr###rhsline
 google.fr###tadsb
@@ -1399,10 +1398,13 @@ over-blog.com##.pub
 pafpaf.com##.adBlocTop
 pagesjaunes.fr##.containerPdsSitesPartenaires
 pagesjaunes.fr##.pushKeltravo
+parolesmania.com###leftcolumn2 > .thinbox div[style="height: 600px;"]
+parolesmania.com###rectangle > .thinbox div[style="height: 250px;"]
 paruvendu.fr##.h11-ad-top
 pcastuces.com##table[width="95%"][cellspacing="4"][cellpadding="4"][align="center"]
 pcinpact.com###tophabillage
 pcinpact.com##.background_clic
+pcinpact.com##a[href^="http://ads.horyzon-media.com/call/pubjumpi/"]
 photo.fr##.ad
 photo.fr##.parrains
 photos-persos-sexy.com##table[style="border-style: solid; border-width: 0px; background-color: #ffffff; width: 100%; height: 280px;"]
@@ -1478,7 +1480,6 @@ telechargementgratuits.com###hopdream
 telechargementgratuits.com##.fixe
 tf1.fr###ible149256
 tomtomax.fr##a[href^="http://clk.tradedoubler.com/"]
-pcinpact.com##A[href^="http://ads.horyzon-media.com/call/pubjumpi/"]
 top-serie.org###top
 topanalyse.com###pid_f
 torrent-avenue.com##table[width="160"][height="600"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
@@ -1506,7 +1507,6 @@ video-buzz.eu##div[style="width:300px;height:250px;margin-bottom:15px;margin-lef
 video-buzz.eu##div[style="width:728px;height:90px;margin-left:auto;margin-right:auto;margin-bottom:15px;"]
 vidule.com###trade
 vidule.com###wnc_disclaimer
-generation-nt.com##.gnt-msg-carre
 vintageamps.com###videoads
 vivastreet.com##.vs-advert-300x250
 vo2.fr###pub_background
@@ -1577,9 +1577,9 @@ zoomdici.fr##.innerArtAdd
 @@||koifaire.com/upload/*/300x250-
 @@||lacanausurfinfo.com/admin/images/pubs/pub_18.png
 @@||lesinrocks.com/wp-content/plugins/minifier/min/?f=$script
-@@||libe.com/libepartnerships/businesspartner_photo/2011/08/14/OJD.gif
+@@||libe.com/libepartnerships/businesspartner_photo/2011/08/14/ojd.gif
 @@||libe.com/libepartnerships/businesspartner_photo/2011/08/25/iphone.png
-@@||libe.com/libepartnerships/businesspartner_photo/2012/08/13/visuel_PA-1.png
+@@||libe.com/libepartnerships/businesspartner_photo/2012/08/13/visuel_pa-1.png
 @@||libe.com/libepartnerships/img/print_subscription.jpg
 @@||ma-meilleure-amie.com/participation-concours/publicite/id_categorie/$xmlhttprequest
 @@||malakoffmederic.com/entreprise/*/affiliation/
