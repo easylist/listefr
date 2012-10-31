@@ -353,7 +353,6 @@ _regiepub/
 ||fmgsconcept.com^*/images/pub/
 ||football.fr/includes/cobrand/*/habillage/
 ||force-download.net^*/yellowtoolbar/
-||maximobileshop.com/widget/$domain=iphonetweak.fr
 ||forum-windows.com/images/plimus/
 ||forum-windows.com/open/www/delivre/
 ||forumactif.com/admgt/
@@ -376,8 +375,8 @@ _regiepub/
 ||gameblog.fr/skins/$image
 ||gamekult.com/images/pubs/
 ||gayxperience.com/index.php?$third-party
-||generation-nt.com^*/gnt-msg-carre.
 ||generation-nt.com/iframe/ovh.php
+||generation-nt.com^*/gnt-msg-carre.
 ||gigacu.com/jquery.js
 ||gigatopsexe.com/550x100.gif
 ||globirank.com/image/$domain=unlock-stream.com
@@ -389,6 +388,7 @@ _regiepub/
 ||goziga.com^*/goziga_underflv.gif
 ||gratuit-xxx.com/images/boost/
 ||gratuit-xxx.com^*/boost_*.js
+||grenierdumaroc.com^$domain=movizfr.com
 ||grosse-passion.com/ban/$third-party
 ||groupolitan.be/fr/partners/iframe/
 ||hamachifrance.com^*/images/*banv.jpg
@@ -502,6 +502,7 @@ _regiepub/
 ||mature-passion.fr/ban/$third-party
 ||matvsexe.com/bans/
 ||max-videos.com/tools/
+||maximobileshop.com/widget/$domain=iphonetweak.fr
 ||maxisciences.com/static/scripts/incentive.js
 ||maxisexy.com/pub/
 ||maxtransexuelle.com^*/u.js
@@ -565,6 +566,7 @@ _regiepub/
 ||partner.leguide.com^$third-party
 ||passeportsante.net^*/controls/pub/
 ||pc-overware.be/index/images/banners/
+||pcinpact.com/uvxc2/
 ||petite-annonce-gratuite.com/encarts/bannieres/
 ||petite-garce.com/ban/$third-party
 ||pharmasite.fr/img/pub/
@@ -576,7 +578,6 @@ _regiepub/
 ||pointscommuns.com/images/bannieres/$third-party
 ||porn-video-hd.com/js/pop.js
 ||porn-video-hd.com/js/pop2.js
-||grenierdumaroc.com^$domain=movizfr.com
 ||porn.fr/v3/index.php?
 ||porno-gratuit.ws/boost/
 ||porno-gratuit.ws/images/catcher_
@@ -662,7 +663,6 @@ _regiepub/
 ||stars-passion.com/ban/$third-party
 ||starter.fm/blog/*/bg_$image
 ||starter.fm/images/*/bg_
-||pcinpact.com/uvxc2/
 ||static.rtl.fr/www-2010/skin/$stylesheet
 ||static.rtl.fr/www/skin/promo/
 ||stats.hosting24.com/count.php
@@ -958,6 +958,7 @@ _regiepub/
 ##.pub-block
 ##.pub-carre
 ##.pub-gigaban
+##.pub-img
 ##.pub-megaban
 ##.pub-megabanner
 ##.pub-pave
@@ -988,7 +989,6 @@ _regiepub/
 ##.pub_text
 ##.pub_top
 ##.pub_topright
-##.pub-img
 ##.pubaccueildroite1
 ##.pubaccueilgauche1
 ##.pubadsense
@@ -1013,7 +1013,6 @@ _regiepub/
 ##a[href^="http://www.crazyloader.com"]
 ! Dimensions
 ###Pub728x90
-##.pub72890
 ###ad-300x250-2
 ###adl_250x250
 ###adl_300x100
@@ -1047,6 +1046,7 @@ _regiepub/
 ##.pub46860
 ##.pub468x60
 ##.pub600200
+##.pub72890
 ##.pub728x90
 ##.pub_300
 ##.pub_468x60
@@ -1163,8 +1163,6 @@ desmatures.com##.pub468100top
 desmatures.com##.sidebarpub350250
 dinogaia.com###tableau_info
 directvelo.com###col_03_partenaires
-nedjma.dz###pub_pupop
-nedjma.dz###exposeMask
 do-tube.org##.ads
 dogzer.com###affichage_tag_58
 dogzer.com###header_tr_banniere
@@ -1188,8 +1186,6 @@ extremepc.fr###pub
 extremepc.fr###pub2an
 faclic.com##.lbx_content
 faclic.com##.lbx_overlay
-zataz.com##IMG[style="border: 0px solid; width: 300px; height: 250px;"]
-zataz.com##IMG[style="border: 0px solid ; width: 300px; height: 250px;"]
 fan-de-cinema.com##.megasquare
 fan-de-cinema.com##.topmargin
 fansub-resistance.net##[id^="pub_468x60_"]
@@ -1199,7 +1195,6 @@ filmscine.com###pb1
 filmze.com##.fixe
 flights-results.liligo.fr###pulledbanner
 flights-results.liligo.fr###pulledbanner-right-top
-movizfr.com###pb1
 flights-results.liligo.fr###top-banner-smart
 fluket.com##.fixe
 football.fr###hablinkzone
@@ -1222,19 +1217,18 @@ gameblog.fr###gba300
 gameblog.fr##div[style=" background-color: #c0c0c0; padding: 7px; height: 260px; overflow: hidden;"]
 gaytag.net##.pub96590
 generation-nt.com##.gnt-msg-carre
+generation-nt.com##nav[style="position:relative;width:300px;height:250px;"]
 gentside.com###kk-widget
 gentside.com##.add300
 genybet.fr##.GGFODTBDCS
 girlsgogames.fr##.categoryBanner
 golem13.fr##.banner-halfpage
 google.fr###rhsline
-millenium.org###habillagesite
 google.fr###tadsb
 google.fr##table[style="border: 1px solid #369"]
 gratuit-xxx.com##.footerboost
 gratuit-xxx.com##div[class^="boost_g_"]
 gratuitcul.com##div[id^="affidate_form_"]
-generation-nt.com##NAV[style="position:relative;width:300px;height:250px;"]
 gulli.fr##.banner
 hentai-3x.com##.boost
 hentai-3x.com##.pub
@@ -1265,7 +1259,6 @@ la-musique-rai.com##.ban728
 la-musique-rai.com##.rowa
 lacanausurfinfo.com###banner_footer
 lacanausurfinfo.com###promo
-tetesaclaques.tv###bigBox
 lachainemeteo.com###bloc_aquarelle
 lachainemeteo.com##.bloc_1_col_middle[style="height:160px;"]
 lachainemeteo.com##div[style="float:left;width:615px;height:100px;"]
@@ -1362,6 +1355,7 @@ meteofrance.com###adColumn3
 meteomedia.com###container_bac
 meteomedia.com###workopolis
 midilibre.fr##.advert
+millenium.org###habillagesite
 millenium.org###logo_droite
 minutefacile.com##.pub
 miroirsocial.com###partners
@@ -1373,6 +1367,7 @@ mobileguide.be##.mobistar-banner-small
 mon-ordi.com##td[width="567"]
 moov.mg###extruderLeft1
 moov.mg##div[style="margin-top:5px;float:auto;width:100%;height:250px;text-align:center"]
+movizfr.com###pb1
 mrsexe.com##.ban300side
 msn.com###advWrapper
 msn.com###upgrade.hide
@@ -1383,6 +1378,8 @@ multixa.net##.pub
 mypornmotion.com###Pub
 mypornmotion.com###VideoPub300x250
 mypornmotion.com##.LinePromo
+nedjma.dz###exposeMask
+nedjma.dz###pub_pupop
 neomag.fr###big-ad
 neowebcar.com##.adv-format-1
 news-de-stars.com###popupBottomAd
@@ -1418,7 +1415,7 @@ pcastuces.com##table[width="95%"][cellspacing="4"][cellpadding="4"][align="cente
 pcinpact.com###tophabillage
 pcinpact.com##.background_clic
 pcinpact.com##a[href^="http://ads.horyzon-media.com/call/pubjumpi/"]
-pcinpact.com##A[href^="http://www2.edi7.lu/www/delivery/"]
+pcinpact.com##a[href^="http://www2.edi7.lu/www/delivery/"]
 photo.fr##.ad
 photo.fr##.parrains
 photos-persos-sexy.com##table[style="border-style: solid; border-width: 0px; background-color: #ffffff; width: 100%; height: 280px;"]
@@ -1492,6 +1489,7 @@ tele.premiere.fr###pub_a2d_pave
 telechargementgratuits.com###ads
 telechargementgratuits.com###hopdream
 telechargementgratuits.com##.fixe
+tetesaclaques.tv###bigBox
 tf1.fr###ible149256
 tomtomax.fr##a[href^="http://clk.tradedoubler.com/"]
 top-serie.org###top
@@ -1540,6 +1538,8 @@ wix.com###wixfooter
 yahoo.com###yad-billboard
 yourporno.fr##.ads
 za-gay.org###ads_line
+zataz.com##img[style="border: 0px solid ; width: 300px; height: 250px;"]
+zataz.com##img[style="border: 0px solid; width: 300px; height: 250px;"]
 zdnet.fr###pwcBox
 zdnet.fr###tickerRight
 zonebourse.com###Bottom
@@ -1550,6 +1550,7 @@ zoomdici.fr##.innerArtAdd
 !
 @@||ad.zanox.com/ppc/$image,~image,popup,domain=bons-plans-astuces.com
 @@||ad2play.ftv-publicite.fr/?sitepage=www.psg.fr$subdocument,domain=psg.fr
+@@||adgear.com^*/adgear.js$domain=tetesaclaques.tv|tou.tv
 @@||admedia.rtl.fr/online/sound/$object-subrequest,domain=rtl.fr
 @@||ads.audience2media.com/crossdomain.xml$domain=videos.nt1.tv
 @@||ads.deezer.com/
@@ -1560,7 +1561,6 @@ zoomdici.fr##.innerArtAdd
 @@||advertising.wellpack.fr/sites_annexes/optout/
 @@||afe2.specificclick.net/crossdomain.xml$domain=videos.nt1.tv|videos.tmc.tv
 @@||allocine.fr/crossdomain.xml
-@@||adgear.com^*/adgear.js$domain=tou.tv|tetesaclaques.tv
 @@||banners.oxiads.fr/player/
 @@||beead.fr^$domain=beezik.com|ouifm.fr|play.nrj.fr|radiofg.com|rfm.fr|virginradio.fr|wakanim.tv
 @@||blog.lemonde.fr/files/
@@ -1570,7 +1570,6 @@ zoomdici.fr##.innerArtAdd
 @@||clic.reussissonsensemble.fr/click*.asp$domain=forfait-mobile-moins-cher.com
 @@||daily-*.fr/images/*///pages/*_300x250.png
 @@||data.panachetech.com^$object-subrequest,domain=gameone.net
-@@||rockman.fr/Ads/*$image
 @@||deliv.tmcregie.fr/crossdomain.xml$domain=videos.nt1.tv
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/ad-remover/img/
@@ -1617,6 +1616,7 @@ zoomdici.fr##.innerArtAdd
 @@||pc-overware.be/index/images/banners/forum.jpg
 @@||pc-overware.be/index/images/banners/pc-overware.be.png
 @@||photo.fr/img/ad_$image
+@@||rockman.fr/Ads/$image
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||securite.01net.com/crossdomain.xml
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|player.canalplus.fr|portail.free.fr
@@ -1659,11 +1659,11 @@ vente-a-domicile.fr#@#.btn-ad
 @@||instantmanga.com/js/advertisement.js
 @@||meteomedia.com/common/js/master/adframe.js
 @@||openrunner.com/js/advertisement.js
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=hugolescargot.com
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hugolescargot.com
 @@||partage-facile.com$elemhide
 @@||playtv.fr$elemhide
 @@||protect-url.net/js/advertisement.js
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hugolescargot.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=hugolescargot.com
 @@||protect-url.net^$elemhide
 @@||sanwilltv.net/advertisement.js
 @@||scan-manga.com/ads.html
