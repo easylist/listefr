@@ -1638,17 +1638,6 @@ generation-nt.com##[style*="width:300px"][style*="height:250px;"]
 @@||vo2.fr/uploads/tx_regiepub/bando-site-
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
-! Exception d'elements
-fichier.net#@##contentAd
-flysurf.com#@#.ads_area
-gamexpo.fr#@#.advertisment
-jeuxjeuxjeux.fr#@#.ad-left
-pointvente.fr#@#.ad_line
-ratus13.com#@#.ad-block
-scooter-infos.com#@#.adlist
-vente-a-domicile.fr#@#.ad-left
-vente-a-domicile.fr#@#.ad-right
-vente-a-domicile.fr#@#.btn-ad
 ! Anti Adblock
 @@||0xp.be/js/adframe.js
 @@||anime-story.com/js/ads.js
@@ -1676,4 +1665,16 @@ vente-a-domicile.fr#@#.btn-ad
 @@||uptobox.com/ads.criteo.com.js?$script
 @@||videoxadulte.com/js/adframe.js
 @@||wakanim.tv/content/js/ads.js?
+! Exception d'elements
+fichier.net#@##contentAd
+flysurf.com#@#.ads_area
+gamexpo.fr#@#.advertisment
+jeuxjeuxjeux.fr#@#.ad-left
+pointvente.fr#@#.ad_line
+ratus13.com#@#.ad-block
+scooter-infos.com#@#.adlist
+vente-a-domicile.fr#@#.ad-left
+vente-a-domicile.fr#@#.ad-right
+vente-a-domicile.fr#@#.btn-ad
+! Anti Adblock
 letouriste.fr#@#.single-ad
