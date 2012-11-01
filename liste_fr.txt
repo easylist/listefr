@@ -407,6 +407,7 @@ _regiepub/
 ||hotvideo.fr^*/banners/
 ||humourquotidien.com/pubs/
 ||icpc.tv/banners/$domain=europeplusnet.info
+||drague.net/pubs/
 ||imabox.fr/pub/
 ||imados.fr^*/habbo/
 ||image.jeuxvideo.com/ope/
@@ -1041,6 +1042,8 @@ _regiepub/
 ##.pub-728
 ##.pub160x600
 ~pharmasite.fr##.pub300
+###pub-300x250
+###pub-468x60
 ##.pub300250
 ##.pub300_contenu
 ##.pub300x250
@@ -1220,6 +1223,7 @@ gameblog.fr##div[style=" background-color: #c0c0c0; padding: 7px; height: 260px;
 gaytag.net##.pub96590
 gentside.com###kk-widget
 gentside.com##.add300
+drague.net##TR > TD[height="95"][align="center"][colspan="2"]
 genybet.fr##.GGFODTBDCS
 girlsgogames.fr##.categoryBanner
 golem13.fr##.banner-halfpage
