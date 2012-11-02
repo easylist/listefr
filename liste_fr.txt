@@ -195,11 +195,12 @@
 /regie_pub/*
 /regiepub/*
 /toolbarxooit/toolbar*.js
-/wp-content/plugins/no-adblock/*
 _publicite.
 _publicite1.
 _publicite_
 _regiepub/
+! Anti-adblock
+/wp-content/plugins/no-adblock/*
 !
 !----------------------- Sites specifiques -----------------------!
 !
