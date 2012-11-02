@@ -269,7 +269,6 @@ _regiepub/
 ||blog2mature.com/273_210/
 ||blogdumac.com/pub/
 ||brain-magazine.com/images/_habillages/
-||gameblog.fr/images/promo/
 ||canal-plus.com/design/*/header_flash.swf
 ||canoe.ca/accueil2007/images/btncruze.gif
 ||capinfoproreport.com/cap_pub/
@@ -311,6 +310,7 @@ _regiepub/
 ||docvelo.com^*/kamvban.gif
 ||dpstream.net/fichiers/pub/
 ||dracouilla.com/ban/$third-party
+||drague.net/pubs/
 ||e-sante.fr/sites/default/files/templates/$image
 ||easyrencontre.com/promo
 ||easyvols.org/leparisien/
@@ -373,6 +373,7 @@ _regiepub/
 ||fullxmovies.com/randomthumbs*.php
 ||funradio.fr^*/skin/promo/
 ||gagnons-argent.com/pubd.php$image,~image,popup,third-party
+||gameblog.fr/images/promo/
 ||gameblog.fr/skins/$image
 ||gamekult.com/images/pubs/
 ||gayxperience.com/index.php?$third-party
@@ -408,7 +409,6 @@ _regiepub/
 ||hotvideo.fr^*/banners/
 ||humourquotidien.com/pubs/
 ||icpc.tv/banners/$domain=europeplusnet.info
-||drague.net/pubs/
 ||imabox.fr/pub/
 ||imados.fr^*/habbo/
 ||image.jeuxvideo.com/ope/
@@ -419,6 +419,7 @@ _regiepub/
 ||infos-mobiles.com/pub-
 ||iphone4.fr/bannieres/
 ||issentiel.com/media/affiliate/banner/$third-party
+||itnewsinfo.com/pub/
 ||jacquieetmicheltv.net^*/thumbpubressources/
 ||jacquieetmicheltv2.net^*/thumbpubressources/
 ||jamaisjouis.com^*/u.js
@@ -429,7 +430,6 @@ _regiepub/
 ||jeunebaisemature.com^*/u.js
 ||jeux-flash-gratis.com/pics/$domain=la-musique-rai.com
 ||jeuxvideo.com/sponso/
-||itnewsinfo.com/pub/
 ||jeuxvideo.com/sponso_videos/
 ||jeveuxdestrans.com^*/u.js
 ||journaldunet.com/*@*,position$script
@@ -827,6 +827,7 @@ _regiepub/
 ###header_bloc2_pub
 ###header_pub
 ###headerpub
+###home-pub
 ###idMapAdvertising
 ###idpublicitepave
 ###iframepub
@@ -1003,7 +1004,6 @@ _regiepub/
 ##.publicite-bas
 ##.publicite1
 ##.publicite_3
-###home-pub
 ##.publicity
 ##.sqrpub
 ##.srcPub
@@ -1025,6 +1025,8 @@ _regiepub/
 ###adl_728x90
 ###ads300x250
 ###pub-200x197
+###pub-300x250
+###pub-468x60
 ###pub-728
 ###pub-728x90
 ###pub250
@@ -1044,8 +1046,6 @@ _regiepub/
 ##.pub-728
 ##.pub160x600
 ~pharmasite.fr##.pub300
-###pub-300x250
-###pub-468x60
 ##.pub300250
 ##.pub300_contenu
 ##.pub300x250
@@ -1129,9 +1129,6 @@ cdiscount.com##.SmartAdZoneList
 cdiscount.com##.downinbackMaullContainer
 cdiscount.com##.ptnlnk_table
 cdmail.fr###banner
-gameblog.fr###gbPub728bas
-gameblog.fr##DIV[style="width: 100%; height: 100px; background-color: #FF00FF;"]
-gameblog.fr##DIV[style="width: 300px; height: 250px; background-color: #FF00FF; margin-bottom: 15px;"]
 centerblog.net###gauche > iframe[width="300"][height="250"]
 centerblog.net###pub
 centerblog.net##.pub
@@ -1176,6 +1173,7 @@ directvelo.com###col_03_partenaires
 do-tube.org##.ads
 dogzer.com###affichage_tag_58
 dogzer.com###header_tr_banniere
+drague.net##tr > td[height="95"][align="center"][colspan="2"]
 e-booksland.com###pb1
 e-sante.fr##.ad
 e-sante.fr##.public-info
@@ -1223,12 +1221,14 @@ frandroid.com##.widget.widget_text
 fredzone.org##.entry-pub
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 fullanimes.free.fr##[href^="http://www.allopass.com/check/red.php"] > img
+gameblog.fr###gbPub728bas
 gameblog.fr###gba300
 gameblog.fr##div[style=" background-color: #c0c0c0; padding: 7px; height: 260px; overflow: hidden;"]
+gameblog.fr##div[style="width: 100%; height: 100px; background-color: #FF00FF;"]
+gameblog.fr##div[style="width: 300px; height: 250px; background-color: #FF00FF; margin-bottom: 15px;"]
 gaytag.net##.pub96590
 gentside.com###kk-widget
 gentside.com##.add300
-drague.net##TR > TD[height="95"][align="center"][colspan="2"]
 genybet.fr##.GGFODTBDCS
 girlsgogames.fr##.categoryBanner
 golem13.fr##.banner-halfpage
@@ -1332,6 +1332,11 @@ lo.st##.home_partner_img
 loisirados.com###intersticiel
 lol89.com##.s-300
 lonelyplanet.fr##table[width="900"][height="90"][align="center"]
+mac4ever.com###home-conseils
+mac4ever.com###home-prixmac
+mac4ever.com###news-conseils
+mac4ever.com###prixmacWidget
+mac4ever.com###topappWidget
 mail.voila.fr###blocServices
 maison-facile.com##.texteb
 maisonapart.com##.map_fond_pub
@@ -1439,11 +1444,6 @@ portaildusexe.com##.player-catcher
 premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 programme-tv.net###blocPub_MEGABAN
 programme-tv.net###pub_pole_position1
-mac4ever.com###prixmacWidget
-mac4ever.com###home-conseils
-mac4ever.com###home-prixmac
-mac4ever.com###news-conseils
-mac4ever.com###topappWidget
 programme-tv.net##.blocLeguide
 qc.ca###ad_wrapper
 radiofrance.fr###banniere
@@ -1619,7 +1619,6 @@ generation-nt.com##[style*="width:300px"][style*="height:250px;"]
 @@||moov.mg/images/offres/push_adsl_bt_v2.jpg
 @@||naruto-one.com/images/bannieres/$domain=otaku-attitude.net
 @@||netavenir.com^$domain=zap-tele.com
-@@||planet-casio.com/images/ad/*$image
 @@||network.aufeminin.com/a/diff/$object-subrequest,domain=aufeminin.com
 @@||network.aufeminin.com/call/pubj/$object-subrequest,domain=aufeminin.com
 @@||network.aufeminin.com/crossdomain.xml$domain=aufeminin.com
@@ -1633,6 +1632,7 @@ generation-nt.com##[style*="width:300px"][style*="height:250px;"]
 @@||pc-overware.be/index/images/banners/forum.jpg
 @@||pc-overware.be/index/images/banners/pc-overware.be.png
 @@||photo.fr/img/ad_$image
+@@||planet-casio.com/images/ad/$image
 @@||rockman.fr/Ads/$image
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||securite.01net.com/crossdomain.xml
@@ -1660,6 +1660,7 @@ generation-nt.com##[style*="width:300px"][style*="height:250px;"]
 @@||claymore.fr/advertisement.js
 @@||coursdeprofs.fr/adframe.js
 @@||debrideurstreaming.com^*/adsense.js
+@@||download.gameblog.fr/images/promo/ban_premium_300.jpg
 @@||gratuitcul.com/ad.php?ad=$script
 @@||hamachifrance.com/advertisement-adblock.js
 @@||instantmanga.com/js/advertisement.js
@@ -1676,7 +1677,6 @@ generation-nt.com##[style*="width:300px"][style*="height:250px;"]
 @@||scan-manga.com/ads/banner.jpg?
 @@||scan-manga.com/js/advertisement.js?
 @@||sexytout.com/ad.php?$script
-@@||download.gameblog.fr/images/promo/ban_premium_300.jpg
 @@||uptobox.com/ads.criteo.com.js?$script
 @@||videoxadulte.com/js/adframe.js
 @@||wakanim.tv/content/js/ads.js?
