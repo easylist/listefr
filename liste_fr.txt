@@ -65,6 +65,7 @@
 ||double6affiliation.com^third-party
 ||doubleclick.net^$object-subrequest,third-party,domain=cinefil.com
 ||duporno.biz^$third-party
+||ecranlarge.com/js/entree_pub.
 ||edintorni.net^$third-party
 ||effiliation.com^$third-party
 ||eravage.com^$third-party
@@ -98,7 +99,6 @@
 ||mediaffiliation.com^$third-party
 ||medncom.com^$third-party
 ||megavisites.com^$third-party
-||ecranlarge.com/js/entree_pub.
 ||myxpub.com^$third-party
 ||neckermann.be^$third-party
 ||nols-pub.fr^$third-party
@@ -208,7 +208,6 @@ _regiepub/
 ||01net.com/front_office/images/regie/
 ||1-porno.org/atr_template/trade/
 ||100pour100sexe.com/pop.js
-||ecranlarge.com/js/entree_pub.
 ||1maxdegay.com/images/rotbas/
 ||1maxdegay.com/images/rotcol/
 ||20minutes.fr/img/auto-promos/
@@ -229,8 +228,11 @@ _regiepub/
 ||ad.fr.doubleclick.net/pfadx/clubic/
 ||ad.oujdacity.net^
 ||adinlive.com/myslot.jsp?id=
+||affaires-dz.com/images/banners/
 ||agayn.com/aff_pub_$third-party
 ||air-journal.fr/wp-content/uploads/ad-
+||algerie-focus.com/wp-content/*/CF_Pub_
+||algerie-focus.com/wp-content/themes/zenko/images/axa*.swf
 ||allmetsat.com/data/pub/
 ||allo-heberge.com/interface/bannieres/$domain=megavisites.com
 ||allopass.com^*/pub/$domain=fullanimes.free.fr
@@ -318,9 +320,9 @@ _regiepub/
 ||easyrencontre.com/promo
 ||easyvols.org/leparisien/
 ||easyvols.org/liberation/
-||algerie-focus.com/wp-content/*/CF_Pub_
-||algerie-focus.com/wp-content/themes/zenko/images/axa*.swf
+||ecranlarge.com/js/entree_pub.
 ||ecrans.fr/pub.js
+||edgecastcdn.net/8068BF/cdn-alg360/wp-content/uploads/*/Banner-Tag-
 ||education.ti.com^$domain=ti.bank.free.fr
 ||elles-mouillent.com/ban/$third-party
 ||elwatan.com/campub/
@@ -329,6 +331,7 @@ _regiepub/
 ||emploipartner.com/template/pubs/
 ||emu-france.com/images/minilogos/
 ||emu-france.com^*/dnsbanner.png
+||espaceagro.com/frasp/
 ||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
 ||euroclix.fr^$domain=176.31.96.119
 ||eurolive.com^$domain=les-photos-volees.com
@@ -375,13 +378,10 @@ _regiepub/
 ||fullxmovies.com/fakeplayer/
 ||fullxmovies.com/payglad/
 ||fullxmovies.com/popunderclic.js
-||ouedkniss.com/images/store-logo/*
-||ouedkniss.com/images/ptipana/*
 ||fullxmovies.com/randomthumbs*.php
 ||funradio.fr^*/skin/promo/
 ||gagnons-argent.com/pubd.php$image,~image,popup,third-party
 ||gameblog.fr/images/promo/
-||maghrebemergent.com/images/banners/*
 ||gameblog.fr/skins/$image
 ||gamekult.com/images/pubs/
 ||gayxperience.com/index.php?$third-party
@@ -397,7 +397,6 @@ _regiepub/
 ||goziga.com^*/goziga_underflv.gif
 ||gratuit-xxx.com/images/boost/
 ||gratuit-xxx.com^*/boost_*.js
-||espaceagro.com/frasp/*
 ||grenierdumaroc.com^$domain=movizfr.com
 ||grosse-passion.com/ban/$third-party
 ||groupolitan.be/fr/partners/iframe/
@@ -461,7 +460,6 @@ _regiepub/
 ||lanutrition.fr/images/banners/
 ||laposte.net^*/scripts/pub_
 ||larosededams.fr^*/bannieres/banniere
-||edgecastcdn.net/8068BF/cdn-alg360/wp-content/uploads/*/Banner-Tag-
 ||lateen18.com^*/u.js
 ||le-favori.com/images/pub/
 ||lebaiseur.com/ban/$third-party
@@ -507,6 +505,7 @@ _regiepub/
 ||macbidouille.com/banners/
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||madamesimone.com/ban/$third-party
+||maghrebemergent.com/images/banners/
 ||mappy.com/*/files/campaigns/
 ||mappy.com/services/annoncesjaunes/
 ||matchendirect.fr^*/image/pub/
@@ -527,7 +526,6 @@ _regiepub/
 ||mesdialogues.net^*/gaysize.gif
 ||mesdialogues.net^*/page_pub.php?
 ||mesfilmsstreaming.com/images/download_films.png
-||affaires-dz.com/images/banners/
 ||mesnotices.fr/shopping/
 ||metaboli.fr/partners/gamekult/
 ||midinews.com^*/oas/oas.php?
@@ -550,8 +548,6 @@ _regiepub/
 ||mr-annonce.fr/images/pub/
 ||mybloggertricks.googlecode.com/files/mbtlikebox2.js
 ||mypornmotion.com/popunder.aspx$image,~image,popup
-||webstar-auto.com/iframe_autos_neufs_occasions.php
-||webstar-auto.com/banners_pub/*
 ||neezzmail.com/js/box.js
 ||neko-hentai.com/banieres/
 ||neomag.fr/e-pubs/
@@ -569,6 +565,8 @@ _regiepub/
 ||onvillanuit.com^$domain=chartsinfrance.net
 ||orientation-chabab.com/img/pub.jpg
 ||otaku-attitude.net^*/okazu-manga.gif
+||ouedkniss.com/images/ptipana/
+||ouedkniss.com/images/store-logo/
 ||ouedkniss.com/pubs/
 ||ouifm.fr^*/images/partners/
 ||oujdacity.net/kelkoo*.html
@@ -750,6 +748,8 @@ _regiepub/
 ||weblettres.net/@images/pub/
 ||webmanager.biz/ads/
 ||webmarchand.be/js/ov.js.php?
+||webstar-auto.com/banners_pub/
+||webstar-auto.com/iframe_autos_neufs_occasions.php
 ||weemove.com/ressources/images/habillages/
 ||widget.achetezfacile.com/widget.js$third-party
 ||winds-up.com/images/pub/
@@ -798,6 +798,7 @@ _regiepub/
 ###adcontainer3
 ###adsCarre
 ###adsHaut
+###ads_horiz
 ###adspave
 ###annonce_pub
 ###annonce_pub2
@@ -815,7 +816,6 @@ _regiepub/
 ###block_regie_pub_bas
 ###cadre_pub_bas
 ###carre-pub
-###ads_horiz
 ###carre_pub
 ###conteneurPub
 ###conteneur_pub
@@ -1069,6 +1069,7 @@ _regiepub/
 ##.pub600200
 ##.pub72890
 ##.pub728x90
+##.pub_160_600
 ##.pub_300
 ##.pub_468x60
 !
@@ -1096,11 +1097,15 @@ accentice.com##div[style="padding:5;padding-top:0;background:#fffdf7;"]
 actupc.info###casing > center > table[width="100%"][height="60"][cellspacing="0"][cellpadding="0"]
 actustar.com##.ads
 ados.fr##.pub
+affaires-dz.com##.riquadro_1
+affaires-dz.com##.riquadro_3
 agoravox.fr##.pub
+akelys.com##.cellulePUB
+algerie-focus.com###pub-sky
+algerie-focus.com###sponsor-axa
+algerie360.com###bloc_pub_sprt
 algerie360.com###pub_300_acc
 algerie360.com##.bloc_pub_250_s_marge
-algerie360.com###bloc_pub_sprt
-akelys.com##.cellulePUB
 allocine.fr##.coltop
 allocine.fr##.topheader
 alvinet.com##.leaderboard
@@ -1142,8 +1147,6 @@ canalplus.fr##.banner
 canalplus.fr##.visuel_preroll
 cbanque.com##.habillage
 cdiscount.com###downMall
-affaires-dz.com##.riquadro_1
-affaires-dz.com##.riquadro_3
 cdiscount.com##.SmartAdZoneList
 cdiscount.com##.downinbackMaullContainer
 cdiscount.com##.ptnlnk_table
@@ -1261,8 +1264,6 @@ gulli.fr##.banner
 hentai-3x.com##.boost
 hentai-3x.com##.pub
 herault-tribune.com##[id^=content_right_pub]
-ouedkniss.com###list-last-stores
-ouedkniss.com###pub_care
 ibuzzyou.fr##div[style="height:280px;float:left;"]
 imagedrole.de###main-bottom
 imagik.fr###cb30popmedia
@@ -1434,6 +1435,8 @@ orange.fr##.hp2-promo-area
 orientation-chabab.com##.bann
 orientation-chabab.com##.banner
 otaku-attitude.net###smart-bann
+ouedkniss.com###list-last-stores
+ouedkniss.com###pub_care
 ouifm.fr###partenaires
 ouiounon.net##.headertitrelien[target="_blank"]
 oujdacity.net###common-top-widget
@@ -1500,8 +1503,6 @@ slappyto.net##.Adsense
 slate.fr###smart14320
 softonic.fr##.topbanner
 soonnight.com###cadre_partenaire
-algerie-focus.com###pub-sky
-algerie-focus.com###sponsor-axa
 soonnight.com###partenaire
 sortirensemble.com###sondage_age
 southparkstreaming.fr##.bannergroup
@@ -1529,7 +1530,6 @@ telechargementgratuits.com##.fixe
 tetesaclaques.tv###bigBox
 tf1.fr###ible149256
 tomtomax.fr##a[href^="http://clk.tradedoubler.com/"]
-webstar-auto.com##.ads
 top-serie.org###top
 topanalyse.com###pid_f
 torrent-avenue.com##table[width="160"][height="600"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
@@ -1570,6 +1570,7 @@ wat.tv##.partner_one_wat
 wat.tv##.partner_two_wat
 wat.tv##.pub
 webactus.net###text-4
+webstar-auto.com##.ads
 wikipedia.orange.fr###o_cartouchecarrepub
 wix.com###wixFooter
 wix.com###wixfooter
