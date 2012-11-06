@@ -576,7 +576,7 @@ _regiepub/
 ||partner.leguide.com^$third-party
 ||passeportsante.net^*/controls/pub/
 ||pc-overware.be/index/images/banners/
-||pcinpact.com/uvxc2/
+||pcinpact.com/uvxc*/
 ||petite-annonce-gratuite.com/encarts/bannieres/
 ||petite-garce.com/ban/$third-party
 ||pharmasite.fr/img/pub/
@@ -1378,6 +1378,8 @@ matchendirect.mobi###pub1
 maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
 maxistreaming.com###header
 maxistreaming.com###searchform
+pcinpact.com##A[style*="display: block; margin: auto; height: 200px; width: 1000px;"]
+pcinpact.com##A[style*="display: block;margin: auto;height: 200px;width: 1000px;"]
 mediadico.com###NFBannierePublicitaire
 megaupload-download.net##.infoblock
 meilleurtaux.com##.pub
