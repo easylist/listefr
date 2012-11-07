@@ -220,7 +220,6 @@ _regiepub/
 ||absoluflash.com^*/tube-pub-
 ||absolugirl.com^*/popunder5.js
 ||accesporno.com/mosaique/$third-party
-||fifostream.tv/video.html
 ||achatventepagefan.com^*/banachat*.gif$third-party
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
 ||ad.fr.doubleclick.net/pfadx/clubic/
@@ -342,6 +341,7 @@ _regiepub/
 ||fantasme-bisexuel.com^*/u.js
 ||fastecard.net^*/pub
 ||fdata.over-blog.net^*/js/ob.bar1*.js
+||fifostream.tv/video.html
 ||files-save.com/noyaux/pub/
 ||fille-sensuelle.fr/annuaire/promo/$third-party
 ||filmhentai.fr/tpl2/tools/
@@ -769,8 +769,8 @@ _regiepub/
 ||zonebourse.com/content_o_a_s.php?
 ||zoomdici.fr/media/pub/
 ! Anti-adblock
-||generation-nt.com^*/gnt-msg-pave.
 ||generation-nt.com^*/gnt-msg-carre.
+||generation-nt.com^*/gnt-msg-pave.
 !
 !------------------ Elements generiques -----------------!
 !
@@ -1131,6 +1131,7 @@ blog2mature.com##.download
 blog2mature.com##.liens
 blog2mature.com##.widget.widget_links
 blogdumac.com###encart-adsense-top-single
+blogger-au-bout-du-doigt.blogspot.com###banner
 blogs.allocine.fr###pub
 blogs.lesinrocks.com##.sub_headline.top
 blogs.rue89.com##div[style="clear: both; text-align: center; margin: 0px auto;height: 250px; width: 300px;"]
@@ -1142,6 +1143,7 @@ braindamaged.fr##a[href^="index.php?adclick="]
 businessnews.com.tn###megaban-1000
 canalplus.fr##.banner
 canalplus.fr##.visuel_preroll
+canalturf.com###content > div[style="width:100%; z-index: 100; margin-bottom:10px; text-align:center "]:first-child
 cbanque.com##.habillage
 cdiscount.com###downMall
 cdiscount.com##.SmartAdZoneList
@@ -1196,12 +1198,15 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 e-booksland.com###pb1
 e-sante.fr##.ad
 e-sante.fr##.public-info
+ecranlarge.com###aNePasManquer
+ecranlarge.com###promo
 elwatan.com###megabanner
 elwatan.com###pub_habillage_lien
 emule-island.ru###centre_haut
 emule-island.ru###droite_bas
 emule-island.ru###droite_haut
 emule-island.ru###pub
+emule-island.ru##table[width="560"][height="90"][border="2"][bgcolor="#FFFFCC"]
 ergor.org##.ladypub
 europe1.fr##.s-partenaires
 eurosport.fr###Container_OAS_Right
@@ -1215,7 +1220,6 @@ faclic.com##.lbx_content
 faclic.com##.lbx_overlay
 fan-de-cinema.com##.megasquare
 fan-de-cinema.com##.topmargin
-emule-island.ru##TABLE[width="560"][height="90"][border="2"][bgcolor="#FFFFCC"]
 fansub-resistance.net##[id^="pub_468x60_"]
 fansub-resistance.net##[id^="pub_728x90_"]
 femmemag.re###block_regie_pub_bas_article
@@ -1238,7 +1242,6 @@ franceantilles.fr,franceguyane.fr###megabanner
 francebleu.fr,franceinfo.fr###pub-ftv-top
 franceculture.fr###block-fcbloc-publicite
 frandroid.com##.widget.widget_text
-planet-casio.com###pub
 fredzone.org##.entry-pub
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 fullanimes.free.fr##[href^="http://www.allopass.com/check/red.php"] > img
@@ -1302,7 +1305,6 @@ lastminute.com##.adContainer
 lateen18.com###trade
 lebest.fr###ban_300x250
 lebest.fr###ban_728x90
-canalturf.com###content > DIV[style="width:100%; z-index: 100; margin-bottom:10px; text-align:center "]:first-child
 lebest.fr###liens_sponso
 leboncoin.fr##.google
 leboncoin.fr##div[class="newPartnerbox"]
@@ -1351,8 +1353,6 @@ liveradio.fr###ad1
 lo.st##.home_partner_img
 loisirados.com###intersticiel
 lol89.com##.s-300
-ecranlarge.com###promo
-ecranlarge.com###aNePasManquer
 lonelyplanet.fr##table[width="900"][height="90"][align="center"]
 mac4ever.com###home-conseils
 mac4ever.com###home-prixmac
@@ -1380,8 +1380,6 @@ matchendirect.mobi###pub1
 maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
 maxistreaming.com###header
 maxistreaming.com###searchform
-pcinpact.com##A[style*="display: block; margin: auto; height: 200px; width: 1000px;"]
-pcinpact.com##A[style*="display: block;margin: auto;height: 200px;width: 1000px;"]
 mediadico.com###NFBannierePublicitaire
 megaupload-download.net##.infoblock
 meilleurtaux.com##.pub
@@ -1456,9 +1454,13 @@ pcinpact.com###tophabillage
 pcinpact.com##.background_clic
 pcinpact.com##a[href^="http://ads.horyzon-media.com/call/pubjumpi/"]
 pcinpact.com##a[href^="http://www2.edi7.lu/www/delivery/"]
+pcinpact.com##a[style*="display: block; margin: auto; height: 200px; width: 1000px;"]
+pcinpact.com##a[style*="display: block;margin: auto;height: 200px;width: 1000px;"]
+pcinpact.com##p[style*="display: block; height: 1200px; margin:0; position: absolute; width: 100%"]
 photo.fr##.ad
 photo.fr##.parrains
 photos-persos-sexy.com##table[style="border-style: solid; border-width: 0px; background-color: #ffffff; width: 100%; height: 280px;"]
+planet-casio.com###pub
 planet.fr##.block-gc_ad
 porn-video-hd.com##.catcher-videos
 porn-video-hd.com##.header
@@ -1548,7 +1550,6 @@ une-recette.com##.bannierebas
 une-recette.com##.milieubanniere2
 upp-auteurs.fr###annonce_a
 upp-auteurs.fr###annonce_b
-blogger-au-bout-du-doigt.blogspot.com###banner
 verif.com###verif_pub_adsense_commander
 verif.com###verif_pub_pave
 viamichelin.fr###idAFSRoadsheetBottom.afsAdvertisingBottom
@@ -1584,7 +1585,6 @@ zataz.com##img[style="border: 0px solid ; width: 300px; height: 250px;"]
 zataz.com##img[style="border: 0px solid; width: 300px; height: 250px;"]
 zdnet.fr###pwcBox
 zdnet.fr###tickerRight
-pcinpact.com##P[style*="display: block; height: 1200px; margin:0; position: absolute; width: 100%"]
 zonebourse.com###Bottom
 zonebourse.com###Middle2_id
 zoomdici.fr##.innerArtAdd
