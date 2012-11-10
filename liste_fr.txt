@@ -703,6 +703,8 @@ _regiepub/
 ||topwarez.fr^*/trendglobes/images/promo.gif
 ||torrent-avenue.com/popup.php$image,~image,popup
 ||torrent-topliste.com/popup.php$image,~image,popup
+||mcetv.fr/img/*/Habillage-
+||mcetv.fr^*/BAN-partenaires-
 ||torrentfrancais.com/img/z2/
 ||torrentfrancais.com/pub.html
 ||torrentfrancais.com/z2/firefox-part$image
@@ -1241,6 +1243,8 @@ forum.pcastuces.com##table[width="728"][height="90"][align="center"]
 forumactif.com##div[class^="add-google"]
 fr.audiofanzine.com##.price
 fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
+mcetv.fr###annonce-header
+mcetv.fr##DIV[style^="width: 300px;font-style: none;height: 250px"]
 fr.news.yahoo.com##[id^="pmBannerContainer"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr,~sport.francetv.fr##div[id^="eShowPub"]
 franceantilles.fr,franceguyane.fr###megabanner
