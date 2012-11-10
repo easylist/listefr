@@ -583,6 +583,7 @@ _regiepub/
 ||pharmasite.fr/medias/pub/
 ||photo.fr^*/upload_parrain/
 ||pictime.fr/boss/img/
+||journaldugeek.com/wp-content/themes/geek/habillages/$image
 ||plageporno.com/pex/exitp.js
 ||planete-dangereuse.com/ban/$third-party
 ||pointscommuns.com/images/bannieres/$third-party
@@ -1281,7 +1282,9 @@ jeu.net##div[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
 jeuxonline.info###pub
 jeuxvideo.com###banner_jv
 jeuxvideo.com###mc_sponso
-journaldugeek.com##.widget-current-offers.widget
+journaldugeek.com##.widget-current-offers
+journaldugeek.com##.sidebanner
+journaldugeek.com###linkhabillage
 judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
 judgehype.com###partenaire
 kamaz.fr##.megaBan
