@@ -389,6 +389,7 @@ _regiepub/
 ||globirank.com/image/$domain=unlock-stream.com
 ||goelovb.com^*/armortv.png
 ||goelovb.com^*/fps.gif
+||goole.fr/images/pub.jpg
 ||goziga.com/ban/
 ||goziga.com^*/banangela.gif
 ||goziga.com^*/banhead_
@@ -438,6 +439,7 @@ _regiepub/
 ||jeuxvideo.com/sponso/
 ||jeuxvideo.com/sponso_videos/
 ||jeveuxdestrans.com^*/u.js
+||journaldugeek.com/wp-content/themes/geek/habillages/$image
 ||journaldunet.com/*@*,position$script
 ||journaldunet.com^*/0_pub/
 ||juif.org/img/partners/
@@ -500,6 +502,7 @@ _regiepub/
 ||liste2cul.com/pub/
 ||livefoot.fr/images/habillage_
 ||lunatik-team.com/images/ban.jpg
+||lyad.com/testrv/popdiv2.asp?
 ||macbidouille.com/banners/
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||madamesimone.com/ban/$third-party
@@ -515,6 +518,8 @@ _regiepub/
 ||maxisciences.com/static/scripts/incentive.js
 ||maxisexy.com/pub/
 ||maxtransexuelle.com^*/u.js
+||mcetv.fr/img/*/Habillage-
+||mcetv.fr^*/BAN-partenaires-
 ||mega-divx.net/cdn-cgi/pe/bag?
 ||megadvdrip.com/popup.js
 ||meilleurmobile.com/scripts/var_xml_backgrounds.js
@@ -583,7 +588,6 @@ _regiepub/
 ||pharmasite.fr/medias/pub/
 ||photo.fr^*/upload_parrain/
 ||pictime.fr/boss/img/
-||journaldugeek.com/wp-content/themes/geek/habillages/$image
 ||plageporno.com/pex/exitp.js
 ||planete-dangereuse.com/ban/$third-party
 ||pointscommuns.com/images/bannieres/$third-party
@@ -703,8 +707,6 @@ _regiepub/
 ||topwarez.fr^*/trendglobes/images/promo.gif
 ||torrent-avenue.com/popup.php$image,~image,popup
 ||torrent-topliste.com/popup.php$image,~image,popup
-||mcetv.fr/img/*/Habillage-
-||mcetv.fr^*/BAN-partenaires-
 ||torrentfrancais.com/img/z2/
 ||torrentfrancais.com/pub.html
 ||torrentfrancais.com/z2/firefox-part$image
@@ -739,8 +741,6 @@ _regiepub/
 ||video-2-cul.com/javascript/functions.js
 ||videoplaza.tv/creatives/assets/$object-subrequest,domain=rfi.fr
 ||videos-de-celebrites.com/pub/
-||goole.fr/images/pub.jpg
-||lyad.com/testrv/popdiv2.asp?*
 ||videos-passion.com/ban/$third-party
 ||vidule.com^*/u.js
 ||visio-x.fr/js/x1.js
@@ -1195,8 +1195,6 @@ deezer.com##[id^="ads"]
 desmatures.com##.pub468100top
 desmatures.com##.sidebarpub350250
 dinogaia.com###tableau_info
-protect-url.net###pubpagebasd
-protect-url.net###pubpagebasg
 directvelo.com###col_03_partenaires
 do-tube.org##.ads
 dogzer.com###affichage_tag_58
@@ -1243,8 +1241,6 @@ forum.pcastuces.com##table[width="728"][height="90"][align="center"]
 forumactif.com##div[class^="add-google"]
 fr.audiofanzine.com##.price
 fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
-mcetv.fr###annonce-header
-mcetv.fr##DIV[style^="width: 300px;font-style: none;height: 250px"]
 fr.news.yahoo.com##[id^="pmBannerContainer"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr,~sport.francetv.fr##div[id^="eShowPub"]
 franceantilles.fr,franceguyane.fr###megabanner
@@ -1286,9 +1282,9 @@ jeu.net##div[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
 jeuxonline.info###pub
 jeuxvideo.com###banner_jv
 jeuxvideo.com###mc_sponso
-journaldugeek.com##.widget-current-offers
-journaldugeek.com##.sidebanner
 journaldugeek.com###linkhabillage
+journaldugeek.com##.sidebanner
+journaldugeek.com##.widget-current-offers
 judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
 judgehype.com###partenaire
 kamaz.fr##.megaBan
@@ -1391,6 +1387,8 @@ matchendirect.mobi###pub1
 maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
 maxistreaming.com###header
 maxistreaming.com###searchform
+mcetv.fr###annonce-header
+mcetv.fr##div[style^="width: 300px;font-style: none;height: 250px"]
 mediadico.com###NFBannierePublicitaire
 megaupload-download.net##.infoblock
 meilleurtaux.com##.pub
@@ -1484,6 +1482,8 @@ premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 programme-tv.net###blocPub_MEGABAN
 programme-tv.net###pub_pole_position1
 programme-tv.net##.blocLeguide
+protect-url.net###pubpagebasd
+protect-url.net###pubpagebasg
 qc.ca###ad_wrapper
 radiofrance.fr###banniere
 radiofrance.fr##table[width="765"][height="100"]
@@ -1493,7 +1493,6 @@ redlist-ultimate.be##[style="display:none;"] + .block
 rolandgarros.com###rail_ad
 roulettechat.fr###lateralAdWrapper
 routard.com###A2dEmplacement97977Reserve
-superphysique.org##DIV[style*="text-align: center"][style*="width:250px"]
 rtbf.be###bannerLeaderboard
 rtl.be###header
 rtl.fr##.result.sponsor
@@ -1537,6 +1536,7 @@ streaming-video3x.com##.ads
 streamingdivx.com##.popplugin
 streamxd.com###topbar
 super-drole.com###cadre_infoads
+superphysique.org##div[style*="text-align: center"][style*="width:250px"]
 swissquote.ch##.partner
 techno-science.net##.module.moduleBoutiqueEncart
 tele.premiere.fr###pub_a2d_pave
@@ -1607,13 +1607,12 @@ generation-nt.com##[style*="width:301px"][style*="height:251px;"]
 !----------------------- Exceptions -----------------------!
 !
 @@||ad.zanox.com/ppc/$image,~image,popup,domain=bons-plans-astuces.com
-@@||stcwbd.com/ads/plugins/jwplayer/player.swf$domain=purepeople.com
-@@||ads.webedia.fr/crossdomain.xml$domain=purepeople.com
-@@||ads.webedia.fr/p-dp-vast2/$object-subrequest,domain=purepeople.com
 @@||ad2play.ftv-publicite.fr/?sitepage=www.psg.fr$subdocument,domain=psg.fr
 @@||adgear.com^*/adgear.js$domain=tetesaclaques.tv|tou.tv
 @@||admedia.rtl.fr/online/sound/$object-subrequest,domain=rtl.fr
 @@||ads.audience2media.com/crossdomain.xml$domain=videos.nt1.tv
+@@||ads.webedia.fr/crossdomain.xml$domain=purepeople.com
+@@||ads.webedia.fr/p-dp-vast2/$object-subrequest,domain=purepeople.com
 @@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|rtl.fr
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
 @@||adswizz.com/crossdomain.xml
@@ -1662,8 +1661,6 @@ generation-nt.com##[style*="width:301px"][style*="height:251px;"]
 @@||moov.mg/images/offres/push_adsl_bt_v2.jpg
 @@||naruto-one.com/images/bannieres/$domain=otaku-attitude.net
 @@||netavenir.com^$domain=zap-tele.com
-@@||videos-pub.ftv-publicite.fr/player/ad2play.js$domain=tv5mondeplus.com
-@@||tv5mondeplus.com/proxy.php?route=http://videos-pub.ftv-publicite.fr/player/jingles.json$xmlhttprequest
 @@||network.aufeminin.com/a/diff/$object-subrequest,domain=aufeminin.com
 @@||network.aufeminin.com/call/pubj/$object-subrequest,domain=aufeminin.com
 @@||network.aufeminin.com/crossdomain.xml$domain=aufeminin.com
@@ -1683,10 +1680,12 @@ generation-nt.com##[style*="width:301px"][style*="height:251px;"]
 @@||securite.01net.com/crossdomain.xml
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|player.canalplus.fr|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
+@@||stcwbd.com/ads/plugins/jwplayer/player.swf$domain=purepeople.com
 @@||stickyads.adswizz.com/www/components/videocomponent.swf$object-subrequest,domain=nrj.fr|nrj12.fr|rireetchansons.fr
 @@||stickyadstv.com/crossdomain.xml
 @@||teads.fr/ads/
 @@||tradedoubler.com^$domain=emv3.com|teads.fr
+@@||tv5mondeplus.com/proxy.php?route=http://videos-pub.ftv-publicite.fr/player/jingles.json$xmlhttprequest
 @@||vbs-ads.s3.amazonaws.com^$domain=premiere.fr
 @@||viamichelin.be/static/advert/
 @@||viamichelin.ch/static/advert/
@@ -1694,6 +1693,7 @@ generation-nt.com##[style*="width:301px"][style*="height:251px;"]
 @@||viamichelin.fr/static/advert/
 @@||viamichelin.fr^*/rentacar.js
 @@||videos-pub.ftv-publicite.fr/media/$object-subrequest,domain=playerftp.videostream.fr
+@@||videos-pub.ftv-publicite.fr/player/ad2play.js$domain=tv5mondeplus.com
 @@||vo2.fr/uploads/tx_regiepub/bando-site-
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
