@@ -26,6 +26,7 @@
 ||ads.eorezo.com^
 ||adserveradulte.com^$third-party
 ||adserverpub.com^$image,~image,popup
+||adstronic.net^$third-party
 ||affidate.com^$third-party
 ||affiliation-france.com^$third-party
 ||affiliaweb.eu^$third-party
@@ -86,7 +87,6 @@
 ||i-promotion.net^$third-party
 ||illyx.co^$third-party
 ||illyx.com^$third-party
-||adstronic.net^$third-party
 ||imgpromo.easyrencontre.com^$third-party
 ||koocash.com$image,~image,popup,third-party
 ||koocash.com^$third-party
@@ -94,6 +94,7 @@
 ||lien-amateur.org^$third-party
 ||livechatdates.com^$image,~image,popup,third-party
 ||liveparadise.com^$third-party
+||livewithbinaryoptions.com^$third-party
 ||master-ptp.com^$third-party
 ||mediaffiliation.com^$third-party
 ||medncom.com^$third-party
@@ -101,6 +102,7 @@
 ||myxpub.com^$third-party
 ||neckermann.be^$third-party
 ||nols-pub.fr^$third-party
+||nturveev.com^$third-party
 ||openadserving.com^$image,~image,popup
 ||openadserving.com^$third-party
 ||orangepublicite.fr^$third-party
@@ -119,9 +121,6 @@
 ||promobenef.com^$third-party
 ||promotions.djummer.com^$image,~image,popup,third-party
 ||pub-bans.sexytools.be^
-||livewithbinaryoptions.com^$third-party
-||nturveev.com^$third-party
-||zedo.com^$image,~image,popup
 ||pub-france.com^$third-party
 ||pub.gdb-host.com^$third-party
 ||pub.media-clic.com^$third-party
@@ -170,6 +169,7 @@
 ||x.porn.fr^$third-party
 ||xponsor.com^$third-party
 ||y-ads.net^$third-party
+||zedo.com^$image,~image,popup,third-party
 !
 !----------------------- Filtres generiques ----------------------!
 !
@@ -279,7 +279,6 @@ _regiepub/
 ||canoe.ca/accueil2007/images/btncruze.gif
 ||capinfoproreport.com/cap_pub/
 ||carasexe.com/promo/$third-party
-||gamekult.com/i/partenaires/*
 ||carrefoune.com^*/u.js
 ||casimages.com/300250.php
 ||casimages.com/72890.php
@@ -386,6 +385,7 @@ _regiepub/
 ||gagnons-argent.com/pubd.php$image,~image,popup,third-party
 ||gameblog.fr/images/promo/
 ||gameblog.fr/skins/$image
+||gamekult.com/i/partenaires/
 ||gamekult.com/images/pubs/
 ||gayxperience.com/index.php?$third-party
 ||generation-nt.com/iframe/ovh.php
@@ -486,7 +486,6 @@ _regiepub/
 ||lesbeurettes.com^*/u.js
 ||lesbienne-gratis.com^*/u.js
 ||lesbienne-passion.com/ban/$third-party
-||zapiks.fr^*=adView&
 ||lesbienne.cc^*/u.js
 ||lesbiennesxxx.com^*/u.js
 ||letopdusexe.net^*/infopop/
@@ -781,6 +780,7 @@ _regiepub/
 ||yesmessenger.com^$third-party,domain=~yes-messenger.com
 ||yimg.com/dh/ap/default/*/yahoolast.jpg
 ||yourporno.fr^*/pop.js
+||zapiks.fr^*=adView&
 ||zataz.com/cdn-cgi/pe/bag?
 ||zataz.com/images/images_news/
 ||zone911pub.com^
@@ -1059,6 +1059,7 @@ _regiepub/
 ###pub300
 ###pub300x250
 ###pub468x60_gauche
+###pub_300_250
 ###pub_300x250
 ###pub_300x250-1
 ###pub_300x250-2
@@ -1066,7 +1067,6 @@ _regiepub/
 ###pub_468x60
 ###pub_728x90
 ###pub_728x90-1
-###pub_300_250
 ###pub_728x90-2
 ###pub_728x90_header
 ##.pub-300x250
@@ -1221,6 +1221,7 @@ elwatan.com###pub_habillage_lien
 emule-island.ru###centre_haut
 emule-island.ru###droite_bas
 emule-island.ru###droite_haut
+emule-island.ru###offerBox
 emule-island.ru###pub
 emule-island.ru##table[width="560"][height="90"][border="2"][bgcolor="#FFFFCC"]
 ergor.org##.ladypub
@@ -1235,7 +1236,6 @@ extremepc.fr###pub2an
 faclic.com##.lbx_content
 faclic.com##.lbx_overlay
 fan-de-cinema.com##.megasquare
-emule-island.ru###offerBox
 fan-de-cinema.com##.topmargin
 fansub-resistance.net##[id^="pub_468x60_"]
 fansub-resistance.net##[id^="pub_728x90_"]
@@ -1307,7 +1307,6 @@ korben.info##a[style="background:transparent; position:absolute; top:0px; left:0
 la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
 la-musique-rai.com##.ban728
 la-musique-rai.com##.rowa
-zapiks.fr###ad
 lacanausurfinfo.com###banner_footer
 lacanausurfinfo.com###promo
 lachainemeteo.com###bloc_aquarelle
@@ -1342,6 +1341,9 @@ lemoteurdusexe.com###partenaires
 lemouv.fr###block-lemouv_bloc-pub_ftv_top
 lensois.com###transparentad
 leparisien.fr###parisien-partenaires
+leparisien.fr##.bloc-pratique
+leparisien.fr##.parisien-section.pratique
+leparisien.fr##.vestiairecollective
 lepoint.fr###seloger_annonces_immo
 lepoint.fr###seloger_recherche_immo
 lepoint.fr##.pub
@@ -1490,9 +1492,6 @@ pornofrance.org###formulaire
 pornofrance.org##.promomenu
 pornojeune.net##.promo_texte2
 portail.free.fr###partenaires
-leparisien.fr##.bloc-pratique
-leparisien.fr##.parisien-section.pratique
-leparisien.fr##.vestiairecollective
 portaildusexe.com##.player-catcher
 premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 programme-tv.net###blocPub_MEGABAN
@@ -1609,6 +1608,7 @@ wix.com###wixfooter
 yahoo.com###yad-billboard
 yourporno.fr##.ads
 za-gay.org###ads_line
+zapiks.fr###ad
 zataz.com##img[style="border: 0px solid ; width: 300px; height: 250px;"]
 zataz.com##img[style="border: 0px solid; width: 300px; height: 250px;"]
 zdnet.fr###pwcBox
