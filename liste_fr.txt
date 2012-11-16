@@ -187,12 +187,12 @@
 /bandeaupublicite/*
 /call/pubj/*
 /pub300-250.
-/publicite3.
-/publicite2.
 /pub728-90.
 /publicite-
 /publicite.
 /publicite/*
+/publicite2.
+/publicite3.
 /publicite_
 /publicites.
 /publicites/*
@@ -320,7 +320,6 @@ _regiepub/
 ||dracouilla.com/ban/$third-party
 ||drague.net/pubs/
 ||e-sante.fr/sites/default/files/templates/$image
-||lachainemeteo.com/blocspartenaires/
 ||easyrencontre.com/promo
 ||easyvols.org/leparisien/
 ||easyvols.org/liberation/
@@ -430,9 +429,6 @@ _regiepub/
 ||image.jeuxvideo.com/ope/
 ||images-hentai-paradise.com/ban_vote/
 ||images.fan-de-cinema.com/habillage/
-||lc2international.tv/video/pub-
-||lc2international.tv/images/banners/*
-||lc2international.tv/contenus/images/nasuba-
 ||images1.soonnight.com/template/skins/*/skin.css
 ||impimg.free.fr/pubs/
 ||infos-mobiles.com/pub-
@@ -467,12 +463,16 @@ _regiepub/
 ||la-paysanne.com/ban/$third-party
 ||lacanausurfinfo.com/admin/images/pubs/
 ||lacanausurfinfo.com/ressources/pub/
+||lachainemeteo.com/blocspartenaires/
 ||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
 ||lagur.com/a7fr/scroller.php$domain=israel7.com
 ||lanutrition.fr/images/banners/
 ||laposte.net^*/scripts/pub_
 ||larosededams.fr^*/bannieres/banniere
 ||lateen18.com^*/u.js
+||lc2international.tv/contenus/images/nasuba-
+||lc2international.tv/images/banners/
+||lc2international.tv/video/pub-
 ||le-favori.com/images/pub/
 ||lebaiseur.com/ban/$third-party
 ||lebest.fr/banniere-externe/$domain=xvid-fr.com
@@ -594,7 +594,6 @@ _regiepub/
 ||pafpaf.com/pubs/$image,~image,popup
 ||partner.leguide.com^$third-party
 ||passeportsante.net^*/controls/pub/
-||vtrans.fr/pub.php?
 ||pc-overware.be/index/images/banners/
 ||petite-annonce-gratuite.com/encarts/bannieres/
 ||petite-garce.com/ban/$third-party
@@ -763,6 +762,7 @@ _regiepub/
 ||videos-passion.com/ban/$third-party
 ||vidule.com^*/u.js
 ||visio-x.fr/js/x1.js
+||vtrans.fr/pub.php?
 ||wawa-mania.cc/ph.jpg
 ||wawacity.su/popup.html
 ||webchoc.com/pop.js
@@ -952,8 +952,6 @@ _regiepub/
 ###wrapper-pub
 ###zone_pub
 ###zone_pub1
-##.pub_vertical
-##.pub_forum
 ##._meltypub
 ##.ads1_label
 ##.adsbantop
@@ -1018,6 +1016,7 @@ _regiepub/
 ##.pub_banner
 ##.pub_carre
 ##.pub_droite
+##.pub_forum
 ##.pub_header_banner
 ##.pub_leaderboard
 ##.pub_left
@@ -1029,6 +1028,7 @@ _regiepub/
 ##.pub_text
 ##.pub_top
 ##.pub_topright
+##.pub_vertical
 ##.pubaccueildroite1
 ##.pubaccueilgauche1
 ##.pubadsense
@@ -1245,9 +1245,6 @@ extremepc.fr###pub2an
 faclic.com##.lbx_content
 faclic.com##.lbx_overlay
 fan-de-cinema.com##.megasquare
-lefigaro.fr###Fe_Gigaban
-lefigaro.fr###Fe_pave_top
-lefigaro.fr###pave_article
 fan-de-cinema.com##.topmargin
 fansub-resistance.net##[id^="pub_468x60_"]
 fansub-resistance.net##[id^="pub_728x90_"]
@@ -1293,6 +1290,7 @@ gulli.fr##.banner
 hentai-3x.com##.boost
 hentai-3x.com##.pub
 herault-tribune.com##[id^=content_right_pub]
+ibuzzyou.fr##.box-sous-titre-gauche
 ibuzzyou.fr##div[style="height:280px;float:left;"]
 imagedrole.de###main-bottom
 imagik.fr###cb30popmedia
@@ -1338,13 +1336,15 @@ lebest.fr###ban_300x250
 lebest.fr###ban_728x90
 lebest.fr###liens_sponso
 leboncoin.fr##.google
-ibuzzyou.fr##.box-sous-titre-gauche
 leboncoin.fr##div[class="newPartnerbox"]
 leboncoin.fr##div[style="width:189px;float:left;margin-left:8px;"]
 lecalendrier.fr###bottom-ad-leaderboard
 ledevoir.com###A1
+lefigaro.fr###Fe_Gigaban
+lefigaro.fr###Fe_pave_top
 lefigaro.fr###beead_flash
 lefigaro.fr###boxshop3
+lefigaro.fr###pave_article
 leguide-shopping.tele-2-semaines.fr##.body
 lemonde.fr##.bloc_part
 lemonde.fr##.conteneur_ligatus
@@ -1660,6 +1660,7 @@ zoomdici.fr##.innerArtAdd
 @@||donnemoilinfo.com/tuto/ad-remover/img/
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
+@@||everlong.org/style/banner.php
 @@||fatherandsons.fr^*/opecom/affiliation/
 @@||fr-advideum.videoplaza.tv/proxy/distributor/$object-subrequest,domain=rfi.fr
 @@||fr-advideum.videoplaza.tv/proxy/distributor?shares=$object-subrequest,domain=aufeminin.com|lefigaro.fr
@@ -1703,7 +1704,6 @@ zoomdici.fr##.innerArtAdd
 @@||planet-casio.com/images/ad/$image
 @@||rockman.fr/Ads/$image
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
-@@||everlong.org/style/banner.php
 @@||securite.01net.com/crossdomain.xml
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|player.canalplus.fr|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
