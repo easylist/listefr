@@ -848,6 +848,7 @@ _regiepub/
 ###encart_pub_image
 ###entete_pub
 ###fixe_plugin
+###ads_top_banner
 ###footer_haut-publicite
 ###footerpub1
 ###footerpub2
@@ -1153,6 +1154,8 @@ base64decode.org,base64encode.org##.banner_300_250
 base64decode.org,base64encode.org##.banner_468_60
 basketusa.com##.pub-1000x90-top
 beaute-test.com##.addict_bloc
+covoiturage.fr##.ad
+covoiturage.fr###comuto_insidepage_ads
 beezik.com##.ads
 blog.you-test.ch##body > :nth-child(n) + style + div[id]:last-child
 blog.you-test.ch##body > noscript > style + div[id]:last-child
