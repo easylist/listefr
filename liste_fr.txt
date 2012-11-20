@@ -847,6 +847,7 @@ _regiepub/
 ###divPub
 ###div_pub_google
 ###encart_pub
+###bg_pub
 ###encart_pub_image
 ###entete_pub
 ###fixe_plugin
@@ -1256,6 +1257,7 @@ faclic.com##.lbx_overlay
 fan-de-cinema.com##.megasquare
 fan-de-cinema.com##.topmargin
 fansub-resistance.net##[id^="pub_468x60_"]
+android-france.fr##DIV[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
 fansub-resistance.net##[id^="pub_728x90_"]
 femmemag.re###block_regie_pub_bas_article
 filmscine.com###pb1
