@@ -103,6 +103,7 @@
 ||medncom.com^$third-party
 ||megavisites.com^$third-party
 ||myxpub.com^$third-party
+||supersmsoffers.com^$third-party
 ||neckermann.be^$third-party
 ||nols-pub.fr^$third-party
 ||nturveev.com^$third-party
@@ -265,6 +266,10 @@ _regiepub/
 ||asse.fr^*/banniere_mcc_billetterie.gif
 ||aufeminin.com/home4/skin/*/fond.jpg
 ||autoreflex.com^*/logo_map_partenaires.png
+||cdn.betacie.com^*/autopromo/
+||viedemerde.fr/modules/fr/pamelarose_2012/
+||quellavelinge.com^$image,~image,popup,domain=trefle.com
+||begeek.fr/cdiscount.jpg
 ||ba.ccm2.net^
 ||baise3x.com/ban/
 ||bazardux.com/index.php?$third-party
@@ -1022,6 +1027,7 @@ _regiepub/
 ##.pubLeft
 ##.pubRight
 ##.pubRight1
+###pub-left
 ##.pubTop
 ##.pubTopContainer
 ##.pub_banner
@@ -1558,6 +1564,9 @@ silicon.fr###skycraper
 silicon.fr###slider-partnerzone
 sky-animes.com##.fixe
 slappyto.net##.Adsense
+canalplus.fr##.video-preroll
+levraigabroy.com###pub
+sport-team.org###floatLayer
 slate.fr###smart14320
 softonic.fr##.topbanner
 soonnight.com###cadre_partenaire
@@ -1661,7 +1670,7 @@ zoomdici.fr##.innerArtAdd
 @@||afe2.specificclick.net/crossdomain.xml$domain=videos.nt1.tv|videos.tmc.tv
 @@||allocine.fr/crossdomain.xml
 @@||banners.oxiads.fr/player/
-@@||beead.fr^$domain=beezik.com|ouifm.fr|play.nrj.fr|radiofg.com|rfm.fr|virginradio.fr|wakanim.tv
+@@||beead.fr^$domain=beezik.com|ouifm.fr|play.nrj.fr|radiofg.com|rfm.fr|virginradio.fr|wakanim.tv|radioneo.org
 @@||blog.lemonde.fr/files/
 @@||blogdumac.com/pub/images/footer-bdm_02.png
 @@||ccmbenchmark.com^$~third-party
@@ -1718,6 +1727,10 @@ zoomdici.fr##.innerArtAdd
 @@||photo.fr/img/ad_$image
 @@||planet-casio.com/images/ad/$image
 @@||rockman.fr/Ads/$image
+@@||adserve.atedra.com/serve.php?z=$script,domain=levraigabroy.com
+@@||adserve.atedra.com/vast/$domain=levraigabroy.com
+@@||adserve.atedra.com/js/$script,domain=levraigabroy.com
+@@||static.s-sfr.fr/resources/custom/adsl/
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||securite.01net.com/crossdomain.xml
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|player.canalplus.fr|portail.free.fr
