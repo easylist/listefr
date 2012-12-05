@@ -110,6 +110,7 @@
 ||orangepublicite.fr^$third-party
 ||oxiads.fr/www/images/
 ||papycash.com$third-party
+||partner.uncadeau.com^$third-party
 ||payglad.com^$third-party
 ||pepitastore.com^$domain=clubic.com
 ||piximedia.fr^$third-party,domain=~allocine.fr
@@ -141,7 +142,6 @@
 ||smart.allocine.fr^$~object-subrequest,~subdocument
 ||smart2.allocine.fr^$~object-subrequest,~subdocument
 ||solimba.com/js/topbar.min.js
-||partner.uncadeau.com^$third-party
 ||spb2011.com^$third-party
 ||sperse.com^$third-party
 ||sponsoreo.com^$third-party
@@ -238,6 +238,7 @@ _regiepub/
 ||adinlive.com/myslot.jsp?id=
 ||affaires-dz.com/images/banners/
 ||agayn.com/aff_pub_$third-party
+||agoda.net/banners/$third-party
 ||air-journal.fr/wp-content/uploads/ad-
 ||algerie-focus.com/wp-content/*/CF_Pub_
 ||algerie-focus.com/wp-content/themes/zenko/images/axa*.swf
@@ -255,7 +256,6 @@ _regiepub/
 ||annuaire-gay-sexe.com/annuaire/promo/$third-party
 ||annuaire-inverse-gratuit.org/js/default.js
 ||annuaire-transsexuelle.com/annuaire/ban/$third-party
-||dzfoot.com/upload/hs_dzfoot-com.jpg
 ||asia-passion.fr/annuaire/ban/$third-party
 ||asie-info.fr/wp-content/uploads/*/banner-asieinfo-
 ||asie-info.fr/wp-content/uploads/*/pub_
@@ -291,7 +291,6 @@ _regiepub/
 ||carrefoune.com^*/u.js
 ||casimages.com/300250.php
 ||casimages.com/72890.php
-||agoda.net/banners/$third-party
 ||casimages.com/72890_
 ||cbanque.com/i/*/habillage
 ||cdiscount.com/imagesok/tetiere/partners/
@@ -330,6 +329,7 @@ _regiepub/
 ||dpstream.net/fichiers/pub/
 ||dracouilla.com/ban/$third-party
 ||drague.net/pubs/
+||dzfoot.com/upload/hs_dzfoot-com.jpg
 ||e-sante.fr/sites/default/files/templates/$image
 ||easyrencontre.com/promo
 ||easyvols.org/leparisien/
@@ -448,7 +448,6 @@ _regiepub/
 ||itnewsinfo.com/pub/
 ||jacquieetmicheltv.net^*/thumbpubressources/
 ||jacquieetmicheltv2.net^*/thumbpubressources/
-||korben.info/livebox.jpg
 ||jamaisjouis.com^*/u.js
 ||jardisexe.com/ban/$third-party
 ||jedessine.com^*/monstermunch/
@@ -467,6 +466,7 @@ _regiepub/
 ||kelbillet.com/ws_smads_integration.php
 ||kiporn.com^$image,~image,popup,domain=yourporno.fr
 ||kokinette.com/ban/$third-party
+||korben.info/livebox.jpg
 ||korben.info^*/adv/
 ||korben.info^*/logoagarik2010officiel.png
 ||korben.info^*/textmaster.jpg
@@ -1182,7 +1182,6 @@ blogdumac.com###encart-adsense-top-single
 blogger-au-bout-du-doigt.blogspot.com###banner
 blogs.allocine.fr###pub
 blogs.lesinrocks.com##.sub_headline.top
-itespresso.fr###slider-partnerzone
 blogs.rue89.com##div[style="clear: both; text-align: center; margin: 0px auto;height: 250px; width: 300px;"]
 boulistenaute.com###dropin
 boulistenaute.com##.xo-banner-ad-footer
@@ -1190,9 +1189,9 @@ boursier.com###banner
 boursier.com###footer-partenaires
 braindamaged.fr##a[href^="index.php?adclick="]
 businessnews.com.tn###megaban-1000
-canalplus.fr,d8.tv##.banner
 canalplus.fr##.video-preroll
 canalplus.fr##.visuel_preroll
+canalplus.fr,d8.tv##.banner
 canalturf.com###content > div[style="width:100%; z-index: 100; margin-bottom:10px; text-align:center "]:first-child
 cbanque.com##.habillage
 cdiscount.com###downMall
@@ -1222,7 +1221,6 @@ codeshttp.com##table[height="100"]
 codeshttp.com##table[height="118"]
 commentcamarche.net###ba_position4
 commentcamarche.net###partners_offers
-dzfoot.com##A[href^="http://www.medncom.com/regie/"]
 commentcamarche.net##.advertising
 commentcamarche.net,journaldesfemmes.com,linternaute.com##.publi-info
 commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##.google_grand_rectangle
@@ -1248,6 +1246,7 @@ do-tube.org##.ads
 dogzer.com###affichage_tag_58
 dogzer.com###header_tr_banniere
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
+dzfoot.com##a[href^="http://www.medncom.com/regie/"]
 e-booksland.com###pb1
 e-sante.fr##.ad
 e-sante.fr##.public-info
@@ -1258,7 +1257,6 @@ elwatan.com###pub_habillage_lien
 emule-island.ru###centre_haut
 emule-island.ru###droite_bas
 emule-island.ru###droite_haut
-virginradio.fr###la-promo-showskin-a
 emule-island.ru###offerBox
 emule-island.ru###pub
 emule-island.ru##table[width="560"][height="90"][border="2"][bgcolor="#FFFFCC"]
@@ -1291,20 +1289,18 @@ forum.pcastuces.com##table[width="728"][height="90"][align="center"]
 forumactif.com##div[class^="add-google"]
 fr.audiofanzine.com##.price
 fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
-jolpress.com###block-acp-block-publicite-top
-jolpress.com##.node-banner
 fr.news.yahoo.com##[id^="pmBannerContainer"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr,~sport.francetv.fr##div[id^="eShowPub"]
 franceantilles.fr,franceguyane.fr###megabanner
 francebleu.fr,franceinfo.fr###pub-ftv-top
 franceculture.fr###block-fcbloc-publicite
-gameblog.fr##.noPremium
 frandroid.com##.widget.widget_text
 fredzone.org##.entry-pub
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 fullanimes.free.fr##[href^="http://www.allopass.com/check/red.php"] > img
 gameblog.fr###gbPub728bas
 gameblog.fr###gba300
+gameblog.fr##.noPremium
 gameblog.fr##div[style=" background-color: #c0c0c0; padding: 7px; height: 260px; overflow: hidden;"]
 gaytag.net##.pub96590
 gentside.com###kk-widget
@@ -1315,7 +1311,6 @@ golem13.fr##.banner-halfpage
 google.fr###rhsline
 google.fr###tadsb
 google.fr##table[style="border: 1px solid #369"]
-lemouv.fr###block-lemouv_bloc-pub_ftv_right
 gratuit-xxx.com##.footerboost
 gratuit-xxx.com##div[class^="boost_g_"]
 gratuitcul.com##div[id^="affidate_form_"]
@@ -1331,12 +1326,15 @@ israel7.com##.box2[style="background-color:rgb(0,0,0);height:250px;"]
 israel7.com##.box2[style="background-color:rgb(0,0,0);padding:20px;"]
 israel7.com##.box2[style="padding:5px;height:600px;"]
 israel7.com##table[style="margin:0px0px10px15px;"]
+itespresso.fr###slider-partnerzone
 jamaisjouis.com,vidule.com##.catcher
 jedessine.com##.pub_club
 jeu.net##div[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
 jeuxonline.info###pub
 jeuxvideo.com###banner_jv
 jeuxvideo.com###mc_sponso
+jolpress.com###block-acp-block-publicite-top
+jolpress.com##.node-banner
 journaldugeek.com###linkhabillage
 journaldugeek.com##.sidebanner
 journaldugeek.com##.widget-current-offers
@@ -1384,6 +1382,7 @@ lemonde.fr##.conteneur_ligatus
 lemonde.fr##.global.services
 lemoteur.fr##.slpartner
 lemoteurdusexe.com###partenaires
+lemouv.fr###block-lemouv_bloc-pub_ftv_right
 lemouv.fr###block-lemouv_bloc-pub_ftv_top
 lensois.com###transparentad
 leparisien.fr###parisien-partenaires
@@ -1637,6 +1636,7 @@ video-buzz.eu##div[style="width:728px;height:90px;margin-left:auto;margin-right:
 vidule.com###trade
 vidule.com###wnc_disclaimer
 vintageamps.com###videoads
+virginradio.fr###la-promo-showskin-a
 vivastreet.com##.vs-advert-300x250
 vo2.fr###pub_background
 voila.fr###nosPartenaires
