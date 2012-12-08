@@ -71,8 +71,6 @@ _regiepub/
 ||affility.com^$third-party
 ||affpx.com^$third-party
 ||africawin.com^$third-party
-||regie.hiwit.org^
-||hipub.hiwit.org^
 ||allo-audience.fr^$third-party
 ||alloclick.com^$third-party
 ||allosponsor.com^$third-party
@@ -118,6 +116,7 @@ _regiepub/
 ||goodaction.com^$third-party
 ||goracash.com^$third-party
 ||hebdotop.com^$third-party
+||hipub.hiwit.org^
 ||hopdream.com^$image,~image,popup,third-party
 ||hopdream.com^$third-party
 ||i-promotion.net^$third-party
@@ -165,6 +164,7 @@ _regiepub/
 ||reactivpub.fr^$third-party
 ||regie-agricole.com^*/pubs^$third-party
 ||regie.audioprint.fr^$third-party
+||regie.hiwit.org^
 ||regiedepub.com^$third-party
 ||reussissonsensemble.fr^$third-party
 ||say.fr^$third-party
@@ -210,10 +210,6 @@ _regiepub/
 !
 !----------------------- Publicites tierces ----------------------!
 !
-||tresorkado.com/banniere/
-||magikmobile.com/iframe_$third-party
-||full-wallpaper.com/wallpaperday.js$third-party
-||mini-jeux.com/jeuday.js$third-party
 ||1-porno.org/atr_template/trade/
 ||achatventepagefan.com^*/banachat*.gif$third-party
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
@@ -247,14 +243,16 @@ _regiepub/
 ||drague.net/pubs/
 ||elles-mouillent.com/ban/$third-party
 ||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
+||euroclix.fr^$domain=176.31.96.119
 ||eurolive.com^$domain=les-photos-volees.com
 ||eurosportbet.loa24.com^$domain=eurosport.fr
-||euroclix.fr^$domain=176.31.96.119
 ||external.priceminister.com^$domain=strasbourg-tramway.fr
 ||fille-sensuelle.fr/annuaire/promo/$third-party
 ||films-2-boules.com/promo/$third-party
 ||findmysexfriend.com/$image,~image,popup,domain=extremepc.fr
+||full-wallpaper.com/wallpaperday.js$third-party
 ||gagnons-argent.com/pubd.php$image,~image,popup,third-party
+||gateway.eravage.com/hit.php?$image,~image,popup
 ||gayxperience.com/index.php?$third-party
 ||globirank.com/image/$domain=unlock-stream.com
 ||grenierdumaroc.com^$domain=movizfr.com
@@ -281,9 +279,11 @@ _regiepub/
 ||lesbienne-passion.com/ban/$third-party
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||madamesimone.com/ban/$third-party
-||maximobileshop.com/widget/$domain=iphonetweak.fr
+||magikmobile.com/iframe_$third-party
 ||mature-passion.fr/ban/$third-party
 ||matvsexe.com/bans/
+||maximobileshop.com/widget/$domain=iphonetweak.fr
+||mini-jeux.com/jeuday.js$third-party
 ||missdark.com/bannieres/$third-party
 ||misstrends.com^$third-party
 ||mondeadulte.com/pub/
@@ -294,6 +294,7 @@ _regiepub/
 ||ohlescoquins.com/promo/
 ||on-veut-du-cul.com/promo/
 ||onvillanuit.com^$domain=chartsinfrance.net
+||oxiads.fr/www/images/
 ||p0rno.com/banners/
 ||partner.leguide.com^$third-party
 ||petite-garce.com/ban/$third-party
@@ -319,15 +320,14 @@ _regiepub/
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
 ||toutsurlesabdos.com/images/bannieres_$domain=europeplusnet.info
 ||trashixxx.com/ban/$third-party
+||tresorkado.com/banniere/
 ||twenga.fr^$domain=space-blogs.com
 ||uncadeau.com/partner_widgets/$third-party
 ||videos-passion.com/ban/$third-party
 ||widget.achetezfacile.com/widget.js$third-party
+||widgetvillage.com/ministore/$third-party
 ||wtpn.twenga.com/publisher/$third-party
 ||wtpn.twenga.fr/publisher/$third-party
-||gateway.eravage.com/hit.php?$image,~image,popup
-||oxiads.fr/www/images/
-||widgetvillage.com/ministore/$third-party
 !
 !----------------------- Sites specifiques -----------------------!
 !
@@ -361,7 +361,6 @@ _regiepub/
 ||amateur2sexe.fr/anime/anime01.gif
 ||amateur2sexe.fr/footer/
 ||amateurdesexe.com^*/zone_hard.gif
-||cdn.emule-island.ru/pub/
 ||animes-streaming.net/images/ruedufric.png
 ||annuaire-inverse-gratuit.org/js/default.js
 ||asie-info.fr/wp-content/uploads/*/banner-asieinfo-
@@ -375,8 +374,6 @@ _regiepub/
 ||autoreflex.com^*/logo_map_partenaires.png
 ||begeek.fr/cdiscount.jpg
 ||benkhouya.com^*/hebergement-web-maroc.png
-||lesmobiles.com/habillage/
-||solimba.com/js/topbar.min.js
 ||binnews.in/_images/ad_
 ||binnews.me/_images/ad_
 ||bittovore.com/popup.php$image,~image,popup
@@ -397,6 +394,7 @@ _regiepub/
 ||cdiscount.com/include/css/op_skin/
 ||cdmail.fr/banniere/
 ||cdn.betacie.com^*/autopromo/
+||cdn.emule-island.ru/pub/
 ||cdn.installclick.fr^*/ad.html
 ||cdscdn.com/imagesok/tetiere/partners/
 ||centerblog.net/cadre-*?zoneid=$subdocument
@@ -494,7 +492,6 @@ _regiepub/
 ||gratuit-xxx.com/images/boost/
 ||gratuit-xxx.com^*/boost_*.js
 ||groupolitan.be/fr/partners/iframe/
-||pub.babygo.fr^
 ||hamachifrance.com^*/images/*banv.jpg
 ||hamachifrance.com^*/images/banvg.jpg
 ||hamachifrance.com^*/images/vg3.jpg
@@ -563,6 +560,7 @@ _regiepub/
 ||lesbienne-gratis.com^*/u.js
 ||lesbienne.cc^*/u.js
 ||lesbiennesxxx.com^*/u.js
+||lesmobiles.com/habillage/
 ||letopdusexe.net^*/infopop/
 ||letour.fr^*/partenaires.swf?
 ||letoutx.com/pubs/
@@ -589,7 +587,6 @@ _regiepub/
 ||mappy.com/*/files/campaigns/
 ||mappy.com/services/annoncesjaunes/
 ||matchendirect.fr^*/image/pub/
-||ogaming.tv/sites/*/files/backgrounds/
 ||matter-du-sexe.com/infopop/
 ||max-videos.com/tools/
 ||maxisciences.com/static/scripts/incentive.js
@@ -632,6 +629,7 @@ _regiepub/
 ||neomag.fr/e-pubs/
 ||novaplanet.com^*/widget/pub_pave_
 ||nrj.fr/skin/classique/
+||ogaming.tv/sites/*/files/backgrounds/
 ||on-veut-du-cul.com^*/partenaire/
 ||one-piece-streaming.fr/images/min/pub/
 ||onvasortir.com/pub/
@@ -674,6 +672,7 @@ _regiepub/
 ||promo.partie-membres.com^
 ||promo.sextape-streaming.com^
 ||ps3gen.fr/pub/
+||pub.babygo.fr^
 ||pub.lesinrocks.com^
 ||pub.nyu-nyu.com^
 ||pub.plan-dial.com^
@@ -724,6 +723,7 @@ _regiepub/
 ||sky-animes.com/scripts/liens.php?show=topsites
 ||sofoot.com^*_pubsv2/
 ||softonic.fr/specials-leaderboard
+||solimba.com/js/topbar.min.js
 ||soonnight.com/images/mini_ban_partenaire/
 ||soonnight.com/template/purr/
 ||soonnight.com^*/bande_partenaires.png
@@ -1463,9 +1463,6 @@ maxistreaming.com###header
 maxistreaming.com###searchform
 mcetv.fr###annonce-header
 mcetv.fr##div[style^="width: 300px;font-style: none;height: 250px"]
-ogaming.tv###campain-topPlaceHolder
-ogaming.tv###campain-rightPlaceHolder
-ogaming.tv###campain-leftPlaceHolder
 mediadico.com###NFBannierePublicitaire
 megaupload-download.net##.infoblock
 meilleurtaux.com##.pub
@@ -1510,6 +1507,9 @@ novaplanet.com###block_novadraganddrop_pub
 nowvideo.eu###adv1
 nrj.fr###pub
 numerama.com###general_dec
+ogaming.tv###campain-leftPlaceHolder
+ogaming.tv###campain-rightPlaceHolder
+ogaming.tv###campain-topPlaceHolder
 omgtorrent.com##.tuyau
 one-piece-streaming.fr###fermerPub
 oopsbuzz.com##.behincontent
