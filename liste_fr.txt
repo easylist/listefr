@@ -1697,7 +1697,10 @@ zoomdici.fr##.innerArtAdd
 @@||adswizz.com/crossdomain.xml
 @@||adv.voyage-economique.fr^$domain=voyage-economique.fr
 @@||advertising.wellpack.fr/sites_annexes/optout/
-@@||afe2.specificclick.net/crossdomain.xml$domain=videos.nt1.tv|videos.tmc.tv
+@@||afe2.specificclick.net/crossdomain.xml$domain=videos.nt1.tv|videos.tmc.tv|jeux.fr
+@@||static1.spilcdn.com/vda/vendor/flowplayer/ova.swf$domain=jeux.fr
+@@||adserver.adtech.de/?advideo/3.0/$object-subrequest,domain=jeux.fr
+@@||afe2.specificclick.net/adserve/?$object-subrequest,domain=jeux.fr
 @@||allocine.fr/crossdomain.xml
 @@||banners.oxiads.fr/player/
 @@||beead.fr^$domain=beezik.com|ouifm.fr|play.nrj.fr|radiofg.com|radioneo.org|rfm.fr|virginradio.fr|wakanim.tv
