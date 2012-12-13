@@ -582,6 +582,7 @@ _regiepub/
 ||libre.eu/homepage/relooking/
 ||lien-torrent.com/pubs/
 ||liens-de-telechargement.com/popmodal/
+||auto-utilitaire.com/files/banners/*
 ||linternaute.com/*@*,position$script
 ||linternaute.com^*/0_pub/
 ||liste2cul.com/iframe_pub_header.php?
@@ -1113,6 +1114,7 @@ _regiepub/
 ###pub250
 ###pub300
 ###pub300x250
+##.bloc_pub_300
 ###pub468x60_gauche
 ###pub_300_250
 ###pub_300x250
@@ -1516,6 +1518,9 @@ msn.com###upgrade.hide
 msn.com##.sponsorship
 mu-streaming.com###pb1
 mu-streaming.com##.fixe
+auto-utilitaire.com##DIV[style="position:relative;width:728px;height:90px;"]
+auto-utilitaire.com###header_3
+auto-utilitaire.com##.banner_sp_art
 multixa.net##.pub
 mypornmotion.com###Pub
 mypornmotion.com###VideoPub300x250
