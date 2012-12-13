@@ -350,7 +350,6 @@ _regiepub/
 ||absoluflash.com^*/tube-pub-
 ||accesporno.com/mosaique/$third-party
 ||ad.fr.doubleclick.net/pfadx/clubic/
-||marianne.net/photo/background-
 ||ad.oujdacity.net^
 ||adinlive.com/myslot.jsp?id=
 ||affaires-dz.com/images/banners/
@@ -470,7 +469,6 @@ _regiepub/
 ||frandroid.com^*/pub_affichage_web/
 ||free.fr^*/js/display_shopping_alice.js
 ||freenduro.com/images/banners/
-||ouedkniss.com/lapib/*
 ||freenduro.com^*/banners-pub/
 ||french-movies.net/btn_usenet.png
 ||frenchfriendfinder.com^$domain=choualbox.com
@@ -594,6 +592,7 @@ _regiepub/
 ||maghrebemergent.com/images/banners/
 ||mappy.com/*/files/campaigns/
 ||mappy.com/services/annoncesjaunes/
+||marianne.net/photo/background-
 ||matchendirect.fr^*/image/pub/
 ||matter-du-sexe.com/infopop/
 ||max-videos.com/tools/
@@ -645,6 +644,7 @@ _regiepub/
 ||otaku-attitude.net^*/okazu-manga.gif
 ||ouedkniss.com/images/ptipana/
 ||ouedkniss.com/images/store-logo/
+||ouedkniss.com/lapib/
 ||ouedkniss.com/pubs/
 ||ouifm.fr^*/images/partners/
 ||oujdacity.net/kelkoo*.html
@@ -974,10 +974,10 @@ _regiepub/
 ###publicite-bas
 ###publicite-principale
 ###publicite_banniere
-###publicite_txt
 ###publicite_header
 ###publicite_right
 ###publicite_top
+###publicite_txt
 ###pubpreroll
 ###pubright
 ###pubtop
@@ -1363,7 +1363,6 @@ jeu.net##div[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
 jeuxactu.com###megaban1
 jeuxonline.info###pub
 jeuxvideo.com###banner_jv
-ouedkniss.com##A[href^="http://www.autobip.com/news/details/?id="]
 jeuxvideo.com###mc_sponso
 jolpress.com###block-acp-block-publicite-top
 jolpress.com##.node-banner
@@ -1545,6 +1544,7 @@ orientation-chabab.com##.banner
 otaku-attitude.net###smart-bann
 ouedkniss.com###list-last-stores
 ouedkniss.com###pub_care
+ouedkniss.com##a[href^="http://www.autobip.com/news/details/?id="]
 ouifm.fr###partenaires
 ouiounon.net##.headertitrelien[target="_blank"]
 oujdacity.net###common-top-widget
