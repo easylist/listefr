@@ -1735,6 +1735,7 @@ zonebourse.com###Middle2_id
 zoomdici.fr##.innerArtAdd
 ! Anti-adblock
 gameblog.fr##.col300 > DIV[style*="background-color: rgb("]
+scan-manga.com###pub_f3
 gameblog.fr###gb_menu + DIV[style*="background-color: rgb("]
 !
 !----------------------- Exceptions -----------------------!
@@ -1861,9 +1862,7 @@ gameblog.fr###gb_menu + DIV[style*="background-color: rgb("]
 @@||playtv.fr$elemhide
 @@||protect-url.net/js/advertise125x125.js
 @@||sanwilltv.net/advertisement.js
-@@||scan-manga.com/ads.html
-@@||scan-manga.com/ads/banner.jpg?
-@@||scan-manga.com/js/advertisement.js?
+@@||scan-manga.com/js/show_ads.js
 @@||sexytout.com/ad.php?$script
 @@||uptobox.com/ads.criteo.com.js?$script
 @@||videoxadulte.com/js/adframe.js
