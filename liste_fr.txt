@@ -1733,6 +1733,9 @@ zdnet.fr###tickerRight
 zonebourse.com###Bottom
 zonebourse.com###Middle2_id
 zoomdici.fr##.innerArtAdd
+! Anti-adblock
+gameblog.fr##.col300 > DIV[style*="background-color: rgb("]
+gameblog.fr###gb_menu + DIV[style*="background-color: rgb("]
 !
 !----------------------- Exceptions -----------------------!
 !
