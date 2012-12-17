@@ -295,7 +295,6 @@ _regiepub/
 ||onvillanuit.com^$domain=chartsinfrance.net
 ||oxiads.fr/www/images/
 ||p0rno.com/banners/
-||sextapes.fr/promo/
 ||partner.leguide.com^$third-party
 ||petite-garce.com/ban/$third-party
 ||planete-dangereuse.com/ban/$third-party
@@ -305,6 +304,7 @@ _regiepub/
 ||quellavelinge.com^$image,~image,popup,domain=trefle.com
 ||rollersexe.com/ban/$third-party
 ||salopes.free.fr/ban/
+||sextapes.fr/promo/
 ||sexy-cocktail.com/promo/
 ||sexy-tresors.com/ban/$third-party
 ||sexy.1001-recherches.com/ban/$third-party
@@ -547,7 +547,6 @@ _regiepub/
 ||lanutrition.fr/images/banners/
 ||laposte.net^*/scripts/pub_
 ||larosededams.fr^*/bannieres/banniere
-||nokenny.com/Include/bloc.inc.php
 ||lateen18.com^*/u.js
 ||lc2international.tv/contenus/images/nasuba-
 ||lc2international.tv/images/banners/
@@ -645,6 +644,7 @@ _regiepub/
 ||mypornmotion.com/popunder.aspx$image,~image,popup
 ||neezzmail.com/js/box.js
 ||neomag.fr/e-pubs/
+||nokenny.com/Include/bloc.inc.php
 ||novaplanet.com^*/widget/pub_pave_
 ||nrj.fr/skin/classique/
 ||ogaming.tv/sites/*/files/backgrounds/
@@ -917,6 +917,7 @@ _regiepub/
 ###imagePubPave
 ###innerpub
 ###introAds
+###module_publicite
 ###news-droite-publicite
 ###news_pub_centre
 ###pavePub
@@ -990,7 +991,6 @@ _regiepub/
 ###publicite_right
 ###publicite_top
 ###publicite_txt
-###module_publicite
 ###pubpreroll
 ###pubright
 ###pubtop
@@ -1045,7 +1045,6 @@ _regiepub/
 ##.mailPubHeader
 ##.megapub
 ##.pave-pub
-##.pubwrapper
 ##.pave_pub
 ##.pave_pub2
 ##.position_pub
@@ -1097,6 +1096,7 @@ _regiepub/
 ##.publicite1
 ##.publicite_3
 ##.publicity
+##.pubwrapper
 ##.sqrpub
 ##.srcPub
 ##.texte_ads
@@ -1128,6 +1128,7 @@ _regiepub/
 ###pub300x250
 ###pub468x60_gauche
 ###pub728
+###pub728x90
 ###pub_300_250
 ###pub_300x250
 ###pub_300x250-1
@@ -1149,7 +1150,6 @@ _regiepub/
 ##.pub300x250
 ##.pub350x250left
 ##.pub46860
-###pub728x90
 ##.pub468x60
 ##.pub600200
 ##.pub72890
@@ -1320,7 +1320,6 @@ europe1.fr##.s-partenaires
 eurosport.fr###Container_OAS_Right
 extreme-down.com##a[href="http://www.extreme-down.com/telechargement_rapide.html"]
 extreme-down.com##a[href^="http://clic.illyx.com/"]
-gameblog.fr###overlayFnac
 extreme-protect.com##a[href="http://www.extreme-down.com/usenet.html"]
 extremepc.fr###promoHead + hr + .center
 extremepc.fr###pub
@@ -1352,11 +1351,11 @@ francebleu.fr,franceinfo.fr###pub-ftv-top
 franceculture.fr###block-fcbloc-publicite
 frandroid.com##.widget.widget_text
 fredzone.org##.entry-pub
-programme.tv##.pub
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 fullanimes.free.fr##[href^="http://www.allopass.com/check/red.php"] > img
 gameblog.fr###gbPub728bas
 gameblog.fr###gba300
+gameblog.fr###overlayFnac
 gameblog.fr##.noPremium
 gameblog.fr##div[style=" background-color: #c0c0c0; padding: 7px; height: 260px; overflow: hidden;"]
 gaytag.net##.pub96590
@@ -1614,6 +1613,7 @@ premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 programme-tv.net###blocPub_MEGABAN
 programme-tv.net###pub_pole_position1
 programme-tv.net##.blocLeguide
+programme.tv##.pub
 protect-url.net###pubpagebasd
 protect-url.net###pubpagebasg
 qc.ca###ad_wrapper
@@ -1734,9 +1734,9 @@ zonebourse.com###Bottom
 zonebourse.com###Middle2_id
 zoomdici.fr##.innerArtAdd
 ! Anti-adblock
-gameblog.fr##.col300 > DIV[style*="background-color: rgb("]
+gameblog.fr###gb_menu + div[style*="background-color: rgb("]
+gameblog.fr##.col300 > div[style*="background-color: rgb("]
 scan-manga.com###pub_f3
-gameblog.fr###gb_menu + DIV[style*="background-color: rgb("]
 !
 !----------------------- Exceptions -----------------------!
 !
@@ -1811,13 +1811,13 @@ gameblog.fr###gb_menu + DIV[style*="background-color: rgb("]
 @@||openad.tf1.fr/realmedia/ads/adstream_mjx.ads/*/video/$script
 @@||ouifm.adswizz.com//www/components/
 @@||ouifm.adswizz.com/www/components/
+@@||parissportifs24h.fr/upload/Image/Ads/$image
 @@||pc-overware.be/index/images/banners/annuaire%20test%206%20png.png
 @@||pc-overware.be/index/images/banners/forum.jpg
 @@||pc-overware.be/index/images/banners/pc-overware.be.png
 @@||photo.fr/img/ad_$image
 @@||planet-casio.com/images/ad/$image
 @@||rockman.fr/Ads/$image
-@@||parissportifs24h.fr/upload/Image/Ads/*$image
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||securite.01net.com/crossdomain.xml
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|player.canalplus.fr|portail.free.fr
