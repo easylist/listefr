@@ -1045,6 +1045,7 @@ _regiepub/
 ##.mailPubHeader
 ##.megapub
 ##.pave-pub
+##.pubwrapper
 ##.pave_pub
 ##.pave_pub2
 ##.position_pub
@@ -1351,6 +1352,7 @@ francebleu.fr,franceinfo.fr###pub-ftv-top
 franceculture.fr###block-fcbloc-publicite
 frandroid.com##.widget.widget_text
 fredzone.org##.entry-pub
+programme.tv##.pub
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 fullanimes.free.fr##[href^="http://www.allopass.com/check/red.php"] > img
 gameblog.fr###gbPub728bas
