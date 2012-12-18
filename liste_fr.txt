@@ -88,7 +88,6 @@ _regiepub/
 ||connexplace.com^$third-party
 ||cougar-rencontre.net^$third-party
 ||danstonfion.com^$image,~image,popup,third-party
-||promo.alienbiz.com^
 ||danstonfion.com^$third-party
 ||ddfcash.com^$third-party
 ||dekalee.net^$third-party
@@ -147,6 +146,7 @@ _regiepub/
 ||piximedia.fr^$third-party,domain=~allocine.fr
 ||pornravage.com^$third-party
 ||pornstreet.com^$image,~image,popup,third-party
+||promo.alienbiz.com^
 ||promo.easy-dating.org^$third-party
 ||promo.ezstatic.com^$third-party
 ||promo.hysteriq.com^$third-party
@@ -217,6 +217,7 @@ _regiepub/
 ||allo-heberge.com/interface/bannieres/$domain=megavisites.com
 ||allopass.com^*/pub/$domain=fullanimes.free.fr
 ||amatrices-passion.com/ban/$third-party
+||anime-hentai-gratuit.com/hentai-gratuit/pub/
 ||annuaire-fille-sexy.com/ban/$third-party
 ||annuaire-gay-sexe.com/annuaire/promo/$third-party
 ||annuaire-transsexuelle.com/annuaire/ban/$third-party
@@ -240,6 +241,7 @@ _regiepub/
 ||discountmanga.com/affilies/$domain=sky-animes.com
 ||dracouilla.com/ban/$third-party
 ||drague.net/pubs/
+||ecchi.fr/banieres/
 ||elles-mouillent.com/ban/$third-party
 ||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
 ||euroclix.fr^$domain=176.31.96.119
@@ -247,9 +249,6 @@ _regiepub/
 ||eurosportbet.loa24.com^$domain=eurosport.fr
 ||external.priceminister.com^$domain=strasbourg-tramway.fr
 ||fille-sensuelle.fr/annuaire/promo/$third-party
-||ecchi.fr/banieres/*
-||hotel-intime.com/banieres/*
-||projetsexe.com/bannieres/*
 ||films-2-boules.com/promo/$third-party
 ||findmysexfriend.com/$image,~image,popup,domain=extremepc.fr
 ||full-wallpaper.com/wallpaperday.js$third-party
@@ -261,9 +260,11 @@ _regiepub/
 ||grosse-passion.com/ban/$third-party
 ||hardcore-passion.com/ban/$third-party
 ||hentai-moe.fr/banieres/
+||hentai-moe.fr/promojs/
 ||hentai-passion.net/annuaire/promo/$third-party
 ||hentaiquality.com/images/banniere_$third-party
 ||hit-amateur.com/ban/$third-party
+||hotel-intime.com/banieres/
 ||icpc.tv/banners/$domain=europeplusnet.info
 ||images-hentai-paradise.com/ban_vote/
 ||issentiel.com/media/affiliate/banner/$third-party
@@ -284,7 +285,6 @@ _regiepub/
 ||magikmobile.com/iframe_$third-party
 ||mature-passion.fr/ban/$third-party
 ||matvsexe.com/bans/
-||wallmanga.com/img/anim_banniere_
 ||maximobileshop.com/widget/$domain=iphonetweak.fr
 ||mini-jeux.com/jeuday.js$third-party
 ||missdark.com/bannieres/$third-party
@@ -293,6 +293,7 @@ _regiepub/
 ||myposeo.com^*250x250.swf?$third-party
 ||neko-hentai.com/banieres/
 ||netmediaeurope.fr^*/*_partnerzone.$image,domain=silicon.fr
+||noviya.free.fr/bannieres/
 ||nuit-torride.com/ban/
 ||nyu-nyu.com/banieres/
 ||ohlescoquins.com/promo/
@@ -304,6 +305,7 @@ _regiepub/
 ||petite-garce.com/ban/$third-party
 ||planete-dangereuse.com/ban/$third-party
 ||pointscommuns.com/images/bannieres/$third-party
+||projetsexe.com/bannieres/
 ||promo.eurolive.com^$third-party
 ||pulsions-genereuses.com/ban/$third-party
 ||quellavelinge.com^$image,~image,popup,domain=trefle.com
@@ -311,9 +313,6 @@ _regiepub/
 ||salopes.free.fr/ban/
 ||sextapes.fr/promo/
 ||sexy-cocktail.com/promo/
-||anime-hentai-gratuit.com/hentai-gratuit/pub/*
-||noviya.free.fr/bannieres/*
-||zeusmangax.com/baniere/*
 ||sexy-tresors.com/ban/$third-party
 ||sexy.1001-recherches.com/ban/$third-party
 ||sexy.yakoila.com/bans/$third-party
@@ -324,7 +323,6 @@ _regiepub/
 ||surf-report-shop.com^$image,~image,popup,domain=surf-report.com
 ||tac2.xcams.com/livecams/$third-party
 ||teen-passion.net/annuaire/ban/$third-party
-||hentai-moe.fr/promojs/
 ||terasexe.com/pubs/
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
 ||toutsurlesabdos.com/images/bannieres_$domain=europeplusnet.info
@@ -333,10 +331,12 @@ _regiepub/
 ||twenga.fr^$domain=space-blogs.com
 ||uncadeau.com/partner_widgets/$third-party
 ||videos-passion.com/ban/$third-party
+||wallmanga.com/img/anim_banniere_
 ||widget.achetezfacile.com/widget.js$third-party
 ||widgetvillage.com/ministore/$third-party
 ||wtpn.twenga.com/publisher/$third-party
 ||wtpn.twenga.fr/publisher/$third-party
+||zeusmangax.com/baniere/
 !
 !----------------------- Sites specifiques -----------------------!
 !
@@ -512,6 +512,8 @@ _regiepub/
 ||hamachifrance.com^*/images/*banv.jpg
 ||hamachifrance.com^*/images/banvg.jpg
 ||hamachifrance.com^*/images/vg3.jpg
+||hentai-moe.fr/themes/*/popup.js
+||hentaigratuit.org/delaypub.js
 ||herault-tribune.com^*/flash_pub_
 ||herault-tribune.com^*/rep_pub/
 ||histoires-de-sexe.net/histoires-sexe-videos.php$image,~image,popup
@@ -584,7 +586,6 @@ _regiepub/
 ||lesmobiles.com/habillage/
 ||lesoirdalgerie.com/articles/*/dzauto.swf
 ||letopdusexe.net^*/infopop/
-||hentaigratuit.org/delaypub.js
 ||letour.fr^*/partenaires.swf?
 ||letoutx.com/pubs/
 ||letraitdunion.com/images/headset/
@@ -630,7 +631,6 @@ _regiepub/
 ||mesdialogues.net^*/page_pub.php?
 ||mesfilmsstreaming.com/images/download_films.png
 ||mesliensx.com/images/bannieres/
-||technikart.com/images/banners/*
 ||mesnotices.fr/shopping/
 ||metaboli.fr/partners/gamekult/
 ||midinews.com^*/oas/oas.php?
@@ -773,6 +773,7 @@ _regiepub/
 ||surf-report.com^*/files/weeman_*.jpg
 ||surf-report.com^*/wallpaper293x936-
 ||sylvainpellier.fr/bandeau/
+||technikart.com/images/banners/
 ||telechargementgratuits.com/hexa.png
 ||textograto.com/iframe1.php
 ||theadultcompany.biz/*/ff_siteunder/$image,~image,popup
@@ -826,7 +827,6 @@ _regiepub/
 ||wawacity.su/popup.html
 ||webchoc.com/pop.js
 ||weblettres.net/@images/pub/
-||hentai-moe.fr/themes/*/popup.js
 ||webmanager.biz/ads/
 ||webmarchand.be/js/ov.js.php?
 ||webstar-auto.com/banners_pub/
@@ -1001,7 +1001,6 @@ _regiepub/
 ###publicite_banniere
 ###publicite_header
 ###publicite_right
-###toppub
 ###publicite_top
 ###publicite_txt
 ###pubpreroll
@@ -1014,6 +1013,7 @@ _regiepub/
 ###teaserPub
 ###thePubDiv2
 ###top_pub
+###toppub
 ###toppubbutton
 ###tower_pub
 ###videoplayerpub
@@ -1321,7 +1321,6 @@ ecranlarge.com###aNePasManquer
 ecranlarge.com###promo
 elwatan.com###megabanner
 elwatan.com###pub_habillage_lien
-h-suki.com##DIV[style="width:1020px;\a margin-left: auto; text-align:center;\a margin-right: auto; height: 100px;"]
 emule-island.ru###centre_haut
 emule-island.ru###droite_bas
 emule-island.ru###droite_haut
@@ -1385,8 +1384,8 @@ gratuit-xxx.com##.footerboost
 gratuit-xxx.com##div[class^="boost_g_"]
 gratuitcul.com##div[id^="affidate_form_"]
 gulli.fr##.banner
+h-suki.com##div[style="width:1020px;\a margin-left: auto; text-align:center;\a margin-right: auto; height: 100px;"]
 hentai-3x.com##.boost
-moviz.net##.fixe
 hentai-3x.com##.pub
 herault-tribune.com##[id^=content_right_pub]
 ibuzzyou.fr##.box-sous-titre-gauche
@@ -1555,6 +1554,7 @@ moov.mg###extruderLeft1
 moov.mg##div[style="margin-top:5px;float:auto;width:100%;height:250px;text-align:center"]
 moto85.com##.partenaires
 moto85.com##div[style="width:1350px; height:255px; margin-top: -255px; margin-left: -180px;"]
+moviz.net##.fixe
 movizfr.com###pb1
 mrsexe.com##.ban300side
 msn.com###advWrapper
@@ -1761,7 +1761,6 @@ scan-manga.com###pub_f3
 @@||admedia.rtl.fr/online/sound/$object-subrequest,domain=rtl.fr
 @@||ads.audience2media.com/crossdomain.xml$domain=videos.nt1.tv
 @@||ads.webedia.fr/crossdomain.xml$domain=ozap.com|purepeople.com
-@@||videos.direction-x.com^$object-subrequest,domain=liensporno.com
 @@||ads.webedia.fr/p-dp-vast2/$object-subrequest,domain=ozap.com|purepeople.com
 @@||adserve.atedra.com/js/$script,domain=levraigabroy.com
 @@||adserve.atedra.com/serve.php?z=$script,domain=levraigabroy.com
@@ -1855,6 +1854,7 @@ scan-manga.com###pub_f3
 @@||viamichelin.fr^*/rentacar.js
 @@||videos-pub.ftv-publicite.fr/media/$object-subrequest,domain=playerftp.videostream.fr
 @@||videos-pub.ftv-publicite.fr/player/ad2play.js$domain=tv5mondeplus.com
+@@||videos.direction-x.com^$object-subrequest,domain=liensporno.com
 @@||vo2.fr/uploads/tx_regiepub/bando-site-
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
