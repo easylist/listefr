@@ -888,6 +888,7 @@ _regiepub/
 ###banniere_pub
 ###bg_pub
 ###bloc-pub
+###bloc-pub-header
 ###blocPublicitaire
 ###bloc_pub_carre
 ###block-advertisement
@@ -985,7 +986,6 @@ _regiepub/
 ###pub_megaban
 ###pub_pave
 ###pub_pave_bottom
-##.adsense_sidebar
 ###pub_pave_top
 ~di.com.pl###pub_right
 ###pub_square
@@ -1010,8 +1010,6 @@ _regiepub/
 ###rightpubbox
 ###roundPub
 ###slidepub
-###bloc-pub-header
-##.avertissement-download
 ###tag_pub_footer
 ###teaserPub
 ###thePubDiv2
@@ -1027,11 +1025,13 @@ _regiepub/
 ##.ads1_label
 ##.adsbantop
 ##.adsenseWrapper
+##.adsense_sidebar
 ##.adspave
 ##.adv-format-1
 ##.advert-center
 ##.advertbar
 ##.annonces_google
+##.avertissement-download
 ##.blocPub
 ##.bloc_pub_left
 ##.bloc_rightcol_pub
@@ -1083,6 +1083,7 @@ _regiepub/
 ##.pubLeft
 ##.pubRight
 ##.pubRight1
+##.pubTitle
 ##.pubTop
 ##.pubTopContainer
 ##.pub_banner
@@ -1113,7 +1114,6 @@ _regiepub/
 ##.publicite_3
 ##.publicity
 ##.pubwrapper
-##.pubTitle
 ##.sqrpub
 ##.srcPub
 ##.texte_ads
@@ -1194,6 +1194,7 @@ _regiepub/
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
 a18ans.com##.catcher
 abcbourse.com###header_click
+abomag.com##.postContent > p[style="float: left;margin: 4px;"]
 abrutis.com##.adsense
 abrutis.com##.home_menu_container
 abrutis.com##.pub
@@ -1205,6 +1206,7 @@ ados.fr##.pub
 affaires-dz.com##.riquadro_1
 affaires-dz.com##.riquadro_3
 agoravox.fr##.pub
+agoravox.tv##.pub
 akelys.com##.cellulePUB
 algeriatenders.com##tbody > tr[style="height:92px;"]
 algerie-focus.com###pub-sky
@@ -1325,7 +1327,6 @@ ecranlarge.com###aNePasManquer
 ecranlarge.com###promo
 elwatan.com###megabanner
 elwatan.com###pub_habillage_lien
-logitheque.com##.description + .telechargement
 emule-island.ru###centre_haut
 emule-island.ru###droite_bas
 emule-island.ru###droite_haut
@@ -1368,7 +1369,6 @@ franceantilles.fr,franceguyane.fr###megabanner
 francebleu.fr,franceinfo.fr###pub-ftv-top
 franceculture.fr###block-fcbloc-publicite
 frandroid.com##.widget.widget_text
-rtbf.be##.imu
 fredzone.org##.entry-pub
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 fullanimes.free.fr##[href^="http://www.allopass.com/check/red.php"] > img
@@ -1388,7 +1388,6 @@ google.fr###tadsb
 google.fr##table[style="border: 1px solid #369"]
 gratuit-xxx.com##.footerboost
 gratuit-xxx.com##div[class^="boost_g_"]
-marianne.net##[href^="/blogsecretdefense/ads/"]
 gratuitcul.com##div[id^="affidate_form_"]
 gulli.fr##.banner
 h-suki.com##div[style="width:1020px;\a margin-left: auto; text-align:center;\a margin-right: auto; height: 100px;"]
@@ -1398,14 +1397,10 @@ herault-tribune.com##[id^=content_right_pub]
 ibuzzyou.fr##.box-sous-titre-gauche
 ibuzzyou.fr##div[style="height:280px;float:left;"]
 imagedrole.de###main-bottom
-abomag.com##.postContent > P[style="float: left;margin: 4px;"]
-logitheque.com###bloc-droit-haut-250-250
-logitheque.com###bloc-droite-bas-250-250
 imagik.fr###cb30popmedia
 israel7.com##.box2[style="background-color:rgb(0,0,0);height:250px;"]
 israel7.com##.box2[style="background-color:rgb(0,0,0);padding:20px;"]
 israel7.com##.box2[style="padding:5px;height:600px;"]
-agoravox.tv##.pub
 israel7.com##table[style="margin:0px0px10px15px;"]
 itespresso.fr###slider-partnerzone
 jamaisjouis.com,vidule.com##.catcher
@@ -1505,6 +1500,9 @@ liste2cul.com##.catcher
 livefootball.fr###ad6b_doubu8f6d5n
 liveradio.fr###ad1
 lo.st##.home_partner_img
+logitheque.com###bloc-droit-haut-250-250
+logitheque.com###bloc-droite-bas-250-250
+logitheque.com##.description + .telechargement
 loisirados.com###intersticiel
 lol89.com##.s-300
 lonelyplanet.fr##table[width="900"][height="90"][align="center"]
@@ -1523,6 +1521,7 @@ mappy.com###a300x600
 mappy.com##.leftHabillage
 mappy.com##.rightHabillage
 maps.google.fr##.ad
+marianne.net##[href^="/blogsecretdefense/ads/"]
 marianne2.fr###mod_1171545
 masculin.com##div[style="float:left; width:980px; height:90px; text-align:left; padding-top:10px;"]
 matchendirect.fr###prehome_contenu
@@ -1594,10 +1593,10 @@ oopsbuzz.com##.behincontent
 orange.fr###blocServices
 orange.fr###lienComPart
 orange.fr###o_carrepub
+orange.fr###pub
 orange.fr###pubdudessous
 orange.fr##.footer_autopromo
 orange.fr##.hp2-promo-area
-orange.fr###pub
 orientation-chabab.com##.bann
 orientation-chabab.com##.banner
 otaku-attitude.net###smart-bann
@@ -1653,6 +1652,7 @@ rolandgarros.com###rail_ad
 roulettechat.fr###lateralAdWrapper
 routard.com###A2dEmplacement97977Reserve
 rtbf.be###bannerLeaderboard
+rtbf.be##.imu
 rtl.be###header
 rtl.fr##.result.sponsor
 rue-montgallet.com##.adBuyRight
@@ -1843,12 +1843,12 @@ scan-manga.com###pub_f3
 @@||pc-overware.be/index/images/banners/forum.jpg
 @@||pc-overware.be/index/images/banners/pc-overware.be.png
 @@||photo.fr/img/ad_$image
-@@||smartadserver.com/crossdomain.xml$domain=canalplus.fr|d8.tv|itele.fr|melty.fr
 @@||planet-casio.com/images/ad/$image
 @@||rockman.fr/Ads/$image
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||securite.01net.com/crossdomain.xml
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|player.canalplus.fr|portail.free.fr
+@@||smartadserver.com/crossdomain.xml$domain=canalplus.fr|d8.tv|itele.fr|melty.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||static1.spilcdn.com/vda/vendor/flowplayer/ova.swf$domain=jeux.fr
