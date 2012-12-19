@@ -985,6 +985,7 @@ _regiepub/
 ###pub_megaban
 ###pub_pave
 ###pub_pave_bottom
+##.adsense_sidebar
 ###pub_pave_top
 ~di.com.pl###pub_right
 ###pub_square
@@ -1393,6 +1394,7 @@ herault-tribune.com##[id^=content_right_pub]
 ibuzzyou.fr##.box-sous-titre-gauche
 ibuzzyou.fr##div[style="height:280px;float:left;"]
 imagedrole.de###main-bottom
+abomag.com##.postContent > P[style="float: left;margin: 4px;"]
 imagik.fr###cb30popmedia
 israel7.com##.box2[style="background-color:rgb(0,0,0);height:250px;"]
 israel7.com##.box2[style="background-color:rgb(0,0,0);padding:20px;"]
