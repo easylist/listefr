@@ -76,11 +76,11 @@ _regiepub/
 ||au2m8.com^$third-party
 ||avenir-affiliation.fr^$third-party
 ||ax47mp-xp-21.com^$third-party
+||ba.ccm2.net^
 ||beead.fr^$third-party
 ||biznolimit.com^$third-party
 ||blogbang.com^$third-party
 ||box.shopoon.fr^$third-party
-||fr.ard.yahoo.com^
 ||camsympa.com^$third-party,domain=~camsympa.fr
 ||carpediem.fr^$third-party
 ||cdn.nextperf.net^$third-party
@@ -110,6 +110,7 @@ _regiepub/
 ||every.com^$third-party
 ||f5biz.biz^$third-party
 ||femme-cougar.tv^$image,~image,popup,third-party
+||fr.ard.yahoo.com^
 ||gagner-une-console.com^$third-party
 ||gambling-france.com^$third-party
 ||goodaction.com^$third-party
@@ -135,7 +136,6 @@ _regiepub/
 ||megavisites.com^$third-party
 ||myxpub.com^$third-party
 ||neckermann.be^$third-party
-||ba.ccm2.net^
 ||nols-pub.fr^$third-party
 ||nturveev.com^$third-party
 ||openadserving.com^$image,~image,popup
@@ -148,18 +148,25 @@ _regiepub/
 ||piximedia.fr^$third-party,domain=~allocine.fr
 ||pornravage.com^$third-party
 ||pornstreet.com^$image,~image,popup,third-party
+||pp.free.fr^
 ||promo.alienbiz.com^
 ||promo.easy-dating.org^$third-party
 ||promo.ezstatic.com^$third-party
 ||promo.hysteriq.com^$third-party
 ||promo.indecentes-voisines.com^$third-party
+||promo.partie-membres.com^
+||promo.sextape-streaming.com^
 ||promo.voyance-web.fr^$image,~image,popup,third-party
 ||promobenef.com^$third-party
 ||promotions.djummer.com^$image,~image,popup,third-party
 ||pub-bans.sexytools.be^
 ||pub-france.com^$third-party
+||pub.babygo.fr^
 ||pub.gdb-host.com^$third-party
+||pub.lesinrocks.com^
 ||pub.media-clic.com^$third-party
+||pub.nyu-nyu.com^
+||pub.plan-dial.com^
 ||pub.sexytools.be^
 ||puboclic.com^$third-party
 ||reactivpub.fr^$third-party
@@ -168,23 +175,16 @@ _regiepub/
 ||regie.hiwit.org^
 ||regiedepub.com^$third-party
 ||reussissonsensemble.fr^$third-party
+||rmf.lesinrocks.com^
 ||say.fr^$third-party
 ||scratchmania.com^$image,~image,popup,third-party
 ||secretsdujeu.com^$image,~image,popup
 ||sex-affiliation.com^$third-party
 ||sextapes2stars.com^$third-party
-||pp.free.fr^
-||pub.babygo.fr^
-||pub.lesinrocks.com^
-||pub.nyu-nyu.com^
-||pub.plan-dial.com^
-||rmf.lesinrocks.com^
 ||smart.allocine.fr^$~object-subrequest,~subdocument
 ||smart2.allocine.fr^$~object-subrequest,~subdocument
 ||spb2011.com^$third-party
 ||sperse.com^$third-party
-||promo.partie-membres.com^
-||promo.sextape-streaming.com^
 ||sponsoreo.com^$third-party
 ||star-advertising.com^$third-party
 ||static.p-comme-performance.com^$third-party
@@ -333,13 +333,13 @@ _regiepub/
 ||tac2.xcams.com/livecams/$third-party
 ||teen-passion.net/annuaire/ban/$third-party
 ||terasexe.com/pubs/
-||videoplaza.tv/creatives/assets/$object-subrequest,domain=rfi.fr
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
 ||toutsurlesabdos.com/images/bannieres_$domain=europeplusnet.info
 ||trashixxx.com/ban/$third-party
 ||tresorkado.com/banniere/
 ||twenga.fr^$domain=space-blogs.com
 ||uncadeau.com/partner_widgets/$third-party
+||videoplaza.tv/creatives/assets/$object-subrequest,domain=rfi.fr
 ||videos-passion.com/ban/$third-party
 ||wallmanga.com/img/anim_banniere_
 ||widget.achetezfacile.com/widget.js$third-party
@@ -379,6 +379,7 @@ _regiepub/
 ||amateur2sexe.fr/anime/anime01.gif
 ||amateur2sexe.fr/footer/
 ||amateurdesexe.com^*/zone_hard.gif
+||androidgen.fr/pub/
 ||animes-streaming.net/images/ruedufric.png
 ||annuaire-inverse-gratuit.org/js/default.js
 ||aps.dz/pub-
@@ -389,7 +390,6 @@ _regiepub/
 ||asie-info.fr^*/livre-franck-amat.jpg
 ||asie-info.fr^*/prodcam-pub-
 ||asse.fr^*/bandeau_ok.swf
-||dsgen.fr/pub/*
 ||asse.fr^*/banniere_mcc_billetterie.gif
 ||aufeminin.com/home4/skin/*/fond.jpg
 ||auto-utilitaire.com/files/banners/
@@ -441,9 +441,9 @@ _regiepub/
 ||docvelo.com^*/kamvban.gif
 ||douniamusic.com/images/chat.jpg
 ||douniamusic.com/images/dzsoog.gif
-||iphonegen.fr/pub/*
 ||douniamusic.com/include/pub-
 ||dpstream.net/fichiers/pub/
+||dsgen.fr/pub/
 ||dzfoot.com/upload/hs_dzfoot-com.jpg
 ||e-sante.fr/sites/default/files/templates/$image
 ||easyrencontre.com/promo
@@ -489,11 +489,9 @@ _regiepub/
 ||forum-windows.com/open/www/delivre/
 ||forumactif.com/admgt/
 ||forzamotorsport.fr/img/pub/
-||androidgen.fr/pub/*
 ||fr.audiofanzine.com/product.php?
 ||frandroid.com^*/pub_affichage_web/
 ||free.fr^*/js/display_shopping_alice.js
-||solutions-logiciels.com/pub/
 ||freenduro.com/images/banners/
 ||freenduro.com^*/banners-pub/
 ||french-movies.net/btn_usenet.png
@@ -503,14 +501,13 @@ _regiepub/
 ||fullxmovies.com/payglad/
 ||fullxmovies.com/popunderclic.js
 ||fullxmovies.com/randomthumbs*.php
-||wiigen.fr/pub/*
 ||funradio.fr^*/skin/promo/
 ||gameblog.fr/images/promo/
 ||gameblog.fr/skins/$image
 ||gamekult.com/i/partenaires/
 ||gamekult.com/images/pubs/
 ||generation-nt.com/iframe/ovh.php
-||generation-nt.com/img/pubs/
+||generation-nt.com^*/pubs/
 ||gigacu.com/jquery.js
 ||gigatopsexe.com/550x100.gif
 ||goelovb.com^*/armortv.png
@@ -544,6 +541,7 @@ _regiepub/
 ||impimg.free.fr/pubs/
 ||infos-mobiles.com/pub-
 ||iphone4.fr/bannieres/
+||iphonegen.fr/pub/
 ||itnewsinfo.com/pub/
 ||jacquieetmicheltv.net^*/thumbpubressources/
 ||jacquieetmicheltv2.net^*/thumbpubressources/
@@ -617,7 +615,6 @@ _regiepub/
 ||linternaute.com^*/0_pub/
 ||liste2cul.com/iframe_pub_header.php?
 ||liste2cul.com/pub/
-||psvitagen.fr/pub/*
 ||livefoot.fr/images/habillage_
 ||lunatik-team.com/images/ban.jpg
 ||lyad.com/testrv/popdiv2.asp?
@@ -713,6 +710,8 @@ _regiepub/
 ||presse-citron.net^*/chicklets_pub/
 ||pro.cdmail.fr/pro/images/
 ||ps3gen.fr/pub/
+||pspgen.com/pub/
+||psvitagen.fr/pub/
 ||rabbitfinder.com/bannieres/
 ||raje.fr/images/banners/
 ||rireetchansons.fr/rire/pub-
@@ -731,7 +730,6 @@ _regiepub/
 ||scoopers.com/?o=$image,~image,popup
 ||script.banstex.com^
 ||securite.01net.com^
-||xboxgen.fr/pub/*
 ||sexe-au-bois.com/ban/$third-party
 ||sexe-clip.com/infopop/
 ||sexe-i.com^*/u.js
@@ -761,6 +759,7 @@ _regiepub/
 ||sofoot.com^*_pubsv2/
 ||softonic.fr/specials-leaderboard
 ||solimba.com/js/topbar.min.js
+||solutions-logiciels.com/pub/
 ||soonnight.com/images/mini_ban_partenaire/
 ||soonnight.com/template/purr/
 ||soonnight.com^*/bande_partenaires.png
@@ -788,7 +787,6 @@ _regiepub/
 ||ti.bank.free.fr/images/jarrety
 ||tool.acces-vod.com/infopop/
 ||tool.acces-vod.com/popdhtml/
-||pspgen.com/pub/*
 ||topanalyse.com/pub/
 ||topjetm.net^*/img/pub.gif
 ||topliste-fr.com/filmsdivx.gif
@@ -841,7 +839,9 @@ _regiepub/
 ||webstar-auto.com/iframe_autos_neufs_occasions.php
 ||weemove.com/ressources/images/habillages/
 ||wii-info.fr/ban/
+||wiigen.fr/pub/
 ||winds-up.com/images/pub/
+||xboxgen.fr/pub/
 ||xlporn.fr/getpub?
 ||xooit.be/pub.php?
 ||xooit.fr/pub.php?
@@ -859,6 +859,10 @@ _regiepub/
 ||zone911pub.com^
 ||zonebourse.com/content_o_a_s.php?
 ||zoomdici.fr/media/pub/
+! Anti-adblock
+||generation-nt.com*msg-$image
+||generation-nt.com*msg.$image
+||generation-nt.com^*/bg/gnt-
 !
 !------------------ Elements generiques -----------------!
 !
@@ -1194,7 +1198,6 @@ _regiepub/
 20min.ch##.box.left.x44
 20minutes.fr###mn-autopromo
 20minutes.fr##.half-page-bons-plans
-androidgen.fr,ps3gen.fr,pspgen.com,psvitagen.fr,xboxgen.fr,wiigen.fr,dsgen.fr,iphonegen.fr##.fichesjeu_pave
 20minutes.fr##.mn-cdiscount
 20minutes.fr##.mn-footer-services
 2siteweb.com###topbanner
@@ -1231,6 +1234,7 @@ amateur2sexe.fr###mail-form
 amateur2sexe.fr###video-full
 amateur2sexe.fr##img[width="300"][height="250"][src^="http://static.amateur2sexe.fr/menu/"]
 android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
+androidgen.fr,dsgen.fr,iphonegen.fr,ps3gen.fr,pspgen.com,psvitagen.fr,wiigen.fr,xboxgen.fr##.fichesjeu_pave
 anime00.com,anime00.net###pb1
 assiste.com.free.fr##.robots-nocontent > TABLE a > img
 audiofanzine.com###leaderboardContainer
@@ -1291,8 +1295,6 @@ clubic.com###listBlock_espacePartenaires
 clubic.com###listBlock_mediatis
 clubic.com###shopper-widget-wrapper
 clubic.com##[id^="pub_dart_"]
-solutions-logiciels.com###pub
-solutions-logiciels.com##DIV[style^="border:1px solid black; width: 300px; height: 250px"]
 clubic.com##div[class="facebox layer_suggest"]
 clubic.com##div[class="facebox layer_suggest_nl"]
 cmonjour.com##.megaddd
@@ -1408,7 +1410,6 @@ herault-tribune.com##[id^=content_right_pub]
 ibuzzyou.fr##.box-sous-titre-gauche
 ibuzzyou.fr##div[style="height:280px;float:left;"]
 imagedrole.de###main-bottom
-rfi.fr###caroussel_partenaires
 imagik.fr###cb30popmedia
 israel7.com##.box2[style="background-color:rgb(0,0,0);height:250px;"]
 israel7.com##.box2[style="background-color:rgb(0,0,0);padding:20px;"]
@@ -1660,6 +1661,7 @@ radiofrance.fr##table[width="765"][height="100"]
 raje.fr##.ads
 redlist-ultimate.be###partenaire
 redlist-ultimate.be##[style="display:none;"] + .block
+rfi.fr###caroussel_partenaires
 rolandgarros.com###rail_ad
 roulettechat.fr###lateralAdWrapper
 routard.com###A2dEmplacement97977Reserve
@@ -1687,6 +1689,8 @@ sky-animes.com##.fixe
 slappyto.net##.Adsense
 slate.fr###smart14320
 softonic.fr##.topbanner
+solutions-logiciels.com###pub
+solutions-logiciels.com##div[style^="border:1px solid black; width: 300px; height: 250px"]
 soonnight.com###cadre_partenaire
 soonnight.com###partenaire
 sortirensemble.com###sondage_age
@@ -1775,6 +1779,12 @@ zoomdici.fr##.innerArtAdd
 ! Anti-adblock
 gameblog.fr###gb_menu + div[style*="background-color: rgb("]
 gameblog.fr##.col300 > div[style*="background-color: rgb("]
+generation-nt.com##.pub300x250 + div
+generation-nt.com##.pub300x250 + nav
+generation-nt.com##[class*="gnt-msg"]
+generation-nt.com##[href="/premium.html"]
+generation-nt.com##[href="/premium.html"] > *
+generation-nt.com##[style*="position:relative"][style*="width:"][style*="height:"]
 scan-manga.com###pub_f3
 !
 !----------------------- Exceptions -----------------------!
@@ -1860,7 +1870,6 @@ scan-manga.com###pub_f3
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||securite.01net.com/crossdomain.xml
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|player.canalplus.fr|portail.free.fr
-@@||www3.smartadserver.com/crossdomain.xml
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||static1.spilcdn.com/vda/vendor/flowplayer/ova.swf$domain=jeux.fr
@@ -1883,6 +1892,7 @@ scan-manga.com###pub_f3
 @@||vo2.fr/uploads/tx_regiepub/bando-site-
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
+@@||www3.smartadserver.com/crossdomain.xml
 ! Anti Adblock
 @@||0xp.be/js/adframe.js
 @@||anime-story.com/js/ads.js
