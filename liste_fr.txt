@@ -16,8 +16,6 @@
 .ch/ads/
 .fr/ads.
 .fr/ads/
-/ad728x90.
-/ads_server_
 /adserverpub?
 /bandeaupublicite/*
 /pub300-250.
@@ -372,6 +370,7 @@ _regiepub/
 ||air-journal.fr/wp-content/uploads/ad-
 ||algerie-focus.com/wp-content/*/CF_Pub_
 ||algerie-focus.com/wp-content/themes/zenko/images/axa*.swf
+||algerie360.com/wp-content/uploads/*/Banniere
 ||allmetsat.com/data/pub/
 ||allstream.fr/images/partenaires/
 ||alvinet.com/images/pub.gif
@@ -443,6 +442,7 @@ _regiepub/
 ||douniamusic.com/include/pub-
 ||dpstream.net/fichiers/pub/
 ||dsgen.fr/pub/
+||dzautos.com/swf/
 ||dzfoot.com/upload/hs_dzfoot-com.jpg
 ||e-sante.fr/sites/default/files/templates/$image
 ||easyrencontre.com/promo
@@ -766,7 +766,6 @@ _regiepub/
 ||spin-off.fr/images/vpngratuitspinfoff.gif
 ||sports.fr/includes/cobrand/*/habillage/
 ||sports.fr^*/partenaires/
-||dzautos.com/swf/*
 ||starter.fm/blog/*/bg_$image
 ||starter.fm/images/*/bg_
 ||static.rtl.fr/www-2010/skin/$stylesheet
@@ -821,7 +820,6 @@ _regiepub/
 ||vador.com^*/popdhtml/
 ||vador.com^*/tc_pp_dhtml.js?
 ||vazigo.fr/css/pub.css
-||algerie360.com/wp-content/uploads/*/Banniere
 ||vazigo.fr/referencement/pub_frame.php
 ||viacredit.net/pub/
 ||video-2-cul.com/javascript/functions.js
@@ -867,8 +865,6 @@ _regiepub/
 !
 !------------------ Elements generiques -----------------!
 !
-###AdBottomRight
-###AdSquare02
 ###Block_Pub_Right
 ###PubBas
 ###PubFooter
@@ -877,20 +873,8 @@ _regiepub/
 ###PubHorizontaleInner
 ###PubHorizontaleMain
 ###PubPave
-###ad-ban
-###ad-megaban2
-###ad-rectangle1
-###ad-rectangle2
-###adRight3
-###adTop2
-###ad_megabanner
-###adcontainer2
-###adcontainer3
 ###adsCarre
 ###adsHaut
-###ads_horiz
-###ads_line
-###ads_top_banner
 ###adspave
 ###annonce_pub
 ###annonce_pub2
@@ -898,14 +882,12 @@ _regiepub/
 ###bandeau_pub
 ###bandeau_publicite
 ###banniere-pub-top
-##.bloc_adsense_acc
 ###banniere_pub
 ###bg_pub
 ###bloc-pub
 ###bloc-pub-header
 ###blocPublicitaire
 ###bloc_pub_carre
-###block-advertisement
 ###block_pub
 ###block_pub_article
 ###block_regie_pub_bas
@@ -937,13 +919,11 @@ _regiepub/
 ###header_pub
 ###headerpub
 ###home-pub
-###idMapAdvertising
 ###idpublicitepave
 ###iframepub
 ###iframesidebarpub
 ###imagePubPave
 ###innerpub
-###introAds
 ###module_publicite
 ###news-droite-publicite
 ###news_pub_centre
@@ -1036,16 +1016,8 @@ _regiepub/
 ###zone_pub
 ###zone_pub1
 ##._meltypub
-##.ads1_label
-##.adsbantop
-##.adsenseWrapper
-##.adsense_sidebar
 ##.adspave
-##.adv-format-1
-##.advert-center
-##.advertbar
 ##.annonces_google
-##.avertissement-download
 ##.blocPub
 ##.bloc_pub_left
 ##.bloc_rightcol_pub
@@ -1068,7 +1040,6 @@ _regiepub/
 ##.headerPub
 ##.header_pub
 ##.home_pub
-##.hp_ad_box
 ##.iframe_pub
 ##.leftmenupub
 ##.little_pub
@@ -1135,19 +1106,12 @@ _regiepub/
 ##.titrePub
 ##.toppubs
 ##.txt-pub
-##.widget_advertisement
 ##.widget_publicite
 ##.wrap-pub
 ##.zonepub
 ##a[href^="http://www.crazyloader.com"]
 ! Dimensions
 ###Pub728x90
-###ad-300x250-2
-###adl_250x250
-###adl_300x100
-###adl_300x250
-###adl_728x90
-###ads300x250
 ###blocPub300
 ###pub-200x197
 ###pub-300x250
@@ -1170,7 +1134,6 @@ _regiepub/
 ###pub_728x90-1
 ###pub_728x90-2
 ###pub_728x90_header
-##.adv-160
 ##.bloc_pub_300
 ##.pub-300x250
 ##.pub-728
@@ -1823,6 +1786,7 @@ scan-manga.com###pub_f3
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/ad-remover/img/
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
+@@||dzautos.com/swf/prix_du_neuf.swf
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
 @@||everlong.org/style/banner.php
 @@||fatherandsons.fr^*/opecom/affiliation/
@@ -1838,7 +1802,6 @@ scan-manga.com###pub_f3
 @@||iphone4.fr/bannieres/header_icons.png
 @@||kapaza.be/*/ad_view_
 @@||koifaire.com/upload/*/300x250-
-@@||dzautos.com/swf/prix_du_neuf.swf
 @@||lacanausurfinfo.com/admin/images/pubs/pub_18.png
 @@||lesinrocks.com/wp-content/plugins/minifier/min/?f=$script
 @@||libe.com/libepartnerships/businesspartner_photo/2011/08/14/ojd.gif
@@ -1883,10 +1846,10 @@ scan-manga.com###pub_f3
 @@||tradedoubler.com^$domain=emv3.com|teads.fr
 @@||tv5mondeplus.com/proxy.php?route=http://videos-pub.ftv-publicite.fr/player/jingles.json$xmlhttprequest
 @@||vbs-ads.s3.amazonaws.com^$domain=premiere.fr
-@@||viamichelin.be/static/advert/
-@@||viamichelin.ch/static/advert/
+@@||viamichelin.be/static/advert/$script
+@@||viamichelin.ch/static/advert/$script
 @@||viamichelin.ch^*/rentacar.js
-@@||viamichelin.fr/static/advert/
+@@||viamichelin.fr/static/advert/$script
 @@||viamichelin.fr^*/rentacar.js
 @@||videos-pub.ftv-publicite.fr/media/$object-subrequest,domain=playerftp.videostream.fr
 @@||videos-pub.ftv-publicite.fr/player/ad2play.js$domain=tv5mondeplus.com
