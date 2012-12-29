@@ -59,6 +59,7 @@ _regiepub/
 ||adserverpub.com^$image,~image,popup
 ||adstronic.net^$third-party
 ||affidate.com^$third-party
+||affidirect.com^$third-party
 ||affiliation-france.com^$third-party
 ||affiliaweb.eu^$third-party
 ||affilinks.fr^$third-party
@@ -113,8 +114,6 @@ _regiepub/
 ||goodaction.com^$third-party
 ||goracash.com^$third-party
 ||hebdotop.com^$third-party
-||affidirect.com^$third-party
-||pub.petitfute.com^
 ||hipub.hiwit.org^
 ||hopdream.com^$image,~image,popup,third-party
 ||hopdream.com^$third-party
@@ -165,6 +164,7 @@ _regiepub/
 ||pub.lesinrocks.com^
 ||pub.media-clic.com^$third-party
 ||pub.nyu-nyu.com^
+||pub.petitfute.com^
 ||pub.plan-dial.com^
 ||pub.sexytools.be^
 ||puboclic.com^$third-party
@@ -286,9 +286,6 @@ _regiepub/
 ||le-favori.com/images/pub/
 ||lebaiseur.com/ban/$third-party
 ||lebest.fr/banniere-externe/$domain=xvid-fr.com
-||sky-animes.com/public/Partenariat/*
-||maximumwall.com/images/top_ban_
-||neotokyo.com/banner/*
 ||lesbienne-passion.com/ban/$third-party
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||madamesimone.com/ban/$third-party
@@ -296,12 +293,14 @@ _regiepub/
 ||mature-passion.fr/ban/$third-party
 ||matvsexe.com/bans/
 ||maximobileshop.com/widget/$domain=iphonetweak.fr
+||maximumwall.com/images/top_ban_
 ||mini-jeux.com/jeuday.js$third-party
 ||missdark.com/bannieres/$third-party
 ||misstrends.com^$third-party
 ||mondeadulte.com/pub/
 ||myposeo.com^*250x250.swf?$third-party
 ||neko-hentai.com/banieres/
+||neotokyo.com/banner/
 ||netmediaeurope.fr^*/*_partnerzone.$image,domain=silicon.fr
 ||noviya.free.fr/bannieres/
 ||nuit-torride.com/ban/
@@ -327,6 +326,7 @@ _regiepub/
 ||sexy.1001-recherches.com/ban/$third-party
 ||sexy.yakoila.com/bans/$third-party
 ||sexytout.com/ban/$third-party
+||sky-animes.com/public/Partenariat/
 ||sm-passion.net/ban/$third-party
 ||socialboost.fr/promo/$third-party
 ||stars-passion.com/ban/$third-party
@@ -427,7 +427,6 @@ _regiepub/
 ||chaleurterre.net/images/Banlacentr.jpg
 ||coco.fr/chat/bigban
 ||conception-site-web.info/modules/creation-site/images/banner.jpg
-||joowala.com/images/banners/
 ||courrierlaval.com/images/wallpaper/
 ||credit-az.net/pub/
 ||credits-on-line.info/pub/
@@ -441,6 +440,7 @@ _regiepub/
 ||directvelo.com/images/habillage/
 ||directvelo.com/images/livre/pub-
 ||directvelo.com/images/partenaires/
+||dmcdn.net/mc/skin_assets/Orange_noel_2012_hub/
 ||docvelo.com^*/kamvban.gif
 ||douniamusic.com/images/chat.jpg
 ||douniamusic.com/images/dzsoog.gif
@@ -557,14 +557,14 @@ _regiepub/
 ||jeuxvideo.com/sponso/
 ||jeuxvideo.com/sponso_videos/
 ||jeveuxdestrans.com^*/u.js
+||joowala.com/images/banners/
 ||journaldugeek.com/wp-content/themes/geek/habillages/$image
 ||journaldunet.com/*@*,position$script
 ||journaldunet.com^*/0_pub/
 ||juif.org/img/partners/
 ||kelbillet.com/ws_smads_integration.php
-||korben.info/logitech.jpg
 ||korben.info/livebox.jpg
-||ledemondujeu.com/pubcoin
+||korben.info/logitech.jpg
 ||korben.info^*/adv/
 ||korben.info^*/logoagarik2010officiel.png
 ||korben.info^*/textmaster.jpg
@@ -583,6 +583,7 @@ _regiepub/
 ||lebest.fr/banniere.php?
 ||lebest.fr/pub/
 ||lecourrier-dalgerie.com/images/pub.gif
+||ledemondujeu.com/pubcoin
 ||lefigaro.fr^*/livingsocial/
 ||leforum.eu/pub.php?
 ||legalis.net^*/swf/pub_
@@ -696,6 +697,7 @@ _regiepub/
 ||passeportsante.net^*/controls/pub/
 ||pc-overware.be/index/images/banners/
 ||petite-annonce-gratuite.com/encarts/bannieres/
+||petitfute.com^*/images/pubs/
 ||pharmasite.fr/img/pub/
 ||pharmasite.fr/medias/pub/
 ||photo.fr^*/upload_parrain/
@@ -727,11 +729,11 @@ _regiepub/
 ||roulettechat.fr/js/adsacwm.js
 ||roulettechat.fr^*/facebook-api-pub/
 ||routard.com/img/homepart/budget_air/
+||rpgfrance.com^*_pubRPGF.
 ||rue89.com/files/skin/themes/visa/background.jpg
 ||ruedesjoueurs.com^*/campagnes/habillage/
 ||ruedesjoueurs.fr/images/banners/
 ||ruedesjoueurs.fr^*/campagnes/habillage/
-||rpgfrance.com^*_pubRPGF.
 ||sbx.pagesjaunes.fr^
 ||scan-mx.com^*/affpx.php
 ||scoopers.com/?o=$image,~image,popup
@@ -817,7 +819,6 @@ _regiepub/
 ||tube-x-matures.com/catcher/
 ||tubehentaigratuit.com/promo/
 ||tubehentaigratuit.com/under.js
-||petitfute.com^*/images/pubs/
 ||twodollarclick.com/earnbanner.php?
 ||une-recette.com/include/_iframe
 ||unlock-stream.com/js/disclamer.js
@@ -833,7 +834,6 @@ _regiepub/
 ||viacredit.net/pub/
 ||video-2-cul.com/javascript/functions.js
 ||videos-de-celebrites.com/pub/
-||dmcdn.net/mc/skin_assets/Orange_noel_2012_hub/
 ||vidule.com^*/u.js
 ||viedemerde.fr/modules/fr/pamelarose_2012/
 ||visio-x.fr/js/x1.js
@@ -883,6 +883,7 @@ _regiepub/
 ###PubHorizontaleInner
 ###PubHorizontaleMain
 ###PubPave
+###adColumn3
 ###adsCarre
 ###adsHaut
 ###adspave
@@ -927,7 +928,6 @@ _regiepub/
 ~futura-sciences.com###header-pub
 ###header_bloc2_pub
 ###header_pub
-###showads
 ###headerpub
 ###home-pub
 ###idpublicitepave
@@ -1005,6 +1005,7 @@ _regiepub/
 ###publicite-bas
 ###publicite-principale
 ###publicite_banniere
+###publicite_banniere_haut
 ###publicite_header
 ###publicite_right
 ###publicite_top
@@ -1013,8 +1014,8 @@ _regiepub/
 ###pubright
 ###pubtop
 ###rightpubbox
-###adColumn3
 ###roundPub
+###showads
 ###slidepub
 ###tag_pub_footer
 ###teaserPub
@@ -1092,12 +1093,10 @@ _regiepub/
 ##.pub_left
 ##.pub_middle
 ##.pub_mobile
-##.publicite_locale
 ##.pub_outer
 ~sport24.com##.pub_pave
 ##.pub_skyscraper
 ##.pub_text
-###publicite_banniere_haut
 ##.pub_top
 ##.pub_topright
 ##.pub_vertical
@@ -1111,6 +1110,7 @@ _regiepub/
 ##.publicite-bas
 ##.publicite1
 ##.publicite_3
+##.publicite_locale
 ##.publicity
 ##.pubwrapper
 ##.sqrpub
@@ -1238,8 +1238,6 @@ blog.you-test.ch##body > noscript > style + div[id]:last-child
 blog2mature.com##.download
 blog2mature.com##.liens
 blog2mature.com##.widget.widget_links
-ledemondujeu.com###pub1
-ledemondujeu.com###pub2
 blogdumac.com###encart-adsense-top-single
 blogger-au-bout-du-doigt.blogspot.com###banner
 blogs.allocine.fr###pub
@@ -1357,7 +1355,6 @@ forum.pcastuces.com##table[width="728"][height="90"][align="center"]
 forumactif.com##div[class^="add-google"]
 fr.audiofanzine.com##.price
 fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
-ophtalmo.tv##A[href^="/ads/"]
 fr.news.yahoo.com##[id^="pmBannerContainer"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr,~sport.francetv.fr##div[id^="eShowPub"]
 franceantilles.fr,franceguyane.fr###megabanner
@@ -1405,7 +1402,6 @@ jeuxactu.com###megaban1
 jeuxonline.info###pub
 jeuxvideo.com###banner_jv
 jeuxvideo.com###mc_sponso
-viedemerde.fr##.post.autopromo
 jolpress.com###block-acp-block-publicite-top
 jolpress.com##.node-banner
 journaldugeek.com###linkhabillage
@@ -1443,6 +1439,8 @@ leboncoin.fr##.google
 leboncoin.fr##div[class="newPartnerbox"]
 leboncoin.fr##div[style="width:189px;float:left;margin-left:8px;"]
 lecalendrier.fr###bottom-ad-leaderboard
+ledemondujeu.com###pub1
+ledemondujeu.com###pub2
 ledevoir.com###A1
 lefigaro.fr###Fe_Gigaban
 lefigaro.fr###Fe_pave_top
@@ -1585,6 +1583,7 @@ ogaming.tv###campain-topPlaceHolder
 omgtorrent.com##.tuyau
 one-piece-streaming.fr###fermerPub
 oopsbuzz.com##.behincontent
+ophtalmo.tv##a[href^="/ads/"]
 orange.fr###blocServices
 orange.fr###lienComPart
 orange.fr###o_carrepub
@@ -1730,6 +1729,7 @@ video-buzz.eu##div[style="width:300px;height:250px;margin-bottom:15px;margin-lef
 video-buzz.eu##div[style="width:728px;height:90px;margin-left:auto;margin-right:auto;margin-bottom:15px;"]
 vidule.com###trade
 vidule.com###wnc_disclaimer
+viedemerde.fr##.post.autopromo
 vintageamps.com###videoads
 virginradio.fr###la-promo-showskin-a
 vivastreet.com##.vs-advert-300x250
@@ -1840,10 +1840,10 @@ scan-manga.com###pub_f3
 @@||nouvelobs.com/*@top
 @@||ohm-immobilier.fr/images/ads/
 @@||openad.tf1.fr/realmedia/ads/adstream_mjx.ads/*/video/$script
+@@||ophtalmo.tv/video/ads/$object-subrequest
 @@||ouifm.adswizz.com//www/components/
 @@||ouifm.adswizz.com/www/components/
 @@||parissportifs24h.fr/upload/Image/Ads/$image
-@@||ophtalmo.tv/video/ads/$object-subrequest
 @@||pc-overware.be/index/images/banners/annuaire%20test%206%20png.png
 @@||pc-overware.be/index/images/banners/forum.jpg
 @@||pc-overware.be/index/images/banners/pc-overware.be.png
@@ -1882,13 +1882,13 @@ scan-manga.com###pub_f3
 @@||awsclic.com/js/advertisement.js
 @@||bizerta-soft.com/clientscript/advertisement.js
 @@||claymore.fr/advertisement.js
-@@||leetgamerz.net/js/advertisement.js
 @@||coursdeprofs.fr/adframe.js
 @@||debrideurstreaming.com^*/adsense.js
 @@||download.gameblog.fr/images/promo/ban_premium_300.jpg
 @@||gratuitcul.com/ad.php?ad=$script
 @@||hamachifrance.com/advertisement-adblock.js
 @@||instantmanga.com/js/advertisement.js
+@@||leetgamerz.net/js/advertisement.js
 @@||meteomedia.com/common/js/master/adframe.js
 @@||openrunner.com/js/advertisement.js
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=hugolescargot.com|phonandroid.com
@@ -1903,17 +1903,17 @@ scan-manga.com###pub_f3
 @@||wakanim.tv/content/js/ads.js?
 !----------------------- Exceptions d'elements -----------------------!
 fichier.net#@##contentAd
-flysurf.com#@#.ads_area
-gamexpo.fr#@#.advertisment
-jeuxjeuxjeux.fr#@#.ad-left
-latribune-online.com#@#.header_ads
-pointvente.fr#@#.ad_line
 ratus13.com#@#.ad-block
-scooter-infos.com#@#.adlist
+jeuxjeuxjeux.fr#@#.ad-left
 vente-a-domicile.fr#@#.ad-left
 vente-a-domicile.fr#@#.ad-right
+pointvente.fr#@#.ad_line
+scooter-infos.com#@#.adlist
+flysurf.com#@#.ads_area
+gamexpo.fr#@#.advertisment
 vente-a-domicile.fr#@#.btn-ad
+latribune-online.com#@#.header_ads
 ! Anti Adblock
-letouriste.fr#@#.single-ad
 lokan.fr#@##adright
 macplus.net#@#.ad_zone
+letouriste.fr#@#.single-ad
