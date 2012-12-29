@@ -113,6 +113,8 @@ _regiepub/
 ||goodaction.com^$third-party
 ||goracash.com^$third-party
 ||hebdotop.com^$third-party
+||affidirect.com^$third-party
+||pub.petitfute.com^
 ||hipub.hiwit.org^
 ||hopdream.com^$image,~image,popup,third-party
 ||hopdream.com^$third-party
@@ -1084,6 +1086,7 @@ _regiepub/
 ##.pub_left
 ##.pub_middle
 ##.pub_mobile
+##.publicite_locale
 ##.pub_outer
 ~sport24.com##.pub_pave
 ##.pub_skyscraper
