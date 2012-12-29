@@ -35,7 +35,7 @@ _publicite.
 _publicite1.
 _publicite_
 _regiepub/
-! Anti-adblock
+! Anti-Adblock
 /wp-content/plugins/no-adblock/*
 !
 !----------------------- Annonceurs -----------------------!
@@ -868,7 +868,7 @@ _regiepub/
 ||zone911pub.com^
 ||zonebourse.com/content_o_a_s.php?
 ||zoomdici.fr/media/pub/
-! Anti-adblock
+! Anti-Adblock
 ||generation-nt.com*msg-$image
 ||generation-nt.com*msg.$image
 ||generation-nt.com^*/bg/gnt-
@@ -1758,7 +1758,7 @@ zdnet.fr###tickerRight
 zonebourse.com###Bottom
 zonebourse.com###Middle2_id
 zoomdici.fr##.innerArtAdd
-! Anti-adblock
+! Anti-Adblock
 gameblog.fr###gb_menu + div[style*="background-color: rgb("]
 gameblog.fr##.col300 > div[style*="background-color: rgb("]
 generation-nt.com##.pub300x250 + nav
@@ -1876,7 +1876,7 @@ scan-manga.com###pub_f3
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 @@||www3.smartadserver.com/crossdomain.xml
-! Anti Adblock
+! Anti-Adblock
 @@||0xp.be/js/adframe.js
 @@||anime-story.com/js/ads.js
 @@||awsclic.com/js/advertisement.js
@@ -1913,7 +1913,7 @@ flysurf.com#@#.ads_area
 gamexpo.fr#@#.advertisment
 vente-a-domicile.fr#@#.btn-ad
 latribune-online.com#@#.header_ads
-! Anti Adblock
+! Anti-Adblock
 lokan.fr#@##adright
 macplus.net#@#.ad_zone
 letouriste.fr#@#.single-ad
