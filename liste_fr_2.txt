@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: VcoBh3pY0gWrIgPrUkQi8w
+! Checksum: kWZ22izsuX1uqXvFAxVP2g
 ! Liste FR ~ Filtres francophones complementaires
 ! Title: Liste FR
 ! Mises a jour : https://code.google.com/p/listefr-adblock/source/list
@@ -106,6 +106,7 @@ _regiepub/
 ||euro-clic.com^$third-party
 ||eurowebbiz.com^$third-party
 ||every.com^$third-party
+||exampleads.net^
 ||f5biz.biz^$third-party
 ||femme-cougar.tv^$image,~image,popup,third-party
 ||fr.ard.yahoo.com^
@@ -423,7 +424,6 @@ _regiepub/
 ||chaleurterre.net/images/Banlacentr.jpg
 ||coco.fr/chat/bigban
 ||conception-site-web.info/modules/creation-site/images/banner.jpg
-||joowala.com/images/banners/
 ||courrierlaval.com/images/wallpaper/
 ||credit-az.net/pub/
 ||credits-on-line.info/pub/
@@ -437,6 +437,7 @@ _regiepub/
 ||directvelo.com/images/habillage/
 ||directvelo.com/images/livre/pub-
 ||directvelo.com/images/partenaires/
+||dmcdn.net/mc/skin_assets/Orange_noel_2012_hub/
 ||docvelo.com^*/kamvban.gif
 ||douniamusic.com/images/chat.jpg
 ||douniamusic.com/images/dzsoog.gif
@@ -553,13 +554,14 @@ _regiepub/
 ||jeuxvideo.com/sponso/
 ||jeuxvideo.com/sponso_videos/
 ||jeveuxdestrans.com^*/u.js
+||joowala.com/images/banners/
 ||journaldugeek.com/wp-content/themes/geek/habillages/$image
 ||journaldunet.com/*@*,position$script
 ||journaldunet.com^*/0_pub/
 ||juif.org/img/partners/
 ||kelbillet.com/ws_smads_integration.php
-||korben.info/logitech.jpg
 ||korben.info/livebox.jpg
+||korben.info/logitech.jpg
 ||korben.info^*/adv/
 ||korben.info^*/logoagarik2010officiel.png
 ||korben.info^*/textmaster.jpg
@@ -722,11 +724,11 @@ _regiepub/
 ||roulettechat.fr/js/adsacwm.js
 ||roulettechat.fr^*/facebook-api-pub/
 ||routard.com/img/homepart/budget_air/
+||rpgfrance.com^*_pubRPGF.
 ||rue89.com/files/skin/themes/visa/background.jpg
 ||ruedesjoueurs.com^*/campagnes/habillage/
 ||ruedesjoueurs.fr/images/banners/
 ||ruedesjoueurs.fr^*/campagnes/habillage/
-||rpgfrance.com^*_pubRPGF.
 ||sbx.pagesjaunes.fr^
 ||scan-mx.com^*/affpx.php
 ||scoopers.com/?o=$image,~image,popup
@@ -827,7 +829,6 @@ _regiepub/
 ||viacredit.net/pub/
 ||video-2-cul.com/javascript/functions.js
 ||videos-de-celebrites.com/pub/
-||dmcdn.net/mc/skin_assets/Orange_noel_2012_hub/
 ||vidule.com^*/u.js
 ||viedemerde.fr/modules/fr/pamelarose_2012/
 ||visio-x.fr/js/x1.js
@@ -869,14 +870,6 @@ _regiepub/
 !
 !------------------ Elements generiques -----------------!
 !
-###Block_Pub_Right
-###PubBas
-###PubFooter
-###PubHead
-###PubHeader
-###PubHorizontaleInner
-###PubHorizontaleMain
-###PubPave
 ###adsCarre
 ###adsHaut
 ###adspave
@@ -890,21 +883,22 @@ _regiepub/
 ###bg_pub
 ###bloc-pub
 ###bloc-pub-header
-###blocPublicitaire
 ###bloc_pub_carre
 ###block_pub
 ###block_pub_article
+###Block_Pub_Right
 ###block_regie_pub_bas
+###blocPublicitaire
 ###cadre_pub_bas
 ###carre-pub
 ###carre_pub
-###conteneurPub
 ###conteneur_pub
+###conteneurPub
 ###content_left_pub
 ###content_pub_carre
 ###contextuel-publicite-video
-###divPub
 ###div_pub_google
+###divPub
 ###encart_pub
 ###encart_pub_image
 ###entete_pub
@@ -918,7 +912,6 @@ _regiepub/
 ###head-ads
 ###head-pub
 ###head_pub
-~futura-sciences.com###header-pub
 ###header_bloc2_pub
 ###header_pub
 ###headerpub
@@ -931,8 +924,8 @@ _regiepub/
 ###module_publicite
 ###news-droite-publicite
 ###news_pub_centre
-###pavePub
 ###pave_pub
+###pavePub
 ###pavepub
 ###pub-ban
 ###pub-banner
@@ -949,24 +942,6 @@ _regiepub/
 ###pub-top
 ###pub-widget
 ###pub-widget2
-###pubBandeau
-###pubBanner
-###pubBottomRight
-###pubCarre
-###pubContainer
-~visitvar.fr###pubDroite
-###pubEncart
-###pubEncart1
-###pubEncart2
-###pubFrame
-###pubHaut
-###pubHeader
-###pubImg
-###pubMiddle
-###pubPartenaires
-###pubPave2
-###pubTop
-###pubVideo
 ###pub_ban
 ###pub_banner
 ###pub_bottom
@@ -974,7 +949,6 @@ _regiepub/
 ###pub_col_right
 ###pub_column
 ###pub_contener_right
-~di.com.pl###pub_content
 ###pub_footer
 ###pub_geante
 ###pub_haut
@@ -985,26 +959,49 @@ _regiepub/
 ###pub_pave
 ###pub_pave_bottom
 ###pub_pave_top
-~di.com.pl###pub_right
 ###pub_square
 ###pub_top
+###pubBandeau
+###pubBanner
+###PubBas
 ###pubbas
+###pubBottomRight
+###pubCarre
 ###pubcoldroite
+###pubContainer
 ###pubdirecte
+###pubEncart
+###pubEncart1
+###pubEncart2
+###PubFooter
 ###pubfooter
+###pubFrame
 ###pubgoogle
+###pubHaut
+###PubHead
+###PubHeader
+###pubHeader
 ###pubheader
-~ma-meilleure-amie.com###publicite
+###PubHorizontaleInner
+###PubHorizontaleMain
+###pubImg
 ###publicite-bas
 ###publicite-principale
 ###publicite_banniere
+###publicite_banniere_haut
 ###publicite_header
 ###publicite_right
 ###publicite_top
 ###publicite_txt
+###pubMiddle
+###pubPartenaires
+###PubPave
+###pubPave2
 ###pubpreroll
 ###pubright
+###pubTop
 ###pubtop
+###pubVideo
 ###rightpubbox
 ###roundPub
 ###slidepub
@@ -1022,11 +1019,11 @@ _regiepub/
 ##._meltypub
 ##.adspave
 ##.annonces_google
-##.blocPub
 ##.bloc_pub_left
 ##.bloc_rightcol_pub
 ##.block-pubimage
 ##.block_pub
+##.blocPub
 ##.blocpub
 ##.cadre-pub-google
 ##.carre_pub
@@ -1041,8 +1038,8 @@ _regiepub/
 ##.footerpubright
 ##.head-pub
 ##.header-pub
-##.headerPub
 ##.header_pub
+##.headerPub
 ##.home_pub
 ##.iframe_pub
 ##.leftmenupub
@@ -1061,20 +1058,6 @@ _regiepub/
 ##.pub-megaban
 ##.pub-megabanner
 ##.pub-pave
-##.pubBottomRight
-##.pubBox
-##.pubContainer
-##.pubContent
-##.pubFlash
-##.pubHeader
-##.pubIframe
-##.pubLarge
-##.pubLeft
-##.pubRight
-##.pubRight1
-##.pubTitle
-##.pubTop
-##.pubTopContainer
 ##.pub_banner
 ##.pub_carre
 ##.pub_droite
@@ -1085,24 +1068,35 @@ _regiepub/
 ##.pub_middle
 ##.pub_mobile
 ##.pub_outer
-~sport24.com##.pub_pave
 ##.pub_skyscraper
 ##.pub_text
-###publicite_banniere_haut
 ##.pub_top
 ##.pub_topright
 ##.pub_vertical
 ##.pubaccueildroite1
 ##.pubaccueilgauche1
 ##.pubadsense
+##.pubBottomRight
+##.pubBox
+##.pubContainer
+##.pubContent
+##.pubFlash
+##.pubHeader
+##.pubIframe
 ##.pubimage
 ##.pubitem
+##.pubLarge
 ##.publarge
-~love-hinax.com##.publicite
+##.pubLeft
 ##.publicite-bas
 ##.publicite1
 ##.publicite_3
 ##.publicity
+##.pubRight
+##.pubRight1
+##.pubTitle
+##.pubTop
+##.pubTopContainer
 ##.pubwrapper
 ##.sqrpub
 ##.srcPub
@@ -1115,8 +1109,14 @@ _regiepub/
 ##.wrap-pub
 ##.zonepub
 ##a[href^="http://www.crazyloader.com"]
+~di.com.pl###pub_content
+~di.com.pl###pub_right
+~futura-sciences.com###header-pub
+~love-hinax.com##.publicite
+~ma-meilleure-amie.com###publicite
+~sport24.com##.pub_pave
+~visitvar.fr###pubDroite
 ! Dimensions
-###Pub728x90
 ###blocPub300
 ###pub-200x197
 ###pub-300x250
@@ -1128,6 +1128,7 @@ _regiepub/
 ###pub300x250
 ###pub468x60_gauche
 ###pub728
+###Pub728x90
 ###pub728x90
 ###pub_300_250
 ###pub_300x250
@@ -1143,7 +1144,6 @@ _regiepub/
 ##.pub-300x250
 ##.pub-728
 ##.pub160x600
-~pharmasite.fr##.pub300
 ##.pub300250
 ##.pub300_contenu
 ##.pub300x250
@@ -1158,6 +1158,7 @@ _regiepub/
 ##.pub_468x60
 ##.pub_468x60_bas
 ##.pub_468x60_haut
+~pharmasite.fr##.pub300
 !
 !----------------------- Elements -----------------------!
 !
@@ -1247,9 +1248,9 @@ canalplus.fr,d8.tv##.banner
 canalturf.com###content > div[style="width:100%; z-index: 100; margin-bottom:10px; text-align:center "]:first-child
 cbanque.com##.habillage
 cdiscount.com###downMall
-cdiscount.com##.SmartAdZoneList
 cdiscount.com##.downinbackMaullContainer
 cdiscount.com##.ptnlnk_table
+cdiscount.com##.SmartAdZoneList
 cdmail.fr###banner
 centerblog.net###gauche > iframe[width="300"][height="250"]
 centerblog.net###pub
@@ -1355,8 +1356,8 @@ frandroid.com##.widget.widget_text
 fredzone.org##.entry-pub
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 fullanimes.free.fr##[href^="http://www.allopass.com/check/red.php"] > img
-gameblog.fr###gbPub728bas
 gameblog.fr###gba300
+gameblog.fr###gbPub728bas
 gameblog.fr###overlayFnac
 gameblog.fr##.noPremium
 gameblog.fr##div[style=" background-color: #c0c0c0; padding: 7px; height: 260px; overflow: hidden;"]
@@ -1431,10 +1432,10 @@ leboncoin.fr##div[class="newPartnerbox"]
 leboncoin.fr##div[style="width:189px;float:left;margin-left:8px;"]
 lecalendrier.fr###bottom-ad-leaderboard
 ledevoir.com###A1
-lefigaro.fr###Fe_Gigaban
-lefigaro.fr###Fe_pave_top
 lefigaro.fr###beead_flash
 lefigaro.fr###boxshop3
+lefigaro.fr###Fe_Gigaban
+lefigaro.fr###Fe_pave_top
 lefigaro.fr###pave_article
 leguide-shopping.tele-2-semaines.fr##.body
 lemonde.fr##.annnonces_partenaires
@@ -1869,13 +1870,13 @@ scan-manga.com###pub_f3
 @@||awsclic.com/js/advertisement.js
 @@||bizerta-soft.com/clientscript/advertisement.js
 @@||claymore.fr/advertisement.js
-@@||leetgamerz.net/js/advertisement.js
 @@||coursdeprofs.fr/adframe.js
 @@||debrideurstreaming.com^*/adsense.js
 @@||download.gameblog.fr/images/promo/ban_premium_300.jpg
 @@||gratuitcul.com/ad.php?ad=$script
 @@||hamachifrance.com/advertisement-adblock.js
 @@||instantmanga.com/js/advertisement.js
+@@||leetgamerz.net/js/advertisement.js
 @@||meteomedia.com/common/js/master/adframe.js
 @@||openrunner.com/js/advertisement.js
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=hugolescargot.com|phonandroid.com
