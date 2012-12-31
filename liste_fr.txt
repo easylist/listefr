@@ -194,9 +194,9 @@ _regiepub/
 ||supersmsoffers.com^$third-party
 ||tag.regieci.com^$third-party
 ||tcadops.ca^$third-party
-||teads.fr/js/inread^$third-party
-||teads.fr/js/inread-$third-party
 ||teads.fr/js/footer.$third-party
+||teads.fr/js/inread-$third-party
+||teads.fr/js/inread^$third-party
 ||the-adult-company.com^$image,~image,popup,third-party
 ||tool.acces-vod.com^$third-party
 ||tools.gigacu.com^
@@ -361,6 +361,7 @@ _regiepub/
 !
 ||01net.com/front_office/images/regie/
 ||100pour100sexe.com/pop.js
+||11footballclub.com/equipe/indexhomepage.php?$domain=lequipe.fr
 ||1maxdegay.com/images/rotbas/
 ||1maxdegay.com/images/rotcol/
 ||20minutes.fr/img/auto-promos/
@@ -431,7 +432,6 @@ _regiepub/
 ||centerblog.net/cadre-*?zoneid=$subdocument
 ||cession-commerce.com/images/bandeaux/
 ||cession-commerce.com/images/pub_
-||11footballclub.com/equipe/indexhomepage.php?$domain=lequipe.fr
 ||chaleurterre.net/images/Banlacentr.jpg
 ||coco.fr/chat/bigban
 ||conception-site-web.info/modules/creation-site/images/banner.jpg
@@ -958,9 +958,6 @@ _regiepub/
 ###pub-center
 ###pub-droite
 ###pub-footer
-##.pub_info
-##.logo_pub
-##.pub_plus
 ###pub-haut
 ###pub-header
 ###pub-left
@@ -976,7 +973,6 @@ _regiepub/
 ###pubBanner
 ###pubBottomRight
 ###pubCarre
-##.pub_square
 ###pubContainer
 ~visitvar.fr###pubDroite
 ###pubEncart
@@ -989,7 +985,6 @@ _regiepub/
 ###pubMiddle
 ###pubPartenaires
 ###pubPave2
-##.free_web_hosting_banners
 ###pubTop
 ###pubVideo
 ###pub_ban
@@ -1070,6 +1065,7 @@ _regiepub/
 ##.footer-pub
 ##.footerpubleft
 ##.footerpubright
+##.free_web_hosting_banners
 ##.head-pub
 ##.header-pub
 ##.headerPub
@@ -1078,6 +1074,7 @@ _regiepub/
 ##.iframe_pub
 ##.leftmenupub
 ##.little_pub
+##.logo_pub
 ##.mailPubHeader
 ##.megapub
 ##.pave-pub
@@ -1112,13 +1109,16 @@ _regiepub/
 ##.pub_droite
 ##.pub_forum
 ##.pub_header_banner
+##.pub_info
 ##.pub_leaderboard
 ##.pub_left
 ##.pub_middle
 ##.pub_mobile
 ##.pub_outer
 ~sport24.com##.pub_pave
+##.pub_plus
 ##.pub_skyscraper
+##.pub_square
 ##.pub_text
 ##.pub_top
 ##.pub_topright
@@ -1225,7 +1225,6 @@ affaires-dz.com##.riquadro_1
 affaires-dz.com##.riquadro_3
 agoravox.fr##.pub
 agoravox.tv##.pub
-choisirsonforfait.com###sidPub
 akelys.com##.cellulePUB
 algeriatenders.com##tbody > tr[style="height:92px;"]
 algerie-focus.com###sponsor-axa
@@ -1252,7 +1251,6 @@ aujourdhui-en-france.fr,leparisien.fr##.venteprivee
 auto-utilitaire.com###header_3
 auto-utilitaire.com##.banner_sp_art
 auto-utilitaire.com##.banner_sp_cat
-lequipe.fr###footer_boutique
 auto-utilitaire.com##div[style="position:relative;width:728px;height:90px;"]
 autoreflex.com###arx_home_partenaires
 bakchich.info##.scpe-pub
@@ -1289,6 +1287,7 @@ cdmail.fr###banner
 centerblog.net###gauche > iframe[width="300"][height="250"]
 centerblog.net###pub
 centerblog.net##.pub
+choisirsonforfait.com###sidPub
 chronofoot.com##.add300
 chuck-streaming.fr,hawaii-streaming.com,smash-streaming.com,the-big-bang-streaming.com,trone-de-fer-streaming.com###cgu_pub
 chuck-streaming.fr,hawaii-streaming.com,smash-streaming.com,the-big-bang-streaming.com,trone-de-fer-streaming.com##.publi_all
@@ -1319,8 +1318,6 @@ competition.dz##.header-b1-banner
 courrier-picard.fr##.megaban-top
 courrierlaval.com###add_bottom
 courrierlaval.com###add_top
-slate.fr###smart14321pub
-slate.fr###smart14321
 covoiturage.fr###comuto_insidepage_ads
 covoiturage.fr##.ad
 dailymotion.com##.dm_widget_advert_iabrighttitle
@@ -1366,8 +1363,6 @@ extremepc.fr###pub2an
 faclic.com##.lbx_content
 faclic.com##.lbx_overlay
 fan-de-cinema.com##.megasquare
-grandecran.fr###les_pubs_locales
-grandecran.fr###ban_big
 fan-de-cinema.com##.topmargin
 fansub-resistance.net##[id^="pub_468x60_"]
 fansub-resistance.net##[id^="pub_728x90_"]
@@ -1408,9 +1403,12 @@ golem13.fr##.banner-halfpage
 google.fr###rhsline
 google.fr###tadsb
 google.fr##table[style="border: 1px solid #369"]
+grandecran.fr###ban_big
+grandecran.fr###les_pubs_locales
 gratuit-xxx.com##.footerboost
 gratuit-xxx.com##div[class^="boost_g_"]
 gratuitcul.com##div[id^="affidate_form_"]
+groupon.fr##[style="width: 445px; margin: 8px auto; text-align: center; background-color: #fff; border: 1px solid #e4e4e4;"]
 gulli.fr##.banner
 h-suki.com##div[style="width:1020px;\a margin-left: auto; text-align:center;\a margin-right: auto; height: 100px;"]
 hentai-3x.com##.boost
@@ -1492,6 +1490,7 @@ lepetiteconomiste.com##.zoom
 lepoint.fr###seloger_annonces_immo
 lepoint.fr###seloger_recherche_immo
 lepoint.fr##.pub
+lequipe.fr###footer_boutique
 lesaffaires.com###banner
 lesbeurettes.com###trade
 lesbienne-gratis.com###trade
@@ -1575,7 +1574,6 @@ mistergoodmovies.net###addspace
 mobilealgerie.com###header_3_banner
 mobilealgerie.com##.banner_sp
 mobilealgerie.com##.banner_sp_art
-groupon.fr##[style="width: 445px; margin: 8px auto; text-align: center; background-color: #fff; border: 1px solid #e4e4e4;"]
 mobilealgerie.com##.banner_sp_cat
 mobileguide.be##.mobistar-banner
 mobileguide.be##.mobistar-banner-small
@@ -1690,6 +1688,8 @@ silicon.fr###slider-partnerzone
 sky-animes.com##.fixe
 slappyto.net##.Adsense
 slate.fr###smart14320
+slate.fr###smart14321
+slate.fr###smart14321pub
 softonic.fr##.topbanner
 solutions-logiciels.com###pub
 solutions-logiciels.com##div[style^="border:1px solid black; width: 300px; height: 250px"]
@@ -1924,13 +1924,13 @@ scan-manga.com###pub_f3
 !----------------------- Exceptions d'elements -----------------------!
 fichier.net#@##contentAd
 ratus13.com#@#.ad-block
-jeuxjeuxjeux.fr#@#.ad-left
 vente-a-domicile.fr#@#.ad-left
+jeuxjeuxjeux.fr#@#.ad-left
 vente-a-domicile.fr#@#.ad-right
-astuces-trucs.com#@#.adsense_sidebar
 pointvente.fr#@#.ad_line
 scooter-infos.com#@#.adlist
 flysurf.com#@#.ads_area
+astuces-trucs.com#@#.adsense_sidebar
 gamexpo.fr#@#.advertisment
 vente-a-domicile.fr#@#.btn-ad
 latribune-online.com#@#.header_ads
