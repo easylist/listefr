@@ -56,7 +56,6 @@ _regiepub/
 ||adnext.fr^$third-party
 ||adqia.com^$third-party
 ||ads.eorezo.com^
-||pub.jeuxactu.com^
 ||adserveradulte.com^$third-party
 ||adserverpub.com^$image,~image,popup
 ||adstronic.net^$third-party
@@ -163,6 +162,7 @@ _regiepub/
 ||pub-france.com^$third-party
 ||pub.babygo.fr^
 ||pub.gdb-host.com^$third-party
+||pub.jeuxactu.com^
 ||pub.lesinrocks.com^
 ||pub.media-clic.com^$third-party
 ||pub.nyu-nyu.com^
@@ -434,6 +434,7 @@ _regiepub/
 ||cession-commerce.com/images/bandeaux/
 ||cession-commerce.com/images/pub_
 ||chaleurterre.net/images/Banlacentr.jpg
+||chronopost.fr^*/public/visuels/partenaires/
 ||coco.fr/chat/bigban
 ||conception-site-web.info/modules/creation-site/images/banner.jpg
 ||courrierlaval.com/images/wallpaper/
@@ -562,6 +563,8 @@ _regiepub/
 ||jeu.net/pub/
 ||jeune-homme-gay.com^*/u.js
 ||jeunebaisemature.com^*/u.js
+||jeuxactu.com/js/ayl.js
+||jeuxactu.com/theme/*.js?home=
 ||jeuxvideo.com/ope/
 ||jeuxvideo.com/sponso/
 ||jeuxvideo.com/sponso_videos/
@@ -618,8 +621,6 @@ _regiepub/
 ||letoutx.com/pubs/
 ||letraitdunion.com/images/headset/
 ||letraitdunion.com/images/wallpaper/
-||jeuxactu.com/js/ayl.js
-||jeuxactu.com/theme/*.js?home=
 ||lettres-modeles.fr/include/_iframe300x200.php
 ||lettres-modeles.fr/include/_iframe300x600.php
 ||lettres-modeles.fr/include/_iframe728x90.php
@@ -698,6 +699,7 @@ _regiepub/
 ||ouedkniss.com/images/store-logo/
 ||ouedkniss.com/lapib/
 ||ouedkniss.com/pubs/
+||ouedkniss.com/swf/Interstitiel.swf
 ||ouifm.fr^*/images/partners/
 ||oujdacity.net/kelkoo*.html
 ||overlays.fr/js/launcher.js
@@ -799,14 +801,13 @@ _regiepub/
 ||sylvainpellier.fr/bandeau/
 ||technikart.com/images/banners/
 ||telechargementgratuits.com/hexa.png
+||tetesaclaques.tv/public/images/promo_mini_300x127_canalplus_FR.jpg
 ||textograto.com/iframe1.php
 ||theadultcompany.biz/*/ff_siteunder/$image,~image,popup
 ||ti.bank.free.fr/images/jarrety
 ||tool.acces-vod.com/infopop/
-||tetesaclaques.tv/public/images/promo_mini_300x127_canalplus_FR.jpg
 ||tool.acces-vod.com/popdhtml/
 ||topanalyse.com/pub/
-||chronopost.fr^*/public/visuels/partenaires/
 ||topjetm.net^*/img/pub.gif
 ||topliste-fr.com/filmsdivx.gif
 ||topwarez.fr/promo/
@@ -875,7 +876,6 @@ _regiepub/
 ||zapiks.fr^*=adView&
 ||zataz.com/cdn-cgi/pe/bag?
 ||zataz.com/images/images_news/
-||ouedkniss.com/swf/Interstitiel.swf
 ||zone911pub.com^
 ||zonebourse.com/content_o_a_s.php?
 ||zoomdici.fr/media/pub/
@@ -1318,13 +1318,14 @@ commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##.
 commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##div[style^="float:right;diplay:block;height:100px;width:100%;"]
 competition.dz###right_banner
 competition.dz##.header-b1-banner
+copine-coquine.com##div[style^="width:300px;height:250px"]
 courrier-picard.fr##.megaban-top
-copine-coquine.com##DIV[style^="width:300px;height:250px"]
 courrierlaval.com###add_bottom
 courrierlaval.com###add_top
 covoiturage.fr###comuto_insidepage_ads
 covoiturage.fr##.ad
 dailymotion.com##.dm_widget_advert_iabrighttitle
+danslescoulisses.com###banner
 days-media.fr##.boxed[style^="width:300px; height:250px"]
 decitre.fr##.advertise
 deezer.com###bottom
@@ -1368,7 +1369,6 @@ faclic.com##.lbx_content
 faclic.com##.lbx_overlay
 fan-de-cinema.com##.megasquare
 fan-de-cinema.com##.topmargin
-danslescoulisses.com###banner
 fansub-resistance.net##[id^="pub_468x60_"]
 fansub-resistance.net##[id^="pub_728x90_"]
 femmemag.re###block_regie_pub_bas_article
@@ -1415,8 +1415,8 @@ gratuit-xxx.com##div[class^="boost_g_"]
 gratuitcul.com##div[id^="affidate_form_"]
 groupon.fr##[style="width: 445px; margin: 8px auto; text-align: center; background-color: #fff; border: 1px solid #e4e4e4;"]
 gulli.fr##.banner
-helran.fr###text-7.widget.widget_text
 h-suki.com##div[style="width:1020px;\a margin-left: auto; text-align:center;\a margin-right: auto; height: 100px;"]
+helran.fr###text-7.widget.widget_text
 hentai-3x.com##.boost
 hentai-3x.com##.pub
 herault-tribune.com##[id^=content_right_pub]
@@ -1432,6 +1432,7 @@ itespresso.fr###slider-partnerzone
 jamaisjouis.com,vidule.com##.catcher
 jeu.net##div[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
 jeuxactu.com###megaban1
+jeuxactu.com##[style="height:250px;width:300px;"]
 jeuxonline.info###pub
 jeuxvideo.com###banner_jv
 jeuxvideo.com###mc_sponso
@@ -1496,7 +1497,6 @@ lepetiteconomiste.com##.zoom
 lepoint.fr###seloger_annonces_immo
 lepoint.fr###seloger_recherche_immo
 lepoint.fr##.pub
-jeuxactu.com##[style="height:250px;width:300px;"]
 lequipe.fr###footer_boutique
 lesaffaires.com###banner
 lesbeurettes.com###trade
@@ -1797,6 +1797,7 @@ scan-manga.com###pub_f3
 !
 !----------------------- Exceptions -----------------------!
 !
+@@||247realmedia.com/0/Player/Player_FR_Home/Box-2-FR.jpg$domain=eurosportplayer.fr
 @@||ad.zanox.com/ppc/$image,~image,popup,domain=bons-plans-astuces.com
 @@||ad2play.ftv-publicite.fr/?sitepage=www.psg.fr$subdocument,domain=psg.fr
 @@||adgear.com^*/adgear.js$domain=tetesaclaques.tv|tou.tv
@@ -1844,8 +1845,6 @@ scan-manga.com###pub_f3
 @@||google.com/uds/$script,domain=rfm.fr|virginradio.fr
 @@||images.newmedia.lu^*/adtech_video/
 @@||iphone4.fr/bannieres/header_icons.png
-@@||openad.tf1.fr/RealMedia/ads/adstream_mjx.ads/www.eurosportplayer.fr/home/$script,domain=eurosportplayer.fr
-@@||247realmedia.com/0/Player/Player_FR_Home/Box-2-FR.jpg$domain=eurosportplayer.fr
 @@||kapaza.be/*/ad_view_
 @@||koifaire.com/upload/*/300x250-
 @@||lacanausurfinfo.com/admin/images/pubs/pub_18.png
@@ -1869,6 +1868,7 @@ scan-manga.com###pub_f3
 @@||nouvelobs.com/*@top
 @@||ohm-immobilier.fr/images/ads/
 @@||openad.tf1.fr/realmedia/ads/adstream_mjx.ads/*/video/$script
+@@||openad.tf1.fr/RealMedia/ads/adstream_mjx.ads/www.eurosportplayer.fr/home/$script,domain=eurosportplayer.fr
 @@||ophtalmo.tv/video/ads/$object-subrequest
 @@||ouifm.adswizz.com//www/components/
 @@||ouifm.adswizz.com/www/components/
@@ -1933,8 +1933,8 @@ scan-manga.com###pub_f3
 !----------------------- Exceptions d'elements -----------------------!
 fichier.net#@##contentAd
 ratus13.com#@#.ad-block
-vente-a-domicile.fr#@#.ad-left
 jeuxjeuxjeux.fr#@#.ad-left
+vente-a-domicile.fr#@#.ad-left
 vente-a-domicile.fr#@#.ad-right
 pointvente.fr#@#.ad_line
 scooter-infos.com#@#.adlist
