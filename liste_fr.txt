@@ -1850,8 +1850,7 @@ scan-manga.com###pub_f3
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
 @@||everlong.org/style/banner.php
 @@||fatherandsons.fr^*/opecom/affiliation/
-@@||fr-advideum.videoplaza.tv/proxy/distributor/$object-subrequest,domain=rfi.fr
-@@||fr-advideum.videoplaza.tv/proxy/distributor?shares=$object-subrequest,domain=aufeminin.com|lefigaro.fr
+@@||fr-advideum.videoplaza.tv/proxy/distributor^$object-subrequest,domain=rfi.fr|aufeminin.com|lefigaro.fr|generation-nt.com
 @@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
