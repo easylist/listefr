@@ -882,7 +882,8 @@ _regiepub/
 ! Anti-Adblock
 ||generation-nt.com*msg-$image
 ||generation-nt.com*msg.$image
-||generation-nt.com^*/bg/gnt-
+||generation-nt.com^*/bg/
+||generation-nt.com^*pamplemousse
 !
 !------------------ Elements generiques -----------------!
 !
@@ -1791,8 +1792,13 @@ zoomdici.fr##.innerArtAdd
 ! Anti-Adblock
 gameblog.fr###gb_menu + div[style*="background-color: rgb("]
 gameblog.fr##.col300 > div[style*="background-color: rgb("]
-generation-nt.com##.pub300x250 + nav
 generation-nt.com##[class*="gnt-msg"]
+generation-nt.com##.pub300x250 + *:not([class="sidecol_bloc"])
+generation-nt.com##A[href*="/premium"]
+generation-nt.com##[class*="pamplemousse-"]
+generation-nt.com##.pamplemousse
+generation-nt.com##.textzone > P + P + DIV + *
+generation-nt.com##.toolbar > DIV + DIV + *
 generation-nt.com##[href="/premium.html"]
 generation-nt.com##[href="/premium.html"] > *
 generation-nt.com##[style*="position:relative"][style*="width:"][style*="height:"]
@@ -1916,6 +1922,10 @@ scan-manga.com###pub_f3
 @@||claymore.fr/advertisement.js
 @@||coursdeprofs.fr/adframe.js
 @@||debrideurstreaming.com^*/adsense.js
+@@||static.generation-nt.com/img/bg/comm.png
+@@||static.generation-nt.com/img/bg/encemoment-fleche.png
+@@||static.generation-nt.com/img/bg/facebook_small.png
+@@||static.generation-nt.com/img/bg/play.png
 @@||download.gameblog.fr/images/promo/ban_premium_300.jpg
 @@||gratuitcul.com/ad.php?ad=$script
 @@||hamachifrance.com/advertisement-adblock.js
