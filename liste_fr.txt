@@ -522,6 +522,7 @@ _regiepub/
 ||gamekult.com/i/partenaires/
 ||gamekult.com/images/pubs/
 ||generation-nt.com/iframe/ovh.php
+||generation-nt.com/img/habillages/
 ||generation-nt.com^*/pubs/
 ||gigacu.com/jquery.js
 ||gigatopsexe.com/550x100.gif
@@ -821,6 +822,11 @@ _regiepub/
 ||toutporno.com/boost_niche/
 ||toutporno.com^*/pub_col.js
 ||trefle.com/js/modules/su.*.js
+||tribunejuive.info/wp-content/plugins/smart-pop-up/
+||tribunejuive.info/wp-content/uploads/2012/11/PCC_TribuneJuive.swf
+||tribunejuive.info/wp-content/uploads/2012/12/wizo.jpg
+||tribunejuive.info^*/module_pubs_
+||tribunejuive.info^*/PubTribuneJuive.
 ||trimag.fr^*/tx_macinabanners/
 ||troc-velo.com/images/pub/
 ||trocdestrains.com/images/vista-print_600x90.gif
@@ -838,11 +844,6 @@ _regiepub/
 ||vador.com/popdhtml_msg/
 ||vador.com/show_popdhtml/
 ||vador.com/showm_notification/
-||tribunejuive.info^*/module_pubs_
-||tribunejuive.info^*/PubTribuneJuive.
-||tribunejuive.info/wp-content/uploads/2012/12/wizo.jpg
-||tribunejuive.info/wp-content/uploads/2012/11/PCC_TribuneJuive.swf
-||tribunejuive.info/wp-content/plugins/smart-pop-up/
 ||vador.com/templates/notification/
 ||vador.com^*/popdhtml/
 ||vador.com^*/tc_pp_dhtml.js?
@@ -1798,16 +1799,15 @@ zoomdici.fr##.innerArtAdd
 ! Anti-Adblock
 gameblog.fr###gb_menu + div[style*="background-color: rgb("]
 gameblog.fr##.col300 > div[style*="background-color: rgb("]
-generation-nt.com##[class*="gnt-msg"]
-generation-nt.com##.pub300x250 + *:not([class="sidecol_bloc"])
-generation-nt.com##A[href*="/premium"]
-generation-nt.com##[class*="pamplemousse-"]
 generation-nt.com##.pamplemousse
-generation-nt.com##.textzone > P + P + DIV + *
-generation-nt.com##.toolbar > DIV + DIV + *
-generation-nt.com##[href="/premium.html"]
-generation-nt.com##[href="/premium.html"] > *
+generation-nt.com##.pub300x250 + *:not([class="sidecol_bloc"])
+generation-nt.com##.textzone > p + p + div + *
+generation-nt.com##.toolbar > div + div + *
+generation-nt.com##[class*="gnt-msg"]
+generation-nt.com##[class*="pamplemousse-"]
+generation-nt.com##[href*="/premium"] > *
 generation-nt.com##[style*="position:relative"][style*="width:"][style*="height:"]
+generation-nt.com##a[href*="/premium"]
 scan-manga.com###pub_f3
 !
 !----------------------- Exceptions -----------------------!
@@ -1928,10 +1928,6 @@ scan-manga.com###pub_f3
 @@||claymore.fr/advertisement.js
 @@||coursdeprofs.fr/adframe.js
 @@||debrideurstreaming.com^*/adsense.js
-@@||static.generation-nt.com/img/bg/comm.png
-@@||static.generation-nt.com/img/bg/encemoment-fleche.png
-@@||static.generation-nt.com/img/bg/facebook_small.png
-@@||static.generation-nt.com/img/bg/play.png
 @@||download.gameblog.fr/images/promo/ban_premium_300.jpg
 @@||gratuitcul.com/ad.php?ad=$script
 @@||hamachifrance.com/advertisement-adblock.js
@@ -1947,13 +1943,17 @@ scan-manga.com###pub_f3
 @@||sanwilltv.net/advertisement.js
 @@||scan-manga.com/js/show_ads.js
 @@||sexytout.com/ad.php?$script
+@@||static.generation-nt.com/img/bg/comm.png
+@@||static.generation-nt.com/img/bg/encemoment-fleche.png
+@@||static.generation-nt.com/img/bg/facebook_small.png
+@@||static.generation-nt.com/img/bg/play.png
 @@||videoxadulte.com/js/adframe.js
 @@||wakanim.tv/content/js/ads.js?
 !----------------------- Exceptions d'elements -----------------------!
 fichier.net#@##contentAd
 ratus13.com#@#.ad-block
-jeuxjeuxjeux.fr#@#.ad-left
 vente-a-domicile.fr#@#.ad-left
+jeuxjeuxjeux.fr#@#.ad-left
 vente-a-domicile.fr#@#.ad-right
 pointvente.fr#@#.ad_line
 scooter-infos.com#@#.adlist
