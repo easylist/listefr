@@ -318,10 +318,12 @@ _regiepub/
 ||oxiads.fr/www/images/
 ||p0rno.com/banners/
 ||partner.leguide.com^$third-party
+||aliencable.com/images/habillagealien.jpg
 ||petite-garce.com/ban/$third-party
 ||planete-dangereuse.com/ban/$third-party
 ||pointscommuns.com/images/bannieres/$third-party
 ||projetsexe.com/bannieres/
+||vshop.fr/js/freak.js$third-party
 ||promo.eurolive.com^$third-party
 ||pulsions-genereuses.com/ban/$third-party
 ||quellavelinge.com^$image,~image,popup,domain=trefle.com
@@ -1285,6 +1287,8 @@ boursier.com###banner
 boursier.com###footer-partenaires
 braindamaged.fr##a[href^="index.php?adclick="]
 businessnews.com.tn###megaban-1000
+hdfever.fr##.aliencable-link
+hdfever.fr##DIV[style="width: 728px; height: 90px; margin: auto; background-color: grey; box-shadow: 5px 5px 15px black; border: 4px solid grey; border-radius: 4px;"]
 buzzdays.me##[style="height: 250px; left: 420px; position: absolute; top:520px; width: 300px;  background-color: #fff;"]
 canalplus.fr##.video-preroll
 canalplus.fr##.visuel_preroll
