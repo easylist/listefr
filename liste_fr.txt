@@ -227,6 +227,7 @@ _regiepub/
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
 ||agayn.com/aff_pub_$third-party
 ||agoda.net/banners/$third-party
+||aliencable.com/images/habillagealien.jpg
 ||allo-heberge.com/interface/bannieres/$domain=megavisites.com
 ||allopass.com^*/pub/$domain=fullanimes.free.fr
 ||amatrices-passion.com/ban/$third-party
@@ -316,12 +317,10 @@ _regiepub/
 ||oxiads.fr/www/images/
 ||p0rno.com/banners/
 ||partner.leguide.com^$third-party
-||aliencable.com/images/habillagealien.jpg
 ||petite-garce.com/ban/$third-party
 ||planete-dangereuse.com/ban/$third-party
 ||pointscommuns.com/images/bannieres/$third-party
 ||projetsexe.com/bannieres/
-||vshop.fr/js/freak.js$third-party
 ||promo.eurolive.com^$third-party
 ||pulsions-genereuses.com/ban/$third-party
 ||quellavelinge.com^$image,~image,popup,domain=trefle.com
@@ -352,6 +351,7 @@ _regiepub/
 ||uncadeau.com/partner_widgets/$third-party
 ||videoplaza.tv/creatives/assets/$object-subrequest,domain=rfi.fr
 ||videos-passion.com/ban/$third-party
+||vshop.fr/js/freak.js$third-party
 ||wallmanga.com/img/anim_banniere_
 ||widget.achetezfacile.com/widget.js$third-party
 ||widgetvillage.com/ministore/$third-party
@@ -361,6 +361,7 @@ _regiepub/
 !
 !----------------------- Sites specifiques -----------------------!
 !
+/pub.php?$domain=206s16.fr|bikeszeboucs.com|clicforum.com|clicforum.fr|cliors-concept.com|discuforum.info|discussion4you.com|ejsquad.fr|fansforum.info|forum-box.com|forumsardou.net|hack-games-crack.com|horizon-moto34.fr|hotforum4u.com|leforum.cc|leforum.eu|leforum.tv|myforumlive.com|partition-universe.com|passion-quad-evasion.com|soforums.com|stylexm.fr|teamseat-idf.fr|trial-passion.com|vanvan-club.fr|vraiforum.com|west-riders.fr|xoo.it|xooit.be|xooit.cc|xooit.com|xooit.fr|xooit.org|yamahaxj6.fr|ze-forum.com
 ||01net.com/front_office/images/regie/
 ||100pour100sexe.com/pop.js
 ||11footballclub.com/equipe/indexhomepage.php?$domain=lequipe.fr
@@ -599,7 +600,6 @@ _regiepub/
 ||lecourrier-dalgerie.com/images/pub.gif
 ||ledemondujeu.com/pubcoin
 ||lefigaro.fr^*/livingsocial/
-||leforum.eu/pub.php?
 ||legalis.net^*/swf/pub_
 ||lemaghrebdz.com/pub/
 ||lemoteurdusexe.com/img/promo/
@@ -835,6 +835,7 @@ _regiepub/
 ||tsa-algerie.com/images/pubs/
 ||tube-teen.fr/tools/
 ||tube-x-matures.com/catcher/
+||tubeanal.fr^*/images/banniere_
 ||tubehentaigratuit.com/promo/
 ||tubehentaigratuit.com/under.js
 ||twodollarclick.com/earnbanner.php?
@@ -851,7 +852,6 @@ _regiepub/
 ||vazigo.fr/referencement/pub_frame.php
 ||viacredit.net/pub/
 ||video-2-cul.com/javascript/functions.js
-||tubeanal.fr^*/images/banniere_
 ||videos-de-celebrites.com/pub/
 ||vidule.com^*/u.js
 ||viedemerde.fr/modules/fr/pamelarose_2012/
@@ -871,8 +871,6 @@ _regiepub/
 ||winds-up.com/images/pub/
 ||xboxgen.fr/pub/
 ||xlporn.fr/getpub?
-||xooit.be/pub.php?
-||xooit.fr/pub.php?
 ||xstarsnews.com/admin/gestion_bann/banniere.php
 ||xstarsnews.com/banner-pub/
 ||xvid-fr.com/popupdhtml.js
@@ -1213,6 +1211,7 @@ _regiepub/
 01net.com###ic-ad-movie
 01net.com###v7_partenaire
 1-porno.org##.pub
+206s16.fr,bikeszeboucs.com,clicforum.com,clicforum.fr,cliors-concept.com,discuforum.info,discussion4you.com,ejsquad.fr,fansforum.info,forum-box.com,forumsardou.net,hack-games-crack.com,horizon-moto34.fr,hotforum4u.com,leforum.cc,leforum.eu,leforum.tv,myforumlive.com,partition-universe.com,passion-quad-evasion.com,soforums.com,stylexm.fr,teamseat-idf.fr,trial-passion.com,vanvan-club.fr,vraiforum.com,west-riders.fr,xoo.it,xooit.be,xooit.cc,xooit.com,xooit.fr,xooit.org,yamahaxj6.fr,ze-forum.com##div[style="margin: 0; padding: 0; visibilite: visible; display: block; height: 109px; width: 100%; background: url(/images/topbg.gif)"]
 20min.ch##.box.left.x44
 20minutes.fr###mn-autopromo
 20minutes.fr##.half-page-bons-plans
@@ -1253,7 +1252,12 @@ amateur2sexe.fr##img[width="300"][height="250"][src^="http://static.amateur2sexe
 android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
 androidgen.fr,dsgen.fr,iphonegen.fr,ps3gen.fr,pspgen.com,psvitagen.fr,wiigen.fr,xboxgen.fr##.fichesjeu_pave
 anime00.com,anime00.net###pb1
-assiste.com.free.fr##.robots-nocontent > TABLE a > img
+assiste.com.free.fr##.robots-nocontent > table a > img
+astuce-facebook.com###cadrelonggoogle
+astuce-facebook.com##a[href="http://kakaku.com/bb/internet_access/"]
+astuce-facebook.com##a[href="http://skgtechnologies.com/buy_facebook_fans.html"]
+astuce-facebook.com##a[href="http://www.rent-a-lease.com/chinese/"]
+astuce-facebook.com##img[width="468"][height="60"]
 audiofanzine.com###leaderboardContainer
 aufeminin.com##[class^="OffresSpe_"]
 aujourdhui-en-france.fr,leparisien.fr###clubDealbloc
@@ -1286,8 +1290,6 @@ boursier.com###banner
 boursier.com###footer-partenaires
 braindamaged.fr##a[href^="index.php?adclick="]
 businessnews.com.tn###megaban-1000
-hdfever.fr##.aliencable-link
-hdfever.fr##DIV[style="width: 728px; height: 90px; margin: auto; background-color: grey; box-shadow: 5px 5px 15px black; border: 4px solid grey; border-radius: 4px;"]
 buzzdays.me##[style="height: 250px; left: 420px; position: absolute; top:520px; width: 300px;  background-color: #fff;"]
 canalplus.fr##.video-preroll
 canalplus.fr##.visuel_preroll
@@ -1309,7 +1311,6 @@ chuck-streaming.fr,hawaii-streaming.com,smash-streaming.com,the-big-bang-streami
 cinemay.com###pb1
 clicbienetre.com###popup
 clicbienetre.com##.sidebar_block
-clicforum.com,hack-games-crack.com,vraiforum.com,xooit.com,xooit.fr##div[style="margin: 0; padding: 0; visibilite: visible; display: block; height: 109px; width: 100%; background: url(/images/topbg.gif)"]
 clubic.com###listBlock_espacePartenaires
 clubic.com###listBlock_mediatis
 clubic.com###shopper-widget-wrapper
@@ -1335,10 +1336,6 @@ courrier-picard.fr##.megaban-top
 courrierlaval.com###add_bottom
 courrierlaval.com###add_top
 covoiturage.fr###comuto_insidepage_ads
-astuce-facebook.com##IMG[width="468"][height="60"]
-astuce-facebook.com##A[href="http://skgtechnologies.com/buy_facebook_fans.html"]
-astuce-facebook.com##A[href="http://www.rent-a-lease.com/chinese/"]
-astuce-facebook.com##A[href="http://kakaku.com/bb/internet_access/"]
 covoiturage.fr##.ad
 dailymotion.com##.dm_widget_advert_iabrighttitle
 danslescoulisses.com###banner
@@ -1369,7 +1366,6 @@ emule-island.ru###centre_haut
 emule-island.ru###droite_bas
 emule-island.ru###droite_haut
 emule-island.ru###offerBox
-astuce-facebook.com###cadrelonggoogle
 emule-island.ru###pub
 emule-island.ru##table[width="560"][height="90"][border="2"][bgcolor="#FFFFCC"]
 ergor.org##.ladypub
@@ -1433,6 +1429,8 @@ gratuitcul.com##div[id^="affidate_form_"]
 groupon.fr##[style="width: 445px; margin: 8px auto; text-align: center; background-color: #fff; border: 1px solid #e4e4e4;"]
 gulli.fr##.banner
 h-suki.com##div[style="width:1020px;\a margin-left: auto; text-align:center;\a margin-right: auto; height: 100px;"]
+hdfever.fr##.aliencable-link
+hdfever.fr##div[style="width: 728px; height: 90px; margin: auto; background-color: grey; box-shadow: 5px 5px 15px black; border: 4px solid grey; border-radius: 4px;"]
 helran.fr###text-7.widget.widget_text
 hentai-3x.com##.boost
 hentai-3x.com##.pub
@@ -1808,7 +1806,7 @@ zoomdici.fr##.innerArtAdd
 gameblog.fr###gb_menu + div[style*="background-color: rgb("]
 gameblog.fr##.col300 > div[style*="background-color: rgb("]
 generation-nt.com##.pamplemousse
-generation-nt.com##.pub300x250 + *:not([class="sidecol_bloc"])
+generation-nt.com##.pub300x250 + :not([class="sidecol_bloc"])
 generation-nt.com##.textzone > p + p + div + *
 generation-nt.com##.toolbar > div + div + *
 generation-nt.com##[class*="gnt-msg"]
@@ -1858,7 +1856,7 @@ scan-manga.com###pub_f3
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
 @@||everlong.org/style/banner.php
 @@||fatherandsons.fr^*/opecom/affiliation/
-@@||fr-advideum.videoplaza.tv/proxy/distributor^$object-subrequest,domain=rfi.fr|aufeminin.com|lefigaro.fr|generation-nt.com
+@@||fr-advideum.videoplaza.tv/proxy/distributor^$object-subrequest,domain=aufeminin.com|generation-nt.com|lefigaro.fr|rfi.fr
 @@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
@@ -1928,6 +1926,7 @@ scan-manga.com###pub_f3
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 @@||www3.smartadserver.com/crossdomain.xml
 ! Anti-Adblock
+@@*/flashads/ab2.js$script,domain=206s16.fr|bikeszeboucs.com|clicforum.com|clicforum.fr|cliors-concept.com|discuforum.info|discussion4you.com|ejsquad.fr|fansforum.info|forum-box.com|forumsardou.net|hack-games-crack.com|horizon-moto34.fr|hotforum4u.com|leforum.cc|leforum.eu|leforum.tv|myforumlive.com|partition-universe.com|passion-quad-evasion.com|soforums.com|stylexm.fr|teamseat-idf.fr|trial-passion.com|vanvan-club.fr|vraiforum.com|west-riders.fr|xoo.it|xooit.be|xooit.cc|xooit.com|xooit.fr|xooit.org|yamahaxj6.fr|ze-forum.com
 @@||0xp.be/js/adframe.js
 @@||anime-story.com/js/ads.js
 @@||awsclic.com/js/advertisement.js
