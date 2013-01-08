@@ -885,10 +885,7 @@ _regiepub/
 ||zonebourse.com/content_o_a_s.php?
 ||zoomdici.fr/media/pub/
 ! Anti-Adblock
-||generation-nt.com*msg-$image
-||generation-nt.com*msg.$image
-||generation-nt.com^*/bg/
-||generation-nt.com^*pamplemousse
+||generation-nt.com*citron$image
 !
 !------------------ Elements generiques -----------------!
 !
@@ -1804,15 +1801,11 @@ zoomdici.fr##.innerArtAdd
 ! Anti-Adblock
 gameblog.fr###gb_menu + div[style*="background-color: rgb("]
 gameblog.fr##.col300 > div[style*="background-color: rgb("]
-generation-nt.com##.pamplemousse
-generation-nt.com##.pub300x250 + :not([class="sidecol_bloc"])
-generation-nt.com##.textzone > p + p + div + *
-generation-nt.com##.toolbar > div + div + *
-generation-nt.com##[class*="gnt-msg"]
-generation-nt.com##[class*="pamplemousse-"]
 generation-nt.com##[href*="/premium"] > *
-generation-nt.com##[style*="position:relative"][style*="width:"][style*="height:"]
-generation-nt.com##a[href*="/premium"]
+generation-nt.com##[href*="premium.html"] > *
+generation-nt.com##[href*="premium"] > IMG
+generation-nt.com##.citron
+generation-nt.com##[style*="width: 300px"][style*="height: 250px"]
 scan-manga.com###pub_f3
 !
 !----------------------- Exceptions -----------------------!
@@ -1947,10 +1940,6 @@ scan-manga.com###pub_f3
 @@||sanwilltv.net/advertisement.js
 @@||scan-manga.com/js/show_ads.js
 @@||sexytout.com/ad.php?$script
-@@||static.generation-nt.com/img/bg/comm.png
-@@||static.generation-nt.com/img/bg/encemoment-fleche.png
-@@||static.generation-nt.com/img/bg/facebook_small.png
-@@||static.generation-nt.com/img/bg/play.png
 @@||videoxadulte.com/js/adframe.js
 @@||wakanim.tv/content/js/ads.js?
 !----------------------- Exceptions d'elements -----------------------!
