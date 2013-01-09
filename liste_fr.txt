@@ -38,8 +38,8 @@ _publicite1.
 _publicite_
 _regiepub/
 ! Anti-adblock
-?status=on$domain=206s16.fr|bikeszeboucs.com|clicforum.com|clicforum.fr|cliors-concept.com|discuforum.info|discussion4you.com|ejsquad.fr|fansforum.info|forum-box.com|forumsardou.net|hack-games-crack.com|horizon-moto34.fr|hotforum4u.com|leforum.cc|leforum.eu|leforum.tv|myforumlive.com|partition-universe.com|passion-quad-evasion.com|soforums.com|stylexm.fr|teamseat-idf.fr|trial-passion.com|vanvan-club.fr|vraiforum.com|west-riders.fr|xoo.it|xooit.be|xooit.cc|xooit.com|xooit.fr|xooit.org|yamahaxj6.fr|ze-forum.com
 /bloubi.php?status=on&
+?status=on$domain=206s16.fr|bikeszeboucs.com|clicforum.com|clicforum.fr|cliors-concept.com|discuforum.info|discussion4you.com|ejsquad.fr|fansforum.info|forum-box.com|forumsardou.net|hack-games-crack.com|horizon-moto34.fr|hotforum4u.com|leforum.cc|leforum.eu|leforum.tv|myforumlive.com|partition-universe.com|passion-quad-evasion.com|soforums.com|stylexm.fr|teamseat-idf.fr|trial-passion.com|vanvan-club.fr|vraiforum.com|west-riders.fr|xoo.it|xooit.be|xooit.cc|xooit.com|xooit.fr|xooit.org|yamahaxj6.fr|ze-forum.com
 !
 !----------------------- Annonceurs -----------------------!
 !
@@ -244,7 +244,6 @@ _regiepub/
 ||belle-salope.fr/ban/$third-party
 ||belledesfleurs.com/ban/$third-party
 ||beurette-passion.com/ban/$third-party
-||ranking-metrics.fr/pob/get.cgi?f=banner_
 ||beurettes-faciles.com/promo/
 ||bitchvolley.com/ban/$third-party
 ||carasexe.com/promo/$third-party
@@ -328,6 +327,7 @@ _regiepub/
 ||promo.eurolive.com^$third-party
 ||pulsions-genereuses.com/ban/$third-party
 ||quellavelinge.com^$image,~image,popup,domain=trefle.com
+||ranking-metrics.fr/pob/get.cgi?f=banner_
 ||rollersexe.com/ban/$third-party
 ||salopes.free.fr/ban/
 ||sexe-au-bois.com/ban/$third-party
@@ -421,6 +421,7 @@ _regiepub/
 ||blogdumac.com/pub/
 ||brain-magazine.com/images/_habillages/
 ||canal-plus.com/design/*/header_flash.swf
+||canalplus.fr/bigplayer/pub.html
 ||canoe.ca/accueil2007/images/btncruze.gif
 ||capinfoproreport.com/cap_pub/
 ||carrefoune.com^*/u.js
@@ -820,7 +821,6 @@ _regiepub/
 ||torrent-avenue.com/popup.php$image,~image,popup
 ||torrent-topliste.com/popup.php$image,~image,popup
 ||torrentfrancais.com/img/z2/
-||canalplus.fr/bigplayer/pub.html
 ||torrentfrancais.com/pub.html
 ||torrentfrancais.com/z2/firefox-part$image
 ||toutporno.com/boost_niche/
@@ -1060,6 +1060,7 @@ _regiepub/
 ##.SmartAdZoneList
 ##._meltypub
 ##.adBuyRight
+##.adsense_top
 ##.adspave
 ##.annonces_google
 ##.blocPub
@@ -1124,7 +1125,6 @@ _regiepub/
 ##.pub_forum
 ##.pub_header_banner
 ##.pub_info
-##.adsense_top
 ##.pub_leaderboard
 ##.pub_left
 ##.pub_middle
@@ -1228,11 +1228,6 @@ abcbourse.com###header_click
 abomag.com##.postContent > p[style="float: left;margin: 4px;"]
 abrutis.com##.adsense
 abrutis.com##.home_menu_container
-test-mobile.fr###fondhabillage
-test-mobile.fr##.clickleft
-test-mobile.fr##.clicktop
-test-mobile.fr##.clickright
-tripadvisor.fr##.commerce
 abrutis.com##.pub
 accentice.com###sidebar
 accentice.com##div[style="padding:5;padding-top:0;background:#fffdf7;"]
@@ -1249,7 +1244,6 @@ algerie-focus.com###sponsor-axa
 algerie360.com###bloc_pub_sprt
 algerie360.com###pub_300_acc
 algerie360.com##.bloc_pub_250_s_marge
-europe-echecs.com###subheader_pub
 allocine.fr##.coltop
 allocine.fr##.topheader
 alvinet.com##.leaderboard
@@ -1273,7 +1267,6 @@ aujourdhui-en-france.fr,leparisien.fr###module-rencontres
 aujourdhui-en-france.fr,leparisien.fr##.moduleNew300
 aujourdhui-en-france.fr,leparisien.fr##.venteprivee
 auto-utilitaire.com###header_3
-leboncoin.fr###oas-top1
 auto-utilitaire.com##.banner_sp_art
 auto-utilitaire.com##.banner_sp_cat
 auto-utilitaire.com##div[style="position:relative;width:728px;height:90px;"]
@@ -1306,10 +1299,6 @@ canalplus.fr,d8.tv##.banner
 canalturf.com###content > div[style="width:100%; z-index: 100; margin-bottom:10px; text-align:center "]:first-child
 cbanque.com##.habillage
 cdiscount.com###downMall
-frandroid.com##.link_htr
-frandroid.com##.pub
-frandroid.com##.header_htr
-frandroid.com##.espace-sony-widget
 cdiscount.com##.downinbackMaullContainer
 cdiscount.com##.ptnlnk_table
 cdmail.fr###banner
@@ -1383,6 +1372,7 @@ emule-island.ru###pub
 emule-island.ru##table[width="560"][height="90"][border="2"][bgcolor="#FFFFCC"]
 ergor.org##.ladypub
 espace.mu##.srcPubZone
+europe-echecs.com###subheader_pub
 europe1.fr##.s-partenaires
 eurosport.fr###Container_OAS_Right
 extreme-down.com##a[href="http://www.extreme-down.com/telechargement_rapide.html"]
@@ -1416,6 +1406,10 @@ france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.
 franceantilles.fr,franceguyane.fr###megabanner
 francebleu.fr,franceinfo.fr###pub-ftv-top
 franceculture.fr###block-fcbloc-publicite
+frandroid.com##.espace-sony-widget
+frandroid.com##.header_htr
+frandroid.com##.link_htr
+frandroid.com##.pub
 frandroid.com##.widget.widget_text
 fredzone.org##.entry-pub
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
@@ -1427,7 +1421,7 @@ gameblog.fr##.noPremium
 gameblog.fr##div[style=" background-color: #c0c0c0; padding: 7px; height: 260px; overflow: hidden;"]
 gaytag.net##.pub96590
 gentside.com###kk-widget
-gentside.com##.add300
+gentside.com,maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
 genybet.fr##.GGFODTBDCS
 girlsgogames.fr##.categoryBanner
 golem13.fr##.banner-halfpage
@@ -1498,6 +1492,7 @@ lateen18.com###trade
 lebest.fr###ban_300x250
 lebest.fr###ban_728x90
 lebest.fr###liens_sponso
+leboncoin.fr###oas-top1
 leboncoin.fr##.google
 leboncoin.fr##div[class="newPartnerbox"]
 leboncoin.fr##div[style="width:189px;float:left;margin-left:8px;"]
@@ -1520,8 +1515,6 @@ lemouv.fr###block-lemouv_bloc-pub_ftv_right
 lemouv.fr###block-lemouv_bloc-pub_ftv_top
 leparisien.fr###parisien-partenaires
 leparisien.fr##.bloc-pratique
-webrankinfo.com##DIV[style="margin: 0; padding: 5px 8px 5px 8px; background: url(http://www.webrankinfo.com/images/design/fd_blockquote.png) no-repeat 0 100%; font-size: 1.3em; color: black; width: 615px;"]
-webrankinfo.com##.pub_rm_inter_posts_forum
 leparisien.fr##.parisien-section.pratique
 leparisien.fr##.vestiairecollective
 lepetiteconomiste.com##.zoom
@@ -1587,7 +1580,6 @@ matchendirect.fr###pub_criteo_300x250_1
 matchendirect.fr###pub_criteo_468x60_1
 matchendirect.fr###pubtetiere
 matchendirect.mobi###pub1
-maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
 maxistreaming.com###header
 maxistreaming.com###searchform
 mcetv.fr###annonce-header
@@ -1759,6 +1751,10 @@ tele.premiere.fr###pub_a2d_pave
 telechargementgratuits.com###ads
 telechargementgratuits.com###hopdream
 telechargementgratuits.com##.fixe
+test-mobile.fr###fondhabillage
+test-mobile.fr##.clickleft
+test-mobile.fr##.clickright
+test-mobile.fr##.clicktop
 tetesaclaques.tv###bigBox
 tf1.fr###ible149256
 tomtomax.fr##a[href^="http://clk.tradedoubler.com/"]
@@ -1767,6 +1763,7 @@ topanalyse.com###pid_f
 torrent-avenue.com##table[width="160"][height="600"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 trancegoa.org##td > .fb-like-box + br + .texteentete.taille2
 trimag.fr##.banner
+tripadvisor.fr##.commerce
 troc-velo.com###publine
 trocdestrains.com##.boite-partenaire-v
 tube-teen.fr###partenaire_img
@@ -1803,6 +1800,8 @@ wat.tv##.partner_one_wat
 wat.tv##.partner_two_wat
 wat.tv##.pub
 webactus.net###text-4
+webrankinfo.com##.pub_rm_inter_posts_forum
+webrankinfo.com##div[style="margin: 0; padding: 5px 8px 5px 8px; background: url(http://www.webrankinfo.com/images/design/fd_blockquote.png) no-repeat 0 100%; font-size: 1.3em; color: black; width: 615px;"]
 webstar-auto.com##.ads
 wikipedia.orange.fr###o_cartouchecarrepub
 wix.com###wixFooter
@@ -1820,10 +1819,10 @@ zoomdici.fr##.innerArtAdd
 ! Anti-Adblock
 gameblog.fr###gb_menu + div[style*="background-color: rgb("]
 gameblog.fr##.col300 > div[style*="background-color: rgb("]
-generation-nt.com##[href*="/premium"] > *
-generation-nt.com##[href*="premium.html"] > *
-generation-nt.com##[href*="premium"] > IMG
 generation-nt.com##.citron
+generation-nt.com##[href*="/premium"] > *
+generation-nt.com##[href*="premium"] > img
+generation-nt.com##[href*="premium.html"] > *
 generation-nt.com##[style*="width: 300px"][style*="height: 250px"]
 scan-manga.com###pub_f3
 !
@@ -1943,7 +1942,6 @@ scan-manga.com###pub_f3
 @@||bizerta-soft.com/clientscript/advertisement.js
 @@||claymore.fr/advertisement.js
 @@||coursdeprofs.fr/adframe.js
-@@||spox.fr/advertisement.js
 @@||debrideurstreaming.com^*/adsense.js
 @@||download.gameblog.fr/images/promo/ban_premium_300.jpg
 @@||gratuitcul.com/ad.php?ad=$script
@@ -1955,28 +1953,31 @@ scan-manga.com###pub_f3
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=hugolescargot.com|phonandroid.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hugolescargot.com|phonandroid.com
 @@||partage-facile.com$elemhide
+@@||partner.googleadservices.com/gampad/google_$script,domain=gentside.com|maxisciences.com|news-de-stars.com|simplyvoyage.com
 @@||playtv.fr$elemhide
 @@||protect-url.net/js/advertise125x125.js
+@@||pubads.g.doubleclick.net/gampad/ads?$script,domain=gentside.com|maxisciences.com|news-de-stars.com|simplyvoyage.com
 @@||sanwilltv.net/advertisement.js
 @@||scan-manga.com/js/show_ads.js
 @@||sexytout.com/ad.php?$script
+@@||spox.fr/advertisement.js
 @@||videoxadulte.com/js/adframe.js
 @@||wakanim.tv/content/js/ads.js?
 !----------------------- Exceptions d'elements -----------------------!
 fichier.net#@##contentAd
 ratus13.com#@#.ad-block
-vente-a-domicile.fr#@#.ad-left
 jeuxjeuxjeux.fr#@#.ad-left
+vente-a-domicile.fr#@#.ad-left
 vente-a-domicile.fr#@#.ad-right
 pointvente.fr#@#.ad_line
 scooter-infos.com#@#.adlist
-flysurf.com#@#.ads_area
 deyapa.fr#@#.adlist
-leboncoin.fr#@#.list-ads
+flysurf.com#@#.ads_area
 astuces-trucs.com#@#.adsense_sidebar
 gamexpo.fr#@#.advertisment
 vente-a-domicile.fr#@#.btn-ad
 latribune-online.com#@#.header_ads
+leboncoin.fr#@#.list-ads
 ! Anti-Adblock
 lokan.fr#@##adright
 macplus.net#@#.ad_zone
