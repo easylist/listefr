@@ -31,7 +31,7 @@
 /publicites/*
 /regie_pub/*
 /regiepub/*
-/toolbarxooit/toolbar*.js
+/toolbarxooit/index.php?
 _468x90_
 _publicite.
 _publicite1.
@@ -43,6 +43,7 @@ _regiepub/
 !----------------------- Annonceurs -----------------------!
 !
 ||1sponsor.com^$third-party
+||2mdn.net^$object-subrequest,domain=dhnet.be
 ||a2dfp.net^$third-party
 ||acces-charme.com^$third-party
 ||acpublicite.fr^$third-party
@@ -105,7 +106,6 @@ _regiepub/
 ||espace-plus.net^$third-party
 ||espacephr.fr^$third-party
 ||esprit-click.com^$third-party
-||2mdn.net^$object-subrequest,domain=dhnet.be
 ||euro-clic.com^$third-party
 ||eurowebbiz.com^$third-party
 ||every.com^$third-party
@@ -789,6 +789,7 @@ _regiepub/
 ||soonnight.com/images/mini_ban_partenaire/
 ||soonnight.com/template/purr/
 ||soonnight.com^*/bande_partenaires.png
+||soufisme-fr.com/images/pub/
 ||spin-off.fr/images/vpngratuitspinfoff.gif
 ||sports.fr/includes/cobrand/*/habillage/
 ||sports.fr^*/partenaires/
@@ -812,7 +813,6 @@ _regiepub/
 ||theadultcompany.biz/*/ff_siteunder/$image,~image,popup
 ||ti.bank.free.fr/images/jarrety
 ||tool.acces-vod.com/infopop/
-||soufisme-fr.com/images/pub/*
 ||tool.acces-vod.com/popdhtml/
 ||topanalyse.com/pub/
 ||topjetm.net^*/img/pub.gif
@@ -861,7 +861,6 @@ _regiepub/
 ||vidule.com^*/u.js
 ||viedemerde.fr/modules/fr/pamelarose_2012/
 ||visio-x.fr/js/x1.js
-||vtrans.fr/pub.php?
 ||wawa-mania.*/ph.jpg
 ||wawacity.su/popup.html
 ||webchoc.com/pop.js
@@ -1304,8 +1303,6 @@ cdiscount.com##.downinbackMaullContainer
 cdiscount.com##.ptnlnk_table
 cdmail.fr###banner
 centerblog.net###gauche > iframe[width="300"][height="250"]
-soufisme-fr.com###ad_forum_below_threadlist
-soufisme-fr.com###ad_global_below_navbar
 centerblog.net###pub
 centerblog.net##.pub
 centre-audition.com##a[href^="http://www.centre-audition.com/catalog/redirect.php?action=banner&"]
@@ -1380,7 +1377,6 @@ europe1.fr##.s-partenaires
 eurosport.fr###Container_OAS_Right
 extreme-down.com##a[href="http://www.extreme-down.com/telechargement_rapide.html"]
 extreme-down.com##a[href^="http://clic.illyx.com/"]
-streamnolimit.com###pscroller1
 extreme-protect.com##a[href="http://www.extreme-down.com/usenet.html"]
 extremepc.fr###promoHead + hr + .center
 extremepc.fr###pub
@@ -1438,6 +1434,8 @@ gratuit-xxx.com##.footerboost
 gratuit-xxx.com##div[class^="boost_g_"]
 gratuitcul.com##div[id^="affidate_form_"]
 groupon.fr##[style="width: 445px; margin: 8px auto; text-align: center; background-color: #fff; border: 1px solid #e4e4e4;"]
+gsmforum.tv###ad_board_after_forums
+gsmforum.tv###ad_global_below_navbar
 gulli.fr##.banner
 h-suki.com##div[style="width:1020px;\a margin-left: auto; text-align:center;\a margin-right: auto; height: 100px;"]
 hdfever.fr##.aliencable-link
@@ -1455,8 +1453,6 @@ israel7.com##.box2[style="background-color:rgb(0,0,0);padding:20px;"]
 israel7.com##.box2[style="padding:5px;height:600px;"]
 israel7.com##table[style="margin:0px0px10px15px;"]
 itespresso.fr###slider-partnerzone
-gsmforum.tv###ad_global_below_navbar
-gsmforum.tv###ad_board_after_forums
 jamaisjouis.com,vidule.com##.catcher
 jeu.net##div[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
 jeuxactu.com###megaban1
@@ -1492,9 +1488,6 @@ lanutrition.fr##.moduletable-banner
 laposte.net###shoppingBox
 lapresse.ca###pubs
 laptopspirit.fr##a[href^="http://www.prix-portables.fr/pub/"]
-videostep.com###divBrandVideo1
-videostep.com###divBrandVideo2
-videostep.com###divMainBrandVideo
 lastfilmstreaming.com###pb1
 lastminute.com##.adContainer
 lateen18.com###trade
@@ -1736,6 +1729,8 @@ solutions-logiciels.com##div[style^="border:1px solid black; width: 300px; heigh
 soonnight.com###cadre_partenaire
 soonnight.com###partenaire
 sortirensemble.com###sondage_age
+soufisme-fr.com###ad_forum_below_threadlist
+soufisme-fr.com###ad_global_below_navbar
 southparkstreaming.fr##.bannergroup
 spi0n.com###text-5.widget
 spi0n.com##.spion_single_pub
@@ -1751,6 +1746,7 @@ streamgo.net##.fixe
 streamgo.net##a[href^="http://www.cashtrafic.com/"]
 streaming-video3x.com##.ads
 streamingdivx.com##.popplugin
+streamnolimit.com###pscroller1
 streamxd.com###topbar
 super-drole.com###cadre_infoads
 superphysique.org##div[style*="text-align: center"][style*="width:250px"]
@@ -1793,6 +1789,9 @@ viamichelin.fr##.vm-pub-home300
 video-2-cul.com##.banner
 video-buzz.eu##div[style="width:300px;height:250px;margin-bottom:15px;margin-left:auto;margin-right:auto;"]
 video-buzz.eu##div[style="width:728px;height:90px;margin-left:auto;margin-right:auto;margin-bottom:15px;"]
+videostep.com###divBrandVideo1
+videostep.com###divBrandVideo2
+videostep.com###divMainBrandVideo
 vidule.com###trade
 vidule.com###wnc_disclaimer
 viedemerde.fr##.post.autopromo
@@ -1870,6 +1869,7 @@ scan-manga.com###pub_f3
 @@||deliv.tmcregie.fr/crossdomain.xml$domain=videos.nt1.tv
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/ad-remover/img/
+@@||download.gameblog.fr/images/promo/ban_premium_300.jpg
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
 @@||dzautos.com/swf/prix_du_neuf.swf
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
@@ -1935,7 +1935,6 @@ scan-manga.com###pub_f3
 @@||viamichelin.be/static/advert/$script
 @@||viamichelin.ch/static/advert/$script
 @@||viamichelin.ch^*/rentacar.js
-@@||download.gameblog.fr/images/promo/ban_premium_300.jpg
 @@||viamichelin.fr/static/advert/$script
 @@||viamichelin.fr^*/rentacar.js
 @@||videos-pub.ftv-publicite.fr/media/$object-subrequest,domain=playerftp.videostream.fr
