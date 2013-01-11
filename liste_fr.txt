@@ -1264,7 +1264,7 @@ astuce-facebook.com##a[href="http://skgtechnologies.com/buy_facebook_fans.html"]
 astuce-facebook.com##a[href="http://www.rent-a-lease.com/chinese/"]
 astuce-facebook.com##img[width="468"][height="60"]
 audiofanzine.com###leaderboardContainer
-aufeminin.com##[class^="OffresSpe_"]
+aufeminin.com##div[class^="OffresSpe_"]
 aujourdhui-en-france.fr,leparisien.fr###clubDealbloc
 aujourdhui-en-france.fr,leparisien.fr###module-rencontres
 aujourdhui-en-france.fr,leparisien.fr##.moduleNew300
@@ -1295,7 +1295,7 @@ boursier.com###banner
 boursier.com###footer-partenaires
 braindamaged.fr##a[href^="index.php?adclick="]
 businessnews.com.tn###megaban-1000
-buzzdays.me##[style="height: 250px; left: 420px; position: absolute; top:520px; width: 300px;  background-color: #fff;"]
+buzzdays.me##div[style="height: 250px; left: 420px; position: absolute; top:520px; width: 300px;  background-color: #fff;"]
 canalplus.fr##.video-preroll
 canalplus.fr##.visuel_preroll
 canalplus.fr,d8.tv##.banner
@@ -1319,7 +1319,7 @@ clicbienetre.com##.sidebar_block
 clubic.com###listBlock_espacePartenaires
 clubic.com###listBlock_mediatis
 clubic.com###shopper-widget-wrapper
-clubic.com##[id^="pub_dart_"]
+clubic.com##div[id^="pub_dart_"]
 clubic.com##div[class="facebox layer_suggest"]
 clubic.com##div[class="facebox layer_suggest_nl"]
 cmonjour.com##.megaddd
@@ -1349,7 +1349,7 @@ days-media.fr##.boxed[style^="width:300px; height:250px"]
 decitre.fr##.advertise
 deezer.com###bottom
 deezer.com##.pub
-deezer.com##[id^="ads"]
+deezer.com##div[id^="ads"]
 desmatures.com##.pub468100top
 desmatures.com##.sidebarpub350250
 dinogaia.com###tableau_info
@@ -1392,8 +1392,8 @@ faclic.com##.lbx_content
 faclic.com##.lbx_overlay
 fan-de-cinema.com##.megasquare
 fan-de-cinema.com##.topmargin
-fansub-resistance.net##[id^="pub_468x60_"]
-fansub-resistance.net##[id^="pub_728x90_"]
+fansub-resistance.net##div[id^="pub_468x60_"]
+fansub-resistance.net##div[id^="pub_728x90_"]
 femmemag.re###block_regie_pub_bas_article
 filmscine.com###pb1
 filmze.com##.fixe
@@ -1408,7 +1408,7 @@ forum.pcastuces.com##table[width="728"][height="90"][align="center"]
 forumactif.com##div[class^="add-google"]
 fr.audiofanzine.com##.price
 fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
-fr.news.yahoo.com##[id^="pmBannerContainer"]
+fr.news.yahoo.com##div[id^="pmBannerContainer"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr,~sport.francetv.fr##div[id^="eShowPub"]
 franceantilles.fr,franceguyane.fr###megabanner
 francebleu.fr,franceinfo.fr###pub-ftv-top
@@ -1420,7 +1420,7 @@ frandroid.com##.pub
 frandroid.com##.widget.widget_text
 fredzone.org##.entry-pub
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
-fullanimes.free.fr##[href^="http://www.allopass.com/check/red.php"] > img
+fullanimes.free.fr##a[href^="http://www.allopass.com/check/red.php"] > img
 gameblog.fr###gbPub728bas
 gameblog.fr###gba300
 gameblog.fr###overlayFnac
@@ -1440,7 +1440,7 @@ grandecran.fr###les_pubs_locales
 gratuit-xxx.com##.footerboost
 gratuit-xxx.com##div[class^="boost_g_"]
 gratuitcul.com##div[id^="affidate_form_"]
-groupon.fr##[style="width: 445px; margin: 8px auto; text-align: center; background-color: #fff; border: 1px solid #e4e4e4;"]
+groupon.fr##div[style="width: 445px; margin: 8px auto; text-align: center; background-color: #fff; border: 1px solid #e4e4e4;"]
 gsmforum.tv###ad_board_after_forums
 gsmforum.tv###ad_global_below_navbar
 gulli.fr##.banner
@@ -1450,7 +1450,7 @@ hdfever.fr##div[style="width: 728px; height: 90px; margin: auto; background-colo
 helran.fr###text-7.widget.widget_text
 hentai-3x.com##.boost
 hentai-3x.com##.pub
-herault-tribune.com##[id^=content_right_pub]
+herault-tribune.com##div[id^=content_right_pub]
 ibuzzyou.fr##.box-sous-titre-gauche
 ibuzzyou.fr##div[style="height:280px;float:left;"]
 imagedrole.de###main-bottom
@@ -1463,7 +1463,7 @@ itespresso.fr###slider-partnerzone
 jamaisjouis.com,vidule.com##.catcher
 jeu.net##div[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
 jeuxactu.com###megaban1
-jeuxactu.com##[style="height:250px;width:300px;"]
+jeuxactu.com##div[style="height:250px;width:300px;"]
 jeuxonline.info###pub
 jeuxvideo.com###banner_jv
 jeuxvideo.com###mc_sponso
@@ -1477,7 +1477,7 @@ judgehype.com###partenaire
 kamaz.fr##.megaBan
 korben.info###samsarin_php_widget-5 div[style*="width: 125px; height: 125px"]
 korben.info###samsarin_php_widget-9 a[style^="display:block"]
-korben.info##[id^="google_ads_"]
+korben.info##div[id^="google_ads_"]
 korben.info##a[style*="width:468px;height:90px"]
 korben.info##a[style="background:transparent; position:absolute; top:0px; left:0; width:100%; height:100%; z-index:0;"]
 la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
@@ -1489,7 +1489,7 @@ lachainemeteo.com###bloc_aquarelle
 lachainemeteo.com##.bloc_1_col_middle[style="height:160px;"]
 lachainemeteo.com##div[style="float:left;width:615px;height:100px;"]
 ladepeche.fr##.pub
-lagazettedescommunes.com##[class^="col-note-pub300x"]
+lagazettedescommunes.com##div[class^="col-note-pub300x"]
 lalibre.be###headerRelook
 lanutrition.fr##.moduletable-banner
 laposte.net###shoppingBox
@@ -1580,7 +1580,7 @@ mappy.com###a300x600
 mappy.com##.leftHabillage
 mappy.com##.rightHabillage
 maps.google.fr##.ad
-marianne.net##[href^="/blogsecretdefense/ads/"]
+marianne.net##a[href^="/blogsecretdefense/ads/"]
 marianne2.fr###mod_1171545
 masculin.com##div[style="float:left; width:980px; height:90px; text-align:left; padding-top:10px;"]
 matchendirect.fr###prehome_contenu
@@ -1703,7 +1703,7 @@ radiofrance.fr###banniere
 radiofrance.fr##table[width="765"][height="100"]
 raje.fr##.ads
 redlist-ultimate.be###partenaire
-redlist-ultimate.be##[style="display:none;"] + .block
+redlist-ultimate.be##div[style="display:none;"] + .block
 rfi.fr###caroussel_partenaires
 routard.com##[id^="A2dEmplacement"]
 rtbf.be###bannerLeaderboard
