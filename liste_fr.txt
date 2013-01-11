@@ -890,7 +890,7 @@ _regiepub/
 ||zonebourse.com/content_o_a_s.php?
 ||zoomdici.fr/media/pub/
 ! Anti-Adblock
-||generation-nt.com*citron$image
+||generation-nt.com*abricot$image
 !
 !------------------ Elements generiques -----------------!
 !
@@ -1827,11 +1827,11 @@ zoomdici.fr##.innerArtAdd
 ! Anti-Adblock
 gameblog.fr###gb_menu + div[style*="background-color: rgb("]
 gameblog.fr##.col300 > div[style*="background-color: rgb("]
-generation-nt.com##.citron
-generation-nt.com##[href*="/premium"] > *
-generation-nt.com##[href*="premium"] > img
-generation-nt.com##[href*="premium.html"] > *
-generation-nt.com##[style*="width: 300px"][style*="height: 250px"]
+generation-nt.com##[href*="/abonnement"] > *
+generation-nt.com##[href*="abonement"] > img
+generation-nt.com##[href*="abonnement.html"] > *
+generation-nt.com##.abricot
+generation-nt.com##P[style="margin:10px 18px 0;border:2px solid red;padding:10px;line-height:1.4em;font-size:14px;color:#333;"]
 scan-manga.com###pub_f3
 !
 !----------------------- Exceptions -----------------------!
