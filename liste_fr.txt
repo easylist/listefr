@@ -1,15 +1,15 @@
 [Adblock Plus 1.1]
-! Liste FR ~ Filtres francophones complementaires
+! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
-! Mises a jour : https://code.google.com/p/listefr-adblock/source/list
-! License : http://creativecommons.org/licenses/by-nc-sa/3.0/
+! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
+! Licence : http://creativecommons.org/licenses/by-nc-sa/3.0/
 ! Homepage: http://www.adblock-listefr.com/
 !
-! Merci de signaler toute publicite non bloquee ou tout blocage inadequat
+! Merci de signaler toute publicité non bloquée ou tout blocage inadéquat
 ! dans le forum : http://forums.lanik.us/viewforum.php?f=91
 ! ou via e-mail : listefr.adblock at gmail point com
 !
-!----------------------- Filtres generiques ----------------------!
+!----------------------- Filtres génériques ----------------------!
 !
 -publicite.
 .be/ads/
@@ -224,7 +224,7 @@ _regiepub/
 ||yllix.com^$third-party
 ||zedo.com^$image,~image,popup,third-party
 !
-!----------------------- Publicites tierces ----------------------!
+!----------------------- Publicités tierces ----------------------!
 !
 ||1-porno.org/atr_template/trade/
 ||achatventepagefan.com^*/banachat*.gif$third-party
@@ -363,7 +363,7 @@ _regiepub/
 ||wtpn.twenga.fr/publisher/$third-party
 ||zeusmangax.com/baniere/
 !
-!----------------------- Sites specifiques -----------------------!
+!----------------------- Sites spécifiques -----------------------!
 !
 ||01net.com/front_office/images/regie/
 ||100pour100sexe.com/pop.js
@@ -894,7 +894,7 @@ _regiepub/
 ||generation-nt.com*abricot$image
 ||free-reseau.fr/images/fond_adp.png
 !
-!------------------ Elements generiques -----------------!
+!------------------ Éléments génériques -----------------!
 !
 ###Block_Pub_Right
 ###PubBas
@@ -1210,7 +1210,7 @@ _regiepub/
 ##.pub_468x60_bas
 ##.pub_468x60_haut
 !
-!----------------------- Elements -----------------------!
+!----------------------- Éléments -----------------------!
 !
 01net.com###ic-ad
 01net.com###ic-ad-movie
@@ -1978,7 +1978,7 @@ scan-manga.com###pub_f3
 @@||spox.fr/advertisement.js
 @@||videoxadulte.com/js/adframe.js
 @@||wakanim.tv/content/js/ads.js?
-!----------------------- Exceptions d'elements -----------------------!
+!----------------------- Exceptions d'éléments -----------------------!
 fichier.net#@##contentAd
 ratus13.com#@#.ad-block
 jeuxjeuxjeux.fr#@#.ad-left
