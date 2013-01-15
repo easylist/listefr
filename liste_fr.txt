@@ -900,8 +900,7 @@ _regiepub/
 ||zoomdici.fr/media/pub/
 ! Anti-Adblock
 ||free-reseau.fr/images/fond_adp.png
-||generation-nt.com*ananas$image
-||generation-nt.com/img/information-bg.png
+||generation-nt.com*cerise$image
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -1850,11 +1849,7 @@ zoomdici.fr##.innerArtAdd
 ! Anti-Adblock
 gameblog.fr###gb_menu + div[style*="background-color: rgb("]
 gameblog.fr##.col300 > div[style*="background-color: rgb("]
-generation-nt.com##.ananas
-generation-nt.com##[href*="/abonnement"] > *
-generation-nt.com##[href*="abonement"] > img
-generation-nt.com##[href*="abonnement.html"] > *
-generation-nt.com##P[style="margin:10px 18px 0;border:2px solid red;padding:10px;line-height:1.4em;font-size:14px;color:#333;"]
+generation-nt.com##.cerise
 scan-manga.com###pub_f3
 !
 !----------------------- Exceptions -----------------------!
