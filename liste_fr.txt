@@ -17,7 +17,6 @@
 .fr/ads.
 .fr/ads/
 /adserverpub?
-/adv/sponsor/*
 /bandeaupublicite/*
 /pub300-250.
 /pub728-90.
@@ -33,7 +32,6 @@
 /regie_pub/*
 /regiepub/*
 /toolbarxooit/index.php?
-_468x90_
 _publicite.
 _publicite1.
 _publicite_
@@ -921,13 +919,9 @@ _regiepub/
 ###PubHorizontaleInner
 ###PubHorizontaleMain
 ###PubPave
-###adColumn3
-###ad_wrapper
-###ads-leaderboard
 ###adsCarre
 ###adsHaut
 ###adspave
-###advWrapper
 ###annonce_pub
 ###annonce_pub2
 ###annoncepub
@@ -943,7 +937,6 @@ _regiepub/
 ###block_pub
 ###block_pub_article
 ###block_regie_pub_bas
-###bottom-ad-leaderboard
 ###cadre_pub_bas
 ###carre-pub
 ###carre_pub
@@ -965,7 +958,6 @@ _regiepub/
 ###footerpub3
 ###footerpubs
 ###general_subpub
-###head-ads
 ###head-pub
 ###head_pub
 ~futura-sciences.com###header-pub
@@ -978,14 +970,12 @@ _regiepub/
 ###iframesidebarpub
 ###imagePubPave
 ###innerpub
-###lateralAdWrapper
 ###module_publicite
 ###news-droite-publicite
 ###news_pub_centre
 ###pavePub
 ###pave_pub
 ###pavepub
-###popupBottomAd
 ###pub-ban
 ###pub-banner
 ###pub-center
@@ -1059,10 +1049,8 @@ _regiepub/
 ###pubpreroll
 ###pubright
 ###pubtop
-###rail_ad
 ###rightpubbox
 ###roundPub
-###showads
 ###slidepub
 ###tag_pub_footer
 ###teaserPub
@@ -1071,15 +1059,11 @@ _regiepub/
 ###toppub
 ###toppubbutton
 ###tower_pub
-###transparentad
 ###videoplayerpub
 ###wrapper-pub
 ###zone_pub
 ###zone_pub1
-##.SmartAdZoneList
 ##._meltypub
-##.adBuyRight
-##.adsense_top
 ##.adspave
 ##.annonces_google
 ##.blocPub
@@ -1178,7 +1162,6 @@ _regiepub/
 ##.titrePub
 ##.toppubs
 ##.txt-pub
-##.vs-advert-300x250
 ##.widget_publicite
 ##.wrap-pub
 ##.zonepub
