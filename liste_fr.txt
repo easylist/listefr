@@ -17,13 +17,13 @@
 .fr/ads.
 .fr/ads/
 /adserverpub?
+/adview/*
 /bandeaupublicite/*
 /pub300-250.
 /pub728-90.
 /publicite-
 /publicite.
 /publicite/*
-/adview/*
 /publicite2.
 /publicite3.
 /publicite_
@@ -401,12 +401,13 @@ _regiepub/
 ||annuaire-inverse-gratuit.org/js/default.js
 ||aps.dz/pub-
 ||aps.dz/pub.php
+||ariase.com/css/themes/
+||ariase.com^*/media/pub/
 ||asie-info.fr/wp-content/uploads/*/banner-asieinfo-
 ||asie-info.fr/wp-content/uploads/*/pub_
 ||asie-info.fr^*/livre-100*.png
 ||asie-info.fr^*/livre-franck-amat.jpg
 ||asie-info.fr^*/prodcam-pub-
-||economiematin.fr^*-ban-300x150.
 ||asse.fr^*/bandeau_ok.swf
 ||asse.fr^*/banniere_mcc_billetterie.gif
 ||aufeminin.com/home4/skin/*/fond.jpg
@@ -415,7 +416,6 @@ _regiepub/
 ||begeek.fr/cdiscount.jpg
 ||benkhouya.com^*/hebergement-web-maroc.png
 ||binnews.in/_images/ad_
-||ariase.com^*/media/pub/
 ||binnews.me/_images/ad_
 ||bittovore.com/popup.php$image,~image,popup
 ||blague.info/pub/
@@ -474,10 +474,14 @@ _regiepub/
 ||easyrencontre.com/promo
 ||easyvols.org/leparisien/
 ||easyvols.org/liberation/
+||economiematin.fr^*-ban-300x150.
 ||ecranlarge.com/js/entree_pub.
 ||ecrans.fr/pub.js
 ||edgecastcdn.net/8068BF/cdn-alg360/wp-content/uploads/*/Banner-Tag-
 ||education.ti.com^$domain=ti.bank.free.fr
+||egora.fr/sites/default/files/box-enq-acne.jpg
+||egora.fr/sites/default/files/carre-dpc.gif
+||egora.fr^*/files/pub/
 ||elwatan.com/campub/
 ||elwatan.com/img/swf/
 ||emploi-energie.com/banniere/
@@ -619,6 +623,7 @@ _regiepub/
 ||lepoint.fr/html/timekeeper/
 ||lepoint.fr/images/*/partenariat/
 ||lequotidien-oran.com/img/pub.jpg
+||lerepairedesmotards.com/img/pub/
 ||les-horaires.fr/ajax/staytuned.popup.php?city=
 ||les-paparazzix.com/popup_in.php?
 ||les-terrains.com/bd_images/
@@ -725,7 +730,6 @@ _regiepub/
 ||pc-overware.be/index/images/banners/
 ||pcinpact.com/images/bd/events/current.png?v=14
 ||petit-bulletin.fr/images/habillage.jpg
-||lerepairedesmotards.com/img/pub/*
 ||petit-bulletin.fr/pub.php?
 ||petite-annonce-gratuite.com/encarts/bannieres/
 ||petitfute.com^*/images/pubs/
@@ -746,8 +750,6 @@ _regiepub/
 ||portail.free.fr/modules/shopping/*/shopping.html
 ||portaildusexe.com/ban/
 ||portaildusexe.com/graphics/ban/
-||egora.fr/sites/default/files/box-enq-acne.jpg
-||egora.fr/sites/default/files/carre-dpc.gif
 ||presse-citron.net^*/chicklets_pub/
 ||pro.cdmail.fr/pro/images/
 ||ps3gen.fr/pub/
@@ -804,7 +806,6 @@ _regiepub/
 ||soufisme-fr.com/images/pub/
 ||speedtest.net/images/$domain=infostar.e-monsite.com
 ||spin-off.fr/images/vpngratuitspinfoff.gif
-||egora.fr^*/files/pub/
 ||sports.fr/includes/cobrand/*/habillage/
 ||sports.fr^*/partenaires/
 ||starter.fm/blog/*/bg_$image
@@ -875,7 +876,6 @@ _regiepub/
 ||video-2-cul.com/javascript/functions.js
 ||videos-de-celebrites.com/pub/
 ||vidule.com^*/u.js
-||ariase.com/css/themes/
 ||viedemerde.fr/modules/fr/pamelarose_2012/
 ||visio-x.fr/js/x1.js
 ||wawa-mania.*/ph.jpg
@@ -1184,8 +1184,6 @@ _regiepub/
 ###pub_300_250
 ###pub_300x250
 ###pub_300x250-1
-##.pub728
-##.pub468
 ###pub_300x250-2
 ###pub_460x60
 ###pub_468x60
@@ -1202,9 +1200,11 @@ _regiepub/
 ##.pub300_contenu
 ##.pub300x250
 ##.pub350x250left
+##.pub468
 ##.pub46860
 ##.pub468x60
 ##.pub600200
+##.pub728
 ##.pub72890
 ##.pub728x90
 ##.pub_160_600
@@ -1241,7 +1241,6 @@ actupc.info###casing > center > table[width="100%"][height="60"][cellspacing="0"
 actustar.com##.ads
 ados.fr##.pub
 affaires-dz.com##.riquadro_1
-only-stream.com###disclaimer
 affaires-dz.com##.riquadro_3
 agoravox.fr##.pub
 agoravox.tv##.pub
@@ -1293,6 +1292,7 @@ blogger-au-bout-du-doigt.blogspot.com###banner
 blogs.allocine.fr###pub
 blogs.lesinrocks.com##.sub_headline.top
 blogs.rue89.com##div[style="clear: both; text-align: center; margin: 0px auto;height: 250px; width: 300px;"]
+bonjourmadame.fr##object[width="728"][height="90"]
 boulistenaute.com###dropin
 boulistenaute.com##.xo-banner-ad-footer
 boursier.com###banner
@@ -1322,14 +1322,11 @@ clicbienetre.com###popup
 clicbienetre.com##.sidebar_block
 clubic.com###liensTransversaux
 clubic.com###listBlock_espacePartenaires
-easyvoyage.com###esv-pub-hp
-easyvoyage.com##.esv-pub-300-250
 clubic.com###listBlock_mediatis
 clubic.com###shopper-widget-wrapper
 clubic.com##div[class="facebox layer_suggest"]
 clubic.com##div[class="facebox layer_suggest_nl"]
 clubic.com##div[id^="pub_dart_"]
-egora.fr##DIV[style="position: relative; width: 1000px; height: 110px; z-index:10000;"]
 clubic.com##div[style^="text-align:center;height:250px;width:300px;"]
 cmonjour.com##.megaddd
 coco.fr##a[href="http://www.joker.net"]
@@ -1363,7 +1360,6 @@ desmatures.com##.sidebarpub350250
 dinogaia.com###tableau_info
 directvelo.com###col_03_partenaires
 do-tube.org##.ads
-egora.fr###ban-gp
 dogzer.com###affichage_tag_58
 dogzer.com###header_tr_banniere
 douniamusic.com##div[style="float:left;width:500px;height:300px;"]
@@ -1373,17 +1369,16 @@ dzfoot.com##a[href^="http://www.medncom.com/regie/"]
 e-booksland.com###pb1
 e-sante.fr##.ad
 e-sante.fr##.public-info
+easyvoyage.com###esv-pub-hp
+easyvoyage.com##.esv-pub-300-250
 ecranlarge.com###aNePasManquer
 ecranlarge.com###promo
+egora.fr###ban-gp
+egora.fr##div[style="position: relative; width: 1000px; height: 110px; z-index:10000;"]
 elwatan.com###megabanner
 elwatan.com###pub_habillage_lien
 emule-island.ru###centre_haut
-sfr.fr##div[id^="A2dEmplacement"]
-sfr.fr###meeticWrapper
-sfr.fr###shoppingWrapper
 emule-island.ru###droite_bas
-sfr.fr##.pub
-starter.fm##.conteneur_pub_footer
 emule-island.ru###droite_haut
 emule-island.ru###offerBox
 emule-island.ru###pub
@@ -1421,8 +1416,6 @@ forumactif.com##div[class^="add-google"]
 fr.audiofanzine.com##.price
 fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
 fr.news.yahoo.com##div[id^="pmBannerContainer"]
-slappyto.net##.webrox._300x250.centered
-slappyto.net###shadow
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr,~sport.francetv.fr##div[id^="eShowPub"]
 franceantilles.fr,franceguyane.fr###megabanner
 francebleu.fr,franceinfo.fr###pub-ftv-top
@@ -1648,7 +1641,6 @@ movizfr.com###pb1
 mrsexe.com##.ban300side
 msn.com###upgrade.hide
 msn.com##.sponsorship
-bonjourmadame.fr##object[width="728"][height="90"]
 mu-streaming.com###pb1
 mu-streaming.com##.fixe
 multixa.net##.pub
@@ -1667,6 +1659,7 @@ ogaming.tv###campain-rightPlaceHolder
 ogaming.tv###campain-topPlaceHolder
 omgtorrent.com##.tuyau
 one-piece-streaming.fr###fermerPub
+only-stream.com###disclaimer
 oopsbuzz.com##.behincontent
 ophtalmo.tv##a[href^="/ads/"]
 orange.fr###blocServices
@@ -1744,11 +1737,17 @@ search.ke.voila.fr##.tpl_slpartner_container_top
 sexandtrash.com##.partenaires
 sexeautop.com###catcher
 sexytout.com###\5f email_catcher
+sfr.fr###meeticWrapper
+sfr.fr###shoppingWrapper
+sfr.fr##.pub
+sfr.fr##div[id^="A2dEmplacement"]
 silicon.fr###megabanner
 silicon.fr###skycraper
 silicon.fr###slider-partnerzone
 sky-animes.com##.fixe
+slappyto.net###shadow
 slappyto.net##.Adsense
+slappyto.net##.webrox._300x250.centered
 slate.fr###smart14320
 slate.fr###smart14321
 slate.fr###smart14321pub
@@ -1767,6 +1766,7 @@ sport-team.org###floatLayer
 sport.francetv.fr###archePromo
 sports.fr###banner-full
 sports.fr###hablinkzone
+starter.fm##.conteneur_pub_footer
 strasbourg-tramway.fr###ws_embed_footer
 strasbourg-tramway.fr##div[style="width:125px;height:125px;text-align:center"]
 strastv.com##.container_pubh_02
@@ -1915,12 +1915,12 @@ scan-manga.com###pub_f3
 @@||kapaza.be/*/ad_view_
 @@||koifaire.com/upload/*/300x250-
 @@||lacanausurfinfo.com/admin/images/pubs/pub_18.png
+@@||lesinrocks.com/min/?f=wp-content/themes/lesinrocks_theme/js/lib/jquery-$script
 @@||lesinrocks.com/wp-content/plugins/minifier/min/?f=$script
 @@||libe.com/libepartnerships/businesspartner_photo/2011/08/14/ojd.gif
 @@||libe.com/libepartnerships/businesspartner_photo/2011/08/25/iphone.png
 @@||libe.com/libepartnerships/businesspartner_photo/2012/08/13/visuel_pa-1.png
 @@||libe.com/libepartnerships/img/print_subscription.jpg
-@@||lesinrocks.com/min/?f=wp-content/themes/lesinrocks_theme/js/lib/jquery-$script
 @@||ma-meilleure-amie.com/participation-concours/publicite/id_categorie/$xmlhttprequest
 @@||malakoffmederic.com/entreprise/*/affiliation/
 @@||media.eurolive.com^$domain=live18ans.com
@@ -1974,7 +1974,7 @@ scan-manga.com###pub_f3
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 @@||www3.smartadserver.com/crossdomain.xml
 ! Anti-Adblock
-@@/flash-ads/*$script,domain=1freebb.com|babaorum.info|bboard.asia|bboard.it|bboardhost.com|bboardit.com|bestbboard.com|bestboardlive.com|bestboardonline.com|bestboardpro.com|bestforum4u.com|bestforum4you.com|bestforumforyou.com|bestoof.com|bestthread.com|bigboardlive.com|bigboardpro.com|bigforum4u.com|bigforum4you.com|bigforumforyou.com|board.ag|board.fm|board.tc|board.vg|boardforyou.com|cforum.info|clicforum.com|clicforum.fr|coolforum.info|discuforum.info|discussion4you.com|discussionforyou.com|easyforum2u.com|easyforum4u.com|easyforum4you.com|easyforumforyou.com|ebboard.com|fansforum.info|forum-box.com|forumdesfans.com|forumforever.com|forumserv.com|freeboardonline.com|freeboardpro.com|freeforum4you.com|freeforumforyou.com|freeforumsonline.com|hereboard.com|hereforum.com|hotboardonline.com|hotboardpro.com|hotforum4u.com|hotforum4you.com|hotforumforyou.com|hotforumlive.com|hotforumonline.com|leforum.cc|leforum.eu|leforum.tv|level52.com|lolforum.com|lolforum.info|majz.com|mcboard.com|mwik.com|mybb.asia|myboardlive.com|myboardpro.com|myforumlive.com|newboardlive.com|newboardonline.com|newboardpro.com|newforum4you.com|newforumforyou.com|newforumlive.com|ogameteam.com|phpboard1.com|phpforum3.com|positiforum.info|probb.asia|quickbboard.com|quickforum.info|readboard.com|smileforum.info|soforums.com|theforumcity.com|topbboard.com|urbboard.com|urtopic.com|vraiforum.com|webrpg.info|xoo.it|xooit.asia|xooit.be|xooit.biz|xooit.cc|xooit.co.uk|xooit.com|xooit.eu|xooit.fr|xooit.info|xooit.name|xooit.org|xooit.org.uk|xooit.tv|yeahboard.com|yourboardlive.com|yourboardpro.com|yourdiscussionlive.com|yourdiscussionpro.com|ze-forum.com
+@@/flash-ads/$script,domain=1freebb.com|babaorum.info|bboard.asia|bboard.it|bboardhost.com|bboardit.com|bestbboard.com|bestboardlive.com|bestboardonline.com|bestboardpro.com|bestforum4u.com|bestforum4you.com|bestforumforyou.com|bestoof.com|bestthread.com|bigboardlive.com|bigboardpro.com|bigforum4u.com|bigforum4you.com|bigforumforyou.com|board.ag|board.fm|board.tc|board.vg|boardforyou.com|cforum.info|clicforum.com|clicforum.fr|coolforum.info|discuforum.info|discussion4you.com|discussionforyou.com|easyforum2u.com|easyforum4u.com|easyforum4you.com|easyforumforyou.com|ebboard.com|fansforum.info|forum-box.com|forumdesfans.com|forumforever.com|forumserv.com|freeboardonline.com|freeboardpro.com|freeforum4you.com|freeforumforyou.com|freeforumsonline.com|hereboard.com|hereforum.com|hotboardonline.com|hotboardpro.com|hotforum4u.com|hotforum4you.com|hotforumforyou.com|hotforumlive.com|hotforumonline.com|leforum.cc|leforum.eu|leforum.tv|level52.com|lolforum.com|lolforum.info|majz.com|mcboard.com|mwik.com|mybb.asia|myboardlive.com|myboardpro.com|myforumlive.com|newboardlive.com|newboardonline.com|newboardpro.com|newforum4you.com|newforumforyou.com|newforumlive.com|ogameteam.com|phpboard1.com|phpforum3.com|positiforum.info|probb.asia|quickbboard.com|quickforum.info|readboard.com|smileforum.info|soforums.com|theforumcity.com|topbboard.com|urbboard.com|urtopic.com|vraiforum.com|webrpg.info|xoo.it|xooit.asia|xooit.be|xooit.biz|xooit.cc|xooit.co.uk|xooit.com|xooit.eu|xooit.fr|xooit.info|xooit.name|xooit.org|xooit.org.uk|xooit.tv|yeahboard.com|yourboardlive.com|yourboardpro.com|yourdiscussionlive.com|yourdiscussionpro.com|ze-forum.com
 @@||0xp.be/js/adframe.js
 @@||anime-story.com/js/ads.js
 @@||awsclic.com/js/advertisement.js
@@ -2008,8 +2008,8 @@ jeuxjeuxjeux.fr#@#.ad-left
 vente-a-domicile.fr#@#.ad-left
 vente-a-domicile.fr#@#.ad-right
 pointvente.fr#@#.ad_line
-scooter-infos.com#@#.adlist
 deyapa.fr#@#.adlist
+scooter-infos.com#@#.adlist
 flysurf.com#@#.ads_area
 astuces-trucs.com#@#.adsense_sidebar
 gamexpo.fr#@#.advertisment
