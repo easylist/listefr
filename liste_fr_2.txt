@@ -106,9 +106,6 @@ _regiepub/
 ||euro-clic.com^$third-party
 ||eurowebbiz.com^$third-party
 ||every.com^$third-party
-||exampleads.com^
-||exampleads.net^
-||exampleadsss.com^
 ||f5biz.biz^$third-party
 ||femme-cougar.tv^$image,~image,popup,third-party
 ||fr.ard.yahoo.com^
@@ -1894,8 +1891,8 @@ scan-manga.com###pub_f3
 !----------------------- Exceptions d'elements -----------------------!
 fichier.net#@##contentAd
 ratus13.com#@#.ad-block
-jeuxjeuxjeux.fr#@#.ad-left
 vente-a-domicile.fr#@#.ad-left
+jeuxjeuxjeux.fr#@#.ad-left
 vente-a-domicile.fr#@#.ad-right
 pointvente.fr#@#.ad_line
 scooter-infos.com#@#.adlist
