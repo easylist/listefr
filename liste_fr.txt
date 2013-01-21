@@ -762,6 +762,7 @@ _regiepub/
 ||psvitagen.fr/pub/
 ||rabbitfinder.com/bannieres/
 ||raje.fr/images/banners/
+||releve.qc.ca/quebec/bannieres/
 ||rireetchansons.fr/rire/pub-
 ||rireetchansons.fr/rire/pub2-
 ||rireetchansons.fr/skin//
@@ -886,7 +887,6 @@ _regiepub/
 ||wawa-mania.*/ph.jpg
 ||wawacity.su/popup.html
 ||webchoc.com/pop.js
-||releve.qc.ca/quebec/bannieres/*
 ||weblettres.net/@images/pub/
 ||webmanager.biz/ads/
 ||webmarchand.be/js/ov.js.php?
@@ -929,6 +929,8 @@ _regiepub/
 ###adsCarre
 ###adsHaut
 ###adspave
+###adtopbanner
+###adtopbox
 ###annonce_pub
 ###annonce_pub2
 ###annoncepub
@@ -980,7 +982,6 @@ _regiepub/
 ###module_publicite
 ###news-droite-publicite
 ###news_pub_centre
-###pub_1
 ###pavePub
 ###pave_pub
 ###pavepub
@@ -1018,6 +1019,7 @@ _regiepub/
 ###pubPave2
 ###pubTop
 ###pubVideo
+###pub_1
 ###pub_ban
 ###pub_banner
 ###pub_bottom
@@ -1072,6 +1074,7 @@ _regiepub/
 ###zone_pub
 ###zone_pub1
 ##._meltypub
+##.adholderban
 ##.ads-post-full
 ##.adspave
 ##.annonces_google
@@ -1114,9 +1117,6 @@ _regiepub/
 ##.pub-carre
 ##.pub-gigaban
 ##.pub-img
-##.adholderban
-###adtopbanner
-###adtopbox
 ##.pub-megaban
 ##.pub-megabanner
 ##.pub-pave
@@ -1311,6 +1311,7 @@ boursier.com###footer-partenaires
 braindamaged.fr##a[href^="index.php?adclick="]
 businessnews.com.tn###megaban-1000
 buzzdays.me##div[style="height: 250px; left: 420px; position: absolute; top:520px; width: 300px;  background-color: #fff;"]
+calculitineraires.fr##table[style="width:850px;text-align: center;margin:auto;"]
 canalplus.fr##.video-preroll
 canalplus.fr##.visuel_preroll
 canalplus.fr,d8.tv##.banner
@@ -1347,7 +1348,6 @@ codeshttp.com##table[height="118"]
 commentcamarche.net###ba_position4
 commentcamarche.net###partners_offers
 commentcamarche.net##.advertising
-releve.qc.ca###entete-banniere
 commentcamarche.net,journaldesfemmes.com,linternaute.com##.publi-info
 commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##.google_grand_rectangle
 commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##.skyscraper_large
@@ -1356,7 +1356,6 @@ competition.dz###right_banner
 competition.dz##.header-b1-banner
 copine-coquine.com##div[style^="width:300px;height:250px"]
 courrier-picard.fr##.megaban-top
-depannetonpc.net##TD[align="left"][colspan="3"] > DIV[style="width:70%;"]
 courrierlaval.com###add_bottom
 courrierlaval.com###add_top
 covoiturage.fr###comuto_insidepage_ads
@@ -1368,6 +1367,7 @@ decitre.fr##.advertise
 deezer.com###bottom
 deezer.com##.pub
 deezer.com##div[id^="ads"]
+depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
 desmatures.com##.pub468100top
 desmatures.com##.sidebarpub350250
 dinogaia.com###tableau_info
@@ -1423,7 +1423,6 @@ fluket.com##.fixe
 focus-numerique.com###pubs
 football.fr###hablinkzone
 formation-dz.com##.mod_banners
-mapiaule.com##.pub
 forum-actif.net##.tradeDoubler
 forum.oujdacity.net###footer
 forum.pcastuces.com##table[width="728"][height="90"][align="center"]
@@ -1606,6 +1605,7 @@ maisonapart.com##.map_fond_pub
 maisonapart.com##.map_pdp_pub
 manga-sanctuary.com###hab
 mangario.fr##.partenaires
+mapiaule.com##.pub
 mappy.com###a300x600
 mappy.com##.leftHabillage
 mappy.com##.rightHabillage
@@ -1734,6 +1734,7 @@ radiofrance.fr##table[width="765"][height="100"]
 raje.fr##.ads
 redlist-ultimate.be###partenaire
 redlist-ultimate.be##div[style="display:none;"] + .block
+releve.qc.ca###entete-banniere
 rfi.fr###caroussel_partenaires
 routard.com##[id^="A2dEmplacement"]
 rtbf.be###bannerLeaderboard
@@ -1805,7 +1806,6 @@ test-mobile.fr##.clickleft
 test-mobile.fr##.clickright
 test-mobile.fr##.clicktop
 tetesaclaques.tv###bigBox
-calculitineraires.fr##TABLE[style="width:850px;text-align: center;margin:auto;"]
 tf1.fr###ible149256
 tomtomax.fr##a[href^="http://clk.tradedoubler.com/"]
 top-serie.org###top
@@ -1816,9 +1816,9 @@ trimag.fr##.banner
 tripadvisor.fr##.commerce
 troc-velo.com###publine
 trocdestrains.com##.boite-partenaire-v
-tsa-algerie.com##.zone_annonceurs
 tsa-algerie.com###banner728
 tsa-algerie.com###floatSide
+tsa-algerie.com##.zone_annonceurs
 tube-teen.fr###partenaire_img
 tube-teen.fr###partenaire_link
 turbo.fr##.croco.betclic
@@ -1999,7 +1999,6 @@ scan-manga.com###pub_f3
 @@||awsclic.com/js/advertisement.js
 @@||claymore.fr/advertisement.js
 @@||coursdeprofs.fr/adframe.js
-@@||unjourunerecette.fr/css/publicite-ads.css
 @@||debrideurstreaming.com^*/adsense.js
 @@||gratuitcul.com/ad.php?ad=$script
 @@||hamachifrance.com/advertisement-adblock.js
@@ -2017,6 +2016,7 @@ scan-manga.com###pub_f3
 @@||scan-manga.com/js/show_ads.js
 @@||sexytout.com/ad.php?$script
 @@||spox.fr/advertisement.js
+@@||unjourunerecette.fr/css/publicite-ads.css
 @@||videoxadulte.com/js/adframe.js
 @@||wakanim.tv/content/js/ads.js?
 !
@@ -2024,8 +2024,8 @@ scan-manga.com###pub_f3
 !
 fichier.net#@##contentAd
 ratus13.com#@#.ad-block
-vente-a-domicile.fr#@#.ad-left
 jeuxjeuxjeux.fr#@#.ad-left
+vente-a-domicile.fr#@#.ad-left
 vente-a-domicile.fr#@#.ad-right
 pointvente.fr#@#.ad_line
 scooter-infos.com#@#.adlist
