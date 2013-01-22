@@ -887,6 +887,10 @@ _regiepub/
 ||video-2-cul.com/javascript/functions.js
 ||videos-de-celebrites.com/pub/
 ||vidule.com^*/u.js
+||rugby365.fr/pub.php?*
+||rugby365.fr.fr/pub.php?*
+||mercato365.fr/pub.php?*
+||sport365.fr/pub.php?*
 ||viedemerde.fr/modules/fr/pamelarose_2012/
 ||visio-x.fr/js/x1.js
 ||wawa-mania.*/ph.jpg
@@ -1080,6 +1084,7 @@ _regiepub/
 ##.adholderban
 ##.ads-post-full
 ##.adspave
+###spaceForPub
 ##.annonces_google
 ##.blocPub
 ##.bloc_pub_left
@@ -1396,6 +1401,9 @@ elwatan.com###megabanner
 elwatan.com###pub_habillage_lien
 emule-island.ru###centre_haut
 emule-island.ru###droite_bas
+sport365.fr,rugby365.fr,football365.fr,mercato365.com###ban_top
+sport365.fr,rugby365.fr,football365.fr,mercato365.com###ban_bottom
+sport365.fr,rugby365.fr,rugby365.fr.fr,mercato365.com##.ads
 emule-island.ru###droite_haut
 emule-island.ru###offerBox
 emule-island.ru###pub
