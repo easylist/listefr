@@ -138,7 +138,9 @@ def main (location):
                 except(IOError, OSError):
                     # Ignore errors resulting from deleting files, as they likely indicate that the file has already been deleted
                     pass
-
+	# Add checksum
+	varliste = "liste_fr_2.txt"
+	pipe = subprocess.call(["perl", "addChecksum.pl", varliste])
     # If in a repository, offer to commit any changes
     if repository:
         commit(repository, basecommand, originaldifference)
