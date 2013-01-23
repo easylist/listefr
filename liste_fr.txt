@@ -19,12 +19,12 @@
 /adserverpub?
 /adview/*
 /bandeaupublicite/*
+/eco_ads/*
 /pub300-250.
 /pub728-90.
 /publicite-
 /publicite.
 /publicite/*
-/eco_ads/*
 /publicite2.
 /publicite3.
 /publicite_
@@ -231,6 +231,7 @@ _regiepub/
 ||beurette-passion.com/ban/$third-party
 ||beurettes-faciles.com/promo/
 ||bitchvolley.com/ban/$third-party
+||canaljeuvideo.com/var/storage/habillages/
 ||carasexe.com/promo/$third-party
 ||choubijoux.com/image/banniere-$third-party
 ||clip-x.net/images/pub/
@@ -259,7 +260,6 @@ _regiepub/
 ||gateway.eravage.com/hit.php?$image,~image,popup
 ||gayxperience.com/index.php?$third-party
 ||globirank.com/image/$domain=unlock-stream.com
-||canaljeuvideo.com/var/storage/habillages/
 ||grenierdumaroc.com^$domain=movizfr.com
 ||grosse-passion.com/ban/$third-party
 ||hardcore-passion.com/ban/$third-party
@@ -468,6 +468,7 @@ _regiepub/
 ||dsgen.fr/pub/
 ||dzautos.com/swf/
 ||dzfoot.com/upload/hs_dzfoot-com.jpg
+||e-orientations.com/bdd/habillage/
 ||e-sante.fr/sites/default/files/templates/$image
 ||easyrencontre.com/promo
 ||easyvols.org/leparisien/
@@ -573,7 +574,6 @@ _regiepub/
 ||iphone4.fr/bannieres/
 ||iphonegen.fr/pub/
 ||itnewsinfo.com/pub/
-||e-orientations.com/bdd/habillage/*
 ||itnewsinfo.com^*/pub/
 ||jacquieetmicheltv.net^*/thumbpubressources/
 ||jacquieetmicheltv2.net^*/thumbpubressources/
@@ -645,7 +645,6 @@ _regiepub/
 ||lettres-modeles.fr/include/_iframe300x600.php
 ||lettres-modeles.fr/include/_iframe728x90.php
 ||lettres-modeles.fr^*/lmodel.php
-||meteo.nc/images/stories/accueil/regie/
 ||lexpressiondz.com/files/banners/
 ||libe.com/libepartnerships/
 ||libertyland.tv/libertyland/images/partenaire/
@@ -662,6 +661,8 @@ _regiepub/
 ||macbidouille.com/banners/
 ||maghrebemergent.com/images/banners/
 ||maghrebemergent.info/images/banners/
+||manga-news.com/public/banners/$object
+||manga-news.com/public/banners/HABILLAGE_
 ||mappy.com/*/files/campaigns/
 ||mappy.com/services/annoncesjaunes/
 ||marianne.net/photo/background-
@@ -687,6 +688,7 @@ _regiepub/
 ||mesliensx.com/images/bannieres/
 ||mesnotices.fr/shopping/
 ||metaboli.fr/partners/gamekult/
+||meteo.nc/images/stories/accueil/regie/
 ||midinews.com^*/oas/oas.php?
 ||milisexe.com/vador*.html
 ||millenium.org/images/contenu/habillages/
@@ -747,7 +749,6 @@ _regiepub/
 ||porn.fr/v3/index.php?
 ||porno-gratuit.ws/boost/
 ||porno-gratuit.ws/images/catcher_
-||manga-news.com/public/banners/*$object
 ||porno-gratuit.ws/infopop.php
 ||porno-gratuit.ws/trade/$image,~image,popup
 ||porno-gratuit.ws/videos-gratuites.php$image,~image,popup
@@ -859,6 +860,7 @@ _regiepub/
 ||torrentfrancais.com/z2/firefox-part$image
 ||toutporno.com/boost_niche/
 ||toutporno.com^*/pub_col.js
+||tracking.easyzic.com^
 ||trefle.com/js/modules/su.*.js
 ||tribunejuive.info/wp-content/plugins/smart-pop-up/
 ||tribunejuive.info/wp-content/uploads/2012/11/PCC_TribuneJuive.swf
@@ -904,7 +906,6 @@ _regiepub/
 ||webmarchand.be/js/ov.js.php?
 ||webstar-auto.com/banners_pub/
 ||webstar-auto.com/iframe_autos_neufs_occasions.php
-||manga-news.com/public/banners/HABILLAGE_
 ||weemove.com/ressources/images/habillages/
 ||wii-info.fr/ban/
 ||wiigen.fr/pub/
@@ -921,7 +922,6 @@ _regiepub/
 ||zataz.com/cdn-cgi/pe/bag?
 ||zataz.com/images/images_news/
 ||zone911pub.com^
-||tracking.easyzic.com^
 ||zonebourse.com/content_o_a_s.php?
 ||zoomdici.fr/media/pub/
 ! Anti-Adblock
@@ -1333,7 +1333,6 @@ canalturf.com###content > div[style="width:100%; z-index: 100; margin-bottom:10p
 cbanque.com##.habillage
 cdiscount.com###downMall
 cdiscount.com##.downinbackMaullContainer
-manga-news.com##.banner
 cdiscount.com##.ptnlnk_table
 cdmail.fr###banner
 centerblog.net###gauche > iframe[width="300"][height="250"]
@@ -1362,7 +1361,6 @@ codeshttp.com##table[height="100"]
 codeshttp.com##table[height="118"]
 commentcamarche.net###ba_position4
 commentcamarche.net###partners_offers
-lenouveleconomiste.fr##A[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 commentcamarche.net##.advertising
 commentcamarche.net,journaldesfemmes.com,linternaute.com##.publi-info
 commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##.google_grand_rectangle
@@ -1371,7 +1369,6 @@ commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##d
 competition.dz###right_banner
 competition.dz##.header-b1-banner
 copine-coquine.com##div[style^="width:300px;height:250px"]
-e-orientations.com###habillage_pub
 courrier-picard.fr##.megaban-top
 courrierlaval.com###add_bottom
 courrierlaval.com###add_top
@@ -1397,6 +1394,7 @@ douniamusic.com##div[style="margin-top:10px;float:left;height:250px;width:250px;
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 dzfoot.com##a[href^="http://www.medncom.com/regie/"]
 e-booksland.com###pb1
+e-orientations.com###habillage_pub
 e-sante.fr##.ad
 e-sante.fr##.public-info
 easyvoyage.com###esv-pub-hp
@@ -1425,9 +1423,6 @@ extremepc.fr###promoHead + hr + .center
 extremepc.fr###pub
 extremepc.fr###pub2an
 faclic.com##.lbx_content
-gmx.fr##.add
-gmx.fr##.addwide
-gmx.fr##.sideadd
 faclic.com##.lbx_overlay
 fan-de-cinema.com##.megasquare
 fan-de-cinema.com##.topmargin
@@ -1435,7 +1430,6 @@ fansub-resistance.net##div[id^="pub_468x60_"]
 fansub-resistance.net##div[id^="pub_728x90_"]
 femmemag.re###block_regie_pub_bas_article
 filmscine.com###pb1
-jvn.com###skin
 filmze.com##.fixe
 flights-results.liligo.fr###pulledbanner
 flights-results.liligo.fr###pulledbanner-right-top
@@ -1473,11 +1467,13 @@ gameblog.fr###overlayFnac
 gameblog.fr##.noPremium
 gameblog.fr##div[style=" background-color: #c0c0c0; padding: 7px; height: 260px; overflow: hidden;"]
 gaytag.net##.pub96590
-lokan.fr##.sponsors
 gentside.com###kk-widget
 gentside.com,maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
 genybet.fr##.GGFODTBDCS
 girlsgogames.fr##.categoryBanner
+gmx.fr##.add
+gmx.fr##.addwide
+gmx.fr##.sideadd
 golem13.fr##.banner-halfpage
 google.fr###rhsline
 google.fr###tadsb
@@ -1521,6 +1517,7 @@ journaldugeek.com##.sidebanner
 journaldugeek.com##.widget-current-offers
 judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
 judgehype.com###partenaire
+jvn.com###skin
 kamaz.fr##.megaBan
 korben.info###samsarin_php_widget-5 div[style*="width: 125px; height: 125px"]
 korben.info###samsarin_php_widget-9 a[style^="display:block"]
@@ -1572,6 +1569,7 @@ lemoteur.fr##.slpartner
 lemoteurdusexe.com###partenaires
 lemouv.fr###block-lemouv_bloc-pub_ftv_right
 lemouv.fr###block-lemouv_bloc-pub_ftv_top
+lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 leparisien.fr###parisien-partenaires
 leparisien.fr##.bloc-pratique
 leparisien.fr##.parisien-section.pratique
@@ -1616,6 +1614,7 @@ logitheque.com###bloc-droit-haut-250-250
 logitheque.com###bloc-droite-bas-250-250
 logitheque.com##.description + .telechargement
 loisirados.com###intersticiel
+lokan.fr##.sponsors
 lol89.com##.s-300
 lonelyplanet.fr##table[width="900"][height="90"][align="center"]
 mac4ever.com###home-conseils
@@ -1628,6 +1627,7 @@ maison-facile.com##.texteb
 maison.com##.ad300x111
 maisonapart.com##.map_fond_pub
 maisonapart.com##.map_pdp_pub
+manga-news.com##.banner
 manga-sanctuary.com###hab
 mangario.fr##.partenaires
 mapiaule.com##.pub

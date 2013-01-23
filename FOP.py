@@ -16,7 +16,7 @@
     You should have received a copy of the GNU General Public License
     along with this program. If not, see <http://www.gnu.org/licenses/>."""
 # FOP version number
-VERSION = 3.5
+VERSION = 3.6
 
 # Import the key modules
 import collections, filecmp, os, re, subprocess, sys
@@ -138,10 +138,9 @@ def main (location):
                 except(IOError, OSError):
                     # Ignore errors resulting from deleting files, as they likely indicate that the file has already been deleted
                     pass
-	# Add checksum
-	varliste = "liste_fr_2.txt"
-	pipe = subprocess.call(["perl", "addChecksum.pl", varliste])
-    # If in a repository, offer to commit any changes
+	# If in a repository, offer to commit any changes
+    varliste = "liste_fr_2.txt"
+    pipe = subprocess.call(["perl", "addChecksum.pl", varliste])
     if repository:
         commit(repository, basecommand, originaldifference)
 
@@ -340,27 +339,20 @@ def removeunnecessarywildcards (filtertext):
     """ Where possible, remove unnecessary wildcards from the beginnings
     and ends of blocking filters."""
     whitelist = False
-    if filtertext[0:1] == "@@":
+    hadStar = False
+    if filtertext[0:2] == "@@":
         whitelist = True
         filtertext = filtertext[2:]
-    while True:
-        if filtertext[0] != "*":
-            break
-        else:
-            proposed = filtertext[1:]
-            if not proposed or proposed[0] == "|":
-                break
-            else:
-                filtertext = proposed
-    while True:
-        if filtertext[-1] != "*":
-            break
-        else:
-            proposed = filtertext[:-1]
-            if not proposed or proposed[-1] == "|" or proposed[0] == "/" and proposed[-1] == "/":
-                break
-            else:
-                filtertext = proposed
+    while len(filtertext) > 1 and filtertext[0] == "*" and not filtertext[1] == "|":
+        filtertext = filtertext[1:]
+        hadStar = True
+    while len(filtertext) > 1 and filtertext[-1] == "*" and not filtertext[-2] == "|":
+        filtertext = filtertext[:-1]
+        hadStar = True
+    if hadStar and filtertext[0] == "/" and filtertext[-1] == "/":
+        filtertext = "{filtertext}*".format(filtertext = filtertext)
+    if filtertext == "*":
+        filtertext = ""
     if whitelist:
         filtertext = "@@{filtertext}".format(filtertext = filtertext)
     return filtertext
