@@ -1,4 +1,5 @@
 [Adblock Plus 1.1]
+! Checksum: HlnoMYD0QWo/mSelSU4WOQ
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -2051,12 +2052,11 @@ scan-manga.com###pub_f3
 !
 fichier.net#@##contentAd
 ratus13.com#@#.ad-block
-vente-a-domicile.fr#@#.ad-left
-jeuxjeuxjeux.fr#@#.ad-left
+jeuxjeuxjeux.fr,vente-a-domicile.fr#@#.ad-left
 vente-a-domicile.fr#@#.ad-right
 pointvente.fr#@#.ad_line
-deyapa.fr#@#.adlist
 scooter-infos.com#@#.adlist
+deyapa.fr#@#.adlist
 flysurf.com#@#.ads_area
 astuces-trucs.com#@#.adsense_sidebar
 gamexpo.fr#@#.advertisment
