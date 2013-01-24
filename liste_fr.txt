@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: jydeHtmWWpQAmfw9viO3Zw
+! Checksum: wTMMbeCbuC6McXLe7bRgyg
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -2029,6 +2029,7 @@ scan-manga.com###pub_f3
 @@||claymore.fr/advertisement.js
 @@||coursdeprofs.fr/adframe.js
 @@||debrideurstreaming.com^*/adsense.js
+@@||googleads.g.doubleclick.net/favicon.ico$image
 @@||gratuitcul.com/ad.php?ad=$script
 @@||hamachifrance.com/advertisement-adblock.js
 @@||instantmanga.com/js/advertisement.js
