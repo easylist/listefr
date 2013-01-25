@@ -1,0 +1,1 @@
+hg pull -u
