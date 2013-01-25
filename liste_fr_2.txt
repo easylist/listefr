@@ -1,4 +1,5 @@
 [Adblock Plus 1.1]
+! Checksum: fTLQXao+AWBw9uokkjSReA
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -40,8 +41,6 @@ _publicite_
 _regiepub/
 !
 !----------------------- Annonceurs -----------------------!
-!
-!
 !
 ||1sponsor.com^$third-party
 ||2mdn.net^$object-subrequest,domain=dhnet.be
