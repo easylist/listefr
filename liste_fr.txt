@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: eUCxfmcUpWBSU642IWrdOg
+! Checksum: JS0JBoULzL9sFocjTgDX9A
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1100,7 +1100,7 @@ _regiepub/
 ##.block_pub
 ##.blocpub
 ##.cadre-pub-google
-##.carre_pub
+~voyageforum.com##.carre_pub
 ##.carrepub
 ##.container-pubcarre
 ##.conteneur_pub_vertical
@@ -1882,6 +1882,14 @@ vo2.fr###pub_background
 voila.fr###nosPartenaires
 voila.fr##.footer_tr
 voyage-economique.fr##.sideaff-container
+voyageforum.com##.annoncer_sur
+voyageforum.com##.carre_pub[style="border-top: 1px white solid;"]
+voyageforum.com##.carre_pub[style="padding-top:7px; padding-left: 12px; padding-right: 10px; padding-bottom: 0px;  border-top: 1px solid white; background2-color: #EBF4F9 "]
+voyageforum.com##.carre_pub[style="padding-top:7px; padding-left: 4px; padding-right: 4px; padding-bottom: 0px; "]
+voyageforum.com##.carre_pub[width="100%"][cellspacing="0"][cellpadding="0"][border="0"]
+voyageforum.com##table.carre_pub + * + * + * + * + .carre_pub
+voyageforum.com##table.carre_pub + * + * + .carre_pub
+voyageforum.com##table[width="300"][height="125"][cellspacing="0"][cellpadding="0"][border="0"][align="right"]
 voyages-sncf.com###block-vsct_vsca-megabanner
 voyages.liberation.fr###vHeader-pub
 wakanim.tv##div[style="width: 728px; margin: auto; height: 140px;overflow:hidden"]
@@ -2054,6 +2062,7 @@ scan-manga.com###pub_f3
 @@||spox.fr/advertisement.js
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||videoxadulte.com/js/adframe.js
+@@||voyageforum.com/static/adframe.js?
 @@||wakanim.tv/content/js/ads.js?
 !
 !----------------------- Exceptions d'éléments -----------------------!
