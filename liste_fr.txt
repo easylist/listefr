@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: exX0SSdYTZHAg9dzkf2Qdg
+! Checksum: j2m8s1QNSxCNw+JLQCAn1w
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -109,6 +109,7 @@ _regiepub/
 ||euro-clic.com^$third-party
 ||eurowebbiz.com^$third-party
 ||every.com^$third-party
+||exchange.gouik.com^$third-party
 ||f5biz.biz^$third-party
 ||femme-cougar.tv^$image,~image,popup,third-party
 ||fr.ard.yahoo.com^
@@ -277,6 +278,7 @@ _regiepub/
 ||issentiel.com/media/affiliate/banner/$third-party
 ||jardisexe.com/ban/$third-party
 ||jeux-flash-gratis.com/pics/$domain=la-musique-rai.com
+||jeux-web.com/pub/
 ||jrphotographie.com/pub/
 ||kamehashop.fr/partenaire/$domain=sky-animes.com
 ||kiporn.com^$image,~image,popup,domain=yourporno.fr
@@ -760,6 +762,7 @@ _regiepub/
 ||portaildusexe.com/ban/
 ||portaildusexe.com/graphics/ban/
 ||pp.free.fr^
+||prelude.me/public/pub/
 ||presse-citron.net^*/chicklets_pub/
 ||pro.cdmail.fr/pro/images/
 ||ps3gen.fr/pub/
