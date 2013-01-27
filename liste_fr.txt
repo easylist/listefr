@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: CiJKhONgdoUFYcPFugZ88g
+! Checksum: KsRQrGAgCHa/tqw2lmsRYA
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -12,6 +12,7 @@
 !
 !----------------------- Filtres génériques ----------------------!
 !
+-ad-180x150px.
 -publicite.
 .be/ads/
 .ch/ads/
@@ -1223,6 +1224,7 @@ _regiepub/
 ##.bloc_pub_300
 ##.pub-300x250
 ##.pub-728
+##.pub-728x90
 ##.pub160x600
 ~pharmasite.fr##.pub300
 ##.pub300250
@@ -1481,6 +1483,7 @@ girlsgogames.fr##.categoryBanner
 gmx.fr##.add
 gmx.fr##.addwide
 gmx.fr##.sideadd
+goldenboys.fr##.right-minipub
 golem13.fr##.banner-halfpage
 google.fr###rhsline
 google.fr###tadsb
