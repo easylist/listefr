@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: c4who9yDJQljLlWudko04w
+! Checksum: ZyOLO8d9yqnsXFSvt6EkHQ
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -2025,8 +2025,11 @@ scan-manga.com###pub_f3
 @@||rockman.fr/Ads/$image
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||securite.01net.com/crossdomain.xml
-@@||smartadserver.com/call/pubj/$script,domain=alloclips.com|player.canalplus.fr|portail.free.fr
+@@||smartadserver.com/call/pubj/$object-subrequest,domain=ecranlarge.com
+@@||smartadserver.com/call/pubj/$script,domain=alloclips.com|ecranlarge.com|player.canalplus.fr|portail.free.fr
+@@||smartadserver.com/crossdomain.xml$object-subrequest,domain=ecranlarge.com
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
+@@||smartadserver.com/diff/$object-subrequest,domain=ecranlarge.com
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||static.touraineverte.com/banners/$image
 @@||static1.spilcdn.com/vda/vendor/flowplayer/ova.swf$domain=jeux.fr
