@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: 3RkciYnfBr/EWtc9SXg3+A
+! Checksum: GZCzueAiVpU5LNbP5FawAg
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1114,7 +1114,6 @@ _regiepub/
 ##.encart_pub
 ##.entete-pub
 ##.entete_pub
-##.fixe > a[href^="http://www.adcash.com/"]
 ##.footer-pub
 ##.footerpubleft
 ##.footerpubright
@@ -1202,7 +1201,6 @@ _regiepub/
 ##.widget_publicite
 ##.wrap-pub
 ##.zonepub
-##a[href^="http://www.crazyloader.com"]
 ! Dimensions
 ###Pub728x90
 ###blocPub300
