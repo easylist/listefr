@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: KIUwvIW5QVBVKbd22XObGw
+! Checksum: CTSFMR01Bw3RE42fvtmf2w
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -478,6 +478,7 @@ _regiepub/
 ||easyvols.org/liberation/
 ||economiematin.fr^*-ban-300x150.
 ||ecranlarge.com/js/entree_pub.
+||ecranlarge.com/pop_under.php$image,~image,popup
 ||ecrans.fr/pub.js
 ||edgecastcdn.net/8068BF/cdn-alg360/wp-content/uploads/*/Banner-Tag-
 ||egora.fr/sites/default/files/box-enq-acne.jpg
