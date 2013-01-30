@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: WwpUyPb06lVeDDkiooRcvg
+! Checksum: uPViXXXbWX19AOsYofsY0A
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -39,6 +39,7 @@ _publicite.
 _publicite1.
 _publicite_
 _regiepub/
+_static/ads/
 !
 !----------------------- Annonceurs -----------------------!
 !
@@ -2022,6 +2023,7 @@ scan-manga.com###pub_f3
 @@||planet-casio.com/images/ad/$image
 @@||rockman.fr/Ads/$image
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
+@@||sceno.fr/apps/1_static/ads/explain.png
 @@||securite.01net.com/crossdomain.xml
 @@||smartadserver.com/call/pubj/$object-subrequest,domain=ecranlarge.com
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|ecranlarge.com|player.canalplus.fr|portail.free.fr
