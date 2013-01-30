@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: gB7sgP3iNwYxf8GqWW6lng
+! Checksum: 3cBNu0+NrZHgV8tVGBT+2Q
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -729,6 +729,7 @@ _static/ads/
 ||one-piece-streaming.fr/images/min/pub/
 ||only-iphone.fr/wp-content/uploads/2011/05/CTM_280-280-iphone4-2.png
 ||onvasortir.com/pub/
+||openad.tf1.fr^
 ||orientation-chabab.com/img/pub.jpg
 ||otaku-attitude.net^*/okazu-manga.gif
 ||ouedkniss.com/images/ptipana/
@@ -1850,7 +1851,7 @@ test-mobile.fr##.clickleft
 test-mobile.fr##.clickright
 test-mobile.fr##.clicktop
 tetesaclaques.tv###bigBox
-tf1.fr###ible149256
+tf1.fr##.gam_wrapper
 tomtomax.fr##a[href^="http://clk.tradedoubler.com/"]
 top-serie.org###top
 topanalyse.com###pid_f
