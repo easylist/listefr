@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: 6y7ovmwP8SSua5FzXqUTyA
+! Checksum: gWwB2I+gqEKy9NNUGP9JHw
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1106,6 +1106,8 @@ _static/ads/
 ##.ads-post-full
 ##.adspave
 ##.annonces_google
+##.banner_300_250
+##.banner_468_60
 ##.blocPub
 ##.bloc_pub_left
 ##.bloc_rightcol_pub
@@ -1318,8 +1320,6 @@ auto-utilitaire.com##.banner_sp_cat
 auto-utilitaire.com##div[style="position:relative;width:728px;height:90px;"]
 autoreflex.com###arx_home_partenaires
 bakchich.info##.scpe-pub
-base64decode.org,base64encode.org##.banner_300_250
-base64decode.org,base64encode.org##.banner_468_60
 basketusa.com##.pub-1000x90-top
 beaute-test.com##.addict_bloc
 beezik.com##.ads
