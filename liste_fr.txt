@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: gWwB2I+gqEKy9NNUGP9JHw
+! Checksum: nALsvz3pHKZW8TJNgVqcuQ
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -533,6 +533,7 @@ _static/ads/
 ||francefootball.fr/pub/
 ||francetransactions.com/img/Habillage_
 ||frandroid.com^*/pub_affichage_web/
+||free-reseau.fr/images/ban_
 ||free-reseau.fr^*_p_u_b/
 ||free.fr^*/js/display_shopping_alice.js
 ||freenduro.com/images/banners/
@@ -938,7 +939,7 @@ _static/ads/
 ||zonebourse.com/content_o_a_s.php?
 ||zoomdici.fr/media/pub/
 ! Anti-Adblock
-||free-reseau.fr/images/fond_adp.png
+||free-reseau.fr/images/fond_rouge.png
 ||generation-nt.com*kiwi$image
 !
 !------------------ Éléments génériques -----------------!
@@ -1478,6 +1479,7 @@ frandroid.com##.pub
 frandroid.com##.widget.widget_text
 fredzone.org##.entry-pub
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
+free-reseau.fr##div[style^="width: 728px; height: 90px;"]
 freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 fullanimes.free.fr##a[href^="http://www.allopass.com/check/red.php"] > img
 gameblog.fr###gbPub728bas
