@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: q5AjxGIBM2KUv3uElhTzYA
+! Checksum: 6y7ovmwP8SSua5FzXqUTyA
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -576,6 +576,7 @@ _static/ads/
 ||hotvideo.fr/pub/
 ||hotvideo.fr^*/banners/
 ||humourquotidien.com/pubs/
+||illiweb.com/fa/optimisation_fdf/fr/88x31
 ||imabox.fr/pub/
 ||imados.fr^*/habbo/
 ||images.fan-de-cinema.com/habillage/
@@ -1460,6 +1461,7 @@ forum.malekal.com##fieldset[style="width:732px; height:115px"]
 forum.malekal.com##fieldset[style="width:732px; height:95px"]
 forum.oujdacity.net###footer
 forum.pcastuces.com##table[width="728"][height="90"][align="center"]
+forumactif.com##.partners
 forumactif.com##div[class^="add-google"]
 fr.audiofanzine.com##.price
 fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
