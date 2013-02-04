@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: Ul+JfjyFm/313VG9fAdnnA
+! Checksum: W4XtIjQ2ILn4nOJvdwKwpQ
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -535,7 +535,6 @@ _static/ads/
 ||francefootball.fr/pub/
 ||francetransactions.com/img/Habillage_
 ||frandroid.com^*/pub_affichage_web/
-||free-reseau.fr/images/ban_
 ||free.fr^*/js/display_shopping_alice.js
 ||freenduro.com/images/banners/
 ||freenduro.com^*/banners-pub/
@@ -2108,6 +2107,7 @@ latribune-online.com#@#.header_ads
 leboncoin.fr#@#.list-ads
 siteduzero.com#@#div[id^="div-gpt-ad-"]
 ! Anti-Adblock
+free-reseau.fr#@##PubFooter
 lokan.fr#@##adright
 macplus.net#@#.ad_zone
 letouriste.fr#@#.single-ad
