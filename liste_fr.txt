@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: 17bVuzD/KDn4pEGn16Awhg
+! Checksum: eqYXHlSqE8V3ZbZLDxqICg
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -227,6 +227,7 @@ _static/ads/
 ||annuaire-gay-sexe.com/annuaire/promo/$third-party
 ||annuaire-transsexuelle.com/annuaire/ban/$third-party
 ||asia-passion.fr/annuaire/ban/$third-party
+||assoc-amazon.fr^$domain=free-reseau.fr
 ||baise3x.com/ban/
 ||bazardux.com/index.php?$third-party
 ||belle-salope.fr/ban/$third-party
@@ -2069,6 +2070,7 @@ scan-manga.com###pub_f3
 @@||claymore.fr/advertisement.js
 @@||coursdeprofs.fr/adframe.js
 @@||debrideurstreaming.com^*/adsense.js
+@@||free-reseau.fr$elemhide
 @@||googleads.g.doubleclick.net/favicon.ico$image
 @@||gratuitcul.com/ad.php?ad=$script
 @@||hamachifrance.com/advertisement-adblock.js
@@ -2107,7 +2109,6 @@ latribune-online.com#@#.header_ads
 leboncoin.fr#@#.list-ads
 siteduzero.com#@#div[id^="div-gpt-ad-"]
 ! Anti-Adblock
-free-reseau.fr#@##Block_Pub_Right
 lokan.fr#@##adright
 macplus.net#@#.ad_zone
 letouriste.fr#@#.single-ad
