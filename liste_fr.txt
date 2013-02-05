@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: A8zc0UPEnbMMEP181FOKgA
+! Checksum: 1XMmAhkAUE1Ll8CyPhVy6Q
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -2083,15 +2083,14 @@ scan-manga.com###pub_f3
 @@||claymore.fr/advertisement.js
 @@||coursdeprofs.fr/adframe.js
 @@||debrideurstreaming.com^*/adsense.js
-@@||free-reseau.fr$elemhide
 @@||googleads.g.doubleclick.net/favicon.ico$image
 @@||gratuitcul.com/ad.php?ad=$script
 @@||hamachifrance.com/advertisement-adblock.js
 @@||instantmanga.com/js/advertisement.js
 @@||leetgamerz.net/js/advertisement
 @@||meteomedia.com/common/js/master/adframe.js
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=free-reseau.fr|hugolescargot.com|phonandroid.com|touraineverte.com|universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=free-reseau.fr|hugolescargot.com|phonandroid.com|touraineverte.com|universal-soundbank.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=hugolescargot.com|phonandroid.com|touraineverte.com|universal-soundbank.com
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hugolescargot.com|phonandroid.com|touraineverte.com|universal-soundbank.com
 @@||partage-facile.com$elemhide
 @@||partner.googleadservices.com/gampad/google_$script,domain=gentside.com|maxisciences.com|news-de-stars.com|simplyvoyage.com
 @@||playtv.fr$elemhide
