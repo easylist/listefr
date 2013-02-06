@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: JQ1XJXq5LdY4hQCfYxmnwQ
+! Checksum: Pg2HsSKevJJ0ibC7OO+hWg
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -87,6 +87,7 @@ _static/ads/
 ||cdn.nextperf.net^$third-party
 ||cercle-trafic.com$third-party
 ||clic-diffusion.com^$third-party
+||click-fr.com^$third-party
 ||comclick.com^$third-party
 ||connexplace.com^$third-party
 ||cougar-rencontre.net^$third-party
