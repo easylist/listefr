@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 4gFlGSwjzY3f6NY5ZZkbPA
+! Checksum: PFr0wqW+aNFxQHyWnRt3Zg
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -162,6 +162,7 @@ _static/ads/
 ||pub-france.com^$third-party
 ||pub.gdb-host.com^$third-party
 ||pub.media-clic.com^$third-party
+||pub.menara.ma^
 ||puboclic.com^$third-party
 ||reactivpub.fr^$third-party
 ||regie-agricole.com^*/pubs^$third-party
