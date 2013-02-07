@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: 0MLs6rabWkWza2F/EgERVg
+! Checksum: 19WQ1IT81riTXObU0oBPxQ
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -299,6 +299,7 @@ _static/ads/
 ||lebaiseur.com/ban/$third-party
 ||lebest.fr/banniere-externe/$domain=xvid-fr.com
 ||lesbienne-passion.com/ban/$third-party
+||librarything.fr/jswidget.php?
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||madamesimone.com/ban/$third-party
 ||magikmobile.com/iframe_$third-party
@@ -327,6 +328,7 @@ _static/ads/
 ||petite-garce.com/ban/$third-party
 ||planete-dangereuse.com/ban/$third-party
 ||pointscommuns.com/images/bannieres/$third-party
+||priceminister.com^*/seller_shop.swf
 ||projetsexe.com/bannieres/
 ||promo.eurolive.com^$third-party
 ||promo.partie-membres.com^
