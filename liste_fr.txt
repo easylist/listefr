@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: odf1KUa6l0ADdRD+60FXhA
+! Checksum: 0xMRJrc0rvS3YDmc8Js8Dg
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -44,6 +44,7 @@ _static/ads/
 !
 ||1sponsor.com^$third-party
 ||2mdn.net^$object-subrequest,domain=dhnet.be
+||46.249.58.117^$third-party
 ||a2dfp.net^$third-party
 ||acces-charme.com^$third-party
 ||acpublicite.fr^$third-party
