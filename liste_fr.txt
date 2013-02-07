@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: PFr0wqW+aNFxQHyWnRt3Zg
+! Checksum: xYq9wATuXQEyjacuuJDATw
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -82,6 +82,7 @@ _static/ads/
 ||biznolimit.com^$third-party
 ||blogbang.com^$third-party
 ||box.shopoon.fr^$third-party
+||campanja.com^$third-party
 ||camsympa.com^$third-party,domain=~camsympa.fr
 ||carpediem.fr^$third-party
 ||cdn.nextperf.net^$third-party
