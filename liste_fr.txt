@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: 19WQ1IT81riTXObU0oBPxQ
+! Checksum: ZWmt359NGucUD0VtqhpLIQ
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -501,6 +501,8 @@ _static/ads/
 ||egora.fr/sites/default/files/box-enq-acne.jpg
 ||egora.fr/sites/default/files/carre-dpc.gif
 ||egora.fr^*/files/pub/
+||elmoudjahid.com/images/pub
+||elmoudjahid.com/upload/img/vpub.
 ||elwatan.com/campub/
 ||elwatan.com/img/swf/
 ||emploi-energie.com/banniere/
@@ -1444,6 +1446,8 @@ ecranlarge.com###aNePasManquer
 ecranlarge.com###promo
 egora.fr###ban-gp
 egora.fr##div[style="position: relative; width: 1000px; height: 110px; z-index:10000;"]
+elmoudjahid.com###topads
+elmoudjahid.com##.vpub
 elwatan.com###megabanner
 elwatan.com###pub_habillage_lien
 emule-island.ru###centre_haut
