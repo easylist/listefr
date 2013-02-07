@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: GuplBYzCiwmloxMu32urSA
+! Checksum: umit6hRpgGfBe5gpgZnDVw
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -328,7 +328,7 @@ _static/ads/
 ||petite-garce.com/ban/$third-party
 ||planete-dangereuse.com/ban/$third-party
 ||pointscommuns.com/images/bannieres/$third-party
-||priceminister.com^*/seller_shop.swf
+||priceminister.com^*/seller_shop.swf$domain=legrenier.roumieux.com
 ||projetsexe.com/bannieres/
 ||promo.eurolive.com^$third-party
 ||promo.partie-membres.com^
