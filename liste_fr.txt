@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: Pg2HsSKevJJ0ibC7OO+hWg
+! Checksum: Fv28rsHH7C3GNb5Em27Vhg
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -238,6 +238,8 @@ _static/ads/
 ||beurettes-faciles.com/promo/
 ||bit.ly/WzWGrW$domain=pcinpact.com
 ||bitchvolley.com/ban/$third-party
+||bubblestat.com/canal_bub.bub?
+||bubblestat.com/canal_bub_slide.bub?
 ||canaljeuvideo.com/var/storage/habillages/
 ||carasexe.com/promo/$third-party
 ||choubijoux.com/image/banniere-$third-party
@@ -1380,6 +1382,8 @@ chuck-streaming.fr,hawaii-streaming.com,smash-streaming.com,the-big-bang-streami
 cinemay.com###pb1
 clicbienetre.com###popup
 clicbienetre.com##.sidebar_block
+click-fr.com###baner
+click-fr.com##.loc
 clubic.com###liensTransversaux
 clubic.com###listBlock_espacePartenaires
 clubic.com###listBlock_mediatis
