@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: umit6hRpgGfBe5gpgZnDVw
+! Checksum: /amehj1q3QRv11ts3xxtAQ
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -260,7 +260,6 @@ _static/ads/
 ||euroclix.fr^$domain=176.31.96.119
 ||eurolive.com^$domain=les-photos-volees.com
 ||eurosportbet.loa24.com^$domain=eurosport.fr
-||external.priceminister.com^$domain=strasbourg-tramway.fr
 ||fille-sensuelle.fr/annuaire/promo/$third-party
 ||films-2-boules.com/promo/$third-party
 ||findmysexfriend.com/$popup,domain=extremepc.fr
@@ -328,7 +327,8 @@ _static/ads/
 ||petite-garce.com/ban/$third-party
 ||planete-dangereuse.com/ban/$third-party
 ||pointscommuns.com/images/bannieres/$third-party
-||priceminister.com^*/seller_shop.swf$domain=legrenier.roumieux.com
+||priceminister.com^*/referral_widget.swf$third-party
+||priceminister.com^*/seller_shop.swf$domain=legrenier.roumieux.com|strasbourg-tramway.fr
 ||projetsexe.com/bannieres/
 ||promo.eurolive.com^$third-party
 ||promo.partie-membres.com^
