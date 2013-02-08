@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: DNZaerKmLIu58Aabsz5v6A
+! Checksum: LYHDRmngL9Y9vZehDOMg/Q
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1440,6 +1440,7 @@ dogzer.com###header_tr_banniere
 douniamusic.com##div[style="float:left;width:500px;height:300px;"]
 douniamusic.com##div[style="margin-top:10px;float:left;height:250px;width:250px;"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
+dramapassion.com###free_pub_head
 dzfoot.com##a[href^="http://www.medncom.com/regie/"]
 e-booksland.com###pb1
 e-orientations.com###habillage_pub
@@ -2101,6 +2102,7 @@ sofoot.com##.HOULALA
 @@||claymore.fr/advertisement.js
 @@||coursdeprofs.fr/adframe.js
 @@||debrideurstreaming.com^*/adsense.js
+@@||dramapassion.com/js/advertisement.js
 @@||googleads.g.doubleclick.net/favicon.ico$image
 @@||gratuitcul.com/ad.php?ad=$script
 @@||hamachifrance.com/advertisement-adblock.js
