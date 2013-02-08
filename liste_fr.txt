@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: o51K4sHJp9kUJby6xT7S5Q
+! Checksum: 9HkHGbBK+L3zfn7NMZxBrg
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -800,6 +800,7 @@ _static/ads/
 ||pub.nyu-nyu.com^
 ||pub.petitfute.com^
 ||pub.plan-dial.com^
+||pub.webxfrance.org^
 ||rabbitfinder.com/bannieres/
 ||raje.fr/images/banners/
 ||regie.hiwit.org^
@@ -1491,6 +1492,7 @@ forum.malekal.com##fieldset[style="width:732px; height:115px"]
 forum.malekal.com##fieldset[style="width:732px; height:95px"]
 forum.oujdacity.net###footer
 forum.pcastuces.com##table[width="728"][height="90"][align="center"]
+forum.webxfrance.org##div[style="width:1230px; height: 110px; background-color: #eff1f1"]
 forumactif.com##.partners
 forumactif.com##div[class^="add-google"]
 fr.audiofanzine.com##.price
