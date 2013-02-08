@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 5kD2BvsZYvMMM8SKq5s0UQ
+! Checksum: +QHmXZqEUZAzeOoEWKFhJQ
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -804,6 +804,7 @@ _static/ads/
 ||pub.plan-dial.com^
 ||pub.webxfrance.org^
 ||rabbitfinder.com/bannieres/
+||radioclassique.fr^*/player_pub.php
 ||raje.fr/images/banners/
 ||regie.hiwit.org^
 ||releve.qc.ca/quebec/bannieres/
@@ -1061,6 +1062,7 @@ _static/ads/
 ###pubEncart
 ###pubEncart1
 ###pubEncart2
+###pubFlash
 ###pubFrame
 ###pubHaut
 ###pubHeader
