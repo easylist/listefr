@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: qyDimtbKMP23StVevyurxA
+! Checksum: o51K4sHJp9kUJby6xT7S5Q
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -958,7 +958,7 @@ _static/ads/
 ||zonebourse.com/content_o_a_s.php?
 ||zoomdici.fr/media/pub/
 ! Anti-Adblock
-||generation-nt.com*kiwi$image
+||generation-nt.com/img/kiwi-
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -1517,6 +1517,7 @@ gameblog.fr###overlayFnac
 gameblog.fr##.noPremium
 gameblog.fr##div[style=" background-color: #c0c0c0; padding: 7px; height: 260px; overflow: hidden;"]
 gaytag.net##.pub96590
+generation-nt.com##.bloc_boutique
 gentside.com###kk-widget
 gentside.com,maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
 genybet.fr##.GGFODTBDCS
