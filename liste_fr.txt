@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 9chaHnJ3x4OecM+ykAvTpg
+! Checksum: /Xxl7PZo/8htJOY3YqC1Bg
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -2033,6 +2033,7 @@ sofoot.com##.HOULALA
 @@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||gironde.fr/css/csspacker.jsp?css=$stylesheet
 @@||google.com/uds/$script,domain=rfm.fr|virginradio.fr
+@@||host3.adhese.be/tag/tagv1.js$script,domain=lavenir.net
 @@||images.newmedia.lu^*/adtech_video/
 @@||iphone4.fr/bannieres/header_icons.png
 @@||kapaza.be/*/ad_view_
