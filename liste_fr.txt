@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: SjRbGjwqnDEKhXyTsqhvTA
+! Checksum: vKEiN1qfp6M5xzyegLELJQ
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -151,6 +151,7 @@ _static/ads/
 ||partner.uncadeau.com^$third-party
 ||payglad.com^$third-party
 ||piximedia.fr^$third-party,domain=~allocine.fr
+||plista.com^$third-party
 ||pornravage.com^$third-party
 ||pornstreet.com^$popup,third-party
 ||promo.alienbiz.com^
