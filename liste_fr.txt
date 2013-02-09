@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Hfe8y+JTcEOJSzqI46oIGg
+! Checksum: grhqEbyqkrmEUGxFwg3/AQ
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -580,9 +580,12 @@ _static/ads/
 ||gratuit-xxx.com/images/boost/
 ||gratuit-xxx.com^*/boost_*.js
 ||groupolitan.be/fr/partners/iframe/
+||hamachifrance.com/img/images/goclecdpub.png
+||hamachifrance.com/img/images/goclecsos.png
+||hamachifrance.com/img/images/minegamelo.png
+||hamachifrance.com/img/images/parten*.jpg
+||hamachifrance.com/img/images/pubdrolwl.png
 ||hamachifrance.com^*/images/*banv.jpg
-||hamachifrance.com^*/images/banvg.jpg
-||hamachifrance.com^*/images/vg3.jpg
 ||handroit.com/Annonceur/
 ||hentai-moe.fr/themes/*/popup.js
 ||hentaigratuit.org/delaypub.js
@@ -1553,6 +1556,7 @@ gsmforum.tv###ad_board_after_forums
 gsmforum.tv###ad_global_below_navbar
 gulli.fr##.banner
 h-suki.com##div[style="width:1020px;\a margin-left: auto; text-align:center;\a margin-right: auto; height: 100px;"]
+hamachifrance.com##.box-1.deepest[style="min-height: 250px;"]
 hdfever.fr##.aliencable-link
 hdfever.fr##div[style="width: 728px; height: 90px; margin: auto; background-color: grey; box-shadow: 5px 5px 15px black; border: 4px solid grey; border-radius: 4px;"]
 helran.fr###text-7.widget.widget_text
@@ -2116,7 +2120,6 @@ sofoot.com##.HOULALA
 @@||dramapassion.com/js/advertisement.js
 @@||googleads.g.doubleclick.net/favicon.ico$image
 @@||gratuitcul.com/ad.php?ad=$script
-@@||hamachifrance.com/advertisement-adblock.js
 @@||instantmanga.com/js/advertisement.js
 @@||leetgamerz.net/js/advertisement
 @@||meteomedia.com/common/js/master/adframe.js
