@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Fvb049fbHEhsHK3AXp6oZg
+! Checksum: R+lwzQ7qZ31ZJIkdSXfGtQ
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -628,6 +628,7 @@ _static/ads/
 ||journaldunet.com/*@*,position$script
 ||journaldunet.com^*/0_pub/
 ||juif.org/img/partners/
+||kaamelott-streaming.tv/images/m6-wideo-france.jpg
 ||kelbillet.com/ws_smads_integration.php
 ||korben.info/livebox.jpg
 ||korben.info/logitech.jpg
@@ -1590,6 +1591,7 @@ journaldugeek.com##.widget-current-offers
 judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
 judgehype.com###partenaire
 jvn.com###skin
+kaamelott-streaming.tv##a[href^="http://www.kaamelott-streaming.tv/partenaire/"]
 kamaz.fr##.megaBan
 korben.info###samsarin_php_widget-5 div[style*="width: 125px; height: 125px"]
 korben.info###samsarin_php_widget-9 a[style^="display:block"]
