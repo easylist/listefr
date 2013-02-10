@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: CPS2N9r+GVLGHqNESU/TUg
+! Checksum: Fvb049fbHEhsHK3AXp6oZg
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -248,6 +248,7 @@ _static/ads/
 ||choubijoux.com/image/banniere-$third-party
 ||clip-x.net/images/pub/
 ||club-salopes.com/partenaires/
+||compteur-blog.net/img/pub_
 ||coquinissime.com/promo/
 ||diagnostic-expertise.com^*-popunder.php?$popup
 ||dir-fr.com/banners/$domain=la-musique-rai.com
@@ -337,6 +338,7 @@ _static/ads/
 ||promo.partie-membres.com^
 ||promo.sextape-streaming.com^
 ||pub-bans.sexytools.be^
+||pub.annuaire-liens-durs.com^
 ||pub.sexytools.be^
 ||pulsions-genereuses.com/ban/$third-party
 ||quellavelinge.com^$popup,domain=trefle.com
@@ -1341,6 +1343,7 @@ amateur2sexe.fr##img[width="300"][height="250"][src^="http://static.amateur2sexe
 android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
 androidgen.fr,dsgen.fr,iphonegen.fr,ps3gen.fr,pspgen.com,psvitagen.fr,wiigen.fr,xboxgen.fr##.fichesjeu_pave
 anime00.com,anime00.net###pb1
+annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
 assiste.com.free.fr##.robots-nocontent > table a > img
 astuce-facebook.com###cadrelonggoogle
 astuce-facebook.com##a[href="http://kakaku.com/bb/internet_access/"]
