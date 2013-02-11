@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: WPQHZOmzzvQ0KJXhgmz+Ug
+! Checksum: N1USBNO/VYLEj00yicmbhQ
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -270,6 +270,7 @@ _static/ads/
 ||frenchfriendfinder.com^$domain=choualbox.com
 ||full-wallpaper.com/wallpaperday.js$third-party
 ||gagnons-argent.com/pubd.php$popup,third-party
+||gametap.com/convergence/Header/framed/?
 ||gateway.eravage.com/hit.php?$popup
 ||gayxperience.com/index.php?$third-party
 ||globirank.com/image/$domain=unlock-stream.com
@@ -1734,6 +1735,7 @@ melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,
 mercato365.com,rugby365.fr,rugby365.fr.fr,sport365.fr##.ads
 mesfilmsstreaming.com###pb1
 mesfilmsstreaming.com##.fixe
+metaboli.fr##a[href*="gametap.com/convergence/?"]
 meteoconsult.fr###bloc_pub_sommaire_terrestre
 meteomedia.com###container_bac
 meteomedia.com###workopolis
