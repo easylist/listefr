@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: N1USBNO/VYLEj00yicmbhQ
+! Checksum: /Fm6JXyXvZ6ba6XF0dAdkQ
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -685,6 +685,7 @@ _static/ads/
 ||lettres-modeles.fr/include/_iframe728x90.php
 ||lettres-modeles.fr^*/lmodel.php
 ||lexpressiondz.com/files/banners/
+||lfp.fr/images/pub/
 ||libe.com/libepartnerships/
 ||libertyland.tv/libertyland/images/partenaire/
 ||libre.eu/homepage/relooking/
@@ -1672,6 +1673,7 @@ letraitdunion.com###add_top
 letudiant.fr###pub
 levraigabroy.com###pub
 lexpress.fr##.pub
+lfp.fr###lien_billeterie
 liberation.fr##.block-cPublicite
 liberte-algerie.com###flash[style="width:980px; margin:auto; position:relative;"]
 liberte-algerie.com##.bannergroup_pave
