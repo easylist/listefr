@@ -41,7 +41,7 @@ PSEUDOPATTERN = re.compile(r"(\:[a-zA-Z\-]*[A-Z][a-zA-Z\-]*)(?=([\(\:\@\s]))")
 REMOVALPATTERN = re.compile(r"((?<=([>+~,]\s))|(?<=(@|\s|,)))(\*)(?=([#\.\[\:]))")
 ATTRIBUTEVALUEPATTERN = re.compile(r"^([^\'\"\\]|\\.)*(\"(?:[^\"\\]|\\.)*\"|\'(?:[^\'\\]|\\.)*\')")
 TREESELECTOR = re.compile(r"(\\.|[^\+\>\~\\\ \t])\s*([\+\>\~\ \t])\s*(\D)")
-UNICODESELECTOR = re.compile(r"\\[0-9a-fA-F]{1,6}\s")
+UNICODESELECTOR = re.compile(r"\\[0-9a-fA-F]{1,6}\s[a-zA-Z]*[A-Z]")
 
 # Compile a regular expression that describes a completely blank line
 BLANKPATTERN = re.compile(r"^\s*$")
@@ -50,7 +50,8 @@ BLANKPATTERN = re.compile(r"^\s*$")
 COMMITPATTERN = re.compile(r"^(A|M|P)\:\s(\((.+)\)\s)?(.*)$")
 
 # List the files that should not be sorted, either because they have a special sorting system or because they are not filter files
-IGNORE = ("CC-BY-SA.txt", "easytest.txt", "GPL.txt", "MPL.txt")
+IGNORE = ("CC-BY-SA.txt", "easytest.txt", "GPL.txt", "MPL.txt",
+          "enhancedstats-addon.txt", "fanboy-addon", "fanboy-tracking", "firefox-regional", "other")
 
 # List all Adblock Plus options (excepting domain, which is handled separately), as of version 1.3.9
 KNOWNOPTIONS = ("collapse", "document", "elemhide",
@@ -120,10 +121,10 @@ def main (location):
     # Work through the directory and any subdirectories, ignoring hidden directories
     print("\nPrimary location: {folder}".format(folder = os.path.join(os.path.abspath(location), "")))
     for path, directories, files in os.walk(location):
-        print("Current directory: {folder}".format(folder = os.path.join(os.path.abspath(path), "")))
-        for direct in directories:
-            if direct.startswith("."):
+        for direct in directories[:]:
+            if direct.startswith(".") or direct in IGNORE:
                 directories.remove(direct)
+        print("Current directory: {folder}".format(folder = os.path.join(os.path.abspath(path), "")))
         directories.sort()
         for filename in sorted(files):
             address = os.path.join(path, filename)
@@ -141,7 +142,7 @@ def main (location):
 	# Add checksum
     varliste = "liste_fr.txt"
     pipe = subprocess.call(["perl", "addChecksum.pl", varliste])
-	# If in a repository, offer to commit any changes
+    # If in a repository, offer to commit any changes
     if repository:
         commit(repository, basecommand, originaldifference)
 
@@ -277,7 +278,7 @@ def elementtidy (domains, separator, selector):
     for tag in each(SELECTORPATTERN, selector):
         tagname = tag.group(1)
         if tagname in selectoronlystrings or not tagname in selectorwithoutstrings: continue
-        if re.search(UNICODESELECTOR, selector) != None: break
+        if re.search(UNICODESELECTOR, selectorwithoutstrings) != None: break
         ac = tag.group(3)
         if ac == None:
             ac = tag.group(4)
@@ -344,7 +345,7 @@ def removeunnecessarywildcards (filtertext):
     if filtertext[0:2] == "@@":
         whitelist = True
         filtertext = filtertext[2:]
-    while len(filtertext) > 1 and filtertext[0] == "*" and not filtertext[1] == "|":
+    while len(filtertext) > 1 and filtertext[0] == "*" and not filtertext[1] == "|" and not filtertext[1] == "!":
         filtertext = filtertext[1:]
         hadStar = True
     while len(filtertext) > 1 and filtertext[-1] == "*" and not filtertext[-2] == "|":
