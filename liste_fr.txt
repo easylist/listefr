@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: XNZcUVFdO5SCzDJDeJRc0w
+! Checksum: 526s6vIGF8B8IsCUTE7F3Q
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1335,8 +1335,7 @@ actustar.com##.ads
 ados.fr##.pub
 affaires-dz.com##.riquadro_1
 affaires-dz.com##.riquadro_3
-agoravox.fr##.pub
-agoravox.tv##.pub
+agoravox.fr,agoravox.tv##.pub
 aidemu.fr##a[href^="http://aidemu.fr/pub/"]
 akelys.com##.cellulePUB
 algeriatenders.com##tbody > tr[style="height:92px;"]
