@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ruphUjJPW4nC/DS4JBreuA
+! Checksum: LPB7Sf2Ulj6hsqaPMJpCrg
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -443,6 +443,7 @@ _static/ads/
 ||blog-nouvelles-technologies.fr/wp-content/annonceurs/
 ||blog2mature.com/273_210/
 ||blogdumac.com/pub/
+||boursier.com/ui/js/docs-partenaires.js
 ||brain-magazine.com/images/_habillages/
 ||canal-plus.com/design/*/header_flash.swf
 ||canalplus.fr/bigplayer/pub.html
@@ -1382,6 +1383,7 @@ bonjourmadame.fr##object[width="728"][height="90"]
 boulistenaute.com###dropin
 boulistenaute.com##.xo-banner-ad-footer
 boursier.com###banner
+boursier.com###doc-partenaires
 boursier.com###footer-partenaires
 boursorama.com##.smart
 braindamaged.fr##a[href^="index.php?adclick="]
