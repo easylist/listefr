@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 3cxAhlEQ/2dyUPmJ4A+AvA
+! Checksum: okVJlArgZwMnfWx5bDmucw
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -875,6 +875,7 @@ _static/ads/
 ||sports.fr^*/partenaires/
 ||starter.fm/blog/*/bg_$image
 ||starter.fm/images/*/bg_
+||startertv.fr/images/*/bg_
 ||static.rtl.fr/www-2010/skin/$stylesheet
 ||static.rtl.fr/www/skin/promo/
 ||stats.hosting24.com/count.php
@@ -1160,6 +1161,8 @@ _static/ads/
 ~voyageforum.com##.carre_pub
 ##.carrepub
 ##.container-pubcarre
+##.conteneur_pub_footer
+##.conteneur_pub_horiz
 ##.conteneur_pub_vertical
 ##.encart_pub
 ##.entete-pub
@@ -1900,6 +1903,7 @@ sport.francetv.fr###archePromo
 sports.fr###banner-full
 sports.fr###hablinkzone
 starter.fm##.conteneur_pub_footer
+startertv.fr##.conteneur_pub_horiz_left
 strasbourg-tramway.fr###ws_embed_footer
 strasbourg-tramway.fr##div[style="width:125px;height:125px;text-align:center"]
 strastv.com##.container_pubh_02
@@ -2104,6 +2108,7 @@ sofoot.com##.HOULALA
 @@||smartadserver.com/crossdomain.xml$object-subrequest,domain=ecranlarge.com
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
 @@||smartadserver.com/diff/$object-subrequest,domain=ecranlarge.com
+@@||startertv.fr/images/v2/bg_topbody_startertv.jpg
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||static.touraineverte.com/banners/$image
 @@||static1.spilcdn.com/vda/vendor/flowplayer/ova.swf$domain=jeux.fr
