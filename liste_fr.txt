@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: LPB7Sf2Ulj6hsqaPMJpCrg
+! Checksum: 3cxAhlEQ/2dyUPmJ4A+AvA
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1247,6 +1247,7 @@ _static/ads/
 ##.texte_ads
 ##.texte_ads_plug
 ##.titrePub
+##.topbarpub
 ##.toppubs
 ##.txt-pub
 ##.widget_publicite
@@ -1330,6 +1331,7 @@ affaires-dz.com##.riquadro_1
 affaires-dz.com##.riquadro_3
 agoravox.fr##.pub
 agoravox.tv##.pub
+aidemu.fr##a[href^="http://aidemu.fr/pub/"]
 akelys.com##.cellulePUB
 algeriatenders.com##tbody > tr[style="height:92px;"]
 algerie-focus.com###sponsor-axa
@@ -2126,6 +2128,7 @@ sofoot.com##.HOULALA
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 @@||www3.smartadserver.com/crossdomain.xml
 ! Anti-Adblock
+@@||aidemu.fr^*/adBlock/advertisement.js
 @@||anime-story.com/js/ads.js
 @@||awsclic.com/js/advertisement.js
 @@||claymore.fr/advertisement.js
