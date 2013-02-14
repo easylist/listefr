@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 1hOu4rRmFB4WHLhlIXnqYQ
+! Checksum: szaGwSdfsleAIMGZlj36xA
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1355,6 +1355,7 @@ amateur2sexe.fr###video-full
 amateur2sexe.fr##img[width="300"][height="250"][src^="http://static.amateur2sexe.fr/menu/"]
 android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
 androidgen.fr,dsgen.fr,iphonegen.fr,ps3gen.fr,pspgen.com,psvitagen.fr,wiigen.fr,xboxgen.fr##.fichesjeu_pave
+androidpit.fr##div[style="float:left; width:976px; line-height:0; min-height:90px; margin-bottom:5px; text-align:center;"]
 anime00.com,anime00.net###pb1
 annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
 assiste.com.free.fr##.robots-nocontent > table a > img
