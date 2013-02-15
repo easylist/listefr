@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: +Fb3RQgyebnx1Sa5U0qqsg
+! Checksum: 3owiA9iXwmDAjZ0Af3GHRw
 ! Liste FR ~ Filtres francophones complémentaires
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -2018,6 +2018,7 @@ zoomdici.fr##.innerArtAdd
 zupimages.net##.pub
 ! Anti-Adblock
 generation-nt.com##.kiwi
+lokan.fr###anti-adblock
 scan-manga.com###pub_f3
 sofoot.com##.HOULALA
 !
@@ -2192,5 +2193,3 @@ vente-a-domicile.fr#@#.btn-ad
 latribune-online.com#@#.header_ads
 leboncoin.fr#@#.list-ads
 siteduzero.com#@#div[id^="div-gpt-ad-"]
-! Anti-Adblock
-lokan.fr#@##adright
