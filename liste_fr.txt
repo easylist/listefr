@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: fqqEsyh2fYEM4Ebp7Ibm/A
+! Checksum: Txc/kRHCWl7b3rkj8m/2oQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -275,7 +275,6 @@ _static/ads/
 ||gateway.eravage.com/hit.php?$popup
 ||gayxperience.com/index.php?$third-party
 ||globirank.com/image/$domain=unlock-stream.com
-||google.com/chart?*=http%3A%2F%2Fwww.sosiphone.com%2FiTuunes%2Fitunes.apple.com%2Ffr%2Fapp%2Ffr%2Fapp%2F
 ||grenierdumaroc.com^$domain=movizfr.com
 ||grosse-passion.com/ban/$third-party
 ||hardcore-passion.com/ban/$third-party
@@ -872,7 +871,6 @@ _static/ads/
 ||soonnight.com/images/mini_ban_partenaire/
 ||soonnight.com/template/purr/
 ||soonnight.com^*/bande_partenaires.png
-||sosiphone.com/essai/ODR-639-300x195.png
 ||soufisme-fr.com/images/pub/
 ||spin-off.fr/images/vpngratuitspinfoff.gif
 ||sport365.fr/pub.php?
@@ -1900,8 +1898,8 @@ solutions-logiciels.com##div[style^="border:1px solid black; width: 300px; heigh
 soonnight.com###cadre_partenaire
 soonnight.com###partenaire
 sortirensemble.com###sondage_age
+sosiphone.com##a[href^="http://ad.zanox.com/ppc/"]
 sosiphone.com##a[href^="http://clk.tradedoubler.com/click?"]
-sosiphone.com##a[href^="http://www.sosiphone.com/iTuunes/itunes.apple.com/fr/app/"]
 soufisme-fr.com###ad_forum_below_threadlist
 soufisme-fr.com###ad_global_below_navbar
 southparkstreaming.fr##.bannergroup
