@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Txc/kRHCWl7b3rkj8m/2oQ
+! Checksum: hPmITsmyr7tHnrOnaC33rg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1754,6 +1754,9 @@ metaboli.fr##a[href*="gametap.com/convergence/?"]
 meteoconsult.fr###bloc_pub_sommaire_terrestre
 meteomedia.com###container_bac
 meteomedia.com###workopolis
+methode2013.com##a[href="chronoption4.html"]
+methode2013.com##a[href="https://www.chronoption.com"]
+methode2013.com##a[href^="http://www.startoptions.com/options?"]
 midilibre.fr##.advert
 millenium.org###habillagesite
 millenium.org###logo_droite
