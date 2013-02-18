@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: N8uJbkwxQ8ypCtYW9F4VAg
+! Checksum: kHm/JzBtsvP6ydAOJj+Khg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -315,6 +315,7 @@ _static/ads/
 ||maximobileshop.com/widget/$domain=iphonetweak.fr
 ||maximumwall.com/images/top_ban_
 ||mazika2lux.com/gary/
+||mazika2Lux.com/ouma/
 ||mini-jeux.com/jeuday.js$third-party
 ||missdark.com/bannieres/$third-party
 ||mondeadulte.com/pub/
@@ -776,6 +777,7 @@ _static/ads/
 ||ouedkniss.com/swf/Interstitiel.swf
 ||ouifm.fr^*/images/partners/
 ||oujdacity.net/kelkoo*.html
+||oumazik.com/poop.js
 ||overlays.fr/js/launcher.js
 ||ox.jeuxonline.info^
 ||ox.mediastay.net/delivery/
@@ -1830,6 +1832,7 @@ ouiounon.net##.headertitrelien[target="_blank"]
 oujdacity.net###common-top-widget
 oujdacity.net##.ads
 oujdacity.net##.ebuzzing_box
+oumazik.com###pb2
 over-blog.com##.pub
 pafpaf.com##.adBlocTop
 pagerank.fr##div[style="height: 40px; width: 750px; margin: auto; background-image: url(/images/degradebas.gif); background-repeat: no-repeat; background-position: bottom; padding-top: 10px;"]
