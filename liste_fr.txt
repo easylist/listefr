@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: a0y8XdRCPIalKiwBzn34bg
+! Checksum: N8uJbkwxQ8ypCtYW9F4VAg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -314,6 +314,7 @@ _static/ads/
 ||matvsexe.com/bans/
 ||maximobileshop.com/widget/$domain=iphonetweak.fr
 ||maximumwall.com/images/top_ban_
+||mazika2lux.com/gary/
 ||mini-jeux.com/jeuday.js$third-party
 ||missdark.com/bannieres/$third-party
 ||mondeadulte.com/pub/
@@ -571,6 +572,7 @@ _static/ads/
 ||gamekult.com/i/partenaires/
 ||gamekult.com/images/pubs/
 ||gameonly.com^*/include/pub/
+||garytube.com/pop.js
 ||generation-nt.com/iframe/ovh.php
 ||generation-nt.com/img/habillages/
 ||generation-nt.com^*/pubs/
@@ -1553,6 +1555,7 @@ gameblog.fr###gba300
 gameblog.fr###overlayFnac
 gameblog.fr##.noPremium
 gameblog.fr##div[style=" background-color: #c0c0c0; padding: 7px; height: 260px; overflow: hidden;"]
+garytube.com###pb2
 gaytag.net##.pub96590
 generation-nt.com##.bloc_boutique
 generation-nt.com##a[href="/boutique.html"]
