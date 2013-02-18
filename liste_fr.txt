@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ZksOrn3DWgsTkVdYqnTxfA
+! Checksum: o5Bm3XrdZQs+Wycf7NU9Ag
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -246,6 +246,8 @@ _static/ads/
 ||bitchvolley.com/ban/$third-party
 ||canaljeuvideo.com/var/storage/habillages/
 ||carasexe.com/promo/$third-party
+||cdn.installclick.fr^*/ad.html
+||cdscdn.com/imagesok/tetiere/partners/
 ||choubijoux.com/image/banniere-$third-party
 ||clip-x.net/images/pub/
 ||club-salopes.com/partenaires/
@@ -460,8 +462,6 @@ _static/ads/
 ||cdmail.fr/banniere/
 ||cdn.betacie.com^*/autopromo/
 ||cdn.emule-island.ru/pub/
-||cdn.installclick.fr^*/ad.html
-||cdscdn.com/imagesok/tetiere/partners/
 ||centerblog.net/cadre-*?zoneid=$subdocument
 ||cession-commerce.com/images/bandeaux/
 ||cession-commerce.com/images/pub_
