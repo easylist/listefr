@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: /ue1M/7iUX1a10MZUU2Sgg
+! Checksum: Xnx8SfhxoY+A2D3ZQwflIg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -2170,14 +2170,11 @@ sofoot.com##.HOULALA
 @@||instantmanga.com/js/advertisement.js
 @@||leetgamerz.net/js/advertisement
 @@||meteomedia.com/common/js/master/adframe.js
-@@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=touraineverte.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=hugolescargot.com|touraineverte.com|universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hugolescargot.com|touraineverte.com|universal-soundbank.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=hugolescargot.com|universal-soundbank.com
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hugolescargot.com|universal-soundbank.com
 @@||partage-facile.com$elemhide
-@@||partner.googleadservices.com/gampad/google_$script,domain=gentside.com|maxisciences.com|news-de-stars.com|simplyvoyage.com
 @@||playtv.fr$elemhide
 @@||protect-url.net/js/advertise125x125.js
-@@||pubads.g.doubleclick.net/gampad/ads?$script,domain=gentside.com|maxisciences.com|news-de-stars.com|simplyvoyage.com
 @@||sanwilltv.net/advertisement.js
 @@||scan-manga.com/js/show_ads.js
 @@||sexytout.com/ad.php?$script
