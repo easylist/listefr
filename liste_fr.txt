@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 9QJ112fFjXQ8kSIkGBVCMg
+! Checksum: tAz0kSH5uLHI7Ybr0sC1Wg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1007,6 +1007,7 @@ _static/ads/
 ###adtopbox
 ###annonce_pub
 ###annonce_pub2
+###annoncegoogle
 ###annoncepub
 ###bandeau_pub
 ###bandeau_publicite
@@ -1901,6 +1902,7 @@ sfr.fr##div[id^="A2dEmplacement"]
 silicon.fr###megabanner
 silicon.fr###skycraper
 silicon.fr###slider-partnerzone
+sitedesmarques.com###posPub
 sky-animes.com##.fixe
 slappyto.net###shadow
 slappyto.net##.Adsense
