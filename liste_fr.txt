@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 2XjeS55j6deUOQwoViGo9A
+! Checksum: 2OGWqiJE18bra98cg7paJw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -269,6 +269,7 @@ _static/ads/
 ||euroclix.fr^$domain=176.31.96.119
 ||eurolive.com^$domain=les-photos-volees.com
 ||eurosportbet.loa24.com^$domain=eurosport.fr
+||fapmd.com/widgets/populars/$third-party
 ||fille-sensuelle.fr/annuaire/promo/$third-party
 ||films-2-boules.com/promo/$third-party
 ||findmysexfriend.com/$popup,domain=extremepc.fr
