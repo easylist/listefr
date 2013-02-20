@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: PBhfZ1vSQmP0FW4kYDWl0Q
+! Checksum: GBwVJD6jcuFAQTFBirxHqA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -308,6 +308,7 @@ _static/ads/
 ||lebest.fr/banniere-externe/$domain=xvid-fr.com
 ||lesbienne-passion.com/ban/$third-party
 ||librarything.fr/jswidget.php?
+||linkbucks.com^$popup,domain=extreme-down.com
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||madamesimone.com/ban/$third-party
 ||magikmobile.com/iframe_$third-party
@@ -1505,6 +1506,7 @@ espace.mu##.srcPubZone
 europe-echecs.com###subheader_pub
 europe1.fr##.s-partenaires
 eurosport.fr###Container_OAS_Right
+extreme-down.com###news-partner
 extreme-down.com##a[href="http://www.extreme-down.com/telechargement_rapide.html"]
 extreme-down.com##a[href^="http://clic.illyx.com/"]
 extreme-protect.com##a[href="http://www.extreme-down.com/usenet.html"]
