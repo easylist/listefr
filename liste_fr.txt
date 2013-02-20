@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: lAMa5LfQzzfComlMnghkxw
+! Checksum: PQJNPZKTckQIcbqCTW1w/g
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1701,6 +1701,7 @@ lesdebiles.com##.menu_droite_partenaire
 lesdebiles.com##.menu_droite_thumb:first-child
 lesdebiles.com##.pub
 lesechos.fr##.nosparts
+lesechos.fr##.partenaires
 lesinrocks.com##.skin-link
 lesnegociales.com##.body_clic
 lesnumeriques.com###after-dfp-products
@@ -2143,6 +2144,7 @@ sofoot.com##.HOULALA
 @@||pc-overware.be/index/images/banners/pc-overware.be.png
 @@||photo.fr/img/ad_$image
 @@||planet-casio.com/images/ad/$image
+@@||realmedia.lesechos.fr/RealMedia/ads/adstream_mjx.ads/$script,domain=lesechos.fr
 @@||rockman.fr/Ads/$image
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||sceno.fr/apps/1_static/ads/explain.png
