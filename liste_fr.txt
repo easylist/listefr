@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: USWwfVQNmzJyeCUoBDuyPg
+! Checksum: VjzKJtTn86WeG7ijC2vGmA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -964,6 +964,7 @@ _static/ads/
 ||visio-x.fr/js/x1.js
 ||visual-pagerank.fr/pub/
 ||voxmakers.fr/partenaires/
+||vpngratuit.fr^*/gpub.gif
 ||wawa-mania.*/ph.jpg
 ||wawacity.su/popup.html
 ||webchoc.com/pop.js
@@ -2022,6 +2023,8 @@ voyageforum.com##table.carre_pub + * + * + .carre_pub
 voyageforum.com##table[width="300"][height="125"][cellspacing="0"][cellpadding="0"][border="0"][align="right"]
 voyages-sncf.com###block-vsct_vsca-megabanner
 voyages.liberation.fr###vHeader-pub
+vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
+vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 wakanim.tv##div[style="width: 728px; margin: auto; height: 140px;overflow:hidden"]
 wat.tv##.partner_one_wat
 wat.tv##.partner_two_wat
