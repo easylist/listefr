@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 2OGWqiJE18bra98cg7paJw
+! Checksum: pnnmKJoMRy/c8m5Bj74pbw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -592,6 +592,7 @@ _static/ads/
 ||goziga.com^*/goziga_underflv.gif
 ||gratuit-xxx.com/images/boost/
 ||gratuit-xxx.com^*/boost_*.js
+||grazia.fr/popin-
 ||groupolitan.be/fr/partners/iframe/
 ||hamachifrance.com/img/images/goclecdpub.png
 ||hamachifrance.com/img/images/goclecsos.png
@@ -1587,6 +1588,8 @@ grandecran.fr###les_pubs_locales
 gratuit-xxx.com##.footerboost
 gratuit-xxx.com##div[class^="boost_g_"]
 gratuitcul.com##div[id^="affidate_form_"]
+grazia.fr###popin
+grazia.fr##.modal-backdrop.in
 groupon.fr##div[style="width: 445px; margin: 8px auto; text-align: center; background-color: #fff; border: 1px solid #e4e4e4;"]
 gsmforum.tv###ad_board_after_forums
 gsmforum.tv###ad_global_below_navbar
