@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: xAqPgyeeMAgvYhcMswBMaA
+! Checksum: 2XjeS55j6deUOQwoViGo9A
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -35,6 +35,7 @@
 /publicites/*
 /regie_pub/*
 /regiepub/*
+_publicitaire/
 _publicite.
 _publicite1.
 _publicite_
@@ -1692,6 +1693,7 @@ lesdebiles.com##.menu_droite_partenaire
 lesdebiles.com##.menu_droite_thumb:first-child
 lesdebiles.com##.pub
 lesinrocks.com##.skin-link
+lesnegociales.com##.body_clic
 lesnumeriques.com###after-dfp-products
 lesnumeriques.com###after-main-products
 lesnumeriques.com###after-top-right-products
