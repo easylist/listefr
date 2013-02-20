@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: VjzKJtTn86WeG7ijC2vGmA
+! Checksum: 4C8f+7oXlJ3MQuBuqPC4lQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -302,6 +302,7 @@ _static/ads/
 ||kiporn.com^$popup,domain=yourporno.fr
 ||kokinette.com/ban/$third-party
 ||la-paysanne.com/ban/$third-party
+||ladmedia.fr/includes/cobrand/*/habillage/
 ||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
 ||lagur.com/a7fr/scroller.php$domain=israel7.com
 ||laraider.com/bans/
