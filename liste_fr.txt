@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: B+jZmvrAzYwDF3smcVHLyg
+! Checksum: DdksonuhRsTzvLjDcNJBNA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1276,6 +1276,7 @@ _static/ads/
 ##.texte_ads
 ##.texte_ads_plug
 ##.titrePub
+##.topPub
 ##.topbarpub
 ##.toppubs
 ##.txt-pub
@@ -1774,6 +1775,7 @@ matchendirect.fr###pub_criteo_300x250_1
 matchendirect.fr###pub_criteo_468x60_1
 matchendirect.fr###pubtetiere
 matchendirect.mobi###pub1
+maximiles.com##.pub
 maxistreaming.com###header
 maxistreaming.com###searchform
 mcetv.fr###annonce-header
