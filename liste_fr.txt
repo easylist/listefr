@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: bVjLX7/tatQHutrRduy3sg
+! Checksum: WuA9+JWTcAc5kgm/oNV5lA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -191,6 +191,7 @@ _static/ads/
 ||static.p-comme-performance.com^$third-party
 ||stigads.com^$third-party
 ||supersmsoffers.com^$third-party
+||surfactif.fr^$third-party
 ||tag.regieci.com^$third-party
 ||tcadops.ca^$third-party
 ||teads.tv/js/footer.$third-party
@@ -1365,6 +1366,7 @@ algerie360.com###pub_300_acc
 algerie360.com##.bloc_pub_250_s_marge
 allocine.fr##.coltop
 allocine.fr##.topheader
+allstreamz.com###pub
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-right
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-top
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr##div[style="width:300px; height:250px;margin:10px; margin: 0 auto; padding:15px 0; clear:both;"]
