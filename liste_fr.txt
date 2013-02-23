@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 45VnEkXB1yTSGWk8coF6mA
+! Checksum: d3ePUSSNPhObGTW79nLg+Q
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1738,6 +1738,7 @@ liensporno.com##.pub
 liste2cul.com##.catcher
 live-medias.net###headbanner
 livefootball.fr###ad6b_doubu8f6d5n
+livefootball.fr##[id^="pub_criteo_"]
 liveradio.fr###ad1
 lo.st##.home_partner_img
 logitheque.com###bloc-droit-haut-250-250
