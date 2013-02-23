@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: d3ePUSSNPhObGTW79nLg+Q
+! Checksum: j7W7iPKhdkoilhsznsXqGQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1356,6 +1356,7 @@ abrutis.com##.home_menu_container
 abrutis.com##.pub
 accentice.com###sidebar
 accentice.com##div[style="padding:5;padding-top:0;background:#fffdf7;"]
+actufoot.fr##[id^="ad6b_"]
 actupc.info###casing > center > table[width="100%"][height="60"][cellspacing="0"][cellpadding="0"]
 actustar.com##.ads
 ados.fr##.pub
