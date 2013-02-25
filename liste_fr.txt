@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Ao2Jxki2zJCxrrwpGCtSeA
+! Checksum: E1Uiy3AhPW6zOYX7ZhlaIg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -246,7 +246,7 @@ _static/ads/
 ||belledesfleurs.com/ban/$third-party
 ||beurette-passion.com/ban/$third-party
 ||beurettes-faciles.com/promo/
-||bit.ly/WzWGrW$domain=pcinpact.com
+||bit.ly^$image,domain=~forum.pcinpact.com|pcinpact.com
 ||bitchvolley.com/ban/$third-party
 ||canaljeuvideo.com/var/storage/habillages/
 ||carasexe.com/promo/$third-party
@@ -265,6 +265,7 @@ _static/ads/
 ||drague.net/pubs/
 ||easy-charme.com/pub/
 ||ecchi.fr/banieres/
+||edi7.lu/www/delivery/ck.php?$popup,domain=pcinpact.com
 ||education.ti.com^$domain=ti.bank.free.fr
 ||elles-mouillent.com/ban/$third-party
 ||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
