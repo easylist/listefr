@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: LznzesPRQ1TEnV0g8aqaNA
+! Checksum: TXHXSPZtDzOyeJHPNxl4CQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1389,6 +1389,7 @@ android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlin
 androidgen.fr,dsgen.fr,iphonegen.fr,ps3gen.fr,pspgen.com,psvitagen.fr,wiigen.fr,xboxgen.fr##.fichesjeu_pave
 androidpit.fr##div[style="float:left; width:976px; line-height:0; min-height:90px; margin-bottom:5px; text-align:center;"]
 anime00.com,anime00.net###pb1
+annoncesbateau.com###BlocPartenaires
 annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
 assiste.com.free.fr##.robots-nocontent > table a > img
 astuce-facebook.com###cadrelonggoogle
