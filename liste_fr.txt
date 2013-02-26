@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: E1Uiy3AhPW6zOYX7ZhlaIg
+! Checksum: OwuHA6wIENXRGfdnQyjFkg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -64,6 +64,8 @@ _static/ads/
 ||ads.eorezo.com^
 ||adserveradulte.com^$third-party
 ||adserverpub.com^$popup
+||adsitonline.net^$third-party
+||adsregieonline.com^$third-party
 ||adstronic.net^$third-party
 ||advertsponsor.com^$third-party
 ||affidate.com^$third-party
