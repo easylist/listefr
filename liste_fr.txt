@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: TXHXSPZtDzOyeJHPNxl4CQ
+! Checksum: a6k9jELcEKEcnSmjsNHGoA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1673,6 +1673,7 @@ lagazettedescommunes.com##div[class^="col-note-pub300x"]
 lalibre.be###headerRelook
 lanutrition.fr##.moduletable-banner
 laposte.net###shoppingBox
+laposte.net##.blockShopping
 lapresse.ca###pubs
 laptopspirit.fr##a[href^="http://www.prix-portables.fr/pub/"]
 lastfilmstreaming.com###pb1
