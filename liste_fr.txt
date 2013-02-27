@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 4CLvkLRO41CgHbPJTXzdyA
+! Checksum: 7FJD8i/S50JLzvgh6oH91A
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1398,6 +1398,8 @@ astuce-facebook.com##a[href="http://kakaku.com/bb/internet_access/"]
 astuce-facebook.com##a[href="http://skgtechnologies.com/buy_facebook_fans.html"]
 astuce-facebook.com##a[href="http://www.rent-a-lease.com/chinese/"]
 astuce-facebook.com##img[width="468"][height="60"]
+audiofanzine.com##.price
+audiofanzine.com##[id^="lbs"]
 audiofanzine.com##div[style="width:730px;height:92px;margin:10px auto;border:1px solid #eee;"]
 aufeminin.com##div[class^="OffresSpe_"]
 aujourdhui-en-france.fr,leparisien.fr###clubDealbloc
@@ -1567,8 +1569,6 @@ forum.webxfrance.org##div[style="width:1230px; height: 110px; background-color: 
 forumactif.com##.partners
 forumactif.com##div[class^="add-google"]
 forumfr.com###rightCol_ad
-fr.audiofanzine.com##.price
-fr.audiofanzine.com##[id^="lbs"]
 fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
 fr.news.yahoo.com##div[id^="pmBannerContainer"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr,~sport.francetv.fr##div[id^="eShowPub"]
