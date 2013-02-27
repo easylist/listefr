@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 7FJD8i/S50JLzvgh6oH91A
+! Checksum: GZBxbDhKLeNHmaO8hU88gQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -22,6 +22,7 @@
 /adserverpub?
 /adview/*
 /bandeaupublicite/*
+/call/pubj/*
 /eco_ads/*
 /pub300-250.
 /pub728-90.
@@ -53,6 +54,7 @@ _static/ads/
 ||ad.activaweb.fr^
 ||ad.adserverplus.com^
 ||ad.adserverplus.com^$popup
+||ad.prismamediadigital.com^$third-party
 ||ad.zanox.com^$popup,third-party
 ||ad4you.org^$third-party
 ||adecolo.com^$third-party
@@ -153,6 +155,7 @@ _static/ads/
 ||openadserving.com^$popup
 ||openadserving.com^$third-party
 ||orangepublicite.fr^$third-party
+||overlays.next-targeting.com^$third-party
 ||papycash.com$third-party
 ||partner.uncadeau.com^$third-party
 ||payglad.com^$third-party
