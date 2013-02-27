@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 5vjjFqHdjyn91nh84SNdOw
+! Checksum: +A0T2NOriDZK7OTtmL+gsg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -2214,6 +2214,21 @@ sofoot.com##.HOULALA
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 @@||www3.smartadserver.com/crossdomain.xml
+! Radins.com
+@@||ad-emea.doubleclick.net/clk;$subdocument,domain=track.radins.com
+@@||ad.zanox.com/ppc/?$subdocument,domain=track.radins.com
+@@||affiliation.fotovista.com/track/click.php?$subdocument,domain=track.radins.com
+@@||altfarm.mediaplex.com/ad/ck/$subdocument,domain=track.radins.com
+@@||anrdoezrs.net/click-$subdocument,domain=track.radins.com
+@@||apmebf.com^$subdocument,domain=track.radins.com
+@@||clic.reussissonsensemble.fr/click*?$subdocument,domain=track.radins.com
+@@||clk.tradedoubler.com/click?$subdocument,domain=track.radins.com
+@@||emjcd.com^$subdocument,domain=track.radins.com
+@@||solutions.tradedoubler.com/redirect/$subdocument,domain=track.radins.com
+@@||tkqlhce.com/click-$subdocument,domain=track.radins.com
+@@||track.webgains.com/click.html?$subdocument,domain=track.radins.com
+@@||tracking.publicidees.com/clic.php?$subdocument,domain=track.radins.com
+@@||tracking.veoxa.com/click/banner?$subdocument,domain=track.radins.com
 ! Anti-Adblock
 @@||aidemu.fr^*/adBlock/advertisement.js
 @@||anime-story.com/js/ads.js
