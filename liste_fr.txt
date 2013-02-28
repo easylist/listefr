@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: qbgOTlkT7EUqGU0YyULrSQ
+! Checksum: QZnGUFL1snqtUTcdM4IITA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -277,6 +277,7 @@ _static/ads/
 ||education.ti.com^$domain=ti.bank.free.fr
 ||elles-mouillent.com/ban/$third-party
 ||emploicom.com/application/views/docs/pub/
+||emploicom.com/baniere.
 ||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
 ||euroclix.fr^$domain=176.31.96.119
 ||eurolive.com^$domain=les-photos-volees.com
@@ -1513,6 +1514,7 @@ deezer.com###bottom
 deezer.com##.pub
 deezer.com##div[id^="ads"]
 depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
+depechedekabylie.com##[id^="adv_"]
 desmatures.com##.pub468100top
 desmatures.com##.sidebarpub350250
 dinogaia.com###tableau_info
