@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: QZnGUFL1snqtUTcdM4IITA
+! Checksum: Y8AlYb3BILsAE9GGlw25gg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -36,6 +36,8 @@
 /publicites/*
 /regie_pub/*
 /regiepub/*
+=300x250&
+=728x90&
 _publicitaire/
 _publicite.
 _publicite1.
@@ -2236,11 +2238,13 @@ sofoot.com##.HOULALA
 @@||clic.reussissonsensemble.fr/click*?$subdocument,domain=track.radins.com
 @@||clk.tradedoubler.com/click?$subdocument,domain=track.radins.com
 @@||emjcd.com^$subdocument,domain=track.radins.com
+@@||maps.googleapis.com/maps/api/*=300x250&
 @@||solutions.tradedoubler.com/redirect/$subdocument,domain=track.radins.com
 @@||tkqlhce.com/click-$subdocument,domain=track.radins.com
 @@||track.webgains.com/click.html?$subdocument,domain=track.radins.com
 @@||tracking.publicidees.com/clic.php?$subdocument,domain=track.radins.com
 @@||tracking.veoxa.com/click/banner?$subdocument,domain=track.radins.com
+@@||weatherbug.com/desktop-weather/*=728x90&
 ! Anti-Adblock
 @@||aidemu.fr^*/adBlock/advertisement.js
 @@||anime-story.com/js/ads.js
