@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: T4OwWQZlGWE5H+MEP1k8gg
+! Checksum: fkSytUL5o56iOJRx14dblw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -275,6 +275,7 @@ _static/ads/
 ||edi7.lu/www/delivery/ck.php?$popup,domain=pcinpact.com
 ||education.ti.com^$domain=ti.bank.free.fr
 ||elles-mouillent.com/ban/$third-party
+||emploicom.com/application/views/docs/pub/
 ||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
 ||euroclix.fr^$domain=176.31.96.119
 ||eurolive.com^$domain=les-photos-volees.com
@@ -499,6 +500,9 @@ _static/ads/
 ||degroupnews.com/css/commun/pub-
 ||degroupnews.com/images/banniere
 ||deliv.leboncoin.fr/0/leboncoin/
+||depechedekabylie.com/files.php?file=banners/
+||depechedekabylie.com/files.php?file=pub/
+||depechedekabylie.com/themes/ddk/img/pub_
 ||dimension-ingenieur.com^*/PUBING/
 ||dimension-ingenieur.com^*/Pubs/
 ||directvelo.com/images/habillage/
