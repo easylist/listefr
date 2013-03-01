@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Y8AlYb3BILsAE9GGlw25gg
+! Checksum: rzx2jBAG1A64ZtanRU47YQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -12,18 +12,14 @@
 !
 !----------------------- Filtres génériques ----------------------!
 !
--ad-180x150px.
 -publicite.
 .be/ads/
 .ch/ads/
 .fr/ads.
 .fr/ads/
-/ads_banner_
 /adserverpub?
-/adview/*
 /bandeaupublicite/*
 /call/pubj/*
-/eco_ads/*
 /pub300-250.
 /pub728-90.
 /publicite-
@@ -43,7 +39,6 @@ _publicite.
 _publicite1.
 _publicite_
 _regiepub/
-_static/ads/
 !
 !----------------------- Annonceurs -----------------------!
 !
@@ -1035,13 +1030,9 @@ _static/ads/
 ###PubHorizontaleMain
 ###PubPave
 ###PubliciteTop
-###TDads
 ###adsCarre
 ###adsHaut
-###adsense6
 ###adspave
-###adtopbanner
-###adtopbox
 ###annonce_pub
 ###annonce_pub2
 ###annoncegoogle
@@ -1092,7 +1083,6 @@ _static/ads/
 ###iframesidebarpub
 ###imagePubPave
 ###innerpub
-###large-ads
 ###module_publicite
 ###news-droite-publicite
 ###news_pub_centre
@@ -1194,13 +1184,8 @@ _static/ads/
 ###zone_pub
 ###zone_pub1
 ##._meltypub
-##.adTicker
-##.adholderban
-##.ads-post-full
 ##.adspave
 ##.annonces_google
-##.banner_300_250
-##.banner_468_60
 ##.blocPub
 ##.bloc_pub_left
 ##.bloc_rightcol_pub
@@ -1231,7 +1216,6 @@ _static/ads/
 ##.leftmenupub
 ##.little_pub
 ##.logo_pub
-##.longBannerAd
 ##.mailPubHeader
 ##.megapub
 ##.pave-pub
@@ -1295,9 +1279,6 @@ _static/ads/
 ##.pubwrapper
 ##.sqrpub
 ##.srcPub
-##.text_ad_description
-##.text_ad_title
-##.text_ad_website
 ##.texte_ads
 ##.texte_ads_plug
 ##.titrePub
@@ -1333,7 +1314,6 @@ _static/ads/
 ###pub_728x90-1
 ###pub_728x90-2
 ###pub_728x90_header
-##.affiliation728x90
 ##.bloc_pub_300
 ##.pub-300x250
 ##.pub-728
