@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ZzffGe7v9ilz95k3OUUIrw
+! Checksum: 6GuWHrby/CxAgCtoSpkTyA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1096,6 +1096,7 @@ _regiepub/
 ###pub-droite
 ###pub-footer
 ###pub-haut
+###pub-head
 ###pub-header
 ###pub-left
 ###pub-main
@@ -1250,6 +1251,7 @@ _regiepub/
 ##.pub_club
 ##.pub_droite
 ##.pub_forum
+##.pub_header
 ##.pub_header_banner
 ##.pub_info
 ##.pub_leaderboard
@@ -1337,6 +1339,7 @@ _regiepub/
 ##.pub_468x60
 ##.pub_468x60_bas
 ##.pub_468x60_haut
+##.pub_728
 !
 !----------------------- Éléments -----------------------!
 !
