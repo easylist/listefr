@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: G7eLVm/8CbhLRFrIIGaWJg
+! Checksum: V6Uvbq6//0E6xa1boWqElA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -2107,7 +2107,7 @@ sofoot.com##.HOULALA
 ! mais d'empêcher les possibles dysfonctionnements liés aux filtres bloquants présents ci-dessus.
 !
 @@||247realmedia.com/0/Player/Player_FR_Home/Box-2-FR.jpg$domain=eurosportplayer.fr
-@@||ad.360yield.com/adj?$script,domain=jeux.fr
+@@||ad.360yield.com/adj?$script,domain=jeu.fr|jeux.fr
 @@||ad.zanox.com/ppc/$image,~image,popup
 @@||ad2play.ftv-publicite.fr/?sitepage=www.psg.fr$subdocument,domain=psg.fr
 @@||adgear.com^*/adgear.js$domain=tetesaclaques.tv|tou.tv
@@ -2118,9 +2118,9 @@ sofoot.com##.HOULALA
 @@||adserve.atedra.com/js/$script,domain=levraigabroy.com
 @@||adserve.atedra.com/serve.php?z=$script,domain=levraigabroy.com
 @@||adserve.atedra.com/vast/$domain=levraigabroy.com
-@@||adserver.adtech.de/?advideo/3.0/$object-subrequest,domain=jeux.fr
-@@||adserver.adtech.de/addyn/3.0/$script,domain=jeux.fr
-@@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|jeux.fr|rtl.fr
+@@||adserver.adtech.de/?advideo/3.0/$object-subrequest,domain=jeu.fr|jeux.fr
+@@||adserver.adtech.de/addyn/3.0/$script,domain=jeu.fr|jeux.fr
+@@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|jeu.fr|jeux.fr|rtl.fr
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
 @@||adswizz.com/crossdomain.xml
 @@||adv.voyage-economique.fr^$domain=voyage-economique.fr
@@ -2146,7 +2146,7 @@ sofoot.com##.HOULALA
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
 @@||everlong.org/style/banner.php
 @@||fatherandsons.fr^*/opecom/affiliation/
-@@||fr-advideum.videoplaza.tv/proxy/distributor^$object-subrequest,domain=aufeminin.com|generation-nt.com|jeux.fr|lefigaro.fr|rfi.fr
+@@||fr-advideum.videoplaza.tv/proxy/distributor^$object-subrequest,domain=aufeminin.com|generation-nt.com|jeu.fr|jeux.fr|lefigaro.fr|rfi.fr
 @@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
@@ -2184,7 +2184,7 @@ sofoot.com##.HOULALA
 @@||ophtalmo.tv/video/ads/$object-subrequest
 @@||ouifm.adswizz.com//www/components/
 @@||ouifm.adswizz.com/www/components/
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=jeux.fr
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=jeu.fr|jeux.fr
 @@||parissportifs24h.fr/upload/Image/Ads/$image
 @@||pc-overware.be/index/images/banners/annuaire%20test%206%20png.png
 @@||pc-overware.be/index/images/banners/forum.jpg
@@ -2205,7 +2205,7 @@ sofoot.com##.HOULALA
 @@||startertv.fr/images/v2/bg_topbody_startertv.jpg
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||static.touraineverte.com/banners/$image
-@@||static1.spilcdn.com/vda/vendor/flowplayer/ova.swf$domain=jeux.fr
+@@||static1.spilcdn.com/vda/vendor/flowplayer/ova.swf$domain=jeu.fr|jeux.fr
 @@||stcwbd.com/ads/plugins/jwplayer/player.swf$domain=ozap.com|purepeople.com
 @@||stickyads.adswizz.com/www/components/videocomponent.swf$object-subrequest,domain=nrj.fr|nrj12.fr|rireetchansons.fr
 @@||stickyadstv.com/crossdomain.xml
