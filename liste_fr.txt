@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: GPxvVETsf9nHCssU7SzEdQ
+! Checksum: HTWiy5choz3UXYnZDxOEdw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -2114,7 +2114,7 @@ sofoot.com##.HOULALA
 @@||adserve.atedra.com/serve.php?z=$script,domain=levraigabroy.com
 @@||adserve.atedra.com/vast/$domain=levraigabroy.com
 @@||adserver.adtech.de/addyn/3.0/$script,domain=jeux.fr
-@@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|rtl.fr
+@@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|jeux.fr|rtl.fr
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
 @@||adswizz.com/crossdomain.xml
 @@||adv.voyage-economique.fr^$domain=voyage-economique.fr
@@ -2140,7 +2140,7 @@ sofoot.com##.HOULALA
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
 @@||everlong.org/style/banner.php
 @@||fatherandsons.fr^*/opecom/affiliation/
-@@||fr-advideum.videoplaza.tv/proxy/distributor^$object-subrequest,domain=aufeminin.com|generation-nt.com|lefigaro.fr|rfi.fr
+@@||fr-advideum.videoplaza.tv/proxy/distributor^$object-subrequest,domain=aufeminin.com|generation-nt.com|jeux.fr|lefigaro.fr|rfi.fr
 @@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
@@ -2199,6 +2199,7 @@ sofoot.com##.HOULALA
 @@||startertv.fr/images/v2/bg_topbody_startertv.jpg
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||static.touraineverte.com/banners/$image
+@@||static1.spilcdn.com/vda/vendor/flowplayer/ova.swf$domain=jeux.fr
 @@||stcwbd.com/ads/plugins/jwplayer/player.swf$domain=ozap.com|purepeople.com
 @@||stickyads.adswizz.com/www/components/videocomponent.swf$object-subrequest,domain=nrj.fr|nrj12.fr|rireetchansons.fr
 @@||stickyadstv.com/crossdomain.xml
