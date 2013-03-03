@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ndrr5z+XD6KhOfLjnXtHng
+! Checksum: G7eLVm/8CbhLRFrIIGaWJg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -2118,6 +2118,7 @@ sofoot.com##.HOULALA
 @@||adserve.atedra.com/js/$script,domain=levraigabroy.com
 @@||adserve.atedra.com/serve.php?z=$script,domain=levraigabroy.com
 @@||adserve.atedra.com/vast/$domain=levraigabroy.com
+@@||adserver.adtech.de/?advideo/3.0/$object-subrequest,domain=jeux.fr
 @@||adserver.adtech.de/addyn/3.0/$script,domain=jeux.fr
 @@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|jeux.fr|rtl.fr
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
