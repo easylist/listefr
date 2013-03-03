@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ICo5o5nKEDQ61D9CRDQz0w
+! Checksum: Rz6XbblDCeQSqjB2PAg4jw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -1572,6 +1572,7 @@ football365.fr,mercato365.com,rugby365.fr,sport365.fr###ban_bottom
 football365.fr,mercato365.com,rugby365.fr,sport365.fr###ban_top
 formation-dz.com##.mod_banners
 forum-actif.net##.tradeDoubler
+forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 forum.malekal.com##fieldset[style="width:472px; height:70px"]
 forum.malekal.com##fieldset[style="width:732px; height:115px"]
 forum.malekal.com##fieldset[style="width:732px; height:95px"]
