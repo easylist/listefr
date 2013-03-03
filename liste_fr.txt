@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Dbp2TnPQG+oOFL1EalDF7Q
+! Checksum: V4o4IlZ9m0iO1WuiKz4z8A
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -14,11 +14,13 @@
 !
 -publicite.
 .be/ads/
+.biz/ads/
 .ch/ads/
 .fr/ads.
 .fr/ads/
 /adserverpub?
 /bandeaupublicite/*
+/banniere728x90_
 /call/pubj/*
 /pub300-250.
 /pub728-90.
@@ -34,6 +36,7 @@
 /regiepub/*
 =300x250&
 =728x90&
+=adView&
 _publicitaire/
 _publicite.
 _publicite1.
@@ -710,7 +713,6 @@ _regiepub/
 ||lesbiennesxxx.com^*/u.js
 ||lesmobiles.com/habillage/
 ||lesoirdalgerie.com/articles/*/dzauto.swf
-||lespagesmaghreb.com/ad_locations/
 ||letopdusexe.net^*/infopop/
 ||letour.fr^*/partenaires.swf?
 ||letoutx.com/pubs/
@@ -718,7 +720,6 @@ _regiepub/
 ||letraitdunion.com/images/wallpaper/
 ||lettres-modeles.fr/include/_iframe300x200.php
 ||lettres-modeles.fr/include/_iframe300x600.php
-||lettres-modeles.fr/include/_iframe728x90.php
 ||lettres-modeles.fr^*/lmodel.php
 ||lexpressiondz.com/files/banners/
 ||lfp.fr/images/pub/
@@ -968,7 +969,6 @@ _regiepub/
 ||tubehentaigratuit.com/promo/
 ||tubehentaigratuit.com/under.js
 ||twodollarclick.com/earnbanner.php?
-||undernews.fr^*/banniere728x90_
 ||une-recette.com/include/_iframe
 ||unlock-stream.com/js/disclamer.js
 ||upp-auteurs.fr/annonces/
@@ -994,7 +994,6 @@ _regiepub/
 ||wawacity.su/popup.html
 ||webchoc.com/pop.js
 ||weblettres.net/@images/pub/
-||webmanager.biz/ads/
 ||webmarchand.be/js/ov.js.php?
 ||webstar-auto.com/banners_pub/
 ||webstar-auto.com/iframe_autos_neufs_occasions.php
@@ -1011,7 +1010,6 @@ _regiepub/
 ||yanik.com/pubcitibar.jpg
 ||yimg.com/dh/ap/default/*/yahoolast.jpg
 ||yourporno.fr^*/pop.js
-||zapiks.fr^*=adView&
 ||zataz.com/cdn-cgi/pe/bag?
 ||zataz.com/images/images_news/
 ||zone911pub.com^
