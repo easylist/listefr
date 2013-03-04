@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 0kYy8OxlbwgZRgeR7MmcNQ
+! Checksum: HIUx9zVoDJNi7XJB5LuGTA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -858,6 +858,7 @@ _regiepub/
 ||pub.webxfrance.org^
 ||rabbitfinder.com/bannieres/
 ||radioclassique.fr^*/player_pub.php
+||rajacasablanca.com/site/images/flash_banners/
 ||raje.fr/images/banners/
 ||regie.hiwit.org^
 ||releve.qc.ca/quebec/bannieres/
@@ -1936,6 +1937,7 @@ protect-url.net###pubpagebasd
 protect-url.net###pubpagebasg
 radiofrance.fr###banniere
 radiofrance.fr##table[width="765"][height="100"]
+rajacasablanca.com##.adv
 raje.fr##.ads
 redlist-ultimate.be###partenaire
 redlist-ultimate.be##div[style="display:none;"] + .block
