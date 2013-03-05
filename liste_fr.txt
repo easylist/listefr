@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: gSlwsUtBuZHmLBLkbdJJOw
+! Checksum: mtkUGhtS4a0G3MRWMbd8Gw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Mises à jour : https://code.google.com/p/listefr-adblock/source/list
@@ -144,7 +144,6 @@ _regiepub/
 ||liveparadise.com^$third-party
 ||livewithbinaryoptions.com^$third-party
 ||master-ptp.com^$third-party
-||mediaffiliation.com^$third-party
 ||medncom.com^$third-party
 ||megavisites.com^$third-party
 ||misstrends.com^$third-party
@@ -1935,8 +1934,6 @@ programme-tv.net###blocPub_MEGABAN
 programme-tv.net###pub_pole_position1
 programme-tv.net##.blocLeguide
 programme.tv##.pub
-protect-url.net###pubpagebasd
-protect-url.net###pubpagebasg
 radiofrance.fr###banniere
 radiofrance.fr##table[width="765"][height="100"]
 rajacasablanca.com##.adv
@@ -2276,7 +2273,6 @@ sofoot.com##.HOULALA
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hugolescargot.com|universal-soundbank.com
 @@||partage-facile.com$elemhide
 @@||playtv.fr$elemhide
-@@||protect-url.net^$script,~third-party
 @@||sanwilltv.net/advertisement.js
 @@||scan-manga.com/js/show_ads.js
 @@||sexytout.com/ad.php?$script
