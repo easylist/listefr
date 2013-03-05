@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: q21g01kyTcLoBrwv2MBLYQ
+! Checksum: +RtgexxWEF6wACJwaW2qug
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -187,6 +187,7 @@ _regiepub/
 ||secretsdujeu.com^$image,~image,popup
 ||sex-affiliation.com^$third-party
 ||sextapes2stars.com^$third-party
+||shoppytab.com^$third-party
 ||smart.allocine.fr^$~object-subrequest,~subdocument
 ||smart2.allocine.fr^$~object-subrequest,~subdocument
 ||spb2011.com^$third-party
