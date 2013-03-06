@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: qb/xLiq8YY5Jf43P4MbkXQ
+! Checksum: AWx426YnM9rsQewMPITJ1g
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -293,6 +293,7 @@ _regiepub/
 ||gateway.eravage.com/hit.php?$image,~image,popup
 ||gayxperience.com/index.php?$third-party
 ||globirank.com/image/$domain=unlock-stream.com
+||googleapis.org/zfe2hi
 ||grenierdumaroc.com^$domain=movizfr.com
 ||grosse-passion.com/ban/$third-party
 ||hardcore-passion.com/ban/$third-party
@@ -861,6 +862,7 @@ _regiepub/
 ||radioclassique.fr^*/player_pub.php
 ||rajacasablanca.com/site/images/flash_banners/
 ||raje.fr/images/banners/
+||redown.se/templates/black/images/direct.jpg
 ||regie.hiwit.org^
 ||releve.qc.ca/quebec/bannieres/
 ||rireetchansons.fr/rire/pub-
