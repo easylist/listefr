@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: CuJtUPXS/OzTsizEEVsw2w
+! Checksum: OO6tDSTYtksJiWvV+ZFnRA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -254,6 +254,7 @@ _regiepub/
 ||beurettes-faciles.com/promo/
 ||bit.ly^$image,domain=~forum.pcinpact.com|pcinpact.com
 ||bitchvolley.com/ban/$third-party
+||bourgogne-restaurants.com/a_decouvrir_resto_$third-party
 ||canaljeuvideo.com/var/storage/habillages/
 ||carasexe.com/promo/$third-party
 ||cdn.installclick.fr^*/ad.html
@@ -460,6 +461,7 @@ _regiepub/
 ||autoreflex.com^*/logo_map_partenaires.png
 ||begeek.fr/cdiscount.jpg
 ||benkhouya.com^*/hebergement-web-maroc.png
+||bienpublic.com/fr/images/blocHTML/logoOffre.jpg
 ||bittovore.com/popup.php$image,~image,popup
 ||blague.info/pub/
 ||blog-nouvelles-technologies.fr/wp-content/annonceurs/
@@ -1427,6 +1429,8 @@ bakchich.info##.scpe-pub
 basketusa.com##.pub-1000x90-top
 beaute-test.com##.addict_bloc
 beezik.com##.ads
+bienpublic.com###AjaxCarreEditoIoomyz
+bienpublic.com##.OffreHabitat
 blog.you-test.ch##body > :nth-child(n) + style + div[id]:last-child
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 blog2mature.com##.download
