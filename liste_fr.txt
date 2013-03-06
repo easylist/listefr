@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: AWx426YnM9rsQewMPITJ1g
+! Checksum: PGXT0ZztT93FQ04HmJeS3g
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -585,6 +585,10 @@ _regiepub/
 ||forumactif.com/admgt/
 ||forumdz.com/pub/
 ||forzamotorsport.fr/img/pub/
+||france-pittoresque.com/Espace_Mag_
+||france-pittoresque.com/expstickybar.js
+||france-pittoresque.com/pub.js
+||france-pittoresque.com/pubexterne.htm
 ||francefootball.fr/pub/
 ||francetransactions.com/img/Habillage_
 ||frandroid.com^*/pub_affichage_web/
@@ -1158,6 +1162,7 @@ _regiepub/
 ###pubcarre
 ###pubcoldroite
 ###pubdirecte
+###pubdroite
 ###pubfooter
 ###pubgauche
 ###pubgoogle
@@ -1593,6 +1598,7 @@ forumactif.com##div[class^="add-google"]
 forumfr.com###rightCol_ad
 fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
 fr.news.yahoo.com##div[id^="pmBannerContainer"]
+france-pittoresque.com###banniere
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr,~sport.francetv.fr##div[id^="eShowPub"]
 franceantilles.fr,franceguyane.fr###megabanner
 francebleu.fr,franceinfo.fr###pub-ftv-top
