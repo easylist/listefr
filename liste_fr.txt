@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Yu/i27CD92yHWCW0/80CHA
+! Checksum: HX0xS0SGVkOJS/X5xOltSA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1190,6 +1190,7 @@ _regiepub/
 ###roundPub
 ###slidepub
 ###spaceForPub
+###stickyads
 ###tag_pub_footer
 ###teaserPub
 ###thePubDiv2
@@ -2068,7 +2069,6 @@ tsa-algerie.com###floatSide
 tsa-algerie.com##.zone_annonceurs
 tube-teen.fr###partenaire_img
 tube-teen.fr###partenaire_link
-tunisie-news.com###stickyads
 tunisie-news.com##a[href^="/artpublic/banniere/click3.php?"]
 turbo.fr##.croco.betclic
 tv5.org##.bloc_promomiddle
