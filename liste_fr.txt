@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: F+vCz91av3MKbzsHFSkadw
+! Checksum: XsuR8pqmuXKjYtp1xsnqDA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1013,6 +1013,7 @@ _regiepub/
 ||wawa-mania.*/ph.jpg
 ||wawacity.su/popup.html
 ||webchoc.com/pop.js
+||webfrance.com/images/backcj.jpg
 ||weblettres.net/@images/pub/
 ||webmarchand.be/js/ov.js.php?
 ||webstar-auto.com/banners_pub/
@@ -2135,6 +2136,7 @@ wat.tv##.partner_one_wat
 wat.tv##.partner_two_wat
 wat.tv##.pub
 webactus.net###text-4
+webfrance.com##a[href*="webfrance.com/go/"]:not([href="http://www.webfrance.com/go/facebook.php"]):not([href="http://www.webfrance.com/go/twitter.php"]):not([href="http://www.webfrance.com/go/googleplus.php"]):not([href="http://www.webfrance.com/go/linkedin.php"])
 webrankinfo.com##.pub_rm_inter_posts_forum
 webrankinfo.com##div[style="margin: 0; padding: 5px 8px 5px 8px; background: url(http://www.webrankinfo.com/images/design/fd_blockquote.png) no-repeat 0 100%; font-size: 1.3em; color: black; width: 615px;"]
 webstar-auto.com##.ads
