@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: xzA0l4Atfu0krpx6rTkp7A
+! Checksum: TuEUT71KaCrTC2MIUBzVcQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -174,12 +174,9 @@ _regiepub/
 ||pub-france.com^$third-party
 ||pub.gdb-host.com^$third-party
 ||pub.media-clic.com^$third-party
-||pub.menara.ma^
 ||pub.netboosting.com^
-||pub.tetu.com^
 ||puboclic.com^$third-party
 ||reactivpub.fr^$third-party
-||regie-agricole.com^*/pubs^$third-party
 ||regie.audioprint.fr^$third-party
 ||regiedepub.com^$third-party
 ||reussissonsensemble.fr^$third-party
@@ -373,6 +370,7 @@ _regiepub/
 ||pulsions-genereuses.com/ban/$third-party
 ||quellavelinge.com^$image,~image,popup,domain=trefle.com
 ||ranking-metrics.fr/pob/get.cgi?f=banner_
+||regie-agricole.com^*/pubs^$third-party
 ||rollersexe.com/ban/$third-party
 ||rwabe.com/pub/
 ||salopes.free.fr/ban/
@@ -867,9 +865,11 @@ _regiepub/
 ||pub.babygo.fr^
 ||pub.jeuxactu.com^
 ||pub.lesinrocks.com^
+||pub.menara.ma^
 ||pub.nyu-nyu.com^
 ||pub.petitfute.com^
 ||pub.plan-dial.com^
+||pub.tetu.com^
 ||pub.webxfrance.org^
 ||pubs.lemonde.fr^
 ||rabbitfinder.com/bannieres/
