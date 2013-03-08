@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: vwNbn/BccBYP1HPkW78Cgw
+! Checksum: ysDkXpHcmP8Lrdk/YO26FA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1687,6 +1687,7 @@ jeuxonline.info###pub
 jeuxvideo.com###banner_jv
 jeuxvideo.com###mc_sponso
 jeuxvideo.com###pub_carre1
+jeuxvideo.com##.publi_info + ul
 jolpress.com###block-acp-block-publicite-top
 jolpress.com##.node-banner
 joueurdugrenier.fr##.widgetAmis
