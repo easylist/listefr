@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: QQqsjRVr5yjYpXuXodzKxw
+! Checksum: 68FZJTy9hPsSZWAwSNYXAQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1960,6 +1960,8 @@ parolesmania.com###rectangle > .thinbox div[style="height: 250px;"]
 paruvendu.fr##.h11-ad-top
 pcastuces.com##table[width="95%"][cellspacing="4"][cellpadding="4"][align="center"]
 pcworld.fr###shopping
+people-looks.com##td[width="340"][height="265"][align="center"]
+people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 phonandroid.com##.clear + * + * + .post.bg2:not([id^="p"]):not(.aamatch)
 photo.fr##.ad
 photo.fr##.parrains
