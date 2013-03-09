@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: R95IWYZ/5Jlhys+t6D0+CQ
+! Checksum: KfcyL04icykg8OpvGIRS0A
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -2277,7 +2277,6 @@ sofoot.com##.HOULALA
 @@||stickyads.adswizz.com/www/components/videocomponent.swf$object-subrequest,domain=nrj.fr|nrj12.fr|rireetchansons.fr
 @@||stickyadstv.com/crossdomain.xml
 @@||teads.fr/ads/
-@@||track.effiliation.com/servlet/effi.click?$subdocument,domain=radins.com
 @@||tradedoubler.com^$domain=emv3.com|teads.fr
 @@||tv5mondeplus.com/proxy.php?route=http://videos-pub.ftv-publicite.fr/player/jingles.json$xmlhttprequest
 @@||vbs-ads.s3.amazonaws.com^$domain=premiere.fr
@@ -2306,6 +2305,7 @@ sofoot.com##.HOULALA
 @@||maps.googleapis.com/maps/api/*=300x250&
 @@||solutions.tradedoubler.com/redirect/$subdocument,domain=track.radins.com
 @@||tkqlhce.com/click-$subdocument,domain=track.radins.com
+@@||track.effiliation.com/servlet/effi.click?$subdocument,domain=radins.com
 @@||track.webgains.com/click.html?$subdocument,domain=track.radins.com
 @@||tracking.publicidees.com/clic.php?$subdocument,domain=track.radins.com
 @@||tracking.veoxa.com/click/banner?$subdocument,domain=track.radins.com
