@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: aISJNOIWMmLQCfk6T8LPGA
+! Checksum: G9Ckcc0p893kRDiDYjT4XA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -448,7 +448,6 @@ _regiepub/
 ||amateurdesexe.com^*/zone_hard.gif
 ||androidgen.fr/pub/
 ||animes-streaming.net/images/ruedufric.png
-||annonces-dz.com/siagoran2013.gif
 ||annuaire-inverse-gratuit.org/js/default.js
 ||aps.dz/pub-
 ||aps.dz/pub.php
@@ -1425,7 +1424,8 @@ android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlin
 androidgen.fr,dsgen.fr,iphonegen.fr,ps3gen.fr,pspgen.com,psvitagen.fr,wiigen.fr,xboxgen.fr##.fichesjeu_pave
 androidpit.fr##div[style="float:left; width:976px; line-height:0; min-height:90px; margin-bottom:5px; text-align:center;"]
 anime00.com,anime00.net###pb1
-annonces-dz.com##img[style="border: solid 5px #f5f5f5; border-radius: 7px; box-shadow: 0 0 15px #555555;"]
+annonces-dz.com###hb
+annonces-dz.com##table[width="800"][height="115"]
 annoncesbateau.com###BlocPartenaires
 annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
 annuaire-streaming.com###pub
