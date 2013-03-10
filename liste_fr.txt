@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: G4KejHUIXdNIycl/KW6b/Q
+! Checksum: gQ0snquU5OmGsfo1gMAdXw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -406,7 +406,7 @@ _regiepub/
 ||uncadeau.com/partner_widgets/$third-party
 ||videoplaza.tv/creatives/assets/$object-subrequest,domain=rfi.fr
 ||videos-passion.com/ban/$third-party
-||vshop.fr/js/freak.js$third-party
+||vshop.fr/js/freak*.js$third-party
 ||wallmanga.com/img/anim_banniere_
 ||webself.net/WebselfEditeur/FormulaireDemo.aspx?
 ||widget.achetezfacile.com/widget.js$third-party
