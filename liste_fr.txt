@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: FKIHwe81Sbns+K4qeZS3UQ
+! Checksum: cYWEiMEuWQpTpkfsVkyQKg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -16,6 +16,7 @@
 .ch/ads/
 .fr/ads.
 .fr/ads/
+.publicite.
 /adserverpub?
 /bandeaupublicite/*
 /banniere728x90_
@@ -840,6 +841,7 @@ _regiepub/
 ||ox.mediastay.net/delivery/
 ||pafpaf.com/pubs/
 ||pafpaf.com/pubs/$image,~image,popup
+||parlonspiscine.com/pubs/
 ||passeportsante.net^*/controls/pub/
 ||pc-overware.be/index/images/banners/
 ||pcinpact.com/images/bd/events/current.png?v=14
@@ -1973,6 +1975,7 @@ pagesjaunes.fr###pushBonsPlansGC
 pagesjaunes.fr##.containerPdsSitesPartenaires
 pagesjaunes.fr##.linkPushEmbauche
 pagesjaunes.fr##.pushKeltravo
+parlonspiscine.com##.margin_bottom[style="padding:5px;border:1px solid #8F8F8F;border-radius:5px 0px 5px 0px;box-shadow: 0px 0px 10px #000000;"]
 parolesmania.com###leftcolumn2 > .thinbox div[style="height: 600px;"]
 parolesmania.com###rectangle > .thinbox div[style="height: 250px;"]
 paruvendu.fr##.h11-ad-top
