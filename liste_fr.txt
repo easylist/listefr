@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ioK/13xl+9zx/g/l/TPyTQ
+! Checksum: 1CfwaUQTSbFSUdYLTxfoBw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -838,6 +838,7 @@ _regiepub/
 ||ouifm.fr^*/images/partners/
 ||oujdacity.net/kelkoo*.html
 ||oumazik.com/poop.js
+||oumma.com^*/imagecache/pub_
 ||overlays.fr/js/launcher.js
 ||ox.jeuxonline.info^
 ||ox.mediastay.net/delivery/
@@ -1971,6 +1972,8 @@ oujdacity.net###common-top-widget
 oujdacity.net##.ads
 oujdacity.net##.ebuzzing_box
 oumazik.com###pb2
+oumma.com###header
+oumma.com##.node-pub
 over-blog.com##.pub
 pafpaf.com##.adBlocTop
 pagerank.fr##div[style="height: 40px; width: 750px; margin: auto; background-image: url(/images/degradebas.gif); background-repeat: no-repeat; background-position: bottom; padding-top: 10px;"]
