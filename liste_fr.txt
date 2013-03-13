@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: dFoj1/+lCb3teqhPFOW+rw
+! Checksum: bPecW80q6YBAX2UwCTxATQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -11,7 +11,7 @@
 !
 !----------------------- Filtres génériques ----------------------!
 !
--publicite.
+-publicite.$third-party
 .be/ads/
 .ch/ads/
 .fr/ads.
@@ -2183,7 +2183,8 @@ sofoot.com##.HOULALA
 @@||247realmedia.com/0/Player/Player_FR_Home/Box-2-FR.jpg$domain=eurosportplayer.fr
 @@||ad.360yield.com/adj?$script,domain=jeu.fr|jeux.fr
 @@||ad.zanox.com/ppc/$image,~image,popup
-@@||ad2play.ftv-publicite.fr/?sitepage=www.psg.fr$subdocument,domain=psg.fr
+@@||ad2play.ftv-publicite.fr/?sitepage=$subdocument,domain=mytaratata.com|psg.fr
+@@||ad2play.ftv-publicite.fr/js/ad2play.js$domain=mytaratata.com
 @@||adgear.com^*/adgear.js$domain=tetesaclaques.tv|tou.tv
 @@||admedia.rtl.fr/online/sound/$object-subrequest,domain=rtl.fr
 @@||ads.audience2media.com/crossdomain.xml$domain=videos.nt1.tv
