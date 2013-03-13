@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: XcTRlwnWMvP/HrlsXQJbDg
+! Checksum: NBfjbnz/AcdzqOsvU2XpMA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -350,6 +350,7 @@ _regiepub/
 ||onvillanuit.com^$domain=chartsinfrance.net
 ||oxiads.fr/www/images/
 ||p0rno.com/banners/
+||parlonspiscine.com/img/pubs/
 ||partner.leguide.com^$third-party
 ||pepitastore.com^$domain=clubic.com
 ||petite-garce.com/ban/$third-party
@@ -592,6 +593,9 @@ _regiepub/
 ||forum-windows.com/images/plimus/
 ||forum-windows.com/open/www/delivre/
 ||forumactif.com/admgt/
+||forumconstruire.com/img/partenaires/
+||forumconstruire.com/pubs/
+||forumconstruire.com^*/pubs/
 ||forumdz.com/pub/
 ||forzamotorsport.fr/img/pub/
 ||france-pittoresque.com/Espace_Mag_
@@ -1164,6 +1168,7 @@ _regiepub/
 ###pub_bandeau
 ###pub_banner
 ###pub_bottom
+###pub_carre
 ###pub_carre_1
 ###pub_col_right
 ###pub_column
@@ -1625,6 +1630,8 @@ forum.pcastuces.com##table[width="728"][height="90"][align="center"]
 forum.webxfrance.org##div[style="width:1230px; height: 110px; background-color: #eff1f1"]
 forumactif.com##.partners
 forumactif.com##div[class^="add-google"]
+forumconstruire.com##a[name="0"] + .postbox_forum.table1_post_box
+forumconstruire.com##div[style="width:930px;\9 min-height:90px;\9 left:0px;\9 z-index:1100;\9 margin-top:10px;\9 margin-bottom:10px;"]
 forumfr.com###rightCol_ad
 fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
 fr.news.yahoo.com##div[id^="pmBannerContainer"]
