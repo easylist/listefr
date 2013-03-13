@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: U0SCsPgjFdrgIY/DCdUcvQ
+! Checksum: CsoLZvj1fWPlO5V/FRBnrg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -199,10 +199,7 @@ _regiepub/
 ||surfactif.fr^$third-party
 ||tag.regieci.com^$third-party
 ||tcadops.ca^$third-party
-||teads.tv/js/footer.$third-party
-||teads.tv/js/footer^$third-party
-||teads.tv/js/inread^$third-party
-||teads.tv/js/maxbrand-$third-party
+||teads.tv^$third-party
 ||the-adult-company.com^$image,~image,popup,third-party
 ||tool.acces-vod.com^$third-party
 ||tootrash.com^$third-party
