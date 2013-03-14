@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Fi1YFb6P9y1eyjkFrTADuA
+! Checksum: M2vk3OaprtFxnPSWJ/AQkA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -2022,6 +2022,7 @@ raje.fr##.ads
 redlist-ultimate.be###partenaire
 redlist-ultimate.be##div[style="display:none;"] + .block
 releve.qc.ca###entete-banniere
+replay.fr##.ads
 rfi.fr###caroussel_partenaires
 routard.com##[id^="A2dEmplacement"]
 rtbf.be###bannerLeaderboard
@@ -2363,14 +2364,18 @@ sofoot.com##.HOULALA
 @@||dramapassion.com/js/advertisement.js
 @@||forumconstruire.com/ads.js
 @@||googleads.g.doubleclick.net/favicon.ico$image
+@@||googletagservices.com/tag/js/gpt.js$domain=replay.fr
 @@||gratuitcul.com/ad.php?ad=$script
 @@||instantmanga.com/js/advertisement.js
 @@||leetgamerz.net/js/advertisement
 @@||meteomedia.com/common/js/master/adframe.js
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=hugolescargot.com|netprof.fr|universal-soundbank.com
+@@||pagead2.googlesyndication.com/pagead/osd.js$domain=replay.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hugolescargot.com|netprof.fr|universal-soundbank.com
 @@||partage-facile.com$elemhide
+@@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=replay.fr
 @@||playtv.fr$elemhide
+@@||pubads.g.doubleclick.net/gampad/ads?$script,domain=replay.fr
 @@||sanwilltv.net/advertisement.js
 @@||scan-manga.com/js/show_ads.js
 @@||sexytout.com/ad.php?$script
