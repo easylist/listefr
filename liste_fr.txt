@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: KVKJ+dc1jGL7Vr/S4eiwkg
+! Checksum: mL9ObvipLT1b8Yi82bdCRw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -406,6 +406,7 @@ _regiepub/
 ||pulsions-genereuses.com/ban/$third-party
 ||quellavelinge.com^$image,~image,popup,domain=trefle.com
 ||ranking-metrics.fr/pob/get.cgi?f=banner_
+||refgratuit.fr/images/pub/
 ||regie-agricole.com^*/pubs^$third-party
 ||rollersexe.com/ban/$third-party
 ||rwabe.com/pub/
@@ -444,7 +445,9 @@ _regiepub/
 ||top-france.com/bouton2.php?
 ||top-maroc.net/button.php?
 ||topsite-web.net/top/scriptManager.js
+||topsite.meilleur-blog.fr/button.php?
 ||toutsurlesabdos.com/images/bannieres_$domain=europeplusnet.info
+||track.bloglog.com^$third-party
 ||trashixxx.com/ban/$third-party
 ||tresorkado.com/banniere/
 ||tripadvisor.com/WidgetEmbed-$domain=leparisien.fr
@@ -456,6 +459,7 @@ _regiepub/
 ||vshop.fr/js/freak*.js$third-party
 ||w3sexe.com/logo.php?
 ||wallmanga.com/img/anim_banniere_
+||webcilon.tripod.com/bannieres/
 ||webself.net/WebselfEditeur/FormulaireDemo.aspx?
 ||widget.achetezfacile.com/widget.js$third-party
 ||widgetvillage.com/ministore/$third-party
