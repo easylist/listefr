@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: M2vk3OaprtFxnPSWJ/AQkA
+! Checksum: 46ADJabUKyHDOi+yRVPkFw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -124,7 +124,6 @@ _regiepub/
 ||exchange.gouik.com^$third-party
 ||f5biz.biz^$third-party
 ||femme-cougar.tv^$image,~image,popup,third-party
-||fr.ard.yahoo.com^
 ||gagner-une-console.com^$third-party
 ||gambling-france.com^$third-party
 ||goodaction.com^$third-party
@@ -163,7 +162,7 @@ _regiepub/
 ||plista.com^$third-party
 ||pornravage.com^$third-party
 ||pornstreet.com^$image,~image,popup,third-party
-||promo.alienbiz.com^
+||promo.alienbiz.com^$third-party
 ||promo.easy-dating.org^$third-party
 ||promo.ezstatic.com^$third-party
 ||promo.hysteriq.com^$third-party
@@ -174,7 +173,7 @@ _regiepub/
 ||pub-france.com^$third-party
 ||pub.gdb-host.com^$third-party
 ||pub.media-clic.com^$third-party
-||pub.netboosting.com^
+||pub.netboosting.com^$third-party
 ||puboclic.com^$third-party
 ||reactivpub.fr^$third-party
 ||regie.audioprint.fr^$third-party
@@ -183,7 +182,7 @@ _regiepub/
 ||rgbperf.com^$third-party
 ||say.fr^$third-party
 ||scratchmania.com^$image,~image,popup,third-party
-||script.banstex.com^
+||script.banstex.com^$third-party
 ||secretsdujeu.com^$image,~image,popup
 ||sex-affiliation.com^$third-party
 ||sextapes2stars.com^$third-party
