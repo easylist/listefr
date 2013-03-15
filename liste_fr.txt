@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Ib+coTUxSmj+UdaC5NwUqQ
+! Checksum: hsNTJfVNXneUKKLeIJAA+w
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -20,6 +20,7 @@
 /adserverpub?
 /bandeaupublicite/*
 /banniere728x90_
+/bannieres_pub/*
 /call/pubj/*
 /pub300-250.
 /pub728-90.
@@ -266,8 +267,10 @@ _regiepub/
 ||choubijoux.com/image/banniere-$third-party
 ||clip-x.net/images/pub/
 ||club-salopes.com/partenaires/
+||codeotop.com/image/banniere/
 ||compteur-blog.net/img/pub_
 ||coquinissime.com/promo/
+||crocastuce.fr/images/Boutons/
 ||diagnostic-expertise.com^*-popunder.php?$image,~image,popup
 ||dir-fr.com/banners/$domain=la-musique-rai.com
 ||disco-sexe.com/ban/$third-party
@@ -326,6 +329,7 @@ _regiepub/
 ||laposte.net/webmail/*/panels/images/Pied_de_Mail_
 ||laraider.com/bans/
 ||le-favori.com/images/pub/
+||le-monde-remunere.fr/bouton-
 ||lebaiseur.com/ban/$third-party
 ||lebest.fr/banniere-externe/$domain=xvid-fr.com
 ||lesbienne-passion.com/ban/$third-party
@@ -338,6 +342,7 @@ _regiepub/
 ||matvsexe.com/bans/
 ||maximobileshop.com/widget/$domain=iphonetweak.fr
 ||maximumwall.com/images/top_ban_
+||mayakado.net/parrainage/
 ||mazika2lux.com/gary/
 ||mazika2Lux.com/ouma/
 ||megatopsites.com/index.html?$third-party
@@ -399,6 +404,7 @@ _regiepub/
 ||socialboost.fr/promo/$third-party
 ||sos-trique.com/ban/$third-party
 ||speedtest.net/images/$domain=infostar.e-monsite.com
+||sponsoweb.com/htdocs/templates/banners/
 ||stars-passion.com/ban/$third-party
 ||surf-report-shop.com^$image,~image,popup,domain=surf-report.com
 ||tac2.xcams.com/livecams/$third-party
@@ -1237,6 +1243,7 @@ _regiepub/
 ###wrapper-pub
 ###zone_pub
 ###zone_pub1
+##.BannierePub
 ##._meltypub
 ##.adspave
 ##.annonces_google
