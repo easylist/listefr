@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 46ADJabUKyHDOi+yRVPkFw
+! Checksum: KVnFcKhFuLsG26XM+yIA6Q
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -69,6 +69,7 @@ _regiepub/
 ||adsitonline.net^$third-party
 ||adsregieonline.com^$third-party
 ||adstronic.net^$third-party
+||adverteasy.fr^$third-party
 ||advertsponsor.com^$third-party
 ||affidate.com^$third-party
 ||affidirect.com^$third-party
@@ -79,6 +80,7 @@ _regiepub/
 ||affility.com^$third-party
 ||affpx.com^$third-party
 ||africawin.com^$third-party
+||ajoutezvotresite.com^$third-party
 ||allo-audience.fr^$third-party
 ||alloclick.com^$third-party
 ||allosponsor.com^$third-party
@@ -115,6 +117,7 @@ _regiepub/
 ||edintorni.net^$third-party
 ||effiliation.com^$third-party
 ||eravage.com^$third-party
+||esoterweb.com^$third-party
 ||espace-plus.net^$third-party
 ||espacephr.fr^$third-party
 ||esprit-click.com^$third-party
@@ -180,6 +183,7 @@ _regiepub/
 ||regiedepub.com^$third-party
 ||reussissonsensemble.fr^$third-party
 ||rgbperf.com^$third-party
+||rotabann.com^$third-party
 ||say.fr^$third-party
 ||scratchmania.com^$image,~image,popup,third-party
 ||script.banstex.com^$third-party
@@ -1953,6 +1957,8 @@ ogaming.tv###campain-rightPlaceHolder
 ogaming.tv###campain-topPlaceHolder
 omgtorrent.com##.tuyau
 one-piece-streaming.fr###fermerPub
+onetube.org##a[href="http://hipub.hiwit.org"]
+onetube.org##a[href="http://www.money-cpm.fr"]
 only-stream.com###disclaimer
 oopsbuzz.com##.behincontent
 ophtalmo.tv##a[href^="/ads/"]
