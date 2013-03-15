@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: hsNTJfVNXneUKKLeIJAA+w
+! Checksum: ax2TSU3YUeHIfs6s7bn1zg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -18,6 +18,7 @@
 .fr/ads/
 .publicite.
 /adserverpub?
+/aff_pub_
 /bandeaupublicite/*
 /banniere728x90_
 /bannieres_pub/*
@@ -38,6 +39,7 @@
 =728x90&
 =publicite&
 @publicite@
+_pub_728.
 _publicitaire/
 _publicite.
 _publicite1.
@@ -1360,6 +1362,7 @@ _regiepub/
 ###pub-468x60
 ###pub-728
 ###pub-728x90
+###pub160
 ###pub250
 ###pub300
 ###pub300x250
