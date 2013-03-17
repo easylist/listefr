@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: A3GExOfYSD38OJVN7c+h+Q
+! Checksum: 0gCCDpq5U+l6AozLBJ8f/w
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -268,6 +268,7 @@ _regiepub/
 ||bazardux.com/index.php?$third-party
 ||belle-salope.fr/ban/$third-party
 ||belledesfleurs.com/ban/$third-party
+||best-list.net/button.php?
 ||beurette-passion.com/ban/$third-party
 ||beurettes-faciles.com/promo/
 ||bit.ly^$image,domain=~forum.pcinpact.com|pcinpact.com
@@ -1643,6 +1644,9 @@ douniamusic.com##div[style="margin-top:10px;float:left;height:250px;width:250px;
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 dramapassion.com###free_pub_head
 droidsoft.fr###addBlock
+dvdrip-truefrench.com##.bannertop
+dvdrip-truefrench.com##.fixe
+dvdrip-truefrench.com##a[onclick^="this.href='http://clic.illyx.com/aff_c?"]
 dzfoot.com##a[href^="http://www.medncom.com/regie/"]
 e-booksland.com###pb1
 e-orientations.com###habillage_pub
