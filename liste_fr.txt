@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: PkxUsuXrRhbzoCNIYEuHdQ
+! Checksum: 6nK8FB6Pmg/fBvJpQ2FliQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -232,6 +232,7 @@ _regiepub/
 ||x.porn.fr^$third-party
 ||xponsor.com^$third-party
 ||y-ads.net^$third-party
+||yban.fr^$third-party
 ||yes-messenger.com^$third-party,domain=~yesmessenger.com
 ||yesmessenger.com^$third-party,domain=~yes-messenger.com
 !
@@ -1406,6 +1407,7 @@ _regiepub/
 ##.publicite1
 ##.publicite_3
 ##.publicite_locale
+##.publiciteright
 ##.publicity
 ##.pubwrapper
 ##.sqrpub
