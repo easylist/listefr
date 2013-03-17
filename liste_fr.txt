@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 29tUwsmW+cv9u5I02LIFpA
+! Checksum: xE2rq2qmQ5EnVjg93qMywg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -598,6 +598,8 @@ _regiepub/
 ||dzfoot.com/upload/hs_dzfoot-com.jpg
 ||dzmeteo.com/dzm.php
 ||dzmusique.com/ressources/under.js
+||e-jeune.net/flash/360x250_
+||e-jeune.net/flash/banniere-
 ||e-orientations.com/bdd/habillage/
 ||e-sante.fr/sites/default/files/templates/$image
 ||easyrencontre.com/promo
@@ -1652,6 +1654,8 @@ dvdrip-truefrench.com##a[onclick^="this.href='http://clic.illyx.com/aff_c?"]
 dvdrip-truefrench.com##a[onclick^="this.href='http://www.cashtrafic.com/script/clic.php?"]
 dzfoot.com##a[href^="http://www.medncom.com/regie/"]
 e-booksland.com###pb1
+e-jeune.net###ban
+e-jeune.net##.ban_carre_1366
 e-orientations.com###habillage_pub
 e-sante.fr##.ad
 e-sante.fr##.public-info
