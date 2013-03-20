@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: m7Qe8xW00sJBZ2dcGMX0ug
+! Checksum: hYjHp93uPbQrJB4cKVGqvg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -2509,4 +2509,4 @@ vente-a-domicile.fr#@#.btn-ad
 latribune-online.com#@#.header_ads
 bfmtv.com#@#.ligatus
 leboncoin.fr#@#.list-ads
-siteduzero.com#@#div[id^="div-gpt-ad-"]
+siteduzero.com,wanimo.com#@#div[id^="div-gpt-ad-"]
