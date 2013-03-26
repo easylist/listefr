@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 8qt/Ix2s5coOEZHJ/jpl7A
+! Checksum: c1lfmgDaq0ygF5EJX8lgWQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1149,6 +1149,7 @@ _regiepub/
 !
 ###Block_Pub_Right
 ###PubBas
+###PubCarre
 ###PubFooter
 ###PubHead
 ###PubHeader
@@ -2167,6 +2168,7 @@ slappyto.net##.webrox._300x250.centered
 slate.fr###smart14320
 slate.fr###smart14321
 slate.fr###smart14321pub
+societe.com##table[width="303"] > tbody > tr > td[valign="top"][height="260"]
 softonic.fr##.topbanner
 solutions-logiciels.com###pub
 solutions-logiciels.com##div[style^="border:1px solid black; width: 300px; height: 250px"]
