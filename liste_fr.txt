@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: +S4jUwILys3jJQMwUKUBkA
+! Checksum: cA+hRvO2/O5sGMP1PZ1Kcw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -319,6 +319,7 @@ _regiepub/
 ||frenchfriendfinder.com^$domain=choualbox.com
 ||full-wallpaper.com/wallpaperday.js$third-party
 ||gagnons-argent.com/pubd.php$image,~image,popup,third-party
+||galeriedon.com/topsite/button.php?
 ||gametap.com/convergence/Header/framed/?
 ||gateway.eravage.com/hit.php?$image,~image,popup
 ||gayxperience.com/index.php?$third-party
@@ -396,6 +397,7 @@ _regiepub/
 ||onlyanimes.info/avatar/banpub.gif
 ||onlyanimes.info/avatar/boutonpub.gif
 ||onvillanuit.com^$domain=chartsinfrance.net
+||otaku-attitude.net/button.php?
 ||oxiads.fr/www/images/
 ||p0rno.com/banners/
 ||parlonspiscine.com/img/pubs/
@@ -479,6 +481,7 @@ _regiepub/
 ||trashixxx.com/ban/$third-party
 ||tresorkado.com/banniere/
 ||tripadvisor.com/WidgetEmbed-$domain=leparisien.fr
+||tv-live.fr/ban/
 ||twenga.fr^$domain=space-blogs.com
 ||uncadeau.com/partner_widgets/$third-party
 ||videoplaza.tv/creatives/assets/$object-subrequest,domain=rfi.fr
