@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: O+Ld0ehc9OvDgPLR/9nbZQ
+! Checksum: Ogy+Rx+RifRNHFT2c7epwg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -2475,7 +2475,7 @@ sofoot.com##.HOULALA
 @@||googleads.g.doubleclick.net/favicon.ico$image
 @@||googletagservices.com/tag/js/gpt.js$domain=replay.fr
 @@||gratuitcul.com/ad.php?ad=$script
-@@||instantmanga.com^$script,stylesheet
+@@||instantmanga.com^$script,stylesheet,~third-party
 @@||leetgamerz.net/js/advertisement
 @@||meteomedia.com/common/js/master/adframe.js
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=hugolescargot.com|netprof.fr|universal-soundbank.com
