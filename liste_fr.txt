@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: tJX6cRBWA4Gy4MPc6pammg
+! Checksum: qgF+oXVmfv9etsWr3gcIXg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -2519,6 +2519,7 @@ sofoot.com##.HOULALA
 @@||awsclic.com/js/advertisement.js
 @@||claymore.fr/advertisement.js
 @@||coursdeprofs.fr/adframe.js
+@@||crash-aerien.aero/www/news/%5C%22https://googleads.g.doubleclick.net/favicon.ico%5C%22
 @@||debrideurstreaming.com^*/adsense.js
 @@||dramapassion.com/js/advertisement.js
 @@||forumconstruire.com/ads.js
@@ -2565,3 +2566,5 @@ latribune-online.com#@#.header_ads
 bfmtv.com#@#.ligatus
 leboncoin.fr#@#.list-ads
 siteduzero.com,wanimo.com#@#div[id^="div-gpt-ad-"]
+! Anti-Adblock
+crash-aerien.aero#@#.publicite
