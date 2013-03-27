@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: yTsuZtK/eaUiw8TgN1m7QQ
+! Checksum: m/VdlemVb6sH/xrmf0P2fA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -991,6 +991,7 @@ _regiepub/
 ||portaildusexe.com/graphics/ban/
 ||pp.free.fr^
 ||prelude.me/public/pub/
+||presse-citron.net/wordpress_prod/wp-content/uploads/habillagePresseCitron_
 ||presse-citron.net^*/chicklets_pub/
 ||ps3gen.fr/pub/
 ||pspgen.com/pub/
@@ -2165,6 +2166,7 @@ pornojeune.net##.promo_texte2
 portail.free.fr###partenaires
 portaildusexe.com##.player-catcher
 premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
+presse-citron.net##a[style="cursor:pointer; display:block; height:1600px; left:0; position:absolute; top:0; width:100%;"]
 programme-tv.net###blocPub_MEGABAN
 programme-tv.net###pub_pole_position1
 programme-tv.net##.blocLeguide
