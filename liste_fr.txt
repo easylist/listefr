@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: wbBm88Mc7a8dhpA70G/BSQ
+! Checksum: cgn26KfLX/EQfIH/JplQug
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -2194,6 +2194,7 @@ search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
 seriesnostop.com##a[href^="http://www.adcash.com/script/clic.php?"]
 seriesnostop.com,videonostop.com###fixe_ctplugin
+seriesnostop.com,videonostop.com###pb1
 sexandtrash.com##.partenaires
 sexeautop.com###catcher
 sexytout.com###\5f email_catcher
@@ -2305,7 +2306,6 @@ viamichelin.fr##.vm-pub-home300
 video-2-cul.com##.banner
 video-buzz.eu##div[style="width:300px;height:250px;margin-bottom:15px;margin-left:auto;margin-right:auto;"]
 video-buzz.eu##div[style="width:728px;height:90px;margin-left:auto;margin-right:auto;margin-bottom:15px;"]
-videonostop.com###pb1
 videostep.com###divBrandVideo1
 videostep.com###divBrandVideo2
 videostep.com###divMainBrandVideo
