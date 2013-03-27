@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: qgF+oXVmfv9etsWr3gcIXg
+! Checksum: wbBm88Mc7a8dhpA70G/BSQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1459,6 +1459,7 @@ _regiepub/
 ##.srcPub
 ##.texte_ads
 ##.texte_ads_plug
+##.texte_pub
 ##.titrePub
 ##.topPub
 ##.topbarpub
@@ -1467,6 +1468,7 @@ _regiepub/
 ##.widget_publicite
 ##.wrap-pub
 ##.zonepub
+##a[href^="http://www.cashtrafic.com/script/clic.php?"]
 ! Dimensions
 ###Pub728x90
 ###blocPub300
@@ -2190,8 +2192,8 @@ science-et-vie.com###pub
 search.ke.voila.fr###fontDivVignette
 search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
-seriesnostop.com###fixe_ctplugin
 seriesnostop.com##a[href^="http://www.adcash.com/script/clic.php?"]
+seriesnostop.com,videonostop.com###fixe_ctplugin
 sexandtrash.com##.partenaires
 sexeautop.com###catcher
 sexytout.com###\5f email_catcher
@@ -2242,7 +2244,6 @@ strasbourg-tramway.fr##div[style="width:125px;height:125px;text-align:center"]
 strastv.com##.container_pubh_02
 strastv.com##.post_pub
 streamgo.net##.fixe
-streamgo.net##a[href^="http://www.cashtrafic.com/"]
 streaming-video3x.com##.ads
 streamingdivx.com##.popplugin
 streamingvideos.fr###adpanel\ fr
@@ -2304,6 +2305,7 @@ viamichelin.fr##.vm-pub-home300
 video-2-cul.com##.banner
 video-buzz.eu##div[style="width:300px;height:250px;margin-bottom:15px;margin-left:auto;margin-right:auto;"]
 video-buzz.eu##div[style="width:728px;height:90px;margin-left:auto;margin-right:auto;margin-bottom:15px;"]
+videonostop.com###pb1
 videostep.com###divBrandVideo1
 videostep.com###divBrandVideo2
 videostep.com###divMainBrandVideo
