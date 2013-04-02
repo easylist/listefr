@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: wB+spPBxyVcFEwSc4qV2Fg
+! Checksum: 1WOHrB6uX8aDhIbetPz63Q
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1882,6 +1882,8 @@ israel7.com##.box2[style="background-color:rgb(0,0,0);padding:20px;"]
 israel7.com##.box2[style="padding:5px;height:600px;"]
 israel7.com##table[style="margin:0px0px10px15px;"]
 itespresso.fr###slider-partnerzone
+jam-mag.com###header-banner
+jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
 jamaisjouis.com,vidule.com##.catcher
 jeu.net##div[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
 jeux-gratuits.com###barre-partenaires
