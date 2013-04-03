@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Mo1YUEy1LH9i0ULFsNR5Zg
+! Checksum: bF8bMU0B3azFVnmpLL4MCg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -732,6 +732,7 @@ _regiepub/
 ||forumactif.com/admgt/
 ||forumconstruire.com/img/partenaires/
 ||forumconstruire.com/pubs/
+||forumconstruire.com^*/autopromo/
 ||forumconstruire.com^*/pubs/
 ||forumdz.com/pub/
 ||forzamotorsport.fr/img/pub/
@@ -1814,6 +1815,7 @@ forumactif.com##.partners
 forumactif.com##div[class^="add-google"]
 forumconstruire.com##a[name="0"] + .postbox_forum.table1_post_box
 forumconstruire.com##div[style="width:930px;\9 min-height:90px;\9 left:0px;\9 z-index:1100;\9 margin-top:10px;\9 margin-bottom:10px;"]
+forumconstruire.com##div[style="width:930px;left:0px;z-index:1100;margin-top:10px;margin-bottom:11px;min-height:90px;"]
 forumfr.com###rightCol_ad
 fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
 fr.news.yahoo.com##div[id^="pmBannerContainer"]
