@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: bF8bMU0B3azFVnmpLL4MCg
+! Checksum: tuE/HoKToWAWvfyQVfWsIw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1813,6 +1813,7 @@ forum.pcastuces.com##table[width="728"][height="90"][align="center"]
 forum.webxfrance.org##div[style="width:1230px; height: 110px; background-color: #eff1f1"]
 forumactif.com##.partners
 forumactif.com##div[class^="add-google"]
+forumconstruire.com##a[href^="http://www.forumconstruire.com/ann/click.php?"]
 forumconstruire.com##a[name="0"] + .postbox_forum.table1_post_box
 forumconstruire.com##div[style="width:930px;\9 min-height:90px;\9 left:0px;\9 z-index:1100;\9 margin-top:10px;\9 margin-bottom:10px;"]
 forumconstruire.com##div[style="width:930px;left:0px;z-index:1100;margin-top:10px;margin-bottom:11px;min-height:90px;"]
