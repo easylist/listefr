@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: HEYKe5FnkOpBH/lbW4ZesA
+! Checksum: 2vYUXyn85TGsUO0UylHNew
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -413,7 +413,6 @@ _regiepub/
 ||myposeo.com^*250x250.swf?$third-party
 ||neko-hentai.com/banieres/
 ||neotokyo.com/banner/
-||netmediaeurope.fr^*/*_partnerzone.$image,domain=silicon.fr
 ||noogle.fr/banner/
 ||noviya.free.fr/bannieres/
 ||nuit-torride.com/ban/
@@ -2239,6 +2238,7 @@ sfr.fr##div[id^="A2dEmplacement"]
 silicon.fr###megabanner
 silicon.fr###skycraper
 silicon.fr###slider-partnerzone
+silicon.fr##a[href^="http://pubads.g.doubleclick.net/gampad/clk?"]
 sinfest.net##noscript a
 sitedesmarques.com###posPub
 skipass.com##.advertisement
