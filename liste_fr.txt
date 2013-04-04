@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: r3g73ctJ1GceC5E3kwHB3g
+! Checksum: TP592Mm0tHnyjQ0GzxSYuQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -762,7 +762,6 @@ _regiepub/
 ||garytube.com/pop.js
 ||generation-nt.com/iframe/ovh.php
 ||generation-nt.com/img/habillages/
-||generation-nt.com^*/pubs/
 ||gigacu.com/jquery.js
 ||gigatopsexe.com/550x100.gif
 ||goelovb.com^*/armortv.png
@@ -2075,8 +2074,6 @@ mediadico.com###NFBannierePublicitaire
 mega-divx.net###text-15
 mega-divx.net###text-17
 megaupload-download.net##.infoblock
-meilleureecoledefrance.com##.footer_partners
-meilleureecoledefrance.com##.list_sponsors
 meilleureecoledefrance.com##.skin-left
 meilleureecoledefrance.com##.skin-right
 meilleurtaux.com##.pub
@@ -2574,6 +2571,7 @@ sofoot.com##.HOULALA
 @@||debrideurstreaming.com^*/adsense.js
 @@||dramapassion.com/js/advertisement.js
 @@||forumconstruire.com/ads.js
+@@||generation-nt.com/img/pubs/ads.
 @@||googleads.g.doubleclick.net/favicon.ico$image
 @@||googleads.g.doubleclick.net/pagead/ads?$subdocument,domain=netprof.fr
 @@||googleads.g.doubleclick.net/pagead/html/$subdocument,domain=netprof.fr
