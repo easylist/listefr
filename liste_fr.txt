@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: JJUAKfnk2pSS7JOfplAPcw
+! Checksum: iKu3dwSlVXd3TUnzWWuFpA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1583,7 +1583,7 @@ accentice.com###sidebar
 accentice.com##div[style="padding:5;padding-top:0;background:#fffdf7;"]
 actu-environnement.com##.banniere
 actu-environnement.com##.publireportage_simple
-actufoot.fr##[id^="ad6b_"]
+actufoot.fr,livefootball.fr,mercato.fr##div[id^="ad6b_"]
 actupc.info###casing > center > table[width="100%"][height="60"][cellspacing="0"][cellpadding="0"]
 actustar.com##.ads
 ados.fr##.pub
@@ -2024,8 +2024,6 @@ lien-torrent.com##.nav-profil
 liensporno.com##.pub
 liste2cul.com##.catcher
 live-medias.net###headbanner
-livefootball.fr###ad6b_doubu8f6d5n
-livefootball.fr##[id^="pub_criteo_"]
 liveradio.fr###ad1
 lo.st##.home_partner_img
 logitheque.com###bloc-droit-haut-250-250
@@ -2078,7 +2076,6 @@ meilleureecoledefrance.com##.skin-left
 meilleureecoledefrance.com##.skin-right
 meilleurtaux.com##.pub
 melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,meltyxtrem.fr##[id^="container_A2_"]
-mercato.fr##[id^="ad6b_"]
 mercato365.com,rugby365.fr,rugby365.fr.fr,sport365.fr##.ads
 mesfilmsstreaming.com###pb1
 mesfilmsstreaming.com##.fixe
