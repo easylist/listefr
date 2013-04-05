@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: WD+fjDOB0SusAdDPvZ0JlA
+! Checksum: 7b/id+KS7X5eQjGfqSjqMw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1214,6 +1214,7 @@ _regiepub/
 !------------------ Éléments génériques -----------------!
 !
 ###Block_Pub_Right
+###NFBannierePublicitaire
 ###PubBas
 ###PubCarre
 ###PubFooter
@@ -1242,6 +1243,7 @@ _regiepub/
 ###block_pub
 ###block_pub_article
 ###block_regie_pub_bas
+###cadre_infoads
 ###cadre_pub_bas
 ###carre-pub
 ###carre_pub
@@ -1925,9 +1927,7 @@ korben.info###samsarin_php_widget-5 div[style*="width: 125px; height: 125px"]
 korben.info###samsarin_php_widget-9 a[style^="display:block"]
 korben.info##a[style*="width:468px;height:90px"]
 korben.info##a[style="background:transparent; position:absolute; top:0px; left:0; width:100%; height:100%; z-index:0;"]
-korben.info##div[id^="google_ads_"]
 la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
-la-musique-rai.com##.ban728
 la-musique-rai.com##.rowa
 lacanausurfinfo.com###banner_footer
 lacanausurfinfo.com###promo
@@ -1953,8 +1953,6 @@ lastfilmstreaming.com###pb1
 lastminute.com##.adContainer
 lateen18.com###trade
 lavenir.net##.partners
-lebest.fr###ban_300x250
-lebest.fr###ban_728x90
 lebest.fr###liens_sponso
 leboncoin.fr###oas-top1
 leboncoin.fr##.google
@@ -2045,7 +2043,6 @@ mac4ever.com###topappWidget
 magicmaman.com###boutiqueRight
 magicmaman.com##[href*="smartadserver.com/call/cliccommand/"]
 mail.voila.fr###blocServices
-maison.com##.ad300x111
 maisonapart.com##.map_fond_pub
 maisonapart.com##.map_pdp_pub
 manga-news.com##.banner
@@ -2070,7 +2067,6 @@ maxistreaming.com###header
 maxistreaming.com###searchform
 mcetv.fr###annonce-header
 mcetv.fr##div[style^="width: 300px;font-style: none;height: 250px"]
-mediadico.com###NFBannierePublicitaire
 mega-divx.net###text-15
 mega-divx.net###text-17
 megaupload-download.net##.infoblock
@@ -2117,7 +2113,6 @@ moto85.com##.partenaires
 moto85.com##div[style="width:1350px; height:255px; margin-top: -255px; margin-left: -180px;"]
 moviz.net##.fixe
 movizfr.com###pb1
-mrsexe.com##.ban300side
 msn.com###upgrade.hide
 msn.com##.sponsorship
 mu-streaming.com###pb1
@@ -2179,7 +2174,6 @@ pagesjaunes.fr##div[id^="push"]
 parlonspiscine.com##.margin_bottom[style="padding:5px;border:1px solid #8F8F8F;border-radius:5px 0px 5px 0px;box-shadow: 0px 0px 10px #000000;"]
 parolesmania.com###leftcolumn2 > .thinbox div[style="height: 600px;"]
 parolesmania.com###rectangle > .thinbox div[style="height: 250px;"]
-paruvendu.fr##.h11-ad-top
 pcastuces.com##table[width="95%"][cellspacing="4"][cellpadding="4"][align="center"]
 pcworld.fr###shopping
 people-looks.com##td[width="340"][height="265"][align="center"]
@@ -2194,7 +2188,6 @@ phpsources.org##div[class^="googleanal-"]
 phpsources.org##div[style="margin-bottom:15px;"] > table > tbody
 pixmania.com###highlight-new
 planet-casio.com###pub
-planet.fr##.block-gc_ad
 porn-tube-sexe.com###\5f email_catcher
 porn-tube-sexe.com###affidate_form_img
 porn-video-hd.com##.catcher-videos
@@ -2295,7 +2288,6 @@ streamingdivx.com##.popplugin
 streamingvideos.fr###adpanel\ fr
 streamnolimit.com###pscroller1
 streamxd.com###topbar
-super-drole.com###cadre_infoads
 superphysique.org##div[style*="text-align: center"][style*="width:250px"]
 swissquote.ch##.partner
 tadpu.com##a[href^="//fr.ulule.com/insidezecube/?utm_campaign="]
@@ -2345,7 +2337,6 @@ upp-auteurs.fr###annonce_b
 vacanceo.com##div[style="width:310px;height:270px;"]
 verif.com###verif_pub_adsense_commander
 verif.com###verif_pub_pave
-viamichelin.fr###idAFSRoadsheetBottom.afsAdvertisingBottom
 viamichelin.fr###idHeaderGDH
 viamichelin.fr##.vm-gdhmegaban
 viamichelin.fr##.vm-pub-home300
@@ -2358,7 +2349,6 @@ videostep.com###divMainBrandVideo
 vidule.com###trade
 vidule.com###wnc_disclaimer
 viedemerde.fr##.post.autopromo
-vintageamps.com###videoads
 virginradio.fr###la-promo-showskin-a
 virusphoto.com##table[width="300"][height="280"]
 vo2.fr###pub_background
