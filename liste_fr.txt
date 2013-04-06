@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Iq6BPWMkCbXLIcF+m2f8qw
+! Checksum: bLL7ivbOg4MBgnYZmIi0Iw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1844,6 +1844,7 @@ frequence-radio.com###wrap_pub_listing
 fullanimes.free.fr##a[href^="http://www.allopass.com/check/red.php"] > img
 fun-trades.com###partenaires
 funvideomix.org##.fixe
+futura-sciences.com##.nomatch > ul > li[id^="post_"]
 gameblog.fr###gbFnac300
 gameblog.fr###gbPub728bas
 gameblog.fr###gb_home_sponsor
