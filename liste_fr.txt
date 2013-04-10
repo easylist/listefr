@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: /xFLItjvioXhpWTfDrYsBQ
+! Checksum: AuYSOBMal5utFEsEFxnung
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -2452,6 +2452,7 @@ sofoot.com##.HOULALA
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
 @@||ccmbenchmark.com^$~third-party
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
+@@||cdn.videoplaza.tv/resources/html5-sdk/*-ea.min.js
 @@||clic.reussissonsensemble.fr/click*.asp$domain=forfait-mobile-moins-cher.com
 @@||daily-*.fr/images/*///pages/*_300x250.png
 @@||data.panachetech.com^$object-subrequest,domain=gameone.net
@@ -2466,6 +2467,7 @@ sofoot.com##.HOULALA
 @@||everlong.org/style/banner.php
 @@||fatherandsons.fr^*/opecom/affiliation/
 @@||fr-advideum.videoplaza.tv/proxy/distributor^$object-subrequest,domain=aufeminin.com|generation-nt.com|jeu.fr|jeux.fr|lefigaro.fr|rfi.fr
+@@||fr-canalplusdev.videoplaza.tv/proxy/html5-sdk/*-ea.min.js
 @@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
