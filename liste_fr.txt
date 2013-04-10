@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: yIkD0X0UcPMPMHVwZHFMDw
+! Checksum: qygDzHGsGgt7/UbTteacJQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -633,6 +633,7 @@ _regiepub/
 ||choualbox.com/pub/
 ||chronopost.fr^*/public/visuels/partenaires/
 ||cinemay.com/bannier/
+||clubpoker.net/medias/images/club-poker/habillages/
 ||coco.fr/chat/bigban
 ||commeaucinema.com/ads/
 ||compteur-gratuit.fr/images/bandeau_
@@ -1714,6 +1715,7 @@ clubic.com##div[class="facebox layer_suggest"]
 clubic.com##div[class="facebox layer_suggest_nl"]
 clubic.com##div[id^="pub_dart_"]
 clubic.com##div[style^="text-align:center;height:250px;width:300px;"]
+clubpoker.net###bannerTopWrapper
 cmonjour.com##.megaddd
 coco.fr##a[href="http://www.joker.net"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
