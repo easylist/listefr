@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: qygDzHGsGgt7/UbTteacJQ
+! Checksum: 3XETe19XL3apx6NP9l0i9w
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1097,6 +1097,7 @@ _regiepub/
 ||soonnight.com/intro.php?
 ||soonnight.com/template/page/pub/
 ||soonnight.com/template/purr/
+||soonnight.com/template/skins/1/images2/miniban_funradio.jpg
 ||soonnight.com^*/bande_partenaires.png
 ||soufisme-fr.com/images/pub/
 ||spin-off.fr/images/vpngratuitspinfoff.gif
@@ -2280,6 +2281,7 @@ soonnight.com###cadre_partenaire
 soonnight.com###partenaire
 soonnight.com###popup_connect
 soonnight.com##.pub
+soonnight.com##[id^="ajax_bas_colonne_"].bas_colonne
 soonnight.com##img[width="300"][height="250"]
 sortir47.fr###pub
 sortirensemble.com###sondage_age
