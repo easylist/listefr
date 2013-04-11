@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: /6DbfQeGO+slWCf+xfBvBA
+! Checksum: qsks4sMbpVd1SmifU1UtAQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -11,7 +11,7 @@
 !
 !----------------------- Filtres génériques ----------------------!
 !
--publicite.$third-party
+-publicite.$domain=~ftv-publicite.fr
 .be/ads/
 .ch/ads/
 .fr/ads.
@@ -20,6 +20,7 @@
 /adserverpub?
 /aff_pub_
 /bandeaupublicite/*
+/banners-pub/
 /banniere728x90_
 /bannieres_pub/*
 /call/pubj/*
@@ -742,7 +743,6 @@ _regiepub/
 ||frandroid.com^*/pub_affichage_web/
 ||free.fr^*/js/display_shopping_alice.js
 ||freenduro.com/images/banners/
-||freenduro.com^*/banners-pub/
 ||french-movies.net/btn_usenet.png
 ||fullxmovies.com/catcheur-haut.php
 ||fullxmovies.com/fakeplayer/
