@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: hqyBI1w7y86jrSWY5jD0pA
+! Checksum: 9EqLBrCU3lqjMHIZCJTzdA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1504,6 +1504,7 @@ _regiepub/
 ##.wrap-pub
 ##.wrapperPub
 ##.zonepub
+##a[href^="http://pubads.g.doubleclick.net/"]
 ##a[href^="http://www.cashtrafic.com/script/clic.php?"]
 ! Dimensions
 ###Pub728x90
@@ -1868,7 +1869,6 @@ gentside.com###kk-widget
 gentside.com,maxisciences.com,news-de-stars.com,simplyvoyage.com##.add300
 genybet.fr##.GGFODTBDCS
 girlsgogames.fr##.categoryBanner
-gizmodo.fr##a[href^="http://pubads.g.doubleclick.net/"]
 gmx.fr##.add
 gmx.fr##.addwide
 gmx.fr##.sideadd
@@ -1911,7 +1911,6 @@ israel7.com##.box2[style="background-color:rgb(0,0,0);padding:20px;"]
 israel7.com##.box2[style="padding:5px;height:600px;"]
 israel7.com##table[style="margin:0px0px10px15px;"]
 itespresso.fr###slider-partnerzone
-itespresso.fr##a[href^="http://pubads.g.doubleclick.net/"]
 jam-mag.com###header-banner
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
 jamaisjouis.com,vidule.com##.catcher
@@ -2256,7 +2255,6 @@ sfr.fr##div[id^="A2dEmplacement"]
 silicon.fr###megabanner
 silicon.fr###skycraper
 silicon.fr###slider-partnerzone
-silicon.fr##a[href^="http://pubads.g.doubleclick.net/gampad/clk?"]
 sinfest.net##noscript a
 sitedesmarques.com###posPub
 siteduzero.com###contentPubThread
