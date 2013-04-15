@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 7oFNz8iJQb9YnluWbn4bFQ
+! Checksum: q0hS11YdzbpLBasyOnA2ag
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -2588,6 +2588,7 @@ vivlajeunesse.fr###je55
 @@||tracking.publicidees.com/clic.php?$subdocument,domain=track.radins.com
 @@||tracking.veoxa.com/click/banner?$subdocument,domain=track.radins.com
 ! Anti-Adblock
+@@||adspub.net/javascript/advertisement-AdBlock.js
 @@||aidemu.fr^*/adBlock/advertisement.js
 @@||anime-story.com/js/ads.js
 @@||anime-story.com/js/advertise.js
