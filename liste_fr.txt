@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: SaPSUQYCLiyOW8Et+LXtoA
+! Checksum: TI3nsPbe8TiJvUQyAPCRLQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -128,6 +128,7 @@ _regiepub/
 ||espace-plus.net^$third-party
 ||espacephr.fr^$third-party
 ||esprit-click.com^$third-party
+||etoro.fr^$third-party
 ||euro-clic.com^$third-party
 ||eurowebbiz.com^$third-party
 ||every.com^$third-party
@@ -2158,6 +2159,7 @@ narutofr.com##.popplugin
 nedjma.dz###exposeMask
 nedjma.dz###pub_pupop
 neomag.fr###big-ad
+netbusiness-team.com##table[background="../img/banner/pub_verticale.gif"]
 nostrodomus.fr###sidebar-bottom-promo
 nostrodomus.fr###sidebar-bottom-pub
 nostrodomus.fr###sidebar-pub
