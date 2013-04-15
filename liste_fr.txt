@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: G2fTa4GMqOKE8QVwwWJ2QA
+! Checksum: 4lcYmnknf2nTJoI5dKcqkQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1175,6 +1175,7 @@ _regiepub/
 ||videos-de-celebrites.com/pub/
 ||vidule.com^*/u.js
 ||viedemerde.fr/modules/fr/pamelarose_2012/
+||virtualdjing.com/include/js/refresh_pub.js?
 ||virusphoto.com/bannieres/
 ||visio-x.fr/js/x1.js
 ||visual-pagerank.fr/pub/
@@ -1494,6 +1495,7 @@ _regiepub/
 ##.publicite1
 ##.publicite_3
 ##.publicite_locale
+##.publicite_r
 ##.publiciteright
 ##.publicity
 ##.pubwrapper
@@ -2657,4 +2659,5 @@ bfmtv.com#@#.ligatus
 leboncoin.fr#@#.list-ads
 siteduzero.com,wanimo.com#@#div[id^="div-gpt-ad-"]
 ! Anti-Adblock
+virtualdjing.com#@#.adFrame
 crash-aerien.aero#@#.publicite
