@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 4fARLZY+pHxtmj7gJ3o9KA
+! Checksum: rBryqz5MQtfWHU0kZ3+A3g
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -794,6 +794,7 @@ _regiepub/
 ||hotvideo.fr/popup.php$image,~image,popup
 ||hotvideo.fr/pub/
 ||hotvideo.fr^*/banners/
+||htmlforums.com^*/images/misc/banner
 ||humourquotidien.com/pubs/
 ||idata.over-blog.com/3/41/43/87/75/PUBDIRECT-copie-1.gif
 ||imabox.fr/pub/
@@ -1928,6 +1929,7 @@ hentai-3x.com##.boost
 hentai-3x.com##.pub
 herault-tribune.com##div[id^=content_right_pub]
 hitradio.ma##[id^="banner"]
+htmlforums.com###banner
 ibuzzyou.fr##.box-sous-titre-gauche
 ibuzzyou.fr##div[style="height:280px;float:left;"]
 imagedrole.de###main-bottom
