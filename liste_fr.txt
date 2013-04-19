@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: vX4sXYfKrhCAsqazJQue/w
+! Checksum: Wm8X/OHDlWtSSIR5Q6/lRw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -408,6 +408,7 @@ _regiepub/
 ||megatopsites.com/index.html?$third-party
 ||megauplinks.com/images/120x600mega.png
 ||meilleurduweb.com/images/pub/
+||metaffiliation.com/emplacement.php
 ||mini-jeux.com/jeuday.js$third-party
 ||missdark.com/bannieres/$third-party
 ||mondeadulte.com/pub/
@@ -1640,6 +1641,8 @@ annoncesbateau.com###BlocPartenaires
 annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
 annuaire-streaming.com###pub
 annuaire-streaming.com##.pub
+argentmania.com###ban
+argentmania.com##a[href^="http://fr.scratchmania.com/?brandId="]
 assiste.com.free.fr##.robots-nocontent > table a > img
 astuce-facebook.com###cadrelonggoogle
 astuce-facebook.com##a[href="http://kakaku.com/bb/internet_access/"]
