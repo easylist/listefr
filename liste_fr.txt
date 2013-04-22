@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: KffW6ze+nN933G4bmPAgYg
+! Checksum: GPpvWqpgVXZldwnt0GBH5A
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -623,6 +623,7 @@ _regiepub/
 ||cergyvie.fr/wp-content/uploads/*/pub-
 ||cession-commerce.com/images/bandeaux/
 ||cession-commerce.com/images/pub_
+||cgrcinemas.fr/image/cinejeux-cgr-standard-300x300
 ||chaleurterre.net/images/Banlacentr.jpg
 ||choualbox.com/pub/
 ||chronopost.fr^*/public/visuels/partenaires/
@@ -1709,6 +1710,7 @@ centerblog.net###gauche > iframe[width="300"][height="250"]
 centerblog.net###pub
 centerblog.net##.pub
 centre-audition.com##a[href^="http://www.centre-audition.com/catalog/redirect.php?action=banner&"]
+cgrcinemas.fr##a[href="http://cgr-lescroods.kia.fr/"]
 choisirsonforfait.com###sidPub
 chronofoot.com##.add300
 chuck-streaming.fr,hawaii-streaming.com,smash-streaming.com,the-big-bang-streaming.com,trone-de-fer-streaming.com###cgu_pub
