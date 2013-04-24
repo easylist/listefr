@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ZsIlR35fVEGfT+vRWJzAbQ
+! Checksum: VKGSOIhHO8ObyG8BIbBTyg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1525,8 +1525,10 @@ _regiepub/
 ##.wrap-pub
 ##.wrapperPub
 ##.zonepub
+##a[href^="http://clic.illyx.com/"]
 ##a[href^="http://pubads.g.doubleclick.net/"]
 ##a[href^="http://www.cashtrafic.com/script/clic.php?"]
+##a[onclick^="this.href='http://clic.illyx.com/"]
 ! Dimensions
 ###Pub728x90
 ###blocPub300
@@ -1787,8 +1789,6 @@ dramapassion.com###free_pub_head
 droidsoft.fr###addBlock
 dvdrip-truefrench.com##.bannertop
 dvdrip-truefrench.com##.fixe
-dvdrip-truefrench.com##a[href^="http://clic.illyx.com/aff_c?"]
-dvdrip-truefrench.com##a[onclick^="this.href='http://clic.illyx.com/aff_c?"]
 dvdrip-truefrench.com##a[onclick^="this.href='http://www.cashtrafic.com/script/clic.php?"]
 dzfoot.com##a[href^="http://www.medncom.com/regie/"]
 dzsat.org###ad_global_below_navbar
@@ -1824,7 +1824,6 @@ europe1.fr##.s-partenaires
 eurosport.fr###Container_OAS_Right
 extreme-down.com###news-partner
 extreme-down.com##a[href="http://www.extreme-down.com/telechargement_rapide.html"]
-extreme-down.com##a[href^="http://clic.illyx.com/"]
 extreme-protect.com##a[href="http://www.extreme-down.com/usenet.html"]
 extremepc.fr###promoHead + hr + .center
 extremepc.fr###pub
