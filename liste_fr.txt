@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: YY4znDenElyAT71xxrYwYw
+! Checksum: yMjohxx0Jj/UPAvC4JgBSg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -603,6 +603,7 @@ _regiepub/
 ||blogsbd.fr/pub/
 ||boursier.com/ui/js/docs-partenaires.js
 ||brain-magazine.com/images/_habillages/
+||brain-magazine.fr/images/banners/
 ||ca-centrest.fr/content/binary/*_annonce_*.jpg
 ||ca-centrest.fr/content/binary/980x152.jpg
 ||camptocamp.org/static/images/pub/
@@ -1698,6 +1699,8 @@ boursier.com###banner
 boursier.com###doc-partenaires
 boursier.com###footer-partenaires
 boursorama.com##.smart
+brain-magazine.fr###t_logo_pub
+brain-magazine.fr##a[href^="http://bit.ly/"]
 braindamaged.fr##a[href^="index.php?adclick="]
 businessnews.com.tn###megaban-1000
 buzzdays.me##div[style="height: 250px; left: 420px; position: absolute; top:520px; width: 300px;  background-color: #fff;"]
