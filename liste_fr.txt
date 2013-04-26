@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Kk1x8XLaQw6tle+QFAAqXw
+! Checksum: vsXWTuPePV+srOU94SaQ/Q
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -330,6 +330,7 @@ _regiepub/
 ||euro-liste.net/affich_
 ||euroclix.fr^$domain=176.31.96.119
 ||eurosportbet.loa24.com^$domain=eurosport.fr
+||evolucare.com/bannieres/
 ||faf.dz/media/0c9ebb2ded806d7ffda75cd0b95eb70c.jpg
 ||fanslave.com/images/stories/*/banner-$third-party
 ||fapmd.com/widgets/populars/$third-party
@@ -660,6 +661,7 @@ _regiepub/
 ||depechedekabylie.com/themes/ddk/img/pub_
 ||dimension-ingenieur.com^*/PUBING/
 ||dimension-ingenieur.com^*/Pubs/
+||directhopital.com/upload/pub/
 ||directvelo.com/images/habillage/
 ||directvelo.com/images/livre/pub-
 ||directvelo.com/images/partenaires/
@@ -1528,6 +1530,7 @@ _regiepub/
 ##.wrap-pub
 ##.wrapperPub
 ##.zonepub
+##a[href^="/advertising.php?"]
 ##a[href^="http://clic.illyx.com/"]
 ##a[href^="http://pubads.g.doubleclick.net/"]
 ##a[href^="http://www.cashtrafic.com/script/clic.php?"]
