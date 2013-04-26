@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: yMjohxx0Jj/UPAvC4JgBSg
+! Checksum: O+tnu6TiH2FFyQSG2171yg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1740,6 +1740,7 @@ clubic.com##.espaces-partenaires-standard
 clubic.com##.pub-300x250-du-bas
 clubic.com##.pub-carre-smart-php
 clubic.com##.widget-gamer
+clubic.com##a[href^="http://clk.atdmt.com/"]
 clubic.com##div[class="facebox layer_suggest"]
 clubic.com##div[class="facebox layer_suggest_nl"]
 clubic.com##div[id^="pub_dart_"]
