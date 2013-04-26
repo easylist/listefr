@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 5v9hZS0uzO4WwPRb4kx3Rg
+! Checksum: Kk1x8XLaQw6tle+QFAAqXw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -158,6 +158,7 @@ _regiepub/
 ||livewithbinaryoptions.com^$third-party
 ||manga-exchange.com^$third-party
 ||master-ptp.com^$third-party
+||media-clic.com^$third-party
 ||medncom.com^$third-party
 ||megavisites.com^$third-party
 ||misstrends.com^$third-party
@@ -186,7 +187,6 @@ _regiepub/
 ||promotions.djummer.com^$image,~image,popup,third-party
 ||pub-france.com^$third-party
 ||pub.gdb-host.com^$third-party
-||pub.media-clic.com^$third-party
 ||pub.netboosting.com^$third-party
 ||puboclic.com^$third-party
 ||reactivpub.fr^$third-party
@@ -812,6 +812,7 @@ _regiepub/
 ||inpi.fr^*/klee_evenement/
 ||iphone-forum.fr/accessoire-iphone.png
 ||iphone4.fr/bannieres/
+||iphoneaddict.fr/wp-content/plugins/baw-bon-plan/base.php?aff_link=
 ||iphonegen.fr/pub/
 ||iqrashop.com/adv/
 ||itmag-dz.com/pub/
