@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: BAB47qgUk3HTPUD+eAUPTA
+! Checksum: fsEQfdBfqhrawCrFDBbGnw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -93,6 +93,7 @@ _regiepub/
 ||alloclick.com^$third-party
 ||allosponsor.com^$third-party
 ||allovisiteur.com^$third-party
+||appsfire.com^$third-party
 ||au2m8.com^$third-party
 ||avenir-affiliation.fr^$third-party
 ||ax47mp-xp-21.com^$third-party
@@ -1949,6 +1950,11 @@ ibuzzyou.fr##div[style="height:280px;float:left;"]
 imagedrole.de###main-bottom
 imagik.fr###cb30popmedia
 info-clipper.com###pubBando
+iphon.fr##a[href^="http://ad.zanox.com/ppc/"]
+iphon.fr##a[href^="http://clk.tradedoubler.com/"]
+iphon.fr##a[href^="http://prf.hn/click/"]
+iphon.fr##a[href^="http://www.anrdoezrs.net/click-"]
+iphon.fr##a[href^="http://www.jdoqocy.com/click-"]
 iphoneaddict.fr##a[href^="http://clk.tradedoubler.com/click?"]
 israel7.com##.box2[style="background-color:rgb(0,0,0);height:250px;"]
 israel7.com##.box2[style="background-color:rgb(0,0,0);padding:20px;"]
