@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: L0nBR0AsUE0NdKt2CYS2GQ
+! Checksum: AVAv0+74VZkgvYYzU6nieQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -165,6 +165,7 @@ _regiepub/
 ||misstrends.com^$third-party
 ||myxpub.com^$third-party
 ||neckermann.be^$third-party
+||netclickstats.com^$third-party
 ||nols-pub.fr^$third-party
 ||nturveev.com^$third-party
 ||openadserving.com^$image,~image,popup
@@ -2472,6 +2473,8 @@ zataz.com##img[style="border: 0px solid; width: 300px; height: 250px;"]
 zdnet.fr###pwcBox
 zdnet.fr###tickerRight
 zero-complexe.com##[id^="block-adsense"]
+zetorrents.com##a[href^="http://acces.direction-x.com/"]
+zetorrents.com##a[href^="http://www.pokerstars.com/fr/?source="]
 zinfos974.com##a[href^="/ads/"]
 zonebourse.com###Bottom
 zonebourse.com###Middle2_id
