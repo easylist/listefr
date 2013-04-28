@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: lHTVcg28CGvSQ78vb3sCPg
+! Checksum: 3rlnFJUmzbPGvijenEd6VA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1914,6 +1914,7 @@ gaytag.net##.pub96590
 generation-nt.com##.bloc_boutique
 generation-nt.com##.bloc_googlechrome
 generation-nt.com##.bloc_numericable
+generation-nt.com##[href^="http://ad-ace.doubleclick.net/jump/"]
 generation-nt.com##a[href="/boutique.html"]
 genhit.com##img[width="468"][height="60"]
 gentside.com###kk-widget
