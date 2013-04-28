@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: AVAv0+74VZkgvYYzU6nieQ
+! Checksum: 67wzQ+SE391LLEn98ObIpg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -651,6 +651,7 @@ _regiepub/
 ||ctqui.com/pub/
 ||ctrteam.org/castlerun/banniere_
 ||ctrteam.org/pub/
+||cyclisme-mag.com/?specialSports$popup,domain=sports.fr
 ||cyclisme-mag.com/includes/*/habillage/
 ||days-media.fr^*/disclaimers.js
 ||debrideurstream.fr/pub/
@@ -1074,6 +1075,7 @@ _regiepub/
 ||ruedesjoueurs.fr^*/campagnes/habillage/
 ||rugby365.fr.fr/pub.php?
 ||rugby365.fr/pub.php?
+||rugbynews.fr/?specialSports$popup,domain=sports.fr
 ||sbx.pagesjaunes.fr^
 ||scan-mx.com^*/affpx.php
 ||scoopers.com/?o=$image,~image,popup
@@ -1115,6 +1117,7 @@ _regiepub/
 ||spin-off.fr/images/vpngratuitspinfoff.gif
 ||sport365.fr/pub.php?
 ||sports.fr/includes/cobrand/*/habillage/
+||sports.fr^*/ads-google-adsense.js
 ||sports.fr^*/partenaires/
 ||starter.fm/blog/*/bg_$image
 ||starter.fm/images/*/bg_
