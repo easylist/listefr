@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: P/XwS/A4BqwqJOwPWM5bwA
+! Checksum: pUbAGhajFbm8bhmUBKdB3Q
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -468,6 +468,7 @@ _regiepub/
 ||refgratuit.fr/images/pub/
 ||refsolution.com/logo/bouton88.gif
 ||regie-agricole.com^*/pubs^$third-party
+||rockub.com/widget/
 ||rollersexe.com/ban/$third-party
 ||rwabe.com/pub/
 ||saintseiya.lesite.free.fr/images/bannieres/
@@ -1980,6 +1981,8 @@ jeu.net##div[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
 jeux-gratuits.com###barre-partenaires
 jeuxactu.com###megaban1
 jeuxactu.com##div[style="height:250px;width:300px;"]
+jeuxetcompagnie.fr##.banner728-container
+jeuxetcompagnie.fr##.sg-formulaire
 jeuxonline.info###pub
 jeuxvideo.com###banner_jv
 jeuxvideo.com###mc_sponso
