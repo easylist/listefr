@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: fKpLJ8Yrx1imTWtQqNDI4Q
+! Checksum: 2V8jw5MTWbLbaeeHeZXnMw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1814,6 +1814,8 @@ dvdrip-truefrench.com##.bannertop
 dvdrip-truefrench.com##.fixe
 dvdrip-truefrench.com##a[onclick^="this.href='http://www.cashtrafic.com/script/clic.php?"]
 dzfoot.com##a[href^="http://www.medncom.com/regie/"]
+dzmusique.com###content_ads
+dzmusique.com##.block_ad_container
 dzsat.org###ad_global_below_navbar
 dzsat.org##div[style="float: right;margin: 45px 20px 0;"]
 dzzik.com##a[href="http://dzzik.OurToolbar.com/exe"]
