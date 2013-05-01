@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: yDQbyYh3RbWKcJnnjMpR2w
+! Checksum: fKpLJ8Yrx1imTWtQqNDI4Q
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1667,6 +1667,8 @@ annoncesbateau.com###BlocPartenaires
 annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
 annuaire-streaming.com###pub
 annuaire-streaming.com##.pub
+arabzik.org##.advert
+arabzik.org##a[href="http://arabzik.org/free-phone/"]
 argentmania.com###ban
 argentmania.com##a[href^="http://fr.scratchmania.com/?brandId="]
 assiste.com.free.fr##.robots-nocontent > table a > img
