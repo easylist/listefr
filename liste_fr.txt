@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: xhYvsgWAb1XlT9fTzAS65Q
+! Checksum: f0e0TimpTuBVTy3K3sKvXA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -933,6 +933,7 @@ _regiepub/
 ||maghrebemergent.com/images/banners/
 ||maghrebemergent.info/images/banners/
 ||mailorama.fr^*/wearing/habillage_
+||maisonbrico.com/images/partenaires/
 ||manga-news.com/public/banners/
 ||mangavatars.com/include/partenaires.php3
 ||mangavatars.com/include/topsite.php3
@@ -2133,6 +2134,7 @@ magicmaman.com##[href*="smartadserver.com/call/cliccommand/"]
 mail.voila.fr###blocServices
 maisonapart.com##.map_fond_pub
 maisonapart.com##.map_pdp_pub
+maisonbrico.com###blocSponsor
 manga-news.com##.banner
 manga-sanctuary.com###hab
 mangario.fr##.partenaires
