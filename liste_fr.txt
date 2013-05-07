@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: RKsdjKJAZtZyrWRCGJi+BQ
+! Checksum: 0UGd30LJEsZAKtl+Jb94cQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1223,6 +1223,7 @@ _regiepub/
 ||votrepromo.com/pub-
 ||voxmakers.fr/partenaires/
 ||vpngratuit.fr^*/gpub.gif
+||wat.tv/images/static/partner/
 ||wawa-mania.*/ph.jpg
 ||wawacity.su/popup.html
 ||webchoc.com/pop.js
@@ -1370,6 +1371,7 @@ _regiepub/
 ###pubHead
 ###pubHeader
 ###pubImg
+###pubLeft
 ###pubMiddle
 ###pubPartenaires
 ###pubPave2
@@ -1441,6 +1443,9 @@ _regiepub/
 ##._meltypub
 ##.adspave
 ##.advertisement-pub
+##.advertising
+##.advertising-content
+##.advertising300x250
 ##.annonces_google
 ##.barre_adsense
 ##.blocPub
