@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: SaWlPkxAa6dh0xkOMw1qjg
+! Checksum: RKsdjKJAZtZyrWRCGJi+BQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -887,6 +887,7 @@ _regiepub/
 ||lecourrier-dalgerie.com^*/Banni%C3%A8re-
 ||ledemondujeu.com/pubcoin
 ||ledevoir.com/documents/image/pub/
+||lefigaro.fr/assets-components/widgets/
 ||lefigaro.fr^*/livingsocial/
 ||legalis.net^*/swf/pub_
 ||lemaghrebdz.com/images/pub/
@@ -2068,6 +2069,7 @@ lefigaro.fr###beead_flash
 lefigaro.fr###boxshop3
 lefigaro.fr###pave_article
 lefigaro.fr##.fig-adgps
+lefigaro.fr##.pub-zoom
 leguide-shopping.tele-2-semaines.fr##.body
 lematin.ch##.ad
 lemonde.fr##.annnonces_partenaires
