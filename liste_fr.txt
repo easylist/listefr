@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 0UGd30LJEsZAKtl+Jb94cQ
+! Checksum: T/lzoZsx+d/++CTbmzQLYQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -160,6 +160,7 @@ _regiepub/
 ||manga-exchange.com^$third-party
 ||master-ptp.com^$third-party
 ||media-clic.com^$third-party
+||medncom.com$image,~image,popup,third-party
 ||medncom.com^$third-party
 ||megavisites.com^$third-party
 ||misstrends.com^$third-party
@@ -692,6 +693,8 @@ _regiepub/
 ||dzautos.com/swf/
 ||dzfoot.com/upload/hs_dzfoot-com.jpg
 ||dzmeteo.com/dzm.php
+||dzmusique.com/images/fond_pantene.
+||dzmusique.com/pub/
 ||dzmusique.com/ressources/under.js
 ||e-jeune.net/flash/360x250_
 ||e-jeune.net/flash/banniere-
