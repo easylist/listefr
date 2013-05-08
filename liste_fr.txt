@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 0bvwlfls3hfpf7NUb1JCNQ
+! Checksum: YIBNrBve2bMyMTk9KtsTng
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -94,6 +94,7 @@ _regiepub/
 ||allosponsor.com^$third-party
 ||allovisiteur.com^$third-party
 ||appsfire.com^$third-party
+||assoc-amazon.fr^$third-party
 ||au2m8.com^$third-party
 ||avenir-affiliation.fr^$third-party
 ||ax47mp-xp-21.com^$third-party
@@ -2475,9 +2476,6 @@ videostep.com###divMainBrandVideo
 vidule.com###trade
 vidule.com###wnc_disclaimer
 viedemerde.fr##.post.autopromo
-vipad.fr##a[href^="http://ad.zanox.com/"]
-vipad.fr##a[href^="http://clk.tradedoubler.com/click?"]
-vipad.fr##a[href^="http://prf.hn/click/"]
 virginradio.fr###la-promo-showskin-a
 virusphoto.com##table[width="300"][height="280"]
 vo2.fr###pub_background
