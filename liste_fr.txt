@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: yhssF81lOGltXU6ucnaK8Q
+! Checksum: /qHbumCn7pqdin/fquh7Bw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -449,6 +449,7 @@ _regiepub/
 ||partner.leguide.com^$third-party
 ||pepitastore.com^$domain=clubic.com
 ||petite-garce.com/ban/$third-party
+||ping-agency.com/pub/
 ||planete-adulte.com/hit.php?
 ||planete-dangereuse.com/ban/$third-party
 ||planete-hit.com/hit.php?
@@ -1651,6 +1652,7 @@ _regiepub/
 2siteweb.com##.fixe
 750g.com###header
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
+9rayti.com##a[href^="http://www.ilycee.com/?utm_source="]
 a18ans.com##.catcher
 abcbourse.com###header_click
 abomag.com##.postContent > p[style="float: left;margin: 4px;"]
