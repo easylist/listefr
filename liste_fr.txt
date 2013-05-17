@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: /qHbumCn7pqdin/fquh7Bw
+! Checksum: EhwfnWAm+kx2l47AYJuQKw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -256,7 +256,6 @@ _regiepub/
 ||abcdelaremuneration.com/bouton.gif
 ||accesporno.com/mosaique/$third-party
 ||achatventepagefan.com^*/banachat*.gif$third-party
-||rendez-vous.be/scripts/Clients/
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
 ||ad.rambler.ru^
 ||affiliationcommando.com/bannieres/
@@ -478,6 +477,7 @@ _regiepub/
 ||refgratuit.fr/images/pub/
 ||refsolution.com/logo/bouton88.gif
 ||regie-agricole.com^*/pubs^$third-party
+||rendez-vous.be/scripts/Clients/
 ||rockub.com/widget/
 ||rollersexe.com/ban/$third-party
 ||rwabe.com/pub/
@@ -564,6 +564,7 @@ _regiepub/
 !
 ||01net.com/front_office/images/regie/
 ||100pour100sexe.com/pop.js
+||1an2kdo.com/pics/pub/
 ||1maxdegay.com/images/rotbas/
 ||1maxdegay.com/images/rotcol/
 ||20minutes.fr/img/auto-promos/
@@ -1230,7 +1231,6 @@ _regiepub/
 ||visio-x.fr/js/x1.js
 ||visual-pagerank.fr/pub/
 ||vitaminedz.com/images/general/pub-vitaminedz
-||1an2kdo.com/pics/pub/
 ||votrepromo.com/pub-
 ||voxmakers.fr/partenaires/
 ||vpngratuit.fr^*/gpub.gif
@@ -1273,12 +1273,12 @@ _regiepub/
 ||zonecss.fr/js/dmc_banniere_
 ||zoomdici.fr/media/pub/
 ! Anti-Adblock
+||blogmotion.fr/wp-content/partenaires/
 ||generation-nt.com/img/kiwi-
 ||journaldupirate.com/vpn2.png
 ||journaldupirate.com/vpn4.png
 ||mayottehebdo.com/images/banners/
 ||mayottehebdo.com^*/pub_bottom.js
-||blogmotion.fr/wp-content/partenaires/
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -1654,7 +1654,6 @@ _regiepub/
 20minutes.fr##.mn-cdiscount
 20minutes.fr##.mn-footer-services
 2siteweb.com###topbanner
-jeuxonline.info###jol-sidebar-ad
 2siteweb.com##.fixe
 750g.com###header
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
@@ -1668,7 +1667,7 @@ abrutis.com##.pub
 accentice.com###sidebar
 accentice.com##div[style="padding:5;padding-top:0;background:#fffdf7;"]
 actu-environnement.com##.banniere
-actu-environnement.com##.publireportage_simple
+actu-environnement.com##[class^="publireportage"]
 actufoot.fr,livefootball.fr,mercato.fr##div[id^="ad6b_"]
 actupc.info###casing > center > table[width="100%"][height="60"][cellspacing="0"][cellpadding="0"]
 actustar.com##.ads
@@ -2027,6 +2026,7 @@ jeuxactu.com###megaban1
 jeuxactu.com##div[style="height:250px;width:300px;"]
 jeuxetcompagnie.fr##.banner728-container
 jeuxetcompagnie.fr##.sg-formulaire
+jeuxonline.info###jol-sidebar-ad
 jeuxonline.info###pub
 jeuxvideo.com###banner_jv
 jeuxvideo.com###mc_sponso
@@ -2340,6 +2340,8 @@ redlist-ultimate.be###partenaire
 redlist-ultimate.be##div[style="display:none;"] + .block
 releve.qc.ca###entete-banniere
 replay.fr##.ads
+reverso.net###hAdv
+reverso.net##.adcontent
 rfi.fr###caroussel_partenaires
 routard.com##[id^="A2dEmplacement"]
 rtbf.be###bannerLeaderboard
@@ -2380,8 +2382,6 @@ sky-animes.com##.fixe
 slappyto.net###shadow
 slappyto.net##.sonicprice
 slappyto.net##.webrox._300x250.centered
-reverso.net##.adcontent
-reverso.net###hAdv
 slate.fr###smart14320
 slate.fr###smart14321
 slate.fr###smart14321pub
@@ -2514,8 +2514,8 @@ vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 wakanim.tv##div[style="width: 728px; margin: auto; height: 140px;overflow:hidden"]
 walfoot.be##.take-banner
 wanimo.com###partners
-wat.tv##.partner_one_wat
 wat.tv##.advertising
+wat.tv##.partner_one_wat
 wat.tv##.partner_two_wat
 wat.tv##.pub
 webactus.net###text-4
@@ -2547,15 +2547,15 @@ zonebourse.com###Middle2_id
 zoomdici.fr##.innerArtAdd
 zupimages.net##.pub
 ! Anti-Adblock
+lesoir.be###horoscope-promo
+lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 lokan.fr###anti-adblock
+mayottehebdo.com##a[href^="/index.php?option=com_banners"]
 netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:160px"]
 scan-manga.com###pub_f3
 sofoot.com##.HOULALA
 traductionjeux.com###k489
 vivlajeunesse.fr###je55
-mayottehebdo.com##A[href^="/index.php?option=com_banners"]
-lesoir.be###horoscope-promo
-lesoir.be##FORM[action^="http://fr.rendez-vous.be/"]
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
@@ -2745,6 +2745,7 @@ lesoir.be##FORM[action^="http://fr.rendez-vous.be/"]
 @@||pubads.g.doubleclick.net/gampad/ads?$script,domain=replay.fr
 @@||sanwilltv.net/advertisement.js
 @@||scan-manga.com/js/show_ads.js
+@@||scan-manga.com:8080/css/advertise.css
 @@||sexytout.com/ad.php?$script
 @@||spox.fr/advertisement.js
 @@||tous-sports.tv/js/advertisement-AdBlock.js
@@ -2755,7 +2756,6 @@ lesoir.be##FORM[action^="http://fr.rendez-vous.be/"]
 @@||voyageforum.com/static/adframe.js?
 @@||wakanim.tv/content/js/ads.js?
 @@||yovoyages.com/js/advertisement.js
-@@||scan-manga.com:8080/css/advertise.css
 !
 !----------------------- Exceptions d'éléments -----------------------!
 !
