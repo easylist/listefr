@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: EhwfnWAm+kx2l47AYJuQKw
+! Checksum: GbwuUDNRmsrhI91Obv98gA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -248,6 +248,7 @@ _regiepub/
 ||1-porno.org/atr_template/trade/
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/indexhomepage.php?$domain=lequipe.fr
+||11footballclub.com^*/indexcolonne.php?
 ||20dollars2surf.com/par_46860_
 ||5.39.67.191/promo.php?$image,~image,popup
 ||78.41.233.99/~fhv3/slidein.php
@@ -2343,6 +2344,7 @@ replay.fr##.ads
 reverso.net###hAdv
 reverso.net##.adcontent
 rfi.fr###caroussel_partenaires
+rmc.fr##div[style="width:320px; height:280px; background:#000000; margin-top:20px; overflow:hidden;"]
 routard.com##[id^="A2dEmplacement"]
 rtbf.be###bannerLeaderboard
 rtbf.be##.imu
