@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: WXiZl+4FEiLm309MZ1/sBA
+! Checksum: buek+kTDgfj+lWbDfRGlRw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -2554,7 +2554,6 @@ lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 lokan.fr###anti-adblock
 mayottehebdo.com##a[href^="/index.php?option=com_banners"]
 netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:160px"]
-scan-manga.com###pub_f3
 sofoot.com##.HOULALA
 traductionjeux.com###k489
 vivlajeunesse.fr###je55
@@ -2749,7 +2748,7 @@ vivlajeunesse.fr###je55
 @@||pubads.g.doubleclick.net/gampad/ads?$script,domain=replay.fr
 @@||sanwilltv.net/advertisement.js
 @@||scan-manga.com/js/show_ads.js
-@@||scan-manga.com:8080/css/advertise.css
+@@||scan-manga.com^*/advertise.css
 @@||sexytout.com/ad.php?$script
 @@||spox.fr/advertisement.js
 @@||tous-sports.tv/js/advertisement-AdBlock.js
