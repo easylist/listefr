@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ls1rKR6GWMV+1Mv5JSt50w
+! Checksum: Z2xYd/+KAiMaKzcKk+p9qw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -849,6 +849,7 @@ _regiepub/
 ||jacquieetmicheltv.net^*/thumbpubressources/
 ||jacquieetmicheltv2.net^*/thumbpubressources/
 ||jamaisjouis.com^*/u.js
+||japan-expo.com/files/habilllageautopromogiz.jpg
 ||jedessine.com^*/monstermunch/
 ||jeu.net/pub/
 ||jeune-homme-gay.com^*/u.js
@@ -2022,6 +2023,7 @@ jam-mag.com###header-banner
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
 jamaisjouis.com,vidule.com##.catcher
 jamsvu.fr##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
+japan-expo.com##.link-background-advert
 jeu.net##div[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
 jeux-gratuits.com###barre-partenaires
 jeuxactu.com###megaban1
