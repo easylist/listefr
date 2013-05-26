@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: CDpnsL/5cS5X/6wNUW4RPA
+! Checksum: V2u/AORT0QP4ZnodG/W0Sw
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -612,6 +612,8 @@ _regiepub/
 ||auto-utilitaire.com/files/banners/
 ||autoreflex.com^*/logo_map_partenaires.png
 ||autosurf.me/pub-
+||beaute-test.com/gif/part/
+||beaute-test.com/shoppingbox/
 ||begeek.fr/cdiscount.jpg
 ||benkhouya.com^*/hebergement-web-maroc.png
 ||bergaag.com/wp-content/themes/bergaag/img/banniere-
@@ -1569,8 +1571,8 @@ _regiepub/
 ##.publicite_locale
 ##.publicite_r
 ##.publiciteright
-~imdb.com##.publicity
 ##.publicity
+~imdb.com##.publicity
 ##.pubwrapper
 ##.row_pub
 ##.sqrpub
@@ -1742,7 +1744,8 @@ autojdid.com###header72890
 autoreflex.com###arx_home_partenaires
 bakchich.info##.scpe-pub
 basketusa.com##.pub-1000x90-top
-beaute-test.com##.addict_bloc
+beaute-test.com###devtribu_sb
+beaute-test.com##.addictbloc
 beezik.com##.ads
 bienpublic.com###AjaxCarreEditoIoomyz
 bienpublic.com##.OffreHabitat
@@ -2600,6 +2603,7 @@ vivlajeunesse.fr###je55
 @@||assiste.free.fr/Assiste/media/images/Ad-Aware_
 @@||aw-experience.com/banners/b0.png
 @@||banners.oxiads.fr/player/
+@@||beaute-test.com/global/ads.js
 @@||beead.fr^$domain=beezik.com|doc-etudiant.fr|ouifm.fr|play.nrj.fr|radiofg.com|radioneo.org|replay.fr|rfm.fr|virginradio.fr|wakanim.tv
 @@||blog.lemonde.fr/files/
 @@||blogdumac.com/pub/images/footer-bdm_02.png
