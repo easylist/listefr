@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Xc6uEMMoj3GThKRIJEJhRA
+! Checksum: tTmNkK8a5oeUzNF/+eLyog
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -803,6 +803,7 @@ _regiepub/
 ||garytube.com/pop.js
 ||generation-nt.com/iframe/ovh.php
 ||generation-nt.com/img/habillages/
+||generation-nt.com/img/pubs/
 ||gigacu.com/jquery.js
 ||gigatopsexe.com/550x100.gif
 ||goelovb.com^*/armortv.png
@@ -1574,8 +1575,8 @@ _regiepub/
 ##.publicite_locale
 ##.publicite_r
 ##.publiciteright
-##.publicity
 ~imdb.com##.publicity
+##.publicity
 ##.pubwrapper
 ##.row_pub
 ##.sqrpub
@@ -1979,6 +1980,7 @@ gaytag.net##.pub96590
 generation-nt.com##.bloc_boutique
 generation-nt.com##.bloc_googlechrome
 generation-nt.com##.bloc_numericable
+generation-nt.com##.puboffice
 generation-nt.com##[href^="http://ad-ace.doubleclick.net/jump/"]
 generation-nt.com##a[href="/boutique.html"]
 genhit.com##img[width="468"][height="60"]
