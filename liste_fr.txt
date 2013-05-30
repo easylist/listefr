@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: tTmNkK8a5oeUzNF/+eLyog
+! Checksum: Aax6g38RB6seRK0TTiYFtQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -702,6 +702,7 @@ _regiepub/
 ||dpstream.net/fichiers/pub/
 ||dsgen.fr/pub/
 ||dzautos.com/swf/
+||dzfoot.com/animationhs2.swf
 ||dzfoot.com/upload/hs_dzfoot-com.jpg
 ||dzmeteo.com/dzm.php
 ||dzmusique.com/images/fond_pantene.
@@ -1575,8 +1576,8 @@ _regiepub/
 ##.publicite_locale
 ##.publicite_r
 ##.publiciteright
-~imdb.com##.publicity
 ##.publicity
+~imdb.com##.publicity
 ##.pubwrapper
 ##.row_pub
 ##.sqrpub
