@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: BQQot+YlaS4LO0hOPEwoEQ
+! Checksum: kCMGY3G3c6qbiGUvJrgKbA
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -154,6 +154,7 @@ _regiepub/
 ||koocash.com$image,~image,popup,third-party
 ||koocash.com^$third-party
 ||kreaffiliation.com^$third-party
+||leaderpub.fr^$third-party
 ||lien-amateur.org^$third-party
 ||ligatus.com^$~collapse,subdocument,domain=bfmtv.com
 ||livechatdates.com^$image,~image,popup,third-party
@@ -1178,6 +1179,7 @@ _regiepub/
 ||strasbourg-tramway.fr/banner
 ||stream-film.com/images/pub.gif
 ||streamgo.net^*/rapidlikes.js
+||streamnolimit.com/js/a_d.js
 ||surf-report.com/sites/default/files/wall_
 ||surf-report.com^*/files/weeman_*.jpg
 ||surf-report.com^*/wallpaper293x936-
