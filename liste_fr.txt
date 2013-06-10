@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: vliLhn6niSMK261n+xAOmA
+! Checksum: KG33fE4YzMo7InTno6XBIQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1785,6 +1785,7 @@ brain-magazine.fr##a[href^="http://bit.ly/"]
 braindamaged.fr##a[href^="index.php?adclick="]
 businessnews.com.tn###megaban-1000
 buzzdays.me##div[style="height: 250px; left: 420px; position: absolute; top:520px; width: 300px;  background-color: #fff;"]
+cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 calculitineraires.fr##table[style="width:850px;text-align: center;margin:auto;"]
 canalplus.fr###habillage
 canalplus.fr##.video-preroll
