@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: YSw/ASpnIumOyHxWRTXrOg
+! Checksum: tgUG5gK5CBA1h2Sg/6JEEQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -850,6 +850,8 @@ _regiepub/
 ||htmlforums.com^*/images/misc/banner
 ||humourquotidien.com/pubs/
 ||idata.over-blog.com/3/41/43/87/75/PUBDIRECT-copie-1.gif
+||idf1.fr/banner/
+||idf1.fr/partner/
 ||imabox.fr/pub/
 ||imados.fr^*/habbo/
 ||images.fan-de-cinema.com/habillage/
@@ -2039,6 +2041,7 @@ hitradio.ma##[id^="banner"]
 htmlforums.com###banner
 ibuzzyou.fr##.box-sous-titre-gauche
 ibuzzyou.fr##div[style="height:280px;float:left;"]
+idf1.fr##.jcarousel
 imagedrole.de###main-bottom
 imagik.fr###cb30popmedia
 info-clipper.com###pubBando
