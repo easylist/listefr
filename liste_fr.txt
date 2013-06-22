@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: HPfGKiUkzYPlhAhalkqGvg
+! Checksum: YSw/ASpnIumOyHxWRTXrOg
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -1029,7 +1029,6 @@ _regiepub/
 ||neezzmail.com/js/box.js
 ||neomag.fr/e-pubs/
 ||nokenny.com/Include/bloc.inc.php
-||notre-planete.info/scripts/scripts.js
 ||novaplanet.com^*/widget/pub_pave_
 ||nrj.fr/images/NRJ/accrochePub300.jpg
 ||nrj.fr/PUB/
@@ -2784,11 +2783,11 @@ vivlajeunesse.fr###je55
 @@||iphon-team-debrid.com/js/$script,~third-party
 @@||leetgamerz.net/js/advertisement
 @@||meteomedia.com/common/js/master/adframe.js
+@@||notre-planete.info/scripts/advertisement.js
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=free-reseau.fr|hugolescargot.com|netprof.fr|universal-soundbank.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=notre-planete.info
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=replay.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=free-reseau.fr|hugolescargot.com|netprof.fr|universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=notre-planete.info
 @@||partage-facile.com^$elemhide
 @@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=replay.fr
 @@||playtv.fr$elemhide
