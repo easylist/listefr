@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: oaO79NKpgebA5eHRZ8uscA
+! Checksum: h231+PfV+z3NFjKbk5hqCQ
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -2666,6 +2666,8 @@ vivlajeunesse.fr###je55
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
 @@||dzautos.com/swf/prix_du_neuf.swf
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
+@@||ebayrtm.com/rtm?RtmCmd&a=json&p=$script,domain=www.befr.ebay.be
+@@||ebayrtm.com/rtm?RtmPreviewContent&$subdocument,domain=www.befr.ebay.be
 @@||everlong.org/style/banner.php
 @@||fatherandsons.fr^*/opecom/affiliation/
 @@||fr-advideum.videoplaza.tv/proxy/distributor^$object-subrequest,domain=aufeminin.com|generation-nt.com|jeu.fr|jeux.fr|lefigaro.fr|rfi.fr
