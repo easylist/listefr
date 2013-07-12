@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: MbJFBMTMhW/kl7Z6Y3nD4Q
+! Checksum: 67pXZCuZUtx1/NTmOZve5A
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
 ! Licence : http://www.adblock-listefr.com/A_propos
@@ -83,6 +83,7 @@ _regiepub/
 ||affidate.com^$third-party
 ||affidirect.com^$third-party
 ||affiliation-france.com^$third-party
+||affiliation.hexaweb.net^
 ||affiliaweb.eu^$third-party
 ||affilinks.fr^$third-party
 ||affilipub.com^$third-party
@@ -1201,6 +1202,7 @@ _regiepub/
 ||technikart.com/images/banners/
 ||telebruxelles.net/portail/images/annonce_une/138x260-100e-fr.gif
 ||telechargementgratuits.com/hexa.png
+||telechargementgratuits.com/hop-300x250.png
 ||telquel-online.com^*/cgr-
 ||telquel-online.com^*/cgrleaderboardhead-pub.jpg
 ||tetesaclaques.tv/public/images/promo_mini_300x127_canalplus_FR.jpg
@@ -2482,6 +2484,7 @@ tasante.com##.pubcontent
 techno-science.net##.module.moduleBoutiqueEncart
 tele.premiere.fr###pub_a2d_pave
 telechargementgratuits.com###ads
+telechargementgratuits.com###aff-france
 telechargementgratuits.com###hopdream
 telechargementgratuits.com##.fixe
 telechargementz.org###advertisement
