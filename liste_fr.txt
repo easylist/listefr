@@ -1282,6 +1282,7 @@ _regiepub/
 ||vpngratuit.fr^*/gpub.gif
 ||wat.tv/images/static/partner/
 ||wawa-mania.*/ph.jpg
+||wawacity.su/banner/
 ||wawacity.su/popup.html
 ||webchoc.com/pop.js
 ||webfrance.com/images/*120135.
@@ -2584,6 +2585,7 @@ wat.tv##.advertising
 wat.tv##.partner_one_wat
 wat.tv##.partner_two_wat
 wat.tv##.pub
+wawacity.su##[id^="img_300x250_fiche_"]
 webactus.net###text-4
 webfrance.com##a[href*="webfrance.com/go/"]:not([href="http://www.webfrance.com/go/facebook.php"]):not([href="http://www.webfrance.com/go/twitter.php"]):not([href="http://www.webfrance.com/go/googleplus.php"]):not([href="http://www.webfrance.com/go/linkedin.php"])
 webrankinfo.com##.pub_rm_inter_posts_forum
