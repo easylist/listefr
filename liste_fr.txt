@@ -480,6 +480,7 @@ _regiepub/
 ||planete-hit.com/hit.php?
 ||planethoster.net/images/bannieres/$third-party
 ||pointscommuns.com/images/bannieres/$third-party
+||pretrachat.fr/popup.php
 ||priceminister.com^*/referral_widget.swf$third-party
 ||priceminister.com^*/seller_shop.swf$domain=legrenier.roumieux.com|strasbourg-tramway.fr
 ||produits-asiatiques.com/img/produits-asiatiques-88x31.gif
@@ -1267,6 +1268,7 @@ _regiepub/
 ||topliste-fr.com/filmsdivx.gif
 ||topwarez.fr/promo/
 ||topwarez.fr^*/trendglobes/images/promo.gif
+||torrent-avenue.com/popup.js
 ||torrent-avenue.com/popup.php$image,~image,popup
 ||torrent-topliste.com/popup.php$image,~image,popup
 ||torrentfrancais.com/img/z2/
@@ -2590,6 +2592,7 @@ top-serie.org###top
 topanalyse.com###pid_f
 toplien.fr##.pub-index-gauche
 topsite-web.net##.bandeauHaut
+torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
 torrent-avenue.com##table[width="160"][height="600"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 torrentfrancais.com##.z2_full_pub_video
 totonova.com##.avi
