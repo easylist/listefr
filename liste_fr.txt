@@ -2760,9 +2760,9 @@ vivlajeunesse.fr###je55
 @@||ads.audience2media.com/crossdomain.xml$domain=videos.nt1.tv
 @@||ads.webedia.fr/crossdomain.xml$domain=ozap.com|purepeople.com
 @@||ads.webedia.fr/p-dp-vast2/$object-subrequest,domain=ozap.com|purepeople.com
-@@||adserve.atedra.com/js/$script,domain=levraigabroy.com
-@@||adserve.atedra.com/serve.php?z=$script,domain=levraigabroy.com
-@@||adserve.atedra.com/vast/$domain=levraigabroy.com
+@@||adserve.atedra.com/js/$script,domain=levraigabroy.com|radiox.com
+@@||adserve.atedra.com/serve.php?z=$script,domain=levraigabroy.com|radiox.com
+@@||adserve.atedra.com/vast/$domain=levraigabroy.com|radiox.com
 @@||adserver.adtech.de/?advideo/3.0/$object-subrequest,domain=jeu.fr|jeux.fr
 @@||adserver.adtech.de/addyn/3.0/$script,domain=jeu.fr|jeux.fr
 @@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|jeu.fr|jeux.fr|rtl.fr
