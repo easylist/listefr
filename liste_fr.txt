@@ -324,7 +324,9 @@ _regiepub/
 ||canaljeuvideo.com/var/storage/habillages/
 ||carasexe.com/promo/$third-party
 ||cdn.installclick.fr^*/ad.html
+||cdscdn.com*^/footerPartnerOffers.js
 ||cdscdn.com/imagesok/tetiere/partners/
+||cdscdn.com/other/banniere_
 ||choubijoux.com/image/banniere-$third-party
 ||classistatic.com/*/banner/
 ||classistatic.com/*/homepage-banner/
@@ -1900,6 +1902,7 @@ caradisiac.com##.logosPartenaires
 caradisiac.com##.partenaires
 cbanque.com##.habillage
 cdiscount.com###downMall
+cdiscount.com###paFooterPubPartner
 cdiscount.com##.downinbackMaullContainer
 cdiscount.com##.ptnlnk_table
 cdmail.fr###banner
