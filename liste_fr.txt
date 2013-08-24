@@ -177,6 +177,7 @@ _regiepub/
 ||netclickstats.com^$third-party
 ||nols-pub.fr^$third-party
 ||nturveev.com^$third-party
+||oneinstaller.com^$third-party
 ||openadserving.com^$image,~image,popup
 ||openadserving.com^$third-party
 ||orangepublicite.fr^$third-party
@@ -1307,9 +1308,8 @@ _regiepub/
 ||torrent-avenue.com/popup.js
 ||torrent-avenue.com/popup.php$image,~image,popup
 ||torrent-topliste.com/popup.php$image,~image,popup
-||torrentfrancais.com/img/z2/
-||torrentfrancais.com/pub.html
-||torrentfrancais.com/z2/firefox-part$image
+||torrentfrancais.com/includes/external/fakeplayer/
+||torrentfrancais.com/z2/direct-telechargement.png
 ||totonova.com/images/p.jpg
 ||touslesprix.com/img_*/background/
 ||toutporno.com/boost_niche/
@@ -1714,7 +1714,9 @@ _regiepub/
 ##.wrapperPub
 ##.zonepub
 ##a[href^="/advertising.php?"]
+##a[href^="http://91.205.157.40/"]
 ##a[href^="http://clic.illyx.com/"]
+##a[href^="http://download.oneinstaller.com/"]
 ##a[href^="http://pubads.g.doubleclick.net/"]
 ##a[href^="http://www.cashtrafic.com/script/clic.php?"]
 ##a[onclick^="this.href='http://clic.illyx.com/"]
@@ -2451,6 +2453,7 @@ novaplanet.com###block_novadraganddrop_pub
 nowvideo.eu###adv1
 numerama.com###general_dec
 obturations.com##.ads
+oetiker.ch##a[href^="http://www.serverscheck.com/sensors?"]
 ogaming.tv###campain-leftPlaceHolder
 ogaming.tv###campain-rightPlaceHolder
 ogaming.tv###campain-topPlaceHolder
@@ -2657,6 +2660,7 @@ toplien.fr##.pub-index-gauche
 topsite-web.net##.bandeauHaut
 torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
 torrent-avenue.com##table[width="160"][height="600"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
+torrentfrancais.com##.z2_full_direct_link_download
 torrentfrancais.com##.z2_full_pub_video
 totonova.com##.avi
 touslesprix.com###hleft
