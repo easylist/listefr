@@ -3002,11 +3002,13 @@ vivlajeunesse.fr###je55
 @@||instantmanga.com^$script,stylesheet,~third-party
 @@||iphon-team-debrid.com/js/$script,~third-party
 @@||leetgamerz.net/js/advertisement
+@@||leetgamerz.net^$elemhide
+@@||leetgamerz.net^*#.$image
 @@||meteomedia.com/common/js/master/adframe.js
 @@||notre-planete.info/scripts/advertisement.js
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=automobile-sportive.com|free-reseau.fr|hugolescargot.com|netprof.fr|notre-planete.info|universal-soundbank.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=automobile-sportive.com|free-reseau.fr|hugolescargot.com|leetgamerz.net|netprof.fr|notre-planete.info|universal-soundbank.com
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=replay.fr
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=automobile-sportive.com|free-reseau.fr|hugolescargot.com|netprof.fr|universal-soundbank.com
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=automobile-sportive.com|free-reseau.fr|hugolescargot.com|leetgamerz.net|netprof.fr|universal-soundbank.com
 @@||partage-facile.com^$elemhide
 @@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=replay.fr
 @@||playtv.fr$elemhide
