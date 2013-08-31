@@ -1302,6 +1302,7 @@ _regiepub/
 ||strasbourg-tramway.fr/ban_
 ||strasbourg-tramway.fr/banner
 ||stream-film.com/images/pub.gif
+||stream-tv.fr/wp-content/uploads/300x250b.jpg
 ||streamgo.net^*/rapidlikes.js
 ||streaming-de-films.net/telecharger-films-gratuits^$popup,domain=streaming-de-films.net
 ||streaming-illimite.com^$popup,domain=freemoviesdown.com
@@ -1746,10 +1747,10 @@ _regiepub/
 ##.wrap-pub
 ##.wrapperPub
 ##.zonepub
+##a[href*=".illyx.com/"]
 ##a[href^="/advertising.php?"]
 ##a[href^="http://91.205.157.40/"]
 ##a[href^="http://ads.ad-center.com/"]
-##a[href^="http://clic.illyx.com/"]
 ##a[href^="http://download.oneinstaller.com/"]
 ##a[href^="http://pubads.g.doubleclick.net/"]
 ##a[href^="http://www.cashtrafic.com/script/clic.php?"]
