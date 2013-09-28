@@ -707,12 +707,14 @@ _regiepub/
 ||beaute-test.com/gif/part/
 ||beaute-test.com/shoppingbox/
 ||begeek.fr/cdiscount.jpg
+||bemyapp.com$domain=korben.info
 ||benkhouya.com^*/hebergement-web-maroc.png
 ||bergaag.com/wp-content/themes/bergaag/img/banniere-
 ||betclic.fr^$popup,domain=flashresultats.fr
 ||bienpublic.com/fr/images/blocHTML/logoOffre.jpg
 ||bienpublic.com/images/pub/
 ||billionuploads.com/js/pub.js
+||bit.ly$domain=korben.info
 ||bittovore.com/popup.php$image,~image,popup
 ||blague.info/pub/
 ||blog-nouvelles-technologies.fr/wp-content/annonceurs/
@@ -1022,11 +1024,9 @@ _regiepub/
 ||konbini.com^*/xhabillage_
 ||korben.info/livebox.jpg
 ||korben.info/logitech.jpg
-||korben.info/native/Crucial.hyperesources/crucial_hype_generated_script.js?
-||korben.info/wp-content/uploads/*/textmaster-banner.jpg
 ||korben.info^*/adv/
 ||korben.info^*/logoagarik2010officiel.png
-||korben.info^*/textmaster.jpg
+||korben.info^*/textmaster
 ||l.liberation.fr/img/promo/
 ||la-musique-rai.com/images/banner_
 ||la-musique-rai.com/images/news3.gif
@@ -2377,12 +2377,11 @@ kaamelott-streaming.tv##a[href^="http://www.kaamelott-streaming.tv/partenaire/"]
 kamaz.fr##.megaBan
 kerix.net##a[href^="LienExterne.asp?"]
 korben.info###post-partenaire
-korben.info###samsarin_php_widget-18
-korben.info###samsarin_php_widget-5 div[style*="width: 125px; height: 125px"]
-korben.info###samsarin_php_widget-9 a[style^="display:block"]
+korben.info##.advert
 korben.info##a[href^="http://network.bemyapp.com/trk/"]
 korben.info##a[style*="width:468px;height:90px"]
 korben.info##a[style="background:transparent; position:absolute; top:0px; left:0; width:100%; height:100%; z-index:0;"]
+korben.info##div[style="line-height: 15px;margin-left: -25px;width:336px;height:155px;border-color:#E7E7E7;border-width:1px;"]
 kpopfm.fr##.banner
 la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
 la-musique-rai.com##.rowa
