@@ -249,6 +249,7 @@ _regiepub/
 ||tootrash.com^$third-party
 ||totaladperformance.com^$third-party
 ||touturf.com^$third-party
+||tracking.ecookie.fr^$popup,third-party
 ||trackor.net^$third-party
 ||trafic-booster.biz^$third-party
 ||traficmax.com^$third-party
@@ -1250,6 +1251,8 @@ _regiepub/
 ||phpsources.org/images_amazon/$image
 ||pictime.fr/boss/img/
 ||plageporno.com/pex/exitp.js
+||pooki.fr/img/integrations/habillage
+||pooki.fr/js/popup.php
 ||porn-video-hd.com/js/pop.js
 ||porn-video-hd.com/js/pop2.js
 ||porn.fr/v3/index.php?
@@ -1833,6 +1836,7 @@ _regiepub/
 ##a[href^="http://ads.ad-center.com/"]
 ##a[href^="http://download.oneinstaller.com/"]
 ##a[href^="http://pubads.g.doubleclick.net/"]
+##a[href^="http://tracking.ecookie.fr/?"]
 ##a[href^="http://www.cashtrafic.com/script/clic.php?"]
 ##a[onclick^="this.href='http://clic.illyx.com/"]
 ! Dimensions
