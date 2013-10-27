@@ -1842,8 +1842,8 @@ _regiepub/
 ##.texte_ads_plug
 ##.texte_pub
 ##.titrePub
-~maghrebspace.net##.top-publicite
 ##.top-publicite
+~maghrebspace.net##.top-publicite
 ##.topPub
 ##.topbarpub
 ##.toppubs
@@ -2661,6 +2661,8 @@ phpsources.org###titre_librairie
 phpsources.org##.sample-lst
 phpsources.org##div[class^="googleanal-"]
 phpsources.org##div[style="margin-bottom:15px;"] > table > tbody
+pixiz.com##.leaderboard
+pixiz.com##div[style*="width:336px; height:280px; display:inline; padding:5px;"]
 pixmania.com###highlight-new
 planet-series.tv##a[href^="http://www.yourfilezone.com/"]
 pooki.fr###cardTopSummaryPrices
