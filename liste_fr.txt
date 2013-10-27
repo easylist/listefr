@@ -188,6 +188,8 @@ _regiepub/
 ||neckermann.be^$third-party
 ||nelads.com^$third-party
 ||netclickstats.com^$third-party
+||netmediaeurope.com^$third-party
+||netmediaeurope.fr^$third-party
 ||nols-pub.fr^$third-party
 ||nturveev.com^$third-party
 ||oneinstaller.com^$third-party
@@ -971,6 +973,7 @@ _regiepub/
 ||generation-nt.com/img/pubs/
 ||gigacu.com/jquery.js
 ||gigatopsexe.com/550x100.gif
+||gizmodo.fr/banners/
 ||goelovb.com^*/armortv.png
 ||goelovb.com^*/fps.gif
 ||goole.fr/images/pub.jpg
@@ -1845,8 +1848,8 @@ _regiepub/
 ##.texte_ads_plug
 ##.texte_pub
 ##.titrePub
-~maghrebspace.net##.top-publicite
 ##.top-publicite
+~maghrebspace.net##.top-publicite
 ##.topPub
 ##.topbarpub
 ##.toppubs
@@ -1865,6 +1868,7 @@ _regiepub/
 ##a[href^="http://pubads.g.doubleclick.net/"]
 ##a[href^="http://tracking.ecookie.fr/?"]
 ##a[href^="http://www.cashtrafic.com/script/clic.php?"]
+##a[href^="http://www.channelbiz.fr/questionnaire-"]
 ##a[onclick^="this.href='http://clic.illyx.com/"]
 ! Dimensions
 ###Pub728x90
@@ -2319,6 +2323,8 @@ genybet.fr##.GGFODTBDCS
 get-your-rom.com##.topSectionContainer
 girlsgogames.fr##.categoryBanner
 gizmodo.fr###big-mega
+gizmodo.fr##a[href^="http://www.channelbiz.fr/questionnaire-automne2013?"]
+gizmodo.fr##a[href^="http://www.ebuyclub.com/operations/gizmodo/entreeGizmodo.jsp?"]
 gmx.fr##.add
 gmx.fr##.addwide
 gmx.fr##.sideadd
@@ -2366,7 +2372,6 @@ israel7.com##table[style="margin:0px0px10px15px;"]
 itespresso.fr###div-gpt-mega-1
 itespresso.fr###slider-partnerzone
 itespresso.fr##a[href^=" http://pubads.g.doubleclick.net/"]
-itespresso.fr##a[href^="http://www.channelbiz.fr/questionnaire-automne2013?"]
 jam-mag.com###header-banner
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
 jamaisjouis.com,vidule.com##.catcher
