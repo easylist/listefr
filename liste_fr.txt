@@ -948,6 +948,7 @@ _regiepub/
 ||france-pittoresque.com/pub.js
 ||france-pittoresque.com/pubexterne.htm
 ||francefootball.fr/pub/
+||francemobiles.com/img/pub/
 ||francetransactions.com/img/Habillage_
 ||francoischarron.com/datascontent/idee-cadeaux.gif
 ||francoischarron.com/datascontent/insertech.gif
@@ -1867,6 +1868,7 @@ _regiepub/
 ##a[href^="/advertising.php?"]
 ##a[href^="http://91.205.157.40/"]
 ##a[href^="http://91.205.157.43/"]
+##a[href^="http://ad.zanox.com/"] > img
 ##a[href^="http://ads.ad-center.com/"]
 ##a[href^="http://download.oneinstaller.com/"]
 ##a[href^="http://likebaguette.com/from_"]
@@ -2287,6 +2289,7 @@ francebleu.fr,franceinfo.fr###pub-ftv-top
 franceculture.fr###block-fcbloc-publicite
 francefootball.fr##.bloc-autopromo
 franceinfo.fr###block-zerobloc-pub-ftv-carre
+francemobiles.com##.simpleoFlashBanner
 francetransactions.com##.fondcliquable
 francoischarron.com###altbigbox2
 francoischarron.com###superbanner_v2
