@@ -75,6 +75,7 @@ _regiepub/
 ||admanmedia.fr^$third-party
 ||admark.fr^$third-party
 ||adnext.fr^$third-party
+||adpub.eu^$third-party
 ||adqia.com^$third-party
 ||adserveradulte.com^$third-party
 ||adserverpub.com^$image,~image,popup
@@ -1567,6 +1568,7 @@ _regiepub/
 ###PubHeader
 ###PubHorizontaleInner
 ###PubHorizontaleMain
+###PubIntersticiel
 ###PubPave
 ###PubliciteTop
 ###ad300x250
@@ -1806,6 +1808,7 @@ _regiepub/
 ##.pubBox
 ##.pubContainer
 ##.pubContent
+##.pubEnable
 ##.pubFlash
 ##.pubHead
 ##.pubHeader
