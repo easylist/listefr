@@ -332,6 +332,7 @@ _regiepub/
 ||asia-passion.fr/annuaire/ban/$third-party
 ||astroportail.com/images/pubastro4.gif
 ||atoowin.com/images/diffusion/
+||aub.dukppplb.info^
 ||aub.nilsine.fr^
 ||autosurf.me/promo/
 ||baise3x.com/ban/
@@ -3006,7 +3007,6 @@ vivlajeunesse.fr###je55
 @@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|jeu.fr|jeux.fr|rtl.fr
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
 @@||adswizz.com/crossdomain.xml
-@@||adunblock.com/js/advertisement1.js
 @@||adv.voyage-economique.fr^$domain=voyage-economique.fr
 @@||advertising.wellpack.fr/sites_annexes/optout/
 @@||afcdn.com/world/ads.js?$domain=marmiton.org
@@ -3092,7 +3092,6 @@ vivlajeunesse.fr###je55
 @@||network.aufeminin.com/call/pubj/$object-subrequest,domain=aufeminin.com
 @@||network.aufeminin.com/crossdomain.xml$domain=aufeminin.com
 @@||nikel-dominique.com^*/pagepeel-
-@@||nilsine.fr/js/advertisement1.js
 @@||nouvelobs.com/*@top
 @@||oberon-media.com/Advertisement/
 @@||ohm-immobilier.fr/images/ads/
@@ -3165,6 +3164,7 @@ vivlajeunesse.fr###je55
 @@||tracking.veoxa.com/click/banner?$subdocument,domain=track.radins.com
 ! Anti-Adblock
 @@||adspub.net/javascript/advertisement-AdBlock.js
+@@||adunblock.com/js/advertisement1.js
 @@||aidemu.fr^*/adBlock/advertisement.js
 @@||anime-story.com/js/show_ads.js
 @@||awsclic.com/js/advertisement.js
@@ -3174,6 +3174,7 @@ vivlajeunesse.fr###je55
 @@||crash-aerien.aero/www/news/%5C%22https://googleads.g.doubleclick.net/favicon.ico%5C%22
 @@||debrideurstream.fr^*/advertisement-AdBlock.js
 @@||dramapassion.com/js/advertisement.js
+@@||dukppplb.info/js/advertisement1.js
 @@||easybillets.com/js/advertisement.js
 @@||emuleed2k.com^*/advertisement-AdBlock.js
 @@||forumconstruire.com/ads.js
@@ -3190,6 +3191,7 @@ vivlajeunesse.fr###je55
 @@||leetgamerz.net^$elemhide
 @@||leetgamerz.net^*#.$image
 @@||meteomedia.com/common/js/master/adframe.js
+@@||nilsine.fr/js/advertisement1.js
 @@||notre-planete.info/scripts/advertisement.js
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=automobile-sportive.com|free-reseau.fr|hugolescargot.com|netprof.fr|notre-planete.info|universal-soundbank.com
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=replay.fr
