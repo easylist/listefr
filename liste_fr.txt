@@ -29,6 +29,7 @@
 /pub468x60.
 /pub728-90.
 /pub728x90.
+/pub_affiche.
 /publ1c1te.
 /publicite-
 /publicite.
@@ -1064,6 +1065,7 @@ _regiepub/
 ||jacquieetmicheltv2.net^*/thumbpubressources/
 ||jamaisjouis.com^*/u.js
 ||japan-expo.com/files/habilllageautopromogiz.jpg
+||jds.fr/medias/pub/
 ||jedessine.com^*/monstermunch/
 ||jeu.info/plus/
 ||jeu.net/pub/
@@ -1847,6 +1849,7 @@ _regiepub/
 ##.pubTitle
 ##.pubTop
 ##.pubTopContainer
+##.pub_2_728
 ##.pub_banner
 ##.pub_carre
 ##.pub_club
@@ -2097,7 +2100,6 @@ blog2mature.com##.liens
 blog2mature.com##.widget.widget_links
 blogduwebdesign.com###sponsor250
 blogger-au-bout-du-doigt.blogspot.com,boursier.com,cdmail.fr,danslescoulisses.com,htmlforums.com,lesaffaires.com,maliweb.net###banner
-bloggif.com##.sky
 bloggif.com##div[style="float:left; text-align:center; margin-bottom:10px; width:370px; height:280px;"]
 bloggif.com,topquizz.fr###leaderboard
 blogs.lesinrocks.com##.sub_headline.top
@@ -2434,6 +2436,8 @@ jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"
 jamaisjouis.com,vidule.com##.catcher
 jamsvu.fr##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
 japan-expo.com##.link-background-advert
+jds.fr##[class^="pub_"]
+jds.fr##a[href^="http://www.jds.fr/scripts/pub_clic.php?"]
 jeu.info###pub0
 jeu.info##a[href^="https://www.fishao.com/?affId="]
 jeu.net##div[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
