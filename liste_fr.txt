@@ -3039,6 +3039,7 @@ lesoir.be###horoscope-promo
 lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 lokan.fr###anti-adblock
 mayottehebdo.com##a[href^="/index.php?option=com_banners"]
+minecraft-france.fr##body > div[id]:first-child
 netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:160px"]
 notre-planete.info#@#.afs_ads
 sofoot.com##.HOULALA
@@ -3226,6 +3227,7 @@ vivlajeunesse.fr###je55
 @@||tracking.publicidees.com/clic.php?$subdocument,domain=track.radins.com
 @@||tracking.veoxa.com/click/banner?$subdocument,domain=track.radins.com
 ! Anti-Adblock
+@@/boomad.js$domain=minecraft-france.fr
 @@||adspub.net/javascript/advertisement-AdBlock.js
 @@||adunblock.com/js/advertisement1.js
 @@||aidemu.fr^*/adBlock/advertisement.js
