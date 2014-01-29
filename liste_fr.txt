@@ -2380,6 +2380,7 @@ frequence-radio.com###wrap_pub_listing
 full-stream.net###ads
 fullanimes.free.fr##a[href^="http://www.allopass.com/check/red.php"] > img
 fun-trades.com,hardware.fr,lemoteurdusexe.com,mobilefilmfestival.com,ouifm.fr,portail.free.fr,ucpa-vacances.com###partenaires
+fusac.fr##.adv
 futura-sciences.com##.col-droite-pub-milieu
 futura-sciences.com##.nomatch > ul > li[id^="post_"]
 futurama-stream.eu##a[href^="http://www.adcash.com/script/clic.php?"]
@@ -3059,6 +3060,7 @@ vivlajeunesse.fr###je55
 @@||adgear.com^*/adgear.js$domain=tetesaclaques.tv|tou.tv
 @@||admedia.rtl.fr/online/sound/$object-subrequest,domain=rtl.fr
 @@||ads.audience2media.com/crossdomain.xml$domain=videos.nt1.tv
+@@||ads.fusac.fr^$~third-party
 @@||ads.webedia.fr/crossdomain.xml$domain=ozap.com|purepeople.com
 @@||ads.webedia.fr/p-dp-vast2/$object-subrequest,domain=ozap.com|purepeople.com
 @@||adserve.atedra.com/js/$script,domain=levraigabroy.com|radiox.com
