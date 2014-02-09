@@ -214,7 +214,6 @@ partner-pub-
 ||piximedia.fr^$third-party
 ||pornravage.com^$third-party
 ||pornstreet.com^$popup,third-party
-||pouradultes.com^$third-party
 ||pourmajeurs.com^$third-party
 ||promo.alienbiz.com^$third-party
 ||promo.easy-dating.org^$third-party
@@ -297,6 +296,7 @@ partner-pub-
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/indexhomepage.php?$domain=lequipe.fr
 ||11footballclub.com^*/indexcolonne.php?
+||18etplus.com^
 ||20dollars2surf.com/par_46860_
 ||5.39.67.191/promo.php?$popup
 ||6fun.fr/api.php
@@ -405,6 +405,7 @@ partner-pub-
 ||elles-mouillent.com/ban/$third-party
 ||emploicom.com/application/views/docs/pub/
 ||emploicom.com/baniere.
+||enfingratuit.com^
 ||equirodi.com/images/pub/
 ||espace-turf.com/button.php?
 ||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
@@ -564,6 +565,8 @@ partner-pub-
 ||planethoster.net/images/bannieres/$third-party
 ||pointscommuns.com/images/bannieres/$third-party
 ||pooki.fr/banner/
+||pouradultes.com^
+||pourlesmajeurs.com^
 ||premiumpress.com/banner/
 ||pretrachat.fr/popup.php
 ||priceminister.com^*/referral_widget.swf$third-party
@@ -631,6 +634,7 @@ partner-pub-
 ||social.yoox.it/view.aspx?$third-party
 ||socialboost.fr/promo/$third-party
 ||soft-66.net/open.js
+||solutionsadultes.com^
 ||sos-trique.com/ban/$third-party
 ||speedtest.net/images/$domain=infostar.e-monsite.com
 ||sponsorboost.com/banniere-rotative.
@@ -2019,6 +2023,7 @@ partner-pub-
 !
 !----------------------- Éléments -----------------------!
 !
+,gladplayer.com,paygladplayer.com,pgflow.com,playglad.com###pg_banproll
 01net.com###custom_header
 01net.com###ic-ad
 01net.com###ic-ad-movie
@@ -3094,6 +3099,9 @@ vivlajeunesse.fr###je55
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
 ! mais d'empêcher les possibles dysfonctionnements liés aux filtres bloquants présents ci-dessus.
 !
+@@/plflv2/player_end.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
+@@/plflv2/player_pause.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
+@@/plflv2/preroll.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@||247realmedia.com/0/Player/Player_FR_Home/Box-2-FR.jpg$domain=eurosportplayer.fr
 @@||a.ligatus.com/?$script,domain=bfmtv.com
 @@||aaeps.fr/images/banners/find-us-on-facebook-3.png
