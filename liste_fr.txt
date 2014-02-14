@@ -195,6 +195,7 @@ partner-pub-
 ||monetize-me.com^$third-party
 ||myspot.fr^$third-party
 ||myxpub.com^$third-party
+||natoms.com^$third-party
 ||neckermann.be^$third-party
 ||nelads.com^$third-party
 ||netclickstats.com^$third-party
@@ -1022,6 +1023,7 @@ partner-pub-
 ||generation-nt.com/iframe/ovh.php
 ||generation-nt.com/img/habillages/
 ||generation-nt.com/img/pubs/
+||generation-nt.com/js/min/main.min.js
 ||gigacu.com/jquery.js
 ||gigatopsexe.com/550x100.gif
 ||gizmodo.fr/banners/
@@ -2438,6 +2440,7 @@ generation-nt.com##.ntSponsored
 generation-nt.com##.puboffice
 generation-nt.com##[href^="http://ad-ace.doubleclick.net/jump/"]
 generation-nt.com##a[href="/boutique.html"]
+generation-nt.com##a[href^="http://j.mp/"]
 genhit.com##img[width="468"][height="60"]
 gentside.com###kk-widget
 genybet.fr##.GGFODTBDCS
