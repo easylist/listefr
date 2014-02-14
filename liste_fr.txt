@@ -1022,8 +1022,6 @@ partner-pub-
 ||geeknaut.com/wp-content/plugins/amazon-affiliate-link-localizer/
 ||generation-nt.com/iframe/ovh.php
 ||generation-nt.com/img/habillages/
-||generation-nt.com/img/pubs/
-||generation-nt.com/js/min/main.min.js
 ||gigacu.com/jquery.js
 ||gigatopsexe.com/550x100.gif
 ||gizmodo.fr/banners/
@@ -2442,6 +2440,7 @@ generation-nt.com##.ntSponsored
 generation-nt.com##.puboffice
 generation-nt.com##[href^="http://ad-ace.doubleclick.net/jump/"]
 generation-nt.com##a[href="/boutique.html"]
+generation-nt.com##a[href^="http://bit.ly/"]
 generation-nt.com##a[href^="http://j.mp/"]
 genhit.com##img[width="468"][height="60"]
 gentside.com###kk-widget
@@ -3330,7 +3329,6 @@ vivlajeunesse.fr###je55
 @@||emuleed2k.com^*/advertisement-AdBlock.js
 @@||forumconstruire.com/ads.js
 @@||full-stream.net/uploads/advertisement-AdBlock.js.js
-@@||generation-nt.com/img/pubs/ads.
 @@||googleads.g.doubleclick.net/favicon.ico$image
 @@||googleads.g.doubleclick.net/pagead/ads?$subdocument,domain=netprof.fr
 @@||googleads.g.doubleclick.net/pagead/html/$subdocument,domain=netprof.fr
