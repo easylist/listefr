@@ -1535,6 +1535,7 @@ _regiepub/
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ! Anti-Adblock
+/http://www\.generation-nt\.com/([0-9a-zA-Z]*)\.(jpg|gif)/$image,domain=generation-nt.com
 ||generation-nt.com/img/kiwi-
 !
 !------------------ Éléments génériques -----------------!
@@ -3195,6 +3196,7 @@ netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;pa
 @@||forumconstruire.com/ads.js
 @@||full-stream.net/uploads/advertisement-AdBlock.js.js
 @@||gamersconnexion.com/js/advertisement.js
+@@||generation-nt.com/pubs/ads.
 @@||googleads.g.doubleclick.net/favicon.ico$image
 @@||googleads.g.doubleclick.net/pagead/ads?$subdocument,domain=netprof.fr
 @@||googleads.g.doubleclick.net/pagead/html/$subdocument,domain=netprof.fr
