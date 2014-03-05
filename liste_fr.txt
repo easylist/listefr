@@ -1481,7 +1481,6 @@ _regiepub/
 ||vidule.com^*/u.js
 ||viedemerde.fr/img/banner-
 ||viedemerde.fr/placeholder/
-||viedemerde.fr^*/autopromo/
 ||virtualdjing.com/include/js/refresh_pub.js?
 ||virusphoto.com/bannieres/
 ||visio-x.fr/js/x1.js
@@ -2593,6 +2592,7 @@ gamergen.com##.post-google
 viedemerde.fr##.post.autopromo
 1001cocktails.com##.post.bg2 + * + .post.bg2
 pnc-contact.com##.post.bg3
+viedemerde.fr##.post.special.bordered:first-child
 abomag.com##.postContent > p[style="float: left;margin: 4px;"]
 strastv.com##.post_pub
 audiofanzine.com##.price
