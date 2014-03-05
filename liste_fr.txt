@@ -3002,10 +3002,10 @@ netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;pa
 @@/plflv2/player_end.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@/plflv2/player_pause.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@/plflv2/preroll.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
+@@|http://*.js$script,domain=jeu.fr|jeux.fr
 @@||247realmedia.com/0/Player/Player_FR_Home/Box-2-FR.jpg$domain=eurosportplayer.fr
 @@||a.ligatus.com/?$script,domain=bfmtv.com
 @@||aaeps.fr/images/banners/find-us-on-facebook-3.png
-@@||ad.360yield.com/adj?$script,domain=jeu.fr|jeux.fr
 @@||ad.zanox.com/ppc/$popup
 @@||ad2play.ftv-publicite.fr/?sitepage=$subdocument,domain=mytaratata.com|psg.fr
 @@||ad2play.ftv-publicite.fr/js/ad2play.js$domain=mytaratata.com
@@ -3018,9 +3018,7 @@ netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;pa
 @@||adserve.atedra.com/js/$script,domain=levraigabroy.com|radiox.com
 @@||adserve.atedra.com/serve.php?z=$script,domain=levraigabroy.com|radiox.com
 @@||adserve.atedra.com/vast/$domain=levraigabroy.com|radiox.com
-@@||adserver.adtech.de/?advideo/3.0/$object-subrequest,domain=jeu.fr|jeux.fr
-@@||adserver.adtech.de/addyn/3.0/$script,domain=jeu.fr|jeux.fr
-@@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|jeu.fr|jeux.fr|rtl.fr
+@@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|rtl.fr
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
 @@||adswizz.com/crossdomain.xml
 @@||adv.voyage-economique.fr^$domain=voyage-economique.fr
@@ -3061,7 +3059,7 @@ netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;pa
 @@||ebayrtm.com/rtm?RtmPreviewContent&$subdocument,domain=www.befr.ebay.be
 @@||everlong.org/style/banner.php
 @@||fatherandsons.fr^*/opecom/affiliation/
-@@||fr-advideum.videoplaza.tv/proxy/distributor^$object-subrequest,domain=aufeminin.com|generation-nt.com|jeu.fr|jeux.fr|lefigaro.fr|rfi.fr
+@@||fr-advideum.videoplaza.tv/proxy/distributor^$object-subrequest,domain=aufeminin.com|generation-nt.com|lefigaro.fr|rfi.fr
 @@||fr-canalplusdev.videoplaza.tv/proxy/html5-sdk/*-ea.min.js
 @@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
@@ -3120,7 +3118,6 @@ netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;pa
 @@||ophtalmo.tv/video/ads/$object-subrequest
 @@||ouifm.adswizz.com//www/components/
 @@||ouifm.adswizz.com/www/components/
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=jeu.fr|jeux.fr
 @@||parissportifs24h.fr/upload/Image/Ads/$image
 @@||pc-overware.be/index/images/banners/annuaire%20test%206%20png.png
 @@||pc-overware.be/index/images/banners/forum.jpg
@@ -3146,7 +3143,6 @@ netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;pa
 @@||startertv.fr/images/v2/bg_topbody_startertv.jpg
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||static.touraineverte.com/banners/$image
-@@||static1.spilcdn.com/vda/vendor/flowplayer/ova.swf$domain=jeu.fr|jeux.fr
 @@||stcwbd.com/ads/plugins/jwplayer/player.swf$domain=ozap.com|purepeople.com|puretrend.com
 @@||stickyads.adswizz.com/www/components/videocomponent.swf$object-subrequest,domain=cherie25.fr|nrj.fr|nrj12.fr|rireetchansons.fr
 @@||stickyadstv.com/crossdomain.xml
