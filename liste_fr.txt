@@ -2997,9 +2997,7 @@ lokan.fr###anti-adblock
 generation-nt.com###coms + div > a > img
 generation-nt.com###ctBoc > div > div > a > img
 generation-nt.com###global > div > div > div + aside > div + a > img
-vivlajeunesse.fr###je55
 sofoot.com##.HOULALA
-notre-planete.info#@#.afs_ads
 netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:160px"]
 !
 !----------------------- Exceptions -----------------------!
@@ -3277,5 +3275,6 @@ geekdefrance.fr#@#.topads
 wanimo.com#@#div[id^="div-gpt-ad-"]
 ! Anti-Adblock
 virtualdjing.com#@#.adFrame
+notre-planete.info#@#.afs_ads
 freedom-ip.com#@#.pub_vertical
 crash-aerien.aero#@#.publicite
