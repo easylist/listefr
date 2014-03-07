@@ -1536,8 +1536,11 @@ _regiepub/
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ! Anti-Adblock
-/http://www\.generation-nt\.com/([0-9a-zA-Z]*)\.(jpg|gif)/$image,domain=generation-nt.com
-/http://www\.generation-nt\.com/img/([0-9a-zA-Z]*)\.(jpg|gif)/$image,domain=generation-nt.com
+/http://www\.generation-nt\.com/.*/$image,domain=generation-nt.com
+/http://www\.generation-nt\.com/img/.*/$image,domain=generation-nt.com
+@@/http://www\.generation-nt\.com/.*(png|gif|jpg|ico)/$image,domain=generation-nt.com
+@@/http://www\.generation-nt\.com/img/.*(png|gif|jpg|ico)/$image,domain=generation-nt.com
+@@||generation-nt.com/img/ads.
 ||generation-nt.com/img/kiwi-
 !
 !------------------ Éléments génériques -----------------!
@@ -2973,9 +2976,6 @@ people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! Anti-Adblock
 lokan.fr###anti-adblock
-generation-nt.com###coms + div > a > img
-generation-nt.com###ctBoc > div > div > a > img
-generation-nt.com###global > div > div > div + aside > div + a > img
 sofoot.com##.HOULALA
 netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:160px"]
 !
@@ -3190,7 +3190,6 @@ netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;pa
 @@||full-stream.net/uploads/advertisement-AdBlock.js.js
 @@||funeralforamanga.fr/js/advertisement.js
 @@||gamersconnexion.com/js/advertisement.js
-@@||generation-nt.com/pubs/ads.
 @@||googleads.g.doubleclick.net/favicon.ico$image
 @@||googleads.g.doubleclick.net/pagead/ads?$subdocument,domain=netprof.fr
 @@||googleads.g.doubleclick.net/pagead/html/$subdocument,domain=netprof.fr
