@@ -2573,7 +2573,7 @@ gamergen.com##.post-google
 viedemerde.fr##.post.autopromo
 1001cocktails.com##.post.bg2 + * + .post.bg2
 pnc-contact.com##.post.bg3
-viedemerde.fr##.post.special.bordered:first-child
+viedemerde.fr##.post.special.border:first-child
 abomag.com##.postContent > p[style="float: left;margin: 4px;"]
 strastv.com##.post_pub
 audiofanzine.com##.price
@@ -3212,7 +3212,6 @@ netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;pa
 @@||traductionjeux.com^$elemhide
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||videoxadulte.com/js/adframe.js
-@@||viedemerde.fr/ads.js
 @@||visoterra.com/scripts/ads.js
 @@||voyageforum.com/static/adframe.js?
 @@||wakanim.tv/Content/js/ads2.js
@@ -3223,7 +3222,6 @@ netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;pa
 !
 radio-canada.ca#@##ad-header
 e-monsite.com#@##ad_link
-viedemerde.fr#@##ads_bottom
 fichier.net#@##contentAd
 futura-sciences.com#@##header-pub
 visitvar.fr#@##pubDroite
