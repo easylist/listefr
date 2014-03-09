@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+f[Adblock Plus 2.0]
 ! Checksum: 67pXZCuZUtx1/NTmOZve5A
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Title: Liste FR
@@ -1541,7 +1541,12 @@ _regiepub/
 @@/http://www\.generation-nt\.com/.*(png|gif|jpg|ico)/$image,domain=generation-nt.com
 @@/http://www\.generation-nt\.com/img/.*(png|gif|jpg|ico)/$image,domain=generation-nt.com
 @@||generation-nt.com/img/ads.
+viedemerde.fr###submit + .cf > div:first-child > a > img
+viedemerde.fr##.post.special.border:first-child
+viedemerde.fr##.post.special.bordered:first-child
+viedemerde.fr##a[href^="http://cdn.dekalee.net/"]
 ||generation-nt.com/img/kiwi-
+||media.viedemerde.fr/fmylife/data/fr/autopromo/8ac21b6f576a4f83c0a78bd6b98144b5.png
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -2573,7 +2578,6 @@ gamergen.com##.post-google
 viedemerde.fr##.post.autopromo
 1001cocktails.com##.post.bg2 + * + .post.bg2
 pnc-contact.com##.post.bg3
-viedemerde.fr##.post.special.border:first-child
 abomag.com##.postContent > p[style="float: left;margin: 4px;"]
 strastv.com##.post_pub
 audiofanzine.com##.price
