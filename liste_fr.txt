@@ -1542,13 +1542,17 @@ _regiepub/
 @@/http://www\.generation-nt\.com/.*(png|gif|jpg|ico)/$image,domain=generation-nt.com
 @@/http://www\.generation-nt\.com/img/.*(png|gif|jpg|ico)/$image,domain=generation-nt.com
 @@||generation-nt.com/img/ads.
-@@||media.viedemerde.fr/fmylife/data/fr/autopromo/ee42e3523382002a711e2a4a927d6287.png
-viedemerde.fr###submit + .cf + .cf > div:first-child
+||generation-nt.com/img/kiwi-
+!
+viedemerde.fr##.cf > .post.special + .post.special
+viedemerde.fr##.cf > div + div > a > img
 viedemerde.fr##.post.special:first-child
 viedemerde.fr##.post[style="width:300px; height:200px; background: url('/modules/fr/drdc_2014/images/300x200.png');"]
+@@||viedemerde.fr^*/ee42e3523382002a711e2a4a927d6287.png
 viedemerde.fr##a[href^="http://bit.ly/NQj6H7?utm_source="]
-||generation-nt.com/img/kiwi-
+viedemerde.fr##a[href^="http://uri.lv/"]
 ||media.viedemerde.fr/fmylife/data/fr/autopromo/
+||viedemerde.fr/fmylife/data/fr/promotion/
 ||viedemerde.fr/modules/fr/drdc_2014/
 !
 !------------------ Éléments génériques -----------------!
