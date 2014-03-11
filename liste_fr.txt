@@ -1538,11 +1538,7 @@ _regiepub/
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ! Anti-Adblock
-/http://www\.generation-nt\.com/.*/$image,domain=generation-nt.com
-/http://www\.generation-nt\.com/img/.*/$image,domain=generation-nt.com
-@@/http://www\.generation-nt\.com/.*(png|gif|jpg|ico)/$image,domain=generation-nt.com
-@@/http://www\.generation-nt\.com/img/.*(png|gif|jpg|ico)/$image,domain=generation-nt.com
-@@||generation-nt.com/img/ads.
+@@||generation-nt.com^$image,script,subdocument,domain=generation-nt.com
 ||generation-nt.com/img/kiwi-
 !
 viedemerde.fr##.cf + div > div:first-child > a > img
