@@ -1542,8 +1542,6 @@ _regiepub/
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ! Anti-Adblock
-@@||generation-nt.com^$elemhide
-@@||generation-nt.com^$image,script,subdocument,domain=generation-nt.com
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -3183,6 +3181,8 @@ netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;pa
 @@||full-stream.net/uploads/advertisement-AdBlock.js.js
 @@||funeralforamanga.fr/js/advertisement.js
 @@||gamersconnexion.com/js/advertisement.js
+@@||generation-nt.com^$elemhide
+@@||generation-nt.com^$image,script,subdocument,domain=generation-nt.com
 @@||googleads.g.doubleclick.net/favicon.ico$image
 @@||googleads.g.doubleclick.net/pagead/ads?$subdocument,domain=netprof.fr
 @@||googleads.g.doubleclick.net/pagead/html/$subdocument,domain=netprof.fr
@@ -3217,6 +3217,8 @@ netprof.fr##ins[style="display:inline-table;border:none;height:600px;margin:0;pa
 @@||wakanim.tv/Content/js/ads2.js
 @@||wdxjb.homenet.org/js/boxad1.js
 @@||yovoyages.com/js/advertisement.js
+! AdUnblock
+@@|http://*.*.*.*.$script,domain=degrouptest.com|leetgamerz.net|loractu.fr|moto85.com|phonandroid.com|pix-geeks.com|sen.flam.me|xavboxforum.com
 !
 !----------------------- Exceptions d'éléments -----------------------!
 !
