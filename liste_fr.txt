@@ -772,7 +772,6 @@ _regiepub/
 ||cyclisme-mag.com/includes/*/habillage/
 ||days-media.fr^*/disclaimers.js
 ||dayzguide.fr/images/partenaire/
-||debrideurstream.fr/pub/
 ||degourdi.com/ban/
 ||degroupnews.com/css/commun/pub-
 ||degroupnews.com/images/banniere
@@ -1548,6 +1547,7 @@ _regiepub/
 ||zoomdici.fr/media/pub/
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
+||pubdirecte.com^$~collapse,domain=debrideurstream.fr
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -3172,7 +3172,6 @@ lokan.fr###anti-adblock
 @@||adspub.net/javascript/advertisement-AdBlock.js
 @@||anime-story.com/css/advertise.css
 @@||d.adxcore.com/adjs_r.php?$script,domain=forum.virtualdjing.com
-@@||debrideurstream.fr^*/advertisement-AdBlock.js
 @@||dramapassion.com/js/advertisement.js
 @@||easybillets.com/js/advertisement.js
 @@||forumconstruire.com/ads.js
@@ -3243,5 +3242,6 @@ geekdefrance.fr#@#.topads
 wanimo.com#@#div[id^="div-gpt-ad-"]
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
+debrideurstream.fr#@##pubdirecte
 forum.virtualdjing.com#@#.adFrame
 freedom-ip.com#@#.pub_vertical
