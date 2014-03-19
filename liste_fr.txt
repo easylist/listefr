@@ -3181,7 +3181,7 @@ lokan.fr###anti-adblock
 @@||generation-nt.com^$image,script,subdocument,domain=generation-nt.com
 @@||gowonda.com/templates/default/images/ad/banner.gif
 @@||gratuitcul.com/ad.php?ad=$script
-@@||lafansubresistance.com/js/advertisement.js
+@@||lafansubresistance.com^$script,~third-party
 @@||meteomedia.com/common/js/master/adframe.js
 @@||notre-planete.info/scripts/ads.js
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
