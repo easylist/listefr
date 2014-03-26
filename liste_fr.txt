@@ -1119,8 +1119,7 @@ _regiepub/
 ||libellules.ch/infomaniak-hosted-by-black-transparent.png
 ||libertyland.tv/libertyland/images/partenaire/
 ||libre.eu/homepage/relooking/
-||lien-torrent.com/bupside/
-||lien-torrent.com/pubs/
+||lien-torrent.com^$subdocument
 ||liens-de-telechargement.com/popmodal/
 ||linternaute.com/*@*,position$script
 ||linternaute.com^*/0_pub/
@@ -3253,6 +3252,8 @@ lokan.fr###anti-adblock
 @@||gowonda.com/templates/default/images/ad/banner.gif
 @@||gratuitcul.com/ad.php?ad=$script
 @@||lafansubresistance.com^$script,~third-party
+@@||lien-torrent.com/addrating.php?
+@@||lien-torrent.com/pubs/affiche.php?f=lecteurpub
 @@||meteomedia.com/common/js/master/adframe.js
 @@||notre-planete.info/scripts/ads.js
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
