@@ -606,7 +606,6 @@ _regiepub/
 ||wtpn.twenga.fr/publisher/$third-party
 ||xavbox360.com/ban/
 ||yellowapi.com/twn/?
-||youtube.com/embed/me3gonWZCW4?$domain=generation-nt.com
 ||youtube.com^$popup,domain=abdelghanisat.kazeo.com
 ||yubee.free.fr/admin/bannieres/
 ||z51.biz/IBinnewz.aspx
@@ -3256,8 +3255,6 @@ lokan.fr###anti-adblock
 @@||easybillets.com/js/advertisement.js
 @@||funeralforamanga.fr/js/advertisement.js
 @@||gamersconnexion.com/js/advertisement.js
-@@||generation-nt.com^$elemhide
-@@||generation-nt.com^$image,script,subdocument,domain=generation-nt.com
 @@||gowonda.com/templates/default/images/ad/banner.gif
 @@||gratuitcul.com/ad.php?ad=$script
 @@||lafansubresistance.com^$script,~third-party
@@ -3267,8 +3264,7 @@ lokan.fr###anti-adblock
 @@||meteomedia.com/common/js/master/adframe.js
 @@||notre-planete.info/scripts/ads.js
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=automobile-sportive.com|freedom-ip.com|generation-nt.com|hugolescargot.com|universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=generation-nt.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=automobile-sportive.com|freedom-ip.com|hugolescargot.com|universal-soundbank.com
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=replay.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=automobile-sportive.com|freedom-ip.com|hugolescargot.com|universal-soundbank.com
 @@||partage-facile.com^$elemhide
