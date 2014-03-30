@@ -2479,6 +2479,7 @@ test-mobile.fr##.clickright
 test-mobile.fr##.clicktop
 fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
 futura-sciences.com##.col-droite-pub-milieu
+lien-torrent.com##.col-left.sidebar + .col-main > .boxed.bloc_plateforme:first-child > p[align="center"]:last-child
 allocine.fr##.coltop
 tripadvisor.fr##.commerce
 pagesjaunes.fr##.containerPdsSitesPartenaires
@@ -2814,6 +2815,7 @@ alsacreations.com##a[href^="http://www.amazon.fr/gp/product/"]
 ouedkniss.com##a[href^="http://www.autobip.com/news/details/?id="]
 centre-audition.com##a[href^="http://www.centre-audition.com/catalog/redirect.php?action=banner&"]
 gizmodo.fr##a[href^="http://www.ebuyclub.com/operations/gizmodo/entreeGizmodo.jsp?"]
+lien-torrent.com##a[href^="http://www.espace-plus.net/"]
 forumconstruire.com##a[href^="http://www.forumconstruire.com/ann/click.php?"]
 forumconstruire.com##a[href^="http://www.forumconstruire.com/tock/click.php?"]
 9rayti.com##a[href^="http://www.ilycee.com/?utm_source="]
