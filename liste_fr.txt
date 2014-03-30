@@ -3097,7 +3097,6 @@ lokan.fr###anti-adblock
 @@||manga-news.com/public/banners/slide-
 @@||media.eurolive.com^$domain=live18ans.com
 @@||media.the-adult-company.com^$domain=celibataires.fr
-@@||mega-exclue.com^*/unblock/blockBlock/advertisement.js
 @@||meteomedia.com/js/adrefresh.js
 @@||millenium.org^*/jquery.lazyload-ad-*-min.js
 @@||moov.mg/images/offres/push_240x170_v2.01.jpg
@@ -3274,6 +3273,7 @@ lokan.fr###anti-adblock
 @@||lafansubresistance.com^$script,~third-party
 @@||lien-torrent.com/addrating.php?
 @@||lien-torrent.com/pubs/affiche.php?f=lecteurpub
+@@||mega-exclue.com^*/unblock/blockBlock/advertisement.js
 @@||meteomedia.com/common/js/master/adframe.js
 @@||notre-planete.info/scripts/ads.js
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
