@@ -3196,6 +3196,8 @@ lokan.fr###anti-adblock
 @@/http://(?!www\.arcalide\.com/affiliate_show_banner|googleads\.g\.doubleclick\.net/pagead/ads\?client=ca-pub-)([a-z0-9]*\.)*[a-z0-9]*//$image,script,subdocument,third-party,domain=xavboxphone.com
 @@/http://(?!www\.clicmanager\.fr/img/)([a-z0-9]*\.)*[a-z0-9]*//$image,script,subdocument,third-party,domain=sen.flam.me
 @@/http://(?!xavboxnews\.com/files/)([a-z0-9]*\.)*[a-z0-9]*//$image,script,subdocument,third-party,domain=nifoune.com
+@@/http://([a-z0-9]*\.)*[a-z0-9]*//$image,script,subdocument,third-party,domain=actu95.net|addons-wow.fr|applebigmac.fr|buzzer-manager.com|consoledejeux.info|coolradio.be|e-puzzles.fr|fight4craft.fr|geneanum.com|hitek.fr|leetgamerz.net|mangacity.org|minecraft-france.fr|minecraftmod.fr|moto85.com|opalenews.com|phonandroid.com|seomaker.estsurle.net|simonfr.org|space-forums.com|sucha.net|suchablog.com|visiban.com|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxnews.com|xavboxone.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxwii.com|xavboxwiiu.com|xavdrone.com|xavfun.com
+@@||actu95.net^$elemhide
 @@||addons-wow.fr^$elemhide
 @@||afrokanlife.com^$elemhide
 @@||anthonix.fr^$elemhide
