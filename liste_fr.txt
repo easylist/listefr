@@ -3230,7 +3230,7 @@ lokan.fr###anti-adblock
 @@/http://(?!www\.clicmanager\.fr/img/)([a-z0-9]*\.)*[a-z0-9]*//$image,script,subdocument,third-party,domain=sen.flam.me
 @@/http://(?!www\.r4menu\.com/media/)([a-z0-9]*\.)*[a-z0-9]*//$image,script,subdocument,third-party,domain=monlinker3ds.com|monlinkerds.com|monlinkerdsi.com
 @@/http://(?!xavboxnews\.com/files/|www\.aircig.com/media/affiliation/banner/|pagead2\.googlesyndication\.com/pagead/show_ads)([a-z0-9]*\.)*[a-z0-9]*//$image,script,subdocument,third-party,domain=nifoune.com
-@@/http://([a-z0-9]*\.)*[a-z0-9]*//$image,script,subdocument,third-party,domain=actu95.net|applebigmac.fr|buzzer-manager.com|consoledejeux.info|coolradio.be|e-puzzles.fr|fight4craft.fr|mangacity.org|minecraft-france.fr|opalenews.com|seomaker.estsurle.net|simonfr.org|sucha.net|suchablog.com|visiban.com|xavbox.com|xavbox.info|xavbox36f0.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxnews.com|xavboxone.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxwii.com|xavboxwiiu.com|xavdrone.com|xavfun.com
+@@/http://([a-z0-9]*\.)*[a-z0-9]*//$image,script,subdocument,third-party,domain=actu95.net|applebigmac.fr|buzzer-manager.com|consoledejeux.info|coolradio.be|e-puzzles.fr|fight4craft.fr|kerbalspaceprogram.fr|mangacity.org|minecraft-france.fr|opalenews.com|seomaker.estsurle.net|simonfr.org|sucha.net|suchablog.com|visiban.com|xavbox.com|xavbox.info|xavbox36f0.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxnews.com|xavboxone.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxwii.com|xavboxwiiu.com|xavdrone.com|xavfun.com
 @@/http://([a-z0-9]*\.)*[a-z0-9]*//$subdocument,third-party,domain=degroupnews.com
 @@||actu95.net^$elemhide
 @@||addons-wow.fr^$elemhide
@@ -3260,6 +3260,7 @@ lokan.fr###anti-adblock
 @@||imagesia.com^$elemhide
 @@||iski.fr^$elemhide
 @@||jackieetmicheltv.fr^$elemhide
+@@||kerbalspaceprogram.fr^$elemhide
 @@||lebouletdunet.com^$elemhide
 @@||leetgamerz.net^$elemhide
 @@||lesarbres.fr^$elemhide
