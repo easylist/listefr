@@ -3206,6 +3206,7 @@ lokan.fr###anti-adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 ! Adunblock
 @@/http://(?!a\.ligatus\.com/timeout)/$subdocument,third-party,domain=rue89strasbourg.com
+@@/http://(?!ad\.zanox\.com/ppv/|pubads\.g\.doubleclick\.net/gampad/ads\?g)/$image,script,subdocument,third-party,domain=degrouptest.com
 @@/http://(?!assets\.ebuzzing\.com/crunch/)/$image,script,subdocument,third-party,domain=dofusmotion.com
 @@/http://(?!banniere\.reussissonsensemble\.fr/view\.asp|as\.ebz\.io)/$image,script,subdocument,third-party,domain=tryandplay.com
 @@/http://(?!c\.ad6media\.fr/l\.js|c\.ad6media\.fr/fo\.js)/$image,script,subdocument,third-party,domain=buzzwebzine.fr|culture-communication.fr|leetgamerz.net
@@ -3259,6 +3260,7 @@ lokan.fr###anti-adblock
 @@||coolradio.be^$elemhide
 @@||culture-communication.fr^$elemhide
 @@||degroupnews.com^$elemhide
+@@||degrouptest.com^$elemhide
 @@||dofusmotion.com^$elemhide
 @@||donnemoilinfo.com^$elemhide
 @@||e-puzzles.fr^$elemhide
