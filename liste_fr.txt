@@ -3240,9 +3240,9 @@ lokan.fr###anti-adblock
 @@/http://(?!comandclick\.com/accounts/|pagead2\.googlesyndication\.com/pagead/show_ads|pagead2\.googlesyndication\.com/pagead/js/adsbygoogle)/$image,script,subdocument,third-party,domain=styled-gaming.eu
 @@/http://(?!dhtml\.pornravage\.com/)/$image,script,subdocument,third-party,domain=jackieetmicheltv.fr
 @@/http://(?!eulerian\.motoblouz\.com/adview/|pagead2\.googlesyndication\.com/pagead/show_ads)/$image,script,subdocument,third-party,domain=moto85.com
-@@/http://(?!fr\.slidein\.clickintext\.net/\?)/$image,script,subdocument,third-party,domain=arnaques-internet.info
 @@/http://(?!fr\.slidein\.clickintext\.net/\?|fr\.92\.clickintext.net/|impfr\.tradedoubler\.com/imp\?type|tracking\.veoxa\.com/|ad\.zanox\.com/ppv/)/$image,script,subdocument,third-party,domain=space-forums.com|space-forums.net
 @@/http://(?!fr\.slidein\.clickintext\.net/\?|fr\.92\.clickintext.net/|impfr\.tradedoubler\.com/imp\?type|tracking\.veoxa\.com/|ad\.zanox\.com/ppv/|pagead2\.googlesyndication\.com/pagead/show_ads|hst\.tradedoubler\.com/file/)/$image,script,subdocument,third-party,domain=reef-guardian.com
+@@/http://(?!fr\.slidein\.clickintext\.net/\?|tracking\.veoxa\.com/)/$image,script,subdocument,third-party,domain=arnaques-internet.info
 @@/http://(?!impfr\.tradedoubler\.com/imp\?type|pagead2\.googlesyndication\.com/pagead/show_ads|fr\.widget\.kelkoo.com/badge/)/$image,script,subdocument,third-party,domain=cle-usb.info
 @@/http://(?!pagead2\.googlesyndication\.com/pagead/js/)/$image,script,subdocument,third-party,domain=anthonix.fr|byothe.fr|donnemoilinfo.com|geoforum.fr|geowiki.fr|lesarbres.fr
 @@/http://(?!pagead2\.googlesyndication\.com/pagead/js/adsbygoogle)/$image,script,subdocument,third-party,domain=5nodes.fr
