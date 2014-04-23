@@ -313,7 +313,6 @@ _regiepub/
 ||belledesfleurs.com/ban/$third-party
 ||beurette-passion.com/ban/$third-party
 ||beurettes-faciles.com/promo/
-||bit.ly^$image,domain=~forum.pcinpact.com|pcinpact.com
 ||bitchvolley.com/ban/$third-party
 ||blablaland.com/pubosaure/
 ||bon-reduc.com/pub/
@@ -361,7 +360,6 @@ _regiepub/
 ||edgecastcdn.net^*/cdn-alg360/*/bledi2.swf
 ||edgecastcdn.net^*/cdn-alg360/*/carre3bis.png
 ||edi-static.fr/Images/Pubs/
-||edi7.lu/www/delivery/ck.php?$popup,domain=pcinpact.com
 ||education.ti.com^$domain=ti.bank.free.fr
 ||elles-mouillent.com/ban/$third-party
 ||emploicom.com/application/views/docs/pub/
@@ -1276,7 +1274,6 @@ _regiepub/
 ||parlonspiscine.com/pubs/
 ||passeportsante.net^*/controls/pub/
 ||pc-overware.be/index/images/banners/
-||pcinpact.com/images/bd/events/current.png?v=14
 ||petit-bulletin.fr/images/habillage.jpg
 ||petit-bulletin.fr/pub.php?
 ||petite-annonce-gratuite.com/encarts/bannieres/
@@ -1807,6 +1804,7 @@ _regiepub/
 ##.bloc-pub
 ##.blocPub
 ##.bloc_pub_300
+##.bloc_pub_header
 ##.bloc_pub_left
 ##.bloc_rightcol_pub
 ##.block-pubimage
@@ -2338,6 +2336,7 @@ nostrodomus.fr###sidebar-bottom-promo
 nostrodomus.fr###sidebar-bottom-pub
 nostrodomus.fr###sidebar-pub
 nostrodomus.fr###sidebar-sup-promo
+nextinpact.com###sidebar_event
 jvn.com###skin
 silicon.fr###skycraper
 pcworld.fr###slideOut
@@ -2385,7 +2384,6 @@ mac4ever.com###topappWidget
 2siteweb.com###topbanner
 as-salat.com,forumbismillah.com,streamxd.com###topbar
 lateen18.com,lesbeurettes.com,lesbienne-gratis.com,vidule.com###trade
-pcinpact.com###unsolidarized_content_inshop
 msn.com###upgrade.hide
 01net.com###v7_partenaire
 voyages.liberation.fr###vHeader-pub
@@ -2481,7 +2479,6 @@ lemonde.fr##.bloc_part
 tv5.org##.bloc_promomiddle
 creativejuiz.fr##.bloc_pub
 algerie360.com##.bloc_pub_250_s_marge
-pcinpact.com##.bloc_pub_header
 premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 liberation.fr##.block-cPublicite
 jeuxvideopc.com##.block-concours_en_cours
