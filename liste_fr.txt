@@ -3233,6 +3233,13 @@ lokan.fr###anti-adblock
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 ! Adunblock
+@@||3dextras.com/js/$script,third-party
+@@||inc.gs/js/$script,third-party
+!
+@@||googleads.g.doubleclick.net/pagead/ads?client=ca-pub-|$subdocument,third-party
+@@||pagead2.googlesyndication.com/simgad/48132709|$image,third-party
+@@||pubads.g.doubleclick.net/gampad/ads?|$subdocument,third-party
+!
 @@/http://(?!a\.ligatus\.com/timeout)/$subdocument,third-party,domain=rue89strasbourg.com
 @@/http://(?!ad\.zanox\.com/ppv/|pubads\.g\.doubleclick\.net/gampad/ads\?g)/$image,script,subdocument,third-party,domain=degrouptest.com
 @@/http://(?!assets\.ebuzzing\.com/crunch/)/$image,script,subdocument,third-party,domain=dofusmotion.com
