@@ -3270,7 +3270,7 @@ lokan.fr###anti-adblock
 @@/http://(?!pagead2\.googlesyndication\.com/pagead/show_ads|www\.arcalide\.com/affiliate_show_banner|pagead2\.googlesyndication\.com/pagead/js/adsbygoogle)/$image,script,subdocument,third-party,domain=xavboxphone.com
 @@/http://(?!pubads\.g\.doubleclick\.net/gampad/ads)/$image,script,third-party,domain=rue89strasbourg.com
 @@/http://(?!pubads\.g\.doubleclick\.net/gampad/ads\?)/$image,script,third-party,domain=hitek.fr
-@@/http://(?!pubads\.g\.doubleclick\.net/gampad/ads\?g|pagead2\.googlesyndication\.com/pagead/show_ads)/$image,script,subdocument,third-party,domain=macworld.fr
+@@/http://(?!pubads\.g\.doubleclick\.net/gampad/ads\?g|pagead2\.googlesyndication\.com/pagead/show_ads)/$image,script,subdocument,third-party,domain=kboard.fr|macworld.fr
 @@/http://(?!roule\.nepasmanquer\.com/|dhtml\.pornravage\.com/|mods\.gdfspfg\.com/load|acces\.nepasmanquer\.com/)/$image,script,subdocument,third-party,domain=lebouletdunet.com
 @@/http://(?!static\.pubdirecte\.com/b-images/)/$image,script,subdocument,third-party,domain=minecraftmod.fr
 @@/http://(?!www\.aircig\.com/media/|pagead2\.googlesyndication\.com/pagead/js/adsbygoogle|pagead2\.googlesyndication\.com/pagead/show_ads)/$image,script,subdocument,third-party,domain=xavbox.org
@@ -3313,6 +3313,7 @@ lokan.fr###anti-adblock
 @@||hitek.fr^$elemhide
 @@||imagesia.com^$elemhide
 @@||jackieetmicheltv.fr^$elemhide
+@@||kboard.fr^$elemhide
 @@||kerbalspaceprogram.fr^$elemhide
 @@||lebouletdunet.com^$elemhide
 @@||leetgamerz.net^$elemhide
