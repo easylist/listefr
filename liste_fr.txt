@@ -19,7 +19,6 @@
 .pubdirecte.
 .publicite.
 /aff_pub_
-/affiliate/banner/*
 /bandeaupublicite/*
 /banners-pub/*
 /banniere728x90_
@@ -132,7 +131,6 @@ _regiepub/
 ||espacephr.fr^$third-party
 ||esprit-click.com^$third-party
 ||etoro.fr^$third-party
-||eu1.swbdds.com^$third-party
 ||euro-clic.com^$third-party
 ||eurowebbiz.com^$third-party
 ||every.com^$third-party
@@ -233,7 +231,6 @@ _regiepub/
 ||supersmsoffers.com^$third-party
 ||surfactif.fr^$third-party
 ||teads.fr^$third-party
-||teads.tv^$third-party
 ||the-adult-company.com^$popup,third-party
 ||tnx.net^$third-party
 ||tool.acces-vod.com^$third-party
@@ -2879,7 +2876,6 @@ jeuxvideo.fr##a[href^="http://www.micromania.fr/vente/rayon.php?"]
 zetorrents.com##a[href^="http://www.pokerstars.com/fr/?source="]
 laptopspirit.fr##a[href^="http://www.prix-portables.fr/pub/"]
 topj.net##a[href^="http://www.rpjf.com/asp/lien.asp?"]
-oetiker.ch##a[href^="http://www.serverscheck.com/sensors?"]
 torrentfrancais.cc##a[href^="http://www.singulardownload.com/"]
 ticketac.com##a[href^="http://www.ticketac.com/redirect_pub.php?"]
 webrankinfo.com##a[href^="http://www.webrankinfo.com/partenaires/"]
@@ -3284,8 +3280,8 @@ lokan.fr###anti-adblock
 @@/http://(?!www\.r4menu\.com/media/)/$image,script,subdocument,third-party,domain=monlinker3ds.com|monlinkerds.com|monlinkerdsi.com
 @@/http://(?!xavboxnews\.com/files/|www\.aircig.com/media/affiliation/banner/|pagead2\.googlesyndication\.com/pagead/show_ads)/$image,script,subdocument,third-party,domain=nifoune.com
 @@/http://(pagead2\.googlesyndication\.com/pagead/js/adsbygoogle)/$image,script,subdocument,third-party,domain=e-puzzles.fr
-@@/http:///$image,script,subdocument,third-party,domain=actu95.net|applebigmac.fr|buzzer-manager.com|consoledejeux.info|coolradio.be|fight4craft.fr|kerbalspaceprogram.fr|mangacity.org|opalenews.com|seomaker.estsurle.net|simonfr.org|sucha.net|suchablog.com|visiban.com|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxwii.com|xavboxwiiu.com|xavdrone.com|xavfun.com
-@@/http:///$subdocument,third-party,domain=degroupnews.com|hitek.fr
+@@|http:$image,script,subdocument,third-party,domain=actu95.net|applebigmac.fr|buzzer-manager.com|consoledejeux.info|coolradio.be|fight4craft.fr|kerbalspaceprogram.fr|mangacity.org|opalenews.com|seomaker.estsurle.net|simonfr.org|sucha.net|suchablog.com|visiban.com|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxwii.com|xavboxwiiu.com|xavdrone.com|xavfun.com
+@@|http:$subdocument,third-party,domain=degroupnews.com|hitek.fr
 @@||5nodes.fr^$elemhide
 @@||actu95.net^$elemhide
 @@||addons-wow.fr^$elemhide
