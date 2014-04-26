@@ -3274,7 +3274,7 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@/http://(?!pagead2\.googlesyndication\.com/pagead/show_ads|impfr\.tradedoubler\.com/imp\?type|tracking\.veoxa\.com/|ad\.zanox\.com/ppv/|pagead2\.googlesyndication\.com/pagead/js/adsbygoogle|script\.weborama\.fr/gold|track\.effiliation\.com/servlet/effi\.show)/$image,script,subdocument,third-party,domain=space-blogs.com|space-blogs.net
 @@/http://(?!pagead2\.googlesyndication\.com/pagead/show_ads|pagead2\.googlesyndication\.com/pagead/js/adsbygoogle|widget1\.priice\.net/ads/)/$image,script,subdocument,third-party,domain=applicationsandroidfrance.com
 @@/http://(?!pagead2\.googlesyndication\.com/pagead/show_ads|pubads\.g\.doubleclick\.net/gampad/ads\?g)/$image,script,subdocument,third-party,domain=pcworld.fr
-@@/http://(?!pagead2\.googlesyndication\.com/pagead/show_ads|www\.arcalide\.com/affiliate_show_banner|pagead2\.googlesyndication\.com/pagead/js/adsbygoogle)/$image,script,subdocument,third-party,domain=xavboxphone.com
+@@/http://(?!pagead2\.googlesyndication\.com/pagead/show_ads|www\.arcalide\.com/affiliate_show_banner|pagead2\.googlesyndication\.com/pagead/js/adsbygoogle)/$image,script,subdocument,third-party,domain=xavboxforum.com|xavboxphone.com
 @@/http://(?!pubads\.g\.doubleclick\.net/gampad/ads)/$image,script,third-party,domain=rue89strasbourg.com
 @@/http://(?!pubads\.g\.doubleclick\.net/gampad/ads\?g|pagead2\.googlesyndication\.com/pagead/show_ads)/$image,script,subdocument,third-party,domain=kboard.fr|macworld.fr
 @@/http://(?!pubads\.g\.doubleclick\.net/gampad/ads\?g|pagead2\.googlesyndication\.com/pagead/show_ads|pagead2\.googlesyndication\.com/pagead/js/adsbygoogle)/$image,script,subdocument,third-party,domain=pyrros.fr
@@ -3289,7 +3289,7 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@/http://(?!www\.r4menu\.com/media/)/$image,script,subdocument,third-party,domain=monlinker3ds.com|monlinkerds.com|monlinkerdsi.com
 @@/http://(?!xavboxnews\.com/files/|www\.aircig.com/media/affiliation/banner/|pagead2\.googlesyndication\.com/pagead/show_ads)/$image,script,subdocument,third-party,domain=nifoune.com
 @@/http://(pagead2\.googlesyndication\.com/pagead/js/adsbygoogle)/$image,script,subdocument,third-party,domain=e-puzzles.fr
-@@|http:$image,script,subdocument,third-party,domain=actu95.net|applebigmac.fr|buzzer-manager.com|consoledejeux.info|coolradio.be|fight4craft.fr|kerbalspaceprogram.fr|mangacity.org|opalenews.com|seomaker.estsurle.net|simonfr.org|sucha.net|suchablog.com|visiban.com|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxwii.com|xavboxwiiu.com|xavdrone.com|xavfun.com
+@@|http:$image,script,subdocument,third-party,domain=actu95.net|applebigmac.fr|buzzer-manager.com|consoledejeux.info|coolradio.be|fight4craft.fr|kerbalspaceprogram.fr|mangacity.org|opalenews.com|seomaker.estsurle.net|simonfr.org|sucha.net|suchablog.com|visiban.com|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxwii.com|xavboxwiiu.com|xavdrone.com|xavfun.com
 @@|http:$subdocument,third-party,domain=degroupnews.com|hitek.fr
 @@||5nodes.fr^$elemhide
 @@||actu95.net^$elemhide
