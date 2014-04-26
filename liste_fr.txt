@@ -2287,9 +2287,9 @@ degrouptest.com###pubLink
 degrouptest.com###pubLink2
 tlm.fr###pubRight
 algerie360.com###pub_300_acc
-lafansubresistance.com###pub_728x90_accueil_sous_stream
-thefansubresistance.com###pub_728x90_avant_pg_stream
-lafansubresistance.com###pub_728x90_sous_solo
+fansubresistance.in###pub_728x90_accueil_sous_stream
+fansubresistance.in###pub_728x90_avant_pg_stream
+fansubresistance.in###pub_728x90_sous_solo
 tele.premiere.fr###pub_a2d_pave
 vo2.fr###pub_background
 ouedkniss.com###pub_care
@@ -2521,7 +2521,6 @@ test-mobile.fr##.clickright
 test-mobile.fr##.clicktop
 fr.msn.com##.co1b1.co.coa7.coc1.w4.single1
 futura-sciences.com##.col-droite-pub-milieu
-lien-torrent.com##.col-left.sidebar + .col-main > .boxed.bloc_plateforme:first-child > p[align="center"]:last-child
 mediadico.com##.cold-bloc-video-generique
 allocine.fr##.coltop
 tripadvisor.fr##.commerce
@@ -2822,6 +2821,7 @@ coco.fr##a[href="http://www.joker.net"]
 shinymen.com##a[href="http://www.karouikaroui.com/fr/outdoor/"]
 onetube.org##a[href="http://www.money-cpm.fr"]
 astuce-facebook.com##a[href="http://www.rent-a-lease.com/chinese/"]
+lien-torrent.com##a[href="http://www.starsx.fr/?id=26012&langue=fr&w=0&buying=0"]
 itespresso.fr##a[href^=" http://pubads.g.doubleclick.net/"]
 tadpu.com##a[href^="//fr.ulule.com/insidezecube/?utm_campaign="]
 ophtalmo.tv,prorussia.tv,rewmi.com,senioractu.com,zinfos974.com##a[href^="/ads/"]
@@ -2864,15 +2864,21 @@ ouedkniss.com##a[href^="http://www.autobip.com/news/details/?id="]
 centre-audition.com##a[href^="http://www.centre-audition.com/catalog/redirect.php?action=banner&"]
 gizmodo.fr##a[href^="http://www.ebuyclub.com/operations/gizmodo/entreeGizmodo.jsp?"]
 lien-torrent.com##a[href^="http://www.espace-plus.net/"]
+lien-torrent.com##a[href^="http://www.eurolive.com/"]
 9rayti.com##a[href^="http://www.ilycee.com/?utm_source="]
 zetorrents.com##a[href^="http://www.insta-cash.net/"]
 jds.fr##a[href^="http://www.jds.fr/scripts/pub_clic.php?"]
 kaamelott-streaming.tv##a[href^="http://www.kaamelott-streaming.tv/partenaire/"]
+lien-torrent.com##a[href^="http://www.keumshow.com/"]
+lien-torrent.com##a[href^="http://www.lebangtour.com/"]
+lien-torrent.com##a[href^="http://www.live18ans.com/"]
 dhnet.be##a[href^="http://www.livepartners.be/affiliate/"]
 lyonmag.com##a[href^="http://www.lyonmag.com/home/habillage/"]
+lien-torrent.com##a[href^="http://www.madamecam.com/"]
 dzfoot.com,ma-dz.com##a[href^="http://www.medncom.com/regie/"]
 meetmuslima.net##a[href^="http://www.meetmuslima.net/go/"]
 jeuxvideo.fr##a[href^="http://www.micromania.fr/vente/rayon.php?"]
+lien-torrent.com##a[href^="http://www.penisexpert.net/"]
 zetorrents.com##a[href^="http://www.pokerstars.com/fr/?source="]
 laptopspirit.fr##a[href^="http://www.prix-portables.fr/pub/"]
 topj.net##a[href^="http://www.rpjf.com/asp/lien.asp?"]
@@ -3028,6 +3034,7 @@ pcastuces.com##table[width="95%"][cellspacing="4"][cellpadding="4"][align="cente
 algeriatenders.com##tbody > tr[style="height:92px;"]
 trancegoa.org##td > .fb-like-box + br + .texteentete.taille2
 depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
+lien-torrent.com##td[align="left"][style="padding-top:2px; padding-left:5px; text-align: center"]
 miss34.com##td[style="height:99px; vertical-align:top; background:#ffffff"]
 people-looks.com##td[width="340"][height="265"][align="center"]
 mon-ordi.com##td[width="567"]
@@ -3035,7 +3042,6 @@ people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
-lokan.fr###anti-adblock
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
@@ -3232,6 +3238,7 @@ lokan.fr###anti-adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 ! Adunblock
 @@||3dextras.com/js/$script,third-party
+@@||crabdance.com/js/$script,third-party
 @@||inc.gs/js/$script,third-party
 !
 @@||googleads.g.doubleclick.net/pagead/ads?client=ca-pub-|$subdocument,third-party
@@ -3242,7 +3249,8 @@ lokan.fr###anti-adblock
 @@/http://(?!ad\.zanox\.com/ppv/|pubads\.g\.doubleclick\.net/gampad/ads\?g)/$image,script,subdocument,third-party,domain=degrouptest.com
 @@/http://(?!assets\.ebuzzing\.com/crunch/)/$image,script,subdocument,third-party,domain=dofusmotion.com
 @@/http://(?!banniere\.reussissonsensemble\.fr/view\.asp|as\.ebz\.io)/$image,script,subdocument,third-party,domain=tryandplay.com
-@@/http://(?!c\.ad6media\.fr/l\.js|c\.ad6media\.fr/fo\.js)/$image,script,subdocument,third-party,domain=buzzwebzine.fr|culture-communication.fr|leetgamerz.net
+@@/http://(?!c\.ad6media\.fr/l\.js|c\.ad6media\.fr/fo\.js)/$image,script,subdocument,third-party,domain=buzzwebzine.fr|culture-communication.fr
+@@/http://(?!c\.ad6media\.fr/l\.js|c\.ad6media\.fr/fo\.js|pubads\.g\.doubleclick\.net/gampad/ads\?g|pagead2\.googlesyndication\.com/pagead/js/adsbygoogle)/$image,script,subdocument,third-party,domain=leetgamerz.net
 @@/http://(?!cdn\.adikteev\.com/lib/v|pagead2\.googlesyndication\.com/pagead/show_ads|pubads\.g\.doubleclick\.net/gampad/ads\?|c\.ad6media\.fr/l\.js|publicite\.fhsarl\.com/delivery/)/$image,script,third-party,domain=degroupnews.com
 @@/http://(?!comandclick\.com/accounts/|pagead2\.googlesyndication\.com/pagead/show_ads|pagead2\.googlesyndication\.com/pagead/js/adsbygoogle)/$image,script,subdocument,third-party,domain=styled-gaming.eu
 @@/http://(?!dhtml\.pornravage\.com/)/$image,script,subdocument,third-party,domain=jackieetmicheltv.fr
@@ -3371,7 +3379,7 @@ lokan.fr###anti-adblock
 @@||xavfun.com^$elemhide
 !
 /fuckadblock.min.js|
-@@.png#$domain=ebookdz.com|leetgamerz.net
+@@.png#$domain=ebookdz.com|leetgamerz.net|total-sport.tv
 @@||ad.advertstream.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||adspub.net/javascript/advertisement-AdBlock.js
 @@||anime-story.com/css/advertise.css
@@ -3383,16 +3391,16 @@ lokan.fr###anti-adblock
 @@||easybillets.com/js/advertisement.js
 @@||ebookdz.com^$elemhide
 @@||entrepriseindividuelle.info^$elemhide
+@@||fansubresistance.in^$script,domain=fansubresistance.in
 @@||funeralforamanga.fr/js/advertisement.js
 @@||gamersconnexion.com/js/advertisement.js
 @@||gowonda.com^$image,~third-party
 @@||gratuitcul.com/ad.php?ad=$script
-@@||lafansubresistance.com^$script,~third-party
 @@||lien-torrent.com/addrating.php?
 @@||lien-torrent.com/pubs/affiche.php?f=lecteurpub
 @@||mega-exclue.com^*/unblock/blockBlock/advertisement.js
 @@||meteomedia.com/common/js/master/adframe.js
-@@||notre-planete.info/scripts/ads.js
+@@||notre-planete.info^$script,~third-party
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=automobile-sportive.com|freedom-ip.com|hugolescargot.com|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=replay.fr
@@ -3406,7 +3414,7 @@ lokan.fr###anti-adblock
 @@||scan-manga.com^$stylesheet
 @@||scan-manga.fr^$stylesheet
 @@||slip.madmoizelle.com/advertisement.js?
-@@||tous-sports.tv/js/advertisement-AdBlock.js
+@@||total-sport.tv^$elemhide
 @@||traductionjeux.com^$elemhide
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||venez.fr/js/advert.js
