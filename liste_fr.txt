@@ -3263,7 +3263,20 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@||inc.gs/js/$script,third-party
 @@||wpmqu.na.tl/js/$script,third-party
 @@||yspzd.na.tl/js/$script,third-party
-! ||axlnp.us.to^$third-party ||pfrns.us.to^$third-party
+! ||axlnp.us.to^$third-party ||pfrns.us.to^$third-party ||hjglq.ax.lt^$third-party
+/assets/captures/abchrome-*png
+/assets/captures/abpchrome-*.png
+/assets/captures/abpfirefox-*.png
+/assets/logos/adblock-*.png
+/assets/logos/adblock_plus-*.png
+/assets/logos/chrome-*.png
+/assets/logos/firefox-*.png
+/assets/logos/flattr-*.png
+/st/blocages/
+/st/desactivations_ab/
+/st/pages_vues/
+/st/popin_vues/
+!
 @@||googleads.g.doubleclick.net/pagead/ads?client=ca-pub-|$subdocument,third-party
 @@||pagead2.googlesyndication.com/simgad/48132709|$image,third-party
 @@||pubads.g.doubleclick.net/gampad/ads?|$subdocument,third-party
