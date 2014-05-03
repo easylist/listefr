@@ -1587,7 +1587,7 @@ _regiepub/
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 ||pubdirecte.com^$~collapse,domain=debrideurstream.fr
-||slip.viedemerde.fr/portraitists/
+||slip.viedemerde.fr^
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -3409,7 +3409,6 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@||scan-manga.com^$stylesheet
 @@||scan-manga.fr^$stylesheet
 @@||slip.madmoizelle.com/advertisement.js?
-@@||slip.viedemerde.fr/advertisement.js
 @@||total-sport.tv^$elemhide
 @@||traductionjeux.com^$elemhide
 @@||unjourunerecette.fr/css/publicite-ads.css
