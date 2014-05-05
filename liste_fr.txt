@@ -3252,15 +3252,15 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 ! Adunblock
+@@|http://*.ax.lt/js/$script,third-party
+@@|http://*.na.tl/js/$script,third-party
+@@|http://*.us.to/js/$script,third-party
 @@||3dextras.com/js/$script,third-party
 @@||3dxtras.com/js/$script,third-party
-@@||ax.lt/js/$script,third-party
 @@||bkafw.us.to/js/$script,third-party
 @@||crabdance.com/js/$script,third-party
 @@||cteyd.na.tl/js/$script,third-party
 @@||inc.gs/js/$script,third-party
-@@||na.tl/js/$script,third-party
-@@||us.to/js/$script,third-party
 @@||wpmqu.na.tl/js/$script,third-party
 @@||yspzd.na.tl/js/$script,third-party
 !
@@ -3285,6 +3285,7 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ||hjglq.ax.lt^$third-party
 ||hupix.ro.lt^$third-party
 ||nagcs.ax.lt^$third-party
+||nslpg.us.to^$third-party
 ||pfrns.us.to^$third-party
 ||rhlsv.ro.lt^$third-party
 ||uzjog.ro.lt^$third-party
