@@ -307,6 +307,7 @@ _regiepub/
 ||barredesurf.com/includes/images/bannieres/
 ||baseturf.com/bannieres/
 ||bazardux.com/index.php?$third-party
+||beaverscripts.com/openwindow.js
 ||belle-salope.fr/ban/$third-party
 ||belledesfleurs.com/ban/$third-party
 ||bestofmedia.com/sfp/images/partner/
@@ -439,6 +440,7 @@ _regiepub/
 ||lautosurf.com/promo/
 ||ldh.be/theme/*/bsf-bg.jpg
 ||ldh.be/theme/*/relooking-
+||ldlc.com/#aff$popup,third-party
 ||le-favori.com/images/pub/
 ||le-monde-remunere.fr/bouton-
 ||le1er.net/promo/
@@ -591,6 +593,8 @@ _regiepub/
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
 ||tools.gigacu.com^
 ||toomai.fr/lp/$subdocument
+||torrent24h.net^$popup,third-party
+||tour.reelvidz.com/movie_player_dps/$popup,third-party
 ||toutsurlesabdos.com/images/bannieres_$domain=europeplusnet.info
 ||track.bloglog.com^$third-party
 ||tripadvisor.com/WidgetEmbed-$domain=leparisien.fr
@@ -2036,6 +2040,7 @@ priceminister.com###bandeau_premium
 click-fr.com###baner
 blogger-au-bout-du-doigt.blogspot.com,boursier.com,cdmail.fr,danslescoulisses.com,htmlforums.com,lesaffaires.com,maliweb.net###banner
 football.fr,sports.fr###banner-full
+welovetennis.fr###banner-top
 hitradio.ma###banner2
 rtbf.be###bannerLeaderboard
 clubpoker.net###bannerTopWrapper
@@ -2129,7 +2134,7 @@ liberte-algerie.com###flash[style="width:980px; margin:auto; position:relative;"
 sport-team.org###floatLayer
 tsa-algerie.com###floatSide
 tsa-algerie.com###floatSide-right
-cinemavf.net###floatlayer2
+cinemavf.net,vfstreaminggratuit.com###floatlayer2
 gamekult.com###fnac-top-list
 test-mobile.fr###fondhabillage
 nintendo-master.com###fondinter
@@ -2813,6 +2818,7 @@ torrentfrancais.com##.z2_full_pub_video
 tomsguide.fr##.zoneTriple
 tsa-algerie.com##.zone_annonceurs
 lepetiteconomiste.com##.zoom
+dpstream.net##[class$="_plugin_top"]
 touslesdrivers.com##a.seo
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 artdeseduire.com##a[href*="/?part=ads"]
@@ -2960,6 +2966,7 @@ lafermeduweb.net##div[style="overflow: hidden; width: 336px; height: 280px; marg
 regarder-film-gratuit.com##div[style="padding-top:5px;float:left;width:100%;font-size:13px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:left"]
 mistergooddeal.com##div[style="padding: 8px; border: 1px solid #CCC; border-radius: 3px; position: relative; margin-top: 10px; width: 728px; height: 200px; align: center; margin-left: "]
 accentice.com##div[style="padding:5;padding-top:0;background:#fffdf7;"]
+dpstream.net##div[style="position: absolute; z-index: 9999; top: 65px; left: 170px;"]
 moviz.net##div[style="position: relative; display: block; margin-top: 0px; width: 100%; border-bottom: 1px solid rgb(0, 0, 0); height: auto; z-index: 100000; background: none repeat scroll 0% 0% rgb(255, 255, 225); line-height: 20px; font-family: Arial,Helvetica,sans-serif;"]
 egora.fr##div[style="position: relative; width: 1000px; height: 110px; z-index:10000;"]
 auto-utilitaire.com##div[style="position:relative;width:728px;height:90px;"]
@@ -3051,8 +3058,6 @@ people-looks.com##td[width="340"][height="265"][align="center"]
 mon-ordi.com##td[width="567"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
-! Anti-Adblock
-! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
@@ -3231,7 +3236,6 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@||vshop.fr/js/freakBig.js$domain=montrestendance.com
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
-@@||wpmqu.na.tl/js/bannerconduit.js$domain=giga-down.net
 ! Radins.com
 @@||ad-emea.doubleclick.net/clk;$subdocument,domain=track.radins.com
 @@||ad.zanox.com/ppc/?$subdocument,domain=track.radins.com
@@ -3251,11 +3255,16 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 ! Adunblock
+@@|http://*.ax.lt/js/$script,third-party
+@@|http://*.na.tl/js/$script,third-party
+@@|http://*.us.to/js/$script,third-party
 @@||3dextras.com/js/$script,third-party
 @@||3dxtras.com/js/$script,third-party
-@@||ax.lt/js/$script,third-party
+@@||bkafw.us.to/js/$script,third-party
 @@||crabdance.com/js/$script,third-party
+@@||cteyd.na.tl/js/$script,third-party
 @@||inc.gs/js/$script,third-party
+@@||sefpq.us.to/js/$script,third-party
 @@||vundm.us.to/js/$script,third-party
 @@||wpmqu.na.tl/js/$script,third-party
 @@||yspzd.na.tl/js/$script,third-party
@@ -3282,13 +3291,16 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ||hupix.ro.lt^$third-party
 ||lvorz.ax.lt^$third-party
 ||nagcs.ax.lt^$third-party
+||nslpg.us.to^$third-party
 ||pfrns.us.to^$third-party
 ||rhlsv.ro.lt^$third-party
 ||uzjog.ro.lt^$third-party
+||wjvmp.us.to^$third-party
 !
 @@||5nodes.fr^$elemhide
 @@||actu95.net^$elemhide
 @@||addons-wow.fr^$elemhide
+@@||adunblock.com^$elemhide
 @@||afrokanlife.com^$elemhide
 @@||anthonix.fr^$elemhide
 @@||applebigmac.fr^$elemhide
@@ -3378,7 +3390,7 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@||xavfun.com^$elemhide
 !
 /fuckadblock.min.js|
-@@.png#$domain=dpstream.cc|ebookdz.com|leetgamerz.net|total-sport.tv
+@@.png#$domain=dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|total-sport.tv
 @@||ad.advertstream.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||adspub.net/javascript/advertisement-AdBlock.js
 @@||anime-story.com/css/advertise.css
@@ -3387,6 +3399,7 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@||cpagrip.com/script_include.php?
 @@||d.adxcore.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||dpstream.cc^$elemhide
+@@||dpstream.tv^$elemhide
 @@||dramapassion.com/js/advertisement.js
 @@||easybillets.com/js/advertisement.js
 @@||ebookdz.com^$elemhide
