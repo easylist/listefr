@@ -2324,6 +2324,7 @@ programme-tv.net###pub_pole_position1
 nedjma.dz###pub_pupop
 algerie360.com###pub_rand300a
 algerie360.com###pub_rand300b
+voyageforum.com###pubbetween
 orange.fr###pubdudessous
 laredoute.fr###pubiframe_sky
 troc-velo.com###publine
@@ -2528,10 +2529,6 @@ days-media.fr##.boxed[style^="width:300px; height:250px"]
 jeuxvideo24.com##.bp_zone
 gamergen.com##.bup
 orange.fr##.campagnePUBcoldroite
-voyageforum.com##.carre_pub[style="border-top: 1px white solid;"]
-voyageforum.com##.carre_pub[style="padding-top:7px; padding-left: 12px; padding-right: 10px; padding-bottom: 0px;  border-top: 1px solid white; background2-color: #EBF4F9 "]
-voyageforum.com##.carre_pub[style="padding-top:7px; padding-left: 4px; padding-right: 4px; padding-bottom: 0px; "]
-voyageforum.com##.carre_pub[width="100%"][cellspacing="0"][cellpadding="0"][border="0"]
 psychologies.com##.carrousel_partenaires
 a18ans.com,jamaisjouis.com,liste2cul.com,vidule.com##.catcher
 porn-video-hd.com##.catcher-videos
@@ -3030,8 +3027,6 @@ bonjourmadame.fr##object[width="728"][height="90"]
 lien-torrent.com##p > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
 debrideurstreaming.com##script[src="http://www.pubdirecte.com/script/pop.php?id=48523&ref=23821"] + table[style="float:right; margin-right:50px;"]
-voyageforum.com##table.carre_pub + * + * + * + * + .carre_pub
-voyageforum.com##table.carre_pub + * + * + .carre_pub
 netbusiness-team.com##table[background="../img/banner/pub_verticale.gif"]
 codeshttp.com##table[height="100"]
 codeshttp.com##table[height="118"]
@@ -3040,7 +3035,7 @@ google.fr##table[style="border: 1px solid #369"]
 israel7.com##table[style="margin:0px0px10px15px;"]
 calculitineraires.fr##table[style="width:850px;text-align: center;margin:auto;"]
 torrent-avenue.com##table[width="160"][height="600"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
-voyageforum.com##table[width="300"][height="125"][cellspacing="0"][cellpadding="0"][border="0"][align="right"]
+voyageforum.com##table[width="300"][height="125"][align="left"]
 virusphoto.com##table[width="300"][height="280"]
 societe.com##table[width="303"] > tbody > tr > td[valign="top"][height="260"]
 emule-island.ru##table[width="560"][height="90"][border="2"][bgcolor="#FFFFCC"]
@@ -3464,7 +3459,6 @@ gamexpo.fr#@#.advertisment
 esidoc.fr#@#.advtext
 reseauforum.org#@#.block-ad
 vente-a-domicile.fr#@#.btn-ad
-voyageforum.com#@#.carre_pub
 latribune-online.com#@#.header_ads
 reseauforum.org#@#.html-advertisement
 bfmtv.com#@#.ligatus
