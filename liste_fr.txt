@@ -3393,10 +3393,16 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@||xavboxwiiu.com^$elemhide
 @@||xavdrone.com^$elemhide
 @@||xavfun.com^$elemhide
-!
-/fuckadblock.min.js|
+! No-AdBlock.com
+/st/blocages/?
+/st/desactivations_ab/?
 @@.gif#$domain=jeux-bebe.fr|sos-lettre.fr
 @@.jpg#$domain=jeux-bebe.fr|sos-lettre.fr
+@@||jeux-bebe.fr^$elemhide
+@@||mateur.biz^$elemhide
+@@||sos-lettre.fr^$elemhide
+!
+/fuckadblock.min.js|
 @@.png#$domain=dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|total-sport.tv
 @@||ad.advertstream.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||adspub.net/javascript/advertisement-AdBlock.js
@@ -3416,7 +3422,6 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@||gamersconnexion.com/js/advertisement.js
 @@||gowonda.com^$image,~third-party
 @@||gratuitcul.com/ad.php?ad=$script
-@@||jeux-bebe.fr^$elemhide
 @@||lien-torrent.com/addrating.php?
 @@||lien-torrent.com/pubs/affiche.php?f=lecteurpub
 @@||mega-exclue.com^*/unblock/blockBlock/advertisement.js
@@ -3436,7 +3441,6 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@||scan-manga.com^$stylesheet
 @@||scan-manga.fr^$stylesheet
 @@||slip.madmoizelle.com/advertisement.js?
-@@||sos-lettre.fr^$elemhide
 @@||total-sport.tv^$elemhide
 @@||traductionjeux.com^$elemhide
 @@||unjourunerecette.fr/css/publicite-ads.css
