@@ -3295,11 +3295,8 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 /assets/logos/chrome-*.png
 /assets/logos/firefox-*.png
 /assets/logos/flattr-*.png
-/s/blocages/*
-/s/desactivations_ab/*
-/s/pages_vues/*
-/s/popin_vues/*
 |http://*.ax.lt/*/$image,third-party,xmlhttprequest
+|http://*.cr.rs/*/$image,third-party,xmlhttprequest
 |http://*.ro.lt/*/$image,third-party,xmlhttprequest
 |http://*.us.to/*/$image,third-party,xmlhttprequest
 ||axlnp.us.to^$third-party
@@ -3307,9 +3304,11 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ||hjglq.ax.lt^$third-party
 ||hupix.ro.lt^$third-party
 ||lvorz.ax.lt^$third-party
+||mfkbe.cr.rs^$third-party
 ||mxlpn.ro.lt^$third-party
 ||nagcs.ax.lt^$third-party
 ||nslpg.us.to^$third-party
+||omqdu.cr.rs^$third-party
 ||pfrns.us.to^$third-party
 ||rhlsv.ro.lt^$third-party
 ||rlhdw.ax.lt^$third-party
