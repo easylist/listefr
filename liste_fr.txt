@@ -3278,6 +3278,7 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@||rcwmu.us.to/js/$script,third-party
 @@||sefpq.us.to/js/$script,third-party
 @@||tjxpq.ro.lt/js/$script,third-party
+@@||uxkmr.us.to/js/$script,third-party
 @@||uycpd.ax.lt/js/$script,third-party
 @@||vundm.us.to/js/$script,third-party
 @@||wpmqu.na.tl/js/$script,third-party
@@ -3296,8 +3297,13 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 /assets/logos/chrome-*.png
 /assets/logos/firefox-*.png
 /assets/logos/flattr-*.png
+/http://([a-z]+\.)+[a-z]+/b/\w{32}/$third-party,xmlhttprequest
+/http://([a-z]+\.)+[a-z]+/d/\w{32}/$third-party,xmlhttprequest
+/http://([a-z]+\.)+[a-z]+/p/\w{32}/$third-party,xmlhttprequest
+/http://([a-z]+\.)+[a-z]+/v/\w{32}/$third-party,xmlhttprequest
 |http://*.ax.lt/*/$image,third-party,xmlhttprequest
 |http://*.cr.rs/*/$image,third-party,xmlhttprequest
+|http://*.eye.rs/*/$image,third-party,xmlhttprequest
 |http://*.keep.se/*/$image,third-party,xmlhttprequest
 |http://*.ro.lt/*/$image,third-party,xmlhttprequest
 |http://*.us.to/*/$image,third-party,xmlhttprequest
