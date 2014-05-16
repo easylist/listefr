@@ -3272,12 +3272,14 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 ! Adunblock
 @@|http://*.ax.lt/js/$script,third-party
+@@|http://*.cr.rs/js/$script,third-party
 @@|http://*.na.tl/js/$script,third-party
 @@|http://*.ro.lt/js/$script,third-party
 @@|http://*.us.to/js/$script,third-party
 @@||3dxtras.com/js/$script,third-party
 @@||afust.ax.lt/js/$script,third-party
 @@||azqmf.ro.lt/js/$script,third-party
+@@||bad.mn/js/$script,third-party
 @@||bkafw.us.to/js/$script,third-party
 @@||crabdance.com/js/$script,third-party
 @@||cteyd.na.tl/js/$script,third-party
@@ -3285,6 +3287,7 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@||hrnob.ro.lt/js/$script,third-party
 @@||inc.gs/js/$script,third-party
 @@||kbosf.ax.lt/js/$script,third-party
+@@||omqdu.cr.rs/js/$script,third-party
 @@||qjbvc.ro.lt/js/$script,third-party
 @@||rcwmu.us.to/js/$script,third-party
 @@||sefpq.us.to/js/$script,third-party
@@ -3308,11 +3311,12 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 /assets/logos/chrome-*.png
 /assets/logos/firefox-*.png
 /assets/logos/flattr-*.png
-/http://([a-z]+\.)+[a-z]+/b/\w{32}/$third-party,xmlhttprequest
-/http://([a-z]+\.)+[a-z]+/d/\w{32}/$third-party,xmlhttprequest
-/http://([a-z]+\.)+[a-z]+/p/\w{32}/$third-party,xmlhttprequest
-/http://([a-z]+\.)+[a-z]+/v/\w{32}/$third-party,xmlhttprequest
+/http://([a-z]+\.)+[a-z]+/ab/\w{32}/$third-party,xmlhttprequest
+/http://([a-z]+\.)+[a-z]+/ad/\w{32}/$third-party,xmlhttprequest
+/http://([a-z]+\.)+[a-z]+/ap/\w{32}/$third-party,xmlhttprequest
+/http://([a-z]+\.)+[a-z]+/av/\w{32}/$third-party,xmlhttprequest
 |http://*.ax.lt/*/$image,third-party,xmlhttprequest
+|http://*.bad.mn/*/$image,third-party,xmlhttprequest
 |http://*.cr.rs/*/$image,third-party,xmlhttprequest
 |http://*.eye.rs/*/$image,third-party,xmlhttprequest
 |http://*.keep.se/*/$image,third-party,xmlhttprequest
