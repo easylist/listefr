@@ -1,1 +1,1 @@
-C:\Python34\python.exe FOP.py
+FOP.py
