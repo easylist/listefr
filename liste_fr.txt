@@ -3281,6 +3281,7 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@|http://*.vr.lt/js/$script,third-party
 @@||3dxtras.com/js/$script,third-party
 @@||afust.ax.lt/js/$script,third-party
+@@||awiki.org/js/$script,third-party
 @@||azqmf.ro.lt/js/$script,third-party
 @@||bad.mn/js/$script,third-party
 @@||bkafw.us.to/js/$script,third-party
@@ -3322,6 +3323,7 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 /http://([a-z]+\.)+[a-z]+/ad/\w{32}/$third-party,xmlhttprequest
 /http://([a-z]+\.)+[a-z]+/ap/\w{32}/$third-party,xmlhttprequest
 /http://([a-z]+\.)+[a-z]+/av/\w{32}/$third-party,xmlhttprequest
+|http://*.awiki.org/*/$image,third-party,xmlhttprequest
 |http://*.ax.lt/*/$image,third-party,xmlhttprequest
 |http://*.bad.mn/*/$image,third-party,xmlhttprequest
 |http://*.cr.rs/*/$image,third-party,xmlhttprequest
@@ -3393,7 +3395,6 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@||kboard.fr^$elemhide
 @@||kerbalspaceprogram.fr^$elemhide
 @@||lebouletdunet.com^$elemhide
-@@||leetgamerz.net^$elemhide
 @@||lesarbres.fr^$elemhide
 @@||loractu.fr^$elemhide
 @@||macworld.fr^$elemhide
@@ -3452,15 +3453,6 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@||xavboxwiiu.com^$elemhide
 @@||xavdrone.com^$elemhide
 @@||xavfun.com^$elemhide
-! No-AdBlock.com
-/st/blocages/?
-/st/desactivations_ab/?
-@@.gif#$domain=jeux-bebe.fr|mateur.biz|naturiste.biz|sos-lettre.fr
-@@.jpg#$domain=jeux-bebe.fr|mateur.biz|naturiste.biz|sos-lettre.fr
-@@||jeux-bebe.fr^$elemhide
-@@||mateur.biz^$elemhide
-@@||naturiste.biz^$elemhide
-@@||sos-lettre.fr^$elemhide
 !
 /fuckadblock.min.js|
 @@.gif#$domain=automobile-sportive.com
