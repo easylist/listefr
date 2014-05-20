@@ -3295,6 +3295,7 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@||cteyd.na.tl/$script,third-party
 @@||cvhyx.vr.lt/$script,third-party
 @@||dlgbh.ax.lt/$script,third-party
+@@||dyx.com/$script,third-party
 @@||hrnob.ro.lt/$script,third-party
 @@||inc.gs/$script,third-party
 @@||kbosf.ax.lt/$script,third-party
@@ -3326,14 +3327,15 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 /assets/logos/chrome-*.png
 /assets/logos/firefox-*.png
 /assets/logos/flattr-*.png
-/http://([a-z]+\.)+[a-z]+/bb/\w{32}/$third-party,xmlhttprequest
-/http://([a-z]+\.)+[a-z]+/bd/\w{32}/$third-party,xmlhttprequest
-/http://([a-z]+\.)+[a-z]+/bp/\w{32}/$third-party,xmlhttprequest
-/http://([a-z]+\.)+[a-z]+/bv/\w{32}/$third-party,xmlhttprequest
+/http://([a-z]+\.)+[a-z]+/cb/\w{32}/$third-party,xmlhttprequest
+/http://([a-z]+\.)+[a-z]+/cd/\w{32}/$third-party,xmlhttprequest
+/http://([a-z]+\.)+[a-z]+/cp/\w{32}/$third-party,xmlhttprequest
+/http://([a-z]+\.)+[a-z]+/cv/\w{32}/$third-party,xmlhttprequest
 |http://*.awiki.org/*/$image,third-party,xmlhttprequest
 |http://*.ax.lt/*/$image,third-party,xmlhttprequest
 |http://*.bad.mn/*/$image,third-party,xmlhttprequest
 |http://*.cr.rs/*/$image,third-party,xmlhttprequest
+|http://*.dyx.com/*/$image,third-party,xmlhttprequest
 |http://*.eye.rs/*/$image,third-party,xmlhttprequest
 |http://*.keep.se/*/$image,third-party,xmlhttprequest
 |http://*.ro.lt/*/$image,third-party,xmlhttprequest
