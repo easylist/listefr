@@ -3296,6 +3296,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 ! Adunblock
+@@||home.kg/*.js|$script,third-party
 @@||hpc.tw/*.js|$script,third-party
 @@||joe.dj/*.js|$script,third-party
 @@||wtf.im/*.js|$script,third-party
@@ -3364,7 +3365,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@/http://(?!www\.ftjcfx\.com/|banners.goracash\.com/|www\.gambling-affiliation\.com/|partenaire-2tribus\.fr/)/$image,script,subdocument,third-party,domain=sanditrad.com
 @@/http://(?!www\.pubdirecte\.com/)/$image,script,subdocument,third-party,domain=go-streaming-gratuit.com
 @@/http://(?!www\.r4menu\.com/media/)/$image,script,subdocument,third-party,domain=monlinker3ds.com|monlinkerds.com|monlinkerdsi.com
-@@/http://(?!xavboxnews\.com/files/|www\.aircig.com/media/affiliation/banner/|pagead2\.googlesyndication\.com/pagead/show_ads|www\.arcalide\.com/affiliate_show_banner|rcm-eu\.amazon-adsystem\.com/)/$image,script,subdocument,third-party,domain=nifoune.com
+@@/http://(?!www\.xavboxnews\.com/files/|www\.aircig.com/media/affiliation/banner/|pagead2\.googlesyndication\.com/pagead/show_ads|www\.arcalide\.com/affiliate_show_banner|rcm-eu\.amazon-adsystem\.com/)/$image,script,subdocument,third-party,domain=nifoune.com
 @@|http:$image,script,subdocument,third-party,domain=actu95.net|applebigmac.fr|buzzer-manager.com|consoledejeux.info|coolradio.be|kerbalspaceprogram.fr|mangacity.org|muslimette-magazine.com|opalenews.com|seomaker.estsurle.net|simonfr.org|sucha.net|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxwii.com|xavfun.com
 @@|http:$subdocument,third-party,domain=degroupnews.com|hitek.fr
 !
