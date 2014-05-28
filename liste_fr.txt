@@ -3347,6 +3347,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 |http://*.hpc.tw/*/$image,third-party,xmlhttprequest
 |http://*.joe.dj/*/$image,third-party,xmlhttprequest
 |http://*.keep.se/*/$image,third-party,xmlhttprequest
+|http://*.mm.my/*/$image,third-party,xmlhttprequest
 |http://*.ro.lt/*/$image,third-party,xmlhttprequest
 |http://*.suka.se/*/$image,third-party,xmlhttprequest
 |http://*.us.to/*/$image,third-party,xmlhttprequest
@@ -3354,6 +3355,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 |http://*.wtf.im/*/$image,third-party,xmlhttprequest
 ||axlnp.us.to^$third-party
 ||cvhyx.vr.lt^$third-party
+||ebogh.mm.my^$third-party
 ||fcwsk.ro.lt^$third-party
 ||hjglq.ax.lt^$third-party
 ||hupix.ro.lt^$third-party
