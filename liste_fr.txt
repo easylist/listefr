@@ -3180,8 +3180,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||fatherandsons.fr^*/opecom/affiliation/
 @@||fr-advideum.videoplaza.tv/proxy/distributor^$object-subrequest,domain=aufeminin.com|generation-nt.com|lefigaro.fr|rfi.fr
 @@||fr-canalplusdev.videoplaza.tv/proxy/html5-sdk/*-ea.min.js
-@@||fr-groupe01.videoplaza.tv/proxy/distributor/v2?$object-subrequest,domain=ultimedia.com
-@@||fr-himedia.videoplaza.tv/proxy/distributor/v2?$object-subrequest,domain=ultimedia.com
 @@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
@@ -3278,6 +3276,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||viamichelin.be/static/advert/$script
 @@||viamichelin.ch/static/advert/$script
 @@||viamichelin.fr/static/advert/$script
+@@||videoplaza.tv/proxy/distributor/v2?$object-subrequest,domain=ultimedia.com
 @@||videos-pub.ftv-publicite.fr/media/$object-subrequest,domain=playerftp.videostream.fr
 @@||videos-pub.ftv-publicite.fr/player/ad2play.js$domain=tv5mondeplus.com
 @@||videos.direction-x.com^$object-subrequest,domain=liensporno.com
