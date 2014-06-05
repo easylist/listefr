@@ -1635,8 +1635,8 @@ _regiepub/
 ||zoomdici.fr/media/pub/
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
+||manivelle.viedemerde.fr^
 ||pubdirecte.com^$~collapse,domain=debrideurstream.fr
-||slip.viedemerde.fr^
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -3336,6 +3336,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||kbosf.ax.lt/*.js|$script,third-party
 @@||mfkbe.cr.rs/*.js|$script,third-party
 @@||omqdu.cr.rs/*.js|$script,third-party
+@@||opensrc.mx/*.js|$script,third-party
 @@||qjbvc.ro.lt/*.js|$script,third-party
 @@||rcwmu.us.to/*.js|$script,third-party
 @@||sefpq.us.to/*.js|$script,third-party
@@ -3359,6 +3360,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 |http://*.jpe.js/*/$image,third-party,xmlhttprequest
 |http://*.keep.se/*/$image,third-party,xmlhttprequest
 |http://*.mm.my/*/$image,third-party,xmlhttprequest
+|http://*.opensrc.mx/*/$image,third-party,xmlhttprequest
 |http://*.ro.lt/*/$image,third-party,xmlhttprequest
 |http://*.suka.se/*/$image,third-party,xmlhttprequest
 |http://*.us.to/*/$image,third-party,xmlhttprequest
