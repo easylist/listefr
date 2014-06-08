@@ -3340,6 +3340,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||dyx.com/*.js|$script,third-party
 @@||ebogh.mm.my/*.js|$script,third-party
 @@||freebsd.md/*.js|$script,third-party
+@@||ghaman.com/*.js|$script,third-party
 @@||home.kg/*.js|$script,third-party
 @@||hpc.tw/*.js|$script,third-party
 @@||hrnob.ro.lt/*.js|$script,third-party
@@ -3368,6 +3369,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 |http://*.dyx.com/*/$image,third-party,xmlhttprequest
 |http://*.eye.rs/*/$image,third-party,xmlhttprequest
 |http://*.freebsd.md/*/$image,third-party,xmlhttprequest
+|http://*.ghaman.com/*/$image,third-party,xmlhttprequest
 |http://*.home.kg/*/$image,third-party,xmlhttprequest
 |http://*.hpc.tw/*/$image,third-party,xmlhttprequest
 |http://*.joe.dj/*/$image,third-party,xmlhttprequest
