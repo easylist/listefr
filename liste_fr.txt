@@ -3328,6 +3328,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@|http://*.cr.rs/*.js|$script,third-party
 @@|http://*.mm.my/*.js|$script,third-party
 @@|http://*.na.tl/*.js|$script,third-party
+@@|http://*.qq.my/*.js|$script,third-party
 @@|http://*.ro.lt/*.js|$script,third-party
 @@|http://*.us.to/*.js|$script,third-party
 @@|http://*.vr.lt/*.js|$script,third-party
@@ -3343,6 +3344,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||dlgbh.ax.lt/*.js|$script,third-party
 @@||dyx.com/*.js|$script,third-party
 @@||ebogh.mm.my/*.js|$script,third-party
+@@||eviyx.qq.my/*.js|$script,third-party
 @@||freebsd.md/*.js|$script,third-party
 @@||ghaman.com/*.js|$script,third-party
 @@||home.kg/*.js|$script,third-party
@@ -3385,6 +3387,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.mm.my/*/$image,third-party,xmlhttprequest
 |http://*.negeriau.net/*/$image,third-party,xmlhttprequest
 |http://*.opensrc.mx/*/$image,third-party,xmlhttprequest
+|http://*.qq.my/*/$image,third-party,xmlhttprequest
 |http://*.ro.lt/*/$image,third-party,xmlhttprequest
 |http://*.suka.se/*/$image,third-party,xmlhttprequest
 |http://*.us.to/*/$image,third-party,xmlhttprequest
@@ -3394,6 +3397,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 ||cvhyx.vr.lt^$third-party
 ||ebogh.mm.my^$third-party
 ||fcwsk.ro.lt^$third-party
+||fsvuc.qq.my^$third-party
 ||hjglq.ax.lt^$third-party
 ||hupix.ro.lt^$third-party
 ||lvorz.ax.lt^$third-party
@@ -3475,9 +3479,9 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@/http://(?!www\.clicmanager\.fr/img/|ads\.clicmanager\.fr/)/$image,script,third-party,domain=sen.flam.me
 @@/http://(?!www\.ftjcfx\.com/|banners.goracash\.com/|www\.gambling-affiliation\.com/|partenaire-2tribus\.fr/)/$image,script,third-party,domain=sanditrad.com
 @@/http://(?!www\.pubdirecte\.com/)/$image,script,third-party,domain=go-streaming-gratuit.com
-@@/http://(?!www\.r4menu\.com/media/)/$image,script,third-party,domain=monlinker3ds.com|monlinkerds.com|monlinkerdsi.com
+@@/http://(?!www\.r4menu\.com/)/$image,script,third-party,domain=monlinker3ds.com|monlinkerds.com|monlinkerdsi.com|xavboxds.com
 @@/http://(?!www\.xavboxnews\.com/files/|www\.aircig.com/media/affiliation/banner/|pagead2\.googlesyndication\.com/pagead/show_ads|www\.arcalide\.com/affiliate_show_banner|rcm-eu\.amazon-adsystem\.com/)/$image,script,third-party,domain=nifoune.com|xavboxwii.com
-@@|http:$image,script,third-party,domain=actu95.net|applebigmac.fr|buzzer-manager.com|consoledejeux.info|mangacity.org|muslimette-magazine.com|opalenews.com|seomaker.estsurle.net|simonfr.org|sucha.net|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavfun.com
+@@|http:$image,script,third-party,domain=actu95.net|applebigmac.fr|buzzer-manager.com|consoledejeux.info|mangacity.org|muslimette-magazine.com|opalenews.com|seomaker.estsurle.net|simonfr.org|sucha.net|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavfun.com
 !
 @@||5nodes.fr^$elemhide
 @@||actu95.net^$elemhide
