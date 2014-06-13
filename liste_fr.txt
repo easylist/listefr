@@ -3330,10 +3330,11 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||tracking.veoxa.com/click/banner?$subdocument,domain=track.radins.com
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
-! VDM
+! ZeroPub
 @@||cdn.dekalee.net/serve/$script,domain=viedemerde.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=viedemerde.fr
 viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
+||drums.buporez.com^
 ||origami.viedemerde.fr^
 ! Adunblock
 @@|http://*.ax.lt/*.js|$script,third-party
