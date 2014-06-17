@@ -3341,9 +3341,9 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ! ZeroPub
 @@||cdn.dekalee.net/serve/$script,domain=viedemerde.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=viedemerde.fr
+@@||viedemerde.fr^$script,~third-party
 viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 ||drums.buporez.com^
-||origami.viedemerde.fr^
 ! Adunblock
 @@|http://*.ax.lt/*.js|$script,third-party
 @@|http://*.cr.rs/*.js|$script,third-party
@@ -3366,6 +3366,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||dyx.com/*.js|$script,third-party
 @@||eaglepoint.us/*.js|$script,third-party
 @@||ebogh.mm.my/*.js|$script,third-party
+@@||entermypicks.com/*.js|$script,third-party
 @@||eviyx.qq.my/*.js|$script,third-party
 @@||freebsd.md/*.js|$script,third-party
 @@||ghaman.com/*.js|$script,third-party
@@ -3400,6 +3401,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.cr.rs/$third-party,xmlhttprequest
 |http://*.dyx.com/$third-party,xmlhttprequest
 |http://*.eaglepoint.us/$third-party,xmlhttprequest
+|http://*.entermypicks.com/$third-party,xmlhttprequest
 |http://*.eye.rs/$third-party,xmlhttprequest
 |http://*.freebsd.md/$third-party,xmlhttprequest
 |http://*.ghaman.com/$third-party,xmlhttprequest
@@ -3452,7 +3454,6 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 #@##bannerGoogle
 #@##block-ad_cube-0
 #@##blox-big-ad-bottom
-@@/http://([a-z]+\.)+[a-z]+/(bnrsrv|doubleclickcontainer|doubleclickplugin|doubleclicktag|ero-1|eroex|eshopoffer|exitpopunder|exitpopup|exitpopup|exitsplash|exo120x60|exoclickright|exoclickright2|exoclickright3|eyewondermanagement|fastclick160|fastclick728|flirt4free|flirt4free|geitonpop|GetADVOverlay|getmdhlayer|getmdhlink|getsponslinks|getsponslinksauto|getTextAD|glam300|glam728|google_afc|google728|google-afc|googleafs|googlempu)\.js$/$script,third-party
 @@||googleads.g.doubleclick.net/pagead/ads?client=ca-pub-|$subdocument,third-party
 @@||pagead2.googlesyndication.com/simgad/$image,third-party,domain=5nodes.fr|actu95.net|actuping.com|addons-wow.fr|adunblock.com|aeropassion.net|annuaire-bleu.net|anthonix.fr|applebigmac.fr|applicationsandroidfrance.com|arnaques-internet.info|bdcraft.net|br1team.fr|buzzer-manager.com|buzzwebzine.fr|byothe.fr|cle-usb.info|cnetfrance.fr|consoledejeux.info|coolradio.be|culture-communication.fr|degroupnews.com|degrouptest.com|dofusmotion.com|donnemoilinfo.com|e-puzzles.fr|fight4craft.fr|gamekult.com|gamewinner.fr|geneanum.com|geoforum.fr|geowiki.fr|go-streaming-gratuit.com|gridam.com|hitek.fr|imagesia.com|jackieetmicheltv.fr|kboard.fr|kerbalspaceprogram.fr|lebouletdunet.com|leetgamerz.net|lesarbres.fr|livrespourtous.com|loractu.fr|macworld.fr|maviesurleweb.fr|minecraft-france.fr|minecraftmod.fr|monlinker3ds.com|monlinkerds.com|monlinkerdsi.com|moto85.com|muslimette-magazine.com|nas-forum.com|nifoune.com|ocre-annuaire.net|ogame-winner.com|okawan.com|opalenews.com|pcworld.fr|phonandroid.com|physagreg.fr|pix-geeks.com|pyrros.fr|quedesbonsplans.com|reef-guardian.com|rue89strasbourg.com|sanditrad.com|scoopmosaique.be|sen.flam.me|seomaker.estsurle.net|simonfr.org|sous-la-mer.com|space-blogs.com|space-blogs.net|space-forums.com|space-forums.net|styled-gaming.eu|sucha.net|suchablog.com|syskb.com|toolzzz.fr|tout-gratuit.be|toutes-les-solutions.fr|tryandplay.com|untourenchine.fr|visiban.com|wiilogic.com|xavbox.com|xavbox.info|xavbox.org|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxnews.com|xavboxone.com|xavboxphone.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxtuning.com|xavboxwii.com|xavboxwiiu.com|xavdrone.com|xavfun.com|zdnet.fr
 @@||pubads.g.doubleclick.net/gampad/ads?|$subdocument,third-party
