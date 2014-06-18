@@ -3345,6 +3345,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||viedemerde.fr^$script,~third-party
 viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 ||drums.buporez.com^
+||tentacule.viedemerde.fr^
 ! Adunblock
 @@|http://*.ax.lt/*.js|$script,third-party
 @@|http://*.cr.rs/*.js|$script,third-party
