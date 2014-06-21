@@ -827,8 +827,7 @@ _regiepub/
 ||degroupnews.com/css/commun/pub-
 ||degroupnews.com/images/banniere
 ||degrouptest.com/images/bonabo-promo/
-||degrouptest.com/images/pub-bouygues/
-||degrouptest.com/images/pub-divers/
+||degrouptest.com/images/pub-
 ||degrouptest.com/styles/pub*.css
 ||delamusique.com/js/jquery.rotator.js
 ||deliv.leboncoin.fr^
@@ -3211,6 +3210,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||cstatic.weborama.fr/js/advertiser/wbo_performance.js$domain=pmu.fr
 @@||daily-*.fr/images/*///pages/*_300x250.png
 @@||data.panachetech.com^$object-subrequest,domain=gameone.net
+@@||degrouptest.com/images/pub-colonne-
 @@||deliv.lexpress.fr/RealMedia/ads/adstream_mjx.ads/$script,domain=fipradio.fr|francebleu.fr|franceculture.fr|franceinfo.fr|franceinter.fr|francemusique.fr|lemouv.fr
 @@||deliv.tmcregie.fr/crossdomain.xml$domain=videos.nt1.tv
 @@||diplomatie.gouv.fr^*?adtype=
