@@ -3359,7 +3359,13 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||viedemerde.fr^$script,~third-party
 viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 ||drums.buporez.com^
-||tentacule.viedemerde.fr^
+||sousjacent.viedemerde.fr^
+! notre-planete.info
+@@|http://$subdocument,domain=notre-planete.info
+@@||cas.criteo.com/delivery/ajs.php?$script,domain=notre-planete.info
+@@||notre-planete.info^$elemhide
+@@||notre-planete.info^$script,subdocument
+@@||www6.smartadserver.com/call/pubdirj/$script,domain=notre-planete.info
 ! Adunblock
 @@|http://*.ax.lt/*.js|$script,third-party
 @@|http://*.cr.rs/*.js|$script,third-party
@@ -3408,6 +3414,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||spiegs.com/*.js|$script,third-party
 @@||stemline.com/*.js|$script,third-party
 @@||tjxpq.ro.lt/*.js|$script,third-party
+@@||ukstokes.com/*.js|$script,third-party
 @@||uxkmr.us.to/*.js|$script,third-party
 @@||uycpd.ax.lt/*.js|$script,third-party
 @@||vundm.us.to/*.js|$script,third-party
@@ -3443,6 +3450,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.spiegs.com/$third-party,xmlhttprequest
 |http://*.stemline.com/$third-party,xmlhttprequest
 |http://*.suka.se/$third-party,xmlhttprequest
+|http://*.ukstokes.com/$third-party,xmlhttprequest
 |http://*.us.to/$third-party,xmlhttprequest
 |http://*.vr.lt/$third-party,xmlhttprequest
 |http://*.wtf.im/$third-party,xmlhttprequest
@@ -3655,7 +3663,6 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@.gif#$domain=automobile-sportive.com
 @@.jpg#$domain=dpstream.cc
 @@.png#$domain=dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|total-sport.tv|tout-gratuit.be
-@@|http://$subdocument,domain=notre-planete.info
 @@||ad.advertstream.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||adspub.net/javascript/advertisement-AdBlock.js
 @@||anime-story.com/css/advertise.css
@@ -3688,8 +3695,6 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||lien-torrent.com/pubs/affiche.php?f=lecteurpub
 @@||mega-exclue.com^*/unblock/blockBlock/advertisement.js
 @@||meteomedia.com/common/js/master/adframe.js
-@@||notre-planete.info^$elemhide
-@@||notre-planete.info^$script,subdocument
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=automobile-sportive.com|freedom-ip.com|hugolescargot.com|leetgamerz.net|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=leetgamerz.net
