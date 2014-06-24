@@ -3377,6 +3377,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@|http://*.us.to/*.js|$script,third-party
 @@|http://*.vr.lt/*.js|$script,third-party
 @@||3dxtras.com/*.js|$script,third-party
+@@||905tech.com/*.js|$script,third-party
 @@||afust.ax.lt/*.js|$script,third-party
 @@||awiki.org/*.js|$script,third-party
 @@||azqmf.ro.lt/*.js|$script,third-party
@@ -3423,6 +3424,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||wtf.im/*.js|$script,third-party
 @@||yblpg.ax.lt/*.js|$script,third-party
 @@||yspzd.na.tl/*.js|$script,third-party
+|http://*.905tech.com/$third-party,xmlhttprequest
 |http://*.awiki.org/$third-party,xmlhttprequest
 |http://*.ax.lt/$third-party,xmlhttprequest
 |http://*.bad.mn/$third-party,xmlhttprequest
