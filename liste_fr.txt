@@ -1226,7 +1226,6 @@ _regiepub/
 ||marianne.net/photo/background-
 ||matchendirect.fr/*/mobile/header_cote.html
 ||matchendirect.fr/*/mobile/header_info.html
-||matchendirect.fr^*/image/pub/
 ||materiel.net/pub/
 ||matter-du-sexe.com/infopop/
 ||max-videos.com/tools/
@@ -1714,6 +1713,7 @@ _regiepub/
 ###cadre_pub_bas
 ###carre-pub
 ###carre_pub
+###colgauche_pub
 ###comment-ad
 ###conteneurPub
 ###conteneur_pub
@@ -1743,6 +1743,9 @@ _regiepub/
 ###headerpub
 ###home-pub
 ###idpublicitepave
+###iframe-pub-120x600
+###iframe-pub-300x250
+###iframe-pub-300x600
 ###iframepub
 ###iframesidebarpub
 ###imagePubPave
@@ -1762,8 +1765,11 @@ _regiepub/
 ###pub-ban
 ###pub-banner
 ###pub-center
+###pub-display-120x600
 ###pub-display-300x250
+###pub-display-300x600
 ###pub-display-468x60
+###pub-display-728x90
 ###pub-droite
 ###pub-footer
 ###pub-haut
@@ -1785,6 +1791,7 @@ _regiepub/
 ###pub300250
 ###pub300x250
 ###pub468x60_gauche
+###pub468x60_match
 ###pub728
 ###pub728x90
 ###pubBandeau
@@ -1863,6 +1870,7 @@ _regiepub/
 ###publicite_banniere
 ###publicite_banniere_haut
 ###publicite_header
+###publicite_liste_bookmaker
 ###publicite_right
 ###publicite_top
 ###publicite_txt
@@ -1952,6 +1960,7 @@ _regiepub/
 ##.pub-megabanner
 ##.pub-pave
 ##.pub160x600
+##.pub242x90
 ##.pub300
 ##.pub300250
 ##.pub300_contenu
@@ -2375,7 +2384,6 @@ ecranlarge.com,lacanausurfinfo.com###promo
 extremepc.fr###promoHead + hr + .center
 streamnolimit.com###pscroller1
 allstreamz.com,annuaire-streaming.com,blogs.allocine.fr,centerblog.net,emule-island.ru,extremepc.fr,japan-expo.be,jeux-2-filles.com,jeuxonline.info,letudiant.fr,levraigabroy.com,nrj.be,nrj.fr,nuked-klan.org,olivierdauvers.fr,orange.fr,planet-casio.com,science-et-vie.com,solutions-logiciels.com,sortir47.fr,toutpratique.com,virtuoflash.com,wareziens.net###pub
-coupedafrique.com###pub-display-728x90
 francebleu.fr,franceinfo.fr###pub-ftv-top
 jeu.info###pub0
 ledemondujeu.com,matchendirect.mobi###pub1
@@ -2947,7 +2955,7 @@ marianne.net##a[href^="/blogsecretdefense/ads/"]
 unchartedatolls.com##a[href^="/file.php?"]
 mayottehebdo.com##a[href^="/index.php?option=com_banners"]
 trictrac.net##a[href^="/partenaire/"]
-estrepublicain.fr##a[href^="/pub/"]
+estrepublicain.fr,matchendirect.fr##a[href^="/pub/"]
 trictrac.net##a[href^="/publicite/"]
 confidentielles.com##a[href^="/rc_787_"]
 emule-island.ru##a[href^="/tutoriaux/usenext-dl.php?"]
@@ -3153,6 +3161,7 @@ people-looks.com##td[width="340"][height="265"][align="center"]
 mon-ordi.com##td[width="567"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
+matchendirect.fr##tr[onclick^="pubComparateur"]
 lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
 !
 !----------------------- Exceptions -----------------------!
