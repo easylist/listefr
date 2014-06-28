@@ -930,7 +930,6 @@ _regiepub/
 ||fdata.over-blog.net^*/js/ob.bar1*.js
 ||fifostream.tv/video.html
 ||files-save.com/noyaux/pub/
-||files.macg.co/macgupload/Sans%20titre.jpg
 ||filmhentai.fr/tpl2/tools/
 ||filmhentaiporno.com/boost/
 ||filmoviez.com/wp-content/plugins/social-traffic-pop/
@@ -1214,8 +1213,6 @@ _regiepub/
 ||ma-dz.com/souq/templates/aimed/images/hhes1112.jpg
 ||ma-reduc.com/img/meahabillage/
 ||macbidouille.com/banners/
-||macg.co/macgupload/*-habillage.jpg
-||macg.co/macgupload/HABILLAGE_
 ||madcine.com/xhtml/pubd*.html
 ||maghrebemergent.com/images/banners/
 ||maghrebemergent.info/images/banners/
@@ -1662,6 +1659,12 @@ _regiepub/
 ||zoom-algerie.com/charte/images/klash16.swf
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
+! MacGeneration
+igen.fr,macg.co###habil11
+~forums.macg.co,igen.fr,macg.co##a[href="http://goo.gl/kp5svN"]
+igen.fr,macg.co##img[onload^="_gaq.push(['_trackEvent', 'Habillage "]
+igen.fr,macg.co##img[width="1440"][height="1622"]
+||files.macg.co/macgupload/
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 ||pubdirecte.com^$~collapse,domain=debrideurstream.fr
@@ -2254,13 +2257,10 @@ reverso.net###hAdv
 cdiscount.com###hMall
 manga-sanctuary.com###hab
 bdgest.com,bedetheque.com###hab_click
-igen.fr,macg.co###habil
-igen.fr###habillage
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-right
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-top
 e-orientations.com###habillage_pub
 millenium.org###habillagesite
-igen.fr###habiltest
 football.fr,sports.fr###hablinkzone
 logicielmac.com###haut-droit-728-90
 annonces-dz.com###hb
