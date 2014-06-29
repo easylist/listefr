@@ -3403,6 +3403,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||anonymous.lv/*.js|$script,third-party
 @@||awiki.org/*.js|$script,third-party
 @@||azqmf.ro.lt/*.js|$script,third-party
+@@||b33r.us/*.js|$script,third-party
 @@||bad.mn/*.js|$script,third-party
 @@||bkafw.us.to/*.js|$script,third-party
 @@||caledonianlab.com/*.js|$script,third-party
@@ -3453,6 +3454,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.anonymous.lv/$third-party,xmlhttprequest
 |http://*.awiki.org/$third-party,xmlhttprequest
 |http://*.ax.lt/$third-party,xmlhttprequest
+|http://*.b33r.us/$third-party,xmlhttprequest
 |http://*.bad.mn/$third-party,xmlhttprequest
 |http://*.caledonianlab.com/$third-party,xmlhttprequest
 |http://*.cloudwatch.net/$third-party,xmlhttprequest
