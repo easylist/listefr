@@ -108,6 +108,7 @@ _regiepub/
 ||box.shopoon.fr^$third-party
 ||camsympa.com^$third-party,domain=~camsympa.fr
 ||carpediem.fr^$third-party
+||cbjoc9a9xt.pw^$image,third-party
 ||cdn.nextperf.net^$third-party
 ||cercle-trafic.com$third-party
 ||clic-diffusion.com^$third-party
@@ -2255,6 +2256,7 @@ gameblog.fr###gba300
 viamichelin.be###gdhMegaBan
 viamichelin.be###gdhMegaBanBottom
 numerama.com###general_dec
+wikistrike.com###global > div[style="text-align:center;margin:auto;"]:first-child
 mediamass.net###google
 zero-complexe.com###google.post.bg1.online
 kijiji.ca###gpt-leaderboard-top
@@ -2921,6 +2923,7 @@ journaldugeek.com,journalgraphic.com##.widget-current-offers1
 clubic.com##.widget-gamer
 clubic.com##.widget-serious-gamer
 clubic.com##.widget-shopper
+wikistrike.com##.widget.ads.ads-300 + div > a > img[width="300"][height="600"][border="0"]
 blog2mature.com##.widget.widget_links
 frandroid.com##.widget.widget_text
 joueurdugrenier.fr##.widgetAmis
