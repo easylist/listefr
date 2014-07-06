@@ -161,7 +161,6 @@ _regiepub/
 ||illyx.com^$popup,third-party
 ||illyx.com^$third-party
 ||imgpromo.easyrencontre.com^$third-party
-||insta-cash.net^$third-party
 ||kadserver.com^$third-party
 ||koocash.com$popup,third-party
 ||koodoo.net^$third-party
@@ -254,7 +253,6 @@ _regiepub/
 ||traficmax.com^$third-party
 ||videos-x.me^$third-party
 ||videostep.com^$third-party
-||vindicosuite.com^$third-party
 ||wbusiness.fr^$third-party
 ||webprod.cybertesteurs.com^$popup,third-party,domain=~iss.net
 ||wedoo.com^$third-party
@@ -492,7 +490,6 @@ _regiepub/
 ||mazika2lux.com/gary/
 ||mazika2Lux.com/ouma/
 ||medieval-war.com/banniere.jpg
-||medncom.com^$popup,third-party
 ||megatopsites.com/index.html?$third-party
 ||megauplinks.com/images/120x600mega.png
 ||meilleurduweb.com/images/pub/
@@ -1607,7 +1604,6 @@ _regiepub/
 ||visual-pagerank.fr/pub/
 ||vitaminedz.com/images/general/pub-vitaminedz
 ||vocable.fr/images/banners/bannieres/
-||vodlocker.com/images/acenter.png
 ||voidspace.org.uk/images/banners/
 ||voilesetvoiliers.customers.artful.net/bannieres/
 ||voirfilms.com/debrideur1.swf
@@ -3207,7 +3203,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||admedia.rtl.fr/online/sound/$object-subrequest,domain=rtl.fr
 @@||adphoto.fr^$~third-party
 @@||ads.audience2media.com/crossdomain.xml$domain=videos.nt1.tv
-@@||ads.fusac.fr^$~third-party
 @@||ads.webedia.fr/crossdomain.xml$domain=ozap.com|purepeople.com
 @@||ads.webedia.fr/p-dp-vast2/$object-subrequest,domain=ozap.com|purepeople.com
 @@||adserve.atedra.com/js/$script,domain=levraigabroy.com|radiox.com
