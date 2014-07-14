@@ -1665,6 +1665,7 @@ _regiepub/
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ! MacGeneration
+igen.fr,macg.co###habil
 igen.fr,macg.co###habil11
 ~forums.macg.co,igen.fr,macg.co##a[href="http://goo.gl/kp5svN"]
 igen.fr,macg.co##img[onload^="_gaq.push(['_trackEvent', 'Habillage "]
@@ -3391,8 +3392,8 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=viedemerde.fr
 @@||viedemerde.fr^$script,~third-party
 viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
+||centquatre.viedemerde.fr^
 ||drums.buporez.com^
-||sousjacent.viedemerde.fr^
 ! notre-planete.info
 @@||cas.criteo.com/delivery/ajs.php?$script,domain=notre-planete.info
 @@||notre-planete.info^$elemhide
@@ -3451,6 +3452,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||mazdarx7.com/*.js|$script,third-party
 @@||mfkbe.cr.rs/*.js|$script,third-party
 @@||negeriau.net/*.js|$script,third-party
+@@||nnc.ro/*.js|$script,third-party
 @@||omqdu.cr.rs/*.js|$script,third-party
 @@||opensrc.mx/*.js|$script,third-party
 @@||otzlu.gw.lt/*.js|$script,third-party
@@ -3475,6 +3477,7 @@ http://*.info.gf/$third-party,xmlhttprequest
 http://*.leet.la/$third-party,xmlhttprequest
 http://*.linuxd.org/$third-party,xmlhttprequest
 http://*.mazdarx7.com/$third-party,xmlhttprequest
+http://*.nnc.ro/$third-party,xmlhttprequest
 |http://*.905tech.com/$third-party,xmlhttprequest
 |http://*.anonymous.lv/$third-party,xmlhttprequest
 |http://*.awiki.org/$third-party,xmlhttprequest
