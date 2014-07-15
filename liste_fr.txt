@@ -108,7 +108,6 @@ _regiepub/
 ||box.shopoon.fr^$third-party
 ||camsympa.com^$third-party,domain=~camsympa.fr
 ||carpediem.fr^$third-party
-||cbjoc9a9xt.pw^$image,third-party
 ||cdn.nextperf.net^$third-party
 ||cercle-trafic.com$third-party
 ||clic-diffusion.com^$third-party
@@ -260,6 +259,7 @@ _regiepub/
 ||widgetbooster.com^$third-party
 ||wineuroptp.fr^$third-party
 ||wslinx.com^$third-party
+||wuz4m83mi0.pw^$third-party
 ||x.porn.fr^$third-party
 ||xponsor.com^$third-party
 ||y-ads.net^$third-party
@@ -2942,6 +2942,7 @@ tomsguide.fr##.zoneTriple
 tsa-algerie.com##.zone_annonceurs
 lepetiteconomiste.com##.zoom
 dpstream.net##[class$="_plugin_top"]
+leblogtvnews.com##a > img[width="300"][height="600"]
 touslesdrivers.com##a.seo
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 artdeseduire.com##a[href*="/?part=ads"]
@@ -3151,6 +3152,7 @@ supplychainmagazine.fr##img[width="468"]
 astuce-facebook.com,echangegagnant.com,genhit.com,israelmagazine.co.il##img[width="468"][height="60"]
 israelmagazine.co.il##img[width="600"][height="90"]
 forum.soirnet.fr##img[width="720"][height="100"]
+leblogtvnews.com##img[width="728"][height="90"]
 lien-torrent.com##li > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
 filmze.com##noindex
 sinfest.net##noscript a
