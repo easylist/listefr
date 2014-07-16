@@ -3409,6 +3409,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=notre-planete.info
 @@||www6.smartadserver.com/call/pubdirj/$script,domain=notre-planete.info
 ! Adunblock
+@@|http://*.69.mu/*.js|$script,third-party
 @@|http://*.ax.lt/*.js|$script,third-party
 @@|http://*.cr.rs/*.js|$script,third-party
 @@|http://*.ez.lv/*.js|$script,third-party
@@ -3430,6 +3431,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||base-v.ch/*.js|$script,third-party
 @@||bkafw.us.to/*.js|$script,third-party
 @@||caledonianlab.com/*.js|$script,third-party
+@@||chqbp.69.mu/*.js|$script,third-party
 @@||cloudwatch.net/*.js|$script,third-party
 @@||crabdance.com/*.js|$script,third-party
 @@||cteyd.na.tl/*.js|$script,third-party
@@ -3482,11 +3484,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||wtf.im/*.js|$script,third-party
 @@||yblpg.ax.lt/*.js|$script,third-party
 @@||yspzd.na.tl/*.js|$script,third-party
-http://*.info.gf/$third-party,xmlhttprequest
-http://*.leet.la/$third-party,xmlhttprequest
-http://*.linuxd.org/$third-party,xmlhttprequest
-http://*.mazdarx7.com/$third-party,xmlhttprequest
-http://*.nnc.ro/$third-party,xmlhttprequest
+|http://*.69.mu/$third-party,xmlhttprequest
 |http://*.905tech.com/$third-party,xmlhttprequest
 |http://*.anonymous.lv/$third-party,xmlhttprequest
 |http://*.awiki.org/$third-party,xmlhttprequest
@@ -3511,12 +3509,17 @@ http://*.nnc.ro/$third-party,xmlhttprequest
 |http://*.home.kg/$third-party,xmlhttprequest
 |http://*.hpc.tw/$third-party,xmlhttprequest
 |http://*.icello.in/$third-party,xmlhttprequest
+|http://*.info.gf/$third-party,xmlhttprequest
 |http://*.joe.dj/$third-party,xmlhttprequest
 |http://*.jpe.js/$third-party,xmlhttprequest
 |http://*.jundy.org/$third-party,xmlhttprequest
 |http://*.keep.se/$third-party,xmlhttprequest
+|http://*.leet.la/$third-party,xmlhttprequest
+|http://*.linuxd.org/$third-party,xmlhttprequest
+|http://*.mazdarx7.com/$third-party,xmlhttprequest
 |http://*.mm.my/$third-party,xmlhttprequest
 |http://*.negeriau.net/$third-party,xmlhttprequest
+|http://*.nnc.ro/$third-party,xmlhttprequest
 |http://*.opensrc.mx/$third-party,xmlhttprequest
 |http://*.publi.ch/$third-party,xmlhttprequest
 |http://*.qq.my/$third-party,xmlhttprequest
@@ -3531,6 +3534,7 @@ http://*.nnc.ro/$third-party,xmlhttprequest
 |http://*.vr.lt/$third-party,xmlhttprequest
 |http://*.wtf.im/$third-party,xmlhttprequest
 ||axlnp.us.to^$third-party
+||cifqr.69.mu^$third-party
 ||cvhyx.vr.lt^$third-party
 ||ebogh.mm.my^$third-party
 ||fcwsk.ro.lt^$third-party
