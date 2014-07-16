@@ -265,7 +265,10 @@ _regiepub/
 ||z-barre.com^$third-party
 ||zebestof.com^$third-party
 ||zeropub.net^$third-party
-||zgrrcbowke.pw^$third-party
+!
+|http://*.info/$image,third-party,domain=lapopottedemanue.com|leblogtvnews.com|wikistrike.com
+|http://*.pw/$image,third-party,domain=lapopottedemanue.com|leblogtvnews.com|wikistrike.com
+||congruityheterocephalus.info^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
@@ -659,7 +662,6 @@ _regiepub/
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
-|http://*.pw/$image,domain=lapopottedemanue.com|leblogtvnews.com|wikistrike.com
 ||01net.com/front_office/images/regie/
 ||100pour100sexe.com/pop.js
 ||1an2kdo.com/pics/pub/
