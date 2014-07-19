@@ -3618,7 +3618,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@/http://(?!pagead2\.googlesyndication\.com/|wtpn\.twenga\.fr/)/$script,third-party,domain=quedesbonsplans.com
 @@/http://(?!pagead2\.googlesyndication\.com/|www\.beead\.fr/)/$script,third-party,domain=dontmiss.fr
 @@/http://(?!promo\.easy-dating\.org/|pagead2\.googlesyndication\.com|action\.metaffiliation\.com/)/$script,third-party,domain=annuaire-email.net
-@@/http://(?!pubads\.g\.doubleclick\.net/gampad/ads\?g|pagead2\.googlesyndication\.com/pagead/show_ads)/$script,third-party,domain=kboard.fr|macworld.fr
+@@/http://(?!pubads\.g\.doubleclick\.net/gampad/ads\?g|pagead2\.googlesyndication\.com/pagead/show_ads|cdn\.taboola\.com/)/$script,third-party,domain=kboard.fr|macworld.fr
 @@/http://(?!pubads\.g\.doubleclick\.net/gampad/ads\?g|pagead2\.googlesyndication\.com/pagead/show_ads|pagead2\.googlesyndication\.com/pagead/js/adsbygoogle)/$script,third-party,domain=aeropassion.net|coolradio.be|kerbalspaceprogram.fr|pyrros.fr
 @@/http://(?!pubads\.g\.doubleclick\.net/gampad/ads\?|cdn\.adikteev\.com/|api\.adserver\.adikteev\.com/)/$script,third-party,domain=hitek.fr
 @@/http://(?!pubads\.g\.doubleclick\.net/gampad/ads|a\.ligatus\.com/)/$script,third-party,domain=rue89strasbourg.com
@@ -3766,7 +3766,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||xavfun.com^$elemhide
 @@||zdnet.fr^$elemhide
 @@||zevpn.net^$elemhide
-! OverBlog
+! Secret Media
 ##div > a[target="_blank"] > img[width="300"][height="600"][title][alt]:first-child
 ##img[width="728"][height="90"]
 #@##ad_ad
