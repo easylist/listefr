@@ -266,10 +266,6 @@ _regiepub/
 ||zebestof.com^$third-party
 ||zeropub.net^$third-party
 !
-|http://*.info/$image,third-party,domain=lapopottedemanue.com|leblogtvnews.com|wikistrike.com
-|http://*.pw/$image,third-party,domain=lapopottedemanue.com|leblogtvnews.com|wikistrike.com
-||congruityheterocephalus.info^$third-party
-!
 !----------------------- Publicités tierces ----------------------!
 !
 ||1-porno.org/atr_template/trade/
@@ -2264,7 +2260,6 @@ gameblog.fr###gba300
 viamichelin.be###gdhMegaBan
 viamichelin.be###gdhMegaBanBottom
 numerama.com###general_dec
-wikistrike.com###global > div[style="text-align:center;margin:auto;"]:first-child
 mediamass.net###google
 zero-complexe.com###google.post.bg1.online
 kijiji.ca###gpt-leaderboard-top
@@ -2934,7 +2929,6 @@ journaldugeek.com,journalgraphic.com##.widget-current-offers1
 clubic.com##.widget-gamer
 clubic.com##.widget-serious-gamer
 clubic.com##.widget-shopper
-wikistrike.com##.widget.ads.ads-300 + div > a > img[width="300"][height="600"][border="0"]
 blog2mature.com##.widget.widget_links
 frandroid.com##.widget.widget_text
 joueurdugrenier.fr##.widgetAmis
@@ -2949,7 +2943,6 @@ tomsguide.fr##.zoneTriple
 tsa-algerie.com##.zone_annonceurs
 lepetiteconomiste.com##.zoom
 dpstream.net##[class$="_plugin_top"]
-leblogtvnews.com##a > img[width="300"][height="600"]
 touslesdrivers.com##a.seo
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 artdeseduire.com##a[href*="/?part=ads"]
@@ -3159,7 +3152,6 @@ supplychainmagazine.fr##img[width="468"]
 astuce-facebook.com,echangegagnant.com,genhit.com,israelmagazine.co.il##img[width="468"][height="60"]
 israelmagazine.co.il##img[width="600"][height="90"]
 forum.soirnet.fr##img[width="720"][height="100"]
-leblogtvnews.com##img[width="728"][height="90"]
 lien-torrent.com##li > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
 filmze.com##noindex
 sinfest.net##noscript a
@@ -3465,6 +3457,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||linuxd.org/*.js|$script,third-party
 @@||mazdarx7.com/*.js|$script,third-party
 @@||mfkbe.cr.rs/*.js|$script,third-party
+@@||mine.bz/*.js|$script,third-party
 @@||negeriau.net/*.js|$script,third-party
 @@||nnc.ro/*.js|$script,third-party
 @@||omqdu.cr.rs/*.js|$script,third-party
@@ -3521,6 +3514,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.leet.la/$third-party,xmlhttprequest
 |http://*.linuxd.org/$third-party,xmlhttprequest
 |http://*.mazdarx7.com/$third-party,xmlhttprequest
+|http://*.mine.bz/$third-party,xmlhttprequest
 |http://*.mm.my/$third-party,xmlhttprequest
 |http://*.negeriau.net/$third-party,xmlhttprequest
 |http://*.nnc.ro/$third-party,xmlhttprequest
@@ -3765,6 +3759,14 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||xavfun.com^$elemhide
 @@||zdnet.fr^$elemhide
 @@||zevpn.net^$elemhide
+! OverBlog
+##div > a[target="_blank"] > img[width="300"][height="600"][title][alt]:first-child
+##img[width="728"][height="90"]
+#@##ad_ad
+|http://j.*.info/*.*?bid=*&cid=*&zid=*&cb=$image,third-party
+|http://www.*/*.*?*=1&*=3$script,third-party
+|http://www.*/*.*?*=3&*=_blank$script,third-party
+|http://www.*/*.*?_=$script,third-party
 !
 /fadb.min.js?
 @@.gif#$domain=automobile-sportive.com
