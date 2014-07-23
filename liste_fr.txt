@@ -3468,6 +3468,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||opensrc.mx/*.js|$script,third-party
 @@||otzlu.gw.lt/*.js|$script,third-party
 @@||pirat3.com/*.js|$script,third-party
+@@||port0.org/*.js|$script,third-party
 @@||publi.ch/*.js|$script,third-party
 @@||qjbvc.ro.lt/*.js|$script,third-party
 @@||rcwmu.us.to/*.js|$script,third-party
@@ -3527,6 +3528,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.nnc.ro/$third-party,xmlhttprequest
 |http://*.opensrc.mx/$third-party,xmlhttprequest
 |http://*.pirat3.com/$third-party,xmlhttprequest
+|http://*.port0.org/$third-party,xmlhttprequest
 |http://*.publi.ch/$third-party,xmlhttprequest
 |http://*.qq.my/$third-party,xmlhttprequest
 |http://*.remote.mx/$third-party,xmlhttprequest
@@ -3783,6 +3785,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://www.*/*.*?_=$script,third-party
 ||faintheartedsharkoil.info^$third-party
 ||hectometertriple.info^$third-party
+||tailorschalklycosatarentula.info^$third-party
 !
 /fadb.min.js?
 @@.gif#$domain=automobile-sportive.com
