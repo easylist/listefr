@@ -3404,6 +3404,19 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||notre-planete.info^$elemhide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=notre-planete.info
 @@||www6.smartadserver.com/call/pubdirj/$script,domain=notre-planete.info
+! Secret Media
+##div > a[target="_blank"] > img[width="300"][height="600"][title][alt]:first-child
+##img[width="728"][height="90"]
+#@##ad_ad
+|http://j.*.info/*.*?bid=*&cid=*&zid=*&cb=$image,third-party
+|http://www.*/*.*?*=1&*=3$script,third-party
+|http://www.*/*.*?*=3&*=_blank$script,third-party
+|http://www.*/*.*?_=$script,third-party
+||faintheartedsharkoil.info^$third-party
+||hectometertriple.info^$third-party
+||jewryhear.info^$third-party
+||sweetelderdermoidcyst.info^$third-party
+||tailorschalklycosatarentula.info^$third-party
 ! Adunblock
 @@|http://*.69.mu/*.js|$script,third-party
 @@|http://*.ax.lt/*.js|$script,third-party
@@ -3472,6 +3485,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||privatedns.org/*.js|$script,third-party
 @@||publi.ch/*.js|$script,third-party
 @@||qjbvc.ro.lt/*.js|$script,third-party
+@@||quannhacvang.com/*.js|$script,third-party
 @@||rcwmu.us.to/*.js|$script,third-party
 @@||remote.mx/*.js|$script,third-party
 @@||sefpq.us.to/*.js|$script,third-party
@@ -3533,6 +3547,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.privatedns.org/$third-party,xmlhttprequest
 |http://*.publi.ch/$third-party,xmlhttprequest
 |http://*.qq.my/$third-party,xmlhttprequest
+|http://*.quannhacvang.com/$third-party,xmlhttprequest
 |http://*.remote.mx/$third-party,xmlhttprequest
 |http://*.ro.lt/$third-party,xmlhttprequest
 |http://*.shen.cl/$third-party,xmlhttprequest
@@ -3779,18 +3794,6 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||xavfun.com^$elemhide
 @@||zdnet.fr^$elemhide
 @@||zevpn.net^$elemhide
-! Secret Media
-##div > a[target="_blank"] > img[width="300"][height="600"][title][alt]:first-child
-##img[width="728"][height="90"]
-#@##ad_ad
-|http://j.*.info/*.*?bid=*&cid=*&zid=*&cb=$image,third-party
-|http://www.*/*.*?*=1&*=3$script,third-party
-|http://www.*/*.*?*=3&*=_blank$script,third-party
-|http://www.*/*.*?_=$script,third-party
-||faintheartedsharkoil.info^$third-party
-||hectometertriple.info^$third-party
-||sweetelderdermoidcyst.info^$third-party
-||tailorschalklycosatarentula.info^$third-party
 !
 /fadb.min.js?
 @@.gif#$domain=automobile-sportive.com
