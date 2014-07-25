@@ -3214,9 +3214,9 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||ads.audience2media.com/crossdomain.xml$domain=videos.nt1.tv
 @@||ads.webedia.fr/crossdomain.xml$domain=ozap.com|purepeople.com
 @@||ads.webedia.fr/p-dp-vast2/$object-subrequest,domain=ozap.com|purepeople.com
-@@||adserve.atedra.com/js/$script,domain=levraigabroy.com|radiox.com
-@@||adserve.atedra.com/serve.php?z=$script,domain=levraigabroy.com|radiox.com
-@@||adserve.atedra.com/vast/$domain=levraigabroy.com|radiox.com
+@@||adserve.atedra.com/js/$script,domain=levraigabroy.com|pourquoipas.ca|radiox.com
+@@||adserve.atedra.com/serve.php?z=$script,domain=levraigabroy.com|pourquoipas.ca|radiox.com
+@@||adserve.atedra.com/vast/$domain=levraigabroy.com|pourquoipas.ca|radiox.com
 @@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|rtl.fr
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
 @@||adswizz.com/crossdomain.xml
