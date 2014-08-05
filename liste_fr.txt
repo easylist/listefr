@@ -3858,6 +3858,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||fansubresistance.biz^$script,domain=fansubresistance.in
 @@||funeralforamanga.fr/js/advertisement.js
 @@||gamersconnexion.com/js/advertisement.js
+@@||gamingroom.tv/static/img/advert.png?
 @@||gowonda.com^$image,~third-party
 @@||gratuitcul.com/ad.php?ad=$script
 @@||iscoolcdn.com/versioned/prod/bundles/iscoolkitchen/adblock/advertisement.
@@ -3944,7 +3945,6 @@ scan-manga.com#@##pub_head
 debrideurstream.fr#@##pubdirecte
 fairytailmx.com#@##sponsored-ad
 forum.virtualdjing.com#@#.adFrame
-vide-greniers.org#@#.adsbygoogle
-gamingroom.tv#@#.afs_ads
+gamingroom.tv,vide-greniers.org#@#.adsbygoogle
 freedom-ip.com#@#.pub_vertical
 fr.audiofanzine.com#@#div[id^="div-gpt-ad-"]
