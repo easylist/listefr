@@ -3420,6 +3420,8 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 ##img[width="728"][height="90"]
 #@##ad_ad
 |http://j.*.info/*.*?bid=*&cid=*&zid=*&cb=$image,third-party
+|http://j.*.info/*?b=*&cid=*&z=*&cb=$image,third-party
+||collectablefatigued.info^$third-party
 ||eschrichtiidaepiety.info^$third-party
 ||faintheartedsharkoil.info^$third-party
 ||formicafuscasyringavillosa.info^$third-party
@@ -3474,6 +3476,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||entermypicks.com/*.js|$script,third-party
 @@||evils.in/*.js|$script,third-party
 @@||eviyx.qq.my/*.js|$script,third-party
+@@||framed.net/*.js|$script,third-party
 @@||freebsd.md/*.js|$script,third-party
 @@||ftp.sh/*.js|$script,third-party
 @@||ghaman.com/*.js|$script,third-party
@@ -3559,6 +3562,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.evils.in/$third-party,xmlhttprequest
 |http://*.eye.rs/$third-party,xmlhttprequest
 |http://*.ez.lv/$third-party,xmlhttprequest
+|http://*.framed.net/$third-party,xmlhttprequest
 |http://*.freebsd.md/$third-party,xmlhttprequest
 |http://*.ftp.sh/$third-party,xmlhttprequest
 |http://*.ghaman.com/$third-party,xmlhttprequest
