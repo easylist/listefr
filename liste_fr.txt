@@ -92,6 +92,7 @@ _regiepub/
 ||affilinks.fr^$third-party
 ||affilipub.com^$third-party
 ||affility.com^$third-party
+||affilizr.com^$third-party
 ||affpx.com^$third-party
 ||ajoutezvotresite.com^$third-party
 ||allo-audience.fr^$third-party
@@ -965,6 +966,9 @@ _regiepub/
 ||forum-windows.com/open/www/delivre/
 ||forum308.com/images/lavageautomoto-5.jpg
 ||forumactif.com/admgt/
+||forumconstruire.com/img/*/bandeau_
+||forumconstruire.com/img/*/promoto/
+||forumconstruire.com/img/pubs/
 ||forumconstruire.com/img/torm2/
 ||forumconstruire.com/torm2/
 ||forumdz.com/pub/
@@ -2915,6 +2919,8 @@ slappyto.net##.sonicprice
 nouvelobs.com##.spectacles
 spi0n.com##.spion_single_pub
 lagazettedescommunes.com##.spons
+forumconstruire.com##.sponso_box
+forumconstruire.com##.sponso_contener
 yahoo.com##.sponsor-dd
 lokan.fr,moto85.com##.sponsors
 msn.com##.sponsorship
@@ -3038,6 +3044,7 @@ ouedkniss.com##a[href^="http://www.autobip.com/news/details/?id="]
 usbfix.net##a[href^="http://www.bitdefender.fr/media/"]
 centre-audition.com##a[href^="http://www.centre-audition.com/catalog/redirect.php?action=banner&"]
 gizmodo.fr##a[href^="http://www.ebuyclub.com/operations/gizmodo/entreeGizmodo.jsp?"]
+forumconstruire.com##a[href^="http://www.forumconstruire.com/torm3/click.php?"]
 9rayti.com##a[href^="http://www.ilycee.com/?utm_source="]
 zetorrents.com##a[href^="http://www.insta-cash.net/"]
 jds.fr##a[href^="http://www.jds.fr/scripts/pub_clic.php?"]
