@@ -1057,6 +1057,7 @@ _regiepub/
 ||hotvideo.fr/pub/
 ||hotvideo.fr^*/banners/
 ||htmlforums.com^*/images/misc/banner
+||http://links.fhsarl.com^$popup,third-party
 ||humanite.fr/sites/default/files/field/image/banniere_
 ||humanite.fr/sites/default/files/medias/*/header_pub_
 ||humourquotidien.com/pubs/
@@ -3670,11 +3671,11 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.whynotad.com/$third-party,xmlhttprequest
 |http://*.with-linux.com/$third-party,xmlhttprequest
 |http://*.wtf.im/$third-party,xmlhttprequest
+|http://*.zanity.net/$third-party,xmlhttprequest
 ||axlnp.us.to^$third-party
 ||cifqr.69.mu^$third-party
 ||cvhyx.vr.lt^$third-party
 ||ebogh.mm.my^$third-party
-||eozys.openoffcampus.com^$third-party
 ||fcwsk.ro.lt^$third-party
 ||fsvuc.qq.my^$third-party
 ||hjglq.ax.lt^$third-party
@@ -3686,6 +3687,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 ||nagcs.ax.lt^$third-party
 ||nslpg.us.to^$third-party
 ||omqdu.cr.rs^$third-party
+||openoffcampus.com^$third-party
 ||pfrns.us.to^$third-party
 ||pxunl.mm.my^$third-party
 ||pyjmc.cc.st^$third-party
@@ -3701,6 +3703,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 ||ycibh.gw.lt^$third-party
 ||ydfbg.us.to^$third-party
 ||ytrhu.us.to^$third-party
+||zanity.net^$third-party
 !
 #@##bannerAdContainer1_1
 #@##bannerAdFrame
