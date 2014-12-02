@@ -89,7 +89,6 @@ _regiepub/
 ||adxcore.com^$popup,third-party
 ||affidate.com^$third-party
 ||affidirect.com^$third-party
-||affiliation-france.com^$popup,third-party
 ||affiliation.hexaweb.net^
 ||affiliaweb.eu^$third-party
 ||affilinks.fr^$third-party
@@ -276,6 +275,7 @@ _regiepub/
 ||traficmax.com^$third-party
 ||videos-x.me^$third-party
 ||videostep.com^$third-party
+||wbsadsdel2.com^$popup,third-party
 ||wbusiness.fr^$third-party
 ||webprod.cybertesteurs.com^$popup,third-party,domain=~iss.net
 ||wedoo.com^$third-party
@@ -283,6 +283,7 @@ _regiepub/
 ||widgetbooster.com^$third-party
 ||wineuroptp.fr^$third-party
 ||wslinx.com^$third-party
+||wsockd.com^$third-party
 ||x.porn.fr^$third-party
 ||xaxa.in^$third-party
 ||xponsor.com^$third-party
@@ -1823,6 +1824,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###iframesidebarpub
 ###imagePubPave
 ###innerpub
+###j_ads
 ###module_publicite
 ###news-droite-publicite
 ###news_pub_centre
