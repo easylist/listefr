@@ -174,6 +174,7 @@ _regiepub/
 ||imgpromo.easyrencontre.com^$third-party
 ||impertinencebradypodidae.net^$third-party
 ||indignantonstage.com^$third-party
+||inexpressiveelfin.org^$third-party
 ||kadserver.com^$third-party
 ||koocash.com$popup,third-party
 ||koodoo.net^$third-party
@@ -707,6 +708,7 @@ _regiepub/
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
+|http://*/crossdomain.xml$domain=wat.tv
 ||01net.com/front_office/images/regie/
 ||100pour100sexe.com/pop.js
 ||1an2kdo.com/pics/pub/
@@ -3484,6 +3486,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||videos.direction-x.com^$object-subrequest,domain=liensporno.com
 @@||vo2.fr/uploads/tx_regiepub/bando-site-
 @@||vshop.fr/js/freakBig.js$domain=montrestendance.com
+@@||wat.tv/crossdomain.xml
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 ! Radins.com
