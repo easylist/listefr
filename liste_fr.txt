@@ -3350,6 +3350,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||blogdumac.com/pub/images/footer-bdm_02.png
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
+@@||canalplusfr.damoh.schneevonmorgen.com/hic/?adv_partner&_werbebanner_
 @@||ccmbenchmark.com^$~third-party
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
 @@||cdn.teads.tv/js/all-$script,domain=telechargement.zebulon.fr
@@ -4030,6 +4031,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 !
 !----------------------- Exceptions d'éléments -----------------------!
 !
+canalplus.fr#@##AdArea
 msf.fr#@##ad-7
 radio-canada.ca#@##ad-header
 e-monsite.com#@##ad_link
