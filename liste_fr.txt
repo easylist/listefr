@@ -3366,8 +3366,8 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||blog.lemonde.fr/files/
 @@||blogdumac.com/pub/images/footer-bdm_02.png
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
+@@||bobodise.com^*^adv_partner^$object-subrequest
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
-@@||canalplusfr.damoh.schneevonmorgen.com/hic/?adv_partner&_werbebanner_
 @@||ccmbenchmark.com^$~third-party
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
 @@||cdn.teads.tv/js/all-$script,domain=telechargement.zebulon.fr
@@ -3477,6 +3477,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||rockman.fr/Ads/$image
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||sceno.fr/apps/1_static/ads/explain.png
+@@||schneevonmorgen.com^*^adv_partner^$object-subrequest
 @@||securite.01net.com/crossdomain.xml
 @@||smartadserver.com/call/pubj/$object-subrequest,domain=ecranlarge.com
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|ecranlarge.com|player.canalplus.fr|portail.free.fr
