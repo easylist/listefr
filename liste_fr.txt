@@ -767,9 +767,6 @@ _regiepub/
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
-|http://*/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-|http://*/*.mp4$domain=gentside.com|maxisciences.com|ohmymag.com
-|http://*/p.swf?file=$domain=gentside.com|maxisciences.com|ohmymag.com
 ||01net.com/front_office/images/regie/
 ||100pour100sexe.com/pop.js
 ||1an2kdo.com/pics/pub/
@@ -3559,9 +3556,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||syndication.exoclick.com/ads.php?type=468x60&$script,domain=maxdebrideur.com
 @@||toshiba.fr/innovation/download_drivers_bios.jsp?
 @@||tradedoubler.com^$domain=emv3.com|teads.fr
-@@||tv.gentside.com/*.mp4?st=
-@@||tv.maxisciences.com/*.mp4?st=
-@@||tv.ohmymag.com/*.mp4?st=
 @@||vbs-ads.s3.amazonaws.com^$domain=premiere.fr
 @@||viamichelin.be/static/advert/$script
 @@||viamichelin.ch/static/advert/$script
