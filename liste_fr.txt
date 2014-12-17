@@ -26,6 +26,7 @@
 /banniere728x90_
 /banniere_pub.
 /bannieres_pub/*
+/brightcoveAds.
 /doubleclick_dmm/*
 /miniads/*
 /pub300-250.
@@ -582,7 +583,8 @@ _regiepub/
 ||le1er.net/promo/
 ||lebaiseur.com/ban/$third-party
 ||lebest.fr/banniere-externe/$domain=xvid-fr.com
-||leguide.com/ogpe/*/blacklist-me/banners/
+||leguide.com/*/partner/
+||leguide.com/ogpe/*/banners/
 ||lenetremunere.eu/img/ban
 ||leplan.biz/images/bannieres/
 ||librarything.fr/jswidget.php?
@@ -931,6 +933,7 @@ _regiepub/
 ||clubic.com^*/img/home/300x150-
 ||clubpoker.net/medias/images/club-poker/habillages/
 ||coco.fr/chat/bigban
+||codepromo.programme-tv.net/snippets/
 ||commeaucinema.com/ads/
 ||compteur-gratuit.fr/images/bandeau_
 ||compteur-gratuit.fr/pub_
@@ -951,6 +954,7 @@ _regiepub/
 ||credits-on-line.info/pub/
 ||critique-livre.fr/wp-content/themes/default/images/stock.png
 ||csconstantine.com^*/fb-like-pop.js
+||cshoppingbox.programme-tv.net^
 ||ctqui.com/pub/
 ||ctrteam.org/castlerun/banniere_
 ||ctrteam.org/pub/
@@ -2225,6 +2229,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.pubwrapper
 ##.row_pub
 ##.show-pub
+##.snippet-publisher
 ##.sqrpub
 ##.srcPub
 ##.srcPubZone
@@ -2792,6 +2797,7 @@ jeuxvideo24.com##.bloc_article_300px
 generation-nt.com##.bloc_boutique
 generation-nt.com##.bloc_googlechrome
 reducavenue.com##.bloc_iab
+programme-tv.net##.bloc_medias
 generation-nt.com##.bloc_numericable
 lemonde.fr##.bloc_part
 lexpress.fr##.bloc_partenaire
