@@ -2818,6 +2818,7 @@ premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 liberation.fr##.block-cPublicite
 jeuxvideopc.com##.block-concours_en_cours
 jeuxvideo.fr##.block-divers-widget_shopping
+jeuxvideo.fr##.block-jeux-micromania_offre
 bricoleurdudimanche.com##.block-pub-ban-btm
 bricoleurdudimanche.com##.block-pub-partenaires
 laposte.net##.blockShopping
@@ -3502,6 +3503,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||infos.peuples-solidaires.org/adserver2/
 @@||infos.wwf.fr/adserver2/
 @@||iphone4.fr/bannieres/header_icons.png
+@@||jeuxvideo.fr/js/advertisement.js
 @@||jheberg.net/js/*_advertisement.js
 @@||journaldugeek.com^*/popshow.css
 @@||kapaza.be/*/ad_view_
@@ -3808,6 +3810,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.quannhacvang.com/$third-party,xmlhttprequest
 |http://*.remote.mx/$third-party,xmlhttprequest
 |http://*.ro.lt/$third-party,xmlhttprequest
+|http://*.rootns.com/$third-party,xmlhttprequest
 |http://*.shen.cl/$third-party,xmlhttprequest
 |http://*.soon.it/$third-party,xmlhttprequest
 |http://*.spiegs.com/$third-party,xmlhttprequest
@@ -3844,6 +3847,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 ||pyjmc.cc.st^$third-party
 ||rhlsv.ro.lt^$third-party
 ||rlhdw.ax.lt^$third-party
+||rootns.com^$third-party
 ||seiog.us.to^$third-party
 ||sjelf.us.to^$third-party
 ||uzjog.ro.lt^$third-party
