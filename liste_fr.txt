@@ -1797,7 +1797,7 @@ _regiepub/
 ||wallpapergratuit.org/scripts.inc.js
 ||wamiz.fr/css/habillage/
 ||wat.fr/js/video/sm.js?
-||wat.fr/staticv4/resources/06/23/623.swf
+||wat.fr/staticv4/resources/06/39/639.swf
 ||wat.tv/images/static/partner/
 ||wawa-mania.*/ph.jpg
 ||wawacity.su/banner/
@@ -2773,7 +2773,7 @@ fusac.fr,lefigaro.fr,rajacasablanca.com##.adv
 arabzik.org,korben.info,lesoir.be,midilibre.fr##.advert
 decitre.fr##.advertise
 lemoniteur.fr,skipass.com##.advertisement
-traildesforts.com,wat.tv##.advertising
+traildesforts.com##.advertising
 statistiks.fr##.adz
 aufeminin.com##.af_bloc_partners
 hdfever.fr##.aliencable-link
@@ -2997,8 +2997,6 @@ nouvelobs.com##.partenariat89
 nouvelobs.com##.partenariat89masterblock
 swissquote.ch##.partner
 youpinet.com##.partner-listing
-wat.tv##.partner_one_wat
-wat.tv##.partner_two_wat
 forumactif.com,lavenir.net##.partners
 lefigaro.fr##.pave-bg
 yopmail.com,yopmail.fr,yopmail.net##.petit.alr
@@ -3017,7 +3015,7 @@ lemonde.fr##.promo.michelin
 pornojeune.net##.promo_texte2
 pornofrance.org##.promomenu
 cdiscount.com##.ptnlnk_table
-1-porno.org,abrutis.com,ados.fr,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,centerblog.net,clubic.com,commentreparer.com,deezer.com,forums-fec.be,frandroid.com,ginjfo.com,hentai-3x.com,journaldugeek.com,journalgraphic.com,ladepeche.fr,larousse.fr,lepoint.fr,lesdebiles.com,lesoir.be,lexpress.fr,liensporno.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,mini-games.fr,minutefacile.com,multixa.net,over-blog.com,programme.tv,radioclassique.fr,sfr.fr,sofoot.com,soonnight.com,wat.tv,wawacity.su,web-tricheur.net,yabiladi.com,zupimages.net##.pub
+1-porno.org,abrutis.com,ados.fr,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,centerblog.net,clubic.com,commentreparer.com,deezer.com,forums-fec.be,frandroid.com,ginjfo.com,hentai-3x.com,journaldugeek.com,journalgraphic.com,ladepeche.fr,larousse.fr,lepoint.fr,lesdebiles.com,lesoir.be,lexpress.fr,liensporno.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,mini-games.fr,minutefacile.com,multixa.net,over-blog.com,programme.tv,radioclassique.fr,sfr.fr,sofoot.com,soonnight.com,wawacity.su,web-tricheur.net,yabiladi.com,zupimages.net##.pub
 basketusa.com##.pub-1000x90-top
 clubic.com##.pub-300x250-du-bas
 clubic.com##.pub-carre-smart-php
@@ -3162,7 +3160,6 @@ dpstream.net##[class$="_plugin_top"]
 meilleur-vpn.biz##[href^="http://meilleur-vpn.biz/visit/"]
 allocine.fr##[id^="adClickCommand"]
 touslesdrivers.com##a.seo
-wat.tv##a.wlinks[data-target="blank"]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 artdeseduire.com##a[href*="/?part=ads"]
 clubic.com##a[href*="/?utm_source"]
@@ -3189,7 +3186,6 @@ ebooks-enfants.com##a[href="http://www.jeuxetcompagnie.fr/"]
 coco.fr##a[href="http://www.joker.net"]
 shinymen.com##a[href="http://www.karouikaroui.com/fr/outdoor/"]
 onetube.org##a[href="http://www.money-cpm.fr"]
-wat.tv##a[href="http://www.okawa-sport.com/"]
 astuce-facebook.com##a[href="http://www.rent-a-lease.com/chinese/"]
 itespresso.fr##a[href^=" http://pubads.g.doubleclick.net/"]
 tadpu.com##a[href^="//fr.ulule.com/insidezecube/?utm_campaign="]
@@ -4066,6 +4062,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||untourenchine.fr^$elemhide
 @@||visiban.com^$elemhide
 @@||vonox.fr^$elemhide
+@@||wat.tv$elemhide
 @@||wawa-mania.biz^$elemhide
 @@||wiilogic.com^$elemhide
 @@||xarold.com^$elemhide
@@ -4184,7 +4181,6 @@ longstonetires.fr#@#.advertText
 bibed-concept.com#@#.advertising_block
 gamexpo.fr#@#.advertisment
 esidoc.fr#@#.advtext
-wat.tv#@#.aisoad
 reseauforum.org#@#.block-ad
 vente-a-domicile.fr#@#.btn-ad
 latribune-online.com#@#.header_ads
