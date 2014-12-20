@@ -113,6 +113,7 @@ _regiepub/
 ||atedra.com^$third-party
 ||avenir-affiliation.fr^$third-party
 ||b117f8da23446a91387efea0e428392a.pl^$third-party
+||beaumondedarkcolored.info^$third-party
 ||beead.fr^$third-party
 ||bightofbeninmusculusscalenus.info^$third-party
 ||bitisparticleboard.org^$third-party
@@ -238,6 +239,7 @@ _regiepub/
 ||koodoo.net^$third-party
 ||kreaffiliation.com^$third-party
 ||leaderpub.fr^$third-party
+||lendoneselflepidopterist.info^$third-party
 ||lien-amateur.org^$third-party
 ||ligatus.com^$~collapse,subdocument,domain=bfmtv.com
 ||lighthorseharryleefieldspeedwell.net^$third-party
@@ -812,7 +814,7 @@ _regiepub/
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
-|http://*^*?$domain=maxisciences.com
+|http://*^*?$domain=gentside.com|maxisciences.com
 ||01net.com/front_office/images/regie/
 ||100pour100sexe.com/pop.js
 ||1an2kdo.com/pics/pub/
@@ -3500,6 +3502,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||francesurfinfo.com/affiliation/
 @@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||geekdefrance.fr/wp-content/themes/interiorzine/ads/top_
+@@||gentside.com/
 @@||gironde.fr/css/csspacker.jsp?css=$stylesheet
 @@||good-deals.lu/Content/Styles/AdFrame.css
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.fr
@@ -3595,7 +3598,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||syndication.exoclick.com/ads.php?type=468x60&$script,domain=maxdebrideur.com
 @@||toshiba.fr/innovation/download_drivers_bios.jsp?
 @@||tradedoubler.com^$domain=emv3.com|teads.fr
-@@||tv.maxisciences.com/
 @@||vbs-ads.s3.amazonaws.com^$domain=premiere.fr
 @@||viamichelin.be/static/advert/$script
 @@||viamichelin.ch/static/advert/$script
