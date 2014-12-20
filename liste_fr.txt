@@ -814,7 +814,7 @@ _regiepub/
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
-|http://*^*?$domain=gentside.com|maxisciences.com
+|http://*^*?$domain=gentside.com|maxisciences.com|ohmymag.com
 ||01net.com/front_office/images/regie/
 ||100pour100sexe.com/pop.js
 ||1an2kdo.com/pics/pub/
@@ -3502,7 +3502,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||francesurfinfo.com/affiliation/
 @@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||geekdefrance.fr/wp-content/themes/interiorzine/ads/top_
-@@||gentside.com/
+@@||gentside.com^
 @@||gironde.fr/css/csspacker.jsp?css=$stylesheet
 @@||good-deals.lu/Content/Styles/AdFrame.css
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.fr
@@ -3539,7 +3539,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||malakoffmederic.com/entreprise/*/affiliation/
 @@||malekal.com/ads/ads_php/banner.js
 @@||manga-news.com/public/banners/slide-
-@@||maxisciences.com/
+@@||maxisciences.com^
 @@||media.eurolive.com^$domain=live18ans.com
 @@||media.the-adult-company.com^$domain=celibataires.fr
 @@||meteomedia.com/js/adrefresh.js
@@ -3550,6 +3550,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||msf.fr/sites/all/modules/contrib/ad/$~third-party
 @@||mxstatic.com/
 @@||naruto-one.com/images/bannieres/$domain=otaku-attitude.net
+@@||ndsstatic.com^
 @@||netavenir.com^$domain=zap-tele.com
 @@||network.aufeminin.com/a/diff/$object-subrequest,domain=aufeminin.com
 @@||network.aufeminin.com/call/pubj/$object-subrequest,domain=aufeminin.com
@@ -3560,6 +3561,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||novaplanet.com/sites/all/themes/nova/plugins/smartbanner/jquery.smartbanner.js
 @@||oberon-media.com/Advertisement/
 @@||ohm-immobilier.fr/images/ads/
+@@||ohmymag.com^
 @@||openad.tf1.fr/realmedia/ads/adstream_mjx.ads/*/video/$script
 @@||openad.tf1.fr/RealMedia/ads/adstream_mjx.ads/www.eurosportplayer.fr/home/$script,domain=eurosportplayer.fr
 @@||ophtalmo.tv/video/ads/$object-subrequest
