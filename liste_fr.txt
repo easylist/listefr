@@ -105,6 +105,7 @@ _regiepub/
 ||alloclick.com^$third-party
 ||allovisiteur.com^$third-party
 ||americanwidgeonsecularise.info^$third-party
+||amygdaluscommunisschematization.info^$third-party
 ||antonymprurience.com^$third-party
 ||appsfire.com^$third-party
 ||archaicgenusklebsiella.info^$third-party
@@ -297,6 +298,7 @@ _regiepub/
 ||plusservicepartners.com^$third-party
 ||polypeptidetoea.info^$third-party
 ||pornstreet.com^$popup,third-party
+||posingfamilymustelidae.org^$third-party
 ||pourmajeurs.com^$third-party
 ||practicebundlingredbreastedsapsucker.org^$third-party
 ||pressburgseptation.info^$third-party
@@ -810,7 +812,7 @@ _regiepub/
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
-|http://*/file.*?$domain=gentside.com|maxisciences.com|ohmymag.com
+|http://*^*?$domain=maxisciences.com
 ||01net.com/front_office/images/regie/
 ||100pour100sexe.com/pop.js
 ||1an2kdo.com/pics/pub/
@@ -3534,6 +3536,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||malakoffmederic.com/entreprise/*/affiliation/
 @@||malekal.com/ads/ads_php/banner.js
 @@||manga-news.com/public/banners/slide-
+@@||maxisciences.com/
 @@||media.eurolive.com^$domain=live18ans.com
 @@||media.the-adult-company.com^$domain=celibataires.fr
 @@||meteomedia.com/js/adrefresh.js
@@ -3542,6 +3545,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||moov.mg/images/offres/push_adsl_bt_v2.jpg
 @@||mozfr.org/custom/img/*_300x250.png
 @@||msf.fr/sites/all/modules/contrib/ad/$~third-party
+@@||mxstatic.com/
 @@||naruto-one.com/images/bannieres/$domain=otaku-attitude.net
 @@||netavenir.com^$domain=zap-tele.com
 @@||network.aufeminin.com/a/diff/$object-subrequest,domain=aufeminin.com
@@ -3591,6 +3595,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||syndication.exoclick.com/ads.php?type=468x60&$script,domain=maxdebrideur.com
 @@||toshiba.fr/innovation/download_drivers_bios.jsp?
 @@||tradedoubler.com^$domain=emv3.com|teads.fr
+@@||tv.maxisciences.com/
 @@||vbs-ads.s3.amazonaws.com^$domain=premiere.fr
 @@||viamichelin.be/static/advert/$script
 @@||viamichelin.ch/static/advert/$script
