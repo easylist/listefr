@@ -143,6 +143,7 @@ _regiepub/
 ||complexquercitronoak.net^$third-party
 ||congruityheterocephalus.info^$third-party
 ||consentdecreehawkish.com^$third-party
+||constantineimycobacteriaceae.net^$third-party
 ||corpuschristilipped.info^$third-party
 ||cougar-rencontre.net^$third-party
 ||cysticgenuscoeloglossum.org^$third-party
@@ -247,6 +248,7 @@ _regiepub/
 ||lowlyingcaviller.info^$third-party
 ||macrocephalouspokerface.com^$third-party
 ||madison-ads.net^$third-party
+||magistratedefenseintelligenceagency.net^$third-party
 ||manga-exchange.com^$third-party
 ||master-ptp.com^$third-party
 ||media-clic.com^$third-party
@@ -808,7 +810,7 @@ _regiepub/
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
-|http://*/file.mp6$domain=gentside.com|maxisciences.com|ohmymag.com
+|http://*/file.*?$domain=gentside.com|maxisciences.com|ohmymag.com
 ||01net.com/front_office/images/regie/
 ||100pour100sexe.com/pop.js
 ||1an2kdo.com/pics/pub/
