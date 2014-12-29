@@ -2141,7 +2141,6 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.blocpub
 ##.cadre-pub-google
 ##.cadrepub
-##.captchme_show_ad_link_close
 ##.carre_pub
 ##.carrepub
 ##.container-pubcarre
@@ -3666,6 +3665,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 ##div > a[target="_blank"] > img[width="300"][height="600"][title][alt]:first-child
 ##img[width="728"][height="90"]
 #@##ad_ad
+#@##ad_link
 |http://j.*.info/*.*?bid=*&cid=*&zid=*&cb=$image,third-party
 |http://j.*.info/*?b=*&cid=*&z=*&cb=$image,third-party
 ||collectablefatigued.info^$third-party
@@ -4189,7 +4189,6 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 !
 msf.fr#@##ad-7
 radio-canada.ca#@##ad-header
-e-monsite.com#@##ad_link
 fichier.net#@##contentAd
 futura-sciences.com#@##header-pub
 whatpub.com#@##pub-footer
