@@ -388,6 +388,7 @@ _regiepub/
 ||supertankermavik.net^$third-party
 ||surfactif.fr^$third-party
 ||susanbrownellanthonysabotage.net^$third-party
+||taboola.com^$third-party
 ||tamarauallatonce.com^$third-party
 ||taziyehhenpeck.com^$third-party
 ||teads.fr^$third-party
@@ -2119,6 +2120,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###sidebar_pub_top
 ###slidepub
 ###spaceForPub
+###taboola-below-main-column
 ###tag_pub_footer
 ###teaserPub
 ###thePubDiv2
@@ -3957,7 +3959,6 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@/http://(?!pagead2\.googlesyndication\.com/pagead/js/adsbygoogle|pagead2\.googlesyndication\.com/pagead/show)/$script,third-party,domain=geneanum.com|gridam.com|livrespourtous.com|okawan.com|untourenchine.fr|xavboxtuning.com
 @@/http://(?!pagead2\.googlesyndication\.com/pagead/js/adsbygoogle|pagead2\.googlesyndication\.com/pagead/show_ads|c\.ad6media\.fr/l\.js|ad\.zanox\.com/ppv/|www\.cashtrafic\.com/|www\.adcash\.com/)/$script,third-party,domain=gamewinner.fr|ogame-winner.com
 @@/http://(?!pagead2\.googlesyndication\.com/pagead/js/adsbygoogle|pagead2\.googlesyndication\.com/pagead/show_ads|www\.cadeaudenoel\.info/ban/)/$script,third-party,domain=xavboxnews.com|xavboxone.com
-@@/http://(?!pagead2\.googlesyndication\.com/pagead/js/adsbygoogle|pagead2\.googlesyndication\.com/pagead/show|cdn\.priice\.net/js/|ads\.ayads\.co/|pagead2\.googlesyndication\.com/pagead/imgad|pubads\.g\.doubleclick\.net/gampad/ads\?g|static\.natoms\.com/|a\.ligatus\.com/)/$script,third-party,domain=phonandroid.com
 @@/http://(?!pagead2\.googlesyndication\.com/pagead/show_ads)/$script,third-party,domain=addons-wow.fr|minecraft-france.fr|physagreg.fr|sos-lettre.fr
 @@/http://(?!pagead2\.googlesyndication\.com/pagead/show_ads|ad\.zanox\.com/ppv/|pagead2\.googlesyndication\.com/pagead/js/adsbygoogle|ad\.zanox\.com/ppv/|adimg\.uimserv\.net/)/$script,third-party,domain=maviesurleweb.fr
 @@/http://(?!pagead2\.googlesyndication\.com/pagead/show_ads|ads\.ayads\.co/delivery/|pagead2\.googlesyndication\.com/pagead/js/adsbygoogle)/$script,third-party,domain=pix-geeks.com
