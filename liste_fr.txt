@@ -3696,6 +3696,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@|http://*.ez.lv/*.js|$script,third-party
 @@|http://*.fuckcentral.com/*.js|$script,third-party
 @@|http://*.gw.lt/*.js|$script,third-party
+@@|http://*.linuxx.org/*.js|$script,third-party
 @@|http://*.mm.my/*.js|$script,third-party
 @@|http://*.na.tl/*.js|$script,third-party
 @@|http://*.qq.my/*.js|$script,third-party
@@ -3773,6 +3774,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||privatedns.org/*.js|$script,third-party
 @@||publi.ch/*.js|$script,third-party
 @@||qjbvc.ro.lt/*.js|$script,third-party
+@@||qmvnt.linuxx.org/*.js|$script,third-party
 @@||quannhacvang.com/*.js|$script,third-party
 @@||rcwmu.us.to/*.js|$script,third-party
 @@||remote.mx/*.js|$script,third-party
@@ -3843,6 +3845,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.leet.la/$third-party,xmlhttprequest
 |http://*.linuxd.net/$third-party,xmlhttprequest
 |http://*.linuxd.org/$third-party,xmlhttprequest
+|http://*.linuxx.org/$third-party,xmlhttprequest
 |http://*.mazdarx7.com/$third-party,xmlhttprequest
 |http://*.mil.nf/$third-party,xmlhttprequest
 |http://*.mine.bz/$third-party,xmlhttprequest
