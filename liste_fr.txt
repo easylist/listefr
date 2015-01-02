@@ -841,7 +841,8 @@ _regiepub/
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 |http://*^*?$domain=gentside.com|maxisciences.com|ohmymag.com
-||01net.com/front_office/images/regie/
+||01net.com^*/adnl.$script
+||01net.com^*/regie/
 ||100pour100sexe.com/pop.js
 ||1an2kdo.com/pics/pub/
 ||1fichier.fr/pub2/
@@ -988,6 +989,7 @@ _regiepub/
 ||clubic.com^*/img/home/300x150-
 ||clubpoker.net/medias/images/club-poker/habillages/
 ||coco.fr/chat/bigban
+||code-promo.01net.com/widget/
 ||codepromo.programme-tv.net/snippets/
 ||commeaucinema.com/ads/
 ||compteur-gratuit.fr/images/bandeau_
@@ -2311,6 +2313,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.wrapperPub
 ##.zonepub
 ##a[href*="/tracking_campaign.php?"]
+##a[href*="xiti.com/go.ad?"]
 ##a[href^="http://styleapplicationzillion.com/"]
 ##a[href^="http://www.espace-plus.net/"]
 !
@@ -2375,6 +2378,7 @@ africanmanager.com###bLayer
 bfmtv.com###b_MegaBan
 commentcamarche.net###ba_position4
 top-for-phone.fr###background-cover
+01net.com###backgroundLink
 argentmania.com,e-jeune.net###ban
 egora.fr###ban-gp
 grandecran.fr###ban_big
@@ -2449,7 +2453,6 @@ oujdacity.net###common-top-widget
 covoiturage.fr###comuto_insidepage_ads
 meteomedia.com###container_bac
 canalturf.com###content > div[style="width:100%; z-index: 100; margin-bottom:10px; text-align:center "]:first-child
-01net.com###custom_header
 beaute-test.com###devtribu_sb
 lareclame.fr###dfp-top
 viamichelin.com###diaporama
@@ -2538,13 +2541,12 @@ telechargementgratuits.com###hopdream
 lesoir.be###horoscope-promo
 touslesprix.com###hright
 confidentielles.com###hunt
-01net.com###ic-ad
-01net.com###ic-ad-movie
 viamichelin.be###idAFSRoadsheetTop
 viamichelin.be###idAdvertPubLeMonde
 viamichelin.com,viamichelin.fr###idHeaderGDH
 viamichelin.be###idTopAdvertCol2
 lesnumeriques.com###ifr_pub
+01net.com###ig-code-promo-widget
 wawacity.su###img_1_300x250
 wawacity.su###img_1_468x60
 wawacity.su###img_2_300x250
@@ -2766,7 +2768,6 @@ mac4ever.com###topappWidget
 as-salat.com,forumbismillah.com,streamxd.com###topbar
 lateen18.com,lesbeurettes.com,lesbienne-gratis.com,vidule.com###trade
 msn.com###upgrade.hide
-01net.com###v7_partenaire
 voyages.liberation.fr###vHeader-pub
 verif.com###verif_pub_adsense_commander
 verif.com###verif_pub_pave
@@ -3617,7 +3618,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||sceno.fr/apps/1_static/ads/explain.png
 @@||schneevonmorgen.com^*^adv_partner^$object-subrequest
-@@||securite.01net.com/crossdomain.xml
 @@||smartadserver.com/call/pubj/$object-subrequest,domain=ecranlarge.com
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|ecranlarge.com|player.canalplus.fr|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
