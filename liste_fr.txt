@@ -472,7 +472,6 @@ _regiepub/
 ||annuaire-web-france.com/images/logo-annuaire-web-france.gif
 ||as-salat.fr/images/banners/
 ||asia-passion.fr/annuaire/ban/$third-party
-||assurance-auto.nouvelobs.com/widgets/
 ||astroportail.com/images/pubastro4.gif
 ||atoowin.com/images/diffusion/
 ||atoshonetwork.com/atosho.js
@@ -740,6 +739,7 @@ _regiepub/
 ||rockub.com/widget/
 ||rollersexe.com/ban/$third-party
 ||roxservers.com/images/banners/
+||rue89.com^*/wall89/widget-
 ||ruedeslibraires.com/livre-affiliation/
 ||rwabe.com/pub/
 ||s-sfr.fr/stats/authMsg.js
@@ -1515,8 +1515,9 @@ _regiepub/
 ||nextinpact.com/kvgc3/
 ||nofrag.com/v2k7/s/*.jpg
 ||nokenny.com/mechouga|
-||nouvelobs.com//img_DP_
-||nouvelobs.com/sites/news/files/partenariat89/
+||nouvelobs.com/rue89/*_standard.
+||nouvelobs.com^*/iframe-boxes/
+||nouvelobs.com^*/partenariat89/
 ||novaplanet.com^*/widget/pub_pave_
 ||nrj.fr/images/NRJ/accrochePub300.jpg
 ||nrj.fr/PUB/
@@ -1586,7 +1587,6 @@ _regiepub/
 ||prelude.me/public/pub/
 ||presse-citron.net/wordpress_prod/wp-content/uploads/habillagePresseCitron_
 ||presse-citron.net^*/chicklets_pub/
-||pret-immobilier.nouvelobs.com/bloc_devis.php
 ||prm.cpasbien.pe^
 ||promo-perso.com/Scripts/App/KelkooBottom.js
 ||protect-stream.com/films-streaming.php
@@ -1794,7 +1794,6 @@ _regiepub/
 ||une-recette.com/include/_iframe
 ||une-recette.com/include/r7com.php
 ||unionrunningworld.com/upload/bannieres/
-||uniprix.nouvelobs.com^$popup
 ||unlock-stream.com/js/disclamer.js
 ||unsimpleclic.com/wp-content/uploads/*/GoodBarber-250-250.png
 ||upp-auteurs.fr/annonces/
@@ -2325,7 +2324,6 @@ annoncesbateau.com###BlocPartenaires
 zonebourse.com###Bottom
 eurosport.fr###Container_OAS_Right
 amazon.fr###DAr2
-nouvelobs.com###DP_Nespresso_300x1800_ct
 jeuxme.net###Div3
 orange.fr###EbsaVignettes
 lavoixdefrance.fr###ExpandBanner
@@ -2576,6 +2574,7 @@ orange.fr###lienComPart
 lfp.fr###lien_billeterie
 clubic.com###liensTransversaux
 lebest.fr###liens_sponso
+nouvelobs.com###ligatus_right_column
 journaldugeek.com###linkhabillage
 ouedkniss.com###list-last-stores
 clubic.com###listBlock_espacePartenaires
@@ -2692,6 +2691,8 @@ algerie360.com###pubsousVid
 matchendirect.fr###pubtetiere
 flights-results.liligo.fr###pulledbanner
 flights-results.liligo.fr###pulledbanner-right-top
+nouvelobs.com###random-div-id-1_masterblock
+nouvelobs.com###random-div-id-1_shopping
 amazon.fr###raw-search-desktop-advertising-tower-1
 parolesmania.com###rectangle > .thinbox div[style="height: 250px;"]
 lexpress.mu###region-user-second
@@ -3023,7 +3024,6 @@ moteurs-regionaux.com##.normalCoupProjo
 lesechos.fr##.nosparts
 generation-nt.com##.ntSponsored
 challenges.fr##.obs-block.cab-right > .obs-blockcontent.obs-bloc-media
-tempsreel.nouvelobs.com##.obs-pub + .obs-block.cab-right > .obs-blockcontent.obs-bloc-media
 galaxynote.fr##.offre
 wamiz.com##.orange
 nautiljon.com##.pad
@@ -3032,8 +3032,6 @@ leparisien.fr##.parisien-section.pratique
 photo.fr##.parrains
 petitfute.com##.partenaire_mid
 caradisiac.com,lesechos.fr,lfp.fr,mangario.fr,sexandtrash.com##.partenaires
-nouvelobs.com##.partenariat89
-nouvelobs.com##.partenariat89masterblock
 swissquote.ch##.partner
 youpinet.com##.partner-listing
 forumactif.com,lavenir.net##.partners
@@ -3246,7 +3244,6 @@ zetorrents.com##a[href^="http://acces.direction-x.com/"]
 sosiphone.com##a[href^="http://ad.zanox.com/ppc/"]
 aidemu.fr##a[href^="http://aidemu.fr/pub/"]
 torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
-nouvelobs.com##a[href^="http://assurance-auto.nouvelobs.com/assurance-auto.html?partnerlinkid="]
 brain-magazine.fr,omgtorrent.com##a[href^="http://bit.ly/"]
 usbfix.net##a[href^="http://clic.reussissonsensemble.fr/"]
 algeriephilatelie.net##a[href^="http://clic.reussissonsensemble.fr/click.asp?"]
