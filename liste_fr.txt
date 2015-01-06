@@ -877,6 +877,7 @@ _regiepub/
 ||ad.referencement.01net.com^
 ||adli.pw/campagnes/
 ||affaires-dz.com/images/banners/
+||affination.com^*/banners/$third-party
 ||africanmanager.com/oad/
 ||afromeet.com/img/ban_
 ||air-journal.fr/wp-content/uploads/ad-
@@ -1988,6 +1989,8 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###footerpub3
 ###footerpubs
 ###general_subpub
+###google-adsence-300-250
+###google_adsencetxt
 ###head-pub
 ###head_pub
 ###header-pub
@@ -2327,6 +2330,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.wrap-pub
 ##.wrapperPub
 ##.zonepub
+##a[href*="/?a_aid="]
 ##a[href*="/tracking_campaign.php?"]
 ##a[href*="xiti.com/go.ad?"]
 ##a[href^="http://styleapplicationzillion.com/"]
@@ -3297,7 +3301,6 @@ lyonmag.com##a[href^="http://www.lyonmag.com/home/habillage/"]
 dzfoot.com,ma-dz.com##a[href^="http://www.medncom.com/regie/"]
 meetmuslima.net##a[href^="http://www.meetmuslima.net/go/"]
 jeuxvideo.fr##a[href^="http://www.micromania.fr/vente/rayon.php?"]
-vbulletin-ressources.com##a[href^="http://www.planethoster.net/?a_aid="]
 laptopspirit.fr##a[href^="http://www.prix-portables.fr/pub/"]
 topj.net##a[href^="http://www.rpjf.com/asp/lien.asp?"]
 torrentfrancais.cc##a[href^="http://www.singulardownload.com/"]
@@ -3308,7 +3311,6 @@ planet-series.tv##a[href^="http://www.yourfilezone.com/"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
 jeu.info##a[href^="https://www.fishao.com/?affId="]
 undernews.fr##a[href^="https://www.undernews.fr/go/"]
-journaldupirate.com##a[href^="https://www.vpntunnel.com/fr/?a_aid="]
 braindamaged.fr##a[href^="index.php?adclick="]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
