@@ -137,6 +137,7 @@ _regiepub/
 ||bragibriefness.com^$third-party
 ||breastfeedingramjet.org^$third-party
 ||bullheadcatfishtortuousness.net^$third-party
+||buy-targeted-traffic.com^$third-party
 ||cambodianmonetaryunitmalthus.org^$third-party
 ||camsympa.com^$third-party,domain=~camsympa.fr
 ||captiousmagnoliasoulangiana.org^$third-party
@@ -187,6 +188,7 @@ _regiepub/
 ||edi7.lu^$third-party
 ||edintorni.net^$third-party
 ||edwardthatchtestator.org^$third-party
+||effiliation.com^$popup,third-party
 ||effiliation.com^$third-party
 ||emmyballade.org^
 ||envelopeonocleasensibilis.com^$third-party
@@ -355,6 +357,7 @@ _regiepub/
 ||pub.inter-systeme.ca^$third-party
 ||pub.netboosting.com^$third-party
 ||pub2.cotatel.net^$third-party
+||publicidees.com^$popup,third-party
 ||publike.fr^$third-party
 ||puboclic.com^$third-party
 ||quaelead.com^$third-party
@@ -1693,6 +1696,8 @@ _regiepub/
 ||sky-animes.com/scripts/liens.php?show=topsites
 ||sofoot.com/images/pub/
 ||sofoot.com/IMG/*/logo_
+||sofoot.com/package/data.js
+||sofoot.com^*/?w=clic&id=$popup
 ||sofoot.com^*_pubsv2/
 ||softonic.fr/specials-leaderboard
 ||soleilinvest.com/ima/prom/
@@ -3653,6 +3658,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|ecranlarge.com|player.canalplus.fr|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
 @@||smartadserver.com/diff/$object-subrequest,domain=ecranlarge.com
+@@||sofoot.com/package/adsense.js?$script
 @@||startertv.fr/images/v2/bg_topbody_startertv.jpg
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||static.touraineverte.com/banners/$image
