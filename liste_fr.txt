@@ -871,7 +871,7 @@ _regiepub/
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
-|http://*.*.*.*/?$domain=gentside.com
+|http://*.*.*.*/?$domain=gentside.com|ohmymag.com
 ||01net.com^*/adnl.$script
 ||01net.com^*/regie/
 ||100pour100sexe.com/pop.js
@@ -2452,7 +2452,7 @@ lacanausurfinfo.com###banner_footer
 jeuxvideo.com###banner_jv
 dzairfoot.net###bannerfloat
 tous-sports.tv###bannerfloat01
-france-pittoresque.com,gentside.com,matchendirect.mobi,radiofrance.fr###banniere
+france-pittoresque.com,gentside.com,matchendirect.mobi,ohmymag.com,radiofrance.fr###banniere
 jeux-gratuits.com###barre-partenaires
 tennisactu.net###bgclicable
 neomag.fr###big-ad
@@ -2673,7 +2673,7 @@ lexpress.fr###partenaires_crm
 miroirsocial.com,wanimo.com###partners
 commentcamarche.net###partners_offers
 equirodi.be###partnerslinks2
-gentside.com###pave_haut
+gentside.com,ohmymag.com###pave_haut
 dzfoot.com###pave_twoh
 anime00.com,anime00.net,cinemay.com,e-booksland.com,filmscine.com,lastfilmstreaming.com,livre-technique.com,mesfilmsstreaming.com,movizfr.com,mu-streaming.com,seriesnostop.com,videonostop.com###pb1
 garytube.com,oumazik.com###pb2
