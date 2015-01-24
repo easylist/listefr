@@ -1480,8 +1480,8 @@ _regiepub/
 ||mappy.com/*/files/campaigns/
 ||mappy.com/services/annoncesjaunes/
 ||marianne.net/photo/background-
-||matchendirect.fr/*/mobile/header_cote.html
-||matchendirect.fr/*/mobile/header_info.html
+||matchendirect.fr/bibliotheque/image/tux/
+||matchendirect.fr/html_include/js/groupe.js
 ||materiel.net/pub/
 ||matter-du-sexe.com/infopop/
 ||max-videos.com/tools/
@@ -1969,6 +1969,8 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###ad-rectangle-1-dst
 ###ad-rectangle-2-dst
 ###ad_300_250_right
+###ad_liste_bookmaker
+###ad_rotation_match
 ###ads-medium-rectangle
 ###ads125-box
 ###adsCarre
@@ -2501,6 +2503,7 @@ zebulon.fr###col_droite
 zebulon.fr###col_droite_fine
 renovationettravaux.fr###colorbox
 oujdacity.net###common-top-widget
+matchendirect.fr###comparateur
 covoiturage.fr###comuto_insidepage_ads
 meteomedia.com###container_bac
 canalturf.com###content > div[style="width:100%; z-index: 100; margin-bottom:10px; text-align:center "]:first-child
@@ -2693,8 +2696,6 @@ sitedesmarques.com###posPub
 korben.info###post-partenaire
 forumfr.com###post_id_pub
 homecine-compare.com###ppsa_head_i
-matchendirect.fr###prehome_contenu
-matchendirect.fr###prehome_fond
 homecine-compare.com###prl_box_p1
 fluvore.com###prom
 ecranlarge.com,lacanausurfinfo.com###promo
@@ -2725,8 +2726,6 @@ tele.premiere.fr###pub_a2d_pave
 vo2.fr###pub_background
 ouedkniss.com###pub_care
 jeuxvideo.com###pub_carre1
-matchendirect.fr###pub_criteo_300x250_1
-matchendirect.fr###pub_criteo_468x60_1
 elwatan.com###pub_habillage_lien
 chuck-streaming.fr,hawaii-streaming.com,smash-streaming.com,the-big-bang-streaming.com,trone-de-fer-streaming.com###pub_js
 lesmobiles.com###pub_middle_home
@@ -2741,7 +2740,6 @@ troc-velo.com###publine
 macg.co###pubmenu
 focus-numerique.com,japan-expo.be,lapresse.ca###pubs
 algerie360.com###pubsousVid
-matchendirect.fr###pubtetiere
 flights-results.liligo.fr###pulledbanner
 flights-results.liligo.fr###pulledbanner-right-top
 nouvelobs.com###random-div-id-1_masterblock
@@ -2817,6 +2815,7 @@ mac4ever.com###topappWidget
 2siteweb.com###topbanner
 as-salat.com,forumbismillah.com,streamxd.com###topbar
 lateen18.com,lesbeurettes.com,lesbienne-gratis.com,vidule.com###trade
+matchendirect.fr###tux_centrale
 msn.com###upgrade.hide
 voyages.liberation.fr###vHeader-pub
 verif.com###verif_pub_adsense_commander
@@ -3097,6 +3096,7 @@ pnc-contact.com##.post.bg3
 abomag.com##.postContent > p[style="float: left;margin: 4px;"]
 strastv.com##.post_pub
 audiofanzine.com##.price
+matchendirect.fr##.promo
 nouvelobs.com##.promo-bottom-art
 frandroid.com##.promo-sony
 lemonde.fr##.promo.michelin
@@ -3213,6 +3213,7 @@ fan-de-cinema.com##.topmargin
 search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
 forum-actif.net##.tradeDoubler
+matchendirect.fr##.tux125x125
 omgtorrent.com##.tuyau
 clubic.com##.ui-layout-header
 forum-windows.com##.uniblue
@@ -3293,7 +3294,6 @@ marianne.net##a[href^="/blogsecretdefense/ads/"]
 unchartedatolls.com##a[href^="/file.php?"]
 mayottehebdo.com##a[href^="/index.php?option=com_banners"]
 trictrac.net##a[href^="/partenaire/"]
-estrepublicain.fr,matchendirect.fr##a[href^="/pub/"]
 trictrac.net##a[href^="/publicite/"]
 confidentielles.com##a[href^="/rc_787_"]
 emule-island.ru##a[href^="/tutoriaux/usenext-dl.php?"]
@@ -3505,7 +3505,6 @@ people-looks.com##td[width="340"][height="265"][align="center"]
 mon-ordi.com##td[width="567"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
-matchendirect.fr##tr[onclick^="pubComparateur"]
 lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
 !
 !----------------------- Exceptions -----------------------!
@@ -4226,6 +4225,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||lafansubresistance.biz^$script,domain=lafansubresistance.biz
 @@||lien-torrent.com/addrating.php?
 @@||lien-torrent.com/pubs/affiche.php?f=lecteurpub
+@@||matchendirect.fr/html_include/js/publicite-adblocktest.js$script
 @@||mega-exclue.com^*/unblock/blockBlock/advertisement.js
 @@||meteomedia.com/common/js/master/adframe.js
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
