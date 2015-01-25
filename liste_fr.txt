@@ -433,6 +433,7 @@ _regiepub/
 ||totaladperformance.com^$third-party
 ||touturf.com^$third-party
 ||tracking.ecookie.fr^$popup,third-party
+||trackor.net^$popup,third-party
 ||trackor.net^$third-party
 ||trafic-booster.biz^$third-party
 ||traficmax.com^$third-party
@@ -461,6 +462,7 @@ _regiepub/
 !
 !----------------------- Publicités tierces ----------------------!
 !
+|http://*/*?utm_source=*&utm_medium=partenariat&utm_campaign=$popup
 ||1-porno.org/atr_template/trade/
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/indexhomepage.php?$domain=lequipe.fr
