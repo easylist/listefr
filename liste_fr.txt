@@ -445,6 +445,7 @@ _regiepub/
 ||trifoliumreflexumgenuscladonia.info^$third-party
 ||unbarreleddarkened.net^$third-party
 ||unbodiediridaceousplant.net^$third-party
+||underlaymentgallstone.net^$third-party
 ||videos-x.me^$third-party
 ||videostep.com^$third-party
 ||wbsadsdel2.com^$third-party
@@ -878,7 +879,7 @@ _regiepub/
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
-|http://*.*.*.*/?$domain=gentside.com|maxisciences.com|ohmymag.com
+|http://*.*.*.*/?$domain=gentside.com|maxisciences.com|ohmymag.com|wat.tv
 ||01net.com^*/adnl.$script
 ||01net.com^*/regie/
 ||100pour100sexe.com/pop.js
@@ -3597,6 +3598,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||ebayrtm.com/rtm?RtmCmd&a=json&p=$script,domain=www.befr.ebay.be
 @@||ebayrtm.com/rtm?RtmPreviewContent&$subdocument,domain=www.befr.ebay.be
 @@||everlong.org/style/banner.php
+@@||evilox.com/includes/js/advertisement.js
 @@||fatherandsons.fr^*/opecom/affiliation/
 @@||fr-advideum.videoplaza.tv/proxy/distributor^$object-subrequest,domain=aufeminin.com|generation-nt.com|lefigaro.fr|rfi.fr
 @@||fr-canalplusdev.videoplaza.tv/proxy/html5-sdk/*-ea.min.js
