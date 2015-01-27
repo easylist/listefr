@@ -885,7 +885,7 @@ _regiepub/
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
-|http://*.*.*.*/?$domain=gentside.com|maxisciences.com|ohmymag.com|wat.tv
+|http://*/?$domain=gentside.com|maxisciences.com|ohmymag.com|wat.tv
 ||01net.com^*/adnl.$script
 ||01net.com^*/regie/
 ||100pour100sexe.com/pop.js
