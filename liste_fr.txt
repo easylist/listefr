@@ -569,6 +569,7 @@ _regiepub/
 ||crm-pour-pme.fr/images/copie%20de%20728-90.png
 ||crocastuce.fr/images/Boutons/
 ||d34eoj4l97gwgh.cloudfront.net/img/geoloc/$domain=france-examen.com
+||datahc.com/Affiliates/
 ||devisprox-media.s3-website-eu-west-1.amazonaws.com^
 ||devisprox.com/ld.js
 ||dhtml.pornravage.com^
@@ -1572,6 +1573,7 @@ _regiepub/
 ||nofrag.com/v2k7/s/*.jpg
 ||nokenny.com/mechouga|
 ||nouvelobs.com/rue89/*_standard.
+||nouvelobs.com/tools/smart.php
 ||nouvelobs.com^*/iframe-boxes/
 ||nouvelobs.com^*/partenariat89/
 ||novaplanet.com^*/widget/pub_pave_
@@ -3280,11 +3282,14 @@ touslesdrivers.com##a.seo
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 artdeseduire.com##a[href*="/?part=ads"]
 clubic.com##a[href*="/?utm_source"]
+nouvelobs.com##a[href*="?partner="]
+nouvelobs.com##a[href*="?partnerlinkid="]
 metaboli.fr##a[href*="gametap.com/convergence/?"]
 dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-de-l-en-galerant-sur-le.html"]
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 magicmaman.com##a[href*="smartadserver.com/call/cliccommand/"]
 webfrance.com##a[href*="webfrance.com/go/"]:not([href="http://www.webfrance.com/go/facebook.php"]):not([href="http://www.webfrance.com/go/twitter.php"]):not([href="http://www.webfrance.com/go/googleplus.php"]):not([href="http://www.webfrance.com/go/linkedin.php"])
+nouvelobs.com##a[href*="xiti.com/go.click?"]
 generation-nt.com##a[href="/boutique.html"]
 omgtorrent.com##a[href="/clic_dl.php?go=fiche"]
 omgtorrent.com##a[href="/clic_dl.php?go=moteur"]
@@ -3337,9 +3342,11 @@ guidebourse.net##a[href^="http://guidebourse.net/ads/"]
 download771onlinepdf.com##a[href^="http://linkz.it/"]
 moviz-telecharger.com##a[href^="http://moviz-telecharger.com/films-en-qualité-hd-"]
 korben.info##a[href^="http://network.bemyapp.com/trk/"]
+nouvelobs.com##a[href^="http://partner.global-espace.com/"]
 jamsvu.fr##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
 annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
 brunotritsch.fr##a[href^="http://rdinews.com/ads/"]
+nouvelobs.com##a[href^="http://tempsreel.nouvelobs.com/les-bons-plans-shopping/"]
 tirage-gagnant.com##a[href^="http://tirage-gagnant.com/tirage/"] > img
 radins.com##a[href^="http://track.radins.com/regie.php?"]
 zetorrents.com##a[href^="http://trf."]
