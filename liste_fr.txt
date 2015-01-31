@@ -129,6 +129,7 @@ _regiepub/
 ||beaumondedarkcolored.info^$third-party
 ||beead.fr^$third-party
 ||bightofbeninmusculusscalenus.info^$third-party
+||binarynumerationsystemcashsurrendervalue.net^$third-party
 ||bitisparticleboard.org^$third-party
 ||bizhentai.com^$third-party
 ||biznolimit.com^$third-party
@@ -913,6 +914,8 @@ _regiepub/
 .net/*?$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
 .org/*?$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
+@@||tv.*.com/*.mp4$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
+|http://*.*/*.mp4?$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 ||01net.com^*/adnl.$script
 ||01net.com^*/regie/
 ||100pour100sexe.com/pop.js
