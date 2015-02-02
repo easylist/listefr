@@ -23,6 +23,8 @@
 /adUnblock.
 /Adv728.
 /aff_pub_
+/affiliate.*/banner
+/amazon-product-in-a-post-plugin/*
 /bandeaupublicite/*
 /banners-pub/*
 /banniere728x90_
@@ -1065,6 +1067,7 @@ _regiepub/
 ||chronopost.fr^*/public/visuels/partenaires/
 ||cinemay.com/bannier/
 ||clk.cpasbien.$popup
+||cloudfront.net/img/banner
 ||clubic.com/06010586-photo-bg.jpg
 ||clubic.com^*/img/content/*-300x150.
 ||clubic.com^*/img/home/300x150-
@@ -1816,6 +1819,7 @@ _regiepub/
 ||swisstools.net/*/images/pub/
 ||sylvainpellier.fr/bandeau/
 ||synonymes.com/js/capping-horos.js
+||syskb.com^*/wordpress-notification-bar
 ||t411.me/images/external/usenet.jpg
 ||team-iphone.fr/phpbbtip/images/pub/
 ||technikart.com/images/banners/
@@ -3830,6 +3834,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 ||tailorschalklycosatarentula.info^$third-party
 ! Adunblock
 @@|http://*.69.mu/*.js|$script,third-party
+@@|http://*.amurt.org.uk/*.js|$script,third-party
 @@|http://*.ax.lt/*.js|$script,third-party
 @@|http://*.cc.st/*.js|$script,third-party
 @@|http://*.cr.rs/*.js|$script,third-party
@@ -3839,11 +3844,13 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@|http://*.linuxx.org/*.js|$script,third-party
 @@|http://*.mm.my/*.js|$script,third-party
 @@|http://*.na.tl/*.js|$script,third-party
+@@|http://*.nard.ca/*.js|$script,third-party
 @@|http://*.qq.my/*.js|$script,third-party
 @@|http://*.ro.lt/*.js|$script,third-party
 @@|http://*.us.to/*.js|$script,third-party
 @@|http://*.vr.lt/*.js|$script,third-party
 @@||3dxtras.com/*.js|$script,third-party
+@@||404.mn/*.js|$script,third-party
 @@||905tech.com/*.js|$script,third-party
 @@||abuser.eu/*.js|$script,third-party
 @@||afust.ax.lt/*.js|$script,third-party
@@ -3937,9 +3944,11 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||wtf.im/*.js|$script,third-party
 @@||yblpg.ax.lt/*.js|$script,third-party
 @@||yspzd.na.tl/*.js|$script,third-party
+|http://*.404.mn/$third-party,xmlhttprequest
 |http://*.69.mu/$third-party,xmlhttprequest
 |http://*.905tech.com/$third-party,xmlhttprequest
 |http://*.abuser.eu/$third-party,xmlhttprequest
+|http://*.amurt.org.uk/$third-party,xmlhttprequest
 |http://*.anonymous.lv/$third-party,xmlhttprequest
 |http://*.antongorbunov.com/$third-party,xmlhttprequest
 |http://*.awiki.org/$third-party,xmlhttprequest
@@ -3991,6 +4000,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.mine.bz/$third-party,xmlhttprequest
 |http://*.minecraftnoob.com/$third-party,xmlhttprequest
 |http://*.mm.my/$third-party,xmlhttprequest
+|http://*.nard.ca/$third-party,xmlhttprequest
 |http://*.negeriau.net/$third-party,xmlhttprequest
 |http://*.nhachot.info/$third-party,xmlhttprequest
 |http://*.nnc.ro/$third-party,xmlhttprequest
