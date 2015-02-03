@@ -365,7 +365,6 @@ _regiepub/
 ||odtrialanderror.info^$third-party
 ||oldhickoryfretted.info^$third-party
 ||oliverstoneorderhyracoidea.net^$third-party
-||omnitagjs.com^$third-party
 ||oneinstaller.com^$third-party
 ||orangeblossomorchidfreethought.com^$third-party
 ||orangepublicite.fr^$third-party
@@ -3074,6 +3073,7 @@ cdiscount.com##.pubText
 cdiscount.com##a[href^="http://clk.tradedoubler.com/click?"]
 developpez.com##a[href^="http://sysimg.developpez.com/click.php?a="] > img
 cdiscount.com##a[href^="https://tracking.cdiscount.com/tracker.ashx?"]
+dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
 !lefigaro.fr##.fig-promo
 2siteweb.com,dvdrip-truefrench.com,filmze.com,filmze.me,fluket.com,funvideomix.org,liberty-lands.com,libertyland.tv,mesfilmsstreaming.com,moviz.net,mu-streaming.com,sky-animes.com,streamgo.net,telechargementgratuits.com,vostfr-vf.com##.fixe
 evene.fr##.fnac-spbox
