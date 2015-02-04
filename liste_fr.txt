@@ -20,6 +20,7 @@
 .pubdirecte.
 .publicite.
 /468x60banner.
+/ads?p=
 /adUnblock.
 /Adv728.
 /aff_pub_
@@ -32,6 +33,7 @@
 /bannieres_pub/*
 /brightcoveAds.
 /doubleclick_dmm/*
+/layout/ads?
 /miniads/*
 /modules.pub.
 /pub-300x250.
@@ -1402,7 +1404,6 @@ _regiepub/
 ||jeveuxdestrans.com^*/u.js
 ||jheberg.net/images/mp.png
 ||joowala.com/images/banners/
-||journaldesfemmes.com/api/layout/ads?
 ||journaldugeek.com/wp-content/themes/geek/habillages$image
 ||journaldunet.com/*@*,position$script
 ||journaldunet.com^*/0_pub/
