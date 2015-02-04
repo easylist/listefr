@@ -919,12 +919,12 @@ _regiepub/
 !
 !----------------------- Sites spécifiques -----------------------!
 !
-.biz/*?$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-.com/*?$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-.info/*?$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-.net/*?$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-.org/*?$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-.ws/*?$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
+.biz/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
+.com/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
+.info/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
+.net/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
+.org/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
+.ws/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 @@||tv.*.com/*.mp4$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 |http://*/$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
