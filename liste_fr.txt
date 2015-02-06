@@ -414,6 +414,7 @@ _regiepub/
 ||redbelliedsnakemyxine.com^$third-party
 ||redmulletgoodword.com^$third-party
 ||reedmacepurposeless.net^$third-party
+||reflexcash.com^$third-party
 ||regie.audioprint.fr^$third-party
 ||regiedepub.com^$third-party
 ||rentacorner.com^$third-party
@@ -3307,7 +3308,6 @@ search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
 forum-actif.net##.tradeDoubler
 matchendirect.fr##.tux125x125
-omgtorrent.com##.tuyau
 clubic.com##.ui-layout-header
 forum-windows.com##.uniblue
 excel-pratique.com##.vba_300
@@ -3362,8 +3362,6 @@ magicmaman.com##a[href*="smartadserver.com/call/cliccommand/"]
 webfrance.com##a[href*="webfrance.com/go/"]:not([href="http://www.webfrance.com/go/facebook.php"]):not([href="http://www.webfrance.com/go/twitter.php"]):not([href="http://www.webfrance.com/go/googleplus.php"]):not([href="http://www.webfrance.com/go/linkedin.php"])
 nouvelobs.com##a[href*="xiti.com/go.click?"]
 generation-nt.com##a[href="/boutique.html"]
-omgtorrent.com##a[href="/clic_dl.php?go=fiche"]
-omgtorrent.com##a[href="/clic_dl.php?go=moteur"]
 emule-island.ru##a[href="/vpn.php"]
 arabzik.org##a[href="http://arabzik.org/free-phone/"]
 cgrcinemas.fr##a[href="http://cgr-lescroods.kia.fr/"]
@@ -3387,6 +3385,7 @@ tadpu.com##a[href^="//fr.ulule.com/insidezecube/?utm_campaign="]
 avocat.fr,ladepeche.pf,ophtalmo.tv,prorussia.tv,rewmi.com,senioractu.com,zinfos974.com##a[href^="/ads/"]
 tunisie-news.com##a[href^="/artpublic/banniere/click3.php?"]
 marianne.net##a[href^="/blogsecretdefense/ads/"]
+omgtorrent.com##a[href^="/clic_dl.php?go="]
 unchartedatolls.com##a[href^="/file.php?"]
 mayottehebdo.com##a[href^="/index.php?option=com_banners"]
 trictrac.net##a[href^="/partenaire/"]
@@ -3399,7 +3398,7 @@ zetorrents.com##a[href^="http://acces."]
 sosiphone.com##a[href^="http://ad.zanox.com/ppc/"]
 aidemu.fr##a[href^="http://aidemu.fr/pub/"]
 torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
-brain-magazine.fr,omgtorrent.com##a[href^="http://bit.ly/"]
+brain-magazine.fr##a[href^="http://bit.ly/"]
 usbfix.net##a[href^="http://clic.reussissonsensemble.fr/"]
 algeriephilatelie.net##a[href^="http://clic.reussissonsensemble.fr/click.asp?"]
 clubic.com##a[href^="http://clk.atdmt.com/"]
