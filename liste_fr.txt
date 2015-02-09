@@ -3864,17 +3864,11 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 ||tailorschalklycosatarentula.info^$third-party
 ! Adunblock
 @@|http://*.69.mu/*.js|$script,third-party
-@@|http://*.amurt.org.uk/*.js|$script,third-party
 @@|http://*.ax.lt/*.js|$script,third-party
 @@|http://*.cc.st/*.js|$script,third-party
 @@|http://*.cr.rs/*.js|$script,third-party
 @@|http://*.ez.lv/*.js|$script,third-party
-@@|http://*.fuckcentral.com/*.js|$script,third-party
-@@|http://*.funkar.nu/*.js|$script,third-party
-@@|http://*.germansky.org/*.js|$script,third-party
 @@|http://*.gw.lt/*.js|$script,third-party
-@@|http://*.linuxx.org/*.js|$script,third-party
-@@|http://*.malam.or.id/*.js|$script,third-party
 @@|http://*.mm.my/*.js|$script,third-party
 @@|http://*.na.tl/*.js|$script,third-party
 @@|http://*.nard.ca/*.js|$script,third-party
@@ -3887,6 +3881,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||905tech.com/*.js|$script,third-party
 @@||abuser.eu/*.js|$script,third-party
 @@||afust.ax.lt/*.js|$script,third-party
+@@||amurt.org.uk/*.js|$script,third-party
 @@||anonymous.lv/*.js|$script,third-party
 @@||antongorbunov.com/*.js|$script,third-party
 @@||awiki.org/*.js|$script,third-party
@@ -3917,6 +3912,9 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||framed.net/*.js|$script,third-party
 @@||freebsd.md/*.js|$script,third-party
 @@||ftp.sh/*.js|$script,third-party
+@@||fuckcentral.com/*.js|$script,third-party
+@@||funkar.nu/*.js|$script,third-party
+@@||germansky.org/*.js|$script,third-party
 @@||ghaman.com/*.js|$script,third-party
 @@||ghostnation.org/*.js|$script,third-party
 @@||google-it.info/*.js|$script,third-party
@@ -3938,9 +3936,13 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||leet.la/*.js|$script,third-party
 @@||linuxd.net/*.js|$script,third-party
 @@||linuxd.org/*.js|$script,third-party
+@@||linuxx.org/*.js|$script,third-party
+@@||malam.or.id/*.js|$script,third-party
+@@||maxfiles.org/*.js|$script,third-party
 @@||mazdarx7.com/*.js|$script,third-party
 @@||mfkbe.cr.rs/*.js|$script,third-party
 @@||mil.nf/*.js|$script,third-party
+@@||mindhackers.org/*.js|$script,third-party
 @@||mine.bz/*.js|$script,third-party
 @@||minecraftnoob.com/*.js|$script,third-party
 @@||negeriau.net/*.js|$script,third-party
@@ -4031,8 +4033,10 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.linuxd.org/$third-party,xmlhttprequest
 |http://*.linuxx.org/$third-party,xmlhttprequest
 |http://*.malam.or.id/$third-party,xmlhttprequest
+|http://*.maxfiles.org/$third-party,xmlhttprequest
 |http://*.mazdarx7.com/$third-party,xmlhttprequest
 |http://*.mil.nf/$third-party,xmlhttprequest
+|http://*.mindhackers.org/$third-party,xmlhttprequest
 |http://*.mine.bz/$third-party,xmlhttprequest
 |http://*.minecraftnoob.com/$third-party,xmlhttprequest
 |http://*.mm.my/$third-party,xmlhttprequest
@@ -4079,7 +4083,9 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 ||hupix.ro.lt^$third-party
 ||lvorz.ax.lt^$third-party
 ||malam.or.id^$third-party
+||maxfiles.org^$third-party
 ||mfkbe.cr.rs^$third-party
+||mindhackers.org^$third-party
 ||mxlpn.ro.lt^$third-party
 ||nagcs.ax.lt^$third-party
 ||nslpg.us.to^$third-party
