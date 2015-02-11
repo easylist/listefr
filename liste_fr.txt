@@ -751,18 +751,19 @@ _regiepub/
 !
 !----------------------- Sites spécifiques -----------------------!
 !
-.biz/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-.com/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-.info/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-.net/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-.org/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-.ws/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 @@||cfstatic.com^$document
 @@||gentside.com^$object-subrequest
 @@||maxisciences.com^$object-subrequest
 @@||ohmymag.com^$object-subrequest
 @@||svstatic.com^$document
+|http://*.biz/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
+|http://*.com/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
+|http://*.info/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
+|http://*.me/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
+|http://*.net/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
+|http://*.org/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
+|http://*.ws/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
 |http://*/$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 ||01net.com^*/adnl.$script
 ||01net.com^*/regie/
