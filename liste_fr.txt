@@ -759,6 +759,7 @@ _regiepub/
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 @@||cfstatic.com^
 @@||gentside.com^$object-subrequest
+@@||maxisciences.com^$object-subrequest
 @@||ohmymag.com^$object-subrequest
 @@||svstatic.com^
 |http://*/$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
