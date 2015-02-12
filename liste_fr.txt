@@ -3884,6 +3884,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@|http://*.ro.lt/*.js|$script,third-party
 @@|http://*.us.to/*.js|$script,third-party
 @@|http://*.vr.lt/*.js|$script,third-party
+@@|verdefaith.org/*.js|$script,third-party
 @@||3dxtras.com/*.js|$script,third-party
 @@||404.mn/*.js|$script,third-party
 @@||905tech.com/*.js|$script,third-party
@@ -4074,6 +4075,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.themafia.info/$third-party,xmlhttprequest
 |http://*.ukstokes.com/$third-party,xmlhttprequest
 |http://*.us.to/$third-party,xmlhttprequest
+|http://*.verdefaith.org/$third-party,xmlhttprequest
 |http://*.vr.lt/$third-party,xmlhttprequest
 |http://*.whynotad.com/$third-party,xmlhttprequest
 |http://*.with-linux.com/$third-party,xmlhttprequest
@@ -4111,6 +4113,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 ||seiog.us.to^$third-party
 ||sjelf.us.to^$third-party
 ||uzjog.ro.lt^$third-party
+||verdefaith.org^$third-party
 ||vzern.us.to^$third-party
 ||wedsf.us.to^$third-party
 ||wjvmp.us.to^$third-party
