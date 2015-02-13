@@ -750,19 +750,7 @@ _regiepub/
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
-@@||cfstatic.com^$document
-@@||gentside.com^$object-subrequest
-@@||maxisciences.com^$object-subrequest
-@@||ohmymag.com^$object-subrequest
-@@||svstatic.com^$document
-|http://*.biz/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-|http://*.com/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-|http://*.info/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-|http://*.me/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-|http://*.net/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-|http://*.org/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-|http://*.ws/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-|http://*/$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
+|http://*/*_*_*_$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 ||01net.com^*/adnl.$script
 ||01net.com^*/regie/
 ||100pour100sexe.com/pop.
@@ -3540,7 +3528,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||google.com/uds/$script,domain=rfm.fr|virginradio.fr
 @@||googleads.g.doubleclick.net/favicon.ico$domain=crash-aerien.aero
 @@||googleads.g.doubleclick.net/pagead/ads?$object-subrequest,domain=jeux-fille-gratuit.com|mahjonggratuit.fr
-@@||gtsstatic.com^
 @@||host3.adhese.be/tag/tagv1.js$script,domain=lavenir.net
 @@||ib.adnxs.com/crossdomain.xml$object-subrequest,domain=jeux-fille-gratuit.com|mahjonggratuit.fr
 @@||ib.adnxs.com/ptv?$object-subrequest,domain=jeux-fille-gratuit.com|mahjonggratuit.fr
