@@ -750,6 +750,7 @@ _regiepub/
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
+@@|http://*/$third-party,xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
 |http://*/*_*_*_$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 ||01net.com^*/adnl.$script
 ||01net.com^*/regie/
