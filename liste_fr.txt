@@ -3859,19 +3859,17 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@|http://*.69.mu/*.js|$script,third-party
 @@|http://*.ax.lt/*.js|$script,third-party
 @@|http://*.cc.st/*.js|$script,third-party
+@@|http://*.com.br/*.js|$script,third-party
 @@|http://*.cr.rs/*.js|$script,third-party
 @@|http://*.ez.lv/*.js|$script,third-party
 @@|http://*.gw.lt/*.js|$script,third-party
 @@|http://*.mm.my/*.js|$script,third-party
-@@|http://*.n-e-t.name/*.js|$script,third-party
 @@|http://*.na.tl/*.js|$script,third-party
 @@|http://*.nard.ca/*.js|$script,third-party
-@@|http://*.possessed.us/*.js|$script,third-party
 @@|http://*.qq.my/*.js|$script,third-party
 @@|http://*.ro.lt/*.js|$script,third-party
 @@|http://*.us.to/*.js|$script,third-party
 @@|http://*.vr.lt/*.js|$script,third-party
-@@|verdefaith.org/*.js|$script,third-party
 @@||3dxtras.com/*.js|$script,third-party
 @@||404.mn/*.js|$script,third-party
 @@||905tech.com/*.js|$script,third-party
@@ -3941,6 +3939,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||mindhackers.org/*.js|$script,third-party
 @@||mine.bz/*.js|$script,third-party
 @@||minecraftnoob.com/*.js|$script,third-party
+@@||n-e-t.name/*.js|$script,third-party
 @@||negeriau.net/*.js|$script,third-party
 @@||nhachot.info/*.js|$script,third-party
 @@||nnc.ro/*.js|$script,third-party
@@ -3949,6 +3948,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||otzlu.gw.lt/*.js|$script,third-party
 @@||pirat3.com/*.js|$script,third-party
 @@||port0.org/*.js|$script,third-party
+@@||possessed.us/*.js|$script,third-party
 @@||privatedns.org/*.js|$script,third-party
 @@||publi.ch/*.js|$script,third-party
 @@||qjbvc.ro.lt/*.js|$script,third-party
@@ -3967,8 +3967,10 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||ukstokes.com/*.js|$script,third-party
 @@||uxkmr.us.to/*.js|$script,third-party
 @@||uycpd.ax.lt/*.js|$script,third-party
+@@||verdefaith.org/*.js|$script,third-party
 @@||vundm.us.to/*.js|$script,third-party
 @@||whynotad.com/*.js|$script,third-party
+@@||wins.com.br/*.js|$script,third-party
 @@||with-linux.com/*.js|$script,third-party
 @@||wpmqu.na.tl/*.js|$script,third-party
 @@||wtf.im/*.js|$script,third-party
@@ -3989,6 +3991,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.caledonianlab.com/$third-party,xmlhttprequest
 |http://*.cc.st/$third-party,xmlhttprequest
 |http://*.cloudwatch.net/$third-party,xmlhttprequest
+|http://*.com.br/$third-party,xmlhttprequest
 |http://*.cr.rs/$third-party,xmlhttprequest
 |http://*.crackedsidewalks.com/$third-party,xmlhttprequest
 |http://*.dalnet.ca/$third-party,xmlhttprequest
