@@ -3293,6 +3293,7 @@ ouedkniss.com##a[style="display:block;width:990px;height:180px;text-indent:-9999
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
+developpez.net##body > div:first-of-type
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 pyrenees-team.com##div#link
 lefigaro.fr##div[data-footer-label="Service Partenaire"]
