@@ -3873,6 +3873,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@|http://*.ro.lt/*.js|$script,third-party
 @@|http://*.us.to/*.js|$script,third-party
 @@|http://*.vr.lt/*.js|$script,third-party
+@@|http://*.zonet.us/*.js|$script,third-party
 @@||3dxtras.com/*.js|$script,third-party
 @@||404.mn/*.js|$script,third-party
 @@||905tech.com/*.js|$script,third-party
@@ -4074,6 +4075,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.with-linux.com/$third-party,xmlhttprequest
 |http://*.wtf.im/$third-party,xmlhttprequest
 |http://*.zanity.net/$third-party,xmlhttprequest
+|http://*.zonet.us/$third-party,xmlhttprequest
 ||axlnp.us.to^$third-party
 ||cifqr.69.mu^$third-party
 ||cvhyx.vr.lt^$third-party
@@ -4115,6 +4117,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 ||ydfbg.us.to^$third-party
 ||ytrhu.us.to^$third-party
 ||zanity.net^$third-party
+||zonet.us^$third-party
 !
 #@##bannerAdContainer1_1
 #@##bannerAdFrame
