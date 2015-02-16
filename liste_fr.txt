@@ -1502,6 +1502,7 @@ _regiepub/
 ||parlonspiscine.com/pubs/
 ||passeportsante.net^*/controls/pub/
 ||pc-overware.be/index/images/banners/
+||peimg.fr/images/partenaire-pubeco/
 ||petit-bulletin.fr/images/habillage.jpg
 ||petit-bulletin.fr/pub.php?
 ||petite-annonce-gratuite.com/encarts/bannieres/
@@ -2266,6 +2267,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.publicity
 ##.pubwrapper
 ##.row_pub
+##.shopperAds
 ##.show-pub
 ##.snippet-publisher
 ##.sqrpub
@@ -2577,6 +2579,7 @@ jeuxvideo.com###menu_topventes
 logicielmac.com###milieu-de-page-728-90
 lessentiel.lu###min_rectangle
 20minutes.fr###mn-autopromo
+pubeco.fr###modPromoMoment
 marianne2.fr###mod_1171545
 aujourdhui-en-france.fr,leparisien.fr###module-rencontres
 numerama.com###module_bonnes_affaires
@@ -2599,6 +2602,7 @@ tube-teen.fr###partenaire_link
 fun-trades.com,hardware.fr,lemoteurdusexe.com,mobilefilmfestival.com,ouifm.fr,portail.free.fr,ucpa-vacances.com###partenaires
 letour.fr###partenaires2
 lexpress.fr###partenaires_crm
+pubeco.fr###partner
 miroirsocial.com,wanimo.com###partners
 equirodi.be###partnerslinks2
 gentside.com,maxisciences.com,ohmymag.com###pave_haut
@@ -3241,7 +3245,7 @@ sosiphone.com##a[href^="http://ad.zanox.com/ppc/"]
 aidemu.fr##a[href^="http://aidemu.fr/pub/"]
 torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
 brain-magazine.fr##a[href^="http://bit.ly/"]
-usbfix.net##a[href^="http://clic.reussissonsensemble.fr/"]
+pubeco.fr,usbfix.net##a[href^="http://clic.reussissonsensemble.fr/"]
 algeriephilatelie.net##a[href^="http://clic.reussissonsensemble.fr/click.asp?"]
 clubic.com##a[href^="http://clk.atdmt.com/"]
 tomtomax.fr##a[href^="http://clk.tradedoubler.com/"]
@@ -3312,6 +3316,7 @@ cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor=
 developpez.com,developpez.net##body > div:first-of-type
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 pyrenees-team.com##div#link
+pubeco.fr##div.w100p.h60
 lefigaro.fr##div[data-footer-label="Service Partenaire"]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
 actufoot.fr,livefootball.fr,mercato.fr##div[id^="ad6b_"]
