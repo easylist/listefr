@@ -3892,6 +3892,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@|http://*.com.br/*.js|$script,third-party
 @@|http://*.cr.rs/*.js|$script,third-party
 @@|http://*.ez.lv/*.js|$script,third-party
+@@|http://*.go.id/*.js|$script,third-party
 @@|http://*.gw.lt/*.js|$script,third-party
 @@|http://*.mm.my/*.js|$script,third-party
 @@|http://*.na.tl/*.js|$script,third-party
@@ -4044,6 +4045,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.germansky.org/$third-party,xmlhttprequest
 |http://*.ghaman.com/$third-party,xmlhttprequest
 |http://*.ghostnation.org/$third-party,xmlhttprequest
+|http://*.go.id/$third-party,xmlhttprequest
 |http://*.google-it.info/$third-party,xmlhttprequest
 |http://*.gw.lt/$third-party,xmlhttprequest
 |http://*.hackedbox.net/$third-party,xmlhttprequest
@@ -4104,6 +4106,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.zanity.net/$third-party,xmlhttprequest
 |http://*.zonet.us/$third-party,xmlhttprequest
 ||axlnp.us.to^$third-party
+||bengkayang.go.id^$third-party
 ||cifqr.69.mu^$third-party
 ||cvhyx.vr.lt^$third-party
 ||ebogh.mm.my^$third-party
