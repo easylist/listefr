@@ -717,7 +717,7 @@ _regiepub/
 ||track.bloglog.com^$third-party
 ||trafeeq.com^
 ||tripadvisor.com/*/partner/$third-party
-||tripadvisor.com/WidgetEmbed-$domain=leparisien.fr
+||tripadvisor.com/WidgetEmbed-$domain=aujourdhui-en-france.fr|leparisien.fr
 ||tripadvisor.ru/WidgetEmbed-tcphoto?$domain=larussiedaujourdhui.fr
 ||tv-live.fr/ban/
 ||uncadeau.com/partner_widgets/$third-party
@@ -831,6 +831,8 @@ _regiepub/
 ||audiofanzine.com/s*.php?*category=
 ||aufeminin.com/clients/wengo/images/
 ||aufeminin.com/home4/skin/*/fond.jpg
+||aujourdhui-en-france.fr/scripts/*/adblock_
+||aujourdhui-en-france.fr^*/partenaires/
 ||auto-utilitaire.com/files/banners/
 ||automobiles.nc/PUBS/
 ||automobiles.nc/wam_pubs_
@@ -1313,9 +1315,8 @@ _regiepub/
 ||lemeilleurdupsg.com/pub/
 ||lemoteurdusexe.com/img/promo/
 ||lepape-info.com/pub/
-||leparisien.fr/image/partenaires/
-||leparisien.fr/img/partenaires/
 ||leparisien.fr/scripts/*/adblock_
+||leparisien.fr^*/partenaires/
 ||lepetiteconomiste.com^*/swf_banniere_
 ||lepoint.fr/html/timekeeper/
 ||lepoint.fr/images/*/partenariat/
@@ -2392,6 +2393,7 @@ logitheque.com###bloc-droit-haut-250-250
 logitheque.com###bloc-droite-bas-250-250
 mfteam.fr###bloc-fondpub
 logicielmac.com###bloc-pub-centre
+aujourdhui-en-france.fr,leparisien.fr###blocMarketing
 programme-tv.net###blocPub_MEGABAN
 mail.voila.fr,orange.fr###blocServices
 maisonbrico.com###blocSponsor
@@ -2426,7 +2428,6 @@ chuck-streaming.fr,hawaii-streaming.com,smash-streaming.com,the-big-bang-streami
 wanarun.net###chaussuresCarousel
 wamiz.com###cl-global-link
 scifi-movies.com###clichomepage
-aujourdhui-en-france.fr###clubDealbloc
 directvelo.com###col_03_partenaires
 zebulon.fr###col_droite
 zebulon.fr###col_droite_fine
@@ -2582,13 +2583,12 @@ businessnews.com.tn###megaban-1000
 jeuxactu.com###megaban1
 elwatan.com,franceantilles.fr,franceguyane.fr,lerevenu.com,silicon.fr###megabanner
 jeuxvideo.com###menu_topventes
-leparisien.fr###meteo-immo
+aujourdhui-en-france.fr,leparisien.fr###meteo-immo
 logicielmac.com###milieu-de-page-728-90
 lessentiel.lu###min_rectangle
 20minutes.fr###mn-autopromo
 pubeco.fr###modPromoMoment
 marianne2.fr###mod_1171545
-aujourdhui-en-france.fr###module-rencontres
 numerama.com###module_bonnes_affaires
 p-nintendo.com###network > ul > .jm
 macg.co###new_block_refurb
@@ -2602,7 +2602,7 @@ emule-island.ru###offerBox
 gameblog.fr###overlayFnac
 forum-iphoneaddict.fr###p00
 cdiscount.com###paFooterPubPartner
-leparisien.fr###parisien-partenaires
+aujourdhui-en-france.fr,leparisien.fr###parisien-partenaires
 judgehype.com,redlist-ultimate.be,soonnight.com###partenaire
 tube-teen.fr###partenaire_img
 tube-teen.fr###partenaire_link
@@ -2840,10 +2840,10 @@ k-streaming.com,seriestreaming.org,streamingfilms.fr##.bireklam
 mobilealgerie.com##.blc_300x250_blanc
 francefootball.fr##.bloc-autopromo
 nouvelobs.com##.bloc-partners
-leparisien.fr##.bloc-pratique
+aujourdhui-en-france.fr,leparisien.fr##.bloc-pratique
 logitheque.com##.bloc-pub-center-left
 programme-tv.net##.blocLeguide
-leparisien.fr##.blocPartenaire
+aujourdhui-en-france.fr,leparisien.fr##.blocPartenaire
 lachainemeteo.com##.bloc_1_col_middle[style="height:160px;"]
 mobilealgerie.com##.bloc_728x90_brd
 psychologies.com##.bloc_abo
@@ -2983,7 +2983,7 @@ cdiscount.com##.lptZAd
 maisonapart.com##.map_fond_pub
 maisonapart.com##.map_pdp_pub
 parlonspiscine.com##.margin_bottom[style="padding:5px;border:1px solid #8F8F8F;border-radius:5px 0px 5px 0px;box-shadow: 0px 0px 10px #000000;"]
-leparisien.fr##.marketingParisien
+aujourdhui-en-france.fr,leparisien.fr##.marketingParisien
 kamaz.fr##.megaBan
 courrier-picard.fr##.megaban-top
 frandroid.com,p-nintendo.com##.megabanner
@@ -3024,7 +3024,7 @@ galaxynote.fr##.offre
 wamiz.com##.orange
 nautiljon.com##.pad
 priceminister.com##.panel_pub
-leparisien.fr##.parisien-section.pratique
+aujourdhui-en-france.fr,leparisien.fr##.parisien-section.pratique
 photo.fr##.parrains
 jeuxvideo.com##.part-boutique
 petitfute.com##.partenaire_mid
