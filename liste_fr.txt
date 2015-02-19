@@ -3525,6 +3525,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
 @@||bobodise.com^*^adv_partner^$object-subrequest
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
+@@||canalplus.fr^$elemhide
 @@||ccmbenchmark.com^$~third-party
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
 @@||cdn.teads.tv/js/all-$script,domain=telechargement.zebulon.fr
