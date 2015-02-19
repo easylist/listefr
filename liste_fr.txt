@@ -20,6 +20,7 @@
 .pubdirecte.
 .publicite.
 /468x60banner.
+/ads-ext.
 /ads?p=
 /ads_block
 /Adv728.
@@ -57,6 +58,7 @@
 /publisher_configurations.
 /regie_pub/*
 /regiepub/*
+/scripts/ads.
 /webadtrick
 /widgets-zoom-annonce-shopping.
 /widgets-zoom-mytravelchic.
@@ -283,6 +285,7 @@ _regiepub/
 ||smart.allocine.fr^$~object-subrequest,~subdocument
 ||smart2.allocine.fr^$~object-subrequest,~subdocument
 ||smartadserver.com^$popup,third-party
+||snake-leads.com^$third-party
 ||spb2011.com^$third-party
 ||sperse.com^$third-party
 ||stickyads.tv^$third-party
@@ -559,7 +562,7 @@ _regiepub/
 ||live-medias.net/button.php?
 ||logic-immo.be/embed/new-static-search.php5
 ||logic-immo.com/mmf/ads/$third-party
-||lprs1.fr/images/blocs-partenaires/
+||lprs1.fr^*/blocs-partenaires$third-party
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||madamesimone.com/ban/$third-party
 ||maghreb-boutique.com/maghreb-boutique-300.swf
@@ -1310,7 +1313,9 @@ _regiepub/
 ||lemeilleurdupsg.com/pub/
 ||lemoteurdusexe.com/img/promo/
 ||lepape-info.com/pub/
+||leparisien.fr/image/partenaires/
 ||leparisien.fr/img/partenaires/
+||leparisien.fr/scripts/*/adblock_
 ||lepetiteconomiste.com^*/swf_banniere_
 ||lepoint.fr/html/timekeeper/
 ||lepoint.fr/images/*/partenariat/
@@ -2421,7 +2426,7 @@ chuck-streaming.fr,hawaii-streaming.com,smash-streaming.com,the-big-bang-streami
 wanarun.net###chaussuresCarousel
 wamiz.com###cl-global-link
 scifi-movies.com###clichomepage
-aujourdhui-en-france.fr,leparisien.fr###clubDealbloc
+aujourdhui-en-france.fr###clubDealbloc
 directvelo.com###col_03_partenaires
 zebulon.fr###col_droite
 zebulon.fr###col_droite_fine
@@ -2577,12 +2582,13 @@ businessnews.com.tn###megaban-1000
 jeuxactu.com###megaban1
 elwatan.com,franceantilles.fr,franceguyane.fr,lerevenu.com,silicon.fr###megabanner
 jeuxvideo.com###menu_topventes
+leparisien.fr###meteo-immo
 logicielmac.com###milieu-de-page-728-90
 lessentiel.lu###min_rectangle
 20minutes.fr###mn-autopromo
 pubeco.fr###modPromoMoment
 marianne2.fr###mod_1171545
-aujourdhui-en-france.fr,leparisien.fr###module-rencontres
+aujourdhui-en-france.fr###module-rencontres
 numerama.com###module_bonnes_affaires
 p-nintendo.com###network > ul > .jm
 macg.co###new_block_refurb
@@ -2977,6 +2983,7 @@ cdiscount.com##.lptZAd
 maisonapart.com##.map_fond_pub
 maisonapart.com##.map_pdp_pub
 parlonspiscine.com##.margin_bottom[style="padding:5px;border:1px solid #8F8F8F;border-radius:5px 0px 5px 0px;box-shadow: 0px 0px 10px #000000;"]
+leparisien.fr##.marketingParisien
 kamaz.fr##.megaBan
 courrier-picard.fr##.megaban-top
 frandroid.com,p-nintendo.com##.megabanner
@@ -3158,8 +3165,7 @@ clubic.com##.ui-layout-header
 forum-windows.com##.uniblue
 excel-pratique.com##.vba_300
 souk.ma##.vbanner-wrap
-aujourdhui-en-france.fr,leparisien.fr##.venteprivee
-leparisien.fr##.vestiairecollective
+aujourdhui-en-france.fr##.venteprivee
 canalplus.fr##.video-preroll
 pornovore.fr##.video-pub
 canalplus.fr##.visuel_preroll
@@ -3530,6 +3536,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||deliv.lexpress.fr/RealMedia/ads/adstream_mjx.ads/$script,domain=fipradio.fr|francebleu.fr|franceculture.fr|franceinfo.fr|franceinter.fr|francemusique.fr|lemouv.fr
 @@||deliv.tmcregie.fr/crossdomain.xml$domain=videos.nt1.tv
 @@||diplomatie.gouv.fr^*?adtype=
+@@||domain.com/ads.html
 @@||donnemoilinfo.com/tuto/ad-remover/img/
 @@||download.gameblog.fr/images/promo/ban_premium_300.jpg
 @@||ds.serving-sys.com/BurstingRes//$object-subrequest,domain=buzzmoica.fr
