@@ -3524,9 +3524,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||blog.lemonde.fr/files/
 @@||blogdumac.com/pub/images/footer-bdm_02.png
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
-@@||bobodise.com^*^adv_partner^$object-subrequest
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
-@@||canalplus.fr^$elemhide
 @@||ccmbenchmark.com^$~third-party
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
 @@||cdn.teads.tv/js/all-$script,domain=telechargement.zebulon.fr
@@ -3644,7 +3642,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||rockman.fr/Ads/$image
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||sceno.fr/apps/1_static/ads/explain.png
-@@||schneevonmorgen.com^*^adv_partner^$object-subrequest
 @@||smartadserver.com/call/pubj/$object-subrequest,domain=ecranlarge.com
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|ecranlarge.com|player.canalplus.fr|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
@@ -3703,6 +3700,11 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||notre-planete.info^$elemhide
 @@||pagead2.googlesyndication.com/pagead/js/$script,domain=notre-planete.info
 @@||www6.smartadserver.com/call/pubdirj/$script,domain=notre-planete.info
+! Videoplaza
+#@##AdArea
+#@##AdAreaH
+@@||bobodise.com^*^adv_partner^$object-subrequest
+@@||schneevonmorgen.com^*^adv_partner^$object-subrequest
 ! Secret Media
 ##div > a[target="_blank"] > img[width="300"][height="600"][title][alt]:first-child
 #@##ad_ad
