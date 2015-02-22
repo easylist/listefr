@@ -614,7 +614,6 @@ _regiepub/
 ||paradise-barre.com/bannieres/
 ||parlonspiscine.com/img/pubs/
 ||partner.leguide.com^
-||partner.leguide.com^$third-party
 ||partners.cmptch.com^
 ||pepitastore.com^$domain=clubic.com
 ||petite-garce.com/ban/$third-party
@@ -3544,7 +3543,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||deliv.lexpress.fr/RealMedia/ads/adstream_mjx.ads/$script,domain=fipradio.fr|francebleu.fr|franceculture.fr|franceinfo.fr|franceinter.fr|francemusique.fr|lemouv.fr
 @@||deliv.tmcregie.fr/crossdomain.xml$domain=videos.nt1.tv
 @@||diplomatie.gouv.fr^*?adtype=
-@@||domain.com/ads.html
 @@||donnemoilinfo.com/tuto/ad-remover/img/
 @@||download.gameblog.fr/images/promo/ban_premium_300.jpg
 @@||ds.serving-sys.com/BurstingRes//$object-subrequest,domain=buzzmoica.fr
@@ -4407,7 +4405,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||cpagrip.com/script_include.php?
 @@||d.adxcore.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||dev-dyod.fr/styles/ads.css
-@@||domain.com/ads.html$subdocument,domain=programme-tv.net
+@@||domain.com/ads.html$subdocument
 @@||dpstream.cc^$elemhide
 @@||dpstream.tv^$elemhide
 @@||dramapassion.com/js/advertisement.js
