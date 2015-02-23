@@ -3035,6 +3035,7 @@ aujourdhui-en-france.fr,leparisien.fr##.parisien-section.pratique
 photo.fr##.parrains
 jeuxvideo.com##.part-boutique
 petitfute.com##.partenaire_mid
+lachainemeteo.com##.partenaire_triple
 caradisiac.com,lesechos.fr,lfp.fr,mangario.fr,sexandtrash.com##.partenaires
 swissquote.ch##.partner
 youpinet.com##.partner-listing
@@ -3643,8 +3644,10 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||sceno.fr/apps/1_static/ads/explain.png
 @@||smartadserver.com/call/pubj/$object-subrequest,domain=ecranlarge.com
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|ecranlarge.com|player.canalplus.fr|portail.free.fr
+@@||smartadserver.com/call/pubj/*/S/*/*?$domain=lachainemeteo.com
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
 @@||smartadserver.com/diff/$object-subrequest,domain=ecranlarge.com
+@@||smartadserver.com/diff/*/show*.asp?$script,domain=lachainemeteo.com
 @@||sofoot.com/package/adsense.js?$script
 @@||soutenir.apprentis-auteuil.org/adserver2/$image,script,stylesheet
 @@||startertv.fr/images/v2/bg_topbody_startertv.jpg
