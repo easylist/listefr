@@ -20,6 +20,7 @@
 .pubdirecte.
 .publicite.
 /468x60banner.
+/acad.$script
 /ads-ext.
 /ads?p=
 /ads_block
@@ -80,6 +81,7 @@ _regiepub/
 ||2town.net^$third-party
 ||46.249.58.117^$third-party
 ||7x4.fr^$third-party
+||abtasty.com^$third-party
 ||acces-charme.com^$third-party
 ||acpublicite.fr^$third-party
 ||ad.activaweb.fr^
@@ -313,6 +315,7 @@ _regiepub/
 ||unbodiediridaceousplant.net^$third-party
 ||videos-x.me^$third-party
 ||videostep.com^$third-party
+||wbdds.info^$third-party
 ||wbsadsdel2.com^$third-party
 ||wbusiness.fr^$third-party
 ||webprod.cybertesteurs.com^$popup,third-party,domain=~iss.net
@@ -1894,6 +1897,8 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###adBoxFooter
 ###ad_300_250_right
 ###ad_liste_bookmaker
+###ad_marketingbanner_1_placeholder
+###ad_mpu_1_placeholder
 ###ad_rotation_match
 ###adblockDetect
 ###ads-medium-rectangle
@@ -2121,6 +2126,9 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.BannierePub
 ##._meltypub
 ##.ad_header_728x90
+##.adbanner600active
+##.adf_marketingbanner
+##.adf_mpu
 ##.adspave
 ##.advertisement-pub
 ##.annonces_google
@@ -2164,6 +2172,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.header-pub
 ##.headerPub
 ##.header_pub
+##.hnadszone
 ##.home_pub
 ##.iframe_pub
 ##.kadmer-ad
@@ -2173,10 +2182,12 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.mailPubHeader
 ##.megapub
 ##.mueveads
+##.nipnadszone
 ##.outer_ads_right
 ##.pave-pub
 ##.pave_pub
 ##.pave_pub2
+##.po_wads
 ##.position_pub
 ##.pub-300
 ##.pub-300x250
@@ -2794,6 +2805,7 @@ pafpaf.com##.adBlocTop
 macg.co##.adBottom
 aujourdhui.fr##.adBox
 lastminute.com##.adContainer
+allocine.fr##.adbox
 reverso.net##.adcontent
 gmx.fr##.add
 beaute-test.com##.addictbloc
