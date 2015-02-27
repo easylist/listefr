@@ -36,6 +36,7 @@
 /banniere_pub.
 /bannieres_pub/*
 /brightcoveAds.
+/choixPubJS.
 /col_droite_googleads2
 /doubleclick_dmm/*
 /fod_ad_
@@ -254,6 +255,7 @@ _regiepub/
 ||piximedia.fr^$third-party
 ||plusservicepartners.com^$third-party
 ||pornstreet.com^$popup,third-party
+||prm-native.com^$third-party
 ||promo.alienbiz.com^$third-party
 ||promo.ezstatic.com^$third-party
 ||promo.hysteriq.com^$third-party
@@ -2723,6 +2725,7 @@ zapiks.fr###shop
 clubic.com###shopper-widget-wrapper
 laposte.net,portail.free.fr###shoppingBox
 sfr.fr###shoppingWrapper
+zone-numerique.com###shoppinghaut
 choisirsonforfait.com###sidPub
 herault-tribune.com###side_pub1
 herault-tribune.com###side_pub2
