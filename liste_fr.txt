@@ -4026,6 +4026,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||jpe.js/*.js|$script,third-party
 @@||jundy.org/*.js|$script,third-party
 @@||kbosf.ax.lt/*.js|$script,third-party
+@@||krash.net/*.js|$script,third-party
 @@||leet.la/*.js|$script,third-party
 @@||linuxd.net/*.js|$script,third-party
 @@||linuxd.org/*.js|$script,third-party
@@ -4131,6 +4132,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 |http://*.jpe.js/$third-party,xmlhttprequest
 |http://*.jundy.org/$third-party,xmlhttprequest
 |http://*.keep.se/$third-party,xmlhttprequest
+|http://*.krash.net/$third-party,xmlhttprequest
 |http://*.leet.la/$third-party,xmlhttprequest
 |http://*.linuxd.net/$third-party,xmlhttprequest
 |http://*.linuxd.org/$third-party,xmlhttprequest
@@ -4192,6 +4194,7 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 ||host2go.net^$third-party
 ||hupix.ro.lt^$third-party
 ||jmxao.ip.lc^$third-party
+||krash.net^$third-party
 ||kxtby.dmz.se^$third-party
 ||lvorz.ax.lt^$third-party
 ||malam.or.id^$third-party
