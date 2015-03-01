@@ -770,6 +770,7 @@ _regiepub/
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 |http://*/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
+|http://*/crossdomain.xml$object-subrequest,domain=wat.tv
 ||01net.com^*/adnl.$script
 ||01net.com^*/regie/
 ||100pour100sexe.com/pop.
@@ -1811,9 +1812,6 @@ _regiepub/
 ||wads.plurielles.fr^
 ||wallpapergratuit.org/scripts.inc.js
 ||wamiz.fr/css/habillage/
-||wat.fr/js/video/sm.js?
-||wat.fr^*/resources/*.swf$object
-||wat.tv/images/static/partner/
 ||wawa-mania.*/ph.jpg
 ||wawacity.su/banner/
 ||wawacity.su/popup.
@@ -3511,6 +3509,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@/plflv2/player_pause.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@/plflv2/preroll.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@|http://*.js$script,third-party,domain=jeu.fr|jeux.fr
+@@|http://s.wat.tv/crossdomain.xml$object-subrequest,domain=wat.tv
 @@||247realmedia.com/0/Player/Player_FR_Home/Box-2-FR.jpg$domain=eurosportplayer.fr
 @@||a.ligatus.com/?$script,domain=bfmtv.com
 @@||aaeps.fr/images/banners/find-us-on-facebook-3.png
@@ -4502,7 +4501,6 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||pubads.g.doubleclick.net/gampad/ads?$script,domain=replay.fr
 @@||rapide-cash.fr/ads.css
 @@||rapidebrideur.com^$elemhide
-@@||s.wat.tv/images/static/partner/*/rev.txt-ads?
 @@||scan-manga.com^$stylesheet
 @@||scan-manga.fr^$stylesheet
 @@||slip.madmoizelle.com/advertisement.js?
