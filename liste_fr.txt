@@ -3233,7 +3233,6 @@ dpstream.net##[class$="_plugin_top"]
 meilleur-vpn.biz##[href^="http://meilleur-vpn.biz/visit/"]
 allocine.fr##[id^="adClickCommand"]
 secretsdujeu.com##[id^="igadserver-bn"]
-lachainemeteo.com##[style^="width: 100%; height: 3"]:last-child
 cowcotland.com##a#habiclic
 touslesdrivers.com##a.seo
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
@@ -3438,6 +3437,7 @@ jeu.net##div[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
 solutions-logiciels.com##div[style^="border:1px solid black; width: 300px; height: 250px"]
 commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##div[style^="float:right;diplay:block;height:100px;width:100%;"]
 clubic.com##div[style^="text-align:center;height:250px;width:300px;"]
+lachainemeteo.com##div[style^="width: 100%; height: "]:last-child
 mcetv.fr##div[style^="width: 300px;font-style: none;height: 250px"]
 free-reseau.fr##div[style^="width: 728px; height: 90px;"]
 algerie360.com##div[style^="width:100%; height:100px"]
