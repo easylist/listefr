@@ -3364,6 +3364,7 @@ blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 pyrenees-team.com##div#link
 pubeco.fr##div.w100p.h60
+lachainemeteo.com##div[class] style[type="text/css"] + [id][class]
 lefigaro.fr##div[data-footer-label="Service Partenaire"]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
 actufoot.fr,livefootball.fr,mercato.fr##div[id^="ad6b_"]
@@ -3443,7 +3444,6 @@ jeu.net##div[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
 solutions-logiciels.com##div[style^="border:1px solid black; width: 300px; height: 250px"]
 commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##div[style^="float:right;diplay:block;height:100px;width:100%;"]
 clubic.com##div[style^="text-align:center;height:250px;width:300px;"]
-lachainemeteo.com##div[style^="width: 100%; height: "]:last-child
 mcetv.fr##div[style^="width: 300px;font-style: none;height: 250px"]
 free-reseau.fr##div[style^="width: 728px; height: 90px;"]
 algerie360.com##div[style^="width:100%; height:100px"]
