@@ -769,7 +769,7 @@ _regiepub/
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 |http://*/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-|http://*/crossdomain.xml$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com|wat.tv
+|http://*/crossdomain.xml$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 ||01net.com^*/adnl.$script
 ||01net.com^*/regie/
 ||100pour100sexe.com/pop.
@@ -3517,8 +3517,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@/plflv2/player_pause.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@/plflv2/preroll.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@|http://*.js$script,third-party,domain=jeu.fr|jeux.fr
-@@|http://s.wat.tv/crossdomain.xml$object-subrequest,domain=wat.tv
-@@|http://web.wat.tf1.fr/crossdomain.xml$object-subrequest,domain=wat.tv
 @@||247realmedia.com/0/Player/Player_FR_Home/Box-2-FR.jpg$domain=eurosportplayer.fr
 @@||a.ligatus.com/?$script,domain=bfmtv.com
 @@||aaeps.fr/images/banners/find-us-on-facebook-3.png
@@ -4452,7 +4450,6 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 @@||untourenchine.fr^$elemhide
 @@||visiban.com^$elemhide
 @@||vonox.fr^$elemhide
-@@||wat.tv$elemhide
 @@||wawa-mania.biz^$elemhide
 @@||wiilogic.com^$elemhide
 @@||xarold.com^$elemhide
