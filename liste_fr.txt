@@ -3560,6 +3560,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
 @@||ccmbenchmark.com^$~third-party
+@@||cdn-static.liverail.com/crossdomain.xml$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
 @@||cdn.teads.tv/js/all-$script,domain=telechargement.zebulon.fr
 @@||cdn.videoplaza.tv/resources/html5-sdk/*-ea.min.js
