@@ -1878,6 +1878,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 /adblock-alerter/*
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
+||lachainemeteo.com/js/lachainemeteo.js?
 ||pubdirecte.com^$~collapse,domain=debrideurstream.fr
 !
 !------------------ Éléments génériques -----------------!
@@ -3365,7 +3366,6 @@ lokan.fr##body:last-child > div#message
 pyrenees-team.com##div#link
 pubeco.fr##div.w100p.h60
 lefigaro.fr##div[data-footer-label="Service Partenaire"]
-lachainemeteo.com##div[id][class] > div[id][class] > div[class] + div
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
 actufoot.fr,livefootball.fr,mercato.fr##div[id^="ad6b_"]
 gratuitcul.com##div[id^="affidate_form_"]
