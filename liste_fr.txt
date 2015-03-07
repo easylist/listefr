@@ -819,6 +819,7 @@ _regiepub/
 ||alsacreations.com/xmedia/pubs/
 ||alternatives-economiques.fr/pics_bdd/habillage/
 ||alternatives-economiques.fr/pics_bdd/pub/
+||altsysimg.developpez.com/$third-party
 ||alvinet.com/images/pub.gif
 ||amateur2sexe.fr/anime/anime01.gif
 ||amateur2sexe.fr/footer/
@@ -2333,6 +2334,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.wrap-pub
 ##.wrapperPub
 ##.zonepub
+##a[href*="&adurl="]
 ##a[href*="/?a_aid="]
 ##a[href*="/telechargement-rapide.php?"]
 ##a[href*="/tracking_campaign.php?"]
@@ -3309,6 +3311,7 @@ ladepeche.pf##a[href^="ads/"]
 zetorrents.com##a[href^="http://acces."]
 sosiphone.com##a[href^="http://ad.zanox.com/ppc/"]
 aidemu.fr##a[href^="http://aidemu.fr/pub/"]
+developpez.net##a[href^="http://altsysimg.developpez.com/click.php?a="]
 torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
 brain-magazine.fr##a[href^="http://bit.ly/"]
 pubeco.fr,usbfix.net##a[href^="http://clic.reussissonsensemble.fr/"]
@@ -3473,8 +3476,8 @@ lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 bfmtv.com##iframe[id^="ligatus"]
-piratertelecharger.fr##iframe[width="300"][height="250"]
-piratertelecharger.fr##iframe[width="728"][height="90"]
+developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
+developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
 dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
 tuxboard.com##img[src^="data:image/gif;base64,"]
