@@ -65,6 +65,7 @@
 /regie_pub/*
 /regiepub/*
 /scripts/ads.
+/tagCommander/$script
 /ttn_adspaces
 /webadtrick
 /widgets-zoom-annonce-shopping.
@@ -152,6 +153,7 @@ _regiepub/
 ||click-fr.com^$third-party
 ||clicmanager.fr^$third-party
 ||comandclick.com^$third-party
+||commander1.com^$third-party
 ||congruityheterocephalus.info^$third-party
 ||cougar-rencontre.net^$third-party
 ||ctpsrv.com^$third-party
@@ -309,6 +311,7 @@ _regiepub/
 ||surfactif.fr^$third-party
 ||sv2.biz^$third-party
 ||taboola.com^$third-party
+||tagcommander.com^$third-party
 ||teads.fr^$third-party
 ||teads.tv^$third-party
 ||the-adult-company.com^$popup,third-party
@@ -1251,6 +1254,7 @@ _regiepub/
 ||japan-expo.com/files/habilllageautopromogiz.jpg
 ||jds.fr/medias/pub/
 ||jedessine.com^*/monstermunch/
+||jeu.auchan.fr^$popup
 ||jeu.info/plus/
 ||jeu.net/pub/
 ||jeune-homme-gay.com^*/u.js
