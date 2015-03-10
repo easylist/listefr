@@ -1814,6 +1814,7 @@ _regiepub/
 ||video-2-cul.com/javascript/functions.js
 ||videos-de-celebrites.com/pub/
 ||vidule.com^*/u.js
+||viedemerde.fr/clamming/blairstown.js
 ||viedemerde.fr/img/banner-
 ||virtualdjing.com/include/js/refresh_pub.js?
 ||virusphoto.com/bannieres/
@@ -2980,6 +2981,7 @@ factornews.com##.div_pub_728_90
 dailymotion.com##.dm_widget_advert_iabrighttitle
 cdiscount.com##.downinbackMaullContainer
 blog2mature.com##.download
+viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 oujdacity.net,passion-net.fr##.ebuzzing_box
 wp-infinity.com##.entry-featured
 fredzone.org##.entry-pub
@@ -3762,13 +3764,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||tracking.veoxa.com/click/banner?$subdocument,domain=track.radins.com
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
-! ZeroPub
-@@||cdn.dekalee.net/serve/$script,domain=viedemerde.fr
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=viedemerde.fr
-@@||viedemerde.fr^$script,~third-party
-viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
-||drums.buporez.com^
-||italia.viedemerde.fr^
 ! notre-planete.info
 @@||cas.criteo.com/delivery/ajs.php?$script,domain=notre-planete.info
 @@||notre-planete.info^$elemhide
