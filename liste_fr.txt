@@ -4105,6 +4105,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||nnc.ro/*.js|$script,third-party
 @@||oikodomo.gr/*.js|$script,third-party
 @@||omqdu.cr.rs/*.js|$script,third-party
+@@||onair-o.com/*.js|$script,third-party
 @@||opensrc.mx/*.js|$script,third-party
 @@||otzlu.gw.lt/*.js|$script,third-party
 @@||pirat3.com/*.js|$script,third-party
@@ -4221,6 +4222,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 |http://*.nhachot.info/$third-party,xmlhttprequest
 |http://*.nnc.ro/$third-party,xmlhttprequest
 |http://*.oikodomo.gr/$third-party,xmlhttprequest
+|http://*.onair-o.com/$third-party,xmlhttprequest
 |http://*.openoffcampus.com/$third-party,xmlhttprequest
 |http://*.opensrc.mx/$third-party,xmlhttprequest
 |http://*.pirat3.com/$third-party,xmlhttprequest
@@ -4286,6 +4288,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ||nslpg.us.to^$third-party
 ||oikodomo.gr^$third-party
 ||omqdu.cr.rs^$third-party
+||onair-o.com^$third-party
 ||openoffcampus.com^$third-party
 ||pfrns.us.to^$third-party
 ||possessed.us^$third-party
