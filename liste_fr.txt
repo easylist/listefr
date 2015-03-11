@@ -43,6 +43,7 @@
 /doubleclick_dmm/*
 /fod_ad_
 /iframe_pub_
+/images/pub/
 /layout/ads?
 /miniads/*
 /modules.pub.
@@ -446,7 +447,6 @@ _regiepub/
 ||classistatic.com/*/homepage-banner/
 ||clicjeux.net/bann/
 ||clicjeux.net/banniere.
-||clip-x.net/images/pub/
 ||cliquojeux.com/pub/
 ||club-salopes.com/partenaires/
 ||compteur-blog.net/img/pub_
@@ -482,7 +482,6 @@ _regiepub/
 ||emploicom.com/baniere.
 ||emploipartner.com/moteur_partner/
 ||enfingratuit.com^
-||equirodi.com/images/pub/
 ||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
 ||eurasie.eu/sponsors-
 ||euro-liste.net/affich_
@@ -566,7 +565,6 @@ _regiepub/
 ||ldh.be/theme/*/bsf-bg.jpg
 ||ldh.be/theme/*/relooking-
 ||ldlc.com/#aff$popup,third-party
-||le-favori.com/images/pub/
 ||le-monde-remunere.fr/bouton-
 ||le1er.net/promo/
 ||lebaiseur.com/ban/$third-party
@@ -601,7 +599,6 @@ _regiepub/
 ||megatopsites.com/index.html?$third-party
 ||megauplinks.com/images/120x600mega.png
 ||meilleur-top.com^*/images/banners/
-||meilleurduweb.com/images/pub/
 ||melusinecreation.com/banniere/
 ||metaffiliation.com/emplacement.php
 ||mini-jeux.com/jeuday.js$third-party
@@ -669,7 +666,6 @@ _regiepub/
 ||quellavelinge.com^$popup,domain=trefle.com
 ||ranking-metrics.fr/pob/get.cgi?f=banner_
 ||readersdigest.ca/*/images/promobrick_
-||refgratuit.fr/images/pub/
 ||regie-agricole.com^*/pubs^$third-party
 ||rendez-vous.be/scripts/Clients/
 ||rguaersh.info^
@@ -885,7 +881,6 @@ _regiepub/
 ||bergaag.com/wp-content/themes/bergaag/img/banniere-
 ||betclic.fr^$popup,domain=flashresultats.fr|sofoot.com
 ||bienpublic.com/fr/images/blocHTML/logoOffre.jpg
-||bienpublic.com/images/pub/
 ||billionuploads.com/js/pub.js
 ||binnews.in/_images/pub/
 ||bittovore.com/popup.php$popup
@@ -908,7 +903,6 @@ _regiepub/
 ||ca-sudrhonealpes.fr/content/binary/habillage_
 ||caledoccaz.com/PUBS/
 ||cameroon-info.net/img/banners/
-||camptocamp.org/static/images/pub/
 ||canal-plus.net/image/97/0/449970.jpg
 ||canalplus.fr/bigplayer/js/pub_smart.js
 ||canalplus.fr/bigplayer/pub.html
@@ -1093,7 +1087,6 @@ _regiepub/
 ||equishopping.com/img/pub/
 ||espaceagro.com/frasp/
 ||estrepublicain.fr/fr/ajaxappli/emploi.html?
-||estrepublicain.fr/images/pub/
 ||etudes-litteraires.com/*/amz/
 ||evene.fr^*/files/imagecache/content_fnac_block/
 ||evene.fr^*/images/fnacbox/
@@ -1124,7 +1117,6 @@ _regiepub/
 ||fm93.com/webradio/gabarits-webradio-poppers-bg.jpg
 ||fm93.com/webradio/poppers-
 ||fm93.com^*/pub/
-||fmgsconcept.com^*/images/pub/
 ||focusur.fr/wp-content/plugins/simple-popup-manager/
 ||football.fr/includes/cobrand/*/habillage/
 ||force-download.net^*/yellowtoolbar/
@@ -1353,7 +1345,6 @@ _regiepub/
 ||lefigaro.fr/assets-components/partenaires/
 ||legalis.net^*/swf/pub_
 ||lelogicielgratuit.com/media/js/popupGenerator.min.js
-||lemaghrebdz.com/images/pub/
 ||lemaghrebdz.com/pub/
 ||lemde.fr^*/partenaires/
 ||lemeilleurdupsg.com/pub/
@@ -1393,7 +1384,6 @@ _regiepub/
 ||lettres-modeles.fr^*/lmodel.php
 ||lexpress.fr/pub/
 ||lexpressiondz.com/files/banners/
-||lfp.fr/images/pub/
 ||libe.com/libepartnerships/
 ||libellules.ch/infomaniak-hosted-by-black-transparent.png
 ||libertyland.tv/libertyland/images/partenaire/
@@ -1497,7 +1487,6 @@ _regiepub/
 ||moustiq.com/pix/bans/
 ||movinstream.com/uploads/pubs/
 ||mp3gratuit.org/fake.php
-||mr-annonce.fr/images/pub/
 ||mybloggertricks.googlecode.com/files/mbtlikebox2.js
 ||myfreesurf.com/partenaires/
 ||natoms.com/js/partner/
@@ -1630,7 +1619,6 @@ _regiepub/
 ||rtc.be/images/banners/
 ||rtc.be/pub/
 ||rue89lyon.fr/wp-content/uploads/*/habillage*.jpg
-||rue89lyon.fr^*/images/pub/
 ||ruedesjoueurs.com^*/campagnes/habillage/
 ||ruedesjoueurs.fr/images/banners/
 ||ruedesjoueurs.fr^*/campagnes/habillage/
@@ -1664,12 +1652,10 @@ _regiepub/
 ||shoppingbox.liberation.fr^
 ||signification-prenom.com/images/starmyname-prenom.gif
 ||sk1n.fr^$third-party
-||ski-powder.com/images/pub/
 ||sky-animes.com/ban/partenaires/
 ||sky-animes.com/pubs/
 ||sky-animes.com/scripts/liens.php?show=partenaires
 ||sky-animes.com/scripts/liens.php?show=topsites
-||sofoot.com/images/pub/
 ||sofoot.com/IMG/*/logo_
 ||sofoot.com/package/data.js
 ||sofoot.com^*/?w=clic&id=$popup
@@ -1686,7 +1672,6 @@ _regiepub/
 ||soonnight.com^*/bande_partenaires.png
 ||sosvirus.net/design/bitdefender-partenaire
 ||sosvirus.net/design/forum/bitdefender/$image
-||soufisme-fr.com/images/pub/
 ||spin-off.fr/images/vpngratuitspinfoff.gif
 ||sport365.fr/pub.php?
 ||sports.fr/includes/cobrand/*/habillage/
@@ -1715,17 +1700,14 @@ _regiepub/
 ||sunnabox.com/bundles/sunnaboxsalat/img/pub_
 ||supplychainmagazine.fr/Annonces/
 ||sur-la-toile.com/images/modami_
-||surace-jujitsu.fr/outils/images/pub/
 ||surf-report.com/sites/default/files/wall_
 ||surf-report.com^*/files/weeman_*.jpg
 ||surf-report.com^*/wallpaper293x936-
-||swisstools.net/*/images/pub/
 ||sylvainpellier.fr/bandeau/
 ||sync.ttlbd.net^
 ||synonymes.com/js/capping-horos.js
 ||syskb.com^*/wordpress-notification-bar
 ||t411.io/images/external/usenet.jpg
-||team-iphone.fr/phpbbtip/images/pub/
 ||technikart.com/images/banners/
 ||telebruxelles.net/portail/images/annonce_une/138x260-100e-fr.gif
 ||telechargementgratuits.com/hexa.png
@@ -1782,7 +1764,6 @@ _regiepub/
 ||tribunejuive.info^*/module_pubs_
 ||tribunejuive.info^*/PubTribuneJuive.
 ||trimag.fr^*/tx_macinabanners/
-||troc-velo.com/images/pub/
 ||trou-fion.com/ban/
 ||trou-fion.com/infopop/
 ||tsa-algerie.com/wp-content/uploads/*/120x350fr.swf
@@ -1871,7 +1852,6 @@ _regiepub/
 ||wgcdn.net/widget/
 ||whois-raynette.fr/*/domaine-libre-big.gif
 ||wii-info.fr/ban/
-||winds-up.com/images/pub/
 ||worldissmall.fr/*/uploads/partenaires/
 ||wpartage.com/site_media/images/banner
 ||wpartage.com/site_media/images/pin-
@@ -1994,6 +1974,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###general_subpub
 ###google-adsence-300-250
 ###google_adsencetxt
+###haut_site_pub
 ###head-pub
 ###head_pub
 ###header-pub
