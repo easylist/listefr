@@ -3418,7 +3418,7 @@ blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 pyrenees-team.com##div#link
 pubeco.fr##div.w100p.h60
-lachainemeteo.com##div[class] > div[class] > div[class] > div[class] > div[class] > div[class] > div[class] > div[class] > div[class]
+lachainemeteo.com##div:last-child > div[id][class]:first-child:last-child > div[id][class]:first-child:last-child
 lefigaro.fr##div[data-footer-label="Service Partenaire"]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
 actufoot.fr,livefootball.fr,mercato.fr##div[id^="ad6b_"]
