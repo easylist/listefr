@@ -4033,6 +4033,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@|http://*.amurt.org.uk/*.js|$script,third-party
 @@|http://*.ax.lt/*.js|$script,third-party
 @@|http://*.cc.st/*.js|$script,third-party
+@@|http://*.clou.ovh/*.js|$script,third-party
 @@|http://*.com.br/*.js|$script,third-party
 @@|http://*.computersforpeace.net/*.js|$script,third-party
 @@|http://*.cr.rs/*.js|$script,third-party
@@ -4210,6 +4211,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 |http://*.base-v.ch/$third-party,xmlhttprequest
 |http://*.caledonianlab.com/$third-party,xmlhttprequest
 |http://*.cc.st/$third-party,xmlhttprequest
+|http://*.clou.ovh/$third-party,xmlhttprequest
 |http://*.cloudwatch.net/$third-party,xmlhttprequest
 |http://*.colle.ovh/$third-party,xmlhttprequest
 |http://*.computersforpeace.net/$third-party,xmlhttprequest
@@ -4318,15 +4320,16 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ||404.mn^$third-party
 ||4twenty.us^$third-party
 ||amurt.org.uk^$third-party
-||axlnp.us.to^$third-party
 ||bengkayang.go.id^$third-party
 ||cifqr.69.mu^$third-party
+||clou.ovh^$third-party
 ||colle.ovh^$third-party
 ||computersforpeace.net^$third-party
 ||cvhyx.vr.lt^$third-party
 ||delovoimir.kz^$third-party
 ||dmz.se^$third-party
 ||ebogh.mm.my^$third-party
+||entermypicks.com^$third-party
 ||fairuse.org^$third-party
 ||fcsillamae.ee^$third-party
 ||fcwsk.ro.lt^$third-party
