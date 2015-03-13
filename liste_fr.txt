@@ -3789,7 +3789,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||www6.smartadserver.com/call/pubdirj/$script,domain=notre-planete.info
 ! Videoplaza
 #@##AdArea
-#@##banner
 @@||bobodise.com^*^adv_partner^$object-subrequest
 @@||schneevonmorgen.com^*^adv_partner^$object-subrequest
 ! Secret Media
@@ -4073,7 +4072,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@|http://*.us.to/*.js|$script,third-party
 @@|http://*.verdefaith.org/*.js|$script,third-party
 @@|http://*.vr.lt/*.js|$script,third-party
-@@|http://*.wins.com.br/*.js|$script,third-party
 @@|http://*.womenclothingtoday.com/*.js|$script,third-party
 @@|http://*.worldstopbrands.com/*.js|$script,third-party
 @@|http://*.zonet.us/*.js|$script,third-party
@@ -4213,7 +4211,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 |http://*.cc.st/$third-party,xmlhttprequest
 |http://*.cloudwatch.net/$third-party,xmlhttprequest
 |http://*.colle.ovh/$third-party,xmlhttprequest
-|http://*.com.br/$third-party,xmlhttprequest
 |http://*.computersforpeace.net/$third-party,xmlhttprequest
 |http://*.cr.rs/$third-party,xmlhttprequest
 |http://*.crackedsidewalks.com/$third-party,xmlhttprequest
@@ -4329,7 +4326,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ||delovoimir.kz^$third-party
 ||dmz.se^$third-party
 ||ebogh.mm.my^$third-party
-||eprij.hs.vc^$third-party
 ||fairuse.org^$third-party
 ||fcsillamae.ee^$third-party
 ||fcwsk.ro.lt^$third-party
@@ -4345,9 +4341,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ||hs.vc^$third-party
 ||hupix.ro.lt^$third-party
 ||ip.lc^$third-party
-||jmxao.ip.lc^$third-party
 ||krash.net^$third-party
-||kxtby.dmz.se^$third-party
 ||linuxx.org^$third-party
 ||lvorz.ax.lt^$third-party
 ||malam.or.id^$third-party
@@ -4388,10 +4382,8 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ||xuwnh.us.to^$third-party
 ||ycibh.gw.lt^$third-party
 ||ydfbg.us.to^$third-party
-||ygsmb.fairuse.org^$third-party
 ||ytrhu.us.to^$third-party
 ||zanity.net^$third-party
-||zhcdr.computersforpeace.net^$third-party
 ||zonet.us^$third-party
 !
 #@##bannerAdContainer1_1
