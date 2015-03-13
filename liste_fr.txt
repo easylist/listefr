@@ -4062,6 +4062,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||caledonianlab.com/*.js|$script,third-party
 @@||chqbp.69.mu/*.js|$script,third-party
 @@||cloudwatch.net/*.js|$script,third-party
+@@||colle.ovh/*.js|$script,third-party
 @@||computersforpeace.net/*.js|$script,third-party
 @@||crabdance.com/*.js|$script,third-party
 @@||crackedsidewalks.com/*.js|$script,third-party
@@ -4178,6 +4179,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 |http://*.caledonianlab.com/$third-party,xmlhttprequest
 |http://*.cc.st/$third-party,xmlhttprequest
 |http://*.cloudwatch.net/$third-party,xmlhttprequest
+|http://*.colle.ovh/$third-party,xmlhttprequest
 |http://*.com.br/$third-party,xmlhttprequest
 |http://*.computersforpeace.net/$third-party,xmlhttprequest
 |http://*.cr.rs/$third-party,xmlhttprequest
@@ -4280,6 +4282,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ||axlnp.us.to^$third-party
 ||bengkayang.go.id^$third-party
 ||cifqr.69.mu^$third-party
+||colle.ovh^$third-party
 ||cvhyx.vr.lt^$third-party
 ||delovoimir.kz^$third-party
 ||ebogh.mm.my^$third-party
