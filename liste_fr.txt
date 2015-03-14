@@ -4031,6 +4031,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@|http://*.404.mn/*.js|$script,third-party
 @@|http://*.4twenty.us/*.js|$script,third-party
 @@|http://*.69.mu/*.js|$script,third-party
+@@|http://*.aiguille.ovh/*.js|$script,third-party
 @@|http://*.amurt.org.uk/*.js|$script,third-party
 @@|http://*.ax.lt/*.js|$script,third-party
 @@|http://*.cc.st/*.js|$script,third-party
@@ -4202,6 +4203,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 |http://*.69.mu/$third-party,xmlhttprequest
 |http://*.905tech.com/$third-party,xmlhttprequest
 |http://*.abuser.eu/$third-party,xmlhttprequest
+|http://*.aiguille.ovh/$third-party,xmlhttprequest
 |http://*.amurt.org.uk/$third-party,xmlhttprequest
 |http://*.anonymous.lv/$third-party,xmlhttprequest
 |http://*.antongorbunov.com/$third-party,xmlhttprequest
@@ -4320,6 +4322,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 |http://*.zonet.us/$third-party,xmlhttprequest
 ||404.mn^$third-party
 ||4twenty.us^$third-party
+||aiguille.ovh^$third-party
 ||amurt.org.uk^$third-party
 ||bengkayang.go.id^$third-party
 ||cifqr.69.mu^$third-party
