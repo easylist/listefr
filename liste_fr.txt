@@ -4079,12 +4079,14 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@|http://*.womenclothingtoday.com/*.js|$script,third-party
 @@|http://*.worldstopbrands.com/*.js|$script,third-party
 @@|http://*.zonet.us/*.js|$script,third-party
+@@|http://www.*.ovh/*.js|$script,third-party
 @@||3dxtras.com/*.js|$script,third-party
 @@||404.mn/*.js|$script,third-party
 @@||4twenty.us/*.js|$script,third-party
 @@||905tech.com/*.js|$script,third-party
 @@||abuser.eu/*.js|$script,third-party
 @@||afust.ax.lt/*.js|$script,third-party
+@@||ampoule.ovh/*.js|$script,third-party
 @@||amurt.org.uk/*.js|$script,third-party
 @@||anonymous.lv/*.js|$script,third-party
 @@||antongorbunov.com/*.js|$script,third-party
@@ -4204,6 +4206,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 |http://*.905tech.com/$third-party,xmlhttprequest
 |http://*.abuser.eu/$third-party,xmlhttprequest
 |http://*.aiguille.ovh/$third-party,xmlhttprequest
+|http://*.ampoule.ovh/$third-party,xmlhttprequest
 |http://*.amurt.org.uk/$third-party,xmlhttprequest
 |http://*.anonymous.lv/$third-party,xmlhttprequest
 |http://*.antongorbunov.com/$third-party,xmlhttprequest
@@ -4320,9 +4323,11 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 |http://*.wtf.im/$third-party,xmlhttprequest
 |http://*.zanity.net/$third-party,xmlhttprequest
 |http://*.zonet.us/$third-party,xmlhttprequest
+|http://www.*.ovh/$third-party,xmlhttprequest
 ||404.mn^$third-party
 ||4twenty.us^$third-party
 ||aiguille.ovh^$third-party
+||ampoule.ovh^$third-party
 ||amurt.org.uk^$third-party
 ||bengkayang.go.id^$third-party
 ||cifqr.69.mu^$third-party
@@ -4387,6 +4392,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ||wjvmp.us.to^$third-party
 ||womenclothingtoday.com^$third-party
 ||worldstopbrands.com^$third-party
+||www.*.ovh^$third-party
 ||xuwnh.us.to^$third-party
 ||ycibh.gw.lt^$third-party
 ||ydfbg.us.to^$third-party
