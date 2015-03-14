@@ -780,6 +780,7 @@ _regiepub/
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
+|http://*.in/crossdomain.xml$object-subrequest,domain=wat.tv
 |http://*/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
 |http://*/crossdomain.xml$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 ||01net.com^*/adnl.$script
@@ -3874,6 +3875,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ||existentialphilosopherthespesiapopulnea.com^$third-party
 ||faintheartedsharkoil.info^$third-party
 ||familyperipatidaegenusacrocomia.info^$third-party
+||fastestattractive.in^$third-party
 ||floretnonvolatilisable.org^$third-party
 ||foodelevatororbignya.com^$third-party
 ||foodstamprhyacotritonolympicus.org^$third-party
