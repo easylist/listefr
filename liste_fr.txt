@@ -22,15 +22,19 @@
 /468x60banner.
 /acad.$script
 /ads-ext.
+/ads-google-adsense.js
 /ads?p=
+/ads_$popup
 /ads_block
 /Adv728.
 /aff_pub_
 /affiliate.*/banner
+/affpx.php
 /amazon-product-in-a-post-plugin/*
 /b2bad.
 /b2bad?
 /bandeaupublicite/*
+/banner_campaign_
 /banners-ads/*
 /banners-pub/*
 /banniere728x90_
@@ -47,6 +51,8 @@
 /layout/ads?
 /miniads/*
 /modules.pub.
+/page_pub.
+/pagepub.
 /pub-300x250.
 /pub300-250.
 /pub468x60.
@@ -76,11 +82,13 @@
 ?clickTag=
 @publicite@
 _pub_728.
+_publ1c1te.
 _publicitaire/
 _publicite.
 _publicite1.
 _publicite_
 _regiepub/
+_smads_
 !
 !----------------------- Annonceurs -----------------------!
 !
@@ -952,7 +960,6 @@ _regiepub/
 ||coco.fr/chat/bigban
 ||code-promo.01net.com/widget/
 ||codepromo.programme-tv.net/snippets/
-||commeaucinema.com/ads/
 ||compteur-gratuit.fr/images/bandeau_
 ||compteur-gratuit.fr/pub_
 ||comptoir-hardware.com/edi/$subdocument
@@ -999,7 +1006,6 @@ _regiepub/
 ||degrouptest.com/styles/pub*.css
 ||delamusique.com/js/jquery.rotator.js
 ||deliv.leboncoin.fr^
-||demooniak.com/ads_all1.php^$popup
 ||demotivateur.fr/images/hab*.jpg
 ||depechedekabylie.com/files.php?file=banners/
 ||depechedekabylie.com/files.php?file=pub/
@@ -1037,7 +1043,6 @@ _regiepub/
 ||dzfoot.com/Hab_hs-1.jpg
 ||dzfoot.com/panimation.swf
 ||dzfoot.com/swf/
-||dzfoot.com/tagads.php
 ||dzfoot.com/upload/hs_dzfoot-com.jpg
 ||dzmeteo.com/dzm.php
 ||dzmusique.com/images/fond_pantene.
@@ -1287,7 +1292,6 @@ _regiepub/
 ||kaamelott-streaming.tv/images/m6-wideo-france.jpg
 ||kairn.com/*/pub.
 ||kairn.com/files/pub/
-||kelbillet.com/ws_smads_integration.php
 ||kits-graphiques-deluxe.com/images/pub1.jpg
 ||koaci.com/pub/
 ||konbini.com^*/xhabillage_
@@ -1397,7 +1401,6 @@ _regiepub/
 ||libe.com/libepartnerships/
 ||libellules.ch/infomaniak-hosted-by-black-transparent.png
 ||libertyland.tv/libertyland/images/partenaire/
-||libertyland.tv^*/pagepub.php?
 ||libre.eu/homepage/relooking/
 ||lien-torrent.com^$subdocument
 ||liens-de-telechargement.com/popmodal/
@@ -1423,11 +1426,10 @@ _regiepub/
 ||madcine.com/xhtml/pubd*.html
 ||maghrebemergent.com/images/banners/
 ||maghrebemergent.info/images/banners/
-||mailizic.info/shared/_publ1c1te.html.php
 ||mailorama.fr^*/wearing/habillage_
 ||maisonbrico.com/images/partenaires/
 ||manga-news.com/public/banners/
-||mangavatars.com/include/partenaires.php3
+||mangavatars.com/include/partenaires.php
 ||mangavatars.com/include/topsite.php3
 ||manifone.com/banner/
 ||mappy.com/*/files/campaigns/
@@ -1465,9 +1467,7 @@ _regiepub/
 ||mensuelautomobile.com/files/banners/
 ||mercato365.fr/pub.php?
 ||mes-dialogues.net^*/gaysize.gif
-||mes-dialogues.net^*/page_pub.php?
 ||mesdialogues.net^*/gaysize.gif
-||mesdialogues.net^*/page_pub.php?
 ||mesfilmsstreaming.com/images/download_films.png
 ||mesliensx.com/images/bannieres/
 ||mesnotices.fr/shopping/
@@ -1640,7 +1640,6 @@ _regiepub/
 ||rugbynews.fr/?specialSports$popup,domain=sports.fr
 ||sainte-marie-mineral.com/img/pub_
 ||sbx.pagesjaunes.fr^
-||scan-mx.com^*/affpx.php
 ||scifi-movies.com/images/autre/promo/
 ||scoopers.com/?o=$popup
 ||script-pag.com/demo/fr/images/pub/
@@ -1691,7 +1690,6 @@ _regiepub/
 ||spin-off.fr/images/vpngratuitspinfoff.gif
 ||sport365.fr/pub.php?
 ||sports.fr/includes/cobrand/*/habillage/
-||sports.fr^*/ads-google-adsense.js
 ||sports.fr^*/partenaires/
 ||staractus.fr/wp-content/uploads/*/amazon.gif
 ||staractus.fr/wp-content/uploads/*/habillage.gif
@@ -1865,8 +1863,6 @@ _regiepub/
 ||webstar-auto.com/banners_pub/
 ||webstar-auto.com/documents/document_service_*.swf
 ||webstar-auto.com/iframe_autos_neufs_occasions.php
-||webstar-auto.com^*/banner_campaign_affiche.php
-||webstar-electro.com^*/banner_campaign_affiche.php
 ||webxfrance.org/images/bann_
 ||weemove.com/ressources/images/habillages/
 ||wgcdn.net/widget/
