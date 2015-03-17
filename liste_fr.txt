@@ -442,6 +442,7 @@ _smads_
 ||cashtravel.info/banners/
 ||cdn.a9fast.com^*/misc/partner/
 ||cdn.installclick.fr^*/ad.html
+||cdn.m6web.fr/creatives/assets/
 ||cdscdn.com*^/footerPartnerOffers.js
 ||cdscdn.com/imagesok/tetiere/partners/
 ||cdscdn.com/other/banniere_
@@ -3793,6 +3794,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 ! notre-planete.info
 @@||cas.criteo.com/delivery/ajs.php?$script,domain=notre-planete.info
+@@||m6web.fr^elemhide
 @@||notre-planete.info^$elemhide
 @@||pagead2.googlesyndication.com/pagead/$script,domain=notre-planete.info
 @@||www6.smartadserver.com/call/pubdirj/$script,domain=notre-planete.info
@@ -3800,6 +3802,7 @@ notre-planete.info###abp
 ! Videoplaza
 #@##AdArea
 @@||bobodise.com^*^adv_partner^$object-subrequest
+@@||fr-m6.videoplaza.tv/proxy/distributor/
 @@||schneevonmorgen.com^*^adv_partner^$object-subrequest
 ! Secret Media
 ##div > a[target="_blank"] > img[width="300"][height="600"][title][alt]:first-child
