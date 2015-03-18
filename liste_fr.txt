@@ -4098,6 +4098,7 @@ notre-planete.info###abp
 @@|http://*.worldstopbrands.com/*.js|$script,third-party
 @@|http://*.zonet.us/*.js|$script,third-party
 @@|http://www.*.ovh/*.js|$script,third-party
+@@|http://www.*.science/*.js|$script,third-party
 @@||3dxtras.com/*.js|$script,third-party
 @@||404.mn/*.js|$script,third-party
 @@||4twenty.us/*.js|$script,third-party
@@ -4238,6 +4239,7 @@ notre-planete.info###abp
 |http://*.clou.ovh/$third-party,xmlhttprequest
 |http://*.cloudwatch.net/$third-party,xmlhttprequest
 |http://*.colle.ovh/$third-party,xmlhttprequest
+|http://*.comme.science/$third-party,xmlhttprequest
 |http://*.computersforpeace.net/$third-party,xmlhttprequest
 |http://*.cr.rs/$third-party,xmlhttprequest
 |http://*.crackedsidewalks.com/$third-party,xmlhttprequest
@@ -4351,6 +4353,7 @@ notre-planete.info###abp
 ||cifqr.69.mu^$third-party
 ||clou.ovh^$third-party
 ||colle.ovh^$third-party
+||comme.science^$third-party
 ||computersforpeace.net^$third-party
 ||cvhyx.vr.lt^$third-party
 ||delovoimir.kz^$third-party
