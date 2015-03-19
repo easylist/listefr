@@ -4222,6 +4222,7 @@ notre-planete.info###abp
 @@||wtf.im/*.js|$script,third-party
 @@||yblpg.ax.lt/*.js|$script,third-party
 @@||yspzd.na.tl/*.js|$script,third-party
+!
 |http://*.404.mn/$third-party,xmlhttprequest
 |http://*.4twenty.us/$third-party,xmlhttprequest
 |http://*.69.mu/$third-party,xmlhttprequest
@@ -4345,6 +4346,10 @@ notre-planete.info###abp
 |http://*.wtf.im/$third-party,xmlhttprequest
 |http://*.zanity.net/$third-party,xmlhttprequest
 |http://*.zonet.us/$third-party,xmlhttprequest
+||comme.science/$third-party,xmlhttprequest
+||pouvoir.science/$third-party,xmlhttprequest
+||qui.science/$third-party,xmlhttprequest
+!
 ||404.mn^$third-party
 ||4twenty.us^$third-party
 ||aiguille.ovh^$third-party
@@ -4354,7 +4359,6 @@ notre-planete.info###abp
 ||cifqr.69.mu^$third-party
 ||clou.ovh^$third-party
 ||colle.ovh^$third-party
-||comme.science/$third-party,xmlhttprequest
 ||comme.science^$third-party
 ||computersforpeace.net^$third-party
 ||cvhyx.vr.lt^$third-party
@@ -4397,11 +4401,9 @@ notre-planete.info###abp
 ||panther-fab.com^$third-party
 ||pfrns.us.to^$third-party
 ||possessed.us^$third-party
-||pouvoir.science/$third-party,xmlhttprequest
 ||pouvoir.science^$third-party
 ||pxunl.mm.my^$third-party
 ||pyjmc.cc.st^$third-party
-||qui.science/$third-party,xmlhttprequest
 ||qui.science^$third-party
 ||rhlsv.ro.lt^$third-party
 ||rlhdw.ax.lt^$third-party
