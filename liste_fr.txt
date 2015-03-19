@@ -4047,7 +4047,6 @@ notre-planete.info###abp
 ||unbarreleddarkened.net^$third-party
 ||underlaymentgallstone.net^$third-party
 ! Adunblock
-@@|comme.science/*.js|$script,third-party
 @@|http://*.404.mn/*.js|$script,third-party
 @@|http://*.4twenty.us/*.js|$script,third-party
 @@|http://*.69.mu/*.js|$script,third-party
@@ -4100,8 +4099,6 @@ notre-planete.info###abp
 @@|http://*.womenclothingtoday.com/*.js|$script,third-party
 @@|http://*.worldstopbrands.com/*.js|$script,third-party
 @@|http://*.zonet.us/*.js|$script,third-party
-@@|http://www.*.ovh/*.js|$script,third-party
-@@|pouvoir.science/*.js|$script,third-party
 @@||3dxtras.com/*.js|$script,third-party
 @@||404.mn/*.js|$script,third-party
 @@||4twenty.us/*.js|$script,third-party
@@ -4122,6 +4119,7 @@ notre-planete.info###abp
 @@||chqbp.69.mu/*.js|$script,third-party
 @@||cloudwatch.net/*.js|$script,third-party
 @@||colle.ovh/*.js|$script,third-party
+@@||comme.science/*.js|$script,third-party
 @@||computersforpeace.net/*.js|$script,third-party
 @@||crabdance.com/*.js|$script,third-party
 @@||crackedsidewalks.com/*.js|$script,third-party
@@ -4192,10 +4190,12 @@ notre-planete.info###abp
 @@||pirat3.com/*.js|$script,third-party
 @@||port0.org/*.js|$script,third-party
 @@||possessed.us/*.js|$script,third-party
+@@||pouvoir.science/*.js|$script,third-party
 @@||privatedns.org/*.js|$script,third-party
 @@||publi.ch/*.js|$script,third-party
 @@||qjbvc.ro.lt/*.js|$script,third-party
 @@||quannhacvang.com/*.js|$script,third-party
+@@||qui.science/*.js|$script,third-party
 @@||rcwmu.us.to/*.js|$script,third-party
 @@||remote.mx/*.js|$script,third-party
 @@||sefpq.us.to/*.js|$script,third-party
@@ -4242,7 +4242,6 @@ notre-planete.info###abp
 |http://*.clou.ovh/$third-party,xmlhttprequest
 |http://*.cloudwatch.net/$third-party,xmlhttprequest
 |http://*.colle.ovh/$third-party,xmlhttprequest
-|http://*.comme.science/$third-party,xmlhttprequest
 |http://*.computersforpeace.net/$third-party,xmlhttprequest
 |http://*.cr.rs/$third-party,xmlhttprequest
 |http://*.crackedsidewalks.com/$third-party,xmlhttprequest
@@ -4316,7 +4315,6 @@ notre-planete.info###abp
 |http://*.pirat3.com/$third-party,xmlhttprequest
 |http://*.port0.org/$third-party,xmlhttprequest
 |http://*.possessed.us/$third-party,xmlhttprequest
-|http://*.pouvoir.science/$third-party,xmlhttprequest
 |http://*.privatedns.org/$third-party,xmlhttprequest
 |http://*.publi.ch/$third-party,xmlhttprequest
 |http://*.qq.my/$third-party,xmlhttprequest
@@ -4356,6 +4354,7 @@ notre-planete.info###abp
 ||cifqr.69.mu^$third-party
 ||clou.ovh^$third-party
 ||colle.ovh^$third-party
+||comme.science/$third-party,xmlhttprequest
 ||comme.science^$third-party
 ||computersforpeace.net^$third-party
 ||cvhyx.vr.lt^$third-party
@@ -4398,9 +4397,12 @@ notre-planete.info###abp
 ||panther-fab.com^$third-party
 ||pfrns.us.to^$third-party
 ||possessed.us^$third-party
+||pouvoir.science/$third-party,xmlhttprequest
 ||pouvoir.science^$third-party
 ||pxunl.mm.my^$third-party
 ||pyjmc.cc.st^$third-party
+||qui.science/$third-party,xmlhttprequest
+||qui.science^$third-party
 ||rhlsv.ro.lt^$third-party
 ||rlhdw.ax.lt^$third-party
 ||rootns.com^$third-party
