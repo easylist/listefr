@@ -4118,6 +4118,7 @@ notre-planete.info###abp
 @@||amurt.org.uk/*.js|$script,third-party
 @@||anonymous.lv/*.js|$script,third-party
 @@||antongorbunov.com/*.js|$script,third-party
+@@||avoir.science/*.js|$script,third-party
 @@||awiki.org/*.js|$script,third-party
 @@||azqmf.ro.lt/*.js|$script,third-party
 @@||b33r.us/*.js|$script,third-party
@@ -4355,6 +4356,7 @@ notre-planete.info###abp
 |http://*.wtf.im/$third-party,xmlhttprequest
 |http://*.zanity.net/$third-party,xmlhttprequest
 |http://*.zonet.us/$third-party,xmlhttprequest
+||avoir.science/$third-party,xmlhttprequest
 ||comme.science/$third-party,xmlhttprequest
 ||pouvoir.science/$third-party,xmlhttprequest
 ||qui.science/$third-party,xmlhttprequest
@@ -4364,6 +4366,7 @@ notre-planete.info###abp
 ||aiguille.ovh^$third-party
 ||ampoule.ovh^$third-party
 ||amurt.org.uk^$third-party
+||avoir.science^$third-party
 ||bengkayang.go.id^$third-party
 ||cifqr.69.mu^$third-party
 ||clou.ovh^$third-party
