@@ -4042,6 +4042,7 @@ notre-planete.info###abp
 ||unbarreleddarkened.net^$third-party
 ||underlaymentgallstone.net^$third-party
 ! Adunblock
+@@|comme.science/*.js|$script,third-party
 @@|http://*.404.mn/*.js|$script,third-party
 @@|http://*.4twenty.us/*.js|$script,third-party
 @@|http://*.69.mu/*.js|$script,third-party
@@ -4095,7 +4096,7 @@ notre-planete.info###abp
 @@|http://*.worldstopbrands.com/*.js|$script,third-party
 @@|http://*.zonet.us/*.js|$script,third-party
 @@|http://www.*.ovh/*.js|$script,third-party
-@@|http://www.*.science/*.js|$script,third-party
+@@|pouvoir.science/*.js|$script,third-party
 @@||3dxtras.com/*.js|$script,third-party
 @@||404.mn/*.js|$script,third-party
 @@||4twenty.us/*.js|$script,third-party
@@ -4310,6 +4311,7 @@ notre-planete.info###abp
 |http://*.pirat3.com/$third-party,xmlhttprequest
 |http://*.port0.org/$third-party,xmlhttprequest
 |http://*.possessed.us/$third-party,xmlhttprequest
+|http://*.pouvoir.science/$third-party,xmlhttprequest
 |http://*.privatedns.org/$third-party,xmlhttprequest
 |http://*.publi.ch/$third-party,xmlhttprequest
 |http://*.qq.my/$third-party,xmlhttprequest
@@ -4391,6 +4393,7 @@ notre-planete.info###abp
 ||panther-fab.com^$third-party
 ||pfrns.us.to^$third-party
 ||possessed.us^$third-party
+||pouvoir.science^$third-party
 ||pxunl.mm.my^$third-party
 ||pyjmc.cc.st^$third-party
 ||rhlsv.ro.lt^$third-party
