@@ -928,6 +928,7 @@ _smads_
 ||caledoccaz.com/PUBS/
 ||cameroon-info.net/img/banners/
 ||camptocamp.org/static/images/pub/
+||canal-plus.com/creatives/assets/
 ||canal-plus.net/image/97/0/449970.jpg
 ||canalplus.fr/bigplayer/js/pub_smart.js
 ||canalplus.fr/bigplayer/pub.html
@@ -3803,6 +3804,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 ! notre-planete.info
+@@||canalplus.fr^$elemhide
 @@||cas.criteo.com/delivery/ajs.php?$script,domain=notre-planete.info
 @@||m6web.fr^elemhide
 @@||notre-planete.info^$elemhide
