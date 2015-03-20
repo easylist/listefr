@@ -4149,6 +4149,7 @@ notre-planete.info###abp
 @@||ebogh.mm.my/*.js|$script,third-party
 @@||efnet.at/*.js|$script,third-party
 @@||entermypicks.com/*.js|$script,third-party
+@@||etre.science/*.js|$script,third-party
 @@||evils.in/*.js|$script,third-party
 @@||eviyx.qq.my/*.js|$script,third-party
 @@||fairuse.org/*.js|$script,third-party
@@ -4363,6 +4364,7 @@ notre-planete.info###abp
 |http://*.zonet.us/$third-party,xmlhttprequest
 ||avoir.science/$third-party,xmlhttprequest
 ||comme.science/$third-party,xmlhttprequest
+||etre.science/$third-party,xmlhttprequest
 ||pouvoir.science/$third-party,xmlhttprequest
 ||qui.science/$third-party,xmlhttprequest
 !
@@ -4383,6 +4385,7 @@ notre-planete.info###abp
 ||dmz.se^$third-party
 ||ebogh.mm.my^$third-party
 ||entermypicks.com^$third-party
+||etre.science^$third-party
 ||fairuse.org^$third-party
 ||fcsillamae.ee^$third-party
 ||fcwsk.ro.lt^$third-party
