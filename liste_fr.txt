@@ -767,7 +767,6 @@ _smads_
 ||untravailadomicile.info/images/banner
 ||url.ph/banners/
 ||vernimmen.net/images/flash/300x300_$third-party
-||videoplaza.tv/creatives/assets/$object-subrequest,domain=rfi.fr
 ||videos-de-celebrites.com/CMF_Banners/
 ||viwii.net/banners/$third-party
 ||voiture-ligier.info/pub1.
@@ -3626,7 +3625,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||assiste.free.fr/Assiste/media/images/Ad-Aware_
 @@||aw-experience.com/banners/b0.png
 @@||banners.oxiads.fr/player/
-@@||be-rtl.videoplaza.tv/proxy/distributor/v2?$xmlhttprequest,domain=radiocontact.be
 @@||beaute-test.com/global/ads.js
 @@||beead.fr^$domain=doc-etudiant.fr|ouifm.fr|play.nrj.fr|radiofg.com|radioneo.org|replay.fr|rfm.fr|virginradio.fr|wakanim.tv
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
@@ -3638,7 +3636,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||cdn-static.liverail.com/crossdomain.xml$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
 @@||cdn.teads.tv/js/all-$script,domain=telechargement.zebulon.fr
-@@||cdn.videoplaza.tv/resources/html5-sdk/*-ea.min.js
 @@||chine-informations.com/javascript/advertisement.js
 @@||clic.reussissonsensemble.fr/click*.asp$domain=forfait-mobile-moins-cher.com
 @@||client.iraiser.eu/adserver/
@@ -3665,8 +3662,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||everlong.org/style/banner.php
 @@||evilox.com/includes/js/advertisement.js
 @@||fatherandsons.fr^*/opecom/affiliation/
-@@||fr-advideum.videoplaza.tv/proxy/distributor^$object-subrequest,domain=aufeminin.com|generation-nt.com|lefigaro.fr|rfi.fr
-@@||fr-canalplusdev.videoplaza.tv/proxy/html5-sdk/*-ea.min.js
 @@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
@@ -3779,7 +3774,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||viamichelin.be/static/advert/$script
 @@||viamichelin.ch/static/advert/$script
 @@||viamichelin.fr/static/advert/$script
-@@||videoplaza.tv/proxy/distributor/v2?$object-subrequest,domain=ultimedia.com
 @@||videos-pub.ftv-publicite.fr/media/$object-subrequest,domain=playerftp.videostream.fr
 @@||videos-pub.ftv-publicite.fr/player/ad2play.js$domain=tv5mondeplus.com
 @@||videos.direction-x.com^$object-subrequest,domain=liensporno.com
@@ -3815,10 +3809,11 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||www6.smartadserver.com/call/pubdirj/$script,domain=notre-planete.info
 notre-planete.info###abp
 ! Videoplaza
-#@##AD1line
+#@##sports_only_ads
 @@||bobodise.com^
-@@||fr-m6.videoplaza.tv/proxy/distributor/
 @@||schneevonmorgen.com^
+@@||videoplaza.tv/proxy/distributor/$object-subrequest,script,xmlhttprequest
+||videoplaza.tv/creatives/assets/$object-subrequest
 ! Secret Media
 ##div > a[target="_blank"] > img[width="300"][height="600"][title][alt]:first-child
 #@##ad_ad
