@@ -810,6 +810,7 @@ _smads_
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
+|http:$subdocument,third-party,domain=clictune.com
 |http://*.in/crossdomain.xml$object-subrequest,domain=wat.tv
 |http://*/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
 |http://*/crossdomain.xml$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
