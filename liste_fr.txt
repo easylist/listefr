@@ -3810,9 +3810,9 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 notre-planete.info###abp
 ! Videoplaza
 #@##sports_only_ads
-@@||bobodise.com^
-@@||schneevonmorgen.com^
-@@||videoplaza.tv/proxy/distributor/$object-subrequest,script,xmlhttprequest
+@@||bobodise.com^$object-subrequest
+@@||schneevonmorgen.com^$object-subrequest
+@@||videoplaza.tv/proxy/distributor/$object-subrequest,xmlhttprequest
 ||videoplaza.tv/creatives/assets/$object-subrequest
 ! Secret Media
 ##div > a[target="_blank"] > img[width="300"][height="600"][title][alt]:first-child
