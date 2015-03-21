@@ -25,6 +25,7 @@
 /ads-google-adsense.js
 /ads?p=
 /ads_$popup
+/ads_90_728.
 /ads_block
 /adsdino.
 /Adv728.
@@ -32,6 +33,8 @@
 /affiliate.*/banner
 /affpx.php
 /amazon-product-in-a-post-plugin/*
+/ar/ads/*
+/ara/ads/*
 /b2bad.
 /b2bad?
 /bandeaupublicite/*
@@ -41,6 +44,7 @@
 /banniere728x90_
 /banniere_pub.
 /bannieres_pub/*
+/bnr468.
 /brightcoveAds.
 /choixPubJS.
 /col_droite_googleads2
@@ -810,7 +814,7 @@ _smads_
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
-|http:$subdocument,third-party,domain=clictune.com
+|http:$subdocument,third-party,domain=clictune.com|sa.ae
 |http://*.in/crossdomain.xml$object-subrequest,domain=wat.tv
 |http://*/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
 |http://*/crossdomain.xml$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
@@ -1933,6 +1937,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 /adblock-alerter/*
+/antiadblockmsg.
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
 ||pubdirecte.com^$~collapse,domain=debrideurstream.fr
 !
@@ -1963,6 +1968,14 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###ad_mpu_1_placeholder
 ###ad_rotation_match
 ###adblockDetect
+###ads-320x50-I1
+###ads-320x50-I2
+###ads-320x50-I3
+###ads-320x50-I4
+###ads-728x90-I2
+###ads-728x90-I3
+###ads-728x90-I4
+###ads-970x60-I1
 ###ads-medium-rectangle
 ###ads125-box
 ###adsCarre
@@ -2002,6 +2015,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###content_left_pub
 ###content_pub_carre
 ###contextuel-publicite-video
+###custom-ad
 ###divPub
 ###div_pub_google
 ###encart-adsense-top-single
@@ -2050,6 +2064,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###pub-728
 ###pub-728-90-sous-categories
 ###pub-728x90
+###pub-730x90
 ###pub-ban
 ###pub-banner
 ###pub-center
@@ -2189,14 +2204,19 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###zone_pub
 ###zone_pub1
 ##.BannierePub
+##.MobAdsHeader
 ##._meltypub
 ##.ad-sponsored
 ##.ad_header_728x90
 ##.adbanner600active
 ##.adf_marketingbanner
 ##.adf_mpu
+##.ads-970x60
 ##.ads-sponsored-text
+##.ads_box_home_box
 ##.adspave
+##.adv-header
+##.adv_cont
 ##.advertisement-pub
 ##.annonces_google
 ##.ast-block-adslot
@@ -2243,10 +2263,16 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.hnadszone
 ##.home_pub
 ##.iframe_pub
+##.innerpad
+##.inside_adv_section
 ##.kadmer-ad
+##.large-ad-center
+##.large-ad-center-close
+##.leftSideAds
 ##.leftmenupub
 ##.little_pub
 ##.logo_pub
+##.ltas_adspot
 ##.mailPubHeader
 ##.megapub
 ##.mueveads
@@ -2254,9 +2280,11 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.orange-ad
 ##.outer_ads_right
 ##.padscreen
+##.panet-mars-adv-panel
 ##.pave-pub
 ##.pave_pub
 ##.pave_pub2
+##.pm-ad-zone
 ##.po_wads
 ##.position_pub
 ##.ppub300
@@ -2265,6 +2293,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.pub-300x250
 ##.pub-728
 ##.pub-728x90
+##.pub-730x90
 ##.pub-banner
 ##.pub-block
 ##.pub-carre
@@ -2292,6 +2321,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.pub728_90
 ##.pub728x90
 ##.pub970x90
+##.pub980x90
 ##.pubBottomRight
 ##.pubBox
 ##.pubContainer
@@ -2369,6 +2399,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.row_pub
 ##.shopperAds
 ##.show-pub
+##.sidbar-ad1
 ##.snippet-publisher
 ##.sqrpub
 ##.srcPub
@@ -2385,6 +2416,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.widget_publicite
 ##.wrap-pub
 ##.wrapperPub
+##.yourcolor-ads
 ##.zonepub
 ##a[href*="&adurl="]
 ##a[href*="/?a_aid="]
