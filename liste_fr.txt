@@ -26,6 +26,7 @@
 /ads?p=
 /ads_$popup
 /ads_block
+/adsdino.
 /Adv728.
 /aff_pub_
 /affiliate.*/banner
@@ -76,6 +77,8 @@
 /regie_pub/*
 /regiepub/*
 /scripts/ads.
+/sdk-ads.
+/sdk-ads/*
 /ttn_adspaces
 /widgets-zoom-annonce-shopping.
 /widgets-zoom-mytravelchic.
@@ -115,6 +118,7 @@ _smads_
 ||adfever.com^$third-party
 ||adikteev.com^$third-party
 ||adinlive.com^$third-party
+||adk2x.com^$third-party
 ||admanmedia.fr^$third-party
 ||admark.fr^$third-party
 ||adoptima.com^$third-party
@@ -125,6 +129,7 @@ _smads_
 ||adserverpub.com^$popup
 ||adsitonline.net^$third-party
 ||adsregieonline.com^$third-party
+||adsrevenue.com^$third-party
 ||adstronic.net^$third-party
 ||adverpub.com^$third-party
 ||adverteasy.fr^$third-party
@@ -307,6 +312,7 @@ _smads_
 ||sascdn.com^
 ||say.fr^$third-party
 ||script.banstex.com^$third-party
+||sdk-ads.com^$third-party
 ||secretmedia.com^$third-party
 ||sex-affiliation.com^$third-party
 ||sextapes2stars.com^$third-party
@@ -771,6 +777,8 @@ _smads_
 ||viwii.net/banners/$third-party
 ||voiture-ligier.info/pub1.
 ||voiture-louer.info/pub.
+||voiture-louer.info/pub1.
+||voiture-net.info/pub.
 ||voiture-net.info/pub1.
 ||voyage-langue.com/widget/
 ||vshop.fr/js/freak*.js$third-party
@@ -1175,6 +1183,7 @@ _smads_
 ||free-reseau.fr/images/ban_
 ||free.fr/pubs_portail/
 ||free.fr^*/js/display_shopping_alice.js
+||freefoot.fr/pub.php
 ||freenduro.com/images/banners/
 ||french-movies.net/btn_usenet.png
 ||fullsharez.com/rotation3/
@@ -2730,7 +2739,7 @@ ecranlarge.com,lacanausurfinfo.com###promo
 extremepc.fr###promoHead + hr + .center
 trouvetamusique.com###promouvoirmusique
 streamnolimit.com###pscroller1
-allstreamz.com,annuaire-streaming.com,blogs.allocine.fr,centerblog.net,emule-island.ru,extremepc.fr,iphonesoft.fr,japan-expo.be,jeux-2-filles.com,jeuxonline.info,letudiant.fr,levraigabroy.com,nrj.be,nrj.fr,nuked-klan.org,olivierdauvers.fr,orange.fr,planet-casio.com,science-et-vie.com,service-public.fr,solutions-logiciels.com,sortir47.fr,toutpratique.com,virtuoflash.com,wareziens.net###pub
+allstreamz.com,annuaire-streaming.com,blogs.allocine.fr,centerblog.net,emule-island.ru,extremepc.fr,iphonesoft.fr,japan-expo.be,jeux-2-filles.com,jeuxonline.info,letudiant.fr,levraigabroy.com,nolyo-tv.com,nrj.be,nrj.fr,nuked-klan.org,olivierdauvers.fr,orange.fr,planet-casio.com,science-et-vie.com,service-public.fr,solutions-logiciels.com,sortir47.fr,toutpratique.com,virtuoflash.com,wareziens.net###pub
 nextinpact.com###pub-bot
 francebleu.fr,franceinfo.fr###pub-ftv-top
 jeu.info###pub0
@@ -2889,7 +2898,7 @@ reverso.net##.adcontent
 gmx.fr##.add
 beaute-test.com##.addictbloc
 01net.com##.adnl_zone
-actustar.com,cvya.dz,do-tube.org,fairytailmx.com,floriankarmen.com,footespagnol.fr,freedom-ip.com,htmlforums.com,lephpfacile.com,lequipe.fr,mercato365.com,metronews.fr,obturations.com,oujdacity.net,raje.fr,replay.fr,rugby365.fr,rugby365.fr.fr,scan-mx.com,sortiesdvd.com,sport365.fr,streaming-video3x.com,t411.io,telesatellite.com,tonmanga.com,uzinagaz.com,webstar-auto.com,webstar-electro.com,yourporno.fr##.ads
+actustar.com,cvya.dz,do-tube.org,fairytailmx.com,floriankarmen.com,footespagnol.fr,freedom-ip.com,htmlforums.com,lephpfacile.com,lequipe.fr,mercato365.com,metronews.fr,nolyo-tv.com,obturations.com,oujdacity.net,raje.fr,replay.fr,rugby365.fr,rugby365.fr.fr,scan-mx.com,sortiesdvd.com,sport365.fr,streaming-video3x.com,t411.io,telesatellite.com,tonmanga.com,uzinagaz.com,webstar-auto.com,webstar-electro.com,yourporno.fr##.ads
 artdeseduire.com##.ads-books
 artdeseduire.com##.ads-information
 cvya.dz##.ads-vert
