@@ -20,6 +20,7 @@
 .pubdirecte.
 .publicite.
 /468x60banner.
+/?do=goto_adv&id_adv=
 /acad.$script
 /ads-ext.
 /ads-google-adsense.js
@@ -90,6 +91,8 @@
 =publicite&
 ?clickTag=
 @publicite@
+_adb_300x250_$popup
+_adb_728x90_$popup
 _pages_ad.
 _pub_728.
 _publ1c1te.
@@ -143,6 +146,7 @@ _Social-Advert-
 ||adxcore.com^$popup,third-party
 ||affidate.com^$third-party
 ||affidirect.com^$third-party
+||affil4you.com^$third-party
 ||affiliation-france.com^$popup,third-party
 ||affiliation.hexaweb.net^
 ||affiliaweb.eu^$third-party
@@ -781,6 +785,7 @@ _Social-Advert-
 ||url.ph/banners/
 ||vernimmen.net/images/flash/300x300_$third-party
 ||videos-de-celebrites.com/CMF_Banners/
+||vine.co/v/OV390pOKMWI/$subdocument,domain=tuxboard.com
 ||viwii.net/banners/$third-party
 ||voiture-ligier.info/pub1.
 ||voiture-louer.info/pub.
@@ -1944,6 +1949,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 /adblock-alerter/*
 /antiadblockmsg.
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
+@@||esprit-click.com/check.js?ad_ids=$script
 ||pubdirecte.com^$~collapse,domain=debrideurstream.fr
 !
 !------------------ Éléments génériques -----------------!
@@ -2211,6 +2217,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.BannierePub
 ##.MobAdsHeader
 ##._meltypub
+##.a4u_banner_js
 ##.ad-sponsored
 ##.ad_header_728x90
 ##.adbanner600active
@@ -3583,8 +3590,6 @@ developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
 dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
-tuxboard.com##img[src^="data:image/gif;base64,"]
-tuxboard.com##img[src^="data:image/jpg;base64,"]
 sortir.eu##img[src^="http://www.lille.sortir.eu/portal_banneradmin/"]
 zataz.com##img[style="border: 0px solid ; width: 300px; height: 250px;"]
 zataz.com##img[style="border: 0px solid; width: 300px; height: 250px;"]
