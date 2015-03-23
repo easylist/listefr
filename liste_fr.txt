@@ -1952,7 +1952,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 /adblock-alerter/*
 /antiadblockmsg.
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
-@@||esprit-click.com/check.js?ad_ids=$script
+@@||esprit-click.com/*.js|$script,third-party
 ||pubdirecte.com^$~collapse,domain=debrideurstream.fr
 !
 !------------------ Éléments génériques -----------------!
@@ -3237,10 +3237,12 @@ jeuxvideo24.com##.pub300px
 bladi.net##.pub336
 bladi.net##.pub336footer
 desmatures.com##.pub468100top
+tuxboard.com##.pub728-90 + div[style^="background"]
 surf-heures.com##.pub72890-forum
 gaytag.net##.pub96590
 whitespirit.fr##.pubHaut
 tuxboard.com##.pubMixte
+tuxboard.com##.pubMixte + div[style^="background"]
 cdiscount.com##.pubText
 jds.fr##.pub_2_1000
 masculin.com##.pub_article
