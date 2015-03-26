@@ -2997,7 +2997,7 @@ e-jeune.net##.ban_carre_1366
 topsite-web.net##.bandeauHaut
 cdmail.fr##.bandeauvert
 orientation-chabab.com##.bann
-canalplus.fr,d8.tv,gulli.fr,kpopfm.fr,manga-news.com,orientation-chabab.com,trimag.fr,video-2-cul.com##.banner
+canalplus.fr,gulli.fr,kpopfm.fr,manga-news.com,orientation-chabab.com,trimag.fr,video-2-cul.com##.banner
 golem13.fr##.banner-halfpage
 mobilealgerie.com##.banner_sp
 auto-utilitaire.com,mobilealgerie.com##.banner_sp_art
@@ -3728,6 +3728,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||costacroisieres.fr/B2C/SharedResources/js/popunder.js
 @@||criteo.com/delivery/ajs.php?$script,domain=ville-ideale.com
 @@||cstatic.weborama.fr/js/advertiser/wbo_performance.js$domain=pmu.fr
+@@||d8.tv^$elemhide
 @@||daily-*.fr/images/*///pages/*_300x250.png
 @@||danslescoulisses.com^$elemhide
 @@||data.panachetech.com^$object-subrequest,domain=gameone.net
