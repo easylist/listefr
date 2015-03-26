@@ -4164,6 +4164,7 @@ notre-planete.info###abp
 ||marteau.ovh^$third-party
 ||mesurer.ovh^$third-party
 ||metal.ovh^$third-party
+||peinture.ovh^$third-party
 ||pouvoir.science^$third-party
 ||qui.science^$third-party
 !
@@ -4180,6 +4181,7 @@ notre-planete.info###abp
 @@||marteau.ovh/*.js|$script,third-party
 @@||mesurer.ovh/*.js|$script,third-party
 @@||metal.ovh/*.js|$script,third-party
+@@||peinture.ovh/*.js|$script,third-party
 @@||pouvoir.science/*.js|$script,third-party
 @@||qui.science/*.js|$script,third-party
 !
