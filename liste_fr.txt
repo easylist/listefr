@@ -863,7 +863,6 @@ _Social-Advert-
 ||7sur7.be/static/nmc/adv/
 ||a18ans.com/pub/
 ||a40ans.com/pub/
-||aaeps.fr/images/banners/
 ||abc-du-gratuit.com/bannieres/
 ||abcbourse.com^*/cortal_home.jpg
 ||absoluflash.com^*/jeux-ban/
@@ -3676,7 +3675,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@|http://*.js$script,third-party,domain=jeu.fr|jeux.fr
 @@||247realmedia.com/0/Player/Player_FR_Home/Box-2-FR.jpg$domain=eurosportplayer.fr
 @@||a.ligatus.com/?$script,domain=bfmtv.com
-@@||aaeps.fr/images/banners/find-us-on-facebook-3.png
 @@||ad.zanox.com/ppc/$popup
 @@||ad2play.ftv-publicite.fr/?sitepage=$subdocument,domain=mytaratata.com|psg.fr
 @@||ad2play.ftv-publicite.fr/js/ad2play.js$domain=mytaratata.com
