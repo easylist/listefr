@@ -31,6 +31,10 @@
 /ads_block
 /adsdino.
 /Adv728.
+/af-250x250.
+/af-300x250.
+/af-468x60.
+/af-728x90.
 /aff_pub_
 /affiliate.*/banner
 /affpx.php
@@ -407,6 +411,7 @@ _Social-Advert-
 ||11footballclub.com^*/indexhomepage2.php*&domain=
 ||123megaupload.com/site_media/pub/
 ||18etplus.com^
+||19h59.com/newstop.js
 ||1et2.org/sora/$image
 ||1x12.net^
 ||20dollars2surf.com/par_46860_
@@ -679,6 +684,7 @@ _Social-Advert-
 ||over-blog-kiwi.com^*/*_ban-300x250.
 ||oxiads.fr/www/images/
 ||oxyka.com/er/od.php?
+||oyant.com/images/banners/
 ||p0rno.com/banners/
 ||packbarre.com/pub/
 ||paradise-barre.com/bannieres/
@@ -1485,6 +1491,8 @@ _Social-Advert-
 ||madcine.com/xhtml/pubd*.html
 ||maghrebemergent.com/images/banners/
 ||maghrebemergent.info/images/banners/
+||maghrebspace.net/image/*/download32.jpg
+||maghrebspace.net/image/*/z9ram97.png
 ||mailorama.fr^*/wearing/habillage_
 ||maisonbrico.com/images/partenaires/
 ||manga-news.com/public/banners/
@@ -2081,6 +2089,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###imagePubPave
 ###innerpub
 ###j_ads
+###middle-publicite
 ###module_publicite
 ###msgNoPub
 ###news-droite-publicite
@@ -2207,6 +2216,8 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###publicite_728_90
 ###publicite_banniere
 ###publicite_banniere_haut
+###publicite_droite
+###publicite_gauche
 ###publicite_header
 ###publicite_liste_bookmaker
 ###publicite_right
@@ -2306,6 +2317,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.ltas_adspot
 ##.mailPubHeader
 ##.megapub
+##.middle-publicite
 ##.mueveads
 ##.nipnadszone
 ##.orange-ad
@@ -2418,8 +2430,11 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.publicite-bas
 ##.publicite1
 ##.publicite_3
+##.publicite_droite
+##.publicite_gauche
 ##.publicite_locale
 ##.publicite_r
+##.publicite_sous_slider
 ##.publiciteright
 ##.publicity
 ##.pubs_over
@@ -3787,6 +3802,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||m6replay.fr/js/advertisement.js
 @@||m6web.fr^*/increment?token=$image
 @@||mac4ever.com/min.php?$script
+@@||maghrebspace.net/js/advertisement.js
 @@||malakoffmederic.com/entreprise/*/affiliation/
 @@||malekal.com/ads/ads_php/banner.js
 @@||manga-news.com/public/banners/slide-
@@ -4406,6 +4422,7 @@ pharmasite.fr#@#.pub300
 whatpub.com#@#.pub_left
 lefigaro.fr#@#.pub_pave
 love-hinax.com#@#.publicite
+maghrebspace.net#@#.publicite_gauche
 imdb.com#@#.publicity
 maghrebspace.net#@#.top-publicite
 geekdefrance.fr#@#.topads
@@ -4417,6 +4434,7 @@ dbz-fantasy.com#@##adTeaser
 jetetroll.com#@##adsense
 ###anti_adblock
 scan-manga.com#@##ft_mpu
+###pub-haut-adblock
 scan-manga.com#@##pub_head
 debrideurstream.fr#@##pubdirecte
 ville-ideale.com###sp
