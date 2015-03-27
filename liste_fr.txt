@@ -1237,9 +1237,8 @@ _Social-Advert-
 ||gameblog.fr/images/oxalide_
 ||gameblog.fr/images/promo/
 ||gameblog.fr/skins/$image
+||gamekult.com/ajax-info/amazon-top-tout.html
 ||gamekult.com/i/partenaires/
-||gamekult.com/images/pubs/
-||gamekult.com/partenaires/
 ||gameonly.com^*/include/pub/
 ||gamer-network.fr/wp-content/uploads/*/FR_Gamer-network_300x300_
 ||gamer-network.fr/wp-content/uploads/G2a.swf
@@ -2656,7 +2655,6 @@ tsa-algerie.com###floatSide-right
 cinemavf.net,vfstreaminggratuit.com###floatlayer2
 algeriepatriotique.com###flottante_droite
 algeriepatriotique.com###flottante_gauche
-gamekult.com###fnac-top-list
 test-mobile.fr###fondhabillage
 nintendo-master.com###fondinter
 search.ke.voila.fr###fontDivVignette
@@ -4226,7 +4224,7 @@ notre-planete.info###abp
 #@##bannerGoogle
 #@##block-ad_cube-0
 #@##blox-big-ad-bottom
-@@||pagead2.googlesyndication.com/simgad/$image,third-party,domain=123coupedumonde2014.com|5nodes.fr|actu95.net|addons-wow.fr|adunblock.com|adunblock.fr|aeropassion.net|aiguille.ovh|allo-news.com|ampoule.ovh|annuaire-bleu.net|annuaire-email.net|anthonix.fr|applebigmac.fr|arnaques-internet.info|avoir.science|catswhocode.com|clou.ovh|colle.ovh|comme.science|consoledejeux.info|coolradio.be|developpez.com|developpez.net|etre.science|evoliofly.com|femmes-de-footballeurs.fr|festivalboujdour.com|gamekult.com|gamewinner.fr|geowiki.fr|gogo-films.com|imagesia.com|jackieetmicheltv.fr|kboard.fr|kerbalspaceprogram.fr|lebouletdunet.com|lolchat.fr|macworld.fr|monlinker3ds.com|monlinkerdsi.com|nifoune.com|oobby.com|opalenews.com|pcworld.fr|physagreg.fr|pouvoir.science|qui.science|seomaker.estsurle.net|space-forums.com|space-forums.net|styled-gaming.eu|sucha.net|suchablog.com|trackr.fr|vonox.fr|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxnews.com|xavboxone.com|xavboxphone.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxtuning.com|xavboxwii.com|xavboxwiiu.com
+@@||pagead2.googlesyndication.com/simgad/$image,third-party,domain=123coupedumonde2014.com|5nodes.fr|actu95.net|addons-wow.fr|adunblock.com|adunblock.fr|aeropassion.net|aiguille.ovh|allo-news.com|ampoule.ovh|annuaire-bleu.net|annuaire-email.net|anthonix.fr|applebigmac.fr|arnaques-internet.info|avoir.science|catswhocode.com|clou.ovh|colle.ovh|comme.science|consoledejeux.info|coolradio.be|developpez.com|developpez.net|etre.science|evoliofly.com|femmes-de-footballeurs.fr|festivalboujdour.com|gamewinner.fr|geowiki.fr|gogo-films.com|imagesia.com|jackieetmicheltv.fr|kboard.fr|kerbalspaceprogram.fr|lebouletdunet.com|lolchat.fr|macworld.fr|monlinker3ds.com|monlinkerdsi.com|nifoune.com|oobby.com|opalenews.com|pcworld.fr|physagreg.fr|pouvoir.science|qui.science|seomaker.estsurle.net|space-forums.com|space-forums.net|styled-gaming.eu|sucha.net|suchablog.com|trackr.fr|vonox.fr|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxnews.com|xavboxone.com|xavboxphone.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxtuning.com|xavboxwii.com|xavboxwiiu.com
 !
 @@/http://(?!ads\.ayads\.co/ajs.php)/$script,third-party,domain=suchablog.com
 @@/http://(?!clic\.illyx\.com/)/$script,third-party,domain=123coupedumonde2014.com
@@ -4252,7 +4250,6 @@ notre-planete.info###abp
 @@/http://(?!pubads\.g\.doubleclick\.net/gampad/ads\?g|pagead2\.googlesyndication\.com/pagead/show_ads|pagead2\.googlesyndication\.com/pagead/js/adsbygoogle)/$script,third-party,domain=aeropassion.net|coolradio.be|kerbalspaceprogram.fr
 @@/http://(?!roule\.nepasmanquer\.com/|dhtml\.pornravage\.com/|mods\.gdfspfg\.com/load|acces\.nepasmanquer\.com/|acces\.nepasmanquer\.com/|tool\.acces-vod\.com/banner/|aff\.optionbit\.com/)/$script,third-party,domain=lebouletdunet.com
 @@/http://(?!s3\.buysellads\.com/)/$script,third-party,domain=catswhocode.com
-@@/http://(?!www3\.smartadserver\.com/)/$script,third-party,domain=gamekult.com
 @@/http://(?!www\.arcalide\.com/affiliate_show_banner|pagead2\.googlesyndication\.com/pagead/js/adsbygoogle|www\.cadeaudenoel\.info/ban/)/$script,third-party,domain=xavboxwiiu.com
 @@/http://(?!www\.r4menu\.com/)/$script,third-party,domain=monlinker3ds.com|monlinkerdsi.com|xavboxds.com
 @@/http://(?!www\.xavboxnews\.com/files/|www\.aircig.com/media/affiliation/banner/|pagead2\.googlesyndication\.com/pagead/show_ads|www\.arcalide\.com/affiliate_show_banner|rcm-eu\.amazon-adsystem\.com/)/$script,third-party,domain=nifoune.com|xavboxwii.com
