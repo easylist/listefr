@@ -4170,9 +4170,9 @@ notre-planete.info###abp
 ||underlaymentgallstone.net^$third-party
 ! Adunblock
 |http://*.oneindonesia.co.id^$third-party
-||adunblock.com^$popup,third-party
+||adunblock.com/?utm_campaign=$popup
 ||adunblock.com^$third-party
-||adunblock.fr^$popup,third-party
+||adunblock.fr/?utm_campaign=$popup
 ||adunblock.fr^$third-party
 ||aiguille.ovh^$third-party
 ||ampoule.ovh^$third-party
