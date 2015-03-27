@@ -4171,6 +4171,11 @@ notre-planete.info###abp
 ||unbarreleddarkened.net^$third-party
 ||underlaymentgallstone.net^$third-party
 ! Adunblock
+|http://*.oneindonesia.co.id^$third-party
+||adunblock.com^$popup,third-party
+||adunblock.com^$third-party
+||adunblock.fr^$popup,third-party
+||adunblock.fr^$third-party
 ||aiguille.ovh^$third-party
 ||ampoule.ovh^$third-party
 ||avoir.science^$third-party
@@ -4187,9 +4192,15 @@ notre-planete.info###abp
 ||metre.ovh^$third-party
 ||peinture.ovh^$third-party
 ||percer.ovh^$third-party
+||pinceau.ovh^$third-party
 ||pouvoir.science^$third-party
 ||qui.science^$third-party
 !
+|http://*.oneindonesia.co.id/$third-party,xmlhttprequest
+!
+@@|http://*.oneindonesia.co.id/*.js|$script,third-party
+@@||adunblock.com/*.js|$script,third-party
+@@||adunblock.fr/*.js|$script,third-party
 @@||aiguille.ovh/*.js|$script,third-party
 @@||ampoule.ovh/*.js|$script,third-party
 @@||avoir.science/*.js|$script,third-party
@@ -4206,6 +4217,7 @@ notre-planete.info###abp
 @@||metre.ovh/*.js|$script,third-party
 @@||peinture.ovh/*.js|$script,third-party
 @@||percer.ovh/*.js|$script,third-party
+@@||pinceau.ovh/*.js|$script,third-party
 @@||pouvoir.science/*.js|$script,third-party
 @@||qui.science/*.js|$script,third-party
 !
@@ -4256,6 +4268,7 @@ notre-planete.info###abp
 @@||aiguille.ovh^$elemhide
 @@||allo-news.com^$elemhide
 @@||ampoule.ovh^$elemhide
+@@||aneviagaming.com^$elemhide
 @@||annuaire-bleu.net^$elemhide
 @@||annuaire-email.net^$elemhide
 @@||anthonix.fr^$elemhide
