@@ -4199,6 +4199,7 @@ notre-planete.info###abp
 ||pinceau.ovh^$third-party
 ||pouvoir.science^$third-party
 ||qui.science^$third-party
+||taper.ovh^$third-party
 !
 |http://*.oneindonesia.co.id/$third-party,xmlhttprequest
 !
@@ -4224,6 +4225,7 @@ notre-planete.info###abp
 @@||pinceau.ovh/*.js|$script,third-party
 @@||pouvoir.science/*.js|$script,third-party
 @@||qui.science/*.js|$script,third-party
+@@||taper.ovh/*.js|$script,third-party
 !
 #@##bannerAdContainer1_1
 #@##bannerAdFrame
