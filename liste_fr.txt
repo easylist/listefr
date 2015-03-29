@@ -3744,7 +3744,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||clubic.com/js/advertisement.js
 @@||clubic.com^$elemhide
 @@||costacroisieres.fr/B2C/SharedResources/js/popunder.js
-@@||criteo.com/delivery/ajs.php?$script,domain=ville-ideale.com
 @@||cstatic.weborama.fr/js/advertiser/wbo_performance.js$domain=pmu.fr
 @@||d8.tv^$elemhide
 @@||daily-*.fr/images/*///pages/*_300x250.png
@@ -3841,7 +3840,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||ouifm.adswizz.com//www/components/
 @@||ouifm.adswizz.com/www/components/
 @@||p.jwpcdn.com/crossdomain.xml$object-subrequest
-@@||pagead2.googlesyndication.com/pagead/$script,domain=ville-ideale.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=lachainemeteo.com
 @@||parissportifs24h.fr/upload/Image/Ads/$image
 @@||pc-overware.be/index/images/banners/annuaire%20test%206%20png.png
@@ -3911,6 +3909,12 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||tracking.veoxa.com/click/banner?$subdocument,domain=track.radins.com
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
+! ville-ideale.com
+@@||criteo.com/delivery/ajs.php?$script,domain=ville-ideale.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$script,domain=ville-ideale.com
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=ville-ideale.com
+@@||pagead2.googlesyndication.com/pub-config/ca-pub-$script,domain=ville-ideale.com
+ville-ideale.com###sp
 ! notre-planete.info
 @@||canalplus.fr^$elemhide
 @@||cas.criteo.com/delivery/ajs.php?$script,domain=notre-planete.info
@@ -4463,7 +4467,6 @@ scan-manga.com#@##ft_mpu
 ###pub-haut-adblock
 scan-manga.com#@##pub_head
 debrideurstream.fr#@##pubdirecte
-ville-ideale.com###sp
 fairytailmx.com#@##sponsored-ad
 forum.virtualdjing.com#@#.adFrame
 gamingroom.tv,vide-greniers.org#@#.adsbygoogle
