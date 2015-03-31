@@ -4225,6 +4225,7 @@ notre-planete.info###abp
 ||peinture.ovh^$third-party
 ||percer.ovh^$third-party
 ||pinceau.ovh^$third-party
+||planche.ovh^$third-party
 ||pouvoir.science^$third-party
 ||qui.science^$third-party
 ||taper.ovh^$third-party
@@ -4253,6 +4254,7 @@ notre-planete.info###abp
 @@||peinture.ovh/*.js|$script,third-party
 @@||percer.ovh/*.js|$script,third-party
 @@||pinceau.ovh/*.js|$script,third-party
+@@||planche.ovh/*.js|$script,third-party
 @@||pouvoir.science/*.js|$script,third-party
 @@||qui.science/*.js|$script,third-party
 @@||taper.ovh/*.js|$script,third-party
