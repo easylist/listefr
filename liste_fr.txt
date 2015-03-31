@@ -4203,6 +4203,7 @@ notre-planete.info###abp
 ||underlaymentgallstone.net^$third-party
 ! Adunblock
 |http://*.oneindonesia.co.id^$third-party
+|http://*.privatedns.org^$third-party
 ||adunblock.com/?utm_campaign=$popup
 ||adunblock.com^$third-party
 ||adunblock.fr/?utm_campaign=$popup
@@ -4232,6 +4233,7 @@ notre-planete.info###abp
 ||tournevis.ovh^$third-party
 !
 |http://*.oneindonesia.co.id/$third-party,xmlhttprequest
+|http://*.privatedns.org/$third-party,xmlhttprequest
 !
 @@|http://*.oneindonesia.co.id/*.js|$script,third-party
 @@||adunblock.com/*.js|$script,third-party
@@ -4260,12 +4262,16 @@ notre-planete.info###abp
 @@||taper.ovh/*.js|$script,third-party
 @@||tournevis.ovh/*.js|$script,third-party
 !
+|http://*.ovh/$third-party,xmlhttprequest,domain=123coupedumonde2014.com|5nodes.fr|actu95.net|addons-wow.fr|adunblock.com|adunblock.fr|aeropassion.net|aiguille.ovh|allo-news.com|ampoule.ovh|aneviagaming.com|annuaire-bleu.net|annuaire-email.net|anthonix.fr|applebigmac.fr|arnaques-internet.info|avoir.science|bdcraft.net|breat.me|catswhocode.com|clou.ovh|colle.ovh|comme.science|consoledejeux.info|coolradio.be|developpez.com|developpez.net|etre.science|evoliofly.com|femmes-de-footballeurs.fr|festivalboujdour.com|gamewinner.fr|geowiki.fr|gogo-films.com|gta69.com|hallucinixxx.fr|imagesia.com|jackieetmicheltv.fr|jbmam.music.free.fr|kboard.fr|kerbalspaceprogram.fr|lebouletdunet.com|lesarbres.fr|lolchat.fr|macworld.fr|mangacity.org|mastakongo.com|monlinker3ds.com|monlinkerdsi.com|nifoune.com|oobby.com|opalenews.com|pcworld.fr|physagreg.fr|planete-astronomie.com|pouvoir.science|qui.science|reef-guardian.com|seomaker.estsurle.net|sos-lettre.fr|space-blogs.net|space-forums.com|space-forums.net|styled-gaming.eu|sucha.net|suchablog.com|teranya.fr|trackr.fr|untourenchine.fr|vonox.fr|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxnews.com|xavboxone.com|xavboxphone.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxtuning.com|xavboxwii.com|xavboxwiiu.com|xiaomi-m3.fr|zevpn.net
+!
+@@|http://*.ovh/*.js|$script,third-party,domain=123coupedumonde2014.com|5nodes.fr|actu95.net|addons-wow.fr|adunblock.com|adunblock.fr|aeropassion.net|aiguille.ovh|allo-news.com|ampoule.ovh|aneviagaming.com|annuaire-bleu.net|annuaire-email.net|anthonix.fr|applebigmac.fr|arnaques-internet.info|avoir.science|bdcraft.net|breat.me|catswhocode.com|clou.ovh|colle.ovh|comme.science|consoledejeux.info|coolradio.be|developpez.com|developpez.net|etre.science|evoliofly.com|femmes-de-footballeurs.fr|festivalboujdour.com|gamewinner.fr|geowiki.fr|gogo-films.com|gta69.com|hallucinixxx.fr|imagesia.com|jackieetmicheltv.fr|jbmam.music.free.fr|kboard.fr|kerbalspaceprogram.fr|lebouletdunet.com|lesarbres.fr|lolchat.fr|macworld.fr|mangacity.org|mastakongo.com|monlinker3ds.com|monlinkerdsi.com|nifoune.com|oobby.com|opalenews.com|pcworld.fr|physagreg.fr|planete-astronomie.com|pouvoir.science|qui.science|reef-guardian.com|seomaker.estsurle.net|sos-lettre.fr|space-blogs.net|space-forums.com|space-forums.net|styled-gaming.eu|sucha.net|suchablog.com|teranya.fr|trackr.fr|untourenchine.fr|vonox.fr|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxnews.com|xavboxone.com|xavboxphone.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxtuning.com|xavboxwii.com|xavboxwiiu.com|xiaomi-m3.fr|zevpn.net
+!
 #@##bannerAdContainer1_1
 #@##bannerAdFrame
 #@##bannerGoogle
 #@##block-ad_cube-0
 #@##blox-big-ad-bottom
-@@||pagead2.googlesyndication.com/simgad/$image,third-party,domain=123coupedumonde2014.com|5nodes.fr|actu95.net|addons-wow.fr|adunblock.com|adunblock.fr|aeropassion.net|aiguille.ovh|allo-news.com|ampoule.ovh|annuaire-bleu.net|annuaire-email.net|anthonix.fr|applebigmac.fr|arnaques-internet.info|avoir.science|catswhocode.com|clou.ovh|colle.ovh|comme.science|consoledejeux.info|coolradio.be|developpez.com|developpez.net|etre.science|evoliofly.com|femmes-de-footballeurs.fr|festivalboujdour.com|gamewinner.fr|geowiki.fr|gogo-films.com|imagesia.com|jackieetmicheltv.fr|kboard.fr|kerbalspaceprogram.fr|lebouletdunet.com|lolchat.fr|macworld.fr|monlinker3ds.com|monlinkerdsi.com|nifoune.com|oobby.com|opalenews.com|pcworld.fr|physagreg.fr|pouvoir.science|qui.science|seomaker.estsurle.net|space-forums.com|space-forums.net|styled-gaming.eu|sucha.net|suchablog.com|trackr.fr|vonox.fr|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxnews.com|xavboxone.com|xavboxphone.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxtuning.com|xavboxwii.com|xavboxwiiu.com
+@@||pagead2.googlesyndication.com/simgad/$image,third-party,domain=123coupedumonde2014.com|5nodes.fr|actu95.net|addons-wow.fr|adunblock.com|adunblock.fr|aeropassion.net|allo-news.com|annuaire-bleu.net|annuaire-email.net|anthonix.fr|applebigmac.fr|arnaques-internet.info|catswhocode.com|consoledejeux.info|coolradio.be|developpez.com|developpez.net|evoliofly.com|femmes-de-footballeurs.fr|festivalboujdour.com|gamewinner.fr|geowiki.fr|gogo-films.com|imagesia.com|jackieetmicheltv.fr|kboard.fr|kerbalspaceprogram.fr|lebouletdunet.com|lolchat.fr|macworld.fr|monlinker3ds.com|monlinkerdsi.com|nifoune.com|oobby.com|opalenews.com|pcworld.fr|physagreg.fr|seomaker.estsurle.net|space-forums.com|space-forums.net|styled-gaming.eu|sucha.net|suchablog.com|trackr.fr|vonox.fr|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxnews.com|xavboxone.com|xavboxphone.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxtuning.com|xavboxwii.com|xavboxwiiu.com
 !
 @@/http://(?!ads\.ayads\.co/ajs.php)/$script,third-party,domain=suchablog.com
 @@/http://(?!clic\.illyx\.com/)/$script,third-party,domain=123coupedumonde2014.com
@@ -4314,6 +4320,7 @@ notre-planete.info###abp
 @@||arnaques-internet.info^$elemhide
 @@||avoir.science^$elemhide
 @@||bdcraft.net^$elemhide
+@@||breat.me^$elemhide
 @@||catswhocode.com^$elemhide
 @@||clou.ovh^$elemhide
 @@||colle.ovh^$elemhide
@@ -4327,13 +4334,18 @@ notre-planete.info###abp
 @@||gamewinner.fr^$elemhide
 @@||geowiki.fr^$elemhide
 @@||gogo-films.com^$elemhide
+@@||gta69.com^$elemhide
+@@||hallucinixxx.fr^$elemhide
 @@||imagesia.com^$elemhide
 @@||jackieetmicheltv.fr^$elemhide
+@@||jbmam.music.free.fr^$elemhide
 @@||kboard.fr^$elemhide
 @@||kerbalspaceprogram.fr^$elemhide
 @@||lebouletdunet.com^$elemhide
+@@||lesarbres.fr^$elemhide
 @@||lolchat.fr^$elemhide
 @@||macworld.fr^$elemhide
+@@||mastakongo.com^$elemhide
 @@||monlinker3ds.com^$elemhide
 @@||monlinkerdsi.com^$elemhide
 @@||nifoune.com^$elemhide
@@ -4341,15 +4353,18 @@ notre-planete.info###abp
 @@||opalenews.com^$elemhide
 @@||pcworld.fr^$elemhide
 @@||physagreg.fr^$elemhide
+@@||planete-astronomie.com^$elemhide
 @@||pouvoir.science^$elemhide
 @@||qui.science^$elemhide
 @@||reef-guardian.com^$elemhide
 @@||seomaker.estsurle.net^$elemhide
+@@||space-blogs.net^$elemhide
 @@||space-forums.com^$elemhide
 @@||space-forums.net^$elemhide
 @@||styled-gaming.eu^$elemhide
 @@||sucha.net^$elemhide
 @@||suchablog.com^$elemhide
+@@||teranya.fr^$elemhide
 @@||trackr.fr^$elemhide
 @@||untourenchine.fr^$elemhide
 @@||vonox.fr^$elemhide
@@ -4368,6 +4383,7 @@ notre-planete.info###abp
 @@||xavboxtuning.com^$elemhide
 @@||xavboxwii.com^$elemhide
 @@||xavboxwiiu.com^$elemhide
+@@||xiaomi-m3.fr^$elemhide
 @@||zevpn.net^$elemhide
 !
 /fadb.min.js?
