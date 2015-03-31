@@ -21,7 +21,7 @@
 .publicite.
 /468x60banner.
 /?do=goto_adv&id_adv=
-/a4u_banner_js.$popup
+/a4u_banner_.$popup
 /acad.$script
 /ads-ext.
 /ads-google-adsense.js
@@ -94,7 +94,9 @@
 /widgets-zoom-annonce-shopping.
 /widgets-zoom-mytravelchic.
 /XnewadsX/*
+=partenariat&utm_campaign=$popup
 =publicite&
+=sponsored_links_
 ?clickTag=
 ?preview=*&pgid*&from_sz=$popup
 @publicite@
@@ -410,7 +412,6 @@ _Social-Advert-
 !
 !----------------------- Publicités tierces ----------------------!
 !
-|http://*/*?utm_source=*&utm_medium=partenariat&utm_campaign=$popup
 ||1-porno.org/atr_template/trade/
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/indexhomepage.php?$domain=lequipe.fr
@@ -786,6 +787,7 @@ _Social-Advert-
 ||socialboost.fr/promo/$third-party
 ||soft-66.net/open.js
 ||solution.weborama.fr^
+||soonnight.com^*.html?width=
 ||sos-trique.com/ban/$third-party
 ||sousstube.net/pub/
 ||space-blogs.com/*/images/banners/
@@ -1720,6 +1722,7 @@ _Social-Advert-
 ||ruedesjoueurs.fr^*/campagnes/habillage/
 ||rugby365.fr.fr/pub.php?
 ||rugby365.fr/pub.php?
+||rugbygeneration.com^$popup,domain=kazeo.com
 ||rugbynews.fr/?specialSports$popup,domain=sports.fr
 ||sainte-marie-mineral.com/img/pub_
 ||sbx.pagesjaunes.fr^
@@ -2211,6 +2214,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###pub_pave_bottom
 ###pub_pave_top
 ###pub_right
+###pub_soonight
 ###pub_square
 ###pub_top
 ###pub_voyage
