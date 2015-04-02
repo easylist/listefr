@@ -4239,6 +4239,7 @@ notre-planete.info###abp
 ||planche.ovh^$third-party
 ||pouvoir.science^$third-party
 ||qui.science^$third-party
+||scie.ovh^$third-party
 ||taper.ovh^$third-party
 ||tournevis.ovh^$third-party
 !
@@ -4269,6 +4270,7 @@ notre-planete.info###abp
 @@||planche.ovh/*.js|$script,third-party
 @@||pouvoir.science/*.js|$script,third-party
 @@||qui.science/*.js|$script,third-party
+@@||scie.ovh/*.js|$script,third-party
 @@||taper.ovh/*.js|$script,third-party
 @@||tournevis.ovh/*.js|$script,third-party
 !
