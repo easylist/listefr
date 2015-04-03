@@ -4208,6 +4208,7 @@ notre-planete.info###abp
 ||adunblock.fr/?utm_campaign=$popup
 ||adunblock.fr^$third-party
 ||affirmer.science^$third-party
+||agiter.science^$third-party
 ||aiguille.ovh^$third-party
 ||ampoule.ovh^$third-party
 ||avoir.science^$third-party
@@ -4241,6 +4242,7 @@ notre-planete.info###abp
 @@||adunblock.com/*.js|$script,third-party
 @@||adunblock.fr/*.js|$script,third-party
 @@||affirmer.science/*.js|$script,third-party
+@@||agiter.science/*.js|$script,third-party
 @@||aiguille.ovh/*.js|$script,third-party
 @@||ampoule.ovh/*.js|$script,third-party
 @@||avoir.science/*.js|$script,third-party
