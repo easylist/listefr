@@ -2041,6 +2041,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###adspave
 ###annonce_pub
 ###annonce_pub2
+###annonce_pub_contenu
 ###annoncegoogle
 ###annoncepub
 ###ban728
@@ -2251,6 +2252,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###pubtop
 ###rightpubbox
 ###roundPub
+###shopper-widget-wrapper
 ###sidebar_pub_top
 ###slidepub
 ###spaceForPub
@@ -2314,6 +2316,8 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.encart_pub
 ##.entete-pub
 ##.entete_pub
+##.espace-partenaire-premium
+##.espaces-partenaires-standard
 ##.fig-ad
 ##.fig-ad-pave
 ##.fig-native-ads
@@ -2360,12 +2364,14 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.pub-300
 ##.pub-300-corp
 ##.pub-300x250
+##.pub-300x250-du-bas
 ##.pub-728
 ##.pub-728x90
 ##.pub-730x90
 ##.pub-banner
 ##.pub-block
 ##.pub-carre
+##.pub-carre-smart-php
 ##.pub-demipage
 ##.pub-gigaban
 ##.pub-haut
@@ -2434,6 +2440,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.pub_outer
 ##.pub_pave
 ##.pub_plus
+##.pub_premium
 ##.pub_sky
 ##.pub_skyscraper
 ##.pub_square
@@ -2554,7 +2561,6 @@ millenium.org###amazon_container
 mcetv.fr###annonce-header
 upp-auteurs.fr###annonce_a
 upp-auteurs.fr###annonce_b
-clubic.com###annonce_pub_contenu
 sport.francetv.fr###archePromo
 tf1.fr###archePub
 pubeco.fr###aroundShop
@@ -2759,7 +2765,6 @@ loisirados.com###intersticiel
 conseils-courseapied.com###ja-banner
 jeuxonline.info###jol-sidebar-ad
 jeuxjeuxjeux.fr###js-game-leaderboard-bottom
-emploi.clubic.com###kj_small_conseil
 virginradio.fr###la-promo-showskin-a
 lafermeduweb.net###lastBar
 marketing-professionnel.fr###leader-wrapper
@@ -2769,14 +2774,10 @@ libertyland.tv###leleftbas + div[style="width:160px; margin-top:10px;"]
 grandecran.fr###les_pubs_locales
 orange.fr###lienComPart
 lfp.fr###lien_billeterie
-clubic.com###liensTransversaux
 lebest.fr###liens_sponso
 nouvelobs.com###ligatus_right_column
 journaldugeek.com###linkhabillage
 ouedkniss.com###list-last-stores
-clubic.com###listBlock_espacePartenaires
-clubic.com###listBlock_mediatis
-clubic.com###listBlock_widgetPepita
 millenium.org###logo_droite
 amateur2sexe.fr###mail-form
 imagedrole.de###main-bottom
@@ -2907,7 +2908,6 @@ lepoint.fr###seloger_annonces_immo
 lepoint.fr###seloger_recherche_immo
 slappyto.net###shadow
 zapiks.fr###shop
-clubic.com###shopper-widget-wrapper
 laposte.net,portail.free.fr###shoppingBox
 sfr.fr###shoppingWrapper
 zone-numerique.com###shoppinghaut
@@ -3112,7 +3112,6 @@ a18ans.com,jamaisjouis.com,liste2cul.com,vidule.com##.catcher
 porn-video-hd.com##.catcher-videos
 girlsgogames.fr##.categoryBanner
 akelys.com##.cellulePUB
-clubic.com##.centre_selections_shopping
 yahoo.com##.classickick
 test-mobile.fr##.clickleft
 test-mobile.fr##.clickright
@@ -3141,14 +3140,11 @@ viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 oujdacity.net,passion-net.fr##.ebuzzing_box
 wp-infinity.com##.entry-featured
 fredzone.org##.entry-pub
-clubic.com##.espace-partenaire-premium
 frandroid.com##.espace-sony-widget
-clubic.com##.espaces-partenaires-standard
 ruedesjoueurs.com##.esspo232x70
 ruedesjoueurs.com##.esspo736x110
 easyvoyage.com##.esv-pub-300-250
 evene.fr##.evene-partners-button-flx
-clubic.com##.events
 1001excuses.fr##.excuses[style="padding-left:105px;padding-top:25px;"]
 humanite.fr##.field-name-bloc-pub-1ere-sidebar-contenu-3
 humanite.fr##.field-name-pub-sidebar-first-content
@@ -3280,8 +3276,6 @@ meteosun.com##.promote_large
 cdiscount.com##.ptnlnk_table
 1-porno.org,abrutis.com,ados.fr,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,centerblog.net,clubic.com,commentreparer.com,deezer.com,fan-de-cinema.com,forums-fec.be,frandroid.com,ginjfo.com,hentai-3x.com,journaldugeek.com,journalgraphic.com,ladepeche.fr,larousse.fr,lepoint.fr,lesdebiles.com,lesoir.be,lexpress.fr,liensporno.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,mini-games.fr,minutefacile.com,multixa.net,over-blog.com,programme.tv,radioclassique.fr,sfr.fr,sofoot.com,soonnight.com,wawacity.su,web-tricheur.net,yabiladi.com,zupimages.net##.pub
 basketusa.com##.pub-1000x90-top
-clubic.com##.pub-300x250-du-bas
-clubic.com##.pub-carre-smart-php
 lefigaro.fr##.pub-carrousel-mini
 lefigaro.fr##.pub-double-bande
 millepertuis.eu##.pub-gauche-flottant
@@ -3313,7 +3307,6 @@ supportduweb.com##.pub_contenu_cr
 renders-graphiques.fr##.pub_galerie
 aerobuzz.fr##.pub_image
 lachainemeteo.com##.pub_lcm
-clubic.com##.pub_premium
 jeuxvideopc.com##.pub_refonte
 webrankinfo.com##.pub_rm_inter_posts_forum
 loisirados.com##.pub_vip_0
@@ -3396,7 +3389,6 @@ search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
 forum-actif.net##.tradeDoubler
 matchendirect.fr##.tux125x125
-clubic.com##.ui-layout-header
 forum-windows.com##.uniblue
 excel-pratique.com##.vba_300
 souk.ma##.vbanner-wrap
@@ -3415,10 +3407,7 @@ staractus.fr##.wallpaper-link
 slappyto.net##.webrox._300x250.centered
 journaldugeek.com##.widget-current-offers
 journaldugeek.com,journalgraphic.com##.widget-current-offers1
-clubic.com##.widget-gamer
 lefigaro.fr##.widget-leguide
-clubic.com##.widget-serious-gamer
-clubic.com##.widget-shopper
 blog2mature.com##.widget.widget_links
 frandroid.com##.widget.widget_text
 joueurdugrenier.fr##.widgetAmis
@@ -3441,7 +3430,6 @@ cowcotland.com##a#habiclic
 touslesdrivers.com##a.seo
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 artdeseduire.com##a[href*="/?part=ads"]
-clubic.com##a[href*="/?utm_source"]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
 nouvelobs.com##a[href*="?partner="]
 nouvelobs.com##a[href*="?partnerlinkid="]
@@ -3494,7 +3482,6 @@ torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
 brain-magazine.fr##a[href^="http://bit.ly/"]
 pubeco.fr,usbfix.net##a[href^="http://clic.reussissonsensemble.fr/"]
 algeriephilatelie.net##a[href^="http://clic.reussissonsensemble.fr/click.asp?"]
-clubic.com##a[href^="http://clk.atdmt.com/"]
 tomtomax.fr##a[href^="http://clk.tradedoubler.com/"]
 cdiscount.com,laptopspirit.fr,sosiphone.com##a[href^="http://clk.tradedoubler.com/click?"]
 premiere.fr##a[href^="http://clkde.tradedoubler.com/click?"]
@@ -3575,7 +3562,6 @@ melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr,~sport.francetv.fr##div[id^="eShowPub"]
 audiofanzine.com##div[id^="lbr"]
 estrepublicain.fr##div[id^="pub-dfp-"]
-clubic.com##div[id^="pub_dart_"]
 pagesjaunes.fr##div[id^="push"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
@@ -3605,7 +3591,6 @@ phpsources.org##div[style="margin-bottom:15px;"] > table > tbody
 douniamusic.com##div[style="margin-top:10px;float:left;height:250px;width:250px;"]
 moov.mg##div[style="margin-top:5px;float:auto;width:100%;height:250px;text-align:center"]
 webrankinfo.com##div[style="margin: 0; padding: 5px 8px 5px 8px; background: url(http://www.webrankinfo.com/images/design/fd_blockquote.png) no-repeat 0 100%; font-size: 1.3em; color: black; width: 615px;"]
-clubic.com##div[style="margin:0px 0px 0px -10px;padding:0px;border:0px;width:675px;height:6px;background-color:#c3bfc0;"] + div[style="padding: 5px; overflow: hidden;"]
 supportduweb.com##div[style="margin:auto;margin-top:2px;width:728px;height:90px;"]
 lafermeduweb.net##div[style="overflow: hidden; width: 300px; height: 280px; margin: 0 auto;"]
 lafermeduweb.net##div[style="overflow: hidden; width: 336px; height: 280px; margin: 0 auto;"]
@@ -3643,7 +3628,6 @@ libertyland.tv##div[style="width:980px;height:25px;"]
 jeu.net##div[style^="background-image:url(http://www.jeu.net/img/fond_pub.gif)"]
 solutions-logiciels.com##div[style^="border:1px solid black; width: 300px; height: 250px"]
 commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##div[style^="float:right;diplay:block;height:100px;width:100%;"]
-clubic.com##div[style^="text-align:center;height:250px;width:300px;"]
 mcetv.fr##div[style^="width: 300px;font-style: none;height: 250px"]
 free-reseau.fr##div[style^="width: 728px; height: 90px;"]
 algerie360.com##div[style^="width:100%; height:100px"]
