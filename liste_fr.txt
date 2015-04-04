@@ -870,6 +870,8 @@ _Social-Advert-
 ||01net.com^*/adnl.$script
 ||01net.com^*/regie/
 ||100pour100sexe.com/pop.
+||16algerie.com/images/banner_
+||16algerie.com/images/JHF.jpg
 ||1an2kdo.com/pics/pub/
 ||1fichier.fr/pub2/
 ||1maxdegay.com/images/rotbas/
@@ -2506,6 +2508,8 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##a[href*="/tracking_campaign.php?"]
 ##a[href*="commander1.com/"]
 ##a[href*="xiti.com/go.ad?"]
+##a[href^="/index.php/ads/"]
+##a[href^="/index.php/annonce/ads/"]
 ##a[href^="http://always-parser.xyz/"]
 ##a[href^="http://styleapplicationzillion.com/"]
 ##a[href^="http://www.espace-plus.net/"]
@@ -3246,6 +3250,7 @@ generation-nt.com##.ntSponsored
 challenges.fr##.obs-block.cab-right > .obs-blockcontent.obs-bloc-media
 galaxynote.fr##.offre
 wamiz.com##.orange
+16algerie.com##.ot-banner
 nautiljon.com##.pad
 priceminister.com##.panel_pub
 aujourdhui-en-france.fr,leparisien.fr##.parisien-section.pratique
@@ -3468,6 +3473,8 @@ marianne.net##a[href^="/blogsecretdefense/ads/"]
 omgtorrent.com##a[href^="/clic_dl.php?link"]
 telechargement22.org,unchartedatolls.com##a[href^="/file.php?"]
 ensnaredbyabook.com##a[href^="/file.php?name="]
+16algerie.com##a[href^="/index.php/annonce/ad/"]
+16algerie.com##a[href^="/index.php/cat/ad/"]
 mayottehebdo.com##a[href^="/index.php?option=com_banners"]
 trictrac.net##a[href^="/partenaire/"]
 trictrac.net##a[href^="/publicite/"]
