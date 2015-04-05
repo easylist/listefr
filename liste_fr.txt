@@ -1061,8 +1061,6 @@ _Social-Advert-
 ||cowcotland.com/images/habillage/$image
 ||cowcotland.com/images/sponsors/
 ||cpasbien.*/infopop/$script
-||crash-aerien.aero/www/images/myfreemagz468.swf
-||crash-aerien.aero/www/images/papillons.jpg
 ||crash-aerien.aero^*/airnews468.swf
 ||creadunet.com^*/overall_header_iframe.html
 ||credit-az.net/pub/
@@ -3670,7 +3668,6 @@ lien-torrent.com##li > a:not([href*="lien-torrent.com"]):not([href*="../"]):not(
 ici.tou.tv##li.bigBox
 filmze.com##noindex
 sinfest.net##noscript a
-crash-aerien.aero##object[width="250"][height="250"]
 crash-aerien.aero##object[width="250"][height="500"]
 bonjourmadame.fr##object[width="728"][height="90"]
 lien-torrent.com##p > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
@@ -3799,7 +3796,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||google.com/adsense/$subdocument,domain=sedo.fr
 @@||google.com/adsense/search/ads.js$domain=zoover.fr
 @@||google.com/uds/$script,domain=rfm.fr|virginradio.fr
-@@||googleads.g.doubleclick.net/favicon.ico$domain=crash-aerien.aero
 @@||googleads.g.doubleclick.net/pagead/ads?$object-subrequest,domain=jeux-fille-gratuit.com|mahjonggratuit.fr
 @@||host3.adhese.be/tag/tagv1.js$script,domain=lavenir.net
 @@||ib.adnxs.com/crossdomain.xml$object-subrequest,domain=jeux-fille-gratuit.com|mahjonggratuit.fr
@@ -4543,7 +4539,7 @@ debrideurstream.fr#@##pubdirecte
 fairytailmx.com#@##sponsored-ad
 forum.virtualdjing.com#@#.adFrame
 gamingroom.tv,vide-greniers.org#@#.adsbygoogle
-crash-aerien.aero,goldenboys.fr,radiocockpit.fr#@#.afs_ads
+goldenboys.fr,radiocockpit.fr#@#.afs_ads
 freedom-ip.com#@#.pub_vertical
 fr.audiofanzine.com#@#div[id^="div-gpt-ad-"]
 eclypsia.com#@#img[width="728"][height="90"]
