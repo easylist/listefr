@@ -4226,6 +4226,7 @@ notre-planete.info###abp
 ||aiguille.ovh^$third-party
 ||allumer.science^$third-party
 ||ampoule.ovh^$third-party
+||amuser.science^$third-party
 ||avoir.science^$third-party
 ||clou.ovh^$third-party
 ||colle.ovh^$third-party
@@ -4261,6 +4262,7 @@ notre-planete.info###abp
 @@||aiguille.ovh/*.js|$script,third-party
 @@||allumer.science/*.js|$script,third-party
 @@||ampoule.ovh/*.js|$script,third-party
+@@||amuser.science/*.js|$script,third-party
 @@||avoir.science/*.js|$script,third-party
 @@||clou.ovh/*.js|$script,third-party
 @@||colle.ovh/*.js|$script,third-party
