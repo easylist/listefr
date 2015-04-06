@@ -4222,8 +4222,7 @@ notre-planete.info###abp
 ||unbodiediridaceousplant.net^$third-party
 ||underlaymentgallstone.net^$third-party
 ! Adunblock
-|http://*.oneindonesia.co.id^$third-party
-|http://*.privatedns.org^$third-party
+||accomplir.science^$third-party
 ||achever.science^$third-party
 ||adunblock.com/?utm_campaign=$popup
 ||adunblock.com^$third-party
@@ -4258,10 +4257,7 @@ notre-planete.info###abp
 ||taper.ovh^$third-party
 ||tournevis.ovh^$third-party
 !
-|http://*.oneindonesia.co.id/$third-party,xmlhttprequest
-|http://*.privatedns.org/$third-party,xmlhttprequest
-!
-@@|http://*.oneindonesia.co.id/*.js|$script,third-party
+@@||accomplir.science/*.js|$script,third-party
 @@||achever.science/*.js|$script,third-party
 @@||adunblock.com/*.js|$script,third-party
 @@||adunblock.fr/*.js|$script,third-party
