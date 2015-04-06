@@ -1623,13 +1623,10 @@ _Social-Advert-
 ||orientation-chabab.com/img/pub.jpg
 ||otaku-attitude.net^*/okazu-manga.gif
 ||ouedkniss.com/*/pubs/
-||ouedkniss.com/habillage/
-||ouedkniss.com/images/ptipana/
-||ouedkniss.com/images/store-logo/
 ||ouedkniss.com/lapib/
 ||ouedkniss.com/pubs/
 ||ouedkniss.com/swf/Interstitiel.swf
-||ouedkniss.com^*/accueil/script/index_pub.js
+||ouedkniss.com^*/script/index_pub.js
 ||ouifm.fr^*/images/partners/
 ||oujdacity.net/kelkoo*.html
 ||oumazik.com/poop.js
@@ -2108,6 +2105,7 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ###headerPub
 ###header_bloc2_pub
 ###header_pub
+###header_pub_contenu
 ###headerpub
 ###home-pub
 ###idpublicitepave
@@ -2461,8 +2459,15 @@ igen.fr,macg.co##img[width="1440"][height="1622"]
 ##.pub_video
 ##.pub_voyage_2
 ##.pub_voyage_award
+##.pub_voyage_city
 ##.pub_voyage_image
+##.pub_voyage_image2
+##.pub_voyage_image3
+##.pub_voyage_image4
+##.pub_voyage_image5
+##.pub_voyage_logo_hotel
 ##.pub_voyage_text
+##.pub_voyage_visiter
 ##.pubaccueildroite1
 ##.pubaccueilgauche1
 ##.pubadsense
@@ -2727,6 +2732,8 @@ comics-sanctuary.com###habillage
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-right
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-top
 canalplus.fr###habillage[style="width: 1000px; height: 150px; cursor: pointer;"]
+ouedkniss.com###habillage_a
+ouedkniss.com###habillage_flash
 e-orientations.com###habillage_pub
 millenium.org###habillagesite
 geekopolis.fr###habitdroit
@@ -2883,7 +2890,6 @@ fansubresistance.in###pub_728x90_avant_pg_stream
 fansubresistance.in###pub_728x90_sous_solo
 tele.premiere.fr###pub_a2d_pave
 vo2.fr###pub_background
-ouedkniss.com###pub_care
 jeuxvideo.com###pub_carre1
 elwatan.com###pub_habillage_lien
 ouedkniss.com###pub_interstitiel
@@ -3229,7 +3235,6 @@ fan-de-cinema.com##.megasquare
 vacheries.fr##.menu_droit_pub
 lesdebiles.com##.menu_droite_partenaire
 lesdebiles.com##.menu_droite_thumb:first-child
-ouedkniss.com##.message.unspecific
 euroiphone.eu##.middle-banner
 une-recette.com##.milieubanniere2
 20minutes.fr##.mn-cdiscount
@@ -3523,7 +3528,6 @@ futurama-stream.eu,seriesnostop.com##a[href^="http://www.adcash.com/script/clic.
 downparadise.ws##a[href^="http://www.affiliation-france.com/"]
 fullanimes.free.fr##a[href^="http://www.allopass.com/check/red.php"] > img
 alsacreations.com##a[href^="http://www.amazon.fr/gp/product/"]
-ouedkniss.com##a[href^="http://www.autobip.com/news/details/?id="]
 usbfix.net##a[href^="http://www.bitdefender.fr/media/"]
 centre-audition.com##a[href^="http://www.centre-audition.com/catalog/redirect.php?action=banner&"]
 gizmodo.fr##a[href^="http://www.ebuyclub.com/operations/gizmodo/entreeGizmodo.jsp?"]
@@ -3561,9 +3565,6 @@ korben.info##a[style*="width:468px;height:90px"]
 korben.info##a[style="background:transparent; position:absolute; top:0px; left:0; width:100%; height:100%; z-index:0;"]
 presse-citron.net##a[style="cursor:pointer; display:block; height:1600px; left:0; position:absolute; top:0; width:100%;"]
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
-ouedkniss.com##a[style="display:block;position:absolute;top:0;left:-160px;width:160px;height:1200px;text-indent:-9999px;"]
-ouedkniss.com##a[style="display:block;position:absolute;top:0;right:-160px;width:160px;height:1200px;text-indent:-9999px;"]
-ouedkniss.com##a[style="display:block;width:990px;height:180px;text-indent:-99999px"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
