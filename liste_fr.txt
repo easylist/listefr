@@ -4229,6 +4229,7 @@ notre-planete.info###abp
 ||underlaymentgallstone.net^$third-party
 ! Adunblock
 ||accomplir.science^$third-party
+||accorder.science^$third-party
 ||achever.science^$third-party
 ||adunblock.com/?utm_campaign=$popup
 ||adunblock.com^$third-party
@@ -4264,6 +4265,7 @@ notre-planete.info###abp
 ||tournevis.ovh^$third-party
 !
 @@||accomplir.science/*.js|$script,third-party
+@@||accorder.science/*.js|$script,third-party
 @@||achever.science/*.js|$script,third-party
 @@||adunblock.com/*.js|$script,third-party
 @@||adunblock.fr/*.js|$script,third-party
