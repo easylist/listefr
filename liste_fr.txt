@@ -129,6 +129,9 @@ _Social-Advert-
 ||acces-charme.com^$third-party
 ||acpublicite.fr^$third-party
 ||acxiom-online.com^$third-party
+||ad-1.me^$third-party
+||ad-2.me^$third-party
+||ad-3.me^$third-party
 ||ad.activaweb.fr^
 ||ad.adserverplus.com^
 ||ad.prismamediadigital.com^$third-party
@@ -143,6 +146,7 @@ _Social-Advert-
 ||adk2x.com^$popup,third-party
 ||adk2x.com^$third-party
 ||adlpartner.com^$third-party
+||adm-vids.com^$third-party
 ||admanmedia.fr^$third-party
 ||admark.fr^$third-party
 ||adoptima.com^$third-party
@@ -310,6 +314,7 @@ _Social-Advert-
 ||neckermann.be^$third-party
 ||nefroto.net^$third-party
 ||nelads.com^$third-party
+||nepasmanquer.com^$third-party
 ||netclickstats.com^$third-party
 ||netmediaeurope.com^$third-party
 ||netmediaeurope.fr^$third-party
@@ -325,13 +330,16 @@ _Social-Advert-
 ||overlays.next-targeting.com^$third-party
 ||pandad.eu^$third-party
 ||papycash.com$third-party
+||paricileweb.com^$third-party
 ||parlinternet.com^$third-party
 ||partner.uncadeau.com^$third-party
 ||payglad.com^$third-party
 ||pictographpenicillinf.com^$third-party
 ||piximedia.com^$third-party
 ||piximedia.fr^$third-party
+||plaisirsdejouir.fr^$third-party
 ||plusservicepartners.com^$third-party
+||pornego.com^$third-party
 ||pornstreet.com^$popup,third-party
 ||prm-native.com^$third-party
 ||promo.alienbiz.com^$third-party
@@ -357,6 +365,7 @@ _Social-Advert-
 ||regie.audioprint.fr^$third-party
 ||regiecpm.com^$third-party
 ||regiedepub.com^$third-party
+||rencontreroulette.com^$third-party
 ||rentacorner.com^$third-party
 ||rgbperf.com^$third-party
 ||rotabann.com^$third-party
@@ -411,6 +420,7 @@ _Social-Advert-
 ||wbsadsdel2.com^$third-party
 ||wbusiness.fr^$third-party
 ||webprod.cybertesteurs.com^$popup,third-party,domain=~iss.net
+||webtv-sexe.com^$third-party
 ||wedoo.com^$third-party
 ||wendise.com^$third-party
 ||widespace.com^$third-party
@@ -429,6 +439,7 @@ _Social-Advert-
 !
 !----------------------- Publicités tierces ----------------------!
 !
+|http://*/register_video_impression?token=$image
 ||1-porno.org/atr_template/trade/
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/indexhomepage.php?$domain=lequipe.fr
@@ -1012,6 +1023,7 @@ _Social-Advert-
 ||boursier.com/ui/js/docs-partenaires.js
 ||brain-magazine.com/images/_habillages/
 ||brain-magazine.fr/images/banners/
+||bu2z.com/desktop/pub/
 ||buzzwebzine.fr/wp-content/banners/
 ||ca-centrest.fr/content/binary/*_annonce_*.jpg
 ||ca-centrest.fr/content/binary/980x152.jpg
