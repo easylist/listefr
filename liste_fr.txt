@@ -895,9 +895,6 @@ _Social-Advert-
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 |http:$subdocument,third-party,domain=clictune.com|sa.ae
-|http://*.in/crossdomain.xml$object-subrequest,domain=wat.tv
-|http://*/$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
-|http://*/crossdomain.xml$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 ||01net.com^*/regie/
 ||100pour100sexe.com/pop.
 ||16algerie.com/images/banner_
@@ -3845,7 +3842,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||gameart.eu/medias/files/ad-top.$stylesheet
 @@||geekdefrance.fr/wp-content/themes/interiorzine/ads/top_
-@@||gentside.com/ajax_*.php$xmlhttprequest
 @@||gironde.fr/css/csspacker.jsp?css=$stylesheet
 @@||goldenmoustache.com^$elemhide
 @@||good-deals.lu/Content/Styles/AdFrame.css
@@ -3885,7 +3881,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||malakoffmederic.com/entreprise/*/affiliation/
 @@||malekal.com/ads/ads_php/banner.js
 @@||manga-news.com/public/banners/slide-
-@@||maxisciences.com/ajax_*.php$xmlhttprequest
 @@||media.eurolive.com^$domain=live18ans.com
 @@||media.the-adult-company.com^$domain=celibataires.fr
 @@||meteomedia.com/js/adrefresh.js
@@ -3907,7 +3902,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||novaplanet.com/sites/all/themes/nova/plugins/smartbanner/jquery.smartbanner.js
 @@||oberon-media.com/Advertisement/
 @@||ohm-immobilier.fr/images/ads/
-@@||ohmymag.com/ajax_*.php$xmlhttprequest
 @@||omnitagjs.com/fo-*/captcha/$domain=dl.free.fr
 @@||omnitagjs.com/fo-api/omniTag?$xmlhttprequest,domain=dl.free.fr
 @@||openad.tf1.fr/realmedia/ads/adstream_mjx.ads/*/video/$script
@@ -4003,6 +3997,9 @@ ville-ideale.com###sp
 @@||schneevonmorgen.com^$object-subrequest
 @@||videoplaza.tv/proxy/distributor/$object-subrequest,xmlhttprequest
 ||videoplaza.tv/creatives/assets/$object-subrequest
+! Wat.TV (SM)
+@@||wat.tv/crossdomain.xml
+|http://*/crossdomain.xml$object-subrequest,domain=wat.tv
 ! Secret Media
 ##div > a[target="_blank"] > img[width="300"][height="600"][title][alt]:first-child
 #@##ad_ad
