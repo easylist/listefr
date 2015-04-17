@@ -3963,6 +3963,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||videos.direction-x.com^$object-subrequest,domain=liensporno.com
 @@||vo2.fr/uploads/tx_regiepub/bando-site-
 @@||vshop.fr/js/freakBig.js$domain=montrestendance.com
+@@||wat.tv^$elemhide
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 @@||ww691.smartadserver.com^$domain=lachainemeteo.com
@@ -4003,13 +4004,11 @@ ville-ideale.com###sp
 @@||schneevonmorgen.com^$object-subrequest
 @@||videoplaza.tv/proxy/distributor/$object-subrequest,xmlhttprequest
 ||videoplaza.tv/creatives/assets/$object-subrequest
-! Wat.TV (SM)
-@@||wat.tv^$elemhide
-|http://*.in/crossdomain.xml$object-subrequest,domain=wat.tv
 ! Secret Media
 ##div > a[target="_blank"] > img[width="300"][height="600"][title][alt]:first-child
 #@##ad_ad
 #@##ad_link
+|http://*/L1JlYWxNZWRpYS9hZHM$object-subrequest
 |http://j.*.info/*.*?bid=*&cid=*&zid=*&cb=$image,third-party
 |http://j.*.info/*?b=*&cid=*&z=*&cb=$image,third-party
 ||abuseddisreputableperson.in^$third-party
