@@ -11,6 +11,7 @@
 !
 !----------------------- Filtres génériques ----------------------!
 !
+&playadw=
 .adserverpub.
 .adxcore.
 .be/ads/
@@ -21,6 +22,7 @@
 .publicite.
 /468x60banner.
 /?do=goto_adv&id_adv=
+/a.php?t=*&pg_b_format=
 /a4u_banner_.$popup
 /acad.$script
 /ads-ext.
@@ -48,6 +50,8 @@
 /banner_campaign_
 /banners-ads/*
 /banners-pub/*
+/banniere/proxy.php?
+/banniere/proxy2.php?
 /banniere728x90_
 /banniere_pub.
 /bannieres_pub/*
@@ -68,6 +72,8 @@
 /page_pub.
 /pagepub.
 /pages_ads.
+/proxy_eds.php?
+/proxy_iframe.php?url=
 /pub-300x250.
 /pub300-250.
 /pub468x60.
@@ -266,6 +272,7 @@ _Social-Advert-
 ||hopdream.com^$third-party
 ||horyzon-clics.com^$third-party
 ||i-promotion.net^$third-party
+||icileweb.com^$third-party
 ||icipourtout.com^$third-party
 ||idhad.com^$popup,third-party
 ||idhad.com^$third-party
@@ -290,6 +297,7 @@ _Social-Advert-
 ||livewithbinaryoptions.com^$third-party
 ||loractu.pro^$third-party
 ||lowlyingcaviller.info^$third-party
+||madameglad.com^$third-party
 ||madison-ads.net^$third-party
 ||manga-exchange.com^$third-party
 ||marsads.com^$popup,third-party
@@ -332,10 +340,13 @@ _Social-Advert-
 ||parlinternet.com^$third-party
 ||partner.uncadeau.com^$third-party
 ||payglad.com^$third-party
+||paygladplayer.com^$third-party
+||pgflow.com^$third-party
 ||pictographpenicillinf.com^$third-party
 ||piximedia.com^$third-party
 ||piximedia.fr^$third-party
 ||plaisirsdejouir.fr^$third-party
+||playglad.com^$third-party
 ||plusservicepartners.com^$third-party
 ||pornego.com^$third-party
 ||pornstreet.com^$popup,third-party
@@ -363,6 +374,7 @@ _Social-Advert-
 ||regie.audioprint.fr^$third-party
 ||regiecpm.com^$third-party
 ||regiedepub.com^$third-party
+||remerciez.com^$third-party
 ||rencontreroulette.com^$third-party
 ||rentacorner.com^$third-party
 ||rgbperf.com^$third-party
@@ -388,6 +400,7 @@ _Social-Advert-
 ||stigads.com^$third-party
 ||superadsoffers.com^$third-party
 ||supersmsoffers.com^$third-party
+||supravideos.com^$third-party
 ||surfactif.fr^$third-party
 ||t4b.tv^$third-party
 ||teads.fr^$third-party
@@ -397,7 +410,9 @@ _Social-Advert-
 ||tnx.net^$third-party
 ||tool.acces-vod.com^$third-party
 ||tootrash.com^$third-party
+||top-chaude.com^$third-party
 ||totaladperformance.com^$third-party
+||toutlinternet.com^$third-party
 ||touturf.com^$third-party
 ||tracking.ecookie.fr^$popup,third-party
 ||trackor.net^$popup,third-party
@@ -428,6 +443,7 @@ _Social-Advert-
 ||xponsor.com^$third-party
 ||y-ads.net^$third-party
 ||yban.fr^$third-party
+||you-hentai.com^$third-party
 ||z-barre.com^$third-party
 ||zebestof.com^$third-party
 ||zeropub.net^$third-party
