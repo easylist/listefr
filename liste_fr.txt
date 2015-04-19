@@ -4022,7 +4022,9 @@ ville-ideale.com###sp
 @@||videoplaza.tv/proxy/distributor/$object-subrequest,xmlhttprequest
 ||videoplaza.tv/creatives/assets/$object-subrequest
 ! Wat.TV (SM)
+|http://*.*.*/*-*-*;$object-subrequest,domain=wat.tv
 |http://*.*.*/*-*-*_$object-subrequest,domain=wat.tv
+|http://*.*.*/*;*;*;$object-subrequest,domain=wat.tv
 |http://*.*.*/*_*_*_$object-subrequest,domain=wat.tv
 ! Secret Media
 ##div > a[target="_blank"] > img[width="300"][height="600"][title][alt]:first-child
@@ -4264,6 +4266,7 @@ ville-ideale.com###sp
 ||scleropagesstreeturchin.net^$third-party
 ||secretaryofstateblackness.net^$third-party
 ||selftorturemidafternoon.net^$third-party
+||sensibiliseasiminatriloba.net^$third-party
 ||serenessoctopod.com^$third-party
 ||setplantfamily.info^$third-party
 ||seweragegenitourinary.net^$third-party
