@@ -327,7 +327,6 @@ _Social-Advert-
 ||no-adblock.com^$third-party
 ||nols-pub.fr^$third-party
 ||nturveev.com^$third-party
-||omnitagjs.com^$third-party
 ||oneinstaller.com^$third-party
 ||opresat.ru^$third-party
 ||orangepublicite.fr^$third-party
@@ -3813,7 +3812,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||adv.voyage-economique.fr^$domain=voyage-economique.fr
 @@||advertising.wellpack.fr/sites_annexes/optout/
 @@||adworks.fr^$~third-party
-@@||adyoulike.omnitagjs.com^$script,domain=dl.free.fr
 @@||afcdn.com/world/ads.js?$domain=marmiton.org
 @@||afe2.specificclick.net/crossdomain.xml$domain=videos.nt1.tv|videos.tmc.tv
 @@||agir.bloomassociation.org/adserver2/
@@ -3930,8 +3928,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||novaplanet.com/sites/all/themes/nova/plugins/smartbanner/jquery.smartbanner.js
 @@||oberon-media.com/Advertisement/
 @@||ohm-immobilier.fr/images/ads/
-@@||omnitagjs.com/fo-*/captcha/$domain=dl.free.fr
-@@||omnitagjs.com/fo-api/omniTag?$xmlhttprequest,domain=dl.free.fr
 @@||openad.tf1.fr/realmedia/ads/adstream_mjx.ads/*/video/$script
 @@||openad.tf1.fr/RealMedia/ads/adstream_mjx.ads/www.eurosportplayer.fr/home/$script,domain=eurosportplayer.fr
 @@||ophtalmo.tv/video/ads/$object-subrequest
