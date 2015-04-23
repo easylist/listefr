@@ -4026,10 +4026,6 @@ ville-ideale.com###sp
 ||videoplaza.tv/creatives/assets/$object-subrequest
 ! Wat.TV (SM)
 |http:*/eJzTD0pNzPFNTclM1E9MKQbhkqLUxNz4
-|http://*.*.*/*-*-*;$object-subrequest,domain=wat.tv
-|http://*.*.*/*-*-*_$object-subrequest,domain=wat.tv
-|http://*.*.*/*;*;*;$object-subrequest,domain=wat.tv
-|http://*.*.*/*_*_*_$object-subrequest,domain=wat.tv
 ! Secret Media
 ##div > a[target="_blank"] > img[width="300"][height="600"][title][alt]:first-child
 #@##ad_ad
