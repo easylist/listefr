@@ -4008,6 +4008,10 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ||onvasortir.com/fondnivea.jpg
 ||onvasortir.com/habillage_$image
 ||onvasortir.com/pub/
+! urbeez.com
+@@||urbeez.com/fuckadblock.js
+@@||urbeez.com/publicite.html?
+@@||urbeez.com^$elemhide
 ! ville-ideale.com
 @@||criteo.com/delivery/ajs.php?$script,domain=ville-ideale.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$script,domain=ville-ideale.com
