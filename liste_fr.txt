@@ -1665,9 +1665,6 @@ _Social-Advert-
 ||on-veut-du-cul.com^*/partenaire/
 ||one-piece-streaming.fr/images/min/pub/
 ||only-iphone.fr/wp-content/uploads/2011/05/CTM_280-280-iphone4-2.png
-||onvasortir.com/fondnivea.jpg
-||onvasortir.com/habillage_$image
-||onvasortir.com/pub/
 ||opex360.com/pub/
 ||orientation-chabab.com/img/pub.jpg
 ||otaku-attitude.net^*/okazu-manga.gif
@@ -4004,6 +4001,13 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||tracking.veoxa.com/click/banner?$subdocument,domain=track.radins.com
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
+! onvasortir.com
+@@||onvasortir.com/fuckadblock.js
+@@||onvasortir.com/publicite.html?
+@@||onvasortir.com^$elemhide
+||onvasortir.com/fondnivea.jpg
+||onvasortir.com/habillage_$image
+||onvasortir.com/pub/
 ! ville-ideale.com
 @@||criteo.com/delivery/ajs.php?$script,domain=ville-ideale.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$script,domain=ville-ideale.com
