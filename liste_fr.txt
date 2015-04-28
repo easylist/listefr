@@ -720,6 +720,7 @@ _Social-Advert-
 ||montjeuturf.net/bannieres/
 ||montrealaise.com^$domain=montrealamateur.com
 ||moovijob.com/partenaires/$third-party
+||mvchallenges.s3-website-eu-west-1.amazonaws.com^
 ||mynewblog.com/tracker.php?
 ||myposeo.com^*250x250.swf?$third-party
 ||neko-hentai.com/banieres/
@@ -1751,6 +1752,7 @@ _Social-Advert-
 ||rea-dz.com/images/banners/FOND%20C2.jpg
 ||rea-dz.com/images/egitelt.swf
 ||redown.se/templates/black/images/direct.jpg
+||referentiel.nouvelobs.com/file/rw300/
 ||regie.hiwit.org^
 ||releve.qc.ca/quebec/bannieres/
 ||remiremontinfo.fr/pub/
@@ -3337,7 +3339,6 @@ futura-sciences.com##.nomatch > ul > li[id^="post_"]
 moteurs-regionaux.com##.normalCoupProjo
 lesechos.fr##.nosparts
 generation-nt.com##.ntSponsored
-challenges.fr##.obs-block.cab-right > .obs-blockcontent.obs-bloc-media
 galaxynote.fr##.offre
 wamiz.com##.orange
 16algerie.com##.ot-banner
@@ -3364,7 +3365,7 @@ abomag.com##.postContent > p[style="float: left;margin: 4px;"]
 strastv.com##.post_pub
 audiofanzine.com##.price
 matchendirect.fr##.promo
-nouvelobs.com##.promo-bottom-art
+challenges.fr,nouvelobs.com##.promo-bottom-art
 frandroid.com##.promo-sony
 lemonde.fr##.promo.michelin
 pornojeune.net##.promo_texte2
@@ -3524,7 +3525,7 @@ free-reseau.fr##a[href*="&tag=freereseaufr-"]
 artdeseduire.com##a[href*="/?part=ads"]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
 nouvelobs.com##a[href*="?partner="]
-nouvelobs.com##a[href*="?partnerlinkid="]
+challenges.fr,nouvelobs.com##a[href*="?partnerlinkid="]
 metaboli.fr##a[href*="gametap.com/convergence/?"]
 dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-de-l-en-galerant-sur-le.html"]
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
@@ -3574,6 +3575,7 @@ sosiphone.com##a[href^="http://ad.zanox.com/ppc/"]
 aidemu.fr##a[href^="http://aidemu.fr/pub/"]
 developpez.net##a[href^="http://altsysimg.developpez.com/click.php?a="]
 torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
+challenges.fr##a[href^="http://assurance-emprunteur.challenges.fr/"]
 brain-magazine.fr##a[href^="http://bit.ly/"]
 123coupedumonde2014.com##a[href^="http://clic.illyx.com/"]
 pubeco.fr,usbfix.net##a[href^="http://clic.reussissonsensemble.fr/"]
