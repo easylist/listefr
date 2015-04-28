@@ -4347,6 +4347,7 @@ ville-ideale.com###sp
 ||aventure.science^$third-party
 ||avoir.science^$third-party
 ||avouer.science^$third-party
+||baisser.science^$third-party
 ||clou.ovh^$third-party
 ||colle.ovh^$third-party
 ||comme.science^$third-party
@@ -4392,6 +4393,7 @@ ville-ideale.com###sp
 @@||aventure.science/*.js|$script,third-party
 @@||avoir.science/*.js|$script,third-party
 @@||avouer.science/*.js|$script,third-party
+@@||baisser.science/*.js|$script,third-party
 @@||clou.ovh/*.js|$script,third-party
 @@||colle.ovh/*.js|$script,third-party
 @@||comme.science/*.js|$script,third-party
