@@ -24,6 +24,7 @@
 /?do=goto_adv&id_adv=
 /a.php?t=*&pg_b_format=
 /a4u_banner_.$popup
+/ac.wbdds.
 /acad.$script
 /ads-ext.
 /ads-google-adsense.
@@ -188,6 +189,7 @@ _Social-Advert-
 ||alloclick.com^$third-party
 ||allovisiteur.com^$third-party
 ||appsfire.com^$third-party
+||arretion.de^$third-party
 ||atedra.com^$third-party
 ||avenir-affiliation.fr^$third-party
 ||ayads.co^$third-party
@@ -295,6 +297,7 @@ _Social-Advert-
 ||livechatdates.com^$popup,third-party
 ||liveparadise.com^$third-party
 ||livewithbinaryoptions.com^$third-party
+||lkjfqlmskjdqlkmsjd.com^$third-party
 ||loractu.pro^$third-party
 ||lowlyingcaviller.info^$third-party
 ||madameglad.com^$third-party
@@ -450,6 +453,7 @@ _Social-Advert-
 !----------------------- Publicités tierces ----------------------!
 !
 |http://*/register_video_impression?token=$image
+|http://*/tpl-hab-$image,domain=allocine.fr
 ||1-porno.org/atr_template/trade/
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/indexhomepage.php?$domain=lequipe.fr
@@ -888,6 +892,7 @@ _Social-Advert-
 ||voyage-langue.com/widget/
 ||w3sexe.com/logo.php?
 ||wallmanga.com/img/anim_banniere_
+||wbdds.*/include/async
 ||webcilon.tripod.com/bannieres/
 ||webself.net/WebselfEditeur/FormulaireDemo.aspx?
 ||webstars.fr/services/webstars.php?
@@ -913,6 +918,7 @@ _Social-Advert-
 !
 !----------------------- Sites spécifiques -----------------------!
 !
+/^http:\/\/*\.*\.*\/[0-9A-Za-z]+/crossdomain.xml$object-subrequest,third-party,domain=allocine.fr
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 |http:$subdocument,third-party,domain=clictune.com|sa.ae
 ||01net.com^*/regie/
@@ -938,6 +944,7 @@ _Social-Advert-
 ||abcbourse.com^*/cortal_home.jpg
 ||absoluflash.com^*/jeux-ban/
 ||absoluflash.com^*/tube-pub-
+||accn.allocine.net^
 ||actu-environnement.com/javascript/footer_permanent.js
 ||ad.oujdacity.net^
 ||ad.referencement.01net.com^
@@ -963,6 +970,7 @@ _Social-Advert-
 ||all-musculation.com^*/pub-fond/
 ||allmetsat.com/data/pub/
 ||allocine.fr/call/pubx/
+||allocine.fr/clickcmd/$popup
 ||allstream.fr/images/partenaires/
 ||alsacreations.com/xmedia/pubs/
 ||alternatives-economiques.fr/pics_bdd/habillage/
@@ -1073,6 +1081,7 @@ _Social-Advert-
 ||cergyvie.fr/wp-content/uploads/*/pub-
 ||cession-commerce.com/images/bandeaux/
 ||cession-commerce.com/images/pub_
+||cfcn.allocine.net^
 ||cgrcinemas.fr/image/cinejeux-cgr-standard-300x300
 ||chaleurterre.net/images/Banlacentr.jpg
 ||choualbox.com/pub/
@@ -1990,6 +1999,7 @@ _Social-Advert-
 ||wawa-mania.*/ph.jpg
 ||wawacity.su/banner/
 ||wawacity.su/popup.
+||wbdds.allocine.fr^
 ||wbdds.jeuxvideo.com^
 ||webchoc.com/pop.js
 ||webfrance.com/images/*120135.
@@ -4054,6 +4064,7 @@ ville-ideale.com###sp
 ||aclantgabardine.info^$third-party
 ||affectationsesame.info^$third-party
 ||aleksandrisolzhenitsynauspices.com^$third-party
+||allocinemax.com^$third-party
 ||allographlitocraniuswalleri.net^$third-party
 ||alpinegoldenrodauditoryaphasia.info^$third-party
 ||americanwidgeonsecularise.info^$third-party
