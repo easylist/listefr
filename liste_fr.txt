@@ -4344,9 +4344,6 @@ ville-ideale.com###sp
 ||unbodiediridaceousplant.net^$third-party
 ||underlaymentgallstone.net^$third-party
 ! Adunblock
-|http://*.onair-o.com^$third-party
-|http://*.oneindonesia.co.id^$third-party
-|http://*.womenclothingtoday.com^$third-party
 ||accomplir.science^$third-party
 ||accorder.science^$third-party
 ||achever.science^$third-party
@@ -4361,6 +4358,7 @@ ville-ideale.com###sp
 ||ampoule.ovh^$third-party
 ||amuser.science^$third-party
 ||anglais.science^$third-party
+||anticyclone.science^$third-party
 ||arome.science^$third-party
 ||arriere.science^$third-party
 ||attirer.science^$third-party
@@ -4394,10 +4392,7 @@ ville-ideale.com###sp
 ||taper.ovh^$third-party
 ||tournevis.ovh^$third-party
 !
-@@|http://*.onair-o.com/*.js|$script,third-party
-@@|http://*.oneindonesia.co.id/*.js|$script,third-party
-@@|http://*.womenclothingtoday.com/*.js|$script,third-party
-@@||accomplir.science/*.js|$script,third-party
+@@|http://*.science/*.js|$script,third-party
 @@||accorder.science/*.js|$script,third-party
 @@||achever.science/*.js|$script,third-party
 @@||adunblock.com/*.js|$script,third-party
@@ -4409,6 +4404,7 @@ ville-ideale.com###sp
 @@||ampoule.ovh/*.js|$script,third-party
 @@||amuser.science/*.js|$script,third-party
 @@||anglais.science/*.js|$script,third-party
+@@||anticyclone.science/*.js|$script,third-party
 @@||arome.science/*.js|$script,third-party
 @@||arriere.science/*.js|$script,third-party
 @@||attirer.science/*.js|$script,third-party
