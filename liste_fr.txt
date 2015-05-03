@@ -4033,9 +4033,8 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 ! onvasortir.com
-@@||onvasortir.com/fuckadblock.js
-@@||onvasortir.com/publicite.html?
-@@||onvasortir.com^$elemhide
+@@|http://r.sascdn.com/diff/js/smart.js$script,domain=onvasortir.com
+@@||ww62.smartadserver.com/config.js?$script,domain=onvasortir.com
 ||onvasortir.com/fondnivea.jpg
 ||onvasortir.com/habillage_$image
 ||onvasortir.com/pub/
