@@ -4048,9 +4048,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ||onvasortir.com/habillage_$image
 ||onvasortir.com/pub/
 ! urbeez.com
-@@||urbeez.com/fuckadblock.js
-@@||urbeez.com/publicite.html?
-@@||urbeez.com^$elemhide
+@@||urbeez.com^$script
 ! ville-ideale.com
 @@||criteo.com/delivery/ajs.php?$script,domain=ville-ideale.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$script,domain=ville-ideale.com
