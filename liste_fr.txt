@@ -932,6 +932,7 @@ _Social-Advert-
 !
 /^http:\/\/*\.*\.*\/[0-9A-Za-z]+/crossdomain.xml$object-subrequest,third-party,domain=allocine.fr
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
+terredauphinoise.fr/casiope/serveur/partage/
 |http:$subdocument,third-party,domain=clictune.com|sa.ae
 ||01net.com^*/regie/
 ||100pour100sexe.com/pop.
@@ -3113,6 +3114,7 @@ strasbourg-tramway.fr###ws_embed_footer
 yahoo.com###yad-billboard
 programme.tv###zeromask
 programme.tv###zeropop
+terredauphinoise.fr###zone-pub1
 cityvox.fr###zoneConnexion + * + .RP
 genybet.fr##.GGFODTBDCS
 estrepublicain.fr,ledauphine.com##.GTRF_sponsoredLinks
