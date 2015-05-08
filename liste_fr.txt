@@ -26,6 +26,8 @@
 /a4u_banner_.$popup
 /ac.wbdds.
 /acad.$script
+/AdPortalService.
+/AdPortalWebService/*
 /ads-ext.
 /ads-google-adsense.
 /ads?p=
@@ -70,6 +72,7 @@
 /iframePopUpLoader.$popup
 /IFrameStoreReciever.
 /images/sponsored?
+/InjectPopunderAd.
 /layout/ads?
 /miniads/*
 /modules.pub.
@@ -380,6 +383,7 @@ _Social-Advert-
 ||puboclic.com^$third-party
 ||quaelead.com^$third-party
 ||quanta.lu^$third-party
+||rapsio.com^$third-party
 ||reactivpub.com^$third-party
 ||reactivpub.fr^$third-party
 ||reflexcash.com^$third-party
@@ -2766,6 +2770,7 @@ renovationettravaux.fr###cboxOverlay
 emule-island.ru###centre_haut
 chuck-streaming.fr,hawaii-streaming.com,smash-streaming.com,the-big-bang-streaming.com,trone-de-fer-streaming.com###cgu_pub
 wanarun.net###chaussuresCarousel
+sitedesmarques.com###check-also-box
 wamiz.com###cl-global-link
 scifi-movies.com###clichomepage
 directvelo.com###col_03_partenaires
