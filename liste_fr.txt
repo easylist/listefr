@@ -26,6 +26,7 @@
 /a4u_banner_.$popup
 /ac.wbdds.
 /acad.$script
+/adoff.js?
 /AdPortalService.
 /AdPortalWebService/*
 /ads-ext.
@@ -73,6 +74,7 @@
 /IFrameStoreReciever.
 /images/sponsored?
 /InjectPopunderAd.
+/js.adv.$script
 /layout/ads?
 /miniads/*
 /modules.pub.
@@ -173,6 +175,7 @@ _Social-Advert-
 ||adserveradulte.com^$third-party
 ||adserverbanners.com^$third-party
 ||adserverpub.com^$popup
+||adservr.net^$third-party
 ||adsitonline.net^$third-party
 ||adsregieonline.com^$third-party
 ||adsrevenue.com^$third-party
@@ -3381,6 +3384,7 @@ futura-sciences.com##.nomatch > ul > li[id^="post_"]
 moteurs-regionaux.com##.normalCoupProjo
 lesechos.fr##.nosparts
 generation-nt.com##.ntSponsored
+jumia.ma##.nyroModalBg
 galaxynote.fr##.offre
 wamiz.com##.orange
 16algerie.com##.ot-banner
