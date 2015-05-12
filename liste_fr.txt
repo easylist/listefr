@@ -20,6 +20,7 @@
 .php?*&zoneid=
 .pubdirecte.
 .publicite.
+.smartbanner.js
 /468x60banner.
 /?do=goto_adv&id_adv=
 /a.php?t=*&pg_b_format=
@@ -183,6 +184,8 @@ _Social-Advert-
 ||adsrevenue.com^$third-party
 ||adstronic.net^$third-party
 ||adtrafic.com^$third-party
+||advance.net^$third-party
+||adverline.com^$third-party
 ||adverpub.com^$third-party
 ||adverteasy.fr^$third-party
 ||advertsponsor.com^$third-party
