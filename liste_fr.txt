@@ -20,6 +20,7 @@
 .php?*&zoneid=
 .pubdirecte.
 .publicite.
+.showads.
 .smartbanner.js
 /468x60banner.
 /?do=goto_adv&id_adv=
@@ -314,7 +315,7 @@ _Social-Advert-
 ||journaux-du-midi.com^$third-party
 ||kadoywww.xyz^$third-party
 ||kadserver.com^$third-party
-||koocash.com$popup,third-party
+||koocash.com^$third-party
 ||koodoo.net^$third-party
 ||kreaffiliation.com^$third-party
 ||lien-amateur.org^$third-party
@@ -968,6 +969,7 @@ _Social-Advert-
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 terredauphinoise.fr/casiope/serveur/partage/
 |http:$subdocument,third-party,domain=clictune.com|sa.ae
+|http://newpromo.$domain=cpasbien.pw
 ||01net.com^*/regie/
 ||100pour100sexe.com/pop.
 ||16algerie.com/images/banner_
