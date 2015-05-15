@@ -105,6 +105,8 @@
 /publicites/*
 /publicitesky.
 /publisher_configurations.
+/pubs/?format=300x250
+/pubs/?format=728x90
 /regie_pub/*
 /regiepub/*
 /script/campagne.php?cp=$popup
@@ -477,6 +479,7 @@ _Social-Advert-
 ||wbdds.info^$third-party
 ||wbsadsdel2.com^$third-party
 ||wbusiness.fr^$third-party
+||webmastravel.net^$popup,third-party
 ||webprod.cybertesteurs.com^$popup,third-party,domain=~iss.net
 ||webtv-sexe.com^$third-party
 ||wedoo.com^$third-party
@@ -525,6 +528,7 @@ _Social-Advert-
 ||achatventepagefan.com/images/AVPF_
 ||achatventepagefan.com^*/banachat*.gif$third-party
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
+||ad.vacanceo.com^
 ||aduwoc.footeo.com^
 ||aff.bstatic.com^
 ||affiliation-mb.vos-scripts.com^
@@ -836,6 +840,7 @@ _Social-Advert-
 ||pub.airweb.fr^
 ||pub.annuaire-liens-durs.com^
 ||pub.sexytools.be^
+||pub.vacanceo.com^
 ||pulsions-genereuses.com/ban/$third-party
 ||pure-warez.fr/button.php?
 ||quelconstructeur.com*/tock/
@@ -2972,6 +2977,7 @@ pubeco.fr###modPromoMoment
 marianne2.fr###mod_1171545
 numerama.com###module_bonnes_affaires
 p-nintendo.com###network > ul > .jm
+vacanceo.com###new_travelbloc
 judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
 extreme-down.com###news-partner
 voila.fr###nosPartenaires
