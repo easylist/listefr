@@ -4112,11 +4112,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ! urbeez.com
 @@||urbeez.com^$script
 ! ville-ideale.com
-@@||criteo.com/delivery/ajs.php?$script,domain=ville-ideale.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$script,domain=ville-ideale.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=ville-ideale.com
-@@||pagead2.googlesyndication.com/pub-config/ca-pub-$script,domain=ville-ideale.com
-ville-ideale.com###sp
+ville-ideale.com##div#enc[style="display: block;"]
 ! notre-planete.info
 @@||canalplus.fr^$elemhide
 @@||cas.criteo.com/delivery/ajs.php?$script,domain=notre-planete.info
