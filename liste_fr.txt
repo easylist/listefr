@@ -66,6 +66,7 @@
 /brightcoveAds.
 /choixPubJS.
 /col_droite_googleads2
+/default_ads_
 /doubleclick_dmm/*
 /EpubDelivery/*
 /fod_ad_
@@ -2006,6 +2007,8 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||tribunejuive.info/wp-content/uploads/2012/12/wizo.jpg
 ||tribunejuive.info^*/module_pubs_
 ||tribunejuive.info^*/PubTribuneJuive.
+||trictrac.net/file-*.swf
+||trictrac.net/img-*.jpeg
 ||trimag.fr^*/tx_macinabanners/
 ||troc-velo.com/images/pub/
 ||trou-fion.com/ban/
@@ -3285,8 +3288,8 @@ bricoleurdudimanche.com##.block-pub-ban-btm
 bricoleurdudimanche.com##.block-pub-partenaires
 laposte.net##.blockShopping
 dzmusique.com##.block_ad_container
+trictrac.net##.block_partners
 whitespirit.fr##.blogt
-trictrac.net##.boardgamegeek
 leguide-shopping.tele-2-semaines.fr##.body
 lesnegociales.com##.body_clic
 trocdestrains.com##.boite-partenaire-v
@@ -3324,7 +3327,6 @@ pagesjaunes.fr##.containerPdsSitesPartenaires
 strastv.com##.container_pubh_02
 lemonde.fr##.conteneur_ligatus
 startertv.fr##.conteneur_pub_horiz_left
-trictrac.net##.content-boardgamegeek
 turbo.fr##.croco.betclic
 blumei-piano.com##.cyt-affi-wrapper
 senscritique.com##.delt21-banner
@@ -3669,8 +3671,6 @@ ensnaredbyabook.com##a[href^="/file.php?name="]
 16algerie.com##a[href^="/index.php/cat/ad/"]
 mayottehebdo.com##a[href^="/index.php?option=com_banners"]
 immigrer.com##a[href^="/p/bannieres/"]
-trictrac.net##a[href^="/partenaire/"]
-trictrac.net##a[href^="/publicite/"]
 confidentielles.com##a[href^="/rc_787_"]
 emule-island.ru##a[href^="/tutoriaux/usenext-dl.php?"]
 kerix.net##a[href^="LienExterne.asp?"]
@@ -3840,6 +3840,7 @@ forum.malekal.com##fieldset[style="width:732px; height:95px"]
 lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
+trictrac.net##iframe:first-child
 bfmtv.com##iframe[id^="ligatus"]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
