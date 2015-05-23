@@ -230,6 +230,7 @@ _Social-Advert-
 ||box.shopoon.fr^$third-party
 ||broadcast.pm^$third-party
 ||buporez.com^$third-party
+||buporez.xyz^$third-party
 ||buy-targeted-traffic.com^$third-party
 ||buzzvet.com^$third-party
 ||camsympa.com^$third-party,domain=~camsympa.fr
@@ -1142,7 +1143,6 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||centerblog.net/buyproxies-
 ||centerblog.net/cadre-*?zoneid=$subdocument
 ||centerblog.net/your-private-proxy-
-||centurion.viedemerde.fr^
 ||cergyvie.fr/wp-content/uploads/*/pub-
 ||cession-commerce.com/images/bandeaux/
 ||cession-commerce.com/images/pub_
@@ -1243,7 +1243,6 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||dpstream.net/fichiers/pub/
 ||dr0le.com/popupyous.js
 ||dsih.fr/pub/
-||dulce.buporez.com^
 ||dzautos.com/swf/
 ||dzfoot.com/animationhs2.swf
 ||dzfoot.com/Hab_hs-1.jpg
@@ -1508,6 +1507,7 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||kaamelott-streaming.tv/images/m6-wideo-france.jpg
 ||kairn.com/*/pub.
 ||kairn.com/files/pub/
+||karaoke.viedemerde.fr^
 ||kits-graphiques-deluxe.com/images/pub1.jpg
 ||koaci.com/pub/
 ||konbini.com^*/xhabillage_
@@ -2057,6 +2057,7 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||video-2-cul.com/javascript/functions.js
 ||videos-de-celebrites.com/pub/
 ||vidule.com^*/u.js
+||viedemerde.fr/*/728/90$image
 ||virtualdjing.com/include/js/refresh_pub.js?
 ||virusphoto.com/bannieres/
 ||visiban.com/b.php?
@@ -2076,7 +2077,6 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||wads.plurielles.fr^
 ||wallpapergratuit.org/scripts.inc.js
 ||wamiz.fr/css/habillage/
-||wampsville.buporez.com^
 ||wawa-mania.*/ph.jpg
 ||wawacity.su/banner/
 ||wawacity.su/popup.
@@ -3746,6 +3746,7 @@ undernews.fr##a[href^="https://www.undernews.fr/go/"]
 braindamaged.fr##a[href^="index.php?adclick="]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
+viedemerde.fr##a[onclick^="ZeroPub."]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
 dvdrip-truefrench.com##a[onclick^="this.href='http://www.cashtrafic.com/script/clic.php?"]
