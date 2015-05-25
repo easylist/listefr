@@ -123,6 +123,7 @@
 =partenariat&utm_campaign=$popup
 =publicite&
 =sponsored_links_
+?adlink/
 ?clickTag=
 ?preview=*&pgid*&from_sz=$popup
 @publicite@
@@ -191,6 +192,7 @@ _Social-Advert-
 ||adsregieonline.com^$third-party
 ||adsrevenue.com^$third-party
 ||adstronic.net^$third-party
+||adtech.com^$third-party
 ||adtrafic.com^$third-party
 ||adual.net^$third-party
 ||advance.net^$third-party
@@ -235,6 +237,7 @@ _Social-Advert-
 ||buy-targeted-traffic.com^$third-party
 ||buzzvet.com^$third-party
 ||camsympa.com^$third-party,domain=~camsympa.fr
+||caradisiac-publicite.com^$third-party
 ||carpediem.fr^$third-party
 ||cdn.nextperf.net^$third-party
 ||cercle-trafic.com$third-party
@@ -599,6 +602,7 @@ _Social-Advert-
 ||buzzypeople.fr/webplayertv/728x90wa.png
 ||c-gratuit.com/logo/aff_logo.php?
 ||canaljeuvideo.com/var/storage/habillages/
+||caradisiac.com/javascript/fonctions_first.js
 ||carasexe.com/promo/$third-party
 ||cashtravel.info/banners/
 ||cdn.a9fast.com^*/misc/partner/
@@ -3991,6 +3995,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||everlong.org/style/banner.php
 @@||evilox.com/includes/js/advertisement.js
 @@||fatherandsons.fr^*/opecom/affiliation/
+@@||forum-auto.com/xiti2/xtcore.js
 @@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
