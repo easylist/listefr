@@ -90,6 +90,8 @@
 /proxy_eds.php?
 /proxy_iframe.php?url=
 /pub-300x250.
+/pub/728.
+/pub/728_2.
 /pub300-250.
 /pub468x60.
 /pub728-90.
@@ -1723,6 +1725,7 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||mobilealgerie.com/files/banners/
 ||mobiles-actus.com/img/integrations/$image
 ||monaco.mc/pages/getbandeau.jsp?
+||mondebrideur.com/myframe.html
 ||mondedux.com/catcher/
 ||mondissimo.com^*/bannerdisplay.asp?
 ||money.delamusique.net^
@@ -2166,6 +2169,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
 @@||audipassion.com^*/jsLoader.js?adType=foobar
 @@||esprit-click.com/*.js|$script,third-party
+@@||mondebrideur.com/js/advert.js
 @@||ps3-infos.fr/adsense/openads/ads/ads.js
 @@||stream4free.eu/images/*#$~image
 @@||stream4free.eu^$elemhide
