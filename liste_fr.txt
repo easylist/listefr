@@ -4157,7 +4157,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||urbeez.com^$script
 ! ville-ideale.com
 @@||cas.criteo.com/delivery/ajs.php?$domain=ville-ideale.com
-@@||pagead2.googlesyndication.com^$domain=ville-ideale.com
+@@||pagead2.googlesyndication.com/pagead/$script,domain=ville-ideale.com
 ! notre-planete.info
 notre-planete.info###abp1
 ! Videoplaza
