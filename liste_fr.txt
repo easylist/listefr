@@ -3658,8 +3658,6 @@ tsa-algerie.com##.zone_annonceurs
 lepetiteconomiste.com##.zoom
 lefigaro.fr##.zoom-widget-react
 dpstream.net##[class$="_plugin_top"]
-trictrac.net##[class^="content-zv"]
-trictrac.net##[class^="zv"]
 meilleur-vpn.biz##[href^="http://meilleur-vpn.biz/visit/"]
 allocine.fr##[id^="adClickCommand"]
 secretsdujeu.com##[id^="igadserver-bn"]
@@ -3799,6 +3797,8 @@ blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 pyrenees-team.com##div#link
 pubeco.fr##div.w100p.h60
+trictrac.net##div[class^="content-zv"]
+trictrac.net##div[class^="zv"]
 lefigaro.fr##div[data-footer-label="Service Partenaire"]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
 actufoot.fr,livefootball.fr,mercato.fr##div[id^="ad6b_"]
