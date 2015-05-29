@@ -42,6 +42,7 @@
 /adsmouse.
 /Adv728.
 /adv_clk_redirect.$popup
+/advertisingView?
 /adyoulike.api.
 /af-250x250.
 /af-300x250.
@@ -2033,6 +2034,7 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||tribunejuive.info/wp-content/uploads/2012/12/wizo.jpg
 ||tribunejuive.info^*/module_pubs_
 ||tribunejuive.info^*/PubTribuneJuive.
+||trictrac.net/br
 ||trictrac.net/file-*.swf
 ||trictrac.net/img-*.jpeg
 ||trimag.fr^*/tx_macinabanners/
@@ -3651,6 +3653,8 @@ tsa-algerie.com##.zone_annonceurs
 lepetiteconomiste.com##.zoom
 lefigaro.fr##.zoom-widget-react
 dpstream.net##[class$="_plugin_top"]
+trictrac.net##[class^="content-zv"]
+trictrac.net##[class^="zv"]
 meilleur-vpn.biz##[href^="http://meilleur-vpn.biz/visit/"]
 allocine.fr##[id^="adClickCommand"]
 secretsdujeu.com##[id^="igadserver-bn"]
