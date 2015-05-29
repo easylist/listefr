@@ -4550,6 +4550,7 @@ notre-planete.info###abp1
 ||baisser.science^$third-party
 ||barometre.science^$third-party
 ||branche.science^$third-party
+||calendrier.science^$third-party
 ||clepsydre.science^$third-party
 ||clou.ovh^$third-party
 ||colle.ovh^$third-party
@@ -4601,6 +4602,7 @@ notre-planete.info###abp1
 @@||baisser.science/*.js|$script,third-party
 @@||barometre.science/*.js|$script,third-party
 @@||branche.science/*.js|$script,third-party
+@@||calendrier.science/*.js|$script,third-party
 @@||clepsydre.science/*.js|$script,third-party
 @@||clou.ovh/*.js|$script,third-party
 @@||colle.ovh/*.js|$script,third-party
