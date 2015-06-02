@@ -143,6 +143,11 @@ _publicite_
 _regiepub/
 _smads_
 _Social-Advert-
+! CDN filters
+/cdn-cgi/pe/bag2?*adverline.com
+/cdn-cgi/pe/bag2?*natoms.com
+/cdn-cgi/pe/bag2?*omnitagjs.com
+/cdn-cgi/pe/bag2?*partner.googleadservices.com
 !
 !----------------------- Annonceurs -----------------------!
 !
@@ -980,7 +985,6 @@ _Social-Advert-
 ||wtpn.twenga.com/publisher/$third-party
 ||xavbox360.com/ban/
 ||xavboxnews.com/files/*-468.jpg
-||xg1.li^$subdocument,domain=korben.info
 ||yellowapi.com/twn/?
 ||yimg.com/hl/ap/default/*/HP_*.jpg
 ||youtube.com^$popup,domain=abdelghanisat.kazeo.com
@@ -1101,7 +1105,6 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||begeek.fr/cdiscount.jpg
 ||begeek.fr/images/index.php?
 ||begeek.fr/media/images/pub-
-||bemyapp.com^$domain=korben.info
 ||benkhouya.com^*/hebergement-web-maroc.png
 ||bergaag.com/wp-content/themes/bergaag/img/banniere-
 ||betclic.fr^$popup,domain=flashresultats.fr|sofoot.com
@@ -1529,7 +1532,6 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||kits-graphiques-deluxe.com/images/pub1.jpg
 ||koaci.com/pub/
 ||konbini.com^*/xhabillage_
-||korben.info/cdn-cgi/pe/bag2?r[]=
 ||korben.info/livebox.jpg
 ||korben.info/logitech.jpg
 ||korben.info/wp-content/uploads/*/banniere-650x120
@@ -3729,6 +3731,7 @@ developpez.net##a[href^="http://altsysimg.developpez.com/click.php?a="]
 torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
 challenges.fr##a[href^="http://assurance-emprunteur.challenges.fr/"]
 brain-magazine.fr##a[href^="http://bit.ly/"]
+korben.info##a[href^="http://bit.ly/"] > img[src^="http://kbn.im/"]
 123coupedumonde2014.com##a[href^="http://clic.illyx.com/"]
 pubeco.fr,usbfix.net##a[href^="http://clic.reussissonsensemble.fr/"]
 algeriephilatelie.net##a[href^="http://clic.reussissonsensemble.fr/click.asp?"]
