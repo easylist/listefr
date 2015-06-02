@@ -1526,7 +1526,6 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||kaamelott-streaming.tv/images/m6-wideo-france.jpg
 ||kairn.com/*/pub.
 ||kairn.com/files/pub/
-||kimjongun.viedemerde.fr^
 ||kits-graphiques-deluxe.com/images/pub1.jpg
 ||koaci.com/pub/
 ||konbini.com^*/xhabillage_
@@ -2089,7 +2088,6 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||video-2-cul.com/javascript/functions.js
 ||videos-de-celebrites.com/pub/
 ||vidule.com^*/u.js
-||viedemerde.fr/*/728/90$image
 ||virtualdjing.com/include/js/refresh_pub.js?
 ||virusphoto.com/bannieres/
 ||visiban.com/b.php?
@@ -2165,6 +2163,12 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||zoom-algerie.com/charte/images/klash16.swf
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
+! Viedemerde
+@@||viedemerde.fr/advertisement.js
+viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
+viedemerde.fr##a[onclick^="ZeroPub."]
+||defilades.viedemerde.fr^
+||viedemerde.fr/*/728/90$image
 ! MacGeneration
 macg.co###block-quicktabs-bon-plans-macg-
 igen.fr,macg.co##.ebay
@@ -3377,7 +3381,6 @@ factornews.com##.div_pub_728_90
 dailymotion.com##.dm_widget_advert_iabrighttitle
 cdiscount.com##.downinbackMaullContainer
 blog2mature.com##.download
-viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 oujdacity.net,passion-net.fr##.ebuzzing_box
 wp-infinity.com##.entry-featured
 fredzone.org##.entry-pub
@@ -3786,7 +3789,6 @@ undernews.fr##a[href^="https://www.undernews.fr/go/"]
 braindamaged.fr##a[href^="index.php?adclick="]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
-viedemerde.fr##a[onclick^="ZeroPub."]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
 dvdrip-truefrench.com##a[onclick^="this.href='http://www.cashtrafic.com/script/clic.php?"]
