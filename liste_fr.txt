@@ -4193,7 +4193,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ! urbeez.com
 @@||urbeez.com^$script
 ! ville-ideale.com
-ville-ideale.com###antyp
+ville-ideale.com##div#messantip[style="display: block;"] > p
 ! notre-planete.info
 notre-planete.info###abp1
 ! Videoplaza
