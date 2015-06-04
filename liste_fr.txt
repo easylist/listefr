@@ -11,6 +11,7 @@
 !
 !----------------------- Filtres génériques ----------------------!
 !
+&adcid=$popup
 &cwadformat=
 &playadw=
 .adserverpub.
@@ -200,6 +201,7 @@ _Social-Advert-
 ||adserverpub.com^$popup
 ||adservr.net^$third-party
 ||adsitonline.net^$third-party
+||adsmena.com^$third-party
 ||adsregieonline.com^$third-party
 ||adsrevenue.com^$third-party
 ||adstronic.net^$third-party
@@ -3027,6 +3029,7 @@ libertyland.tv###leleftbas + div[style="width:160px; margin-top:10px;"]
 grandecran.fr###les_pubs_locales
 orange.fr###lienComPart
 lfp.fr###lien_billeterie
+omgtorrent.com###lien_dl
 lebest.fr###liens_sponso
 nouvelobs.com###ligatus_right_column
 degroupnews.com###link_pub
@@ -3470,6 +3473,7 @@ topsante.com##.menu-btn-pub
 vacheries.fr##.menu_droit_pub
 lesdebiles.com##.menu_droite_partenaire
 lesdebiles.com##.menu_droite_thumb:first-child
+omgtorrent.com##.menu_sexe
 euroiphone.eu##.middle-banner
 une-recette.com##.milieubanniere2
 bhmag.fr##.mini-pub
@@ -3686,6 +3690,7 @@ cowcotland.com##a#habiclic
 touslesdrivers.com##a.seo
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 artdeseduire.com##a[href*="/?part=ads"]
+omgtorrent.com##a[href*="/clic_p.php?"]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
 nouvelobs.com##a[href*="?partner="]
 challenges.fr,nouvelobs.com##a[href*="?partnerlinkid="]
@@ -3723,7 +3728,7 @@ tadpu.com##a[href^="//fr.ulule.com/insidezecube/?utm_campaign="]
 avocat.fr,ladepeche.pf,ophtalmo.tv,prorussia.tv,rewmi.com,senioractu.com,zinfos974.com##a[href^="/ads/"]
 tunisie-news.com##a[href^="/artpublic/banniere/click3.php?"]
 marianne.net##a[href^="/blogsecretdefense/ads/"]
-omgtorrent.com##a[href^="/clic_dl.php?"]
+omgtorrent.com##a[href^="/clic.php?"]
 zone911.com##a[href^="/component/banners/"]
 theboystelecharger.net##a[href^="/file.php"]
 telechargement22.org,unchartedatolls.com##a[href^="/file.php?"]
