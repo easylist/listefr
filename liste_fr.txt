@@ -4579,6 +4579,7 @@ notre-planete.info###abp1
 ||barometre.science^$third-party
 ||branche.science^$third-party
 ||calendrier.science^$third-party
+||calme.science^$third-party
 ||clepsydre.science^$third-party
 ||clou.ovh^$third-party
 ||colle.ovh^$third-party
@@ -4631,6 +4632,7 @@ notre-planete.info###abp1
 @@||barometre.science/*.js|$script,third-party
 @@||branche.science/*.js|$script,third-party
 @@||calendrier.science/*.js|$script,third-party
+@@||calme.science/*.js|$script,third-party
 @@||clepsydre.science/*.js|$script,third-party
 @@||clou.ovh/*.js|$script,third-party
 @@||colle.ovh/*.js|$script,third-party
