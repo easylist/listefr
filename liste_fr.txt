@@ -12,6 +12,7 @@
 !----------------------- Filtres génériques ----------------------!
 !
 &adcid=$popup
+&ads_size_id=
 &cwadformat=
 &playadw=
 .adserverpub.
@@ -276,6 +277,7 @@ _Social-Advert-
 ||coolood.biz^$popup
 ||coolood.biz^$third-party
 ||cougar-rencontre.net^$third-party
+||cpmwizard.com^$third-party
 ||ctpsrv.com^$third-party
 ||cubicleoffers.com^$third-party
 ||dailyofferservice.com^$third-party
@@ -502,6 +504,7 @@ _Social-Advert-
 ||trackor.net^$third-party
 ||tradetracker.com^$third-party
 ||tradetracker.net^$third-party
+||trafficxbiz.com^$third-party
 ||trafic-booster.biz^$third-party
 ||traficmax.com^$third-party
 ||video1404.info^$popup
