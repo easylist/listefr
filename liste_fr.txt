@@ -84,9 +84,11 @@
 /InjectPopunderAd.
 /js.adv.$script
 /layout/ads?
+/lib/ads.
 /miniads/*
 /modules.pub.
 /nugg.ad.
+/nugg.add.
 /openwindow.js?puurl=
 /page_pub.
 /pagepub.
@@ -630,6 +632,7 @@ _Social-Advert-
 ||buzzypeople.fr/pluginbarre/
 ||buzzypeople.fr/webplayertv/728x90wa.png
 ||c-gratuit.com/logo/aff_logo.php?
+||cadremploi.fr/assets/widgets/$third-party
 ||canaljeuvideo.com/var/storage/habillages/
 ||caradisiac.com/javascript/fonctions_first.js
 ||carasexe.com/promo/$third-party
@@ -3282,7 +3285,7 @@ reverso.net##.adcontent
 gmx.fr##.add
 beaute-test.com##.addictbloc
 01net.com##.adnl_zone
-actustar.com,cvya.dz,do-tube.org,fairytailmx.com,floriankarmen.com,footespagnol.fr,freedom-ip.com,htmlforums.com,lephpfacile.com,lequipe.fr,mercato365.com,metronews.fr,nolyo-tv.com,obturations.com,oujdacity.net,raje.fr,replay.fr,rugby365.fr,rugby365.fr.fr,scan-mx.com,sortiesdvd.com,sport365.fr,streaming-video3x.com,telesatellite.com,tonmanga.com,uzinagaz.com,webstar-auto.com,webstar-electro.com,yourporno.fr##.ads
+actustar.com,cvya.dz,do-tube.org,fairytailmx.com,floriankarmen.com,footespagnol.fr,freedom-ip.com,htmlforums.com,leparisien.fr,lephpfacile.com,lequipe.fr,mercato365.com,metronews.fr,nolyo-tv.com,obturations.com,oujdacity.net,raje.fr,replay.fr,rugby365.fr,rugby365.fr.fr,scan-mx.com,sortiesdvd.com,sport365.fr,streaming-video3x.com,telesatellite.com,tonmanga.com,uzinagaz.com,webstar-auto.com,webstar-electro.com,yourporno.fr##.ads
 artdeseduire.com##.ads-books
 artdeseduire.com##.ads-information
 cvya.dz##.ads-vert
@@ -3701,6 +3704,7 @@ lepetiteconomiste.com##.zoom
 lefigaro.fr##.zoom-widget-react
 dpstream.net##[class$="_plugin_top"]
 meilleur-vpn.biz##[href^="http://meilleur-vpn.biz/visit/"]
+leparisien.fr##[id^="Ads_"]
 allocine.fr##[id^="adClickCommand"]
 secretsdujeu.com##[id^="igadserver-bn"]
 cowcotland.com##a#habiclic
