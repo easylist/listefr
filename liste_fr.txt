@@ -4614,6 +4614,7 @@ notre-planete.info###abp1
 ||celerite.science^$third-party
 ||chaine.science^$third-party
 ||changement.science^$third-party
+||chasser.science^$third-party
 ||clepsydre.science^$third-party
 ||clou.ovh^$third-party
 ||colle.ovh^$third-party
@@ -4672,6 +4673,7 @@ notre-planete.info###abp1
 @@||celerite.science/*.js|$script,third-party
 @@||chaine.science/*.js|$script,third-party
 @@||changement.science/*.js|$script,third-party
+@@||chasser.science/*.js|$script,third-party
 @@||clepsydre.science/*.js|$script,third-party
 @@||clou.ovh/*.js|$script,third-party
 @@||colle.ovh/*.js|$script,third-party
