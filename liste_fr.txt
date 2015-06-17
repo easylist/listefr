@@ -4037,7 +4037,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||blogdumac.com/pub/images/footer-bdm_02.png
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
-@@||canalplus.fr^$elemhide
 @@||ccmbenchmark.com^$~third-party
 @@||cdn-static.liverail.com/crossdomain.xml$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
@@ -4050,7 +4049,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||clubic.com^$elemhide
 @@||costacroisieres.fr/B2C/SharedResources/js/popunder.js
 @@||cstatic.weborama.fr/js/advertiser/wbo_performance.js$domain=pmu.fr
-@@||d8.tv^$elemhide
 @@||daily-*.fr/images/*///pages/*_300x250.png
 @@||danslescoulisses.com^$elemhide
 @@||data.panachetech.com^$object-subrequest,domain=gameone.net
@@ -4108,10 +4106,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||libe.com/libepartnerships/businesspartner_photo/2012/08/13/visuel_pa-1.png
 @@||libe.com/libepartnerships/img/print_subscription.jpg
 @@||m2radio.fr/include/player/flash.swf?$domain=~live.m2stream.fr
-@@||m6.fr^$elemhide
 @@||m6replay.fr/js/advertisement.js
-@@||m6web.fr^*/increment?token=$image
-@@||m6web.fr^elemhide
 @@||mac4ever.com/min.php?$script
 @@||maghrebspace.net/js/advertisement.js
 @@||malakoffmederic.com/entreprise/*/affiliation/
@@ -4180,7 +4175,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||stickyadstv.com/www/components/VideoComponent.swf
 @@||syndication.exoclick.com/ads.php?type=468x60&$script,domain=maxdebrideur.com
 @@||t411.io/*.pubdirecte.com$xmlhttprequest
-@@||tf1.fr^$elemhide
 @@||toshiba.fr/innovation/download_drivers_bios.jsp?
 @@||tradedoubler.com^$domain=emv3.com|teads.fr
 @@||tuto4you.fr/wp-includes/advertisement.js
@@ -4229,10 +4223,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ! notre-planete.info
 notre-planete.info###abp1
 ! Videoplaza
-#@##socialAD
-@@||bobodise.com^$object-subrequest
-@@||schneevonmorgen.com^$object-subrequest
-@@||videoplaza.tv/proxy/distributor/$object-subrequest,xmlhttprequest
 ||videoplaza.tv/creatives/assets/$object-subrequest
 ! Wat.TV (SM)
 |http:*/eJw$object-subrequest,domain=wat.tv
