@@ -4621,6 +4621,10 @@ notre-planete.info###abp1
 ||chaine.science^$third-party
 ||changement.science^$third-party
 ||chasser.science^$third-party
+||chaud.science^$third-party
+||chromatographie.science^$third-party
+||chronophotographie.science^$third-party
+||circonstance.science^$third-party
 ||clepsydre.science^$third-party
 ||clou.ovh^$third-party
 ||colle.ovh^$third-party
@@ -4680,6 +4684,10 @@ notre-planete.info###abp1
 @@||chaine.science/*.js|$script,third-party
 @@||changement.science/*.js|$script,third-party
 @@||chasser.science/*.js|$script,third-party
+@@||chaud.science/*.js|$script,third-party
+@@||chromatographie.science/*.js|$script,third-party
+@@||chronophotographie.science/*.js|$script,third-party
+@@||circonstance.science/*.js|$script,third-party
 @@||clepsydre.science/*.js|$script,third-party
 @@||clou.ovh/*.js|$script,third-party
 @@||colle.ovh/*.js|$script,third-party
