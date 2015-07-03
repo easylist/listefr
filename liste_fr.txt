@@ -1086,7 +1086,6 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||actu-environnement.com/javascript/footer_permanent.js
 ||ad.oujdacity.net^
 ||ad.referencement.01net.com^
-||ad.smartorrent.com^
 ||adli.pw/campagnes/
 ||adopteunmec.com^*/pave_partenaire_
 ||affaires-dz.com/images/banners/
@@ -2179,6 +2178,7 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||voirfilms.com/debrideur1.swf
 ||votrepromo.com/pub-
 ||voxmakers.fr/partenaires/
+||vpn-surf.com^$popup,domain=smartorrent.com
 ||vpngratuit.fr^*/gpub.gif
 ||vulgarisation-informatique.com/upload/partenariat/
 ||wabyle.com/data/sponsors/
@@ -3516,6 +3516,7 @@ lo.st##.home_partner_img
 meteosun.com##.hotelteaser
 orange.fr##.hp2-promo-area
 pagesblanches.be,rtbf.be##.imu
+smartorrent.com##.info-vpn
 megaupload-download.net##.infoblock
 korben.info##.information
 zoomdici.fr##.innerArtAdd
@@ -3535,6 +3536,7 @@ japan-expo.com##.link-background-advert
 pagesjaunes.fr##.linkPushEmbauche
 rtl.fr##.link[href^="http://ad.himediadx.com/"]
 frandroid.com##.link_htr
+smartorrent.com##.list-unstyled
 meilleureecoledefrance.com##.list_sponsors
 click-fr.com##.loc
 caradisiac.com##.logosPartenaires
@@ -3799,7 +3801,6 @@ coco.fr##a[href="http://www.joker.net"]
 shinymen.com##a[href="http://www.karouikaroui.com/fr/outdoor/"]
 onetube.org##a[href="http://www.money-cpm.fr"]
 astuce-facebook.com##a[href="http://www.rent-a-lease.com/chinese/"]
-smartorrent.com##a[href="http://www.vpn-surf.com"]
 itespresso.fr##a[href^=" http://pubads.g.doubleclick.net/"]
 tadpu.com##a[href^="//fr.ulule.com/insidezecube/?utm_campaign="]
 avocat.fr,ladepeche.pf,ophtalmo.tv,prorussia.tv,rewmi.com,senioractu.com,zinfos974.com##a[href^="/ads/"]
@@ -4016,7 +4017,6 @@ israelmagazine.co.il##img[width="600"][height="90"]
 forum.soirnet.fr##img[width="720"][height="100"]
 lien-torrent.com##li > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
 ici.tou.tv##li.bigBox
-smartorrent.com##li:first-child:last-child > a
 filmze.com##noindex
 sinfest.net##noscript a
 crash-aerien.aero##object[width="250"][height="500"]
