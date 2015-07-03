@@ -158,9 +158,15 @@ _Social-Advert-
 ! CDN filters
 /cdn-cgi/pe/bag2?*adcash.com
 /cdn-cgi/pe/bag2?*adverline.com
+/cdn-cgi/pe/bag2?*exponential.com
+/cdn-cgi/pe/bag2?*mobisla.com
 /cdn-cgi/pe/bag2?*natoms.com
+/cdn-cgi/pe/bag2?*oclasrv.com
 /cdn-cgi/pe/bag2?*omnitagjs.com
+/cdn-cgi/pe/bag2?*padsdel.com
+/cdn-cgi/pe/bag2?*padstm.com
 /cdn-cgi/pe/bag2?*partner.googleadservices.com
+/cdn-cgi/pe/bag2?*tribalfusion.com
 !
 !----------------------- Annonceurs -----------------------!
 !
@@ -521,6 +527,7 @@ _Social-Advert-
 ||trafficxbiz.com^$third-party
 ||trafic-booster.biz^$third-party
 ||traficmax.com^$third-party
+||tribalfusion.com^$popup,third-party
 ||video1404.info^$popup
 ||video1404.info^$third-party
 ||videoroow.com^$popup
