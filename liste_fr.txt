@@ -11,6 +11,10 @@
 !
 !----------------------- Filtres génériques ----------------------!
 !
+&ad_domain=
+&ad_domain=$popup
+&ad_path=
+&ad_path=$popup
 &adcid=$popup
 &ads_size_id=
 &cwadformat=
@@ -125,6 +129,7 @@
 /script/campagne.php?cp=$popup
 /sdk-ads.
 /sdk-ads/*
+/smart_ad/$popup
 /ttn_adspaces
 /widgets-zoom-annonce-shopping.
 /widgets-zoom-mytravelchic.
@@ -205,6 +210,7 @@ _Social-Advert-
 ||adserverpub.com^$popup
 ||adservr.net^$third-party
 ||adsitonline.net^$third-party
+||adslvr.com^$third-party
 ||adsmena.com^$third-party
 ||adsregieonline.com^$third-party
 ||adsrevenue.com^$third-party
@@ -1683,6 +1689,7 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||libre.eu/homepage/relooking/
 ||lien-torrent.com^$subdocument
 ||liens-de-telechargement.com/popmodal/
+||lig.liberation.fr^
 ||lille.sortir.eu/portal_banneradmin/
 ||links.fhsarl.com^$popup,third-party
 ||linternaute.com/*@*,position$script
