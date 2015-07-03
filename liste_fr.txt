@@ -58,6 +58,7 @@
 /affiliate/banners/*
 /affilizr.$script
 /affpx.php
+/afterclick.js
 /amazon-product-in-a-post-plugin/*
 /amzn_ads.
 /ar/ads/*
@@ -3417,6 +3418,7 @@ algerie360.com##.bloc_pub_250_s_marge
 premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 liberation.fr##.block-cPublicite
 jeuxvideopc.com##.block-concours_en_cours
+smartorrent.com##.block-contenu-pub
 jeuxvideo.fr##.block-divers-widget_shopping
 jeuxvideo.fr##.block-jeux-micromania_offre
 bricoleurdudimanche.com##.block-pub-ban-btm
@@ -3440,6 +3442,7 @@ israel7.com##.box2[style="background-color:rgb(0,0,0);height:250px;"]
 israel7.com##.box2[style="background-color:rgb(0,0,0);padding:20px;"]
 israel7.com##.box2[style="padding:5px;height:600px;"]
 days-media.fr##.boxed[style^="width:300px; height:250px"]
+smartorrent.com##.btn-group
 gamergen.com##.bup
 football365.fr,mercato365.com,rugby365.fr,sport365.fr##.bwin
 orange.fr##.campagnePUBcoldroite
@@ -5032,5 +5035,6 @@ goldenboys.fr,radiocockpit.fr#@#.afs_ads
 freedom-ip.com#@#.pub_vertical
 fr.audiofanzine.com#@#div[id^="div-gpt-ad-"]
 eclypsia.com#@#img[width="728"][height="90"]
-! Adware iframe
+! Adware
 /dl.php?id=*&r=http%3A%2F%2F*%2Fhp%2F%3Fq%3D*%*%*%*%*&*=
+?product_name=*&filesize=*&product_title=$popup
