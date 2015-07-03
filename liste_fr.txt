@@ -139,6 +139,7 @@
 =partenariat&utm_campaign=$popup
 =publicite&
 =sponsored_links_
+?adCampaign=$popup
 ?adlink/
 ?clickTag=
 ?preview=*&pgid*&from_sz=$popup
@@ -1014,7 +1015,6 @@ _Social-Advert-
 ||url.ph/banners/
 ||vernimmen.net/images/flash/300x300_$third-party
 ||videos-de-celebrites.com/CMF_Banners/
-||vine.co/v/OV390pOKMWI/$subdocument,domain=tuxboard.com
 ||viwii.net/banners/$third-party
 ||voiture-ligier.info/pub1.
 ||voiture-louer.info/pub.
@@ -2264,6 +2264,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 @@||stream4free.eu/images/*#$~image
 @@||stream4free.eu^$elemhide
 @@||streaming-foot.me/js/adblock.js
+@@||tuxboard.com^$elemhide
 ||pubdirecte.com^$~collapse,domain=debrideurstream.fr
 !
 !------------------ Éléments génériques -----------------!
@@ -3617,13 +3618,10 @@ rueducommerce.fr##.pub1
 bladi.net##.pub336
 bladi.net##.pub336footer
 desmatures.com##.pub468100top
-tuxboard.com##.pub728-90 + div[style^="background"]
 surf-heures.com##.pub72890-forum
 gaytag.net##.pub96590
 vide-greniers.org##.pubCenter
 whitespirit.fr##.pubHaut
-tuxboard.com##.pubMixte
-tuxboard.com##.pubMixte + div[style^="background"]
 cdiscount.com##.pubText
 jds.fr##.pub_2_1000
 masculin.com##.pub_article
@@ -4004,7 +4002,6 @@ bonjourmadame.fr##object[width="728"][height="90"]
 lien-torrent.com##p > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
 debrideurstreaming.com##script[src="http://www.pubdirecte.com/script/pop.php?id=48523&ref=23821"] + table[style="float:right; margin-right:50px;"]
-tuxboard.com##script[type="text/javascript"] + noscript + a
 smartorrent.com##span[onclick="friendly()"]
 netbusiness-team.com##table[background="../img/banner/pub_verticale.gif"]
 photos-persos-sexy.com##table[style="border-style: solid; border-width: 0px; background-color: #ffffff; width: 100%; height: 280px;"]
