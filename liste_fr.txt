@@ -79,10 +79,12 @@
 /default_ads_
 /display/?affid=
 /doubleclick_dmm/*
+/effi.click?$popup
 /EpubDelivery/*
 /fod_ad_
 /fra/ads/*
 /generateAds.
+/getadsor.
 /iframe_pub_
 /iframePopUpLoader.$popup
 /IFrameStoreReciever.
@@ -1478,6 +1480,7 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||goldenboys.fr/images/klops-promo-goldenboys-180x180-v5.jpg
 ||goldenmoustache.com/wp-content/uploads/*/300x250
 ||gonzai.com/wp-content/uploads/*/gonzai-renault.$image
+||goo.gl^$popup,domain=openrunner.com
 ||goole.fr/images/pub.jpg
 ||goziga.com/ban/
 ||goziga.com^*/banangela.gif
@@ -2140,6 +2143,7 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||unionrunningworld.com/upload/bannieres/
 ||unlock-stream.com/js/disclamer.js
 ||unsimpleclic.com/wp-content/uploads/*/GoodBarber-250-250.png
+||upor.openrunner.com^
 ||upp-auteurs.fr/annonces/
 ||uprapide.com/pub/
 ||vador.com/popdhtml_msg/
