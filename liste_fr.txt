@@ -2059,6 +2059,12 @@ terredauphinoise.fr/casiope/serveur/partage/
 ||synonymes.com/js/capping-horos.js
 ||syskb.com^*/wordpress-notification-bar
 ||t.nl.francetv.fr/r/?id=$popup
+||tahiti-infos.com/ads/$popup
+||tahiti-infos.com/photo/*.gif$image
+||tahiti-infos.com/photo/*_banie*.swf
+||tahiti-infos.com/photo/*_banniere_*.swf
+||tahiti-infos.com/photo/habillage_
+||tahiti-infos.com/photo/heiva_pol_
 ||team-iphone.fr/phpbbtip/images/pub/
 ||technikart.com/images/banners/
 ||telebruxelles.net/portail/images/annonce_une/138x260-100e-fr.gif
@@ -3793,6 +3799,7 @@ meilleur-vpn.biz##[href^="http://meilleur-vpn.biz/visit/"]
 aujourdhui-en-france.fr,leparisien.fr##[id^="Ads_"]
 allocine.fr##[id^="adClickCommand"]
 secretsdujeu.com##[id^="igadserver-bn"]
+tahiti-infos.com##[id^="pub_"]
 cowcotland.com##a#habiclic
 touslesdrivers.com##a.seo
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
@@ -3831,6 +3838,7 @@ astuce-facebook.com##a[href="http://www.rent-a-lease.com/chinese/"]
 itespresso.fr##a[href^=" http://pubads.g.doubleclick.net/"]
 tadpu.com##a[href^="//fr.ulule.com/insidezecube/?utm_campaign="]
 avocat.fr,ladepeche.pf,ophtalmo.tv,prorussia.tv,rewmi.com,senioractu.com,zinfos974.com##a[href^="/ads/"]
+tahiti-infos.com##a[href^="/ads/"] > .image
 tunisie-news.com##a[href^="/artpublic/banniere/click3.php?"]
 marianne.net##a[href^="/blogsecretdefense/ads/"]
 aujourdhui-en-france.fr,leparisien.fr##a[href^="/bons-plans/"]
