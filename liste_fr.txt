@@ -22,8 +22,12 @@
 .adserverpub.
 .adxcore.
 .be/ads/
+.dz/ads/
+.dz/ads_
 .fr/ads.
 .fr/ads/
+.ma/ads/
+.ma/ads_
 .php?*&zoneid=
 .pubdirecte.
 .publicite.
@@ -38,6 +42,7 @@
 /adoff.js?
 /AdPortalService.
 /AdPortalWebService/*
+/ads-bubble.
 /ads-ext.
 /ads-google-adsense.
 /ads?p=
@@ -49,6 +54,7 @@
 /adsmouse.
 /Adv728.
 /adv_clk_redirect.$popup
+/adv_forum-
 /advertisingView?
 /adyoulike.api.
 /af-250x250.
@@ -72,6 +78,7 @@
 /banniere728x90_
 /banniere_pub.
 /bannieres_pub/*
+/blog/ads_
 /bnr468.
 /brightcoveAds.
 /choixPubJS.
@@ -2585,7 +2592,9 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.adbanner600active
 ##.adf_marketingbanner
 ##.adf_mpu
+##.ads-300-300
 ##.ads-300-600
+##.ads-468-60
 ##.ads-970-90
 ##.ads-970x60
 ##.ads-sponsored-text
@@ -2623,6 +2632,8 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.conteneur_pub_horiz
 ##.conteneur_pub_vertical
 ##.cubes-ads
+##.custom-advert-banner
+##.custom-advert-banner-frame
 ##.div-publicite
 ##.div-publicite1
 ##.div-publicite2
@@ -2633,6 +2644,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.entete_pub
 ##.espace-partenaire-premium
 ##.espaces-partenaires-standard
+##.facebook-twitter-ads-728-90
 ##.fig-ad
 ##.fig-ad-pave
 ##.fig-native-ads
