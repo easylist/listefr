@@ -3479,6 +3479,7 @@ nextinpact.com##.bonplan_article
 20minutes.fr##.bons-plans
 hentai-3x.com##.boost
 liligo.fr##.bottom-banner
+boursorama.com##.bourse.fit.block-bourse-liste.widget.block + [style="display: block;"]
 hamachifrance.com##.box-1.deepest[style="min-height: 250px;"]
 challenges.fr,nouvelobs.com##.box-simulation-immo
 ibuzzyou.fr##.box-sous-titre-gauche
@@ -3546,7 +3547,6 @@ gratuit-xxx.com##.footerboost
 supertoinette.com##.g-ads-336-250
 korben.info##.g-single
 nouvelobs.com##.gam-holder
-boursorama.com##.gigaban
 lemonde.fr##.global.services
 leboncoin.fr##.google
 commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##.google_grand_rectangle
@@ -3659,6 +3659,7 @@ abomag.com##.postContent > p[style="float: left;margin: 4px;"]
 strastv.com##.post_pub
 audiofanzine.com##.price
 matchendirect.fr##.promo
+boursorama.com##.promo + .visible-desktop[style$="display: block;"]
 challenges.fr,nouvelobs.com##.promo-bottom-art
 frandroid.com##.promo-sony
 lemonde.fr##.promo.michelin
@@ -3735,7 +3736,6 @@ la-musique-rai.com##.rowa
 lol89.com##.s-300
 europe1.fr##.s-partenaires
 phpsources.org##.sample-lst
-boursorama.com##.sasban
 bakchich.info##.scpe-pub
 journaldugeek.com##.sdcBox
 jeuxetcompagnie.fr##.sg-formulaire
@@ -4082,6 +4082,7 @@ lien-torrent.com##p > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
 debrideurstreaming.com##script[src="http://www.pubdirecte.com/script/pop.php?id=48523&ref=23821"] + table[style="float:right; margin-right:50px;"]
 smartorrent.com##span[onclick="friendly()"]
+boursorama.com##style + div > .visible-desktop:first-child
 netbusiness-team.com##table[background="../img/banner/pub_verticale.gif"]
 photos-persos-sexy.com##table[style="border-style: solid; border-width: 0px; background-color: #ffffff; width: 100%; height: 280px;"]
 google.fr##table[style="border: 1px solid #369"]
