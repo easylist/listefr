@@ -561,6 +561,7 @@ _Social-Advert-
 ||videos-x.me^$third-party
 ||videostep.com^$third-party
 ||visadd.com^$third-party
+||visibay.com^$third-party
 ||vmedia.tv^$third-party
 ||vshop.fr^$third-party
 ||wafmedia3.com^$third-party
@@ -701,6 +702,8 @@ _Social-Advert-
 ||clicjeux.net/banniere.
 ||clip-x.net/images/pub/
 ||cliquojeux.com/pub/
+||cloudfront.net^*/$xmlhttprequest,domain=generation-nt.com
+||cloudfront.net^*/?partner=
 ||club-salopes.com/partenaires/
 ||compteur-blog.net/img/pub_
 ||conference-islam.be/documents/Image/banners/
@@ -2300,7 +2303,6 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 @@||audipassion.com^*/jsLoader.js?adType=foobar
 @@||doubleclick.net/favicon.ico$image
 @@||esprit-click.com/*.js|$script,third-party
-@@||generation-nt.com/ads.com/ads/test
 @@||juicyads.com^$subdocument,domain=spaste.com
 @@||mondebrideur.com/js/advert.js
 @@||ps3-infos.fr/adsense/openads/ads/ads.js
@@ -2749,6 +2751,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.pub300_contenu
 ##.pub300px
 ##.pub300x250
+##.pub300x250_home
 ##.pub350x250left
 ##.pub468
 ##.pub46860
