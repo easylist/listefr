@@ -39,7 +39,7 @@
 /ac.wbdds.
 /acad.$script
 /ad_trafic.
-/adcint/$popup
+/adcint/*$popup
 /adoff.js?
 /AdPortalService.
 /AdPortalWebService/*
@@ -94,7 +94,7 @@
 /effi.click?$popup
 /EpubDelivery/*
 /fod_ad_
-/fr/adcr/$popup
+/fr/adcr/*$popup
 /fra/ads/*
 /generateAds.
 /getadsor.
@@ -146,11 +146,11 @@
 /script/campagne.php?cp=$popup
 /sdk-ads.
 /sdk-ads/*
-/smart_ad/$popup
+/smart_ad/*$popup
 /ttn_adspaces
 /widgets-zoom-annonce-shopping.
 /widgets-zoom-mytravelchic.
-/wp-content/plugins/baw-bon-plan/
+/wp-content/plugins/baw-bon-plan/*
 /XnewadsX/*
 =partenariat&utm_campaign=$popup
 =publicite&
