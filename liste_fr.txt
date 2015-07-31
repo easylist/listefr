@@ -2477,6 +2477,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ###contenu-text-publicite
 ###contextuel-publicite-video
 ###custom-ad
+###displayedPub
 ###divPub
 ###div_pub_google
 ###encart-adsense-top-single
@@ -4221,6 +4222,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||ad.zanox.com/ppc/$popup
 @@||ad2play.ftv-publicite.fr/?sitepage=$subdocument,domain=mytaratata.com|psg.fr
 @@||ad2play.ftv-publicite.fr/js/ad2play.js$domain=mytaratata.com
+@@||ad4.liverail.com/?_=$domain=gamingroom.tv
 @@||ad4.liverail.com/?LR_ADMAP=$object-subrequest,domain=ultimedia.com
 @@||adgear.com^*/adgear.js$domain=tetesaclaques.tv|tou.tv
 @@||adimages.ch^$domain=adimages.ch
