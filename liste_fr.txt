@@ -17,6 +17,7 @@
 &ad_path=$popup
 &adcid=$popup
 &ads_size_id=
+&bann=$popup
 &cwadformat=
 &playadw=
 .adserverpub.
@@ -58,6 +59,7 @@
 /ads_block
 /adsdino.
 /adsmouse.
+/adv/pads.
 /Adv728.
 /adv_clk_redirect.$popup
 /adv_forum-
@@ -285,6 +287,7 @@ _Social-Advert-
 ||affpx.com^$third-party
 ||ajoutezvotresite.com^$third-party
 ||aknod.com^$third-party
+||all2lnk.com^$popup,third-party
 ||alldomserv2.com^$third-party
 ||allo-audience.fr^$third-party
 ||alloclick.com^$third-party
@@ -348,9 +351,11 @@ _Social-Advert-
 ||connexionsafe.com^$third-party
 ||coolood.biz^$popup
 ||coolood.biz^$third-party
+||coosc.info^$popup,third-party
 ||coosc.info^$third-party
 ||copyop-ads.com^$popup,third-party
 ||cougar-rencontre.net^$third-party
+||cound.info^$popup,third-party
 ||cound.info^$third-party
 ||cpmwizard.com^$third-party
 ||cpxmasters.com^$third-party
@@ -578,6 +583,7 @@ _Social-Advert-
 ||serpzaer.com^$third-party
 ||sex-affiliation.com^$third-party
 ||sextapes2stars.com^$third-party
+||sezonlukdizi.com^$popup,third-party
 ||sezonlukdizi.com^$third-party
 ||shabakti.com^$third-party
 ||shoppingate.info^$third-party
@@ -616,7 +622,7 @@ _Social-Advert-
 ||toutlinternet.com^$third-party
 ||touturf.com^$third-party
 ||tr553.com^$third-party
-||track2cash.com^$popup
+||track2cash.com^$popup,third-party
 ||track2cash.com^$third-party
 ||tracking.ecookie.fr^$popup,third-party
 ||trackor.net^$popup,third-party
@@ -826,6 +832,7 @@ _Social-Advert-
 ||euroclix.fr^$domain=176.31.96.119
 ||eurosportbet.loa24.com^$domain=eurosport.fr
 ||evolucare.com/bannieres/
+||exashare.com/hd_stream.html
 ||exashare.com/ici.html
 ||fanslave.com/images/stories/*/banner-$third-party
 ||fapbase.com/widgets?
@@ -975,6 +982,8 @@ _Social-Advert-
 ||on-veut-du-cul.com/promo/
 ||onlyanimes.info/avatar/banpub.gif
 ||onvillanuit.com^$domain=chartsinfrance.net
+||openload.io/ad/$popup
+||openload.io^*?adblock=
 ||over-blog-kiwi.com^*/*_ban-300x250.
 ||oxiads.fr/www/images/
 ||oxyka.com/er/od.php?
@@ -1145,6 +1154,7 @@ _Social-Advert-
 ||yellowapi.com/twn/?
 ||yimg.com/hl/ap/default/*/HP_*.jpg
 ||youtube.com^$popup,domain=abdelghanisat.kazeo.com
+||youwatch.org/9eriba.html
 ||yubee.free.fr/admin/bannieres/
 ||z51.biz/IBinnewz.aspx
 ||zeusmangax.com/baniere/
