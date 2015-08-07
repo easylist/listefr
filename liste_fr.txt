@@ -92,6 +92,7 @@
 /choixPubJS.
 /col_droite_googleads2
 /default_ads_
+/display.php?k=*&ban=$popup
 /display/?affid=
 /doubleclick_dmm/*
 /effi.click?$popup
@@ -237,6 +238,7 @@ _Social-Advert-
 ||adm-vids.com^$third-party
 ||admanmedia.fr^$third-party
 ||admark.fr^$third-party
+||adnetworkperformance.com^$popup,third-party
 ||adoptima.com^$third-party
 ||adpub.eu^$third-party
 ||adqia.com^$third-party
@@ -444,6 +446,7 @@ _Social-Advert-
 ||internetpourtout.com^$third-party
 ||intextdirect.com^$third-party
 ||jazayr.net^$third-party
+||jesuisalahauteur.com^$third-party
 ||jmp9.com^$third-party
 ||jor1.net^$third-party
 ||journaux-du-midi.com^$third-party
@@ -707,6 +710,7 @@ _Social-Advert-
 ||achatventepagefan.com^*/banachat*.gif$third-party
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
 ||ad.vacanceo.com^
+||ads.giponewing.com^
 ||aduwoc.footeo.com^
 ||aff.bstatic.com^
 ||affiliation-mb.vos-scripts.com^
