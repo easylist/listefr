@@ -2389,6 +2389,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 /adblock-notify-by-bweb/*
 /AdblockDetector/handler.$script
 /antiadblockmsg.
+/blockadblock.js
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
 @@||audipassion.com^*/jsLoader.js?adType=foobar
 @@||doubleclick.net/favicon.ico$image
@@ -2431,6 +2432,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ###ad_marketingbanner_1_placeholder
 ###ad_mpu_1_placeholder
 ###ad_rotation_match
+###adb-enabled
 ###adblockDetect
 ###ads-320x50-I1
 ###ads-320x50-I2
