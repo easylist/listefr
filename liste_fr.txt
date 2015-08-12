@@ -69,7 +69,6 @@
 /af-300x250.
 /aff_pub_
 /affiliate.*/banner
-/affiliate/banners/*
 /affpx.php
 /afterclick.js
 /amazon-product-in-a-post-plugin/*
@@ -229,11 +228,9 @@ _Social-Advert-
 ||adaraby.com^$third-party
 ||adecolo.com^$third-party
 ||adfever.com^$third-party
-||adikteev.com^$third-party
 ||adinlive.com^$third-party
 ||adintop.com^$third-party
 ||adk2x.com^$popup,third-party
-||adk2x.com^$third-party
 ||adleave.com^$third-party
 ||adlpartner.com^$third-party
 ||adm-vids.com^$third-party
@@ -352,7 +349,6 @@ _Social-Advert-
 ||comandclick.com^$third-party
 ||comoclic.net^$third-party
 ||congruityheterocephalus.info^$third-party
-||connexionsafe.com^$popup
 ||connexionsafe.com^$third-party
 ||coolood.biz^$popup
 ||coolood.biz^$third-party
@@ -447,17 +443,14 @@ _Social-Advert-
 ||imgpromo.easyrencontre.com^$third-party
 ||inshopr.com^$third-party
 ||internetpourtout.com^$third-party
-||intextdirect.com^$third-party
 ||jazayr.net^$third-party
 ||jeregardegratuitementetsanslimite.eu^$third-party
 ||jesuisalahauteur.com^$third-party
-||jmp9.com^$third-party
 ||jor1.net^$third-party
 ||journaux-du-midi.com^$third-party
 ||kadoywww.xyz^$third-party
 ||kadserver.com^$third-party
 ||khingtracking.com^$third-party
-||koocash.com^$third-party
 ||koodoo.net^$third-party
 ||kreaffiliation.com^$third-party
 ||lapindespres.com^$third-party
@@ -618,7 +611,6 @@ _Social-Advert-
 ||teads.fr^$third-party
 ||tfxiq.com^$third-party
 ||the-adult-company.com^$popup,third-party
-||theadgateway.com^$third-party
 ||themoneytizer.com^$third-party
 ||tmcregie.fr^$third-party
 ||tnx.net^$third-party
@@ -641,7 +633,6 @@ _Social-Advert-
 ||traficmax.com^$third-party
 ||tribalfusion.com^$popup,third-party
 ||video1404.info^$popup
-||video1404.info^$third-party
 ||videonas.eu^$third-party
 ||videoroow.com^$popup
 ||videoroow.com^$third-party
@@ -679,7 +670,6 @@ _Social-Advert-
 ||yban.fr^$third-party
 ||you-hentai.com^$third-party
 ||youradexchange.com^$popup,third-party
-||youradexchange.com^$third-party
 ||z-barre.com^$third-party
 ||zebestof.com^$third-party
 ||zeropub.net^$third-party
@@ -2392,7 +2382,6 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 /ad-blocking-detector/*
-/adblock-alerter/*
 /adblock-notify-by-bweb/*
 /AdblockDetector/handler.$script
 /antiadblockmsg.
@@ -2407,7 +2396,6 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 @@||q41.twer.info/$script
 @@||smartadserver.com/call/pubj/$script,domain=itele.fr
 @@||stream4free.eu/images/*#$~image
-@@||stream4free.eu^$elemhide
 @@||streaming-foot.me/js/adblock.js
 @@||tuxboard.com^$elemhide
 ||pubdirecte.com^$~collapse,domain=debrideurstream.fr
@@ -2453,7 +2441,6 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ###adsHaut
 ###adsense_haut
 ###adspave
-###advertise1
 ###advertise2
 ###annonce_pub
 ###annonce_pub2
@@ -2769,7 +2756,6 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.conteneur_pub_horiz
 ##.conteneur_pub_vertical
 ##.cubes-ads
-##.custom-advert-banner
 ##.custom-advert-banner-frame
 ##.div-publicite
 ##.div-publicite1
@@ -4864,7 +4850,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ||chasser.science^$third-party
 ||chaud.science^$third-party
 ||chromatographie.science^$third-party
-||chronophotographie.science^$third-party
 ||circonstance.science^$third-party
 ||clepsydre.science^$third-party
 ||clou.ovh^$third-party
