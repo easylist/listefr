@@ -518,6 +518,7 @@ _Social-Advert-
 ||oneinstaller.com^$third-party
 ||opresat.ru^$third-party
 ||orangepublicite.fr^$third-party
+||othip.info^$popup,third-party
 ||overlays.next-targeting.com^$third-party
 ||ovnet.fr^$third-party
 ||ovnet.net^$third-party
@@ -2367,6 +2368,9 @@ _Social-Advert-
 ||zoom-algerie.com/charte/images/klash16.swf
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
+! Youwatch
+?runauction=*?crr=*&cbrandom=
+?runauction=*?crr=*&ctbust=$popup
 ! Viedemerde
 @@||viedemerde.fr/advertisement.js
 viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
