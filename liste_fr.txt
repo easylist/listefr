@@ -1201,6 +1201,7 @@ _Social-Advert-
 ||affination.com^*/banners/$third-party
 ||africanmanager.com/oad/
 ||afromeet.com/img/ban_
+||agroligne.com/images/banners/
 ||air-journal.fr/wp-content/uploads/ad-
 ||airsoftnews.fr/wp-content/partenaires/
 ||ajoutezvotresite.com/partenaires/
@@ -3530,6 +3531,7 @@ buzzly.fr##.ayl-ad-article
 hdfever.fr##.background_clic
 zebulon.fr##.ban2
 e-jeune.net##.ban_carre_1366
+agroligne.com##.ban_holder
 topsite-web.net##.bandeauHaut
 cdmail.fr##.bandeauvert
 orientation-chabab.com##.bann
@@ -3974,7 +3976,7 @@ tahiti-infos.com##a[href^="/ads/"] > .image
 tunisie-news.com##a[href^="/artpublic/banniere/click3.php?"]
 marianne.net##a[href^="/blogsecretdefense/ads/"]
 aujourdhui-en-france.fr,leparisien.fr##a[href^="/bons-plans/"]
-zone911.com##a[href^="/component/banners/"]
+agroligne.com,zone911.com##a[href^="/component/banners/"]
 theboystelecharger.net##a[href^="/file.php"]
 telechargement22.org,unchartedatolls.com##a[href^="/file.php?"]
 ensnaredbyabook.com##a[href^="/file.php?name="]
