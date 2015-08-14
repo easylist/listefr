@@ -748,7 +748,6 @@ _Social-Advert-
 ||bestofmedia.com/sfp/images/partner/
 ||beurette-passion.com/ban/$third-party
 ||beurettes-faciles.com/promo/
-||bit.ly^$image,domain=nextinpact.com
 ||bitchvolley.com/ban/$third-party
 ||blablaland.com/pubosaure/
 ||bon-reduc.com/pub/
@@ -1928,9 +1927,9 @@ _Social-Advert-
 ||neomag.fr/e-pubs/
 ||netiris.fr/imgs/wengo/
 ||newpromo.cpasbien.pe^
-||nextinpact.com/bon-plan/$popup
-||nextinpact.com/kvgc3/
-||nextinpact.com/redirection-bon-plan?$popup
+||nextinpact.com/*0*0*0*0*0*0$script
+||nextinpact.com/get-carousel-latest-bp
+||nextinpact.com/redirect-bon-plan?$popup
 ||nextwarez.com/wp-content/uploads/*/mega-debrid-meilleur-debrideur.gif
 ||nextwarez.com/wp-content/uploads/*/seedibox.gif
 ||nofrag.com/v2k7/s/*.jpg
@@ -3464,6 +3463,7 @@ amateur2sexe.fr###video-full
 europages.fr###vipBox
 systemed.fr###vitrineFabricants
 rtl.be###w-leaderboard
+nextinpact.com###wide_tlf_section
 creativejuiz.fr###widget_juiz_ads-2
 wix.com###wixFooter
 wix.com###wixfooter
@@ -3523,8 +3523,6 @@ jeuxvideo.fr,jeuxvideopc.com##.annonce_pub_contenu
 voyageforum.com##.annoncer_sur
 sortiesdvd.com##.art-Post[style="float: left"]
 sortiesdvd.com##.art-Post[style="float: right"]
-nextinpact.com##.article_bonplan
-nextinpact.com##.article_bp
 buzzly.fr##.article_pubtop
 viamichelin.fr##.autoPromoCarTrawler
 totonova.com##.avi
@@ -3590,7 +3588,6 @@ whitespirit.fr##.blogt
 leguide-shopping.tele-2-semaines.fr##.body
 lesnegociales.com##.body_clic
 trocdestrains.com##.boite-partenaire-v
-nextinpact.com##.bonplan_article
 20minutes.fr##.bons-plans
 hentai-3x.com##.boost
 liligo.fr##.bottom-banner
@@ -3872,6 +3869,7 @@ jeuxjeuxjeux.fr##.skyscraper-container
 commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##.skyscraper_large
 lemoteur.fr##.slpartner
 gizmodo.fr##.small.element
+nextinpact.com##.small_article[title^="Valable jusqu'au"]
 nextinpact.com##.small_article_bp_section
 boursorama.com##.smart
 slappyto.net##.sonicprice
