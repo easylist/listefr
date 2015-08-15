@@ -308,6 +308,7 @@ _Social-Advert-
 ||avenir-affiliation.fr^$third-party
 ||awsclic.com^$third-party
 ||ayads.co^$third-party
+||badibadou.eu^$third-party
 ||baseandco.com^$third-party
 ||basebanner.com^
 ||beead.fr^$third-party
@@ -408,6 +409,7 @@ _Social-Advert-
 ||f5biz.biz^$third-party
 ||femme-cougar.tv^$popup,third-party
 ||firstoffersfinder.com^$third-party
+||folihentai.eu^$third-party
 ||folue.info^$popup,third-party
 ||foxserie.com^$script,third-party
 ||gagner-une-console.com^$third-party
@@ -4230,6 +4232,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@/plflv2/preroll.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@|http://*.js$script,third-party,domain=jeu.fr|jeux.fr
 @@||247realmedia.com/0/Player/Player_FR_Home/Box-2-FR.jpg$domain=eurosportplayer.fr
+@@||2folie.com^$elemhide
 @@||a.ligatus.com/?$script,domain=bfmtv.com
 @@||ad.zanox.com/ppc/$popup
 @@||ad2play.ftv-publicite.fr/?sitepage=$subdocument,domain=mytaratata.com|psg.fr
@@ -5204,6 +5207,7 @@ forum.virtualdjing.com#@#.adFrame
 gamingroom.tv#@#.adsbygoogle
 goldenboys.fr,radiocockpit.fr#@#.afs_ads
 freedom-ip.com#@#.pub_vertical
+@@/check.js?a&largead=
 fr.audiofanzine.com#@#div[id^="div-gpt-ad-"]
 eclypsia.com#@#img[width="728"][height="90"]
 ! Adware
