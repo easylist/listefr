@@ -151,6 +151,7 @@
 /regie_pub/*
 /regiepub/*
 /script/campagne.php?cp=$popup
+/script/pop.php?id=*&ref=
 /sdk-ads.
 /sdk-ads/*
 /smart_ad/*$popup
@@ -455,6 +456,7 @@ _Social-Advert-
 ||inshopr.com^$third-party
 ||internetpourtout.com^$third-party
 ||jazayr.net^$third-party
+||jedeconnebiensur2.com^$third-party
 ||jeregardegratuitementetsanslimite.eu^$third-party
 ||jesuisalahauteur.com^$third-party
 ||jor1.net^$third-party
@@ -465,6 +467,7 @@ _Social-Advert-
 ||koodoo.net^$third-party
 ||kreaffiliation.com^$third-party
 ||lapindespres.com^$third-party
+||leasured.eu^$third-party
 ||lien-amateur.org^$third-party
 ||ligatus.com^$~collapse,subdocument,domain=bfmtv.com
 ||linkbolic.com^$third-party
