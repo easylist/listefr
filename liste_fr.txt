@@ -89,8 +89,11 @@
 /bnr468.
 /brightcoveAds.
 /choixPubJS.
+/click_lx.ads/$popup
+/click_lx.ads/*
 /col_droite_googleads2
 /default_ads_
+/delivery/rta/*
 /display.php?k=*&ban=$popup
 /display/?affid=
 /doubleclick_dmm/*
@@ -441,6 +444,7 @@ _Social-Advert-
 ||idhad.com^$third-party
 ||igadserver.net^$third-party
 ||ikoo.com^$third-party
+||ilius.net^$popup,third-party
 ||illyx.co^$third-party
 ||illyx.com^$popup,third-party
 ||illyx.com^$third-party
@@ -665,6 +669,7 @@ _Social-Advert-
 ||widgetbooster.com^$third-party
 ||wineuroptp.fr^$third-party
 ||wslinx.com^$third-party
+||www.meetic-partners.com^$popup,third-party
 ||wwwbrassier.website^$third-party
 ||x.porn.fr^$third-party
 ||xaddad.com^$third-party
@@ -1109,6 +1114,7 @@ _Social-Advert-
 ||tac2.xcams.com/livecams/$third-party
 ||tagbox.fr/banner/
 ||techbeat.com/wp-content/custom-php/tbrecentposts3.php?
+||technologiesaintjoseph.com/addon/script/*?integration=$third-party
 ||teen-passion.net/annuaire/ban/$third-party
 ||telecharger9.fr^
 ||teliad.fr^*/banner/
