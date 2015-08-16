@@ -357,6 +357,7 @@ _Social-Advert-
 ||comoclic.net^$third-party
 ||congruityheterocephalus.info^$third-party
 ||connexionsafe.com^$third-party
+||contextualyield.com^$third-party
 ||coolood.biz^$popup
 ||coolood.biz^$third-party
 ||coosc.info^$popup,third-party
@@ -368,6 +369,7 @@ _Social-Advert-
 ||cpmwizard.com^$third-party
 ||cpxmasters.com^$third-party
 ||ctpsrv.com^$third-party
+||ctx-traffic.com^$third-party
 ||cubicleoffers.com^$third-party
 ||dailyofferservice.com^$third-party
 ||danstonfion.com^$popup,third-party
@@ -1180,7 +1182,7 @@ _Social-Advert-
 !----------------------- Sites spécifiques -----------------------!
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
-|http:$subdocument,third-party,domain=clictune.com|sa.ae
+|http:$subdocument,third-party,domain=clictune.com|contextualyield.com|sa.ae
 |http://newpromo.$domain=cpasbien.pw
 ||01net.com^*/regie/
 ||100pour100sexe.com/pop.
