@@ -1644,7 +1644,6 @@ _Social-Advert-
 ||hitek.fr/styles/elderscrolls/habillage.
 ||homecine-compare.com/images/*/bup-
 ||homecinema-fr.com/images/habactivehd_
-||hostinger.fr/banners/$third-party
 ||hotvideo.fr/popup.php$popup
 ||hotvideo.fr/pub/
 ||hotvideo.fr^*/banners/
@@ -4346,6 +4345,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||google.com/uds/$script,domain=rfm.fr|virginradio.fr
 @@||googleads.g.doubleclick.net/pagead/ads?$object-subrequest,domain=jeux-fille-gratuit.com|mahjonggratuit.fr
 @@||host3.adhese.be/tag/tagv1.js$script,domain=lavenir.net
+@@||hostinger.fr/banners/*/hostinger-$image,~third-party
 @@||ib.adnxs.com/crossdomain.xml$object-subrequest,domain=jeux-fille-gratuit.com|mahjonggratuit.fr
 @@||ib.adnxs.com/ptv?$object-subrequest,domain=jeux-fille-gratuit.com|mahjonggratuit.fr
 @@||images.newmedia.lu^*/adtech_video/
