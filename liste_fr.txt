@@ -4334,6 +4334,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
 @@||ebayrtm.com/rtm?RtmCmd&a=json&p=$script,domain=www.befr.ebay.be
 @@||ebayrtm.com/rtm?RtmPreviewContent&$subdocument,domain=www.befr.ebay.be
+@@||eclypsia.com^$elemhide
 @@||everlong.org/style/banner.php
 @@||evilox.com/includes/js/advertisement.js
 @@||fatherandsons.fr^*/opecom/affiliation/
@@ -5243,7 +5244,6 @@ goldenboys.fr,radiocockpit.fr#@#.afs_ads
 freedom-ip.com#@#.pub_vertical
 @@/check.js?a&largead=
 fr.audiofanzine.com#@#div[id^="div-gpt-ad-"]
-eclypsia.com#@#img[width="728"][height="90"]
 ! Adware
 ###popplugin
 .html?transformPubId=$popup
