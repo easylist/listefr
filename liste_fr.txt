@@ -59,6 +59,7 @@
 /ads_block
 /adsdino.
 /adsmouse.
+/adv.php$popup
 /adv/pads.
 /Adv728.
 /adv_clk_redirect.$popup
@@ -241,10 +242,12 @@ _Social-Advert-
 ||adintop.com^$third-party
 ||adk2x.com^$popup,third-party
 ||adleave.com^$third-party
+||adlook.net^$third-party
 ||adlpartner.com^$third-party
 ||adm-vids.com^$third-party
 ||admanmedia.fr^$third-party
 ||admark.fr^$third-party
+||admulti.com^$third-party
 ||adnetworkperformance.com^$popup,third-party
 ||adnetworkperformance.com^$third-party
 ||adnetworkus.com^$third-party
@@ -649,6 +652,7 @@ _Social-Advert-
 ||tracking.ecookie.fr^$popup,third-party
 ||trackor.net^$popup,third-party
 ||trackor.net^$third-party
+||trafe.info^$popup,third-party
 ||trafficrevmaster.com^$third-party
 ||trafficxbiz.com^$third-party
 ||trafic-booster.biz^$third-party
