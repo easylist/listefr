@@ -76,6 +76,7 @@
 /amzn_ads.
 /ar/ads/*
 /ara/ads/*
+/banads/*
 /bandeaupublicite/*
 /banner/*/sponsored?
 /banner_campaign_
@@ -161,6 +162,7 @@
 /widgets-zoom-mytravelchic.
 /wp-content/plugins/baw-bon-plan/*
 /XnewadsX/*
+://adspaces.
 ://soads.
 =partenariat&utm_campaign=$popup
 =publicite&
@@ -208,6 +210,7 @@ _Social-Advert-
 ||1stads.net^$third-party
 ||2mdn.net^$object-subrequest,domain=dhnet.be
 ||2town.net^$third-party
+||37.187.248.215^$popup,third-party
 ||380tl.com^$third-party
 ||46.249.58.117^$third-party
 ||5b15a826.xyz^$popup,third-party
@@ -329,6 +332,7 @@ _Social-Advert-
 ||basebanner.com^
 ||beead.fr^$third-party
 ||best-deals-products.com^$third-party
+||bestfreecounterstat.com^$third-party
 ||bizhentai.com^$third-party
 ||biznolimit.com^$third-party
 ||blogbang.com^$third-party
