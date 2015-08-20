@@ -53,6 +53,7 @@
 /ads-bubble.
 /ads-ext.
 /ads-google-adsense.
+/ads?key=$popup
 /ads?p=
 /ads_$popup
 /ads_90_728.
@@ -623,6 +624,7 @@ _Social-Advert-
 ||shoppingate.info^$third-party
 ||shoppytab.com^$third-party
 ||silvercdn.ryukyu^$third-party
+||similardeals.net^$third-party
 ||slutroulette.com^$popup
 ||slutroulette.com^$third-party
 ||smart.allocine.fr^$~object-subrequest,~subdocument
@@ -1773,6 +1775,7 @@ _Social-Advert-
 ||le1er.net/pub-
 ||lebest.fr/banniere.php?
 ||lebest.fr/pub/
+||leboncoin.fr^*/*-habillage-
 ||leboncoin.fr^*/0/Leboncoin/ELE*/
 ||leboncoin.fr^*/Middle/
 ||leboncoin.fr^*?_RM_EMPTY_
@@ -4394,6 +4397,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||kapaza.be/*/ad_view_
 @@||koifaire.com/upload/*/300x250-
 @@||lacanausurfinfo.com/admin/images/pubs/pub_18.png
+@@||leboncoin.fr/js/advertisement.js
 @@||lesinrocks.com/min/?f=wp-content/themes/lesinrocks_theme/js/lib/jquery-$script
 @@||lesinrocks.com/wp-content/plugins/minifier/min/?f=$script
 @@||libe.com/libepartnerships/businesspartner_photo/2011/08/14/ojd.gif
