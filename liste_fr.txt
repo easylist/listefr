@@ -2446,6 +2446,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 @@||esprit-click.com/*.js|$script,third-party
 @@||mondebrideur.com/js/advert.js
 @@||pla.folue.info/needes.js$script
+@@||plus-belle-la-vie-video.blogspot.com^$elemhide
 @@||ps3-infos.fr/adsense/openads/ads/ads.js
 @@||q41.twer.info/$script
 @@||sascdn.com/config.js?nwid=$domain=femmeactuelle.fr
@@ -4908,14 +4909,12 @@ dbz-fantasy.com#@##adTeaser
 ###adb-enabled3
 ###adblockDetect
 #@##adblocktest
-jetetroll.com,phonandroid.com,plus-belle-la-vie-video.blogspot.com#@##adsense
-plus-belle-la-vie-video.blogspot.com#@##advert1
+jetetroll.com,phonandroid.com#@##adsense
 ###anti_adblock
 scan-manga.com#@##ft_mpu
 ###pub-haut-adblock
 scan-manga.com#@##pub_head
 debrideurstream.fr#@##pubdirecte
-plus-belle-la-vie-video.blogspot.com#@##publicite
 fairytailmx.com#@##sponsored-ad
 forum.virtualdjing.com#@#.adFrame
 gamingroom.tv#@#.adsbygoogle
