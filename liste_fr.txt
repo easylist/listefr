@@ -476,6 +476,7 @@ _Social-Advert-
 ||illyx.com^$third-party
 ||imediastreams.com^$third-party
 ||imgpromo.easyrencontre.com^$third-party
+||infojeu.com^$third-party
 ||inshopr.com^$third-party
 ||internetpourtout.com^$third-party
 ||jazayr.net^$third-party
@@ -3408,7 +3409,6 @@ allstreamz.com,annuaire-streaming.com,blogs.allocine.fr,centerblog.net,emule-isl
 nextinpact.com###pub-bot
 ledauphine.com###pub-dfp-pano-top
 francebleu.fr,franceinfo.fr###pub-ftv-top
-jeu.info###pub0
 ledemondujeu.com,matchendirect.mobi###pub1
 dsih.fr,ledemondujeu.com###pub2
 toutpratique.com###pub23
@@ -4127,7 +4127,6 @@ planet-series.tv##a[href^="http://www.yourfilezone.com/"]
 yahoo.com##a[href^="https://beap.gemini.yahoo.com/"]
 cdiscount.com##a[href^="https://tracking.cdiscount.com/tracker.ashx?"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
-jeu.info##a[href^="https://www.fishao.com/?affId="]
 undernews.fr##a[href^="https://www.undernews.fr/go/"]
 braindamaged.fr##a[href^="index.php?adclick="]
 japan-expo.be##a[href^="pub-"]
@@ -4404,6 +4403,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||infos.peuples-solidaires.org/adserver2/
 @@||infos.wwf.fr/adserver2/
 @@||iphone4.fr/bannieres/header_icons.png
+@@||jeu.info^$elemhide
 @@||jeuxvideo.com/js/adblock.js
 @@||jheberg.net/js/*_advertisement.js
 @@||journaldugeek.com^*/popshow.css
@@ -4930,7 +4930,7 @@ forum.virtualdjing.com#@#.adFrame
 gamingroom.tv#@#.adsbygoogle
 goldenboys.fr,radiocockpit.fr#@#.afs_ads
 freedom-ip.com#@#.pub_vertical
-@@/check.js?a&largead=
+@@/check.js?$script,third-party
 fr.audiofanzine.com#@#div[id^="div-gpt-ad-"]
 ! Adware
 ###popplugin
