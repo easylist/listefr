@@ -4477,7 +4477,8 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||reseauforum.org/*/modules/ad/serve.php?$domain=reseauforum.org
 @@||restoconnection.fr/wp-content/uploads/2014/12/publicite-$domain=restoconnection.fr
 @@||rockman.fr/Ads/$image
-@@||roipub.com/images/publicite-$image,~third-party
+@@||roipub.com/image3/$image,~third-party
+@@||roipub.com/images/$image,~third-party
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||sceno.fr/apps/1_static/ads/explain.png
 @@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
