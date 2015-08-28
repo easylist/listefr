@@ -1096,6 +1096,7 @@ _Social-Advert-
 ||rockub.com/ban/
 ||rockub.com/widget/
 ||rollersexe.com/ban/$third-party
+||roviz.net^*?article=$third-party
 ||roxservers.com/images/banners/
 ||rue89.com^*/wall89/widget-
 ||ruedeslibraires.com/livre-affiliation/
@@ -3059,6 +3060,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##a[href^="http://styleapplicationzillion.com/"]
 ##a[href^="http://www.espace-plus.net/"]
 ##a[href^="http://www.xmediaserve.com/"]
+##a[href^="http://www.yourfilezone.com/"]
 !
 !----------------------- Éléments -----------------------!
 !
@@ -3175,6 +3177,7 @@ bricoleurdudimanche.com###block_a_decouvrir
 novaplanet.com###block_novadraganddrop_pub
 femmemag.re###block_regie_pub_bas_article
 liligo.fr###bottom-banner-smart
+planet-series.tv###bottomBanner
 magicmaman.com###boutiqueRight
 previmeteo.com###box_4_pub
 conseils-courseapied.com###cadre-vignette-carnet
@@ -4033,6 +4036,7 @@ challenges.fr,nouvelobs.com##a[href*="?partnerlinkid="]
 metaboli.fr##a[href*="gametap.com/convergence/?"]
 dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-de-l-en-galerant-sur-le.html"]
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
+planet-series.tv##a[href*="planet-series.tv/offer?"]
 magicmaman.com##a[href*="smartadserver.com/call/cliccommand/"]
 webfrance.com##a[href*="webfrance.com/go/"]:not([href="http://www.webfrance.com/go/facebook.php"]):not([href="http://www.webfrance.com/go/twitter.php"]):not([href="http://www.webfrance.com/go/googleplus.php"]):not([href="http://www.webfrance.com/go/linkedin.php"])
 nouvelobs.com##a[href*="xiti.com/go.click?"]
@@ -4138,7 +4142,6 @@ lefigaro.fr##a[href^="http://www.ticketac.com/?utm_source="]
 ticketac.com##a[href^="http://www.ticketac.com/redirect_pub.php?"]
 undernews.fr##a[href^="http://www.undernews.fr/go/"]
 webrankinfo.com##a[href^="http://www.webrankinfo.com/partenaires/"]
-planet-series.tv##a[href^="http://www.yourfilezone.com/"]
 yahoo.com##a[href^="https://beap.gemini.yahoo.com/"]
 cdiscount.com##a[href^="https://tracking.cdiscount.com/tracker.ashx?"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
