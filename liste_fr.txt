@@ -2481,6 +2481,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 @@||stream4free.eu/images/*#$~image
 @@||streaming-foot.me/js/adblock.js
 @@||tuxboard.com^$elemhide
+@@||veedi.com/player/js/ads/advert.js
 ||pubdirecte.com^$~collapse,domain=debrideurstream.fr
 !
 !------------------ Éléments génériques -----------------!
@@ -4422,6 +4423,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||hostinger.fr/banners/*/hostinger-$image,~third-party
 @@||ib.adnxs.com/crossdomain.xml$object-subrequest,domain=jeux-fille-gratuit.com|mahjonggratuit.fr
 @@||ib.adnxs.com/ptv?$object-subrequest,domain=jeux-fille-gratuit.com|mahjonggratuit.fr
+@@||ib.adnxs.com/ttj?$script,domain=jeu.info
 @@||images.newmedia.lu^*/adtech_video/
 @@||info.amnesty.be/adserver2/
 @@||infos.carefrance.org/adserver2/
@@ -4497,6 +4499,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||rockman.fr/Ads/$image
 @@||roipub.com/image3/$image,~third-party
 @@||roipub.com/images/$image,~third-party
+@@||s0.2mdn.net/instream/video/client.js$domain=jeu.info
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||sceno.fr/apps/1_static/ads/explain.png
 @@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
