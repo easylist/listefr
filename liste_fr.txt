@@ -637,6 +637,8 @@ _Social-Advert-
 ||smart2.allocine.fr^$~object-subrequest,~subdocument
 ||smartadserver.com^$popup,third-party
 ||snake-leads.com^$third-party
+||spaceshipads.com^$popup,third-party
+||spaceshipads.com^$third-party
 ||spb2011.com^$third-party
 ||sperse.com^$third-party
 ||stickyads.tv^$third-party
@@ -1923,6 +1925,7 @@ _Social-Advert-
 ||mcetv.fr^*/BAN-partenaires-
 ||med-it.com/ban/
 ||media-ext.wanarun.net^
+||media.rtl.fr/online/image/*-bonusclient-rtl.jpg
 ||media.rtl.fr/online/image/2014/0709/7773130306_rtl-ara.jpg
 ||media1.actu.woopic.com/43/p/magic|configurations|cluster|icons/$image
 ||media365.fr^*?imgPrefix=$xmlhttprequest
@@ -3864,6 +3867,7 @@ boursorama.com,caradisiac.com,lesechos.fr,lfp.fr,mangario.fr,sexandtrash.com##.p
 swissquote.ch##.partner
 topsante.com##.partner-block
 youpinet.com##.partner-listing
+rtl.fr##.partner-mdl
 forumactif.com,lavenir.net##.partners
 jeuxactu.com##.pbs
 portaildusexe.com##.player-catcher
