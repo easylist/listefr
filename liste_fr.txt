@@ -134,6 +134,7 @@
 /pub468x60.
 /pub728-90.
 /pub728x90.
+/pub_315_250.
 /pub_428x90.
 /pub_72890_
 /pubAdv.
@@ -1087,6 +1088,7 @@ _Social-Advert-
 ||pub-bans.sexytools.be^
 ||pub.airweb.fr^
 ||pub.annuaire-liens-durs.com^
+||pub.cuisineaz.com^
 ||pub.sexytools.be^
 ||pub.vacanceo.com^
 ||pulsions-genereuses.com/ban/$third-party
@@ -1600,6 +1602,8 @@ _Social-Advert-
 ||forumconstruire.com/torm2/
 ||forumdz.com/pub/
 ||forzamotorsport.fr/img/pub/
+||fourchette-et-bikini.fr/sites/default/files/*-315x250$image
+||fourchette-et-bikini.fr/sites/default/files/315x250$image
 ||fournisseurs-electricite.com/images/stories/pubde2.png
 ||framapad.org/static/img/bearstech_hosted.png
 ||france-pittoresque.com/Espace_Mag_
@@ -3875,6 +3879,7 @@ topsante.com##.partner-block
 youpinet.com##.partner-listing
 rtl.fr##.partner-mdl
 forumactif.com,lavenir.net##.partners
+fourchette-et-bikini.fr##.pavePub
 jeuxactu.com##.pbs
 portaildusexe.com##.player-catcher
 mangas-garden.com,narutofr.com,streamingdivx.com##.popplugin
@@ -4057,6 +4062,7 @@ nouvelobs.com##a[href*="?partner="]
 challenges.fr,nouvelobs.com##a[href*="?partnerlinkid="]
 01net.com##a[href*="?utm_source=01net&utm_medium=FichesDL"]
 metaboli.fr##a[href*="gametap.com/convergence/?"]
+fourchette-et-bikini.fr##a[href*="go2cloud.org/aff_c?"]
 dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-de-l-en-galerant-sur-le.html"]
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 planet-series.tv##a[href*="planet-series.tv/offer?"]
