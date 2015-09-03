@@ -3327,6 +3327,7 @@ logicielmac.com###haut-droit-728-90
 annonces-dz.com###hb
 live-medias.net###headbanner
 750g.com,cod-france.com,maxistreaming.com###header
+boursorama.com###header + #body > div:first-child
 jam-mag.com###header-banner
 zero-complexe.com###header-blocks
 mobiles-actus.com###header3
@@ -3716,7 +3717,6 @@ trocdestrains.com##.boite-partenaire-v
 20minutes.fr##.bons-plans
 hentai-3x.com##.boost
 liligo.fr##.bottom-banner
-boursorama.com##.bourse.fit.block-bourse-liste.widget.block + [style="display: block;"]
 challenges.fr,nouvelobs.com##.box-simulation-immo
 ibuzzyou.fr##.box-sous-titre-gauche
 20min.ch##.box.left.x44
