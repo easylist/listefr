@@ -53,6 +53,7 @@
 /ads-bubble.
 /ads-ext.
 /ads-google-adsense.
+/ads-iframe-
 /ads?key=$popup
 /ads?p=
 /ads_$popup
@@ -1234,7 +1235,6 @@ _Social-Advert-
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 |http:$subdocument,third-party,domain=clictune.com|contextualyield.com|sa.ae
 |http://newpromo.$domain=cpasbien.pw
-||01net.com^*/regie/
 ||100pour100sexe.com/pop.
 ||16algerie.com/images/banner_
 ||16algerie.com/images/JHF.jpg
@@ -3152,7 +3152,6 @@ africanmanager.com###bLayer
 bfmtv.com###b_MegaBan
 commentcamarche.net###ba_position4
 top-for-phone.fr###background-cover
-01net.com###backgroundLink
 argentmania.com,e-jeune.net###ban
 egora.fr###ban-gp
 grandecran.fr###ban_big
@@ -3645,6 +3644,7 @@ zebulon.fr##.ban2
 e-jeune.net##.ban_carre_1366
 agroligne.com##.ban_holder
 topsite-web.net##.bandeauHaut
+01net.com##.bandeau_promos
 cdmail.fr##.bandeauvert
 orientation-chabab.com##.bann
 gulli.fr,kpopfm.fr,manga-news.com,orientation-chabab.com,trimag.fr,video-2-cul.com##.banner
@@ -3663,7 +3663,6 @@ une-recette.com##.bannierebas
 oopsbuzz.com##.behincontent
 iladit.com##.bg-pub-interne
 des-amours.com##.big-button
-01net.com##.bilboard
 bfmtv.com##.billboard
 k-streaming.com,seriestreaming.org,streamingfilms.fr##.bireklam
 mobilealgerie.com##.blc_300x250_blanc
@@ -3899,6 +3898,7 @@ audiofanzine.com##.price
 matchendirect.fr##.promo
 boursorama.com##.promo + .visible-desktop[style$="display: block;"]
 challenges.fr,nouvelobs.com##.promo-bottom-art
+01net.com##.promo-extend-pub
 frandroid.com##.promo-sony
 lemonde.fr##.promo.michelin
 pornojeune.net##.promo_texte2
@@ -3914,10 +3914,12 @@ millepertuis.eu##.pub-gauche-flottant
 1point2vue.com##.pub-header
 toplien.fr##.pub-index-gauche
 lematin.ma##.pub-medium
+01net.com##.pub-promo
 yabiladi.com##.pub-read
 1point2vue.com##.pub-sidebar1
 1point2vue.com##.pub-sidebar2
 1point2vue.com##.pub-single-top
+01net.com##.pub-title
 lefigaro.fr##.pub-zoom
 lefigaro.fr##.pub-zoom-react
 rueducommerce.fr##.pub1
@@ -3932,6 +3934,7 @@ cdiscount.com##.pubText
 jds.fr##.pub_2_1000
 masculin.com##.pub_article
 meilleurmobile.com##.pub_combo
+01net.com##.pub_container_600
 supportduweb.com##.pub_contenu_cr
 renders-graphiques.fr##.pub_galerie
 aerobuzz.fr##.pub_image
@@ -4067,7 +4070,6 @@ artdeseduire.com##a[href*="/?part=ads"]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
 nouvelobs.com##a[href*="?partner="]
 challenges.fr,nouvelobs.com##a[href*="?partnerlinkid="]
-01net.com##a[href*="?utm_source=01net&utm_medium=FichesDL"]
 metaboli.fr##a[href*="gametap.com/convergence/?"]
 fourchette-et-bikini.fr##a[href*="go2cloud.org/aff_c?"]
 dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-de-l-en-galerant-sur-le.html"]
@@ -4934,6 +4936,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=replay.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=automobile-sportive.com|hugolescargot.com|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pub-config/ca-pub-*.js$domain=bricozone.fr
+@@||pagefair.com/static/adblock_detection/js/$script,third-party
 @@||partage-facile.com^$elemhide
 @@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=replay.fr
 @@||penducado.com/styles/ads.css
