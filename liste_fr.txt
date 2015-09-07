@@ -153,6 +153,9 @@
 /publicites/*
 /publicitesky.
 /publisher_configurations.
+/pubs/160600/*
+/pubs/300250/*
+/pubs/72830/*
 /pubs/?format=300x250
 /pubs/?format=728x90
 /regie_pub/*
@@ -2019,6 +2022,7 @@ _Social-Advert-
 ||multiup.org/img/sonyoutube_long.gif
 ||muslimette-magazine.com/wp-content/uploads/*/125X125-
 ||muslimshop.fr/vers-integration.jpg
+||my-meteo.fr/web/site/ajaxPubs
 ||mybloggertricks.googlecode.com/files/mbtlikebox2.js
 ||myfreesurf.com/partenaires/
 ||nantes365.fr/pub.php
@@ -2941,13 +2945,16 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.po_wads
 ##.position_pub
 ##.ppub300
+##.pub-160-600
 ##.pub-300
+##.pub-300-250
 ##.pub-300-corp
 ##.pub-300x250
 ##.pub-300x250-du-bas
 ##.pub-336x280
 ##.pub-468x60
 ##.pub-728
+##.pub-728-90
 ##.pub-728x90
 ##.pub-730x90
 ##.pub-banner
