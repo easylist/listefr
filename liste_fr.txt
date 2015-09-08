@@ -244,6 +244,8 @@ _Social-Advert-
 ||ad-2.me^$third-party
 ||ad-3.me^$third-party
 ||ad-lead.com^$third-party
+||ad-online.biz^$popup,third-party
+||ad-online.biz^$third-party
 ||ad.activaweb.fr^
 ||ad.adserverplus.com^
 ||ad.prismamediadigital.com^$third-party
@@ -2550,6 +2552,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ###PubTop
 ###PubliciteTop
 ###ad-300x600-2
+###ad-bg-transparent
 ###ad-planetveo
 ###ad-rectangle-1-dst
 ###ad-rectangle-2-dst
@@ -3116,6 +3119,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##a[href*="xiti.com/go.ad?"]
 ##a[href^="/index.php/ads/"]
 ##a[href^="/index.php/annonce/ads/"]
+##a[href^="http://ad-online.biz/"]
 ##a[href^="http://always-parser.xyz/"]
 ##a[href^="http://freedowns.info/"]
 ##a[href^="http://givemeclip.com/"]
@@ -4125,6 +4129,7 @@ magicmaman.com##a[href*="smartadserver.com/call/cliccommand/"]
 webfrance.com##a[href*="webfrance.com/go/"]:not([href="http://www.webfrance.com/go/facebook.php"]):not([href="http://www.webfrance.com/go/twitter.php"]):not([href="http://www.webfrance.com/go/googleplus.php"]):not([href="http://www.webfrance.com/go/linkedin.php"])
 nouvelobs.com##a[href*="xiti.com/go.click?"]
 generation-nt.com##a[href="/boutique.html"]
+french-movies.net##a[href="/videosplus18.html"]
 search-torrent.com##a[href="/videox.php"]
 emule-island.ru##a[href="/vpn.php"]
 arabzik.org##a[href="http://arabzik.org/free-phone/"]
