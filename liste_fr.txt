@@ -2499,7 +2499,7 @@ igen.fr,macg.co##.ebay
 igen.fr,macg.co##.refurb
 igen.fr,macg.co##.refurb_left
 igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
-||files.macg.co/macgupload/
+||files.macg.co/macgupload/$image
 ||macg.co/*/scripts/pub/getEbay_
 ||refurbgeneration.com/*/getEbay.
 ! Anti-Adblock
@@ -4188,7 +4188,7 @@ lefigaro.fr##a[href^="http://cplussur.lefigaro.fr/"]
 only-iphone.fr##a[href^="http://fr.copytrans.net/copytranscontacts.php?utm_source="]
 argentmania.com##a[href^="http://fr.scratchmania.com/?brandId="]
 brunotritsch.fr##a[href^="http://fr.webmaster-rank.info/stat/affiliate/"]
-abidjan.net##a[href^="http://goo.gl/"]
+abidjan.net,igen.fr##a[href^="http://goo.gl/"]
 guidebourse.net##a[href^="http://guidebourse.net/ads/"]
 download771onlinepdf.com##a[href^="http://linkz.it/"]
 moviz-telecharger.com##a[href^="http://moviz-telecharger.com/films-en-qualité-hd-"]
