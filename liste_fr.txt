@@ -1964,9 +1964,7 @@ _Social-Advert-
 ||mcetv.fr^*/BAN-partenaires-
 ||med-it.com/ban/
 ||media-ext.wanarun.net^
-||media.rtl.fr/online/image/*-bonusclient-rtl.jpg
 ||media.rtl.fr/online/image/*_habillage-$image
-||media.rtl.fr/online/image/2014/0709/7773130306_rtl-ara.jpg
 ||media1.actu.woopic.com/43/p/magic|configurations|cluster|icons/$image
 ||media365.fr^*?imgPrefix=$xmlhttprequest
 ||medserv.carrefour.com^
@@ -2247,8 +2245,8 @@ _Social-Advert-
 ||starter.fm/images/*/bg_
 ||startertv.fr/images/*/bg_
 ||static.ccm2.net/*/img/appstv/
-||static.rtl.fr/www-2010/skin/$stylesheet
-||static.rtl.fr/www/skin/promo/
+||static.rtl.fr/*/skin/$stylesheet
+||static.rtl.fr/*/skin/promo/
 ||static.wanadoo.fr/webmail/templateMagic/*/graphics/*/meetic_$image
 ||staticmacg.com/macgupload/pub-
 ||stefgagnant.com/_images/_Captures_sites/
@@ -3857,7 +3855,6 @@ laptopspirit.fr##.lien_habillage
 blog2mature.com##.liens
 japan-expo.com##.link-background-advert
 pagesjaunes.fr##.linkPushEmbauche
-rtl.fr##.link[href^="http://ad.himediadx.com/"]
 frandroid.com##.link_htr
 smartorrent.com##.list-unstyled
 meilleureecoledefrance.com##.list_sponsors
@@ -4009,7 +4006,6 @@ gonzai.com##.red-one-third
 jeux-e.com##.rek_ban
 frandroid.com##.relatedviatopic
 dhnet.be##.relookingHtml
-rtl.fr##.result.sponsor
 goldenboys.fr##.right-minipub
 mappy.com##.rightHabillage
 joursferies.fr##.rightnav[style="background-color: #efefef;"]
