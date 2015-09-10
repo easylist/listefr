@@ -1338,6 +1338,7 @@ _Social-Advert-
 ||as-salat.com/images/siwak.jpg
 ||asse.fr^*/bandeau_ok.swf
 ||asse.fr^*/banniere_mcc_billetterie.gif
+||asso-web.com/pub/
 ||audiofanzine.com/s*.php?*category=
 ||aufeminin.com/clients/wengo/images/
 ||aufeminin.com/home4/skin/*/fond.jpg
@@ -2796,6 +2797,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ###publicite
 ###publicite-bas
 ###publicite-principale
+###publiciteHaut
 ###publicite_728_90
 ###publicite_banniere
 ###publicite_banniere_haut
@@ -3277,6 +3279,8 @@ oujdacity.net###common-top-widget
 matchendirect.fr###comparateur
 covoiturage.fr###comuto_insidepage_ads
 meteomedia.com###container_bac
+asso-web.com###container_pub
+asso-web.com###container_pub_left
 canalturf.com###content > div[style="width:100%; z-index: 100; margin-bottom:10px; text-align:center "]:first-child
 beaute-test.com###devtribu_sb
 lareclame.fr###dfp-top
@@ -3990,6 +3994,7 @@ supportduweb.com##.pub_contenu_cr
 renders-graphiques.fr##.pub_galerie
 aerobuzz.fr##.pub_image
 lachainemeteo.com##.pub_lcm
+asso-web.com##.pub_left_content
 jeuxvideopc.com##.pub_refonte
 webrankinfo.com##.pub_rm_inter_posts_forum
 ajaccio365.fr,brest365.fr,footafrica365.fr,football365.fr,lorient365.fr,mercato365.com,nantes365.fr,nice365.fr,paris365.fr,reims365.fr,sochaux365.fr,stetienne365.fr,troyes365.fr,valenciennes365.fr##.pub_timeline
@@ -4067,6 +4072,7 @@ blogs.lesinrocks.com##.sub_headline.top
 imobie.fr##.support_guide_download_upper
 forum.sportytrader.com##.tableau_bleu
 walfoot.be##.take-banner
+asso-web.com##.text_pub
 frenchpopcorn.com##.tiptipr
 moteurs-regionaux.com##.titreCoupProjo
 get-your-rom.com##.topSectionContainer
