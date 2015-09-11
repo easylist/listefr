@@ -1783,7 +1783,7 @@ _Social-Advert-
 ||jeveuxdestrans.com^*/u.js
 ||jheberg.net/images/mp.png
 ||joowala.com/images/banners/
-||journaldugeek.com/wp-content/themes/geek/habillages$image
+||journaldugeek.com/wp-content/themes/*/habillages$image
 ||journaldunet.com/*@*,position$script
 ||journaldunet.com^*/0_pub/
 ||journaldupirate.com/vpn2.png
@@ -3854,6 +3854,7 @@ youscribe.com##.interpage
 bienpublic.com##.iookaz
 jeuxactu.com##.jablockpub
 idf1.fr##.jcarousel
+journaldugeek.com##.jdg-recommend
 allocine.fr##.jtp
 ergor.org##.ladypub
 faclic.com##.lbx_content
@@ -3957,7 +3958,7 @@ pornofrance.org##.promomenu
 meteosun.com##.promote_large
 ouedkniss.com##.ptipana
 cdiscount.com##.ptnlnk_table
-abrutis.com,ados.fr,agoravox.fr,agoravox.tv,ajaccio365.fr,annuaire-streaming.com,bhmag.fr,brest365.fr,cciaf.org,centerblog.net,commentreparer.com,deezer.com,fan-de-cinema.com,footafrica365.fr,football365.fr,forums-fec.be,frandroid.com,ginjfo.com,hentai-3x.com,journaldugeek.com,journalgraphic.com,ladepeche.fr,larousse.fr,lepoint.fr,lesdebiles.com,lesoir.be,lexpress.fr,liensporno.com,lorient365.fr,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,mercato365.com,mini-games.fr,multixa.net,nantes365.fr,nice365.fr,over-blog.com,paris365.fr,programme.tv,radioclassique.fr,reims365.fr,sfr.fr,slate.fr,sochaux365.fr,sofoot.com,soonnight.com,stetienne365.fr,troyes365.fr,valenciennes365.fr,wawacity.su,web-tricheur.net,yabiladi.com,zupimages.net##.pub
+abrutis.com,ados.fr,agoravox.fr,agoravox.tv,ajaccio365.fr,annuaire-streaming.com,bhmag.fr,brest365.fr,cciaf.org,centerblog.net,commentreparer.com,deezer.com,fan-de-cinema.com,footafrica365.fr,football365.fr,forums-fec.be,frandroid.com,ginjfo.com,hentai-3x.com,journalgraphic.com,ladepeche.fr,larousse.fr,lepoint.fr,lesdebiles.com,lesoir.be,lexpress.fr,liensporno.com,lorient365.fr,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,mercato365.com,mini-games.fr,multixa.net,nantes365.fr,nice365.fr,over-blog.com,paris365.fr,programme.tv,radioclassique.fr,reims365.fr,sfr.fr,slate.fr,sochaux365.fr,sofoot.com,soonnight.com,stetienne365.fr,troyes365.fr,valenciennes365.fr,wawacity.su,web-tricheur.net,yabiladi.com,zupimages.net##.pub
 basketusa.com##.pub-1000x90-top
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
@@ -4031,7 +4032,6 @@ lol89.com##.s-300
 europe1.fr##.s-partenaires
 phpsources.org##.sample-lst
 bakchich.info##.scpe-pub
-journaldugeek.com##.sdcBox
 wawacity.su##.secure-dl
 jeuxetcompagnie.fr##.sg-formulaire
 cmonjour.com##.shadowed336
@@ -4039,7 +4039,6 @@ journaldesfemmes.com##.shoppingList
 nextinpact.com##.side_content_pub
 gmx.fr##.sideadd
 voyage-economique.fr##.sideaff-container
-journaldugeek.com##.sidebanner
 clicbienetre.com##.sidebar_block
 desmatures.com##.sidebarpub350250
 francemobiles.com##.simpleoFlashBanner
@@ -4094,8 +4093,7 @@ vube.com##.vube-grid-feature
 rtl.be##.w-content-details-ligatus
 staractus.fr##.wallpaper-link
 slappyto.net##.webrox._300x250.centered
-journaldugeek.com##.widget-current-offers
-journaldugeek.com,journalgraphic.com##.widget-current-offers1
+journalgraphic.com##.widget-current-offers1
 lefigaro.fr##.widget-leguide
 webchoc.com##.widget-pop
 blog2mature.com##.widget.widget_links
@@ -4535,7 +4533,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||jeu.info^$elemhide
 @@||jeuxvideo.com/js/adblock.js
 @@||jheberg.net/js/*_advertisement.js
-@@||journaldugeek.com^*/popshow.css
+@@||journaldugeek.com/adscript.js$script
 @@||kapaza.be/*/ad_view_
 @@||koifaire.com/upload/*/300x250-
 @@||lacanausurfinfo.com/admin/images/pubs/pub_18.png
