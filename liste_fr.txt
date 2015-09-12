@@ -1818,7 +1818,6 @@ _Social-Advert-
 ||lacanausurfinfo.com/admin/images/pubs/
 ||lacanausurfinfo.com/ressources/pub/
 ||lacasadeel.net/banners/
-||lachainemeteo.com/blocspartenaires/
 ||lafermeduweb.net/images/promote/
 ||langochat.net/partenaires/
 ||lanouvellerepublique.fr/pub/
@@ -3239,7 +3238,6 @@ aujourdhui-en-france.fr,leparisien.fr###blocMarketing
 programme-tv.net###blocPub_MEGABAN
 mail.voila.fr,orange.fr###blocServices
 maisonbrico.com###blocSponsor
-lachainemeteo.com###bloc_aquarelle
 meteoconsult.fr###bloc_pub_sommaire_terrestre
 algerie360.com###bloc_pub_sprt
 commentcamarche.net###bloc_sponsor
@@ -3727,7 +3725,6 @@ nouvelobs.com##.bloc-partners
 aujourdhui-en-france.fr,leparisien.fr##.bloc-pratique
 logitheque.com##.bloc-pub-center-left
 aujourdhui-en-france.fr,leparisien.fr##.blocPartenaire
-lachainemeteo.com##.bloc_1_col_middle[style="height:160px;"]
 auto-utilitaire.com,mobilealgerie.com##.bloc_728x90_brd
 psychologies.com##.bloc_abo
 generation-nt.com##.bloc_boutique
@@ -3929,7 +3926,6 @@ aujourdhui-en-france.fr,leparisien.fr##.parisien-section.pratique
 photo.fr##.parrains
 jeuxvideo.com##.part-boutique
 petitfute.com##.partenaire_mid
-lachainemeteo.com##.partenaire_simple_home
 lachainemeteo.com##.partenaire_triple
 boursorama.com,caradisiac.com,lesechos.fr,lfp.fr,mangario.fr,sexandtrash.com##.partenaires
 swissquote.ch##.partner
@@ -4299,7 +4295,6 @@ photofunky.net##div[style="float:left; width:100%; clear:both; margin-bottom:10p
 androidpit.fr##div[style="float:left; width:976px; line-height:0; min-height:90px; margin-bottom:5px; text-align:center;"]
 masculin.com##div[style="float:left; width:980px; height:90px; text-align:left; padding-top:10px;"]
 douniamusic.com##div[style="float:left;width:500px;height:300px;"]
-lachainemeteo.com##div[style="float:left;width:615px;height:100px;"]
 cinemay.com##div[style="float:right; width:300px; background-color:#dddddd; height:250px;"]
 cinemay.com##div[style="float:right; width:728px; height:90px; background-color:#ffffff;margin-top:0px;"]
 e-nautia.com##div[style="float:right;margin-right:-12px;margin-top:-6px;width:300px"]
@@ -4431,6 +4426,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||247realmedia.com/0/Player/Player_FR_Home/Box-2-FR.jpg$domain=eurosportplayer.fr
 @@||2folie.com^$elemhide
 @@||a.ligatus.com/?$script,domain=bfmtv.com
+@@||a.ligatus.com/?ids=*&t=js$script,domain=lachainemeteo.com
 @@||ad.zanox.com/ppc/$popup
 @@||ad2play.ftv-publicite.fr/?sitepage=$subdocument,domain=mytaratata.com|psg.fr
 @@||ad2play.ftv-publicite.fr/js/ad2play.js$domain=mytaratata.com
@@ -4581,7 +4577,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||p.jwpcdn.com/crossdomain.xml$object-subrequest
 @@||pagead2.googlesyndication.com/pagead/$domain=api.captchme.net|freedom-ip.com
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=lachainemeteo.com
 @@||parissportifs24h.fr/upload/Image/Ads/$image
 @@||pc-overware.be/index/images/banners/annuaire%20test%206%20png.png
 @@||pc-overware.be/index/images/banners/forum.jpg
@@ -4633,7 +4628,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||vshop.fr/js/freakBig.js$domain=montrestendance.com
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
-@@||ww691.smartadserver.com/call/pubj/$domain=lachainemeteo.com
 ! Radins.com
 @@||ad-emea.doubleclick.net/clk;$subdocument,domain=track.radins.com
 @@||ad.zanox.com/ppc/?$subdocument,domain=track.radins.com
