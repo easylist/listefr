@@ -227,7 +227,6 @@ _Social-Advert-
 ||5b15a826.xyz^$popup,third-party
 ||5b15a826.xyz^$third-party
 ||77978.みんな^$third-party
-||7k7sv99t490i.xyz^$third-party
 ||7x4.fr^$third-party
 ||85.116.37.142^$third-party
 ||89.185.33.51^$third-party
@@ -743,7 +742,6 @@ _Social-Advert-
 ||xfactact.com^$third-party
 ||xfreeservice.com^$third-party
 ||xponsor.com^$third-party
-||xxa8nak2gzbb.xyz^$third-party
 ||y-ads.net^$third-party
 ||yban.fr^$third-party
 ||you-hentai.com^$third-party
@@ -772,6 +770,7 @@ _Social-Advert-
 ||380.hotpix.fr^
 ||6fun.fr/api.php
 ||78.41.233.99/~fhv3/slidein.php
+||7k7sv99t490i.xyz^
 ||91.121.87.136:84/promo.php?$popup
 ||a.getgamers.eu^
 ||abc-netmarketing.com/*/L160xH600_
@@ -1226,12 +1225,14 @@ _Social-Advert-
 ||vernimmen.net/images/flash/300x300_$third-party
 ||videos-de-celebrites.com/CMF_Banners/
 ||viwii.net/banners/$third-party
+||vlt4awsuerry.xyz^
 ||voiture-ligier.info/pub1.
 ||voiture-louer.info/pub.
 ||voiture-louer.info/pub1.
 ||voiture-net.info/pub.
 ||voiture-net.info/pub1.
 ||voyage-langue.com/widget/
+||w04u8036k91n.xyz^
 ||w3sexe.com/logo.php?
 ||wallmanga.com/img/anim_banniere_
 ||wbdds.*/include/async
@@ -1247,6 +1248,7 @@ _Social-Advert-
 ||xavbox360.com/ban/
 ||xavboxnews.com/files/*-468.jpg
 ||xcams.com/?dsclr=$popup
+||xxa8nak2gzbb.xyz^
 ||yellowapi.com/twn/?
 ||yimg.com/hl/ap/default/*/HP_*.jpg
 ||youtube.com^$popup,domain=abdelghanisat.kazeo.com
@@ -1263,6 +1265,7 @@ _Social-Advert-
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 |http:$subdocument,third-party,domain=clictune.com|contextualyield.com|sa.ae
+|http://*.xyz^$xmlhttprequest,domain=generation-nt.com
 |http://newpromo.$domain=cpasbien.pw
 ||100pour100sexe.com/pop.
 ||16algerie.com/images/banner_
