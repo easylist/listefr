@@ -1362,6 +1362,7 @@ _Social-Advert-
 ||aujourdhui-en-france.fr/manchettepub/
 ||aujourdhui-en-france.fr/scripts/*/adblock_
 ||aujourdhui-en-france.fr^*/partenaires/
+||aujourdhui.biz^*?imgPrefix=$xmlhttprequest
 ||aujourdhui.info^*?imgPrefix=$xmlhttprequest
 ||auto-utilitaire.com/files/banners/
 ||automobiles.nc/PUBS/
@@ -1438,6 +1439,7 @@ _Social-Advert-
 ||cdmail.fr/pro/images/ban_
 ||cdn.betacie.com^*/autopromo/
 ||cdn.emule-island.ru/pub/
+||cedexis.net^*?imgPrefix=$xmlhttprequest
 ||centerblog.net/buyproxies-
 ||centerblog.net/cadre-*?zoneid=$subdocument
 ||centerblog.net/your-private-proxy-
@@ -1890,6 +1892,7 @@ _Social-Advert-
 ||leparisien.fr/scripts/*/adblock_
 ||leparisien.fr^*/partenaires/
 ||leparisien.fr^*?imgPrefix=$xmlhttprequest
+||leparisien.net^*?imgPrefix=$xmlhttprequest
 ||leparisienmagazine.fr^*?imgPrefix=$xmlhttprequest
 ||lepetiteconomiste.com^*/swf_banniere_
 ||lepoint.fr/html/timekeeper/
