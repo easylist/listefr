@@ -20,6 +20,7 @@
 &bann=$popup
 &cwadformat=
 &playadw=
+&subpartenaire=
 .adserverpub.
 .adxcore.
 .be/ads/
@@ -30,6 +31,7 @@
 .ma/ads/
 .ma/ads_
 .php?*&zoneid=
+.pub-ban-
 .pubdirecte.
 .publicite.
 .showads.
@@ -1136,6 +1138,7 @@ _Social-Advert-
 ||readersdigest.ca/*/images/promobrick_
 ||refgratuit.fr/images/pub/
 ||regie-agricole.com^*/pubs^$third-party
+||regietrk.jetm-tech.net^
 ||rendez-vous.be/scripts/Clients/
 ||rguaersh.info^
 ||rklyjs.info^
