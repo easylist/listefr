@@ -21,6 +21,7 @@
 &cwadformat=
 &playadw=
 &subpartenaire=
+-pub-ads/
 .adserverpub.
 .adxcore.
 .be/ads/
@@ -134,6 +135,8 @@
 /proxy_eds.php?
 /proxy_iframe.php?url=
 /pub-300x250.
+/pub-ads/*
+/pub.php?partnerId=
 /pub/300.
 /pub/728.
 /pub/728_2.
@@ -176,6 +179,7 @@
 /wp-content/plugins/baw-bon-plan/*
 /XnewadsX/*
 ://adspaces.
+://regie.$third-party
 ://soads.
 =iframe_pub&
 =partenariat&utm_campaign=$popup
@@ -2914,6 +2918,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.barre_adsense
 ##.bg-adsense
 ##.bigadvert
+##.bloc-ads
 ##.bloc-pub
 ##.blocPub
 ##.bloc_pub_300
