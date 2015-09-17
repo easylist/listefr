@@ -1284,7 +1284,7 @@ _Social-Advert-
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 |http:$subdocument,third-party,domain=clictune.com|contextualyield.com|sa.ae
-|http://*.xyz^$xmlhttprequest,domain=generation-nt.com
+|http://*.*/*0*0*0*0*0*0*0*0$xmlhttprequest,domain=generation-nt.com
 |http://newpromo.$domain=cpasbien.pw
 ||100pour100sexe.com/pop.
 ||16algerie.com/images/banner_
