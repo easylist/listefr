@@ -2487,8 +2487,6 @@ _Social-Advert-
 ||wallpapergratuit.org/scripts.inc.js
 ||wamiz.fr/css/habillage/
 ||wawa-mania.*/ph.jpg
-||wawacity.su/banner/
-||wawacity.su/popup.
 ||wbdds.jeuxvideo.com^
 ||webchoc.com/pop.js
 ||webfrance.com/images/*120135.
@@ -3456,11 +3454,6 @@ lesnumeriques.com###ifr_pub
 wawacity.su###img_1_300x250
 wawacity.su###img_1_468x60
 wawacity.su###img_2_300x250
-wawacity.su###img_300x250_fiche_Middle
-wawacity.su###img_300x250_fiche_Top
-wawacity.su###img_3_300x250
-wawacity.su###img_468_Fiche_Adorika
-wawacity.su###img_home_300x250_6
 jeuxrouille.com###imgpub
 audiofanzine.com###index-sonicprice
 equirodi.be###index_module_pub
@@ -4094,7 +4087,6 @@ lol89.com##.s-300
 europe1.fr##.s-partenaires
 phpsources.org##.sample-lst
 bakchich.info##.scpe-pub
-wawacity.su##.secure-dl
 jeuxetcompagnie.fr##.sg-formulaire
 cmonjour.com##.shadowed336
 journaldesfemmes.com##.shoppingList
@@ -4217,6 +4209,7 @@ coco.fr##a[href="http://www.joker.net"]
 shinymen.com##a[href="http://www.karouikaroui.com/fr/outdoor/"]
 onetube.org##a[href="http://www.money-cpm.fr"]
 astuce-facebook.com##a[href="http://www.rent-a-lease.com/chinese/"]
+wawacity.su##a[href="javascript:friendly();"]
 smartorrent.com##a[href="javascript:friendly();"]:first-child
 itespresso.fr##a[href^=" http://pubads.g.doubleclick.net/"]
 tadpu.com##a[href^="//fr.ulule.com/insidezecube/?utm_campaign="]
@@ -4308,6 +4301,7 @@ undernews.fr##a[href^="http://www.undernews.fr/go/"]
 webrankinfo.com##a[href^="http://www.webrankinfo.com/partenaires/"]
 needsandmoods.com##a[href^="https://ad.zanox.com/"]
 yahoo.com##a[href^="https://beap.gemini.yahoo.com/"]
+wawacity.su##a[href^="https://secure.securitetotale.com/"]
 cdiscount.com##a[href^="https://tracking.cdiscount.com/tracker.ashx?"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
@@ -4316,6 +4310,7 @@ braindamaged.fr##a[href^="index.php?adclick="]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
+wawacity.su##a[onclick$="()"]
 smartorrent.com##a[onclick="friendlycommision()"]
 smartorrent.com##a[onclick="vpn()"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
