@@ -1653,7 +1653,6 @@ _Social-Advert-
 ||fm93.com^*/pub/
 ||fmgsconcept.com^*/images/pub/
 ||focusur.fr/wp-content/plugins/simple-popup-manager/
-||foot01.com/ligatus/$xmlhttprequest
 ||footafrica365.fr/pub.php
 ||footafrica365.fr^*?imgPrefix=$xmlhttprequest
 ||football.fr/includes/cobrand/*/habillage/
@@ -4556,6 +4555,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||everlong.org/style/banner.php
 @@||evilox.com/includes/js/advertisement.js
 @@||fatherandsons.fr^*/opecom/affiliation/
+@@||foot01.com^$script,~third-party
 @@||forum-auto.com/xiti2/xtcore.js
 @@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
