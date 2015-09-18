@@ -2338,7 +2338,7 @@ _Social-Advert-
 ||systemed.fr/popunder/$popup
 ||t.nl.francetv.fr/r/?id=$popup
 ||t5hkmjkmhfae.com^
-||taboola.com^$script,domain=24matins.fr|f1i.com|koreus.com
+||taboola.com^$script,domain=01net.com|24matins.fr|f1i.com|koreus.com
 ||tahiti-infos.com/ads/$popup
 ||tahiti-infos.com/photo/*.gif$image
 ||tahiti-infos.com/photo/*_banie*.swf
@@ -2905,6 +2905,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.ad-sidebar-125-1r
 ##.ad-sidebar-125-2r
 ##.ad-sponsored
+##.ad-tray-728
 ##.adBottom
 ##.ad_header_728x90
 ##.adavert-center
@@ -3772,7 +3773,7 @@ une-recette.com##.bannierebas
 oopsbuzz.com##.behincontent
 iladit.com##.bg-pub-interne
 des-amours.com##.big-button
-bfmtv.com##.billboard
+01net.com,bfmtv.com##.billboard
 k-streaming.com,seriestreaming.org,streamingfilms.fr##.bireklam
 mobilealgerie.com##.blc_300x250_blanc
 francefootball.fr##.bloc-autopromo
