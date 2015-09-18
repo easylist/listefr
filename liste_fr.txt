@@ -4480,7 +4480,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
 ! mais d'empêcher les possibles dysfonctionnements liés aux filtres bloquants présents ci-dessus.
 !
-@@/adscript.js$script,~third-party,domain=journaldugamer.com
+@@/adscript.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com
 @@/plflv2/player_end.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@/plflv2/player_pause.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@/plflv2/preroll.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
