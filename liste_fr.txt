@@ -75,6 +75,7 @@
 /adyoulike.api.
 /af-250x250.
 /af-300x250.
+/aff_i?offer_id=
 /aff_pub_
 /affiliate.*/banner
 /affpx.php
@@ -263,6 +264,7 @@ _Social-Advert-
 ||ad.adserverplus.com^
 ||ad.prismamediadigital.com^$third-party
 ||ad2perf.com^$third-party
+||ad2prm.com$third-party
 ||ad380.com^$third-party
 ||ad4mat.ch^$third-party
 ||ad4mat.com^$third-party
@@ -699,8 +701,10 @@ _Social-Advert-
 ||surfactif.fr^$third-party
 ||sushis.kim^$third-party
 ||t4b.tv^$third-party
+||tagnwin.com^$third-party
 ||tbvid.com^$third-party
 ||teads.fr^$third-party
+||terrapops.com^$popup,third-party
 ||tfxiq.com^$third-party
 ||the-adult-company.com^$popup,third-party
 ||themoneytizer.com^$third-party
@@ -737,6 +741,7 @@ _Social-Advert-
 ||visibay.com^$third-party
 ||vmedia.tv^$third-party
 ||vo-publishing.be^$third-party
+||vorcu.com^$third-party
 ||vshop.fr^$third-party
 ||vuiads.org^$third-party
 ||wafmedia2.com^$third-party
@@ -1370,6 +1375,8 @@ _Social-Advert-
 ||artemedia.fr/wp-content/plugins/wp-backgroundsII/
 ||as-farm.com^*?imgPrefix=$xmlhttprequest
 ||as-salat.com/images/siwak.jpg
+||asd.projectfreetv.so^
+||asd2.projectfreetv.so^
 ||asse.fr^*/bandeau_ok.swf
 ||asse.fr^*/banniere_mcc_billetterie.gif
 ||asso-web.com/pub/
@@ -1687,6 +1694,7 @@ _Social-Advert-
 ||francefootball.fr/pub/
 ||francemobiles.com/img/pub/
 ||francetransactions.com/img/Habillage_
+||francis.blog-info1.eu^
 ||francoischarron.com/datascontent/idee-cadeaux.gif
 ||francoischarron.com/datascontent/insertech.gif
 ||frandroid.com^*/pub_affichage_web/
@@ -4401,6 +4409,7 @@ alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdesc
 koreus.com,picasion.com##div[style="width:300px;height:250px;"]
 mystream.la##div[style="width:300px;height:250px;background-color:#FFF;"]
 video-buzz.eu##div[style="width:300px;height:250px;margin-bottom:15px;margin-left:auto;margin-right:auto;"]
+mystream.la##div[style="width:302px;height:250px;background-color:#FFF;"]
 vacanceo.com##div[style="width:310px;height:270px;"]
 rmc.fr##div[style="width:320px; height:280px; background:#000000; margin-top:20px; overflow:hidden;"]
 ayoye.com##div[style="width:330px; height:280px; float:left"]
