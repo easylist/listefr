@@ -21,6 +21,9 @@
 &cwadformat=
 &playadw=
 &subpartenaire=
+-300-x-250-
+-468-x-60-
+-728-x-90-
 -pub-ads/
 .adserverpub.
 .adxcore.
@@ -3540,8 +3543,11 @@ lexpress.fr###partenaires_crm
 pubeco.fr###partner
 miroirsocial.com,wanimo.com###partners
 equirodi.be###partnerslinks2
+windsurfjournal.com###pave300x250
+windsurfjournal.com###pave695x90
 gentside.com,maxisciences.com,ohmymag.com###pave_haut
 dzfoot.com###pave_twoh
+windsurfjournal.com###paves214x157
 anime00.com,anime00.net,cinemay.com,e-booksland.com,lastfilmstreaming.com,livre-technique.com,mesfilmsstreaming.com,movizfr.com,mu-streaming.com,seriesnostop.com,videonostop.com###pb1
 garytube.com,oumazik.com###pb2
 comptoir-info.com###pb_lb
@@ -4324,6 +4330,7 @@ ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
 undernews.fr##a[href^="https://www.undernews.fr/go/"]
 braindamaged.fr##a[href^="index.php?adclick="]
+windsurfjournal.com##a[href^="link,"]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
