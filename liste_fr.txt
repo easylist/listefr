@@ -27,7 +27,6 @@
 -pub-ads/
 .adserverpub.
 .adxcore.
-.be/ads/
 .dz/ads/
 .dz/ads_
 .fr/ads.
@@ -287,8 +286,6 @@ _Social-Advert-
 ||adleadevent.com^$third-party
 ||adleave.com^$third-party
 ||adlike.net^$third-party
-||adlook.net^$third-party
-||adlpartner.com^$third-party
 ||adm-vids.com^$third-party
 ||admanmedia.fr^$third-party
 ||admark.fr^$third-party
@@ -1380,7 +1377,6 @@ _Social-Advert-
 ||artemedia.fr/wp-content/plugins/wp-backgroundsII/
 ||as-farm.com^*?imgPrefix=$xmlhttprequest
 ||as-salat.com/images/siwak.jpg
-||asd.projectfreetv.so^
 ||asd2.projectfreetv.so^
 ||asse.fr^*/bandeau_ok.swf
 ||asse.fr^*/banniere_mcc_billetterie.gif
@@ -2093,7 +2089,6 @@ _Social-Advert-
 ||movinstream.com/uploads/pubs/
 ||mp3gratuit.org/fake.php
 ||mr-annonce.fr/images/pub/
-||multiup.org/img/sonyoutube_long.gif
 ||muslimette-magazine.com/wp-content/uploads/*/125X125-
 ||muslimshop.fr/vers-integration.jpg
 ||my-meteo.fr/web/site/ajaxPubs
@@ -4786,7 +4781,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ||chasser.science^$third-party
 ||chaud.science^$third-party
 ||chromatographie.science^$third-party
-||chronophotographie.science^$third-party
 ||circonstance.science^$third-party
 ||clepsydre.science^$third-party
 ||clou.ovh^$third-party
@@ -4808,7 +4802,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ||demande.science^$third-party
 ||densite.science^$third-party
 ||deposer.science^$third-party
-||elasticad.net^$third-party
 ||etre.science^$third-party
 ||fabriquer.ovh^$third-party
 ||ficelle.ovh^$third-party
@@ -5077,10 +5070,8 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||meteomedia.com/common/js/master/adframe.js
 @@||naruto-mx.net^$elemhide
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=ot-boutique.fr|slideplayer.fr
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bricozone.fr|leetgamerz.net|vide-greniers.org
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?$domain=slideplayer.fr
-@@||pagead2.googlesyndication.com/pagead/js/r*/r*/show_ads_impl.js$script,domain=vide-greniers.org
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=ot-boutique.fr|slideplayer.fr|vide-greniers.org
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bricozone.fr|leetgamerz.net|slideplayer.fr|vide-greniers.org
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=replay.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=automobile-sportive.com|hugolescargot.com|ot-boutique.fr|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pub-config/ca-pub-*.js$domain=bricozone.fr
@@ -5172,7 +5163,6 @@ scan-manga.com#@##pub_head
 debrideurstream.fr#@##pubdirecte
 retinaboys.com###screen_block
 fairytailmx.com#@##sponsored-ad
-multiup.org#@#.ADBAR
 forum.virtualdjing.com#@#.adFrame
 ##.adblock_detector
 ##.adblock_floating_message
