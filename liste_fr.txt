@@ -1299,7 +1299,6 @@ _Social-Advert-
 !
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 |http:$subdocument,third-party,domain=clictune.com|contextualyield.com|sa.ae
-|http://$xmlhttprequest,domain=foot01.com
 |http://*/*0*0*0*0*0*0*0*0$script,xmlhttprequest,domain=generation-nt.com
 |http://newpromo.$domain=cpasbien.pw
 ||100pour100sexe.com/pop.
