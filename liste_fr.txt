@@ -839,6 +839,7 @@ _Social-Advert-
 ||annuaire-generaliste.fr/affiche_logo.php?
 ||annuaire-transsexuelle.com/annuaire/ban/$third-party
 ||annuaire-web-france.com/images/logo-annuaire-web-france.gif
+||appeng.website^
 ||as-salat.fr/images/banners/
 ||asia-passion.fr/annuaire/ban/$third-party
 ||astroportail.com/images/pubastro4.gif
@@ -1105,7 +1106,7 @@ _Social-Advert-
 ||onvillanuit.com^$domain=chartsinfrance.net
 ||openload.io/ad/$popup
 ||openload.io^*?adblock=
-||outbrain.com^$domain=metronews.fr
+||outbrain.com^$domain=metronews.fr|ozap.com
 ||over-blog-kiwi.com^*/*_ban-300x250.
 ||oxiads.fr/www/images/
 ||oxyka.com/er/od.php?
@@ -2945,12 +2946,15 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.ads-heads
 ##.ads-search
 ##.ads-sponsored-text
+##.ads2
+##.ads3
 ##.adsPost
 ##.ads_box_home_box
 ##.adspave
 ##.adspopup
 ##.adv-header
 ##.advBackground
+##.adv_box
 ##.adv_cont
 ##.advertisement-pub
 ##.annonces_google
@@ -3013,6 +3017,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.hnadszone
 ##.home_pub
 ##.iframe_pub
+##.inpage-adspace
 ##.insert_pub_center
 ##.inside_adv_section
 ##.kadmer-ad
