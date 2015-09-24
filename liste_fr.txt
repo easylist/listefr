@@ -1106,6 +1106,7 @@ _Social-Advert-
 ||noviya.free.fr/bannieres/
 ||nuit-torride.com/ban/
 ||nyu-nyu.com/banieres/
+||odb.outbrain.com^$script,domain=eclypsia.com
 ||ohlescoquins.com/promo/
 ||okpay.com/img/partners/$third-party
 ||on-veut-du-cul.com/promo/
@@ -3237,6 +3238,8 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##a[href^="http://www.terraclicks.com/"]
 ##a[href^="http://www.xmediaserve.com/"]
 ##a[href^="http://www.yourfilezone.com/"]
+##a[onmousedown^="this.href='https://staffpicks.outbrain.com/network/redir?"][target="_blank"]
+##a[onmousedown^="this.href='https://staffpicks.outbrain.com/network/redir?"][target="_blank"] + .ob_source
 !
 !----------------------- Éléments -----------------------!
 !
@@ -4590,6 +4593,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||ccmbenchmark.com^$~third-party
 @@||cdn-static.liverail.com/crossdomain.xml$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
+@@||cdn.taboola.com/libtrc/bolton-eclypsiaen/loader.js$script,domain=eclypsia.com
 @@||cdn.teads.tv/js/all-$script,domain=telechargement.zebulon.fr
 @@||chine-informations.com/javascript/advertisement.js
 @@||clic.reussissonsensemble.fr/click*.asp$domain=forfait-mobile-moins-cher.com
