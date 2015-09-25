@@ -1122,7 +1122,7 @@ _Social-Advert-
 ||onvillanuit.com^$domain=chartsinfrance.net
 ||openload.io/ad/$popup
 ||openload.io^*?adblock=
-||outbrain.com^$script,domain=eclypsia.com|lacapitale.be|lameuse.be|lanouvellegazette.be|laprovince.be|metronews.fr|nordeclair.be|ozap.com
+||outbrain.com^$script,domain=eclypsia.com|lacapitale.be|lameuse.be|lanouvellegazette.be|laprovince.be|liberation.fr|metronews.fr|nordeclair.be|ozap.com
 ||over-blog-kiwi.com^*/*_ban-300x250.
 ||oxiads.fr/www/images/
 ||oxyka.com/er/od.php?
@@ -2991,12 +2991,14 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.bg-adsense
 ##.bigadvert
 ##.bloc-ads
+##.bloc-ads-container
 ##.bloc-pub
 ##.blocPub
 ##.bloc_pub_300
 ##.bloc_pub_header
 ##.bloc_pub_left
 ##.bloc_rightcol_pub
+##.block-cPublicite
 ##.block-pubimage
 ##.block_adtop
 ##.block_pub
@@ -3872,7 +3874,6 @@ tv5.org##.bloc_promomiddle
 creativejuiz.fr##.bloc_pub
 algerie360.com##.bloc_pub_250_s_marge
 premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
-liberation.fr##.block-cPublicite
 jeuxvideopc.com##.block-concours_en_cours
 smartorrent.com##.block-contenu-pub
 jeuxvideo.fr##.block-divers-widget_shopping
@@ -4689,10 +4690,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||lacanausurfinfo.com/admin/images/pubs/pub_18.png
 @@||lesinrocks.com/min/?f=wp-content/themes/lesinrocks_theme/js/lib/jquery-$script
 @@||lesinrocks.com/wp-content/plugins/minifier/min/?f=$script
-@@||libe.com/libepartnerships/businesspartner_photo/2011/08/14/ojd.gif
-@@||libe.com/libepartnerships/businesspartner_photo/2011/08/25/iphone.png
-@@||libe.com/libepartnerships/businesspartner_photo/2012/08/13/visuel_pa-1.png
-@@||libe.com/libepartnerships/img/print_subscription.jpg
 @@||m2radio.fr/include/player/flash.swf?$domain=~live.m2stream.fr
 @@||m6replay.fr/js/advertisement.js
 @@||mac4ever.com/min.php?$script
@@ -4748,6 +4745,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||roipub.com/images/$image,~third-party
 @@||s0.2mdn.net/instream/video/client.js$domain=jeu.info
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
+@@||s1.libe.com/newsite/js/advertisement.js
 @@||sceno.fr/apps/1_static/ads/explain.png
 @@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
 @@||smartadserver.com/call/pubj/$object-subrequest,domain=ecranlarge.com
