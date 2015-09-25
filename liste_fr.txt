@@ -261,6 +261,7 @@ _Social-Advert-
 ||ad-1.me^$third-party
 ||ad-2.me^$third-party
 ||ad-3.me^$third-party
+||ad-center.com^$popup,$third-party
 ||ad-lead.com^$third-party
 ||ad-online.biz^$popup,third-party
 ||ad-online.biz^$third-party
@@ -501,6 +502,7 @@ _Social-Advert-
 ||goodaction.com^$third-party
 ||goracash.com^$third-party
 ||gouzardo.com^$third-party
+||goyavelab.com^$third-party
 ||greatregie.com^$third-party
 ||gwenna.website^$third-party
 ||hebdotop.com^$third-party
@@ -626,9 +628,11 @@ _Social-Advert-
 ||placedesleads.com^$third-party
 ||plaisirsdejouir.fr^$third-party
 ||playglad.com^$third-party
+||pluginnetwork.net^$third-party
 ||plurielmediacenter.com^$third-party
 ||plusservicepartners.com^$third-party
 ||poparb.com^$third-party
+||popitunder.com^$third-party
 ||pornego.com^$third-party
 ||pornstreet.com^$popup,third-party
 ||prm-native.com^$third-party
@@ -741,6 +745,7 @@ _Social-Advert-
 ||traficmax.com^$third-party
 ||tribalfusion.com^$popup,third-party
 ||urlcash.com^$popup,third-party
+||vgsgaming.com^$third-party
 ||video1404.info^$popup
 ||videonas.eu^$third-party
 ||videoroow.com^$popup
@@ -775,6 +780,7 @@ _Social-Advert-
 ||wslinx.com^$third-party
 ||www.meetic-partners.com^$popup,third-party
 ||wwwbrassier.website^$third-party
+||x.porn.fr^$popup,third-party
 ||x.porn.fr^$third-party
 ||xaddad.com^$third-party
 ||xaxa.in^$third-party
@@ -824,6 +830,7 @@ _Social-Advert-
 ||ads.giponewing.com^
 ||aduwoc.footeo.com^
 ||aff.bstatic.com^
+||aff.camplace.com^$popup,third-party
 ||affiliation-mb.vos-scripts.com^
 ||affiliation.voyance.fr^$third-party
 ||affiliationcommando.com/bannieres/
@@ -2339,6 +2346,7 @@ _Social-Advert-
 ||starter.fm/images/*/bg_
 ||startertv.fr/images/*/bg_
 ||static.ccm2.net/*/img/appstv/
+||static.gamingskin.com/skins/gaara/skin.js
 ||static.rtl.fr/*/skin/$stylesheet
 ||static.rtl.fr/*/skin/promo/
 ||static.wanadoo.fr/webmail/templateMagic/*/graphics/*/meetic_$image
@@ -4628,6 +4636,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
 @@||francetelevisions.fr^*/publicite/silverlight.php?
+@@||gaara-fr.com^$elemhide
 @@||gameart.eu/medias/files/ad-top.$stylesheet
 @@||geekdefrance.fr/wp-content/themes/interiorzine/ads/top_
 @@||gepotacet.com/pubad.js$script
