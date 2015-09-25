@@ -1114,7 +1114,6 @@ _Social-Advert-
 ||noviya.free.fr/bannieres/
 ||nuit-torride.com/ban/
 ||nyu-nyu.com/banieres/
-||odb.outbrain.com^$script,domain=eclypsia.com|laprovince.be
 ||ohlescoquins.com/promo/
 ||okpay.com/img/partners/$third-party
 ||on-veut-du-cul.com/promo/
@@ -1122,7 +1121,7 @@ _Social-Advert-
 ||onvillanuit.com^$domain=chartsinfrance.net
 ||openload.io/ad/$popup
 ||openload.io^*?adblock=
-||outbrain.com^$domain=metronews.fr|ozap.com
+||outbrain.com^$script,domain=eclypsia.com|laprovince.be|metronews.fr|ozap.com
 ||over-blog-kiwi.com^*/*_ban-300x250.
 ||oxiads.fr/www/images/
 ||oxyka.com/er/od.php?
