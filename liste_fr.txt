@@ -295,6 +295,7 @@ _Social-Advert-
 ||admitlead.ru^$third-party
 ||admized.com^$third-party
 ||admtpmp124.com^$third-party
+||adn-performance.com^$third-party
 ||adnetworkperformance.com^$popup,third-party
 ||adnetworkperformance.com^$third-party
 ||adnetworkus.com^$third-party
@@ -2538,11 +2539,12 @@ _Social-Advert-
 ||webfrance.com/images/*145100.
 ||webfrance.com/images/*300250.
 ||webfrance.com/images/*3002502.
+||webfrance.com/images/*56090.
 ||webfrance.com/images/*58090.
 ||webfrance.com/images/*72890.
 ||webfrance.com/images/*980250.
+||webfrance.com/images/backadn.jpg
 ||webfrance.com/images/backaffiliaweb.
-||webfrance.com/images/backcj.jpg
 ||weblettres.net/@images/pub/
 ||webmarchand.be/js/ov.js.php?
 ||webrankinfo.com/js/*-adsense.
@@ -4255,7 +4257,6 @@ dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-d
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 planet-series.tv##a[href*="planet-series.tv/offer?"]
 magicmaman.com##a[href*="smartadserver.com/call/cliccommand/"]
-webfrance.com##a[href*="webfrance.com/go/"]:not([href="http://www.webfrance.com/go/facebook.php"]):not([href="http://www.webfrance.com/go/twitter.php"]):not([href="http://www.webfrance.com/go/googleplus.php"]):not([href="http://www.webfrance.com/go/linkedin.php"])
 nouvelobs.com##a[href*="xiti.com/go.click?"]
 generation-nt.com##a[href="/boutique.html"]
 french-movies.net##a[href="/videosplus18.html"]
@@ -4369,6 +4370,7 @@ lcouple2-2m.blogspot.com##a[href^="http://www.ta3arof.net/ads/"]
 lefigaro.fr##a[href^="http://www.ticketac.com/?utm_source="]
 ticketac.com##a[href^="http://www.ticketac.com/redirect_pub.php?"]
 undernews.fr##a[href^="http://www.undernews.fr/go/"]
+webfrance.com##a[href^="http://www.webfrance.com/go/"]
 webrankinfo.com##a[href^="http://www.webrankinfo.com/partenaires/"]
 needsandmoods.com##a[href^="https://ad.zanox.com/"]
 yahoo.com##a[href^="https://beap.gemini.yahoo.com/"]
