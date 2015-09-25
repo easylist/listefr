@@ -504,7 +504,7 @@ _Social-Advert-
 ||goodaction.com^$third-party
 ||goracash.com^$third-party
 ||gouzardo.com^$third-party
-||goyavelab.com^$third-party
+||goyavelab.com^$popup,third-party
 ||greatregie.com^$third-party
 ||gwenna.website^$third-party
 ||hebdotop.com^$third-party
@@ -859,6 +859,7 @@ _Social-Advert-
 ||annuaire-web-france.com/images/logo-annuaire-web-france.gif
 ||appeng.website^
 ||as-salat.fr/images/banners/
+||as.goyavelab.com^
 ||asia-passion.fr/annuaire/ban/$third-party
 ||astroportail.com/images/pubastro4.gif
 ||atoowin.com/images/diffusion/
@@ -1702,7 +1703,6 @@ _Social-Advert-
 ||football365.fr/pub.php
 ||football365.fr^*?imgPrefix=$xmlhttprequest
 ||footballclubdemarseille.fr^*?imgPrefix=$xmlhttprequest
-||footmercato.net/squelettes/javascript/tag-pub/rg-tag.js
 ||force-download.net^*/yellowtoolbar/
 ||formation-dz.com/images/banners/
 ||formation-dz.com/modules/mod_banners/
@@ -4643,7 +4643,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||donnemoilinfo.com/tuto/ad-remover/img/
 @@||download.gameblog.fr/images/promo/ban_premium_300.jpg
 @@||ds.serving-sys.com/BurstingRes//$object-subrequest,domain=buzzmoica.fr
-@@||dtf.goyavelab.com/dtct.js$script
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
 @@||dzautos.com/swf/prix_du_neuf.swf
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
@@ -4661,6 +4660,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||gaara-fr.com^$elemhide
 @@||gameart.eu/medias/files/ad-top.$stylesheet
+@@||garupiti.com/pubad.js$script
 @@||geekdefrance.fr/wp-content/themes/interiorzine/ads/top_
 @@||gepotacet.com/pubad.js$script
 @@||gironde.fr/css/csspacker.jsp?css=$stylesheet
