@@ -2386,7 +2386,7 @@ _Social-Advert-
 ||systemed.fr/popunder/$popup
 ||t.nl.francetv.fr/r/?id=$popup
 ||t5hkmjkmhfae.com^
-||taboola.com^$script,domain=01net.com|24matins.fr|cosmopolitan.fr|f1i.com|footmercato.net|koreus.com|lexpress.fr
+||taboola.com^$script,domain=01net.com|24matins.fr|cosmopolitan.fr|f1i.com|koreus.com|lexpress.fr
 ||tahiti-infos.com/ads/$popup
 ||tahiti-infos.com/photo/*.gif$image
 ||tahiti-infos.com/photo/*_banie*.swf
@@ -4612,7 +4612,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||agir.bloomassociation.org/adserver2/
 @@||agir.planfrance.org/adserver2/
 @@||ain.fr^
-@@||aka-cdn-ns.adtech.de/dt/common/DAC.js$script,domain=footmercato.net
 @@||ami2.com/resources/img/mysite/publicites/$image,domain=ami2.com
 @@||api.fidji.lefigaro.fr/media/_uploaded/400x250//$image
 @@||appeals.diabetes.org.uk/adserver2/
@@ -4657,7 +4656,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||everlong.org/style/banner.php
 @@||evilox.com/includes/js/advertisement.js
 @@||fatherandsons.fr^*/opecom/affiliation/
-@@||flugubluc.com/pubad.js$script
 @@||forum-auto.com/xiti2/xtcore.js
 @@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
@@ -4665,12 +4663,9 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||gaara-fr.com^$elemhide
 @@||gameart.eu/medias/files/ad-top.$stylesheet
-@@||garupiti.com/pubad.js$script
 @@||geekdefrance.fr/wp-content/themes/interiorzine/ads/top_
-@@||gepotacet.com/pubad.js$script
 @@||gironde.fr/css/csspacker.jsp?css=$stylesheet
 @@||goldenmoustache.com^$elemhide
-@@||golutica.com/pubad.js$script
 @@||good-deals.lu/Content/Styles/AdFrame.css
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.fr
 @@||google.com/adsense/$subdocument,domain=sedo.fr
@@ -4695,7 +4690,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||jeuxvideo.com/js/adblock.js
 @@||jheberg.net/js/*_advertisement.js
 @@||kapaza.be/*/ad_view_
-@@||katucet.com/pubad.js$script
 @@||koifaire.com/upload/*/300x250-
 @@||lacanausurfinfo.com/admin/images/pubs/pub_18.png
 @@||lesinrocks.com/min/?f=wp-content/themes/lesinrocks_theme/js/lib/jquery-$script
@@ -4753,7 +4747,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||rockman.fr/Ads/$image
 @@||roipub.com/image3/$image,~third-party
 @@||roipub.com/images/$image,~third-party
-@@||rutimone.com/pubad.js$script
 @@||s0.2mdn.net/instream/video/client.js$domain=jeu.info
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||s1.libe.com/newsite/js/advertisement.js
