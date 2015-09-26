@@ -5257,6 +5257,7 @@ fr.audiofanzine.com#@#div[id^="div-gpt-ad-"]
 ###popplugin
 ##.popplugin
 .html?transformPubId=$popup
+/?version=*&campid=*&prefix=
 /apu.php?*&popunder=$popup
 /aserving/*.htm?*&adv=$popup
 /dl.php?id=*&r=http%3A%2F%2F*%2Fhp%2F%3Fq%3D*%*%*%*%*&*=
