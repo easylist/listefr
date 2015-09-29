@@ -17,6 +17,7 @@
 &ad_path=$popup
 &adcid=$popup
 &ads_size_id=
+&adtv=*_bnmngr_$popup
 &bann=$popup
 &cwadformat=
 &playadw=
@@ -38,10 +39,13 @@
 .pubdirecte.
 .publicite.
 .showads.
+/160x300_
 /300_250-2.
+/468x060_
 /468x60banner.
+/728x090_
 /?do=goto_adv&id_adv=
-/a.php?t=*&pg_b_format=
+/a.php?t=*&pgid=*&rebill=
 /a4u_banner_.$popup
 /ac.wbdds.
 /acad.$script
@@ -99,6 +103,7 @@
 /banniere728x90_
 /banniere_pub.
 /bannieres_pub/*
+/bansfakes_st.php?ref=
 /blog/ads_
 /bnr468.
 /brightcoveAds.
@@ -138,6 +143,7 @@
 /pages_ads.
 /partnertag/iframe.
 /plugins/vp_pub/*
+/promo/bannieres/*
 /proxy_eds.php?
 /proxy_iframe.php?url=
 /pub-300x250.
@@ -188,6 +194,7 @@
 /wp-content/plugins/baw-bon-plan/*
 /XnewadsX/*
 ://adspaces.
+://bannieres.$third-party
 ://regie.$third-party
 ://soads.
 =iframe_pub&
@@ -243,6 +250,7 @@ _Social-Advert-
 ||2town.net^$third-party
 ||37.187.248.215^$popup,third-party
 ||380tl.com^$third-party
+||3xdl.com^$third-party
 ||46.249.58.117^$third-party
 ||5b15a826.xyz^$popup,third-party
 ||5b15a826.xyz^$third-party
@@ -440,6 +448,7 @@ _Social-Advert-
 ||ctpsrv.com^$third-party
 ||ctx-traffic.com^$third-party
 ||cubicleoffers.com^$third-party
+||cyberflirt.fr^$third-party
 ||dailyofferservice.com^$third-party
 ||danstonfion.com^$popup,third-party
 ||danstonfion.com^$third-party
@@ -507,6 +516,7 @@ _Social-Advert-
 ||gouzardo.com^$third-party
 ||goyavelab.com^$popup,third-party
 ||greatregie.com^$third-party
+||guestcash.com^$third-party
 ||gwenna.website^$third-party
 ||hebdotop.com^$third-party
 ||heberparis23.com^$third-party
@@ -630,6 +640,7 @@ _Social-Advert-
 ||piximedia.fr^$third-party
 ||placedesleads.com^$third-party
 ||plaisirsdejouir.fr^$third-party
+||player.pornravage.com^$third-party
 ||playglad.com^$third-party
 ||pluginnetwork.net^$third-party
 ||plurielmediacenter.com^$third-party
@@ -699,6 +710,7 @@ _Social-Advert-
 ||shabakti.com^$third-party
 ||shoppingate.info^$third-party
 ||shoppytab.com^$third-party
+||showgirl.ch^$third-party
 ||silvercdn.ryukyu^$third-party
 ||similardeals.net^$third-party
 ||slutroulette.com^$popup
@@ -735,6 +747,7 @@ _Social-Advert-
 ||top-chaude.com^$third-party
 ||toro-tags.com^$third-party
 ||totaladperformance.com^$third-party
+||totale-defonce.com^$third-party
 ||toutlinternet.com^$third-party
 ||touturf.com^$third-party
 ||tr553.com^$third-party
@@ -749,6 +762,7 @@ _Social-Advert-
 ||trafic-booster.biz^$third-party
 ||traficmax.com^$third-party
 ||tribalfusion.com^$popup,third-party
+||univers-porno.com^$third-party
 ||urlcash.com^$popup,third-party
 ||vgsgaming.com^$third-party
 ||video1404.info^$popup
@@ -882,6 +896,8 @@ _Social-Advert-
 ||betclick.com^*/banner.ashx?
 ||beurette-passion.com/ban/$third-party
 ||beurettes-faciles.com/promo/
+||billypub.com^
+||billypubcontent.com^
 ||bitchvolley.com/ban/$third-party
 ||blablaland.com/pubosaure/
 ||bon-reduc.com/pub/
@@ -1219,6 +1235,7 @@ _Social-Advert-
 ||sexy-tresors.com/ban/$third-party
 ||sexy.1001-recherches.com/ban/$third-party
 ||sexy.yakoila.com/bans/$third-party
+||sexypower.xxx^
 ||sexytout.com/ban/$third-party
 ||sg-autorepondeur.com/bannieres/
 ||shop.mango.com^
