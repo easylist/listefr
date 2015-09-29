@@ -592,6 +592,7 @@ _Social-Advert-
 ||misstrends.com^$third-party
 ||misterbell.com^$third-party
 ||mobawaba.com^$third-party
+||mobligo.com^$third-party
 ||mochiads.com^$third-party
 ||monetize-me.com^$third-party
 ||moneytize.fr^$third-party
@@ -1454,6 +1455,7 @@ _Social-Advert-
 ||awbarre.com/includes/rotateurs/
 ||ba.commentcamarche.net^
 ||ba.copainsdavant.com^
+||ba.hugolescargot.com^
 ||ba.jeux-gratuits.com^
 ||ba.journaldesfemmes.com^
 ||batiment.nc/PUBS/
@@ -1618,6 +1620,7 @@ _Social-Advert-
 ||dl-more.eu/images/vpngratuit.png
 ||dlive.pagesjaunes.fr^
 ||dm.commentcamarche.net^
+||dm.hugolescargot.com^
 ||dm.linternaute.com^
 ||dmcdn.net/mc/skin_assets/Orange_noel_2012_hub/
 ||dmtk.linternaute.com^
@@ -1836,6 +1839,8 @@ _Social-Advert-
 ||hotvideo.fr/pub/
 ||hotvideo.fr^*/banners/
 ||htmlforums.com^*/images/misc/banner
+||hugolescargot.com/images/*.html$xmlhttprequest
+||hugolescargot.com/photos/*?p=$xmlhttprequest
 ||humanite.fr/sites/default/files/field/image/banniere_
 ||humanite.fr/sites/default/files/medias/*/header_pub_
 ||humourquotidien.com/pubs/
@@ -5191,7 +5196,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=ot-boutique.fr|pcastuces.com|slideplayer.fr|vide-greniers.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bricozone.fr|leetgamerz.net|slideplayer.fr|vide-greniers.org
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=replay.fr
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=automobile-sportive.com|hugolescargot.com|ot-boutique.fr|pcastuces.com|universal-soundbank.com|zeperfs.com
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=automobile-sportive.com|ot-boutique.fr|pcastuces.com|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pub-config/ca-pub-*.js$domain=bricozone.fr
 @@||pagefair.com/static/adblock_detection/js/$script,third-party
 @@||partage-facile.com^$elemhide
