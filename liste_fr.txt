@@ -221,6 +221,7 @@ _publicite_
 _regiepub/
 _smads_
 _Social-Advert-
+||com/bannieres/$image,object,subdocument
 ! CDN filters
 /cdn-cgi/pe/bag2?*adcash.com
 /cdn-cgi/pe/bag2?*adverline.com
@@ -263,6 +264,7 @@ _Social-Advert-
 ||abporn.com^$third-party
 ||acads.net^$third-party
 ||acces-charme.com^$third-party
+||accesporno.com^$third-party
 ||acdcads.com^$third-party
 ||acpublicite.fr^$third-party
 ||acwm.biz^$third-party
@@ -415,6 +417,7 @@ _Social-Advert-
 ||cdxndirectopt.com^$third-party
 ||cdxnopt.com^$third-party
 ||cercle-trafic.com$third-party
+||charmix.com^$third-party
 ||citenkomedia.com^$third-party
 ||cityads.com^$popup,third-party
 ||cityads.com^$third-party
