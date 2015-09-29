@@ -2046,6 +2046,8 @@ _Social-Advert-
 ||lille.sortir.eu/portal_banneradmin/
 ||links.fhsarl.com^$popup,third-party
 ||linternaute.com/*@*,position$script
+||linternaute.com/images/*.html$xmlhttprequest
+||linternaute.com/photos/*?p=$xmlhttprequest
 ||linternaute.com^*/0_pub/
 ||linux62.org/html_css/pub_
 ||liste2cul.com/pub/
