@@ -1354,8 +1354,6 @@ _Social-Advert-
 !
 !----------------------- Sites spécifiques -----------------------!
 !
-+||generation-nt.com/*c*c*c*c*c*c*c*c*c$image,script,xmlhttprequest
-+||generation-nt.com/*n*n*n*n*n*n*n*n*n$image,script,xmlhttprequest
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 |http:$subdocument,third-party,domain=clictune.com|contextualyield.com|sa.ae
 |http://*/*0*0*0*0*0*0*0*0$script,xmlhttprequest,domain=generation-nt.com
