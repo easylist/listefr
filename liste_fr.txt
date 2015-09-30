@@ -1354,6 +1354,8 @@ _Social-Advert-
 !
 !----------------------- Sites spécifiques -----------------------!
 !
++||generation-nt.com/*c*c*c*c*c*c*c*c*c$image,script,xmlhttprequest
++||generation-nt.com/*n*n*n*n*n*n*n*n*n$image,script,xmlhttprequest
 /http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 |http:$subdocument,third-party,domain=clictune.com|contextualyield.com|sa.ae
 |http://*/*0*0*0*0*0*0*0*0$script,xmlhttprequest,domain=generation-nt.com
@@ -1799,6 +1801,8 @@ _Social-Advert-
 ||garytube.com/pop.js
 ||geekdefrance.fr/wp-content/themes/interiorzine/ads/
 ||geekopolis.fr/images/habillage_$image
+||generation-nt.com/*c*c*c*c*c*c*c*c*c$image,script,xmlhttprequest
+||generation-nt.com/*n*n*n*n*n*n*n*n*n$image,script,xmlhttprequest
 ||generation-nt.com/e337bfaf-fb99-426a-b3a1-ddcb9facbaae.js
 ||generation-nt.com/iframe/ovh.php
 ||generation-nt.com/img/habillages/
