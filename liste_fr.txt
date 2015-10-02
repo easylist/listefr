@@ -2116,7 +2116,6 @@ _Social-Advert-
 ||media-ext.wanarun.net^
 ||media.funradio.fr/online/image/*_skin-vip$image
 ||media.rtl.fr/online/image/*_habillage$image
-||media1.actu.woopic.com/43/p/magic|configurations|cluster|icons/$image
 ||media365.fr^*?imgPrefix=$xmlhttprequest
 ||medserv.carrefour.com^
 ||medserv.carrefour.fr^
@@ -4766,6 +4765,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||malakoffmederic.com/entreprise/*/affiliation/
 @@||malekal.com/ads/ads_php/banner.js
 @@||manga-news.com/public/banners/slide-
+@@||media*.musique.woopic.com^*/400x250/$image,domain=musique.orange.fr
 @@||media.eurolive.com^$domain=live18ans.com
 @@||media.the-adult-company.com^$domain=celibataires.fr
 @@||meteomedia.com/js/adrefresh.js
