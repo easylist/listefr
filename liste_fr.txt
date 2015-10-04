@@ -85,6 +85,7 @@
 /aff_i?offer_id=
 /aff_pub_
 /affiliate.*/banner
+/affilitybanners.
 /affpx.php
 /afterclick.js
 /amazon-product-in-a-post-plugin/*
@@ -92,6 +93,7 @@
 /api/ads_
 /ar/ads/*
 /ara/ads/*
+/ban160.js
 /banads/*
 /bandeaupublicite/*
 /banner/*/sponsored?
@@ -111,6 +113,7 @@
 /choixPubJS.
 /click_lx.ads/$popup
 /click_lx.ads/*
+/cmpn_async.js?
 /col_droite_googleads2
 /default_ads_
 /delivery/rta/*
@@ -193,6 +196,7 @@
 /widgets-zoom-annonce-shopping.
 /widgets-zoom-mytravelchic.
 /wp-content/plugins/baw-bon-plan/*
+/xbanner.js?
 /XnewadsX/*
 ://adspaces.
 ://bannieres.$third-party
@@ -314,6 +318,7 @@ _Social-Advert-
 ||adnetworkperformance.com^$third-party
 ||adnetworkus.com^$third-party
 ||adoptima.com^$third-party
+||adovida.com^$third-party
 ||adpdx.com^$third-party
 ||adpub.eu^$third-party
 ||adqia.com^$third-party
@@ -1233,6 +1238,7 @@ _Social-Advert-
 ||s-sfr.fr/stats/authMsg.js
 ||s-sfr.fr/stats/footer.js
 ||s.brsimg.com^*/cache/css/compress/$object
+||s3.amazonaws.com^*/publishers/$script
 ||saintseiya.lesite.free.fr/images/bannieres/
 ||salopes.free.fr/ban/
 ||service-factures.fr/bannieres/
