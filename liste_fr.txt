@@ -45,6 +45,7 @@
 /468x60banner.
 /728x090_
 /?do=goto_adv&id_adv=
+/a.ads.
 /a.php?t=*&pgid=*&rebill=
 /a4u_banner_.$popup
 /ac.wbdds.
@@ -128,6 +129,7 @@
 /fr/adcr/*$popup
 /fra/ads/*
 /generateAds.
+/getads/?
 /getadsor.
 /iframe_pub_
 /iframePopUpLoader.$popup
@@ -868,6 +870,7 @@ _Social-Advert-
 ||ad.atdmt.com/i/go;$third-party
 ||ad.vacanceo.com^
 ||ads.giponewing.com^
+||ads.itv.com^
 ||aduwoc.footeo.com^
 ||aff.bstatic.com^
 ||aff.camplace.com^$popup,third-party
@@ -3504,6 +3507,7 @@ ddl-island.su,emule-island.ru,stream-island.su###droite_haut
 ddl-island.su,emule-island.ru,stream-island.su###droite_milieu
 boulistenaute.com###dropin
 petitfute.com###dv_partenaire
+e-monsite.com###emsad
 ladepeche.fr###encart_dernieres_annonces
 releve.qc.ca###entete-banniere
 conseils-courseapied.com###equipement
