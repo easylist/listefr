@@ -328,6 +328,8 @@ _Social-Advert-
 ||adrife.com^$third-party
 ||ads-peinture.fr^$third-party
 ||ads-x.com^$third-party
+||adschemist.com^$popup,third-party
+||adschemist.com^$third-party
 ||adschoom.com^$third-party
 ||adscoo.com^$third-party
 ||adserveradulte.com^$third-party
@@ -778,6 +780,7 @@ _Social-Advert-
 ||tracking.ecookie.fr^$popup,third-party
 ||trackor.net^$popup,third-party
 ||trackor.net^$third-party
+||tradeadexchange.com^$popup,third-party
 ||trafe.info^$popup,third-party
 ||trafficrevmaster.com^$third-party
 ||trafficxbiz.com^$third-party
@@ -1189,6 +1192,7 @@ _Social-Advert-
 ||passion-auto.me/pub.
 ||passion-auto.me/pub1.
 ||pepitastore.com^$domain=clubic.com
+||pers.skiplimite.tv^
 ||petite-garce.com/ban/$third-party
 ||philatelistes.net/liens/cptr/
 ||phone-look.com/img/ban_
@@ -4672,6 +4676,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||ad2play.ftv-publicite.fr/js/ad2play.js$domain=mytaratata.com
 @@||ad4.liverail.com/?_=$domain=gamingroom.tv
 @@||ad4.liverail.com/?LR_ADMAP=$object-subrequest,domain=ultimedia.com
+@@||adcash.com/a/display.php?$subdocument,domain=skiplimite.tv
 @@||adgear.com^*/adgear.js$domain=tetesaclaques.tv|tou.tv
 @@||adimages.ch^$domain=adimages.ch
 @@||admedia.rtl.fr/online/sound/$object-subrequest,domain=rtl.fr
@@ -5310,6 +5315,7 @@ geekdefrance.fr#@#.topads
 wanimo.com#@#div[id^="div-gpt-ad-"]
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
+skiplimite.tv#@##ad300x250
 dbz-fantasy.com#@##adTeaser
 ###adb-actived
 ###adb-enabled
