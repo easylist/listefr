@@ -3794,7 +3794,6 @@ liligo.fr###pulledbanner
 liligo.fr###pulledbanner-right-top
 nouvelobs.com###random-div-id-1_masterblock
 nouvelobs.com###random-div-id-1_shopping
-amazon.fr###raw-search-desktop-advertising-tower-1
 pubeco.fr###recommandPublis
 parolesmania.com###rectangle > .thinbox div[style="height: 250px;"]
 lexpress.mu###region-user-second
@@ -4366,6 +4365,8 @@ lepetiteconomiste.com##.zoom
 lefigaro.fr##.zoom-widget-react
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 dpstream.net##[class$="_plugin_top"]
+amazon.fr##[class*="-advertising-"]
+amazon.fr##[class*="-sponsored-"]
 guide-piscine.fr##[class^="pub_"]
 guide-piscine.fr##[class^="regie_"]
 meilleur-vpn.biz##[href^="http://meilleur-vpn.biz/visit/"]
