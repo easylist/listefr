@@ -2712,6 +2712,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 @@||doubleclick.net/favicon.ico$image
 @@||esprit-click.com/*.js|$script,third-party
 @@||mondebrideur.com/js/advert.js
+@@||numerama.com/blockadblock.js$script
 @@||pla.folue.info/needes.js$script
 @@||plus-belle-la-vie-replay.blogspot.com^$elemhide
 @@||plus-belle-la-vie-replay.blogspot.fr^$elemhide
@@ -2828,6 +2829,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ###content_pub_carre
 ###contenu-text-publicite
 ###contextuel-publicite-video
+###current_side_ad
 ###custom-ad
 ###displayedPub
 ###div-ads
@@ -3119,6 +3121,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.conteneur_pub_footer
 ##.conteneur_pub_horiz
 ##.conteneur_pub_vertical
+##.content-ad-bloc
 ##.cubes-ads
 ##.custom-advert-banner-frame
 ##.div-publicite
