@@ -1191,7 +1191,6 @@ _Social-Advert-
 ||onvillanuit.com^$domain=chartsinfrance.net
 ||openload.io/ad/$popup
 ||openload.io^*?adblock=
-||outbrain.com^$script,domain=ccm.net|eclypsia.com|lacapitale.be|lameuse.be|lanouvellegazette.be|laprovince.be|lemonde.fr|liberation.fr|metronews.fr|nordeclair.be|orange.fr|ozap.com
 ||over-blog-kiwi.com^*/*_ban-300x250.
 ||oxiads.fr/www/images/
 ||oxyka.com/er/od.php?
@@ -1319,7 +1318,6 @@ _Social-Advert-
 ||surf-heures.com/img/banniere.
 ||surf-report-shop.com^$popup,domain=surf-report.com
 ||systeme-business.com/images/120x600sb.jpg
-||taboola.com^*/advertstream-
 ||tac2.xcams.com/livecams/$third-party
 ||tagbox.fr/banner/
 ||techbeat.com/wp-content/custom-php/tbrecentposts3.php?
@@ -2473,8 +2471,6 @@ _Social-Advert-
 ||systemed.fr/popunder/$popup
 ||t.nl.francetv.fr/r/?id=$popup
 ||t5hkmjkmhfae.com^
-||taboola.com/libtrc/nextinteractivemedia-network/loader.js
-||taboola.com^$script,domain=01net.com|24matins.fr|bfmtv.com|cosmopolitan.fr|f1i.com|koreus.com|lexpress.fr
 ||tahiti-infos.com/ads/$popup
 ||tahiti-infos.com/photo/*.gif$image
 ||tahiti-infos.com/photo/*_banie*.swf
@@ -3368,8 +3364,6 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##a[href^="http://www.terraclicks.com/"]
 ##a[href^="http://www.xmediaserve.com/"]
 ##a[href^="http://www.yourfilezone.com/"]
-##a[onmousedown^="this.href='https://staffpicks.outbrain.com/network/redir?"][target="_blank"]
-##a[onmousedown^="this.href='https://staffpicks.outbrain.com/network/redir?"][target="_blank"] + .ob_source
 !
 !----------------------- Éléments -----------------------!
 !
@@ -3903,7 +3897,6 @@ genybet.fr##.GGFODTBDCS
 estrepublicain.fr,ledauphine.com##.GTRF_sponsoredLinks
 estrepublicain.fr##.Iookaz
 mypornmotion.com##.LinePromo
-lefigaro.fr##.OUTBRAIN
 bienpublic.com##.OffreHabitat
 aufeminin.com##.OffresSpe_cadre
 afrokanlife.com##.PubAdAI
@@ -4174,8 +4167,6 @@ galaxynote.fr##.offre
 aujourdhui-en-france.fr,leparisien.fr##.offresStage
 wamiz.com##.orange
 16algerie.com##.ot-banner
-lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.outbrain_gocar
-lacapitale.be,lameuse.be,lanouvellegazette.be,nordeclair.be##.outbrain_jobsregions
 south-park-streaming.com##.p_728
 iphoneaddict.fr##.pabsidebar
 iphoneaddict.fr##.pabsidebarsingle
@@ -4745,7 +4736,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||cdclicks.com/advertisement.js
 @@||cdn-static.liverail.com/crossdomain.xml$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
-@@||cdn.taboola.com/libtrc/bolton-eclypsiaen/loader.js$script,domain=eclypsia.com
 @@||cdn.teads.tv/js/all-$script,domain=telechargement.zebulon.fr
 @@||chine-informations.com/javascript/advertisement.js
 @@||clic.reussissonsensemble.fr/click*.asp$domain=forfait-mobile-moins-cher.com
