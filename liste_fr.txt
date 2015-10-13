@@ -2704,6 +2704,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 /blockadblock.js
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
 @@||audipassion.com^*/jsLoader.js?adType=foobar
+@@||bizhentai.com/*.js|$script,third-party
 @@||ddlfr.org/cdn-cgi/pe/bag2?*serve.popads.net%2FcheckInventory.php$xmlhttprequest,domain=ddlfr.org
 @@||doubleclick.net/favicon.ico$image
 @@||esprit-click.com/*.js|$script,third-party
@@ -4865,6 +4866,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||s1.libe.com/newsite/js/advertisement.js
 @@||sceno.fr/apps/1_static/ads/explain.png
+@@||seriehentai.com^$elemhide
 @@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
 @@||smartadserver.com/call/pubj/$object-subrequest,domain=ecranlarge.com
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|ecranlarge.com|player.canalplus.fr|portail.free.fr
