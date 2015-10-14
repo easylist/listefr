@@ -2686,8 +2686,10 @@ _Social-Advert-
 @@||viedemerde.fr/advertisement.js
 viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 viedemerde.fr##a[onclick^="ZeroPub."]
-||christie.viedemerde.fr^
-||front.viedemerde.fr^
+viedemerde.fr##div[data-placeholder] > a[onclick$="(false);"] > img
+|http://*.viedemerde.fr/*/*0*0*0*0$image
+|http://*.viedemerde.fr/*/*5*5*5*5$image
+||derogate.viedemerde.fr^
 ||viedemerde.fr/*/728/90$image
 ! MacGeneration
 macg.co###block-quicktabs-bon-plans-macg-
