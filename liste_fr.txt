@@ -4780,6 +4780,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||everlong.org/style/banner.php
 @@||evilox.com/includes/js/advertisement.js
 @@||fatherandsons.fr^*/opecom/affiliation/
+@@||flugubluc.com^$script,~third-party
 @@||foot01.com/*i*i*i*e.js$~third-party,xmlhttprequest,domain=foot01.com
 @@||foot01.com^*.txt$~third-party,xmlhttprequest
 @@||forum-auto.com/xiti2/xtcore.js
@@ -4789,9 +4790,12 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||gaara-fr.com^$elemhide
 @@||gameart.eu/medias/files/ad-top.$stylesheet
+@@||garupiti.com^$script,~third-party
 @@||geekdefrance.fr/wp-content/themes/interiorzine/ads/top_
+@@||gepotacet.com^$script,~third-party
 @@||gironde.fr/css/csspacker.jsp?css=$stylesheet
 @@||goldenmoustache.com^$elemhide
+@@||golutica.com^$script,~third-party
 @@||good-deals.lu/Content/Styles/AdFrame.css
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.fr
 @@||google.com/adsense/$subdocument,domain=sedo.fr
@@ -4819,6 +4823,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||jeuxvideo.com/js/adblock.js
 @@||jheberg.net/js/*_advertisement.js
 @@||kapaza.be/*/ad_view_
+@@||katucet.com^$script,~third-party
 @@||koifaire.com/upload/*/300x250-
 @@||lacanausurfinfo.com/admin/images/pubs/pub_18.png
 @@||lesinrocks.com/min/?f=wp-content/themes/lesinrocks_theme/js/lib/jquery-$script
@@ -4879,6 +4884,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||rockman.fr/Ads/$image
 @@||roipub.com/image3/$image,~third-party
 @@||roipub.com/images/$image,~third-party
+@@||rutimone.com^$script,~third-party
 @@||s0.2mdn.net/instream/video/client.js$domain=jeu.info
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||s1.libe.com/newsite/js/advertisement.js
