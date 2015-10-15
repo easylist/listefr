@@ -697,7 +697,7 @@ _Social-Advert-
 ||puboclic.com^$third-party
 ||pubwebnet.com^$third-party
 ||puhtml.com^$third-party
-||pureadexchange.com^$popup,third-party
+||pureadexchange.com^$third-party
 ||pwspace.com^$third-party
 ||quaelead.com^$third-party
 ||quanta.lu^$third-party
@@ -4697,6 +4697,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@/plflv2/player_end.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@/plflv2/player_pause.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@/plflv2/preroll.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
+@@|http://$script,domain=dpstream.net
 @@|http://*.js$script,third-party,domain=jeu.fr|jeux.fr
 @@||247realmedia.com/0/Player/Player_FR_Home/Box-2-FR.jpg$domain=eurosportplayer.fr
 @@||2folie.com^$elemhide
@@ -4774,6 +4775,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
 @@||ebayrtm.com/rtm?RtmCmd&a=json&p=$script,domain=www.befr.ebay.be
 @@||ebayrtm.com/rtm?RtmPreviewContent&$subdocument,domain=www.befr.ebay.be
+@@||eburlet.com^$script,~third-party
 @@||eclypsia.com^$elemhide
 @@||everlong.org/style/banner.php
 @@||evilox.com/includes/js/advertisement.js
