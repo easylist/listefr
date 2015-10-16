@@ -2707,6 +2707,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 @@||bizhentai.com/*.js|$script,third-party
 @@||ddlfr.org/cdn-cgi/pe/bag2?*serve.popads.net%2FcheckInventory.php$xmlhttprequest,domain=ddlfr.org
 @@||doubleclick.net/favicon.ico$image
+@@||doubleverify.com^$domain=kissanime.com
 @@||esprit-click.com/*.js|$script,third-party
 @@||folihentai.eu/*.js|$script,third-party
 @@||mondebrideur.com/js/advert.js
@@ -2721,7 +2722,6 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 @@||sascdn.com/diff/js/smart.js$domain=femmeactuelle.fr
 @@||smartadserver.com/call/pubj/$script,domain=itele.fr
 @@||static.koreus.com/js/advert.js
-@@||static.popads.net/js/trustguard.js,domain=kissanime.com
 @@||stream4free.eu/images/*#$~image
 @@||streaming-foot.me/js/adblock.js
 @@||tsa-algerie.com/wp-content/themes/tsa/js/ads.js$script
@@ -3528,6 +3528,8 @@ channelbiz.fr,itespresso.fr,silicon.fr###div-gpt-mega-1
 silicon.fr###div-gpt-mega-2
 videostep.com###divBrandVideo1
 videostep.com###divBrandVideo2
+kissanime.com###divFloatLeft
+kissanime.com###divFloatRight
 videostep.com###divMainBrandVideo
 cinenews.be###divMaxiBanner
 sympatico.ca###divSiteBorderLeft
