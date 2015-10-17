@@ -4776,8 +4776,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||evilox.com/includes/js/advertisement.js
 @@||fatherandsons.fr^*/opecom/affiliation/
 @@||flugubluc.com^$script,~third-party
-@@||foot01.com/*i*i*i*e.js$~third-party,xmlhttprequest,domain=foot01.com
-@@||foot01.com^*.txt$~third-party,xmlhttprequest
 @@||forum-auto.com/xiti2/xtcore.js
 @@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
@@ -4824,7 +4822,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||lesinrocks.com/min/?f=wp-content/themes/lesinrocks_theme/js/lib/jquery-$script
 @@||lesinrocks.com/wp-content/plugins/minifier/min/?f=$script
 @@||libs.iraiser.eu/users/ffc/Header-pagededon.jpg
-@@||live.foot01.com/refresh-live.php$xmlhttprequest
 @@||m2radio.fr/include/player/flash.swf?$domain=~live.m2stream.fr
 @@||m6replay.fr/js/advertisement.js
 @@||mac4ever.com/min.php?$script
