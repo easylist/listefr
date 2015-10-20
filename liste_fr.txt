@@ -2702,6 +2702,8 @@ _Social-Advert-
 viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 viedemerde.fr##a[onclick^="ZeroPub."]
 viedemerde.fr##div[data-placeholder] > a[onclick$="(false);"] > img
+|http://*.download^$script,xmlhttprequest,domain=viedemerde.fr
+|http://*.ovh^$script,xmlhttprequest,domain=viedemerde.fr
 |http://*.viedemerde.fr/*/*0*0*0*0$image
 |http://*.viedemerde.fr/*/*5*5*5*5$image
 ||back.viedemerde.fr^
