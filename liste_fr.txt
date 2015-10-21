@@ -2724,6 +2724,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 /ad-blocking-detector/*
 /antiadblockmsg.
 /blockadblock.js
+@@.png#$image,domain=ebookdz.com
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
 @@||audipassion.com^*/jsLoader.js?adType=foobar
 @@||badibadou.eu/*.js|$script,third-party
@@ -2731,6 +2732,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 @@||ddlfr.org/cdn-cgi/pe/bag2?*serve.popads.net%2FcheckInventory.php$xmlhttprequest,domain=ddlfr.org
 @@||doubleclick.net/favicon.ico$image
 @@||doubleverify.com^$domain=kissanime.com
+@@||ebookdz.com^$elemhide
 @@||esprit-click.com/*.js|$script,third-party
 @@||folihentai.eu/*.js|$script,third-party
 @@||freedom-ip.com^$elemhide
