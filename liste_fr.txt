@@ -4991,9 +4991,9 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||live.foot01.com/refresh-live.php$xmlhttprequest
 @@||www.foot01.com/coupe-d-europe/ligue-des-champions/filinfo,25.txt$~third-party,xmlhttprequest
 @@||www.foot01.com/enetpulse/widget.txt$~third-party,xmlhttprequest
-@@||www.foot01.com/equipe/marseille/filinfo,$~third-party,xmlhttprequest
 @@||www.foot01.com/last_post_date.txt$~third-party,xmlhttprequest
 @@||www.foot01.com/widgets/last_comments/widget,7.txt$~third-party,xmlhttprequest
+@@||www.foot01.com^*/filinfo,$~third-party,xmlhttprequest
 @@||www.foot01.com^*_mce.js$xmlhttprequest
 ||foot01.com^$xmlhttprequest,domain=www.foot01.com
 ! Adunblock
