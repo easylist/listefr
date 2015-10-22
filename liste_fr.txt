@@ -74,6 +74,8 @@
 /aff_i?offer_id=
 /aff_pub_
 /affiliate.*/banner
+/affiliation-mb.
+/affiliation.
 /affilitybanners.
 /affpx.php
 /afterclick.js
@@ -100,6 +102,7 @@
 /brightcoveAds.
 /choixPubJS.
 /click_lx.ads/*
+/clients-ads.
 /cmpn_async.js?
 /col_droite_googleads2
 /default_ads_
@@ -129,6 +132,7 @@
 /page_pub.
 /pagepub.
 /pages_ads.
+/partners/ads-
 /partnertag/iframe.
 /plugins/vp_pub/*
 /promo/bannieres/*
@@ -220,7 +224,7 @@ _Social-Advert-
 /adv.php$popup
 /adv_clk_redirect.$popup
 /adv_show?$popup
-/click_lx.ads/$popup
+/click_lx.ads/*$popup
 /display.php?k=*&ban=$popup
 /effi.click?$popup
 /fr/adcr/*$popup
@@ -380,7 +384,6 @@ _adb_728x90_$popup
 ||affidirect.com^$third-party
 ||affil4you.com^$third-party
 ||affiliation-france.com^$popup,third-party
-||affiliation.hexaweb.net^
 ||affiliaweb.eu^$third-party
 ||affiliaweb.fr^$third-party
 ||affilinks.fr^$third-party
@@ -437,7 +440,7 @@ _adb_728x90_$popup
 ||cdxndirect.com^$third-party
 ||cdxndirectopt.com^$third-party
 ||cdxnopt.com^$third-party
-||cercle-trafic.com$third-party
+||cercle-trafic.com^$third-party
 ||charmix.com^$third-party
 ||citenkomedia.com^$third-party
 ||cityads.com^$popup,third-party
@@ -451,7 +454,6 @@ _adb_728x90_$popup
 ||clickadu.com^$popup,third-party
 ||clickmena.com^$third-party
 ||clicmanager.fr^$third-party
-||clients-ads.panet.co.il^
 ||clkmon.com^$third-party
 ||coindushopping.fr^$third-party
 ||comandclick.com^$third-party
@@ -605,7 +607,7 @@ _adb_728x90_$popup
 ||mb8e17f12.website^$third-party
 ||media-clic.com^$third-party
 ||mediabong.com^$third-party
-||medncom.com$popup,third-party
+||medncom.com^$popup,third-party
 ||medncom.com^$third-party
 ||meetaffiliate.com^$third-party
 ||meetparadise.com^$third-party
@@ -622,7 +624,7 @@ _adb_728x90_$popup
 ||moneytize.fr^$third-party
 ||motorsregie.com^$third-party
 ||moxielinks.com^$third-party
-||multiupload.com/$popup,third-party
+||multiupload.com^$popup,third-party
 ||mumbai-invest.email^$third-party
 ||myserv4.com^$third-party
 ||myspot.fr^$third-party
@@ -659,7 +661,7 @@ _adb_728x90_$popup
 ||ovnet.net^$third-party
 ||palfad.com^$third-party
 ||pandad.eu^$third-party
-||papycash.com$third-party
+||papycash.com^$third-party
 ||paricileweb.com^$third-party
 ||parlinternet.com^$third-party
 ||partner.uncadeau.com^$third-party
@@ -859,7 +861,6 @@ _adb_728x90_$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
-.booking.com/static/img/*_banners_
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
 ||11footballclub.com^*/indexcolonne.php?
@@ -889,8 +890,6 @@ _adb_728x90_$popup
 ||aduwoc.footeo.com^
 ||aff.bstatic.com^
 ||aff.camplace.com^$popup,third-party
-||affiliation-mb.vos-scripts.com^
-||affiliation.voyance.fr^$third-party
 ||affiliationcommando.com/bannieres/
 ||agence-ecofin.com/mysimple/banners/
 ||ajoutezvotrelien.com/visuel46.png
@@ -943,6 +942,7 @@ _adb_728x90_$popup
 ||blablaland.com/pubosaure/
 ||bon-reduc.com/pub/
 ||bookiblog.com/iframe*.
+||booking.com/static/img/*_banners_
 ||boonex.com/modules/Txt/layout/default/img/txt-abt-file
 ||bourgogne-restaurants.com/a_decouvrir_resto_$third-party
 ||boutique.aero/images/block_pub_
@@ -1044,7 +1044,7 @@ _adb_728x90_$popup
 ||festivalalmougar.org^
 ||fille-sensuelle.fr/annuaire/promo/$third-party
 ||films-2-boules.com/promo/$third-party
-||findmysexfriend.com/$popup,domain=extremepc.fr
+||findmysexfriend.com^$popup,domain=extremepc.fr
 ||fitnext.com/masculin_box$third-party
 ||flyrelax.com/wp-widget/widget.php
 ||folue.info/9elwa.html
