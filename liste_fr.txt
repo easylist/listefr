@@ -1664,6 +1664,7 @@ _Social-Advert-
 ||depechedekabylie.com/files.php?file=banners/
 ||depechedekabylie.com/files.php?file=pub/
 ||depechedekabylie.com/themes/ddk/img/pub_
+||derby-digital.com^$popup,domain=sofoot.com
 ||developpez.com/forums/anooffresdvp.php?
 ||developpez.com/show_i.php
 ||developpez.com/template/extra.php?
@@ -2423,9 +2424,10 @@ _Social-Advert-
 ||sky-animes.com/scripts/liens.php?show=topsites
 ||sochaux365.fr/pub.php
 ||sochaux365.fr^*?imgPrefix=$xmlhttprequest
+||sofoot.com/data/$image
+||sofoot.com/good/
 ||sofoot.com/images/pub/
 ||sofoot.com/IMG/*/logo_
-||sofoot.com/package/data.js
 ||sofoot.com^*/?w=clic&id=$popup
 ||sofoot.com^*_pubsv2/
 ||softonic.fr/specials-leaderboard
@@ -4059,6 +4061,7 @@ porn-video-hd.com##.catcher-videos
 girlsgogames.fr##.categoryBanner
 akelys.com##.cellulePUB
 yahoo.com##.classickick
+sofoot.com##.clickAdidas
 test-mobile.fr##.clickleft
 test-mobile.fr##.clickright
 test-mobile.fr##.clicktop
@@ -4931,7 +4934,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|ecranlarge.com|player.canalplus.fr|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
 @@||smartadserver.com/diff/$object-subrequest,domain=ecranlarge.com
-@@||sofoot.com/package/adsense.js?$script
+@@||sofoot.com/good/adsense.js?
 @@||soutenir.apprentis-auteuil.org/adserver2/$image,script,stylesheet
 @@||startertv.fr/images/v2/bg_topbody_startertv.jpg
 @@||static.programme.tv/bundles/*/js/advertisement.js
