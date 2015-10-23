@@ -4714,8 +4714,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@/plflv2/player_pause.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@/plflv2/preroll.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@||247realmedia.com/0/Player/Player_FR_Home/Box-2-FR.jpg$domain=eurosportplayer.fr
-@@||a.ligatus.com/?$script,domain=bfmtv.com
-@@||a.ligatus.com/?ids=*&t=js$script,domain=lachainemeteo.com
 @@||ad.zanox.com/ppc/$popup
 @@||ad2play.ftv-publicite.fr/?sitepage=$subdocument,domain=mytaratata.com|psg.fr
 @@||ad2play.ftv-publicite.fr/js/ad2play.js$domain=mytaratata.com
@@ -4811,8 +4809,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||hitek.fr/blockadblock.js
 @@||host3.adhese.be/tag/tagv1.js$script,domain=lavenir.net
 @@||hostinger.fr/banners/*/hostinger-$image,~third-party
-@@||i.ligatus.com/corporate-resources/adProtect/detection.js$xmlhttprequest
-@@||i.ligatus.com/fr-placements/containers/metrofrance/metrofrance/tc-2-step.js$domain=metronews.fr
 @@||ib.adnxs.com/crossdomain.xml$object-subrequest,domain=jeux-fille-gratuit.com|mahjonggratuit.fr
 @@||ib.adnxs.com/ptv?$object-subrequest,domain=jeux-fille-gratuit.com|mahjonggratuit.fr
 @@||ib.adnxs.com/ttj?$script,domain=jeu.info
@@ -4936,6 +4932,12 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||track.webgains.com/click.html?$subdocument,domain=track.radins.com
 @@||tracking.publicidees.com/clic.php?$subdocument,domain=track.radins.com
 @@||tracking.veoxa.com/click/banner?$subdocument,domain=track.radins.com
+!
+! ligatus.com
+@@||a.ligatus.com/?$script,domain=bfmtv.com
+@@||a.ligatus.com/?ids=*&t=js$script,domain=lachainemeteo.com
+@@||i.ligatus.com/corporate-resources/adProtect/detection.js$xmlhttprequest
+@@||i.ligatus.com/fr-placements/containers/metrofrance/metrofrance/tc-2-step.js$domain=metronews.fr
 !
 !----------------------- Exceptions d'éléments -----------------------!
 !
