@@ -2710,7 +2710,6 @@ _adb_728x90_$popup
 ?runauction=*?crr=*&cbrandom=
 ?runauction=*?crr=*&ctbust=$popup
 ! Viedemerde
-@@||viedemerde.fr/advertisement.js
 viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 viedemerde.fr##a[onclick^="ZeroPub."]
 viedemerde.fr##div[data-placeholder] > a[onclick$="(false);"] > img
@@ -4757,16 +4756,13 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
 @@||ccmbenchmark.com^$~third-party
-@@||cdclicks.com/advertisement.js
 @@||cdn-static.liverail.com/crossdomain.xml$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
 @@||cdn.teads.tv/js/all-$script,domain=telechargement.zebulon.fr
-@@||chine-informations.com/javascript/advertisement.js
 @@||clic.reussissonsensemble.fr/click*.asp$domain=forfait-mobile-moins-cher.com
 @@||client.iraiser.eu/adserver/
 @@||clk.tradedoubler.com/click?p=$subdocument,domain=vshop.fr
 @@||commentcamarche.net/*?keyword=$script,domain=commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
-@@||concours-du-net.com/js/advertisement.js
 @@||costacroisieres.fr/B2C/SharedResources/js/popunder.js
 @@||cstatic.weborama.fr/js/advertiser/wbo_performance.js$domain=pmu.fr
 @@||daily-*.fr/images/*///pages/*_300x250.png
@@ -4787,7 +4783,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||ebayrtm.com/rtm?RtmPreviewContent&$subdocument,domain=www.befr.ebay.be
 @@||eburlet.com^$script,~third-party
 @@||everlong.org/style/banner.php
-@@||evilox.com/includes/js/advertisement.js
 @@||fatherandsons.fr^*/opecom/affiliation/
 @@||flugubluc.com^$script,~third-party
 @@||forum-auto.com/xiti2/xtcore.js
@@ -4830,9 +4825,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||lesinrocks.com/wp-content/plugins/minifier/min/?f=$script
 @@||libs.iraiser.eu/users/ffc/Header-pagededon.jpg
 @@||m2radio.fr/include/player/flash.swf?$domain=~live.m2stream.fr
-@@||m6replay.fr/js/advertisement.js
 @@||mac4ever.com/min.php?$script
-@@||maghrebspace.net/js/advertisement.js
 @@||malakoffmederic.com/entreprise/*/affiliation/
 @@||malekal.com/ads/ads_php/banner.js
 @@||manga-news.com/public/banners/slide-
@@ -4883,7 +4876,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||rutimone.com^$script,~third-party
 @@||s0.2mdn.net/instream/video/client.js$domain=jeu.info
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
-@@||s1.libe.com/newsite/js/advertisement.js
 @@||sceno.fr/apps/1_static/ads/explain.png
 @@||serrurier-menuisier-31-ad2.fr^$~third-party
 @@||serrurier-menuisier-31-ad2.site-privilege.pagesjaunes.fr^$image,third-party
@@ -4891,19 +4883,14 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||sofoot.com/good/adsense.js?
 @@||soutenir.apprentis-auteuil.org/adserver2/$image,script,stylesheet
 @@||startertv.fr/images/v2/bg_topbody_startertv.jpg
-@@||static.programme.tv/bundles/*/js/advertisement.js
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||static.touraineverte.com/banners/$image
 @@||stcwbd.com/ads/plugins/jwplayer/player.swf$domain=eurosport.fr|ozap.com|purepeople.com|puretrend.com
 @@||stickyads.adswizz.com/www/components/videocomponent.swf$object-subrequest,domain=cherie25.fr|nrj.fr|nrj12.fr|rireetchansons.fr
 @@||stickyadstv.com/www/components/VideoComponent.swf
-@@||streaming-french-dvdrip.com/templates/sfdcom/js/advertisement.js
 @@||syndication.exoclick.com/ads.php?type=468x60&$script,domain=maxdebrideur.com
 @@||toshiba.fr/innovation/download_drivers_bios.jsp?
 @@||tradedoubler.com^$domain=emv3.com|teads.fr
-@@||turbo.fr/js/advertisement.js
-@@||tuto4you.fr/wp-includes/advertisement.js
-@@||undernews.fr^*/scripts/advertisement.js
 @@||vbs-ads.s3.amazonaws.com^$domain=premiere.fr
 @@||viamichelin.be/static/advert/$script
 @@||viamichelin.ch/static/advert/$script
@@ -5004,6 +4991,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@.png#$image,domain=ebookdz.com
 @@/adblk.js?ad_type=$script,third-party
 @@/adscript.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
+@@/advertisement.js$domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|dramapassion.com|easybillets.com|evilox.com/includes|funeralforamanga.fr|gamersconnexion.com|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/check.js?$script,third-party
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
 @@|http://$script,domain=dpstream.net
@@ -5021,9 +5009,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||bizhentai.com/*.js|$script,third-party
 @@||c.ad6media.fr/l.js$domain=eternitygames.org|fan-de-cinema.com|fit.sh|programmes-cinema.com
 @@||carf-rubgy.fr/styles/ads.css
-@@||cdnfiles.e-wok.tv/js/advertisement.js
-@@||chats-perdus.net/advertisement.js
-@@||chiens-perdus.net/advertisement.js
 @@||cpagrip.com/script_include.php?
 @@||d.adxcore.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||ddlfr.org/cdn-cgi/pe/bag2?*serve.popads.net%2FcheckInventory.php$xmlhttprequest,domain=ddlfr.org
@@ -5031,12 +5016,8 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||domain.com/ads.html$subdocument
 @@||doubleclick.net/favicon.ico$image
 @@||doubleverify.com^$domain=kissanime.com
-@@||dramapassion.com/js/advertisement.js
-@@||easybillets.com/js/advertisement.js
 @@||esprit-click.com/*.js|$script,third-party
 @@||folihentai.eu/*.js|$script,third-party
-@@||funeralforamanga.fr/js/advertisement.js
-@@||gamersconnexion.com/js/advertisement.js
 @@||gamingroom.tv/static/img/advert.png?
 @@||googleads.g.doubleclick.net/pagead/ads?$object-subrequest,domain=jeux-fille-gratuit.com|mahjonggratuit.fr
 @@||gowonda.com^$image,~third-party
@@ -5044,14 +5025,10 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||iscoolcdn.com/versioned/prod/bundles/iscoolkitchen/adblock/advertisement.
 @@||item-voyage.fr/ads.css
 @@||jeux-geographiques.com/js/adblock_detector.js
-@@||kpopfm.fr/lib/js/advertisement.js
 @@||lafansubresistance.biz^$script,domain=lafansubresistance.biz
-@@||leveldown.fr/dist/js/advertisement.js?
 @@||lien-torrent.com/addrating.php?
 @@||lien-torrent.com/pubs/affiche.php?f=lecteurpub
 @@||matchendirect.fr/html_include/js/publicite-adblocktest.js$script
-@@||mega-exclue.com/advertisement.js
-@@||mega-exclue.com^*/unblock/blockBlock/advertisement.js
 @@||meteomedia.com/common/js/master/adframe.js
 @@||mondebrideur.com/js/advert.js
 @@||numerama.com/blockadblock.js$script
@@ -5078,7 +5055,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||sascdn.com/diff/js/smart.js$domain=femmeactuelle.fr
 @@||scan-manga.com^$stylesheet
 @@||scan-manga.fr^$stylesheet
-@@||slip.madmoizelle.com/advertisement.js?
 @@||smartadserver.com/call/pubj/$object-subrequest,domain=ecranlarge.com
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|ecranlarge.com|itele.fr|player.canalplus.fr|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|deezer.com|portail.free.fr
@@ -5090,7 +5066,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||veedi.com/player/js/ads/advert.js
 @@||venez.fr/js/advert.js
-@@||videozix.com/jw/advertisement.js
 @@||wakfu-world.com/tools/show_ads.js
 @@||www.smartadserver.com/config.js?$script,domain=manga-sanctuary.com
 @@||zagaz.com/img/blogads.css
