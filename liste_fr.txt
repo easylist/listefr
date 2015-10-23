@@ -2730,6 +2730,15 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ||files.macg.co/macgupload/$image
 ||macg.co/*/scripts/pub/getEbay_
 ||refurbgeneration.com/*/getEbay.
+! foot01.com
+@@||live.foot01.com/refresh-live.php$xmlhttprequest
+@@||www.foot01.com/coupe-d-europe/ligue-des-champions/filinfo,25.txt$~third-party,xmlhttprequest
+@@||www.foot01.com/enetpulse/widget.txt$~third-party,xmlhttprequest
+@@||www.foot01.com/last_post_date.txt$~third-party,xmlhttprequest
+@@||www.foot01.com/widgets/last_comments/widget,7.txt$~third-party,xmlhttprequest
+@@||www.foot01.com^*/filinfo,$~third-party,xmlhttprequest
+@@||www.foot01.com^*_mce.js$xmlhttprequest
+||foot01.com^$xmlhttprequest,domain=www.foot01.com
 ! Anti-Adblock
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 /ad-blocking-detector/*
@@ -5001,15 +5010,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ! ville-ideale.com
 @@||notre-planete.info/medias/pub_300x250.png
 @@||pagead2.googlesyndication.com/pagead/js/*/expansion_embed.js$domain=ville-ideale.com
-! foot01.com
-@@||live.foot01.com/refresh-live.php$xmlhttprequest
-@@||www.foot01.com/coupe-d-europe/ligue-des-champions/filinfo,25.txt$~third-party,xmlhttprequest
-@@||www.foot01.com/enetpulse/widget.txt$~third-party,xmlhttprequest
-@@||www.foot01.com/last_post_date.txt$~third-party,xmlhttprequest
-@@||www.foot01.com/widgets/last_comments/widget,7.txt$~third-party,xmlhttprequest
-@@||www.foot01.com^*/filinfo,$~third-party,xmlhttprequest
-@@||www.foot01.com^*_mce.js$xmlhttprequest
-||foot01.com^$xmlhttprequest,domain=www.foot01.com
 ! Adunblock
 ||accomplir.science^$third-party
 ||accorder.science^$third-party
