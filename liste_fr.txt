@@ -4774,7 +4774,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||clic.reussissonsensemble.fr/click*.asp$domain=forfait-mobile-moins-cher.com
 @@||client.iraiser.eu/adserver/
 @@||clk.tradedoubler.com/click?p=$subdocument,domain=vshop.fr
-@@||commentcamarche.net/*?keyword=$script,domain=commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||costacroisieres.fr/B2C/SharedResources/js/popunder.js
 @@||cstatic.weborama.fr/js/advertiser/wbo_performance.js$domain=pmu.fr
 @@||daily-*.fr/images/*///pages/*_300x250.png
@@ -4935,8 +4934,10 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 ! ligatus.com
 @@||a.ligatus.com/?$script,domain=bfmtv.com
 @@||a.ligatus.com/?ids=*&t=js$script,domain=lachainemeteo.com
+@@||commentcamarche.net/*?keyword=$script,domain=commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||i.ligatus.com/corporate-resources/adProtect/detection.js$xmlhttprequest
 @@||i.ligatus.com/fr-placements/containers/metrofrance/metrofrance/tc-2-step.js$domain=metronews.fr
+||r.ccmbg.com^
 !
 !----------------------- Exceptions d'éléments -----------------------!
 !
