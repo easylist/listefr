@@ -4338,7 +4338,7 @@ gizmodo.fr##.small.element
 nextinpact.com##.small_article_bp_section
 boursorama.com##.smart
 slappyto.net##.sonicprice
-forumconstruire.com##.sospon_contener
+forumconstruire.com,forumpiscine.com##.sospon_contener
 nouvelobs.com##.spectacles
 spi0n.com##.spion_single_pub
 lagazettedescommunes.com##.spons
@@ -4394,7 +4394,7 @@ tomsguide.fr##.zoneTriple
 tsa-algerie.com##.zone_annonceurs
 lepetiteconomiste.com##.zoom
 lefigaro.fr##.zoom-widget-react
-forumconstruire.com##:first-child + .postbox_forum.table1_post_box
+forumconstruire.com,forumpiscine.com##:first-child + .postbox_forum.table1_post_box
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 dpstream.net##[class$="_plugin_top"]
 amazon.fr##[class*="-advertising-"]
@@ -4407,7 +4407,7 @@ aujourdhui-en-france.fr,leparisien.fr##[id^="Ads_"]
 allocine.fr##[id^="adClickCommand"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 boursorama.com##[style="width: 1000px; margin: 0px auto; min-width: 0px; min-height: 90px; display: block;"]
-forumconstruire.com##[style="width:350px;cursor:pointer;padding:15px"]
+forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding:15px"]
 cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
@@ -4516,6 +4516,7 @@ dzsat.org##a[href^="http://www.dzsat.org/forum/rbs_banner.php?"]
 gizmodo.fr##a[href^="http://www.ebuyclub.com/operations/gizmodo/entreeGizmodo.jsp?"]
 extreme-down.org##a[href^="http://www.extreme-down.org/redir.html?redirect_link="]
 forumconstruire.com##a[href^="http://www.forumconstruire.com/torm3/click.php?"]
+forumpiscine.com##a[href^="http://www.forumpiscine.com/torm3/click.php?"]
 hinata-online-community.fr##a[href^="http://www.ggcorp.me/ld_register?"]
 guide-piscine.fr##a[href^="http://www.guide-piscine.fr/scripts/gp_div_clic.php?"]
 9rayti.com##a[href^="http://www.ilycee.com/?utm_source="]
