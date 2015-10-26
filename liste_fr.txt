@@ -232,6 +232,7 @@ _Social-Advert-
 &adcid=$popup
 &adtv=*_bnmngr_$popup
 &bann=$popup
+/?ptn=pubdirecte&$popup
 /a4u_banner_.$popup
 /adcint/*$popup
 /ads?key=$popup
@@ -718,6 +719,7 @@ _adb_728x90_$popup
 ||supravideos.com^$third-party
 ||surfactif.fr^$third-party
 ||sushis.kim^$third-party
+||sydtrack.me^$third-party
 ||t4b.tv^$third-party
 ||tagnwin.com^$third-party
 ||tbvid.com^$third-party
@@ -821,6 +823,7 @@ _adb_728x90_$popup
 ||gestionpub.com^$popup,third-party
 ||getgamers.eu^$popup,third-party
 ||getlinksinaseconds.com^$popup,third-party
+||goo.gl^$image,domain=teramixer.com
 ||goyavelab.com^$popup,third-party
 ||hopdream.com^$popup,third-party
 ||humourgratuit.me^$popup,third-party
@@ -830,6 +833,7 @@ _adb_728x90_$popup
 ||livechatdates.com^$popup,third-party
 ||marsads.com^$popup,third-party
 ||medncom.com^$popup,third-party
+||mes-meilleurs-films.fr^$popup,third-party
 ||monetizemytraffic.com^$popup,third-party
 ||multiupload.com^$popup,third-party
 ||neigh.info^$popup,third-party
@@ -4320,6 +4324,7 @@ la-musique-rai.com##.rowa
 lol89.com##.s-300
 europe1.fr##.s-partenaires
 phpsources.org##.sample-lst
+dpstream.net##.sbtv_container
 bakchich.info##.scpe-pub
 sports.fr##.service.a[data-link$="\", \"target\":\"_blank\" \7d "]
 jeuxetcompagnie.fr##.sg-formulaire
