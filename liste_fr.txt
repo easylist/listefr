@@ -4402,7 +4402,7 @@ tomsguide.fr##.zoneTriple
 tsa-algerie.com##.zone_annonceurs
 lepetiteconomiste.com##.zoom
 lefigaro.fr##.zoom-widget-react
-forumconstruire.com,forumpiscine.com##:first-child + .postbox_forum.table1_post_box
+forumpiscine.com##:first-child + .postbox_forum.table1_post_box
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 dpstream.net##[class$="_plugin_top"]
 amazon.fr##[class*="-advertising-"]
@@ -4584,6 +4584,7 @@ lefigaro.fr##div[data-footer-label="Service Partenaire"]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
 actufoot.fr,livefootball.fr,mercato.fr##div[id^="ad6b_"]
 gratuitcul.com##div[id^="affidate_form_"]
+forumconstruire.com##div[id^="bloc_discussion_"] > :first-child + div
 melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,meltyxtrem.fr##div[id^="container_A2_"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr,~sport.francetv.fr##div[id^="eShowPub"]
 audiofanzine.com##div[id^="lbr"]
