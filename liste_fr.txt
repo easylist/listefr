@@ -4948,12 +4948,12 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||tracking.veoxa.com/click/banner?$subdocument,domain=track.radins.com
 !
 ! ligatus.com
+##div[id^="lig_benchmark_"] + style + div
 @@||a.ligatus.com/?$script,domain=bfmtv.com
 @@||a.ligatus.com/?ids=*&t=js$script,domain=lachainemeteo.com
 @@||commentcamarche.net/*?keyword=$script,domain=commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||i.ligatus.com/corporate-resources/adProtect/detection.js$xmlhttprequest
 @@||i.ligatus.com/fr-placements/containers/metrofrance/metrofrance/tc-2-step.js$domain=metronews.fr
-||r.ccmbg.com^
 !
 !----------------------- Exceptions d'éléments -----------------------!
 !
