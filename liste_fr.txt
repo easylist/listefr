@@ -5497,6 +5497,8 @@ pcastuces.com##div[style="display: block; min-height: 120px; background-color: r
 !
 ###popplugin
 ##.popplugin
+##button#completionButton.btn-lg.btn-info:first-child
+##button#offer_launch.btn-success.actionButton:first-child
 .html?transformPubId=$popup
 /?version=*&campid=*&prefix=
 /apu.php?*&popunder=$popup
