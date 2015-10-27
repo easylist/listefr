@@ -2729,6 +2729,7 @@ _adb_728x90_$popup
 ?runauction=*?crr=*&ctbust=$popup
 ! Viedemerde
 @@||media.viedemerde.fr/fmylife/data/fr/membres/mid/$image
+@@||media.viedemerde.fr/fmylife/data/fr/membres/original/$image
 viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 viedemerde.fr##a[onclick^="ZeroPub."]
 viedemerde.fr##div[data-placeholder] > a[onclick$="(false);"] > img
@@ -2738,6 +2739,7 @@ viedemerde.fr##div[data-placeholder] > a[onclick$="(false);"] > img
 |http://*.viedemerde.fr/*/*5*5*5*5$image
 ||back.viedemerde.fr^
 ||mezuzoth.viedemerde.fr^
+||unscrupulousnesses.viedemerde.fr^
 ||viedemerde.fr/oxidizer
 ||viedemerde.fr^*/728/90$image
 ! MacGeneration
