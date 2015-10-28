@@ -4788,7 +4788,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||banners.oxiads.fr/player/
 @@||beaute-test.com/global/ads.js
 @@||beead.fr^$domain=doc-etudiant.fr|ouifm.fr|play.nrj.fr|radiofg.com|radioneo.org|replay.fr|rfm.fr|virginradio.fr|wakanim.tv
-@@||beuragio.com^$script,~third-party
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
 @@||blog.lemonde.fr/files/
 @@||blogdumac.com/pub/images/footer-bdm_02.png
@@ -4801,7 +4800,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||clic.reussissonsensemble.fr/click*.asp$domain=forfait-mobile-moins-cher.com
 @@||client.iraiser.eu/adserver/
 @@||clk.tradedoubler.com/click?p=$subdocument,domain=vshop.fr
-@@||conticant.com^$script,~third-party
 @@||costacroisieres.fr/B2C/SharedResources/js/popunder.js
 @@||cstatic.weborama.fr/js/advertiser/wbo_performance.js$domain=pmu.fr
 @@||daily-*.fr/images/*///pages/*_300x250.png
@@ -4820,23 +4818,16 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
 @@||ebayrtm.com/rtm?RtmCmd&a=json&p=$script,domain=www.befr.ebay.be
 @@||ebayrtm.com/rtm?RtmPreviewContent&$subdocument,domain=www.befr.ebay.be
-@@||eburlet.com^$script,~third-party
-@@||eparticon.com^$script,~third-party
 @@||everlong.org/style/banner.php
 @@||fatherandsons.fr^*/opecom/affiliation/
-@@||flugubluc.com^$script,~third-party
 @@||forum-auto.com/xiti2/xtcore.js
 @@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
 @@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||gameart.eu/medias/files/ad-top.$stylesheet
-@@||garupiti.com^$script,~third-party
 @@||geekdefrance.fr/wp-content/themes/interiorzine/ads/top_
-@@||gepotacet.com ^$script,~third-party
-@@||gepotacet.com^$script,~third-party
 @@||gironde.fr/css/csspacker.jsp?css=$stylesheet
-@@||golutica.com^$script,~third-party
 @@||good-deals.lu/Content/Styles/AdFrame.css
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.fr
 @@||google.com/adsense/$subdocument,domain=sedo.fr
@@ -4859,7 +4850,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||jeuxvideo.com/js/adblock.js
 @@||jheberg.net/js/*_advertisement.js
 @@||kapaza.be/*/ad_view_
-@@||katucet.com^$script,~third-party
 @@||koifaire.com/upload/*/300x250-
 @@||lacanausurfinfo.com/admin/images/pubs/pub_18.png
 @@||lesinrocks.com/min/?f=wp-content/themes/lesinrocks_theme/js/lib/jquery-$script
@@ -4914,7 +4904,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||rockman.fr/Ads/$image
 @@||roipub.com/image3/$image,~third-party
 @@||roipub.com/images/$image,~third-party
-@@||rutimone.com^$script,~third-party
 @@||s0.2mdn.net/instream/video/client.js$domain=jeu.info
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||sceno.fr/apps/1_static/ads/explain.png
@@ -4961,6 +4950,18 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||tracking.publicidees.com/clic.php?$subdocument,domain=track.radins.com
 @@||tracking.veoxa.com/click/banner?$subdocument,domain=track.radins.com
 !
+! goyavelab.com
+@@||beuragio.com^$script,~third-party
+@@||conticant.com^$script,~third-party
+@@||eburlet.com^$script,~third-party
+@@||eparticon.com^$script,~third-party
+@@||flugubluc.com^$script,~third-party
+@@||garupiti.com^$script,~third-party
+@@||gepotacet.com ^$script,~third-party
+@@||gepotacet.com^$script,~third-party
+@@||golutica.com^$script,~third-party
+@@||katucet.com^$script,~third-party
+@@||rutimone.com^$script,~third-party
 ! ligatus.com
 ##div[id^="lig_benchmark_"] + style + div
 @@||a.ligatus.com/?$script,domain=bfmtv.com
