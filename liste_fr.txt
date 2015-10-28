@@ -185,6 +185,7 @@
 /xbanner.js?
 /XnewadsX/*
 ://adspaces.
+://adyoulike.
 ://bannieres.$third-party
 ://regie.$third-party
 ://soads.
@@ -900,6 +901,7 @@ _adb_728x90_$popup
 ||abc-netmarketing.com/*/L160xH600_
 ||abcdelaremuneration.com/banniere.gif
 ||abcdelaremuneration.com/bouton.gif
+||abo.prismamediadigital.com^
 ||achatventepagefan.com/images/AVPF_
 ||achatventepagefan.com^*/banachat*.gif$third-party
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
@@ -1180,6 +1182,7 @@ _adb_728x90_$popup
 ||likeplus.fr/_style/_images/_lang/_*/468.png
 ||linkbucks.com^$popup,domain=extreme-down.com
 ||live-medias.net/button.php?
+||live.prismamediadigital.com^
 ||livecareer.fr^$popup,domain=pole-emploi.fr
 ||localbitcoins.com/affiliate-
 ||logic-immo.be/embed/new-static-search.php5
@@ -3761,6 +3764,7 @@ gladplayer.com,paygladplayer.com,pgflow.com,playglad.com###pg_banproll
 topanalyse.com###pid_f
 silicon.fr###plugin-include-php-3
 silicon.fr###plugin-include-php-32
+cuisineactuelle.fr###pmd300x600
 grazia.fr###popin
 clicbienetre.com###popup
 logitheque.com###popupMsg
@@ -4146,6 +4150,7 @@ boursorama.com##.injected.block
 zoomdici.fr##.innerArtAdd
 youscribe.com##.interpage
 bienpublic.com##.iookaz
+cuisineactuelle.fr##.item-ad-header
 jeuxactu.com##.jablockpub
 idf1.fr##.jcarousel
 journaldugeek.com##.jdg-recommend
@@ -4261,7 +4266,7 @@ pornofrance.org##.promomenu
 meteosun.com##.promote_large
 ouedkniss.com##.ptipana
 cdiscount.com##.ptnlnk_table
-abrutis.com,ados.fr,agoravox.fr,agoravox.tv,ajaccio365.fr,annuaire-streaming.com,bhmag.fr,brest365.fr,cciaf.org,centerblog.net,commentreparer.com,deezer.com,fan-de-cinema.com,footafrica365.fr,football365.fr,forums-fec.be,frandroid.com,ginjfo.com,hentai-3x.com,lacapitale.be,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lepoint.fr,lesdebiles.com,lesoir.be,lexpress.fr,liensporno.com,lorient365.fr,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,mercato365.com,mini-games.fr,multixa.net,nantes365.fr,nice365.fr,nordeclair.be,over-blog.com,paris365.fr,programme.tv,radioclassique.fr,reims365.fr,sfr.fr,slate.fr,sochaux365.fr,sofoot.com,soonnight.com,stetienne365.fr,telequebec.tv,troyes365.fr,valenciennes365.fr,wawacity.su,web-tricheur.net,yabiladi.com,zupimages.net##.pub
+abrutis.com,ados.fr,agoravox.fr,agoravox.tv,ajaccio365.fr,annuaire-streaming.com,bhmag.fr,brest365.fr,cciaf.org,centerblog.net,commentreparer.com,cuisineactuelle.fr,deezer.com,fan-de-cinema.com,footafrica365.fr,football365.fr,forums-fec.be,frandroid.com,ginjfo.com,hentai-3x.com,lacapitale.be,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lepoint.fr,lesdebiles.com,lesoir.be,lexpress.fr,liensporno.com,lorient365.fr,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,mercato365.com,mini-games.fr,multixa.net,nantes365.fr,nice365.fr,nordeclair.be,over-blog.com,paris365.fr,programme.tv,radioclassique.fr,reims365.fr,sfr.fr,slate.fr,sochaux365.fr,sofoot.com,soonnight.com,stetienne365.fr,telequebec.tv,troyes365.fr,valenciennes365.fr,wawacity.su,web-tricheur.net,yabiladi.com,zupimages.net##.pub
 basketusa.com##.pub-1000x90-top
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
@@ -5036,7 +5041,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@.png#$image,domain=ebookdz.com
 @@/adblk.js?ad_type=$script,third-party
 @@/adscript.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
-@@/advertisement.js$domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|dramapassion.com|easybillets.com|evilox.com/includes|funeralforamanga.fr|gamersconnexion.com|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
+@@/advertisement.js$domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|dramapassion.com|easybillets.com|evilox.com/includes|funeralforamanga.fr|gamersconnexion.com|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/check.js?$script,third-party
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
 @@|http://$script,domain=dpstream.net
@@ -5079,8 +5084,8 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||numerama.com/blockadblock.js$script
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=ot-boutique.fr|pcastuces.com|slideplayer.fr|vide-greniers.org
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bricozone.fr|leetgamerz.net|slideplayer.fr|vide-greniers.org
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=cuisineactuelle.fr|ot-boutique.fr|pcastuces.com|slideplayer.fr|vide-greniers.org
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bricozone.fr|cuisineactuelle.fr|leetgamerz.net|slideplayer.fr|vide-greniers.org
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=replay.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=automobile-sportive.com|ot-boutique.fr|pcastuces.com|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pub-config/ca-pub-*.js$domain=bricozone.fr
