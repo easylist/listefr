@@ -85,6 +85,8 @@
 /ar/ads/*
 /ara/ads/*
 /ban160.js
+/ban300.js
+/ban728.js
 /banads/*
 /bandeaupublicite/*
 /banner/*/sponsored?
@@ -179,6 +181,7 @@
 /script/pop.php?id=*&ref=
 /sdk-ads.
 /sdk-ads/*
+/show_adv.
 /ttn_adspaces
 /widgets-zoom-annonce-shopping.
 /widgets-zoom-mytravelchic.
@@ -549,6 +552,7 @@ _adb_728x90_$popup
 ||journaux-du-midi.com^$third-party
 ||kadoywww.xyz^$third-party
 ||kadserver.com^$third-party
+||kinkypeepz.com^$third-party
 ||koodoo.net^$third-party
 ||kreaffiliation.com^$third-party
 ||lapindespres.com^$third-party
@@ -628,6 +632,7 @@ _adb_728x90_$popup
 ||payglad.com^$third-party
 ||paygladplayer.com^$third-party
 ||pgflow.com^$third-party
+||phuc.cc^$third-party
 ||physoi.eu^$third-party
 ||piximedia.com^$third-party
 ||piximedia.fr^$third-party
@@ -741,6 +746,7 @@ _adb_728x90_$popup
 ||tr553.com^$third-party
 ||track2cash.com^$third-party
 ||trackor.net^$third-party
+||traffdaq.com^$third-party
 ||trafficrevmaster.com^$third-party
 ||trafficxbiz.com^$third-party
 ||trafic-booster.biz^$third-party
@@ -812,6 +818,7 @@ _adb_728x90_$popup
 ||affiliwix.com^$popup,third-party
 ||all2lnk.com^$popup,third-party
 ||arabysouq.com^$popup,third-party
+||bwinpartypartners.com^$popup,third-party
 ||cityads.com^$popup,third-party
 ||cityadspix.com^$popup,third-party
 ||clickadu.com^$popup,third-party
@@ -851,6 +858,7 @@ _adb_728x90_$popup
 ||promo.voyance-web.fr^$popup,third-party
 ||promotions.djummer.com^$popup,third-party
 ||publicidees.com^$popup,third-party
+||reflexcash.com^$popup,third-party
 ||regie3digital.com^$popup,third-party
 ||rev2pub.com^$popup,third-party
 ||rvfrm2005.com^$popup,third-party
@@ -1393,6 +1401,7 @@ _adb_728x90_$popup
 ||t5hkmjkmhfae.com^
 ||tac2.xcams.com/livecams/$third-party
 ||tagbox.fr/banner/
+||tech2648159.ru^
 ||techbeat.com/wp-content/custom-php/tbrecentposts3.php?
 ||technologiesaintjoseph.com/addon/script/*?integration=$third-party
 ||teen-passion.net/annuaire/ban/$third-party
@@ -2930,6 +2939,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ###pave_pub
 ###pavepub
 ###play-advert
+###pre-ad
 ###pub-200x197
 ###pub-300x250
 ###pub-468x60
