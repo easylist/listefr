@@ -30,6 +30,7 @@
 .ma/ads/
 .ma/ads_
 .php?*&zoneid=
+.php?banner=$subdocument
 .pub-ban-
 .pubdirecte.$domain=~pubdirecte.com
 .publicite.
@@ -385,6 +386,7 @@ _adb_728x90_$popup
 ||allo-audience.fr^$third-party
 ||alloclick.com^$third-party
 ||allovisiteur.com^$third-party
+||anymad.com^$third-party
 ||appsfire.com^$third-party
 ||ar-ads.com^$third-party
 ||ar-ads.net^$third-party
@@ -452,6 +454,7 @@ _adb_728x90_$popup
 ||ctpsrv.com^$third-party
 ||ctx-traffic.com^$third-party
 ||cubicleoffers.com^$third-party
+||cufcw.com^$third-party
 ||cyberflirt.fr^$third-party
 ||dailyofferservice.com^$third-party
 ||danstonfion.com^$third-party
@@ -775,11 +778,13 @@ _adb_728x90_$popup
 ||wineuroptp.fr^$third-party
 ||wslinx.com^$third-party
 ||wwwbrassier.website^$third-party
+||wydpt.com^$third-party
 ||x.porn.fr^$third-party
 ||xaddad.com^$third-party
 ||xaxa.in^$third-party
 ||xfactact.com^$third-party
 ||xfreeservice.com^$third-party
+||xiepl.com^$third-party
 ||xponsor.com^$third-party
 ||y-ads.net^$third-party
 ||yban.fr^$third-party
@@ -850,6 +855,7 @@ _adb_728x90_$popup
 ||rev2pub.com^$popup,third-party
 ||rvfrm2005.com^$popup,third-party
 ||sezonlukdizi.com^$popup,third-party
+||shopstockoff.com^$popup,third-party
 ||slutroulette.com^$popup,third-party
 ||smartadserver.com^$popup,third-party
 ||spaceshipads.com^$popup,third-party
@@ -914,7 +920,9 @@ _adb_728x90_$popup
 ||aduwoc.footeo.com^
 ||aff.bstatic.com^
 ||aff.camplace.com^$popup,third-party
+||affiliation.porn.fr^
 ||affiliationcommando.com/bannieres/
+||affiliationv4.porn.fr^
 ||agence-ecofin.com/mysimple/banners/
 ||ajoutezvotrelien.com/visuel46.png
 ||algeriemobiles.com/pub/
