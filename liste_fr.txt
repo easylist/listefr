@@ -1041,6 +1041,7 @@ _adb_728x90_$popup
 ||damtours.com/static/img/damtous_tsa.jpg
 ||datahc.com/Affiliates/
 ||dds8jntxqslv.com^
+||ddsb.ovh^
 ||demo.dofusbook.net^
 ||derby-digital.com^$popup,domain=sofoot.com
 ||devisprox-media.s3-website-eu-west-1.amazonaws.com^
@@ -2790,6 +2791,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ||macg.co/*/scripts/pub/getEbay_
 ||refurbgeneration.com/*/getEbay.
 ! foot01.com
+@@||foot01.com/filinfo,*.txt$~third-party,xmlhttprequest
 @@||live.foot01.com/refresh-live.php$xmlhttprequest
 @@||www.foot01.com/coupe-d-europe/ligue-des-champions/filinfo,25.txt$~third-party,xmlhttprequest
 @@||www.foot01.com/enetpulse/widget.txt$~third-party,xmlhttprequest
@@ -2797,7 +2799,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 @@||www.foot01.com/widgets/last_comments/widget,7.txt$~third-party,xmlhttprequest
 @@||www.foot01.com^*/filinfo,$~third-party,xmlhttprequest
 @@||www.foot01.com^*_mce.js$xmlhttprequest
-||foot01.com^$xmlhttprequest,domain=www.foot01.com
+|http:$xmlhttprequest,domain=www.foot01.com
 !
 !------------------ Éléments génériques -----------------!
 !
