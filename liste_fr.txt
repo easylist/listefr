@@ -2767,19 +2767,18 @@ _adb_728x90_$popup
 ?runauction=*?crr=*&cbrandom=
 ?runauction=*?crr=*&ctbust=$popup
 ! Viedemerde
+@@||cdn6.viedemerde.fr^$~third-party
+@@||cdn7.viedemerde.fr^$~third-party
 @@||media.viedemerde.fr/fmylife/data/fr/membres/mid/$image
 @@||media.viedemerde.fr/fmylife/data/fr/membres/original/$image
+@@||media.viedemerde.fr^$~third-party
+@@||www.viedemerde.fr^$~third-party
 viedemerde.fr##.droite > .part + .part.second > div[style="position: relative;"]
 viedemerde.fr##a[onclick^="ZeroPub."]
 viedemerde.fr##div[data-placeholder] > a[onclick$="(false);"] > img
 |http://*.download^$script,xmlhttprequest,domain=viedemerde.fr
 |http://*.ovh^$script,xmlhttprequest,domain=viedemerde.fr
-|http://*.viedemerde.fr/*/*0*0*0*0$image
-|http://*.viedemerde.fr/*/*5*5*5*5$image
-||back.viedemerde.fr^
-||mezuzoth.viedemerde.fr^
-||unscrupulousnesses.viedemerde.fr^
-||viedemerde.fr/oxidizer
+||*.viedemerde.fr^
 ||viedemerde.fr^*/728/90$image
 ! MacGeneration
 macg.co###block-quicktabs-bon-plans-macg-
