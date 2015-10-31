@@ -5026,6 +5026,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||golutica.com^$script,~third-party
 @@||katucet.com^$script,~third-party
 @@||rutimone.com^$script,~third-party
+@@||veodale.com^$script,~third-party
 ! ligatus.com
 ##div[id^="lig_benchmark_"] + style + div
 @@||a.ligatus.com/?$script,domain=bfmtv.com
