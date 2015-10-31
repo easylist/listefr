@@ -130,6 +130,7 @@
 /lib/ads.
 /miniads/*
 /modules.pub.
+/newpromo.$subdocument
 /nugg.ad.
 /nugg.add.
 /openwindow.js?puurl=
@@ -314,6 +315,7 @@ _adb_728x90_$popup
 ||ad6.fr^$third-party
 ||adaccess.fr^$third-party
 ||adaraby.com^$third-party
+||addserving.com^$third-party
 ||adecolo.com^$third-party
 ||adfever.com^$third-party
 ||adinlive.com^$third-party
@@ -358,6 +360,7 @@ _adb_728x90_$popup
 ||adspoper.com^$third-party
 ||adsregieonline.com^$third-party
 ||adsrevenue.com^$third-party
+||adstract.com^$third-party
 ||adstronic.net^$third-party
 ||adsupplyads.com^$third-party
 ||adsvids.com^$third-party
@@ -373,6 +376,7 @@ _adb_728x90_$popup
 ||adverline.com^$third-party
 ||adverpub.com^$third-party
 ||adverteasy.fr^$third-party
+||adverti.fr^$third-party
 ||adverti.io^$third-party
 ||advertoly.com^$third-party
 ||advertsponsor.com^$third-party
@@ -427,6 +431,7 @@ _adb_728x90_$popup
 ||bursttraffic.net^$third-party
 ||buy-targeted-traffic.com^$third-party
 ||buzzvet.com^$third-party
+||cam4ads.com^$third-party
 ||camsympa.com^$third-party,domain=~camsympa.fr
 ||caradisiac-publicite.com^$third-party
 ||carpediem.fr^$third-party
@@ -453,6 +458,7 @@ _adb_728x90_$popup
 ||comoclic.net^$third-party
 ||congruityheterocephalus.info^$third-party
 ||connexionsafe.com^$third-party
+||contactplus.biz^$third-party
 ||contextualyield.com^$third-party
 ||coolood.biz^$third-party
 ||coosc.info^$third-party
@@ -475,6 +481,7 @@ _adb_728x90_$popup
 ||dfast.net^$third-party
 ||digidip.net^$third-party
 ||digital-metric.com^$third-party
+||direct-foot.co^$third-party
 ||directionplaisir.com^$third-party
 ||discovery-ptp.eu^$third-party
 ||dolead.com^$third-party
@@ -641,6 +648,7 @@ _adb_728x90_$popup
 ||partner.uncadeau.com^$third-party
 ||payglad.com^$third-party
 ||paygladplayer.com^$third-party
+||peritas247.info^$third-party
 ||pgflow.com^$third-party
 ||phuc.cc^$third-party
 ||physoi.eu^$third-party
@@ -665,6 +673,7 @@ _adb_728x90_$popup
 ||promo.indecentes-voisines.com^$third-party
 ||promoads.net^$third-party
 ||propadx.com^$third-party
+||prox-go.com^$third-party
 ||pub-france.com^$third-party
 ||pub-ptp.fr^$third-party
 ||pub.gdb-host.com^$third-party
@@ -758,6 +767,7 @@ _adb_728x90_$popup
 ||tr553.com^$third-party
 ||track2cash.com^$third-party
 ||trackor.net^$third-party
+||trackvoluum.com^$third-party
 ||traffdaq.com^$third-party
 ||trafficrevmaster.com^$third-party
 ||trafficxbiz.com^$third-party
@@ -831,6 +841,7 @@ _adb_728x90_$popup
 ||affiliwix.com^$popup,third-party
 ||all2lnk.com^$popup,third-party
 ||arabysouq.com^$popup,third-party
+||baise-ce-soir.com^$popup,third-party
 ||bwinpartypartners.com^$popup,third-party
 ||cityads.com^$popup,third-party
 ||cityadspix.com^$popup,third-party
@@ -838,6 +849,7 @@ _adb_728x90_$popup
 ||coolood.biz^$popup,third-party
 ||coosc.info^$popup,third-party
 ||copyop-ads.com^$popup,third-party
+||coquines-dispo.com^$popup,third-party
 ||cound.info^$popup,third-party
 ||danstonfion.com^$popup,third-party
 ||dealdunjour.com^$popup,third-party
@@ -852,6 +864,7 @@ _adb_728x90_$popup
 ||gestionpub.com^$popup,third-party
 ||getgamers.eu^$popup,third-party
 ||getlinksinaseconds.com^$popup,third-party
+||go.padsdel.com^$popup,third-party
 ||goo.gl^$image,domain=teramixer.com
 ||goyavelab.com^$popup,third-party
 ||hopdream.com^$popup,third-party
@@ -865,6 +878,7 @@ _adb_728x90_$popup
 ||mes-meilleurs-films.fr^$popup,third-party
 ||monetizemytraffic.com^$popup,third-party
 ||multiupload.com^$popup,third-party
+||mumbai-invest.email^$popup,third-party
 ||mxpopad.com^$popup,third-party
 ||myfreesoftwarehub.com^$popup,third-party
 ||neigh.info^$popup,third-party
@@ -893,6 +907,7 @@ _adb_728x90_$popup
 ||track2cash.com^$popup,third-party
 ||tracking.ecookie.fr^$popup,third-party
 ||trackor.net^$popup,third-party
+||trackvoluum.com^$popup,third-party
 ||tradeadexchange.com^$popup,third-party
 ||trafe.info^$popup,third-party
 ||trafficinvest.com^$popup,third-party
@@ -5591,6 +5606,7 @@ pcastuces.com##div[style="display: block; min-height: 120px; background-color: r
 /getfast/*.cgi?*&parameter=*&HTTP_REFERER=
 /getfast/*.cgi?*&parameter=*&HTTP_REFERER=$popup
 /gLoader.php?*&pubID=
+/lp/*.php?voluumdata=$popup
 /Redirect.eng?MediaSegmentId=*&timeZoneOffset=$popup
 ?product_name=*&filesize=*&product_title=$popup
 data:text/html,<!--*/tdownload.php?$popup
