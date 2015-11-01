@@ -240,7 +240,6 @@ _Social-Advert-
 &adcid=$popup
 &adtv=*_bnmngr_$popup
 &bann=$popup
-/?ptn=pubdirecte&$popup
 /a4u_banner_.$popup
 /adcint/*$popup
 /ads?key=$popup
@@ -257,7 +256,6 @@ _Social-Advert-
 /renderBanner.do?$popup
 /script/campagne.php?cp=$popup
 /smart_ad/*$popup
-://promo.^*?ptn=pubdirecte&$popup
 =partenariat&utm_campaign=$popup
 =pubdirecte&$popup
 ?adCampaign=$popup
@@ -332,7 +330,6 @@ _adb_728x90_$popup
 ||admized.com^$third-party
 ||admtpmp124.com^$third-party
 ||adn-performance.com^$third-party
-||adnetworkperformance.com^$third-party
 ||adnetworkus.com^$third-party
 ||adonads.com^$third-party
 ||adoptima.com^$third-party
@@ -501,7 +498,6 @@ _adb_728x90_$popup
 ||emea.pub^$third-party
 ||emportai.es^$third-party
 ||eravage.com^$third-party
-||ergoledo.com^$third-party
 ||esoterweb.com^$third-party
 ||espace-plus.net^$third-party
 ||espacephr.fr^$third-party
@@ -588,7 +584,6 @@ _adb_728x90_$popup
 ||manga-exchange.com^$third-party
 ||master-ptp.com^$third-party
 ||maxidivx.com^$third-party
-||mb8e17f12.website^$third-party
 ||media-clic.com^$third-party
 ||mediabong.com^$third-party
 ||medncom.com^$third-party
@@ -667,7 +662,6 @@ _adb_728x90_$popup
 ||pornego.com^$third-party
 ||prm-native.com^$third-party
 ||proche2moi.com^$third-party
-||proffigurufast.com^$third-party
 ||promo.alienbiz.com^$third-party
 ||promo.ezstatic.com^$third-party
 ||promo.hysteriq.com^$third-party
@@ -737,7 +731,6 @@ _adb_728x90_$popup
 ||spaceshipads.com^$third-party
 ||spb2011.com^$third-party
 ||sperse.com^$third-party
-||sponsorpay.com^$third-party
 ||sporary.eu^$third-party
 ||stickyads.tv^$third-party
 ||stigads.com^$third-party
@@ -832,7 +825,6 @@ _adb_728x90_$popup
 ||ad-center.com^$popup,third-party
 ||ad-online.biz^$popup,third-party
 ||ad6media.fr^$popup,third-party
-||adnetworkperformance.com^$popup,third-party
 ||adschemist.com^$popup,third-party
 ||adserverpub.com^$popup,third-party
 ||adventurefeeds.com^$popup,third-party
@@ -3283,7 +3275,6 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.pave-pub
 ##.pave_pub
 ##.pave_pub2
-##.pm-ad-zone
 ##.po_wads
 ##.position_pub
 ##.ppub300
@@ -4319,8 +4310,6 @@ fourchette-et-bikini.fr##.pavePub
 footballclubdemarseille.fr##.pb-sidebar-article
 seriesaddict.fr##.pbl728x90
 jeuxactu.com##.pbs
-scan-manga.com##.pib_haut
-scan-manga.com##.pib_left
 portaildusexe.com##.player-catcher
 gamergen.com##.post-google
 1001cocktails.com##.post.bg2 + * + .post.bg2
@@ -5043,7 +5032,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||eparticon.com^$script,~third-party
 @@||flugubluc.com^$script,~third-party
 @@||garupiti.com^$script,~third-party
-@@||gepotacet.com ^$script,~third-party
 @@||gepotacet.com^$script,~third-party
 @@||golutica.com^$script,~third-party
 @@||goyavelab.com/dtct.js$script
@@ -5074,7 +5062,6 @@ chantefrance.com#@##pub300x250
 chantefrance.com#@##pub728x90
 visitvar.fr#@##pubDroite
 di.com.pl#@##pub_content
-scan-manga.com#@##pub_haut
 di.com.pl#@##pub_right
 maxdebrideur.com#@##pubdirecte
 openedition.org,ot-boutique.fr#@##publicite
@@ -5128,7 +5115,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@.png#$image,domain=ebookdz.com
 @@/adblk.js?ad_type=$script,third-party
 @@/adscript.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|phonandroid.com|pixelistes.com
-@@/advertisement.js$domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|dramapassion.com|easybillets.com|evilox.com/includes|funeralforamanga.fr|gamersconnexion.com|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
+@@/advertisement.js$domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|dramapassion.com|easybillets.com|evilox.com|funeralforamanga.fr|gamersconnexion.com|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/check.js?$script,third-party
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
 @@|http://$script,domain=dpstream.net
@@ -5221,8 +5208,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 skiplimite.tv#@##ad300x250
 dbz-fantasy.com#@##adTeaser
 jetetroll.com,phonandroid.com#@##adsense
-scan-manga.com#@##ft_mpu
-scan-manga.com#@##pub_head
 debrideurstream.fr#@##pubdirecte
 retinaboys.com###screen_block
 fairytailmx.com#@##sponsored-ad
