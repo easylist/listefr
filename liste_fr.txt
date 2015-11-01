@@ -5033,6 +5033,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||tracking.veoxa.com/click/banner?$subdocument,domain=track.radins.com
 !
 ! goyavelab.com
+@@|http://*/pubad.js$script,~third-party
 @@||beuragio.com^$script,~third-party
 @@||carenvol.com^$script,~third-party
 @@||conticant.com^$script,~third-party
@@ -5047,6 +5048,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||katucet.com^$script,~third-party
 @@||portulene.com^$script,~third-party
 @@||poticale.com^$script,~third-party
+@@||resunal.com^$script,~third-party
 @@||rutimone.com^$script,~third-party
 @@||veodale.com^$script,~third-party
 ! ligatus.com
