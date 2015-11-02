@@ -5122,7 +5122,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@/check.js?$script,third-party
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
 @@|http://$script,domain=dpstream.net
-@@|http://$script,~third-party,domain=~dpstream.net
 @@|http://*.js$script,third-party,domain=jeu.fr|jeux.fr
 !
 ||nikopik.com/wp-content/themes/nikopik-wordpress-theme/assets/js/nikopik.js
