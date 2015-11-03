@@ -59,7 +59,11 @@
 /ads-ext.
 /ads-google-adsense.
 /ads-iframe-
+/ads/ad1.
+/ads/banner02.
+/ads/banner03.
 /ads?p=
+/ads?spot_id=
 /ads_90_728.
 /ads_block
 /adsdino.
@@ -516,6 +520,7 @@ _adb_728x90_$popup
 ||firstoffersfinder.com^$third-party
 ||folihentai.eu^$third-party
 ||foxserie.com^$script,third-party
+||fullon.tv^$third-party
 ||gagner-une-console.com^$third-party
 ||gambling-france.com^$third-party
 ||gamingaffiliation.com^$third-party
@@ -601,6 +606,7 @@ _adb_728x90_$popup
 ||moneytize.fr^$third-party
 ||motorsregie.com^$third-party
 ||moxielinks.com^$third-party
+||mtagmonetizationc.com^$third-party
 ||mumbai-invest.email^$third-party
 ||mxpopad.com^$third-party
 ||myserv4.com^$third-party
@@ -859,7 +865,9 @@ _adb_728x90_$popup
 ||getlinksinaseconds.com^$popup,third-party
 ||go.padsdel.com^$popup,third-party
 ||goo.gl^$image,domain=teramixer.com
+||gowl.info^$popup,third-party
 ||goyavelab.com^$popup,third-party
+||guqu.info^$popup,third-party
 ||hopdream.com^$popup,third-party
 ||humourgratuit.me^$popup,third-party
 ||idhad.com^$popup,third-party
