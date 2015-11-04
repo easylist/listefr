@@ -5029,12 +5029,12 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||berlenati.com^$script,~third-party
 @@||berolistac.com^$script,~third-party
 @@||beuragio.com^$script,~third-party
-@@||camaliver.com^$image,script,~third-party
+@@||camaliver.com^$image,~third-party
 @@||capocitera.com^$script,~third-party
 @@||carenvol.com^$script,~third-party
 @@||conticant.com^$script,~third-party
 @@||cripunes.com^$script,~third-party
-@@||delobigeran.com^$image,script,~third-party
+@@||delobigeran.com^$image,~third-party
 @@||desoblito.com^$script,~third-party
 @@||eburlet.com^$script,~third-party
 @@||eparticon.com^$script,~third-party
@@ -5042,6 +5042,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||garupiti.com^$script,~third-party
 @@||gepotacet.com^$script,~third-party
 @@||golutica.com^$script,~third-party
+@@||goraminet.com^$image,~third-party
 @@||goyavelab.com/dtct.js$script
 @@||infojeu.com^$script,~third-party
 @@||katucet.com^$script,~third-party
