@@ -555,7 +555,6 @@ _adb_728x90_$popup
 ||illyx.com^$third-party
 ||imediastreams.com^$third-party
 ||imgpromo.easyrencontre.com^$third-party
-||infojeu.com^$third-party
 ||inshopr.com^$third-party
 ||intergi.com^$third-party
 ||internetpourtout.com^$third-party
@@ -2067,7 +2066,6 @@ _adb_728x90_$popup
 ||jds.fr/medias/pub/
 ||jedessine.com^*/monstermunch/
 ||jeu.auchan.fr^$popup
-||jeu.info/plus/
 ||jeu.net/js/drawpub2.js
 ||jeu.net/pub/
 ||jeune-homme-gay.com^*/u.js
@@ -4918,7 +4916,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||hostinger.fr/banners/*/hostinger-$image,~third-party
 @@||ib.adnxs.com/crossdomain.xml$object-subrequest,domain=jeux-fille-gratuit.com|mahjonggratuit.fr
 @@||ib.adnxs.com/ptv?$object-subrequest,domain=jeux-fille-gratuit.com|mahjonggratuit.fr
-@@||ib.adnxs.com/ttj?$script,domain=jeu.info
 @@||images.newmedia.lu^*/adtech_video/
 @@||info.amnesty.be/adserver2/
 @@||infos.carefrance.org/adserver2/
@@ -4984,7 +4981,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||rockman.fr/Ads/$image
 @@||roipub.com/image3/$image,~third-party
 @@||roipub.com/images/$image,~third-party
-@@||s0.2mdn.net/instream/video/client.js$domain=jeu.info
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||sceno.fr/apps/1_static/ads/explain.png
 @@||serrurier-menuisier-31-ad2.fr^$~third-party
@@ -5048,6 +5044,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||gepotacet.com^$script,~third-party
 @@||golutica.com^$script,~third-party
 @@||goyavelab.com/dtct.js$script
+@@||infojeu.com^$script,~third-party
 @@||katucet.com^$script,~third-party
 @@||mustacor.com^$script,~third-party
 @@||portulene.com^$script,~third-party
@@ -5132,7 +5129,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@/advertisement.js$domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|dramapassion.com|easybillets.com|evilox.com|funeralforamanga.fr|gamersconnexion.com|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/check.js?$script,third-party
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
-@@|http://$script,domain=dpstream.net
+@@|http://$script,domain=dpstream.net|jeu.info
 @@|http://*.js$script,third-party,domain=jeu.fr|jeux.fr
 !
 ||nikopik.com/wp-content/themes/nikopik-wordpress-theme/assets/js/nikopik.js
@@ -5244,7 +5241,6 @@ pcastuces.com##div[style="display: block; min-height: 120px; background-color: r
 @@||entrepriseindividuelle.info^$elemhide
 @@||gaara-fr.com^$elemhide
 @@||goldenmoustache.com^$elemhide
-@@||jeu.info^$elemhide
 @@||jeux-hentai.com^$elemhide
 @@||jeux-porno.net^$elemhide
 @@||minutefacile.com^$elemhide
