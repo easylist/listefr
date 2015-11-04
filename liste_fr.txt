@@ -5135,8 +5135,8 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@/advertisement.js$domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|dramapassion.com|easybillets.com|evilox.com|funeralforamanga.fr|gamersconnexion.com|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/check.js?$script,third-party
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
-@@|http://$script,domain=dpstream.net|jeu.info
 @@|http://*.js$script,third-party,domain=jeu.fr|jeux.fr
+@@||infojeu.com^$script,domain=jeu.info
 !
 ||nikopik.com/wp-content/themes/nikopik-wordpress-theme/assets/js/nikopik.js
 ||pubdirecte.com^$~collapse,domain=debrideurstream.fr
@@ -5147,7 +5147,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||adspub.net/javascript/advertisement-AdBlock.js
 @@||anime-story.com/css/advertise.css
 @@||audipassion.com^*/jsLoader.js?adType=foobar
-@@||badibadou.eu/*.js|$script,third-party
+@@||badibadou.eu/*.js?auto=$script,third-party
 @@||bizhentai.com/*.js|$script,third-party
 @@||c.ad6media.fr/l.js$domain=eternitygames.org|fan-de-cinema.com|fit.sh|programmes-cinema.com
 @@||carf-rubgy.fr/styles/ads.css
