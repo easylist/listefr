@@ -1363,6 +1363,7 @@ _adb_728x90_$popup
 ||px5thxkahvit.com^
 ||quelconstructeur.com*/tock/
 ||quellavelinge.com^$popup,domain=trefle.com
+||radiocockpit.fr/wp-content/uploads/*/tee-shirt-evacuer.jpg
 ||ranking-metrics.fr/pob/get.cgi?f=banner_
 ||readersdigest.ca/*/images/promobrick_
 ||refgratuit.fr/images/pub/
@@ -1747,7 +1748,6 @@ _adb_728x90_$popup
 ||cowcotland.com/images/habillage/$image
 ||cowcotland.com/images/sponsors/
 ||cpasbien.*/infopop/$script
-||crash-aerien.aero^*/airnews468.swf
 ||creadunet.com^*/overall_header_iframe.html
 ||credit-az.net/pub/
 ||credits-on-line.info/pub/
@@ -4791,7 +4791,6 @@ lien-torrent.com##li > a:not([href*="lien-torrent.com"]):not([href*="../"]):not(
 ici.tou.tv##li.bigBox
 filmze.com##noindex
 sinfest.net##noscript a
-crash-aerien.aero##object[width="250"][height="500"]
 bonjourmadame.fr##object[width="728"][height="90"]
 lien-torrent.com##p > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
@@ -5132,7 +5131,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 !
 @@.gif#$domain=automobile-sportive.com
 @@.jpg#$domain=dpstream.cc|naruto-mx.net
-@@.png#$domain=bbstreaming.com|dpstream.cc|dpstream.tv|leetgamerz.net|rapidebrideur.com|total-sport.tv|tout-gratuit.be
+@@.png#$domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|dpstream.tv|leetgamerz.net|rapidebrideur.com|total-sport.tv|tout-gratuit.be
 @@.png#$image,domain=ebookdz.com
 @@/adblk.js?ad_type=$script,third-party
 @@/adscript.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|phonandroid.com|pixelistes.com
@@ -5244,6 +5243,7 @@ pcastuces.com##div[style="display: block; min-height: 120px; background-color: r
 @@||2folie.com^$elemhide
 @@||annoncedesexe.com^$elemhide
 @@||bbstreaming.com^$elemhide
+@@||crash-aerien.aero^$elemhide
 @@||danslescoulisses.com^$elemhide
 @@||dpstream.cc^$elemhide
 @@||dpstream.tv^$elemhide
