@@ -4934,7 +4934,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||infos.wwf.fr/adserver2/
 @@||iphone4.fr/bannieres/header_icons.png
 @@||itespresso.fr/wp-content/themes/kamino/assets/js/advertising.js
-@@||jeuxvideo.com/js/adblock.js
 @@||jheberg.net/js/*_advertisement.js
 @@||kapaza.be/*/ad_view_
 @@||koifaire.com/upload/*/300x250-
@@ -5142,6 +5141,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@.jpg#$image,domain=dpstream.cc|naruto-mx.net
 @@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|rapidebrideur.com|total-sport.tv|tout-gratuit.be
 @@/adblk.js?ad_type=$script,third-party
+@@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adscript.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|phonandroid.com|pixelistes.com
 @@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|dramapassion.com|easybillets.com|evilox.com|funeralforamanga.fr|gamersconnexion.com|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/check.js?$script,third-party
@@ -5214,7 +5214,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||smartadserver.com/diff/$object-subrequest,domain=ecranlarge.com
 @@||static.koreus.com/js/advert.js
 @@||stream4free.eu/images/*#$~image
-@@||streaming-foot.me/js/adblock.js
 @@||tsa-algerie.com/wp-content/themes/tsa/js/ads.js$script
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||veedi.com/player/js/ads/advert.js
