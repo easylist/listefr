@@ -369,6 +369,7 @@ _adb_728x90_$popup
 ||adsvidsdouble.com^$third-party
 ||adsvidss.com^$third-party
 ||adtech.com^$third-party
+||adtify.pl^$third-party
 ||adtracking.asia^$third-party
 ||adtrafic.com^$third-party
 ||adual.net^$third-party
@@ -457,6 +458,7 @@ _adb_728x90_$popup
 ||clkmon.com^$third-party
 ||coindushopping.fr^$third-party
 ||comandclick.com^$third-party
+||comoclic.com^$third-party
 ||comoclic.net^$third-party
 ||congruityheterocephalus.info^$third-party
 ||connexionsafe.com^$third-party
@@ -528,6 +530,7 @@ _adb_728x90_$popup
 ||genhit.com^$third-party
 ||geniusinstaller.com^$third-party
 ||gestion2web.com^$third-party
+||getfile321.com^$third-party
 ||gingermedia.com^$third-party
 ||goddardcdn.es^$third-party
 ||goodaction.com^$third-party
@@ -763,7 +766,9 @@ _adb_728x90_$popup
 ||toutlinternet.com^$third-party
 ||touturf.com^$third-party
 ||tr553.com^$third-party
+||track136.com^$third-party
 ||track2cash.com^$third-party
+||track351.com^$third-party
 ||trackor.net^$third-party
 ||trackvoluum.com^$third-party
 ||traffdaq.com^$third-party
@@ -803,6 +808,7 @@ _adb_728x90_$popup
 ||widespace.com^$third-party
 ||widgetbooster.com^$third-party
 ||wineuroptp.fr^$third-party
+||work2media.com^$third-party
 ||wslinx.com^$third-party
 ||wwwbrassier.website^$third-party
 ||wydpt.com^$third-party
@@ -830,6 +836,7 @@ _adb_728x90_$popup
 ||ad-center.com^$popup,third-party
 ||ad-online.biz^$popup,third-party
 ||ad6media.fr^$popup,third-party
+||admailtiser.com^$popup,third-party
 ||adschemist.com^$popup,third-party
 ||adserverpub.com^$popup,third-party
 ||adventurefeeds.com^$popup,third-party
@@ -905,6 +912,7 @@ _adb_728x90_$popup
 ||terrapops.com^$popup,third-party
 ||the-adult-company.com^$popup,third-party
 ||track2cash.com^$popup,third-party
+||tracker.zombaio.com^$popup,third-party
 ||tracking.ecookie.fr^$popup,third-party
 ||trackor.net^$popup,third-party
 ||trackvoluum.com^$popup,third-party
@@ -1663,7 +1671,6 @@ _adb_728x90_$popup
 ||blague.info/pub/
 ||blog-nouvelles-technologies.fr/wp-content/annonceurs/
 ||blog2mature.com/273_210/
-||blogdumac.com/pub/
 ||blumei-piano.com/wp-content/themes/*/mylists.js
 ||boiteajeux.net/img/pub/
 ||boursier.com/ui/js/docs-partenaires.js
@@ -4877,7 +4884,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||beead.fr^$domain=doc-etudiant.fr|ouifm.fr|play.nrj.fr|radiofg.com|radioneo.org|replay.fr|rfm.fr|virginradio.fr|wakanim.tv
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
 @@||blog.lemonde.fr/files/
-@@||blogdumac.com/pub/images/footer-bdm_02.png
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
 @@||cdn-static.liverail.com/crossdomain.xml$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
@@ -5132,6 +5138,8 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 !-------------------------- Anti-Adblock -------------------------!
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 !
+&adbIsActive=
+&adbIsActive=$popup
 /ad-blocking-detector/*
 /antiadblockmsg.
 /blockadblock.js
