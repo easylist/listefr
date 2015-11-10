@@ -2074,6 +2074,7 @@ _adb_728x90_$popup
 ||jds.fr/medias/pub/
 ||jedessine.com^*/monstermunch/
 ||jeu.auchan.fr^$popup
+||jeu.info/js/drawpub4.js
 ||jeu.net/js/drawpub2.js
 ||jeu.net/pub/
 ||jeune-homme-gay.com^*/u.js
@@ -3910,6 +3911,7 @@ voyageforum.com###pubbetween
 orange.fr###pubdudessous
 laredoute.fr###pubiframe_sky
 paris-communiques.com,plateformemedia.com###publaterale
+jeu.info###publeft
 troc-velo.com###publine
 focus-numerique.com,japan-expo.be,lapresse.ca###pubs
 algerie360.com###pubsousVid
@@ -4091,7 +4093,9 @@ liberte-algerie.com##.bannergroup_pave
 maghrebemergent.com##.banneritem
 dvdrip-truefrench.com##.bannertop
 actu-environnement.com,chouf-chouf.com,webfrance.com##.banniere
+jeu.info##.banniere-160
 jeu.info##.banniere-336
+jeu.info##.banniere-970
 une-recette.com##.banniere1
 une-recette.com##.bannierebas
 soonnight.com##.bas_colonne
@@ -5061,6 +5065,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||eburlet.com^$script,~third-party
 @@||eparticon.com^$script,~third-party
 @@||flugubluc.com^$script,~third-party
+@@||fotusmelan.com^$image,~third-party
 @@||garupiti.com^$script,~third-party
 @@||gepotacet.com^$script,~third-party
 @@||golutica.com^$script,~third-party
