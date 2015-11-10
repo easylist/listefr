@@ -1322,6 +1322,7 @@ _adb_728x90_$popup
 ||partners.cmptch.com^
 ||partners.neteventsmedia.be^$third-party
 ||partners.pmu.fr^
+||paruvendu.fr^$subdocument,third-party
 ||passion-auto.me/pub.
 ||passion-auto.me/pub1.
 ||pepitastore.com^$domain=clubic.com
@@ -2172,6 +2173,14 @@ _adb_728x90_$popup
 ||ledemondujeu.com/pubcoin
 ||ledevoir.com/documents/image/pub/
 ||lefigaro.fr/assets-components/partenaires/
+||lefigaro.fr/com/bazachic/
+||lefigaro.fr/com/cadre-emploi/
+||lefigaro.fr/com/collectorsquare-box/
+||lefigaro.fr/com/explorimmo_loc/
+||lefigaro.fr/com/luisaviaroma/
+||lefigaro.fr/com/mytravelchic-box/
+||lefigaro.fr/com/proprietes-de-france-box/
+||lefigaro.fr/com/store/
 ||legalis.net^*/swf/pub_
 ||lejournaldelemploi.dz/images/banners/
 ||lelogicielgratuit.com/media/js/popupGenerator.min.js
@@ -3247,6 +3256,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.fig-ad
 ##.fig-ad-pave
 ##.fig-native-ads
+##.fig-wid-ads-img
 ##.flayr-ad
 ##.footer-pub
 ##.footerAdsPaves
@@ -3490,7 +3500,6 @@ amazon.fr###DAr2
 jeuxme.net###Div3
 orange.fr###EbsaVignettes
 lavoixdefrance.fr###ExpandBanner
-lefigaro.fr###Fe_Gigaban
 africanmanager.com###Layer1
 portail.free.fr###LiensPartenaires
 zonebourse.com###Middle2_id
@@ -4203,6 +4212,7 @@ fdesouche.com##.fds-rp-fullscreen-container
 humanite.fr##.field-name-bloc-pub-1ere-sidebar-contenu-3
 humanite.fr##.field-name-pub-sidebar-first-content
 lefigaro.fr##.fig-adgps
+lefigaro.fr##.fig-widget-satellite
 dvdrip-truefrench.com,filmze.com,filmze.me,fluket.com,funvideomix.org,liberty-lands.com,libertyland.tv,mesfilmsstreaming.com,moviz.net,mu-streaming.com,sky-animes.com,streamgo.net,telechargementgratuits.com,vostfr-vf.com##.fixe
 evene.fr##.fnac-spbox
 francetransactions.com##.fondcliquable
@@ -4333,7 +4343,6 @@ topsante.com##.partner-block
 youpinet.com##.partner-listing
 rtl.fr##.partner-mdl
 forumactif.com,lavenir.net##.partners
-lefigaro.fr##.pave-bg
 fourchette-et-bikini.fr##.pavePub
 footballclubdemarseille.fr##.pb-sidebar-article
 seriesaddict.fr##.pbl728x90
@@ -4360,7 +4369,6 @@ abrutis.com,ados.fr,agoravox.fr,agoravox.tv,ajaccio365.fr,annuaire-streaming.com
 basketusa.com##.pub-1000x90-top
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
-lefigaro.fr##.pub-double-bande
 millepertuis.eu##.pub-gauche-flottant
 1point2vue.com##.pub-header
 toplien.fr##.pub-index-gauche
@@ -4371,8 +4379,6 @@ yabiladi.com##.pub-read
 1point2vue.com##.pub-single-top
 01net.com##.pub-title
 horoscope.fr##.pub-transfo
-lefigaro.fr##.pub-zoom
-lefigaro.fr##.pub-zoom-react
 rueducommerce.fr##.pub1
 bladi.net,jeux-fille-gratuit.com##.pub336
 bladi.net##.pub336footer
@@ -4496,8 +4502,9 @@ rtl.be##.w-content-details-ligatus
 staractus.fr##.wallpaper-link
 slappyto.net##.webrox._300x250.centered
 lefigaro.fr##.widget-bazar_chic
-lefigaro.fr##.widget-leguide
+lefigaro.fr##.widget-le_guide
 webchoc.com##.widget-pop
+lefigaro.fr##.widget-proprietes_de_france
 blog2mature.com##.widget.widget_links
 frandroid.com##.widget.widget_text
 joueurdugrenier.fr##.widgetAmis
@@ -4696,7 +4703,6 @@ trictrac.net##div[class^="zv"]
 msn.com##div[data-aop="stripe.autos.ad_ad"]
 msn.com##div[data-aop="stripe.health.ad_ad"]
 msn.com##div[data-aop^="stripe.shopping"]
-lefigaro.fr##div[data-footer-label="Service Partenaire"]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
 actufoot.fr,livefootball.fr,mercato.fr##div[id^="ad6b_"]
 gratuitcul.com##div[id^="affidate_form_"]
@@ -4846,6 +4852,7 @@ mon-ordi.com##td[width="567"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
+||lefigaro.fr##.widget-paruvendu
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
@@ -4884,7 +4891,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||agir.planfrance.org/adserver2/
 @@||ain.fr^
 @@||ami2.com/resources/img/mysite/publicites/$image,domain=ami2.com
-@@||api.fidji.lefigaro.fr/media/_uploaded/400x250//$image
 @@||appeals.diabetes.org.uk/adserver2/
 @@||assiste.com/Assiste/media/images/Ad-Aware_$image
 @@||assiste.com^*_publicite_$image,~third-party
@@ -5138,7 +5144,6 @@ leboncoin.fr#@#.list-ads
 allocine.fr#@#.nipnadszone
 pharmasite.fr#@#.pub300
 whatpub.com#@#.pub_left
-lefigaro.fr#@#.pub_pave
 love-hinax.com#@#.publicite
 maghrebspace.net#@#.publicite_gauche
 imdb.com#@#.publicity
