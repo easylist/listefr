@@ -853,6 +853,7 @@ _adb_728x90_$popup
 ||all2lnk.com^$popup,third-party
 ||arabysouq.com^$popup,third-party
 ||baise-ce-soir.com^$popup,third-party
+||bidtrk.com^$popup,third-party
 ||bwinpartypartners.com^$popup,third-party
 ||cityads.com^$popup,third-party
 ||cityadspix.com^$popup,third-party
@@ -895,6 +896,7 @@ _adb_728x90_$popup
 ||mxpopad.com^$popup,third-party
 ||myfreesoftwarehub.com^$popup,third-party
 ||neigh.info^$popup,third-party
+||offpageads.com^$popup,third-party
 ||othip.info^$popup,third-party
 ||ouaitupeuxregarderenillimite.com^$popup,third-party
 ||pornstreet.com^$popup,third-party
@@ -4702,6 +4704,7 @@ korben.info##a[style="background:transparent; position:absolute; top:0px; left:0
 presse-citron.net##a[style="cursor:pointer; display:block; height:1600px; left:0; position:absolute; top:0; width:100%;"]
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
+forums-actifs.com##a[target="_blank"][href*=".forums-actifs.com/a?"]
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
