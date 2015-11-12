@@ -947,6 +947,7 @@ _adb_728x90_$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
+|about:blank$popup,domain=dpstream.net
 |bit.ly^$popup,domain=france-telechargement.com
 |http:$subdocument,third-party,domain=clictune.com|contextualyield.com|sa.ae
 |http://*/*0*0*0*0*0*0*0*0$script,xmlhttprequest,domain=generation-nt.com
@@ -1827,7 +1828,6 @@ _adb_728x90_$popup
 ||douniamusic.com/include/pub-
 ||douniamusic.com/InterDouniaMusic.swf
 ||downline-builder.net/diff_affich_ban.php
-||dpstream.net/?action=*&aff=$popup
 ||dpstream.net/fichiers/pub/
 ||dr0le.com/popupyous.js
 ||dsih.fr/pub/
@@ -4537,7 +4537,6 @@ lepetiteconomiste.com##.zoom
 lefigaro.fr##.zoom-widget-react
 forumpiscine.com##:first-child + .postbox_forum.table1_post_box
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
-dpstream.net##[class$="_plugin_top"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
 guide-piscine.fr##[class^="pub_"]
@@ -4767,7 +4766,6 @@ lafermeduweb.net##div[style="overflow: hidden; width: 336px; height: 280px; marg
 regarder-film-gratuit.com##div[style="padding-top:5px;float:left;width:100%;font-size:13px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:left"]
 mistergooddeal.com##div[style="padding: 8px; border: 1px solid #CCC; border-radius: 3px; position: relative; margin-top: 10px; width: 728px; height: 200px; align: center; margin-left: "]
 accentice.com##div[style="padding:5;padding-top:0;background:#fffdf7;"]
-dpstream.net##div[style="position: absolute; z-index: 9999; top: 65px; left: 170px;"]
 moviz.net##div[style="position: relative; display: block; margin-top: 0px; width: 100%; border-bottom: 1px solid rgb(0, 0, 0); height: auto; z-index: 100000; background: none repeat scroll 0% 0% rgb(255, 255, 225); line-height: 20px; font-family: Arial,Helvetica,sans-serif;"]
 egora.fr##div[style="position: relative; width: 1000px; height: 110px; z-index:10000;"]
 auto-utilitaire.com##div[style="position:relative;width:728px;height:90px;"]
