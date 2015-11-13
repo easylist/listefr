@@ -5125,9 +5125,10 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||i.ligatus.com/corporate-resources/adProtect/detection.js$xmlhttprequest
 @@||i.ligatus.com/fr-placements/containers/metrofrance/metrofrance/tc-2-step.js$domain=metronews.fr
 ! journaldunet.com
+@@||journaldunet.com/account/$xmlhttprequest,domain=journaldunet.com
 @@||journaldunet.com/index/_xhr_display_*?*=$xmlhttprequest,domain=journaldunet.com
-@@||journaldunet.com/twittbuzz/list?$xmlhttprequest
-@@||journaldunet.com^*/getLastContents?callback=$xmlhttprequest
+@@||journaldunet.com/twittbuzz/list?$xmlhttprequest,domain=journaldunet.com
+@@||journaldunet.com^*/getLastContents?callback=$xmlhttprequest,domain=journaldunet.com
 ||journaldunet.com^$~third-party,xmlhttprequest,domain=journaldunet.com
 !
 !----------------------- Exceptions d'éléments -----------------------!
