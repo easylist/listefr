@@ -156,8 +156,10 @@
 /pub.php?partnerId=
 /pub.tbl.html?
 /pub/300.
+/pub/300_top.
 /pub/728.
 /pub/728_2.
+/pub/728_top.
 /pub250.
 /pub300-250.
 /pub468.
@@ -792,6 +794,7 @@ _adb_728x90_$popup
 ||traficmax.com^$third-party
 ||twap2.com^$third-party
 ||univers-porno.com^$third-party
+||vartoken.com^$third-party
 ||vgsgaming.com^$third-party
 ||videonas.eu^$third-party
 ||videoroow.com^$third-party
@@ -1101,6 +1104,7 @@ _adb_728x90_$popup
 ||countryclic.com/ban.gif
 ||coupling.fr/widget_$third-party
 ||crankycash.com/affiliate/
+||crazyjeux.com/pub/
 ||crm-pour-pme.fr/images/copie%20de%20728-90.png
 ||crocastuce.fr/images/Boutons/
 ||cyclisme-mag.com/?specialSports$popup,domain=sports.fr
@@ -1129,6 +1133,7 @@ _adb_728x90_$popup
 ||downloading.to/static/v2/pop.min.js
 ||dracouilla.com/ban/$third-party
 ||drague.net/pubs/
+||dropboxusercontent.com/u/16447850/Baners/
 ||dukppplb.info^
 ||dzoic.com/gfx/
 ||e-cig-factory.fr/shop/bannieres/
@@ -2924,6 +2929,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ###ad-rectangle-2-dst
 ###adBoxFooter
 ###adContainerParent
+###adTOP
 ###ad_300_250_right
 ###ad_liste_bookmaker
 ###ad_marketingbanner_1_placeholder
