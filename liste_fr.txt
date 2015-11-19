@@ -94,6 +94,7 @@
 /ban300.js
 /ban728.js
 /banads/*
+/bandeau-pub-
 /bandeaupublicite/*
 /banner/*/sponsored?
 /banner720x90/?ad=
@@ -1995,6 +1996,7 @@ _adb_728x90_$popup
 ||fullxmovies.com/popunderclic.
 ||fullxmovies.com/randomthumbs*.
 ||funradio.fr^*/skin/promo/
+||fusacq.com/buzz/*/encarts/
 ||futurama-stream.eu/wp-content/uploads/2014/06/ecig.jpg
 ||gabcms.org/donnes/img/banniere_
 ||game-guide.fr/*/images/pub/
@@ -5264,6 +5266,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||doubleverify.com^$domain=kissanime.com
 @@||esprit-click.com/*.js|$script,third-party
 @@||folihentai.eu/*.js|$script,third-party
+@@||fusacq.com/javascript/ads.js
 @@||gamingroom.tv/static/img/advert.png?
 @@||googleads.g.doubleclick.net/pagead/ads?$object-subrequest,domain=mahjonggratuit.fr
 @@||gowonda.com^$image,~third-party
