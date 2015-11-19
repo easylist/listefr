@@ -29,8 +29,8 @@
 .fr/ads/
 .ma/ads/
 .ma/ads_
-.php?*&zoneid=
 .php?banner=$subdocument
+.php?bannerid=
 .pub-ban-
 .pubdirecte.$domain=~pubdirecte.com
 .publicite.
@@ -1779,8 +1779,7 @@ _adb_728x90_$popup
 ||commitstrip.com^*/images/wejusthavetoeat/
 ||compteur-gratuit.fr/images/bandeau_
 ||compteur-gratuit.fr/pub_
-||comptoir-hardware.com/edi/$subdocument
-||comptoir-hardware.com/pub/$subdocument
+||comptoir-hardware.com/pub/
 ||comptoir-info.com/pb/
 ||conception-site-web.info/modules/creation-site/images/banner.jpg
 ||confidentielles.com/*/pubimppixel.php?
@@ -5215,7 +5214,7 @@ whatpub.com#@#.pub_left
 love-hinax.com#@#.publicite
 maghrebspace.net#@#.publicite_gauche
 imdb.com#@#.publicity
-openload.co#@#.text_ads
+comptoir-hardware.com,openload.co#@#.text_ads
 maghrebspace.net#@#.top-publicite
 geekdefrance.fr#@#.topads
 wanimo.com#@#div[id^="div-gpt-ad-"]
@@ -5312,6 +5311,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||venez.fr/js/advert.js
 @@||wakfu-world.com/tools/show_ads.js
 @@||www.smartadserver.com/config.js?$script,domain=manga-sanctuary.com
+@@||www2.edi7.lu/www/delivery/ajs.php?zoneid=$script,domain=comptoir-hardware.com
 @@||zagaz.com/img/blogads.css
 !
 ###adb-actived
