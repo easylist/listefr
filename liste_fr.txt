@@ -29,6 +29,7 @@
 .fr/ads/
 .ma/ads/
 .ma/ads_
+.php?&zoneid=
 .php?banner=$subdocument
 .php?bannerid=
 .pub-ban-
@@ -44,6 +45,7 @@
 /a.php?t=*&pgid=*&rebill=
 /ac.wbdds.
 /acad.$script
+/ad-maven-public-cdn/*
 /ad/banners_
 /ad_fr.
 /ad_trafic.
@@ -1094,6 +1096,7 @@ _adb_728x90_$popup
 ||clicjeux.net/banniere.
 ||clip-x.net/images/pub/
 ||cliquojeux.com/pub/
+||cloudfront.net/pop?tid=
 ||cloudfront.net^*/$xmlhttprequest,domain=generation-nt.com
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*?voluumdata=$popup
