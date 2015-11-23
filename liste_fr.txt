@@ -39,6 +39,7 @@
 .pubdirecte.$domain=~pubdirecte.com
 .publicite.
 .showads.
+//bannerad300.
 /160x300_
 /300_250-2.
 /468x60banner.
@@ -52,6 +53,7 @@
 /ad/banners_
 /ad_fr.
 /ad_trafic.
+/adhosting.
 /adoff.js?
 /AdPortalService.
 /AdPortalWebService/*
@@ -107,6 +109,7 @@
 /banner/*/sponsored?
 /banner720x90/?ad=
 /banner_campaign_
+/bannerad2300.
 /banners-ads/*
 /banners-pub/*
 /banniere/proxy.php?
@@ -664,6 +667,7 @@ _adb_728x90_$popup
 ||mtagmonetizationc.com^$third-party
 ||mumbai-invest.email^$third-party
 ||mxpopad.com^$third-party
+||mxttrf.com^$third-party
 ||myserv4.com^$third-party
 ||myspot.fr^$third-party
 ||myxpub.com^$third-party
