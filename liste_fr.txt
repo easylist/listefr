@@ -4607,7 +4607,6 @@ tomsguide.fr##.zoneTriple
 tsa-algerie.com##.zone_annonceurs
 lepetiteconomiste.com##.zoom
 lefigaro.fr##.zoom-widget-react
-forumpiscine.com##:first-child + .postbox_forum.table1_post_box
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
@@ -4776,6 +4775,7 @@ pyrenees-team.com##div#link
 finansemble.fr##div.div_description_v2[style="max-width:750px;"]
 loractu.fr##div.landing
 pubeco.fr##div.w100p.h60
+forumpiscine.com##div:first-child + div#\31 .postbox_forum
 trictrac.net##div[class^="banner-zv"]
 trictrac.net##div[class^="content-zv"]
 trictrac.net##div[class^="zv"]
