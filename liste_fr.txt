@@ -1625,6 +1625,9 @@ _adb_728x90_$popup
 ||zooplus.fr/affiliate/
 ||zp.programme.tv^
 ||zupimages.net/up/2/1780414445.gif
+! genericblock
+||affiliation-france.com^$domain=dpstream.net
+||pureadexchange.com^$domain=dpstream.net
 ! eafyfsuh.net
 ||eafyfsuh.net^*/?name=$popup
 ||femtoads.com^$popup,third-party
@@ -4994,6 +4997,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/ad-remover/img/
 @@||download.gameblog.fr/images/promo/ban_premium_300.jpg
+@@||dpstream.net^$genericblock
 @@||ds.serving-sys.com/BurstingRes//$object-subrequest,domain=buzzmoica.fr
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
 @@||dzautos.com/swf/prix_du_neuf.swf
