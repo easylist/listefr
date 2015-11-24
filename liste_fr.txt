@@ -1626,8 +1626,12 @@ _adb_728x90_$popup
 ||zp.programme.tv^
 ||zupimages.net/up/2/1780414445.gif
 ! genericblock
+||adnxs.com^$domain=jeu.info
 ||affiliation-france.com^$domain=dpstream.net
+||jeu.info/js/drawpub4.js$domain=jeu.info
+||pagead2.googlesyndication.com^$domain=jeu.info
 ||pureadexchange.com^$domain=dpstream.net
+||wbdds.jeuxvideo.com^$domain=jeu.info
 ! eafyfsuh.net
 ||eafyfsuh.net^*/?name=$popup
 ||femtoads.com^$popup,third-party
@@ -5033,6 +5037,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||infos.wwf.fr/adserver2/
 @@||iphone4.fr/bannieres/header_icons.png
 @@||itespresso.fr/wp-content/themes/kamino/assets/js/advertising.js
+@@||jeu.info^$genericblock
 @@||jheberg.net/js/*_advertisement.js
 @@||kapaza.be/*/ad_view_
 @@||koifaire.com/upload/*/300x250-
