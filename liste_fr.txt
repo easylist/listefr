@@ -1852,7 +1852,6 @@ _adb_728x90_$popup
 ||conseils-courseapied.com/images/boutique-marathon/
 ||conseils-courseapied.com/images/overstims/
 ||conseils-courseapied.com/images/partenaire/
-||copainsdavant.linternaute.com^$xmlhttprequest,domain=linternaute.com
 ||coques-iphone.com/modules/blockPub
 ||courrierlaval.com/images/wallpaper/
 ||cowcotland.com/images/habillage/$image
@@ -4766,6 +4765,7 @@ blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
+copainsdavant.linternaute.com##div + div:last-child img[src^="//static.ccmbg.com/www.linternaute.com/img/"]
 pyrenees-team.com##div#link
 finansemble.fr##div.div_description_v2[style="max-width:750px;"]
 loractu.fr##div.landing
