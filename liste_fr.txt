@@ -49,6 +49,7 @@
 /a.php?t=*&pgid=*&rebill=
 /ac.wbdds.
 /acad.$script
+/acecAdServer.
 /ad-maven-public-cdn/*
 /ad/banners_
 /ad_fr.
@@ -1800,6 +1801,8 @@ _adb_728x90_$popup
 ||cap-sciences.net/upload/pubs/
 ||capinfoproreport.com/cap_pub/
 ||carrefoune.com^*/u.js
+||carrefour.fr/drive/shopSelection?
+||carrefour.fr/js/scripts/libs/*.colorbox.js
 ||carriere-algerie.com/carriere/pub_files/
 ||casimages.com/300250.php
 ||casimages.com/72890.php
@@ -4772,6 +4775,8 @@ cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor=
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 forumconstruire.com##div#\31 .postbox_forum
+carrefour.fr##div#cboxOverlay
+carrefour.fr##div#cboxOverlay + #colorbox
 pyrenees-team.com##div#link
 finansemble.fr##div.div_description_v2[style="max-width:750px;"]
 loractu.fr##div.landing
