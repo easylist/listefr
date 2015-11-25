@@ -143,8 +143,6 @@
 /generateAds.
 /getads/?
 /getadsor.
-/goda.$popup,domain=thand.info
-/goto-$popup,domain=thand.info
 /iframe_pub_
 /IFrameStoreReciever.
 /images/sponsored?
@@ -1019,7 +1017,6 @@ _adb_728x90_$popup
 ||www.meetic-partners.com^$popup,third-party
 ||x.porn.fr^$popup,third-party
 ||youradexchange.com^$popup,third-party
-||youwatchtab.com^$popup,third-party
 ||zeroredirect2.com^$popup,third-party
 ||zwaar.net^$popup,third-party
 ||zwaar.org^$popup,third-party
@@ -1619,7 +1616,6 @@ _adb_728x90_$popup
 ||yellowapi.com/twn/?
 ||yimg.com/hl/ap/default/*/HP_*.jpg
 ||youtube.com^$popup,domain=abdelghanisat.kazeo.com
-||youwatch.org/9eriba.html
 ||yubee.free.fr/admin/bannieres/
 ||z51.biz/IBinnewz.aspx
 ||zeusmangax.com/baniere/
@@ -1640,6 +1636,7 @@ _adb_728x90_$popup
 ||femtoads.com^$popup,third-party
 ||fullqurandownload.com^$third-party
 ||txlpzpihveg.net^$third-party
+||youwatchtab.com^$popup,third-party
 ||zaperplop.info^$third-party
 !
 !----------------------- Sites spécifiques -----------------------!
@@ -2912,6 +2909,10 @@ _adb_728x90_$popup
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ! Youwatch
+/doda.$popup,domain=thand.info
+/foto-$popup,domain=thand.info
+/goda.$popup,domain=thand.info
+/goto-$popup,domain=thand.info
 ?runauction=*?crr=*&cbrandom=
 ?runauction=*?crr=*&ctbust=$popup
 ! MacGeneration
