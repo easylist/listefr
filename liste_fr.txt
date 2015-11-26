@@ -778,6 +778,7 @@ _adb_728x90_$popup
 ||script.banstex.com^$third-party
 ||sddan.com^$third-party
 ||sdk-ads.com^$third-party
+||sefire.eu^$third-party
 ||seprovider.com^$third-party
 ||septani.ru^$third-party
 ||serpzaer.com^$third-party
@@ -1488,6 +1489,7 @@ _adb_728x90_$popup
 ||s3.amazonaws.com^*/publishers/$script
 ||saintseiya.lesite.free.fr/images/bannieres/
 ||salopes.free.fr/ban/
+||serie-stream.org^$popup,domain=full-stream.cc
 ||service-factures.fr/bannieres/
 ||sex-is-free.net/pub/
 ||sexe-au-bois.com/ban/$third-party
@@ -2909,12 +2911,9 @@ _adb_728x90_$popup
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ! Youwatch
-/doda.$popup,domain=thand.info
-/foto-$popup,domain=thand.info
-/goda.$popup,domain=thand.info
-/goto-$popup,domain=thand.info
 ?runauction=*?crr=*&cbrandom=
 ?runauction=*?crr=*&ctbust=$popup
+|http://*.html$popup,domain=thand.info
 ! MacGeneration
 macg.co###block-quicktabs-bon-plans-macg-
 igen.fr,macg.co##.ebay
@@ -4141,6 +4140,7 @@ estrepublicain.fr##.Iookaz
 mypornmotion.com##.LinePromo
 bienpublic.com##.OffreHabitat
 aufeminin.com##.OffresSpe_cadre
+full-stream.cc##.PapaGooGorHD
 afrokanlife.com##.PubAdAI
 driverscloud.com##.accueil_pub
 lagazettedescommunes.com##.actus-case-pub
