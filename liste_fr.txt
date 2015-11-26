@@ -1913,7 +1913,7 @@ _adb_728x90_$popup
 ||douniamusic.com/include/pub-
 ||douniamusic.com/InterDouniaMusic.swf
 ||downline-builder.net/diff_affich_ban.php
-||dpstream.net/fichiers/pub/
+||dpstream.net/fichiers/pub/$domain=dpstream.net
 ||dsih.fr/pub/
 ||dzautos.com/swf/
 ||dzentreprise.net/wp-content/uploads/DZEJuner.swf
@@ -5019,6 +5019,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||donnemoilinfo.com/tuto/ad-remover/img/
 @@||download.gameblog.fr/images/promo/ban_premium_300.jpg
 @@||dpstream.net^$genericblock
+@@||dpstream.net^$generichide
 @@||ds.serving-sys.com/BurstingRes//$object-subrequest,domain=buzzmoica.fr
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
 @@||dzautos.com/swf/prix_du_neuf.swf
@@ -5226,6 +5227,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||mcuelinin.com^$image,~third-party
 @@||mediazs.com^$image,~third-party
 @@||meuauteu.com^$image,~third-party
+@@||mimumaca.com^$image,~third-party
 @@||mustacor.com^$image,~third-party
 @@||naedelasei.com^$image,~third-party
 @@||nanoisen.com^$image,~third-party
