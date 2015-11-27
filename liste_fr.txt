@@ -1367,6 +1367,7 @@ _adb_728x90_$popup
 ||melusinecreation.com/banniere/
 ||mes-dialogues.net^*/mes-dialogues-js.php?
 ||metaffiliation.com/emplacement.php
+||meteofrance.com^*/vignettepartenaire/
 ||methode-finance.com^$popup,third-party
 ||mini-jeux.com/jeuday.js$third-party
 ||missdark.com/bannieres/$third-party
@@ -4776,7 +4777,6 @@ korben.info##a[style="background:transparent; position:absolute; top:0px; left:0
 presse-citron.net##a[style="cursor:pointer; display:block; height:1600px; left:0; position:absolute; top:0; width:100%;"]
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
-forums-actifs.com##a[target="_blank"][href*=".forums-actifs.com/a?"]
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
@@ -4931,6 +4931,7 @@ codeshttp.com##table[width="800"][height="100"]
 annonces-dz.com##table[width="800"][height="115"]
 codeshttp.com##table[width="800"][height="118"]
 lonelyplanet.fr##table[width="900"][height="90"][align="center"]
+##tbody > tr > td[width="0"] + td[width="100%"] > div[style="padding:10px 0 0 0 !important;"]
 algeriatenders.com##tbody > tr[style="height:92px;"]
 trancegoa.org##td > .fb-like-box + br + .texteentete.taille2
 depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
@@ -4940,20 +4941,6 @@ mon-ordi.com##td[width="567"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
-!
-! Forumsactifs.com sites
-##a[rel="nofollow"][target="_blank"][href*="/a?"] > img:first-child
-##tbody > tr > td[width="0"] + td[width="100%"] > div[style="padding:10px 0 0 0 !important;"]
-||i57.tinypic.com/2d9xqwz.jpg
-||i57.tinypic.com/2d9xqwz.png
-||i57.tinypic.com/efmhc2.png
-||i58.tinypic.com/35bgpk1.png
-||i59.tinypic.com/2wmhnid.png
-||i59.tinypic.com/3149mdt.jpg
-||i59.tinypic.com/3149mdt.png
-||i60.tinypic.com/sq2fzo.png
-||i61.tinypic.com/2yyz5s0.png
-||i62.tinypic.com/28hfq0m.png
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
