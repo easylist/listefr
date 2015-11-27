@@ -1994,7 +1994,6 @@ _adb_728x90_$popup
 ||fastecard.net^*/pub
 ||fcnantes.com/includes/sponsor/
 ||fdata.over-blog.net^*/js/ob.bar1*.js
-||fdesouche.com/wp-content/themes/fdesouche2014/js/rp-fullscreen.js?
 ||fifostream.tv/video.html
 ||files-save.com/noyaux/pub/
 ||filmhentai.fr/tpl2/tools/
@@ -4308,7 +4307,6 @@ ruedesjoueurs.com##.esspo736x110
 easyvoyage.com##.esv-pub-300-250
 evene.fr##.evene-partners-button-flx
 1001excuses.fr##.excuses[style="padding-left:105px;padding-top:25px;"]
-fdesouche.com##.fds-rp-fullscreen-container
 humanite.fr##.field-name-bloc-pub-1ere-sidebar-contenu-3
 humanite.fr##.field-name-pub-sidebar-first-content
 lefigaro.fr##.fig-adgps
@@ -4704,6 +4702,7 @@ brunotritsch.fr##a[href^="http://fr.webmaster-rank.info/stat/affiliate/"]
 abidjan.net,igen.fr,macg.co##a[href^="http://goo.gl/"]
 moviz-telecharger.com##a[href^="http://moviz-telecharger.com/films-en-qualité-hd-"]
 korben.info##a[href^="http://network.bemyapp.com/trk/"]
+fdesouche.com##a[href^="http://ow.ly/"]
 nouvelobs.com##a[href^="http://partner.global-espace.com/"]
 jamsvu.fr##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
 annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
@@ -4781,6 +4780,7 @@ blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
+fdesouche.com##div + * + script + script[type="text/javascript"] + noscript + div
 forumconstruire.com##div#\31 .postbox_forum
 carrefour.fr##div#cboxOverlay
 carrefour.fr##div#cboxOverlay + #colorbox
