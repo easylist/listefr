@@ -744,6 +744,7 @@ _adb_728x90_$popup
 ||pub2.cotatel.net^$third-party
 ||publicideas.com^$third-party
 ||publike.fr^$third-party
+||publited.com^$third-party
 ||puboclic.com^$third-party
 ||pubwebnet.com^$third-party
 ||pureadexchange.com^$third-party
@@ -3366,6 +3367,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.free_web_hosting_banners
 ##.green-ad
 ##.head-pub
+##.header-banner-ad
 ##.header-pub
 ##.headerPub
 ##.header_pub
@@ -5367,10 +5369,11 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@/adblk.js?ad_type=$script,third-party
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adscript.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|phonandroid.com|pixelistes.com
-@@/advertisement.js$script,domain=6play.fr|cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|dramapassion.com|easybillets.com|evilox.com|funeralforamanga.fr|gamersconnexion.com|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
+@@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|dramapassion.com|easybillets.com|evilox.com|funeralforamanga.fr|gamersconnexion.com|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/check.js?$script,third-party
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
 @@|http://*.js$script,third-party,domain=jeu.fr|jeux.fr
+@@||6play.fr/media/js/publicite.js
 @@||infojeu.com^$script,domain=jeu.info
 !
 ||nikopik.com/wp-content/themes/nikopik-wordpress-theme/assets/js/nikopik.js
