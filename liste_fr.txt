@@ -91,6 +91,7 @@
 /aff_i?offer_id=
 /aff_pub_
 /affiliate.*/banner
+/affiliate/*/banners/*
 /affiliation-mb.
 /affiliation.$third-party
 /affilitybanners.
@@ -1059,6 +1060,7 @@ _adb_728x90_$popup
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
 ||ad.atdmt.com/i/go;$third-party
 ||ad.vacanceo.com^
+||ad.zanox.com^
 ||adf.ly^$subdocument,domain=uptobox.com
 ||adf.pulsesky.com^
 ||adjsla.daycorpltd12.netdna-cdn.com^
@@ -2916,6 +2918,7 @@ _adb_728x90_$popup
 ||zoom-algerie.com/charte/images/klash16.swf
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
+||ztat.net^*/affiliate/
 ! Youwatch
 ?runauction=*?crr=*&cbrandom=
 ?runauction=*?crr=*&ctbust=$popup
