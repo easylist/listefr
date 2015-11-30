@@ -223,6 +223,8 @@
 /show_ad?
 /show_adv.
 /showads?
+/srv.php?size=300x250
+/srv.php?size=315x300
 /Temp/Ads/*
 /ttn_adspaces
 /widget.advertisement.
@@ -461,6 +463,7 @@ _adb_728x90_$popup
 ||ar-ads.net^$third-party
 ||arab-ads.com^$third-party
 ||arretion.de^$third-party
+||aservtrack.com^$third-party
 ||atedra.com^$third-party
 ||aties.info^$third-party
 ||avenir-affiliation.fr^$third-party
@@ -840,6 +843,7 @@ _adb_728x90_$popup
 ||track351.com^$third-party
 ||trackor.net^$third-party
 ||trackvoluum.com^$third-party
+||trackzarthy.com^$third-party
 ||traffdaq.com^$third-party
 ||traffe.eu^$third-party
 ||trafficrevmaster.com^$third-party
@@ -926,6 +930,8 @@ _adb_728x90_$popup
 ||affiliwix.com^$popup,third-party
 ||all2lnk.com^$popup,third-party
 ||arabysouq.com^$popup,third-party
+||arthylndr.com^$popup,third-party
+||aservtrack.com^$popup,third-party
 ||ato.mx^$popup,third-party
 ||baise-ce-soir.com^$popup,third-party
 ||bidtrk.com^$popup,third-party
@@ -949,6 +955,7 @@ _adb_728x90_$popup
 ||exity.info^$popup,third-party
 ||femme-cougar.tv^$popup,third-party
 ||flagagreebelieve.com^$popup,third-party
+||flashtalking.com^$popup,third-party
 ||folue.info^$popup,third-party
 ||gestionpub.com^$popup,third-party
 ||getgamers.eu^$popup,third-party
@@ -3282,7 +3289,9 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.ad-125-2c-2r
 ##.ad-336-280
 ##.ad-banner-leboat
+##.ad-img300X250
 ##.ad-largebanner
+##.ad-post300X250
 ##.ad-sidebar-125-1r
 ##.ad-sidebar-125-2r
 ##.ad-sponsored
