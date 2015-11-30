@@ -39,7 +39,6 @@
 .pubdirecte.$domain=~pubdirecte.com
 .publicite.
 .showads.
-//bannerad300.
 /160x300_
 /300_250-2.
 /468x60banner.
@@ -102,6 +101,7 @@
 /ar/ads/*
 /ara/ads/*
 /async/null/*/null/*/Tag.rb$script
+/b728x90a.
 /ban160.js
 /ban300.js
 /ban728.js
@@ -112,6 +112,7 @@
 /banner720x90/?ad=
 /banner_campaign_
 /bannerad2300.
+/bannerad300.
 /banners-ads/*
 /banners-pub/*
 /banniere/proxy.php?
@@ -1023,6 +1024,7 @@ _adb_728x90_$popup
 ||www.meetic-partners.com^$popup,third-party
 ||x.porn.fr^$popup,third-party
 ||youradexchange.com^$popup,third-party
+||z-defense.com^$popup,third-party
 ||zeroredirect2.com^$popup,third-party
 ||zwaar.net^$popup,third-party
 ||zwaar.org^$popup,third-party
