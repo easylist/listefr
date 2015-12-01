@@ -5001,8 +5001,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||ads.webedia.fr/crossdomain.xml$domain=ozap.com|purepeople.com
 @@||ads.webedia.fr/p-dp-vast2/$object-subrequest,domain=ozap.com|purepeople.com
 @@||adserve.atedra.com/js/$script,domain=pourquoipas.ca|radiox.com
-@@||adserve.atedra.com/serve.php?z=$script,domain=pourquoipas.ca|radiox.com
-@@||adserve.atedra.com/serve.php?z=$script^$domain=vilaingeek.ca
+@@||adserve.atedra.com/serve.php?z=$script,domain=pourquoipas.ca|radiox.com|vilaingeek.ca
 @@||adserve.atedra.com/vast/$domain=pourquoipas.ca|radiox.com
 @@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|rtl.fr
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
