@@ -4998,6 +4998,8 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||admedia.rtl.fr/online/sound/$object-subrequest,domain=rtl.fr
 @@||adphoto.fr^$~third-party
 @@||ads.audience2media.com/crossdomain.xml$domain=videos.nt1.tv
+@@||ads.horyzon-media.com/config.js?$script,domain=larousse.fr
+@@||ads.horyzon-media.com/diff/js/smart.js$script,domain=larousse.fr
 @@||ads.webedia.fr/crossdomain.xml$domain=ozap.com|purepeople.com
 @@||ads.webedia.fr/p-dp-vast2/$object-subrequest,domain=ozap.com|purepeople.com
 @@||adserve.atedra.com/js/$script,domain=pourquoipas.ca|radiox.com
