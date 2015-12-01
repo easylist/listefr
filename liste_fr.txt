@@ -5003,6 +5003,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||adserve.atedra.com/js/$script,domain=pourquoipas.ca|radiox.com
 @@||adserve.atedra.com/serve.php?z=$script,domain=pourquoipas.ca|radiox.com|vilaingeek.ca
 @@||adserve.atedra.com/vast/$domain=pourquoipas.ca|radiox.com
+@@||adserve.atedra.com/zones.php$xmlhttprequest,domain=pourquoipas.ca
 @@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|rtl.fr
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
 @@||adswizz.com/crossdomain.xml
