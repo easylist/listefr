@@ -237,7 +237,7 @@
 ://adscdn.
 ://adspaces.
 ://adyoulike.
-://bannieres.$third-party
+://bannieres.
 ://regie.$third-party
 ://soads.
 =iframe_pub&
@@ -5024,6 +5024,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||assiste.com^*_publicite_$image,~third-party
 @@||aw-experience.com/banners/b0.png
 @@||banners.oxiads.fr/player/
+@@||bannieres.telethon.fr/compteurs/compteurglobal.php?$subdocument
 @@||beaute-test.com/global/ads.js
 @@||beead.fr^$domain=doc-etudiant.fr|ouifm.fr|play.nrj.fr|radiofg.com|radioneo.org|replay.fr|rfm.fr|virginradio.fr|wakanim.tv
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
