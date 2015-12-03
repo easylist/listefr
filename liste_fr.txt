@@ -588,6 +588,7 @@ _adb_728x90_$popup
 ||folihentai.eu^$third-party
 ||foxserie.com^$script,third-party
 ||fullon.tv^$third-party
+||fullqurandownload.com^$third-party
 ||gagner-une-console.com^$third-party
 ||gambling-france.com^$third-party
 ||gamingaffiliation.com^$third-party
@@ -857,6 +858,7 @@ _adb_728x90_$popup
 ||trafic-booster.biz^$third-party
 ||traficmax.com^$third-party
 ||twap2.com^$third-party
+||txlpzpihveg.net^$third-party
 ||univers-porno.com^$third-party
 ||vartoken.com^$third-party
 ||vgsgaming.com^$third-party
@@ -910,6 +912,7 @@ _adb_728x90_$popup
 ||you-hentai.com^$third-party
 ||z-barre.com^$third-party
 ||z-defense.com^$third-party
+||zaperplop.info^$third-party
 ||zebestof.com^$third-party
 ||zeropub.net^$third-party
 ||zwaar.net^$third-party
@@ -964,6 +967,7 @@ _adb_728x90_$popup
 ||europacash.com^$popup,third-party
 ||exity.info^$popup,third-party
 ||femme-cougar.tv^$popup,third-party
+||femtoads.com^$popup,third-party
 ||fhserve.com^$popup,third-party
 ||flagagreebelieve.com^$popup,third-party
 ||flashtalking.com^$popup,third-party
@@ -1044,6 +1048,7 @@ _adb_728x90_$popup
 ||x.porn.fr^$popup,third-party
 ||xmediaserve.com^$popup,third-party
 ||youradexchange.com^$popup,third-party
+||youwatchtab.com^$popup,third-party
 ||z-defense.com^$popup,third-party
 ||zeroredirect2.com^$popup,third-party
 ||zwaar.net^$popup,third-party
@@ -1664,6 +1669,7 @@ _adb_728x90_$popup
 ||adnxs.com^$domain=jeu.info
 ||ads.sportslocalmedia.com^$domain=foot01.com
 ||affiliation-france.com^$domain=dpstream.net
+||eafyfsuh.net^*/?name=$popup
 ||elasticad.net^$domain=foot01.com
 ||jeu.info/js/drawpub4.js$domain=jeu.info
 ||ligatus.com/angular_$domain=foot01.com
@@ -1671,13 +1677,6 @@ _adb_728x90_$popup
 ||pureadexchange.com^$domain=dpstream.net
 ||purevid.com/html/300per200.html$domain=purevid.com
 ||wbdds.jeuxvideo.com^$domain=jeu.info
-! eafyfsuh.net
-||eafyfsuh.net^*/?name=$popup
-||femtoads.com^$popup,third-party
-||fullqurandownload.com^$third-party
-||txlpzpihveg.net^$third-party
-||youwatchtab.com^$popup,third-party
-||zaperplop.info^$third-party
 !
 !----------------------- Sites spécifiques -----------------------!
 !
@@ -2951,7 +2950,8 @@ _adb_728x90_$popup
 ! Youwatch
 ?runauction=*?crr=*&cbrandom=
 ?runauction=*?crr=*&ctbust=$popup
-|http:$popup,domain=convs.info|thand.info
+|http:$popup,third-party,domain=convs.info|couns.info|thand.info
+|http://*.htm$popup,third-party,domain=convs.info|couns.info|thand.info
 ! MacGeneration
 macg.co###block-quicktabs-bon-plans-macg-
 igen.fr,macg.co##.ebay
