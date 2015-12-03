@@ -20,6 +20,7 @@
 -300-x-250-
 -468-x-60-
 -728-x-90-
+-ads/ads.
 -pub-ads/
 .adserverpub.
 .adxcore.
@@ -237,6 +238,7 @@
 /xpopunder.js
 ://adscdn.
 ://adspaces.
+://adss.
 ://adyoulike.
 ://bannieres.
 ://regie.$third-party
@@ -516,6 +518,7 @@ _adb_728x90_$popup
 ||clkmon.com^$third-party
 ||coindushopping.fr^$third-party
 ||comandclick.com^$third-party
+||comeadvertisewithus.com^$third-party
 ||comoclic.com^$third-party
 ||comoclic.net^$third-party
 ||congruityheterocephalus.info^$third-party
@@ -600,6 +603,7 @@ _adb_728x90_$popup
 ||goodaction.com^$third-party
 ||goracash.com^$third-party
 ||gouzardo.com^$third-party
+||gravity4.com^$third-party
 ||greatregie.com^$third-party
 ||guestcash.com^$third-party
 ||gwenna.website^$third-party
@@ -875,6 +879,7 @@ _adb_728x90_$popup
 ||waframedia2.com^$third-party
 ||waframedia4.com^$third-party
 ||waframedia8.com^$third-party
+||wallacemaloneymindanao.info^$third-party
 ||wbdds.com^$third-party
 ||wbdds.info^$third-party
 ||wbsadsdel2.com^$third-party
@@ -914,6 +919,7 @@ _adb_728x90_$popup
 ||188.165.253.6^$popup,third-party
 ||37.187.248.215^$popup,third-party
 ||3wr110.net^$popup,third-party
+||415daa520.com^$popup,third-party
 ||5b15a826.xyz^$popup,third-party
 ||ad-center.com^$popup,third-party
 ||ad-online.biz^$popup,third-party
@@ -921,6 +927,7 @@ _adb_728x90_$popup
 ||adfection.net^$popup,third-party
 ||adit-media.com^$popup,third-party
 ||admailtiser.com^$popup,third-party
+||ads-in-games.com^$popup,third-party
 ||adsawesome.com^$popup,third-party
 ||adschemist.com^$popup,third-party
 ||adserverpub.com^$popup,third-party
@@ -957,6 +964,7 @@ _adb_728x90_$popup
 ||europacash.com^$popup,third-party
 ||exity.info^$popup,third-party
 ||femme-cougar.tv^$popup,third-party
+||fhserve.com^$popup,third-party
 ||flagagreebelieve.com^$popup,third-party
 ||flashtalking.com^$popup,third-party
 ||folue.info^$popup,third-party
@@ -976,6 +984,7 @@ _adb_728x90_$popup
 ||illyx.com^$popup,third-party
 ||irclick.net^$popup,third-party
 ||livechatdates.com^$popup,third-party
+||livefreefunwith.me^$popup,third-party
 ||marsads.com^$popup,third-party
 ||medncom.com^$popup,third-party
 ||mes-meilleurs-films.fr^$popup,third-party
@@ -1033,6 +1042,7 @@ _adb_728x90_$popup
 ||white-eyes.com^$popup,third-party
 ||www.meetic-partners.com^$popup,third-party
 ||x.porn.fr^$popup,third-party
+||xmediaserve.com^$popup,third-party
 ||youradexchange.com^$popup,third-party
 ||z-defense.com^$popup,third-party
 ||zeroredirect2.com^$popup,third-party
@@ -4729,6 +4739,7 @@ confidentielles.com##a[href^="/rc_787_"]
 emule-island.ru##a[href^="/tutoriaux/usenext-dl.php?"]
 kerix.net##a[href^="LienExterne.asp?"]
 ladepeche.pf##a[href^="ads/"]
+youwatch-series.com##a[href^="dpstream.php?"]
 zetorrents.com##a[href^="http://acces."]
 sosiphone.com##a[href^="http://ad.zanox.com/ppc/"]
 boursorama.com##a[href^="http://ads."]
@@ -4803,6 +4814,7 @@ ticketac.com##a[href^="http://www.ticketac.com/redirect_pub.php?"]
 undernews.fr##a[href^="http://www.undernews.fr/go/"]
 webfrance.com##a[href^="http://www.webfrance.com/go/"]
 webrankinfo.com##a[href^="http://www.webrankinfo.com/partenaires/"]
+youwatch-series.com##a[href^="http://www.xmediaserve.com/"]
 needsandmoods.com##a[href^="https://ad.zanox.com/"]
 yahoo.com##a[href^="https://beap.gemini.yahoo.com/"]
 wawacity.su##a[href^="https://secure.securitetotale.com/"]
@@ -5179,6 +5191,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||vshop.fr^$domain=shopping-discount.fr
 @@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
+@@||youwatch-series.com^$generichide
 ! Radins.com
 @@||ad-emea.doubleclick.net/clk;$subdocument,domain=track.radins.com
 @@||ad.zanox.com/ppc/?$subdocument,domain=track.radins.com
@@ -5433,9 +5446,9 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /blockadblock.js
 /fadb.min.js?
 !
-@@.gif#$image,domain=automobile-sportive.com
+@@.gif#$image,domain=automobile-sportive.com|youwatch-series.com
 @@.jpg#$image,domain=dpstream.cc|naruto-mx.net
-@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|rapidebrideur.com|total-sport.tv|tout-gratuit.be
+@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|rapidebrideur.com|total-sport.tv|tout-gratuit.be|youwatch-series.com
 @@/adblk.js?ad_type=$script,third-party
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adscript.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|phonandroid.com|pixelistes.com
