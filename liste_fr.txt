@@ -108,6 +108,7 @@
 /banads/*
 /bandeau-pub-
 /bandeaupublicite/*
+/bandito.php?p=$xmlhttprequest
 /banner/*/sponsored?
 /banner720x90/?ad=
 /banner_campaign_
@@ -1067,6 +1068,7 @@ _adb_728x90_$popup
 |bit.ly^$popup,domain=france-telechargement.com
 |http:$subdocument,third-party,domain=clictune.com|contextualyield.com|sa.ae
 |http://*/*0*0*0*0*0*0*0*0$script,xmlhttprequest,domain=generation-nt.com
+|http://*/disd.php?idsite=$domain=t411.in
 |http://newpromo.$domain=cpasbien.io
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
