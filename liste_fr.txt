@@ -1023,6 +1023,7 @@ _adb_728x90_$popup
 ||shopstockoff.com^$popup,third-party
 ||slutroulette.com^$popup,third-party
 ||smartadserver.com^$popup,third-party
+||solution.weborama.fr^$popup,third-party
 ||spaceshipads.com^$popup,third-party
 ||sporary.eu^$popup,third-party
 ||srvmd30s.com^$popup,third-party
@@ -1568,7 +1569,6 @@ _adb_728x90_$popup
 ||social.yoox.it/view.aspx?$third-party
 ||socialboost.fr/promo/$third-party
 ||soft-66.net/open.js
-||solution.weborama.fr^
 ||soonnight.com^*.html?width=
 ||sos-trique.com/ban/$third-party
 ||sousstube.net/pub/
@@ -2110,6 +2110,7 @@ _adb_728x90_$popup
 ||funradio.fr^*/skin/promo/
 ||fusacq.com/buzz/*/encarts/
 ||futurama-stream.eu/wp-content/uploads/2014/06/ecig.jpg
+||g2a.com/r/$popup
 ||gabcms.org/donnes/img/banniere_
 ||game-guide.fr/*/images/pub/
 ||gameblog.fr/images/oxalide_
@@ -2162,6 +2163,8 @@ _adb_728x90_$popup
 ||herault-tribune.com^*/rep_pub/
 ||hibamusic.com/pub/
 ||histoires-de-sexe.net/histoires-sexe-videos.php$popup
+||hitek.fr/img/*-ban.
+||hitek.fr/img/emoticons/wallpaper-
 ||homecine-compare.com/images/*/bup-
 ||homecinema-fr.com/images/habactivehd_
 ||homer-simpson-streaming.blog4ever.com/sp
@@ -5105,7 +5108,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||google.com/adsense/$subdocument,domain=sedo.fr
 @@||google.com/adsense/search/ads.js$domain=zoover.fr
 @@||google.com/uds/$script,domain=rfm.fr|virginradio.fr
-@@||hitek.fr/blockadblock.js
+@@||hitek.fr/ads.js$script
 @@||host3.adhese.be/tag/tagv1.js$script,domain=lavenir.net
 @@||hostinger.fr/banners/*/hostinger-$image,~third-party
 @@||ib.adnxs.com/crossdomain.xml$object-subrequest,domain=mahjonggratuit.fr
