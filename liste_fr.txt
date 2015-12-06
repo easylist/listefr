@@ -2218,7 +2218,6 @@ _adb_728x90_$popup
 ||jamaisjouis.com^*/u.js
 ||japan-expo.be/img/pub/
 ||japan-expo.com/files/habilllageautopromogiz.jpg
-||jds.fr/medias/pub/
 ||jedessine.com^*/monstermunch/
 ||jeu.auchan.fr^$popup
 ||jeu.info/js/drawpub4.js
@@ -2448,6 +2447,8 @@ _adb_728x90_$popup
 ||media.funradio.fr/online/image/*_skin-vip$image
 ||media.rtl.fr/online/image/*_habillage$image
 ||media365.fr^*?imgPrefix=$xmlhttprequest
+||medias.jds.fr/medias/direct/*/habillage_
+||medias.jds.fr/medias/direct/*_300_600.
 ||medserv.carrefour.com^
 ||medserv.carrefour.fr^
 ||meetine.net/ban/
@@ -4566,7 +4567,6 @@ cdiscount.com##.pubBloc
 cciaf.org##.pubDroite
 whitespirit.fr##.pubHaut
 cdiscount.com##.pubText
-jds.fr##.pub_2_1000
 masculin.com##.pub_article
 meilleurmobile.com##.pub_combo
 supportduweb.com##.pub_contenu_cr
@@ -4721,6 +4721,7 @@ artdeseduire.com##a[href*="/?part=ads"]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
 nouvelobs.com##a[href*="?partner="]
 challenges.fr,nouvelobs.com##a[href*="?partnerlinkid="]
+jds.fr##a[href*="_clic.php?"]
 metaboli.fr##a[href*="gametap.com/convergence/?"]
 fourchette-et-bikini.fr##a[href*="go2cloud.org/aff_c?"]
 dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-de-l-en-galerant-sur-le.html"]
@@ -4819,7 +4820,6 @@ forumpiscine.com##a[href^="http://www.forumpiscine.com/torm3/click.php?"]
 hinata-online-community.fr##a[href^="http://www.ggcorp.me/ld_register?"]
 guide-piscine.fr##a[href^="http://www.guide-piscine.fr/scripts/gp_div_clic.php?"]
 9rayti.com##a[href^="http://www.ilycee.com/?utm_source="]
-jds.fr##a[href^="http://www.jds.fr/scripts/pub_clic.php?"]
 kaamelott-streaming.tv##a[href^="http://www.kaamelott-streaming.tv/partenaire/"]
 cowcotland.com##a[href^="http://www.ldlc.com#aff"] > img
 dhnet.be##a[href^="http://www.livepartners.be/affiliate/"]
