@@ -1007,6 +1007,7 @@ _adb_728x90_$popup
 ||oclasrv.com^$popup,third-party
 ||offpageads.com^$popup,third-party
 ||ohmyad.co^$popup,third-party
+||onclasrv.com^$popup,third-party
 ||othip.info^$popup,third-party
 ||ouaitupeuxregarderenillimite.com^$popup,third-party
 ||popundertotal.com^$popup,third-party
@@ -1682,6 +1683,7 @@ _adb_728x90_$popup
 ||affiliation-france.com^$domain=dpstream.net
 ||eafyfsuh.net^*/?name=$popup
 ||elasticad.net^$domain=foot01.com
+||goyavelab.com^$popup,domain=dpstream.net
 ||jeu.info/js/drawpub4.js$domain=jeu.info
 ||ligatus.com/angular_$domain=foot01.com
 ||pagead2.googlesyndication.com^$domain=jeu.info
@@ -2978,7 +2980,9 @@ _adb_728x90_$popup
 ?runauction=*?crr=*&cbrandom=
 ?runauction=*?crr=*&ctbust=$popup
 |http:$popup,third-party,domain=convs.info|couns.info|thand.info
-|http://*.htm$popup,third-party,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|elded.info|eties.info|exity.info|gover.info|guib.info|opert.info|thand.info|utte.info
+|http://*.htm$popup,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|elded.info|eties.info|exity.info|gover.info|guib.info|opert.info|thand.info|utte.info
+! Exashare
+|http://*/watch?$popup,domain=dowed.info
 ! MacGeneration
 macg.co###block-quicktabs-bon-plans-macg-
 igen.fr,macg.co##.ebay
@@ -5324,6 +5328,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||lulari.com^$image,~third-party
 @@||lulilimd.com^$image,~third-party
 @@||luorenoti.com^$image,~third-party
+@@||luseuciomi.com^$image,~third-party
 @@||mapusia.com^$image,~third-party
 @@||mcuelinin.com^$image,~third-party
 @@||mediazs.com^$image,~third-party
