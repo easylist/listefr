@@ -1054,6 +1054,7 @@ _adb_728x90_$popup
 ||webprod.cybertesteurs.com^$popup,third-party,domain=~iss.net
 ||whies.info^$popup,third-party
 ||white-eyes.com^$popup,third-party
+||wordkeyhelper.com^$popup,third-party
 ||www.meetic-partners.com^$popup,third-party
 ||x.porn.fr^$popup,third-party
 ||xmediaserve.com^$popup,third-party
@@ -2981,6 +2982,7 @@ _adb_728x90_$popup
 ?runauction=*?crr=*&ctbust=$popup
 |http:$popup,third-party,domain=convs.info|couns.info|thand.info
 |http://*.htm$popup,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|elded.info|eties.info|exity.info|gover.info|guib.info|opert.info|thand.info|utte.info
+|http://*/?tid=$popup,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|elded.info|eties.info|exity.info|gover.info|guib.info|opert.info|thand.info|utte.info
 ! Exashare
 |http://*/watch?$popup,domain=dowed.info
 ! MacGeneration
