@@ -1163,6 +1163,7 @@ _adb_728x90_$popup
 ||beurettes-faciles.com/promo/
 ||billypub.com^
 ||billypubcontent.com^
+||bit.ly$image,domain=teramixer.com
 ||bit.ly/19F8iqD
 ||bit.ly^$image,domain=phonandroid.com
 ||bitchvolley.com/ban/$third-party
@@ -1602,6 +1603,7 @@ _adb_728x90_$popup
 ||teen-passion.net/annuaire/ban/$third-party
 ||telecharger9.fr^
 ||teliad.fr^*/banner/
+||teramixer.com/themes/cloudmix/img/pixel/
 ||terasexe.com/pubs/
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
 ||tools.gigacu.com^
@@ -1677,12 +1679,14 @@ _adb_728x90_$popup
 ||zp.programme.tv^
 ||zupimages.net/up/2/1780414445.gif
 ! genericblock
+?adCampaign=$popup$popup,domain=dpstream.net
 ||adikteev.com^$domain=foot01.com
 ||adnxs.com^$domain=jeu.info
 ||ads.sportslocalmedia.com^$domain=foot01.com
 ||affiliation-france.com^$domain=dpstream.net
 ||eafyfsuh.net^*/?name=$popup
 ||elasticad.net^$domain=foot01.com
+||googlesyndication.com/pagead/$domain=dpstream.net
 ||goyavelab.com^$popup,domain=dpstream.net
 ||jeu.info/js/drawpub4.js$domain=jeu.info
 ||ligatus.com/angular_$domain=foot01.com
@@ -5138,6 +5142,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||google.com/adsense/$subdocument,domain=sedo.fr
 @@||google.com/adsense/search/ads.js$domain=zoover.fr
 @@||google.com/uds/$script,domain=rfm.fr|virginradio.fr
+@@||goyavelab.com/dtct.js$script
 @@||hitek.fr/ads.js$script
 @@||host3.adhese.be/tag/tagv1.js$script,domain=lavenir.net
 @@||hostinger.fr/banners/*/hostinger-$image,~third-party
@@ -5304,7 +5309,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||gepotacet.com^$image,~third-party
 @@||golutica.com^$image,~third-party
 @@||goraminet.com^$image,~third-party
-@@||goyavelab.com/dtct.js$script
 @@||iarareiute.com^$image,~third-party
 @@||icenoru.com^$image,~third-party
 @@||iduepoteluo.com^$image,~third-party
@@ -5334,6 +5338,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||mapusia.com^$image,~third-party
 @@||mcuelinin.com^$image,~third-party
 @@||mediazs.com^$image,~third-party
+@@||meneteonuip.com^$image,~third-party
 @@||meuauteu.com^$image,~third-party
 @@||mimumaca.com^$image,~third-party
 @@||mustacor.com^$image,~third-party
