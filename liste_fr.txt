@@ -249,6 +249,7 @@
 ?adlink/
 ?clickTag=
 ?imgPrefix=/ligatus/
+?runauction=*?crr=*&cbrandom=
 @publicite@
 \adds\adds.
 _46860_
@@ -314,6 +315,7 @@ _Social-Advert-
 =pubdirecte&$popup
 ?adCampaign=$popup
 ?preview=*&pgid*&from_sz=$popup
+?runauction=*?crr=*&ctbust=$popup
 _adb_300x250_$popup
 _adb_728x90_$popup
 !
@@ -970,13 +972,11 @@ _adb_728x90_$popup
 ||effiliation.com^$popup,third-party
 ||espace-plus.net^$popup,third-party
 ||europacash.com^$popup,third-party
-||exity.info^$popup,third-party
 ||femme-cougar.tv^$popup,third-party
 ||femtoads.com^$popup,third-party
 ||fhserve.com^$popup,third-party
 ||flagagreebelieve.com^$popup,third-party
 ||flashtalking.com^$popup,third-party
-||folue.info^$popup,third-party
 ||gestionpub.com^$popup,third-party
 ||getgamers.eu^$popup,third-party
 ||getlinksinaseconds.com^$popup,third-party
@@ -1068,6 +1068,7 @@ _adb_728x90_$popup
 !----------------------- Publicités tierces ----------------------!
 !
 |bit.ly^$popup,domain=france-telechargement.com
+|http:$popup,third-party,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exity.info|folue.info|gover.info|guib.info|maldi.info|opert.info|oping.info|rors.info|thand.info|utte.info
 |http:$subdocument,third-party,domain=clictune.com|contextualyield.com|sa.ae
 |http://*/*0*0*0*0*0*0*0*0$script,xmlhttprequest,domain=generation-nt.com
 |http://*/bandito.php?$domain=t411.in
@@ -1199,7 +1200,6 @@ _adb_728x90_$popup
 ||classistatic.com/*/homepage-banner/
 ||clicjeux.net/bann/
 ||clicjeux.net/banniere.
-||clien.info/goto-$popup
 ||clip-x.net/images/pub/
 ||cliquojeux.com/pub/
 ||cloudfront.net/pop?tid=
@@ -1290,7 +1290,6 @@ _adb_728x90_$popup
 ||findmysexfriend.com^$popup,domain=extremepc.fr
 ||fitnext.com/masculin_box$third-party
 ||flyrelax.com/wp-widget/widget.php
-||folue.info/9elwa.html
 ||fortuneinternet101.com/Bannieres/
 ||freedownload-kk.com^
 ||frenchfriendfinder.com^$domain=choualbox.com
@@ -2984,14 +2983,6 @@ _adb_728x90_$popup
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
-! Youwatch
-?runauction=*?crr=*&cbrandom=
-?runauction=*?crr=*&ctbust=$popup
-|http:$popup,third-party,domain=convs.info|couns.info|thand.info
-|http://*.htm$popup,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|elded.info|eties.info|exity.info|gover.info|guib.info|opert.info|thand.info|utte.info
-|http://*/?tid=$popup,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|elded.info|eties.info|exity.info|gover.info|guib.info|opert.info|thand.info|utte.info
-! Exashare
-|http://*/watch?$popup,domain=dowed.info
 ! MacGeneration
 macg.co###block-quicktabs-bon-plans-macg-
 igen.fr,macg.co##.ebay
