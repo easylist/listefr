@@ -1128,7 +1128,6 @@ _adb_728x90_$popup
 ||allstatics.com/pub/
 ||amateurdusexe.com//banniere/
 ||amateursvideos.net/banners/
-||amazon.fr$popup,domain=fdesouche.com
 ||amazon.fr/exec/obidos/external-search?$subdocument,domain=annuaire-bleu.net
 ||animes-streaming.net/pubs/
 ||annuaire-energie-renouvelable.org/cssimg/site/$third-party
@@ -1681,6 +1680,10 @@ _adb_728x90_$popup
 ||zooplus.fr/affiliate/
 ||zp.programme.tv^
 ||zupimages.net/up/2/1780414445.gif
+! fdesouche
+||amazon.fr^$popup,domain=fdesouche.com
+||lc.cx^$popup,domain=fdesouche.com
+||ow.ly^$popup,domain=fdesouche.com
 ! genericblock
 ?adCampaign=$popup$popup,domain=dpstream.net
 ||adikteev.com^$domain=foot01.com
@@ -2054,7 +2057,6 @@ _adb_728x90_$popup
 ||fastecard.net^*/pub
 ||fcnantes.com/includes/sponsor/
 ||fdata.over-blog.net^*/js/ob.bar1*.js
-||fdesouche.com/wp-content/themes/fdesouche2014/js/libs.js
 ||fifostream.tv/video.html
 ||files-save.com/noyaux/pub/
 ||filmhentai.fr/tpl2/tools/
@@ -4808,7 +4810,6 @@ brunotritsch.fr##a[href^="http://fr.webmaster-rank.info/stat/affiliate/"]
 abidjan.net,igen.fr,macg.co##a[href^="http://goo.gl/"]
 moviz-telecharger.com##a[href^="http://moviz-telecharger.com/films-en-qualité-hd-"]
 korben.info##a[href^="http://network.bemyapp.com/trk/"]
-fdesouche.com##a[href^="http://ow.ly/"]
 nouvelobs.com##a[href^="http://partner.global-espace.com/"]
 jamsvu.fr##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
 annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
@@ -4827,7 +4828,6 @@ zetorrents.com##a[href^="http://trf."]
 futurama-stream.eu,play-fr.com,seriesnostop.com,t411streaming.com##a[href^="http://www.adcash.com/script/clic.php?"]
 downparadise.ws##a[href^="http://www.affiliation-france.com/"]
 fullanimes.free.fr##a[href^="http://www.allopass.com/check/red.php"] > img
-fdesouche.com##a[href^="http://www.amazon.fr/"]
 scally.typepad.com##a[href^="http://www.amazon.fr/"] > img
 alsacreations.com##a[href^="http://www.amazon.fr/gp/product/"]
 usbfix.net##a[href^="http://www.bitdefender.fr/media/"]
@@ -4888,7 +4888,6 @@ blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
-fdesouche.com##div + * + script + script[type="text/javascript"] + noscript + div
 forumconstruire.com##div#\31 .postbox_forum
 annuaire-horaire.fr##div#aq
 pyrenees-team.com##div#link
