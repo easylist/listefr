@@ -1824,8 +1824,9 @@ _adb_728x90_$popup
 ||batiment.nc/PUBS/
 ||bcc.linternaute.com^
 ||bdgest.com/habillages/
-||beaute-test.com/gif/part/
-||beaute-test.com/shoppingbox/
+||beaute-test.com/img/habillages/
+||beaute-test.com/shopping/*.php?
+||beaute-test.com/users/*.php?$image
 ||becompta.be/sites/default/files/banners/
 ||bedetheque.com/javascript/campagne?
 ||begeek.fr/cdiscount.jpg
@@ -3852,7 +3853,6 @@ asso-web.com###container_pub
 asso-web.com###container_pub_left
 canalturf.com###content > div[style="width:100%; z-index: 100; margin-bottom:10px; text-align:center "]:first-child
 millenium.org###content_pub
-beaute-test.com###devtribu_sb
 lareclame.fr###dfp-top
 viamichelin.com###diaporama
 only-stream.com###disclaimer
@@ -4268,7 +4268,6 @@ souiqua.net##.adblock
 reverso.net##.adcontent
 gmx.fr##.add
 vinyculture.com##.addLink
-beaute-test.com##.addictbloc
 01net.com##.adnl_zone
 actustar.com,aujourdhui-en-france.fr,cvya.dz,fairytailmx.com,floriankarmen.com,football365.fr,footespagnol.fr,freefoot.fr,htmlforums.com,leparisien.fr,lephpfacile.com,lequipe.fr,lyon365.fr,media365.fr,mercato365.com,metronews.fr,monaco365.fr,nolyo-tv.com,obturations.com,oujdacity.net,over-blog.com,raje.fr,replay.fr,rugby365.fr,rugby365.fr.fr,scan-mx.com,sortiesdvd.com,sport365.fr,streaming-video3x.com,telesatellite.com,televiseurs.net,tonmanga.com,uzinagaz.com,webstar-auto.com,webstar-electro.com,yourporno.fr##.ads
 artdeseduire.com##.ads-books
@@ -4799,6 +4798,7 @@ ensnaredbyabook.com##a[href^="/file.php?name="]
 mayottehebdo.com##a[href^="/index.php?option=com_banners"]
 immigrer.com##a[href^="/p/bannieres/"]
 confidentielles.com##a[href^="/rc_787_"]
+beaute-test.com##a[href^="/stat/clic.php?"]
 emule-island.ru##a[href^="/tutoriaux/usenext-dl.php?"]
 kerix.net##a[href^="LienExterne.asp?"]
 ladepeche.pf##a[href^="ads/"]
@@ -5109,7 +5109,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||aw-experience.com/banners/b0.png
 @@||banners.oxiads.fr/player/
 @@||bannieres.telethon.fr/compteurs/$image,subdocument
-@@||beaute-test.com/global/ads.js
+@@||beaute-test.com/service/show_ads.js$script
 @@||beead.fr^$domain=doc-etudiant.fr|ouifm.fr|play.nrj.fr|radiofg.com|radioneo.org|replay.fr|rfm.fr|virginradio.fr|wakanim.tv
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
