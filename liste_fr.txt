@@ -747,6 +747,7 @@ _adb_728x90_$popup
 ||pluginnetwork.net^$third-party
 ||plurielmediacenter.com^$third-party
 ||plusservicepartners.com^$third-party
+||poala21.com^$third-party
 ||poparb.com^$third-party
 ||popitunder.com^$third-party
 ||popzila.com^$third-party
@@ -1077,9 +1078,6 @@ _adb_728x90_$popup
 |http:$popup,~third-party,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exity.info|folue.info|gover.info|guib.info|maldi.info|opert.info|oping.info|rors.info|thand.info|utte.info
 |http:$subdocument,third-party,domain=clictune.com|contextualyield.com|sa.ae
 |http://*/*0*0*0*0*0*0*0*0$script,xmlhttprequest,domain=generation-nt.com
-|http://*/bandito.php?$domain=t411.in
-|http://*/clip.php?$popup,domain=t411.in
-|http://*/disd.php?$domain=t411.in
 |http://newpromo.$domain=cpasbien.io
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
@@ -1686,6 +1684,11 @@ _adb_728x90_$popup
 ||zooplus.fr/affiliate/
 ||zp.programme.tv^
 ||zupimages.net/up/2/1780414445.gif
+! Tagnwin
+/bandito.php?p=*&z=*&f=*&j=*&t=$xmlhttprequest
+/clip.php?p=*&u=*&z=*&j=$popup
+/disd.php?idsite=*&idzone=$script
+|http://cdn.*/dispr.js$script,third-party
 ! fdesouche
 ||amazon.fr^$popup,domain=fdesouche.com
 ||i.imgur.com^$domain=fdesouche.com
