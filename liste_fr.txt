@@ -1076,6 +1076,7 @@ _adb_728x90_$popup
 !----------------------- Publicités tierces ----------------------!
 !
 |bit.ly^$popup,domain=france-telechargement.com
+|http:$popup,third-party,domain=uptobox.com
 |http:$popup,~third-party,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exity.info|folue.info|gover.info|guib.info|maldi.info|opert.info|oping.info|rors.info|thand.info|utte.info
 |http:$subdocument,third-party,domain=clictune.com|contextualyield.com|sa.ae
 |http://*/*0*0*0*0*0*0*0*0$script,xmlhttprequest,domain=generation-nt.com
@@ -1107,7 +1108,6 @@ _adb_728x90_$popup
 ||ad.atdmt.com/i/go;$third-party
 ||ad.vacanceo.com^
 ||ad.zanox.com^
-||adf.ly^$subdocument,domain=uptobox.com
 ||adf.pulsesky.com^
 ||adjsla.daycorpltd12.netdna-cdn.com^
 ||ads.giponewing.com^
@@ -1636,8 +1636,6 @@ _adb_728x90_$popup
 ||untravailadomicile.info/images/banner
 ||up-banner.wavecdn.net^
 ||uptojizz.com/iframe.php
-||uptojizz.com^$popup,domain=uptobox.com
-||uptoporn.com^$popup,domain=uptobox.com
 ||uq4x9ydv55xa.xyz^
 ||urafur.clubeo.com^
 ||url.ph/banners/
