@@ -155,6 +155,7 @@ homecinema-fr.com[Adblock Plus 2.0]
 /js.adv.$script
 /layout/ads?
 /lib/ads.
+/load.php?action=adsc&
 /miniads/*
 /newpromo.$subdocument
 /nugg.ad.
@@ -2026,8 +2027,6 @@ _adb_728x90_$popup
 ||eklablog.net/js/addons/iQweez.js?
 ||elahmad.com/ads/
 ||elahmad.com/js/extreme.js
-||electromenager-compare.com/images/*/bup-
-||electromenager-compare.com/images/wza/
 ||elevage-poules.com/Images/matpoules.gif
 ||elmazzika.com/images/banota.jpg
 ||elmazzika.com/images/download.png
@@ -2198,8 +2197,6 @@ _adb_728x90_$popup
 ||histoires-de-sexe.net/histoires-sexe-videos.php$popup
 ||hitek.fr/img/*-ban.
 ||hitek.fr/img/emoticons/wallpaper-
-||homecine-compare.com/images/*/bup-
-||homecine-compare.com/images/wza/
 ||homecinema-fr.com/iframe-header-300x600-
 ||homecinema-fr.com/images/CableHDMI-
 ||homecinema-fr.com/images/habactivehd_
@@ -2322,7 +2319,6 @@ _adb_728x90_$popup
 ||lc2international.tv/contenus/images/nasuba-
 ||lc2international.tv/images/banners/
 ||lc2international.tv/video/pub-
-||lcd-compare.com/images/wza/
 ||le1er.net/pub-
 ||leboncoin.fr^*/*-habillage-
 ||leboncoin.fr^*/0/Leboncoin/ELE*/
