@@ -1689,10 +1689,10 @@ _adb_728x90_$popup
 /disd.php?idsite=*&idzone=$script
 |http://cdn.*/dispr.js$script,third-party
 ! fdesouche
+|http://ow.ly^$popup,domain=fdesouche.com
+|https://lc.cx^$popup,domain=fdesouche.com
 ||amazon.fr^$popup,domain=fdesouche.com
 ||i.imgur.com^$domain=fdesouche.com
-||lc.cx^$popup,domain=fdesouche.com
-||ow.ly^$popup,domain=fdesouche.com
 ! genericblock
 ?adCampaign=$popup,domain=dpstream.net
 ||adikteev.com^$domain=foot01.com
