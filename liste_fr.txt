@@ -110,6 +110,7 @@
 /bandeau-pub-
 /bandeaupublicite/*
 /bandito.php?p=$xmlhttprequest
+/bann468X60.
 /banner/*/sponsored?
 /banner720x90/?ad=
 /banner_campaign_
@@ -235,6 +236,8 @@
 /showads?
 /srv.php?size=300x250
 /srv.php?size=315x300
+/tag468.php
+/tag728.php
 /Temp/Ads/*
 /ttn_adspaces
 /widget.advertisement.
@@ -1232,6 +1235,7 @@ _adb_728x90_$popup
 ||classistatic.com/*/homepage-banner/
 ||clicjeux.net/bann/
 ||clicjeux.net/banniere.
+||clickbiz.fr/upload/ban/
 ||clip-x.net/images/pub/
 ||cliquojeux.com/pub/
 ||cloudfront.net/pop?tid=
@@ -1299,6 +1303,7 @@ _adb_728x90_$popup
 ||equirodi.com/images/pub/
 ||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
 ||eurasie.eu/sponsors-
+||euro-gains.fr/upload/ban/
 ||euro-liste.net/affich_
 ||euroclix.fr^$domain=176.31.96.119
 ||eurosportbet.loa24.com^$domain=eurosport.fr
@@ -1374,6 +1379,7 @@ _adb_728x90_$popup
 ||kbn.im^$image,domain=korben.info
 ||kelformation.com/htm/*/habillage/
 ||kiporn.com^$popup,domain=yourporno.fr
+||kloopicash.com/upload/ban/
 ||kokinette.com/ban/$third-party
 ||la-paysanne.com/ban/$third-party
 ||ladmedia.fr/includes/cobrand/*/habillage/
@@ -1382,7 +1388,11 @@ _adb_728x90_$popup
 ||lagur.com/a7fr/scroller.php$domain=israel7.com
 ||laposte.net/webmail/*/panels/images/Pied_de_Mail_
 ||laprocure.com/i/bannieres/
+||lasurfeuze.com/images/gaddin.jpg
+||lasurfeuze.com/Img/noban.
 ||lautosurf.com/promo/
+||lavisiodelalicorne.fr//upload/bannieres/
+||lavisiodelalicorne.fr/upload/bannieres/
 ||ldh.be/theme/*/bsf-bg.jpg
 ||ldh.be/theme/*/relooking-
 ||ldlc.com/#aff$popup,third-party
@@ -1654,6 +1664,7 @@ _adb_728x90_$popup
 ||wallmanga.com/img/anim_banniere_
 ||wbdds.*/include/async
 ||wbz11.com/m/habillage/
+||web-autosurf.com/promo/
 ||webcilon.tripod.com/bannieres/
 ||webself.net/WebselfEditeur/FormulaireDemo.aspx?
 ||webstars.fr/services/webstars.php?
@@ -2296,6 +2307,8 @@ _adb_728x90_$popup
 ||laptopspirit.fr/js/su.js
 ||laptopspirit.fr^*/habillage-
 ||laredoute.fr/*/pubiframe/
+||lasurfeuze.com/index.php?page=banner
+||lasurfeuze.com/tagsky.php
 ||lateen18.com^*/u.js
 ||lavoixdefrance.fr/pbs/
 ||lc2international.tv/contenus/images/nasuba-
