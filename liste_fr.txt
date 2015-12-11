@@ -259,6 +259,7 @@
 ?clickTag=
 ?imgPrefix=/ligatus/
 ?runauction=*?crr=*&cbrandom=
+@preroll/*,adb=$xmlhttprequest
 @publicite@
 \adds\adds.
 _46860_
@@ -492,6 +493,7 @@ _adb_728x90_$popup
 ||aties.info^$third-party
 ||avanis.fr^$third-party
 ||avenir-affiliation.fr^$third-party
+||avorteronmedia.lol^$third-party
 ||awsclic.com^$third-party
 ||ayads.co^$third-party
 ||badibadou.eu^$third-party
@@ -505,6 +507,7 @@ _adb_728x90_$popup
 ||bizhentai.com^$third-party
 ||biznolimit.com^$third-party
 ||blogbang.com^$third-party
+||blueste.diet^$third-party
 ||bntags.com^$third-party
 ||booraq.org^$third-party
 ||boostsaves.com^$third-party
@@ -1694,7 +1697,6 @@ _adb_728x90_$popup
 ||ligatus.com/angular_$domain=foot01.com
 ||pagead2.googlesyndication.com^$domain=jeu.info
 ||pureadexchange.com^$domain=dpstream.net
-||wbdds.jeuxvideo.com^$domain=jeu.info
 !
 !----------------------- Sites spécifiques -----------------------!
 !
@@ -2919,7 +2921,6 @@ _adb_728x90_$popup
 ||wamiz.fr/css/habillage/
 ||watchcartoononline.com/inc/siteskin/swf/*.swf
 ||wawa-mania.*/ph.jpg
-||wbdds.jeuxvideo.com^
 ||webchoc.com/pop.js
 ||webfrance.com/images/*120135.
 ||webfrance.com/images/*120600.
@@ -5056,8 +5057,8 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||ads.audience2media.com/crossdomain.xml$domain=videos.nt1.tv
 @@||ads.horyzon-media.com/config.js?$script,domain=larousse.fr
 @@||ads.horyzon-media.com/diff/js/smart.js$script,domain=larousse.fr
-@@||ads.webedia.fr/crossdomain.xml$domain=ozap.com|purepeople.com
-@@||ads.webedia.fr/p-dp-vast2/$object-subrequest,domain=ozap.com|purepeople.com
+@@||ads.webedia.fr/crossdomain.xml$domain=ozap.com
+@@||ads.webedia.fr/p-dp-vast2/$object-subrequest,domain=ozap.com
 @@||adserve.atedra.com/js/$script,domain=pourquoipas.ca|radiox.com
 @@||adserve.atedra.com/serve.php?z=$script,domain=pourquoipas.ca|radiox.com|vilaingeek.ca
 @@||adserve.atedra.com/vast/$domain=pourquoipas.ca|radiox.com
@@ -5209,7 +5210,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||soutenir.apprentis-auteuil.org/adserver2/$image,script,stylesheet
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||static.touraineverte.com/banners/$image
-@@||stcwbd.com/ads/plugins/jwplayer/player.swf$domain=eurosport.fr|ozap.com|purepeople.com|puretrend.com
+@@||stcwbd.com/ads/plugins/jwplayer/player.swf$domain=eurosport.fr|ozap.com|puretrend.com
 @@||stickyads.adswizz.com/www/components/videocomponent.swf$object-subrequest,domain=cherie25.fr|nrj.fr|nrj12.fr|rireetchansons.fr
 @@||stickyadstv.com/www/components/VideoComponent.swf
 @@||syndication.exoclick.com/ads.php?type=468x60&$script,domain=maxdebrideur.com
@@ -5307,7 +5308,9 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@.gif#$image,domain=automobile-sportive.com|youwatch-series.com
 @@.jpg#$image,domain=dpstream.cc|naruto-mx.net
 @@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|rapidebrideur.com|total-sport.tv|tout-gratuit.be|youwatch-series.com
+@@/adblk.js?&ad_type=$script,third-party
 @@/adblk.js?ad_type=$script,third-party
+@@/adblk2.js?ad_type=$script,third-party
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adscript.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|phonandroid.com|pixelistes.com
 @@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|dramapassion.com|easybillets.com|evilox.com|funeralforamanga.fr|gamersconnexion.com|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
