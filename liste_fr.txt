@@ -167,6 +167,7 @@
 /newpromo.$subdocument
 /nugg.ad.
 /nugg.add.
+/null/*/Tag.$script,third-party
 /openwindow.js?puurl=
 /page_pub.
 /pagepub.
@@ -327,6 +328,7 @@ _Social-Advert-
 /effi.click?$popup
 /fr/adcr/*$popup
 /iframePopUpLoader.$popup
+/null/*/Redirect.$popup,third-party
 /pop_packcpm.$popup
 /renderBanner.do?$popup
 /script/campagne.php?cp=$popup
@@ -529,6 +531,7 @@ _adb_728x90_$popup
 ||cash-manager.biz^$third-party
 ||cdn.nextperf.net^$third-party
 ||cdn.savage.nu^$third-party
+||cdn.xaxoro.com^$third-party
 ||cdxndirect.com^$third-party
 ||cdxndirectopt.com^$third-party
 ||cdxnopt.com^$third-party
@@ -1098,6 +1101,7 @@ _adb_728x90_$popup
 ||wordkeyhelper.com^$popup,third-party
 ||www.meetic-partners.com^$popup,third-party
 ||x.porn.fr^$popup,third-party
+||xaxoro.com^$popup,third-party
 ||xmediaserve.com^$popup,third-party
 ||youradexchange.com^$popup,third-party
 ||youwatchtab.com^$popup,third-party
@@ -1155,6 +1159,7 @@ _adb_728x90_$popup
 ||agence-ecofin.com/mysimple/banners/
 ||ajoutezvotrelien.com/visuel46.png
 ||algeriemobiles.com/pub/
+||alibaba.com^$popup,domain=streamin.to
 ||aliencable.com/images/habillagealien.jpg
 ||allo-heberge.com/interface/bannieres/
 ||allo-nom.com/interface/bannieres/
