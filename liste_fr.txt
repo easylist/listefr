@@ -1707,21 +1707,22 @@ _adb_728x90_$popup
 ! genericblock
 ?adCampaign=$popup,domain=dpstream.net
 ||adikteev.com^$domain=foot01.com
-||adnxs.com^$domain=jeu.info
 ||ads.sportslocalmedia.com^$domain=foot01.com
 ||affiliation-france.com/bans/$domain=affiliation-france.com
 ||affiliation-france.com^$domain=purevid.com
 ||affiliation-france.com^$popup,~third-party,domain=affiliation-france.com
+||cdn.adnxs.com^$domain=jeu.info
+||criteo.com^$domain=jeu.info
 ||dowed.info/hqq_stream.html$domain=dowed.info
 ||dowed.info^$popup,~third-party,domain=dowed.info
 ||elasticad.net^$domain=foot01.com
 ||emea.pub^$popup,domain=affiliation-france.com
 ||exasharetab.com^$popup,domain=dowed.info
-||goyavelab.com^$popup,domain=dpstream.net
-||jeu.info/js/drawpub4.js$domain=jeu.info
+||googleads.g.doubleclick.net^$domain=jeu.info
+||goyavelab.com^$popup,domain=dpstream.net|jeu.info
 ||ligatus.com/angular_$domain=foot01.com
 ||ohmyad.co^$domain=dpstream.net
-||pagead2.googlesyndication.com^$domain=jeu.info
+||pagead2.googlesyndication.com/getconfig/$domain=jeu.info
 ||pubdirecte.com^$domain=dowed.info|teramixer.com
 ||pubdirecte.com^$popup,domain=teramixer.com
 ||puhtml.com^$domain=dowed.info
@@ -2262,7 +2263,6 @@ _adb_728x90_$popup
 ||japan-expo.com/files/habilllageautopromogiz.jpg
 ||jedessine.com^*/monstermunch/
 ||jeu.auchan.fr^$popup
-||jeu.info/js/drawpub4.js
 ||jeu.net/js/drawpub2.js
 ||jeu.net/pub/
 ||jeune-homme-gay.com^*/u.js
@@ -4151,7 +4151,6 @@ voyageforum.com###pubbetween
 orange.fr###pubdudessous
 laredoute.fr###pubiframe_sky
 paris-communiques.com,plateformemedia.com###publaterale
-jeu.info###publeft
 troc-velo.com###publine
 focus-numerique.com,japan-expo.be,lapresse.ca###pubs
 algerie360.com###pubsousVid
