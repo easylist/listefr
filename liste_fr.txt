@@ -394,6 +394,7 @@ _adb_728x90_$popup
 ||ad6.fr^$third-party
 ||adaccess.fr^$third-party
 ||adaraby.com^$third-party
+||adcpm.com^$third-party
 ||addserving.com^$third-party
 ||adecolo.com^$third-party
 ||adfever.com^$third-party
@@ -1609,6 +1610,7 @@ _adb_728x90_$popup
 ||speedgame.fr/logo.png$third-party
 ||speedgame.fr^$popup,domain=southpark-stream.fr
 ||speedtest.net/images/$domain=infostar.e-monsite.com
+||spilcloud.com/gameapi/*_banner_
 ||sponsorboost.com/banniere-rotative.
 ||sponsoweb.com/htdocs/templates/banners/
 ||stars-passion.com/ban/$third-party
@@ -4197,6 +4199,7 @@ slate.fr###smart14320
 slate.fr###smart14321
 slate.fr###smart14321pub
 sortirensemble.com###sondage_age
+iwin.com###spilgames_crosspromotion_banner
 jeuxvideo.com###sponso_forum + * + * + *
 europages.fr###sponsor
 algerie-focus.com###sponsor-axa
@@ -4549,6 +4552,7 @@ radio.rtl.fr##.money-talks
 msn.com##.nativead
 lien-torrent.com##.nav-profil
 leboncoin.fr##.newPartnerbox
+iwin.com##.ng-scope > .modals
 ad4.fr##.nicebtn
 gameblog.fr##.noPremium
 echoroukonline.com##.no_design
@@ -5366,12 +5370,13 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@/adblk2.js?ad_type=$script,third-party
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adscript.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|phonandroid.com|pixelistes.com
-@@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|dramapassion.com|easybillets.com|evilox.com|funeralforamanga.fr|gamersconnexion.com|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
+@@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|dramapassion.com|easybillets.com|evilox.com|funeralforamanga.fr|gamersconnexion.com|jeu.fr|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/check.js?$script,third-party
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
-@@|http://*.js$script,third-party,domain=jeu.fr|jeux.fr
+@@|http://*.js$script,third-party,domain=jeux.fr
 @@||6play.fr/media/js/publicite.js
 @@||infojeu.com^$script,domain=jeu.info
+@@||static1.spilcdn.com/vda/advert.js$script,third-party
 !
 ||nikopik.com/wp-content/themes/nikopik-wordpress-theme/assets/js/nikopik.js
 ||pubdirecte.com^$~collapse,domain=debrideurstream.fr
@@ -5465,6 +5470,7 @@ dbz-fantasy.com#@##adTeaser
 jetetroll.com,phonandroid.com#@##adsense
 debrideurstream.fr#@##pubdirecte
 retinaboys.com###screen_block
+iwin.com#@##sponsorText
 fairytailmx.com#@##sponsored-ad
 forum.virtualdjing.com#@#.adFrame
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
