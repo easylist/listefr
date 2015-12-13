@@ -1012,6 +1012,7 @@ _adb_728x90_$popup
 ||delnapb.com^$popup,third-party
 ||download366.net^$popup,third-party
 ||effiliation.com^$popup,third-party
+||emea.pub^$popup,third-party
 ||espace-plus.net^$popup,third-party
 ||europacash.com^$popup,third-party
 ||femme-cougar.tv^$popup,third-party
@@ -1039,7 +1040,6 @@ _adb_728x90_$popup
 ||livepartners.com^$popup,third-party
 ||marsads.com^$popup,third-party
 ||medncom.com^$popup,third-party
-||mes-meilleurs-films.fr^$popup,third-party
 ||monetizemytraffic.com^$popup,third-party
 ||multiupload.com^$popup,third-party
 ||mumbai-invest.email^$popup,third-party
@@ -1273,6 +1273,7 @@ _adb_728x90_$popup
 ||disco-sexe.com/ban/$third-party
 ||discutfree.com^$popup,domain=netvibes.com
 ||dmcdn.net^*/Orange_PingPong/$subdocument
+||dowed.info/hqq_stream.html
 ||downloading.to/*?k=&ban=$popup
 ||downloading.to/*?runauction=
 ||downloading.to/static/v2/pop.min.js
@@ -1521,6 +1522,7 @@ _adb_728x90_$popup
 ||promo.ejaculer.fr^
 ||promo.eurolive.com^$third-party
 ||promo.jeunette.net^
+||promo.mes-meilleurs-films.fr^$popup
 ||promo.partie-membres.com^
 ||promo.payserve.com^$third-party
 ||promo.porc.com^
@@ -1707,15 +1709,24 @@ _adb_728x90_$popup
 ||adikteev.com^$domain=foot01.com
 ||adnxs.com^$domain=jeu.info
 ||ads.sportslocalmedia.com^$domain=foot01.com
-||affiliation-france.com^$domain=dpstream.net
-||eafyfsuh.net^*/?name=$popup
+||affiliation-france.com/bans/$domain=affiliation-france.com
+||affiliation-france.com^$domain=purevid.com
+||affiliation-france.com^$popup,~third-party,domain=affiliation-france.com
+||dowed.info/hqq_stream.html$domain=dowed.info
+||dowed.info^$popup,~third-party,domain=dowed.info
 ||elasticad.net^$domain=foot01.com
-||googlesyndication.com/pagead/$domain=dpstream.net
+||emea.pub^$popup,domain=affiliation-france.com
+||exasharetab.com^$popup,domain=dowed.info
 ||goyavelab.com^$popup,domain=dpstream.net
 ||jeu.info/js/drawpub4.js$domain=jeu.info
 ||ligatus.com/angular_$domain=foot01.com
+||ohmyad.co^$domain=dpstream.net
 ||pagead2.googlesyndication.com^$domain=jeu.info
+||pubdirecte.com^$domain=dowed.info|teramixer.com
+||pubdirecte.com^$popup,domain=teramixer.com
+||puhtml.com^$domain=dowed.info
 ||pureadexchange.com^$domain=dpstream.net
+||startnewtab.com^$popup,domain=dowed.info
 !
 !----------------------- Sites spécifiques -----------------------!
 !
@@ -1844,6 +1855,8 @@ _adb_728x90_$popup
 ||bioalaune.com/sites/default/files/add_600/
 ||bioalaune.com/sites/default/files/homeccdef2.jpg
 ||bioalaune.com/sites/default/files/mobile_habillage/
+||bit.ly^$domain=teramixer.com
+||bit.ly^$popup,domain=teramixer.com
 ||bittovore.com/popup.php$popup
 ||blague.info/pub/
 ||blog-nouvelles-technologies.fr/wp-content/annonceurs/
@@ -2007,6 +2020,7 @@ _adb_728x90_$popup
 ||e-media-concept.com/medias/pub/
 ||e-orientations.com/bdd/habillage/
 ||e-sante.fr/sites/default/files/templates/$image
+||eafyfsuh.net^*/?name=$popup
 ||easyrencontre.com/promo
 ||easyvols.org/leparisien/
 ||easyvols.org/liberation/
@@ -4083,6 +4097,7 @@ soonnight.com###popup_connect
 sitedesmarques.com###posPub
 korben.info###post-partenaire
 forumfr.com###post_id_pub
+teramixer.com###preroll-case-prime
 homecine-compare.com###prl_box_p1
 fluvore.com###prom
 ecranlarge.com,lacanausurfinfo.com###promo
@@ -5019,6 +5034,7 @@ lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 bfmtv.com##iframe[id^="ligatus"]
+dpstream.net##iframe[src^="http://www.affiliation-france.com/"]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
@@ -5143,7 +5159,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/ad-remover/img/
 @@||download.gameblog.fr/images/promo/ban_premium_300.jpg
-@@||dpstream.net^$genericblock,generichide
+@@||dpstream.net^$genericblock
 @@||ds.serving-sys.com/BurstingRes//$object-subrequest,domain=buzzmoica.fr
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
 @@||dzautos.com/swf/prix_du_neuf.swf
