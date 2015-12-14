@@ -1712,8 +1712,8 @@ _adb_728x90_$popup
 /disd.php?idsite=*&idzone=$script
 |http://cdn.*/dispr.js$script,third-party
 ! fdesouche
-|http://ow.ly^$popup,domain=fdesouche.com
-|https://lc.cx^$popup,domain=fdesouche.com
+|http*/lc.cx^$popup,domain=fdesouche.com
+|http*/ow.ly^$popup,domain=fdesouche.com
 ||amazon.fr^$popup,domain=fdesouche.com
 ||i.imgur.com^$domain=fdesouche.com
 ! genericblock
@@ -4493,6 +4493,7 @@ clubic.com##.header-autopromo
 equirodi.be##.header_adv
 frandroid.com##.header_htr
 ouiounon.net##.headertitrelien[target="_blank"]
+fdesouche.com##.home.blog > #activate-fullscreen + div + script + script + script + noscript + *
 lafermeduweb.net##.homePub
 abrutis.com##.home_menu_container
 lo.st##.home_partner_img
@@ -4781,6 +4782,7 @@ tsa-algerie.com##.zone_annonceurs
 lepetiteconomiste.com##.zoom
 lefigaro.fr##.zoom-widget-react
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
+fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
 guide-piscine.fr##[class^="pub_"]
