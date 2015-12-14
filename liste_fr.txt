@@ -175,6 +175,7 @@
 /partners/ads-
 /partnertag/iframe.
 /plugins/vp_pub/*
+/pop-ads.
 /pop.php?user=
 /popcashnet.js
 /popunder3.
@@ -809,6 +810,7 @@ _adb_728x90_$popup
 ||pubwebnet.com^$third-party
 ||pureadexchange.com^$third-party
 ||pwspace.com^$third-party
+||qads1.pw^$third-party
 ||quaelead.com^$third-party
 ||quanta.lu^$third-party
 ||qwerty1.co.pl^$third-party
@@ -1215,6 +1217,7 @@ _adb_728x90_$popup
 ||beurettes-faciles.com/promo/
 ||bit.ly$image,domain=teramixer.com
 ||bit.ly^$image,domain=phonandroid.com
+||bit.ly^$popup,domain=telechargementz-streaming.com
 ||bitchvolley.com/ban/$third-party
 ||blablaland.com/pubosaure/
 ||bon-reduc.com/pub/
@@ -1597,6 +1600,7 @@ _adb_728x90_$popup
 ||shopoon.fr/catalog/generated_boxes/
 ||shopping.com/publisher/$third-party
 ||shoppingbox.leguide.com^
+||short-stuff.com^$popup,domain=telechargementz-streaming.com
 ||simabio.fr/widget_$third-party
 ||simpleads.biz^
 ||sixtyonemedia.com/?campaign=
@@ -4793,6 +4797,7 @@ cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
 frenchweb.fr##a.wpproaddlink[target="_blank"]
+telechargementz-streaming.com##a[href$=".php"]
 opensubtitles.org##a[href$="=="][rel="nofollow"]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 artdeseduire.com##a[href*="/?part=ads"]
@@ -4851,7 +4856,7 @@ boursorama.com##a[href^="http://ads."]
 lotusnoir.info##a[href^="http://adv-myninja."]
 aidemu.fr##a[href^="http://aidemu.fr/pub/"]
 developpez.net##a[href^="http://altsysimg.developpez.com/click.php?a="]
-films-regarder.com##a[href^="http://api.adlure.net/"]
+films-regarder.com,telechargementz-streaming.com##a[href^="http://api.adlure.net/"]
 torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
 challenges.fr##a[href^="http://assurance-emprunteur.challenges.fr/"]
 brain-magazine.fr##a[href^="http://bit.ly/"]
