@@ -4007,9 +4007,6 @@ bioalaune.com,comics-sanctuary.com,ffeminin.com,manga-sanctuary.com###habillage
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-right
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-top
 ouedkniss.com###habillage_a
-forumconstruire.com###habillage_bloc_part_1
-forumconstruire.com###habillage_bloc_part_2
-forumconstruire.com###habillage_bloc_part_3
 ouedkniss.com###habillage_flash
 e-orientations.com###habillage_pub
 gerardmerinfo.fr###habillage_site
@@ -4834,6 +4831,7 @@ ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
+forumconstruire.com##[class^="habillage"]
 guide-piscine.fr##[class^="pub_"]
 guide-piscine.fr##[class^="regie_"]
 wawacity.su##[class^="secure-dl-"]
@@ -5006,7 +5004,7 @@ blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
-forumconstruire.com##div#\31 .postbox_forum
+forumconstruire.com##div#\32 .postbox_forum
 annuaire-horaire.fr##div#aq
 pyrenees-team.com##div#link
 finansemble.fr##div.div_description_v2[style="max-width:750px;"]
