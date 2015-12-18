@@ -237,6 +237,7 @@
 /show_ad?
 /show_adv.
 /showads?
+/smartad/*
 /srv.php?size=300x250
 /srv.php?size=315x300
 /tag468.php
@@ -2750,7 +2751,9 @@ _adb_728x90_$popup
 ||rugby365.fr/pub.php?
 ||rugby365.fr^*?imgPrefix=$xmlhttprequest
 ||rustica.fr/popunder/$popup
+||s-sfr.fr/webmail/*/jquery.smartbanner.
 ||s-sfr.fr^*/pubsa.
+||s-sfr.fr^*/sky160navmulti.json?
 ||s.psg.fr/psg/file/201508/pmu201508.jpg
 ||sainte-marie-mineral.com/img/pub_
 ||satmag.fr/pub/
@@ -2778,6 +2781,7 @@ _adb_728x90_$popup
 ||sexeoptimal.com/boost/
 ||sexeplus.com/bannieres/
 ||sexparadisiac.net/*/img/pub.jpg
+||sfr.fr/arrow/banner?
 ||sfr.fr^*/framePub_
 ||shoppingbox.liberation.fr^
 ||signification-prenom.com/images/starmyname-prenom.gif
@@ -2824,6 +2828,7 @@ _adb_728x90_$popup
 ||static.nautiljon.com/images/b1/?
 ||static.rtl.fr/*/skin/$stylesheet
 ||static.rtl.fr/*/skin/promo/
+||static.s-sfr.fr/media/accsky160.
 ||static.wanadoo.fr/webmail/templateMagic/*/graphics/*/meetic_$image
 ||staticmacg.com/macgupload/pub-
 ||stefgagnant.com/_images/_Captures_sites/
