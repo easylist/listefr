@@ -98,6 +98,7 @@
 /affiliation.$third-party
 /affilitybanners.
 /affpx.php
+/affs?addonname=
 /afterclick.js
 /amazon-product-in-a-post-plugin/*
 /api/ads_
@@ -5434,7 +5435,8 @@ maghrebspace.net#@#.top-publicite
 geekdefrance.fr#@#.topads
 wanimo.com#@#div[id^="div-gpt-ad-"]
 ! forumactif.com
-al-hfifa-arabians.com|3oloum.com,afdal-montada.com,afdalmontada.net,almountadaalarabi.com,arabepro.com,ba7r.biz,banouta.net,forumalgerie.net,forumaroc.net,freepalestine.biz,frenchboard.com,maghrebarabe.net,montadalhilal.com,montadarabi.com,mousika.org#@##adsense
+##.inner div > a[rel="nofollow"][target="_blank"][href*="?"] > img:first-child
+forumactif.org|al-hfifa-arabians.com|3oloum.com,afdal-montada.com,afdalmontada.net,almountadaalarabi.com,arabepro.com,ba7r.biz,banouta.net,forumalgerie.net,forumaroc.net,freepalestine.biz,frenchboard.com,maghrebarabe.net,montadalhilal.com,montadarabi.com,mousika.org#@##adsense
 !
 !-------------------------- Anti-Adblock -------------------------!
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
