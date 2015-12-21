@@ -54,6 +54,7 @@
 /ad-unit-image/*
 /ad/banners_
 /ad_fr.
+/ad_placements/*
 /ad_trafic.
 /adhosting.
 /adman-include/*
@@ -2554,7 +2555,6 @@ _adb_728x90_$popup
 ||metaboli.fr/partners/gamekult/
 ||meteo.nc/images/stories/accueil/regie/
 ||meteo.pf/images/exemples/pub_
-||meteomedia.com/images/ad_placements/
 ||metronews.fr/partenaires/horoscope.png
 ||metronews.fr^*?imgPrefix=$xmlhttprequest
 ||michelin.fr/data/public/field/image/
@@ -3111,6 +3111,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ###ad_liste_bookmaker
 ###ad_marketingbanner_1_placeholder
 ###ad_mpu_1_placeholder
+###ad_placement_workopolis
 ###ad_rotation_match
 ###adpubhead
 ###ads-300x250
@@ -3799,10 +3800,8 @@ ecranlarge.com###aNePasManquer
 xboxunlimited.fr###abos
 hqq.tv,radio.co.ma###ad
 liveradio.fr###ad1
-meteomedia.com###ad300x250 + * + * + * + *
 soufisme-fr.com###ad_forum_below_threadlist
 dzsat.org,gsmforum.tv,parent-solo.fr,soufisme-fr.com###ad_global_below_navbar
-meteomedia.com###ad_placement_workopolis
 droidsoft.fr###addBlock
 courrierlaval.com###add_bottom
 courrierlaval.com,letraitdunion.com###add_top
@@ -3924,7 +3923,6 @@ renovationettravaux.fr###colorbox
 oujdacity.net###common-top-widget
 matchendirect.fr###comparateur
 covoiturage.fr###comuto_insidepage_ads
-meteomedia.com###container_bac
 asso-web.com###container_pub
 asso-web.com###container_pub_left
 canalturf.com###content > div[style="width:100%; z-index: 100; margin-bottom:10px; text-align:center "]:first-child
@@ -4311,7 +4309,6 @@ wix.com###wixfooter
 electromenager-compare.com,homecine-compare.com###wk_botbar
 vidule.com###wnc_disclaimer
 jeuxvideo.com###wootbox_campaign
-meteomedia.com###workopolis
 priceminister.com###wrap[style="width: 685px; height: 125px; overflow: hidden"]
 frequence-radio.com###wrap_pub_listing
 casatv.ca###wrapperbanner
@@ -4654,6 +4651,7 @@ strastv.com##.post_pub
 matchendirect.fr##.promo
 boursorama.com##.promo + .visible-desktop[style$="display: block;"]
 challenges.fr,nouvelobs.com##.promo-bottom-art
+meteomedia.com##.promo-box
 01net.com##.promo-extend-pub
 frandroid.com##.promo-sony
 pornojeune.net##.promo_texte2
@@ -5280,7 +5278,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||media*.musique.woopic.com^*/400x250/$image,domain=musique.orange.fr
 @@||media.eurolive.com^$domain=live18ans.com
 @@||media.the-adult-company.com^$domain=celibataires.fr
-@@||meteomedia.com/js/adrefresh.js
 @@||millenium.org^*/jquery.lazyload-ad-*-min.js
 @@||miztral.com/www/images/banners/header_short_$third-party
 @@||moov.mg/images/offres/push_240x170_v2.01.jpg
@@ -5478,7 +5475,6 @@ forumactif.org|al-hfifa-arabians.com|3oloum.com,afdal-montada.com,afdalmontada.n
 @@||lien-torrent.com/addrating.php?
 @@||lien-torrent.com/pubs/affiche.php?f=lecteurpub
 @@||matchendirect.fr/html_include/js/publicite-adblocktest.js$script
-@@||meteomedia.com/common/js/master/adframe.js
 @@||mondebrideur.com/js/advert.js
 @@||mymanga.io/css/advertise.css
 @@||numerama.com/blockadblock.js$script
