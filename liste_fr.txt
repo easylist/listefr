@@ -450,6 +450,7 @@ _adb_728x90_$popup
 ||adsgridads.com^$third-party
 ||adsitonline.net^$third-party
 ||adsk2.co^$third-party
+||adskeeper.co.uk^$third-party
 ||adslvr.com^$third-party
 ||adsmena.com^$third-party
 ||adsmobile1.com^$third-party
@@ -1894,6 +1895,7 @@ _adb_728x90_$popup
 ||belgiumapps.lesoir.be/iframe/
 ||benkhouya.com^*/hebergement-web-maroc.png
 ||bergaag.com/wp-content/themes/bergaag/img/banniere-
+||beurette-soumise.gahyoo.com^$popup
 ||bienpublic.com/images/pub/
 ||billionuploads.com/js/pub.js
 ||binnews.biz/_images/pub/
@@ -3411,6 +3413,8 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ###toppub
 ###toppubbutton
 ###tower_pub
+###videoOverAd
+###videoOverAd300snd
 ###videoplayerpub
 ###wrapper-pub
 ###zone_pub
@@ -3744,6 +3748,8 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.toppubs
 ##.txt-pub
 ##.vertical-ads-group
+##.videoOverAd300snd
+##.videoOverAdBig
 ##.widget-advert
 ##.widget-advert-300-600
 ##.widget-advert-728
