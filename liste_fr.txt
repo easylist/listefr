@@ -933,6 +933,7 @@ _adb_728x90_$popup
 ||videonas.eu^$third-party
 ||videoroow.com^$third-party
 ||videos-x.me^$third-party
+||videostep.com^$third-party
 ||visadd.com^$third-party
 ||visibay.com^$third-party
 ||vkunlock3.eu^$third-party
@@ -1216,6 +1217,11 @@ _adb_728x90_$popup
 ||atoshonetwork.com/atosho.js
 ||autosurf.me/promo/
 ||autotrack.be/scripts/partner/
+||ba.commentcamarche.net^
+||ba.copainsdavant.com^
+||ba.hugolescargot.com^
+||ba.jeux-gratuits.com^
+||ba.journaldesfemmes.com^
 ||baise3x.com/ban/
 ||bannieres_fdf.s3.amazonaws.com^
 ||bannieresadultes.s3.amazonaws.com^
@@ -5198,7 +5204,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||assiste.com/Assiste/media/images/Ad-Aware_$image
 @@||assiste.com^*_publicite_$image,~third-party
 @@||aw-experience.com/banners/b0.png
-@@||ba.commentcamarche.net/RealMedia/ads/Creatives/default/empty.gif$image
 @@||banners.oxiads.fr/player/
 @@||bannieres.telethon.fr/compteurs/$image,subdocument
 @@||beaute-test.com/service/show_ads.js$script
@@ -5302,7 +5307,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||ouifm.adswizz.com//www/components/
 @@||ouifm.adswizz.com/www/components/
 @@||p.jwpcdn.com/crossdomain.xml$object-subrequest
-@@||pagead2.googlesyndication.com/pagead/$script,domain=commentcamarche.net
 @@||pc-overware.be/index/images/banners/annuaire%20test%206%20png.png
 @@||pc-overware.be/index/images/banners/forum.jpg
 @@||pc-overware.be/index/images/banners/pc-overware.be.png
