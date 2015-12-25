@@ -3097,6 +3097,10 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ||files.macg.co/macgupload/$image
 ||macg.co/*/scripts/pub/getEbay_
 ||refurbgeneration.com/*/getEbay.
+! Dailymotion
+@@||proxy-*.dailymotion.com^$xmlhttprequest,domain=dailymotion.com
+||dailymotion.com/video/*_mp4_h264_$media,domain=dailymotion.com
+||dmcdn.net/*_mp4_h264_$media,domain=dailymotion.com
 !
 !------------------ Éléments génériques -----------------!
 !
