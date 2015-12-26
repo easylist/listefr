@@ -1177,7 +1177,8 @@ _adb_728x90_$popup
 ||achatventepagefan.com/images/AVPF_
 ||achatventepagefan.com^*/banachat*.gif$third-party
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
-||ad.atdmt.com/i/go;$third-party
+||ad.atdmt.com^*.html;$third-party
+||ad.atdmt.com^*/go;$third-party
 ||ad.vacanceo.com^
 ||ad.zanox.com^
 ||adf.ly^$popup,domain=ytubesave.com
@@ -2856,8 +2857,9 @@ _adb_728x90_$popup
 ||static.nautiljon.com/images/b1/?
 ||static.rtl.fr/*/skin/$stylesheet
 ||static.rtl.fr/*/skin/promo/
+||static.s-sfr.fr/export/bloc/*/sky*.json?
 ||static.s-sfr.fr/media/accga.
-||static.s-sfr.fr/media/accsky160.
+||static.s-sfr.fr/media/accsky*.
 ||static.wanadoo.fr/webmail/templateMagic/*/graphics/*/meetic_$image
 ||staticmacg.com/macgupload/pub-
 ||stefgagnant.com/_images/_Captures_sites/
