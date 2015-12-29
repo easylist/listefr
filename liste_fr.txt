@@ -381,7 +381,6 @@ _adb_728x90_$popup
 ||85.116.37.142^$third-party
 ||89.185.33.51^$third-party
 ||8mm.shiksha^$third-party
-||a-staticwebedia.com^$third-party
 ||abporn.com^$third-party
 ||acads.net^$third-party
 ||acces-charme.com^$third-party
@@ -516,13 +515,11 @@ _adb_728x90_$popup
 ||ar-ads.net^$third-party
 ||arab-ads.com^$third-party
 ||arecio.work^$third-party
-||arretion.de^$third-party
 ||aservtrack.com^$third-party
 ||atedra.com^$third-party
 ||aties.info^$third-party
 ||avanis.fr^$third-party
 ||avenir-affiliation.fr^$third-party
-||avorteronmedia.lol^$third-party
 ||awsclic.com^$third-party
 ||ayads.co^$third-party
 ||azerty.solutions^$third-party
@@ -628,7 +625,6 @@ _adb_728x90_$popup
 ||elasticad.com^$third-party
 ||emarketing.net.sa^$third-party
 ||emea.pub^$third-party
-||emportai.es^$third-party
 ||eravage.com^$third-party
 ||esoterweb.com^$third-party
 ||espace-plus.net^$third-party
@@ -673,8 +669,7 @@ _adb_728x90_$popup
 ||gouzardo.com^$third-party
 ||gravity4.com^$third-party
 ||greatregie.com^$third-party
-||guestcash.com^$third-party
-||gwenna.website^$third-party
+||guestcash.com^$third-partyy
 ||halpeperglagedokkei.info^$third-party
 ||hebdotop.com^$third-party
 ||heberparis23.com^$third-party
@@ -708,7 +703,6 @@ _adb_728x90_$popup
 ||jesuisalahauteur.com^$third-party
 ||jor1.net^$third-party
 ||journaux-du-midi.com^$third-party
-||kadoywww.xyz^$third-party
 ||kadserver.com^$third-party
 ||kingtopdeals.com^$third-party
 ||kinkypeepz.com^$third-party
@@ -963,7 +957,6 @@ _adb_728x90_$popup
 ||waframedia2.com^$third-party
 ||waframedia4.com^$third-party
 ||wbdds.com^$third-party
-||wbdds.info^$third-party
 ||wbsadsdel2.com^$third-party
 ||wbusiness.fr^$third-party
 ||webtv-sexe.com^$third-party
@@ -978,7 +971,6 @@ _adb_728x90_$popup
 ||wineuroptp.fr^$third-party
 ||work2media.com^$third-party
 ||wslinx.com^$third-party
-||wwwbrassier.website^$third-party
 ||wydpt.com^$third-party
 ||x.porn.fr^$third-party
 ||xaddad.com^$third-party
@@ -1230,7 +1222,6 @@ _adb_728x90_$popup
 ||annuaire-generaliste.fr/affiche_logo.php?
 ||annuaire-transsexuelle.com/annuaire/ban/$third-party
 ||annuaire-web-france.com/images/logo-annuaire-web-france.gif
-||appeng.website^
 ||arkea.com/banque/assurance/credit/upload/docs/image/$image,third-party
 ||as-salat.fr/images/banners/
 ||asia-passion.fr/annuaire/ban/$third-party
@@ -1802,6 +1793,24 @@ _adb_728x90_$popup
 ||puhtml.com^$domain=dowed.info
 ||pureadexchange.com^$domain=dpstream.net
 ||startnewtab.com^$popup,domain=dowed.info
+!
+||a-staticwebedia.com^
+||accelerat.xyz^
+||accusto.top^
+||appeng.website^
+||arretion.de^
+||avorteronmedia.lol^
+||betterewww.nl^
+||emportai.es^
+||fripe.website^
+||goddardcdn.es^
+||gouzardo.com^
+||gwenna.website^
+||kadoywww.xyz^
+||lapindespres.com^
+||lkjfqlmskjdqlkmsjd.com^
+||wbdds.info^
+||wwwbrassier.website^
 !
 !----------------------- Sites spécifiques -----------------------!
 !
@@ -5502,6 +5511,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@/adblk.js?&ad_type=$script,third-party
 @@/adblk.js?ad_type=$script,third-party
 @@/adblk2.js?ad_type=$script,third-party
+@@/adblk3.js?ad_type=$script,third-party
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|phonandroid.com|pixelistes.com
 @@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|dramapassion.com|easybillets.com|evilox.com|funeralforamanga.fr|gamersconnexion.com|jeu.fr|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
@@ -5607,7 +5617,7 @@ iwin.com#@##sponsorText
 fairytailmx.com#@##sponsored-ad
 forum.virtualdjing.com#@#.adFrame
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
-bleach-mx.fr,goldenboys.fr,radiocockpit.fr#@#.afs_ads
+allocine.fr,bleach-mx.fr,goldenboys.fr,radiocockpit.fr#@#.afs_ads
 phonandroid.com#@#.text_ads
 comptoir-info.com#@#.textad
 pcastuces.com##div[style="display: block; min-height: 120px; background-color: rgb(255, 239, 156); border-top: 3px solid rgb(255, 205, 48); padding: 10px 15px; text-align: left; font-size: 1.2em;"]
