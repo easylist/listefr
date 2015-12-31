@@ -1159,6 +1159,9 @@ _adb_728x90_$popup
 |http:$popup,third-party,domain=file.up09.com|uptobox.com
 |http:$popup,~third-party,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exity.info|folue.info|gover.info|guib.info|maldi.info|opert.info|oping.info|rors.info|sega3.info|stiwine.info|thand.info|tiziwezo.info|tribicha.info|utte.info|ywhah.info|zidni.info
 |http:$subdocument,third-party,domain=clictune.com|contextualyield.com|sa.ae
+|http:*/site/liste/iframe/$subdocument
+|http:*/site/liste/infopop$subdocument
+|http:*/site/liste/infpop$subdocument
 |http://*/*0*0*0*0*0*0*0*0$script,xmlhttprequest,domain=generation-nt.com
 |http://newpromo.$domain=cpasbien.io
 ||1001sondages.com/assets/images/250x250.jpg
@@ -1568,7 +1571,6 @@ _adb_728x90_$popup
 ||pointscommuns.com/images/bannieres/$third-party
 ||pooki.fr/banner/
 ||porn.fr^*/site_id/$popup
-||porno-exclusif.com/*/infopop
 ||porntoxico.com/widgets
 ||pornytude.com^$popup,domain=gahyoo.com
 ||pouradultes.com^
@@ -1655,7 +1657,6 @@ _adb_728x90_$popup
 ||short-stuff.com^$popup,domain=telechargementz-streaming.com
 ||simabio.fr/widget_$third-party
 ||simpleads.biz^
-||site-de-fou.com/*/iframe/
 ||site.elkhabar.com^
 ||sixtyonemedia.com/?campaign=
 ||skrobs.com/pub/
@@ -2046,7 +2047,7 @@ _adb_728x90_$popup
 ||courrierlaval.com/images/wallpaper/
 ||cowcotland.com/images/habillage/$image
 ||cowcotland.com/images/sponsors/
-||cpasbien.*/infopop/$script
+||cpasbien.*/infopop/
 ||creadunet.com^*/overall_header_iframe.html
 ||credit-az.net/pub/
 ||credits-on-line.info/pub/
@@ -2736,7 +2737,6 @@ _adb_728x90_$popup
 ||porno-gratuit.ws/infopop.php
 ||porno-gratuit.ws/trade/$popup
 ||porno-gratuit.ws/videos-gratuites.php$popup
-||pornochoc.com/*/infopop
 ||porsche-99x.info/pagedirect/*/pub/
 ||portail.free.fr/modules/shopping/
 ||portaildusexe.com/ban/
@@ -4007,6 +4007,7 @@ asso-web.com###container_pub
 asso-web.com###container_pub_left
 canalturf.com###content > div[style="width:100%; z-index: 100; margin-bottom:10px; text-align:center "]:first-child
 millenium.org###content_pub
+webchoc.com###corner-slider
 lareclame.fr###dfp-top
 viamichelin.com###diaporama
 only-stream.com###disclaimer
