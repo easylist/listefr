@@ -25,6 +25,7 @@
 -banner-300x250.
 -pub-ads/
 .adserverpub.
+.adtech.
 .adxcore.
 .com.sa/ads/
 .dz/ads/
@@ -289,6 +290,7 @@ _emplacements.php?f=300x125
 _emplacements.php?f=300x250
 _emplacements.php?f=468x60
 _emplacements.php?f=728x90
+_logic_on_ad.
 _pages_ad.
 _pub_728.
 _publ1c1te.
@@ -1426,6 +1428,7 @@ _adb_728x90_$popup
 ||jeux-football.com/468_jeufoot.gif
 ||jeux-web.com/pub/
 ||jobaproximite.com/external-search
+||jobup.ch/*?server=$third-party
 ||jokconcept.net/images/jok-concept-annuaire-referencement.gif
 ||jolstatic.fr/www/backgrounds/
 ||jrphotographie.com/pub/
@@ -1506,6 +1509,7 @@ _adb_728x90_$popup
 ||motion-twin.com/goto/$popup
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
 ||mynewblog.com/tracker.php?
+||mynewsnet.ch/newsnet-$third-party
 ||myposeo.com^*250x250.swf?$third-party
 ||mystream.la^*?d=300x250
 ||myxpass.com^*&affid=
@@ -5319,6 +5323,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||ebayrtm.com/rtm?RtmPreviewContent&$subdocument,domain=www.befr.ebay.be
 @@||everlong.org/style/banner.php
 @@||fatherandsons.fr^*/opecom/affiliation/
+@@||files.newsnetz.ch/scripts/advertisement.js$script,third-party
 @@||foot01.com^$genericblock
 @@||forum-auto.com/xiti2/xtcore.js
 @@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
