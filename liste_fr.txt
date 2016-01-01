@@ -2146,6 +2146,7 @@ _adb_728x90_$popup
 ||ecranlarge.com/js/entree_pub.
 ||ecranlarge.com/pop_under.php$popup
 ||ecrans.fr/pub.
+||edcom.fr/images/habillage/
 ||edenflirt.co/pdv/*/?comfrom=*&cf2=$popup
 ||edgecastcdn.net/8068BF/cdn-alg360/wp-content/uploads/*/Banner-Tag-
 ||editeurjavascript.com/bans/
@@ -3855,6 +3856,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##a[href*="/ads.php?ref="]
 ##a[href*="/ads/ad_link."]
 ##a[href*="/banners/click/"]
+##a[href*="/regiehab.php?"]
 ##a[href*="/telechargement-rapide.php?"]
 ##a[href*="/tracking_campaign.php?"]
 ##a[href*="ads_random"]
@@ -3876,6 +3878,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##a[href^="http://www.terraclicks.com/"]
 ##a[href^="http://www.xmediaserve.com/"]
 ##a[href^="http://www.yourfilezone.com/"]
+##div[onclick*="/regiedeep.php?"]
 !
 !----------------------- Éléments -----------------------!
 !
@@ -4034,6 +4037,7 @@ asso-web.com###container_pub_left
 canalturf.com###content > div[style="width:100%; z-index: 100; margin-bottom:10px; text-align:center "]:first-child
 millenium.org###content_pub
 tubixe.com,webchoc.com###corner-slider
+edcom.fr###decouvrirActu
 lareclame.fr###dfp-top
 viamichelin.com###diaporama
 only-stream.com###disclaimer
