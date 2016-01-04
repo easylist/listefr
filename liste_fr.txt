@@ -34,6 +34,7 @@
 .fr/ads.
 .fr/ads/
 .ir/ads/
+.loading-delivery2.
 .ma/ads/
 .ma/ads_
 .php?&zoneid=
@@ -274,6 +275,7 @@
 /xbanner.js?
 /XnewadsX/*
 /xpopunder.js
+/zones?zone=$subdocument
 ://adscdn.
 ://adspaces.
 ://adss.
@@ -341,6 +343,8 @@ _Social-Advert-
 &ymid=ADSYS-$popup
 -popunder.php?$popup
 .com.sa/ads?$popup
+.loading-delivery2.$popup
+.popunder.$popup
 /a4u_banner_.$popup
 /adcint/*$popup
 /ads.php?$popup
@@ -726,6 +730,7 @@ _adb_728x90_$popup
 ||jedeconnebiensur2.com^$third-party
 ||jeregardegratuitementetsanslimite.eu^$third-party
 ||jesuisalahauteur.com^$third-party
+||jfduv7.com^$third-party
 ||jor1.net^$third-party
 ||journaux-du-midi.com^$third-party
 ||kadserver.com^$third-party
@@ -4552,7 +4557,7 @@ des-amours.com##.big-button
 jeuxflash.com##.big-leaderboard
 tv5.ca##.bigbox-pub
 01net.com,bfmtv.com##.billboard
-k-streaming.com,seriestreaming.org,streamingfilms.fr##.bireklam
+k-streaming.com,seriestreaming.org,streamingfilms.fr,streamingserie.tv##.bireklam
 mobilealgerie.com##.blc_300x250_blanc
 francefootball.fr##.bloc-autopromo
 jeuxvideo.com##.bloc-boutique-droite
