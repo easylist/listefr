@@ -4823,6 +4823,7 @@ pornojeune.net##.promo_texte2
 msn.com##.promobanner
 pornofrance.org##.promomenu
 meteosun.com##.promote_large
+silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
 cdiscount.com##.ptnlnk_table
 abrutis.com,ados.fr,agoravox.fr,agoravox.tv,ajaccio365.fr,annuaire-streaming.com,bhmag.fr,brest365.fr,cciaf.org,centerblog.net,commentreparer.com,cuisineactuelle.fr,deezer.com,fan-de-cinema.com,footafrica365.fr,football365.fr,forums-fec.be,frandroid.com,ginjfo.com,hentai-3x.com,lacapitale.be,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lepoint.fr,lesdebiles.com,lesoir.be,lexpress.fr,liensporno.com,lorient365.fr,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,mercato365.com,mini-games.fr,montelimar-news.fr,multixa.net,nantes365.fr,nice365.fr,nordeclair.be,orange.mu,over-blog.com,paris365.fr,programme.tv,radioclassique.fr,reims365.fr,sfr.fr,slate.fr,sochaux365.fr,sofoot.com,soonnight.com,stetienne365.fr,telequebec.tv,troyes365.fr,tsa-algerie.com,valenciennes365.fr,web-tricheur.net,yabiladi.com,zupimages.net##.pub
@@ -5434,7 +5435,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||infos.peuples-solidaires.org/adserver2/
 @@||infos.wwf.fr/adserver2/
 @@||iphone4.fr/bannieres/header_icons.png
-@@||itespresso.fr/wp-content/themes/kamino/assets/js/advertising.js
 @@||jeu.info^$genericblock
 @@||jheberg.net/js/*_advertisement.js
 @@||kapaza.be/*/ad_view_
@@ -5605,6 +5605,7 @@ frbb.net|3oloum.com,afdal-montada.com,afdalmontada.net,al-hfifa-arabians.com,alm
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|phonandroid.com|pixelistes.com
 @@/advert.js$script,domain=flashx.tv
 @@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|dramapassion.com|easybillets.com|evilox.com|funeralforamanga.fr|gamersconnexion.com|jeu.fr|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
+@@/advertising.js$script,domain=itespresso.fr|silicon.fr
 @@/check.js?$script,third-party
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
 @@|http://*.js$script,third-party,domain=jeux.fr
