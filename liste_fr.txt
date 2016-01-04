@@ -65,6 +65,7 @@
 /ad_frames/*
 /ad_placements/*
 /ad_trafic.
+/adbanner.
 /adhosting.
 /adman-include/*
 /adoff.js?
@@ -88,6 +89,7 @@
 /ads?spot_id=
 /ads_90_728.
 /ads_block
+/adscores/*
 /adsdino.
 /adsleft.
 /adslider.
@@ -503,6 +505,7 @@ _adb_728x90_$popup
 ||adverti.io^$third-party
 ||advertoly.com^$third-party
 ||advertsponsor.com^$third-party
+||advprivate.com^$third-party
 ||advquality.com^$third-party
 ||adwidecenter.com^$third-party
 ||adzzone.com^$third-party
