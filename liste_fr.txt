@@ -181,6 +181,7 @@
 /images/bnr/720/*
 /images/sponsored?
 /img/_ad/*
+/index.php/tag/iframe/*
 /InjectPopunderAd.
 /jp_display.
 /js.adv.$script
@@ -267,8 +268,10 @@
 /smartad/*
 /srv.php?size=300x250
 /srv.php?size=315x300
+/Tag/go2?url=$subdocument
 /tag468.php
 /tag728.php
+/Tag?pkey=$subdocument,third-party
 /Temp/Ads/*
 /ttn_adspaces
 /widget.advertisement.
@@ -518,6 +521,7 @@ _adb_728x90_$popup
 ||advertsponsor.com^$third-party
 ||advprivate.com^$third-party
 ||advquality.com^$third-party
+||adwebmanager.com^$third-party
 ||adwidecenter.com^$third-party
 ||adzzone.com^$third-party
 ||affidate.com^$third-party
@@ -829,6 +833,7 @@ _adb_728x90_$popup
 ||ovnet.net^$third-party
 ||palfad.com^$third-party
 ||pandad.eu^$third-party
+||papbusters.fr^$third-party
 ||papycash.com^$third-party
 ||paricileweb.com^$third-party
 ||parlinternet.com^$third-party
@@ -978,6 +983,7 @@ _adb_728x90_$popup
 ||trafficxbiz.com^$third-party
 ||trafic-booster.biz^$third-party
 ||traficmax.com^$third-party
+||trck.eu^$third-party
 ||twap2.com^$third-party
 ||txlpzpihveg.net^$third-party
 ||univers-porno.com^$third-party
