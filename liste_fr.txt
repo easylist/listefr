@@ -545,6 +545,7 @@ _adb_728x90_$popup
 ||allovisiteur.com^$third-party
 ||annoncesante.ma^$third-party
 ||anymad.com^$third-party
+||apprehendera.country^$third-party
 ||appsfire.com^$third-party
 ||aquetewwwc.uk^$third-party
 ||ar-ads.com^$third-party
@@ -690,6 +691,7 @@ _adb_728x90_$popup
 ||feelupdatingperfect.info^$third-party
 ||findgoogl.com^$third-party
 ||firstoffersfinder.com^$third-party
+||florissant.red^$third-party
 ||folihentai.eu^$third-party
 ||forevermelodicheidegger.info^$third-party
 ||foxserie.com^$script,third-party
@@ -1208,6 +1210,7 @@ _adb_728x90_$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
+.country/$script,domain=allocine.fr
 |bit.ly^$popup,domain=france-telechargement.com
 |http:$popup,third-party,domain=file.up09.com|uptobox.com
 |http:$popup,~third-party,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exity.info|folue.info|gover.info|guib.info|maldi.info|opert.info|oping.info|rors.info|sega3.info|stiwine.info|thand.info|tiziwezo.info|tribicha.info|utte.info|ywhah.info|zidni.info
