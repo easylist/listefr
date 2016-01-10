@@ -1848,8 +1848,6 @@ _adb_728x90_$popup
 ||i.imgur.com^$domain=fdesouche.com
 ! genericblock
 ?adCampaign=$popup,domain=dpstream.net
-||adikteev.com^$domain=foot01.com
-||ads.sportslocalmedia.com^$domain=foot01.com
 ||affiliation-france.com/bans/$domain=affiliation-france.com
 ||affiliation-france.com^$domain=purevid.com
 ||affiliation-france.com^$popup,~third-party,domain=affiliation-france.com
@@ -1857,12 +1855,10 @@ _adb_728x90_$popup
 ||criteo.com^$domain=jeu.info
 ||dowed.info/hqq_stream.html$domain=dowed.info
 ||dowed.info^$popup,~third-party,domain=dowed.info
-||elasticad.net^$domain=foot01.com
 ||emea.pub^$popup,domain=affiliation-france.com
 ||exasharetab.com^$popup,domain=dowed.info
 ||googleads.g.doubleclick.net^$domain=jeu.info
 ||goyavelab.com^$popup,domain=dpstream.net|jeu.info
-||ligatus.com/angular_$domain=foot01.com
 ||ohmyad.co^$domain=dpstream.net
 ||pagead2.googlesyndication.com/getconfig/$domain=jeu.info
 ||pubdirecte.com^$domain=dowed.info|teramixer.com
@@ -3236,6 +3232,15 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ||files.macg.co/macgupload/$image
 ||macg.co/*/scripts/pub/getEbay_
 ||refurbgeneration.com/*/getEbay.
+! Foot01
+.ovh^$domain=foot01.com
+@@||foot01.com^$genericblock
+||adikteev.com^$domain=foot01.com
+||ads.sportslocalmedia.com^$domain=foot01.com
+||cdn.taboola.com^$domain=foot01.com
+||elasticad.net^$domain=foot01.com
+||ligatus.com^$domain=foot01.com
+||web2.foot01.com^$script,xmlhttprequest,domain=foot01.com
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -5455,7 +5460,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||event.ohmyad.co/dispatch/$domain=dpstream.net
 @@||everlong.org/style/banner.php
 @@||fatherandsons.fr^*/opecom/affiliation/
-@@||foot01.com^$genericblock
 @@||forum-auto.com/xiti2/xtcore.js
 @@||fr.a2dfp.net/crossdomain.xml$domain=virginradio.fr
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
