@@ -1037,6 +1037,7 @@ _adb_728x90_$popup
 ||you-hentai.com^$third-party
 ||z-barre.com^$third-party
 ||z-defense.com^$third-party
+||zanox.com^$third-party
 ||zaperplop.info^$third-party
 ||zebestof.com^$third-party
 ||zeropub.net^$third-party
@@ -1204,6 +1205,7 @@ _adb_728x90_$popup
 ||youradexchange.com^$popup,third-party
 ||youwatchtab.com^$popup,third-party
 ||z-defense.com^$popup,third-party
+||zanox.com^$popup,third-party
 ||zeroredirect2.com^$popup,third-party
 ||zwaar.net^$popup,third-party
 ||zwaar.org^$popup,third-party
@@ -1523,8 +1525,7 @@ _adb_728x90_$popup
 ||lavisiodelalicorne.fr/upload/bannieres/
 ||ldh.be/theme/*/bsf-bg.jpg
 ||ldh.be/theme/*/relooking-
-||ldlc.com/#aff$popup,third-party
-||ldlc.com^*/#a_aid=$popup,domain=configspc.com
+||ldlc.com^*#aff$popup,third-party
 ||le-favori.com/images/pub/
 ||le-monde-remunere.fr/bouton-
 ||le1er.net/promo/
@@ -2107,8 +2108,8 @@ _adb_728x90_$popup
 ||conception-site-web.info/modules/creation-site/images/banner.jpg
 ||confidentielles.com/*/pubimppixel.php?
 ||confidentielles.fr/dl/images/habillage/
-||configspc.com/flux/
 ||configspc.com/pugo/pugo.php
+||configspc.com^*/flux*.php?
 ||conseils-courseapied.com/images/boutique-marathon/
 ||conseils-courseapied.com/images/overstims/
 ||conseils-courseapied.com/images/partenaire/
@@ -5388,7 +5389,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@|http://ad4.fr^$~third-party
 @@||247realmedia.com/0/Player/Player_FR_Home/Box-2-FR.jpg$domain=eurosportplayer.fr
 @@||ad.doubleclick.net/clk;$popup,third-party,domain=123comparer.fr
-@@||ad.zanox.com/ppc/$popup
 @@||ad2play.ftv-publicite.fr/?sitepage=$subdocument,domain=mytaratata.com|psg.fr
 @@||ad2play.ftv-publicite.fr/js/ad2play.js$domain=mytaratata.com
 @@||ad4.liverail.com/?_=$domain=gamingroom.tv
