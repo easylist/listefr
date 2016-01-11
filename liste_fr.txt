@@ -18,7 +18,9 @@
 &playadw=
 &subpartenaire=
 -300-x-250-
+-300x250.php?cb=
 -468-x-60-
+-468x60.php?cb=
 -468x601.
 -728-x-90-
 -ads/ads.
@@ -60,6 +62,7 @@
 /acad.$script
 /acecAdServer.
 /ad-maven-public-cdn/*
+/ad-netc-
 /ad-unit-image/*
 /ad.bon-plan-
 /ad/banners_
@@ -157,6 +160,7 @@
 /col_droite_googleads2
 /cshoppingbox.
 /default_ads_
+/delivery/ajs.
 /delivery/rta/*
 /display/?affid=
 /display/?method=redirect&force=$subdocument
@@ -1251,6 +1255,7 @@ _adb_728x90_$popup
 ||achetezfacile.com/co/widgets/widget.js.php$third-party
 ||ad.atdmt.com^*.html;$third-party
 ||ad.atdmt.com^*/go;$third-party
+||ad.net-c.com^
 ||ad.vacanceo.com^
 ||ad.zanox.com^
 ||adf.ly^$popup,domain=ytubesave.com
