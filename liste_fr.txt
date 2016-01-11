@@ -3243,7 +3243,8 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ||macg.co/*/scripts/pub/getEbay_
 ||refurbgeneration.com/*/getEbay.
 ! Foot01
-.ovh^$domain=foot01.com
+.ovh^$xmlhttprequest,domain=foot01.com
+.xyz^$xmlhttprequest,domain=foot01.com
 @@||foot01.com^$genericblock
 ||adikteev.com^$domain=foot01.com
 ||ads.sportslocalmedia.com^$domain=foot01.com
