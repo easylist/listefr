@@ -50,6 +50,7 @@
 .pubdirecte.$domain=~pubdirecte.com
 .publicite.
 .showads.
+.wbdds.$script
 /160x300_
 /300_250-2.
 /468x60banner.
@@ -58,7 +59,6 @@
 /@/banner-*?clicktag=
 /a.ads.
 /a.php?t=*&pgid=*&rebill=
-/ac.wbdds.
 /acad.$script
 /acecAdServer.
 /ad-maven-public-cdn/*
@@ -1218,9 +1218,6 @@ _adb_728x90_$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
-.country/$script,domain=allocine.fr|jeuxvideo.com
-.garden/$script,domain=allocine.fr|jeuxvideo.com
-.red/$script,domain=allocine.fr|jeuxvideo.com
 |bit.ly^$popup,domain=france-telechargement.com
 |http:$popup,third-party,domain=file.up09.com|uptobox.com
 |http:$popup,~third-party,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exity.info|folue.info|gover.info|guib.info|khaltek.info|maldi.info|nassira.info|opert.info|oping.info|rors.info|sega3.info|stiwine.info|thand.info|tiziwezo.info|trafe.info|tribicha.info|utte.info|ywhah.info|zidni.info
@@ -1228,6 +1225,7 @@ _adb_728x90_$popup
 |http:*/site/liste/iframe/$subdocument
 |http:*/site/liste/infopop$subdocument
 |http:*/site/liste/infpop$subdocument
+|http://*/*/*/*/*/*/*/*/*/*/*/*/*=$script,domain=allocine.fr|jeuxvideo.com
 |http://*/*0*0*0*0*0*0*0*0$script,xmlhttprequest,domain=generation-nt.com
 |http://newpromo.$domain=cpasbien.io
 ||1001sondages.com/assets/images/250x250.jpg
@@ -1882,7 +1880,7 @@ _adb_728x90_$popup
 ||puhtml.com^$domain=dowed.info
 ||pureadexchange.com^$domain=dpstream.net
 ||startnewtab.com^$popup,domain=dowed.info
-!
+! revolving adservers
 ||a-staticwebedia.com^
 ||accelerat.xyz^
 ||accusto.top^
@@ -1892,6 +1890,7 @@ _adb_728x90_$popup
 ||arretion.de^
 ||avorteronmedia.lol^
 ||betterewww.nl^
+||borodin.ws^
 ||brideron.red^
 ||chardonneretstatic.club^
 ||consciencieuse.garden^
@@ -1908,6 +1907,7 @@ _adb_728x90_$popup
 ||kadoywww.xyz^
 ||lapindespres.com^
 ||lkjfqlmskjdqlkmsjd.com^
+||ncdnprorogeraie.lol^
 ||staticbhyravabhotl.red^
 ||wbdds.info^
 ||wwwbrassier.website^
@@ -5274,6 +5274,7 @@ msn.com##div[data-aop="stripe.autos.ad_ad"]
 msn.com##div[data-aop="stripe.health.ad_ad"]
 msn.com##div[data-aop^="stripe.shopping"]
 msn.com##div[data-module-id*=".shopping."]
+allocine.fr##div[data-w="clickCommand"]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
 actufoot.fr,livefootball.fr,mercato.fr##div[id^="ad6b_"]
 gratuitcul.com##div[id^="affidate_form_"]
@@ -5693,10 +5694,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@.gif#$image,domain=automobile-sportive.com|youwatch-series.com
 @@.jpg#$image,domain=dpstream.cc|naruto-mx.net
 @@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|rapidebrideur.com|total-sport.tv|tout-gratuit.be|youwatch-series.com
-@@/adblk.js?&ad_type=$script,third-party
-@@/adblk.js?ad_type=$script,third-party
-@@/adblk2.js?ad_type=$script,third-party
-@@/adblk3.js?ad_type=$script,third-party
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/advert.js$script,domain=flashx.tv
 @@/advert.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|phonandroid.com|pixelistes.com
