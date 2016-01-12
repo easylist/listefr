@@ -552,9 +552,7 @@ _adb_728x90_$popup
 ||allovisiteur.com^$third-party
 ||annoncesante.ma^$third-party
 ||anymad.com^$third-party
-||apprehendera.country^$third-party
 ||appsfire.com^$third-party
-||aquetewwwc.uk^$third-party
 ||ar-ads.com^$third-party
 ||ar-ads.net^$third-party
 ||arab-ads.com^$third-party
@@ -605,7 +603,6 @@ _adb_728x90_$popup
 ||cdxndirect.com^$third-party
 ||cdxndirectopt.com^$third-party
 ||cdxnopt.com^$third-party
-||chardonneretstatic.club^$third-party
 ||charmix.com^$third-party
 ||chilican.com^$third-party
 ||citenkomedia.com^$third-party
@@ -648,11 +645,9 @@ _adb_728x90_$popup
 ||data-eroadvertising.com^$third-party
 ||datvantage.com^$third-party
 ||dealdunjour.com^$third-party
-||deboutonneraien.garden^$third-party
 ||dekalee.fr^$third-party
 ||dekalee.net^$third-party
 ||deliv.prisma-presse.com^$third-party
-||desmonwww1.co.uk^$third-party
 ||dfast.net^$third-party
 ||digital-metric.com^$third-party
 ||direct-foot.co^$third-party
@@ -698,7 +693,6 @@ _adb_728x90_$popup
 ||feelupdatingperfect.info^$third-party
 ||findgoogl.com^$third-party
 ||firstoffersfinder.com^$third-party
-||florissant.red^$third-party
 ||folihentai.eu^$third-party
 ||forevermelodicheidegger.info^$third-party
 ||foxserie.com^$script,third-party
@@ -1224,6 +1218,8 @@ _adb_728x90_$popup
 !----------------------- Publicités tierces ----------------------!
 !
 .country/$script,domain=allocine.fr|jeuxvideo.com
+.garden/$script,domain=allocine.fr|jeuxvideo.com
+.red/$script,domain=allocine.fr|jeuxvideo.com
 |bit.ly^$popup,domain=france-telechargement.com
 |http:$popup,third-party,domain=file.up09.com|uptobox.com
 |http:$popup,~third-party,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exity.info|folue.info|gover.info|guib.info|khaltek.info|maldi.info|nassira.info|opert.info|oping.info|rors.info|sega3.info|stiwine.info|thand.info|tiziwezo.info|trafe.info|tribicha.info|utte.info|ywhah.info|zidni.info
@@ -1890,11 +1886,20 @@ _adb_728x90_$popup
 ||accelerat.xyz^
 ||accusto.top^
 ||appeng.website^
+||apprehendera.country^
 ||aquetewwwc.uk^
 ||arretion.de^
 ||avorteronmedia.lol^
 ||betterewww.nl^
+||brideron.red^
+||chardonneretstatic.club^
+||consciencieuse.garden^
+||deboutonneraien.garden^
+||desmonwww1.co.uk^
+||devanceronsimages.org.uk^
+||effilee.org.uk^
 ||emportai.es^
+||florissant.red^
 ||fripe.website^
 ||goddardcdn.es^
 ||gouzardo.com^
