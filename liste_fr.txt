@@ -139,6 +139,7 @@
 /bannerad300.
 /banners-ads/*
 /banners-pub/*
+/banners/show_flash.js
 /banniere/proxy.php?
 /banniere/proxy2.php?
 /banniere728x90_
@@ -262,6 +263,7 @@
 /regie_pub/*
 /regiepub/*
 /rotation.php?idaff=
+/rotator.php?zone=$script
 /script/pop.php?id=*&ref=
 /sdk-ads.
 /sdk-ads/*
@@ -867,6 +869,7 @@ _adb_728x90_$popup
 ||popzila.com^$third-party
 ||pornego.com^$third-party
 ||possini.eu^$third-party
+||poundaccordexecute.info^$third-party
 ||prm-native.com^$third-party
 ||proche2moi.com^$third-party
 ||promo.alienbiz.com^$third-party
@@ -1539,6 +1542,7 @@ _adb_728x90_$popup
 ||le-monde-remunere.fr/bouton-
 ||le1er.net/promo/
 ||lebaiseur.com/ban/$third-party
+||ledeclycx.com/images/ban_
 ||leguide.com/*/partner/
 ||leguide.com/ogpe/*/banners/
 ||lenetremunere.eu/img/ban
@@ -1747,6 +1751,7 @@ _adb_728x90_$popup
 ||socialboost.fr/promo/$third-party
 ||soft-66.net/open.js
 ||soonnight.com^*.html?width=
+||sophielibertine.com/images/Banniere
 ||sos-trique.com/ban/$third-party
 ||sousstube.net/pub/
 ||space-blogs.com/*/images/banners/
@@ -2252,6 +2257,7 @@ _adb_728x90_$popup
 ||equipetv.tv^*?imgPrefix=$xmlhttprequest
 ||equishopping.com/img/pub/
 ||espaceagro.com/frasp/
+||espritlib.com/banniere/
 ||estrepublicain.fr/fr/ajaxappli/emploi.html?
 ||estrepublicain.fr/images/pub/
 ||etudes-litteraires.com/*/amz/
@@ -3941,6 +3947,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ##.toppubs
 ##.txt-pub
 ##.vertical-ads-group
+##.video-list-ads
 ##.videoAd300
 ##.videoOverAd300snd
 ##.videoOverAdBig
@@ -4082,6 +4089,7 @@ aliceadsl.fr###bannershop
 france-pittoresque.com,gentside.com,matchendirect.mobi,maxisciences.com,ohmymag.com,radiofrance.fr###banniere
 cap-public.fr###banniereGoogle
 lafranceagricole.fr###banniereTop
+espritlib.com###banniere_partenaire
 free.fr###banshopping1
 jeux-gratuits.com###barre-partenaires
 tennisactu.net###bgclicable
@@ -5090,6 +5098,7 @@ opensubtitles.org##a[href$="=="][rel="nofollow"]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 artdeseduire.com##a[href*="/?part=ads"]
 clubic.com##a[href*="/?utm_source=clubic&utm_medium=partenaire"]
+espritlib.com##a[href*="/goto_part.php?"]
 centre-audition.com,easyzic.com,films-regarder.com,info-algerie.com##a[href*="/redirect."]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
 nouvelobs.com##a[href*="?partner="]
