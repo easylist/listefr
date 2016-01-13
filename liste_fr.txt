@@ -558,6 +558,7 @@ _adb_728x90_$popup
 ||ar-ads.com^$third-party
 ||ar-ads.net^$third-party
 ||arab-ads.com^$third-party
+||archiustube.com^$third-party
 ||arecio.work^$third-party
 ||aservtrack.com^$third-party
 ||atedra.com^$third-party
@@ -775,6 +776,7 @@ _adb_728x90_$popup
 ||majuwe.com^$third-party
 ||mallonire.us.com^$third-party
 ||manga-exchange.com^$third-party
+||marchiustube.pw^$third-party
 ||maxidivx.com^$third-party
 ||media-clic.com^$third-party
 ||medncom.com^$third-party
@@ -1276,6 +1278,7 @@ _adb_728x90_$popup
 ||algeriemobiles.com/pub/
 ||alibaba.com^$popup,domain=streamin.to
 ||aliencable.com/images/habillagealien.jpg
+||aliexpress.com^$popup,domain=torrentsm.top
 ||allo-heberge.com/interface/bannieres/
 ||allo-nom.com/interface/bannieres/
 ||allopass.com/imgweb/*/pub/
@@ -1708,6 +1711,7 @@ _adb_728x90_$popup
 ||s-sfr.fr/stats/authMsg.js
 ||s-sfr.fr/stats/footer.js
 ||s.brsimg.com^*/cache/css/compress/$object
+||s.click.aliexpress.com/e/qFAmuzNju$popup
 ||s3.amazonaws.com^*/publishers/$script
 ||saintseiya.lesite.free.fr/images/bannieres/
 ||salopes.free.fr/ban/
@@ -1822,7 +1826,7 @@ _adb_728x90_$popup
 ||voiture-net.info/pub.
 ||voiture-net.info/pub1.
 ||voyage-langue.com/widget/
-||vpn-surf.com^$popup,domain=smartorrent.com
+||vpn-surf.com^$popup,domain=smartorrent.com|torrentsm.top
 ||w3sexe.com/logo.php?
 ||wallmanga.com/img/anim_banniere_
 ||wbdds.*/include/async
@@ -4675,7 +4679,7 @@ algerie360.com##.bloc_pub_250_s_marge
 porno-2luxe.com##.bloc_pubhosted
 premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 jeuxvideopc.com##.block-concours_en_cours
-smartorrent.com##.block-contenu-pub
+smartorrent.com,torrentsm.top##.block-contenu-pub
 jeuxvideo.fr##.block-divers-widget_shopping
 jeuxvideo.fr##.block-jeux-micromania_offre
 orange.fr##.block-pub
@@ -4703,9 +4707,9 @@ israel7.com##.box2[style="padding:5px;height:600px;"]
 canoe.ca##.boxPool
 days-media.fr##.boxed[style^="width:300px; height:250px"]
 lepoint.fr##.branding
-smartorrent.com##.btn-danger
-smartorrent.com##.btn-primary
-smartorrent.com##.btn.btn-default.btn-xs
+smartorrent.com,torrentsm.top##.btn-danger
+smartorrent.com,torrentsm.top##.btn-primary
+smartorrent.com,torrentsm.top##.btn.btn-default.btn-xs
 gamergen.com,generation-nt.com##.bup
 football365.fr,mercato365.com,rugby365.fr,sport365.fr##.bwin
 orange.fr##.campagnePUBcoldroite
@@ -4813,7 +4817,7 @@ blog2mature.com##.liens
 japan-expo.com##.link-background-advert
 pagesjaunes.fr##.linkPushEmbauche
 frandroid.com##.link_htr
-smartorrent.com##.list-unstyled
+smartorrent.com,torrentsm.top##.list-unstyled
 meilleureecoledefrance.com##.list_sponsors
 frenchpopcorn.com##.liste_film_regarder
 click-fr.com##.loc
@@ -5178,7 +5182,7 @@ developpez.net##a[href^="http://altsysimg.developpez.com/click.php?a="]
 films-regarder.com,telechargementz-streaming.com##a[href^="http://api.adlure.net/"]
 torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
 challenges.fr##a[href^="http://assurance-emprunteur.challenges.fr/"]
-brain-magazine.fr,smartorrent.com,walking-dead-streaming.net##a[href^="http://bit.ly/"]
+brain-magazine.fr,smartorrent.com,torrentsm.top,walking-dead-streaming.net##a[href^="http://bit.ly/"]
 pubeco.fr,usbfix.net##a[href^="http://clic.reussissonsensemble.fr/"]
 algeriephilatelie.net##a[href^="http://clic.reussissonsensemble.fr/click.asp?"]
 tomtomax.fr##a[href^="http://clk.tradedoubler.com/"]
@@ -5251,7 +5255,7 @@ japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 wawacity.su##a[onclick$="()"]
-smartorrent.com##a[onclick="vpn()"]
+smartorrent.com,torrentsm.top##a[onclick="vpn()"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
 ca-anjou-maine.fr##a[onclick^="xiti_clic('N', 'Promo_"]
@@ -5390,7 +5394,7 @@ echangegagnant.com,genhit.com,israelmagazine.co.il##img[width="468"][height="60"
 israelmagazine.co.il##img[width="600"][height="90"]
 forum.soirnet.fr##img[width="720"][height="100"]
 maliweb.net##img[width="728"][height="90"]
-smartorrent.com##input[type="button"]
+smartorrent.com,torrentsm.top##input[type="button"]
 lien-torrent.com##li > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
 ici.tou.tv##li.bigBox
 sinfest.net##noscript a
