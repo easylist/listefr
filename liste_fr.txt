@@ -5489,6 +5489,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||aw-experience.com/banners/b0.png
 @@||banners.oxiads.fr/player/
 @@||bannieres.telethon.fr/compteurs/$image,subdocument
+@@||be-rtl.cdn.videoplaza.tv^$script,domain=rtl.be
 @@||beaute-test.com/service/show_ads.js$script
 @@||beead.fr^$domain=doc-etudiant.fr|ouifm.fr|play.nrj.fr|radiofg.com|radioneo.org|replay.fr|rfm.fr|virginradio.fr|wakanim.tv
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
@@ -5589,6 +5590,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||ouifm.adswizz.com//www/components/
 @@||ouifm.adswizz.com/www/components/
 @@||p.jwpcdn.com/crossdomain.xml$object-subrequest
+@@||partner.googleadservices.com^$domain=rtl.be
 @@||pc-overware.be/index/images/banners/annuaire%20test%206%20png.png
 @@||pc-overware.be/index/images/banners/forum.jpg
 @@||pc-overware.be/index/images/banners/pc-overware.be.png
