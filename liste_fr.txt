@@ -1877,11 +1877,15 @@ _adb_728x90_$popup
 ||i.imgur.com^$domain=fdesouche.com
 ! genericblock
 ?adCampaign=$popup,domain=dpstream.net
+||adform.net^$domain=sofoot.com
+||adnxs.com^$domain=sofoot.com
 ||affiliation-france.com/bans/$domain=affiliation-france.com
 ||affiliation-france.com^$domain=purevid.com
 ||affiliation-france.com^$popup,~third-party,domain=affiliation-france.com
+||betrad.com^$domain=sofoot.com
 ||cdn.adnxs.com^$domain=jeu.info
 ||criteo.com^$domain=jeu.info
+||doubleclick.net^$domain=sofoot.com
 ||dowed.info/hqq_stream.html$domain=dowed.info
 ||dowed.info^$popup,~third-party,domain=dowed.info
 ||emea.pub^$popup,domain=affiliation-france.com
