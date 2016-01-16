@@ -1882,6 +1882,7 @@ _adb_728x90_$popup
 ||dowed.info^$popup,~third-party,domain=dowed.info
 ||emea.pub^$popup,domain=affiliation-france.com
 ||exasharetab.com^$popup,domain=dowed.info
+||exelator.com^$domain=sofoot.com
 ||googleads.g.doubleclick.net^$domain=jeu.info
 ||goyavelab.com^$popup,domain=dpstream.net|jeu.info
 ||ohmyad.co^$domain=dpstream.net
@@ -1890,7 +1891,9 @@ _adb_728x90_$popup
 ||pubdirecte.com^$popup,domain=teramixer.com
 ||puhtml.com^$domain=dowed.info
 ||pureadexchange.com^$domain=dpstream.net
+||rubiconproject.com^$domain=sofoot.com
 ||startnewtab.com^$popup,domain=dowed.info
+||taboola.com^$domain=sofoot.com
 ! revolving adservers
 ||a-staticwebedia.com^
 ||accelerat.xyz^
@@ -1945,7 +1948,6 @@ _adb_728x90_$popup
 !
 !----------------------- Sites spécifiques -----------------------!
 !
-/http://www\.sofoot\.com/IMG/i\d+\.jpg/$domain=sofoot.com
 ||100pour100sexe.com/pop.
 ||16algerie.com/images/banner_
 ||16algerie.com/images/JHF.jpg
@@ -3004,6 +3006,7 @@ _adb_728x90_$popup
 ||sofoot.com/good/
 ||sofoot.com/images/pub/
 ||sofoot.com/IMG/*/logo_
+||sofoot.com/IMG/i*.jpg?maj=
 ||sofoot.com^*/?w=clic&id=$popup
 ||sofoot.com^*_pubsv2/
 ||softonic.fr/specials-leaderboard
@@ -5628,7 +5631,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||serrurier-menuisier-31-ad2.fr^$~third-party
 @@||serrurier-menuisier-31-ad2.site-privilege.pagesjaunes.fr^$image,third-party
 @@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
-@@||sofoot.com/good/adsense.js?
+@@||sofoot.com^$genericblock
 @@||soutenir.apprentis-auteuil.org/adserver2/$image,script,stylesheet
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||static.touraineverte.com/banners/$image
