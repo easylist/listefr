@@ -162,6 +162,7 @@
 /cshoppingbox.
 /default_ads_
 /delivery/ajs.
+/delivery/ck.php?
 /delivery/rta/*
 /display/?affid=
 /display/?method=redirect&force=$subdocument
@@ -261,7 +262,6 @@
 /pubs/72830/*
 /pubs/?format=300x250
 /pubs/?format=728x90
-/puopen.php?$popup
 /regie_pub/*
 /regiepub/*
 /renklam/*
@@ -388,6 +388,8 @@ _Social-Advert-
 /null/*/Redirect.$popup,third-party
 /pop_packcpm.$popup
 /popuplp/btag/*$popup
+/puopen.php?$popup
+/redir/k.php?r=$popup
 /renderBanner.do?$popup
 /script/campagne.php?cp=$popup
 /smart_ad/*$popup
@@ -1420,6 +1422,7 @@ _adb_728x90_$popup
 ||dracouilla.com/ban/$third-party
 ||drague.net/pubs/
 ||dropboxusercontent.com/u/16447850/Baners/
+||druidx.com/?track=$popup
 ||dukppplb.info^
 ||dzoic.com/gfx/
 ||e-cig-factory.fr/shop/bannieres/
@@ -2860,6 +2863,7 @@ _adb_728x90_$popup
 ||paris365.fr/pub.php
 ||paris365.fr^*?imgPrefix=$xmlhttprequest
 ||parlonspiscine.com/pubs/
+||partoch.com/redir/$popup
 ||passeportsante.net^*/controls/pub/
 ||pc-overware.be/index/images/banners/
 ||peimg.fr/images/partenaire-pubeco/
