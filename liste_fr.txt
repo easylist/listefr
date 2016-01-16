@@ -204,6 +204,7 @@
 /pagepub.
 /pages_ads.
 /partners/ads-
+/partners/rotator.
 /partnertag/iframe.
 /plugins/vp_pub/*
 /pop-ads.
@@ -375,6 +376,7 @@ _Social-Advert-
 /adv_clk_redirect.$popup
 /adv_show?$popup
 /banner_s?*&auto_click=$popup
+/banredir.cgi?$popup
 /click?*=ad&$popup
 /click_lx.ads/*$popup
 /display.php?k=*&ban=$popup
@@ -502,6 +504,7 @@ _adb_728x90_$popup
 ||adsmena.com^$third-party
 ||adsmobile1.com^$third-party
 ||adspoper.com^$third-party
+||adspot.ch^$third-party
 ||adsregieonline.com^$third-party
 ||adsrevenue.com^$third-party
 ||adstract.com^$third-party
@@ -585,6 +588,7 @@ _adb_728x90_$popup
 ||bntags.com^$third-party
 ||booksuper.info^$third-party
 ||booraq.org^$third-party
+||boostads.net^$third-party
 ||boostsaves.com^$third-party
 ||box.shopoon.fr^$third-party
 ||braip.com.br^$third-party
