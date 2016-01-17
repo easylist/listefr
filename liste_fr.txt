@@ -1240,7 +1240,6 @@ _adb_728x90_$popup
 |http:*/site/liste/infopop$subdocument
 |http:*/site/liste/infpop$subdocument
 |http://*/*/*/*/*/*/*/*/*/*/*/$script,domain=allocine.fr|jeuxvideo.com
-|http://*/*0*0*0*0*0*0*0*0$script,xmlhttprequest,domain=generation-nt.com
 |http://*d*d*d*d*d*d*d*d*d*d*d*d*d*d*d*d*d$script,domain=allocine.fr|jeuxvideo.com
 |http://newpromo.$domain=cpasbien.io
 ||1001sondages.com/assets/images/250x250.jpg
@@ -1380,7 +1379,6 @@ _adb_728x90_$popup
 ||clip-x.net/images/pub/
 ||cliquojeux.com/pub/
 ||cloudfront.net/pop?tid=
-||cloudfront.net^*/$xmlhttprequest,domain=generation-nt.com
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*?voluumdata=$popup
 ||cloudinary.com/hd-numerique/*/amz-300.jpg
@@ -2422,13 +2420,8 @@ _adb_728x90_$popup
 ||geek.niooz.fr/pub.php
 ||geekdefrance.fr/wp-content/themes/interiorzine/ads/
 ||geekopolis.fr/images/habillage_$image
-||generation-nt.com/*c*c*c*c*c*c*c*c*c$image,script,xmlhttprequest
-||generation-nt.com/*n*n*n*n*n*n*n*n*n$image,script,xmlhttprequest
-||generation-nt.com/e337bfaf-fb99-426a-b3a1-ddcb9facbaae.js
-||generation-nt.com/iframe/ovh.php
 ||generation-nt.com/img/habillages/
 ||generation-nt.com^$xmlhttprequest
-||generation-nt.com^*/*m*m*m*m*m*m*m*m*m*m*m$popup
 ||gerardmerinfo.fr/fondpub/
 ||gigacu.com/jquery.js
 ||gigatopsexe.com/550x100.gif
@@ -4719,11 +4712,8 @@ logitheque.com##.bloc-pub-center-left
 aujourdhui-en-france.fr,leparisien.fr##.blocPartenaire
 auto-utilitaire.com,mobilealgerie.com##.bloc_728x90_brd
 psychologies.com##.bloc_abo
-generation-nt.com##.bloc_boutique
 programme-television.org##.bloc_evt
-generation-nt.com##.bloc_googlechrome
 reducavenue.com##.bloc_iab
-generation-nt.com##.bloc_numericable
 lemonde.fr##.bloc_part.immostreet
 lemonde.fr##.bloc_part.outbrain
 lexpress.fr##.bloc_partenaire
@@ -5035,7 +5025,6 @@ e-sante.fr##.public-info
 maghrebspace.net##.publicite_droite_600
 actu-environnement.com##.publireportage_simple
 aussitot.fr##.pubmidtext
-generation-nt.com##.puboffice
 buzzly.fr##.pubright
 tennisactu.net##.pubs
 orangeinfo.fr##.pubside
@@ -5192,7 +5181,6 @@ dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-d
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 planet-series.tv##a[href*="planet-series.tv/offer?"]
 magicmaman.com##a[href*="smartadserver.com/call/cliccommand/"]
-generation-nt.com##a[href="/boutique.html"]
 pmu.fr##a[href="/mon-pmu/easypari"]
 french-movies.net##a[href="/videosplus18.html"]
 search-torrent.com##a[href="/videox.php"]
@@ -5580,7 +5568,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||gameart.eu/medias/files/ad-top.$stylesheet
 @@||geekdefrance.fr/wp-content/themes/interiorzine/ads/top_
-@@||generation-nt.com/comments-listing-ajax-*.html$xmlhttprequest,domain=generation-nt.com
 @@||gironde.fr/css/csspacker.jsp?css=$stylesheet
 @@||good-deals.lu/Content/Styles/AdFrame.css
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.fr
