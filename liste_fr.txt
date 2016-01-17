@@ -26,7 +26,7 @@
 -ads/ads.
 -banner-300x250.
 -pub-ads/
-.adserverpub.
+.adserverpub.$domain=~adserverpub.com
 .adtech.
 .adxcore.
 .com.sa/ads/
@@ -63,6 +63,7 @@
 /a.php?t=*&pgid=*&rebill=
 /acad.$script
 /acecAdServer.
+/ad-lib/*
 /ad-maven-public-cdn/*
 /ad-netc-
 /ad-unit-image/*
@@ -268,6 +269,7 @@
 /pubs/?format=728x90
 /regie_pub/*
 /regiepub/*
+/reklamm.js
 /renklam/*
 /rotation.php?idaff=
 /rotator.php?zone=$script
@@ -510,6 +512,8 @@ _adb_728x90_$popup
 ||adslvr.com^$third-party
 ||adsmena.com^$third-party
 ||adsmobile1.com^$third-party
+||adsp.com^$third-party
+||adsp.io^$third-party
 ||adspoper.com^$third-party
 ||adspot.ch^$third-party
 ||adsregieonline.com^$third-party
