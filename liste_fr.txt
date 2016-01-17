@@ -1876,9 +1876,11 @@ _adb_728x90_$popup
 /disd.php?idsite=*&idzone=$script
 |http://cdn.*/dispr.js$script,third-party
 ! fdesouche
+fdesouche.com#@##adsense
 |http*://lc.cx^$popup,domain=fdesouche.com
 |http*://ow.ly^$popup,domain=fdesouche.com
 ||amazon.fr^$popup,domain=fdesouche.com
+||hostpic.org^$domain=fdesouche.com
 ||i.imgur.com^$domain=fdesouche.com
 ! genericblock
 ?adCampaign=$popup,domain=dpstream.net
