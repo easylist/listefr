@@ -40,12 +40,14 @@
 .ma/ads/
 .ma/ads_
 .php?&zoneid=
+.php?*&bannerid*campaignid=
 .php?banner=$subdocument
 .php?bannerid=
 .php?style=160x600-
 .php?style=300x250-
 .php?style=468x60-
 .php?style=720x90-
+.php?zones=*&blockcampaign=
 .pub-ban-
 .pubdirecte.$domain=~pubdirecte.com
 .publicite.
@@ -1654,7 +1656,6 @@ _adb_728x90_$popup
 ||passion-auto.me/pub.
 ||passion-auto.me/pub1.
 ||pepitastore.com^$domain=clubic.com
-||pers.skiplimite.tv^
 ||petite-garce.com/ban/$third-party
 ||petiteporn.xyz^*/o.php?$popup
 ||philatelistes.net/liens/cptr/
@@ -5499,7 +5500,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||ad2play.ftv-publicite.fr/js/ad2play.js$domain=mytaratata.com
 @@||ad4.liverail.com/?_=$domain=gamingroom.tv
 @@||ad4.liverail.com/?LR_ADMAP=$object-subrequest,domain=ultimedia.com
-@@||adcash.com/a/display.php?$subdocument,domain=skiplimite.tv
 @@||adgear.com^*/adgear.js$domain=tetesaclaques.tv|tou.tv
 @@||adimages.ch^$domain=adimages.ch
 @@||admedia.rtl.fr/online/sound/$object-subrequest,domain=rtl.fr
@@ -5855,7 +5855,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 ##.adblock_floating_message
 ##.counterAdblocks
 !
-skiplimite.tv#@##ad300x250
 dbz-fantasy.com#@##adTeaser
 freeiphone.fr,jetetroll.com,phonandroid.com#@##adsense
 debrideurstream.fr#@##pubdirecte
@@ -5931,7 +5930,16 @@ forumdz.com##div[style="width:728px; margin:0 auto; padding-bottom:1em"] + * + c
 @@||writerband.com^$elemhide
 @@||zenserv.fr^$elemhide
 ||captchme.net/api/media?ckey=$image
-!
+! skiplimite.tv
+@@||c1.popads.net/pop.js$subdocument,domain=skiplimite.tv
+@@||skiplimite.tv^$genericblock
+skiplimite.tv###afull
+skiplimite.tv#@##ad300x250
+|http://*?runauction=*?crr=*&cbrandom=$domain=skiplimite.tv
+||ohmyad.co^$domain=skiplimite.tv
+||pers.skiplimite.tv^$domain=skiplimite.tv
+||popads.net^$domain=skiplimite.tv
+||pubdirecte.com^$domain=skiplimite.tv
 ! onvasortir.com
 @@||onvasortir.com^$script
 ||onvasortir.com/fondnivea.jpg
