@@ -1483,6 +1483,7 @@ _adb_728x90_$popup
 ||gagne-facile.com/img/banner-
 ||gagnons-argent.com/pubd.$popup
 ||gametap.com/convergence/Header/framed/?
+||gamingskin.com^
 ||gateway.eravage.com/hit.php?$popup
 ||generation-nt.com/img/ovh/
 ||gerardmerinfo.fr/pub/
@@ -1882,6 +1883,7 @@ _adb_728x90_$popup
 ||i.imgur.com^$domain=fdesouche.com
 ! genericblock
 ?adCampaign=$popup,domain=dpstream.net
+||ad6media.fr^$domain=gaara-fr.com
 ||adform.net^$domain=sofoot.com
 ||adnxs.com^$domain=sofoot.com
 ||affiliation-france.com/bans/$domain=affiliation-france.com
@@ -1896,6 +1898,8 @@ _adb_728x90_$popup
 ||emea.pub^$popup,domain=affiliation-france.com
 ||exasharetab.com^$popup,domain=dowed.info
 ||exelator.com^$domain=sofoot.com
+||gaara-fr.com/banbandaikana.png$domain=gaara-fr.com
+||gamingskin.com^$domain=gaara-fr.com
 ||googleads.g.doubleclick.net^$domain=jeu.info
 ||goyavelab.com^$popup,domain=dpstream.net|jeu.info
 ||ohmyad.co^$domain=dpstream.net
@@ -3044,7 +3048,6 @@ _adb_728x90_$popup
 ||starter.fm/blog/*/bg_$image
 ||starter.fm/images/*/bg_
 ||static.ccm2.net/*/img/appstv/
-||static.gamingskin.com/skins/gaara/skin.js
 ||static.nautiljon.com/images/b1/?
 ||static.rtl.fr/*/skin/$stylesheet
 ||static.rtl.fr/*/skin/promo/
@@ -5570,6 +5573,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
 @@||francetelevisions.fr^*/publicite/silverlight.php?
+@@||gaara-fr.com^$genericblock
 @@||gameart.eu/medias/files/ad-top.$stylesheet
 @@||geekdefrance.fr/wp-content/themes/interiorzine/ads/top_
 @@||gironde.fr/css/csspacker.jsp?css=$stylesheet
@@ -5880,7 +5884,6 @@ forumdz.com##div[style="width:728px; margin:0 auto; padding-bottom:1em"] + * + c
 @@||dpstream.tv^$elemhide
 @@||ebookdz.com^$elemhide
 @@||entrepriseindividuelle.info^$elemhide
-@@||gaara-fr.com^$elemhide
 @@||goldenmoustache.com^$elemhide
 @@||jeux-hentai.com^$elemhide
 @@||jeux-porno.net^$elemhide
