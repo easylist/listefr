@@ -3323,6 +3323,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 @@||foot01.com^*/tiny_mce.js$~third-party,xmlhttprequest
 @@||foot01.com^*_mce.js$~third-party,xmlhttprequest
 |http:$xmlhttprequest,domain=foot01.com
+||ajax.googleapis.com^$domain=foot01.com
 !
 !------------------ Éléments génériques -----------------!
 !
