@@ -3320,13 +3320,14 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ||macg.co/*/scripts/pub/getEbay_
 ||refurbgeneration.com/*/getEbay.
 ! Foot01
+/jquery-$script,domain=foot01.com
 @@||foot01.com/refresh-live.$~third-party,xmlhttprequest
 @@||foot01.com^*.txt$~third-party,xmlhttprequest
 @@||foot01.com^*/delete_image,$~third-party,xmlhttprequest
 @@||foot01.com^*/tiny_mce.js$~third-party,xmlhttprequest
 @@||foot01.com^*_mce.js$~third-party,xmlhttprequest
+|http:$image,third-party,domain=foot01.com
 |http:$xmlhttprequest,domain=foot01.com
-||ajax.googleapis.com^$domain=foot01.com
 !
 !------------------ Éléments génériques -----------------!
 !
