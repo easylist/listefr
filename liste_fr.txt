@@ -3326,6 +3326,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ||macg.co/*/scripts/pub/getEbay_
 ||refurbgeneration.com/*/getEbay.
 ! Foot01
+@@||a.disquscdn.com/next/embed/assets/img/$domain=foot01.com
 foot01.com##div[class*="0"]:first-child
 foot01.com##div[class*="1"]:first-child
 foot01.com##div[class*="2"]:first-child
@@ -3337,6 +3338,7 @@ foot01.com##div[class*="7"]:first-child
 foot01.com##div[class*="8"]:first-child
 foot01.com##div[class*="9"]:first-child
 |http:*0$image,third-party,domain=foot01.com
+|http:*1$image,third-party,domain=foot01.com
 !
 !------------------ Éléments génériques -----------------!
 !
