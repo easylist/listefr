@@ -368,6 +368,7 @@ _Social-Advert-
 .com.sa/ads?$popup
 .loading-delivery2.$popup
 .popunder.$popup
+/?pub_id=*&sub_id=$popup
 /a4u_banner_.$popup
 /adcint/*$popup
 /ads.php?$popup
@@ -1405,6 +1406,7 @@ _adb_728x90_$popup
 ||crocastuce.fr/images/Boutons/
 ||croquettesbio.com/wp-content/uploads/*/skyscreeper-
 ||cyclisme-mag.com/?specialSports$popup,domain=sports.fr
+||d1sj3yrs7ojvv7.cloudfront.net^
 ||d2gt9oovykfp1z.cloudfront.net^
 ||d2skqnrxz11esv.cloudfront.net^
 ||d4.fr/img/af_$third-party
@@ -1421,7 +1423,6 @@ _adb_728x90_$popup
 ||discutfree.com^$popup,domain=netvibes.com
 ||dmcdn.net^*/Orange_PingPong/$subdocument
 ||domautcr.com/clicki/$popup
-||dowed.info/hqq_stream.html
 ||downloading.to/*?k=&ban=$popup
 ||downloading.to/*?runauction=
 ||downloading.to/static/v2/pop.min.js
@@ -1887,34 +1888,20 @@ fdesouche.com#@##adsense
 ||hostpic.org^$domain=fdesouche.com
 ||i.imgur.com^$domain=fdesouche.com
 ! genericblock
-?adCampaign=$popup,domain=dpstream.net
 ||ad6media.fr^$domain=gaara-fr.com
 ||adform.net^$domain=sofoot.com
 ||adnxs.com^$domain=sofoot.com
-||affiliation-france.com/bans/$domain=affiliation-france.com
-||affiliation-france.com^$domain=purevid.com
-||affiliation-france.com^$popup,~third-party,domain=affiliation-france.com
 ||betrad.com^$domain=sofoot.com
 ||cdn.adnxs.com^$domain=jeu.info
 ||criteo.com^$domain=jeu.info
 ||doubleclick.net^$domain=sofoot.com
-||dowed.info/hqq_stream.html$domain=dowed.info
-||dowed.info^$popup,~third-party,domain=dowed.info
-||emea.pub^$popup,domain=affiliation-france.com
-||exasharetab.com^$popup,domain=dowed.info
 ||exelator.com^$domain=sofoot.com
 ||gaara-fr.com/banbandaikana.png$domain=gaara-fr.com
 ||gamingskin.com^$domain=gaara-fr.com
 ||googleads.g.doubleclick.net^$domain=jeu.info
-||goyavelab.com^$popup,domain=dpstream.net|jeu.info
-||ohmyad.co^$domain=dpstream.net
+||goyavelab.com^$popup,domain=jeu.info
 ||pagead2.googlesyndication.com/getconfig/$domain=jeu.info
-||pubdirecte.com^$domain=dowed.info|teramixer.com
-||pubdirecte.com^$popup,domain=teramixer.com
-||puhtml.com^$domain=dowed.info
-||pureadexchange.com^$domain=dpstream.net
 ||rubiconproject.com^$domain=sofoot.com
-||startnewtab.com^$popup,domain=dowed.info
 ||taboola.com^$domain=sofoot.com
 ! revolving adservers
 ||a-staticwebedia.com^
@@ -5448,7 +5435,6 @@ lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 bfmtv.com##iframe[id^="ligatus"]
-dpstream.net##iframe[src^="http://www.affiliation-france.com/"]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
@@ -5575,14 +5561,12 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/ad-remover/img/
 @@||download.gameblog.fr/images/promo/ban_premium_300.jpg
-@@||dpstream.net^$genericblock
 @@||ds.serving-sys.com/BurstingRes//$object-subrequest,domain=buzzmoica.fr
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
 @@||dzautos.com/swf/prix_du_neuf.swf
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
 @@||ebayrtm.com/rtm?RtmCmd&a=json&p=$script,domain=www.befr.ebay.be
 @@||ebayrtm.com/rtm?RtmPreviewContent&$subdocument,domain=www.befr.ebay.be
-@@||event.ohmyad.co/dispatch/$domain=dpstream.net
 @@||everlong.org/style/banner.php
 @@||fatherandsons.fr^*/opecom/affiliation/
 @@||forum-auto.com/xiti2/xtcore.js
