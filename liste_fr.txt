@@ -3327,16 +3327,16 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ||refurbgeneration.com/*/getEbay.
 ! Foot01
 @@||a.disquscdn.com/next/embed/assets/img/$domain=foot01.com
-foot01.com##div[class*="0"]:first-child
-foot01.com##div[class*="1"]:first-child
-foot01.com##div[class*="2"]:first-child
-foot01.com##div[class*="3"]:first-child
-foot01.com##div[class*="4"]:first-child
-foot01.com##div[class*="5"]:first-child
-foot01.com##div[class*="6"]:first-child
-foot01.com##div[class*="7"]:first-child
-foot01.com##div[class*="8"]:first-child
-foot01.com##div[class*="9"]:first-child
+foot01.com##div[class*="0"] > p[class]
+foot01.com##div[class*="1"] > p[class]
+foot01.com##div[class*="2"] > p[class]
+foot01.com##div[class*="3"] > p[class]
+foot01.com##div[class*="4"] > p[class]
+foot01.com##div[class*="5"] > p[class]
+foot01.com##div[class*="6"] > p[class]
+foot01.com##div[class*="7"] > p[class]
+foot01.com##div[class*="8"] > p[class]
+foot01.com##div[class*="9"] > p[class]
 |http:*0$image,third-party,domain=foot01.com
 |http:*1$image,third-party,domain=foot01.com
 !
