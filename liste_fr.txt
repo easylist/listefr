@@ -2417,8 +2417,8 @@ fdesouche.com#@##adsense
 ||gamekult.com/ajax-info/amazon-top-tout.html
 ||gamekult.com/i/partenaires/
 ||gameonly.com^*/include/pub/
-||gamer-network.fr/wp-content/uploads/*/FR_Gamer-network_300x300_
-||gamer-network.fr/wp-content/uploads/G2a.swf
+||gamer-network.fr/wp-content/*/g2a-
+||gamer-network.fr/wp-content/uploads/*/banniere.
 ||garytube.com/pop.js
 ||geek.niooz.fr/pub.php
 ||geekdefrance.fr/wp-content/themes/interiorzine/ads/
@@ -3731,6 +3731,7 @@ foot01.com##div[class*="9"] > p[class]
 ##.ads2
 ##.adsPost
 ##.ads_box_home_box
+##.ads_single_bottom
 ##.ads_table
 ##.adspave
 ##.adspopup
@@ -4067,6 +4068,7 @@ foot01.com##div[class*="9"] > p[class]
 ##a[href^="http://www.terraclicks.com/"]
 ##a[href^="http://www.xmediaserve.com/"]
 ##a[href^="http://www.yourfilezone.com/"]
+##a[href^="https://www.g2a.com/r/"] > img
 ##a[target="_blank"][href*="/banners/click/"]
 ##div[onclick*="/regiedeep.php?"]
 ##section[onclick*="/publicite-300-250/"]
@@ -4302,7 +4304,7 @@ kijiji.ca###gpt-leaderboard-top
 reverso.net###hAdv
 cdiscount.com###hMall
 bdgest.com,bedetheque.com###hab_click
-bioalaune.com,comics-sanctuary.com,ffeminin.com,manga-sanctuary.com###habillage
+bioalaune.com,comics-sanctuary.com,ffeminin.com,gamer-network.fr,manga-sanctuary.com###habillage
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-right
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-top
 ouedkniss.com###habillage_a
@@ -4645,7 +4647,7 @@ afrokanlife.com##.PubAdAI
 driverscloud.com##.accueil_pubotherlan
 lagazettedescommunes.com##.actus-case-pub
 lagazettedescommunes.com##.actus-home-right-pub
-courrierinternational.com,covoiturage.fr,e-sante.fr,fabriquer-des-meubles.fr,gizmodo.fr,journalmetro.com,lematin.ch,lopinion.fr,maps.google.fr,marques.expert,p-nintendo.com,photo.fr,playerhd1.pw,tetu.com,tripadvisor.fr,zapiks.fr##.ad
+courrierinternational.com,covoiturage.fr,e-sante.fr,fabriquer-des-meubles.fr,gamer-network.fr,gizmodo.fr,journalmetro.com,lematin.ch,lopinion.fr,maps.google.fr,marques.expert,p-nintendo.com,photo.fr,playerhd1.pw,tetu.com,tripadvisor.fr,zapiks.fr##.ad
 midilibre.fr,sudouest.fr##.ad-box
 turfomania.fr##.ad1
 vinyculture.com##.ad2
