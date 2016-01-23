@@ -3305,6 +3305,11 @@ fdesouche.com#@##adsense
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
+! Allocine.fr
+@@||connect.facebook.net^$domain=allocine.fr
+@@||disqus.com^$domain=allocine.fr
+allocine.fr##[id$="=="]
+|http:$script,third-party,domain=allocine.fr
 ! MacGeneration
 macg.co###block-quicktabs-bon-plans-macg-
 igen.fr,macg.co##.ebay
