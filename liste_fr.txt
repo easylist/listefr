@@ -3311,6 +3311,11 @@ fdesouche.com#@##adsense
 @@||disqus.com^$domain=allocine.fr
 allocine.fr##[id$="=="]
 |http:$script,third-party,domain=allocine.fr
+! jeuxvideo.com
+@@||connect.facebook.net^$script,domain=jeuxvideo.com
+@@||gstatic.com/recaptcha/$script,domain=jeuxvideo.com
+@@||platform.twitter.com^$script,domain=jeuxvideo.com
+|http:$script,third-party,domain=jeuxvideo.com
 ! purepeople.com
 @@||apis.google.com^$script,domain=purepeople.com
 @@||connect.facebook.net^$script,domain=purepeople.com
@@ -4132,6 +4137,7 @@ dogzer.com###affichage_tag_58
 porn-tube-sexe.com###affidate_form_horiz
 porn-tube-sexe.com###affidate_form_img
 mymanga.io###affil
+jeuxvideo.com###affli-ligne-blocs
 lesnumeriques.com###after-dfp-products
 lesnumeriques.com###after-main-products
 lesnumeriques.com###after-top-right-products
@@ -5255,6 +5261,7 @@ ensnaredbyabook.com##a[href^="/file.php?name="]
 mayottehebdo.com##a[href^="/index.php?option=com_banners"]
 immigrer.com##a[href^="/p/bannieres/"]
 confidentielles.com##a[href^="/rc_787_"]
+jeuxvideo.com##a[href^="/sponso/"] img
 beaute-test.com##a[href^="/stat/clic.php?"]
 emule-island.ru##a[href^="/tutoriaux/usenext-dl.php?"]
 seedpeer.eu##a[href^="/usenet.php?"]
