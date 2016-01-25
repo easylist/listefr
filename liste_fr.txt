@@ -709,7 +709,6 @@ _adb_728x90_$popup
 ||ex-show.com^$third-party
 ||exarab.com^$third-party
 ||exchange.gouik.com^$third-party
-||exelator.com^$third-party
 ||extensionfactory.com^$third-party
 ||f5biz.biz^$third-party
 ||faitdufric.com^$third-party
@@ -1897,12 +1896,13 @@ fdesouche.com#@##adsense
 ||cdn.adnxs.com^$domain=jeu.info
 ||criteo.com^$domain=jeu.info
 ||doubleclick.net^$domain=sofoot.com
-||exelator.com^$domain=sofoot.com
 ||gaara-fr.com/banbandaikana.png$domain=gaara-fr.com
 ||gamingskin.com^$domain=gaara-fr.com
 ||googleads.g.doubleclick.net^$domain=jeu.info
 ||goyavelab.com^$popup,domain=jeu.info
+||nuggad.net^$domain=sofoot.com
 ||pagead2.googlesyndication.com/getconfig/$domain=jeu.info
+||partner.googleadservices.com^$domain=sofoot.com
 ||rubiconproject.com^$domain=sofoot.com
 ||taboola.com^$domain=sofoot.com
 ! revolving adservers
@@ -3017,13 +3017,6 @@ fdesouche.com#@##adsense
 ||sky-animes.com/scripts/liens.php?show=topsites
 ||sochaux365.fr/pub.php
 ||sochaux365.fr^*?imgPrefix=$xmlhttprequest
-||sofoot.com/data/$image
-||sofoot.com/good/
-||sofoot.com/images/pub/
-||sofoot.com/IMG/*/logo_
-||sofoot.com/IMG/i*.jpg?maj=
-||sofoot.com^*/?w=clic&id=$popup
-||sofoot.com^*_pubsv2/
 ||softonic.fr/specials-leaderboard
 ||soldesdunet.com/wp-content/uploads/*/cdiscount-promo-
 ||soleilinvest.com/ima/prom/
@@ -4170,7 +4163,7 @@ cdmail.fr###bandeau
 kairn.com###bandeauTheme > .video
 priceminister.com###bandeau_premium
 click-fr.com###baner
-blogger-au-bout-du-doigt.blogspot.com,boursier.com,htmlforums.com,lesaffaires.com,maliweb.net###banner
+blogger-au-bout-du-doigt.blogspot.com,boursier.com,htmlforums.com,lesaffaires.com,live.sofoot.com,maliweb.net###banner
 football.fr,sports.fr###banner-full
 welovetennis.fr###banner-top
 cpasbien.io,hitradio.ma###banner2
@@ -4809,7 +4802,6 @@ porn-video-hd.com##.catcher-videos
 girlsgogames.fr##.categoryBanner
 akelys.com##.cellulePUB
 yahoo.com##.classickick
-sofoot.com##.clickAdidas
 test-mobile.fr##.clickleft
 test-mobile.fr##.clickright
 test-mobile.fr##.clicktop
