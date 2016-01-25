@@ -4159,7 +4159,6 @@ mcetv.fr###annonce-header
 upp-auteurs.fr###annonce_a
 upp-auteurs.fr###annonce_b
 macbidouille.com###arch
-sport.francetv.fr###archePromo
 pubeco.fr###aroundShop
 autoreflex.com###arx_home_partenaires
 comment-economiser.fr###astuce_pub
@@ -4776,6 +4775,7 @@ premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 jeuxvideopc.com##.block-concours_en_cours
 smartorrent.com,torrentsm.top##.block-contenu-pub
 jeuxvideo.fr##.block-divers-widget_shopping
+francetvsport.fr##.block-ftv-loading-of-mad
 jeuxvideo.fr##.block-jeux-micromania_offre
 orange.fr##.block-pub
 bricoleurdudimanche.com##.block-pub-ban-btm
@@ -5393,7 +5393,7 @@ actufoot.fr,livefootball.fr,mercato.fr##div[id^="ad6b_"]
 gratuitcul.com##div[id^="affidate_form_"]
 forumconstruire.com##div[id^="bloc_discussion_"] > :first-child + div
 melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,meltyxtrem.fr##div[id^="container_A2_"]
-france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr,~sport.francetv.fr##div[id^="eShowPub"]
+france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr##div[id^="eShowPub"]
 audiofanzine.com##div[id^="lbr"]
 estrepublicain.fr##div[id^="pub-dfp-"]
 pagesjaunes.fr##div[id^="push"]
