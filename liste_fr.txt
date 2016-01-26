@@ -4011,6 +4011,7 @@ foot01.com##div[class*="9"] > p[class]
 ##.publicite_locale
 ##.publicite_r
 ##.publicite_sous_slider
+##.publiciteac
 ##.publiciteright
 ##.publicity
 ##.pubovh
@@ -5557,6 +5558,7 @@ journaldesfemmes.com##div[class] > [class] > img[src]:last-child
 @@?ad_width=$script,domain=allocine.fr|purepeople.com
 @@|http://ad4.fr^$~third-party
 @@||247realmedia.com/0/Player/Player_FR_Home/Box-2-FR.jpg$domain=eurosportplayer.fr
+@@||ad-exchange.fr^$~third-party
 @@||ad.doubleclick.net/clk;$popup,third-party,domain=123comparer.fr
 @@||ad2play.ftv-publicite.fr/?sitepage=$subdocument,domain=mytaratata.com|psg.fr
 @@||ad2play.ftv-publicite.fr/js/ad2play.js$domain=mytaratata.com
