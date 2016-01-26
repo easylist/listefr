@@ -3325,11 +3325,11 @@ fdesouche.com#@##adsense
 @@||disqus.com^$script,domain=allocine.fr
 |http:$script,third-party,domain=allocine.fr
 ! jeuxvideo.com
-@@||connect.facebook.net^$script,domain=jeuxvideo.com
-@@||flgstkr.fr^$script,domain=jeuxvideo.com
-@@||gstatic.com/recaptcha/$script,domain=jeuxvideo.com
-@@||platform.twitter.com^$script,domain=jeuxvideo.com
-|http:$script,third-party,domain=jeuxvideo.com
+!@@||connect.facebook.net^$script,domain=jeuxvideo.com
+!@@||flgstkr.fr^$script,domain=jeuxvideo.com
+!@@||gstatic.com/recaptcha/$script,domain=jeuxvideo.com
+!@@||platform.twitter.com^$script,domain=jeuxvideo.com
+!|http:$script,third-party,domain=jeuxvideo.com
 ! purepeople.com
 @@||apis.google.com^$script,domain=purepeople.com
 @@||connect.facebook.net^$script,domain=purepeople.com
