@@ -3332,6 +3332,10 @@ fdesouche.com#@##adsense
 @@||connect.facebook.net^$script,domain=purepeople.com
 @@||platform.twitter.com^$script,domain=purepeople.com
 |http:$script,third-party,domain=purepeople.com
+! gentside.com
+@@||jwpcdn.com^$object-subrequest,domain=gentside.com
+@@||liverail.com^$object-subrequest,domain=gentside.com
+|http:$object-subrequest,third-party,domain=gentside.com
 ! MacGeneration
 macg.co###block-quicktabs-bon-plans-macg-
 igen.fr,macg.co##.ebay
@@ -4467,6 +4471,7 @@ windsurfjournal.com###pave300x250
 oumma.com###pave3_ad
 oumma.com###pave4_ad
 windsurfjournal.com###pave695x90
+gentside.com###pave_bas
 gentside.com,maxisciences.com,ohmymag.com###pave_haut
 dzfoot.com###pave_twoh
 windsurfjournal.com###paves214x157
@@ -5603,7 +5608,6 @@ journaldesfemmes.com##div[class] > [class] > img[src]:last-child
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
-@@||cdn-static.liverail.com/crossdomain.xml$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
 @@||cdn.teads.tv/js/all-$script,domain=telechargement.zebulon.fr
 @@||clic.reussissonsensemble.fr/click*.asp$domain=forfait-mobile-moins-cher.com
@@ -5695,7 +5699,6 @@ journaldesfemmes.com##div[class] > [class] > img[src]:last-child
 @@||ophtalmo.tv/video/ads/$object-subrequest
 @@||ouifm.adswizz.com//www/components/
 @@||ouifm.adswizz.com/www/components/
-@@||p.jwpcdn.com/crossdomain.xml$object-subrequest
 @@||pc-overware.be/index/images/banners/annuaire%20test%206%20png.png
 @@||pc-overware.be/index/images/banners/forum.jpg
 @@||pc-overware.be/index/images/banners/pc-overware.be.png
