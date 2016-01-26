@@ -3331,10 +3331,10 @@ fdesouche.com#@##adsense
 !@@||platform.twitter.com^$script,domain=jeuxvideo.com
 !|http:$script,third-party,domain=jeuxvideo.com
 ! purepeople.com
-@@||apis.google.com^$script,domain=purepeople.com
-@@||connect.facebook.net^$script,domain=purepeople.com
-@@||platform.twitter.com^$script,domain=purepeople.com
-|http:$script,third-party,domain=purepeople.com
+!@@||apis.google.com^$script,domain=purepeople.com
+!@@||connect.facebook.net^$script,domain=purepeople.com
+!@@||platform.twitter.com^$script,domain=purepeople.com
+!|http:$script,third-party,domain=purepeople.com
 ! gentside.com - ohmymag.com - maxisciences.com
 @@||jwpcdn.com^$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
 @@||liverail.com^$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
