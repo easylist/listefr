@@ -3320,10 +3320,10 @@ fdesouche.com#@##adsense
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
-! Allocine.fr
-@@||connect.facebook.net^$script,domain=allocine.fr
-@@||disqus.com^$script,domain=allocine.fr
-|http:$script,third-party,domain=allocine.fr
+! allocine.fr
+!@@||connect.facebook.net^$script,domain=allocine.fr
+!@@||disqus.com^$script,domain=allocine.fr
+!|http:$script,third-party,domain=allocine.fr
 ! jeuxvideo.com
 !@@||connect.facebook.net^$script,domain=jeuxvideo.com
 !@@||flgstkr.fr^$script,domain=jeuxvideo.com
