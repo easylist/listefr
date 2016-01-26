@@ -3332,10 +3332,10 @@ fdesouche.com#@##adsense
 @@||connect.facebook.net^$script,domain=purepeople.com
 @@||platform.twitter.com^$script,domain=purepeople.com
 |http:$script,third-party,domain=purepeople.com
-! gentside.com
-@@||jwpcdn.com^$object-subrequest,domain=gentside.com
-@@||liverail.com^$object-subrequest,domain=gentside.com
-|http:$object-subrequest,third-party,domain=gentside.com
+! gentside.com - ohmymag.com
+@@||jwpcdn.com^$object-subrequest,domain=gentside.com|ohmymag.com
+@@||liverail.com^$object-subrequest,domain=gentside.com|ohmymag.com
+|http:$object-subrequest,third-party,domain=gentside.com|ohmymag.com
 ! MacGeneration
 macg.co###block-quicktabs-bon-plans-macg-
 igen.fr,macg.co##.ebay
