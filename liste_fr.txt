@@ -284,6 +284,7 @@
 /showads?
 /slidegirlad.
 /smartad/*
+/smartad_
 /srv.php?size=300x250
 /srv.php?size=315x300
 /Tag/go2?url=$subdocument
@@ -2683,6 +2684,7 @@ fdesouche.com#@##adsense
 ||lettres-modeles.fr/include/_iframe300x200.php
 ||lettres-modeles.fr/include/_iframe300x600.php
 ||lettres-modeles.fr^*/lmodel.php
+||lexpress.fr/doc/partenaires/
 ||lexpress.fr/pub/
 ||lexpressiondz.com/files/banners/
 ||lfp.fr/images/pub/
@@ -4059,6 +4061,7 @@ foot01.com##div[class*="9"] > p[class]
 ##.topbarpub
 ##.topleftad
 ##.toppubs
+##.trc-content-sponsored
 ##.txt-pub
 ##.vertical-ads-group
 ##.video-list-ads
@@ -4799,7 +4802,9 @@ bricoleurdudimanche.com##.block-pub-partenaires
 laposte.net##.blockShopping
 dzmusique.com##.block_ad_container
 hallofmen.fr##.block_banniere
-cotemaison.fr,trictrac.net##.block_partners
+lexpress.fr##.block_partner
+lexpress.fr##.block_partner_item
+cotemaison.fr,lexpress.fr,trictrac.net##.block_partners
 whitespirit.fr##.blogt
 leguide-shopping.tele-2-semaines.fr##.body
 lesnegociales.com##.body_clic
@@ -5012,7 +5017,7 @@ petitfute.com##.partenaire_mid
 mamytwink.com##.partenaire_pave
 lachainemeteo.com##.partenaire_triple
 boursorama.com,caradisiac.com,lesechos.fr,lfp.fr,mangario.fr,sexandtrash.com##.partenaires
-gameblog.fr,swissquote.ch##.partner
+gameblog.fr,lexpress.fr,swissquote.ch##.partner
 topsante.com##.partner-block
 youpinet.com##.partner-listing
 rtl.fr##.partner-mdl
@@ -5122,6 +5127,7 @@ lefigaro.fr##.s24-shopping
 phpsources.org##.sample-lst
 bakchich.info##.scpe-pub
 ouest-france.fr##.sd-deals
+lexpress.fr##.section_taboola_alireaussi
 sports.fr##.service.a[data-link$="\", \"target\":\"_blank\" \7d "]
 jeuxetcompagnie.fr##.sg-formulaire
 portail.free.fr##.shopping_carrousel_produit
