@@ -13,6 +13,7 @@
 !
 &ad_domain=
 &ad_path=
+&adplace=
 &ads_size_id=
 &cwadformat=
 &playadw=
@@ -64,6 +65,7 @@
 /a.php?t=*&pgid=*&rebill=
 /acad.$script
 /acecAdServer.
+/ad-360-280-player.
 /ad-lib/*
 /ad-maven-public-cdn/*
 /ad-netc-
@@ -136,7 +138,9 @@
 /bandito.php?p=$xmlhttprequest
 /bann468X60.
 /banner/*/sponsored?
+/banner300.
 /banner720x90/?ad=
+/banner728.
 /banner?sid=
 /banner_campaign_
 /bannerad2300.
@@ -168,6 +172,7 @@
 /default_ads_
 /delivery/ajs.
 /delivery/ck.php?
+/delivery/ifrm.
 /delivery/rta/*
 /display/?affid=
 /display/?method=redirect&force=$subdocument
@@ -199,6 +204,8 @@
 /layout/ads?
 /lib/ads.
 /load.php?action=adsc&
+/media/300250.
+/media/72890.
 /menu/ADS/*
 /miniads/*
 /newpromo.$subdocument
@@ -388,12 +395,14 @@ _Social-Advert-
 /ads_$popup
 /adServe/banners?$popup
 /adServe/feedclick?$popup
+/adserver/iframe.$popup
 /adservingsolutionsinc/*$popup
 /adsys.$popup
 /adsys/*$popup
 /adv.php$popup
 /adv_clk_redirect.$popup
 /adv_show?$popup
+/advertisers/?utm_source=$popup
 /banner_s?*&auto_click=$popup
 /banredir.cgi?$popup
 /click?*=ad&$popup
@@ -3406,6 +3415,8 @@ foot01.com##div[class*="9"] > p[class]
 ###ads-980x
 ###ads-medium-rectangle
 ###ads125-box
+###ads46860
+###ads72890
 ###adsCarre
 ###adsHaut
 ###ads_block_vertical
@@ -3418,6 +3429,9 @@ foot01.com##div[class*="9"] > p[class]
 ###adsground
 ###adspave
 ###advBarMars
+###advncdads-1
+###advncdads-2
+###advncdads-3
 ###advpanel
 ###after-adv
 ###annonce_pub
@@ -3750,10 +3764,13 @@ foot01.com##div[class*="9"] > p[class]
 ##.ads-search
 ##.ads-sponsored-text
 ##.ads2
+##.ads46860
+##.ads72890
 ##.adsPost
 ##.ads_box_home_box
 ##.ads_single_bottom
 ##.ads_table
+##.ads_widget
 ##.adspave
 ##.adspopup
 ##.adsunits
