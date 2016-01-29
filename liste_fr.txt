@@ -426,6 +426,7 @@ _Social-Advert-
 ?runauction=*?crr=*&ctbust=$popup
 _adb_300x250_$popup
 _adb_728x90_$popup
+||adv-mybankai.$popup
 !
 !----------------------- Annonceurs -----------------------!
 !
@@ -1131,6 +1132,7 @@ _adb_728x90_$popup
 ||danstonfion.com^$popup,third-party
 ||dealdunjour.com^$popup,third-party
 ||delnapb.com^$popup,third-party
+||derby-digital.com^$popup,third-party
 ||download366.net^$popup,third-party
 ||emea.pub^$popup,third-party
 ||espace-plus.net^$popup,third-party
@@ -1141,6 +1143,7 @@ _adb_728x90_$popup
 ||flagagreebelieve.com^$popup,third-party
 ||flashtalking.com^$popup,third-party
 ||fungoiddempseyimpasse.info^$popup,third-party
+||gamingaffiliation.com^$popup,third-party
 ||gestionpub.com^$popup,third-party
 ||getgamers.eu^$popup,third-party
 ||getlinksinaseconds.com^$popup,third-party
@@ -1346,7 +1349,7 @@ _adb_728x90_$popup
 ||bestofartisans.com/app/$third-party
 ||bestofmedia.com/sfp/images/partner/
 ||betclic.fr/partner.aspx?
-||betclic.fr^$popup,domain=flashresultats.fr|sofoot.com
+||betclic.fr^$popup,domain=flashresultats.fr
 ||betclick.com^*/banner.ashx?
 ||beurette-passion.com/ban/$third-party
 ||beurettes-faciles.com/promo/
@@ -1361,6 +1364,7 @@ _adb_728x90_$popup
 ||boonex.com/modules/Txt/layout/default/img/txt-abt-file
 ||bourgogne-restaurants.com/a_decouvrir_resto_$third-party
 ||boutique.aero/images/block_pub_
+||box10.com^*?utm_source=$popup
 ||brsimg.com/pub/
 ||business-lounge.fr/public/widget-prod/
 ||buzzypeople.fr/download/115163_k.gif
@@ -1414,7 +1418,6 @@ _adb_728x90_$popup
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
 ||dailymotion.com^*autoplay=1$domain=anime301.com|mangas-ddl-free.over-blog.com|mangaxd.com|pokercast.tv|stream4free.pro
 ||damtours.com/static/img/damtous_$third-party
-||derby-digital.com^$popup,domain=sofoot.com
 ||devisprox-media.s3-website-eu-west-1.amazonaws.com^
 ||devisprox.com/ld.js
 ||dhtml.pornravage.com^
@@ -1890,23 +1893,6 @@ fdesouche.com#@##adsense
 ||amazon.fr^$popup,domain=fdesouche.com
 ||hostpic.org^$domain=fdesouche.com
 ||i.imgur.com^$domain=fdesouche.com
-! genericblock
-||ad6media.fr^$domain=gaara-fr.com
-||adform.net^$domain=sofoot.com
-||adnxs.com^$domain=sofoot.com
-||betrad.com^$domain=sofoot.com
-||cdn.adnxs.com^$domain=jeu.info
-||criteo.com^$domain=jeu.info
-||doubleclick.net^$domain=sofoot.com
-||gaara-fr.com/banbandaikana.png$domain=gaara-fr.com
-||gamingskin.com^$domain=gaara-fr.com
-||googleads.g.doubleclick.net^$domain=jeu.info
-||goyavelab.com^$popup,domain=jeu.info
-||nuggad.net^$domain=sofoot.com
-||pagead2.googlesyndication.com/getconfig/$domain=jeu.info
-||partner.googleadservices.com^$domain=sofoot.com
-||rubiconproject.com^$domain=sofoot.com
-||taboola.com^$domain=sofoot.com
 ! Webediads revolving adservers
 ||a-staticwebedia.com^
 ||accelerat.xyz^
@@ -2425,6 +2411,7 @@ fdesouche.com#@##adsense
 ||funradio.fr^*/skin/promo/
 ||fusacq.com/buzz/*/encarts/
 ||futurama-stream.eu/wp-content/uploads/2014/06/ecig.jpg
+||gaara-fr.com/banbandaikana.png
 ||gabcms.org/donnes/img/banniere_
 ||game-guide.fr/*/images/pub/
 ||gameblog.fr/images/oxalide_
@@ -2850,7 +2837,6 @@ fdesouche.com#@##adsense
 ||ogaming.tv/upload/background/image/
 ||ogaming.tv/upload/partner/
 ||ohmydollz.com/pub2012/
-||omg.esprit-click.com^
 ||omgtorrent.me/assets/woot.js
 ||omgtorrent.me/img/pubs/
 ||on-veut-du-cul.com^*/partenaire/
@@ -3358,13 +3344,6 @@ foot01.com##div[class*="8"] > p[class]
 foot01.com##div[class*="9"] > p[class]
 |http:*0$image,third-party,domain=foot01.com
 |http:*1$image,third-party,domain=foot01.com
-! tuxboard.com
-@@||static1.dmcdn.net^$script,domain=tuxboard.com
-|http:$script,third-party,domain=tuxboard.com
-! gum-gum-streaming.com
-@@||connect.facebook.net^$script,domain=gum-gum-streaming.com
-@@||rutube.ru/player/player.js$script,domain=gum-gum-streaming.com
-|http:$script,third-party,domain=gum-gum-streaming.com
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -4105,6 +4084,7 @@ foot01.com##div[class*="9"] > p[class]
 ##a[href^="ads.php?id="]
 ##a[href^="http://aclick.adhoc1.net/"]
 ##a[href^="http://ad-online.biz/"]
+##a[href^="http://adv-mybankai.ggcorp.me/"]
 ##a[href^="http://always-parser.xyz/"]
 ##a[href^="http://freedowns.info/"]
 ##a[href^="http://givemeclip.com/"]
@@ -5354,7 +5334,6 @@ gizmodo.fr##a[href^="http://www.ebuyclub.com/operations/gizmodo/entreeGizmodo.js
 extreme-down.org##a[href^="http://www.extreme-down.org/redir.html?redirect_link="]
 forumconstruire.com##a[href^="http://www.forumconstruire.com/torm3/click.php?"]
 forumpiscine.com##a[href^="http://www.forumpiscine.com/torm3/click.php?"]
-hinata-online-community.fr##a[href^="http://www.ggcorp.me/ld_register?"]
 guide-piscine.fr##a[href^="http://www.guide-piscine.fr/scripts/gp_div_clic.php?"]
 9rayti.com##a[href^="http://www.ilycee.com/?utm_source="]
 kaamelott-streaming.tv##a[href^="http://www.kaamelott-streaming.tv/partenaire/"]
@@ -5652,7 +5631,6 @@ journaldesfemmes.com##div[class] > [class] > img[src]:last-child
 @@||franceinter.fr/sites/default/files/imagecache/hp_slider_image/publicite/
 @@||francesurfinfo.com/affiliation/
 @@||francetelevisions.fr^*/publicite/silverlight.php?
-@@||gaara-fr.com^$genericblock
 @@||gameart.eu/medias/files/ad-top.$stylesheet
 @@||geekdefrance.fr/wp-content/themes/interiorzine/ads/top_
 @@||gironde.fr/css/csspacker.jsp?css=$stylesheet
@@ -5674,7 +5652,6 @@ journaldesfemmes.com##div[class] > [class] > img[src]:last-child
 @@||infos.peuples-solidaires.org/adserver2/
 @@||infos.wwf.fr/adserver2/
 @@||iphone4.fr/bannieres/header_icons.png
-@@||jeu.info^$genericblock
 @@||jheberg.net/js/*_advertisement.js
 @@||kapaza.be/*/ad_view_
 @@||koifaire.com/upload/*/300x250-
@@ -5733,7 +5710,6 @@ journaldesfemmes.com##div[class] > [class] > img[src]:last-child
 @@||serrurier-menuisier-31-ad2.fr^$~third-party
 @@||serrurier-menuisier-31-ad2.site-privilege.pagesjaunes.fr^$image,third-party
 @@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
-@@||sofoot.com^$genericblock
 @@||soutenir.apprentis-auteuil.org/adserver2/$image,script,stylesheet
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||static.touraineverte.com/banners/$image
@@ -5846,7 +5822,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
 @@|http://*.js$script,third-party,domain=jeux.fr
 @@||6play.fr/media/js/publicite.js
-@@||infojeu.com^$script,domain=jeu.info
 @@||ptitchef.com/js/ads.js
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
 !
@@ -5869,7 +5844,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||domain.com/ads.html$subdocument
 @@||doubleclick.net/favicon.ico$image
 @@||doubleverify.com^$domain=kissanime.com
-@@||esprit-click.com/*.js|$script,third-party
 @@||folihentai.eu/*.js|$script,third-party
 @@||fusacq.com/javascript/ads.js
 @@||gamingroom.tv/static/img/advert.png?
@@ -6317,3 +6291,10 @@ skiplimite.tv#@##ad300x250
 @@||xavboxwiiu.com^$generichide
 @@||xiaomi-m3.fr^$generichide
 @@||zevpn.net^$generichide
+! Goyave lab
+@@||connect.facebook.net^$script,domain=gaara-fr.com|gum-gum-streaming.com
+@@||content.jwplatform.com/libraries/$script,domain=jeu.info
+@@||rutube.ru/player/player.js$script,domain=gum-gum-streaming.com
+@@||static1.dmcdn.net^$script,domain=tuxboard.com
+@@||veedi.com/player/embed/veediEmbed.js$script,domain=jeu.info
+|http:$script,third-party,domain=gaara-fr.com|gum-gum-streaming.com|jeu.info|tuxboard.com
