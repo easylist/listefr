@@ -3359,12 +3359,7 @@ foot01.com##div[class*="9"] > p[class]
 |http:*0$image,third-party,domain=foot01.com
 |http:*1$image,third-party,domain=foot01.com
 ! tuxboard.com
-@@||ad.adxcore.com/adjs_$script,domain=tuxboard.com
-@@||api.dmcdn.net^$script,domain=tuxboard.com
-@@||d.adxcore.com^$script,domain=tuxboard.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=tuxboard.com
 @@||static1.dmcdn.net^$script,domain=tuxboard.com
-@@||tuxboard.com^$genericblock
 |http:$script,third-party,domain=tuxboard.com
 ! gum-gum-streaming.com
 @@||connect.facebook.net^$script,domain=gum-gum-streaming.com
