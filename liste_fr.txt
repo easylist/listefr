@@ -1491,6 +1491,7 @@ _adb_728x90_$popup
 ||gateway.eravage.com/hit.php?$popup
 ||generation-nt.com/img/ovh/
 ||gerardmerinfo.fr/pub/
+||ggc.ninja^$subdocument
 ||globirank.com/image/$domain=unlock-stream.com
 ||goclecd.fr/wp-content/themes/reviewit/freekey/
 ||gold-barre.com/banner*.
@@ -3365,6 +3366,10 @@ foot01.com##div[class*="9"] > p[class]
 @@||static1.dmcdn.net^$script,domain=tuxboard.com
 @@||tuxboard.com^$genericblock
 |http:$script,third-party,domain=tuxboard.com
+! gum-gum-streaming.com
+@@||connect.facebook.net^$script,domain=gum-gum-streaming.com
+@@||rutube.ru/player/player.js$script,domain=gum-gum-streaming.com
+|http:$script,third-party,domain=gum-gum-streaming.com
 !
 !------------------ Éléments génériques -----------------!
 !
