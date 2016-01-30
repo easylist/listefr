@@ -3185,12 +3185,10 @@ fdesouche.com#@##adsense
 ||tvcom.be/index.php?option=com_content&view=article&id=
 ||twodollarclick.com/earnbanner.php?
 ||uhit.eu/uhit.html
-||undernews.fr/*-vpn_promo.
-||undernews.fr/*/hidemyass_728x90_
 ||undernews.fr/*/hip-2015_300.gif
 ||undernews.fr/*/NDH_2k15.gif
-||undernews.fr/*/pia_468x60.
-||undernews.fr/*/privateinternetaccess_
+||undernews.fr/wp-content/uploads/*-ban.gif
+||undernews.fr/wp-content/uploads/*_head.gif
 ||une-recette.com/include/_iframe
 ||une-recette.com/include/r7com.php
 ||unionrunningworld.com/upload/bannieres/
@@ -5170,7 +5168,7 @@ laposte.fr##.tile--flag--partner
 frenchpopcorn.com##.tiptipr
 moteurs-regionaux.com##.titreCoupProjo
 get-your-rom.com##.topSectionContainer
-softonic.fr##.topbanner
+softonic.fr,undernews.fr##.topbanner
 allocine.fr##.topheader
 fan-de-cinema.com##.topmargin
 search.ke.voila.fr##.tpl_slpartner_container_bottom
@@ -5361,7 +5359,6 @@ staractus.fr##a[href^="http://www.staractus.fr/rd/url.php"]
 lcouple2-2m.blogspot.com##a[href^="http://www.ta3arof.net/ads/"]
 lefigaro.fr##a[href^="http://www.ticketac.com/?utm_source="]
 ticketac.com##a[href^="http://www.ticketac.com/redirect_pub.php?"]
-undernews.fr##a[href^="http://www.undernews.fr/go/"]
 webfrance.com##a[href^="http://www.webfrance.com/go/"]
 webrankinfo.com##a[href^="http://www.webrankinfo.com/partenaires/"]
 free-proxy.fr##a[href^="https://account.cyberghostvpn.com?affiliate="]
@@ -5371,7 +5368,7 @@ wawacity.su##a[href^="https://secure.securitetotale.com/"]
 cdiscount.com##a[href^="https://tracking.cdiscount.com/tracker.ashx?"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
-undernews.fr##a[href^="https://www.undernews.fr/go/"]
+undernews.fr##a[href^="https://www.undernews.fr/redirect/"]
 braindamaged.fr##a[href^="index.php?adclick="]
 windsurfjournal.com##a[href^="link,"]
 japan-expo.be##a[href^="pub-"]
@@ -5512,7 +5509,8 @@ supplychainmagazine.fr##img[width="468"]
 echangegagnant.com,genhit.com,israelmagazine.co.il##img[width="468"][height="60"]
 israelmagazine.co.il##img[width="600"][height="90"]
 forum.soirnet.fr##img[width="720"][height="100"]
-maliweb.net##img[width="728"][height="90"]
+maliweb.net,undernews.fr##img[width="728"][height="90"]
+undernews.fr##img[width][height][alt$="VPN"]
 smartorrent.com,torrentsm.top##input[type="button"]
 lien-torrent.com##li > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
 ici.tou.tv##li.bigBox
