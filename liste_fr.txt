@@ -3022,7 +3022,6 @@ fdesouche.com#@##adsense
 ||sky-animes.com/scripts/liens.php?show=topsites
 ||sochaux365.fr/pub.php
 ||sochaux365.fr^*?imgPrefix=$xmlhttprequest
-||softonic.fr/specials-leaderboard
 ||soldesdunet.com/wp-content/uploads/*/cdiscount-promo-
 ||soleilinvest.com/ima/prom/
 ||solimba.com/js/topbar.min.js
@@ -3099,8 +3098,6 @@ fdesouche.com#@##adsense
 ||telerama.fr/autopromo_*/banner_
 ||telesatellite.com/images/fransat-ocs-
 ||telesatellite.com/images/nl/a/
-||telquel-online.com^*/cgr-
-||telquel-online.com^*/cgrleaderboardhead-pub.jpg
 ||tennisactu.net/*/encarts_partenaires/
 ||terredauphinoise.fr/casiope/serveur/partage/
 ||tetesaclaques.tv/public/images/promo_mini_300x127_canalplus_FR.jpg
@@ -3436,6 +3433,7 @@ foot01.com##div[class*="9"] > p[class]
 ###ban728
 ###bandeau_pub
 ###bandeau_publicite
+###bannerLeaderboard
 ###bannerLeaderboardTop
 ###banniere-pub-top
 ###bannierePub
@@ -3495,9 +3493,11 @@ foot01.com##div[class*="9"] > p[class]
 ###footerpub3
 ###footerpubs
 ###for_ad
+###game_leaderboard_container
 ###general_subpub
 ###google-adsence-300-250
 ###google_adsencetxt
+###gpt-leaderboard-top
 ###haut_site_pub
 ###head-pub
 ###head_pub
@@ -3519,6 +3519,7 @@ foot01.com##div[class*="9"] > p[class]
 ###imagePubPave
 ###innerpub
 ###j_ads
+###js-game-leaderboard-bottom
 ###middle-publicite
 ###milieu_pub
 ###module_publicite
@@ -3785,6 +3786,7 @@ foot01.com##div[class*="9"] > p[class]
 ##.banner-leaderboard
 ##.barre_adsense
 ##.bg-adsense
+##.big-leaderboard
 ##.bigadvert
 ##.bireklam
 ##.bloc-ads
@@ -4192,7 +4194,6 @@ football.fr,sports.fr###banner-full
 welovetennis.fr###banner-top
 cpasbien.io,hitradio.ma###banner2
 jeuxdelajungle.fr###bannerGameSkyscraperRight
-rtbf.be###bannerLeaderboard
 clubpoker.net###bannerTopWrapper
 infobebes.com###banner_container
 gamesplanet.com###banner_data
@@ -4211,7 +4212,6 @@ tennisactu.net###bgclicable
 neomag.fr###big-ad
 gizmodo.fr###big-mega
 tetesaclaques.tv###bigBox
-telquel-online.com###big_banner
 logitheque.com###bloc-droit-haut-250-250
 logitheque.com###bloc-droite-bas-250-250
 mfteam.fr###bloc-fondpub
@@ -4337,7 +4337,6 @@ numerama.com###general_dec
 pagesjaunes.fr###goodDealsArea
 mediamass.net###google
 zero-complexe.com###google.post.bg1.online
-kijiji.ca###gpt-leaderboard-top
 reverso.net###hAdv
 cdiscount.com###hMall
 bdgest.com,bedetheque.com###hab_click
@@ -4397,7 +4396,6 @@ loisirados.com###intersticiel
 conseils-courseapied.com###ja-banner
 jeuxonline.info###jol-sidebar-ad
 cheznous.fr###js-alerte-popup
-jeuxjeuxjeux.fr###js-game-leaderboard-bottom
 lemonde.fr###js_deroule_rubrique_marque
 virginradio.fr###la-promo-showskin-a
 lequipe.fr###la_boutique
@@ -4762,7 +4760,6 @@ oopsbuzz.com##.behincontent
 iladit.com##.bg-pub-interne
 ennaharonline.com##.big-ad2
 des-amours.com##.big-button
-jeuxflash.com##.big-leaderboard
 tv5.ca##.bigbox-pub
 01net.com,bfmtv.com##.billboard
 mobilealgerie.com##.blc_300x250_blanc
