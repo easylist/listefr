@@ -5647,7 +5647,6 @@ journaldesfemmes.com##div[class] > [class] > img[src]:last-child
 @@||google.com/adsense/$subdocument,domain=sedo.fr
 @@||google.com/adsense/search/ads.js$domain=zoover.fr
 @@||google.com/uds/$script,domain=rfm.fr|virginradio.fr
-@@||goyavelab.com/dtct.js$script
 @@||hitek.fr/ads.js$script
 @@||host3.adhese.be/tag/tagv1.js$script,domain=lavenir.net
 @@||hostinger.fr/banners/*/hostinger-$image,~third-party
@@ -6299,9 +6298,9 @@ skiplimite.tv#@##ad300x250
 @@||xiaomi-m3.fr^$generichide
 @@||zevpn.net^$generichide
 ! Goyave lab
-@@||connect.facebook.net^$script,domain=gaara-fr.com|gum-gum-streaming.com
+@@||connect.facebook.net^$script,domain=dpstream.net|gaara-fr.com|gum-gum-streaming.com
 @@||content.jwplatform.com/libraries/$script,domain=jeu.info
 @@||rutube.ru/player/player.js$script,domain=gum-gum-streaming.com
 @@||static1.dmcdn.net^$script,domain=tuxboard.com
 @@||veedi.com/player/embed/veediEmbed.js$script,domain=jeu.info
-|http:$script,third-party,domain=gaara-fr.com|gum-gum-streaming.com|jeu.info|tuxboard.com
+|http://$script,third-party,domain=dpstream.net|gaara-fr.com|gum-gum-streaming.com|jeu.info|tuxboard.com
