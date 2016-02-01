@@ -76,6 +76,7 @@
 /ad_frames/*
 /ad_placements/*
 /ad_trafic.
+/adblockbanner/*
 /adhosting.
 /adman-include/*
 /adoff.js?
@@ -417,6 +418,7 @@ _Social-Advert-
 /puopen.php?$popup
 /redir/k.php?r=$popup
 /renderBanner.do?$popup
+/rotation_redir.$popup
 /script/campagne.php?cp=$popup
 /smart_ad/*$popup
 /unsub_aff.$popup
