@@ -788,7 +788,7 @@ _adb_728x90_$popup
 ||kreaffiliation.com^$third-party
 ||leasured.eu^$third-party
 ||lien-amateur.org^$third-party
-||ligatus.com^$~collapse,subdocument,domain=bfmtv.com
+||ligatus.com/angular_front/tags/$third-party
 ||limk.com^$third-party
 ||linkbolic.com^$third-party
 ||linklift.fr^$third-party
@@ -4183,7 +4183,6 @@ comment-economiser.fr###astuce_pub
 lanouvellegazette.be,laprovince.be,nordeclair.be###autovlan-widget
 winamax.fr###avertissement
 africanmanager.com###bLayer
-bfmtv.com###b_MegaBan
 commentcamarche.net###ba_position4
 top-for-phone.fr###background-cover
 argentmania.com,e-jeune.net###ban
@@ -5060,7 +5059,7 @@ yabiladi.com##.pub-read
 1point2vue.com##.pub-sidebar1
 1point2vue.com##.pub-sidebar2
 1point2vue.com##.pub-single-top
-01net.com##.pub-title
+01net.com,bfmtv.com##.pub-title
 horoscope.fr##.pub-transfo
 lefigaro.fr##.pub-zoom
 rueducommerce.fr##.pub1
@@ -5496,7 +5495,6 @@ copine-coquine.com##div[style^="width:300px;height:250px"]
 lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
-bfmtv.com##iframe[id^="ligatus"]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
@@ -5799,7 +5797,6 @@ vente-a-domicile.fr#@#.btn-ad
 latribune-online.com#@#.header_ads
 reseauforum.org#@#.html-advertisement
 msf.fr#@#.image-advertisement
-bfmtv.com#@#.ligatus
 leboncoin.fr#@#.list-ads
 allocine.fr#@#.nipnadszone
 pharmasite.fr#@#.pub300
