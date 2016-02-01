@@ -3334,6 +3334,9 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ||refurbgeneration.com/*/getEbay.
 ! Foot01
 @@||a.disquscdn.com/next/embed/assets/img/$domain=foot01.com
+@@||ajax.googleapis.com^$script,domain=foot01.com
+@@||foot01.com^$genericblock
+@@||foot01.disqus.com^$script,domain=foot01.com
 foot01.com##div[class*="0"] > p[class]
 foot01.com##div[class*="1"] > p[class]
 foot01.com##div[class*="2"] > p[class]
@@ -3346,6 +3349,7 @@ foot01.com##div[class*="8"] > p[class]
 foot01.com##div[class*="9"] > p[class]
 |http:*0$image,third-party,domain=foot01.com
 |http:*1$image,third-party,domain=foot01.com
+|http://$script,third-party,domain=foot01.com
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -3648,6 +3652,9 @@ foot01.com##div[class*="9"] > p[class]
 ###pub_pave_article
 ###pub_pave_bottom
 ###pub_pave_top
+###pub_plop-1
+###pub_plop-2
+###pub_plop-3
 ###pub_right
 ###pub_soonight
 ###pub_square
