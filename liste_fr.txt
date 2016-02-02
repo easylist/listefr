@@ -3804,6 +3804,7 @@ blob:*.dailymotion.com^
 ##.advert-left-slider
 ##.advert-out-left
 ##.advert-out-right
+##.advert-sidebar
 ##.advert-under-hedaer2
 ##.advert-under-hedaer2-left
 ##.advert-under-hedaer2-right
@@ -4745,7 +4746,7 @@ abrutis.com,pooki.fr##.adsense
 ipadsl.net##.adsl
 la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
 fusac.fr,rajacasablanca.com##.adv
-arabzik.org,lesoir.be,midilibre.fr##.advert
+arabzik.org,jeux.fr,lesoir.be,midilibre.fr##.advert
 decitre.fr##.advertise
 lemoniteur.fr,skipass.com,telerama.fr##.advertisement
 traildesforts.com,wat.tv##.advertising
@@ -5866,7 +5867,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|ouest-france.fr|silicon.fr
 @@/check.js?$script,third-party
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
-@@|http://*.js$script,third-party,domain=jeux.fr
 @@||6play.fr/media/js/publicite.js
 @@||ptitchef.com/js/ads.js
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
