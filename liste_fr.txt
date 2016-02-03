@@ -387,9 +387,11 @@ _Social-Advert-
 .loading-delivery2.$popup
 .popunder.$popup
 /?pub_id=*&sub_id=$popup
+/?tid=*&red=$popup
 /__utm.gif$popup
 /a4u_banner_.$popup
 /adcint/*$popup
+/adplexmedia/*$popup
 /ads.php?$popup
 /ads?key=$popup
 /ads?spot_id=$popup
@@ -404,6 +406,7 @@ _Social-Advert-
 /adv_clk_redirect.$popup
 /adv_show?$popup
 /advertisers/?utm_source=$popup
+/async_redirect?$popup
 /banner_s?*&auto_click=$popup
 /banredir.cgi?$popup
 /click?*=ad&$popup
@@ -418,11 +421,13 @@ _Social-Advert-
 /popuplp/btag/*$popup
 /puopen.php?$popup
 /redir/k.php?r=$popup
+/redirect?&tid=$popup
 /renderBanner.do?$popup
 /rotation_redir.$popup
 /script/campagne.php?cp=$popup
 /smart_ad/*$popup
 /unsub_aff.$popup
+/xdirect.html?$popup
 =partenariat&utm_campaign=$popup
 =pubdirecte&$popup
 ?adCampaign=$popup
@@ -511,6 +516,7 @@ _adb_728x90_$popup
 ||adonads.com^$third-party
 ||adoptima.com^$third-party
 ||adpdx.com^$third-party
+||adproxy2.com^$third-party
 ||adpub.eu^$third-party
 ||adqia.com^$third-party
 ||adrife.com^$third-party
@@ -708,6 +714,7 @@ _adb_728x90_$popup
 ||edomz.com^$third-party
 ||egrana.com.br^$third-party
 ||elasticad.com^$third-party
+||elded.eu^$third-party
 ||emarketing.net.sa^$third-party
 ||emea.pub^$third-party
 ||enmediadonner.pl^$third-party
@@ -1262,7 +1269,6 @@ _adb_728x90_$popup
 |http:*/site/liste/infopop$subdocument
 |http:*/site/liste/infpop$subdocument
 |http://$popup,~third-party,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exashare.com|exity.info|folue.info|gover.info|guib.info|halazoun.info|hehehe.info|kechekch.info|kerkessni.info|khaltek.info|khalto.info|maldi.info|nassira.info|openload.info|opert.info|oping.info|rors.info|sega3.info|stiwine.info|thand.info|tiziwezo.info|trafe.info|tribicha.info|utte.info|youwatch.org|ywhah.info|zidni.info
-|http://*/?tid=*&red=*&ref=*.html$popup
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
 ||11footballclub.com^*/indexcolonne.php?
