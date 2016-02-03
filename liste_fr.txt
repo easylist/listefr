@@ -1074,6 +1074,7 @@ _adb_728x90_$popup
 ||yesmessenger.com^$third-party
 ||you-hentai.com^$third-party
 ||z-barre.com^$third-party
+||z-cache.com^$third-party
 ||zaperplop.info^$third-party
 ||zebestof.com^$third-party
 ||zeropub.net^$third-party
@@ -1122,6 +1123,7 @@ _adb_728x90_$popup
 ||bidtrk.com^$popup,third-party
 ||booksuper.info^$popup,third-party
 ||bwinpartypartners.com^$popup,third-party
+||camsympa.com^$popup,third-party
 ||cityads.com^$popup,third-party
 ||cityadspix.com^$popup,third-party
 ||clickadu.com^$popup,third-party
@@ -1408,6 +1410,7 @@ _adb_728x90_$popup
 ||compteur-blog.net/img/pub_
 ||conference-islam.be/documents/Image/banners/
 ||congosolution.com/img/images/pub*.gif
+||contentabc.com/ads/
 ||coorsa.com^*/?task=*.widget&
 ||coquinissime.com/promo/
 ||coteblog.com/_logo/$third-party
@@ -3293,6 +3296,8 @@ fdesouche.com#@##adsense
 ||xlporn.fr/getpub?
 ||xstarsnews.com/admin/gestion_bann/banniere.
 ||xstarsnews.com/banner-pub/
+||xstory-fr.com/ban/
+||xstory-fr.com/images/coup-de-coeur/
 ||yahoo.fr/wp-content/*/habillage/
 ||yanik.com/pubcitibar.jpg
 ||yeswefoot.com/annuaire.gif
@@ -6347,4 +6352,4 @@ skiplimite.tv#@##ad300x250
 @@||rutube.ru/player/player.js$script,domain=gum-gum-streaming.com
 @@||static1.dmcdn.net^$script,domain=tuxboard.com
 @@||veedi.com/player/embed/veediEmbed.js$script,domain=jeu.info
-|http://$script,third-party,domain=dpstream.net|gaara-fr.com|gum-gum-streaming.com|jeu.info|tuxboard.com
+|http://$script,third-party,domain=dpstream.net|gaara-fr.com|gum-gum-streaming.com|jeu.info|tuxboard.com|xstory-fr.com
