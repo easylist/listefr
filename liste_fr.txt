@@ -209,7 +209,7 @@
 /media/72890.
 /menu/ADS/*
 /miniads/*
-/newpromo.$subdocument
+/newpromo.
 /now/ads/*
 /nugg.ad.
 /nugg.add.
@@ -1027,6 +1027,7 @@ _adb_728x90_$popup
 ||univers-porno.com^$third-party
 ||uploadedtag.com^$third-party
 ||vartoken.com^$third-party
+||venturead.com^$third-party
 ||vgsgaming.com^$third-party
 ||videonas.eu^$third-party
 ||videoroow.com^$third-party
@@ -1259,7 +1260,6 @@ _adb_728x90_$popup
 |http:*/site/liste/infpop$subdocument
 |http://$popup,~third-party,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exashare.com|exity.info|folue.info|gover.info|guib.info|halazoun.info|hehehe.info|kechekch.info|kerkessni.info|khaltek.info|khalto.info|maldi.info|nassira.info|openload.info|opert.info|oping.info|rors.info|sega3.info|stiwine.info|thand.info|tiziwezo.info|trafe.info|tribicha.info|utte.info|youwatch.org|ywhah.info|zidni.info
 |http://*/?tid=*&red=*&ref=*.html$popup
-|http://newpromo.$domain=cpasbien.io
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
 ||11footballclub.com^*/indexcolonne.php?
@@ -5274,6 +5274,7 @@ cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
 telechargementz-streaming.com##a[href$=".php"]
+zone-telechargement.com##a[href$="/xz.php"]
 opensubtitles.org##a[href$="=="][rel="nofollow"]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 artdeseduire.com##a[href*="/?part=ads"]
