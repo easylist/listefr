@@ -3388,6 +3388,8 @@ blob:*.dailymotion.com^
 ||dailymotion.com/ac/video/$image
 ||dailymotion.com/video/*_mp4_h264_aac_$media
 ||dmcdn.net/*_mp4_h264_aac_$media
+||inskin.hs.llnwd.net^
+||llnwd.net^*/publishercode/
 ||mc.dailymotion.com^
 !
 !------------------ Éléments génériques -----------------!
