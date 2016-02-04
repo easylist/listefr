@@ -1324,8 +1324,7 @@ _adb_728x90_$popup
 ||aliexpress.com^$popup,domain=torrentsm.top
 ||allo-heberge.com/interface/bannieres/
 ||allo-nom.com/interface/bannieres/
-||allopass.com/imgweb/*/pub/
-||allopass.com^*/pub/$domain=fullanimes.free.fr
+||allopass.com^*/pub/
 ||alloref.com/allo120.gif
 ||alloref.com/allo125.gif
 ||alloref.com/allo468.gif
@@ -1399,6 +1398,7 @@ _adb_728x90_$popup
 ||caradisiac.com/javascript/fonctions_first.js
 ||cashtravel.info/banners/
 ||cdn.a9fast.com^*/misc/partner/
+||cdn.ev.mu^*/boot.js#load=
 ||cdn.installclick.fr^*/ad.html
 ||cdn.m6web.fr/creatives/assets/
 ||cdscdn.com/imagesok/tetiere/partners/
@@ -2428,8 +2428,11 @@ fdesouche.com#@##adsense
 ||francoischarron.com/datascontent/insertech.gif
 ||frandroid.com^*/pub_affichage_web/
 ||free-reseau.fr/images/ban_
+||free.fr/modules/shopping/
 ||free.fr/pubs_portail/
-||free.fr^*/js/display_shopping_alice.js
+||free.fr^*/display_shopping_
+||free.fr^*/trousse/shopping/
+||free.fr^*/trousse/voyage/
 ||freefoot.fr/pub.php
 ||freelance-informatique.fr/images/banniere
 ||freenduro.com/images/banners/
@@ -2938,7 +2941,7 @@ fdesouche.com#@##adsense
 ||porno-gratuit.ws/videos-gratuites.php$popup
 ||porno.qtube.com^
 ||porsche-99x.info/pagedirect/*/pub/
-||portail.free.fr/modules/shopping/
+||portail.free.fr/_/img/1000xx90-
 ||portaildusexe.com/ban/
 ||portaildusexe.com/graphics/ban/
 ||pp.free.fr^
@@ -4472,6 +4475,7 @@ grandecran.fr###les_pubs_locales
 orange.fr###lienComPart
 lfp.fr###lien_billeterie
 commentcamarche.net###lig_benchmark_commentcamarche_smartbox
+free.fr###lig_free_home_smartbox
 orange.fr###lig_orange_web_ang_smartbox_home
 nouvelobs.com###ligatus_right_column
 degroupnews.com###link_pub
@@ -4661,6 +4665,7 @@ otaku-attitude.net###smart-bann
 slate.fr###smart14320
 slate.fr###smart14321
 slate.fr###smart14321pub
+portail.free.fr###soldes
 sortirensemble.com###sondage_age
 iwin.com###spilgames_crosspromotion_banner
 jeuxvideo.com###sponso_forum + * + * + *
@@ -4706,6 +4711,7 @@ as-salat.com,forumbismillah.com,streamxd.com###topbar
 playerhd1.pw###total_banner
 lateen18.com,lesbeurettes.com,lesbienne-gratis.com,vidule.com###trade
 cbanque.com###trk_promoforum
+portail.free.fr###trousse
 matchendirect.fr###tux_centrale
 matchendirect.fr###tux_liste_bookmaker
 macg.co###unepromo
@@ -5241,6 +5247,7 @@ search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
 forum-actif.net##.tradeDoubler
 expat.com##.travel-insurance
+portail.free.fr##.troiscent
 matchendirect.fr##.tux125x125
 terrafemina.com##.u-300px\@big-tablet
 forum-windows.com##.uniblue
@@ -5509,6 +5516,7 @@ phpsources.org##div[style="margin-bottom:15px;"] > table > tbody
 telesatellite.com##div[style="margin-left: auto;margin-right: auto; text-align:center"]
 douniamusic.com##div[style="margin-top:10px;float:left;height:250px;width:250px;"]
 moov.mg##div[style="margin-top:5px;float:auto;width:100%;height:250px;text-align:center"]
+free.fr##div[style="margin: 0 auto;width: 1000px;background-color:#fff;height:300px;\a   border-bottom: 4px solid #2d98e0"]
 webrankinfo.com##div[style="margin: 0; padding: 5px 8px 5px 8px; background: url(http://www.webrankinfo.com/images/design/fd_blockquote.png) no-repeat 0 100%; font-size: 1.3em; color: black; width: 615px;"]
 supportduweb.com##div[style="margin:auto;margin-top:2px;width:728px;height:90px;"]
 coolkora.com##div[style="max-width: 302px;overflow:hidden;margin: 0 auto;"]
