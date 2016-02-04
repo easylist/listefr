@@ -423,6 +423,7 @@ _Social-Advert-
 /puopen.php?$popup
 /redir/k.php?r=$popup
 /redirect?&tid=$popup
+/redirect?spot_id=$popup
 /renderBanner.do?$popup
 /rotation_redir.$popup
 /script/campagne.php?cp=$popup
@@ -432,6 +433,7 @@ _Social-Advert-
 =partenariat&utm_campaign=$popup
 =pubdirecte&$popup
 ?adCampaign=$popup
+?id_rotation=$popup
 ?preview=*&pgid*&from_sz=$popup
 ?runauction=*?crr=*&ctbust=$popup
 _adb_300x250_$popup
@@ -1813,6 +1815,7 @@ _adb_728x90_$popup
 ||spilcloud.com/gameapi/*_banner_
 ||sponsorboost.com/banniere-rotative.
 ||sponsoweb.com/htdocs/templates/banners/
+||ssl.gstatic.com^*.gif?$popup,third-party
 ||stars-passion.com/ban/$third-party
 ||static.ccmbg.com/ops.ccmbg.com/
 ||static.meilleursagents.com^*/partners
