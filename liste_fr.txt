@@ -412,6 +412,7 @@ _Social-Advert-
 /banredir.cgi?$popup
 /click?*=ad&$popup
 /click_lx.ads/*$popup
+/delivery/ck.php?$popup
 /display.php?k=*&ban=$popup
 /display/?method=pop&force=$popup
 /effi.click?$popup
@@ -978,6 +979,7 @@ _adb_728x90_$popup
 ||silvercdn.ryukyu^$third-party
 ||similardeals.net^$third-party
 ||slutroulette.com^$third-party
+||smart-dn.com^$third-party
 ||smartstream.tv^$third-party
 ||snake-leads.com^$third-party
 ||spaceshipads.com^$third-party
@@ -1218,6 +1220,7 @@ _adb_728x90_$popup
 ||sezonlukdizi.com^$popup,third-party
 ||shopstockoff.com^$popup,third-party
 ||slutroulette.com^$popup,third-party
+||smart-dn.com^$popup,third-party
 ||smartadserver.com^$popup,third-party
 ||solution.weborama.fr^$popup,third-party
 ||spaceshipads.com^$popup,third-party
