@@ -1452,6 +1452,7 @@ _adb_728x90_$popup
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
 ||dailymotion.com^*autoplay=1$domain=anime301.com|mangas-ddl-free.over-blog.com|mangaxd.com|pokercast.tv|stream4free.pro
 ||damtours.com/static/img/damtous_$third-party
+||dc121677.com^
 ||devisprox-media.s3-website-eu-west-1.amazonaws.com^
 ||devisprox.com/ld.js
 ||dhtml.pornravage.com^
@@ -5500,6 +5501,7 @@ estrepublicain.fr##div[id^="pub-dfp-"]
 pagesjaunes.fr##div[id^="push"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
+gboxes.com##div[style$="top: 0px; left: 0px; position: absolute; z-index: 999999; cursor: pointer;"]
 couverturefacebook.fr##div[style*="background-color:width:450px; height:670px;"]
 superphysique.org##div[style*="text-align: center"][style*="width:250px"]
 pixiz.com##div[style*="width:336px; height:280px; display:inline; padding:5px;"]
