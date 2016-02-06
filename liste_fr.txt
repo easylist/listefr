@@ -3381,14 +3381,6 @@ foot01.com##div[class*="9"] > p[class]
 |http:*1$image,third-party,domain=foot01.com
 |http://$script,third-party,domain=foot01.com
 ||referrer.disqus.com^$domain=foot01.com
-! dailymotion.com
-blob:*.dailymotion.com^
-||dailymotion.com/ac/video/$image
-||dailymotion.com/video/*_mp4_h264_aac_$media
-||dmcdn.net/*_mp4_h264_aac_$media
-||inskin.hs.llnwd.net^
-||llnwd.net^*/publishercode/
-||mc.dailymotion.com^
 !
 !------------------ Éléments génériques -----------------!
 !
