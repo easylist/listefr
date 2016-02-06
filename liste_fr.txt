@@ -2891,9 +2891,6 @@ fdesouche.com#@##adsense
 ||ogaming.tv/upload/partner/
 ||ohmydollz.com/pub2012/
 ||omg.esprit-click.com^
-||omgtorrent.me/assets/scripts.js
-||omgtorrent.me/img/bannieres/
-||omgtorrent.me/img/pubs/
 ||on-veut-du-cul.com^*/partenaire/
 ||one-piece-streaming.fr/images/min/pub/
 ||one-piecevf.com/pub/
@@ -3766,6 +3763,8 @@ foot01.com##div[class*="9"] > p[class]
 ##.PubBox_300
 ##._meltypub
 ##.a4u_banner_js
+##.ad--row-ad--left
+##.ad--row-ad--right
 ##.ad-125-1c-1r
 ##.ad-125-1c-2r
 ##.ad-125-2c-1r
@@ -3864,6 +3863,7 @@ foot01.com##div[class*="9"] > p[class]
 ##.content-ad-bloc
 ##.cubes-ads
 ##.custom-advert-banner-frame
+##.deck--top-ads
 ##.div-publicite
 ##.div-publicite1
 ##.div-publicite2
@@ -5136,7 +5136,6 @@ renders-graphiques.fr##.pub_galerie
 aerobuzz.fr##.pub_image
 lachainemeteo.com##.pub_lcm
 asso-web.com##.pub_left_content
-omgtorrent.me##.pub_menu
 jeuxvideopc.com##.pub_refonte
 webrankinfo.com##.pub_rm_inter_posts_forum
 ajaccio365.fr,brest365.fr,footafrica365.fr,football365.fr,lorient365.fr,mercato365.com,nantes365.fr,nice365.fr,paris365.fr,reims365.fr,sochaux365.fr,stetienne365.fr,troyes365.fr,valenciennes365.fr##.pub_timeline
@@ -5299,7 +5298,6 @@ opensubtitles.org##a[href$="=="][rel="nofollow"]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 artdeseduire.com##a[href*="/?part=ads"]
 clubic.com##a[href*="/?utm_source=clubic&utm_medium=partenaire"]
-omgtorrent.me##a[href*="/ads?"]
 espritlib.com##a[href*="/goto_part.php?"]
 centre-audition.com,easyzic.com,films-regarder.com,info-algerie.com##a[href*="/redirect."]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
@@ -5340,8 +5338,8 @@ tahiti-infos.com##a[href^="/ads/"] > .image
 tunisie-news.com##a[href^="/artpublic/banniere/click3.php?"]
 marianne.net##a[href^="/blogsecretdefense/ads/"]
 aujourdhui-en-france.fr,leparisien.fr##a[href^="/bons-plans/"]
-omgtorrent.me##a[href^="/clic.php"]
 agroligne.com,zone911.com##a[href^="/component/banners/"]
+omgtorrent.me##a[href^="/downloads.php?"]
 theboystelecharger.net##a[href^="/file.php"]
 telechargement22.org,unchartedatolls.com##a[href^="/file.php?"]
 ensnaredbyabook.com##a[href^="/file.php?name="]
@@ -5352,7 +5350,6 @@ immigrer.com##a[href^="/p/bannieres/"]
 confidentielles.com##a[href^="/rc_787_"]
 jeuxvideo.com##a[href^="/sponso/"] img
 beaute-test.com##a[href^="/stat/clic.php?"]
-omgtorrent.me##a[href^="/telechargement.php?"]
 emule-island.ru##a[href^="/tutoriaux/usenext-dl.php?"]
 seedpeer.eu##a[href^="/usenet.php?"]
 kerix.net##a[href^="LienExterne.asp?"]
