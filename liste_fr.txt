@@ -3354,25 +3354,6 @@ fdesouche.com#@##adsense
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
-! allocine.fr
-!@@||connect.facebook.net^$script,domain=allocine.fr
-!@@||disqus.com^$script,domain=allocine.fr
-!|http:$script,third-party,domain=allocine.fr
-! jeuxvideo.com
-!@@||connect.facebook.net^$script,domain=jeuxvideo.com
-!@@||flgstkr.fr^$script,domain=jeuxvideo.com
-!@@||gstatic.com/recaptcha/$script,domain=jeuxvideo.com
-!@@||platform.twitter.com^$script,domain=jeuxvideo.com
-!|http:$script,third-party,domain=jeuxvideo.com
-! purepeople.com
-!@@||apis.google.com^$script,domain=purepeople.com
-!@@||connect.facebook.net^$script,domain=purepeople.com
-!@@||platform.twitter.com^$script,domain=purepeople.com
-!|http:$script,third-party,domain=purepeople.com
-! gentside.com - ohmymag.com - maxisciences.com
-!@@||jwpcdn.com^$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
-!@@||liverail.com^$object-subrequest,domain=gentside.com|maxisciences.com|ohmymag.com
-!|http:$object-subrequest,third-party,domain=gentside.com|maxisciences.com|ohmymag.com
 ! MacGeneration
 macg.co###block-quicktabs-bon-plans-macg-
 igen.fr,macg.co##.ebay
