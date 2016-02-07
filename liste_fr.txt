@@ -5521,7 +5521,6 @@ groupon.fr##div[style="width: 445px; margin: 8px auto; text-align: center; backg
 t411.in##div[style="width: 465px;margin: 0 auto;"]
 hdfever.fr##div[style="width: 728px; height: 90px; margin: auto; background-color: grey; box-shadow: 5px 5px 15px black; border: 4px solid grey; border-radius: 4px;"]
 bricozone.be##div[style="width: 728px; height: 90px; overflow: hidden;"]
-wakanim.tv##div[style="width: 728px; margin: auto; height: 140px;overflow:hidden"]
 dzfoot.com##div[style="width:100%;  height:587px;"]
 debrideurstreaming.com##div[style="width:100%; height:110px; padding-top:100px; padding-right:2px; color:#FFF; background:url(images/pub011.png) no-repeat -25px; margin:auto; text-align:center; padding-bottom:6px;"]
 h-suki.com##div[style="width:1020px;\a margin-left: auto; text-align:center;\a margin-right: auto; height: 100px;"]
@@ -5669,7 +5668,7 @@ journaldesfemmes.com##div[class] > [class] > img[src]:last-child
 @@||banners.oxiads.fr/player/
 @@||bannieres.telethon.fr/compteurs/$image,subdocument
 @@||beaute-test.com/service/show_ads.js$script
-@@||beead.fr^$domain=doc-etudiant.fr|ouifm.fr|play.nrj.fr|radiofg.com|radioneo.org|replay.fr|rfm.fr|virginradio.fr|wakanim.tv
+@@||beead.fr^$domain=doc-etudiant.fr|ouifm.fr|play.nrj.fr|radiofg.com|radioneo.org|replay.fr|rfm.fr|virginradio.fr
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
@@ -5897,6 +5896,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@/check.js?$script,third-party
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
 @@||6play.fr/publicite-$script
+@@||ads.stickyadstv.com/www/delivery/swfIndex.php?$xmlhttprequest,domain=wakanim.tv
 @@||ptitchef.com/js/ads.js
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
 !
