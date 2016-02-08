@@ -3462,6 +3462,7 @@ foot01.com##div[class*="9"] > p[class]
 ###adsground
 ###adspave
 ###advBarMars
+###advert-title
 ###advncdads-1
 ###advncdads-2
 ###advncdads-3
@@ -3496,6 +3497,8 @@ foot01.com##div[class*="9"] > p[class]
 ###blocPublicitaire
 ###bloc_pub
 ###bloc_pub_carre
+###block-rf-pub-middle
+###block-rf-pub-middle2
 ###block_pub
 ###block_pub_article
 ###block_regie_pub_bas
@@ -3598,11 +3601,14 @@ foot01.com##div[class*="9"] > p[class]
 ###pub-display-728x90
 ###pub-droite
 ###pub-footer
+###pub-ftv-middle
 ###pub-haut
 ###pub-head
 ###pub-header
 ###pub-left
 ###pub-main
+###pub-middle
+###pub-middle2
 ###pub-right
 ###pub-right-bottom
 ###pub-right-top
@@ -3855,6 +3861,7 @@ foot01.com##div[class*="9"] > p[class]
 ##.bloc_rightcol_pub
 ##.block-cPublicite
 ##.block-pubimage
+##.block-rf-pub
 ##.block_adtop
 ##.block_pub
 ##.blocpub
@@ -4129,6 +4136,7 @@ foot01.com##div[class*="9"] > p[class]
 ##.widget-advert-300-600
 ##.widget-advert-728
 ##.widget-advert-970
+##.widget-pub
 ##.widget_publicite
 ##.wpproaddlink
 ##.wrap-pub
@@ -4289,7 +4297,6 @@ jolpress.com###block-acp-block-publicite-top
 franceculture.fr###block-fcbloc-publicite
 lemouv.fr###block-lemouv_bloc-pub_ftv_right
 lemouv.fr,mouv.fr###block-lemouv_bloc-pub_ftv_top
-radiofrance.fr###block-rf-pub-middle
 voyages-sncf.com###block-vsct_vsca-megabanner
 franceinfo.fr###block-zerobloc-pub-ftv-carre
 bricoleurdudimanche.com###block_a_decouvrir
@@ -4779,7 +4786,7 @@ abrutis.com,hooper.fr,pooki.fr##.adsense
 ipadsl.net##.adsl
 la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
 fusac.fr,rajacasablanca.com##.adv
-arabzik.org,francemusique.fr,jeux.fr,lesoir.be,midilibre.fr##.advert
+arabzik.org,fipradio.fr,francemusique.fr,jeux.fr,lesoir.be,midilibre.fr##.advert
 decitre.fr##.advertise
 lemoniteur.fr,skipass.com,telerama.fr##.advertisement
 traildesforts.com,wat.tv##.advertising
@@ -4862,7 +4869,6 @@ orange.fr##.block-pub
 bricoleurdudimanche.com##.block-pub-ban-btm
 orange.fr##.block-pub-max-300x600
 bricoleurdudimanche.com##.block-pub-partenaires
-radiofrance.fr##.block-rf-pub
 laposte.net##.blockShopping
 dzmusique.com##.block_ad_container
 hallofmen.fr##.block_banniere
@@ -5271,7 +5277,6 @@ lefigaro.fr##.widget-bazar_chic
 lefigaro.fr##.widget-le_guide
 lefigaro.fr##.widget-paruvendu
 webchoc.com##.widget-pop
-radiofrance.fr##.widget-pub
 blog2mature.com##.widget.widget_links
 frandroid.com##.widget.widget_text
 joueurdugrenier.fr##.widgetAmis
