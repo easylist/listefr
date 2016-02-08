@@ -285,7 +285,7 @@
 /renklam/*
 /rotation.php?idaff=
 /rotator.php?zone=$script
-/script/pop.php?id=*&ref=
+/script/pop.php?id=
 /sdk-ads.
 /sdk-ads/*
 /show_ad?
@@ -419,6 +419,7 @@ _Social-Advert-
 /fr/adcr/*$popup
 /iframePopUpLoader.$popup
 /null/*/Redirect.$popup,third-party
+/partner/click/$popup
 /pop_packcpm.$popup
 /popuplp/btag/*$popup
 /puopen.php?$popup
@@ -428,6 +429,7 @@ _Social-Advert-
 /renderBanner.do?$popup
 /rotation_redir.$popup
 /script/campagne.php?cp=$popup
+/script/redirect.php?$popup
 /smart_ad/*$popup
 /unsub_aff.$popup
 /xdirect.html?$popup
