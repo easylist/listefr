@@ -3370,6 +3370,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ||macg.co/*/scripts/pub/getEbay_
 ||refurbgeneration.com/*/getEbay.
 ! Foot01
+/likebox.$domain=foot01.com
 @@||a.disquscdn.com/next/embed/assets/img/$domain=foot01.com
 @@||ajax.googleapis.com^$script,domain=foot01.com
 @@||foot01.com^$genericblock
@@ -3388,6 +3389,7 @@ foot01.com##div[class*="9"] > p[class]
 |http:*0$image,third-party,domain=foot01.com
 |http:*1$image,third-party,domain=foot01.com
 |http://$script,third-party,domain=foot01.com
+||addthis.com^$domain=foot01.com
 ||referrer.disqus.com^$domain=foot01.com
 !
 !------------------ Éléments génériques -----------------!
