@@ -602,6 +602,7 @@ _adb_728x90_$popup
 ||alloclick.com^$third-party
 ||allovisiteur.com^$third-party
 ||annoncesante.ma^$third-party
+||annoncessante.ma^$third-party
 ||anymad.com^$third-party
 ||appsfire.com^$third-party
 ||ar-ads.com^$third-party
@@ -1141,6 +1142,7 @@ _adb_728x90_$popup
 ||affiliation-france.com^$popup,third-party
 ||affiliwix.com^$popup,third-party
 ||all2lnk.com^$popup,third-party
+||annoncessante.ma^$popup,third-party
 ||arabysouq.com^$popup,third-party
 ||arthylndr.com^$popup,third-party
 ||aservtrack.com^$popup,third-party
@@ -1936,6 +1938,7 @@ _adb_728x90_$popup
 /clip.php?p=*&u=*&z=*&j=$popup
 /disd.php?idsite=*&idzone=$script
 |http://cdn.*/dispr.js$script,third-party
+|http://cdn.*/rat.php?idsite=*&idzone=
 ! fdesouche
 fdesouche.com#@##adsense
 |http*://lc.cx^$popup,domain=fdesouche.com
@@ -3563,6 +3566,8 @@ foot01.com##div[class*="9"] > p[class]
 ###header_pub_contenu
 ###headerpub
 ###home-pub
+###hp_ad_most-played
+###hp_ad_top-right
 ###idpublicitepave
 ###iframe-pub-120x600
 ###iframe-pub-300x250
@@ -4114,6 +4119,7 @@ foot01.com##div[class*="9"] > p[class]
 ##.single-top-ads-bloc
 ##.skin_outer_ad
 ##.snippet-publisher
+##.span_pub_normal
 ##.special-banner
 ##.sponsored_banner
 ##.sqrpub
@@ -4225,7 +4231,7 @@ ustart.org###ads_tall
 algerie360.com###adssouspost
 wawacity.su###adultMenuItem
 nowvideo.eu###adv1
-jeux.com,telechargementz.org###advertisement
+telechargementz.org###advertisement
 telechargementgratuits.com###aff-france
 finalclap.com###aff_tuto_com
 dogzer.com###affichage_tag_58
@@ -4314,6 +4320,7 @@ planet-series.tv###bottomBanner
 magicmaman.com###boutiqueRight
 previmeteo.com###box_4_pub
 laprovince.be###box_immovlan
+jeux.com###bttmnasal
 conseils-courseapied.com###cadre-vignette-carnet
 soonnight.com###cadre_partenaire
 ogaming.tv###campain-leftPlaceHolder
@@ -4360,6 +4367,8 @@ videostep.com###divMainBrandVideo
 cinenews.be###divMaxiBanner
 sympatico.ca###divSiteBorderLeft
 sympatico.ca###divSiteBorderRight
+jeux.com###div_test_sky
+jeux.com###div_test_sky_right
 boursier.com###doc-partenaires
 images-et-cadres.fr###dogear
 cdiscount.com###downMall
@@ -4452,7 +4461,10 @@ webcamtoy.com###home-sponsor
 tsa-algerie.com###home_immo
 telechargementgratuits.com###hopdream
 lesoir.be###horoscope-promo
+jeux.com###hp_megaban_bottom
+jeux.com###hp_megaban_footer
 jeux.com###hp_megaban_top
+jeux.com###hp_pave_bottom
 touslesprix.com###hright
 confidentielles.com###hunt
 viamichelin.be###idAFSRoadsheetTop
@@ -4473,6 +4485,7 @@ question-de-vie.com###instance-atom-text-42
 question-de-vie.com###instance-atom-text-43
 loisirados.com###intersticiel
 conseils-courseapied.com###ja-banner
+jeux.com###jeu_pub_pave_recogames
 jeuxonline.info###jol-sidebar-ad
 cheznous.fr###js-alerte-popup
 lemonde.fr###js_deroule_rubrique_marque
@@ -4669,7 +4682,6 @@ nostrodomus.fr###sidebar-bottom-pub
 nostrodomus.fr###sidebar-pub
 nostrodomus.fr###sidebar-sup-promo
 jvn.com###skin
-jeux.com###sky_pub
 silicon.fr###skycraper
 aujourdhui.com###slidebox
 itespresso.fr,silicon.fr###slider-partnerzone
@@ -4909,7 +4921,6 @@ orange.fr##.campagnePUBcoldroite
 lejsl.com##.campaignImage
 lacentrale.fr##.caradisiac
 psychologies.com##.carrousel_partenaires
-jeux.com##.cat_megaban
 jeux.com##.cat_megaban_footer
 a18ans.com,jamaisjouis.com,liste2cul.com,vidule.com##.catcher
 girlsgogames.fr##.categoryBanner
@@ -5103,6 +5114,7 @@ youpinet.com##.partner-listing
 rtl.fr##.partner-mdl
 forumactif.com,lavenir.net##.partners
 fourchette-et-bikini.fr##.pavePub
+jeux.com##.pave_categ_top
 footballclubdemarseille.fr##.pb-sidebar-article
 seriesaddict.fr##.pbl728x90
 seedpeer.eu##.pblink
