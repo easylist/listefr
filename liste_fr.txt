@@ -602,7 +602,6 @@ _adb_728x90_$popup
 ||alloclick.com^$third-party
 ||allovisiteur.com^$third-party
 ||annoncesante.ma^$third-party
-||annoncessante.ma^$third-party
 ||anymad.com^$third-party
 ||appsfire.com^$third-party
 ||ar-ads.com^$third-party
@@ -1009,7 +1008,6 @@ _adb_728x90_$popup
 ||sx77.net^$third-party
 ||sydtrack.me^$third-party
 ||t4b.tv^$third-party
-||tagnwin.com^$third-party
 ||targetctracker.com^$third-party
 ||tbvid.com^$third-party
 ||teads.fr^$third-party
@@ -1046,7 +1044,6 @@ _adb_728x90_$popup
 ||traficmax.com^$third-party
 ||trck.eu^$third-party
 ||trck.me^$third-party
-||twap2.com^$third-party
 ||txlpzpihveg.net^$third-party
 ||univers-porno.com^$third-party
 ||uploadedtag.com^$third-party
@@ -1142,7 +1139,6 @@ _adb_728x90_$popup
 ||affiliation-france.com^$popup,third-party
 ||affiliwix.com^$popup,third-party
 ||all2lnk.com^$popup,third-party
-||annoncessante.ma^$popup,third-party
 ||arabysouq.com^$popup,third-party
 ||arthylndr.com^$popup,third-party
 ||aservtrack.com^$popup,third-party
@@ -1246,7 +1242,6 @@ _adb_728x90_$popup
 ||startnewtab.com^$popup,third-party
 ||stream4stream.com^$popup,third-party
 ||sushis.kim^$popup
-||tagnwin.com^$popup,third-party
 ||targetctracker.com^$popup,third-party
 ||teracreative.com^$popup,third-party
 ||terrapops.com^$popup,third-party
@@ -1260,7 +1255,6 @@ _adb_728x90_$popup
 ||trafe.info^$popup,third-party
 ||trafficmagnates.com^$popup,third-party
 ||tribalfusion.com^$popup,third-party
-||twap2.com^$popup,third-party
 ||urlcash.com^$popup,third-party
 ||video1404.info^$popup,third-party
 ||videoroow.com^$popup,third-party
@@ -1294,6 +1288,7 @@ _adb_728x90_$popup
 |http:*/site/liste/infopop$subdocument
 |http:*/site/liste/infpop$subdocument
 |http://$popup,~third-party,domain=clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exashare.com|exity.info|folue.info|gover.info|guib.info|halazoun.info|hehehe.info|kechekch.info|kerkessni.info|khaltek.info|khalto.info|maldi.info|nassira.info|openload.info|opert.info|oping.info|rors.info|sega3.info|stiwine.info|thand.info|tiziwezo.info|trafe.info|tribicha.info|utte.info|youwatch.org|ywhah.info|zidni.info
+|http://*&idzone=$third-party,domain=jeux.com
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
 ||11footballclub.com^*/indexcolonne.php?
@@ -1935,10 +1930,11 @@ _adb_728x90_$popup
 ||zp.programme.tv^
 ||zupimages.net/up/2/1780414445.gif
 ! Tagnwin
-/clip.php?p=*&u=*&z=*&j=$popup
-/disd.php?idsite=*&idzone=$script
-|http://cdn.*/dispr.js$script,third-party
-|http://cdn.*/rat.php?idsite=*&idzone=
+|http://cdn.*?idsite=*&idzone=$script
+||ainnisrine.com^
+||annoncessante.ma^
+||tagnwin.com^
+||twap2.com^
 ! fdesouche
 fdesouche.com#@##adsense
 |http*://lc.cx^$popup,domain=fdesouche.com
