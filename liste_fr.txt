@@ -6416,11 +6416,4 @@ skiplimite.tv#@##ad300x250
 @@||xiaomi-m3.fr^$generichide
 @@||zevpn.net^$generichide
 ! Goyave lab
-@@||connect.facebook.net^$script,domain=gaara-fr.com|gum-gum-streaming.com
-@@||content.jwplatform.com/libraries/$script,domain=jeu.info
 @@||demo-gk.goyavelab.com^$genericblock
-@@||rutube.ru/player/player.js$script,domain=gum-gum-streaming.com
-@@||static1.dmcdn.net^$script,domain=tuxboard.com
-@@||veedi.com/player/embed/veediEmbed.js$script,domain=jeu.info
-|http://$popup,domain=filmstreaming-hd.com|filmvf.net|gaara-fr.com|gum-gum-streaming.com|hentaifr.net|jeu.info|tuxboard.com|xstory-fr.com
-|http://$script,third-party,domain=filmstreaming-hd.com|filmvf.net|gaara-fr.com|gum-gum-streaming.com|hentaifr.net|jeu.info|tuxboard.com|xstory-fr.com
