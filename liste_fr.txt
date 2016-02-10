@@ -3380,13 +3380,11 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ||macg.co/*/scripts/pub/getEbay_
 ||refurbgeneration.com/*/getEbay.
 ! Foot01
-/likebox.$domain=foot01.com
 @@||a.disquscdn.com/next/embed/assets/img/$domain=foot01.com
 @@||ajax.googleapis.com^$script,domain=foot01.com
 @@||foot01.com^$genericblock
 @@||foot01.disqus.com^$script,domain=foot01.com
-foot01.com##a > img[src*=","]:first-child
-foot01.com##div > img[src*=","]:first-child
+foot01.com##div + a > img[src*=","]
 foot01.com##div[class*="0"] > p[class]
 foot01.com##div[class*="1"] > p[class]
 foot01.com##div[class*="2"] > p[class]
@@ -3397,10 +3395,10 @@ foot01.com##div[class*="6"] > p[class]
 foot01.com##div[class*="7"] > p[class]
 foot01.com##div[class*="8"] > p[class]
 foot01.com##div[class*="9"] > p[class]
+foot01.com##li + a > img[src*=","]
 |http:*0$image,third-party,domain=foot01.com
 |http:*1$image,third-party,domain=foot01.com
 |http://$script,third-party,domain=foot01.com
-||addthis.com^$domain=foot01.com
 ||referrer.disqus.com^$domain=foot01.com
 !
 !------------------ Éléments génériques -----------------!
