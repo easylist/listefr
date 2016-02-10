@@ -1933,8 +1933,17 @@ _adb_728x90_$popup
 |http://cdn.*?idsite=*&idzone=$script
 ||ainnisrine.com^
 ||annoncessante.ma^
+||mywebsquare.com^
+||tag101.com^
 ||tagnwin.com^
 ||twap2.com^
+! jeux.com
+@@||az673815.vo.msecnd.net/adnplaycdn/adNPlay.$script,domain=jeux.com
+@@||cdn.gameplayer.io/api/$script,domain=jeux.com
+@@||cdnjeux.com/min/?$script,domain=jeux.com
+@@||googletagservices.com/tag/js/gpt.js$script,domain=jeux.com
+@@||www.veedi.com^$script,domain=jeux.com
+|http://$script,third-party,domain=jeux.com
 ! fdesouche
 fdesouche.com#@##adsense
 |http*://lc.cx^$popup,domain=fdesouche.com
