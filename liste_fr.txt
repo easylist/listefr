@@ -3417,6 +3417,7 @@ foot01.com##div[class*="7"] > p[class]
 foot01.com##div[class*="8"] > p[class]
 foot01.com##div[class*="9"] > p[class]
 foot01.com##li + a > img[src*=","]
+foot01.com##li > img[src*=","]:first-child
 |http:*0$image,third-party,domain=foot01.com
 |http:*1$image,third-party,domain=foot01.com
 |http://$script,third-party,domain=foot01.com
