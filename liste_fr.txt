@@ -3411,6 +3411,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 @@||foot01.com^$genericblock
 @@||foot01.disqus.com^$script,domain=foot01.com
 foot01.com##a:first-child > img[src*=","]
+foot01.com##a:last-child > img[src*=","]
 foot01.com##div > img[src*=","]:first-child
 foot01.com##div[class*="0"] > p[class]
 foot01.com##div[class*="1"] > p[class]
