@@ -2935,7 +2935,6 @@ fdesouche.com#@##adsense
 ||ogaming.tv/upload/partner/
 ||ohmydollz.com/pub2012/
 ||omg.esprit-click.com^
-||omgtorrent.me/assets/javascript.js
 ||on-veut-du-cul.com^*/partenaire/
 ||one-piece-streaming.fr/images/min/pub/
 ||one-piecevf.com/pub/
@@ -5472,6 +5471,7 @@ planet-series.tv##a[href^="http://spal.sousstimes.com/offer?"]
 developpez.com##a[href^="http://sysimg.developpez.com/click.php?a="] > img
 nouvelobs.com##a[href^="http://tempsreel.nouvelobs.com/les-bons-plans-shopping/"]
 tirage-gagnant.com##a[href^="http://tirage-gagnant.com/tirage/"] > img
+omgtorrent.me##a[href^="http://toroadvertisingmedia.com"]
 radins.com##a[href^="http://track.radins.com/regie.php?"]
 zetorrents.com##a[href^="http://trf."]
 20minutes.fr##a[href^="http://www.20minutes.fr/ext/"]
@@ -5529,6 +5529,7 @@ presse-citron.net##a[style="cursor:pointer; display:block; height:1600px; left:0
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="100"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
+omgtorrent.me##a[title^="Télécharger"][href*="+"]
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
