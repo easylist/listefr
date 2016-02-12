@@ -194,6 +194,7 @@
 /get.cgi?*=banner
 /getads/?
 /getadsor.
+/iframe_pub.
 /iframe_pub_
 /IFrameStoreReciever.
 /images/bnr/300/*
@@ -411,6 +412,7 @@ _Social-Advert-
 /banner_s?*&auto_click=$popup
 /banredir.cgi?$popup
 /click?*=ad&$popup
+/click?adv=$popup
 /click_lx.ads/*$popup
 /delivery/ck.php?$popup
 /display.php?k=*&ban=$popup
