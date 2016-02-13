@@ -3436,6 +3436,17 @@ foot01.com##li > img[src*=","]:first-child
 |http:*1$image,third-party,domain=foot01.com
 |http://$script,third-party,domain=foot01.com
 ||referrer.disqus.com^$domain=foot01.com
+! linternaute.com
+linternaute.com##.layout_main > div[class*="0"]
+linternaute.com##.layout_main > div[class*="1"]
+linternaute.com##.layout_main > div[class*="2"]
+linternaute.com##.layout_main > div[class*="3"]
+linternaute.com##.layout_main > div[class*="4"]
+linternaute.com##.layout_main > div[class*="5"]
+linternaute.com##.layout_main > div[class*="6"]
+linternaute.com##.layout_main > div[class*="7"]
+linternaute.com##.layout_main > div[class*="8"]
+linternaute.com##.layout_main > div[class*="9"]
 !
 !------------------ Éléments génériques -----------------!
 !
