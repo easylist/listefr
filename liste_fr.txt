@@ -3437,6 +3437,11 @@ foot01.com##li > img[src*=","]:first-child
 |http://$script,third-party,domain=foot01.com
 ||referrer.disqus.com^$domain=foot01.com
 ! linternaute.com
+linternaute.com###corps-cellule div[class*="0"]
+linternaute.com###corps-cellule div[class*="2"]
+linternaute.com###corps-cellule div[class*="3"]
+linternaute.com###corps-cellule div[class*="6"]
+linternaute.com###corps-cellule div[class*="9"]
 linternaute.com##.layout_main > div[class*="0"]
 linternaute.com##.layout_main > div[class*="1"]
 linternaute.com##.layout_main > div[class*="2"]
