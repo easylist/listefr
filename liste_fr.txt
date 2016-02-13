@@ -3409,7 +3409,7 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ! Foot01
 @@||a.disquscdn.com/next/embed/assets/img/$domain=foot01.com
 @@||ajax.googleapis.com^$script,domain=foot01.com
-@@||foot01.com^$genericblock
+@@||foot01.com^$genericblock,generichide
 @@||foot01.disqus.com^$script,domain=foot01.com
 foot01.com##a:first-child > img[src*=","]
 foot01.com##a:last-child > img[src*=","]
