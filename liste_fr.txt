@@ -960,6 +960,7 @@ _adb_728x90_$popup
 ||regie3digital.com^$third-party
 ||regiecpm.com^$third-party
 ||regiedepub.com^$third-party
+||relateev.com^$third-party
 ||remerciez.com^$third-party
 ||rencontreroulette.com^$third-party
 ||rentacorner.com^$third-party
@@ -1254,6 +1255,7 @@ _adb_728x90_$popup
 ||redpeepers.com^$popup,third-party
 ||reflexcash.com^$popup,third-party
 ||regie3digital.com^$popup,third-party
+||relateev.com^$popup,third-party
 ||removeadsnow.info^$popup,third-party
 ||rev2pub.com^$popup,third-party
 ||revsharecash.com^$popup,third-party
@@ -3924,7 +3926,10 @@ linternaute.com##.layout_main > div[class*="9"]
 ##.ads46860
 ##.ads72890
 ##.adsPost
+##.ads_actuly
 ##.ads_box_home_box
+##.ads_buzz
+##.ads_buzz_title
 ##.ads_single_bottom
 ##.ads_table
 ##.ads_widget
@@ -5064,6 +5069,7 @@ lefigaro.fr##.fig-widget-satellite
 fluket.com,libertyland.tv,mesfilmsstreaming.com,moviz.net,sky-animes.com,streamgo.net,telechargementgratuits.com,vostfr-vf.com##.fixe
 evene.fr##.fnac-spbox
 francetransactions.com##.fondcliquable
+jeunesfooteux.com##.footer-actuly
 orange.fr##.footer_autopromo
 cochoncoquin.com##.footer_banniere
 meilleureecoledefrance.com##.footer_partners
@@ -5156,7 +5162,7 @@ meteofrance.com##.mod-publiinfos
 etudiant.lefigaro.fr##.mod.breve.pave-bg
 formation-dz.com##.mod_banners
 grazia.fr##.modal-backdrop.in
-zinfos974.com##.module-pub
+jeunesfooteux.com,zinfos974.com##.module-pub
 techno-science.net##.module.moduleBoutiqueEncart
 aujourdhui-en-france.fr,leparisien.fr##.moduleNew300
 m6.fr##.module_epg_publicite
@@ -5473,7 +5479,7 @@ shinymen.com##a[href="http://www.karouikaroui.com/fr/outdoor/"]
 zone-telechargement.com##a[href="http://www.zone-telechargement.com/x.php"]
 itespresso.fr##a[href^=" http://pubads.g.doubleclick.net/"]
 tadpu.com##a[href^="//fr.ulule.com/insidezecube/?utm_campaign="]
-avocat.fr,ladepeche.pf,ophtalmo.tv,rewmi.com,senioractu.com,zinfos974.com##a[href^="/ads/"]
+avocat.fr,jeunesfooteux.com,ladepeche.pf,ophtalmo.tv,rewmi.com,senioractu.com,zinfos974.com##a[href^="/ads/"]
 tahiti-infos.com##a[href^="/ads/"] > .image
 tunisie-news.com##a[href^="/artpublic/banniere/click3.php?"]
 marianne.net##a[href^="/blogsecretdefense/ads/"]
