@@ -2563,7 +2563,7 @@ fdesouche.com#@##adsense
 ||hibamusic.com/pub/
 ||histoires-de-sexe.net/histoires-sexe-videos.php$popup
 ||hitek.fr/img/*-ban.
-||hitek.fr/img/emoticons/wallpaper-
+||hitek.fr/redirect.php?url=$popup
 ||homecinema-fr.com/iframe-header-300x600-
 ||homecinema-fr.com/images/CableHDMI-
 ||homecinema-fr.com/images/habactivehd_
@@ -3150,6 +3150,7 @@ fdesouche.com#@##adsense
 ||starter.fm/blog/*/bg_$image
 ||starter.fm/images/*/bg_
 ||static.ccm2.net/*/img/appstv/
+||static.hitek.fr/img/bg.png
 ||static.nautiljon.com/images/b1/?
 ||static.programme-tv.net/var/medias-*-590x90-
 ||static.rtl.fr/*/skin/$stylesheet
@@ -5866,7 +5867,7 @@ journaldesfemmes.com##div[class] > [class] > img[src]:last-child
 @@||google.com/adsense/search/ads.js$domain=zoover.fr
 @@||google.com/uds/$script,domain=rfm.fr|virginradio.fr
 @@||grouchyaccessoryrockefeller.com/ad$script,third-party
-@@||hitek.fr/ads.js$script
+@@||hitek.fr/adserver.js$script
 @@||host3.adhese.be/tag/tagv1.js$script,domain=lavenir.net
 @@||hostinger.fr/banners/*/hostinger-$image,~third-party
 @@||ib.adnxs.com/crossdomain.xml$object-subrequest,domain=mahjonggratuit.fr
