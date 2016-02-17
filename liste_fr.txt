@@ -1979,11 +1979,10 @@ _adb_728x90_$popup
 @@||www.veedi.com^$script,domain=jeux.com
 |http://$script,third-party,xmlhttprequest,domain=jeux.com
 ! fdesouche
-fdesouche.com#@##adsense
+fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 |http*://lc.cx^$popup,domain=fdesouche.com
 |http*://ow.ly^$popup,domain=fdesouche.com
 ||amazon.fr^$popup,domain=fdesouche.com
-||hostpic.org^$domain=fdesouche.com
 ||i.imgur.com^$domain=fdesouche.com
 ! Webediads revolving adservers
 ||a-staticwebedia.com^
