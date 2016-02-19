@@ -2950,7 +2950,6 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||ohmydollz.com/pub2012/
 ||omg.esprit-click.com^
 ||omgtorrent.me/assets/pubs.js
-||omgtorrent.me/assets/scripts.js
 ||on-veut-du-cul.com^*/partenaire/
 ||one-piece-streaming.fr/images/min/pub/
 ||one-piecevf.com/pub/
@@ -5028,6 +5027,7 @@ smartorrent.com,torrentsm.top##.btn.btn-default.btn-xs
 gamergen.com,generation-nt.com##.bup
 football365.fr,mercato365.com,rugby365.fr,sport365.fr##.bwin
 terrafemina.com##.c-product
+omgtorrent.me##.cadre-fiche > h2:first-child + ul:last-child
 orange.fr##.campagnePUBcoldroite
 lejsl.com##.campaignImage
 lacentrale.fr##.caradisiac
