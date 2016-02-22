@@ -175,6 +175,7 @@
 /code-float-ad.
 /col_droite_googleads2
 /cshoppingbox.
+/default_ad/*
 /default_ads_
 /delivery/*?bannerid=
 /delivery/ajs.
@@ -420,6 +421,7 @@ _Social-Advert-
 /click?*=ad&$popup
 /click?adv=$popup
 /click_lx.ads/*$popup
+/default_ad/$popup
 /delivery/ck.php?$popup
 /display.php?k=*&ban=$popup
 /display/?method=pop&force=$popup
@@ -3008,6 +3010,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||pooki.fr/js/popup.
 ||porn.fr/v3/index.php?
 ||porno-2luxe.com/*/popon.js
+||porno-2luxe.com/bloc-midpubplug/
 ||porno-2luxe.com/lien-dl-hosted/
 ||porno-2luxe.com/out/$popup
 ||porno-gratuit.ws/boost/
