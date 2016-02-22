@@ -23,6 +23,7 @@
 -468-x-60-
 -468x60.php?cb=
 -468x601.
+-60x480.
 -728-x-90-
 -90x600-
 -90x728_
@@ -249,6 +250,7 @@
 /popup.php?user=
 /popup4.js
 /popupyous.js
+/promo/*/display.
 /promo/bannieres/*
 /promo/gif_banners/*
 /promos/popeachclick/*$popup
@@ -1740,6 +1742,7 @@ _adb_728x90_$popup
 ||noogle.fr/banner/
 ||nouvelobs.s3-website-eu-west-1.amazonaws.com^
 ||noviya.free.fr/bannieres/
+||nubiles.net^*/promo/
 ||nuit-torride.com/ban/
 ||nyu-nyu.com/banieres/
 ||ochze.com^$subdocument,third-party
@@ -1848,6 +1851,7 @@ _adb_728x90_$popup
 ||s.click.aliexpress.com/e/qFAmuzNju$popup
 ||s3.amazonaws.com^*/publishers/$script
 ||saintseiya.lesite.free.fr/images/bannieres/
+||salopes-du-jour.com/sexy.js
 ||salopes.free.fr/ban/
 ||serie-stream.org^$popup,domain=full-stream.cc
 ||service-factures.fr/bannieres/
@@ -3899,6 +3903,7 @@ linternaute.com##.layout_main > div[class*="9"]
 ##.PubBox_300
 ##._meltypub
 ##.a4u_banner_js
+##.ad--panorama
 ##.ad--row-ad--left
 ##.ad--row-ad--right
 ##.ad-125-1c-1r
@@ -3921,6 +3926,7 @@ linternaute.com##.layout_main > div[class*="9"]
 ##.adbloc
 ##.adf_marketingbanner
 ##.adf_mpu
+##.ads--panorama
 ##.ads-300-300
 ##.ads-300-600
 ##.ads-468-60
@@ -4013,6 +4019,7 @@ linternaute.com##.layout_main > div[class*="9"]
 ##.div-publiciteh
 ##.divAd_Header
 ##.divAdsBottom
+##.div_ads
 ##.encart-pub
 ##.encart_pub
 ##.entete-pub
