@@ -3470,10 +3470,10 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ||macg.co/*/scripts/pub/getEbay_
 ||refurbgeneration.com/*/getEbay.
 ! Foot01
+foot01.com##a > img[src*="/Mar/"]
 foot01.com##div > a > img
 foot01.com##div > h1 + a
 foot01.com##div > ul > li + div
-foot01.com##h1 + a > img
 foot01.com##li + div > *
 ! linternaute.com
 linternaute.com###corps-cellule div[class*="0"]
