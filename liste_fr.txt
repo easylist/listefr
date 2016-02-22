@@ -247,6 +247,7 @@
 /popupyous.js
 /promo/bannieres/*
 /promo/gif_banners/*
+/promos/popeachclick/*$popup
 /proxy_eds.php?
 /proxy_iframe.php?url=
 /pub-300x250.
@@ -1914,6 +1915,7 @@ _adb_728x90_$popup
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
 ||tinypic.com^$image,domain=skymiga.com|timeload.net
 ||tool.acces-vod.com^
+||tool.acces-vod.com^$popup
 ||tools.gigacu.com^
 ||tools.vpscash.nl^
 ||toomai.fr/lp/$subdocument
@@ -2185,6 +2187,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||autosurf.me/pub-
 ||aviss.fr/wp-content/uploads/*/pubH.jpg
 ||awbarre.com/includes/rotateurs/
+||badoink.com^$popup
 ||banques-en-ligne.fr/img/hb-
 ||banques-en-ligne.fr^*/habillage.
 ||batiment.nc/PUBS/
@@ -2787,7 +2790,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||lesparrains.fr/images/lesParrains.fr/offers/habillage_
 ||letempsdz.com/images/banners/
 ||letempsdz.com/images/stories/joomlart/banners/
-||letopdusexe.net^*/infopop/
+||letopdusexe.net^
 ||letour.fr^*/partenaires.
 ||letoutx.com/pubs/
 ||letraitdunion.com/images/headset/
@@ -2929,7 +2932,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||moov.mg/images/offres/
 ||moto-station.com^*Habillage*.jpg
 ||moto85.com/images/interface/livingrocskin.jpg
-||moustiq.com/pix/bans/
+||moustiq.com^*/bans/
 ||movinstream.com/uploads/pubs/
 ||mp3gratuit.org/fake.php
 ||mr-annonce.fr/images/pub/
@@ -3056,6 +3059,8 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||projectfreetv.*?d=300x250
 ||promo-perso.com/Scripts/App/KelkooBottom.js
 ||promo.stream-films.fr^$popup
+||promo.vador.com^
+||promo.vador.com^$popup
 ||protect-stream.com/films-streaming.php
 ||protect-stream.com/series-streaming.php
 ||protect-url.net/imgbup/
@@ -3143,6 +3148,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||sexe-pornxx-videos.com^*/x.js
 ||sexe-pornxx-videos.com^*/x2.js
 ||sexe70s.com/ban/
+||sexecine.com/data/ati/
 ||sexefelin.com/pop.
 ||sexefelin.com/site/js/*.cornerslider.
 ||sexegratuit.be^*/u.js
@@ -3300,8 +3306,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||trictrac.net/img-*.jpeg
 ||trimag.fr^*/tx_macinabanners/
 ||troc-velo.com/images/pub/
-||trou-fion.com/ban/
-||trou-fion.com/infopop/
+||trou-fion.com^
 ||troyes365.fr/pub.php
 ||troyes365.fr^*?imgPrefix=$xmlhttprequest
 ||trucsdegrandmere.com/cbs.gif
@@ -3342,12 +3347,12 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||uprapide.com/pub/
 ||uptobox.com/?op=registration$popup
 ||uptobox.com/zone*.php
-||vador.com/popdhtml_msg/
+||vador.com/popdhtml_
 ||vador.com/show_popdhtml/
 ||vador.com/showm_notification/
 ||vador.com/templates/notification/
 ||vador.com^*/popdhtml/
-||vador.com^*/tc_pp_dhtml.js?
+||vador.com^*/tc_pp_dhtml.
 ||vakarm.net/pub/
 ||valenciennes365.fr/pub.php
 ||valenciennes365.fr^*?imgPrefix=$xmlhttprequest
