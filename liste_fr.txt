@@ -5410,10 +5410,12 @@ forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding
 cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
-omgtorrent.me,telechargementz-streaming.com##a[href$=".php"]
+telechargementz-streaming.com##a[href$=".php"]
 zone-telechargement.com##a[href$="/xz.php"]
 opensubtitles.org##a[href$="=="][rel="nofollow"]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
+omgtorrent.me##a[href*="+"]
+omgtorrent.me##a[href*=".php?"]
 artdeseduire.com##a[href*="/?part=ads"]
 webactus.net##a[href*="/?utm_source="]
 clubic.com##a[href*="/?utm_source=clubic&utm_medium=partenaire"]
@@ -5421,7 +5423,6 @@ espritlib.com##a[href*="/goto_part.php?"]
 centre-audition.com,easyzic.com,films-regarder.com,info-algerie.com##a[href*="/redirect."]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
 sosvirus.net##a[href*="/vpn/?aff="]
-omgtorrent.me##a[href*="?id="]
 nouvelobs.com##a[href*="?partner="]
 challenges.fr,nouvelobs.com##a[href*="?partnerlinkid="]
 audiofanzine.com,sosvirus.net##a[href*="?utm_source="]
@@ -5567,7 +5568,6 @@ presse-citron.net##a[style="cursor:pointer; display:block; height:1600px; left:0
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="100"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
-omgtorrent.me##a[title^="Télécharger"][href*="+"]
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
