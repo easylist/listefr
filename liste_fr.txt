@@ -1746,6 +1746,7 @@ _adb_728x90_$popup
 ||paruvendu.fr^$subdocument,third-party
 ||passion-auto.me/pub.
 ||passion-auto.me/pub1.
+||pdv.juste-pour-un-soir.com^$popup
 ||pepitastore.com^$domain=clubic.com
 ||petite-garce.com/ban/$third-party
 ||petiteporn.xyz^*/o.php?$popup
@@ -1898,6 +1899,7 @@ _adb_728x90_$popup
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
 ||tinypic.com^$image,domain=skymiga.com|timeload.net
 ||tools.gigacu.com^
+||tools.vpscash.nl^
 ||toomai.fr/lp/$subdocument
 ||toomai.fr/olp/$subdocument
 ||torrent24h.net^$popup,third-party
@@ -2118,8 +2120,8 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||alternatives-economiques.fr/pics_bdd/habillage/
 ||alternatives-economiques.fr/pics_bdd/pub/
 ||alvinet.com/images/pub.gif
-||amateur2sexe.fr/anime/anime01.gif
-||amateur2sexe.fr/footer/
+||amateur2sexe.fr/?id=$popup
+||amateur2sexe.fr/static/haut/
 ||amateurdesexe.com^*/zone_hard.gif
 ||animeka.com/_img/cache/partner/
 ||animes-streaming.net/images/ruedufric.png
@@ -2997,6 +2999,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||pixiz.com/img/pub_
 ||pizzahut.fr/img/habillage_site.jpg
 ||plageporno.com/pex/exitp.js
+||plancul.amateur2sexe.fr^$popup
 ||planet-casio.com/images/partenaires/
 ||plateformemedia.com/pub/
 ||pnc-contact.com/pub/
@@ -3154,6 +3157,8 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||staractus.fr/wp-content/uploads/*/habillage.gif
 ||starter.fm/blog/*/bg_$image
 ||starter.fm/images/*/bg_
+||static.amateur2sexe.fr/droite/
+||static.amateur2sexe.fr/haut/
 ||static.ccm2.net/*/img/appstv/
 ||static.hitek.fr/img/bg.png
 ||static.hitek.fr/img/emoticons/
@@ -4530,6 +4535,7 @@ dogzer.com###header_tr_banniere
 pixmania.com###highlight-new
 touslesprix.com###hleft
 winamax.fr###home-banner
+amateur2sexe.fr###home-p2
 webcamtoy.com###home-sponsor
 manageo.fr###homeSolutionsWrapper
 tsa-algerie.com###home_immo
@@ -4584,7 +4590,6 @@ journaldugeek.com###linkhabillage
 ouedkniss.com###list-last-stores
 millenium.org###logo_droite
 laposte.net###lpn_pub_main
-amateur2sexe.fr###mail-form
 voyageforum.com###mainposttravelsbox1
 lafranceagricole.fr###materielOccasion
 driverscloud.com###mc_cadrebottompub
@@ -4809,7 +4814,6 @@ macg.co###unepromo
 voyages.liberation.fr###vHeader-pub
 verif.com###verif_pub_adsense_commander
 verif.com###verif_pub_pave
-amateur2sexe.fr###video-full
 01net.com###videoplaza
 europages.fr###vipBox
 systemed.fr###vitrineFabricants
@@ -5357,7 +5361,7 @@ forum-windows.com##.uniblue
 excel-pratique.com##.vba_300
 souk.ma##.vbanner-wrap
 aujourdhui-en-france.fr##.venteprivee
-pornovore.fr##.video-pub
+amateur2sexe.fr,pornovore.fr##.video-pub
 bioalaune.com##.view-pub
 viamichelin.fr##.vm-gdhmegaban
 viamichelin.fr##.vm-pub-home-google
@@ -5688,7 +5692,6 @@ bricozone.be##img[width="120"][height="75"]
 ajoutezvotresite.com,bricozone.be##img[width="160"][height="600"]
 vatry.com##img[width="300"][height="190"]
 israelmagazine,maliweb.net,soonnight.com,undernews.fr##img[width="300"][height="250"]
-amateur2sexe.fr##img[width="300"][height="250"][src^="http://static.amateur2sexe.fr/menu/"]
 supplychainmagazine.fr##img[width="468"]
 echangegagnant.com,genhit.com,israelmagazine.co.il##img[width="468"][height="60"]
 israelmagazine.co.il##img[width="600"][height="90"]
