@@ -163,6 +163,7 @@
 /bannieres_pub/*$domain=~sgmaroc.com
 /bannieres_responsive_partenaires/*
 /banpub/*
+/bans_infopop/*
 /bansfakes_st.php?ref=
 /blog/ads_
 /bnr468.
@@ -199,6 +200,7 @@
 /gestionpub/*
 /get.*/get.$script,third-party
 /get.cgi?*=banner
+/get_banniere.php?$subdocument
 /getads/?
 /getadsor.
 /iframe_pub.
@@ -213,6 +215,7 @@
 /InjectPopunderAd.
 /jp_display.
 /js.adv.$script
+/js/infopop_$script
 /layout/ads?
 /lib/ads.
 /load.php?action=adsc&
@@ -861,6 +864,7 @@ _adb_728x90_$popup
 ||mxpopad.com^$third-party
 ||mxttrf.com^$third-party
 ||mybestsky.com^$third-party
+||mynativeplatform.com^$third-party
 ||myserv4.com^$third-party
 ||myskyspire.com^$third-party
 ||myspot.fr^$third-party
@@ -1060,6 +1064,8 @@ _adb_728x90_$popup
 ||traficmax.com^$third-party
 ||trck.eu^$third-party
 ||trck.me^$third-party
+||tubicash.biz^$third-party
+||tubicash.com^$third-party
 ||txlpzpihveg.net^$third-party
 ||univers-porno.com^$third-party
 ||uploadedtag.com^$third-party
@@ -1202,6 +1208,7 @@ _adb_728x90_$popup
 ||dealdunjour.com^$popup,third-party
 ||delnapb.com^$popup,third-party
 ||derby-digital.com^$popup,third-party
+||direction-x.com^$popup,third-party
 ||download366.net^$popup,third-party
 ||emea.pub^$popup,third-party
 ||espace-plus.net^$popup,third-party
