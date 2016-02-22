@@ -2154,7 +2154,6 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||alternatives-economiques.fr/pics_bdd/habillage/
 ||alternatives-economiques.fr/pics_bdd/pub/
 ||alvinet.com/images/pub.gif
-||amateur2sexe.fr/?id=$popup
 ||amateur2sexe.fr/droite/
 ||amateur2sexe.fr/footers/
 ||amateur2sexe.fr/haut/
@@ -3039,7 +3038,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||pixiz.com/img/pub_
 ||pizzahut.fr/img/habillage_site.jpg
 ||plageporno.com/pex/exitp.js
-||plancul.amateur2sexe.fr^$popup
+||plancul.*/?id=$popup
 ||planet-casio.com/images/partenaires/
 ||plateformemedia.com/pub/
 ||pnc-contact.com/pub/
@@ -3210,6 +3209,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||static.hitek.fr/img/bg.png
 ||static.hitek.fr/img/emoticons/
 ||static.nautiljon.com/images/b1/?
+||static.pornovore.fr/droite/
 ||static.programme-tv.net/var/medias-*-590x90-
 ||static.rtl.fr/*/skin/$stylesheet
 ||static.rtl.fr/*/skin/promo/
@@ -3986,6 +3986,7 @@ linternaute.com##.layout_main > div[class*="9"]
 ##.bloc-ads
 ##.bloc-ads-container
 ##.bloc-pub
+##.bloc-pub-side
 ##.blocPub
 ##.bloc_pub_300
 ##.bloc_pub_header
