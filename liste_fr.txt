@@ -243,6 +243,7 @@
 /pop-ads.
 /pop.php?user=
 /pop0.js|
+/pop?dfp_id=$popup
 /popcashnet.js
 /popunder3.
 /popunder6.
@@ -2002,13 +2003,21 @@ _adb_728x90_$popup
 ! Tagnwin
 |http://cdn.*?idsite=*&idzone=$script
 ||ainnisrine.com^
+||ainnisrine.com^$popup
 ||annoncessante.ma^
+||annoncessante.ma^$popup
 ||forcesdevente.ma^
+||forcesdevente.ma^$popup
 ||mywebsquare.com^
+||mywebsquare.com^$popup
 ||salesforce.ma^
+||salesforce.ma^$popup
 ||tag101.com^
+||tag101.com^$popup
 ||tagnwin.com^
+||tagnwin.com^$popup
 ||twap2.com^
+||twap2.com^$popup
 ! jeux.com
 @@||az673815.vo.msecnd.net/adnplaycdn/adNPlay.$script,domain=jeux.com
 @@||cdn.gameplayer.io/api/$script,domain=jeux.com
@@ -2016,6 +2025,7 @@ _adb_728x90_$popup
 @@||googletagservices.com/tag/js/gpt.js$script,domain=jeux.com
 @@||veedi.com/player/$xmlhttprequest,domain=jeux.com
 @@||www.veedi.com^$script,domain=jeux.com
+|http://$popup,third-party,domain=jeux.com
 |http://$script,third-party,xmlhttprequest,domain=jeux.com
 ! fdesouche
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
