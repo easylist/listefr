@@ -2,6 +2,7 @@
 ! Checksum: 67pXZCuZUtx1/NTmOZve5A
 ! Title: Liste FR
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
+! Expires: 1 days
 ! Licence : http://creativecommons.org/licenses/by-nc-sa/3.0/
 ! Homepage: http://www.adblock-listefr.com/
 !
@@ -3487,8 +3488,9 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ! Foot01
 foot01.com##div > a > img
 foot01.com##div > h1 + a
-foot01.com##div > img
 foot01.com##div > ul > li + div
+foot01.com##h2 + div > img
+foot01.com##li > div > img
 ! linternaute.com
 linternaute.com###corps-cellule div[class*="0"]
 linternaute.com###corps-cellule div[class*="2"]
