@@ -85,6 +85,7 @@
 /ad_trafic.
 /adblockbanner/*
 /adhosting.
+/adkompan.
 /adman-include/*
 /adoff.js?
 /AdPortalService.
@@ -129,6 +130,7 @@
 /affilitybanners.
 /affpx.php
 /affs?addonname=
+/afilyads1.
 /afterclick.js
 /amazon-product-in-a-post-plugin/*
 /anime/ads/*
@@ -1104,6 +1106,7 @@ _adb_728x90_$popup
 ||waframedia4.com^$third-party
 ||wbsadsdel2.com^$third-party
 ||wbusiness.fr^$third-party
+||webauditoire.com^$third-party
 ||webtv-sexe.com^$third-party
 ||wedoo.com^$third-party
 ||weedoit.fr^$third-party
@@ -2002,6 +2005,10 @@ _adb_728x90_$popup
 ||zupimages.net/up/2/1780414445.gif
 ! Tagnwin
 |http://cdn.*?idsite=*&idzone=$script
+||99meta.com^
+||99meta.com^$popup
+||a2gw.com^
+||a2gw.com^$popup
 ||ainnisrine.com^
 ||ainnisrine.com^$popup
 ||annoncessante.ma^
@@ -2023,10 +2030,7 @@ _adb_728x90_$popup
 @@||cdn.gameplayer.io/api/$script,domain=jeux.com
 @@||cdnjeux.com/min/?$script,domain=jeux.com
 @@||googletagservices.com/tag/js/gpt.js$script,domain=jeux.com
-@@||veedi.com/player/$xmlhttprequest,domain=jeux.com
-@@||www.veedi.com^$script,domain=jeux.com
-|http://$popup,third-party,domain=jeux.com
-|http://$script,third-party,xmlhttprequest,domain=jeux.com
+|http://$popup,script,third-party,xmlhttprequest,domain=jeux.com
 ! fdesouche
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 |http*://lc.cx^$popup,domain=fdesouche.com
