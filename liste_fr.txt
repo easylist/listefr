@@ -2327,7 +2327,6 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||code-promo.01net.com/widget/
 ||codeposte.com/pub/
 ||codepromo.programme-tv.net/snippets/
-||commentcamarche.net/photos/*?p=$xmlhttprequest
 ||commitstrip.com^*/images/wejusthavetoeat/
 ||compteur-gratuit.fr/images/bandeau_
 ||compteur-gratuit.fr/pub_
@@ -3507,7 +3506,7 @@ linternaute.com##.layout_main > div[class*="7"]
 linternaute.com##.layout_main > div[class*="8"]
 linternaute.com##.layout_main > div[class*="9"]
 ! commentcamarche.net
-||astatic.ccmbg.com/www.commentcamarche.net/js/bottom,navarticles,start?
+||bstatic.ccmbg.com/ressource/js/core,lang.*?$script
 !
 !------------------ Éléments génériques -----------------!
 !
