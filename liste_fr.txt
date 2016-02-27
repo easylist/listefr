@@ -451,6 +451,7 @@ _Social-Advert-
 /out.php?link=t$popup
 /partner/click/*$popup
 /pop_packcpm.$popup
+/popads.$popup
 /popuplp/btag/*$popup
 /puopen.php?$popup
 /redir/k.php?r=$popup
@@ -582,6 +583,7 @@ _adb_728x90_$popup
 ||adspot.ch^$third-party
 ||adsregieonline.com^$third-party
 ||adsrevenue.com^$third-party
+||adssyscom.com^$third-party
 ||adstract.com^$third-party
 ||adstronic.net^$third-party
 ||adsupplyads.com^$third-party
@@ -1129,6 +1131,7 @@ _adb_728x90_$popup
 ||xfactact.com^$third-party
 ||xfreeservice.com^$third-party
 ||xiepl.com^$third-party
+||xl415.com^$third-party
 ||xponsor.com^$third-party
 ||y-ads.net^$third-party
 ||yban.fr^$third-party
@@ -1335,6 +1338,7 @@ _adb_728x90_$popup
 ||wordkeyhelper.com^$popup,third-party
 ||www.meetic-partners.com^$popup,third-party
 ||x.porn.fr^$popup,third-party
+||xl415.com^$popup,third-party
 ||xmediaserve.com^$popup,third-party
 ||yes-messenger.com^$popup,third-party
 ||yesmessenger.com^$popup,third-party
@@ -4027,6 +4031,7 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ##.border_ads
 ##.cadre-pub-google
 ##.cadrepub
+##.card--row-ads
 ##.carre_pub
 ##.carrepub
 ##.container-pubcarre
@@ -4038,6 +4043,7 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ##.content-ad-bloc
 ##.cubes-ads
 ##.custom-advert-banner-frame
+##.deck--below-ads
 ##.deck--top-ads
 ##.div-publicite
 ##.div-publicite1
