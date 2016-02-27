@@ -242,12 +242,10 @@
 /partners/ads-
 /partners/rotator.
 /partnertag/iframe.
-/pdv/track.php?$popup
 /plugins/vp_pub/*
 /pop-ads.
 /pop.php?user=
 /pop0.js|
-/pop?dfp_id=$popup
 /popcashnet.js
 /popunder3.
 /popunder6.
@@ -258,7 +256,6 @@
 /promo/*/display.
 /promo/bannieres/*
 /promo/gif_banners/*
-/promos/popeachclick/*$popup
 /proxy_eds.php?
 /proxy_iframe.php?url=
 /pub-300x250.
@@ -450,9 +447,12 @@ _Social-Advert-
 /null/*/Redirect.$popup,third-party
 /out.php?link=t$popup
 /partner/click/*$popup
+/pdv/track.php?$popup
+/pop?dfp_id=$popup
 /pop_packcpm.$popup
 /popads.$popup
 /popuplp/btag/*$popup
+/promos/popeachclick/*$popup
 /puopen.php?$popup
 /redir/k.php?r=$popup
 /redirect?&tid=$popup
