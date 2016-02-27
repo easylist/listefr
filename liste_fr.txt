@@ -455,6 +455,7 @@ _Social-Advert-
 /promos/popeachclick/*$popup
 /puopen.php?$popup
 /redir/k.php?r=$popup
+/redirect.php?*==$popup
 /redirect?&tid=$popup
 /redirect?spot_id=$popup
 /renderBanner.do?$popup
@@ -852,6 +853,7 @@ _adb_728x90_$popup
 ||liveparadise.com^$third-party
 ||liversely.com^$third-party
 ||livewithbinaryoptions.com^$third-party
+||loading-delivery2.com^$third-party
 ||loractu.pro^$third-party
 ||madameglad.com^$third-party
 ||madcents.ma^$third-party
@@ -955,6 +957,7 @@ _adb_728x90_$popup
 ||porn247.info^$third-party
 ||pornego.com^$third-party
 ||possini.eu^$third-party
+||predictivadvertising.com^$third-party
 ||prm-native.com^$third-party
 ||proche2moi.com^$third-party
 ||promo.alienbiz.com^$third-party
@@ -979,6 +982,7 @@ _adb_728x90_$popup
 ||pureadexchange.com^$third-party
 ||pwspace.com^$third-party
 ||qads1.pw^$third-party
+||qadserver.com^$third-party
 ||quaelead.com^$third-party
 ||quanta.lu^$third-party
 ||qwerty1.co.pl^$third-party
@@ -1264,6 +1268,7 @@ _adb_728x90_$popup
 ||livechatdates.com^$popup,third-party
 ||livefreefunwith.me^$popup,third-party
 ||livepartners.com^$popup,third-party
+||loading-delivery2.com^$popup,third-party
 ||marsads.com^$popup,third-party
 ||maxidivx.com^$popup,third-party
 ||medleyads.com^$popup,third-party
@@ -1290,6 +1295,7 @@ _adb_728x90_$popup
 ||pornstreet.com^$popup,third-party
 ||possini.eu^$popup,third-party
 ||pourmajeurs.com^$popup,third-party
+||predictivadvertising.com^$popup,third-party
 ||promo.voyance-web.fr^$popup,third-party
 ||promotions.djummer.com^$popup,third-party
 ||redpeepers.com^$popup,third-party
@@ -1351,7 +1357,6 @@ _adb_728x90_$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
-|bit.ly^$popup,domain=france-telechargement.com
 |http:$popup,third-party,domain=file.up09.com|uploading.com|uptobox.com
 |http:$subdocument,third-party,domain=clictune.com|contextualyield.com|sa.ae
 |http:*&proxyurl=$domain=allmyvideos.net|vidspot.net
@@ -1595,6 +1600,7 @@ _adb_728x90_$popup
 ||flyrelax.com/wp-widget/widget.php
 ||fortuneinternet101.com/Bannieres/
 ||fpcplugs.com/do.cgi?
+||france-telechargements.com^$popup
 ||frenchfriendfinder.com^$domain=choualbox.com
 ||frequence-tv.com/images/frpub.gif
 ||full-wallpaper.com/wallpaperday.js$third-party
@@ -2490,6 +2496,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||evene.fr^*/files/imagecache/content_fnac_block/
 ||evene.fr^*/images/fnacbox/
 ||ex-down.com/redir.html?$popup
+||ex-down.org/uploads/extreme-down.net_btn$image
 ||exerciceabdo.fr/wp-content/uploads/*/banner2.gif
 ||exerciceabdo.fr/wp-content/uploads/*/capsimax.png
 ||exerciceabdo.fr/wp-content/uploads/2014/07/the-vert.png
