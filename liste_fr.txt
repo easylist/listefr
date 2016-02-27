@@ -1206,6 +1206,7 @@ _adb_728x90_$popup
 ||affiliation-france.com^$popup,third-party
 ||affiliwix.com^$popup,third-party
 ||all2lnk.com^$popup,third-party
+||ampxchange.com^$popup,third-party
 ||apportium.com^$popup,third-party
 ||appyshka.com^$popup,third-party
 ||arabysouq.com^$popup,third-party
@@ -4329,6 +4330,7 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ##a[href*="/telechargement-rapide.php?"]
 ##a[href*="/tracking_campaign.php?"]
 ##a[href*="ads_random"]
+##a[href*="qadserver.com"]
 ##a[href*="xiti.com/go.ad?"]
 ##a[href^=".php/ads/"]
 ##a[href^=".php/annonce/ads/"]
@@ -5509,7 +5511,7 @@ forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding
 cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
-telechargementz-streaming.com##a[href$=".php"]
+telechargementz-streaming.com,telechargementz-streaming.net##a[href$=".php"]
 zone-telechargement.com##a[href$="/xz.php"]
 opensubtitles.org##a[href$="=="][rel="nofollow"]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
@@ -5600,7 +5602,6 @@ jamsvu.fr##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
 annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
 cinemafantastique.net##a[href^="http://pubs.ecranfantastique.net/"]
 brunotritsch.fr##a[href^="http://rdinews.com/ads/"]
-telechargementz.tv##a[href^="http://script.qadserver.com/"]
 needsandmoods.com##a[href^="http://sigma-beauty.7eer.net/"]
 planet-series.tv##a[href^="http://spal.sousstimes.com/offer?"]
 sport.fr##a[href^="http://sport-kiff.com/"]
