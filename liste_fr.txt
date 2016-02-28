@@ -2930,7 +2930,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||media-ext.wanarun.net^
 ||media.funradio.fr/online/image/*_skin-vip$image
 ||media.peterhahn.fr/is/image/peterhahn/*_skyscraper_
-||media.rtl.fr/online/image/*_habillage$image
+||media.rtl.fr^*/image/*_habillage$image
 ||media365.fr^*?imgPrefix=$xmlhttprequest
 ||medias.jds.fr/medias/direct/*/habillage_
 ||medias.jds.fr/medias/direct/*_300_600.
@@ -3250,8 +3250,8 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||static.nautiljon.com/images/b1/?
 ||static.pornovore.fr/droite/
 ||static.programme-tv.net/var/medias-*-590x90-
-||static.rtl.fr/*/skin/$stylesheet
-||static.rtl.fr/*/skin/promo/
+||static.rtl.fr^*/skin/$stylesheet
+||static.rtl.fr^*/skin/promo/
 ||static.s-sfr.fr/export/bloc/*/sky*.json?
 ||static.s-sfr.fr/media/accga.
 ||static.s-sfr.fr/media/accsky*.
@@ -3733,6 +3733,8 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ###j_ads
 ###js-game-leaderboard-bottom
 ###libelle_pub
+###ligatus_art_foot
+###ligatus_art_right
 ###middle-publicite
 ###milieu_pub
 ###module_publicite
@@ -3980,7 +3982,9 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ##.ads-download
 ##.ads-heads
 ##.ads-l
+##.ads-ligatus-right
 ##.ads-r
+##.ads-reco
 ##.ads-search
 ##.ads-sponsored-text
 ##.ads2
@@ -4326,6 +4330,7 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ##.wrapperPub
 ##.yourcolor-ads
 ##.zonepub
+##[data-type="ligatus-script"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
 ##a[href*=".php?ad_id="]
 ##a[href*=".php?ads_id="]
@@ -5127,6 +5132,7 @@ senscritique.com##.demh-product
 logitheque.com##.description + .telechargement
 grosnews.com##.deuxcarres
 2ememain.be##.dfp-button
+rtl.fr##.dfp-pave
 factornews.com##.div_pub_728_90
 dailymotion.com##.dm_widget_advert_iabrighttitle
 cdiscount.com##.downinbackMaullContainer
@@ -5254,7 +5260,7 @@ numerama.com##.module_remixjob
 numerama.com##.module_sponsored
 lanutrition.fr##.moduletable-banner
 lanutrition.fr##.moduletable-pub2
-radio.rtl.fr##.money-talks
+rtl.fr##.money-talks
 gamekult.com##.mpubas-wrapper
 msn.com##.nativead
 lien-torrent.com##.nav-profil
@@ -5875,7 +5881,7 @@ journaldesfemmes.com##div[class] + div[class] + div[class] + div[class] + div[cl
 @@||adserve.atedra.com/serve.php?z=$script,domain=pourquoipas.ca|radiox.com|vilaingeek.ca
 @@||adserve.atedra.com/vast/$domain=pourquoipas.ca|radiox.com
 @@||adserve.atedra.com/zones.php$xmlhttprequest,domain=pourquoipas.ca
-@@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com|rtl.fr
+@@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
 @@||adswizz.com/crossdomain.xml
 @@||adv.voyage-economique.fr^$domain=voyage-economique.fr
