@@ -1324,6 +1324,7 @@ _adb_728x90_$popup
 ||teracreative.com^$popup,third-party
 ||terrapops.com^$popup,third-party
 ||the-adult-company.com^$popup,third-party
+||tonlive.com^$popup,third-party
 ||track2cash.com^$popup,third-party
 ||tracker.zombaio.com^$popup,third-party
 ||tracking.ecookie.fr^$popup,third-party
@@ -1877,6 +1878,7 @@ _adb_728x90_$popup
 ||s3.amazonaws.com^*/publishers/$script
 ||saintseiya.lesite.free.fr/images/bannieres/
 ||salopes-du-jour.com/sexy.js
+||securitetotale.com^$popup,domain=smartorrent.com
 ||serie-stream.org^$popup,domain=full-stream.cc
 ||service-factures.fr/bannieres/
 ||sex-is-free.net/pub/
@@ -5107,7 +5109,7 @@ canoe.ca##.boxPool
 days-media.fr##.boxed[style^="width:300px; height:250px"]
 lepoint.fr##.branding
 smartorrent.com,torrentsm.top##.btn-danger
-smartorrent.com,torrentsm.top##.btn-primary
+torrentsm.top##.btn-primary
 smartorrent.com,torrentsm.top##.btn.btn-default.btn-xs
 gamergen.com,generation-nt.com##.bup
 football365.fr,mercato365.com,rugby365.fr,sport365.fr##.bwin
@@ -5540,6 +5542,7 @@ cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
 telechargementz-streaming.com,telechargementz-streaming.net##a[href$=".php"]
+smartorrent.com##a[href$=".tonlive.com/"]
 zone-telechargement.com##a[href$="/xz.php"]
 opensubtitles.org##a[href$="=="][rel="nofollow"]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
@@ -5673,7 +5676,7 @@ webrankinfo.com##a[href^="http://www.webrankinfo.com/partenaires/"]
 free-proxy.fr##a[href^="https://account.cyberghostvpn.com?affiliate="]
 needsandmoods.com##a[href^="https://ad.zanox.com/"]
 yahoo.com##a[href^="https://beap.gemini.yahoo.com/"]
-wawacity.su##a[href^="https://secure.securitetotale.com/"]
+smartorrent.com,wawacity.su##a[href^="https://secure.securitetotale.com/"]
 cdiscount.com##a[href^="https://tracking.cdiscount.com/tracker.ashx?"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
