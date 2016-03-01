@@ -69,6 +69,7 @@
 /300_250-2.
 /468x60banner.
 /728x090_
+/?rpartner=$subdocument
 /a.ads.
 /a.php?t=*&pgid=*&rebill=
 /acad.$script
@@ -371,6 +372,7 @@ _emplacements.php?f=300x125
 _emplacements.php?f=300x250
 _emplacements.php?f=468x60
 _emplacements.php?f=728x90
+_liens_sponsorises.
 _logic_on_ad.
 _pages_ad.
 _pub_728.
@@ -3759,6 +3761,7 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ###j_ads
 ###js-game-leaderboard-bottom
 ###libelle_pub
+###liens_sponsorises
 ###ligatus_art_foot
 ###ligatus_art_right
 ###middle-publicite
@@ -4139,6 +4142,7 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ##.large-ad-center-close
 ##.leftSideAds
 ##.leftmenupub
+##.lien_sponso
 ##.list-ads-282
 ##.list-ads-468
 ##.little_pub
@@ -4733,7 +4737,6 @@ driverscloud.com###mc_cadrebottompub
 driverscloud.com###mc_cadretoppub
 jeuxvideo.com###mc_sponso
 sfr.fr###meeticWrapper
-strategies.fr###mega_banniere
 sofoot.com###megaban
 businessnews.com.tn###megaban-1000
 jeuxactu.com###megaban1
