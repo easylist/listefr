@@ -194,6 +194,7 @@
 /display/?method=redirect&force=$subdocument
 /display_pub.
 /doubleclick_dmm/*
+/drawpub2.
 /ec_connectorDelivery.
 /email_catcher/track.php?$subdocument
 /emplacement-pub/*$subdocument
@@ -408,6 +409,7 @@ _Social-Advert-
 &nsfw=&id_promo=$popup
 &publisherID=$popup
 &ymid=ADSYS-$popup
+-banner.cib?$popup
 -popunder.php?$popup
 .com.sa/ads?$popup
 .loading-delivery2.$popup
@@ -1491,6 +1493,7 @@ _adb_728x90_$popup
 ||brainer.cc^*?PCTX=$popup
 ||brsimg.com/pub/
 ||business-lounge.fr/public/widget-prod/
+||buziol.pl^$popup
 ||buzzypeople.fr/download/115163_k.gif
 ||buzzypeople.fr/pluginbarre/
 ||buzzypeople.fr/webplayertv/728x90wa.png
@@ -2726,7 +2729,6 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||japan-expo.com/files/habilllageautopromogiz.jpg
 ||jedessine.com^*/monstermunch/
 ||jeu.auchan.fr^$popup
-||jeu.net/js/drawpub2.js
 ||jeu.net/pub/
 ||jeune-homme-gay.com^*/u.js
 ||jeunebaisemature.com^*/u.js
@@ -4032,6 +4034,7 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ##.advBackground
 ##.adv_box
 ##.adv_cont
+##.adv_pop
 ##.advert-left-slider
 ##.advert-out-left
 ##.advert-out-right
