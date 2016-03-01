@@ -363,6 +363,7 @@ _46860_
 _970x250.
 _ad_unit.
 _ads_728.
+_ads_banner_
 _ads_toroadv.
 _adsens_
 _emplacements.php?f=300x125
@@ -415,6 +416,7 @@ _Social-Advert-
 /?tid=*&red=$popup
 /__utm.gif$popup
 /a4u_banner_.$popup
+/ad.*/aff_$popup
 /adcint/*$popup
 /adplexmedia/*$popup
 /ads.php?$popup
@@ -2332,6 +2334,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||casimages.com/72890_
 ||cbanque.com/i/*/habillage
 ||cbmanga.fr/images/pubs/
+||cci.fr/sites/default/files/src/pub/
 ||cdiscount.com/imagesok/tetiere/partners/
 ||cdiscount.com/include/css/op_skin/
 ||cdmail.fr//pro/Images/ban_
@@ -5407,7 +5410,7 @@ maghrebspace.net##.publicite_droite_600
 actu-environnement.com##.publireportage_simple
 aussitot.fr##.pubmidtext
 buzzly.fr##.pubright
-tennisactu.net##.pubs
+cci.fr,tennisactu.net##.pubs
 orangeinfo.fr##.pubside
 iphoneaddict.fr##.pubsoustag
 web-tricheur.net##.pubtexte
