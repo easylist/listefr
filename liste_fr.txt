@@ -884,6 +884,7 @@ _adb_728x90_$popup
 ||misterbell.com^$third-party
 ||mobawaba.com^$third-party
 ||mobligo.com^$third-party
+||mobusi.com^$third-party
 ||mochiads.com^$third-party
 ||monetize-me.com^$third-party
 ||moneytize.fr^$third-party
@@ -1288,6 +1289,7 @@ _adb_728x90_$popup
 ||meetaffiliate.com^$popup,third-party
 ||mobile-10.com^$popup,third-party
 ||mobimediatraf.com^$popup,third-party
+||mobusi.com^$popup,third-party
 ||monetizemytraffic.com^$popup,third-party
 ||multiupload.com^$popup,third-party
 ||mumbai-invest.email^$popup
@@ -4013,6 +4015,7 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ##.adavert-center
 ##.adbanner600active
 ##.adbloc
+##.addblock
 ##.adf_marketingbanner
 ##.adf_mpu
 ##.ads--panorama
@@ -6195,6 +6198,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||6play.fr/publicite-$script
 @@||ads.stickyadstv.com/www/delivery/swfIndex.php?$xmlhttprequest,domain=wakanim.tv
 @@||foglio.basilic.io/ad/basilic.adsense.js
+@@||ktu.sv2.biz/sv3/advertisement.js
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
 @@||ptitchef.com/js/ads.js
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
@@ -6276,6 +6280,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 ###adb-not-enabled
 ###adblockDetect
 #@##adblocktest
+###advertisementjsalert
 ###anti_adblock
 ###pub-haut-adblock
 ##.ad-blocking-advisor-wrapper
