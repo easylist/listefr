@@ -460,6 +460,7 @@ _Social-Advert-
 /popuplp/btag/*$popup
 /promos/popeachclick/*$popup
 /puopen.php?$popup
+/random.php$popup
 /redir/k.php?r=$popup
 /redirect.php?*==$popup
 /redirect?&tid=$popup
@@ -1513,6 +1514,7 @@ _adb_728x90_$popup
 ||cdscdn.com/imagesok/tetiere/partners/
 ||cdscdn.com/other/banniere_
 ||cdscdn.com^*/footerPartnerOffers.js
+||centredecontrole.biz^$subdocument
 ||choisir-ma-banque.com^$domain=challenges.fr
 ||choubijoux.com/image/banniere-$third-party
 ||classistatic.com/*/banner/
@@ -2008,6 +2010,7 @@ _adb_728x90_$popup
 ||videoplaza.tv/proxy/$popup
 ||videos-de-celebrites.com/CMF_Banners/
 ||viteundevis.com/ads/
+||vivabuzz.com^$popup
 ||viwii.net/banners/$third-party
 ||voiture-ligier.info/pub1.
 ||voiture-louer.info/pub.
@@ -2022,6 +2025,7 @@ _adb_728x90_$popup
 ||wcdn.co.il/banners/
 ||web-autosurf.com/promo/
 ||webchoc.com/*/spip.php?
+||webchoc.com^$popup
 ||webcilon.tripod.com/bannieres/
 ||webself.net/WebselfEditeur/FormulaireDemo.aspx?
 ||webstars.fr/services/webstars.php?
@@ -3235,8 +3239,11 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||sexe-pornxx-videos.com^*/x2.js
 ||sexe70s.com/ban/
 ||sexecine.com/data/ati/
+||sexefelin.com/images/*.gif
+||sexefelin.com/images/penisexpert.gif
 ||sexefelin.com/pop.
 ||sexefelin.com/site/js/*.cornerslider.
+||sexefelin.com^$popup
 ||sexegratuit.be^*/u.js
 ||sexeoptimal.com^
 ||sexeplus.com/bannieres/
