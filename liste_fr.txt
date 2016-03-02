@@ -6182,7 +6182,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 !
 @@.gif#$image,domain=automobile-sportive.com|youwatch-series.com
 @@.jpg#$image,domain=dpstream.cc|naruto-mx.net
-@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|rapidebrideur.com|total-sport.tv|tout-gratuit.be|youwatch-series.com
+@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|rapidebrideur.com|total-sport.tv|tout-debrid.net|tout-gratuit.be|youwatch-series.com
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/advert.js$script,domain=flashx.tv
 @@/advert.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|phonandroid.com|pixelistes.com
@@ -6322,6 +6322,7 @@ forumdz.com##div[style="width:728px; margin:0 auto; padding-bottom:1em"] + * + c
 @@||rapidebrideur.com^$elemhide
 @@||seriehentai.com^$elemhide
 @@||total-sport.tv^$elemhide
+@@||tout-debrid.net^$generichide
 !
 ! captchme.com
 @@||annonces-jobber.com^$generichide
