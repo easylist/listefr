@@ -3598,7 +3598,7 @@ linternaute.com##.layout_main > div[class*="7"]
 linternaute.com##.layout_main > div[class*="8"]
 linternaute.com##.layout_main > div[class*="9"]
 ! commentcamarche.net
-!commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[class] + div[class]
+commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[class] > div[class]:first-child > div[class]:first-child + div[class]:last-child
 !
 !------------------ Éléments génériques -----------------!
 !
