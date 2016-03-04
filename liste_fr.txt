@@ -404,6 +404,8 @@ _Social-Advert-
 !
 !------------------------ Génériques popup -----------------------!
 !
+|http:*/_://$popup
+!
 &ad_domain=$popup
 &ad_path=$popup
 &adcid=$popup
@@ -1137,6 +1139,7 @@ _adb_728x90_$popup
 ||wendise.com^$third-party
 ||westzip.in^$third-party
 ||white-eyes.com^$third-party
+||whonami.info^$third-party
 ||widespace.com^$third-party
 ||widgetbooster.com^$third-party
 ||wineuroptp.fr^$third-party
