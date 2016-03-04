@@ -36,6 +36,7 @@
 -banner-300x250.
 -pub-ads/
 -viceads.
+.ad4mat.$domain=~ad4mat.com
 .adfarm1.
 .adserverpub.$domain=~adserverpub.com
 .adtech.
@@ -81,6 +82,7 @@
 /ad-unit-image/*
 /ad.bon-plan-
 /ad/banners_
+/ad4mat.
 /ad_fr.
 /ad_frames/*
 /ad_placements/*
@@ -527,12 +529,6 @@ _adb_728x90_$popup
 ||ad2perf.com^$third-party
 ||ad2prm.com^$third-party
 ||ad380.com^$third-party
-||ad4mat.ch^$third-party
-||ad4mat.com^$third-party
-||ad4mat.de^$third-party
-||ad4mat.es^$third-party
-||ad4mat.net^$third-party
-||ad4mat.pl^$third-party
 ||ad4you.org^$third-party
 ||ad6.fr^$third-party
 ||adaccess.fr^$third-party
