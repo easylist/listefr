@@ -5228,6 +5228,7 @@ allocine.fr##.d_table-cell.vam
 senscritique.com##.delt21-banner
 senscritique.com##.demh-product
 logitheque.com##.description + .telechargement
+jeux.com##.description_jeu + div[id]
 grosnews.com##.deuxcarres
 2ememain.be##.dfp-button
 rtl.fr##.dfp-pave
@@ -5490,6 +5491,7 @@ jeuxflash.com##.pull-left
 souk.ma##.rbanner-wrap
 imobie.fr##.rec_download
 lemonde.fr##.reco_cross_site_outbrain
+jeux.com##.recommended_games > div[id]
 gonzai.com##.red-one-third
 lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.references
 jeux-e.com##.rek_ban
@@ -5893,8 +5895,8 @@ developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
 dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
+jeux.com##img[src*="data:image/;base64,"]
 playfrance.com##img[src="http://images.playfrance.com/v4/blank_1x1.gif"]
-jeux.com##img[src^="data:image/;base64,"]
 sortir.eu##img[src^="http://www.lille.sortir.eu/portal_banneradmin/"]
 zataz.com##img[style="border: 0px solid ; width: 300px; height: 250px;"]
 zataz.com##img[style="border: 0px solid; width: 300px; height: 250px;"]
@@ -5918,6 +5920,7 @@ lien-torrent.com##p > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
 debrideurstreaming.com##script[src="http://www.pubdirecte.com/script/pop.php?id=48523&ref=23821"] + table[style="float:right; margin-right:50px;"]
 boursorama.com##style + div > .visible-desktop:first-child
+jeux.com##style + div[class]:last-child
 boursorama.com##sup.main[style="display: block;"]
 netbusiness-team.com##table[background="../img/banner/pub_verticale.gif"]
 photos-persos-sexy.com##table[style="border-style: solid; border-width: 0px; background-color: #ffffff; width: 100%; height: 280px;"]
