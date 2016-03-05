@@ -22,7 +22,6 @@
 -300-x-250-
 -300x250.php?cb=
 -468-x-60-
--468x60.php?cb=
 -468x601.
 -60x480.
 -728-x-90-
@@ -55,7 +54,6 @@
 .php?&zoneid=
 .php?*&bannerid*campaignid=
 .php?banner=$subdocument
-.php?bannerid=
 .php?style=160x600-
 .php?style=300x250-
 .php?style=468x60-
@@ -77,9 +75,7 @@
 /acecAdServer.
 /ad-360-280-player.
 /ad-lib/*
-/ad-maven-public-cdn/*
 /ad-netc-
-/ad-unit-image/*
 /ad.bon-plan-
 /ad/banners_
 /ad4mat.
@@ -90,7 +86,6 @@
 /adblockbanner/*
 /adhosting.
 /adkompan.
-/adman-include/*
 /adoff.js?
 /AdPortalService.
 /AdPortalWebService/*
@@ -141,8 +136,6 @@
 /api/ads_
 /ar/ads/*
 /ara/ads/*
-/b-images/*_300x250.
-/b-images/*_728x90.
 /b728x90a.
 /ban160.js
 /ban300.js
@@ -208,10 +201,8 @@
 /fra/ads/*
 /generateAds.
 /gestionpub/*
-/get.*/get.$script,third-party
 /get.cgi?*=banner
 /get_banniere.php?$subdocument
-/getads/?
 /getadsor.
 /iframe_pub.
 /iframe_pub_
@@ -339,7 +330,6 @@
 /widgets-zoom-annonce-shopping.
 /widgets-zoom-mytravelchic.
 /wp-content/plugins/baw-bon-plan/*
-/xbanner.js?
 /XnewadsX/*
 /xpopunder.js
 /zones?zone=$subdocument
@@ -432,8 +422,6 @@ _Social-Advert-
 /ads?key=$popup
 /ads?spot_id=$popup
 /ads_$popup
-/adServe/banners?$popup
-/adServe/feedclick?$popup
 /adserver/iframe.$popup
 /adservingsolutionsinc/*$popup
 /adsys.$popup
@@ -446,9 +434,8 @@ _Social-Advert-
 /banner_s?*&auto_click=$popup
 /banredir.cgi?$popup
 /click?*=ad&$popup
-/click?adv=$popup
 /click_lx.ads/*$popup
-/default_ad/$popup
+/default_ad/*$popup
 /delivery/ck.php?$popup
 /display.php?k=*&ban=$popup
 /display/?method=pop&force=$popup
@@ -584,7 +571,6 @@ _adb_728x90_$popup
 ||adsk2.co^$third-party
 ||adsmena.com^$third-party
 ||adsmobile1.com^$third-party
-||adsp.com^$third-party
 ||adsp.io^$third-party
 ||adspoper.com^$third-party
 ||adspot.ch^$third-party
@@ -696,7 +682,6 @@ _adb_728x90_$popup
 ||cash-manager.biz^$third-party
 ||cdn.nextperf.net^$third-party
 ||cdn.savage.nu^$third-party
-||cdn.xaxoro.com^$third-party
 ||cdntraffic.com^$third-party
 ||cdxndirect.com^$third-party
 ||cdxndirectopt.com^$third-party
@@ -892,7 +877,6 @@ _adb_728x90_$popup
 ||moneytize.fr^$third-party
 ||motorsregie.com^$third-party
 ||moxielinks.com^$third-party
-||mtagmonetizationc.com^$third-party
 ||mumbai-invest.email^
 ||mxpopad.com^$third-party
 ||mxttrf.com^$third-party
@@ -974,7 +958,6 @@ _adb_728x90_$popup
 ||prm-native.com^$third-party
 ||proche2moi.com^$third-party
 ||promo.alienbiz.com^$third-party
-||promo.easy-dating.org^$third-party
 ||promo.ezstatic.com^$third-party
 ||promo.hysteriq.com^$third-party
 ||promo.indecentes-voisines.com^$third-party
@@ -1154,8 +1137,6 @@ _adb_728x90_$popup
 ||xponsor.com^$third-party
 ||y-ads.net^$third-party
 ||yban.fr^$third-party
-||yes-messenger.com^$third-party
-||yesmessenger.com^$third-party
 ||you-hentai.com^$third-party
 ||z-barre.com^$third-party
 ||z-cache.com^$third-party
@@ -1177,7 +1158,6 @@ _adb_728x90_$popup
 ||pkthop.com^$third-party
 ||pxltgr.com^$third-party
 ||tagsrvcs.com^$third-party
-||tubemogul.com^$third-party
 ||tworismo.com^$third-party
 ||webzodes.com^$third-party
 !
@@ -1196,7 +1176,6 @@ _adb_728x90_$popup
 ||ad6media.fr^$popup,third-party
 ||adbucks.com^$popup,third-party
 ||adexint.com^$popup,third-party
-||adfclick1.com^$popup,third-party
 ||adfection.net^$popup,third-party
 ||adfornet.com^$popup,third-party
 ||adhoc1.net^$popup
@@ -1242,7 +1221,6 @@ _adb_728x90_$popup
 ||clickadu.com^$popup,third-party
 ||clickbank.net^$popup,third-party
 ||clicks4ads.com^$popup,third-party
-||clkfeed.com^$popup,third-party
 ||coloredview.com^$popup,third-party
 ||cometstar.net^$popup,third-party
 ||coolood.biz^$popup,third-party
@@ -1358,7 +1336,6 @@ _adb_728x90_$popup
 ||tracking.ecookie.fr^$popup,third-party
 ||trackor.net^$popup,third-party
 ||trackrc.com^$popup,third-party
-||trackvoluum.com^$popup,third-party
 ||tradeadexchange.com^$popup,third-party
 ||trafe.info^$popup,third-party
 ||trafficmagnates.com^$popup,third-party
@@ -1369,7 +1346,6 @@ _adb_728x90_$popup
 ||vixnixxer.com^$popup,third-party
 ||vkunlock3.eu^$popup,third-party
 ||webprod.cybertesteurs.com^$popup,third-party,domain=~iss.net
-||whies.info^$popup,third-party
 ||white-eyes.com^$popup,third-party
 ||word-my.com^$popup,third-party
 ||wordkeyhelper.com^$popup,third-party
@@ -1543,7 +1519,6 @@ _adb_728x90_$popup
 ||click.aliexpress.com^$subdocument
 ||clickbiz.fr/upload/ban/
 ||cliquojeux.com/pub/
-||cloudfront.net/pop?tid=
 ||cloudfront.net^$domain=flashx.pw|flashx.tv|maquillage.com|openload.co|pausefun.com|pausepeople.com|uptobox.com
 ||cloudfront.net^$script,domain=gorillavid.in
 ||cloudfront.net^*/?partner=
@@ -2131,7 +2106,6 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||apprehendera.country^
 ||aquetewwwc.uk^
 ||arretion.de^
-||autopromo.wbdds.com^
 ||autopromostatic.jeuxvideo.com^$third-party
 ||avorteronmedia.lol^
 ||betterewww.nl^
@@ -3275,7 +3249,6 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||sexe70s.com/ban/
 ||sexecine.com/data/ati/
 ||sexefelin.com/images/*.gif
-||sexefelin.com/images/penisexpert.gif
 ||sexefelin.com/pop.
 ||sexefelin.com/site/js/*.cornerslider.
 ||sexefelin.com^$popup
@@ -3390,8 +3363,6 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||tirage-gagnant.com/*/gauche-euro-
 ||tirage-gagnant.com/*/header-
 ||toocharger.com/pub_
-||tool.acces-vod.com/infopop/
-||tool.acces-vod.com/popdhtml/
 ||toolslib.net/assets/img/placeholders/gw_$image
 ||toomai.fr/img/banner/
 ||top-for-phone.fr/visuels/
@@ -3678,7 +3649,6 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ###adcontainerAdSense
 ###adleftgame
 ###adpubhead
-###adrightgame
 ###ads-300x250
 ###ads-320x50-I1
 ###ads-320x50-I2
@@ -3702,7 +3672,6 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ###adsense_haut
 ###adsground
 ###adspave
-###adundergame
 ###advBarMars
 ###advert-title
 ###advncdads-1
@@ -3711,7 +3680,6 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ###advpanel
 ###after-adv
 ###anAdScGame120x600
-###anAdScGame300x250
 ###anAdScGame728x90
 ###anAdScUgGame728x90
 ###annonce_pub
@@ -4190,7 +4158,6 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ##.header_pub
 ##.hnadszone
 ##.home_pub
-##.html-block-ads
 ##.iframe_pub
 ##.inpage-adspace
 ##.insert_pub_center
@@ -4455,7 +4422,6 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ##a[href^="http://go.wwwdg.net/"]
 ##a[href^="http://goodbeautyjob.com/"]
 ##a[href^="http://styleapplicationzillion.com/"]
-##a[href^="http://www.duckcash.eu/"]
 ##a[href^="http://www.espace-plus.net/"]
 ##a[href^="http://www.leguide.com/lettre/"]
 ##a[href^="http://www.terraclicks.com/"]
@@ -4708,9 +4674,7 @@ viamichelin.be###gdhMegaBan
 viamichelin.be,viamichelin.com###gdhMegaBanBottom
 numerama.com###general_dec
 pagesjaunes.fr###goodDealsArea
-mediamass.net###google
 zero-complexe.com###google.post.bg1.online
-reverso.net###hAdv
 cdiscount.com###hMall
 comics-sanctuary.com###hab
 bdgest.com,bedetheque.com###hab_click
@@ -5070,14 +5034,12 @@ midilibre.fr,sudouest.fr##.ad-box
 turfomania.fr##.ad1
 vinyculture.com##.ad2
 pafpaf.com##.adBlocTop
-aujourdhui.fr##.adBox
 lastminute.com##.adContainer
 souiqua.net##.adblock
 reverso.net##.adcontent
 gmx.fr,lebonguide.com##.add
 vinyculture.com##.addLink
 lejsl.com##.addPic
-01net.com##.adnl_zone
 actustar.com,aujourdhui-en-france.fr,cvya.dz,fairytailmx.com,floriankarmen.com,football365.fr,footespagnol.fr,freefoot.fr,htmlforums.com,internetparsatellite.net,leparisien.fr,lephpfacile.com,lequipe.fr,lyon365.fr,media365.fr,mercato365.com,metronews.fr,monaco365.fr,nolyo-tv.com,obturations.com,oujdacity.net,over-blog.com,raje.fr,replay.fr,rugby365.fr,rugby365.fr.fr,scan-mx.com,sortiesdvd.com,sport365.fr,streaming-video3x.com,telesatellite.com,televiseurs.net,tonmanga.com,uzinagaz.com,webstar-auto.com,webstar-electro.com,yourporno.fr##.ads
 artdeseduire.com##.ads-books
 artdeseduire.com##.ads-information
@@ -5237,7 +5199,6 @@ senscritique.com##.demh-product
 logitheque.com##.description + .telechargement
 jeux.com##.description_jeu + div[id]
 grosnews.com##.deuxcarres
-2ememain.be##.dfp-button
 rtl.fr##.dfp-pave
 factornews.com##.div_pub_728_90
 dailymotion.com##.dm_widget_advert_iabrighttitle
@@ -5889,7 +5850,6 @@ echoroukonline.com##div[style^="display:inline-block;width:300px;height:250px;"]
 commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##div[style^="float:right;diplay:block;height:100px;width:100%;"]
 tooply.com##div[style^="position:fixed; bottom:0px; left:50%; margin-left:-379px; width:728px; height:90px;"]
 mcetv.fr##div[style^="width: 300px;font-style: none;height: 250px"]
-hqq.tv##div[style^="width: 468px; height: 60px;"]
 free-reseau.fr##div[style^="width: 728px; height: 90px;"]
 algerie360.com##div[style^="width:100%; height:100px"]
 copine-coquine.com##div[style^="width:300px;height:250px"]
@@ -6022,7 +5982,6 @@ journaldesfemmes.com##div[class] + div[class] + div[class] + div[class] + div[cl
 @@||clic.reussissonsensemble.fr/click*.asp$domain=forfait-mobile-moins-cher.com
 @@||client.iraiser.eu/adserver/
 @@||clk.tradedoubler.com/click?p=$subdocument,domain=vshop.fr
-@@||comeadvertisewithus.com/ad$script,third-party
 @@||costacroisieres.fr/B2C/SharedResources/js/popunder.js
 @@||cstatic.weborama.fr/js/advertiser/wbo_performance.js$domain=pmu.fr
 @@||daily-*.fr/images/*///pages/*_300x250.png
@@ -6137,7 +6096,6 @@ journaldesfemmes.com##div[class] + div[class] + div[class] + div[class] + div[cl
 @@||stcwbd.com/ads/plugins/jwplayer/player.swf$domain=eurosport.fr|ozap.com|puretrend.com
 @@||stickyads.adswizz.com/www/components/videocomponent.swf$object-subrequest,domain=cherie25.fr|nrj.fr|nrj12.fr|rireetchansons.fr
 @@||syndication.exoclick.com/ads.php?type=468x60&$script,domain=maxdebrideur.com
-@@||thevideo.me/js/ads.js$script,domain=thevideo.me
 @@||toshiba.fr/innovation/download_drivers_bios.jsp?
 @@||tradedoubler.com^$domain=emv3.com|teads.fr
 @@||vbs-ads.s3.amazonaws.com^$domain=premiere.fr
@@ -6214,13 +6172,11 @@ love-hinax.com#@#.publicite
 maghrebspace.net#@#.publicite_gauche
 imdb.com#@#.publicity
 comptoir-hardware.com,openload.co#@#.text_ads
-deezer.com##.text_ads
 maghrebspace.net#@#.top-publicite
 geekdefrance.fr#@#.topads
 wanimo.com#@#div[id^="div-gpt-ad-"]
 ! forumactif.com
-,3oloum.com,afdal-montada.com,afdalmontada.net,al-hfifa-arabians.com,almountadaalarabi.com,arabepro.com,ba7r.biz,banouta.net,forumactif.com,forumactif.org,forumalgerie.net,forumaroc.net,forumpro.fr,forums-actifs.com,frbb.net,freepalestine.biz,frenchboard.com,maghrebarabe.net,messagesrecus.com,montadalhilal.com,montadarabi.com,mousika.org#@##adsense
-own0.com,7abibomri.com,afdal-montada.com,ahlamontada.com,alamountada.com,dahek.net,forumalgerie.net,freedomsyria.com,gid3an.com,lolbb.com,montadamoslim.com,mountadactif.com,mousika.org,nojoumarab.net,tunisiarevolution.net,watanearaby.com
+3oloum.com,7abibomri.com,afdal-montada.com,afdalmontada.net,ahlamontada.com,al-hfifa-arabians.com,alamountada.com,almountadaalarabi.com,arabepro.com,ba7r.biz,banouta.net,dahek.net,forumactif.com,forumactif.org,forumalgerie.net,forumaroc.net,forumpro.fr,forums-actifs.com,frbb.net,freedomsyria.com,freepalestine.biz,frenchboard.com,gid3an.com,lolbb.com,maghrebarabe.net,messagesrecus.com,montadalhilal.com,montadamoslim.com,montadarabi.com,mountadactif.com,mousika.org,nojoumarab.net,own0.com,tunisiarevolution.net,watanearaby.com#@##adsense
 !
 !-------------------------- Anti-Adblock -------------------------!
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
@@ -6240,7 +6196,7 @@ own0.com,7abibomri.com,afdal-montada.com,ahlamontada.com,alamountada.com,dahek.n
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/advert.js$script,domain=flashx.tv
 @@/advert.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|phonandroid.com|pixelistes.com
-@@/advertisement.js$script,domain=|cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
+@@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|ouest-france.fr|silicon.fr
 @@/check.js?$script,third-party
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
@@ -6268,7 +6224,6 @@ own0.com,7abibomri.com,afdal-montada.com,ahlamontada.com,alamountada.com,dahek.n
 @@||d.adxcore.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||ddlfr.org/cdn-cgi/pe/bag2?*serve.popads.net%2FcheckInventory.php$xmlhttprequest,domain=ddlfr.org
 @@||dev-dyod.fr/styles/ads.css
-@@||domain.com/ads.html$subdocument
 @@||doubleclick.net/favicon.ico$image
 @@||doubleverify.com^$domain=kissanime.com
 @@||folihentai.eu/*.js|$script,third-party
@@ -6289,7 +6244,6 @@ own0.com,7abibomri.com,afdal-montada.com,ahlamontada.com,alamountada.com,dahek.n
 @@||mondebrideur.com/js/advert.js
 @@||mymanga.io/css/advertise.css
 @@||numerama.com/blockadblock.js$script
-@@||openload.co/adv.php$xmlhttprequest,domain=openload.co
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=crash-aerien.news|cuisineactuelle.fr|ot-boutique.fr|pcastuces.com|slideplayer.fr|vide-greniers.org|voyageforum.com
