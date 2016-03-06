@@ -398,6 +398,7 @@ _Social-Advert-
 !------------------------ Génériques popup -----------------------!
 !
 |http:*/_://$popup
+|https:*/_://$popup
 !
 &ad_domain=$popup
 &ad_path=$popup
@@ -1520,7 +1521,7 @@ _adb_728x90_$popup
 ||click.aliexpress.com^$subdocument
 ||clickbiz.fr/upload/ban/
 ||cliquojeux.com/pub/
-||cloudfront.net^$domain=flashx.pw|flashx.tv|maquillage.com|openload.co|pausefun.com|pausepeople.com|uptobox.com
+||cloudfront.net^$domain=flashx.pw|flashx.tv|maquillage.com|openload.co|pausefun.com|pausepeople.com|revclouds.com|uptobox.com
 ||cloudfront.net^$script,domain=gorillavid.in
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*?voluumdata=$popup
