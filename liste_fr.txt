@@ -3424,10 +3424,12 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||tubixe.com/site/js/*.cornerslider.
 ||tunibox.com/images/sponsors/
 ||turbo.fr/img/pocAB/
+||turfomania.fr/*-publicitaire/
 ||turfomania.fr/campagnes/
 ||turfomania.fr/habillage.css
 ||turfomania.fr/img/img-*-parier.
 ||turfomania.fr/img/pmu/
+||turfomania.fr/pub-
 ||turfomania.fr/slide-evenementiel/
 ||tuto-fr.com/pub/
 ||tutoriels-video.fr/wp-content/uploads/*/o2switch.png
@@ -4865,6 +4867,7 @@ ledauphine.com###pub-dfp-pano-top
 francebleu.fr,franceinfo.fr###pub-ftv-top
 jeu.net###pub0
 alalettre.com,habibal-tv.tk,hebdo.ch,ledemondujeu.com,matchendirect.mobi,quiveutdufromage.com###pub1
+turfomania.fr###pub1000
 dsih.fr,habibal-tv.tk,ledemondujeu.com,musculaction.com,quiveutdufromage.com###pub2
 toutpratique.com###pub23
 extremepc.fr###pub2an
@@ -5052,6 +5055,7 @@ artdeseduire.com##.ads-information
 cvya.dz##.ads-vert
 toilef1.com##.ads615x60Actu
 abrutis.com,hooper.fr,pooki.fr##.adsense
+r##.adserverHomePub405x60
 ipadsl.net##.adsl
 la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
 jeux.org##.adtitle
@@ -5734,6 +5738,7 @@ staractus.fr##a[href^="http://www.staractus.fr/rd/url.php"]
 lcouple2-2m.blogspot.com##a[href^="http://www.ta3arof.net/ads/"]
 lefigaro.fr##a[href^="http://www.ticketac.com/?utm_source="]
 ticketac.com##a[href^="http://www.ticketac.com/redirect_pub.php?"]
+turfomania.fr##a[href^="http://www.turfomania.fr/go/"]
 webfrance.com##a[href^="http://www.webfrance.com/go/"]
 webrankinfo.com##a[href^="http://www.webrankinfo.com/partenaires/"]
 free-proxy.fr##a[href^="https://account.cyberghostvpn.com?affiliate="]
@@ -6203,7 +6208,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/advert.js$script,domain=flashx.tv
 @@/advert.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|phonandroid.com|pixelistes.com
-@@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
+@@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|ouest-france.fr|silicon.fr
 @@/check.js?$script,third-party
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
@@ -6290,6 +6295,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 ###adb-enabled
 ###adb-enabled3
 ###adb-not-enabled
+###adblock-overlay
 ###adblockDetect
 #@##adblocktest
 ###advertisementjsalert
