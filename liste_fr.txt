@@ -78,6 +78,7 @@
 /ad-netc-
 /ad.bon-plan-
 /ad/banners_
+/ad2/show.php?
 /ad4mat.
 /ad_fr.
 /ad_frames/*
@@ -2643,7 +2644,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||gaara-fr.com/banbandaikana.png
 ||gabcms.org/donnes/img/banniere_
 ||game-guide.fr/*/images/pub/
-||gameblog.fr/images/oxalide_
+||gameblog.fr/images/ablock/
 ||gameblog.fr/images/promo/
 ||gameblog.fr/skins/$image
 ||gamekult.com/ajax-info/amazon-top-tout.
@@ -4461,6 +4462,8 @@ porn-tube-sexe.com,sexytout.com###\5f email_catcher
 commentcamarche.net###a0[style="background:#EFF2FB !important"]
 mappy.com###a300x600
 ecranlarge.com###aNePasManquer
+gameblog.fr###ablock_0
+gameblog.fr###ablock_1
 xboxunlimited.fr###abos
 hqq.tv,radio.co.ma###ad
 liveradio.fr###ad1
@@ -4671,6 +4674,7 @@ centerblog.net###gauche > iframe[width="300"][height="250"]
 gameblog.fr###gbFnac300
 gameblog.fr###gbPub728bas
 gameblog.fr###gb_home_sponsor
+gameblog.fr###gb_megaban
 gameblog.fr###gba300
 viamichelin.be###gdhMegaBan
 viamichelin.be,viamichelin.com###gdhMegaBanBottom
@@ -5372,6 +5376,7 @@ topsante.com##.partner-block
 youpinet.com##.partner-listing
 rtl.fr##.partner-mdl
 forumactif.com,lavenir.net##.partners
+gameblog.fr##.pave300
 fourchette-et-bikini.fr##.pavePub
 jeux.com##.pave_categ_top
 footballclubdemarseille.fr##.pb-sidebar-article
@@ -5996,7 +6001,6 @@ journaldesfemmes.com##div[class] + div[class] + div[class] + div[class] + div[cl
 @@||demo-phoenix.com^$genericblock
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/ad-remover/img/
-@@||download.gameblog.fr/images/promo/ban_premium_300.jpg
 @@||ds.serving-sys.com/BurstingRes//$object-subrequest,domain=buzzmoica.fr
 @@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
 @@||dzautos.com/swf/prix_du_neuf.swf
@@ -6205,6 +6209,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||6play.fr/publicite-$script
 @@||ads.stickyadstv.com/www/delivery/swfIndex.php?$xmlhttprequest,domain=wakanim.tv
 @@||foglio.basilic.io/ad/basilic.adsense.js
+@@||gameblog.fr/scripts/adframe.js
 @@||images.voyageforum.com^$image
 @@||ktu.sv2.biz/sv3/advertisement.js
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
