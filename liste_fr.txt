@@ -347,6 +347,7 @@
 =publicite&
 =show_ads;
 =sponsored_links_
+?action=linkpub&$popup
 ?adlink/
 ?bannertag=
 ?clickTag=
@@ -1312,11 +1313,13 @@ _adb_728x90_$popup
 ||regie3digital.com^$popup,third-party
 ||relateev.com^$popup,third-party
 ||removeadsnow.info^$popup,third-party
+||res.shopping-compare.com^$third-party
 ||rev2pub.com^$popup,third-party
 ||revsharecash.com^$popup,third-party
 ||rvfrm2005.com^$popup,third-party
 ||safelinktracker.com^$popup,third-party
 ||sezonlukdizi.com^$popup,third-party
+||shopping-compare.com^$popup,third-party
 ||shopstockoff.com^$popup,third-party
 ||silvercdn.ryukyu^$popup
 ||slutroulette.com^$popup,third-party
@@ -2812,6 +2815,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||lc2international.tv/contenus/images/nasuba-
 ||lc2international.tv/images/banners/
 ||lc2international.tv/video/pub-
+||lcd-compare.com/images/byn/
 ||le1er.net/pub-
 ||le2minutes.com/pub/
 ||leboncoin.fr^*/*-habillage-
@@ -5111,7 +5115,8 @@ jeu.info##.banniere-sj
 bdgest.com##.banniere-top
 une-recette.com##.banniere1
 une-recette.com##.bannierebas
-electromenager-compare.com,homecine-compare.com,lcd-compare.com##.bar-bottom
+electromenager-compare.com,homecine-compare.com##.bar-bottom
+lcd-compare.com##.bar-navbot
 soonnight.com##.bas_colonne
 oopsbuzz.com##.behincontent
 ebay.fr##.beta-placement
@@ -5178,6 +5183,9 @@ smartorrent.com##.btn-danger
 smartorrent.com##.btn.btn-default.btn-xs
 gamergen.com,generation-nt.com##.bup
 football365.fr,mercato365.com,rugby365.fr,sport365.fr##.bwin
+lcd-compare.com##.byn1
+lcd-compare.com##.byn2
+lcd-compare.com##.bynas
 terrafemina.com##.c-product
 omgtorrent.me##.cadre-fiche > h2:first-child + ul:last-child
 orange.fr##.campagnePUBcoldroite
