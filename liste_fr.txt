@@ -6231,7 +6231,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|rapidebrideur.com|total-sport.tv|tout-debrid.net|tout-gratuit.be|youwatch-series.com
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/advert.js$script,domain=flashx.tv
-@@/advert.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|phonandroid.com|pixelistes.com
+@@/advert.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|ouest-france.fr|silicon.fr
 @@/check.js?$script,third-party
@@ -6326,6 +6326,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 ###anti_adblock
 ###pub-haut-adblock
 ##.ad-blocking-advisor-wrapper
+##.adb-enabled
 ##.adblock_detector
 ##.adblock_floating_message
 ##.counterAdblocks
@@ -6333,7 +6334,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 traductionjeux.com###xc3d
 !
 dbz-fantasy.com#@##adTeaser
-freeiphone.fr,jetetroll.com,phonandroid.com#@##adsense
+freeiphone.fr,jetetroll.com#@##adsense
 debrideurstream.fr#@##pubdirecte
 retinaboys.com###screen_block
 iwin.com#@##sponsorText
@@ -6341,7 +6342,7 @@ fairytailmx.com#@##sponsored-ad
 forum.virtualdjing.com#@#.adFrame
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
 allocine.fr,bleach-mx.fr,goldenboys.fr,jeuxvideo.com,purepeople.com,radiocockpit.fr,srv497.fr.nf#@#.afs_ads
-dealerdunet.fr,phonandroid.com#@#.text_ads
+dealerdunet.fr#@#.text_ads
 comptoir-info.com#@#.textad
 pcastuces.com##div[style="display: block; min-height: 120px; background-color: rgb(255, 239, 156); border-top: 3px solid rgb(255, 205, 48); padding: 10px 15px; text-align: left; font-size: 1.2em;"]
 forumdz.com##div[style="width:728px; margin:0 auto; padding-bottom:1em"] + * + center
@@ -6364,6 +6365,7 @@ forumdz.com##div[style="width:728px; margin:0 auto; padding-bottom:1em"] + * + c
 @@||mon-ip.com^$elemhide
 @@||naruto-mx.net^$elemhide
 @@||partage-facile.com^$elemhide
+@@||phonandroid.com^$generichide
 @@||plus-belle-la-vie-replay.blogspot.com^$elemhide
 @@||plus-belle-la-vie-replay.blogspot.fr^$elemhide
 @@||plus-belle-la-vie-video.blogspot.com^$elemhide
