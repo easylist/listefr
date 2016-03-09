@@ -1529,10 +1529,6 @@ _adb_728x90_$popup
 ||click.aliexpress.com^$subdocument
 ||clickbiz.fr/upload/ban/
 ||cliquojeux.com/pub/
-||cloudfront.net^$domain=flashx.pw|flashx.tv|maquillage.com|openload.co|pausefun.com|pausepeople.com|revclouds.com|uptobox.com
-||cloudfront.net^$script,domain=gorillavid.in
-||cloudfront.net^*/?partner=
-||cloudfront.net^*?voluumdata=$popup
 ||cloudinary.com/hd-numerique/*/amz-300.jpg
 ||cloudlocker.biz/img/CL468-1.gif
 ||club-salopes.com/partenaires/
@@ -1551,13 +1547,6 @@ _adb_728x90_$popup
 ||crocastuce.fr/images/Boutons/
 ||croquettesbio.com/wp-content/uploads/*/skyscreeper-
 ||cyclisme-mag.com/?specialSports$popup,domain=sports.fr
-||d1izbwxtc3f9ue.cloudfront.net^
-||d1sj3yrs7ojvv7.cloudfront.net^
-||d29lpg037v41oq.cloudfront.net^
-||d2gt9oovykfp1z.cloudfront.net^
-||d2nje72ms8ylvb.cloudfront.net^
-||d2ov8u95yeeh5v.cloudfront.net^
-||d2skqnrxz11esv.cloudfront.net^
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
@@ -1567,13 +1556,11 @@ _adb_728x90_$popup
 ||deals-du-web.com^
 ||devisprox-media.s3-website-eu-west-1.amazonaws.com^
 ||devisprox.com/ld.js
-||dfzenk6ej1plw.cloudfront.net^
 ||dhtml.pornravage.com^
 ||dir-fr.com/banners/$domain=la-musique-rai.com
 ||disco-sexe.com/ban/$third-party
 ||discutfree.com^$popup,domain=netvibes.com
 ||dmcdn.net^*/Orange_PingPong/$subdocument
-||dnyjp3iys0r8o.cloudfront.net^
 ||domautcr.com/clicki/$popup
 ||dombeya.info^$subdocument
 ||downloading.to/*?k=&ban=$popup
@@ -2389,12 +2376,6 @@ blob:http://www.nextinpact.com/
 ||classistatic.com^*/img/*_Kijiji_AD_
 ||clictune.com/?ref=$subdocument
 ||clk.cpasbien.$popup
-||cloudfront.net/img/banner
-||cloudfront.net/wp-content/news/images/*/BDM300x250.gif
-||cloudfront.net/wp-content/news/images/*/city-messenger.gif
-||cloudfront.net/wp-content/news/images/*/FS11.jpg
-||cloudfront.net/wp-content/news/images/*/NATURE-AUX-BONS-SOINS.gif
-||cloudfront.net/wp-content/news/images/*/Restaurantentre2.gif
 ||clubpoker.net/medias/images/club-poker/habillages/
 ||cochoncoquin.com/templates/arfooo/images/pornkif.com-
 ||coco.fr/chat/bigban
@@ -2432,7 +2413,6 @@ blob:http://www.nextinpact.com/
 ||cupinteractive.com^*/campagne/$image,object,subdocument
 ||cyberbricoleur.com/jscripts/su.js
 ||cyclisme-mag.com/includes/*/habillage/
-||d5z42oph1suk.cloudfront.net^
 ||dailymotion.com/webapp/ads-mopub
 ||days-media.fr^*/disclaimers.js
 ||decerto.fr/adblock/
@@ -3142,6 +3122,7 @@ blob:http://www.nextinpact.com/
 ||planet-casio.com/images/partenaires/
 ||plateformemedia.com/pub/
 ||pnc-contact.com/pub/
+||pokerstars.com^*/ad/$popup
 ||pooki.fr/img/integrations/habillage
 ||pooki.fr/js/popup.
 ||porn.fr/v3/index.php?
@@ -3576,6 +3557,27 @@ blob:http://www.nextinpact.com/
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
+! cloudfront.net
+@@||cloudfront.net/?*&tid=$script
+||cloudfront.net/img/banner
+||cloudfront.net/wp-content/news/images/*/BDM300x250.gif
+||cloudfront.net/wp-content/news/images/*/city-messenger.gif
+||cloudfront.net/wp-content/news/images/*/FS11.jpg
+||cloudfront.net/wp-content/news/images/*/NATURE-AUX-BONS-SOINS.gif
+||cloudfront.net/wp-content/news/images/*/Restaurantentre2.gif
+||cloudfront.net^$domain=flashx.pw|flashx.tv|gorillavid.in|maquillage.com|openload.co|pausefun.com|pausepeople.com|revclouds.com|uptobox.com|wstream.video
+||cloudfront.net^*/?partner=
+||cloudfront.net^*?voluumdata=$popup
+||d1izbwxtc3f9ue.cloudfront.net^
+||d1sj3yrs7ojvv7.cloudfront.net^
+||d29lpg037v41oq.cloudfront.net^
+||d2gt9oovykfp1z.cloudfront.net^
+||d2nje72ms8ylvb.cloudfront.net^
+||d2ov8u95yeeh5v.cloudfront.net^
+||d2skqnrxz11esv.cloudfront.net^
+||d5z42oph1suk.cloudfront.net^
+||dfzenk6ej1plw.cloudfront.net^
+||dnyjp3iys0r8o.cloudfront.net^
 ! MacGeneration
 macg.co###block-quicktabs-bon-plans-macg-
 igen.fr,macg.co##.ebay
