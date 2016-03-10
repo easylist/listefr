@@ -2087,6 +2087,7 @@ _adb_728x90_$popup
 @@||cdn.gameplayer.io/api/$script,domain=jeux.com
 @@||cdnjeux.com/min/?$script,domain=jeux.com
 @@||googletagservices.com/tag/js/gpt.js$script,domain=jeux.com
+@@||jeux.com^$generichide
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=jeux.com
 ! fdesouche
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
