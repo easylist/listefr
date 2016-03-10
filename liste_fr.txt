@@ -3596,6 +3596,7 @@ foot01.com##abc
 foot01.com##div > a > img
 foot01.com##div > h1 + a
 foot01.com##div > ul > li + div
+foot01.com##div[style^="background"]
 foot01.com##h2 + * > img
 foot01.com##h3 + * > img
 foot01.com##li > div > img
