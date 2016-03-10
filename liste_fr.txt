@@ -6780,3 +6780,10 @@ skiplimite.tv#@##ad300x250
 @@||zevpn.net^$generichide
 ! Goyave lab
 @@||demo-gk.goyavelab.com^$genericblock
+@@||dtf.goyavelab.com^$script
+@@||pagead2.googlesyndication.com^$script,domain=thebadbuzz.com
+@@||thebadbuzz.com^$genericblock
+! Filters pécifique utiliser avec $genericblock
+|http://$popup,script,domain=thebadbuzz.com
+|https://$popup,script,domain=thebadbuzz.com
+||doubleclick.net^$domain=thebadbuzz.com
