@@ -476,6 +476,8 @@ _Social-Advert-
 ?runauction=*?crr=*&ctbust=$popup
 _adb_300x250_$popup
 _adb_728x90_$popup
+|http:*&tid=$popup
+|http:*?tid=$popup
 ||adv-mybankai.$popup
 !
 !----------------------- Annonceurs -----------------------!
@@ -3563,7 +3565,6 @@ blob:http://www.nextinpact.com/
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
 ! cloudfront.net
-||cloudfront.net/*tid=$script
 ||cloudfront.net/img/banner
 ||cloudfront.net/wp-content/news/images/*/BDM300x250.gif
 ||cloudfront.net/wp-content/news/images/*/city-messenger.gif
@@ -3571,7 +3572,9 @@ blob:http://www.nextinpact.com/
 ||cloudfront.net/wp-content/news/images/*/NATURE-AUX-BONS-SOINS.gif
 ||cloudfront.net/wp-content/news/images/*/Restaurantentre2.gif
 ||cloudfront.net^$domain=flashx.pw|flashx.tv|gorillavid.in|maquillage.com|openload.co|pausefun.com|pausepeople.com|revclouds.com|uptobox.com|wstream.video
+||cloudfront.net^*&tid=$script
 ||cloudfront.net^*/?partner=
+||cloudfront.net^*?tid=$script
 ||cloudfront.net^*?voluumdata=$popup
 ||d1izbwxtc3f9ue.cloudfront.net^
 ||d1sj3yrs7ojvv7.cloudfront.net^
@@ -3580,6 +3583,7 @@ blob:http://www.nextinpact.com/
 ||d2nje72ms8ylvb.cloudfront.net^
 ||d2ov8u95yeeh5v.cloudfront.net^
 ||d2skqnrxz11esv.cloudfront.net^
+||d3cknv5e7a99jg.cloudfront.net^
 ||d5z42oph1suk.cloudfront.net^
 ||dfzenk6ej1plw.cloudfront.net^
 ||dnyjp3iys0r8o.cloudfront.net^
