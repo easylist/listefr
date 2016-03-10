@@ -3559,7 +3559,7 @@ blob:http://www.nextinpact.com/
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
 ! cloudfront.net
-||cloudfront.net/?*&tid=$script
+||cloudfront.net/*tid=$script
 ||cloudfront.net/img/banner
 ||cloudfront.net/wp-content/news/images/*/BDM300x250.gif
 ||cloudfront.net/wp-content/news/images/*/city-messenger.gif
