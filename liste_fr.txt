@@ -118,6 +118,7 @@
 /adv/pads.
 /Adv728.
 /adv_forum-
+/advertisement?
 /advertisingView?
 /af-250x250.
 /af-300x250.
@@ -5599,6 +5600,7 @@ souk.ma##.vbanner-wrap
 aujourdhui-en-france.fr##.venteprivee
 amateur2sexe.fr,pornovore.fr##.video-pub
 bioalaune.com##.view-pub
+wakanim.tv##.vjs-error-display
 viamichelin.fr##.vm-gdhmegaban
 viamichelin.fr##.vm-pub-home-google
 viamichelin.be,viamichelin.fr##.vm-pub-home300
@@ -6271,6 +6273,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
 @@||ptitchef.com/js/ads.js
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
+@@||wakanim.tv^*/video/advertisement?idepisode=
 !
 ||nikopik.com/wp-content/themes/nikopik-wordpress-theme/assets/js/nikopik.js
 ||pubdirecte.com^$~collapse,domain=debrideurstream.fr
