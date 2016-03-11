@@ -2098,7 +2098,8 @@ http://*/hok/$domain=electromenager-compare.com|homecine-compare.com|lcd-compare
 @@||cdnjeux.com/min/?$script,domain=jeux.com
 @@||googletagservices.com/tag/js/gpt.js$script,domain=jeux.com
 @@||jeux.com^$generichide
-|http://$popup,script,subdocument,third-party,xmlhttprequest,domain=jeux.com
+@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=jeux.com
+|http://$popup,script,subdocument,xmlhttprequest,domain=jeux.com
 ! fdesouche
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 |http*://lc.cx^$popup,domain=fdesouche.com
@@ -4604,7 +4605,6 @@ planet-series.tv###bottomBanner
 magicmaman.com###boutiqueRight
 previmeteo.com###box_4_pub
 laprovince.be###box_immovlan
-jeux.com###bttmnasal
 francoischarron.com###buttonbanner
 conseils-courseapied.com###cadre-vignette-carnet
 soonnight.com###cadre_partenaire
@@ -4653,8 +4653,6 @@ videostep.com###divMainBrandVideo
 cinenews.be###divMaxiBanner
 sympatico.ca###divSiteBorderLeft
 sympatico.ca###divSiteBorderRight
-jeux.com###div_test_sky
-jeux.com###div_test_sky_right
 boursier.com###doc-partenaires
 images-et-cadres.fr###dogear
 cdiscount.com###downMall
@@ -4756,10 +4754,6 @@ manageo.fr###homeSolutionsWrapper
 tsa-algerie.com###home_immo
 telechargementgratuits.com###hopdream
 lesoir.be###horoscope-promo
-jeux.com###hp_megaban_bottom
-jeux.com###hp_megaban_footer
-jeux.com###hp_megaban_top
-jeux.com###hp_pave_bottom
 touslesprix.com###hright
 confidentielles.com###hunt
 viamichelin.be###idAFSRoadsheetTop
@@ -4781,7 +4775,6 @@ question-de-vie.com###instance-atom-text-42
 question-de-vie.com###instance-atom-text-43
 loisirados.com###intersticiel
 conseils-courseapied.com###ja-banner
-jeux.com###jeu_pub_pave_recogames
 jeuxonline.info###jol-sidebar-ad
 cheznous.fr###js-alerte-popup
 lemonde.fr###js_deroule_rubrique_marque
@@ -5214,7 +5207,6 @@ metronews.fr##.campaign-push-wrapper
 lejsl.com##.campaignImage
 lacentrale.fr##.caradisiac
 psychologies.com##.carrousel_partenaires
-jeux.com##.cat_megaban_footer
 a18ans.com,jamaisjouis.com,liste2cul.com,vidule.com##.catcher
 girlsgogames.fr##.categoryBanner
 akelys.com##.cellulePUB
@@ -5241,7 +5233,6 @@ allocine.fr##.d_table-cell.vam
 senscritique.com##.delt21-banner
 senscritique.com##.demh-product
 logitheque.com##.description + .telechargement
-jeux.com##.description_jeu + div[id]
 grosnews.com##.deuxcarres
 rtl.fr##.dfp-pave
 factornews.com##.div_pub_728_90
@@ -5418,7 +5409,6 @@ rtl.fr##.partner-mdl
 forumactif.com,lavenir.net##.partners
 gameblog.fr##.pave300
 fourchette-et-bikini.fr##.pavePub
-jeux.com##.pave_categ_top
 lachainemeteo.com##.paves_bas.pub_lcm
 lachainemeteo.com##.paves_haut.pub_lcm
 lachainemeteo.com##.paves_haut_bis.pub_lcm
@@ -5510,7 +5500,6 @@ metronews.fr##.push-component
 souk.ma##.rbanner-wrap
 imobie.fr##.rec_download
 lemonde.fr##.reco_cross_site_outbrain
-jeux.com##.recommended_games > div[id]
 gonzai.com##.red-one-third
 lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.references
 jeux-e.com##.rek_ban
@@ -5918,7 +5907,6 @@ developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
 dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
-jeux.com##img[src*="data:image/;base64,"]
 nextinpact.com##img[src*="data:image/png;base64,"]
 playfrance.com##img[src="http://images.playfrance.com/v4/blank_1x1.gif"]
 sortir.eu##img[src^="http://www.lille.sortir.eu/portal_banneradmin/"]
@@ -5944,7 +5932,6 @@ lien-torrent.com##p > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
 debrideurstreaming.com##script[src="http://www.pubdirecte.com/script/pop.php?id=48523&ref=23821"] + table[style="float:right; margin-right:50px;"]
 boursorama.com##style + div > .visible-desktop:first-child
-jeux.com##style + div[class]:last-child
 boursorama.com##sup.main[style="display: block;"]
 netbusiness-team.com##table[background="../img/banner/pub_verticale.gif"]
 photos-persos-sexy.com##table[style="border-style: solid; border-width: 0px; background-color: #ffffff; width: 100%; height: 280px;"]
