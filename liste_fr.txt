@@ -35,6 +35,7 @@
 -banner-300x250.
 -pub-ads/
 -viceads.
+-viewability.
 .ad4mat.$domain=~ad4mat.com
 .adfarm1.
 .adserverpub.$domain=~adserverpub.com
@@ -303,6 +304,7 @@
 /renklam/*
 /rotation.php?idaff=
 /rotator.php?zone=$script
+/sas-banner-
 /script/pop.php?id=
 /sdk-ads.
 /sdk-ads/*
@@ -5663,6 +5665,7 @@ espritlib.com##a[href*="/goto_part.php?"]
 centre-audition.com,easyzic.com,films-regarder.com,info-algerie.com##a[href*="/redirect."]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
 sosvirus.net##a[href*="/vpn/?aff="]
+demo-gk.goyavelab.com##a[href*="?"]
 nouvelobs.com##a[href*="?partner="]
 challenges.fr,nouvelobs.com##a[href*="?partnerlinkid="]
 audiofanzine.com,sosvirus.net##a[href*="?utm_source="]
@@ -6777,11 +6780,10 @@ skiplimite.tv#@##ad300x250
 @@||xiaomi-m3.fr^$generichide
 @@||zevpn.net^$generichide
 ! Goyave lab
-@@||demo-gk.goyavelab.com^$genericblock
 @@||dtf.goyavelab.com^$script
 @@||pagead2.googlesyndication.com^$script,domain=thebadbuzz.com
 @@||thebadbuzz.com^$genericblock
 ! Filters pécifique utiliser avec $genericblock
-|http://$popup,script,domain=thebadbuzz.com
-|https://$popup,script,domain=thebadbuzz.com
+|http://$popup,script,domain=goyavelab.com|thebadbuzz.com
+|https://$popup,script,domain=goyavelab.com|thebadbuzz.com
 ||doubleclick.net^$domain=thebadbuzz.com
