@@ -1700,6 +1700,7 @@ http://*/hok/$domain=electromenager-compare.com|homecine-compare.com|lcd-compare
 ||kloopicash.com/upload/ban/
 ||kokinette.com/ban/$third-party
 ||la-paysanne.com/ban/$third-party
+||lacentrale.fr^$domain=nouvelobs.com
 ||ladmedia.fr/includes/cobrand/*/habillage/
 ||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
 ||lagitane.com/ban-sites-phares/
@@ -3065,10 +3066,10 @@ blob:http://www.nextinpact.com/
 ||niooz.fr/pub.php
 ||nofrag.com/v2k7/s/*.jpg
 ||nokenny.com/mechouga|
-||nouvelobs.com/rue89/*_standard.
+||nouvelobs.com/file/zones/partners/
 ||nouvelobs.com/tools/smart.php
 ||nouvelobs.com^*/iframe-boxes/
-||nouvelobs.com^*/partenariat89/
+||nouvelobs.com^*/partenaria
 ||novaplanet.com^*/widget/pub_pave_
 ||nrj.fr/images/NRJ/accrochePub300.jpg
 ||nrj.fr/PUB/
@@ -3827,6 +3828,7 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ###liens_sponsorises
 ###ligatus_art_foot
 ###ligatus_art_right
+###ligatus_right_column
 ###middle-publicite
 ###milieu_pub
 ###module_publicite
@@ -4461,6 +4463,7 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 ##a[href^="http://givemeclip.com/"]
 ##a[href^="http://go.wwwdg.net/"]
 ##a[href^="http://goodbeautyjob.com/"]
+##a[href^="http://partner.global-espace.com/"]
 ##a[href^="http://styleapplicationzillion.com/"]
 ##a[href^="http://www.espace-plus.net/"]
 ##a[href^="http://www.leguide.com/lettre/"]
@@ -4536,6 +4539,7 @@ upp-auteurs.fr###annonce_a
 upp-auteurs.fr###annonce_b
 macbidouille.com###arch
 pubeco.fr###aroundShop
+nouvelobs.com###article-colonne-partenaires
 autoreflex.com###arx_home_partenaires
 comment-economiser.fr###astuce_pub
 lanouvellegazette.be,laprovince.be,nordeclair.be###autovlan-widget
@@ -4793,7 +4797,6 @@ lfp.fr###lien_billeterie
 commentcamarche.net###lig_benchmark_commentcamarche_smartbox
 free.fr###lig_free_home_smartbox
 orange.fr###lig_orange_web_ang_smartbox_home
-nouvelobs.com###ligatus_right_column
 degroupnews.com###link_pub
 journaldugeek.com###linkhabillage
 ouedkniss.com###list-last-stores
@@ -4948,8 +4951,6 @@ jeu.net###pubz
 search.free.fr###pud_search
 liligo.fr###pulledbanner
 liligo.fr###pulledbanner-right-top
-nouvelobs.com###random-div-id-1_masterblock
-nouvelobs.com###random-div-id-1_shopping
 pubeco.fr###recommandPublis
 parolesmania.com###rectangle > .thinbox div[style="height: 250px;"]
 lexpress.mu###region-user-second
@@ -5266,7 +5267,6 @@ frenchpopcorn.com##.footer_vpn
 gratuit-xxx.com##.footerboost
 supertoinette.com##.g-ads-336-250
 nautiljon.com##.gad
-nouvelobs.com##.gam-holder
 lemonde.fr##.global.services
 pagesjaunes.fr##.goodDealBlock
 leboncoin.fr##.google
@@ -5402,6 +5402,7 @@ lachainemeteo.com##.partenaire_simple
 lachainemeteo.com##.partenaire_simple_home
 lachainemeteo.com##.partenaire_triple
 boursorama.com,caradisiac.com,ficam.ma,lesechos.fr,lfp.fr,mangario.fr,sexandtrash.com##.partenaires
+nouvelobs.com##.partenaires-services
 gameblog.fr,lexpress.fr,swissquote.ch##.partner
 topsante.com##.partner-block
 youpinet.com##.partner-listing
@@ -5547,7 +5548,6 @@ boursorama.com##.smart
 slappyto.net##.sonicprice
 forumconstruire.com,forumpiscine.com##.sospon_contener
 playtv.fr##.span-sidebar
-nouvelobs.com##.spectacles
 spi0n.com##.spion_single_pub
 lagazettedescommunes.com##.spons
 jeuxvideo.com##.sponso
@@ -5652,6 +5652,7 @@ artdeseduire.com##a[href*="/?part=ads"]
 webactus.net##a[href*="/?utm_source="]
 clubic.com##a[href*="/?utm_source=clubic&utm_medium=partenaire"]
 espritlib.com##a[href*="/goto_part.php?"]
+nouvelobs.com##a[href*="/les-bons-plans-shopping/"]
 centre-audition.com,easyzic.com,films-regarder.com,info-algerie.com##a[href*="/redirect."]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
 sosvirus.net##a[href*="/vpn/?aff="]
@@ -5728,7 +5729,6 @@ brunotritsch.fr##a[href^="http://fr.webmaster-rank.info/stat/affiliate/"]
 abidjan.net,igen.fr,lnc.nc,macg.co##a[href^="http://goo.gl/"]
 moviz-telecharger.com##a[href^="http://moviz-telecharger.com/films-en-qualité-hd-"]
 opensubtitles.org##a[href^="http://osdb.link/go?"]
-nouvelobs.com##a[href^="http://partner.global-espace.com/"]
 jamsvu.fr##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
 annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
 cinemafantastique.net##a[href^="http://pubs.ecranfantastique.net/"]
@@ -5736,7 +5736,6 @@ brunotritsch.fr##a[href^="http://rdinews.com/ads/"]
 needsandmoods.com##a[href^="http://sigma-beauty.7eer.net/"]
 planet-series.tv##a[href^="http://spal.sousstimes.com/offer?"]
 sport.fr##a[href^="http://sport-kiff.com/"]
-nouvelobs.com##a[href^="http://tempsreel.nouvelobs.com/les-bons-plans-shopping/"]
 tirage-gagnant.com##a[href^="http://tirage-gagnant.com/tirage/"] > img
 omgtorrent.me##a[href^="http://toroadvertisingmedia.com"]
 radins.com##a[href^="http://track.radins.com/regie.php?"]
@@ -6104,7 +6103,6 @@ journaldesfemmes.com##div[class] + div[class] + div[class] + div[class] + div[cl
 @@||network.aufeminin.com/crossdomain.xml$domain=aufeminin.com
 @@||nikel-dominique.com^*/pagepeel-
 @@||notre-planete.info/medias/pub_300x250.png
-@@||nouvelobs.com/*@top
 @@||novaplanet.com/RealMedia/ads/adstream_nx.ads/www.novaplanet.com/radionova/player/
 @@||novaplanet.com/sites/all/themes/nova/plugins/smartbanner/jquery.smartbanner.js
 @@||oberon-media.com/Advertisement/
