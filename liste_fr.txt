@@ -729,6 +729,7 @@ _adb_728x90_$popup
 ||ctx-traffic.com^$third-party
 ||cubicleoffers.com^$third-party
 ||cufcw.com^$third-party
+||cupinteractive.com^$third-party
 ||cyberflirt.fr^$third-party
 ||dailyofferservice.com^$third-party
 ||danstonfion.com^$third-party
@@ -738,6 +739,7 @@ _adb_728x90_$popup
 ||dekalee.fr^$third-party
 ||dekalee.net^$third-party
 ||deliv.prisma-presse.com^$third-party
+||delivery.vidible.tv^
 ||dfast.net^$third-party
 ||digital-metric.com^$third-party
 ||direct-foot.co^$third-party
@@ -2643,7 +2645,7 @@ blob:http://www.nextinpact.com/
 ||gameblog.fr/images/ablock/
 ||gameblog.fr/images/promo/
 ||gameblog.fr/skins/$image
-||gamekult.com/ajax-info/amazon-top-tout.
+||gamekult.com/ajax-info/amazon-
 ||gamekult.com/i/partenaires/
 ||gameonly.com^*/include/pub/
 ||gamer-network.fr/wp-content/*/g2a-
@@ -6263,6 +6265,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||ads.stickyadstv.com/www/delivery/swfIndex.php?$xmlhttprequest,domain=wakanim.tv
 @@||foglio.basilic.io/ad/basilic.adsense.js
 @@||gameblog.fr/scripts/adframe.js
+@@||gamekult.com/i/partenaires/adframe.js
 @@||images.voyageforum.com^$image
 @@||ktu.sv2.biz/sv3/advertisement.js
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
