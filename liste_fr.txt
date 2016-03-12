@@ -5229,6 +5229,7 @@ strastv.com##.container_pubh_02
 lemonde.fr##.conteneur_ligatus
 quetelecharger.com##.content-bloc-pub
 lexpress.fr##.content_inside_partner
+thebadbuzz.com##.contenu_pop
 lemonde.fr##.contenus_amis
 lotusnoir.info##.countclick
 turbo.fr##.croco.betclic
@@ -6776,7 +6777,8 @@ skiplimite.tv#@##ad300x250
 @@||zevpn.net^$generichide
 ! Goyave lab
 @@||dtf.goyavelab.com^$script
-@@||pagead2.googlesyndication.com^$script,domain=thebadbuzz.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=thebadbuzz.com
+@@||pagead2.googlesyndication.com/pub-config/*/ca-pub-$domain=thebadbuzz.com
 @@||thebadbuzz.com^$genericblock
 ! Filters pécifique utiliser avec $genericblock
 |http://$popup,script,domain=goyavelab.com|thebadbuzz.com
