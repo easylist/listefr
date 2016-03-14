@@ -3612,6 +3612,8 @@ igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 ||refurbgeneration.com/*/getEbay.
 ! Foot01
 foot01.com###primary img
+foot01.com###primary li > [style^="background"]
+foot01.com##.pub + * > [style^="background"]
 foot01.com##.pub + li
 foot01.com##.sidebar img
 foot01.com##abc
