@@ -480,6 +480,7 @@ _Social-Advert-
 ?id_rotation=$popup
 ?preview=*&pgid*&from_sz=$popup
 ?runauction=*?crr=*&ctbust=$popup
+?voluumdata=$popup
 _adb_300x250_$popup
 _adb_728x90_$popup
 |http:*&tid=$popup
@@ -3309,6 +3310,7 @@ blob:http://www.nextinpact.com/
 ||starter.fm/blog/*/bg_$image
 ||starter.fm/images/*/bg_
 ||static.ccm2.net/*/img/appstv/
+||static.flashx.tv/exp/
 ||static.hitek.fr/img/bg.png
 ||static.hitek.fr/img/emoticons/
 ||static.hitek.fr/img/integrations/
@@ -3582,15 +3584,15 @@ blob:http://www.nextinpact.com/
 ||cloudfront.net/wp-content/news/images/*/FS11.jpg
 ||cloudfront.net/wp-content/news/images/*/NATURE-AUX-BONS-SOINS.gif
 ||cloudfront.net/wp-content/news/images/*/Restaurantentre2.gif
-||cloudfront.net^$domain=flashx.pw|flashx.tv|gorillavid.in|maquillage.com|openload.co|pausefun.com|pausepeople.com|revclouds.com|thewatchseries.to|uptobox.com|wstream.video
+||cloudfront.net^$domain=flashx.cc|flashx.pw|flashx.tv|gorillavid.in|maquillage.com|openload.co|pausefun.com|pausepeople.com|revclouds.com|thewatchseries.to|uptobox.com|wstream.video
 ||cloudfront.net^*&tid=$script
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*?tid=$script
-||cloudfront.net^*?voluumdata=$popup
 ||d1izbwxtc3f9ue.cloudfront.net^
 ||d1sj3yrs7ojvv7.cloudfront.net^
 ||d29lpg037v41oq.cloudfront.net^
 ||d2gt9oovykfp1z.cloudfront.net^
+||d2mrcwg3epew1i.cloudfront.net^
 ||d2nje72ms8ylvb.cloudfront.net^
 ||d2ov8u95yeeh5v.cloudfront.net^
 ||d2skqnrxz11esv.cloudfront.net^
