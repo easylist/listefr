@@ -3662,6 +3662,10 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 macg.co##.news + div > img
 @@||img.macg.co/ad_bomb/$image,~third-party
 macg.co##script + div > img
+! begeek.fr
+begeek.fr###sidebar > div > img
+@@||begeek.fr^*/ad$image,~third-party
+begeek.fr##script + div > img
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -6070,7 +6074,6 @@ journaldesfemmes.com##div[class] + div[class] + div[class] + div[class] + div[cl
 @@||bannieres.telethon.fr/compteurs/$image,subdocument
 @@||beaute-test.com/service/show_ads.js$script
 @@||beead.fr^$domain=doc-etudiant.fr|ouifm.fr|play.nrj.fr|radiofg.com|radioneo.org|replay.fr|rfm.fr|virginradio.fr
-@@||begeek.fr/thumb/ad_bomb/$image,~third-party
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
