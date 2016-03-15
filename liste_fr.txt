@@ -186,6 +186,7 @@
 /default_ad/*
 /default_ads_
 /delivery/*?bannerid=
+/delivery/afr.
 /delivery/ajs.
 /delivery/ck.php?
 /delivery/ifrm.
@@ -283,6 +284,7 @@
 /pub_315_250.
 /pub_428x90.
 /pub_72890_
+/pub_affiche.
 /pub_delivery.
 /pub_header.
 /pub_ver.
@@ -336,6 +338,7 @@
 /wads-blank.
 /wbdds.
 /widget.advertisement.
+/widget_ads/*
 /widgets-bazarchic-
 /widgets-zoom-annonce-shopping.
 /widgets-zoom-mytravelchic.
@@ -5657,7 +5660,7 @@ fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
 forumconstruire.com##[class^="habillage"]
-guide-piscine.fr##[class^="pub_"]
+ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
 guide-piscine.fr##[class^="regie_"]
 wawacity.su##[class^="secure-dl-"]
 senscritique.com##[data-sc-ad-element-event="product-click"]
