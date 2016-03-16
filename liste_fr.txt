@@ -3675,9 +3675,9 @@ macg.co##.news + * > img
 @@||img.macg.co/ad_bomb/$image,~third-party
 macg.co##script + * > img
 ! begeek.fr
-begeek.fr###sidebar > div > img
+begeek.fr###sidebar img
 @@||begeek.fr^*/ad$image,~third-party
-begeek.fr##script + div > img
+begeek.fr##[type="text/javascript"] + * > img
 !
 !------------------ Éléments génériques -----------------!
 !
