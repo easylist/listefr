@@ -205,6 +205,7 @@
 /EpubDelivery/*
 /fillerAds/*
 /fod_ad_
+/footerPartnerOffers.js
 /fra/ads/*
 /generateAds.
 /gestionpub/*
@@ -1547,9 +1548,9 @@ _adb_728x90_$popup
 ||cdn.a9fast.com^*/misc/partner/
 ||cdn.installclick.fr^*/ad.html
 ||cdn.m6web.fr/creatives/assets/
-||cdscdn.com/imagesok/tetiere/partners/
-||cdscdn.com/other/banniere_
-||cdscdn.com^*/footerPartnerOffers.js
+||cdscdn.com^*/banniere_
+||cdscdn.com^*/partenaires/
+||cdscdn.com^*/partners/
 ||centredecontrole.biz^$subdocument
 ||choisir-ma-banque.com^$domain=challenges.fr
 ||choubijoux.com/image/banniere-$third-party
