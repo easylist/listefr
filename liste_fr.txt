@@ -3667,9 +3667,9 @@ linternaute.com##.layout_main > div[class*="9"]
 ! commentcamarche.net
 commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[class] > div[class]:first-child > div[class]:first-child + div[class]:last-child
 ! www.macg.co
-macg.co##.news + div > img
+macg.co##.news + * > img
 @@||img.macg.co/ad_bomb/$image,~third-party
-macg.co##script + div > img
+macg.co##script + * > img
 ! begeek.fr
 begeek.fr###sidebar > div > img
 @@||begeek.fr^*/ad$image,~third-party
