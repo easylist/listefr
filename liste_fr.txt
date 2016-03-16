@@ -394,12 +394,15 @@ _Social-Advert-
 ||com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com
 !
 ! CDN filters
+/cdn-cgi/pe/bag2?*?tid=
 /cdn-cgi/pe/bag2?*ad6media.fr
 /cdn-cgi/pe/bag2?*adcash.com
+/cdn-cgi/pe/bag2?*adstract.com
 /cdn-cgi/pe/bag2?*adverline.com
 /cdn-cgi/pe/bag2?*affiliation-france.com
 /cdn-cgi/pe/bag2?*cpmstar.com
 /cdn-cgi/pe/bag2?*exponential.com
+/cdn-cgi/pe/bag2?*komoona.com
 /cdn-cgi/pe/bag2?*mobisla.com
 /cdn-cgi/pe/bag2?*oclasrv.com
 /cdn-cgi/pe/bag2?*omnitagjs.com
@@ -3600,6 +3603,7 @@ blob:http://www.nextinpact.com/
 ||cloudfront.net^*&tid=$script
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*?tid=$script
+||d1ebha2k07asm5.cloudfront.net^
 ||d1izbwxtc3f9ue.cloudfront.net^
 ||d1sj3yrs7ojvv7.cloudfront.net^
 ||d29lpg037v41oq.cloudfront.net^
