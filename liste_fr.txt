@@ -417,10 +417,8 @@ _Social-Advert-
 !
 !------------------------ Génériques popup -----------------------!
 !
-|http:*/_://$popup
-|http://*/__://$popup
-|https:*/_://$popup
-|https://*/__://$popup
+|http://*_://$popup
+|https://*_://$popup
 !
 &ad_domain=$popup
 &ad_path=$popup
@@ -468,6 +466,7 @@ _Social-Advert-
 /iframePopUpLoader.$popup
 /null/*/Redirect.$popup,third-party
 /out.php?link=t$popup
+/out?zoneId=$popup
 /partner/click/*$popup
 /pdv/track.php?$popup
 /pop?dfp_id=$popup
@@ -1190,6 +1189,7 @@ _adb_728x90_$popup
 ||adzmath.com^$third-party
 ||edgecastcdn.net^$third-party
 ||edgexads.com^$third-party
+||greatwork.info^$third-party
 ||kappacdn.net^$third-party
 ||ninjapd.com^$third-party
 ||pkthop.com^$third-party
@@ -1332,6 +1332,7 @@ _adb_728x90_$popup
 ||neigh.info^$popup,third-party
 ||newmediapln.net^$popup,third-party
 ||nextlandingads.com^$popup,third-party
+||november-lax.com^$popup,third-party
 ||oclasrv.com^$popup,third-party
 ||offpageads.com^$popup,third-party
 ||ohmyad.co^$popup,third-party
@@ -1403,6 +1404,7 @@ _adb_728x90_$popup
 ||youradexchange.com^$popup,third-party
 ||youwatchtab.com^$popup,third-party
 ||z-defense.com^$popup,third-party
+||zeroredirect*.com^$popup
 ||zeroredirect2.com^$popup,third-party
 ||zwaar.net^$popup,third-party
 ||zwaar.org^$popup,third-party
@@ -3607,7 +3609,7 @@ blob:http://www.nextinpact.com/
 ||cloudfront.net/wp-content/news/images/*/FS11.jpg
 ||cloudfront.net/wp-content/news/images/*/NATURE-AUX-BONS-SOINS.gif
 ||cloudfront.net/wp-content/news/images/*/Restaurantentre2.gif
-||cloudfront.net^$domain=allvid.ch|flashx.cc|flashx.pw|flashx.tv|gorillavid.in|hadik.info|maquillage.com|openload.co|pausefun.com|pausepeople.com|revclouds.com|thewatchseries.to|uptobox.com|wstream.video
+||cloudfront.net^$domain=allvid.ch|flashx.cc|flashx.pw|flashx.tv|gorillavid.in|hadik.info|maquillage.com|openload.co|pausefun.com|pausepeople.com|revclouds.com|thewatchseries.to|toofy.tv|uptobox.com|wstream.video
 ||cloudfront.net^*&tid=$script
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*?tid=$script
@@ -3623,6 +3625,7 @@ blob:http://www.nextinpact.com/
 ||d2xcimzl9ytdi0.cloudfront.net^
 ||d33dsfwui17p31.cloudfront.net^
 ||d3cknv5e7a99jg.cloudfront.net^
+||d42tbok7l2bg1.cloudfront.net^
 ||d5z42oph1suk.cloudfront.net^
 ||dfzenk6ej1plw.cloudfront.net^
 ||dnyjp3iys0r8o.cloudfront.net^
