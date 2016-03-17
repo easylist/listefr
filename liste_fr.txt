@@ -3682,6 +3682,10 @@ commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[cla
 macg.co##.news + * > img
 macg.co##[style^="background"]
 macg.co##script + * > img
+! igen.fr
+igen.fr##.news + * > img
+igen.fr##[style^="background"]
+igen.fr##script + * > img
 ! begeek.fr
 begeek.fr###sidebar img
 @@||begeek.fr^*/ad$image,~third-party
