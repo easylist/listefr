@@ -3686,6 +3686,10 @@ macg.co##script + * > img
 igen.fr##.news + * > img
 igen.fr##[style^="background"]
 igen.fr##script + * > img
+! watchgeneration.fr
+watchgeneration.fr##.news + * > img
+watchgeneration.fr##[style^="background"]
+watchgeneration.fr##script + * > img
 ! begeek.fr
 begeek.fr###sidebar img
 @@||begeek.fr^*/ad$image,~third-party
