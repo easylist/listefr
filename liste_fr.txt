@@ -3695,8 +3695,9 @@ watchgeneration.fr##[style^="background"]
 watchgeneration.fr##script + * > img
 ! begeek.fr
 begeek.fr###sidebar img
-@@||begeek.fr^*/ad$image,~third-party
+begeek.fr##[style^="background"]
 begeek.fr##[type="text/javascript"] + * > img
+begeek.fr##script + a
 !
 !------------------ Éléments génériques -----------------!
 !
