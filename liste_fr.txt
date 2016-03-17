@@ -5308,6 +5308,7 @@ lexpress.fr##.content_inside_partner
 thebadbuzz.com##.contenu_pop
 lemonde.fr##.contenus_amis
 lotusnoir.info##.countclick
+games.softgames.de##.cpi-banner-description-content
 turbo.fr##.croco.betclic
 blumei-piano.com##.cyt-affi-wrapper
 allocine.fr##.d_table-cell.vam
@@ -6330,7 +6331,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/advert.js$script,domain=flashx.tv
 @@/advert.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
-@@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
+@@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|jeux.fr|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|ouest-france.fr|silicon.fr
 @@/check.js?$script,third-party
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
@@ -6343,6 +6344,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||ktu.sv2.biz/sv3/advertisement.js
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
 @@||ptitchef.com/js/ads.js
+@@||softgames.de/advertisement.js
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
 @@||wakanim.tv^*/video/advertisement?idepisode=
 !
