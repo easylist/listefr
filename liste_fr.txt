@@ -322,6 +322,7 @@
 /renklam/*
 /rotation.php?idaff=
 /rotator.php?zone=$script
+/rsense-ad.
 /sas-banner-
 /script/pop.php?id=
 /sdk-ads.
@@ -476,6 +477,7 @@ _Social-Advert-
 /pop?dfp_id=$popup
 /pop_packcpm.$popup
 /popads.$popup
+/popunderoncl.$popup
 /popuplp/btag/*$popup
 /promos/popeachclick/*$popup
 /puopen.php?$popup
@@ -553,6 +555,7 @@ _adb_728x90_$popup
 ||adcpm.com^$third-party
 ||addserving.com^$third-party
 ||adecolo.com^$third-party
+||adefficiency.net^$third-party
 ||adfever.com^$third-party
 ||adhoc1.net^
 ||adhost.se^$third-party
@@ -1378,12 +1381,14 @@ _adb_728x90_$popup
 ||smart-dn.com^$popup,third-party
 ||smartadserver.com^$popup,third-party
 ||solution.weborama.fr^$popup,third-party
+||soosooka.com^$popup,third-party
 ||spaceshipads.com^$popup,third-party
 ||sporary.eu^$popup,third-party
 ||srvmd30s.com^$popup,third-party
 ||startnewtab.com^$popup,third-party
 ||stream4stream.com^$popup,third-party
 ||sushis.kim^$popup,third-party
+||tag.regieci.com^$popup,third-party
 ||targetctracker.com^$popup,third-party
 ||teracreative.com^$popup,third-party
 ||terrapops.com^$popup,third-party
@@ -6030,7 +6035,7 @@ ajoutezvotresite.com,bricozone.be##img[width="160"][height="600"]
 vatry.com##img[width="300"][height="190"]
 israelmagazine,maliweb.net,soonnight.com,undernews.fr##img[width="300"][height="250"]
 supplychainmagazine.fr##img[width="468"]
-echangegagnant.com,genhit.com,israelmagazine.co.il##img[width="468"][height="60"]
+echangegagnant.com,espace-francophone.com,genhit.com,israelmagazine.co.il##img[width="468"][height="60"]
 israelmagazine.co.il##img[width="600"][height="90"]
 forum.soirnet.fr##img[width="720"][height="100"]
 maliweb.net,undernews.fr##img[width="728"][height="90"]
