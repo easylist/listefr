@@ -422,9 +422,6 @@ _Social-Advert-
 !
 !------------------------ Génériques popup -----------------------!
 !
-|http://*_://$popup
-|https://*_://$popup
-!
 &ad_domain=$popup
 &ad_path=$popup
 &adcid=$popup
@@ -3635,7 +3632,7 @@ blob:http://www.nextinpact.com/
 ||cloudfront.net/wp-content/news/images/*/FS11.jpg
 ||cloudfront.net/wp-content/news/images/*/NATURE-AUX-BONS-SOINS.gif
 ||cloudfront.net/wp-content/news/images/*/Restaurantentre2.gif
-||cloudfront.net^$domain=1host.name|allvid.ch|clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exashare.com|exity.info|flashx.cc|flashx.pw|flashx.tv|folue.info|gighub.net|golmamak.info|gorillavid.in|gover.info|guib.info|hadik.info|halazoun.info|hehehe.info|kechekch.info|kerkessni.info|khaltek.info|khalto.info|maldi.info|maquillage.com|nassira.info|openload.co|openload.info|opert.info|oping.info|pausefun.com|pausepeople.com|revclouds.com|rors.info|sega3.info|stiwine.info|thand.info|thewatchseries.to|tiziwezo.info|toofy.tv|trafe.info|tribicha.info|uptobox.com|userscloud.com|utte.info|wstream.video|youwatch.org|ywhah.info|zidni.info
+||cloudfront.net^$domain=1host.name|allvid.ch|clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exashare.com|exity.info|flashx.cc|flashx.pw|flashx.tv|folue.info|gighub.net|golmamak.info|gorillavid.in|gover.info|guib.info|hadik.info|halazoun.info|hehehe.info|kechekch.info|kerkessni.info|khaltek.info|khalto.info|maldi.info|maquillage.com|nassira.info|openload.co|openload.info|opert.info|oping.info|pausefun.com|pausepeople.com|revclouds.com|rors.info|sega3.info|stiwine.info|thand.info|thewatchseries.to|tiziwezo.info|toofy.tv|trafe.info|tribicha.info|uploadrocket.net|uptobox.com|userscloud.com|utte.info|wstream.video|youwatch.org|ywhah.info|zidni.info
 ||cloudfront.net^*&tid=$script
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*?tid=$script
@@ -3643,6 +3640,7 @@ blob:http://www.nextinpact.com/
 ||d1izbwxtc3f9ue.cloudfront.net^
 ||d1sj3yrs7ojvv7.cloudfront.net^
 ||d29lpg037v41oq.cloudfront.net^
+||d2b560qq58menv.cloudfront.net^
 ||d2gt9oovykfp1z.cloudfront.net^
 ||d2mrcwg3epew1i.cloudfront.net^
 ||d2nje72ms8ylvb.cloudfront.net^
