@@ -119,6 +119,7 @@
 /ads_block
 /adscores/*
 /adsdino.
+/adserverimages/*
 /adsleft.
 /adslider.
 /adsmouse.
@@ -3011,6 +3012,7 @@ blob:http://www.nextinpact.com/
 ||mamytwink.com^*/images/partenaires/
 ||manager-online.fr/styles/mo3/template/instant.png
 ||manga-news.com/public/banners/
+||manga-news.com/redirection.php?$popup
 ||mangavatars.com/include/partenaires.php
 ||mangavatars.com/include/topsite.php3
 ||manifone.com/banner/
@@ -3578,6 +3580,7 @@ blob:http://www.nextinpact.com/
 ||webfrance.com/images/*72890.
 ||webfrance.com/images/*980250.
 ||webfrance.com/images/back*.
+||webftp.ki-oon.com^
 ||weblettres.net/@images/pub/
 ||webmarchand.be/js/ov.js.php?
 ||webrankinfo.com/js/*-adsense.
@@ -4702,6 +4705,7 @@ jolpress.com###block-acp-block-publicite-top
 franceculture.fr###block-fcbloc-publicite
 lemouv.fr###block-lemouv_bloc-pub_ftv_right
 lemouv.fr,mouv.fr###block-lemouv_bloc-pub_ftv_top
+manga-news.com###block-up
 voyages-sncf.com###block-vsct_vsca-megabanner
 franceinfo.fr###block-zerobloc-pub-ftv-carre
 bricoleurdudimanche.com###block_a_decouvrir
@@ -4861,6 +4865,7 @@ touslesprix.com###hleft
 winamax.fr###home-banner
 amateur2sexe.fr###home-p2
 webcamtoy.com###home-sponsor
+manga-news.com###homePromoEd
 manageo.fr###homeSolutionsWrapper
 tsa-algerie.com###home_immo
 telechargementgratuits.com###hopdream
@@ -5360,6 +5365,7 @@ ruedesjoueurs.com##.esspo736x110
 easyvoyage.com##.esv-pub-300-250
 evene.fr##.evene-partners-button-flx
 1001excuses.fr##.excuses[style="padding-left:105px;padding-top:25px;"]
+manga-news.com##.external-link
 humanite.fr##.field-name-bloc-pub-1ere-sidebar-contenu-3
 humanite.fr##.field-name-pub-sidebar-first-content
 lefigaro.fr##.fig-adgps
@@ -5906,6 +5912,7 @@ braindamaged.fr##a[href^="index.php?adclick="]
 windsurfjournal.com##a[href^="link,"]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
+manga-news.com##a[href^="redirection.php?"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 wawacity.su##a[onclick$="()"]
 t411.ch##a[onclick*="base64"]
@@ -6208,7 +6215,7 @@ journaldesfemmes.com##div[class] + div[class] + div[class] + div[class] + div[cl
 @@||m2radio.fr/include/player/flash.swf?$domain=~live.m2stream.fr
 @@||mac4ever.com/min.php?$script
 @@||malakoffmederic.com/entreprise/*/affiliation/
-@@||manga-news.com/public/banners/slide-
+@@||manga-news.com/public/banners/slide-$image
 @@||media*.musique.woopic.com^*/400x250/$image,domain=musique.orange.fr
 @@||media.eurolive.com^$domain=live18ans.com
 @@||media.the-adult-company.com^$domain=celibataires.fr
@@ -6364,7 +6371,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@.png#$image,domain=bbstreaming.com|cacastream.com|crash-aerien.aero|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|rapidebrideur.com|total-sport.tv|tout-debrid.net|tout-gratuit.be|youwatch-series.com
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/advert.js$script,domain=flashx.tv
-@@/advert.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
+@@/advert.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
 @@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|jeux.fr|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turbo.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|ouest-france.fr|silicon.fr
 @@/check.js?$script,third-party
