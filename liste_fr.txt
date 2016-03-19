@@ -46,6 +46,7 @@
 .com/adpro.
 .dz/ads/
 .dz/ads_
+.fr/_adv/
 .fr/ads.
 .fr/ads/
 .fr/adv.
@@ -66,6 +67,8 @@
 .publicite.
 .showads.
 .wbdds.
+/*300x250_pub.
+/*728x90_pub.
 /160x300_
 /300_250-2.
 /468x60banner.
@@ -2393,6 +2396,7 @@ blob:http://www.nextinpact.com/
 ||ca-centrest.fr/content/binary/980x152.jpg
 ||ca-sudrhonealpes.fr/content/binary/full_promo_
 ||ca-sudrhonealpes.fr/content/binary/habillage_
+||cacastream.com/video-300x250.php
 ||cache.itele.fr/content/skins/$image
 ||cadremploi.fr/emploi/jsp/include/home/bloc_promos.jsp
 ||caledoccaz.com/PUBS/
@@ -5787,6 +5791,7 @@ dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-d
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 planet-series.tv##a[href*="planet-series.tv/offer?"]
 magicmaman.com##a[href*="smartadserver.com/call/cliccommand/"]
+cacastream.com##a[href*="xmediaserve.com"]
 pmu.fr##a[href="/mon-pmu/easypari"]
 french-movies.net##a[href="/videosplus18.html"]
 search-torrent.com##a[href="/videox.php"]
@@ -6358,7 +6363,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 !
 @@.gif#$image,domain=automobile-sportive.com|youwatch-series.com
 @@.jpg#$image,domain=dpstream.cc|naruto-mx.net
-@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|rapidebrideur.com|total-sport.tv|tout-debrid.net|tout-gratuit.be|youwatch-series.com
+@@.png#$image,domain=bbstreaming.com|cacastream.com|crash-aerien.aero|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|rapidebrideur.com|total-sport.tv|tout-debrid.net|tout-gratuit.be|youwatch-series.com
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/advert.js$script,domain=flashx.tv
 @@/advert.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
@@ -6483,6 +6488,7 @@ pcastuces.com##div[style="display: block; min-height: 120px; background-color: r
 @@||2folie.com^$elemhide
 @@||annoncedesexe.com^$elemhide
 @@||bbstreaming.com^$elemhide
+@@||cacastream.com^$generichide
 @@||crash-aerien.aero^$elemhide
 @@||crash-aerien.news^$generichide
 @@||danslescoulisses.com^$elemhide
