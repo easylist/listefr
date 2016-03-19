@@ -114,6 +114,7 @@
 /ads/banner03.
 /ads/bigbox?
 /ads?p=
+/ads?req_id=
 /ads?spot_id=
 /ads_90_728.
 /ads_block
@@ -914,6 +915,7 @@ _adb_728x90_$popup
 ||merciconseil.com^$third-party
 ||misstrends.com^$third-party
 ||misterbell.com^$third-party
+||mixadvert.com^$third-party
 ||mobawaba.com^$third-party
 ||mobidude.com^$third-party
 ||mobligo.com^$third-party
@@ -6383,6 +6385,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||gamekult.com/i/partenaires/adframe.js
 @@||images.voyageforum.com^$image
 @@||jeu-concours.biz/show_ads.js
+@@||jeuxvideo-live.com/js/ads.js
 @@||ktu.sv2.biz/sv3/advertisement.js
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
 @@||ptitchef.com/js/ads.js
