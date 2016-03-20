@@ -204,7 +204,7 @@
 /delivery/rta/*
 /display.php?ec=
 /display/?affid=
-/display/?method=redirect&force=$subdocument
+/display/?method=$subdocument
 /display_pub.
 /doubleclick_dmm/*
 /drawpub2.
