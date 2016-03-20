@@ -361,6 +361,7 @@
 /wp-content/plugins/baw-bon-plan/*
 /XnewadsX/*
 /xpopunder.js
+/zoneads/*
 /zones?zone=$subdocument
 ://adscdn.
 ://adspaces.
@@ -386,6 +387,8 @@
 _46860_
 _970x250.
 _ad_unit.
+_adclick_$subdocument
+_adpath_$subdocument
 _ads_728.
 _ads_banner_
 _ads_toroadv.
@@ -742,6 +745,7 @@ _adb_728x90_$popup
 ||clintads.com^$third-party
 ||clk100.com^$third-party
 ||clkmon.com^$third-party
+||cms-skin.com^$third-party
 ||coindushopping.fr^$third-party
 ||coloredview.com^$third-party
 ||comandclick.com^$third-party
@@ -1649,9 +1653,6 @@ _adb_728x90_$popup
 ||easy-charme.com/pub/
 ||ecchi.fr/banieres/
 ||echangegagnant.com/gagnant468.png
-||edgecastcdn.net/*/ClioRamadan_300x600-
-||edgecastcdn.net^*/cdn-alg360/*/bledi2.swf
-||edgecastcdn.net^*/cdn-alg360/*/carre3bis.png
 ||edi-static.fr/Images/Pubs/
 ||education.ti.com^$domain=ti.bank.free.fr
 ||effiliation.com/servlet/effi.show?
@@ -2282,6 +2283,7 @@ blob:http://www.nextinpact.com/
 ||algerie-focus.com/wp-content/*/CF_Pub_
 ||algerie-focus.com/wp-content/themes/zenko/images/axa*.swf
 ||algerie-focus.com/wp-content/uploads/*/banner-600x250-
+||algerie360.com/pub360/
 ||algerie360.com/wp-content/uploads/*/Banniere
 ||algerieclic.com/images/bandeau/
 ||algerieclic.com/images/baniere_principale/
@@ -2560,7 +2562,6 @@ blob:http://www.nextinpact.com/
 ||ecrans.fr/pub.
 ||edcom.fr/images/habillage/
 ||edenflirt.co/pdv/*/?comfrom=*&cf2=$popup
-||edgecastcdn.net/8068BF/cdn-alg360/wp-content/uploads/*/Banner-Tag-
 ||editeurjavascript.com/bans/
 ||editeurjavascript.com/bans2/
 ||editions-humanis.com/Pubs/
@@ -3764,6 +3765,7 @@ begeek.fr##script + a
 ###ad-728x90_MB_Bas_Desktop
 ###ad-728x90_MB_Top_Desktop
 ###ad-bg-transparent
+###ad-iframe
 ###ad-planetveo
 ###ad-rectangle-1-dst
 ###ad-rectangle-2-dst
@@ -3902,6 +3904,7 @@ begeek.fr##script + a
 ###google-adsence-300-250
 ###google_adsencetxt
 ###gpt-leaderboard-top
+###gwd-ad
 ###haut_site_pub
 ###head-pub
 ###head_pub
@@ -3993,7 +3996,9 @@ begeek.fr##script + a
 ###pub468x60_match
 ###pub728
 ###pub728bas
+###pub728caracpub
 ###pub728x90
+###pub970acc
 ###pubBandeau
 ###pubBanner
 ###pubBottomRight
@@ -4549,6 +4554,7 @@ begeek.fr##script + a
 ##.wrapperPub
 ##.yourcolor-ads
 ##.zonepub
+##GWD-DOUBLECLICK
 ##[data-type="ligatus-script"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
 ##a[href*=".php?ad_id="]
@@ -4585,6 +4591,7 @@ begeek.fr##script + a
 ##a[href^="https://www.g2a.com/r/"] > img
 ##a[target="_blank"][href*="/banners/click/"]
 ##div[onclick*="/regiedeep.php?"]
+##gwd-doubleclick
 ##section[onclick*="/publicite-300-250/"]
 !
 !----------------------- Éléments -----------------------!
@@ -6034,6 +6041,7 @@ mcetv.fr##div[style^="width: 300px;font-style: none;height: 250px"]
 free-reseau.fr##div[style^="width: 728px; height: 90px;"]
 algerie360.com##div[style^="width:100%; height:100px"]
 copine-coquine.com##div[style^="width:300px;height:250px"]
+algerie360.com##div[style^="width:336px !important; height:280px !important;"]
 lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
