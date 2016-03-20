@@ -1824,7 +1824,6 @@ _adb_728x90_$popup
 ||melusinecreation.com/banniere/
 ||mes-dialogues.net^*/mes-dialogues-js.php?
 ||metaffiliation.com/emplacement.php
-||meteofrance.com^*/vignettepartenaire/
 ||methode-finance.com^$popup,third-party
 ||meyclub.com/search?q=$popup,third-party
 ||mini-jeux.com/jeuday.js$third-party
@@ -5784,6 +5783,7 @@ ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
 guide-piscine.fr##[class^="regie_"]
 wawacity.su##[class^="secure-dl-"]
 senscritique.com##[data-sc-ad-element-event="product-click"]
+meteofrance.com##[href*=".xiti.com"] > img
 omgtorrent.me##[href^="/telechargement/"]
 meilleur-vpn.biz##[href^="http://meilleur-vpn.biz/visit/"]
 turbo.fr##[id^="ABbypass"]
