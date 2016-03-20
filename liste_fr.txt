@@ -16,6 +16,7 @@
 &ad_path=
 &adplace=
 &ads_size_id=
+&campaign_key=
 &cwadformat=
 &playadw=
 &subpartenaire=
@@ -182,6 +183,7 @@
 /bansfakes_st.php?ref=
 /blog/ads_
 /bnr468.
+/bnr?*=$script
 /brightcoveAds.
 /bshow.php?dimension=$script,third-party
 /campagne/redir/*
@@ -902,6 +904,7 @@ _adb_728x90_$popup
 ||livewithbinaryoptions.com^$third-party
 ||loading-delivery2.com^$third-party
 ||loractu.pro^$third-party
+||madadsmedia.com^$third-party
 ||madameglad.com^$third-party
 ||madcents.ma^$third-party
 ||madison-ads.net^$third-party
