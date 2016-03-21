@@ -404,6 +404,7 @@ _emplacements.php?f=728x90
 _liens_sponsorises.
 _logic_on_ad.
 _pages_ad.
+_pop.php?z=
 _pub_728.
 _publ1c1te.
 _publicitaire/
@@ -512,6 +513,7 @@ _Social-Advert-
 ?voluumdata=$popup
 _adb_300x250_$popup
 _adb_728x90_$popup
+_pop.php?z=$popup
 |http:*&tid=$popup
 |http:*?tid=$popup
 ||adv-mybankai.$popup
@@ -705,6 +707,7 @@ _adb_728x90_$popup
 ||bigour.net^$third-party
 ||bizhentai.com^$third-party
 ||biznolimit.com^$third-party
+||blockadz.com^$third-party
 ||blogbang.com^$third-party
 ||blueste.diet^$third-party
 ||bntags.com^$third-party
