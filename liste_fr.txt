@@ -1953,6 +1953,7 @@ _pop.php?z=$popup
 ||readersdigest.ca/*/images/promobrick_
 ||redirecting.ws/?$subdocument,third-party
 ||refgratuit.fr/images/pub/
+||refurbgeneration.com/*/getEbay.
 ||regie-agricole.com^*/pubs^$third-party
 ||regietrk.jetm-tech.net^
 ||register.ma-box-media.fr/?lang=$popup,third-party
@@ -2632,6 +2633,7 @@ blob:http://www.nextinpact.com/
 ||fifa.com/images/layout/sponsors/
 ||fifostream.tv/video.html
 ||files-save.com/noyaux/pub/
+||files.macg.co/macgupload/$image
 ||filmhentai.fr/tpl2/tools/
 ||filmhentaiporno.com/boost/
 ||filmon-ads.com^$popup
@@ -3020,6 +3022,7 @@ blob:http://www.nextinpact.com/
 ||ma-dz.com/souq/templates/aimed/images/hhes1112.jpg
 ||ma-reduc.com/img/meahabillage/
 ||macbidouille.com/banners/
+||macg.co/*/scripts/pub/getEbay_
 ||madcine.com/xhtml/pubd*.html
 ||maghrebemergent.com/images/banners/
 ||maghrebemergent.info/images/banners/
@@ -3682,15 +3685,6 @@ blob:http://www.nextinpact.com/
 ||dqy6k7wqsbont.cloudfront.net^
 ||gold-file.com^$third-party
 ||mobawaba.com^$third-party
-! MacGeneration
-macg.co###block-quicktabs-bon-plans-macg-
-igen.fr,macg.co##.ebay
-igen.fr,macg.co##.refurb
-igen.fr,macg.co##.refurb_left
-igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
-||files.macg.co/macgupload/$image
-||macg.co/*/scripts/pub/getEbay_
-||refurbgeneration.com/*/getEbay.
 ! Foot01
 foot01.com###primary img
 foot01.com###primary li > [style^="background"]
@@ -3731,6 +3725,7 @@ linternaute.com##.layout_main > div[class*="9"]
 commentcamarche.net##div[class] + div[class] + div[class] + div[class] + div[class] > div[class]:first-child > div[class]:first-child + div[class]:last-child
 ! macg.co
 macg.co##.news + * > img
+macg.co##.sidebar img
 macg.co##[style^="background"]
 macg.co##script + * > img
 ! igen.fr
@@ -4227,6 +4222,7 @@ begeek.fr##script + a
 ##.adsense-sidebar
 ##.adsense_300
 ##.adsense_unit
+##.adserverHomePub405x60
 ##.adspave
 ##.adspopup
 ##.adspopupfilm
@@ -4560,6 +4556,7 @@ begeek.fr##script + a
 ##.videoOverAdSmall
 ##.vud_ads
 ##.wads-script
+##.wgt-publicite-300-250
 ##.widget-advert
 ##.widget-advert-300-600
 ##.widget-advert-728
@@ -4734,6 +4731,7 @@ jolpress.com###block-acp-block-publicite-top
 franceculture.fr###block-fcbloc-publicite
 lemouv.fr###block-lemouv_bloc-pub_ftv_right
 lemouv.fr,mouv.fr###block-lemouv_bloc-pub_ftv_top
+macg.co###block-quicktabs-bon-plans-macg-
 manga-news.com###block-up
 voyages-sncf.com###block-vsct_vsca-megabanner
 franceinfo.fr###block-zerobloc-pub-ftv-carre
@@ -5228,7 +5226,6 @@ artdeseduire.com##.ads-information
 cvya.dz##.ads-vert
 toilef1.com##.ads615x60Actu
 abrutis.com,hooper.fr,pooki.fr##.adsense
-r##.adserverHomePub405x60
 ipadsl.net##.adsl
 la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
 jeux.org##.adtitle
@@ -5387,6 +5384,7 @@ factornews.com##.div_pub_728_90
 dailymotion.com##.dm_widget_advert_iabrighttitle
 cdiscount.com##.downinbackMaullContainer
 blog2mature.com##.download
+igen.fr,macg.co##.ebay
 oujdacity.net,passion-net.fr##.ebuzzing_box
 tsa-algerie.com##.ekk-footer-ad-wrapper
 wp-infinity.com##.entry-featured
@@ -5659,6 +5657,8 @@ imobie.fr##.rec_download
 lemonde.fr##.reco_cross_site_outbrain
 gonzai.com##.red-one-third
 lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.references
+igen.fr,macg.co##.refurb
+igen.fr,macg.co##.refurb_left
 jds.fr##.regie_20
 jeux-e.com##.rek_ban
 frandroid.com##.relatedviatopic
@@ -5757,7 +5757,6 @@ vube.com##.vube-grid-feature
 rtl.be##.w-content-details-ligatus
 almountakhab.com,staractus.fr##.wallpaper-link
 slappyto.net##.webrox._300x250.centered
-##.wgt-publicite-300-250
 lefigaro.fr##.widget-bazar_chic
 lefigaro.fr##.widget-le_guide
 lefigaro.fr##.widget-paruvendu
@@ -5876,6 +5875,7 @@ kerix.net##a[href^="LienExterne.asp?"]
 ladepeche.pf##a[href^="ads/"]
 youwatch-series.com##a[href^="dpstream.php?"]
 zetorrents.com##a[href^="http://acces."]
+igen.fr,macg.co,refurbgeneration.com##a[href^="http://ad.zanox.com/"]
 sosiphone.com##a[href^="http://ad.zanox.com/ppc/"]
 boursorama.com##a[href^="http://ads."]
 lotusnoir.info##a[href^="http://adv-myninja."]
