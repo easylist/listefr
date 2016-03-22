@@ -3736,6 +3736,7 @@ igen.fr##.sidebar img
 igen.fr##[id^="lig_"] + * + * + * > img
 igen.fr##[style^="background"]
 igen.fr##script + * > img
+igen.fr##script + div + *
 ! watchgeneration.fr
 watchgeneration.fr##.news + * > img
 watchgeneration.fr##[id^="lig_"] + * + * + * > img
