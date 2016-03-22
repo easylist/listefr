@@ -3758,7 +3758,9 @@ begeek.fr##a > img
 begeek.fr##script + a
 begeek.fr##script + div + *
 ! turbo.fr
-@@||turbo.fr/style/images/ad_bomb/$image,~third-party
+turbo.fr##[style^="background"]
+turbo.fr##img + script + [id]
+turbo.fr##script + div > img
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -5173,6 +5175,7 @@ liligo.fr###top-banner-smart
 jeuxonline.info###top-leader-wrapper
 itele.fr###topBanner
 turfomania.fr###topLigne
+turbo.fr###topShopper
 competition.dz###top_banner
 webstar-auto.com###top_body_left
 webstar-auto.com###top_body_right
