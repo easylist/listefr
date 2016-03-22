@@ -3729,6 +3729,7 @@ macg.co##.sidebar img
 macg.co##[id^="lig_"] + * + * + * > img
 macg.co##[style^="background"]
 macg.co##script + * > img
+macg.co##script + div + *
 ! igen.fr
 igen.fr##.news + * > img
 igen.fr##.sidebar img
