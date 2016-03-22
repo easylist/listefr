@@ -3752,6 +3752,7 @@ igen.fr##script + div + *
 watchgeneration.fr##.news + * > img
 watchgeneration.fr##[id^="lig_"] + * + * + * > img
 watchgeneration.fr##[style^="background"]
+watchgeneration.fr##div + p + div > img
 watchgeneration.fr##script + * > img
 watchgeneration.fr##script + div + *
 ! begeek.fr
