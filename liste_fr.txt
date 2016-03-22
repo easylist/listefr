@@ -3744,7 +3744,9 @@ watchgeneration.fr##script + * > img
 begeek.fr###sidebar img
 begeek.fr##[style^="background"]
 begeek.fr##[type="text/javascript"] + * > img
+begeek.fr##a > img
 begeek.fr##script + a
+begeek.fr##script + div + *
 ! turbo.fr
 @@||turbo.fr/style/images/ad_bomb/$image,~third-party
 !
