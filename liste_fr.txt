@@ -3742,6 +3742,7 @@ watchgeneration.fr##.news + * > img
 watchgeneration.fr##[id^="lig_"] + * + * + * > img
 watchgeneration.fr##[style^="background"]
 watchgeneration.fr##script + * > img
+watchgeneration.fr##script + div + *
 ! begeek.fr
 begeek.fr###sidebar img
 begeek.fr##[style^="background"]
