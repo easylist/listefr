@@ -199,6 +199,7 @@
 /cshoppingbox.
 /default_ad/*
 /default_ads_
+/defclick_ad/*
 /delivery/*?bannerid=
 /delivery/afr.
 /delivery/ajs.
@@ -919,6 +920,7 @@ _pop.php?z=$popup
 ||marshmallow-digital.com^$third-party
 ||maxidivx.com^$third-party
 ||media-clic.com^$third-party
+||mediagraph.com^$third-party
 ||mediapeo2.com^$third-party
 ||mediavoice.com^$third-party
 ||medncom.com^$third-party
@@ -6560,6 +6562,7 @@ pcastuces.com##div[style="display: block; min-height: 120px; background-color: r
 @@||annoncedesexe.com^$elemhide
 @@||bbstreaming.com^$elemhide
 @@||cacastream.com^$generichide
+@@||cheminots.net^$generichide
 @@||crash-aerien.aero^$elemhide
 @@||crash-aerien.news^$generichide
 @@||danslescoulisses.com^$elemhide
