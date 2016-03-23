@@ -3738,8 +3738,8 @@ macg.co##.view-content > div + div + [id]
 macg.co##[id^="lig_"] + * + * + * > img
 macg.co##[style^="background"]
 macg.co##script + * > img
-macg.co##script + div + [id]
 forums.macg.co#@#script + div + [id]
+macg.co##script + div + [id]
 macg.co##script + div + p + [class]
 ! igen.fr
 igen.fr##.news + * > img
@@ -3764,7 +3764,6 @@ begeek.fr##a > img
 begeek.fr##script + a
 begeek.fr##script + div + *
 ! turbo.fr
-turbo.fr##[style^="background"]
 turbo.fr##img + script + [id]
 turbo.fr##p + div > img
 turbo.fr##script + div > img
