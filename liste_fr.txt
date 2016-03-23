@@ -3765,6 +3765,7 @@ begeek.fr##script + div + *
 ! turbo.fr
 turbo.fr##[style^="background"]
 turbo.fr##img + script + [id]
+turbo.fr##p + div > img
 turbo.fr##script + div > img
 !
 !------------------ Éléments génériques -----------------!
