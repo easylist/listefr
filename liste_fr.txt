@@ -3736,8 +3736,8 @@ macg.co##.view-content > div + div + [id]
 macg.co##[id^="lig_"] + * + * + * > img
 macg.co##[style^="background"]
 macg.co##script + * > img
-macg.co##script + div + [id]
 forums.macg.co#@#script + div + [id]
+macg.co##script + div + [id]
 macg.co##script + div + p + [class]
 macg.co##script + div + p + [id]
 ! igen.fr
@@ -6516,7 +6516,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||sascdn.com/diff/js/smart.js$domain=femmeactuelle.fr
 @@||scan-manga.fr^$stylesheet
 @@||smartadserver.com/call/pubj/$object-subrequest,domain=ecranlarge.com
-@@||smartadserver.com/call/pubj/$script,domain=alloclips.com|ecranlarge.com|itele.fr|player.canalplus.fr|portail.free.fr
+@@||smartadserver.com/call/pubj/$script,domain=alloclips.com|ecranlarge.com|itele.fr|larvf.com|player.canalplus.fr|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|portail.free.fr
 @@||smartadserver.com/diff/$object-subrequest,domain=ecranlarge.com
 @@||static-v.com/lib/js/_source/blockadblock.js$script,domain=vtele.ca
