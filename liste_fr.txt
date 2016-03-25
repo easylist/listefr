@@ -383,7 +383,6 @@
 =publicite&
 =show_ads;
 =sponsored_links_
-?action=linkpub&$popup
 ?adlink/
 ?bannertag=
 ?clickTag=
@@ -443,6 +442,7 @@ _Social-Advert-
 !
 &ad_domain=$popup
 &ad_path=$popup
+&ad_spv=$popup
 &adcid=$popup
 &adtv=*_bnmngr_$popup
 &bann=$popup
@@ -511,6 +511,7 @@ _Social-Advert-
 /xdirect.html?$popup
 =partenariat&utm_campaign=$popup
 =pubdirecte&$popup
+?action=linkpub&$popup
 ?adCampaign=$popup
 ?id_rotation=$popup
 ?preview=*&pgid*&from_sz=$popup
@@ -571,6 +572,7 @@ _pop.php?z=$popup
 ||addserving.com^$third-party
 ||adecolo.com^$third-party
 ||adefficiency.net^$third-party
+||adexc.net^$third-party
 ||adfever.com^$third-party
 ||adhoc1.net^
 ||adhost.se^$third-party
@@ -1238,6 +1240,7 @@ _pop.php?z=$popup
 ||pkthop.com^$third-party
 ||pxltgr.com^$third-party
 ||tagsrvcs.com^$third-party
+||thisclick.network^$third-party
 ||tworismo.com^$third-party
 ||webzodes.com^$third-party
 !
@@ -1421,6 +1424,7 @@ _pop.php?z=$popup
 ||teracreative.com^$popup,third-party
 ||terrapops.com^$popup,third-party
 ||the-adult-company.com^$popup,third-party
+||thisclick.network^$popup,third-party
 ||tonlive.com^$popup,third-party
 ||torriderencontre.com^$popup,third-party
 ||track2cash.com^$popup,third-party
@@ -5915,6 +5919,7 @@ immigrer.com##a[href^="/p/bannieres/"]
 confidentielles.com##a[href^="/rc_787_"]
 jeuxvideo.com##a[href^="/sponso/"] img
 beaute-test.com##a[href^="/stat/clic.php?"]
+omgtorrent.me##a[href^="/telecharger-torrent/"]
 emule-island.ru##a[href^="/tutoriaux/usenext-dl.php?"]
 seedpeer.eu##a[href^="/usenet.php?"]
 kerix.net##a[href^="LienExterne.asp?"]
@@ -6560,6 +6565,8 @@ forums.macg.co#@#script + div + [id]
 ###anti_adblock
 ###fnAdblockingOverlay
 ###pub-haut-adblock
+##.AdblockMessage
+##.AdblockMessage_msg
 ##.ad-blocking-advisor-wrapper
 ##.adBlockNotification
 ##.adBlockNotificationOverlay
