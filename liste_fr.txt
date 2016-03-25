@@ -227,6 +227,7 @@
 /get.cgi?*=banner
 /get_banniere.php?$subdocument
 /getadsor.
+/goclick?ref=$script
 /iframe_pub.
 /iframe_pub_
 /IFrameStoreReciever.
@@ -256,6 +257,7 @@
 /nugg.add.
 /null/*/Tag.$script,third-party
 /openwindow.js?puurl=
+/otherads/*
 /page_pub.
 /pagepub.
 /pages_ads.
@@ -1139,6 +1141,7 @@ _pop.php?z=$popup
 ||tr553.com^$third-party
 ||track136.com^$third-party
 ||track2cash.com^$third-party
+||track321.com^$third-party
 ||track351.com^$third-party
 ||trackor.net^$third-party
 ||trackvoluum.com^$third-party
@@ -1428,6 +1431,7 @@ _pop.php?z=$popup
 ||videoroow.com^$popup,third-party
 ||vixnixxer.com^$popup,third-party
 ||vkunlock3.eu^$popup,third-party
+||votdengi.club^$popup,third-party
 ||webprod.cybertesteurs.com^$popup,third-party,domain=~iss.net
 ||white-eyes.com^$popup,third-party
 ||word-my.com^$popup,third-party
