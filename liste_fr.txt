@@ -6487,6 +6487,7 @@ forums.macg.co#@#script + div + [id]
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
 @@||ptitchef.com/js/ads.js
 @@||softgames.de/advertisement.js
+@@||static.autoplus.fr/_js/ads/ad$script
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
 @@||wakanim.tv^*/video/advertisement?idepisode=
 !
@@ -6575,6 +6576,9 @@ forums.macg.co#@#script + div + [id]
 ##.adBlockNotification
 ##.adBlockNotificationOverlay
 ##.adb-enabled
+##.adbd-background
+##.adbd-message
+##.adbd-wrapper
 ##.adblock_detector
 ##.adblock_floating_message
 ##.counterAdblocks
