@@ -4001,6 +4001,7 @@ turbo.fr##script + div > img
 ###msgNoPub
 ###news-droite-publicite
 ###news_pub_centre
+###nuggadcontentadIF
 ###pavePub
 ###pave_pub
 ###pavepub
@@ -4621,6 +4622,7 @@ turbo.fr##script + div > img
 ##.zonepub
 ##GWD-DOUBLECLICK
 ##[data-type="ligatus-script"]
+##[id^="div-gpt-ad-"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
 ##a[href*=".php?ad_id="]
 ##a[href*=".php?ads_id="]
