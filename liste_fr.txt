@@ -126,7 +126,6 @@
 /adsleft.
 /adslider.
 /adsmouse.
-/adswrappermsni.
 /adv/pads.
 /Adv728.
 /adv_forum-
@@ -201,7 +200,6 @@
 /default_ads_
 /defclick_ad/*
 /delivery/*?bannerid=
-/delivery/afr.
 /delivery/ajs.
 /delivery/ck.php?
 /delivery/ifrm.
@@ -603,7 +601,6 @@ _pop.php?z=$popup
 ||adpub.eu^$third-party
 ||adqia.com^$third-party
 ||adrife.com^$third-party
-||adrunnr.com^$third-party
 ||ads-peinture.fr^$third-party
 ||ads-x.com^$third-party
 ||adschemist.com^$third-party
@@ -678,7 +675,6 @@ _pop.php?z=$popup
 ||aknod.com^$third-party
 ||akuitsdre.in^$third-party
 ||albopa.work^$third-party
-||algovid.com^$third-party
 ||alldomserv2.com^$third-party
 ||allo-audience.fr^$third-party
 ||alloclick.com^$third-party
@@ -851,7 +847,6 @@ _pop.php?z=$popup
 ||geniusinstaller.com^$third-party
 ||gestion2web.com^$third-party
 ||getfile321.com^$third-party
-||gets-web.space^$third-party
 ||gingermedia.com^$third-party
 ||giwcini.ru^$third-party
 ||goodaction.com^$third-party
@@ -882,7 +877,6 @@ _pop.php?z=$popup
 ||illyx.com^$third-party
 ||imediastreams.com^$third-party
 ||imgpromo.easyrencontre.com^$third-party
-||impore.com^$third-party
 ||inshopr.com^$third-party
 ||intergi.com^$third-party
 ||internetpourtout.com^$third-party
@@ -914,7 +908,6 @@ _pop.php?z=$popup
 ||livewithbinaryoptions.com^$third-party
 ||loading-delivery2.com^$third-party
 ||loractu.pro^$third-party
-||madadsmedia.com^$third-party
 ||madameglad.com^$third-party
 ||madcents.ma^$third-party
 ||madison-ads.net^$third-party
@@ -1062,7 +1055,6 @@ _pop.php?z=$popup
 ||rdv5a7.com^$third-party
 ||reactivpub.com^$third-party
 ||reactivpub.fr^$third-party
-||realclick.co.kr^$third-party
 ||reflexcash.com^$third-party
 ||regie.audioprint.fr^$third-party
 ||regie3digital.com^$third-party
@@ -1459,7 +1451,6 @@ _pop.php?z=$popup
 ||youwatchtab.com^$popup,third-party
 ||z-defense.com^$popup,third-party
 ||zeroredirect*.com^$popup
-||zeroredirect2.com^$popup,third-party
 ||zwaar.net^$popup,third-party
 ||zwaar.org^$popup,third-party
 !
@@ -3709,7 +3700,6 @@ blob:http://www.nextinpact.com/
 ||dnyjp3iys0r8o.cloudfront.net^
 ||dqy6k7wqsbont.cloudfront.net^
 ||gold-file.com^$third-party
-||mobawaba.com^$third-party
 ! Foot01
 foot01.com###primary img
 foot01.com###primary li > [style^="background"]
@@ -3722,8 +3712,6 @@ foot01.com##div + * > img
 foot01.com##div + [style^="background"]
 foot01.com##div > [style^="background"]
 foot01.com##div > a
-foot01.com##div > a > img
-foot01.com##div > h1 + a
 foot01.com##div > ul > li + div
 foot01.com##div[style^="background"]
 foot01.com##h2 + * > img
@@ -4268,7 +4256,6 @@ turbo.fr##script + div > img
 ##.ads_single_bottom
 ##.ads_table
 ##.ads_widget
-##.adsense
 ##.adsense-article
 ##.adsense-footer
 ##.adsense-sidebar
@@ -4620,7 +4607,6 @@ turbo.fr##script + div > img
 ##.wrapperPub
 ##.yourcolor-ads
 ##.zonepub
-##GWD-DOUBLECLICK
 ##[data-type="ligatus-script"]
 ##[id^="div-gpt-ad-"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
@@ -6685,7 +6671,6 @@ skiplimite.tv#@##ad300x250
 ! Adunblock
 !
 ||abajoue.lol^$third-party
-||abasourdir.tech^$third-party
 ||abat-jour.xyz^$third-party
 ||abatage.lol^$third-party
 ||abatee.tech^$third-party
@@ -6730,7 +6715,6 @@ skiplimite.tv#@##ad300x250
 ||chasser.science^$third-party
 ||chaud.science^$third-party
 ||chromatographie.science^$third-party
-||chronophotographie.science^$third-party
 ||circonstance.science^$third-party
 ||clepsydre.science^$third-party
 ||clou.ovh^$third-party
@@ -6745,11 +6729,9 @@ skiplimite.tv#@##ad300x250
 ||coudre.ovh^$third-party
 ||couter.science^$third-party
 ||crochet.ovh^$third-party
-||croix.science^$third-party
 ||danser.science^$third-party
 ||davantage.science^$third-party
 ||decantation.science^$third-party
-||demande.science^$third-party
 ||densite.science^$third-party
 ||deposer.science^$third-party
 ||etre.science^$third-party
@@ -6774,7 +6756,6 @@ skiplimite.tv#@##ad300x250
 ||zenonisme.top^$third-party
 ||zeolithe.top^$third-party
 ||zephire.top^$third-party
-||zeste.top^$third-party
 ||zetetique.top^$third-party
 ||zibeline.top^$third-party
 ||zinzolin.top^$third-party
@@ -7026,7 +7007,6 @@ skiplimite.tv#@##ad300x250
 !
 uptobox.com##body > div[class$="-bg"][style="display: block;"]
 uptobox.com##body > div[style="top: 100px; opacity: 1; visibility: visible;"]
-|http://$script,third-party,xmlhttprequest,domain=uptobox.com
 ! Goyave lab
 @@||dtf.goyavelab.com^$script
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=thebadbuzz.com
