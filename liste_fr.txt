@@ -3743,6 +3743,7 @@ linternaute.com##.layout_main > div[class*="9"]
 commentcamarche.net##div[style$="cursor: pointer; width: 32%;"]
 ! macg.co
 macg.co##.news + * > img
+macg.co##.news + .news + div[class$=" "]
 macg.co##.sidebar img
 macg.co##.view-content > div + div + [id]
 macg.co##[id^="lig_"] + * + * + * > img
