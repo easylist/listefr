@@ -1575,7 +1575,7 @@ about:blank$popup,domain=gorillavid.in
 ||beurettes-faciles.com/promo/
 ||bit.ly$image,domain=teramixer.com
 ||bit.ly^$image,domain=korben.info|phonandroid.com
-||bit.ly^$popup,domain=nextinpact.com|telechargementz-streaming.com|teramixer.com
+||bit.ly^$popup,domain=telechargementz-streaming.com|teramixer.com
 ||bitchvolley.com/ban/$third-party
 ||blablaland.com/pubosaure/
 ||block.mediavenus.biz^
@@ -1723,7 +1723,7 @@ about:blank$popup,domain=gorillavid.in
 ||gold-barre.com/banner*.
 ||golden-blog-awards.fr/votePlugin.$third-party
 ||goo.gl^$domain=arab.st
-||goo.gl^$popup,domain=lnc.nc|nextinpact.com|openrunner.com|seriezone.com|trackandnews.fr|vkpass.com|za-gay.org
+||goo.gl^$popup,domain=lnc.nc|openrunner.com|seriezone.com|trackandnews.fr|vkpass.com|za-gay.org
 ||gopro.com^$popup,domain=tignes.net
 ||grenierdumaroc.com^$domain=movizfr.com
 ||grillegagnante.com/bannieres/
@@ -5075,7 +5075,6 @@ trouvetamusique.com###promouvoirmusique
 allstreamz.com,annuaire-streaming.com,blogs.allocine.fr,centerblog.net,ddl-island.su,emule-island.ru,extremepc.fr,habibal-tv.tk,iphonesoft.fr,japan-expo.be,jeu.info,jeux-2-filles.com,jeuxonline.info,letudiant.fr,mac2sell.net,nolyo-tv.com,nrj.be,nrj.fr,nuked-klan.org,olivierdauvers.fr,orange.fr,planet-casio.com,science-et-vie.com,service-public.fr,solutions-logiciels.com,sortir47.fr,stream-island.ru,stream-island.su,toutpratique.com,val-de-marne.gouv.fr,virtuoflash.com,wareziens.net,xboards.org###pub
 niooz.fr###pub-1
 dici.fr###pub-background
-nextinpact.com###pub-bot
 ledauphine.com###pub-dfp-pano-top
 francebleu.fr,franceinfo.fr###pub-ftv-top
 jeu.net###pub0
@@ -5940,6 +5939,7 @@ brunotritsch.fr##a[href^="http://fr.webmaster-rank.info/stat/affiliate/"]
 abidjan.net,igen.fr,lnc.nc,macg.co##a[href^="http://goo.gl/"]
 moviz-telecharger.com##a[href^="http://moviz-telecharger.com/films-en-qualité-hd-"]
 opensubtitles.org##a[href^="http://osdb.link/go?"]
+nextinpact.com##a[href^="http://pdn.im/"]
 jamsvu.fr##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
 annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
 cinemafantastique.net##a[href^="http://pubs.ecranfantastique.net/"]
@@ -6317,6 +6317,7 @@ journaldesfemmes.com##div[class] + div[class] + div[class] + div[class] + div[cl
 @@||network.aufeminin.com/a/diff/$object-subrequest,domain=aufeminin.com
 @@||network.aufeminin.com/call/pubj/$object-subrequest,domain=aufeminin.com
 @@||network.aufeminin.com/crossdomain.xml$domain=aufeminin.com
+@@||nextinpact.com/adreactor/$~third-party,xmlhttprequest
 @@||nikel-dominique.com^*/pagepeel-
 @@||notre-planete.info/medias/pub_300x250.png
 @@||novaplanet.com/RealMedia/ads/adstream_nx.ads/www.novaplanet.com/radionova/player/
