@@ -1466,7 +1466,7 @@ about:blank$popup,domain=gorillavid.in
 |http:*/site/liste/infopop$subdocument
 |http:*/site/liste/infpop$subdocument
 |http://$popup,third-party,domain=file.up09.com|uploading.com|uptobox.com|vid.ag
-|http://$popup,~third-party,domain=1host.name|allvid.ch|clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exashare.com|exity.info|flashx.cc|flashx.pw|flashx.tv|folue.info|gighub.net|golmamak.info|gorillavid.in|gover.info|guib.info|hadik.info|halazoun.info|hehehe.info|kechekch.info|kerkessni.info|khaltek.info|khalto.info|maldi.info|maquillage.com|nassira.info|openload.co|openload.info|opert.info|oping.info|pausefun.com|pausepeople.com|revclouds.com|rors.info|sega3.info|stiwine.info|thand.info|thewatchseries.to|tiziwezo.info|toofy.tv|trafe.info|tribicha.info|uptobox.com|utte.info|wstream.video|youwatch.org|ywhah.info|zidni.info
+|http://$popup,~third-party,domain=1host.name|allvid.ch|clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exashare.com|exity.info|flashx.cc|flashx.pw|flashx.tv|folue.info|gighub.net|golmamak.info|gorillavid.in|gover.info|guib.info|hadik.info|halazoun.info|hehehe.info|kechekch.info|kerkessni.info|khaltek.info|khalto.info|maldi.info|maquillage.com|nassira.info|opert.info|oping.info|pausefun.com|pausepeople.com|revclouds.com|rors.info|sega3.info|stiwine.info|thand.info|thewatchseries.to|tiziwezo.info|toofy.tv|trafe.info|tribicha.info|uptobox.com|utte.info|wstream.video|youwatch.org|ywhah.info|zidni.info
 |http://$script,third-party,domain=allvid.ch
 |http://$subdocument,third-party,domain=amvtv.net|clictune.com|contextualyield.com|sa.ae
 |http://*/hok/$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
@@ -1885,8 +1885,6 @@ about:blank$popup,domain=gorillavid.in
 ||onlinex.xyz^
 ||onlyanimes.info/avatar/banpub.gif
 ||onvillanuit.com^$domain=chartsinfrance.net
-||openload.io/ad/$popup
-||openload.io^*?adblock=
 ||ops.ccmbg.com^
 ||oranum.com^*/lang-popup-$subdocument
 ||over-blog-kiwi.com^*/*_ban-300x250.
@@ -6439,7 +6437,7 @@ whatpub.com#@#.pub_left
 love-hinax.com#@#.publicite
 maghrebspace.net#@#.publicite_gauche
 imdb.com#@#.publicity
-comptoir-hardware.com,openload.co#@#.text_ads
+comptoir-hardware.com#@#.text_ads
 maghrebspace.net#@#.top-publicite
 geekdefrance.fr#@#.topads
 wanimo.com#@#div[id^="div-gpt-ad-"]
@@ -6465,7 +6463,7 @@ forums.macg.co#@#script + div + [id]
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/advert.js$script,domain=flashx.tv
 @@/advert.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
-@@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|jeux.fr|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|openload.co|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
+@@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|jeux.fr|kpopfm.fr|leveldown.fr|m6replay.fr|maghrebspace.net|mega-exclue.com|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|ouest-france.fr|silicon.fr
 @@/check.js?$script,third-party
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
