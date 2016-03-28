@@ -3738,12 +3738,15 @@ linternaute.com##.layout_main > div[class*="9"]
 ! commentcamarche.net
 commentcamarche.net##div[style$="cursor: pointer; width: 32%;"]
 ! macg.co
+macg.co##.bloc-accroches + * > img[src]
+macg.co##.bloc-accroches + div[id]
 macg.co##.news + * > img
 macg.co##.news + .news + div[class$=" "]
 macg.co##.sidebar img
 macg.co##.view-content > div + div + [id]
 macg.co##[id^="lig_"] + * + * + * > img
 macg.co##[style^="background"]
+macg.co##div.bloc-accroches + [class]
 macg.co##script + * > img
 macg.co##script + div + [id]
 macg.co##script + div + p + [class]
