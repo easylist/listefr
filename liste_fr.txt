@@ -3706,11 +3706,8 @@ blob:http://www.nextinpact.com/
 ||dqy6k7wqsbont.cloudfront.net^
 ||gold-file.com^$third-party
 ! Foot01
-foot01.com###primary img
 foot01.com###primary li > [style^="background"]
 foot01.com##.pub + * > [style^="background"]
-foot01.com##.pub + li
-foot01.com##.sidebar img
 foot01.com##SPAN [style^="background"]
 foot01.com##abc
 foot01.com##div + * > img
