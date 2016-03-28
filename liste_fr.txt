@@ -3762,10 +3762,12 @@ igen.fr##p + div > img
 igen.fr##script + * > img
 igen.fr##script + div + *
 ! watchgeneration.fr
+watchgeneration.fr##.bloc-accroches + div[id]
 watchgeneration.fr##.news + * > img
 watchgeneration.fr##[id^="lig_"] + * + * + * > img
 watchgeneration.fr##[style^="background"]
 watchgeneration.fr##div + p + div > img
+watchgeneration.fr##div.bloc-accroches + [class]
 watchgeneration.fr##script + * > img
 watchgeneration.fr##script + div + *
 ! begeek.fr
