@@ -3712,6 +3712,7 @@ blob:http://www.nextinpact.com/
 foot01.com###primary li > [style^="background"]
 foot01.com##.pub + * > [style^="background"]
 foot01.com##SPAN [style^="background"]
+foot01.com##[class] > [id] > [class] > img
 foot01.com##abc
 foot01.com##div + * > img
 foot01.com##div + [style^="background"]
