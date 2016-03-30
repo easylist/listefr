@@ -1920,6 +1920,7 @@ about:blank$popup,domain=gorillavid.in
 ||planete-dangereuse.com/ban/$third-party
 ||planete-hit.com/hit.php?
 ||planethoster.net/images/bannieres/$third-party
+||player.mediabong.com/syncroll/*/loader.js?
 ||pointscommuns.com/images/bannieres/$third-party
 ||pooki.fr/banner/
 ||porn.fr^*/site_id/$popup
@@ -3997,6 +3998,7 @@ turbo.fr##script + div > img
 ###ligatus_art_foot
 ###ligatus_art_right
 ###ligatus_right_column
+###mb_video_syncad_bottom
 ###middle-publicite
 ###milieu_pub
 ###module_publicite
@@ -4400,6 +4402,7 @@ turbo.fr##script + div > img
 ##.logo_pub
 ##.ltas_adspot
 ##.mailPubHeader
+##.mb_video_syncad
 ##.mdmAd-inner
 ##.megapub
 ##.middle-publicite
@@ -4995,6 +4998,7 @@ millenium.org###logo_droite
 laposte.net###lpn_pub_main
 voyageforum.com###mainposttravelsbox1
 lafranceagricole.fr###materielOccasion
+streetpress.com###mb_moving_container
 driverscloud.com###mc_cadrebottompub
 driverscloud.com###mc_cadretoppub
 jeuxvideo.com###mc_sponso
