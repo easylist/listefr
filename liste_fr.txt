@@ -3110,6 +3110,8 @@ blob:http://www.nextinpact.com/
 ||mercato365.com^*?imgPrefix=$xmlhttprequest
 ||mercato365.fr/pub.php?
 ||mes-dialogues.net^*/gaysize.gif
+||mesbagages.com/images/habillage/
+||mesbagages.com/images/pub/
 ||mesdialogues.net^*/gaysize.gif
 ||mesfilmsstreaming.com/images/download_films.png
 ||mesliensx.com/images/bannieres/
@@ -3971,6 +3973,7 @@ meteocity.com##.sidebar > div + style + div[class]
 ###footerpubs
 ###for_ad
 ###game_leaderboard_container
+###gbPub728bas
 ###general_subpub
 ###google-adsence-300-250
 ###google_adsencetxt
@@ -4917,7 +4920,6 @@ developpez.com###gabarit_pub1
 gamekult.com###game-data
 centerblog.net###gauche > iframe[width="300"][height="250"]
 gameblog.fr###gbFnac300
-gameblog.fr###gbPub728bas
 gameblog.fr###gb_home_sponsor
 gameblog.fr###gb_megaban
 gameblog.fr###gba300
@@ -5336,7 +5338,7 @@ lesechos.fr##.bandeau-weekend
 meteo-paris.com##.bandeau_pub_630
 cdmail.fr##.bandeauvert
 orientation-chabab.com##.bann
-canalplus.fr,gulli.fr,hdnumerique.com,kpopfm.fr,manga-news.com,orientation-chabab.com,telquel.ma,trimag.fr,video-2-cul.com##.banner
+canalplus.fr,gulli.fr,hdnumerique.com,kpopfm.fr,manga-news.com,mesbagages.com,orientation-chabab.com,telquel.ma,trimag.fr,video-2-cul.com##.banner
 golem13.fr##.banner-halfpage
 mobilealgerie.com##.banner_sp
 auto-utilitaire.com,mobilealgerie.com##.banner_sp_art
