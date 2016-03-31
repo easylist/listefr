@@ -3799,6 +3799,9 @@ turbo.fr##[src*="ligatus.com"] > img
 turbo.fr##img + script + [id]
 turbo.fr##p + div > img
 turbo.fr##script + div > img
+! meteocity.com
+meteocity.com##.sidebar > div + style + div[class]
+||meteocity.com/images/$xmlhttprequest
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -4416,6 +4419,7 @@ turbo.fr##script + div > img
 ##.megapub
 ##.middle-publicite
 ##.modAd
+##.moduleAds728
 ##.mueveads
 ##.nativeads
 ##.nipnadszone
