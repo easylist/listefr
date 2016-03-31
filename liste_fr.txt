@@ -264,6 +264,7 @@
 /partners/ads-
 /partners/rotator.
 /partnertag/iframe.
+/pave_PUB_
 /plugins/vp_pub/*
 /pop-ads.
 /pop.php?user=
@@ -731,6 +732,7 @@ _pop.php?z=$popup
 ||buy-targeted-traffic.com^$third-party
 ||buzzvet.com^$third-party
 ||bvyvk.space^$third-party
+||bzlwe.com^$third-party
 ||cam4ads.com^$third-party
 ||camsympa.com^$third-party,domain=~camsympa.fr
 ||caradisiac-publicite.com^$third-party
@@ -6492,6 +6494,7 @@ forums.macg.co#@#script + div + [id]
 &adbIsActive=$popup
 /ad-blocking-advisor/*
 /ad-blocking-detector/*
+/adblocker_message_
 /antiadblockmsg.
 /blockadblock.js
 /fadb.min.js?
@@ -6599,6 +6602,7 @@ forums.macg.co#@#script + div + [id]
 ###adb-not-enabled
 ###adblock-overlay
 ###adblockDetect
+###adblocker_message
 #@##adblocktest
 ###advertisementjsalert
 ###anti_adblock
