@@ -1752,6 +1752,7 @@ about:blank$popup,domain=gorillavid.in
 ||hit-amateur.com/ban/$third-party
 ||hiwit.org/index.php?idsite=
 ||hln.be/static/*/adv/
+||hop.com/sites/default/files/
 ||hostingpics.net/pics/*ban.png
 ||hostinrussia.com/user/$subdocument,third-party
 ||hotel-intime.com/banieres/
@@ -2058,7 +2059,7 @@ about:blank$popup,domain=gorillavid.in
 ||static.ccmbg.com/ops.ccmbg.com/
 ||static.meilleursagents.com^*/partners
 ||static.mntzm.com^
-||static.s-sfr.fr/media/mire_sfr_
+||static.s-sfr.fr/media/mire_$image
 ||static.shoptimate.com/js/partner.js
 ||static2.dmcdn.net/mc/skin_assets/*/body$image
 ||storefollow.com/?support=
@@ -3346,7 +3347,7 @@ blob:http://www.nextinpact.com/
 ||rugby365.fr/pub.php?
 ||rugby365.fr^*?imgPrefix=$xmlhttprequest
 ||rustica.fr/popunder/$popup
-||s-sfr.fr/webmail/*/jquery.smartbanner.
+||s-sfr.fr/webmail/*.smartbanner.js
 ||s-sfr.fr^*/pubsa.
 ||s-sfr.fr^*/sky160navmulti.json?
 ||s.psg.fr/psg/file/201508/pmu201508.jpg
