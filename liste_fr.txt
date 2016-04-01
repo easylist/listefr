@@ -3732,6 +3732,7 @@ blob:http://www.nextinpact.com/
 ||gold-file.com^$third-party
 ! Foot01
 foot01.com###primary li > [style^="background"]
+foot01.com##.pub + * > [class] > img
 foot01.com##.pub + * > [style^="background"]
 foot01.com##.pub + [class] > [class] > [class] > img
 foot01.com##SPAN [style^="background"]
