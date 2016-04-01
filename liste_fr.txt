@@ -116,6 +116,7 @@
 /ads/banner02.
 /ads/banner03.
 /ads/bigbox?
+/ads?key=
 /ads?p=
 /ads?req_id=
 /ads?spot_id=
@@ -252,6 +253,7 @@
 /menu/ADS/*
 /miniads/*
 /mosaique/track.php?$script
+/networking/ref_
 /newpromo.
 /nugg.ad.
 /nugg.add.
@@ -662,6 +664,7 @@ _pop.php?z=$popup
 ||advquality.com^$third-party
 ||adwebmanager.com^$third-party
 ||adwidecenter.com^$third-party
+||adwise.bg^$third-party
 ||adzzone.com^$third-party
 ||affidate.com^$third-party
 ||affidirect.com^$third-party
@@ -1036,6 +1039,7 @@ _pop.php?z=$popup
 ||promoads.net^$third-party
 ||propadx.com^$third-party
 ||prox-go.com^$third-party
+||psma03.com^$third-party
 ||psmardr.com^$third-party
 ||pub-france.com^$third-party
 ||pub-ptp.fr^$third-party
@@ -6627,6 +6631,7 @@ forums.macg.co#@#script + div + [id]
 ###pub-haut-adblock
 ##.AdblockMessage
 ##.AdblockMessage_msg
+##.ad-block-enabled
 ##.ad-blocking-advisor-wrapper
 ##.adBlockNotification
 ##.adBlockNotificationOverlay
