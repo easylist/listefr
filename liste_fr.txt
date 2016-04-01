@@ -3803,6 +3803,7 @@ begeek.fr##a > img
 begeek.fr##script + a
 begeek.fr##script + div + *
 ! turbo.fr
+turbo.fr###colonne_widgets > [class] > [class] > img
 turbo.fr###colonne_widgets > [class] > img
 turbo.fr###colonne_widgets > [id]
 turbo.fr###colonne_widgets > div > img
@@ -3812,6 +3813,7 @@ turbo.fr##[src*="ligatus.com"] + * + * + * > img
 turbo.fr##[src*="ligatus.com"] > img
 turbo.fr##img + script + [id]
 turbo.fr##p + div > img
+turbo.fr##script + div > a > img
 turbo.fr##script + div > img
 ! meteocity.com
 meteocity.com##.sidebar > div + style + div[class]
