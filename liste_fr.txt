@@ -3817,8 +3817,11 @@ turbo.fr##[src*="ligatus.com"] + * + * + * > img
 turbo.fr##[src*="ligatus.com"] > img
 turbo.fr##img + script + [id]
 turbo.fr##p + div > img
+turbo.fr##script + [class] img
+turbo.fr##script + [id] img
 turbo.fr##script + div > a > img
 turbo.fr##script + div > img
+turbo.fr##script[src^="http://a.ligatus.com/?"] + * img
 ! meteocity.com
 meteocity.com##.sidebar > div + style + div[class]
 ||meteocity.com/images/$xmlhttprequest
