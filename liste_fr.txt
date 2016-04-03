@@ -42,6 +42,9 @@
 .adserverpub.$domain=~adserverpub.com
 .adtech.
 .adxcore.
+.asp?adv=
+.asp?affid=
+.asp?clicktag=
 .campaignsFileLoaded$script
 .com.sa/ads/
 .com/adpro.
@@ -147,6 +150,7 @@
 /affs?addonname=
 /afilyads1.
 /afterclick.js
+/ajs?zoneid=
 /amazon-product-in-a-post-plugin/*
 /anime/ads/*
 /api/ads_
@@ -176,7 +180,11 @@
 /banners/show_flash.js
 /banniere/proxy.php?
 /banniere/proxy2.php?
+/banniere300x250.
+/banniere300x250bas.
+/banniere728x90.
 /banniere728x90_
+/banniere728x90home.
 /banniere_pub.
 /bannieres/habillage.
 /bannieres_pub/*$domain=~sgmaroc.com
@@ -340,6 +348,7 @@
 /rotation.php?idaff=
 /rotator.php?zone=$script
 /rsense-ad.
+/rsense_ad.
 /sas-banner-
 /script/pop.php?id=
 /sdk-ads.
@@ -365,6 +374,7 @@
 /vyprad.$image
 /wads-blank.
 /wbdds.
+/web/bannieres/*
 /widget.advertisement.
 /widget_ads/*
 /widgets-bazarchic-
@@ -1514,6 +1524,7 @@ about:blank$popup,domain=gorillavid.in
 ||ad.apps.fm^$popup
 ||ad.atdmt.com^*.html;$third-party
 ||ad.atdmt.com^*/go;$third-party
+||ad.genybet.fr^
 ||ad.net-c.com^
 ||ad.vacanceo.com^
 ||ad.zanox.com^
