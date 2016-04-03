@@ -62,7 +62,8 @@
 .ma/ads_
 .php?&zoneid=
 .php?*&bannerid*campaignid=
-.php?*&size=*&synergie=*&type=
+.php?*&size=*&synergie=
+.php?*&synergie=*&size=
 .php?banner=$subdocument
 .php?style=160x600-
 .php?style=300x250-
@@ -256,6 +257,7 @@
 /js/infopop_$script
 /layout/ads?
 /lib/ads.
+/load.php?*&size=
 /load.php?action=adsc&
 /media/300250.
 /media/72890.
@@ -267,6 +269,7 @@
 /nugg.ad.
 /nugg.add.
 /null/*/Tag.$script,third-party
+/open_pub.
 /openwindow.js?puurl=
 /otherads/*
 /page_pub.
@@ -358,6 +361,7 @@
 /show_adv.
 /show_next_ads.
 /showads?
+/slide_banner/*
 /slidegirlad.
 /slider.php?&pub=$script
 /smartad/*
@@ -370,6 +374,7 @@
 /Tag?pkey=$subdocument,third-party
 /tc_promo_functions.
 /Temp/Ads/*
+/thumb_banner_frame.
 /ttn_adspaces
 /vaxadserver.
 /vyprad.$image
@@ -386,6 +391,7 @@
 /xpopunder.js
 /zoneads/*
 /zones?zone=$subdocument
+/~cdn/Ads/*
 ://adscdn.
 ://adspaces.
 ://adss.
@@ -845,6 +851,7 @@ _pop.php?z=$popup
 ||etarg.ru^$third-party
 ||etoro.fr^$third-party
 ||euro-clic.com^$third-party
+||eurolive.com^$third-party
 ||eurowebbiz.com^$third-party
 ||every.com^$third-party
 ||ex-show.com^$third-party
@@ -966,6 +973,7 @@ _pop.php?z=$popup
 ||mxpopad.com^$third-party
 ||mxttrf.com^$third-party
 ||mybestsky.com^$third-party
+||mykocam.com^$third-party
 ||mynativeplatform.com^$third-party
 ||myserv4.com^$third-party
 ||myskyspire.com^$third-party
