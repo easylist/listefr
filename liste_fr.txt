@@ -81,8 +81,10 @@
 /300_250-2.
 /468x60banner.
 /728x090_
+/?&utm_campaign=$subdocument
 /?placement=*&async$script
 /?rpartner=$subdocument
+/?utm_source=$subdocument
 /a.ads.
 /a.php?t=*&pgid=*&rebill=
 /acad.$script
@@ -630,6 +632,7 @@ _pop.php?z=$popup
 ||adrife.com^$third-party
 ||ads-peinture.fr^$third-party
 ||ads-x.com^$third-party
+||adsb4trk.com^$third-party
 ||adschemist.com^$third-party
 ||adschoom.com^$third-party
 ||adscoo.com^$third-party
