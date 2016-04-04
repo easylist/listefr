@@ -3766,102 +3766,6 @@ blob:http://www.nextinpact.com/
 ||dnyjp3iys0r8o.cloudfront.net^
 ||dqy6k7wqsbont.cloudfront.net^
 ||gold-file.com^$third-party
-! Foot01
-foot01.com###primary li > [style^="background"]
-foot01.com##.pub + * > [class] > img
-foot01.com##.pub + * > [style^="background"]
-foot01.com##.pub + [class] > [class] > [class] > img
-foot01.com##SPAN [style^="background"]
-foot01.com##[class] > [id] > [class] > img
-foot01.com##abc
-foot01.com##div + * > img
-foot01.com##div + [style^="background"]
-foot01.com##div > [style^="background"]
-foot01.com##div > a
-foot01.com##div > ul > li + div
-foot01.com##div[style^="background"]
-foot01.com##h2 + * > img
-foot01.com##h3 + * > img
-foot01.com##li > div > img
-foot01.com##li[id]
-foot01.com##span > img
-! linternaute.com
-linternaute.com###corps-cellule div[class*="0"]
-linternaute.com###corps-cellule div[class*="2"]
-linternaute.com###corps-cellule div[class*="3"]
-linternaute.com###corps-cellule div[class*="6"]
-linternaute.com###corps-cellule div[class*="9"]
-linternaute.com##.layout_main > div[class*="0"]
-linternaute.com##.layout_main > div[class*="1"]
-linternaute.com##.layout_main > div[class*="2"]
-linternaute.com##.layout_main > div[class*="3"]
-linternaute.com##.layout_main > div[class*="4"]
-linternaute.com##.layout_main > div[class*="5"]
-linternaute.com##.layout_main > div[class*="6"]
-linternaute.com##.layout_main > div[class*="7"]
-linternaute.com##.layout_main > div[class*="8"]
-linternaute.com##.layout_main > div[class*="9"]
-! commentcamarche.net
-commentcamarche.net##div[style$="cursor: pointer; width: 32%;"]
-! macg.co
-macg.co##.bloc-accroches + * > img[src]
-macg.co##.bloc-accroches + div[id]
-macg.co##.news + * > img
-macg.co##.news + .news + div[class$=" "]
-macg.co##.sidebar img
-macg.co##.view-content > div + div + [id]
-macg.co##[id^="lig_"] + * + * + * > img
-macg.co##[style^="background"]
-macg.co##div.bloc-accroches + [class]
-macg.co##script + * > img
-macg.co##script + div + [id]
-macg.co##script + div + p + [class]
-macg.co##script + div + p + [id]
-! igen.fr
-igen.fr##.bloc-accroches + * > img[src]
-igen.fr##.bloc-accroches + div[id]
-igen.fr##.news + * > img
-igen.fr##.sidebar img
-igen.fr##[id^="lig_"] + * + * + * > img
-igen.fr##[style^="background"]
-igen.fr##p + div > img
-igen.fr##script + * > img
-igen.fr##script + div + *
-! watchgeneration.fr
-watchgeneration.fr##.bloc-accroches + div[id]
-watchgeneration.fr##.news + * > img
-watchgeneration.fr##[id^="lig_"] + * + * + * > img
-watchgeneration.fr##[style^="background"]
-watchgeneration.fr##div + p + div > img
-watchgeneration.fr##div.bloc-accroches + [class]
-watchgeneration.fr##script + * > img
-watchgeneration.fr##script + div + *
-! begeek.fr
-begeek.fr###sidebar img
-begeek.fr##[style^="background"]
-begeek.fr##[type="text/javascript"] + * > img
-begeek.fr##a > img
-begeek.fr##script + a
-begeek.fr##script + div + *
-! turbo.fr
-turbo.fr###colonne_widgets > [class] > [class] > img
-turbo.fr###colonne_widgets > [class] > img
-turbo.fr###colonne_widgets > [id]
-turbo.fr###colonne_widgets > div > img
-turbo.fr##[src*="ligatus"] + * + * > img
-turbo.fr##[src*="ligatus"] + * > img
-turbo.fr##[src*="ligatus.com"] + * + * + * > img
-turbo.fr##[src*="ligatus.com"] > img
-turbo.fr##img + script + [id]
-turbo.fr##p + div > img
-turbo.fr##script + [class] img
-turbo.fr##script + [id] img
-turbo.fr##script + div > a > img
-turbo.fr##script + div > img
-turbo.fr##script[src^="http://a.ligatus.com/?"] + * img
-! meteocity.com
-meteocity.com##.sidebar > div + style + div[class]
-||meteocity.com/images/$xmlhttprequest
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -7123,3 +7027,100 @@ skiplimite.tv#@##ad300x250
 |http://$popup,script,domain=goyavelab.com|thebadbuzz.com
 |https://$popup,script,domain=goyavelab.com|thebadbuzz.com
 ||doubleclick.net^$domain=thebadbuzz.com
+! Ligatus crap
+! Foot01
+foot01.com###primary li > [style^="background"]
+foot01.com##.pub + * > [class] > img
+foot01.com##.pub + * > [style^="background"]
+foot01.com##.pub + [class] > [class] > [class] > img
+foot01.com##SPAN [style^="background"]
+foot01.com##[class] > [id] > [class] > img
+foot01.com##abc
+foot01.com##div + * > img
+foot01.com##div + [style^="background"]
+foot01.com##div > [style^="background"]
+foot01.com##div > a
+foot01.com##div > ul > li + div
+foot01.com##div[style^="background"]
+foot01.com##h2 + * > img
+foot01.com##h3 + * > img
+foot01.com##li > div > img
+foot01.com##li[id]
+foot01.com##span > img
+! linternaute.com
+linternaute.com###corps-cellule div[class*="0"]
+linternaute.com###corps-cellule div[class*="2"]
+linternaute.com###corps-cellule div[class*="3"]
+linternaute.com###corps-cellule div[class*="6"]
+linternaute.com###corps-cellule div[class*="9"]
+linternaute.com##.layout_main > div[class*="0"]
+linternaute.com##.layout_main > div[class*="1"]
+linternaute.com##.layout_main > div[class*="2"]
+linternaute.com##.layout_main > div[class*="3"]
+linternaute.com##.layout_main > div[class*="4"]
+linternaute.com##.layout_main > div[class*="5"]
+linternaute.com##.layout_main > div[class*="6"]
+linternaute.com##.layout_main > div[class*="7"]
+linternaute.com##.layout_main > div[class*="8"]
+linternaute.com##.layout_main > div[class*="9"]
+! commentcamarche.net
+commentcamarche.net##div[style$="cursor: pointer; width: 32%;"]
+! macg.co
+macg.co##.bloc-accroches + * > img[src]
+macg.co##.bloc-accroches + div[id]
+macg.co##.news + * > img
+macg.co##.news + .news + div[class$=" "]
+macg.co##.sidebar img
+macg.co##.view-content > div + div + [id]
+macg.co##[id^="lig_"] + * + * + * > img
+macg.co##[style^="background"]
+macg.co##div.bloc-accroches + [class]
+macg.co##script + * > img
+macg.co##script + div + [id]
+macg.co##script + div + p + [class]
+macg.co##script + div + p + [id]
+! igen.fr
+igen.fr##.bloc-accroches + * > img[src]
+igen.fr##.bloc-accroches + div[id]
+igen.fr##.news + * > img
+igen.fr##.sidebar img
+igen.fr##[id^="lig_"] + * + * + * > img
+igen.fr##[style^="background"]
+igen.fr##p + div > img
+igen.fr##script + * > img
+igen.fr##script + div + *
+! watchgeneration.fr
+watchgeneration.fr##.bloc-accroches + div[id]
+watchgeneration.fr##.news + * > img
+watchgeneration.fr##[id^="lig_"] + * + * + * > img
+watchgeneration.fr##[style^="background"]
+watchgeneration.fr##div + p + div > img
+watchgeneration.fr##div.bloc-accroches + [class]
+watchgeneration.fr##script + * > img
+watchgeneration.fr##script + div + *
+! begeek.fr
+begeek.fr###sidebar img
+begeek.fr##[style^="background"]
+begeek.fr##[type="text/javascript"] + * > img
+begeek.fr##a > img
+begeek.fr##script + a
+begeek.fr##script + div + *
+! turbo.fr
+turbo.fr###colonne_widgets > [class] > [class] > img
+turbo.fr###colonne_widgets > [class] > img
+turbo.fr###colonne_widgets > [id]
+turbo.fr###colonne_widgets > div > img
+turbo.fr##[src*="ligatus"] + * + * > img
+turbo.fr##[src*="ligatus"] + * > img
+turbo.fr##[src*="ligatus.com"] + * + * + * > img
+turbo.fr##[src*="ligatus.com"] > img
+turbo.fr##img + script + [id]
+turbo.fr##p + div > img
+turbo.fr##script + [class] img
+turbo.fr##script + [id] img
+turbo.fr##script + div > a > img
+turbo.fr##script + div > img
+turbo.fr##script[src^="http://a.ligatus.com/?"] + * img
+! meteocity.com
+meteocity.com##.sidebar > div + style + div[class]
+||meteocity.com/images/$xmlhttprequest
