@@ -21,6 +21,7 @@
 &playadw=
 &subpartenaire=
 -300-x-250-
+-300x250.html$subdocument
 -300x250.php?cb=
 -468-x-60-
 -468x601.
@@ -33,6 +34,7 @@
 -ad480x60-
 -ad728x90-
 -ads/ads.
+-ban.468.php
 -banner-300x250.
 -pub-ads/
 -viceads.
@@ -101,6 +103,8 @@
 /ad_placements/*
 /ad_trafic.
 /adblockbanner/*
+/adcash/300.
+/adcash/728.
 /adhosting.
 /adimage-
 /adkompan.
@@ -1072,6 +1076,7 @@ _pop.php?z=$popup
 ||publike.fr^$third-party
 ||publited.com^$third-party
 ||puboclic.com^$third-party
+||pubovore.com^$third-party
 ||pubwebnet.com^$third-party
 ||pureadexchange.com^$third-party
 ||pwspace.com^$third-party
@@ -6459,11 +6464,13 @@ forums.macg.co#@#script + div + [id]
 &adbIsActive=$popup
 /ad-blocking-advisor/*
 /ad-blocking-detector/*
+/adblock-notify-by-bweb/*
 /adblocker_message_
 /antiadblockmsg.
 /blockadblock.js
 /fadb.min.js?
 /modules/mod_jpayday/*
+/wp-content/uploads/an-temp/*$script,stylesheet
 !
 @@.gif#$image,domain=automobile-sportive.com|youwatch-series.com
 @@.jpg#$image,domain=dpstream.cc|naruto-mx.net
