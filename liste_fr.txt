@@ -351,6 +351,7 @@
 /pubs/72830/*
 /pubs/?format=300x250
 /pubs/?format=728x90
+/pubs/habillage/*
 /query.php?aff=$subdocument
 /regie_pub/*
 /regiepub/*
@@ -1612,6 +1613,7 @@ about:blank$popup,domain=gorillavid.in
 ||beaverscripts.com^$popup,third-party
 ||belle-salope.fr/ban/$third-party
 ||belledesfleurs.com/ban/$third-party
+||bessapromotion.com^$popup,domain=ouedkniss.com
 ||bestofartisans.com/app/$third-party
 ||bestofmedia.com/sfp/images/partner/
 ||betclic.fr/partner.aspx?
@@ -3252,6 +3254,7 @@ blob:http://www.nextinpact.com/
 ||orange.fr/media/pub/scriptPub.html
 ||orientation-chabab.com/img/pub.jpg
 ||otaku-attitude.net^*/okazu-manga.gif
+||ouedkniss.com/inc/pubs/
 ||ouedkniss.com/pubs/
 ||ouedkniss.com/swf/Interstitiel.swf
 ||ouedkniss.com^*/script/index_pub.js
@@ -3346,6 +3349,7 @@ blob:http://www.nextinpact.com/
 ||pub.tetu.com^
 ||pub.webxfrance.org^
 ||pubs.lemonde.fr^
+||pubs.ouedkniss.com^
 ||purevid.com/html/
 ||pyrenees-passion.info/WP_img_ban/
 ||pyrenees-team.com/graphics/baniere/logo.jpg
@@ -4903,6 +4907,7 @@ banques-en-ligne.fr,bioalaune.com,canalplus.fr,comics-sanctuary.com,ffeminin.com
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-right
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-top
 ouedkniss.com###habillage_a
+ouedkniss.com###habillage_b
 ouedkniss.com###habillage_flash
 e-orientations.com###habillage_pub
 gerardmerinfo.fr###habillage_site
