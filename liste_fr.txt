@@ -7128,3 +7128,5 @@ turbo.fr##script[src^="http://a.ligatus.com/?"] + * img
 ! meteocity.com
 meteocity.com##.sidebar > div + style + div[class]
 ||meteocity.com/images/$xmlhttprequest
+! cuisineaz.com
+||cuisineaz.com/*.aspx$xmlhttprequest
