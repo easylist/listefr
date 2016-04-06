@@ -2795,7 +2795,7 @@ blob:http://www.nextinpact.com/
 ||gameblog.fr/images/ablock/
 ||gameblog.fr/images/promo/
 ||gameblog.fr/skins/$image
-||gamekult.com/ajax-info/amazon-
+||gamekult.com/ajax-info/partner-
 ||gamekult.com/i/partenaires/
 ||gameonly.com^*/include/pub/
 ||gamer-network.fr/wp-content/*/g2a-
@@ -4250,6 +4250,8 @@ blob:http://www.nextinpact.com/
 ##.ads-970x60
 ##.ads-box-inner
 ##.ads-box-outer
+##.ads-container-1
+##.ads-container-2
 ##.ads-download
 ##.ads-heads
 ##.ads-l
@@ -4907,7 +4909,6 @@ lequipe.fr###frame_11ff
 dramapassion.com###free_pub_head
 developpez.com###gabarit_pub0
 developpez.com###gabarit_pub1
-gamekult.com###game-data
 centerblog.net###gauche > iframe[width="300"][height="250"]
 gameblog.fr###gbFnac300
 gameblog.fr###gb_home_sponsor
@@ -5487,6 +5488,7 @@ frenchpopcorn.com##.footer_vpn
 gratuit-xxx.com##.footerboost
 supertoinette.com##.g-ads-336-250
 nautiljon.com##.gad
+gamekult.com##.gamerprices-tab
 lemonde.fr##.global.services
 voyages-sncf.com##.gondola-pub
 voyages-sncf.com##.gondola__video
@@ -6512,7 +6514,6 @@ forums.macg.co#@#script + div + [id]
 @@||ausujet.com/skins/common/ads.js
 @@||foglio.basilic.io/ad/basilic.adsense.js
 @@||gameblog.fr/scripts/adframe.js
-@@||gamekult.com/i/partenaires/adframe.js
 @@||images.voyageforum.com^$image
 @@||jeu-concours.biz/show_ads.js
 @@||jeuxvideo-live.com/js/ads.js
@@ -6915,6 +6916,7 @@ skiplimite.tv#@##ad300x250
 |http://*.science/$third-party,xmlhttprequest,domain=5nodes.fr|actu95.net|addons-wow.fr|adunblock.com|adunblock.fr|aeropassion.net|aiguille.ovh|allo-news.com|ampoule.ovh|aneviagaming.com|annuaire-bleu.net|annuaire-email.net|answer-meup.com|anthonix.fr|applebigmac.fr|arnaques-internet.info|automobile-sportive.com|avoir.science|bdcraft.net|breat.me|catswhocode.com|cinemotions.com|clou.ovh|colle.ovh|comme.science|consoledejeux.info|coolradio.be|dahoo.fr|developpez.net|dinguerie.com|etre.science|evoliofly.com|femmes-de-footballeurs.fr|festivalboujdour.com|forum-des-oranges.fr|forumtfc.net|gamewinner.fr|geoforum.fr|geowiki.fr|gogo-films.com|gta69.com|hallucinixxx.fr|imagesia.com|jackieetmicheltv.fr|jbmam.music.free.fr|jeuxvideo24.com|kboard.fr|kerbalspaceprogram.fr|lebouletdunet.com|lesarbres.fr|lolchat.fr|macworld.fr|mangacity.org|mastakongo.com|monlinker3ds.com|monlinkerdsi.com|nifoune.com|oobby.com|opalenews.com|pcworld.fr|physagreg.fr|pix-geeks.com|planete-astronomie.com|pouvoir.science|pronorugby.fr|qui.science|radar-feu-rouge.fr|reef-guardian.com|robocraftgame.fr|rue89strasbourg.com|rugbyfederal.com|seomaker.estsurle.net|seventy-planes.com|sos-lettre.fr|space-blogs.net|space-forums.com|space-forums.net|styled-gaming.eu|sucha.net|suchablog.com|technogps.com|teranya.fr|trackr.fr|untourenchine.fr|uptobox.com|usap-forum.com|vonox.fr|vosforums.com|web-fr.info|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxnews.com|xavboxone.com|xavboxphone.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxtuning.com|xavboxwii.com|xavboxwiiu.com|xiaomi-m3.fr|zevpn.net
 |http://*.top/$third-party,xmlhttprequest,domain=5nodes.fr|actu95.net|addons-wow.fr|adunblock.com|adunblock.fr|aeropassion.net|aiguille.ovh|allo-news.com|ampoule.ovh|aneviagaming.com|annuaire-bleu.net|annuaire-email.net|answer-meup.com|anthonix.fr|applebigmac.fr|arnaques-internet.info|automobile-sportive.com|avoir.science|bdcraft.net|breat.me|catswhocode.com|cinemotions.com|clou.ovh|colle.ovh|comme.science|consoledejeux.info|coolradio.be|dahoo.fr|developpez.net|dinguerie.com|etre.science|evoliofly.com|femmes-de-footballeurs.fr|festivalboujdour.com|forum-des-oranges.fr|forumtfc.net|gamewinner.fr|geoforum.fr|geowiki.fr|gogo-films.com|gta69.com|hallucinixxx.fr|imagesia.com|jackieetmicheltv.fr|jbmam.music.free.fr|jeuxvideo24.com|kboard.fr|kerbalspaceprogram.fr|lebouletdunet.com|lesarbres.fr|lolchat.fr|macworld.fr|mangacity.org|mastakongo.com|monlinker3ds.com|monlinkerdsi.com|nifoune.com|oobby.com|opalenews.com|pcworld.fr|physagreg.fr|pix-geeks.com|planete-astronomie.com|pouvoir.science|pronorugby.fr|qui.science|radar-feu-rouge.fr|reef-guardian.com|robocraftgame.fr|rue89strasbourg.com|rugbyfederal.com|seomaker.estsurle.net|seventy-planes.com|sos-lettre.fr|space-blogs.net|space-forums.com|space-forums.net|styled-gaming.eu|sucha.net|suchablog.com|technogps.com|teranya.fr|trackr.fr|untourenchine.fr|uptobox.com|usap-forum.com|vonox.fr|vosforums.com|web-fr.info|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxnews.com|xavboxone.com|xavboxphone.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxtuning.com|xavboxwii.com|xavboxwiiu.com|xiaomi-m3.fr|zevpn.net
 !
+|http://*==$xmlhttprequest,domain=gamekult.com
 !@@|http://*.science/*.js|$script,third-party
 !
 @@||pagead2.googlesyndication.com/simgad/$image,third-party,domain=5nodes.fr|actu95.net|actupv.info|addons-wow.fr|adunblock.com|adunblock.fr|aeropassion.net|allo-news.com|annuaire-bleu.net|annuaire-email.net|answer-meup.com|anthonix.fr|applebigmac.fr|arnaques-internet.info|breat.me|catswhocode.com|cinemotions.com|consoledejeux.info|coolradio.be|developpez.net|evoliofly.com|femmes-de-footballeurs.fr|festivalboujdour.com|forum-des-oranges.fr|gamewinner.fr|geowiki.fr|gogo-films.com|imagesia.com|jackieetmicheltv.fr|kboard.fr|kerbalspaceprogram.fr|lebouletdunet.com|les-zamateurs-de-lecture.space-blogs.net|lolchat.fr|macworld.fr|monlinker3ds.com|monlinkerdsi.com|nifoune.com|oobby.com|opalenews.com|pcworld.fr|physagreg.fr|planete-astronomie.com|politic-vision.space-blogs.net|radar-feu-rouge.fr|rugbyfederal.com|seomaker.estsurle.net|space-forums.com|space-forums.net|styled-gaming.eu|sub.avafilm.in|sucha.net|suchablog.com|teranya.fr|trackr.fr|vonox.fr|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxnews.com|xavboxone.com|xavboxphone.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxtuning.com|xavboxwii.com|xavboxwiiu.com
