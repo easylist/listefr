@@ -4455,6 +4455,7 @@ blob:http://www.nextinpact.com/
 ##.pub-megabanner
 ##.pub-pave
 ##.pub-promo
+##.pub-rectangle-php
 ##.pub160x600
 ##.pub242x90
 ##.pub300
@@ -5733,6 +5734,7 @@ nouvelobs.com##.r89-partenariats--vertical
 souk.ma##.rbanner-wrap
 annuaire-inverse-france.com##.rborderpurple
 imobie.fr##.rec_download
+turbo.fr##.recapitulatif.floatRight
 lemonde.fr##.reco_cross_site_outbrain
 gonzai.com##.red-one-third
 lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.references
@@ -7120,20 +7122,10 @@ begeek.fr##a > img
 begeek.fr##script + a
 begeek.fr##script + div + *
 ! turbo.fr
-turbo.fr###colonne_widgets > [class] > [class] > img
-turbo.fr###colonne_widgets > [class] > img
-turbo.fr###colonne_widgets > [id]
-turbo.fr###colonne_widgets > div > img
-turbo.fr##[src*="ligatus"] + * + * > img
-turbo.fr##[src*="ligatus"] + * > img
-turbo.fr##[src*="ligatus.com"] + * + * + * > img
-turbo.fr##[src*="ligatus.com"] > img
-turbo.fr##img + script + [id]
-turbo.fr##p + div > img
-turbo.fr##script + [id] img
-turbo.fr##script + div > a > img
-turbo.fr##script + div > img
-turbo.fr##script[src^="http://a.ligatus.com/?"] + * img
+@@||turbo.fr/js/publicite.js$script,~third-party
+@@||turbo.fr^*ad$image,~third-party
+turbo.fr###colRight img[src^="/style/images/"]
+turbo.fr##script + * img[src^="/style/images/"]
 ! meteocity.com
 meteocity.com##.sidebar > div + style + div[class]
 ||meteocity.com/images/$xmlhttprequest
