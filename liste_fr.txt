@@ -6793,6 +6793,8 @@ skiplimite.tv#@##ad300x250
 ! Ligatus crap
 ! Foot01
 foot01.com###primary li > [style^="background"]
+foot01.com##.pub + * + * img
+foot01.com##.pub + * + [class]
 foot01.com##.pub + * > [class] > img
 foot01.com##.pub + * > [style^="background"]
 foot01.com##.pub + [class] > [class] > [class] > img
@@ -6802,7 +6804,6 @@ foot01.com##abc
 foot01.com##div + * > img
 foot01.com##div + [style^="background"]
 foot01.com##div > [style^="background"]
-foot01.com##div > a
 foot01.com##div > ul > li + div
 foot01.com##div[style^="background"]
 foot01.com##h2 + * > img
