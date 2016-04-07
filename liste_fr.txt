@@ -6835,7 +6835,12 @@ macg.co##script + div + [id]
 macg.co##script + div + p + [class]
 macg.co##script + div + p + [id]
 ! igen.fr
-igen.fr##.bloc-accroches + * > img[src]
+igen.fr##.article > [class] > img
+igen.fr##.article > div + * > img
+igen.fr##.article > div > img
+igen.fr##.bloc-accroches + * + * + * > img
+igen.fr##.bloc-accroches + * + * > img
+igen.fr##.bloc-accroches + * > img
 igen.fr##.bloc-accroches + div[id]
 igen.fr##.news + * > img
 igen.fr##.sidebar img
