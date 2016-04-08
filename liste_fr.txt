@@ -2182,6 +2182,7 @@ about:blank$popup,domain=gorillavid.in
 ||vpn-surf.com^$popup,domain=smartorrent.com
 ||w3sexe.com/logo.php?
 ||wallmanga.com/img/anim_banniere_
+||wat.tv^*#autoStart=1$subdocument,domain=tf1.fr
 ||wbz11.com/m/habillage/
 ||wcdn.co.il/banners/
 ||web-autosurf.com/promo/
@@ -6384,8 +6385,6 @@ journaldunet.com##div[class] > [class] > img[src]:last-child
 @@||novaplanet.com/sites/all/themes/nova/plugins/smartbanner/jquery.smartbanner.js
 @@||oberon-media.com/Advertisement/
 @@||ohm-immobilier.fr/images/ads/
-@@||openad.tf1.fr/realmedia/ads/adstream_mjx.ads/*/video/$script
-@@||openad.tf1.fr/RealMedia/ads/adstream_mjx.ads/www.eurosportplayer.fr/home/$script,domain=eurosportplayer.fr
 @@||ophtalmo.tv/video/ads/$object-subrequest
 @@||ouifm.adswizz.com//www/components/
 @@||ouifm.adswizz.com/www/components/
