@@ -427,11 +427,14 @@
 @preroll/*,adb=$xmlhttprequest
 @publicite@
 \adds\adds.
+_250x300_
 _300x250&
 _300x600&
 _46860_
 _468x60&
+_60x468_
 _728x90&
+_90x728_
 _970x250.
 _ad_unit.
 _adclick_$subdocument
@@ -2897,9 +2900,12 @@ blob:http://www.nextinpact.com/
 ||iphonetweak.fr/js/prototype.js
 ||ipodtouchisapro.com/wp-content/uploads/*/CTP-banners-
 ||ipodtouchisapro.com/wp-content/uploads/*/gif-pub.gif
-||israelmagazine.co.il^*/uploads/anime*.swf
-||israelmagazine.co.il^*/uploads/banniere_
-||israelmagazine.co.il^*/uploads/nahmias-haddad.swf
+||israelmagazine.co.il/*/wp-cart-for-digital-products/
+||israelmagazine.co.il/wp-content/*238x198
+||israelmagazine.co.il/wp-content/*250x208
+||israelmagazine.co.il/wp-content/*300x250
+||israelmagazine.co.il/wp-content/*banner
+||israelmagazine.co.il/wp-content/uploads/*/Dr-
 ||itele.fr/content/skins/*_habillage.
 ||itmag-dz.com/pub/
 ||itnewsinfo.com/pub/
@@ -5509,6 +5515,7 @@ voila.fr##.footer_tr
 frenchpopcorn.com##.footer_vpn
 gratuit-xxx.com##.footerboost
 supertoinette.com##.g-ads-336-250
+israelmagazine.co.il##.g-dyn
 nautiljon.com##.gad
 gamekult.com##.gamerprices-tab
 lemonde.fr##.global.services
@@ -5907,6 +5914,7 @@ jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 megatorrent.biz##[onclick="getVpn();"]
 boursorama.com##[style="width: 1000px; margin: 0px auto; min-width: 0px; min-height: 90px; display: block;"]
 forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding:15px"]
+israelmagazine.co.il##a > img[width="238"]
 cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
@@ -6006,7 +6014,7 @@ lefigaro.fr##a[href^="http://cplussur.lefigaro.fr/"]
 only-iphone.fr##a[href^="http://fr.copytrans.net/copytranscontacts.php?utm_source="]
 argentmania.com##a[href^="http://fr.scratchmania.com/?brandId="]
 brunotritsch.fr##a[href^="http://fr.webmaster-rank.info/stat/affiliate/"]
-abidjan.net,igen.fr,lnc.nc,macg.co##a[href^="http://goo.gl/"]
+abidjan.net,igen.fr,israelmagazine.co.il,lnc.nc,macg.co##a[href^="http://goo.gl/"]
 moviz-telecharger.com##a[href^="http://moviz-telecharger.com/films-en-qualité-hd-"]
 opensubtitles.org##a[href^="http://osdb.link/go?"]
 jamsvu.fr##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
@@ -6072,6 +6080,7 @@ lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
 ca-anjou-maine.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
+israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="100"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
