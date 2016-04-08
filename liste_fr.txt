@@ -364,6 +364,7 @@
 /renklam/*
 /rotation.php?idaff=
 /rotator.php?zone=$script
+/rotban/*$script
 /rsense-ad.
 /rsense_ad.
 /sas-banner-
@@ -1687,6 +1688,7 @@ about:blank$popup,domain=gorillavid.in
 ||compteur-blog.net/img/pub_
 ||conference-islam.be/documents/Image/banners/
 ||congosolution.com/img/images/pub*.gif
+||conseillemoi.com/images/$third-party
 ||contentabc.com/ads/
 ||coorsa.com^*/?task=*.widget&
 ||coquinissime.com/promo/
@@ -1765,6 +1767,7 @@ about:blank$popup,domain=gorillavid.in
 ||findizer.fr/partners/
 ||findmysexfriend.com^$popup,domain=extremepc.fr
 ||fitnext.com/masculin_box$third-party
+||flux.effiliation.com^
 ||flyrelax.com/wp-widget/widget.php
 ||fortuneinternet101.com/Bannieres/
 ||fpcplugs.com/do.cgi?
@@ -5955,6 +5958,7 @@ streaminghd.fr##a[href="http://streaminghd.fr/MaxiStreaming"]
 streaminghd.fr##a[href="http://streaminghd.fr/StreamIllimite"]
 streamingk.com##a[href="http://streamingk.com/watch.php"]
 afroo.com##a[href="http://www.afromeet.com/"]
+space-blogs.net##a[href="http://www.bleuhabitat.fr/"] > img
 coco.fr##a[href="http://www.joker.net"]
 shinymen.com##a[href="http://www.karouikaroui.com/fr/outdoor/"]
 zone-telechargement.com##a[href="http://www.zone-telechargement.com/x.php"]
@@ -6201,7 +6205,7 @@ ajoutezvotresite.com,bricozone.be##img[width="160"][height="600"]
 vatry.com##img[width="300"][height="190"]
 israelmagazine,maliweb.net,soonnight.com,undernews.fr##img[width="300"][height="250"]
 supplychainmagazine.fr##img[width="468"]
-echangegagnant.com,espace-francophone.com,genhit.com,israelmagazine.co.il##img[width="468"][height="60"]
+echangegagnant.com,espace-francophone.com,genhit.com,israelmagazine.co.il,space-blogs.net##img[width="468"][height="60"]
 israelmagazine.co.il##img[width="600"][height="90"]
 forum.soirnet.fr##img[width="720"][height="100"]
 maliweb.net,undernews.fr##img[width="728"][height="90"]
