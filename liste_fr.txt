@@ -6899,7 +6899,10 @@ begeek.fr##script + div + *
 ! turbo.fr
 @@||turbo.fr/js/publicite.js$script,~third-party
 @@||turbo.fr^*ad$image,~third-party
+!
+turbo.fr###article + * img
 turbo.fr###colRight img[src^="/style/images/"]
+turbo.fr##.rub + * img
 turbo.fr##script + * img[src^="/style/images/"]
 ! meteocity.com
 meteocity.com##.sidebar > div + style + div[class]
