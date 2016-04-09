@@ -2154,6 +2154,7 @@ about:blank$popup,domain=gorillavid.in
 ||toutsurlesabdos.com/images/bannieres_$domain=europeplusnet.info
 ||track.bloglog.com^$third-party
 ||trackuity.*/*/ticker/
+||travelagency.travel/img/Partners/*/logo-
 ||tripadvisor.com/*/partner/$third-party
 ||tripadvisor.com/WidgetEmbed-$domain=aujourdhui-en-france.fr|leparisien.fr
 ||tripadvisor.ru/WidgetEmbed-tcphoto?$domain=larussiedaujourdhui.fr
@@ -2365,6 +2366,8 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||ad.referencement.01net.com^
 ||adli.pw/campagnes/
 ||adopteunmec.com^*/pave_partenaire_
+||aeroport.fr/sites/default/files/*/pub-
+||aeroport.fr/sites/default/files/users/*.gif
 ||affaires-dz.com/images/banners/
 ||affination.com^*/banners/$third-party
 ||africanmanager.com/oad/
@@ -5396,6 +5399,7 @@ nouvelobs.com##.bloc-partenaires
 nouvelobs.com##.bloc-partners
 aujourdhui-en-france.fr,leparisien.fr##.bloc-pratique
 logitheque.com##.bloc-pub-center-left
+aeroport.fr##.bloc-shopping
 aujourdhui-en-france.fr,leparisien.fr##.blocPartenaire
 auto-utilitaire.com,mobilealgerie.com##.bloc_728x90_brd
 psychologies.com##.bloc_abo
