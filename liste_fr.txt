@@ -1935,6 +1935,7 @@ about:blank$popup,domain=gorillavid.in
 ||movietrailer.click^$subdocument
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
 ||mwzip.com/banner.
+||myfullstream.xyz/wp-content/uploads/$third-party
 ||mynewblog.com/tracker.php?
 ||mynewsnet.ch/newsnet-$third-party
 ||myposeo.com^*250x250.swf?$third-party
@@ -4713,6 +4714,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ##div[onclick*="/regiedeep.php?"]
 ##gwd-doubleclick
 ##section[onclick*="/publicite-300-250/"]
+##table > tbody > tr > td > a[href="http://www.pubdirecte.com"]
 !
 !----------------------- Éléments -----------------------!
 !
