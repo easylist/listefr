@@ -124,6 +124,7 @@
 /ads-lootmarketllc.
 /ads.*/banners/*
 /ads/ad1.
+/Ads/ad_
 /ads/banner02.
 /ads/banner03.
 /ads/bigbox?
@@ -420,6 +421,7 @@
 =publicite&
 =show_ads;
 =sponsored_links_
+?ad_id=
 ?adlink/
 ?bannertag=
 ?clickTag=
@@ -486,6 +488,7 @@ _Social-Advert-
 !------------------------ Génériques popup -----------------------!
 !
 &ad_domain=$popup
+&ad_id=$popup
 &ad_path=$popup
 &ad_spv=$popup
 &adcid=$popup
@@ -507,6 +510,7 @@ _Social-Advert-
 /adcint/*$popup
 /adplexmedia/*$popup
 /ads.php?$popup
+/ads/out.$popup
 /ads?key=$popup
 /ads?spot_id=$popup
 /ads_$popup
@@ -1450,6 +1454,7 @@ _pop.php?z=$popup
 ||promo.voyance-web.fr^$popup,third-party
 ||promotions.djummer.com^$popup,third-party
 ||pt21na.com^$popup,third-party
+||purlive.com^$popup,third-party
 ||redpeepers.com^$popup,third-party
 ||reflexcash.com^$popup,third-party
 ||regie3digital.com^$popup,third-party
@@ -1663,6 +1668,7 @@ about:blank$popup,domain=gorillavid.in
 ||buzzypeople.fr/webplayertv/728x90wa.png
 ||c-gratuit.com/logo/aff_logo.php?
 ||cadremploi.fr/assets/widgets/$third-party
+||camsympa.com/?tracker=$popup
 ||canaljeuvideo.com/var/storage/habillages/
 ||caradisiac.com/javascript/fonctions_first.js
 ||cashtravel.info/banners/
@@ -4663,7 +4669,6 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ##.zonepub
 ##[data-type="ligatus-script"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
-##a[href*=".php?ad_id="]
 ##a[href*=".php?ads_id="]
 ##a[href*=".voluumtrk.com/"]
 ##a[href*="/?a_aid="]
@@ -4672,6 +4677,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ##a[href*="/regiehab.php?"]
 ##a[href*="/telechargement-rapide.php?"]
 ##a[href*="/tracking_campaign.php?"]
+##a[href*="?ad_id="]
 ##a[href*="ads_random"]
 ##a[href*="friendlyduck"]
 ##a[href*="qadserver.com"]
@@ -4684,6 +4690,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ##a[href^="http://ad-online.biz/"]
 ##a[href^="http://adv-mybankai.ggcorp.me/"]
 ##a[href^="http://always-parser.xyz/"]
+##a[href^="http://centredecontrole.biz/ads/"]
 ##a[href^="http://freedowns.info/"]
 ##a[href^="http://givemeclip.com/"]
 ##a[href^="http://go.wwwdg.net/"]
