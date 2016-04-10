@@ -13,6 +13,7 @@
 !----------------------- Filtres génériques ----------------------!
 !
 &ad_domain=
+&ad_image_
 &ad_path=
 &adplace=
 &ads_size_id=
@@ -439,6 +440,7 @@ _60x468_
 _728x90&
 _90x728_
 _970x250.
+_ad_images_
 _ad_unit.
 _adclick_$subdocument
 _adpath_$subdocument
@@ -4095,6 +4097,8 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ###pub728caracpub
 ###pub728x90
 ###pub970acc
+###pubAside
+###pubAside2
 ###pubBandeau
 ###pubBanner
 ###pubBottomRight
@@ -4522,6 +4526,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ##.pubBox
 ##.pubContainer
 ##.pubContent
+##.pubDesk
 ##.pubFlash
 ##.pubGoodDeals
 ##.pubGoogle300
