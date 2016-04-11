@@ -14,6 +14,7 @@
 !
 &ad_domain=
 &ad_image_
+&ad_layer_
 &ad_path=
 &adplace=
 &ads_size_id=
@@ -366,6 +367,7 @@
 /regiepub/*
 /reklamm.js
 /renklam/*
+/right_advertissment.
 /rotation.php?idaff=
 /rotator.php?zone=$script
 /rotban/*$script
@@ -3521,6 +3523,8 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||static.hitek.fr/img/integrations/
 ||static.lacentrale.fr/ressources/images/pages/home/spot_banner.jpg
 ||static.nautiljon.com/images/b1/?
+||static.neowebcar.com/app/nwc/pix/allianz-widget.jpg
+||static.neowebcar.com/app/nwc/pix/cetelem-300.jpg
 ||static.pornovore.fr/droite/
 ||static.programme-tv.net/var/medias-*-590x90-
 ||static.rtl.fr^*/skin/$stylesheet
@@ -4635,6 +4639,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ##.reklam_728_90
 ##.reklama-box
 ##.reklamlink
+##.right_advertissment
 ##.rigthpubvideo
 ##.row_pub
 ##.separepub
@@ -5371,6 +5376,7 @@ lemonde.fr##.annnonces_partenaires
 montelimar-news.fr##.annonce_bloc
 voyageforum.com##.annoncer_sur
 lemonde.fr##.annonces_monster
+neowebcar.com##.argus-logo
 sortiesdvd.com##.art-Post[style="float: left"]
 sortiesdvd.com##.art-Post[style="float: right"]
 madmoizelle.com##.article_banner
@@ -5485,6 +5491,7 @@ psychologies.com##.carrousel_partenaires
 a18ans.com,jamaisjouis.com,liste2cul.com,vidule.com##.catcher
 girlsgogames.fr##.categoryBanner
 akelys.com##.cellulePUB
+neowebcar.com##.cetelem
 yahoo.com##.classickick
 test-mobile.fr##.clickleft
 test-mobile.fr##.clickright
