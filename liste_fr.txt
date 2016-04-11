@@ -17,6 +17,7 @@
 &ad_path=
 &adplace=
 &ads_size_id=
+&adv_sub=
 &campaign_key=
 &cwadformat=
 &playadw=
@@ -425,6 +426,7 @@
 ?ad_id=
 ?adlink/
 ?bannertag=
+?callback=ADS.
 ?clickTag=
 ?imgPrefix=/ligatus/
 ?runauction=*?crr=*&cbrandom=
@@ -1912,6 +1914,10 @@ about:blank$popup,domain=gorillavid.in
 ||maxistreaming.com/pub.html
 ||mayakado.net/parrainage/
 ||media-fire.org^$popup
+||mediapostcommunication.net^
+||mediastay.net^*/js/offers-dyn.
+||mediastay.net^*/js/OMBanners-
+||mediastay.net^*/offers.php?
 ||medieval-war.com/banniere.jpg
 ||megatopsites.com/index.html?$third-party
 ||megauplinks.com/images/120x600mega.png
@@ -2161,6 +2167,7 @@ about:blank$popup,domain=gorillavid.in
 ||tour.reelvidz.com/movie_player_dps/$popup,third-party
 ||toutsurlesabdos.com/images/bannieres_$domain=europeplusnet.info
 ||track.bloglog.com^$third-party
+||track.mdsmatch.com^
 ||trackuity.*/*/ticker/
 ||travelagency.travel/img/Partners/*/logo-
 ||tripadvisor.com/*/partner/$third-party
@@ -3573,6 +3580,8 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||terredauphinoise.fr/casiope/serveur/partage/
 ||tetesaclaques.tv/public/images/promo_mini_300x127_canalplus_FR.jpg
 ||textograto.com/iframe1.php
+||tf1.fr/displaySlideIn.php
+||tf1.fr/js/cobrandingPub/
 ||theadultcompany.biz/*/ff_siteunder/$popup
 ||ti.bank.free.fr/images/jarrety
 ||ticketac.com/upload/banniere/
@@ -3790,6 +3799,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||cloudfront.net^*&tid=$script
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*?tid=$script
+||d14nx4uiqzwnqt.cloudfront.net^
 ||d1eyk8qbbvsiyg.cloudfront.net^
 ||d1izbwxtc3f9ue.cloudfront.net^
 ||d1sj3yrs7ojvv7.cloudfront.net^
