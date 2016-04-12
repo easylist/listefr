@@ -6869,35 +6869,8 @@ skiplimite.tv#@##ad300x250
 ||doubleclick.net^$domain=thebadbuzz.com
 ! Ligatus crap
 ! Foot01
-foot01.com###content > div + * + * > [class]
-foot01.com###primary li > [style^="background"]
-foot01.com##.pub + * + * img
-foot01.com##.pub + * + [class]
-foot01.com##.pub + * > [class] > img
-foot01.com##.pub + * > [style^="background"]
-foot01.com##.pub + [class] > [class] > [class] > img
-foot01.com##.pub + div + * + * > [class]
-foot01.com##.pub + div + * + [class]
-foot01.com##.sidebar > ul > :first-child + * > *
-foot01.com##.sidebar > ul > li:first-child + li
-foot01.com##.sidebar li > [class] > div
-foot01.com##.sidebar li:first-child + * *
-foot01.com##[class] > [id] > [class] > img
-foot01.com##abc
-foot01.com##div + * + * > [class] > img
-foot01.com##div + * + [class] > [class]
-foot01.com##div + * > img
-foot01.com##div + [style^="background"]
-foot01.com##div > [style^="background"]
-foot01.com##div > ul > li + div
-foot01.com##div[style^="background"]
-foot01.com##h2 + * > img
-foot01.com##h3 + * > img
-foot01.com##li > div > img
-foot01.com##li[class] > [id] > div[class]
-foot01.com##li[id]
-foot01.com##span > img
-foot01.com##span [style^="background"]
+foot01.com##div + * + * + * img
+||static.foot01.com/img/*.*.jpg
 ! linternaute.com
 linternaute.com##div[style$="cursor: pointer; width: 32%;"]
 ! commentcamarche.net
