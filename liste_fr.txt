@@ -6948,10 +6948,11 @@ begeek.fr##script + div + *
 @@||turbo.fr/js/publicite.js$script,~third-party
 @@||turbo.fr^*ad$image,~third-party
 !
-turbo.fr###article + * img
-turbo.fr###colRight img[src^="/style/images/"]
-turbo.fr##.rub + * img
-turbo.fr##script + * img[src^="/style/images/"]
+turbo.fr###colLeft > script + * + [class]
+turbo.fr###colRight
+turbo.fr##.titreArticle + * + * > [class]
+|http://$script,third-party,xmlhttprequest,domain=turbo.fr
+||turbo.fr/sprites/global.png?
 ! meteocity.com
 meteocity.com##.sidebar > div + style + div[class]
 ||meteocity.com/images/$xmlhttprequest
