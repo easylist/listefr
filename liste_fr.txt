@@ -6888,8 +6888,13 @@ skiplimite.tv#@##ad300x250
 ||doubleclick.net^$domain=thebadbuzz.com
 ! Ligatus crap
 ! Foot01
-foot01.com##div + * + * + * img
-||static.foot01.com/img/*.*.jpg
+@@||ajax.googleapis.com^$domain=foot01.com
+@@||disqus.com^$script,domain=foot01.com
+@@||static.foot01.com/img/images/
+foot01.com##.sidebar li + [class] > [class] > [class]
+foot01.com##div + * + * + * > [class] > img
+|http://$script,subdocument,third-party,xmlhttprequest,domain=foot01.com
+||static.foot01.com/img/
 ! linternaute.com
 linternaute.com##div[style$="cursor: pointer; width: 32%;"]
 ! commentcamarche.net
