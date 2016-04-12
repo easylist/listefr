@@ -5610,6 +5610,9 @@ jeuxactu.com##.jablockpub
 idf1.fr##.jcarousel
 jdubuzz.com,journaldugamer.com,journaldugeek.com,pixelistes.com##.jdg-recommend
 lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.jobsregions
+jeuxonline.info##.jol-adlabel
+jeuxonline.info##.jol-adlabel-dark
+jeuxonline.info##.jol-adlabel-topright
 allocine.fr##.jtp
 ergor.org##.ladypub
 faclic.com##.lbx_content
@@ -5888,6 +5891,7 @@ blogs.lesinrocks.com##.sub_headline.top
 imobie.fr##.support_guide_download_upper
 forum.sportytrader.com##.tableau_bleu
 walfoot.be##.take-banner
+jeuxonline.info##.takeover-link
 omgtorrent.me##.telecharger-torrent
 asso-web.com##.text_pub
 wakanim.tv##.theoplayer-error
@@ -6095,6 +6099,7 @@ forumconstruire.com##a[href^="http://www.forumconstruire.com/torm3/click.php?"]
 forumpiscine.com##a[href^="http://www.forumpiscine.com/torm3/click.php?"]
 guide-piscine.fr##a[href^="http://www.guide-piscine.fr/scripts/gp_div_clic.php?"]
 9rayti.com##a[href^="http://www.ilycee.com/?utm_source="]
+jeuxonline.info##a[href^="http://www.jeuxonline.info/videos/toutes/"]
 kaamelott-streaming.tv##a[href^="http://www.kaamelott-streaming.tv/partenaire/"]
 cowcotland.com##a[href^="http://www.ldlc.com#aff"] > img
 dhnet.be##a[href^="http://www.livepartners.be/affiliate/"]
@@ -6195,9 +6200,11 @@ cinemay.com##div[style="float:right; width:728px; height:90px; background-color:
 e-nautia.com##div[style="float:right;margin-right:-12px;margin-top:-6px;width:300px"]
 1fichier.fr##div[style="float:right;width:300px;height:600px"]
 pagerank.fr##div[style="height: 40px; width: 750px; margin: auto; background-image: url(/images/degradebas.gif); background-repeat: no-repeat; background-position: bottom; padding-top: 10px;"]
+jeuxonline.info##div[style="height:250px"]
 futura-sciences.com##div[style="height:250px; width:300px;"]
 jeuxactu.com##div[style="height:250px;width:300px;"]
 ibuzzyou.fr##div[style="height:280px;float:left;"]
+jeuxonline.info##div[style="height:90px"]
 futura-sciences.com##div[style="height:90px; width:728px;"]
 phpsources.org##div[style="margin-bottom:15px;"] > table > tbody
 telesatellite.com##div[style="margin-left: auto;margin-right: auto; text-align:center"]
@@ -6255,7 +6262,9 @@ algerie360.com##div[style^="width:336px !important; height:280px !important;"]
 lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
-jeuxonline.info##iframe[style^="width:"]
+jeuxonline.info##iframe[height="250"]
+jeuxonline.info##iframe[height="90"]
+euxonline.info,jeuxonline.info##iframe[style^="width:"]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
