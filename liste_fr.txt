@@ -457,6 +457,7 @@ _emplacements.php?f=300x125
 _emplacements.php?f=300x250
 _emplacements.php?f=468x60
 _emplacements.php?f=728x90
+_epmads.
 _liens_sponsorises.
 _logic_on_ad.
 _pages_ad.
@@ -508,6 +509,7 @@ _Social-Advert-
 .com.sa/ads?$popup
 .loading-delivery2.$popup
 .popunder.$popup
+.promorewards.$popup
 /?pub_id=*&sub_id=$popup
 /?tid=*&red=$popup
 /__utm.gif$popup
@@ -569,6 +571,7 @@ _Social-Advert-
 ?action=linkpub&$popup
 ?adCampaign=$popup
 ?id_rotation=$popup
+?MediaSegmentId=$popup
 ?preview=*&pgid*&from_sz=$popup
 ?runauction=*?crr=*&ctbust=$popup
 ?voluumdata=$popup
@@ -700,6 +703,7 @@ _pop.php?z=$popup
 ||adtrafic.com^$third-party
 ||adual.net^$third-party
 ||advance.net^$third-party
+||advanpromo.com^$third-party
 ||advantagz.com^$third-party
 ||advarkads.com^$third-party
 ||adverkeyz.com^$third-party
@@ -711,6 +715,7 @@ _pop.php?z=$popup
 ||advertoly.com^$third-party
 ||advertsponsor.com^$third-party
 ||advideo.ru^$third-party
+||advinapps.com^$third-party
 ||advprivate.com^$third-party
 ||advquality.com^$third-party
 ||adwebmanager.com^$third-party
@@ -999,6 +1004,7 @@ _pop.php?z=$popup
 ||motorsregie.com^$third-party
 ||moxielinks.com^$third-party
 ||mp3toavi.xyz^$third-party
+||multilinkhost.com^$third-party
 ||mumbai-invest.email^$third-party
 ||mxpopad.com^$third-party
 ||mxttrf.com^$third-party
@@ -1335,6 +1341,7 @@ _pop.php?z=$popup
 ||adorika.com^$popup,third-party
 ||adorika.net^$popup,third-party
 ||adquantix.com^$popup,third-party
+||adrunnr.com^$popup,third-party
 ||ads-in-games.com^$popup,third-party
 ||adsawesome.com^$popup,third-party
 ||adschemist.com^$popup,third-party
@@ -1482,6 +1489,7 @@ _pop.php?z=$popup
 ||soosooka.com^$popup,third-party
 ||spaceshipads.com^$popup,third-party
 ||sporary.eu^$popup,third-party
+||spotscenered.info^$popup,third-party
 ||srvmd30s.com^$popup,third-party
 ||startnewtab.com^$popup,third-party
 ||stream4stream.com^$popup,third-party
@@ -1790,6 +1798,7 @@ about:blank$popup,domain=gorillavid.in
 ||frenchfriendfinder.com^$domain=choualbox.com
 ||frequence-tv.com/images/frpub.gif
 ||full-wallpaper.com/wallpaperday.js$third-party
+||fullqurandownload.com^$popup
 ||fullqurandownload.com^$subdocument
 ||funradio.fr/partenaires/
 ||g2a.com/r/$popup
@@ -6415,6 +6424,7 @@ journaldunet.com##div[class] > [class] > img[src]:last-child
 @@||lesinrocks.com/min/?f=wp-content/themes/lesinrocks_theme/js/lib/jquery-$script
 @@||lesinrocks.com/wp-content/plugins/minifier/min/?f=$script
 @@||libs.iraiser.eu/users/ffc/Header-pagededon.jpg
+@@||linkbucks.com/scripts/script-adv.js$script,third-party
 @@||m2radio.fr/include/player/flash.swf?$domain=~live.m2stream.fr
 @@||mac4ever.com/min.php?$script
 @@||malakoffmederic.com/entreprise/*/affiliation/
@@ -6489,6 +6499,7 @@ journaldunet.com##div[class] > [class] > img[src]:last-child
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 @@||wifeo.com/ads/promo/advertise-publicite.gif|$image,third-party
 @@||youwatch-series.com^$generichide
+@@||zatnawqy.net/intermission/loadTargetUrl?$~third-party,xmlhttprequest
 ! Radins.com
 @@||ad-emea.doubleclick.net/clk;$subdocument,domain=track.radins.com
 @@||ad.zanox.com/ppc/?$subdocument,domain=track.radins.com
