@@ -4370,6 +4370,8 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ##.advert-under-hedaer2-left
 ##.advert-under-hedaer2-right
 ##.advertisement-pub
+##.advimg46860
+##.advimg72890
 ##.adwords_bottom
 ##.annonce_pub_contenu
 ##.annonces_google
@@ -6598,7 +6600,7 @@ forums.macg.co#@#script + div + [id]
 /modules/mod_jpayday/*
 /wp-content/uploads/an-temp/*$script,stylesheet
 !
-@@.gif#$image,domain=youwatch-series.com
+@@.gif#$image,domain=sos-lettre.fr|youwatch-series.com
 @@.jpg#$image,domain=dpstream.cc|naruto-mx.net
 @@.png#$image,domain=bbstreaming.com|cacastream.com|crash-aerien.aero|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|rapidebrideur.com|total-sport.tv|tout-debrid.net|tout-gratuit.be|youwatch-series.com
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
@@ -6661,9 +6663,9 @@ forums.macg.co#@#script + div + [id]
 @@||mymanga.io/css/advertise.css
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=crash-aerien.news|cuisineactuelle.fr|ot-boutique.fr|pcastuces.com|quebeccoupongratuit.com|slideplayer.fr|vide-greniers.org|voyageforum.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=crash-aerien.news|cuisineactuelle.fr|ot-boutique.fr|pcastuces.com|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|vide-greniers.org|voyageforum.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bricozone.fr|crash-aerien.news|cuisineactuelle.fr|leetgamerz.net|quebeccoupongratuit.com|slideplayer.fr|vide-greniers.org|voyageforum.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|pcastuces.com|universal-soundbank.com|zeperfs.com
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|pcastuces.com|sos-lettre.fr|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pub-config/ca-pub-*.js$domain=bricozone.fr
 @@||pagefair.com/static/adblock_detection/js/$script,third-party
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=f1i.com
@@ -6753,6 +6755,7 @@ pcastuces.com##div[style="display: block; min-height: 120px; background-color: r
 @@||phonandroid.com^$generichide
 @@||rapidebrideur.com^$elemhide
 @@||seriehentai.com^$elemhide
+@@||sos-lettre.fr^$generichide
 @@||total-sport.tv^$elemhide
 @@||tout-debrid.net^$generichide
 !
