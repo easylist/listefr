@@ -6955,14 +6955,11 @@ begeek.fr##a > img
 begeek.fr##script + a
 begeek.fr##script + div + *
 ! turbo.fr
-@@||turbo.fr/js/publicite.js$script,~third-party
-@@||turbo.fr^*ad$image,~third-party
-!
-turbo.fr###colLeft > script + * + [class]
-turbo.fr###colRight
-turbo.fr##.titreArticle + * + * > [class]
+@@||player.m6web.fr^$domain=turbo.fr
+@@||tms.m6web.fr^$domain=turbo.fr
 |http://$script,third-party,xmlhttprequest,domain=turbo.fr
-||turbo.fr/sprites/global.png?
+||turbo.fr/api/log/
+||www.turbo.fr/*.jpg
 ! meteocity.com
 meteocity.com##.sidebar > div + style + div[class]
 ||meteocity.com/images/$xmlhttprequest
