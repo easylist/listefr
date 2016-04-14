@@ -3392,6 +3392,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||promo.vador.com^
 ||promo.vador.com^$popup
 ||protect-stream.com/films-streaming.php
+||protect-stream.com/pub.php
 ||protect-stream.com/series-streaming.php
 ||protect-url.net/imgbup/
 ||ps-arena.com/mediadir/2/4/8/24859.swf
@@ -6606,7 +6607,7 @@ forums.macg.co#@#script + div + [id]
 !
 @@.gif#$image,domain=sos-lettre.fr|youwatch-series.com
 @@.jpg#$image,domain=dpstream.cc|naruto-mx.net
-@@.png#$image,domain=bbstreaming.com|cacastream.com|crash-aerien.aero|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|rapidebrideur.com|total-sport.tv|tout-debrid.net|tout-gratuit.be|youwatch-series.com
+@@.png#$image,domain=bbstreaming.com|cacastream.com|crash-aerien.aero|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|protect-stream.com|rapidebrideur.com|total-sport.tv|tout-debrid.net|tout-gratuit.be|youwatch-series.com
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|jeux.fr|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|ouest-france.fr|silicon.fr
@@ -6756,6 +6757,7 @@ pcastuces.com##div[style="display: block; min-height: 120px; background-color: r
 @@||naruto-mx.net^$elemhide
 @@||partage-facile.com^$elemhide
 @@||phonandroid.com^$generichide
+@@||protect-stream.com^$generichide
 @@||rapidebrideur.com^$elemhide
 @@||seriehentai.com^$elemhide
 @@||sos-lettre.fr^$generichide
