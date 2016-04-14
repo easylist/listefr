@@ -2020,6 +2020,7 @@ about:blank$popup,domain=gorillavid.in
 ||planete-hit.com/hit.php?
 ||planethoster.net/images/bannieres/$third-party
 ||player.mediabong.com/syncroll/*/loader.js?
+||playstation.com^$popup,domain=forums.jeuxonline.info
 ||pointscommuns.com/images/bannieres/$third-party
 ||pooki.fr/banner/
 ||porn.fr^*/site_id/$popup
@@ -6281,7 +6282,7 @@ vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 jeuxonline.info##iframe[height="250"]
 jeuxonline.info##iframe[height="90"]
-euxonline.info,jeuxonline.info##iframe[style^="width:"]
+euxonline.info##iframe[style^="width:"]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
