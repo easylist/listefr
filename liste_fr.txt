@@ -1842,7 +1842,6 @@ about:blank$popup,domain=gorillavid.in
 ||hotpix.fr/widget_js.
 ||hotvines.cc/iframe.php
 ||hqq.tv/js/adb/adb.js
-||i.imgur.com/0mKekma.jpg
 ||i58.servimg.com/u/f58/11/03/61/79/bannie*.png
 ||icpc.tv/banners/$domain=europeplusnet.info
 ||ilbanat.com/images/pubilbanat.gif
@@ -2366,6 +2365,9 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||wwwtatonnai.eu^
 ||wwwtatonnai.info^
 ||wwwtatonnai.uk^
+! imgur.com
+||i.imgur.com/0mKekma.jpg
+||i.imgur.com/5tS8GcN.png
 ! https://forums.lanik.us/viewtopic.php?f=62&t=25548
 ||festivalnikon.fr/video/$popup
 ||uptoporn.com/randomize/$popup
@@ -6017,7 +6019,7 @@ forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 planet-series.tv##a[href*="planet-series.tv/offer?"]
 canalplus.fr##a[href*="smartadserver.com"]
 magicmaman.com##a[href*="smartadserver.com/call/cliccommand/"]
-cacastream.com##a[href*="xmediaserve.com"]
+cacastream.com,ddstream.com##a[href*="xmediaserve"]
 pmu.fr##a[href="/mon-pmu/easypari"]
 french-movies.net##a[href="/videosplus18.html"]
 search-torrent.com##a[href="/videox.php"]
@@ -6139,7 +6141,7 @@ windsurfjournal.com##a[href^="link,"]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 manga-news.com##a[href^="redirection.php?"]
-cacastream.com##a[href^="streaming-series"]
+cacastream.com,ddstream.com##a[href^="streaming-series"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 wawacity.su##a[onclick$="()"]
 t411.ch##a[onclick*="base64"]
@@ -6607,7 +6609,7 @@ forums.macg.co#@#script + div + [id]
 !
 @@.gif#$image,domain=sos-lettre.fr|youwatch-series.com
 @@.jpg#$image,domain=dpstream.cc|naruto-mx.net
-@@.png#$image,domain=bbstreaming.com|cacastream.com|crash-aerien.aero|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|protect-stream.com|rapidebrideur.com|total-sport.tv|tout-debrid.net|tout-gratuit.be|youwatch-series.com
+@@.png#$image,domain=bbstreaming.com|cacastream.com|crash-aerien.aero|ddstream.com|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|protect-stream.com|rapidebrideur.com|total-sport.tv|tout-debrid.net|tout-gratuit.be|youwatch-series.com
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|jeux.fr|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|ouest-france.fr|silicon.fr
@@ -6745,6 +6747,7 @@ pcastuces.com##div[style="display: block; min-height: 120px; background-color: r
 @@||crash-aerien.aero^$elemhide
 @@||crash-aerien.news^$generichide
 @@||danslescoulisses.com^$elemhide
+@@||ddstream.com^$generichide
 @@||dpstream.cc^$elemhide
 @@||dpstream.tv^$elemhide
 @@||entrepriseindividuelle.info^$elemhide
