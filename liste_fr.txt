@@ -3540,6 +3540,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||staractus.fr/wp-content/uploads/*/habillage.gif
 ||starter.fm/blog/*/bg_$image
 ||starter.fm/images/*/bg_
+||static.basket-infos.com/wp-content/uploads/Pub-
 ||static.ccm2.net/*/img/appstv/
 ||static.hitek.fr/img/bg.png
 ||static.hitek.fr/img/emoticons/
@@ -5987,6 +5988,7 @@ jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 megatorrent.biz##[onclick="getVpn();"]
 boursorama.com##[style="width: 1000px; margin: 0px auto; min-width: 0px; min-height: 90px; display: block;"]
 forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding:15px"]
+basket-infos.com##a > img[alt^="Pub"]
 israelmagazine.co.il##a > img[width="238"]
 cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
