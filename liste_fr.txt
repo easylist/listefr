@@ -2368,6 +2368,8 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ! imgur.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
+||i.imgur.com/qC2Tc51.png
+||i.imgur.com/SmRC1lO.png
 ! https://forums.lanik.us/viewtopic.php?f=62&t=25548
 ||festivalnikon.fr/video/$popup
 ||uptoporn.com/randomize/$popup
@@ -4712,6 +4714,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ##.wrapperPub
 ##.yourcolor-ads
 ##.zonepub
+##A[href*="=INSERT_RANDOM_NUMBER_HERE&"]
 ##[data-type="ligatus-script"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
 ##a[href*=".php?ads_id="]
@@ -6019,7 +6022,7 @@ forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 planet-series.tv##a[href*="planet-series.tv/offer?"]
 canalplus.fr##a[href*="smartadserver.com"]
 magicmaman.com##a[href*="smartadserver.com/call/cliccommand/"]
-cacastream.com,ddstream.com##a[href*="xmediaserve"]
+cacastream.com,ddstream.com,youwatch-series.com##a[href*="xmediaserve"]
 pmu.fr##a[href="/mon-pmu/easypari"]
 french-movies.net##a[href="/videosplus18.html"]
 search-torrent.com##a[href="/videox.php"]
@@ -6141,7 +6144,7 @@ windsurfjournal.com##a[href^="link,"]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 manga-news.com##a[href^="redirection.php?"]
-cacastream.com,ddstream.com##a[href^="streaming-series"]
+cacastream.com,ddstream.com,youwatch-series.com##a[href^="streaming-series"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 wawacity.su##a[onclick$="()"]
 t411.ch##a[onclick*="base64"]
