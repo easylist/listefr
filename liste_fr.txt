@@ -6656,6 +6656,7 @@ forums.macg.co#@#script + div + [id]
 @@||doubleclick.net/favicon.ico$image
 @@||doubleverify.com^$domain=kissanime.com
 @@||folihentai.eu/*.js|$script,third-party
+@@||freezcall.com/call_back/inc/advert.js$script,~third-party
 @@||fusacq.com/javascript/ads.js
 @@||gamingroom.tv/static/img/advert.png?
 @@||googleads.g.doubleclick.net/pagead/ads?$object-subrequest,domain=mahjonggratuit.fr
