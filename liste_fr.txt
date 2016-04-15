@@ -6893,8 +6893,8 @@ skiplimite.tv#@##ad300x250
 ||doubleclick.net^$domain=thebadbuzz.com
 ! Ligatus crap
 ! Foot01
-foot01.com##.sidebar li > :first-child > [class]:first-child:last-child
 @@||disqus.com^$script,domain=foot01.com
+foot01.com##.sidebar li > :first-child > [class]:first-child:last-child
 foot01.com##[class$=" "] > img
 |http://$script,third-party,domain=foot01.com
 |http://$subdocument,xmlhttprequest,domain=foot01.com
@@ -6959,11 +6959,15 @@ begeek.fr##a > img
 begeek.fr##script + a
 begeek.fr##script + div + *
 ! turbo.fr
+turbo.fr###colonne_widgets > [class]:first-child
+turbo.fr##.bloc-emission + [id] > [id]
+turbo.fr##.blockHome + [id] > [class$=" "]
+turbo.fr##.rub + [id] > [id]
 @@||player.m6web.fr^$domain=turbo.fr
 @@||tms.m6web.fr^$domain=turbo.fr
+turbo.fr##img[src*="clubic.com"] + [id] > [id]
 |http://$script,third-party,xmlhttprequest,domain=turbo.fr
 ||turbo.fr/api/log/
-||www.turbo.fr/*.png
 ! meteocity.com
 meteocity.com##.sidebar > div + style + div[class]
 ||meteocity.com/images/$xmlhttprequest
