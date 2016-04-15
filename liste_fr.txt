@@ -6183,6 +6183,7 @@ msn.com##div[data-aop="stripe.health.ad_ad"]
 msn.com##div[data-aop^="stripe.shopping"]
 msn.com##div[data-module-id*=".shopping."]
 allocine.fr##div[data-w="clickCommand"]
+notebookcheck.biz##div[id] + div[class] > img:first-child
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
 actufoot.fr,livefootball.fr,mercato.fr##div[id^="ad6b_"]
 gratuitcul.com##div[id^="affidate_form_"]
