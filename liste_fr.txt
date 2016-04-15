@@ -6893,11 +6893,11 @@ skiplimite.tv#@##ad300x250
 ||doubleclick.net^$domain=thebadbuzz.com
 ! Ligatus crap
 ! Foot01
-foot01.com##.pub + * + * + * + * + * > [class]
-foot01.com##.pub + * + * + * + * + * img
-foot01.com##.sidebar li > [class] > [class]
+foot01.com##.sidebar li > :first-child > [class]:first-child:last-child
 @@||disqus.com^$script,domain=foot01.com
-|http://$script,subdocument,xmlhttprequest,domain=foot01.com
+foot01.com##[class$=" "] > img
+|http://$script,third-party,domain=foot01.com
+|http://$subdocument,xmlhttprequest,domain=foot01.com
 ! linternaute.com
 linternaute.com##div[style$="cursor: pointer; width: 32%;"]
 ! commentcamarche.net
