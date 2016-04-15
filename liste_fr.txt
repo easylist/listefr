@@ -6897,6 +6897,7 @@ skiplimite.tv#@##ad300x250
 ||doubleclick.net^$domain=thebadbuzz.com
 ! Ligatus crap
 ! Foot01
+@@||ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js$domain=foot01.com
 @@||disqus.com^$script,domain=foot01.com
 @@||live.foot01.com^$subdocument
 foot01.com##.sidebar li > :first-child > [class]:first-child:last-child
