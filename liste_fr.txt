@@ -6964,7 +6964,7 @@ begeek.fr##script + div + *
 @@||tms.m6web.fr^$domain=turbo.fr
 |http://$script,third-party,xmlhttprequest,domain=turbo.fr
 ||turbo.fr/api/log/
-||www.turbo.fr/*.jpg
+||www.turbo.fr/*.png
 ! meteocity.com
 meteocity.com##.sidebar > div + style + div[class]
 ||meteocity.com/images/$xmlhttprequest
