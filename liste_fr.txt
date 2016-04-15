@@ -6898,6 +6898,7 @@ skiplimite.tv#@##ad300x250
 ! Ligatus crap
 ! Foot01
 @@||disqus.com^$script,domain=foot01.com
+@@||live.foot01.com^$subdocument
 foot01.com##.sidebar li > :first-child > [class]:first-child:last-child
 foot01.com##[class$=" "] > img
 |http://$script,third-party,domain=foot01.com
