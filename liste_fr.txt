@@ -6350,6 +6350,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||ad2play.ftv-publicite.fr/js/ad2play.js$domain=mytaratata.com
 @@||ad4.liverail.com/?_=$domain=gamingroom.tv
 @@||ad4.liverail.com/?LR_ADMAP=$object-subrequest,domain=ultimedia.com
+@@||adback.co^$~third-party
 @@||adgear.com^*/adgear.js$domain=tetesaclaques.tv|tou.tv
 @@||adimages.ch^$domain=adimages.ch
 @@||admedia.rtl.fr/online/sound/$object-subrequest,domain=rtl.fr
