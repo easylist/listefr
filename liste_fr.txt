@@ -1546,8 +1546,6 @@ _pop.php?z=$popup
 !
 &proxyurl=$domain=allmyvideos.net|amvtv.net|vidspot.net
 |http:*/site/liste/iframe/$subdocument
-|http:*/site/liste/infopop$subdocument
-|http:*/site/liste/infpop$subdocument
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
 |http://po.st^$popup,domain=almountakhab.com
@@ -2225,6 +2223,7 @@ _pop.php?z=$popup
 ||wcdn.co.il/banners/
 ||web-autosurf.com/promo/
 ||webchoc.com/*/spip.php?
+||webchoc.com/site/liste/
 ||webcilon.tripod.com/bannieres/
 ||webself.net/WebselfEditeur/FormulaireDemo.aspx?
 ||webstar-auto.com/iframe.php?$third-party
@@ -3495,6 +3494,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||sexefelin.com/pop.
 ||sexefelin.com/random.$popup
 ||sexefelin.com/site/js/*.cornerslider.
+||sexefelin.com/webchoc.php$popup
 ||sexegratuit.be^*/u.js
 ||sexeoptimal.com^
 ||sexeplus.com/bannieres/
@@ -3673,7 +3673,6 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||tube-teen.fr/tools/
 ||tube-x-matures.com/catcher/
 ||tubeanal.fr^*/images/banniere_
-||tubixe.com/site/js/*.cornerslider.
 ||tunibox.com/images/sponsors/
 ||turbo.fr/img/pocAB/
 ||turfomania.fr/*-publicitaire/
