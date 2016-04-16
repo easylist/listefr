@@ -1545,21 +1545,16 @@ _pop.php?z=$popup
 !----------------------- Publicités tierces ----------------------!
 !
 &proxyurl=$domain=allmyvideos.net|amvtv.net|vidspot.net
-about:blank$popup,domain=gorillavid.in
 |http:*/site/liste/iframe/$subdocument
 |http:*/site/liste/infopop$subdocument
 |http:*/site/liste/infpop$subdocument
-|http://$popup,third-party,domain=file.up09.com|uploading.com|vid.ag
-|http://$popup,~third-party,domain=1host.name|allvid.ch|clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exashare.com|exity.info|folue.info|gighub.net|golmamak.info|gorillavid.in|gover.info|guib.info|hadik.info|halazoun.info|hehehe.info|kechekch.info|kerkessni.info|khaltek.info|khalto.info|maldi.info|maquillage.com|nassira.info|opert.info|oping.info|pausefun.com|pausepeople.com|revclouds.com|rors.info|sega3.info|stiwine.info|thand.info|thewatchseries.to|tiziwezo.info|toofy.tv|trafe.info|tribicha.info|utte.info|wstream.video|youwatch.org|ywhah.info|zidni.info
-|http://$script,third-party,domain=allvid.ch
-|http://$subdocument,third-party,domain=amvtv.net|clictune.com|contextualyield.com|sa.ae
+|http://$subdocument,third-party,domain=clictune.com|sa.ae
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
 |http://po.st^$popup,domain=almountakhab.com
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
 ||11footballclub.com^*/indexcolonne.php?
 ||11footballclub.com^*/indexhomepage2.php*&domain=
-||123megaupload.com/site_media/pub/
 ||178.33.220.81^
 ||18etplus.com^
 ||19h59.com/newstop.js
@@ -1590,7 +1585,6 @@ about:blank$popup,domain=gorillavid.in
 ||ad.zanox.com^
 ||ad.zanox.com^$popup,domain=configspc.com
 ||adf.ly^$popup,domain=ytubesave.com
-||adf.pulsesky.com^
 ||adjsla.daycorpltd12.netdna-cdn.com^
 ||ads.giponewing.com^
 ||ads.itv.com^
@@ -3129,7 +3123,6 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||libellules.ch/infomaniak-hosted-by-black-transparent.png
 ||libertyland.tv/libertyland/images/partenaire/
 ||libre.eu/homepage/relooking/
-||lien-torrent.com/coquines/
 ||lien-torrent.com^$subdocument
 ||liens-de-telechargement.com/popmodal/
 ||lienscash.com/?ref=$subdocument
@@ -3445,7 +3438,6 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ||rireetchansons.fr/rire/pub-
 ||rireetchansons.fr/rire/pub2-
 ||rireetchansons.fr/skin//
-||rmf.lesinrocks.com^
 ||roulettechat.fr/dynjs/geoloc
 ||roulettechat.fr/js/adsacwm.js
 ||roulettechat.fr^*/facebook-api-pub/
@@ -5694,7 +5686,6 @@ rtl.fr##.money-talks
 lemondeinformatique.fr##.mpu
 gamekult.com##.mpubas-wrapper
 msn.com##.nativead
-lien-torrent.com##.nav-profil
 omgtorrent.me##.nav-rencontres
 leboncoin.fr##.newPartnerbox
 iwin.com##.ng-scope > .modals
@@ -5903,7 +5894,6 @@ fifa.com##.sponsors-section
 msn.com##.sponsorship
 nintendo-master.com##.square-pub
 msn.com##.startpage > div.refreshbody[style^="top:"]
-blogs.lesinrocks.com##.sub_headline.top
 imobie.fr##.support_guide_download_upper
 forum.sportytrader.com##.tableau_bleu
 walfoot.be##.take-banner
@@ -6152,6 +6142,7 @@ cacastream.com,ddstream.com,youwatch-series.com##a[href^="streaming-series"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 wawacity.su##a[onclick$="()"]
 t411.ch##a[onclick*="base64"]
+lien-torrent.com##a[onclick*="directlinks"]
 smartorrent.com##a[onclick="vpn()"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
@@ -6298,12 +6289,10 @@ forum.soirnet.fr##img[width="720"][height="100"]
 maliweb.net,undernews.fr##img[width="728"][height="90"]
 undernews.fr##img[width][height][alt$="VPN"]
 smartorrent.com##input[type="button"]
-lien-torrent.com##li > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
 ici.tou.tv##li.bigBox
 sinfest.net##noscript a
 bonjourmadame.fr##object[width="728"][height="90"]
 ouedkniss.com#habillage_flash
-lien-torrent.com##p > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
 debrideurstreaming.com##script[src="http://www.pubdirecte.com/script/pop.php?id=48523&ref=23821"] + table[style="float:right; margin-right:50px;"]
 boursorama.com##style + div > .visible-desktop:first-child
@@ -6334,7 +6323,6 @@ mon-ordi.com##td[width="567"]
 telesatellite.com##td[width="728"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
-lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([href^="javascript:show"]):not([href^="facebook"])
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
@@ -6408,8 +6396,6 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||demo-phoenix.com^$genericblock
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/ad-remover/img/
-@@||ds.serving-sys.com/BurstingRes//$object-subrequest,domain=buzzmoica.fr
-@@||dvdmanager-203.sv2.biz/wwwdvds/$image,domain=pornattitude.com
 @@||dzautos.com/swf/prix_du_neuf.swf
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
 @@||ebayrtm.com/rtm?RtmCmd&a=json&p=$script,domain=www.befr.ebay.be
@@ -6445,11 +6431,7 @@ lien-torrent.com##u > a:not([href*="lien-torrent.com"]):not([href*="../"]):not([
 @@||infos.wwf.fr/adserver2/
 @@||iphone4.fr/bannieres/header_icons.png
 @@||jheberg.net/js/*_advertisement.js
-@@||kapaza.be/*/ad_view_
 @@||koifaire.com/upload/*/300x250-
-@@||lacanausurfinfo.com/admin/images/pubs/pub_18.png
-@@||lesinrocks.com/min/?f=wp-content/themes/lesinrocks_theme/js/lib/jquery-$script
-@@||lesinrocks.com/wp-content/plugins/minifier/min/?f=$script
 @@||libs.iraiser.eu/users/ffc/Header-pagededon.jpg
 @@||linkbucks.com/scripts/script-adv.js$script,third-party
 @@||m2radio.fr/include/player/flash.swf?$domain=~live.m2stream.fr
@@ -6667,8 +6649,6 @@ forums.macg.co#@#script + div + [id]
 @@||item-voyage.fr/ads.css
 @@||jeux-geographiques.com/js/adblock_detector.js
 @@||lafansubresistance.biz^$script,domain=lafansubresistance.biz
-@@||lien-torrent.com/addrating.php?
-@@||lien-torrent.com/pubs/affiche.php?f=lecteurpub
 @@||mondebrideur.com/js/advert.js
 @@||mymanga.io/css/advertise.css
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
