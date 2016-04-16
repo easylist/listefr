@@ -6928,6 +6928,7 @@ igen.fr##.bloc-accroches + * + * + * > img
 igen.fr##.bloc-accroches + * + * > img
 igen.fr##.bloc-accroches + * > [class]
 igen.fr##.bloc-accroches + * > img
+igen.fr##.bloc-accroches + [class] > div > div + div[class]:last-child
 igen.fr##.bloc-accroches + div[id]
 igen.fr##.news + * > img
 igen.fr##.sidebar img
