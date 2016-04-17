@@ -252,6 +252,7 @@
 /get_banniere.php?$subdocument
 /getadsor.
 /goclick?ref=$script
+/header_ads|
 /iframe_pub.
 /iframe_pub_
 /IFrameStoreReciever.
@@ -370,6 +371,8 @@
 /reklamm.js
 /renklam/*
 /right_advertissment.
+/right_down_ads|
+/right_up_ads|
 /rotation.php?idaff=
 /rotator.php?zone=$script
 /rotban/*$script
@@ -422,7 +425,7 @@
 ://adspaces.
 ://adss.
 ://bannieres.
-://regie.$third-party
+://regie.
 ://soads.
 =/ads.js|
 =goto_adv&id_adv=
@@ -583,6 +586,7 @@ _Social-Advert-
 _adb_300x250_$popup
 _adb_728x90_$popup
 _pop.php?z=$popup
+_redir.php?id_rotation=$popup
 ||adv-mybankai.$popup
 !
 !----------------------- Annonceurs -----------------------!
@@ -863,6 +867,7 @@ _pop.php?z=$popup
 ||direct-foot.co^$third-party
 ||directionplaisir.com^$third-party
 ||discovery-ptp.eu^$third-party
+||distrimach.com^$third-party
 ||dolead.com^$third-party
 ||double6affiliation.com^$third-party
 ||doubleclick.net^$domain=basketusa.com|cinefil.com|essentielle.be|gameone.net|rds.ca|videos.tmc.tv
@@ -2088,7 +2093,6 @@ _pop.php?z=$popup
 ||s3.amazonaws.com^*/publishers/$script
 ||saintseiya.lesite.free.fr/images/bannieres/
 ||salopes-du-jour.com/sexy.js
-||securitetotale.com^$popup,domain=smartorrent.com
 ||serie-stream.org^$popup,domain=full-stream.cc
 ||service-factures.fr/bannieres/
 ||sex-is-free.net/pub/
@@ -2215,7 +2219,6 @@ _pop.php?z=$popup
 ||voiture-net.info/pub.
 ||voiture-net.info/pub1.
 ||voyage-langue.com/widget/
-||vpn-surf.com^$popup,domain=smartorrent.com
 ||w3sexe.com/logo.php?
 ||wallmanga.com/img/anim_banniere_
 ||wat.tv^*#autoStart=1&forceOASTag=$subdocument,domain=tf1.fr
@@ -5473,7 +5476,6 @@ algerie360.com##.bloc_pub_250_s_marge
 porno-2luxe.com##.bloc_pubhosted
 premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 jeuxvideopc.com##.block-concours_en_cours
-smartorrent.com##.block-contenu-pub
 jeuxvideo.fr##.block-divers-widget_shopping
 francetvsport.fr##.block-ftv-loading-of-mad
 jeuxvideo.fr##.block-jeux-micromania_offre
@@ -5507,8 +5509,6 @@ banques-en-ligne.fr##.boxEliracashLNA
 canoe.ca##.boxPool
 days-media.fr##.boxed[style^="width:300px; height:250px"]
 lepoint.fr##.branding
-smartorrent.com##.btn-danger
-smartorrent.com##.btn.btn-default.btn-xs
 gamergen.com,generation-nt.com##.bup
 football365.fr,mercato365.com,rugby365.fr,sport365.fr##.bwin
 terrafemina.com##.c-product
@@ -5643,7 +5643,6 @@ japan-expo.com##.link-background-advert
 pagesjaunes.fr##.linkPushEmbauche
 frandroid.com##.link_htr
 mavieencouleurs.fr##.list-brands-carousel
-smartorrent.com##.list-unstyled
 meilleureecoledefrance.com##.list_sponsors
 frenchpopcorn.com##.liste_film_regarder
 click-fr.com##.loc
@@ -5995,7 +5994,6 @@ omgtorrent.me##a[href$=".avi"]
 omgtorrent.me##a[href$=".mkv"]
 omgtorrent.me##a[href$=".mp4"]
 telechargementz-streaming.com,telechargementz-streaming.net##a[href$=".php"]
-smartorrent.com##a[href$=".tonlive.com/"]
 thebadbuzz.com##a[href$="/boost.php"]
 zone-telechargement.com##a[href$="/xz.php"]
 opensubtitles.org##a[href$="=="][rel="nofollow"]
@@ -6077,7 +6075,7 @@ aidemu.fr##a[href^="http://aidemu.fr/pub/"]
 films-regarder.com,telechargementz-streaming.com##a[href^="http://api.adlure.net/"]
 torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
 challenges.fr##a[href^="http://assurance-emprunteur.challenges.fr/"]
-brain-magazine.fr,portail.free.fr,smartorrent.com,walking-dead-streaming.net##a[href^="http://bit.ly/"]
+brain-magazine.fr,portail.free.fr,walking-dead-streaming.net##a[href^="http://bit.ly/"]
 pubeco.fr,usbfix.net##a[href^="http://clic.reussissonsensemble.fr/"]
 algeriephilatelie.net##a[href^="http://clic.reussissonsensemble.fr/click.asp?"]
 tomtomax.fr##a[href^="http://clk.tradedoubler.com/"]
@@ -6134,7 +6132,7 @@ webrankinfo.com##a[href^="http://www.webrankinfo.com/partenaires/"]
 free-proxy.fr##a[href^="https://account.cyberghostvpn.com?affiliate="]
 needsandmoods.com##a[href^="https://ad.zanox.com/"]
 yahoo.com##a[href^="https://beap.gemini.yahoo.com/"]
-smartorrent.com,wawacity.su##a[href^="https://secure.securitetotale.com/"]
+wawacity.su##a[href^="https://secure.securitetotale.com/"]
 cdiscount.com##a[href^="https://tracking.cdiscount.com/tracker.ashx?"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
@@ -6149,7 +6147,6 @@ aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 wawacity.su##a[onclick$="()"]
 t411.ch##a[onclick*="base64"]
 lien-torrent.com##a[onclick*="directlinks"]
-smartorrent.com##a[onclick="vpn()"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
 ca-anjou-maine.fr##a[onclick^="xiti_clic('N', 'Promo_"]
@@ -6294,7 +6291,6 @@ israelmagazine.co.il##img[width="600"][height="90"]
 forum.soirnet.fr##img[width="720"][height="100"]
 maliweb.net,undernews.fr##img[width="728"][height="90"]
 undernews.fr##img[width][height][alt$="VPN"]
-smartorrent.com##input[type="button"]
 ici.tou.tv##li.bigBox
 sinfest.net##noscript a
 bonjourmadame.fr##object[width="728"][height="90"]
