@@ -6885,7 +6885,7 @@ skiplimite.tv#@##ad300x250
 @@||ajax.googleapis.com^$script,third-party,domain=foot01.com
 @@||disqus.com/embed/comments/?$subdocument,domain=foot01.com
 @@||disqus.com^$script,domain=foot01.com
-@@||live.foot01.com^$subdocument,~third-party
+@@||live.foot01.com^$subdocument,~third-party,xmlhttprequest
 @@||www.foot01.com^*.txt$~third-party,xmlhttprequest
 foot01.com##.sidebar li > :first-child > [class]:first-child:last-child
 foot01.com##[class$=" "] > img
