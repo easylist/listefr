@@ -430,6 +430,7 @@
 =/ads.js|
 =goto_adv&id_adv=
 =iframe_pub&
+=INSERT_RANDOM_NUMBER_HERE
 =publicite&
 =show_ads;
 =sponsored_links_
@@ -2017,6 +2018,7 @@ _redir.php?id_rotation=$popup
 ||planete-dangereuse.com/ban/$third-party
 ||planete-hit.com/hit.php?
 ||planethoster.net/images/bannieres/$third-party
+||platform.wawacity.su^
 ||player.mediabong.com/syncroll/*/loader.js?
 ||playstation.com^$popup,domain=forums.jeuxonline.info
 ||pointscommuns.com/images/bannieres/$third-party
@@ -4757,6 +4759,7 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ##a[href^="http://www.terraclicks.com/"]
 ##a[href^="http://www.xmediaserve.com/"]
 ##a[href^="http://www.yourfilezone.com/"]
+##a[href^="https://secure.securitetotale.com/"]
 ##a[href^="https://www.g2a.com/r/"] > img
 ##a[target="_blank"][href*="/banners/click/"]
 ##div[onclick*="/regiedeep.php?"]
@@ -5974,7 +5977,6 @@ amazon.fr##[class*="-sponsored-"]
 forumconstruire.com##[class^="habillage"]
 ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
 guide-piscine.fr##[class^="regie_"]
-wawacity.su##[class^="secure-dl-"]
 senscritique.com##[data-sc-ad-element-event="product-click"]
 meteofrance.com##[href*=".xiti.com"] > img
 omgtorrent.me##[href^="/telechargement/"]
@@ -6085,7 +6087,7 @@ lefigaro.fr##a[href^="http://cplussur.lefigaro.fr/"]
 only-iphone.fr##a[href^="http://fr.copytrans.net/copytranscontacts.php?utm_source="]
 argentmania.com##a[href^="http://fr.scratchmania.com/?brandId="]
 brunotritsch.fr##a[href^="http://fr.webmaster-rank.info/stat/affiliate/"]
-abidjan.net,igen.fr,israelmagazine.co.il,lnc.nc,macg.co,smartorrent.com##a[href^="http://goo.gl/"]
+abidjan.net,igen.fr,israelmagazine.co.il,lnc.nc,macg.co,smartorrent.com,wawacity.su##a[href^="http://goo.gl/"]
 moviz-telecharger.com##a[href^="http://moviz-telecharger.com/films-en-qualité-hd-"]
 opensubtitles.org##a[href^="http://osdb.link/go?"]
 jamsvu.fr##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
@@ -6132,7 +6134,6 @@ webrankinfo.com##a[href^="http://www.webrankinfo.com/partenaires/"]
 free-proxy.fr##a[href^="https://account.cyberghostvpn.com?affiliate="]
 needsandmoods.com##a[href^="https://ad.zanox.com/"]
 yahoo.com##a[href^="https://beap.gemini.yahoo.com/"]
-wawacity.su##a[href^="https://secure.securitetotale.com/"]
 cdiscount.com##a[href^="https://tracking.cdiscount.com/tracker.ashx?"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
