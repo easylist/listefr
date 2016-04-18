@@ -6938,8 +6938,6 @@ begeek.fr##[type="text/javascript"] + * > img
 begeek.fr##a > img
 begeek.fr##script + a
 begeek.fr##script + div + *
-|http://$script,third-party,xmlhttprequest,domain=turbo.fr
-||turbo.fr/api/log/
 ! meteocity.com
 meteocity.com##.sidebar > div + style + div[class]
 ||meteocity.com/images/$xmlhttprequest
