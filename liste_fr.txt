@@ -6945,14 +6945,6 @@ begeek.fr##[type="text/javascript"] + * > img
 begeek.fr##a > img
 begeek.fr##script + a
 begeek.fr##script + div + *
-! turbo.fr
-turbo.fr###colonne_widgets > [class]:first-child
-turbo.fr##.bloc-emission + [id] > [id]
-turbo.fr##.blockHome + [id] > [class$=" "]
-turbo.fr##.rub + [id] > [id]
-@@||player.m6web.fr^$domain=turbo.fr
-@@||tms.m6web.fr^$domain=turbo.fr
-turbo.fr##img[src*="clubic.com"] + [id] > [id]
 |http://$script,third-party,xmlhttprequest,domain=turbo.fr
 ||turbo.fr/api/log/
 ! meteocity.com
