@@ -1732,6 +1732,7 @@ _redir.php?id_rotation=$popup
 ||crm-pour-pme.fr/images/copie%20de%20728-90.png
 ||crocastuce.fr/images/Boutons/
 ||croquettesbio.com/wp-content/uploads/*/skyscreeper-
+||cybertek.fr^$popup,domain=nextinpact.com
 ||cyclisme-mag.com/?specialSports$popup,domain=sports.fr
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
@@ -5935,6 +5936,7 @@ search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
 forum-actif.net##.tradeDoubler
 expat.com##.travel-insurance
+nextinpact.com##.trend-big + * > a
 portail.free.fr##.troiscent
 juritravail.com##.ui-pnotify
 forum-windows.com##.uniblue
@@ -6467,7 +6469,7 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 @@||network.aufeminin.com/a/diff/$object-subrequest,domain=aufeminin.com
 @@||network.aufeminin.com/call/pubj/$object-subrequest,domain=aufeminin.com
 @@||network.aufeminin.com/crossdomain.xml$domain=aufeminin.com
-@@||nextinpact.com/adreactor/$~third-party,xmlhttprequest
+@@||nextinpact.com/adserver/*.js|$~third-party,xmlhttprequest
 @@||nikel-dominique.com^*/pagepeel-
 @@||notre-planete.info/medias/pub_300x250.png
 @@||novaplanet.com/RealMedia/ads/adstream_nx.ads/www.novaplanet.com/radionova/player/
