@@ -6936,11 +6936,7 @@ watchgeneration.fr##.bloc-accroches + div[id]
 watchgeneration.fr##div.bloc-accroches + [class]
 watchgeneration.fr##script + div + *
 ! begeek.fr
-begeek.fr###sidebar img
-begeek.fr##[style^="background"]
-begeek.fr##[type="text/javascript"] + * > img
-begeek.fr##a > img
-begeek.fr##script + a
+begeek.fr##.ad-sidebar + * + * > img
 begeek.fr##script + div + *
 ! meteocity.com
 meteocity.com##.sidebar > div + style + div[class]
