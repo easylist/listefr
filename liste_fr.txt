@@ -515,6 +515,7 @@ _Social-Advert-
 &adtv=*_bnmngr_$popup
 &bann=$popup
 &nsfw=&id_promo=$popup
+&pub_sub_id_$popup
 &publisherID=$popup
 &ymid=ADSYS-$popup
 -banner.cib?$popup
@@ -1307,6 +1308,7 @@ _redir.php?id_rotation=$popup
 ||zeropub.net^$third-party
 ||zwaar.net^$third-party
 ! TubeMogul
+||104.197.10.19^
 ||415daa520.com^$third-party
 ||acexedge.com^$third-party
 ||adlookr.com^$third-party
@@ -1321,6 +1323,7 @@ _redir.php?id_rotation=$popup
 ||kappacdn.net^$third-party
 ||livefreefunwith.me^$third-party
 ||ninjapd.com^$third-party
+||nr-data.net^$third-party
 ||pkthop.com^$third-party
 ||pxltgr.com^$third-party
 ||tagsrvcs.com^$third-party
@@ -1332,6 +1335,7 @@ _redir.php?id_rotation=$popup
 !-------------------- Annonceurs popup --------------------!
 !
 |http://n*adserv.com^$popup
+||104.197.10.19^$popup,third-party
 ||188.165.253.6^$popup,third-party
 ||37.187.248.215^$popup,third-party
 ||3wr110.net^$popup,third-party
@@ -1409,6 +1413,7 @@ _redir.php?id_rotation=$popup
 ||derby-digital.com^$popup,third-party
 ||direction-x.com^$popup,third-party
 ||download366.net^$popup,third-party
+||downloadext.com^$popup,third-party
 ||downloatransfer.com^$popup,third-party
 ||emea.pub^$popup,third-party
 ||espace-plus.net^$popup,third-party
@@ -1434,6 +1439,7 @@ _redir.php?id_rotation=$popup
 ||guqu.info^$popup,third-party
 ||hopdream.com^$popup,third-party
 ||humourgratuit.me^$popup,third-party
+||i4track.net^$popup,third-party
 ||idhad.com^$popup,third-party
 ||illyx.com^$popup,third-party
 ||irclick.net^$popup,third-party
@@ -1559,6 +1565,7 @@ _redir.php?id_rotation=$popup
 |http:*/site/liste/iframe/$subdocument
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
+|http://bam.$domain=t411.ch
 |http://po.st^$popup,domain=almountakhab.com
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
