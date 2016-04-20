@@ -21,6 +21,7 @@
 &adv_sub=
 &campaign_key=
 &cwadformat=
+&placement=*&ad=
 &playadw=
 &subpartenaire=
 -300-x-250-
@@ -232,6 +233,7 @@
 /delivery/ck.php?
 /delivery/ifrm.
 /delivery/rta/*
+/delivery?*&ad=
 /display.php?ec=
 /display/?affid=
 /display/?method=$subdocument
