@@ -12,6 +12,7 @@
 !
 !----------------------- Filtres génériques ----------------------!
 !
+&ad_count=
 &ad_domain=
 &ad_image_
 &ad_layer_
@@ -581,6 +582,7 @@ _Social-Advert-
 /script/campagne.php?cp=$popup
 /script/redirect.php?$popup
 /smart_ad/*$popup
+/t/?*&clickid=$popup
 /unsub_aff.$popup
 /xdirect.html?$popup
 =partenariat&utm_campaign=$popup
@@ -1632,6 +1634,7 @@ _redir.php?id_rotation=$popup
 ||amateurdusexe.com//banniere/
 ||amateursvideos.net/banners/
 ||amazon.fr/exec/obidos/external-search?$subdocument,domain=annuaire-bleu.net
+||amazon.fr^$popup,domain=fdesouche.com
 ||amazonaws.com/cdn-ads-
 ||ambed.io^*/img/partners/
 ||amisexe.fr/design/default/rencontre/$third-party
@@ -2324,12 +2327,6 @@ _redir.php?id_rotation=$popup
 @@||jeux.com^$generichide
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=jeux.com
 |http://$popup,script,subdocument,xmlhttprequest,domain=jeux.com
-! fdesouche
-fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
-|http*://lc.cx^$popup,domain=fdesouche.com
-|http*://ow.ly^$popup,domain=fdesouche.com
-||amazon.fr^$popup,domain=fdesouche.com
-||i.imgur.com^$domain=fdesouche.com
 ! Webediads revolving adservers
 ||a-staticwebedia.com^
 ||accelerat.xyz^
@@ -4391,6 +4388,8 @@ fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 ##.adsense_300
 ##.adsense_unit
 ##.adserverHomePub405x60
+##.adslot_bot_728x90
+##.adslot_top_300x250
 ##.adspave
 ##.adspopup
 ##.adspopupfilm
@@ -6057,6 +6056,7 @@ planet-series.tv##a[href*="planet-series.tv/offer?"]
 canalplus.fr##a[href*="smartadserver.com"]
 magicmaman.com##a[href*="smartadserver.com/call/cliccommand/"]
 cacastream.com,ddstream.com,youwatch-series.com##a[href*="xmediaserve"]
+fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 pmu.fr##a[href="/mon-pmu/easypari"]
 french-movies.net##a[href="/videosplus18.html"]
 search-torrent.com##a[href="/videox.php"]
