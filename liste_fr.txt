@@ -282,6 +282,7 @@
 /lib/ads.
 /load.php?*&size=
 /load.php?action=adsc&
+/lp_fkplay/*
 /media/300250.
 /media/72890.
 /menu/ADS/*
@@ -387,6 +388,7 @@
 /rsense_ad.
 /sas-banner-
 /script/pop.php?id=
+/scripts/adv_
 /sdk-ads.
 /sdk-ads/*
 /show_ad?
@@ -490,6 +492,7 @@ _publicite_
 _regiepub/
 _smads_
 _Social-Advert-
+_waframedia_*&random=
 ||com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com
 !
 ! CDN filters
@@ -561,6 +564,7 @@ _Social-Advert-
 /effi.click?$popup
 /fr/adcr/*$popup
 /iframePopUpLoader.$popup
+/lp_fkplay/*$popup
 /null/*/Redirect.$popup,third-party
 /out.php?link=t$popup
 /out?zoneId=$popup
@@ -840,6 +844,7 @@ _redir.php?id_rotation=$popup
 ||clickmngr.com^$third-party
 ||clicks4ads.com^$third-party
 ||clicmanager.fr^$third-party
+||clicnscores.ma^$third-party
 ||clintads.com^$third-party
 ||clk100.com^$third-party
 ||clkmon.com^$third-party
@@ -888,6 +893,7 @@ _redir.php?id_rotation=$popup
 ||ds1.nl^$third-party
 ||duporno.biz^$third-party
 ||dvd-explorer.com^$third-party
+||dvetech.fr^$third-party
 ||e-mailit.com^$third-party
 ||eboundservices.com^$third-party
 ||ebuzzing.fr^$third-party
@@ -1408,6 +1414,7 @@ _redir.php?id_rotation=$popup
 ||clickadu.com^$popup,third-party
 ||clickbank.net^$popup,third-party
 ||clicks4ads.com^$popup,third-party
+||clicnscores.ma^$popup,third-party
 ||coloredview.com^$popup,third-party
 ||cometstar.net^$popup,third-party
 ||coolood.biz^$popup,third-party
