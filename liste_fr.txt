@@ -607,6 +607,7 @@ _redir.php?id_rotation=$popup
 !
 !----------------------- Annonceurs -----------------------!
 !
+||104.197.10.19^$third-party
 ||104.197.10.88^$third-party
 ||146.148.85.61^$third-party
 ||1afcfcb2c.ninja^$third-party
@@ -1323,7 +1324,7 @@ _redir.php?id_rotation=$popup
 ||zeropub.net^$third-party
 ||zwaar.net^$third-party
 ! TubeMogul
-||104.197.10.19^
+||104.197.188.104^$third-party
 ||415daa520.com^$third-party
 ||acexedge.com^$third-party
 ||adlookr.com^$third-party
@@ -1350,7 +1351,6 @@ _redir.php?id_rotation=$popup
 !-------------------- Annonceurs popup --------------------!
 !
 |http://n*adserv.com^$popup
-||104.197.10.19^$popup,third-party
 ||188.165.253.6^$popup,third-party
 ||37.187.248.215^$popup,third-party
 ||3wr110.net^$popup,third-party
@@ -1393,6 +1393,7 @@ _redir.php?id_rotation=$popup
 ||affiliation-france.com^$popup,third-party
 ||affiliwix.com^$popup,third-party
 ||agkn.com^$popup,third-party
+||algocashmaster.net^$popup,third-party
 ||all2lnk.com^$popup,third-party
 ||ampxchange.com^$popup,third-party
 ||appfly.mobi^$popup,third-party
@@ -1415,6 +1416,7 @@ _redir.php?id_rotation=$popup
 ||clickbank.net^$popup,third-party
 ||clicks4ads.com^$popup,third-party
 ||clicnscores.ma^$popup,third-party
+||cloudservepoint.com^$popup,third-party
 ||coloredview.com^$popup,third-party
 ||cometstar.net^$popup,third-party
 ||coolood.biz^$popup,third-party
@@ -1582,6 +1584,7 @@ _redir.php?id_rotation=$popup
 |http://$popup,third-party,domain=uploaded.net
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
+|http://104.197.$domain=t411.ch
 |http://bam.$domain=t411.ch
 |http://po.st^$popup,domain=almountakhab.com
 ||1001sondages.com/assets/images/250x250.jpg
