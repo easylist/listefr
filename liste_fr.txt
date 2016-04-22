@@ -1002,6 +1002,7 @@ _redir.php?id_rotation=$popup
 ||limk.com^$third-party
 ||linkbolic.com^$third-party
 ||linklift.fr^$third-party
+||linksprotection.com^$third-party
 ||linksynergy.com^$third-party
 ||liveparadise.com^$third-party
 ||liversely.com^$third-party
@@ -3878,13 +3879,14 @@ _redir.php?id_rotation=$popup
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
 ! cloudfront.net
+||cloudfront.net/?dxsbd=$script
 ||cloudfront.net/img/banner
 ||cloudfront.net/wp-content/news/images/*/BDM300x250.gif
 ||cloudfront.net/wp-content/news/images/*/city-messenger.gif
 ||cloudfront.net/wp-content/news/images/*/FS11.jpg
 ||cloudfront.net/wp-content/news/images/*/NATURE-AUX-BONS-SOINS.gif
 ||cloudfront.net/wp-content/news/images/*/Restaurantentre2.gif
-||cloudfront.net^$domain=1host.name|allvid.ch|clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exashare.com|exity.info|folue.info|gighub.net|golmamak.info|gorillavid.in|gover.info|guib.info|hadik.info|halazoun.info|hehehe.info|kechekch.info|kerkessni.info|khaltek.info|khalto.info|maldi.info|maquillage.com|nassira.info|openload.co|openload.info|opert.info|oping.info|pausefun.com|pausepeople.com|revclouds.com|rors.info|sega3.info|solidfiles.com|stiwine.info|thand.info|thewatchseries.to|tiziwezo.info|toofy.tv|trafe.info|tribicha.info|uploadrocket.net|uplod.it|uptobox.com|utte.info|wstream.video|youwatch.org|ywhah.info|zidni.info
+||cloudfront.net^$domain=1host.name|allvid.ch|clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exashare.com|exity.info|folue.info|gighub.net|golmamak.info|gorillavid.in|gover.info|guib.info|hadik.info|halazoun.info|hehehe.info|kechekch.info|kerkessni.info|khaltek.info|khalto.info|linksprotection.com|maldi.info|maquillage.com|nassira.info|openload.co|openload.info|opert.info|oping.info|pausefun.com|pausepeople.com|revclouds.com|rors.info|sega3.info|solidfiles.com|stiwine.info|thand.info|thewatchseries.to|tiziwezo.info|toofy.tv|trafe.info|tribicha.info|uploadrocket.net|uplod.it|uptobox.com|utte.info|wstream.video|youwatch.org|ywhah.info|zidni.info
 ||cloudfront.net^*&tid=$script
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*?tid=$script
