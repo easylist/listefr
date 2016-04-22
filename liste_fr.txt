@@ -374,6 +374,7 @@
 /pubs/dfp/*
 /pubs/habillage/*
 /query.php?aff=$subdocument
+/redirect/*?banner=
 /regie_pub/*
 /regiepub/*
 /reklamm.js
@@ -767,6 +768,7 @@ _redir.php?id_rotation=$popup
 ||aknod.com^$third-party
 ||akuitsdre.in^$third-party
 ||albopa.work^$third-party
+||alipromo.com^$third-party
 ||alldomserv2.com^$third-party
 ||allo-audience.fr^$third-party
 ||alloclick.com^$third-party
@@ -1833,6 +1835,7 @@ _redir.php?id_rotation=$popup
 ||fortuneinternet101.com/Bannieres/
 ||fpcplugs.com/do.cgi?
 ||france-telechargements.com^$popup
+||francoischarron.com/datascontent/insertech-*.jpg
 ||frenchfriendfinder.com^$domain=choualbox.com
 ||frequence-tv.com/images/frpub.gif
 ||full-wallpaper.com/wallpaperday.js$third-party
