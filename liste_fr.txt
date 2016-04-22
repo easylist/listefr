@@ -595,6 +595,7 @@ _waframedia_*&random=
 =pubdirecte&$popup
 ?action=linkpub&$popup
 ?adCampaign=$popup
+?adslotid=$popup
 ?id_rotation=$popup
 ?MediaSegmentId=$popup
 ?preview=*&pgid*&from_sz=$popup
@@ -4379,7 +4380,9 @@ _redir.php?id_rotation=$popup
 ##.ad-unit-after-title
 ##.adBottom
 ##.adDiv
+##.ad_970x90
 ##.ad_header_728x90
+##.ad_placholder
 ##.adavert-center
 ##.adbanner600active
 ##.adbloc
@@ -5016,6 +5019,7 @@ millenium.org###content_pub
 spi0n.com###content_top
 edcom.fr###decouvrirActu
 lareclame.fr###dfp-top
+118218.fr###dfp_left
 viamichelin.com###diaporama
 only-stream.com###disclaimer
 channelbiz.fr,itespresso.fr,silicon.fr###div-gpt-mega-1
