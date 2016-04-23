@@ -6962,21 +6962,10 @@ macg.co##.view-content > div + div + [id]
 macg.co##div.bloc-accroches + [class]
 macg.co##script + div + [id]
 ! igen.fr
-igen.fr##.article > [class] > img
-igen.fr##.article > div + * > img
-igen.fr##.article > div > img
-igen.fr##.bloc-accroches + * + * + * > img
-igen.fr##.bloc-accroches + * + * > img
 igen.fr##.bloc-accroches + * > [class]
-igen.fr##.bloc-accroches + * > img
 igen.fr##.bloc-accroches + [class] > div > div + div[class]:last-child
 igen.fr##.bloc-accroches + div[id]
-igen.fr##.news + * > img
 igen.fr##.sidebar img
-igen.fr##[id^="lig_"] + * + * + * > img
-igen.fr##[style^="background"]
-igen.fr##p + div > img
-igen.fr##script + * > img
 igen.fr##script + div + *
 ! watchgeneration.fr
 watchgeneration.fr##.bloc-accroches + div[id]
