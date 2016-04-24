@@ -5263,7 +5263,6 @@ charentelibre.fr,lindependant.fr###petitesAnnoncesBlock
 gladplayer.com,paygladplayer.com,pgflow.com,playglad.com###pg_banproll
 topanalyse.com###pid_f
 francoischarron.com###placeholder
-vtele.ca###player_bb
 silicon.fr###plugin-include-php-3
 silicon.fr###plugin-include-php-32
 cuisineactuelle.fr###pmd300x600
@@ -6819,7 +6818,7 @@ abcbourse.com#@#.adsbox
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
 allocine.fr,bleach-mx.fr,goldenboys.fr,jeuxvideo.com,purepeople.com,radiocockpit.fr,srv497.fr.nf#@#.afs_ads
 bedetheque.com##.container > div:first-child
-dealerdunet.fr,vtele.ca#@#.text_ads
+dealerdunet.fr#@#.text_ads
 comptoir-info.com#@#.textad
 forumdz.com##body .breadcrumb + center > [color="red"] > b
 pcastuces.com##div[style="display: block; min-height: 120px; background-color: rgb(255, 239, 156); border-top: 3px solid rgb(255, 205, 48); padding: 10px 15px; text-align: left; font-size: 1.2em;"]
@@ -6852,6 +6851,7 @@ pcastuces.com##div[style="display: block; min-height: 120px; background-color: r
 @@||sos-lettre.fr^$generichide
 @@||total-sport.tv^$elemhide
 @@||tout-debrid.net^$generichide
+@@||vtele.ca^$generichide
 !
 ! captchme.com
 @@||annonces-jobber.com^$generichide
