@@ -524,6 +524,7 @@ _waframedia_*&random=
 &ad_spv=$popup
 &adcid=$popup
 &adtv=*_bnmngr_$popup
+&ban=*&pc=*&id=$popup
 &bann=$popup
 &nsfw=&id_promo=$popup
 &pub_sub_id_$popup
@@ -611,8 +612,9 @@ _redir.php?id_rotation=$popup
 !
 !----------------------- Annonceurs -----------------------!
 !
-||104.197.10.19^$third-party
-||104.197.10.88^$third-party
+||104.197.10.$script,third-party
+||104.197.127.$script,third-party
+||104.197.188.$script,third-party
 ||146.148.85.61^$third-party
 ||1afcfcb2c.ninja^$third-party
 ||1e6c81a9.xyz^$third-party
@@ -638,6 +640,7 @@ _redir.php?id_rotation=$popup
 ||acdcadz.com^$third-party
 ||acpublicite.fr^$third-party
 ||activepop.net^$third-party
+||acuityplatform.com^$third-party
 ||acwm.biz^$third-party
 ||acxiom-online.com^$third-party
 ||ad-1.me^$third-party
@@ -1331,7 +1334,6 @@ _redir.php?id_rotation=$popup
 ||zeropub.net^$third-party
 ||zwaar.net^$third-party
 ! TubeMogul
-||104.197.188.104^$third-party
 ||415daa520.com^$third-party
 ||acexedge.com^$third-party
 ||adlookr.com^$third-party
@@ -1358,6 +1360,7 @@ _redir.php?id_rotation=$popup
 !-------------------- Annonceurs popup --------------------!
 !
 |http://n*adserv.com^$popup
+||104.197.*&ban=$popup
 ||188.165.253.6^$popup,third-party
 ||37.187.248.215^$popup,third-party
 ||3wr110.net^$popup,third-party
@@ -1591,10 +1594,8 @@ _redir.php?id_rotation=$popup
 |http://$popup,third-party,domain=uploaded.net
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
-|http://bam.$domain=t411.ch
 |http://po.st^$popup,domain=almountakhab.com
 ||1001sondages.com/assets/images/250x250.jpg
-||104.197.$domain=t411.ch
 ||11footballclub.com/equipe/
 ||11footballclub.com^*/indexcolonne.php?
 ||11footballclub.com^*/indexhomepage2.php*&domain=
@@ -2416,6 +2417,10 @@ _redir.php?id_rotation=$popup
 ||wwwtatonnai.eu^
 ||wwwtatonnai.info^
 ||wwwtatonnai.uk^
+! t411.ch
+@@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ch
+|http://$script,third-party,domain=t411.ch
+|https://$script,third-party,domain=t411.ch
 ! imgur.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
