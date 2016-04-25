@@ -25,6 +25,7 @@
 &cwadformat=
 &placement=*&ad=
 &playadw=
+&pop_under=
 &subpartenaire=
 -300-x-250-
 -300x250.html$subdocument
@@ -271,7 +272,7 @@
 /img/_ad/*
 /img/bnr728.
 /index.php/tag/iframe/*
-/infopop/track.php?$script
+/infopop/*.php?$script
 /InjectPopunderAd.
 /inside_ad.
 /jp_display.
@@ -471,6 +472,7 @@ _ad_images_
 _ad_unit.
 _adclick_$subdocument
 _adpath_$subdocument
+_ads4stream_
 _ads_728.
 _ads_banner_
 _ads_toroadv.
@@ -481,6 +483,7 @@ _emplacements.php?f=300x250
 _emplacements.php?f=468x60
 _emplacements.php?f=728x90
 _epmads.
+_infopop/infopop-
 _liens_sponsorises.
 _logic_on_ad.
 _pages_ad.
@@ -627,6 +630,7 @@ _redir.php?id_rotation=$popup
 ||46.249.58.117^$third-party
 ||57union.com^$third-party
 ||5b15a826.xyz^$third-party
+||720.kim^$third-party
 ||77978.みんな^$third-party
 ||7x4.fr^$third-party
 ||85.116.37.142^$third-party
@@ -697,6 +701,7 @@ _redir.php?id_rotation=$popup
 ||adrife.com^$third-party
 ||ads-peinture.fr^$third-party
 ||ads-x.com^$third-party
+||ads4stream.com^$third-party
 ||adsafety.net^$third-party
 ||adsb4trk.com^$third-party
 ||adschemist.com^$third-party
@@ -2421,6 +2426,9 @@ _redir.php?id_rotation=$popup
 @@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ch
 |http://$script,third-party,domain=t411.ch
 |https://$script,third-party,domain=t411.ch
+! cpasbien.cm
+|http://$script,third-party,domain=cpasbien.cm
+|https://$script,third-party,domain=cpasbien.cm
 ! imgur.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
@@ -2653,7 +2661,6 @@ _redir.php?id_rotation=$popup
 ||cinemay.com/bannier/
 ||classistatic.com^*/img/*_Kijiji_AD_
 ||clictune.com/?ref=$subdocument
-||clk.cpasbien.$popup
 ||clubpoker.net/medias/images/club-poker/habillages/
 ||cochoncoquin.com/templates/arfooo/images/pornkif.com-
 ||coco.fr/chat/bigban
@@ -2680,7 +2687,6 @@ _redir.php?id_rotation=$popup
 ||courrierlaval.com/images/wallpaper/
 ||cowcotland.com/images/habillage/$image
 ||cowcotland.com/images/sponsors/
-||cpasbien.*/infopop/
 ||creadunet.com^*/overall_header_iframe.html
 ||credit-az.net/pub/
 ||credits-on-line.info/pub/
@@ -3462,7 +3468,6 @@ _redir.php?id_rotation=$popup
 ||presse-citron.net/wordpress_prod/wp-content/uploads/2015/06/Badge-Infiniti-
 ||presse.fr/campub/
 ||prix-immobilier.lemonde.fr^$subdocument
-||prm.cpasbien.
 ||progonline.com/bannieres/
 ||progonline.com/js/message_display.js
 ||projectfreetv.*?d=300x250
