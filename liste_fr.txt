@@ -5172,6 +5172,7 @@ question-de-vie.com###instance-atom-text-43
 loisirados.com###intersticiel
 conseils-courseapied.com###ja-banner
 cheznous.fr###js-alerte-popup
+lemonde.fr###js_deroule_ope
 juritravail.com###jt-footerContainer
 virginradio.fr###la-promo-showskin-a
 lequipe.fr###la_boutique
@@ -5236,10 +5237,6 @@ carrefour.fr###overlayBase
 gameblog.fr###overlayFnac
 forum-iphoneaddict.fr###p00
 cdiscount.com###paFooterPubPartner
-lemonde.fr###panneau-annonces-auto
-lemonde.fr###panneau-annonces-emploi
-lemonde.fr###panneau-annonces-immo
-lemonde.fr###panneau_annonces_auto_collection
 aujourdhui-en-france.fr,leparisien.fr###parisien-partenaires
 judgehype.com,redlist-ultimate.be,soonnight.com###partenaire
 tube-teen.fr###partenaire_img
@@ -5844,6 +5841,7 @@ jeuxactu.com##.pbs
 supprimer-spyware.com##.phone_support_banner
 portaildusexe.com##.player-catcher
 pausefun.com##.plugin_sidebar
+lemonde.fr##.poops
 zebrascrossing.net##.post--0
 gamergen.com##.post-google
 1001cocktails.com##.post.bg2 + * + .post.bg2
@@ -5851,7 +5849,7 @@ pnc-contact.com##.post.bg3
 abomag.com##.postContent > p[style="float: left;margin: 4px;"]
 strastv.com##.post_pub
 canalplus.fr##.preroll
-deco.fr,lemonde.fr##.promo
+deco.fr##.promo
 boursorama.com##.promo + .visible-desktop[style$="display: block;"]
 challenges.fr,nouvelobs.com##.promo-bottom-art
 meteomedia.com##.promo-box
