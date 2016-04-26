@@ -6655,19 +6655,8 @@ forums.macg.co#@#script + div + [id]
 !
 ! forumactif.com
 1fr1.net,3oloum.com,7abibomri.com,7olm.org,a7larab.net,afdal-montada.com,afdalmontada.net,ahladalil.com,ahlamontada.com,ahlamuntada.com,akbarmontada.com,al-hfifa-arabians.com,alamontada.com,alamountada.com,allgoo.net,almountadaalarabi.com,almountadayat.com,arab.st,arabepro.com,arabstar.biz,asiat-world.com,ba7r.biz,banouta.net,bb-fr.com,chefgourmet.fr,creerforums.fr,creerunforum.info,creerunforum.net,dahek.net,desforums.net,eclipsesaga.net,faireforum.com,faireuforum.com,faireunforum.com,football4arab.com,forum-gratuit.be,forum-gratuit.net,forum-gratuit.tv,forum-invision.com,forum2jeux.com,forumactif.biz,forumactif.com,forumactif.org,forumalgerie.net,forumaroc.net,forumculture.net,forumdediscussions.com,forumdefan.com,forumgourmand.net,forumpersos.com,forumpro.fr,forums-actifs.com,frbb.net,freealgeria.com,freedomsyria.com,freedomsyria.net,freelibya.biz,freepalestine.biz,frenchboard.com,gid3an.com,harrypotterworld.fr,humourforum.net,iraqrevolution.net,jdrforum.com,jordanforum.net,jtkc.org,lamuntada.com,libyafreedom.net,lolbb.com,maghrebarabe.net,maghrebworld.net,mesrecettes.biz,messagesrecus.com,monally.com,moninter.net,montadalafdal.com,montadalhilal.com,montadamoslim.com,montadarabi.com,morocoorevolution.net,mountadactif.com,mousika.org,nextgenforum.com,nojoumarab.net,nouvellestar.org,own0.com,palestinerevolution.com,superforum.fr,syriaforums.net,tunisiarevolution.net,twilight-chapitre2.com,watanearaby.com#@##adsense
-! Goyave lab
-@@||dtf.goyavelab.com^$script
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=thebadbuzz.com
-@@||pagead2.googlesyndication.com/pub-config/*/ca-pub-$domain=thebadbuzz.com
-@@||thebadbuzz.com^$genericblock
 ! Filters pécifique utiliser avec $genericblock
-|http://$popup,script,domain=goyavelab.com|thebadbuzz.com
-|https://$popup,script,domain=goyavelab.com|thebadbuzz.com
-||doubleclick.net^$domain=thebadbuzz.com
-! Ligatus crap
-! Foot01
-foot01.com##.sidebar li > :first-child > [class]:first-child:last-child
-foot01.com##[class$=" "] > img
+!
 ! CCM Benchmarck
 commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[style$="cursor: pointer; width: 32%;"]
 ! macg.co
@@ -6689,8 +6678,6 @@ watchgeneration.fr##script + div + *
 ! begeek.fr
 begeek.fr##.ad-sidebar + * + * > img
 begeek.fr##script + div + *
-! meteocity.com
-meteocity.com##.sidebar > div + style + div[class]
 ||meteocity.com/images/$xmlhttprequest
 ! cuisineaz.com
 ||cuisineaz.com/*.aspx$xmlhttprequest
