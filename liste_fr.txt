@@ -2422,6 +2422,7 @@ _redir.php?id_rotation=$popup
 ||wwwtatonnai.uk^
 ! t411.ch
 @@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ch
+@@||cdnjs.cloudflare.com/ajax/libs/visibility.js$script,domain=t411.ch
 |http://$script,third-party,domain=t411.ch
 |https://$script,third-party,domain=t411.ch
 ! cpasbien.cm
