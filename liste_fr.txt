@@ -525,6 +525,7 @@ _waframedia_*&random=
 &ad_spv=$popup
 &adbIsActive=$popup
 &adcid=$popup
+&adserver=$popup
 &adtv=*_bnmngr_$popup
 &ban=*&pc=*&id=$popup
 &bann=$popup
@@ -565,7 +566,7 @@ _waframedia_*&random=
 /click_lx.ads/*$popup
 /default_ad/*$popup
 /delivery/ck.php?$popup
-/display.php?k=*&ban=$popup
+/display.*&ban=$popup
 /display/?method=pop&force=$popup
 /effi.click?$popup
 /fr/adcr/*$popup
@@ -608,6 +609,7 @@ _waframedia_*&random=
 ?voluumdata=$popup
 _adb_300x250_$popup
 _adb_728x90_$popup
+_domain=ads.$popup
 _pop.php?z=$popup
 _redir.php?id_rotation=$popup
 ||adv-mybankai.$popup
@@ -5608,7 +5610,6 @@ lepoint.fr##.branding
 gamergen.com,generation-nt.com##.bup
 football365.fr,mercato365.com,rugby365.fr,sport365.fr##.bwin
 terrafemina.com##.c-product
-omgtorrent.me##.cadre-fiche > h2:first-child + ul:last-child
 orange.fr##.campagnePUBcoldroite
 metronews.fr##.campaign-push-wrapper
 lejsl.com##.campaignImage
@@ -5738,6 +5739,7 @@ pagesjaunes.fr##.linkPushEmbauche
 frandroid.com##.link_htr
 mavieencouleurs.fr##.list-brands-carousel
 meilleureecoledefrance.com##.list_sponsors
+omgtorrent.me##.liste-telecharger > a
 frenchpopcorn.com##.liste_film_regarder
 click-fr.com##.loc
 mavieencouleurs.fr##.logo-brand
@@ -5759,7 +5761,6 @@ topsante.com##.menu-btn-pub
 vacheries.fr##.menu_droit_pub
 lesdebiles.com##.menu_droite_partenaire
 lesdebiles.com##.menu_droite_thumb:first-child
-omgtorrent.me##.menu_pub
 codeposte.com##.mf-modal-iframe
 codeposte.com##.mf-move-to-parent
 soldesdunet.com##.mfp-bg
@@ -5786,7 +5787,6 @@ rtl.fr##.money-talks
 lemondeinformatique.fr##.mpu
 gamekult.com##.mpubas-wrapper
 msn.com##.nativead
-omgtorrent.me##.nav-rencontres
 leboncoin.fr##.newPartnerbox
 iwin.com##.ng-scope > .modals
 ad4.fr##.nicebtn
@@ -6071,7 +6071,6 @@ ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
 guide-piscine.fr##[class^="regie_"]
 senscritique.com##[data-sc-ad-element-event="product-click"]
 meteofrance.com##[href*=".xiti.com"] > img
-omgtorrent.me##[href^="/telechargement/"]
 meilleur-vpn.biz##[href^="http://meilleur-vpn.biz/visit/"]
 turbo.fr##[id^="ABbypass"]
 aujourdhui-en-france.fr,leparisien.fr##[id^="Ads_"]
@@ -6156,7 +6155,6 @@ confidentielles.com##a[href^="/rc_787_"]
 jeuxvideo.com##a[href^="/sponso/"] img
 beaute-test.com##a[href^="/stat/clic.php?"]
 omgtorrent.me##a[href^="/te"]
-omgtorrent.me##a[href^="/telecharger-torrent/"]
 emule-island.ru##a[href^="/tutoriaux/usenext-dl.php?"]
 seedpeer.eu##a[href^="/usenet.php?"]
 kerix.net##a[href^="LienExterne.asp?"]
