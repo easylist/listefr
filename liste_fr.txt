@@ -892,6 +892,7 @@ _redir.php?id_rotation=$popup
 ||danstonfion.com^$third-party
 ||data-eroadvertising.com^$third-party
 ||datvantage.com^$third-party
+||ddblock.eu^$third-party
 ||dealdunjour.com^$third-party
 ||dekalee.fr^$third-party
 ||dekalee.net^$third-party
@@ -2424,6 +2425,10 @@ _redir.php?id_rotation=$popup
 @@||cdnjs.cloudflare.com/ajax/libs/visibility.js$script,domain=t411.ch
 |http://$script,third-party,domain=t411.ch
 |https://$script,third-party,domain=t411.ch
+! voirfilms.org
+@@||ajax.googleapis.com/ajax/libs/$script,domain=voirfilms.org
+|http://$script,third-party,domain=voirfilms.org
+|https://$script,third-party,domain=voirfilms.org
 ! cpasbien.cm
 |http://$script,third-party,domain=cpasbien.cm
 |https://$script,third-party,domain=cpasbien.cm
