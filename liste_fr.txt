@@ -1908,7 +1908,6 @@ _redir.php?id_rotation=$popup
 ||inskin.hs.llnwd.net^
 ||instalife.fr/affiliate/
 ||instant-gaming.com/affgames/
-||ioccasion.fr/scripts_perso/getEbay_dev.
 ||iris.ma/themes/maroc/img/pub/
 ||ithreeweb.com/creationsiteweb.jpg
 ||jardindespieux.com/pub/
@@ -2123,7 +2122,6 @@ _redir.php?id_rotation=$popup
 ||readersdigest.ca/*/images/promobrick_
 ||redirecting.ws/?$subdocument,third-party
 ||refgratuit.fr/images/pub/
-||refurbgeneration.com/*/getEbay.
 ||regie-agricole.com^*/pubs^$third-party
 ||regietrk.jetm-tech.net^
 ||register.ma-box-media.fr/?lang=$popup,third-party
@@ -2836,7 +2834,6 @@ _redir.php?id_rotation=$popup
 ||fifa.com/images/layout/sponsors/
 ||fifostream.tv/video.html
 ||files-save.com/noyaux/pub/
-||files.macg.co/macgupload/$image
 ||filmhentai.fr/tpl2/tools/
 ||filmhentaiporno.com/boost/
 ||filmon-ads.com^$popup
@@ -3237,7 +3234,6 @@ _redir.php?id_rotation=$popup
 ||ma-dz.com/souq/templates/aimed/images/hhes1112.jpg
 ||ma-reduc.com/img/meahabillage/
 ||macbidouille.com/banners/
-||macg.co/*/scripts/pub/getEbay_
 ||madcine.com/xhtml/pubd*.html
 ||maghrebemergent.com/images/banners/
 ||maghrebemergent.info/images/banners/
@@ -3637,7 +3633,6 @@ _redir.php?id_rotation=$popup
 ||static.s-sfr.fr/media/accga.
 ||static.s-sfr.fr/media/accsky*.
 ||static.wanadoo.fr/webmail/templateMagic/*/graphics/*/meetic_$image
-||staticmacg.com/macgupload/pub-
 ||statique.lnc.nc/_slider/promo.nc/
 ||stefgagnant.com/_images/_Captures_sites/
 ||stefgagnant.com/Images/banniere_
@@ -4857,6 +4852,7 @@ _redir.php?id_rotation=$popup
 ##a[href^="https://secure.securitetotale.com/"]
 ##a[href^="https://www.g2a.com/r/"] > img
 ##a[target="_blank"][href*="/banners/click/"]
+##div[id^="block-dfp-728-"]
 ##div[onclick*="/regiedeep.php?"]
 ##gwd-doubleclick
 ##section[onclick*="/publicite-300-250/"]
@@ -5648,7 +5644,6 @@ factornews.com##.div_pub_728_90
 dailymotion.com##.dm_widget_advert_iabrighttitle
 cdiscount.com##.downinbackMaullContainer
 blog2mature.com##.download
-igen.fr,macg.co,watchgeneration.fr##.ebay
 oujdacity.net,passion-net.fr##.ebuzzing_box
 tsa-algerie.com##.ekk-footer-ad-wrapper
 wp-infinity.com##.entry-featured
@@ -5936,9 +5931,8 @@ turbo.fr##.recapitulatif.floatRight
 lemonde.fr##.reco_cross_site_outbrain
 gonzai.com##.red-one-third
 lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.references
-igen.fr,macg.co,watchgeneration.fr##.refurb
-igen.fr,macg.co,watchgeneration.fr##.refurb_left
 jds.fr##.regie_20
+igen.fr,macg.co,watchgeneration.fr##.region-pubheader
 jeux-e.com##.rek_ban
 frandroid.com##.relatedviatopic
 dhnet.be##.relookingHtml
@@ -6161,10 +6155,10 @@ omgtorrent.me##a[href^="/telecharger-torrent/"]
 emule-island.ru##a[href^="/tutoriaux/usenext-dl.php?"]
 seedpeer.eu##a[href^="/usenet.php?"]
 kerix.net##a[href^="LienExterne.asp?"]
+igen.fr,macg.co,refurbgeneration.com,watchgeneration.fr##a[href^="ad.zanox.com"]
 ladepeche.pf##a[href^="ads/"]
 youwatch-series.com##a[href^="dpstream.php?"]
 zetorrents.com##a[href^="http://acces."]
-igen.fr,macg.co,refurbgeneration.com,watchgeneration.fr##a[href^="http://ad.zanox.com/"]
 sosiphone.com##a[href^="http://ad.zanox.com/ppc/"]
 boursorama.com##a[href^="http://ads."]
 lotusnoir.info##a[href^="http://adv-myninja."]
@@ -6646,7 +6640,6 @@ imdb.com#@#.publicity
 maghrebspace.net#@#.top-publicite
 geekdefrance.fr#@#.topads
 wanimo.com#@#div[id^="div-gpt-ad-"]
-forums.macg.co#@#script + div + [id]
 !
 !-------------------------- Anti-Adblock -------------------------!
 ! A l'attention des webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
@@ -6886,23 +6879,10 @@ pcastuces.com##div[style="display: block; min-height: 120px; background-color: r
 !
 ! CCM Benchmarck
 commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[style$="cursor: pointer; width: 32%;"]
-! macg.co
-macg.co##.bloc-accroches + div + [class]
-macg.co##.bloc-accroches + div[id]
-macg.co##.sidebar img
-macg.co##.view-content > div + div + [id]
-macg.co##div.bloc-accroches + [class]
-macg.co##script + div + [id]
-! igen.fr
-igen.fr##.bloc-accroches + * > [class]
-igen.fr##.bloc-accroches + [class] > div > div + div[class]:last-child
-igen.fr##.bloc-accroches + div[id]
-igen.fr##.sidebar img
-igen.fr##script + div + *
-! watchgeneration.fr
-watchgeneration.fr##.bloc-accroches + div[id]
-watchgeneration.fr##div.bloc-accroches + [class]
-watchgeneration.fr##script + div + *
+! macg.co igen.fr watchgeneration.fr
+igen.fr,macg.co,watchgeneration.fr##.bloc-accroches + div + [class]
+igen.fr##.news + div + div + div + [class]
+igen.fr##.news + div + div + div + [id]
 ! begeek.fr
 begeek.fr##.ad-sidebar + * + * > img
 begeek.fr##script + div + *
