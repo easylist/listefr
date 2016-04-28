@@ -2444,6 +2444,9 @@ _redir.php?id_rotation=$popup
 ! cpasbien.cm
 |http://$script,third-party,domain=cpasbien.cm
 |https://$script,third-party,domain=cpasbien.cm
+! zetorrents.com
+|http://$script,third-party,domain=zetorrents.com
+|https://$script,third-party,domain=zetorrents.com
 ! imgur.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
@@ -3897,7 +3900,6 @@ _redir.php?id_rotation=$popup
 ||zataz.com/images/images_news/
 ||zdnet.fr/images/base/addv.gif
 ||zestreaming.com/ban.jpg
-||zetorrents.com/theme/css/assets/icon/filmsx.png
 ||zikinf.com/_services/noab.php?
 ||zinfos974.com/docs/images/bandeau_
 ||zone-films.net/ttmov.php?url=
@@ -4866,6 +4868,7 @@ _redir.php?id_rotation=$popup
 ##a[href^="http://styleapplicationzillion.com/"]
 ##a[href^="http://www.affiliation-france.com/"]
 ##a[href^="http://www.espace-plus.net/"]
+##a[href^="http://www.fducks.com/"]
 ##a[href^="http://www.leguide.com/lettre/"]
 ##a[href^="http://www.terraclicks.com/"]
 ##a[href^="http://www.xmediaserve.com/"]
@@ -6128,6 +6131,7 @@ fourchette-et-bikini.fr##a[href*="go2cloud.org/aff_c?"]
 dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-de-l-en-galerant-sur-le.html"]
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 planet-series.tv##a[href*="planet-series.tv/offer?"]
+zetorrents.com##a[href*="porno"]
 canalplus.fr##a[href*="smartadserver.com"]
 magicmaman.com##a[href*="smartadserver.com/call/cliccommand/"]
 smartorrent.com##a[href*="tonlive.com"]
@@ -6176,7 +6180,6 @@ kerix.net##a[href^="LienExterne.asp?"]
 igen.fr,macg.co,refurbgeneration.com,watchgeneration.fr##a[href^="ad.zanox.com"]
 ladepeche.pf##a[href^="ads/"]
 youwatch-series.com##a[href^="dpstream.php?"]
-zetorrents.com##a[href^="http://acces."]
 sosiphone.com##a[href^="http://ad.zanox.com/ppc/"]
 boursorama.com##a[href^="http://ads."]
 lotusnoir.info##a[href^="http://adv-myninja."]
@@ -6210,7 +6213,6 @@ smartorrent.com##a[href^="http://tinyurl.com/"]
 tirage-gagnant.com##a[href^="http://tirage-gagnant.com/tirage/"] > img
 omgtorrent.me##a[href^="http://toroadvertisingmedia.com"]
 radins.com##a[href^="http://track.radins.com/regie.php?"]
-zetorrents.com##a[href^="http://trf."]
 20minutes.fr##a[href^="http://www.20minutes.fr/ext/"]
 futurama-stream.eu,play-fr.com,seriesnostop.com,t411streaming.com##a[href^="http://www.adcash.com/script/clic.php?"]
 fullanimes.free.fr##a[href^="http://www.allopass.com/check/red.php"] > img
