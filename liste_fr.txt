@@ -3441,8 +3441,7 @@ _redir.php?id_rotation=$popup
 ||passeportsante.net^*/controls/pub/
 ||pc-overware.be/index/images/banners/
 ||peimg.fr/images/partenaire-pubeco/
-||petit-bulletin.fr/images/habillage.jpg
-||petit-bulletin.fr/pub.php?
+||petit-bulletin.fr^*/habillage
 ||petite-annonce-gratuite.com/encarts/bannieres/
 ||petitfute.com/img/partenaire/
 ||petitfute.com^*/images/pubs/
@@ -6261,6 +6260,7 @@ aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 wawacity.su##a[onclick$="()"]
 t411.ch##a[onclick*="base64"]
 lien-torrent.com##a[onclick*="directlinks"]
+petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
 ca-anjou-maine.fr##a[onclick^="xiti_clic('N', 'Promo_"]
