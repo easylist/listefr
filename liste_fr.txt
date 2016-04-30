@@ -1041,7 +1041,9 @@ _redir.php?id_rotation=$popup
 ||mediagraph.com^$third-party
 ||mediavoice.com^$third-party
 ||medncom.com^$third-party
+||meetaffiliate.co^$third-party
 ||meetaffiliate.com^$third-party
+||meetaffiliate.net^$third-party
 ||meetparadise.com^$third-party
 ||megavisites.com^$third-party
 ||menaon.com^$third-party
@@ -2255,7 +2257,6 @@ _redir.php?id_rotation=$popup
 ||tutti.ch/*_banner_$third-party
 ||tv-live.fr/ban/
 ||twenga.fr/publisher/$third-party
-||uhit.eu/id/$third-party
 ||uhit.fr/uhit2.html
 ||ultimatepornz.com/banner/
 ||ultimedia.com/js/common/travel_widget.js$domain=lachainemeteo.com
@@ -2448,6 +2449,10 @@ _redir.php?id_rotation=$popup
 ! zetorrents.com
 |http://$script,third-party,domain=zetorrents.com
 |https://$script,third-party,domain=zetorrents.com
+! torrent9.tv
+@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=torrent9.tv
+|http://$script,domain=torrent9.tv
+|https://$script,domain=torrent9.tv
 ! imgur.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
