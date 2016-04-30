@@ -912,6 +912,7 @@ _redir.php?id_rotation=$popup
 ||dolead.com^$third-party
 ||double6affiliation.com^$third-party
 ||doubleclick.net^$domain=basketusa.com|cinefil.com|essentielle.be|gameone.net|rds.ca|videos.tmc.tv
+||drnxs.com^$third-party
 ||ds1.nl^$third-party
 ||duporno.biz^$third-party
 ||dvd-explorer.com^$third-party
@@ -933,6 +934,7 @@ _redir.php?id_rotation=$popup
 ||emea.pub^$third-party
 ||enmediadonner.pl^$third-party
 ||eravage.com^$third-party
+||eroadvertising.com^$third-party
 ||esoterweb.com^$third-party
 ||espace-plus.net^$third-party
 ||espacephr.fr^$third-party
@@ -1770,6 +1772,7 @@ _redir.php?id_rotation=$popup
 ||cloudinary.com/hd-numerique/*/amz-300.jpg
 ||cloudlocker.biz/img/CL468-1.gif
 ||club-salopes.com/partenaires/
+||coachingminceur.go2cloud.org^
 ||compteur-blog.net/img/pub_
 ||conference-islam.be/documents/Image/banners/
 ||congosolution.com/img/images/pub*.gif
@@ -1877,6 +1880,7 @@ _redir.php?id_rotation=$popup
 ||gerardmerinfo.fr/pub/
 ||ggc.ninja^$subdocument
 ||globirank.com/image/$domain=unlock-stream.com
+||go2cloud.org/aff_c?offer_id=
 ||goclecd.fr/wp-content/themes/reviewit/freekey/
 ||gold-barre.com/banner*.
 ||golden-blog-awards.fr/votePlugin.$third-party
@@ -4422,6 +4426,8 @@ _redir.php?id_rotation=$popup
 ##.ad-336-280
 ##.ad-banner-leboat
 ##.ad-container
+##.ad-halfpage
+##.ad-halfpage-desktop
 ##.ad-largebanner
 ##.ad-sidebar-125-1r
 ##.ad-sidebar-125-2r
