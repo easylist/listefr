@@ -6463,7 +6463,8 @@ telesatellite.com##td[width="728"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! Filtres de propriété CSS pour Adblock Plus
-begeek.fr,foot01.com,igen.fr,macg.co,turbo.fr,watchgeneration.fr##[-abp-properties='cursor: pointer;']
+foot01.com###main [-abp-properties='cursor: pointer;']
+begeek.fr,igen.fr,macg.co,turbo.fr,watchgeneration.fr##[-abp-properties='cursor: pointer;']
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
