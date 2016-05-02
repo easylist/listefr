@@ -6694,7 +6694,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /modules/mod_jpayday/*
 !
 @@.gif#$image,domain=sos-lettre.fr|youwatch-series.com
-@@.jpg#$image,domain=dpstream.cc|naruto-mx.net
+@@.jpg#$image,domain=dpstream.cc|naruto-mx.net|telecharger-jeuxpc.com
 @@.png#$image,domain=bbstreaming.com|cacastream.com|crash-aerien.aero|ddstream.com|dpstream.cc|dpstream.tv|ebookdz.com|leetgamerz.net|protect-stream.com|rapidebrideur.com|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net|youwatch-series.com
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
@@ -6813,6 +6813,7 @@ pcastuces.com##div[style="display: block; min-height: 120px; background-color: r
 @@||rapidebrideur.com^$elemhide
 @@||seriehentai.com^$elemhide
 @@||sos-lettre.fr^$generichide
+@@||telecharger-jeuxpc.com^$generichide
 @@||total-sport.tv^$elemhide
 @@||tout-debrid.net^$generichide
 @@||vtele.ca^$generichide
