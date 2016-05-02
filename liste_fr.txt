@@ -6463,7 +6463,7 @@ telesatellite.com##td[width="728"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! Filtres de propriété CSS pour Adblock Plus
-foot01.com,macg.co,turbo.fr##[-abp-properties='cursor: pointer;']
+foot01.com,igen.fr,macg.co,turbo.fr##[-abp-properties='cursor: pointer;']
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
@@ -6927,10 +6927,8 @@ pcastuces.com##div[style="display: block; min-height: 120px; background-color: r
 !
 ! CCM Benchmarck
 commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[style$="cursor: pointer; width: 32%;"]
-! igen.fr watchgeneration.fr
-igen.fr,watchgeneration.fr##.bloc-accroches + div + [class]
-igen.fr##.news + div + div + div + [class]
-igen.fr##.news + div + div + div + [id]
+! watchgeneration.fr
+watchgeneration.fr##.bloc-accroches + div + [class]
 ! begeek.fr
 begeek.fr##.ad-sidebar + * + * > img
 begeek.fr##script + div + *
