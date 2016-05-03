@@ -238,6 +238,7 @@
 /delivery/rta/*
 /delivery?*&ad=
 /df/250x250.
+/dfp/dfp.
 /display.php?ec=
 /display/?affid=
 /display/?method=$subdocument
@@ -2717,7 +2718,6 @@ _redir.php?id_rotation=$popup
 ||commitstrip.com^*/images/wejusthavetoeat/
 ||compteur-gratuit.fr/images/bandeau_
 ||compteur-gratuit.fr/pub_
-||comptoir-hardware.com/pub/
 ||comptoir-info.com/pb/
 ||conception-site-web.info/modules/creation-site/images/banner.jpg
 ||confidentielles.com/*/pubimppixel.php?
@@ -6772,7 +6772,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||wakanim.tv^*/video/advertisement?idepisode=
 @@||wakfu-world.com/tools/show_ads.js
 @@||www.nextinpact.com/ad*.js|$~third-party,xmlhttprequest
-@@||www2.edi7.lu/www/delivery/ajs.php?zoneid=$script,domain=comptoir-hardware.com
 @@||zagaz.com/img/blogads.css
 !
 ||abcbourse.com/help/msg_ab.aspx
