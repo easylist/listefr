@@ -6482,7 +6482,7 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! Filtres de propriété CSS pour Adblock Plus
 begeek.fr,igen.fr,macg.co,turbo.fr,watchgeneration.fr##[-abp-properties='cursor: pointer;']
 foot01.com##[-abp-properties='width: 30*px;']
-begeek.fr,foot01.com##[-abp-properties='width: 67*px;']
+begeek.fr,foot01.com,turbo.fr##[-abp-properties='width: 67*px;']
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
@@ -6952,4 +6952,4 @@ commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[s
 ! cuisineaz.com
 ||cuisineaz.com/*.aspx$xmlhttprequest
 ! Inline script pour uBo
-begeek.fr,clubic.com,foot01.com##script:contains(*)
+begeek.fr,clubic.com,foot01.com,turbo.fr##script:contains(*)
