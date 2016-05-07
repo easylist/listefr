@@ -6762,7 +6762,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@/advertisement.js$script,domain=cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|ouest-france.fr|silicon.fr
 @@/wp-content/plugins/adblock-notify-by-bweb/js/show_ads.js
-@@|http://$image,script,domain=clubic.com
+@@|http://$image,script,~third-party,domain=clubic.com
 @@||195.154.104.$script,domain=multiup.org
 @@||1max2sms.com/blogads.css
 @@||6play.fr/publicite-$script
