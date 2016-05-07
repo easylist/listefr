@@ -3399,7 +3399,9 @@ _redir.php?id_rotation=$popup
 ||mondissimo.com^*/bannerdisplay.asp?
 ||money.delamusique.net^
 ||montelimar-news.fr/annonces/
+||montelimar-news.fr/images_promos/
 ||montelimar-news.fr/pub1/
+||montelimar-news.fr/pub2/
 ||moov.mg/fancybox/
 ||moov.mg/images/*-bg.jpg
 ||moov.mg/images/offres/
@@ -4586,6 +4588,7 @@ _redir.php?id_rotation=$popup
 ##.bn_ads
 ##.border_ads
 ##.cadre-pub-google
+##.cadre_pub
 ##.cadrepub
 ##.card--row-ads
 ##.carre_pub
@@ -5061,6 +5064,7 @@ aujourdhui-en-france.fr,leparisien.fr###blocMarketing
 programme-tv.net###blocPub_MEGABAN
 mail.voila.fr,orange.fr###blocServices
 maisonbrico.com###blocSponsor
+montelimar-news.fr###bloc_promos
 meteoconsult.fr###bloc_pub_sommaire_terrestre
 algerie360.com###bloc_pub_sprt
 commentcamarche.net###bloc_sponsor
@@ -5582,6 +5586,7 @@ hdfever.fr,homecinema-fr.com##.aliencable-link
 sitesavisiter.com##.alj
 lemonde.fr##.annnonces_partenaires
 montelimar-news.fr##.annonce_bloc
+montelimar-news.fr##.annonce_immo
 voyageforum.com##.annoncer_sur
 lemonde.fr##.annonces_monster
 neowebcar.com##.argus-logo
