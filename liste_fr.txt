@@ -3118,6 +3118,10 @@ _redir.php?id_rotation=$popup
 ||jeveuxdestrans.com^*/u.js
 ||jheberg.net/images/mp.png
 ||joowala.com/images/banners/
+||journaldu4x4.com/IMG/arton
+||journaldu4x4.com^*/L111xH*/
+||journaldu4x4.com^*/L150xH*/
+||journaldu4x4.com^*xH150/
 ||journaldugeek.com/wp-content/themes/*/habillages$image
 ||journaldunet.com/*@*,position$script
 ||journaldunet.com^*/0_pub/
@@ -6320,6 +6324,7 @@ lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
 ca-anjou-maine.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
+journaldu4x4.com##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="100"]
@@ -6451,6 +6456,7 @@ sortir.eu##img[src^="http://www.lille.sortir.eu/portal_banneradmin/"]
 zataz.com##img[style="border: 0px solid ; width: 300px; height: 250px;"]
 zataz.com##img[style="border: 0px solid; width: 300px; height: 250px;"]
 supplychainmagazine.fr##img[width="120"][height="240"]
+journaldu4x4.com##img[width="120"][height="600"]
 bricozone.be##img[width="120"][height="75"]
 ajoutezvotresite.com,bricozone.be##img[width="160"][height="600"]
 vatry.com##img[width="300"][height="190"]
