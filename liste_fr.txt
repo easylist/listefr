@@ -1810,7 +1810,7 @@ _redir.php?id_rotation=$popup
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
-||dailymotion.com^*autoplay=1$domain=anime301.com|mangas-ddl-free.over-blog.com|mangaxd.com|otakufr.com|pokercast.tv|sonyoutube.com|stream4free.pro
+||dailymotion.com^*autoplay=1$domain=anime301.com|hitek.fr|mangas-ddl-free.over-blog.com|mangaxd.com|otakufr.com|pokercast.tv|sonyoutube.com|stream4free.pro
 ||damtours.com/static/img/damtous_$third-party
 ||dc121677.com^
 ||deals-du-web.com^
@@ -6777,6 +6777,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||googleads.g.doubleclick.net/pagead/ads?$subdocument,domain=cine-media.fr
 @@||gowonda.com^$image,~third-party
 @@||gratuitcul.com/ad.php?ad=$script
+@@||hitek.fr/ads.js$script
 @@||images.voyageforum.com/ad$image
 @@||iscoolcdn.com/versioned/prod/bundles/iscoolkitchen/adblock/advertisement.
 @@||jeu-concours.biz/show_ads.js
