@@ -6494,8 +6494,9 @@ people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! Filtres de propriété CSS pour Adblock Plus
 begeek.fr,igen.fr,macg.co,turbo.fr,watchgeneration.fr##[-abp-properties='cursor: pointer;']
-foot01.com##[-abp-properties='width: 30*px;']
-begeek.fr,foot01.com,turbo.fr##[-abp-properties='width: 67*px;']
+foot01.com##[-abp-properties='width: 3*px;']
+foot01.com##[-abp-properties='width: 6*px;']
+begeek.fr,turbo.fr##[-abp-properties='width: 67*px;']
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
