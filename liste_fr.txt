@@ -717,6 +717,7 @@ _redir.php?id_rotation=$popup
 ||adrife.com^$third-party
 ||ads-peinture.fr^$third-party
 ||ads-x.com^$third-party
+||ads.ch^$third-party
 ||ads4stream.com^$third-party
 ||adsafety.net^$third-party
 ||adsb4trk.com^$third-party
@@ -6493,7 +6494,10 @@ telesatellite.com##td[width="728"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! Filtres de propriété CSS pour Adblock Plus
+clubic.com##.article-container > [-abp-properties='float: right;']
+clubic.com##.columns > [-abp-properties='cursor: pointer;']
 begeek.fr,igen.fr,macg.co,turbo.fr,watchgeneration.fr##[-abp-properties='cursor: pointer;']
+clubic.com##[-abp-properties='text-align: center;'] > img
 foot01.com##[-abp-properties='width: 3*px;']
 foot01.com##[-abp-properties='width: 6*px;']
 begeek.fr,turbo.fr##[-abp-properties='width: 67*px;']
@@ -6738,7 +6742,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|ouest-france.fr|silicon.fr
-@@|http://$image,script,~third-party,domain=clubic.com
 @@||195.154.104.$script,domain=multiup.org
 @@||1max2sms.com/blogads.css
 @@||6play.fr/publicite-$script
@@ -6805,7 +6808,6 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 @@||cacastream.com^$generichide
 @@||catnat.net^$generichide
 @@||cheminots.net^$generichide
-@@||clubic.com^$generichide
 @@||crash-aerien.aero^$elemhide
 @@||crash-aerien.news^$generichide
 @@||danslescoulisses.com^$elemhide
