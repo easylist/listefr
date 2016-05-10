@@ -1423,6 +1423,7 @@ _redir.php?id_rotation=$popup
 ||ads-in-games.com^$popup,third-party
 ||adsawesome.com^$popup,third-party
 ||adschemist.com^$popup,third-party
+||adschoom.com^$popup,third-party
 ||adserverpub.com^$popup,third-party
 ||adservingsolutionsinc.com^$popup,third-party
 ||adservme.com^$popup,third-party
@@ -2141,6 +2142,7 @@ _redir.php?id_rotation=$popup
 ||promo.sextape-streaming.com^
 ||promo.streaming-illimite.ma^$popup
 ||promo.teenthais.com^
+||promonautes.com/publicite.$popup
 ||promos.celebrix.fr^
 ||pronosoft.com/fr/bookmakers/unibet/120x120_u.swf
 ||pronoturf.free.fr/pub/
@@ -2308,6 +2310,7 @@ _redir.php?id_rotation=$popup
 ||voiture-net.info/pub.
 ||voiture-net.info/pub1.
 ||voyage-langue.com/widget/
+||vpn-surf.com^$popup,domain=smartorrent.com
 ||w3sexe.com/logo.php?
 ||wallmanga.com/img/anim_banniere_
 ||wat.tv^*#autoStart=1&forceOASTag=$subdocument,domain=tf1.fr
@@ -5688,6 +5691,7 @@ banques-en-ligne.fr##.boxEliracashLNA
 canoe.ca##.boxPool
 days-media.fr##.boxed[style^="width:300px; height:250px"]
 lepoint.fr##.branding
+smartorrent.com##.btn-sm-rouge
 gamergen.com,generation-nt.com##.bup
 football365.fr,mercato365.com,rugby365.fr,sport365.fr##.bwin
 terrafemina.com##.c-product
@@ -6209,6 +6213,7 @@ blogspot.be##a[href="http://everybodyswim.blogspot.be/p/ebook-everybodyswim.html
 olivierdauvers.fr##a[href="http://ifm.asso.fr/site/portfolio/262728-novembre-2013/"]
 kaaz.eu##a[href="http://inspxtrc.com/"]
 undernews.fr##a[href="http://meilleurs-vpn.fr/"]
+smartorrent.com##a[href="http://smartorrent.com/vpn"]
 streaminghd.fr##a[href="http://streaminghd.fr/MaxiStreaming"]
 streaminghd.fr##a[href="http://streaminghd.fr/StreamIllimite"]
 streamingk.com##a[href="http://streamingk.com/watch.php"]
@@ -6326,6 +6331,7 @@ petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
 ca-anjou-maine.fr##a[onclick^="xiti_clic('N', 'Promo_"]
+smartorrent.com##a[style="color:hotpink;"]
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
 journaldu4x4.com##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
