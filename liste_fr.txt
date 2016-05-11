@@ -6516,7 +6516,7 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! Filtres de propriété CSS pour Adblock Plus
 clubic.com##.article-container > [-abp-properties='float: right;']
 clubic.com##.columns > [-abp-properties='cursor: pointer;']
-begeek.fr,macg.co,turbo.fr,watchgeneration.fr##[-abp-properties='cursor: pointer;']
+begeek.fr,turbo.fr,watchgeneration.fr##[-abp-properties='cursor: pointer;']
 foot01.com##[-abp-properties='height: 5*px;']
 foot01.com##[-abp-properties='height: 6*px;']
 clubic.com##[-abp-properties='text-align: center;'] > img
@@ -6525,6 +6525,7 @@ foot01.com##[-abp-properties='width: 6*px;']
 begeek.fr,turbo.fr##[-abp-properties='width: 67*px;']
 igen.fr##a[-abp-properties='height: 6*px;']
 igen.fr##a[-abp-properties='width: 6*px;']
+macg.co##article > a[-abp-properties='*'] > img
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
@@ -6968,4 +6969,4 @@ commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[s
 ! cuisineaz.com
 ||cuisineaz.com/*.aspx$xmlhttprequest
 ! Inline script pour uBo
-begeek.fr,clubic.com,foot01.com,turbo.fr##script:contains(*)
+begeek.fr,clubic.com,foot01.com,macg.co,turbo.fr##script:contains(*)
