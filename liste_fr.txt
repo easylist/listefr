@@ -2493,6 +2493,9 @@ _redir.php?id_rotation=$popup
 |http://$popup,script,third-party,domain=gum-gum-streaming.com
 |http://*/|$image,domain=gum-gum-streaming.com
 |https://$popup,script,domain=gum-gum-streaming.com
+! depositfiles.com
+|http://$subdocument,domain=depositfiles.com
+|https:///$subdocument,domain=depositfiles.com
 ! imgur.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
@@ -6983,4 +6986,4 @@ commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[s
 ! cuisineaz.com
 ||cuisineaz.com/*.aspx$xmlhttprequest
 ! Inline script pour uBo
-begeek.fr,clubic.com,foot01.com,igen.fr,macg.co,turbo.fr,watchgeneration.fr##script:contains(*)
+begeek.fr,clubic.com,depositfiles.com,foot01.com,igen.fr,macg.co,turbo.fr,watchgeneration.fr##script:contains(*)
