@@ -2337,6 +2337,7 @@ _redir.php?id_rotation=$popup
 ||yellowapi.com/twn/?
 ||yimg.com/hl/ap/default/*/HP_*.jpg
 ||youtube.com^$popup,domain=abdelghanisat.kazeo.com|zevpn.net
+||youtube.com^*autoplay=1$domain=esoxiste.com
 ||youtube2mp3.cc/p.php$popup
 ||yubee.free.fr/admin/bannieres/
 ||z51.biz/IBinnewz.aspx
@@ -2876,6 +2877,8 @@ toutcash.com/images/bandeau-
 ||envirojob.fr/img/pub/
 ||equipetv.tv^*?imgPrefix=$xmlhttprequest
 ||equishopping.com/img/pub/
+||esoxiste.com/wp-content/images/*.gif
+||esoxiste.com/wp-content/images/pub-
 ||espaceagro.com/frasp/
 ||esprit-click.com/click.$popup
 ||espritlib.com/banniere/
@@ -6145,6 +6148,7 @@ wiiztube.com##.wppasrotate
 directmatin.fr##.wrap_evenement
 directmatin.fr##.wrap_pub_300_250
 boulistenaute.com##.xo-banner-ad-footer
+esoxiste.com##.xoxo a > img
 torrentfrancais.com##.z2_full_direct_link_download
 torrentfrancais.com##.z2_full_pub_video
 tomsguide.fr##.zoneTriple
