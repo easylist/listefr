@@ -6299,7 +6299,6 @@ sport.fr##a[href^="http://sport-kiff.com/"]
 smartorrent.com##a[href^="http://tinyurl.com/"]
 tirage-gagnant.com##a[href^="http://tirage-gagnant.com/tirage/"] > img
 omgtorrent.me##a[href^="http://toroadvertisingmedia.com"]
-radins.com##a[href^="http://track.radins.com/regie.php?"]
 20minutes.fr##a[href^="http://www.20minutes.fr/ext/"]
 futurama-stream.eu,play-fr.com,seriesnostop.com,t411streaming.com##a[href^="http://www.adcash.com/script/clic.php?"]
 fullanimes.free.fr##a[href^="http://www.allopass.com/check/red.php"] > img
@@ -6718,7 +6717,6 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||emjcd.com^$subdocument,domain=track.radins.com
 @@||solutions.tradedoubler.com/redirect/$subdocument,domain=track.radins.com
 @@||tkqlhce.com/click-$subdocument,domain=track.radins.com
-@@||track.effiliation.com/servlet/effi.click?$subdocument,domain=radins.com
 @@||track.webgains.com/click.html?$subdocument,domain=track.radins.com
 @@||tracking.publicidees.com/clic.php?$subdocument,domain=track.radins.com
 @@||tracking.veoxa.com/click/banner?$subdocument,domain=track.radins.com
@@ -6992,5 +6990,7 @@ commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[s
 ||meteocity.com/images/$xmlhttprequest
 ! cuisineaz.com
 ||cuisineaz.com/*.aspx$xmlhttprequest
+! radins.com
+||radins.com/*.php$xmlhttprequest
 ! Inline script pour uBo
 begeek.fr,clubic.com,depositfiles.com,foot01.com,igen.fr,macg.co,manga-news.com,turbo.fr,watchgeneration.fr##script:contains(*)
