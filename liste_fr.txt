@@ -329,6 +329,9 @@
 /proxy_iframe.php?url=
 /pub-300x250.
 /pub-ads/*
+/pub-bouygues/*
+/pub-colonne-droite/*
+/pub-ovh/*
 /pub.php?f=
 /pub.php?partnerId=
 /pub.tbl.html?
@@ -2772,6 +2775,7 @@ toutcash.com/images/bandeau-
 ||decerto.fr/adblock/
 ||degroupnews.com/*/img/fond/
 ||degroupnews.com/*/img/sidebar/
+||degrouptest.com/images/bonabo-promo/
 ||delamusique.com/js/jquery.rotator.js
 ||deliv.leboncoin.fr^
 ||demotivateur.fr/images/hab*.jpg
@@ -6342,6 +6346,7 @@ manga-news.com##a[href^="redirection.php?"]
 cacastream.com,ddstream.com,youwatch-series.com##a[href^="streaming-series"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 wawacity.su##a[onclick$="()"]
+degrouptest.com##a[onclick*="/resultspage/"]
 t411.ch##a[onclick*="base64"]
 lien-torrent.com##a[onclick*="directlinks"]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
@@ -6602,7 +6607,7 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||daily-*.fr/images/*///pages/*_300x250.png
 @@||damasgate.com/cdn-cgi/pe/bag2?$~third-party
 @@||data.panachetech.com^$object-subrequest,domain=gameone.net
-@@||degrouptest.com/images/pub-colonne-
+@@||degrouptest.com/images/pub-colonne-droite/$image,third-party
 @@||deliv.lexpress.fr/RealMedia/ads/adstream_mjx.ads/$script,domain=fipradio.fr|francebleu.fr|franceculture.fr|franceinfo.fr|franceinter.fr|francemusique.fr|lemouv.fr
 @@||deliv.tmcregie.fr/crossdomain.xml$domain=videos.nt1.tv
 @@||diplomatie.gouv.fr^*?adtype=
