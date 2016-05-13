@@ -85,8 +85,10 @@
 .publicite.
 .showads.
 .wbdds.
+/#ads|$subdocument
 /*300x250_pub.
 /*728x90_pub.
+/*utm_campaign=$subdocument
 /160-px-600-
 /160x300_
 /300-px-250-
@@ -94,10 +96,8 @@
 /468-px-60-
 /468x60banner.
 /728x090_
-/?&utm_campaign=$subdocument
 /?placement=*&async$script
 /?rpartner=$subdocument
-/?utm_source=$subdocument
 /a.ads.
 /a.php?t=*&pgid=*&rebill=
 /acad.$script
