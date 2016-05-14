@@ -4921,6 +4921,7 @@ toutcash.com/images/bandeau-
 ##A[href*="=INSERT_RANDOM_NUMBER_HERE&"]
 ##[data-type="ligatus-script"]
 ##[id^="ads_adnemo_"]
+##[id^="pub_dart_"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
 ##a[href*=".php?ads_id="]
 ##a[href*=".voluumtrk.com/"]
@@ -5612,6 +5613,7 @@ lemonde.fr##.annonces_monster
 neowebcar.com##.argus-logo
 sortiesdvd.com##.art-Post[style="float: left"]
 sortiesdvd.com##.art-Post[style="float: right"]
+clubic.com##.article-container > a > img
 madmoizelle.com##.article_banner
 madmoizelle.com##.article_pub
 buzzly.fr##.article_pubtop
@@ -5892,6 +5894,7 @@ lanutrition.fr##.moduletable-pub2
 rtl.fr##.money-talks
 lemondeinformatique.fr##.mpu
 gamekult.com##.mpubas-wrapper
+clubic.com##.mt30
 msn.com##.nativead
 leboncoin.fr##.newPartnerbox
 iwin.com##.ng-scope > .modals
