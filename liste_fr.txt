@@ -5473,6 +5473,7 @@ sfr.fr###shoppingWrapper
 choisirsonforfait.com###sidPub
 herault-tribune.com###side_pub1
 herault-tribune.com###side_pub2
+begeek.fr###sidebar > a > img
 nostrodomus.fr###sidebar-bottom-promo
 nostrodomus.fr###sidebar-bottom-pub
 nostrodomus.fr###sidebar-pub
@@ -6544,11 +6545,13 @@ turbo.fr###colRight [-abp-properties='height: 5*px;']
 turbo.fr###colRight [-abp-properties='height: 6*px;']
 turbo.fr###colRightHome [-abp-properties='height: 5*px;']
 turbo.fr###colRightHome [-abp-properties='height: 6*px;']
+begeek.fr###single > [-abp-properties='cursor: pointer;']
 begeek.fr###single > a[-abp-properties='*'] > img
 igen.fr##.article [-abp-properties='cursor: pointer;']
 clubic.com##.article-container > [-abp-properties='float: right;']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 foot01.com##[-abp-properties='height: 5*px;']
+begeek.fr##[-abp-properties='height: 5*px;'] > img
 begeek.fr,foot01.com##[-abp-properties='height: 6*px;']
 clubic.com##[-abp-properties='text-align: center;'] > img
 foot01.com##[-abp-properties='width: 3*px;']
