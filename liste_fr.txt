@@ -5033,6 +5033,7 @@ upp-auteurs.fr###annonce_b
 annonces.nc,automobiles.nc,batiment.nc,embauche.nc,mode.nc,nautisme.nc,rencontres.nc###annonceur
 macbidouille.com###arch
 pubeco.fr###aroundShop
+turbo.fr###article + *
 nouvelobs.com###article-colonne-partenaires
 autoreflex.com###arx_home_partenaires
 comment-economiser.fr###astuce_pub
@@ -5657,6 +5658,7 @@ tv5.ca##.bigbox-pub
 mobilealgerie.com##.blc_300x250_blanc
 francefootball.fr##.bloc-autopromo
 jeuxvideo.com##.bloc-boutique-droite
+turbo.fr##.bloc-emission + *
 nouvelobs.com##.bloc-partenaires
 nouvelobs.com##.bloc-partners
 aujourdhui-en-france.fr,leparisien.fr##.bloc-pratique
@@ -6534,18 +6536,19 @@ telesatellite.com##td[width="728"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! Filtres de propriété CSS pour Adblock Plus
-turbo.fr###colonne_widgets [-abp-properties='height: 6*px;']
+turbo.fr###colRight [-abp-properties='height: 5*px;']
+turbo.fr###colRight [-abp-properties='height: 6*px;']
+turbo.fr###colRightHome [-abp-properties='height: 5*px;']
+turbo.fr###colRightHome [-abp-properties='height: 6*px;']
 begeek.fr###single > a[-abp-properties='*'] > img
 igen.fr##.article [-abp-properties='cursor: pointer;']
 clubic.com##.article-container > [-abp-properties='float: right;']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 foot01.com##[-abp-properties='height: 5*px;']
-turbo.fr##[-abp-properties='height: 50*px;']
 begeek.fr,foot01.com##[-abp-properties='height: 6*px;']
 clubic.com##[-abp-properties='text-align: center;'] > img
 foot01.com##[-abp-properties='width: 3*px;']
 foot01.com##[-abp-properties='width: 6*px;']
-turbo.fr##a[-abp-properties='height: 6*px;']
 clubic.com##a[-abp-properties='position: relative;']
 macg.co##article > a[-abp-properties='*'] > img
 !
