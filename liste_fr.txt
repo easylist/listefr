@@ -2521,7 +2521,6 @@ toutcash.com/images/bandeau-
 ||1maxdegay.com/images/rotbas/
 ||1maxdegay.com/images/rotcol/
 ||1parrainage.com/logos/habillage
-||24matins.fr/images/index.php?id=$xmlhttprequest
 ||2folie.com^*/underpopup.
 ||56c646cc9f58f35661191763632f428a.leboncoin.fr^
 ||7sur7.be/references/
@@ -4055,9 +4054,13 @@ toutcash.com/images/bandeau-
 ###ad-300x250_Pave_Bas_Desktop
 ###ad-300x250_Pave_Top_Desktop
 ###ad-300x600-2
+###ad-300x600-bas
+###ad-300x600-haut
+###ad-300x600-milieu
 ###ad-728x90_MB_Bas_Desktop
 ###ad-728x90_MB_Top_Desktop
 ###ad-bg-transparent
+###ad-habillage
 ###ad-iframe
 ###ad-planetveo
 ###ad-rectangle-1-dst
@@ -4232,6 +4235,7 @@ toutcash.com/images/bandeau-
 ###js-game-leaderboard-bottom
 ###libelle_pub
 ###liens_sponsorises
+###ligatus-sidebar
 ###ligatus_art_foot
 ###ligatus_art_right
 ###ligatus_right_column
@@ -6547,8 +6551,10 @@ turbo.fr###colRight [-abp-properties='height: 5*px;']
 turbo.fr###colRight [-abp-properties='height: 6*px;']
 turbo.fr###colRightHome [-abp-properties='height: 5*px;']
 turbo.fr###colRightHome [-abp-properties='height: 6*px;']
+24matins.fr###sidebar [-abp-properties='cursor: pointer;']
 begeek.fr###single > [-abp-properties='cursor: pointer;']
 begeek.fr###single > a[-abp-properties='*'] > img
+24matins.fr###single [-abp-properties='cursor: pointer;']
 igen.fr##.article [-abp-properties='cursor: pointer;']
 clubic.com##.article-container > [-abp-properties='float: right;']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
@@ -6722,6 +6728,7 @@ macg.co##article > a[-abp-properties='*'] > img
 !----------------------- Exceptions d'éléments -----------------------!
 !
 msf.fr#@##ad-7
+24matins.fr#@##ad-728x90
 radio-canada.ca#@##ad-header
 fichier.net#@##contentAd
 futura-sciences.com#@##header-pub
