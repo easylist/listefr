@@ -2642,6 +2642,10 @@ toutcash.com/images/bandeau-
 ||badoink.com^$popup
 ||banques-en-ligne.fr/img/hb-
 ||banques-en-ligne.fr^*/habillage.
+||batiactu.com/cap_pub/
+||batiactu.com/cap_pub/$popup
+||batiactu.com/images/pub/
+||batiactu.com^*/partenaire/
 ||batiment.nc/lib/JS/pub.js
 ||batiment.nc/PUBS/
 ||batiment.nc^*.html$object,subdocument
@@ -2705,6 +2709,8 @@ toutcash.com/images/bandeau-
 ||canal-plus.com/image/56/3/611563.jpg
 ||cap-public.fr/styles/*/IMG/habillage_site/
 ||cap-sciences.net/upload/pubs/
+||capinfoproreport.batiactu.com^
+||capinfoproreport.batiactu.com^$popup
 ||capinfoproreport.com/cap_pub/
 ||capital.fr^*/boutons-pub-header/
 ||carrefoune.com^*/u.js
@@ -2791,6 +2797,7 @@ toutcash.com/images/bandeau-
 ||depechedekabylie.com/files.php?file=banners/
 ||depechedekabylie.com/files.php?file=pub/
 ||depechedekabylie.com/themes/ddk/img/pub_
+||dev8.batiactu.com^
 ||developpez.com/show_i.php
 ||developpez.com/template/offres.php?
 ||developpez.net/forums/anooffresdvp.php?
@@ -5366,6 +5373,7 @@ aujourdhui-en-france.fr,leparisien.fr###parisien-partenaires
 judgehype.com,redlist-ultimate.be,soonnight.com###partenaire
 tube-teen.fr###partenaire_img
 tube-teen.fr###partenaire_link
+batiactu.com###partenaire_premium
 alalettre.com,fun-trades.com,hardware.fr,lemoteurdusexe.com,ouifm.fr,portail.free.fr,ucpa-vacances.com###partenaires
 largus.fr###partenaires-aside
 orange.fr###partenaires-lc-ab-testing
@@ -5653,6 +5661,7 @@ syskb.com##.bandeaupub
 cdmail.fr##.bandeauvert
 orientation-chabab.com##.bann
 canalplus.fr,gulli.fr,hdnumerique.com,kpopfm.fr,manga-news.com,mesbagages.com,orientation-chabab.com,telquel.ma,trimag.fr,video-2-cul.com##.banner
+batiactu.com##.banner-background
 golem13.fr##.banner-halfpage
 mobilealgerie.com##.banner_sp
 auto-utilitaire.com,mobilealgerie.com##.banner_sp_art
