@@ -114,6 +114,9 @@
 /ad_placements/*
 /ad_trafic.
 /adblockbanner/*
+/adc-300-250-
+/adc-336-280-
+/adc-728-90-
 /adcash/300.
 /adcash/728.
 /adhosting.
@@ -933,6 +936,7 @@ _redir.php?id_rotation=$popup
 ||doubleclick.net^$domain=basketusa.com|cinefil.com|essentielle.be|gameone.net|rds.ca|videos.tmc.tv
 ||drnxs.com^$third-party
 ||ds1.nl^$third-party
+||dubshub.com^$third-party
 ||duporno.biz^$third-party
 ||dvd-explorer.com^$third-party
 ||dvetech.fr^$third-party
@@ -1060,6 +1064,7 @@ _redir.php?id_rotation=$popup
 ||marshmallow-digital.com^$third-party
 ||maxidivx.com^$third-party
 ||media-clic.com^$third-party
+||mediacpm.pl^$third-party
 ||mediagraph.com^$third-party
 ||mediavoice.com^$third-party
 ||medncom.com^$third-party
@@ -1486,6 +1491,7 @@ _redir.php?id_rotation=$popup
 ||download366.net^$popup,third-party
 ||downloadext.com^$popup,third-party
 ||downloatransfer.com^$popup,third-party
+||dubshub.com^$popup,third-party
 ||emea.pub^$popup,third-party
 ||espace-plus.net^$popup,third-party
 ||europacash.com^$popup,third-party
