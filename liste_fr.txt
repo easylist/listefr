@@ -2061,6 +2061,7 @@ _redir.php?id_rotation=$popup
 ||montrealaise.com^$domain=montrealamateur.com
 ||moovijob.com/partenaires/$third-party
 ||motion-twin.com/goto/$popup
+||mottodistribution.com^*/placeholder/
 ||movietrailer.click^$subdocument
 ||mozoo.go2cloud.org^
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
@@ -2589,6 +2590,7 @@ toutcash.com/images/bandeau-
 ||android-dz.com/pub/
 ||animeka.com/_img/cache/partner/
 ||animes-streaming.net/images/ruedufric.png
+||annonce.lequipement.fr^
 ||annonces-dz.com/tassili.png
 ||annonces-nc.com/PUBS/
 ||annonces.ci/widgets/$third-party
@@ -3251,6 +3253,8 @@ toutcash.com/images/bandeau-
 ||lequipe.fr/*/js/popin$script
 ||lequipe.fr/partenaires/
 ||lequipe.fr^*?imgPrefix=$xmlhttprequest
+||lequipement.fr/epsigon/style/EkipPrixEnDirect/
+||lequipement.fr/uploads/habillage/
 ||lequotidien-oran.com/img/pub.jpg
 ||lerepairedesmotards.com/img/pub/
 ||les-energies-renouvelables.eu/cssimg/site/*160.jpg
@@ -3606,6 +3610,7 @@ toutcash.com/images/bandeau-
 ||raje.fr/images/banners/
 ||rea-dz.com/images/banners/FOND%20C2.jpg
 ||rea-dz.com/images/egitelt.swf
+||reclame.lequipement.fr^
 ||redown.se/templates/black/images/direct.jpg
 ||referentiel.nouvelobs.com/file/rw300/
 ||regie.hiwit.org^
@@ -5231,7 +5236,7 @@ zero-complexe.com###google.post.bg1.online
 cdiscount.com###hMall
 comics-sanctuary.com###hab
 bdgest.com,bedetheque.com###hab_click
-banques-en-ligne.fr,bioalaune.com,canalplus.fr,comics-sanctuary.com,ffeminin.com,gamer-network.fr,manga-sanctuary.com###habillage
+banques-en-ligne.fr,bioalaune.com,canalplus.fr,comics-sanctuary.com,ffeminin.com,gamer-network.fr,lequipement.fr,manga-sanctuary.com###habillage
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-right
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-top
 autobip.com,ouedkniss.com###habillage_a
@@ -5403,6 +5408,7 @@ forumfr.com###post_id_pub
 turfomania.fr###prehome_contenu
 turfomania.fr###prehome_fond
 teramixer.com###preroll-case-prime
+lequipement.fr###prixendirect_block
 fluvore.com###prom
 ecranlarge.com,lacanausurfinfo.com###promo
 extremepc.fr###promoHead + hr + .center
@@ -5866,6 +5872,7 @@ mavieencouleurs.fr##.list-brands-carousel
 meilleureecoledefrance.com##.list_sponsors
 omgtorrent.me##.liste-telecharger > a
 frenchpopcorn.com##.liste_film_regarder
+lequipement.fr##.listepartenairecomplete
 click-fr.com##.loc
 mavieencouleurs.fr##.logo-brand
 caradisiac.com##.logosPartenaires
@@ -5999,6 +6006,7 @@ toplien.fr##.pub-index-gauche
 bdgest.com,bedetheque.com##.pub-interne-top
 lematin.ma##.pub-medium
 yabiladi.com##.pub-read
+lequipement.fr##.pub-revendeur
 francebleu.fr##.pub-sidebar
 1point2vue.com##.pub-sidebar1
 1point2vue.com##.pub-sidebar2
@@ -6102,6 +6110,7 @@ picmix.com##.sky
 alvinet.com##.skyscraper
 jeuxjeuxjeux.fr##.skyscraper-container
 commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##.skyscraper_large
+lequipement.fr##.skyscrapper-produit
 lemoteur.fr##.slpartner
 gizmodo.fr##.small.element
 boursorama.com##.smart
