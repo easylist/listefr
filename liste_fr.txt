@@ -5780,6 +5780,7 @@ futura-sciences.com##.col-droite-pub-milieu
 mediadico.com##.cold-bloc-video-generique
 seasons.fr##.colsEditoMainMS
 allocine.fr##.coltop
+clubic.com##.columns div + a > img
 tripadvisor.fr##.commerce
 tirage-gagnant.com##.compteBar
 pagesjaunes.fr##.containerPdsSitesPartenaires
@@ -6603,6 +6604,7 @@ begeek.fr,foot01.com##[-abp-properties='height: 6*px;']
 foot01.com##[-abp-properties='width: 3*px;']
 foot01.com##[-abp-properties='width: 6*px;']
 foot01.com##a[-abp-properties='cursor: pointer;']
+clubic.com##a[-abp-properties='float: right;'] > img
 clubic.com##a[-abp-properties='position: relative;']
 macg.co##article > a[-abp-properties='*'] > img
 !
