@@ -5626,6 +5626,7 @@ vinyculture.com##.ad2
 pafpaf.com##.adBlocTop
 lastminute.com##.adContainer
 souiqua.net##.adblock
+msn.com##.adcontainer
 reverso.net##.adcontent
 gmx.fr,lebonguide.com##.add
 vinyculture.com##.addLink
@@ -5951,6 +5952,7 @@ gameblog.fr##.noPremium
 echoroukonline.com##.no_design
 jolpress.com##.node-banner
 futura-sciences.com##.nomatch > ul > li[id^="post_"]
+msn.com##.non-empty-ad
 moteurs-regionaux.com##.normalCoupProjo
 generation-nt.com##.ntSponsored
 jumia.ma##.nyroModalBg
@@ -5962,6 +5964,7 @@ galaxynote.fr##.offre
 aujourdhui-en-france.fr,leparisien.fr##.offresStage
 wamiz.com##.orange
 16algerie.com##.ot-banner
+msn.com##.outeradcontainer
 south-park-streaming.com##.p_728
 iphoneaddict.fr##.pabsidebar
 iphoneaddict.fr##.pabsidebarsingle
@@ -6155,6 +6158,7 @@ fifa.com##.sponsors-section
 msn.com##.sponsorship
 nintendo-master.com##.square-pub
 msn.com##.startpage > div.refreshbody[style^="top:"]
+msn.com##.stripecontainer[data-section-id="stripe.msstore"]
 imobie.fr##.support_guide_download_upper
 forum.sportytrader.com##.tableau_bleu
 walfoot.be##.take-banner
@@ -6167,6 +6171,7 @@ dpstream.net##.tickercontainer
 laposte.fr##.tile--flag--partner
 frenchpopcorn.com##.tiptipr
 moteurs-regionaux.com##.titreCoupProjo
+msn.com##.todayshowcasead
 seriezone.com##.tokloz
 cpasbien-torrents.fr##.top-banner
 save.ca##.topAd
@@ -6199,6 +6204,7 @@ vube.com##.vube-grid-feature
 rtl.be##.w-content-details-ligatus
 almountakhab.com,staractus.fr##.wallpaper-link
 slappyto.net##.webrox._300x250.centered
+msn.com##.widead
 lefigaro.fr##.widget-bazar_chic
 lefigaro.fr##.widget-le_guide
 lefigaro.fr##.widget-paruvendu
@@ -6761,7 +6767,6 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||vo2.fr/uploads/tx_regiepub/bando-site-
 @@||vshop.fr/js/freakBig.js$domain=montrestendance.com
 @@||vshop.fr^$domain=shopping-discount.fr
-@@||weather.eu.msn.com/f5/ad/adcontrol.swf
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 @@||wifeo.com/ads/promo/advertise-publicite.gif$image,domain=wifeo.com
 @@||zatnawqy.net/intermission/loadTargetUrl?$~third-party,xmlhttprequest
