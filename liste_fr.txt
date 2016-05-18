@@ -2961,8 +2961,7 @@ toutcash.com/images/bandeau-
 ||force-download.net^*/yellowtoolbar/
 ||formation-dz.com/images/banners/
 ||formation-dz.com/modules/mod_banners/
-||forum-windows.com/images/plimus/
-||forum-windows.com/open/www/delivre/
+||forum-windows.com/images/uniblue/
 ||forum308.com/images/lavageautomoto-5.jpg
 ||forumactif.com/admgt/
 ||forumconstruire.com/*.php?campagne_id=
@@ -6188,7 +6187,8 @@ expat.com##.travel-insurance
 nextinpact.com##.trend-big + *
 portail.free.fr##.troiscent
 juritravail.com##.ui-pnotify
-forum-windows.com##.uniblue
+forum-windows.com##.unibluelink
+forum-windows.com##.unixblue
 excel-pratique.com##.vba_300
 souk.ma##.vbanner-wrap
 aujourdhui-en-france.fr##.venteprivee
@@ -6545,6 +6545,8 @@ vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
+forum-windows.com##img[height="60"][width="650"]
+forum-windows.com##img[height="600"][width="160"]
 dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
 nextinpact.com##img[src*="data:image/png;base64,"]
 playfrance.com##img[src="http://images.playfrance.com/v4/blank_1x1.gif"]
