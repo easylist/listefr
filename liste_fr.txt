@@ -5663,6 +5663,8 @@ lemonde.fr##.annonces_monster
 neowebcar.com##.argus-logo
 sortiesdvd.com##.art-Post[style="float: left"]
 sortiesdvd.com##.art-Post[style="float: right"]
+igen.fr##.article a > img
+igen.fr##.article a[class]
 clubic.com##.article-container > a > img
 madmoizelle.com##.article_banner
 madmoizelle.com##.article_pub
@@ -6620,7 +6622,7 @@ begeek.fr###single > a[-abp-properties='*'] > img
 igen.fr##.article [-abp-properties='cursor: pointer;']
 igen.fr##.article a[-abp-properties='display: block;']
 clubic.com##.article-container > [-abp-properties='float: right;']
-igen.fr##.region-sidebar a[-abp-properties='display: block;']
+igen.fr##.region-sidebar a[-abp-properties='*']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 foot01.com##[-abp-properties='background-image: *;']
 foot01.com##[-abp-properties='display: block;']
