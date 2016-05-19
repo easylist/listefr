@@ -5521,11 +5521,13 @@ choisirsonforfait.com###sidPub
 herault-tribune.com###side_pub1
 herault-tribune.com###side_pub2
 begeek.fr###sidebar > a > img
+begeek.fr###sidebar > div > a
 nostrodomus.fr###sidebar-bottom-promo
 nostrodomus.fr###sidebar-bottom-pub
 nostrodomus.fr###sidebar-pub
 mobigeeks.fr###sidebar-shell-2
 nostrodomus.fr###sidebar-sup-promo
+begeek.fr###single > div + a
 spi0n.com###single_sidebar
 jvn.com###skin
 silicon.fr###skycraper
@@ -6617,6 +6619,7 @@ turbo.fr###colRightHome [-abp-properties='height: 5*px;']
 turbo.fr###colRightHome [-abp-properties='height: 6*px;']
 24matins.fr###sidebar [-abp-properties='cursor: pointer;']
 begeek.fr###single > [-abp-properties='cursor: pointer;']
+begeek.fr###single > [-abp-properties='height: *px; padding-top: *px;']
 begeek.fr###single > a[-abp-properties='*'] > img
 24matins.fr###single [-abp-properties='cursor: pointer;']
 igen.fr##.article [-abp-properties='cursor: pointer;']
@@ -6627,6 +6630,7 @@ igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 foot01.com##[-abp-properties='background-image: *;']
 foot01.com##[-abp-properties='display: block;']
 foot01.com##[-abp-properties='height: *px;']
+begeek.fr##[-abp-properties='height: 3*px;']
 begeek.fr##[-abp-properties='height: 5*px;'] > img
 begeek.fr##[-abp-properties='height: 6*px;']
 foot01.com##[-abp-properties='margin-left: auto;']
