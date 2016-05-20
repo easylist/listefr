@@ -5910,6 +5910,7 @@ frenchpopcorn.com##.liste_film_regarder
 lequipement.fr##.listepartenairecomplete
 click-fr.com##.loc
 clubic.com##.logitheque-container > .large-4.columns a[class]
+clubic.com##.logitheque-container > .large-4.columns a[id]
 msn.com##.logo > a[target="_blank"] > img[width="300"]
 mavieencouleurs.fr##.logo-brand
 caradisiac.com##.logosPartenaires
@@ -6626,6 +6627,7 @@ begeek.fr###single > a[-abp-properties='*'] > img
 igen.fr##.article [-abp-properties='cursor: pointer;']
 igen.fr##.article a[-abp-properties='display: block;']
 clubic.com##.article-container > [-abp-properties='float: right;']
+clubic.com##.logitheque-container > .columns a[-abp-properties='background-image: *;']
 clubic.com##.logitheque-container [-abp-properties='height: 2*px;']
 clubic.com##.logitheque-container [-abp-properties='height: 3*px;']
 igen.fr##.region-sidebar a[-abp-properties='*']
