@@ -4615,6 +4615,7 @@ toutcash.com/images/bandeau-
 ##.adwords_bottom
 ##.annonce_pub_contenu
 ##.annonces_google
+##.aside-pub-300
 ##.ast-block-adslot
 ##.async-ad-container
 ##.ban-728
@@ -5434,6 +5435,7 @@ sitedesmarques.com###posPub
 forumfr.com###post_id_pub
 turfomania.fr###prehome_contenu
 turfomania.fr###prehome_fond
+nrj.fr###preroll
 teramixer.com###preroll-case-prime
 lequipement.fr###prixendirect_block
 fluvore.com###prom
@@ -6250,6 +6252,7 @@ fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
 forumconstruire.com##[class^="habillage"]
+nrj.fr##[class^="modal"]
 ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
 guide-piscine.fr##[class^="regie_"]
 msn.com##[class^="stripecontaine"][data-section-id="stripe.store"]
@@ -6615,6 +6618,9 @@ mon-ordi.com##td[width="567"]
 telesatellite.com##td[width="728"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
+! Éléments pour generichide
+nrj.fr##.aside-pub-300
+nrj.fr##.pubContainer
 ! Filtres de propriété CSS pour Adblock Plus
 turbo.fr###colRight [-abp-properties='height: 5*px;']
 turbo.fr###colRight [-abp-properties='height: 6*px;']
@@ -6951,6 +6957,7 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 @@||minutefacile.com^$elemhide
 @@||mon-ip.com^$elemhide
 @@||naruto-mx.net^$elemhide
+@@||nrj.fr^$generichide
 @@||partage-facile.com^$elemhide
 @@||phonandroid.com^$generichide
 @@||protect-stream.com^$generichide
@@ -7071,4 +7078,4 @@ commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[s
 ! cuisineaz.com
 ||cuisineaz.com/*.aspx$xmlhttprequest
 ! Inline script pour uBo
-begeek.fr,clubic.com,danstools.com,depositfiles.com,foot01.com,igen.fr,jeu.video,macg.co,manga-news.com,turbo.fr,watchgeneration.fr##script:contains(*)
+begeek.fr,clubic.com,danstools.com,depositfiles.com,foot01.com,igen.fr,jeu.video,macg.co,manga-news.com,nrj.fr,turbo.fr,watchgeneration.fr##script:contains(*)
