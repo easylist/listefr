@@ -43,6 +43,9 @@
 -ads/ads.
 -ban.468.php
 -banner-300x250.
+-banner250-
+-banner300-
+-banner728.
 -pub-ads/
 -viceads.
 -viewability.
@@ -197,6 +200,7 @@
 /Banner-Tag-
 /banner/*/sponsored?
 /banner300.
+/banner468-
 /banner720x90/?ad=
 /banner728.
 /banner?sid=
@@ -332,6 +336,7 @@
 /promo/gif_banners/*
 /proxy_eds.php?
 /proxy_iframe.php?url=
+/pub-300-250-
 /pub-300x250.
 /pub-ads/*
 /pub-bouygues/*
@@ -2357,6 +2362,9 @@ _redir.php?id_rotation=$popup
 ||widget.achetezfacile.com^$third-party
 ||widgethost.barnebys.com^
 ||widgetvillage.com/ministore/$third-party
+||wp.com/*/wp-content/uploads/*?resize=468%2C60
+||wp.com/*/wp-content/uploads/*?resize=728%2C90
+||wp.com/medialot.fr/wp-content/uploads/*?resize=300%2C38
 ||wtpn.twenga.com/publisher/$third-party
 ||x.walla.co.il^
 ||xavbox360.com/ban/
@@ -3392,6 +3400,8 @@ toutcash.com/images/bandeau-
 ||media365.fr^*?imgPrefix=$xmlhttprequest
 ||media7.canal-plus.net.s0.frz.io/image/
 ||media7.canal-plus.net.s0.frz.io/image/62/0/676620.jpg
+||medialot.fr/wp-content/uploads/*/Logo-
+||medialot.fr/wp-content/uploads/*/pub-
 ||medias.jds.fr/medias/direct/*/habillage_
 ||medias.jds.fr/medias/direct/*_300_600.
 ||mediastay.net/delivery/
@@ -5697,7 +5707,7 @@ meteo-paris.com##.bandeau_pub_630
 syskb.com##.bandeaupub
 cdmail.fr##.bandeauvert
 orientation-chabab.com##.bann
-canalplus.fr,gulli.fr,hdnumerique.com,kpopfm.fr,manga-news.com,mesbagages.com,orientation-chabab.com,telquel.ma,trimag.fr,video-2-cul.com##.banner
+canalplus.fr,gulli.fr,hdnumerique.com,kpopfm.fr,manga-news.com,medialot.fr,mesbagages.com,orientation-chabab.com,telquel.ma,trimag.fr,video-2-cul.com##.banner
 batiactu.com##.banner-background
 golem13.fr##.banner-halfpage
 mobilealgerie.com##.banner_sp
@@ -5869,6 +5879,7 @@ le2minutes.com##.habillage-right
 le2minutes.com##.habillage-top
 turfomania.fr##.habillageLien
 clubic.com##.header-autopromo
+medialot.fr##.header-sub
 equirodi.be##.header_adv
 frandroid.com##.header_htr
 ouiounon.net##.headertitrelien[target="_blank"]
@@ -6279,6 +6290,7 @@ boursorama.com##[style="width: 1000px; margin: 0px auto; min-width: 0px; min-hei
 forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding:15px"]
 begeek.fr##a > img
 basket-infos.com##a > img[alt^="Pub"]
+medialot.fr##a > img[height="250"]
 israelmagazine.co.il##a > img[width="238"]
 cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
@@ -6573,6 +6585,7 @@ vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
+medialot.fr##img[height="38"][width="300"]
 forum-windows.com##img[height="60"][width="650"]
 forum-windows.com##img[height="600"][width="160"]
 dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
