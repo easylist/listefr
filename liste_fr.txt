@@ -166,6 +166,7 @@
 /adv_forum-
 /advertisement?
 /advertisingView?
+/adwizard/*
 /af-250x250.
 /af-300x250.
 /aff_*/banners/*
@@ -5925,7 +5926,7 @@ lemonde.fr##.la_centrale
 ergor.org##.ladypub
 faclic.com##.lbx_content
 faclic.com##.lbx_overlay
-alvinet.com,hotmixradio.fr,jeu.fr,marques.expert,meteovista.be,pixiz.com,rtbf.be##.leaderboard
+alvinet.com,hotmixradio.fr,jeu.fr,marques.expert,meteovista.be,pixiz.com,radiox.com,rtbf.be##.leaderboard
 mappy.com##.leftHabillage
 20minutes.fr,lemonde.fr##.leguide
 laptopspirit.fr##.lien_hab
@@ -6712,9 +6713,9 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||ads.horyzon-media.com/diff/js/smart.js$script,domain=larousse.fr
 @@||ads.webedia.fr/crossdomain.xml$domain=ozap.com
 @@||ads.webedia.fr/p-dp-vast2/$object-subrequest,domain=ozap.com
-@@||adserve.atedra.com/js/$script,domain=pourquoipas.ca|radiox.com
-@@||adserve.atedra.com/serve.php?z=$script,domain=pourquoipas.ca|radiox.com|vilaingeek.ca
-@@||adserve.atedra.com/vast/$domain=pourquoipas.ca|radiox.com
+@@||adserve.atedra.com/js/$script,domain=pourquoipas.ca
+@@||adserve.atedra.com/serve.php?z=$script,domain=pourquoipas.ca|vilaingeek.ca
+@@||adserve.atedra.com/vast/$domain=pourquoipas.ca
 @@||adserve.atedra.com/zones.php$xmlhttprequest,domain=pourquoipas.ca
 @@||adserver.adtech.de/addyn|3.0|*|adtech$script,domain=comfm.com
 @@||adserver.adtechus.com/crossdomain.xml$domain=cyberpresse.ca
