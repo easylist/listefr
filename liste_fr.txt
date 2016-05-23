@@ -5561,6 +5561,8 @@ herault-tribune.com###side_pub2
 begeek.fr###sidebar > [class] > a
 begeek.fr###sidebar > a > img
 begeek.fr###sidebar > div > a
+24matins.fr###sidebar a > img
+24matins.fr###sidebar a[id]
 nostrodomus.fr###sidebar-bottom-promo
 nostrodomus.fr###sidebar-bottom-pub
 nostrodomus.fr###sidebar-pub
@@ -6186,6 +6188,8 @@ voyage-economique.fr##.sideaff-container
 echoroukonline.com##.soundcloud-related
 amvtv.net##[style*="position: absolute; z-index: 99999"]
 djelfa.info##a[href^="http://www.djelfa.info/ar/click/"]
+24matins.fr##article > .clear + div > a
+24matins.fr##article a > img
 !foot01.com##.sidebar img
 clicbienetre.com##.sidebar_block
 desmatures.com##.sidebarpub350250
