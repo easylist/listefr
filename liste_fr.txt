@@ -21,6 +21,7 @@
 &adplace=
 &ads_size_id=
 &adv_sub=
+&arabycash_
 &campaign_key=
 &cwadformat=
 &placement=*&ad=
@@ -534,6 +535,7 @@ _waframedia_*&random=
 /cdn-cgi/pe/bag2?*adstract.com
 /cdn-cgi/pe/bag2?*adverline.com
 /cdn-cgi/pe/bag2?*affiliation-france.com
+/cdn-cgi/pe/bag2?*arabytracking.com
 /cdn-cgi/pe/bag2?*cpmstar.com
 /cdn-cgi/pe/bag2?*exponential.com
 /cdn-cgi/pe/bag2?*komoona.com
@@ -1404,6 +1406,7 @@ _redir.php?id_rotation=$popup
 ||ads-in-games.com^$third-party
 ||adsrvs.com^$third-party
 ||adzmath.com^$third-party
+||arabytracking.com^$third-party
 ||buletproofserving.com^$third-party
 ||edgexads.com^$third-party
 ||fhserve.com^$third-party
@@ -1480,6 +1483,7 @@ _redir.php?id_rotation=$popup
 ||appxu.com^$popup,third-party
 ||appyshka.com^$popup,third-party
 ||arabysouq.com^$popup,third-party
+||arabytracking.com^$popup,third-party
 ||arthylndr.com^$popup,third-party
 ||aservtrack.com^$popup,third-party
 ||ato.mx^$popup,third-party
@@ -5033,6 +5037,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://go.wwwdg.net/"]
 ##a[href^="http://goodbeautyjob.com/"]
 ##a[href^="http://partner.global-espace.com/"]
+##a[href^="http://share.payoneer-affiliates.com/"]
 ##a[href^="http://styleapplicationzillion.com/"]
 ##a[href^="http://tracking.toroadvertising.com/"]
 ##a[href^="http://www.affiliation-france.com/"]
