@@ -529,6 +529,7 @@ _waframedia_*&random=
 ||com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com
 !
 ! CDN filters
+/cdn-cgi/pe/bag2?*/adServe/*
 /cdn-cgi/pe/bag2?*?tid=
 /cdn-cgi/pe/bag2?*ad6media.fr
 /cdn-cgi/pe/bag2?*adcash.com
@@ -536,6 +537,7 @@ _waframedia_*&random=
 /cdn-cgi/pe/bag2?*adverline.com
 /cdn-cgi/pe/bag2?*affiliation-france.com
 /cdn-cgi/pe/bag2?*arabytracking.com
+/cdn-cgi/pe/bag2?*clksite.com
 /cdn-cgi/pe/bag2?*cpmstar.com
 /cdn-cgi/pe/bag2?*exponential.com
 /cdn-cgi/pe/bag2?*komoona.com
@@ -544,6 +546,7 @@ _waframedia_*&random=
 /cdn-cgi/pe/bag2?*omnitagjs.com
 /cdn-cgi/pe/bag2?*padsdel.com
 /cdn-cgi/pe/bag2?*padstm.com
+/cdn-cgi/pe/bag2?*pub2srv.com
 /cdn-cgi/pe/bag2?*pubdirecte.com
 /cdn-cgi/pe/bag2?*tradeadexchange.com
 /cdn-cgi/pe/bag2?*tribalfusion.com
@@ -1210,6 +1213,7 @@ _redir.php?id_rotation=$popup
 ||pub.inter-systeme.ca^$third-party
 ||pub.netboosting.com^$third-party
 ||pub2.cotatel.net^$third-party
+||pub2srv.com^$third-party
 ||publicideas.com^$third-party
 ||publike.fr^$third-party
 ||publited.com^$third-party
@@ -1593,6 +1597,7 @@ _redir.php?id_rotation=$popup
 ||promo.voyance-web.fr^$popup,third-party
 ||promotions.djummer.com^$popup,third-party
 ||pt21na.com^$popup,third-party
+||pub2srv.com^$popup,third-party
 ||purlive.com^$popup,third-party
 ||redpeepers.com^$popup,third-party
 ||reflexcash.com^$popup,third-party
