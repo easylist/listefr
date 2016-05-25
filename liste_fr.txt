@@ -835,12 +835,14 @@ _redir.php?id_rotation=$popup
 ||ar-ads.com^$third-party
 ||ar-ads.net^$third-party
 ||arab-ads.com^$third-party
+||arabytracking.com^$third-party
 ||archiustube.com^$third-party
 ||arecio.work^$third-party
 ||asadismn.xyz^$third-party
 ||aservtrack.com^$third-party
 ||atedra.com^$third-party
 ||aties.info^$third-party
+||attractive-sport.com^$third-party
 ||avanis.fr^$third-party
 ||avenir-affiliation.fr^$third-party
 ||awakebottlestudy.com^$third-party
@@ -1073,6 +1075,7 @@ _redir.php?id_rotation=$popup
 ||linkotolinko.com^$third-party
 ||linksprotection.com^$third-party
 ||linksynergy.com^$third-party
+||linqallgood.net^$third-party
 ||liveparadise.com^$third-party
 ||liversely.com^$third-party
 ||livewithbinaryoptions.com^$third-party
@@ -1410,7 +1413,6 @@ _redir.php?id_rotation=$popup
 ||ads-in-games.com^$third-party
 ||adsrvs.com^$third-party
 ||adzmath.com^$third-party
-||arabytracking.com^$third-party
 ||buletproofserving.com^$third-party
 ||edgexads.com^$third-party
 ||fhserve.com^$third-party
@@ -1672,7 +1674,7 @@ _redir.php?id_rotation=$popup
 &proxyurl=$domain=allmyvideos.net|amvtv.net|vidspot.net
 |http://$popup,third-party,domain=uploaded.net
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
-|http://*:$popup,domain=uptobox.com|uptostream.com
+|http://*:|$popup,domain=up07.net|uptobox.com|uptostream.com
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
 |http://po.st^$popup,domain=almountakhab.com
 ||1001sondages.com/assets/images/250x250.jpg
@@ -2007,6 +2009,7 @@ _redir.php?id_rotation=$popup
 ||js.stream-up.com/fonctions.min.js?
 ||kazeo.com/websites/js/openwindow.js
 ||kelformation.com/htm/*/habillage/
+||kidioui.fr/partenaire/
 ||kiporn.com^$popup,domain=yourporno.fr
 ||kloopicash.com/upload/ban/
 ||kokinette.com/ban/$third-party
@@ -2339,12 +2342,15 @@ _redir.php?id_rotation=$popup
 ||uncadeau.com/partner_widgets/$third-party
 ||unifinance.net/images/banners/
 ||untravailadomicile.info/images/banner
+||up-00.com^$domain=up07.net
 ||up-banner.wavecdn.net^
+||up07.net/open*.js
 ||uptojizz.com/iframe.php
 ||urafur.clubeo.com^
 ||url.ph/banners/
 ||us-ugc-aka.canal-plus.com^
 ||users.skynet.be/freewaooh2/ban.png
+||vendezvotrevoiture.fr^$subdocument,third-party
 ||vernimmen.net/images/flash/300x300_$third-party
 ||videochart.net/mnc/
 ||videochart.net/vedro/
@@ -2666,6 +2672,8 @@ toutcash.com/images/bandeau-
 ||aujourdhui-en-france.fr^*/partenaires/
 ||aujourdhui.biz^*?imgPrefix=$xmlhttprequest
 ||aujourdhui.info^*?imgPrefix=$xmlhttprequest
+||auto-moto.com/wp-content/uploads/sites/9/2014/12/boutonParuVendu.jpg
+||auto-moto.com/wp-content/uploads/sites/9/2015/07/Bouton-Automoto.jpg
 ||auto-utilitaire.com/files/banners/
 ||automobiles.nc/lib/JS/pub.js
 ||automobiles.nc/PUBS/
@@ -5003,6 +5011,8 @@ toutcash.com/images/bandeau-
 ##.widget-advert-300-600
 ##.widget-advert-728
 ##.widget-advert-970
+##.widget-le_guide
+##.widget-paruvendu
 ##.widget-pub
 ##.widget_publicite
 ##.wpproaddlink
@@ -6285,8 +6295,6 @@ almountakhab.com,staractus.fr##.wallpaper-link
 slappyto.net##.webrox._300x250.centered
 msn.com##.widead
 lefigaro.fr##.widget-bazar_chic
-lefigaro.fr##.widget-le_guide
-lefigaro.fr##.widget-paruvendu
 blog2mature.com##.widget.widget_links
 frandroid.com##.widget.widget_text
 joueurdugrenier.fr##.widgetAmis
