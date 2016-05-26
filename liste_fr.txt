@@ -5874,6 +5874,7 @@ pagesjaunes.fr##.containerPdsSitesPartenaires
 strastv.com##.container_pubh_02
 lemonde.fr##.conteneur_ligatus
 quetelecharger.com##.content-bloc-pub
+clubic.com##.content-wrapper > div + [class]
 clubic.com##.content-wrapper > div[id]
 clubic.com##.content-wrapper span[id]
 lexpress.fr##.content_inside_partner
@@ -6725,8 +6726,8 @@ clubic.com##.article-container > [-abp-properties='float: right;']
 clubic.com##.article-container [-abp-properties='background-image: *;']
 clubic.com##.article-container [-abp-properties='float: right;']
 clubic.com##.article-container [-abp-properties='padding-top: 6*px;']
-clubic.com##.article-content [-abp-properties='padding-top: 600px;']
-clubic.com##.content-wrapper [-abp-properties='padding-bottom: 500px;']
+clubic.com##.article-content [-abp-properties='padding-top: 6*px;']
+clubic.com##.content-wrapper [-abp-properties='padding-bottom: 5*px;']
 clubic.com##.logitheque-container > .columns [-abp-properties='padding-top: 6*px;']
 clubic.com##.logitheque-container > .columns a[-abp-properties='background-image: *;']
 clubic.com##.logitheque-container [-abp-properties='height: 2*px;']
