@@ -5736,6 +5736,8 @@ igen.fr##.article a > img
 igen.fr##.article a[class]
 elhayatonline.net##.article-body + div[style*="width: 336px;"]
 clubic.com##.article-container > a > img
+clubic.com##.article-content [id]
+clubic.com##.article-content span
 madmoizelle.com##.article_banner
 madmoizelle.com##.article_pub
 buzzly.fr##.article_pubtop
@@ -5869,6 +5871,8 @@ pagesjaunes.fr##.containerPdsSitesPartenaires
 strastv.com##.container_pubh_02
 lemonde.fr##.conteneur_ligatus
 quetelecharger.com##.content-bloc-pub
+clubic.com##.content-wrapper > div[id]
+clubic.com##.content-wrapper span[id]
 lexpress.fr##.content_inside_partner
 thebadbuzz.com##.contenu_pop
 lotusnoir.info##.countclick
@@ -6716,6 +6720,8 @@ clubic.com##.article-container > [-abp-properties='float: right;']
 clubic.com##.article-container [-abp-properties='background-image: *;']
 clubic.com##.article-container [-abp-properties='float: right;']
 clubic.com##.article-container [-abp-properties='padding-top: 6*px;']
+clubic.com##.article-content [-abp-properties='padding-top: 600px;']
+clubic.com##.content-wrapper [-abp-properties='padding-bottom: 500px;']
 clubic.com##.logitheque-container > .columns [-abp-properties='padding-top: 6*px;']
 clubic.com##.logitheque-container > .columns a[-abp-properties='background-image: *;']
 clubic.com##.logitheque-container [-abp-properties='height: 2*px;']
