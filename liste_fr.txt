@@ -5692,6 +5692,7 @@ lagazettedescommunes.com##.actus-home-right-pub
 courrierinternational.com,covoiturage.fr,e-sante.fr,fabriquer-des-meubles.fr,gamer-network.fr,gizmodo.fr,journalmetro.com,lematin.ch,lopinion.fr,maps.google.fr,marques.expert,msn.com,p-nintendo.com,photo.fr,playerhd1.pw,soundlightup.com,tetu.com,tripadvisor.fr,zapiks.fr##.ad
 nouvelobs.com##.ad--desk
 midilibre.fr,sudouest.fr##.ad-box
+24matins.fr##.ad-sidebar + div
 turfomania.fr##.ad1
 vinyculture.com##.ad2
 pafpaf.com##.adBlocTop
@@ -6214,6 +6215,7 @@ echoroukonline.com##.soundcloud-related
 amvtv.net##[style*="position: absolute; z-index: 99999"]
 djelfa.info##a[href^="http://www.djelfa.info/ar/click/"]
 24matins.fr##article > .clear + div > a
+24matins.fr##article > div
 24matins.fr##article a > img
 !foot01.com##.sidebar img
 clicbienetre.com##.sidebar_block
@@ -6707,6 +6709,7 @@ begeek.fr###single > [-abp-properties='cursor: pointer;']
 begeek.fr###single > [-abp-properties='height: *px; padding-top: *px;']
 begeek.fr###single > a[-abp-properties='*'] > img
 24matins.fr###single [-abp-properties='cursor: pointer;']
+24matins.fr##.ad-sidebar + div[-abp-properties='background-image:*;']
 igen.fr##.article [-abp-properties='cursor: pointer;']
 igen.fr##.article a[-abp-properties='display: block;']
 clubic.com##.article-container > [-abp-properties='float: right;']
@@ -6734,6 +6737,7 @@ foot01.com##[-abp-properties='width: *px;']
 clubic.com##a[-abp-properties='float: right;'] > img
 clubic.com##a[-abp-properties='position: relative;']
 macg.co##article > a[-abp-properties='*'] > img
+24matins.fr##article > div[-abp-properties='background-image:*;']
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
