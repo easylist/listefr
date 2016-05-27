@@ -5988,8 +5988,7 @@ omgtorrent.me##.liste-telecharger > a
 frenchpopcorn.com##.liste_film_regarder
 lequipement.fr##.listepartenairecomplete
 click-fr.com##.loc
-clubic.com##.logitheque-container > .large-4.columns a[class]
-clubic.com##.logitheque-container > .large-4.columns a[id]
+clubic.com##.logitheque-container > .large-4.columns
 msn.com##.logo > a[target="_blank"] > img[width="300"]
 mavieencouleurs.fr##.logo-brand
 caradisiac.com##.logosPartenaires
@@ -6741,6 +6740,7 @@ begeek.fr##[-abp-properties='height: 6*px;']
 foot01.com##[-abp-properties='margin-left: auto;']
 foot01.com##[-abp-properties='margin-right: auto;']
 foot01.com##[-abp-properties='padding-top: *px;']
+clubic.com##[-abp-properties='padding-top: 3*rem;']
 foot01.com##[-abp-properties='text-align: center;']
 foot01.com##[-abp-properties='text-align: left;']
 foot01.com##[-abp-properties='text-align: right;']
