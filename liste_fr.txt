@@ -5240,6 +5240,7 @@ wanarun.net###chaussuresCarousel
 sitedesmarques.com###check-also-box
 bricozone.be###clktable
 bricozone.be###clktableb
+turbo.fr###colLeft a > img
 turbo.fr###colRight img[src^="http://img.turbo.fr/style/"]
 turbo.fr###colRightHome a > img
 turbo.fr###colRightHome img[src^="http://img.turbo.fr/style/"]
@@ -6707,6 +6708,7 @@ nrj.fr##.aside-pub-300
 nrj.fr##.pubContainer
 ! Filtres de propriété CSS pour Adblock Plus
 turbo.fr###colLeft > [-abp-properties='cursor: pointer;']
+turbo.fr###colLeft a[-abp-properties='cursor: pointer;']
 turbo.fr###colRight [-abp-properties='height: 5*px;']
 turbo.fr###colRight [-abp-properties='height: 6*px;']
 turbo.fr###colRightHome [-abp-properties='height: 5*px;']
