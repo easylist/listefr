@@ -2387,6 +2387,7 @@ _redir.php?id_rotation=$popup
 ||wp.com/medialot.fr/wp-content/uploads/*?resize=300%2C38
 ||wtpn.twenga.com/publisher/$third-party
 ||x.walla.co.il^
+||x19network.com^$subdocument
 ||xavbox360.com/ban/
 ||xavboxnews.com/files/*-468.jpg
 ||xcams.com/?dsclr=$popup
@@ -7008,7 +7009,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=crash-aerien.news|cuisineactuelle.fr|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr|voyageforum.com|www.catnat.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bricozone.fr|crash-aerien.news|cuisineactuelle.fr|leetgamerz.net|quebeccoupongratuit.com|slideplayer.fr|telephoneannuaire.fr|voyageforum.com|www.catnat.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=qcm-concours.blogspot.fr
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|sos-lettre.fr|universal-soundbank.com|zeperfs.com
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pub-config/ca-pub-*.js$domain=bricozone.fr
 @@||pagefair.com/static/adblock_detection/js/$script,third-party
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=7sur7.be|f1i.com
