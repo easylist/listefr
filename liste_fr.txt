@@ -70,6 +70,7 @@
 .fr/adv/
 .fr/adv_
 .gif?partner=
+.html?imgPrefix=/$xmlhttprequest
 .ir/ads/
 .loading-delivery2.
 .ma/ads/
@@ -2972,7 +2973,7 @@ toutcash.com/images/bandeau-
 ||focusur.fr/wp-content/plugins/simple-popup-manager/
 ||football.fr/includes/cobrand/*/habillage/
 ||football365.fr/pub.php
-||footballclubdemarseille.fr^*?imgPrefix=$xmlhttprequest
+||footballclubdemarseille.fr/*-img/$xmlhttprequest
 ||force-download.net^*/yellowtoolbar/
 ||formation-dz.com/images/banners/
 ||formation-dz.com/modules/mod_banners/
