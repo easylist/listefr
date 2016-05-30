@@ -132,6 +132,7 @@
 /adoff.js?
 /AdPortalService.
 /AdPortalWebService/*
+/adrequest/*
 /ads-1-
 /ads-2-
 /ads-3-
@@ -954,8 +955,10 @@ _redir.php?id_rotation=$popup
 ||dekalee.fr^$third-party
 ||dekalee.net^$third-party
 ||deliv.prisma-presse.com^$third-party
+||descz.ovh^$third-party
 ||dfast.net^$third-party
 ||digital-metric.com^$third-party
+||digiteka.net^$third-party
 ||direct-foot.co^$third-party
 ||directionplaisir.com^$third-party
 ||discovery-ptp.eu^$third-party
