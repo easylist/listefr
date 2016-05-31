@@ -6240,6 +6240,7 @@ jeuxonline.info##.takeover-link
 omgtorrent.me##.telecharger-torrent
 asso-web.com##.text_pub
 !foot01.com##.the_post a > img
+24matins.fr###sidebar > li
 wakanim.tv##.theoplayer-error
 dpstream.net##.tickercontainer
 laposte.fr##.tile--flag--partner
@@ -6501,6 +6502,7 @@ israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="100"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
+24matins.fr##article > li
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
@@ -6735,11 +6737,11 @@ macg.co##article > a[-abp-properties='*'] > img
 clubic.com##img [-abp-properties='cursor: pointer;']
 ! Ligatus
 @@||cdn.livefyre.com^$script,domain=clubic.com|turbo.fr
-@@||connect.facebook.net^$script,domain=clubic.com|turbo.fr
+@@||connect.facebook.net^$script,domain=24matins.fr|clubic.com|turbo.fr
 @@||platform.twitter.com/widgets.js$domain=turbo.fr
 @@||zor.fyre.co^$script,domain=turbo.fr
-|http://$script,third-party,domain=clubic.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
-|https://$script,third-party,domain=clubic.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
+|http://$script,third-party,domain=24matins.fr|clubic.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
+|https://$script,third-party,domain=24matins.fr|clubic.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
 ||zor.fyre.co^$script,domain=clubic.com
 !
 !----------------------- Exceptions -----------------------!
