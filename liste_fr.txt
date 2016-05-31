@@ -5710,6 +5710,7 @@ igen.fr##.article a > img
 igen.fr##.article a[class]
 elhayatonline.net##.article-body + div[style*="width: 336px;"]
 clubic.com##.article-container > a > img
+clubic.com##.article-content [class] > img
 clubic.com##.article-content [id]
 clubic.com##.article-content span
 madmoizelle.com##.article_banner
@@ -6699,6 +6700,7 @@ clubic.com##.article-container > [-abp-properties='float: right;']
 clubic.com##.article-container [-abp-properties='background-image: *;']
 clubic.com##.article-container [-abp-properties='float: right;']
 clubic.com##.article-container [-abp-properties='padding-top: 6*px;']
+clubic.com##.article-content > [-abp-properties='padding-bottom: 0.*rem;']
 clubic.com##.article-content [-abp-properties='padding-top: 6*px;']
 clubic.com##.content-wrapper [-abp-properties='padding-bottom: 50*px;']
 clubic.com##.logitheque-container > .columns [-abp-properties='padding-top: 6*px;']
