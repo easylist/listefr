@@ -5208,6 +5208,7 @@ bricozone.be###clktable
 bricozone.be###clktableb
 turbo.fr###colLeft a > img
 turbo.fr###colRight img[src^="http://img.turbo.fr/style/"]
+turbo.fr###colRightHome :last-child > img
 turbo.fr###colRightHome a > img
 turbo.fr###colRightHome img[src^="http://img.turbo.fr/style/"]
 directvelo.com###col_03_partenaires
@@ -6677,10 +6678,12 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 nrj.fr##.aside-pub-300
 nrj.fr##.pubContainer
 ! Filtres de propriété CSS pour Adblock Plus
+turbo.fr###colLeft + [-abp-properties='position: relative;']
 turbo.fr###colLeft > [-abp-properties='cursor: pointer;']
 turbo.fr###colLeft a[-abp-properties='cursor: pointer;']
 turbo.fr###colRight [-abp-properties='height: 5*px;']
 turbo.fr###colRight [-abp-properties='height: 6*px;']
+turbo.fr###colRightHome > [-abp-properties='display: block'] img
 turbo.fr###colRightHome [-abp-properties='height: 5*px;']
 turbo.fr###colRightHome [-abp-properties='height: 6*px;']
 24matins.fr###sidebar [-abp-properties='cursor: pointer;']
