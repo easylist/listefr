@@ -6728,6 +6728,9 @@ clubic.com##a[-abp-properties='float: right;'] > img
 clubic.com##a[-abp-properties='position: relative;']
 macg.co##article > a[-abp-properties='*'] > img
 24matins.fr##article > div[-abp-properties='background-image:*;']
+! Ligatus
+|http://$script,third-party,domain=watchgeneration.fr
+|https://$script,third-party,domain=watchgeneration.fr
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
