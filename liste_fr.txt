@@ -5559,6 +5559,7 @@ herault-tribune.com###side_pub2
 begeek.fr###sidebar > [class] > a
 begeek.fr###sidebar > a > img
 begeek.fr###sidebar > div > a
+24matins.fr###sidebar > span[id]
 24matins.fr###sidebar a > img
 24matins.fr###sidebar a[id]
 nostrodomus.fr###sidebar-bottom-promo
@@ -6687,6 +6688,7 @@ turbo.fr###colRight [-abp-properties='height: 6*px;']
 turbo.fr###colRightHome > [-abp-properties='display: block'] img
 turbo.fr###colRightHome [-abp-properties='height: 5*px;']
 turbo.fr###colRightHome [-abp-properties='height: 6*px;']
+24matins.fr###sidebar > span > [-abp-properties='background-image: *;']
 24matins.fr###sidebar [-abp-properties='cursor: pointer;']
 begeek.fr###sidebar a[-abp-properties='background-image: *;']
 begeek.fr###single > [-abp-properties='cursor: pointer;']
