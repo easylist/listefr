@@ -6729,8 +6729,12 @@ clubic.com##a[-abp-properties='position: relative;']
 macg.co##article > a[-abp-properties='*'] > img
 24matins.fr##article > div[-abp-properties='background-image:*;']
 ! Ligatus
-|http://$script,third-party,domain=igen.fr|macg.co|watchgeneration.fr
-|https://$script,third-party,domain=igen.fr|macg.co|watchgeneration.fr
+@@||cdn.livefyre.com^$script,domain=turbo.fr
+@@||connect.facebook.net^$script,domain=turbo.fr
+@@||platform.twitter.com/widgets.js$domain=turbo.fr
+@@||zor.fyre.co^$script,domain=turbo.fr
+|http://$script,third-party,domain=igen.fr|macg.co|turbo.fr|watchgeneration.fr
+|https://$script,third-party,domain=igen.fr|macg.co|turbo.fr|watchgeneration.fr
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
