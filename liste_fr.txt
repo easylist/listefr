@@ -6240,7 +6240,7 @@ jeuxonline.info##.takeover-link
 omgtorrent.me##.telecharger-torrent
 asso-web.com##.text_pub
 !foot01.com##.the_post a > img
-24matins.fr###sidebar > li
+24matins.fr,begeek.fr###sidebar > li
 wakanim.tv##.theoplayer-error
 dpstream.net##.tickercontainer
 laposte.fr##.tile--flag--partner
@@ -6737,11 +6737,11 @@ macg.co##article > a[-abp-properties='*'] > img
 clubic.com##img [-abp-properties='cursor: pointer;']
 ! Ligatus
 @@||cdn.livefyre.com^$script,domain=clubic.com|turbo.fr
-@@||connect.facebook.net^$script,domain=24matins.fr|clubic.com|turbo.fr
+@@||connect.facebook.net^$script,domain=24matins.fr|begeek.fr|clubic.com|turbo.fr
 @@||platform.twitter.com/widgets.js$domain=turbo.fr
 @@||zor.fyre.co^$script,domain=turbo.fr
-|http://$script,third-party,domain=24matins.fr|clubic.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
-|https://$script,third-party,domain=24matins.fr|clubic.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
+|http://$script,third-party,domain=24matins.fr|begeek.fr|clubic.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
+|https://$script,third-party,domain=24matins.fr|begeek.fr|clubic.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
 ||zor.fyre.co^$script,domain=clubic.com
 !
 !----------------------- Exceptions -----------------------!
