@@ -5476,6 +5476,7 @@ turfomania.fr###prehome_contenu
 turfomania.fr###prehome_fond
 nrj.fr###preroll
 teramixer.com###preroll-case-prime
+foot01.com###primary img
 lequipement.fr###prixendirect_block
 fluvore.com###prom
 ecranlarge.com,lacanausurfinfo.com###promo
@@ -5561,9 +5562,11 @@ sfr.fr###shoppingWrapper
 choisirsonforfait.com###sidPub
 herault-tribune.com###side_pub1
 herault-tribune.com###side_pub2
+24matins.fr###sidebar
 begeek.fr###sidebar > [class] > a
 begeek.fr###sidebar > a > img
 begeek.fr###sidebar > div > a
+24matins.fr,begeek.fr###sidebar > li
 nostrodomus.fr###sidebar-bottom-promo
 nostrodomus.fr###sidebar-bottom-pub
 nostrodomus.fr###sidebar-pub
@@ -5906,6 +5909,7 @@ le2minutes.com##.habillage-left
 le2minutes.com##.habillage-right
 le2minutes.com##.habillage-top
 turfomania.fr##.habillageLien
+foot01.com##.has_image a > img
 clubic.com##.header-autopromo
 medialot.fr##.header-sub
 equirodi.be##.header_adv
@@ -6068,6 +6072,8 @@ portaildusexe.com##.player-catcher
 pausefun.com##.plugin_sidebar
 lemonde.fr##.poops
 zebrascrossing.net##.post--0
+24matins.fr##.post-content + span + [class]
+24matins.fr##.post-content + span + [id]
 gamergen.com##.post-google
 1001cocktails.com##.post.bg2 + * + .post.bg2
 pnc-contact.com##.post.bg3
@@ -6176,7 +6182,7 @@ affaires-dz.com##.riquadro_3
 assiste.com.free.fr##.robots-nocontent > table a > img
 ddl-island.su,emule-island.ru,stream-island.ru,stream-island.su##.rose
 clubic.com##.row.mt30
-clubic.com##.row.mt30 + * :last-child > img
+clubic.com##.row.mt30 + * img
 la-musique-rai.com##.rowa
 vista-xp.fr##.rules + script + .topic-actions + .clear + .post
 lol89.com##.s-300
@@ -6194,15 +6200,7 @@ nintendo-master.com##.side-pub-img
 nextinpact.com##.side_content_pub
 gmx.fr##.sideadd
 voyage-economique.fr##.sideaff-container
-echoroukonline.com##.soundcloud-related
-turbo.fr##.textPub
-amvtv.net##[style*="position: absolute; z-index: 99999"]
-omgtorrent.me##a[href^="/torrent"]
-djelfa.info##a[href^="http://www.djelfa.info/ar/click/"]
-24matins.fr##article > .clear + div > a
-24matins.fr##article > div
-24matins.fr##article a > img
-!foot01.com##.sidebar img
+foot01.com##.sidebar img
 clicbienetre.com##.sidebar_block
 desmatures.com##.sidebarpub350250
 francemobiles.com##.simpleoFlashBanner
@@ -6222,6 +6220,7 @@ gizmodo.fr##.small.element
 boursorama.com##.smart
 slappyto.net##.sonicprice
 forumconstruire.com,forumpiscine.com##.sospon_contener
+echoroukonline.com##.soundcloud-related
 playtv.fr##.span-sidebar
 spi0n.com##.spion_single_pub
 lagazettedescommunes.com##.spons
@@ -6240,14 +6239,9 @@ forum.sportytrader.com##.tableau_bleu
 walfoot.be##.take-banner
 jeuxonline.info##.takeover-link
 omgtorrent.me##.telecharger-torrent
+turbo.fr##.textPub
 asso-web.com##.text_pub
-!foot01.com##.the_post a > img
-foot01.com###primary img
-24matins.fr###sidebar
-24matins.fr,begeek.fr###sidebar > li
-foot01.com##.has_image a > img
-24matins.fr##.post-content + span + [class]
-24matins.fr##.post-content + span + [id]
+foot01.com##.the_post a > img
 wakanim.tv##.theoplayer-error
 dpstream.net##.tickercontainer
 laposte.fr##.tile--flag--partner
@@ -6329,6 +6323,7 @@ turbo.fr##[id^="ABbypass"]
 aujourdhui-en-france.fr,leparisien.fr##[id^="Ads_"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 megatorrent.biz##[onclick="getVpn();"]
+amvtv.net##[style*="position: absolute; z-index: 99999"]
 boursorama.com##[style="width: 1000px; margin: 0px auto; min-width: 0px; min-height: 90px; display: block;"]
 forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding:15px"]
 begeek.fr##a > img
@@ -6413,6 +6408,7 @@ confidentielles.com##a[href^="/rc_787_"]
 jeuxvideo.com##a[href^="/sponso/"] img
 beaute-test.com##a[href^="/stat/clic.php?"]
 omgtorrent.me##a[href^="/te"]
+omgtorrent.me##a[href^="/torrent"]
 emule-island.ru##a[href^="/tutoriaux/usenext-dl.php?"]
 seedpeer.eu##a[href^="/usenet.php?"]
 kerix.net##a[href^="LienExterne.asp?"]
@@ -6455,6 +6451,7 @@ fullanimes.free.fr##a[href^="http://www.allopass.com/check/red.php"] > img
 scally.typepad.com##a[href^="http://www.amazon.fr/"] > img
 alsacreations.com##a[href^="http://www.amazon.fr/gp/product/"]
 usbfix.net##a[href^="http://www.bitdefender.fr/media/"]
+djelfa.info##a[href^="http://www.djelfa.info/ar/click/"]
 dzsat.org##a[href^="http://www.dzsat.org/forum/rbs_banner.php?"]
 gizmodo.fr##a[href^="http://www.ebuyclub.com/operations/gizmodo/entreeGizmodo.jsp?"]
 forumconstruire.com##a[href^="http://www.forumconstruire.com/torm3/click.php?"]
@@ -6509,7 +6506,10 @@ israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="100"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
+24matins.fr##article > .clear + div > a
+24matins.fr##article > div
 24matins.fr##article > li
+24matins.fr##article a > img
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
@@ -6676,7 +6676,6 @@ codeshttp.com##table[width="800"][height="100"]
 annonces-dz.com##table[width="800"][height="115"]
 codeshttp.com##table[width="800"][height="118"]
 lonelyplanet.fr##table[width="900"][height="90"][align="center"]
-##tbody > tr > td[width="0"] + td[width="100%"] > div[style="padding:10px 0 0 0 !important;"]
 algeriatenders.com##tbody > tr[style="height:92px;"]
 trancegoa.org##td > .fb-like-box + br + .texteentete.taille2
 depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
@@ -6706,7 +6705,6 @@ begeek.fr###single > a[-abp-properties='*'] > img
 24matins.fr##.ad-sidebar + div[-abp-properties='background-image:*;']
 igen.fr##.article [-abp-properties='cursor: pointer;']
 igen.fr##.article a[-abp-properties='display: block;']
-clubic.com##.article-container > [-abp-properties='float: right;']
 clubic.com##.article-container [-abp-properties='background-image: *;']
 clubic.com##.article-container [-abp-properties='float: right;']
 clubic.com##.article-container [-abp-properties='padding-top: 6*px;']
