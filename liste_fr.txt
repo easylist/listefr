@@ -6245,7 +6245,9 @@ jeuxonline.info##.takeover-link
 omgtorrent.me##.telecharger-torrent
 asso-web.com##.text_pub
 !foot01.com##.the_post a > img
+foot01.com###primary img
 24matins.fr,begeek.fr###sidebar > li
+foot01.com##.has_image a > img
 wakanim.tv##.theoplayer-error
 dpstream.net##.tickercontainer
 laposte.fr##.tile--flag--partner
@@ -6743,10 +6745,11 @@ clubic.com##img [-abp-properties='cursor: pointer;']
 ! Ligatus
 @@||cdn.livefyre.com^$script,domain=clubic.com|turbo.fr
 @@||connect.facebook.net^$script,domain=24matins.fr|begeek.fr|clubic.com|turbo.fr
+@@||disqus.com^$script,third-party,domain=foot01.com
 @@||platform.twitter.com/widgets.js$domain=turbo.fr
 @@||zor.fyre.co^$script,domain=turbo.fr
-|http://$script,third-party,domain=24matins.fr|begeek.fr|clubic.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
-|https://$script,third-party,domain=24matins.fr|begeek.fr|clubic.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
+|http://$script,third-party,domain=24matins.fr|begeek.fr|clubic.com|foot01.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
+|https://$script,third-party,domain=24matins.fr|begeek.fr|clubic.com|foot01.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
 ||zor.fyre.co^$script,domain=clubic.com
 !
 !----------------------- Exceptions -----------------------!
@@ -7175,3 +7178,5 @@ commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[s
 ||cuisineaz.com/*.aspx$xmlhttprequest
 ! fourchette-et-bikini.fr
 ||fourchette-et-bikini.fr/*.php$xmlhttprequest
+! Filters for uBlock
+||foot01.com^$inline-script
