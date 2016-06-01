@@ -6691,6 +6691,7 @@ nrj.fr##.pubContainer
 ! Filtres de propriété CSS pour Adblock Plus
 turbo.fr###colLeft + [-abp-properties='position: relative;']
 turbo.fr###colLeft > [-abp-properties='cursor: pointer;']
+turbo.fr###colLeft [-abp-properties='cursor: pointer;'] > img
 turbo.fr###colLeft a[-abp-properties='cursor: pointer;']
 turbo.fr###colRight [-abp-properties='height: 5*px;']
 turbo.fr###colRight [-abp-properties='height: 6*px;']
