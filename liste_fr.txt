@@ -1662,6 +1662,7 @@ _redir.php?id_rotation=$popup
 ||x.porn.fr^$popup,third-party
 ||xl415.com^$popup,third-party
 ||xmediaserve.com^$popup,third-party
+||xttaff.com^$popup,third-party
 ||yes-messenger.com^$popup,third-party
 ||yesmessenger.com^$popup,third-party
 ||youwatchtab.com^$popup,third-party
@@ -1960,6 +1961,7 @@ _redir.php?id_rotation=$popup
 ||goo.gl^$domain=arab.st
 ||goo.gl^$popup,domain=lnc.nc|openrunner.com|seriezone.com|trackandnews.fr|vkpass.com|za-gay.org
 ||gopro.com^$popup,domain=tignes.net
+||gpstatic.com^*/banner/
 ||grillegagnante.com/bannieres/
 ||grmtas.com/pub/
 ||grosnews.com/grosnews.php?
@@ -6338,6 +6340,7 @@ omgtorrent.me##a[href$=".mkv"]
 omgtorrent.me##a[href$=".mp4"]
 telechargementz-streaming.com,telechargementz-streaming.net##a[href$=".php"]
 thebadbuzz.com##a[href$="/boost.php"]
+smartorrent.com##a[href$="/telecharger-torrent"]
 zone-telechargement.com##a[href$="/xz.php"]
 opensubtitles.org##a[href$="=="][rel="nofollow"]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
