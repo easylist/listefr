@@ -5881,6 +5881,8 @@ ruedesjoueurs.com##.esspo736x110
 easyvoyage.com##.esv-pub-300-250
 1001excuses.fr##.excuses[style="padding-left:105px;padding-top:25px;"]
 maddyness.com##.extra-block
+omgtorrent.me##.fiche-cadre + * > a
+omgtorrent.me##.fiche-cadre-infos + .fiche-cadre
 humanite.fr##.field-name-bloc-pub-1ere-sidebar-contenu-3
 humanite.fr##.field-name-pub-sidebar-first-content
 lefigaro.fr##.fig-adgps
@@ -5965,6 +5967,7 @@ pagesjaunes.fr##.linkPushEmbauche
 frandroid.com##.link_htr
 mavieencouleurs.fr##.list-brands-carousel
 meilleureecoledefrance.com##.list_sponsors
+omgtorrent.me##.liste-clients + td > a
 omgtorrent.me##.liste-telecharger > a
 frenchpopcorn.com##.liste_film_regarder
 lequipement.fr##.listepartenairecomplete
@@ -6106,6 +6109,8 @@ degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
 android-dz.com##.pub-condor
 lefigaro.fr##.pub-double-bande
+omgtorrent.me##.pub-fiche-r + * + .fiche-cadre
+omgtorrent.me##.pub-fiche-r + * > a
 millepertuis.eu##.pub-gauche-flottant
 1point2vue.com##.pub-header
 toplien.fr##.pub-index-gauche
@@ -6350,6 +6355,7 @@ opensubtitles.org##a[href$="=="][rel="nofollow"]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
 omgtorrent.me##a[href*="+"]
+omgtorrent.me##a[href*="-torrent/"]
 jeddl.net,omgtorrent.me##a[href*=".php?"]
 artdeseduire.com##a[href*="/?part=ads"]
 webactus.net##a[href*="/?utm_source="]
@@ -6414,7 +6420,6 @@ immigrer.com##a[href^="/p/bannieres/"]
 confidentielles.com##a[href^="/rc_787_"]
 jeuxvideo.com##a[href^="/sponso/"] img
 beaute-test.com##a[href^="/stat/clic.php?"]
-omgtorrent.me##a[href^="/te"]
 omgtorrent.me##a[href^="/torrent-"]
 emule-island.ru##a[href^="/tutoriaux/usenext-dl.php?"]
 seedpeer.eu##a[href^="/usenet.php?"]
