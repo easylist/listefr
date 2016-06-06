@@ -1726,6 +1726,7 @@ _redir.php?id_rotation=$popup
 ||affiliationcommando.com/bannieres/
 ||affiliationv4.porn.fr^
 ||agence-ecofin.com/mysimple/banners/
+||ahlaejaba.com^$subdocument
 ||ajoutezvotrelien.com/visuel46.png
 ||algeriemobiles.com/pub/
 ||alibaba.com^$popup,domain=streamin.to
@@ -4125,6 +4126,7 @@ toutcash.com/images/bandeau-
 ###adBoxFooter
 ###adContainerParent
 ###adPopup
+###adSupport
 ###adTOP
 ###ad_300_250_right
 ###ad_amz
@@ -5006,6 +5008,7 @@ toutcash.com/images/bandeau-
 ##.zonepub
 ##A[href*="=INSERT_RANDOM_NUMBER_HERE&"]
 ##[data-type="ligatus-script"]
+##[id*="_ads_id_"]
 ##[id^="ads_adnemo_"]
 ##[id^="pub_dart_"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
@@ -5087,7 +5090,7 @@ ecranlarge.com###aNePasManquer
 gameblog.fr###ablock_0
 gameblog.fr###ablock_1
 xboxunlimited.fr###abos
-hqq.tv,radio.co.ma###ad
+ahlaejaba.com,hqq.tv,radio.co.ma###ad
 annuaire-inverse-france.com,liveradio.fr###ad1
 soufisme-fr.com###ad_forum_below_threadlist
 dzsat.org,gsmforum.tv,parent-solo.fr,soufisme-fr.com###ad_global_below_navbar
