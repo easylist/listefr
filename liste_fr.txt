@@ -324,6 +324,7 @@
 /page_pub.
 /pagepub.
 /pages_ads.
+/pariez-h728.
 /partners/ads-
 /partners/rotator.
 /partnertag/iframe.
@@ -4663,6 +4664,7 @@ toutcash.com/images/bandeau-
 ##.advimg46860
 ##.advimg72890
 ##.adwords_bottom
+##.adziner-adzone
 ##.annonce_pub_contenu
 ##.annonces_google
 ##.aside-pub-300
@@ -5940,6 +5942,7 @@ turfomania.fr##.habillageLien
 foot01.com##.has_image a > img
 clubic.com##.header-autopromo
 medialot.fr##.header-sub
+geek-malin.fr##.header-widget-area
 equirodi.be##.header_adv
 frandroid.com##.header_htr
 ouiounon.net##.headertitrelien[target="_blank"]
@@ -7025,6 +7028,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||doubleverify.com^$domain=kissanime.com
 @@||foglio.basilic.io/ad/basilic.adsense.js
 @@||folihentai.eu/*.js|$script,third-party
+@@||geek-malin.fr/wp-content/plugins/adziner/Front/Js/ads.min.js?
 @@||googleads.g.doubleclick.net/pagead/ads?$subdocument,domain=cine-media.fr
 @@||gowonda.com^$image,~third-party
 @@||gratuitcul.com/ad.php?ad=$script
