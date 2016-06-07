@@ -867,6 +867,7 @@ _redir.php?id_rotation=$popup
 ||ayads.co^$third-party
 ||azalead.com^$third-party
 ||azerty.solutions^$third-party
+||azzerr.ovh^$third-party
 ||badibadou.eu^$third-party
 ||bakelitestationarityspouse.info^$third-party
 ||bargetbook.com^$third-party
@@ -897,6 +898,7 @@ _redir.php?id_rotation=$popup
 ||bursttraffic.net^$third-party
 ||buy-targeted-traffic.com^$third-party
 ||buzzvet.com^$third-party
+||bvvx.ovh^$third-party
 ||bvyvk.space^$third-party
 ||bzlwe.com^$third-party
 ||cam4ads.com^$third-party
@@ -963,7 +965,9 @@ _redir.php?id_rotation=$popup
 ||deliv.prisma-presse.com^$third-party
 ||descz.ovh^$third-party
 ||dfast.net^$third-party
+||dghf.ovh^$third-party
 ||digital-metric.com^$third-party
+||digiteka.net^$third-party
 ||direct-foot.co^$third-party
 ||directionplaisir.com^$third-party
 ||discovery-ptp.eu^$third-party
@@ -1087,6 +1091,8 @@ _redir.php?id_rotation=$popup
 ||kinkypeepz.com^$third-party
 ||koodoo.net^$third-party
 ||kreaffiliation.com^$third-party
+||kskss.ovh^$third-party
+||ksqqq.ovh^$third-party
 ||leadzupc.com^$third-party
 ||leasured.eu^$third-party
 ||lien-amateur.org^$third-party
@@ -1679,6 +1685,8 @@ _redir.php?id_rotation=$popup
 !----------------------- Publicités tierces ----------------------!
 !
 &proxyurl=$domain=allmyvideos.net|amvtv.net|vidspot.net
+.mp4|$domain=ultimedia.com
+.ovh^$domain=ultimedia.com
 |http://$popup,third-party,domain=uploaded.net
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
 |http://*:|$popup,domain=up07.net|uptobox.com|uptostream.com
