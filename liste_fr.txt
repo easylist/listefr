@@ -1726,7 +1726,7 @@ _redir.php?id_rotation=$popup
 ||ad.net-c.com^
 ||ad.vacanceo.com^
 ||ad.zanox.com^
-||ad.zanox.com^$popup,domain=configspc.com
+||ad.zanox.com^$popup,domain=configspc.com|telesatellite.com
 ||adf.ly^$popup,domain=ytubesave.com
 ||adjsla.daycorpltd12.netdna-cdn.com^
 ||ads.giponewing.com^
@@ -3842,8 +3842,10 @@ toutcash.com/images/bandeau-
 ||telemb.tv/site/*/Image/banners/
 ||telephoneannuaire.fr/resources/amz*.jpg
 ||telerama.fr/autopromo_*/banner_
-||telesatellite.com/images/fransat-ocs-
-||telesatellite.com/images/nl/a/
+||telesatellite.com/images/cplusbein.jpg
+||telesatellite.com/images/fransat-bistv.jpg
+||telesatellite.com/images/nl/
+||telesatellite.com/images/tvc_hybrides.jpg
 ||tennisactu.net/*/encarts_partenaires/
 ||terredauphinoise.fr/casiope/serveur/partage/
 ||tetesaclaques.tv/public/images/promo_mini_300x127_canalplus_FR.jpg
@@ -6571,6 +6573,7 @@ maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
 24matins.fr##article > li
 24matins.fr##article a > img
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
+telesatellite.com##body > [id^="a"]
 theworldtoptens.com##body > a
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
