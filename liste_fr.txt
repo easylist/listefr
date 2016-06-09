@@ -109,6 +109,7 @@
 /a.ads.
 /a.php?t=*&pgid=*&rebill=
 /acad.$script
+/accrochePub300.
 /acecAdServer.
 /ad-360-280-player.
 /ad-lib/*
@@ -303,6 +304,7 @@
 /jp_display.
 /js.adv.$script
 /js/infopop_$script
+/js/pub.js
 /last_ads.
 /layout/ads?
 /lib/ads.
@@ -388,6 +390,7 @@
 /pub_smart.js
 /pub_ver.
 /pubAdv.
+/pubde2.
 /pubdirecte_
 /publ1c1te.
 /publicite-
@@ -931,7 +934,6 @@ _redir.php?id_rotation=$popup
 ||clk100.com^$third-party
 ||clkmon.com^$third-party
 ||cms-skin.com^$third-party
-||coinad.com^$third-party
 ||coindushopping.fr^$third-party
 ||coloredview.com^$third-party
 ||comandclick.com^$third-party
@@ -964,7 +966,6 @@ _redir.php?id_rotation=$popup
 ||dekalee.fr^$third-party
 ||dekalee.net^$third-party
 ||deliv.prisma-presse.com^$third-party
-||descz.ovh^$third-party
 ||dfast.net^$third-party
 ||dghf.ovh^$third-party
 ||digital-metric.com^$third-party
@@ -976,7 +977,6 @@ _redir.php?id_rotation=$popup
 ||dolead.com^$third-party
 ||double6affiliation.com^$third-party
 ||doubleclick.net^$domain=basketusa.com|cinefil.com|essentielle.be|gameone.net|rds.ca|videos.tmc.tv
-||drnxs.com^$third-party
 ||ds1.nl^$third-party
 ||dubshub.com^$third-party
 ||duporno.biz^$third-party
@@ -1390,7 +1390,6 @@ _redir.php?id_rotation=$popup
 ||venturead.com^$third-party
 ||vfjkd.ovh^$third-party
 ||vgsgaming.com^$third-party
-||videoadex.com^$third-party
 ||videonas.eu^$third-party
 ||videoroow.com^$third-party
 ||videos-x.me^$third-party
@@ -1702,7 +1701,6 @@ _redir.php?id_rotation=$popup
 ||11footballclub.com^*/indexhomepage2.php*&domain=
 ||178.33.220.81^
 ||18etplus.com^
-||19h59.com/newstop.js
 ||1et2.org/sora/$image
 ||1x12.net^
 ||3.bp.blogspot.com/*/s1600/eL97xwC.gif
@@ -1720,7 +1718,8 @@ _redir.php?id_rotation=$popup
 ||abcdelaremuneration.com/bouton.gif
 ||achatventepagefan.com/images/AVPF_
 ||achatventepagefan.com^*/banachat*.gif$third-party
-||achetezfacile.com/co/widgets/widget.js.php$third-party
+||achetezfacile.com^*/widget.$third-party
+||achetezfacile.com^*/widgets/$third-party
 ||ad.apps.fm^$popup
 ||ad.atdmt.com^*.html;$third-party
 ||ad.atdmt.com^*/go;$third-party
@@ -1831,7 +1830,6 @@ _redir.php?id_rotation=$popup
 ||buzzypeople.fr/download/115163_k.gif
 ||buzzypeople.fr/pluginbarre/
 ||buzzypeople.fr/webplayertv/728x90wa.png
-||c-gratuit.com/logo/aff_logo.php?
 ||cadremploi.fr/assets/widgets/$third-party
 ||camsympa.com/?tracker=$popup
 ||canaljeuvideo.com/var/storage/habillages/
@@ -2702,7 +2700,6 @@ toutcash.com/images/bandeau-
 ||auto-moto.com/wp-content/uploads/sites/9/2014/12/boutonParuVendu.jpg
 ||auto-moto.com/wp-content/uploads/sites/9/2015/07/Bouton-Automoto.jpg
 ||auto-utilitaire.com/files/banners/
-||automobiles.nc/lib/JS/pub.js
 ||automobiles.nc/PUBS/
 ||automobiles.nc/wam_pubs_
 ||automobiles.nc^*.html$object,subdocument
@@ -2718,7 +2715,6 @@ toutcash.com/images/bandeau-
 ||batiactu.com/cap_pub/$popup
 ||batiactu.com/images/pub/
 ||batiactu.com^*/partenaire/
-||batiment.nc/lib/JS/pub.js
 ||batiment.nc/PUBS/
 ||batiment.nc^*.html$object,subdocument
 ||bbox-news.com/forums/banniere-
@@ -2740,7 +2736,6 @@ toutcash.com/images/bandeau-
 ||bergaag.com/wp-content/themes/bergaag/img/banniere-
 ||beurette-soumise.gahyoo.com^$popup
 ||bienpublic.com/images/pub/
-||billionuploads.com/js/pub.js
 ||binnews.biz/_images/pub/
 ||binnews.in/_images/pub/
 ||binnews.me/_images/pub/
@@ -2954,7 +2949,6 @@ toutcash.com/images/bandeau-
 ||elmoudjahid.com/upload/img/vpub.
 ||elwatan.com/campub/
 ||elwatan.com/img/swf/
-||embauche.nc/lib/JS/pub.js
 ||embauche.nc/PUBS/
 ||embauche.nc^*.html$object,subdocument
 ||emoto.com/img/pub/
@@ -3034,7 +3028,6 @@ toutcash.com/images/bandeau-
 ||forzamotorsport.fr/img/pub/
 ||fourchette-et-bikini.fr/sites/default/files/*-315x250$image
 ||fourchette-et-bikini.fr/sites/default/files/315x250$image
-||fournisseurs-electricite.com/images/stories/pubde2.png
 ||framapad.org/static/img/bearstech_hosted.png
 ||france-pittoresque.com/Espace_Mag_
 ||france-pittoresque.com/expstickybar.js
@@ -3494,7 +3487,6 @@ toutcash.com/images/bandeau-
 ||mobiles-actus.com/img/integrations/$image
 ||modding.fr/images/ldlc.jpg
 ||modding.fr/images/matnet_f.jpg
-||mode.nc/lib/JS/pub.js
 ||mode.nc^*.html$object,subdocument
 ||monaco.mc/pages/getbandeau.jsp?
 ||mondebrideur.com/myframe.html
@@ -3528,7 +3520,6 @@ toutcash.com/images/bandeau-
 ||narutoshippudenvf.com/inc/pub/
 ||natoms.com/js/partner/
 ||nautiljon.com/images/boutique/
-||nautisme.nc/lib/JS/pub.js
 ||nautisme.nc/PUBS/
 ||nautisme.nc^*.html$object,subdocument
 ||neezzmail.com/js/box.js
@@ -3548,7 +3539,6 @@ toutcash.com/images/bandeau-
 ||nouvelobs.com^*/iframe-boxes/
 ||nouvelobs.com^*/partenaria
 ||novaplanet.com^*/widget/pub_pave_
-||nrj.fr/images/NRJ/accrochePub300.jpg
 ||nrj.fr/PUB/
 ||nrj.fr/skin/classique/
 ||nrj12.fr/skin/classique/
@@ -3565,7 +3555,6 @@ toutcash.com/images/bandeau-
 ||one-piece-streaming.fr/images/min/pub/
 ||one-piecevf.com/pub/
 ||onlinetri.com/graphics/Z3R0D_16WEB_ONLINETRI_TBAG_header.jpg
-||only-iphone.fr/wp-content/uploads/2011/05/CTM_280-280-iphone4-2.png
 ||onvasortir.com/fond$image
 ||onvasortir.com/habillage_$image
 ||onvasortir.com/pub/
@@ -3631,7 +3620,6 @@ toutcash.com/images/bandeau-
 ||porno.qtube.com^
 ||porsche-99x.info/pagedirect/*/pub/
 ||portail.free.fr/_/img/1000xx90-
-||portail.free.fr^*/js/pub.js
 ||portaildusexe.com/ban/
 ||portaildusexe.com/graphics/ban/
 ||pp.free.fr^
@@ -3683,13 +3671,11 @@ toutcash.com/images/bandeau-
 ||rea-dz.com/images/banners/FOND%20C2.jpg
 ||rea-dz.com/images/egitelt.swf
 ||reclame.lequipement.fr^
-||redown.se/templates/black/images/direct.jpg
 ||referentiel.nouvelobs.com/file/rw300/
 ||regie.hiwit.org^
 ||releve.qc.ca^*/bannieres/
 ||remiremontinfo.fr/pub/
 ||renault-safrane.com/banierre_partenaire/
-||rencontres.nc/lib/JS/pub.js
 ||rencontres.nc^*.html$object,subdocument
 ||republicain-lorrain.fr/images/pub/
 ||rireetchansons.fr/rire/pub-
@@ -3712,7 +3698,7 @@ toutcash.com/images/bandeau-
 ||s-sfr.fr/webmail/*.smartbanner.js
 ||s-sfr.fr^*/pubsa.
 ||s-sfr.fr^*/sky160navmulti.json?
-||s.psg.fr/psg/file/201508/pmu201508.jpg
+||s.psg.fr/psg/file/*/pmu*.jpg
 ||sainte-marie-mineral.com/img/pub_
 ||sataid.net/banners/
 ||satlinker.dz/iso_album/partenaires_
@@ -3776,7 +3762,6 @@ toutcash.com/images/bandeau-
 ||sosvirus.net/wp-content/uploads/*336x*.png
 ||soundlightup.com/wp-content/uploads/pub/
 ||speedgame.fr/pub/
-||spin-off.fr/images/vpngratuitspinfoff.gif
 ||sports.fr/includes/cobrand/*/habillage/
 ||sports.fr^*/partenaires/
 ||stage-emploi.campus.lemonde.fr^*/widget
@@ -3836,7 +3821,6 @@ toutcash.com/images/bandeau-
 ||tchat-tarot.com/?partner=$popup
 ||team-iphone.fr/phpbbtip/images/pub/
 ||technikart.com/images/banners/
-||telebruxelles.net/portail/images/annonce_une/138x260-100e-fr.gif
 ||telechargement-film.org/images/ban*.jpg
 ||telechargement-film.org/images/regarder-film.jpg
 ||telechargementgratuits.com/hexa.png
@@ -4393,10 +4377,8 @@ toutcash.com/images/bandeau-
 ###pub-middle2
 ###pub-right
 ###pub-right-bottom
-###pub-right-bottom-ads
 ###pub-right-bottom-msg
 ###pub-right-top
-###pub-right-top-ads
 ###pub-right-top-ads-refresh
 ###pub-right-top-msg
 ###pub-sky
@@ -5126,8 +5108,6 @@ porn-tube-sexe.com,sexytout.com###\5f email_catcher
 commentcamarche.net###a0[style="background:#EFF2FB !important"]
 mappy.com###a300x600
 ecranlarge.com###aNePasManquer
-gameblog.fr###ablock_0
-gameblog.fr###ablock_1
 xboxunlimited.fr###abos
 ahlaejaba.com,hqq.tv,radio.co.ma###ad
 annuaire-inverse-france.com,liveradio.fr###ad1
@@ -5342,7 +5322,6 @@ centerblog.net###gauche > iframe[width="300"][height="250"]
 gameblog.fr###gbFnac300
 gameblog.fr###gb_home_sponsor
 gameblog.fr###gb_megaban
-gameblog.fr###gba300
 viamichelin.be###gdhMegaBan
 viamichelin.be,viamichelin.com###gdhMegaBanBottom
 numerama.com###general_dec
@@ -6628,7 +6607,6 @@ superphysique.org##div[style*="text-align: center"][style*="width:250px"]
 gamalive.com##div[style*="width:160px;height:600px;"]
 pixiz.com##div[style*="width:336px; height:280px; display:inline; padding:5px;"]
 maxifoot.fr##div[style*="width:468px;"]
-gameblog.fr##div[style=" background-color: #c0c0c0; padding: 7px; height: 260px; overflow: hidden;"]
 impotsurlerevenu.org##div[style="background-color:#F9F9F9;float:right;width:300px;margin:-20px 0 20px 20px;height:250px;border:1px solid #A5A5A5"]
 journaldesgrandesecoles.com##div[style="border:1px solid #999999;width:298px;height:250px;overflow:hidden;margin-top:10px"]
 redlist-ultimate.be##div[style="display:none;"] + .block
@@ -6638,7 +6616,6 @@ photofunky.net##div[style="float:left; width:100%; clear:both; margin-bottom:10p
 androidpit.fr##div[style="float:left; width:976px; line-height:0; min-height:90px; margin-bottom:5px; text-align:center;"]
 masculin.com##div[style="float:left; width:980px; height:90px; text-align:left; padding-top:10px;"]
 douniamusic.com##div[style="float:left;width:500px;height:300px;"]
-e-nautia.com##div[style="float:right;margin-right:-12px;margin-top:-6px;width:300px"]
 1fichier.fr##div[style="float:right;width:300px;height:600px"]
 pagerank.fr##div[style="height: 40px; width: 750px; margin: auto; background-image: url(/images/degradebas.gif); background-repeat: no-repeat; background-position: bottom; padding-top: 10px;"]
 futura-sciences.com##div[style="height:250px; width:300px;"]
@@ -6793,9 +6770,6 @@ clubic.com##.logitheque-container > .columns a[-abp-properties='background-image
 clubic.com##.logitheque-container [-abp-properties='height: 2*px;']
 igen.fr##.region-sidebar a[-abp-properties='*']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
-foot01.com##[-abp-properties='background-image: *;']
-foot01.com##[-abp-properties='display: block;']
-foot01.com##[-abp-properties='height: *px;']
 begeek.fr##[-abp-properties='height: 3*px;']
 begeek.fr##[-abp-properties='height: 5*px;'] > img
 begeek.fr##[-abp-properties='height: 6*px;']
@@ -6804,12 +6778,8 @@ foot01.com##[-abp-properties='margin-left: auto;']
 foot01.com##[-abp-properties='margin-right: auto;']
 clubic.com##[-abp-properties='padding-bottom: *rem;float: right;']
 clubic.com##[-abp-properties='padding-bottom: 1rem;']
-foot01.com##[-abp-properties='padding-top: *px;']
 clubic.com##[-abp-properties='padding-top: 3*rem;']
-foot01.com##[-abp-properties='text-align: center;']
-foot01.com##[-abp-properties='text-align: left;']
 foot01.com##[-abp-properties='text-align: right;']
-foot01.com##[-abp-properties='width: *px;']
 clubic.com##a[-abp-properties='float: right;'] > img
 clubic.com##a[-abp-properties='position: relative;']
 macg.co##article > a[-abp-properties='*'] > img
@@ -6824,7 +6794,6 @@ clubic.com##img [-abp-properties='cursor: pointer;']
 @@||zor.fyre.co^$script,domain=clubic.com|turbo.fr
 |http://$script,third-party,domain=24matins.fr|begeek.fr|clubic.com|foot01.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
 |https://$script,third-party,domain=24matins.fr|begeek.fr|clubic.com|foot01.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
-||zor.fyre.co^$script,domain=clubic.com
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
