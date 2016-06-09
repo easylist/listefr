@@ -282,6 +282,7 @@
 /get.cgi?*=banner
 /get_banniere.php?$subdocument
 /getadsor.
+/getPromotedClassifiedAd.
 /goclick?ref=$script
 /header_ads|
 /iframe_pub.
@@ -4496,6 +4497,7 @@ toutcash.com/images/bandeau-
 ###publicite-bas
 ###publicite-principale
 ###publicite2
+###publiciteDeMesPartenaires
 ###publiciteHaut
 ###publicite_728_90
 ###publicite_banniere
@@ -4948,6 +4950,7 @@ toutcash.com/images/bandeau-
 ##.publicite-bas
 ##.publicite-box
 ##.publicite1
+##.publicitePartenaires
 ##.publicite_3
 ##.publicite_droite
 ##.publicite_gauche
