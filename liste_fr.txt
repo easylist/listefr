@@ -312,6 +312,7 @@
 /load.php?*&size=
 /load.php?action=adsc&
 /lp_fkplay/*
+/mailorama120600.
 /media/300250.
 /media/72890.
 /menu/ADS/*
@@ -1954,6 +1955,7 @@ _redir.php?id_rotation=$popup
 ||fpcplugs.com/do.cgi?
 ||france-telechargements.com^$popup
 ||francoischarron.com/datascontent/insertech-*.jpg
+||free.fr/images/bannieres/
 ||frenchfriendfinder.com^$domain=choualbox.com
 ||frequence-tv.com/images/frpub.gif
 ||full-wallpaper.com/wallpaperday.js$third-party
@@ -2259,7 +2261,6 @@ _redir.php?id_rotation=$popup
 ||s.brsimg.com^*/cache/css/compress/$object
 ||s.click.aliexpress.com/e/qFAmuzNju$popup
 ||s3.amazonaws.com^*/publishers/$script
-||saintseiya.lesite.free.fr/images/bannieres/
 ||salopes-du-jour.com/sexy.js
 ||serie-stream.org^$popup,domain=full-stream.cc
 ||service-factures.fr/bannieres/
@@ -2326,6 +2327,7 @@ _redir.php?id_rotation=$popup
 ||streaminger.tv/ad*.
 ||sublinet.com/www/public/images/*/72890_$third-party
 ||surf-report-shop.com^$popup,domain=surf-report.com
+||surfeurdor.free.fr^
 ||systeme-business.com/images/120x600sb.jpg
 ||t5hkmjkmhfae.com^
 ||tac2.xcams.com/livecams/$third-party
@@ -3785,9 +3787,7 @@ toutcash.com/images/bandeau-
 ||static.s-sfr.fr/media/accsky*.
 ||static.wanadoo.fr/webmail/templateMagic/*/graphics/*/meetic_$image
 ||statique.lnc.nc/_slider/promo.nc/
-||stefgagnant.com/_images/_Captures_sites/
-||stefgagnant.com/Images/banniere_
-||stefgagnant.com/Images/mailorama120600.gif
+||stefgagnant.com^*ban
 ||strasbourg-tramway.fr/ban_
 ||strasbourg-tramway.fr/banner
 ||stream-film.com/images/pub.gif
