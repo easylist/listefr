@@ -1801,7 +1801,6 @@ _redir.php?id_rotation=$popup
 ||beaverscripts.com^$popup,third-party
 ||belle-salope.fr/ban/$third-party
 ||belledesfleurs.com/ban/$third-party
-||bessapromotion.com^$popup,domain=ouedkniss.com
 ||bestofartisans.com/app/$third-party
 ||bestofmedia.com/sfp/images/partner/
 ||betclic.fr/partner.aspx?
@@ -2624,6 +2623,7 @@ toutcash.com/images/bandeau-
 ||ad.referencement.01net.com^
 ||adli.pw/campagnes/
 ||adopteunmec.com^*/pave_partenaire_
+||adserver.ouedkniss.com^
 ||aeroport.fr/sites/default/files/*/pub-
 ||aeroport.fr/sites/default/files/users/*.gif
 ||affaires-dz.com/images/banners/
@@ -3569,10 +3569,9 @@ toutcash.com/images/bandeau-
 ||orange.fr/media/pub/scriptPub.html
 ||orientation-chabab.com/img/pub.jpg
 ||otaku-attitude.net^*/okazu-manga.gif
-||ouedkniss.com/inc/pubs/
 ||ouedkniss.com/pubs/
 ||ouedkniss.com/swf/Interstitiel.swf
-||ouedkniss.com^*/script/index_pub.js
+||ouedkniss.com^*/index_pub.js
 ||ouestfrance-auto.com/tools/widget/?
 ||ouifm.fr^*/images/partners/
 ||oujdacity.net/kelkoo*.html
@@ -4149,6 +4148,7 @@ toutcash.com/images/bandeau-
 ###ad_unit_slot3
 ###ad_unit_slot4
 ###adcontainerAdSense
+###adcontainer_recherche
 ###adleftgame
 ###adpubhead
 ###ads-300x250
@@ -4929,8 +4929,11 @@ toutcash.com/images/bandeau-
 ##.pub_topright
 ##.pub_vertical
 ##.pub_video
+##.pub_voyage_1
 ##.pub_voyage_2
 ##.pub_voyage_award
+##.pub_voyage_bg
+##.pub_voyage_button
 ##.pub_voyage_city
 ##.pub_voyage_image
 ##.pub_voyage_image2
@@ -6112,6 +6115,7 @@ footballclubdemarseille.fr##.pb-sidebar-article
 seriesaddict.fr##.pbl728x90
 seedpeer.eu##.pblink
 jeuxactu.com##.pbs
+ouedkniss.com##.pcare160
 supprimer-spyware.com##.phone_support_banner
 portaildusexe.com##.player-catcher
 pausefun.com##.plugin_sidebar
