@@ -3726,9 +3726,9 @@ toutcash.com/images/bandeau-
 ||securite.01net.com^
 ||senioractu.com/photo/background-
 ||senscritique.com/img/tmp/campaigns/
+||senscritique.com/sc/*/index.ajax
 ||senscritique.com/sc/campaigns/
 ||senscritique.com/sc/dynamic_elements/$xmlhttprequest
-||senscritique.com/sc/products/
 ||seriesstreaming.fr/images/partenaire_
 ||seriezone.com/ba/
 ||serre-editeur.fr/images/banners/
@@ -5914,6 +5914,7 @@ allocine.fr##.d_table-cell.vam
 senscritique.com##.delt21-banner
 senscritique.com##.demh-container
 senscritique.com##.demh-product
+senscritique.com##.demh-wrapper
 logitheque.com##.description + .telechargement
 grosnews.com##.deuxcarres
 rtl.fr##.dfp-pave
@@ -6395,6 +6396,8 @@ israelmagazine.co.il##a > img[width="238"]
 cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
+senscritique.com##a[data-rel="masthead-container"]
+senscritique.com##a[data-sc-tyson-element-event="product-click"]
 omgtorrent.me##a[href$=".avi"]
 omgtorrent.me##a[href$=".mkv"]
 omgtorrent.me##a[href$=".mp4"]
@@ -6600,6 +6603,7 @@ msn.com##div[data-aop="stripe.autos.ad_ad"]
 msn.com##div[data-aop="stripe.health.ad_ad"]
 msn.com##div[data-aop^="stripe.shopping"]
 msn.com##div[data-module-id*=".shopping."]
+senscritique.com##div[data-sc-element-position="masthead"]
 allocine.fr##div[data-w="clickCommand"]
 notebookcheck.biz##div[id] + div[class] > img:first-child
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
