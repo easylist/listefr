@@ -3155,7 +3155,6 @@ toutcash.com/images/bandeau-
 ||images.fan-de-cinema.com/habillage/
 ||images.playfrance.com/habillages$image
 ||images1.soonnight.com/template/skins/*/skin.css
-||img.clubic.com^*-photo-bg-
 ||img.uefa.com/imgml/comp/ucl/sponsor/
 ||immobilier.nc/images/part_
 ||immobilier.nc^*.html$object,subdocument
@@ -5761,10 +5760,6 @@ sortiesdvd.com##.art-Post[style="float: right"]
 igen.fr##.article a > img
 igen.fr##.article a[class]
 elhayatonline.net##.article-body + div[style*="width: 336px;"]
-clubic.com##.article-container > a > img
-clubic.com##.article-content [class] > img
-clubic.com##.article-content [id]
-clubic.com##.article-content span
 madmoizelle.com##.article_banner
 madmoizelle.com##.article_pub
 buzzly.fr##.article_pubtop
@@ -5891,14 +5886,12 @@ futura-sciences.com##.col-droite-pub-milieu
 mediadico.com##.cold-bloc-video-generique
 seasons.fr##.colsEditoMainMS
 allocine.fr##.coltop
-clubic.com##.columns div + a > img
 tripadvisor.fr##.commerce
 tirage-gagnant.com##.compteBar
 pagesjaunes.fr##.containerPdsSitesPartenaires
 strastv.com##.container_pubh_02
 lemonde.fr##.conteneur_ligatus
 quetelecharger.com##.content-bloc-pub
-clubic.com##.content-wrapper span[id]
 lexpress.fr##.content_inside_partner
 thebadbuzz.com##.contenu_pop
 lotusnoir.info##.countclick
@@ -5961,7 +5954,6 @@ le2minutes.com##.habillage-left
 le2minutes.com##.habillage-right
 le2minutes.com##.habillage-top
 turfomania.fr##.habillageLien
-clubic.com##.header-autopromo
 medialot.fr##.header-sub
 geek-malin.fr##.header-widget-area
 equirodi.be##.header_adv
@@ -6017,7 +6009,6 @@ omgtorrent.me##.liste-telecharger > a
 frenchpopcorn.com##.liste_film_regarder
 lequipement.fr##.listepartenairecomplete
 click-fr.com##.loc
-clubic.com##.logitheque-container > .large-4.columns
 msn.com##.logo > a[target="_blank"] > img[width="300"]
 mavieencouleurs.fr##.logo-brand
 caradisiac.com##.logosPartenaires
@@ -6238,8 +6229,6 @@ affaires-dz.com##.riquadro_1
 affaires-dz.com##.riquadro_3
 assiste.com.free.fr##.robots-nocontent > table a > img
 ddl-island.su,emule-island.ru,stream-island.ru,stream-island.su##.rose
-clubic.com##.row.mt30
-clubic.com##.row.mt30 + * img
 la-musique-rai.com##.rowa
 vista-xp.fr##.rules + script + .topic-actions + .clear + .post
 lol89.com##.s-300
@@ -6774,40 +6763,24 @@ begeek.fr###single > a[-abp-properties='*'] > img
 24matins.fr##.ad-sidebar + div[-abp-properties='background-image:*;']
 igen.fr##.article [-abp-properties='cursor: pointer;']
 igen.fr##.article a[-abp-properties='display: block;']
-clubic.com##.article-container [-abp-properties='background-image: *;']
-clubic.com##.article-container [-abp-properties='float: right;']
-clubic.com##.article-container [-abp-properties='padding-top: 6*px;']
-clubic.com##.article-content > [-abp-properties='padding-bottom: 0.*rem;']
-clubic.com##.article-content [-abp-properties='padding-top: 6*px;']
-clubic.com##.content-wrapper [-abp-properties='padding-bottom: 50*px;']
-clubic.com##.logitheque-container > .columns [-abp-properties='padding-top: 6*px;']
-clubic.com##.logitheque-container > .columns a[-abp-properties='background-image: *;']
-clubic.com##.logitheque-container [-abp-properties='height: 2*px;']
 igen.fr##.region-sidebar a[-abp-properties='*']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 begeek.fr##[-abp-properties='height: 3*px;']
 begeek.fr##[-abp-properties='height: 5*px;'] > img
 begeek.fr##[-abp-properties='height: 6*px;']
-clubic.com##[-abp-properties='left: 17*px;position: relative;']
 foot01.com##[-abp-properties='margin-left: auto;']
 foot01.com##[-abp-properties='margin-right: auto;']
-clubic.com##[-abp-properties='padding-bottom: *rem;float: right;']
-clubic.com##[-abp-properties='padding-bottom: 1rem;']
-clubic.com##[-abp-properties='padding-top: 3*rem;']
-clubic.com##a[-abp-properties='float: right;'] > img
-clubic.com##a[-abp-properties='position: relative;']
 macg.co##article > a[-abp-properties='*'] > img
 24matins.fr##article > div[-abp-properties='background-image:*;']
-clubic.com##img [-abp-properties='cursor: pointer;']
 ! Ligatus
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=foot01.com
-@@||cdn.livefyre.com^$script,domain=clubic.com|turbo.fr
-@@||connect.facebook.net^$script,domain=24matins.fr|begeek.fr|clubic.com|turbo.fr
+@@||cdn.livefyre.com^$script,domain=turbo.fr
+@@||connect.facebook.net^$script,domain=24matins.fr|begeek.fr|turbo.fr
 @@||disqus.com^$script,third-party,domain=foot01.com
 @@||platform.twitter.com/widgets.js$domain=turbo.fr
-@@||zor.fyre.co^$script,domain=clubic.com|turbo.fr
-|http://$script,third-party,domain=24matins.fr|begeek.fr|clubic.com|foot01.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
-|https://$script,third-party,domain=24matins.fr|begeek.fr|clubic.com|foot01.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
+@@||zor.fyre.co^$script,domain=turbo.fr
+|http://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
+|https://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
