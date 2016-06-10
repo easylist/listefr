@@ -5155,7 +5155,6 @@ upp-auteurs.fr###annonce_b
 annonces.nc,automobiles.nc,batiment.nc,embauche.nc,mode.nc,nautisme.nc,rencontres.nc###annonceur
 macbidouille.com###arch
 pubeco.fr###aroundShop
-turbo.fr###article + *
 nouvelobs.com###article-colonne-partenaires
 autoreflex.com###arx_home_partenaires
 comment-economiser.fr###astuce_pub
@@ -5252,16 +5251,10 @@ wanarun.net###chaussuresCarousel
 sitedesmarques.com###check-also-box
 bricozone.be###clktable
 bricozone.be###clktableb
-turbo.fr###colLeft a > img
-turbo.fr###colRight img[src^="http://img.turbo.fr/style/"]
-turbo.fr###colRightHome :last-child > img
-turbo.fr###colRightHome a > img
-turbo.fr###colRightHome img[src^="http://img.turbo.fr/style/"]
 directvelo.com###col_03_partenaires
 zebulon.fr###col_droite
 zebulon.fr###col_droite_fine
 soundlightup.com###colonnePub
-turbo.fr###colonne_widgets img
 renovationettravaux.fr###colorbox
 oujdacity.net###common-top-widget
 matchendirect.fr###comparateur
@@ -5809,7 +5802,6 @@ tv5.ca##.bigbox-pub
 mobilealgerie.com##.blc_300x250_blanc
 francefootball.fr##.bloc-autopromo
 jeuxvideo.com##.bloc-boutique-droite
-turbo.fr##.bloc-emission + *
 nouvelobs.com##.bloc-partenaires
 nouvelobs.com##.bloc-partners
 aujourdhui-en-france.fr,leparisien.fr##.bloc-pratique
@@ -5896,7 +5888,6 @@ lexpress.fr##.content_inside_partner
 thebadbuzz.com##.contenu_pop
 lotusnoir.info##.countclick
 games.softgames.de##.cpi-banner-description-content
-turbo.fr##.croco.betclic
 blumei-piano.com##.cyt-affi-wrapper
 allocine.fr##.d_table-cell.vam
 senscritique.com##.delt21-banner
@@ -6213,7 +6204,6 @@ souk.ma##.rbanner-wrap
 annuaire-inverse-france.com##.rborderpurple
 lien-torrent.com##.rcol
 imobie.fr##.rec_download
-turbo.fr##.recapitulatif.floatRight
 lemonde.fr##.reco_cross_site_outbrain
 gonzai.com##.red-one-third
 lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.references
@@ -6746,15 +6736,6 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 nrj.fr##.aside-pub-300
 nrj.fr##.pubContainer
 ! Filtres de propriété CSS pour Adblock Plus
-turbo.fr###colLeft + [-abp-properties='position: relative;']
-turbo.fr###colLeft > [-abp-properties='cursor: pointer;']
-turbo.fr###colLeft [-abp-properties='cursor: pointer;'] > img
-turbo.fr###colLeft a[-abp-properties='cursor: pointer;']
-turbo.fr###colRight [-abp-properties='height: 5*px;']
-turbo.fr###colRight [-abp-properties='height: 6*px;']
-turbo.fr###colRightHome > [-abp-properties='display: block'] img
-turbo.fr###colRightHome [-abp-properties='height: 5*px;']
-turbo.fr###colRightHome [-abp-properties='height: 6*px;']
 begeek.fr###sidebar a[-abp-properties='background-image: *;']
 begeek.fr###single > [-abp-properties='cursor: pointer;']
 begeek.fr###single > [-abp-properties='height: *px; padding-top: *px;']
@@ -6774,13 +6755,10 @@ macg.co##article > a[-abp-properties='*'] > img
 24matins.fr##article > div[-abp-properties='background-image:*;']
 ! Ligatus
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=foot01.com
-@@||cdn.livefyre.com^$script,domain=turbo.fr
-@@||connect.facebook.net^$script,domain=24matins.fr|begeek.fr|turbo.fr
+@@||connect.facebook.net^$script,domain=24matins.fr|begeek.fr
 @@||disqus.com^$script,third-party,domain=foot01.com
-@@||platform.twitter.com/widgets.js$domain=turbo.fr
-@@||zor.fyre.co^$script,domain=turbo.fr
-|http://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
-|https://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|igen.fr|macg.co|turbo.fr|watchgeneration.fr
+|http://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|igen.fr|macg.co|watchgeneration.fr
+|https://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|igen.fr|macg.co|watchgeneration.fr
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
