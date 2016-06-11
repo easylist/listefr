@@ -174,6 +174,7 @@
 /adsrvmedia/*
 /adv/pads.
 /Adv728.
+/adv_banner.
 /adv_forum-
 /advertisement?
 /advertisingView?
@@ -1383,6 +1384,7 @@ _redir.php?id_rotation=$popup
 ||trafficxbiz.com^$third-party
 ||trafic-booster.biz^$third-party
 ||traficmax.com^$third-party
+||trafstore.com^$third-party
 ||trck.eu^$third-party
 ||trck.me^$third-party
 ||tubicash.biz^$third-party
@@ -4782,6 +4784,7 @@ toutcash.com/images/bandeau-
 ##.kadmer-ad
 ##.large-ad-center
 ##.large-ad-center-close
+##.leaderboard728
 ##.leftSideAds
 ##.leftmenupub
 ##.lien_sponso
@@ -5062,6 +5065,7 @@ toutcash.com/images/bandeau-
 ##a[href*="xiti.com/go.ad?"]
 ##a[href^=".php/ads/"]
 ##a[href^=".php/annonce/ads/"]
+##a[href^="//adsrvmedia.adk2x.com/"]
 ##a[href^="/rdh?"]
 ##a[href^="ads.php?id="]
 ##a[href^="http://aclick.adhoc1.net/"]
