@@ -3222,6 +3222,9 @@ toutcash.com/images/bandeau-
 ||journaldu4x4.com^*/L150xH*/
 ||journaldu4x4.com^*xH150/
 ||journaldugeek.com/wp-content/themes/*/habillages$image
+||journaldumusulman.fr/wp-content/uploads/*.gif
+||journaldumusulman.fr/wp-content/uploads/*/fond-
+||journaldumusulman.fr/wp-content/uploads/*ban
 ||journaldunet.com/*@*,position$script
 ||journaldunet.com^*/0_pub/
 ||journaldupirate.com/vpn2.png
@@ -5062,6 +5065,7 @@ toutcash.com/images/bandeau-
 ##a[href*="ads_random"]
 ##a[href*="friendlyduck"]
 ##a[href*="qadserver.com"]
+##a[href*="utm_medium=mega_banniere"] > img
 ##a[href*="xiti.com/go.ad?"]
 ##a[href^=".php/ads/"]
 ##a[href^=".php/annonce/ads/"]
@@ -5082,6 +5086,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://styleapplicationzillion.com/"]
 ##a[href^="http://toroadvertisingmedia.com"]
 ##a[href^="http://www.affiliation-france.com/"]
+##a[href^="http://www.custom-qamis.com/"] > img
 ##a[href^="http://www.espace-plus.net/"]
 ##a[href^="http://www.fducks.com/"]
 ##a[href^="http://www.gaddin.com/index.php?sponsor"] > img
@@ -6322,7 +6327,7 @@ viamichelin.be,viamichelin.fr##.vm-pub-home300
 elmoudjahid.com##.vpub
 vube.com##.vube-grid-feature
 rtl.be##.w-content-details-ligatus
-almountakhab.com,staractus.fr##.wallpaper-link
+almountakhab.com,journaldumusulman.fr,staractus.fr##.wallpaper-link
 slappyto.net##.webrox._300x250.centered
 msn.com##.widead
 lefigaro.fr##.widget-bazar_chic
@@ -6482,7 +6487,7 @@ dzsat.org##a[href^="http://fr.aliexpress.com/"]
 only-iphone.fr##a[href^="http://fr.copytrans.net/copytranscontacts.php?utm_source="]
 argentmania.com##a[href^="http://fr.scratchmania.com/?brandId="]
 brunotritsch.fr##a[href^="http://fr.webmaster-rank.info/stat/affiliate/"]
-abidjan.net,igen.fr,israelmagazine.co.il,lnc.nc,macg.co,mega-vesti.info,smartorrent.com,watchgeneration.fr,wawacity.su##a[href^="http://goo.gl/"]
+abidjan.net,igen.fr,israelmagazine.co.il,journaldumusulman.fr,lnc.nc,macg.co,mega-vesti.info,smartorrent.com,watchgeneration.fr,wawacity.su##a[href^="http://goo.gl/"]
 moviz-telecharger.com##a[href^="http://moviz-telecharger.com/films-en-qualité-hd-"]
 opensubtitles.org##a[href^="http://osdb.link/go?"]
 mega-vesti.info,smartorrent.com##a[href^="http://ow.ly/"]
