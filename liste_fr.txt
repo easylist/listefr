@@ -1703,9 +1703,8 @@ _redir.php?id_rotation=$popup
 !----------------------- Publicités tierces ----------------------!
 !
 &proxyurl=$domain=allmyvideos.net|amvtv.net|vidspot.net
-|http://$popup,third-party,domain=ultimedia.com|uploaded.net
+|http://$popup,third-party,domain=ultimedia.com|up07.net|uploaded.net|uptobox.com|uptostream.com
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
-|http://*:|$popup,domain=up07.net|uptobox.com|uptostream.com
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
 |http://po.st^$popup,domain=almountakhab.com
 ||1001sondages.com/assets/images/250x250.jpg
