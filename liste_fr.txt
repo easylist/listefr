@@ -200,6 +200,7 @@
 /api/ads_
 /ar/ads/*
 /ara/ads/*
+/article/ads/*
 /async?*&tid=
 /b728x90a.
 /ban/*/300x250
@@ -2023,6 +2024,7 @@ _redir.php?id_rotation=$popup
 ||imagefacile.com^$image
 ||img.grouponcdn.com/gpn/$image,third-party
 ||img.nuxit.com/banners/
+||img.ucweb.com^*/ad/
 ||img6.bricozone.be/jquery-1.2.6.min.js
 ||indecentes-voisines.com/bans/
 ||inoutscripts.com/affiliate/
