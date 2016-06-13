@@ -668,7 +668,7 @@ _adb_728x90_$popup
 _domain=ads.$popup
 _pop.php?z=$popup
 _redir.php?id_rotation=$popup
-data:text/html;base64,$popup,domain=uptobox.com
+data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||adv-mybankai.$popup
 !
 !----------------------- Annonceurs -----------------------!
@@ -2272,6 +2272,7 @@ data:text/html;base64,$popup,domain=uptobox.com
 ||s-sfr.fr/stats/footer.js
 ||s.brsimg.com^*/cache/css/compress/$object
 ||s.click.aliexpress.com/e/qFAmuzNju$popup
+||s3.amazonaws.com^$domain=uptostream.com
 ||s3.amazonaws.com^*/publishers/$script
 ||salopes-du-jour.com/sexy.js
 ||serie-stream.org^$popup,domain=full-stream.cc
@@ -2383,7 +2384,7 @@ data:text/html;base64,$popup,domain=uptobox.com
 ||up-00.com^$domain=up07.net
 ||up-banner.wavecdn.net^
 ||up07.net/open*.js
-||uptojizz.com/iframe.php
+||uptojizz.com^$subdocument
 ||urafur.clubeo.com^
 ||url.ph/banners/
 ||us-ugc-aka.canal-plus.com^
