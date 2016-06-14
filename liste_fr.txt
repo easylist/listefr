@@ -1665,6 +1665,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||teracreative.com^$popup,third-party
 ||terrapops.com^$popup,third-party
 ||the-adult-company.com^$popup,third-party
+||theopenads.com^$popup,third-party
 ||thisclick.network^$popup,third-party
 ||tonlive.com^$popup,third-party
 ||torriderencontre.com^$popup,third-party
@@ -3142,6 +3143,7 @@ toutcash.com/images/bandeau-
 ||hentaigratuit.org/delaypub.js
 ||herault-tribune.com^*/flash_pub_
 ||herault-tribune.com^*/rep_pub/
+||heures.be/template/images/prom/zalando/
 ||hibamusic.com/pub/
 ||histoires-de-sexe.net/histoires-sexe-videos.php$popup
 ||hitek.fr/img/*-ban.
@@ -5331,6 +5333,7 @@ forumfr.com###firstpost_ad
 liberte-algerie.com###flash[style="width:980px; margin:auto; position:relative;"]
 sport-team.org###floatLayer
 streaming-foot.me###floatLayer1
+heures.be###floatingCntr
 cinemavf.net,vfstreaminggratuit.com###floatlayer2
 algeriepatriotique.com###flottante_droite
 algeriepatriotique.com###flottante_gauche
@@ -5730,7 +5733,7 @@ afrokanlife.com##.PubAdAI
 driverscloud.com##.accueil_pubotherlan
 lagazettedescommunes.com##.actus-case-pub
 lagazettedescommunes.com##.actus-home-right-pub
-courrierinternational.com,covoiturage.fr,dna.fr,e-sante.fr,fabriquer-des-meubles.fr,gamer-network.fr,gizmodo.fr,journalmetro.com,lematin.ch,lopinion.fr,maps.google.fr,marques.expert,msn.com,p-nintendo.com,photo.fr,playerhd1.pw,soundlightup.com,tetu.com,tripadvisor.fr,zapiks.fr##.ad
+courrierinternational.com,covoiturage.fr,dna.fr,e-sante.fr,fabriquer-des-meubles.fr,gamer-network.fr,gizmodo.fr,heures.be,journalmetro.com,lematin.ch,lopinion.fr,maps.google.fr,marques.expert,msn.com,p-nintendo.com,photo.fr,playerhd1.pw,soundlightup.com,tetu.com,tripadvisor.fr,zapiks.fr##.ad
 nouvelobs.com##.ad--desk
 midilibre.fr,sudouest.fr##.ad-box
 begeek.fr##.ad-sidebar + span
@@ -6142,6 +6145,7 @@ pnc-contact.com##.post.bg3
 abomag.com##.postContent > p[style="float: left;margin: 4px;"]
 strastv.com##.post_pub
 canalplus.fr##.preroll
+heures.be##.promSidebar
 deco.fr##.promo
 boursorama.com##.promo + .visible-desktop[style$="display: block;"]
 challenges.fr,nouvelobs.com##.promo-bottom-art
