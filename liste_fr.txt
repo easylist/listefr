@@ -3758,10 +3758,7 @@ toutcash.com/images/bandeau-
 ||secretsdujeu.com/pop/$popup
 ||securite.01net.com^
 ||senioractu.com/photo/background-
-||senscritique.com/img/tmp/campaigns/
-||senscritique.com/sc/*/index.ajax
-||senscritique.com/sc/campaigns/
-||senscritique.com/sc/dynamic_elements/$xmlhttprequest
+||senscritique.com/sc/$xmlhttprequest
 ||seriesstreaming.fr/images/partenaire_
 ||seriezone.com/ba/
 ||serre-editeur.fr/images/banners/
@@ -5939,10 +5936,6 @@ lotusnoir.info##.countclick
 games.softgames.de##.cpi-banner-description-content
 blumei-piano.com##.cyt-affi-wrapper
 allocine.fr##.d_table-cell.vam
-senscritique.com##.delt21-banner
-senscritique.com##.demh-container
-senscritique.com##.demh-product
-senscritique.com##.demh-wrapper
 logitheque.com##.description + .telechargement
 grosnews.com##.deuxcarres
 rtl.fr##.dfp-pave
@@ -6056,7 +6049,6 @@ maisonapart.com##.map_fond_pub
 maisonapart.com##.map_pdp_pub
 parlonspiscine.com##.margin_bottom[style="padding:5px;border:1px solid #8F8F8F;border-radius:5px 0px 5px 0px;box-shadow: 0px 0px 10px #000000;"]
 aujourdhui-en-france.fr,leparisien.fr##.marketingParisien
-senscritique.com##.masthead
 driverscloud.com##.mcdescresumepub
 driverscloud.com##.mcdescresumepubnews
 playtv.fr##.mega-sqrpub
@@ -6403,7 +6395,6 @@ nrj.fr##[class^="modal"]
 ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
 guide-piscine.fr##[class^="regie_"]
 msn.com##[class^="stripecontaine"][data-section-id="stripe.store"]
-senscritique.com##[data-sc-ad-element-event="product-click"]
 meteofrance.com##[href*=".xiti.com"] > img
 mega-vesti.info##[href^="http://mega-vesti.info/telecharger-torrent/"]
 meilleur-vpn.biz##[href^="http://meilleur-vpn.biz/visit/"]
@@ -6422,8 +6413,6 @@ israelmagazine.co.il##a > img[width="238"]
 cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
-senscritique.com##a[data-rel="masthead-container"]
-senscritique.com##a[data-sc-tyson-element-event="product-click"]
 omgtorrent.me##a[href$=".avi"]
 omgtorrent.me##a[href$=".mkv"]
 omgtorrent.me##a[href$=".mp4"]
@@ -6632,7 +6621,6 @@ msn.com##div[data-aop="stripe.autos.ad_ad"]
 msn.com##div[data-aop="stripe.health.ad_ad"]
 msn.com##div[data-aop^="stripe.shopping"]
 msn.com##div[data-module-id*=".shopping."]
-senscritique.com##div[data-sc-element-position="masthead"]
 allocine.fr##div[data-w="clickCommand"]
 notebookcheck.biz##div[id] + div[class] > img:first-child
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
