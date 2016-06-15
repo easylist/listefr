@@ -131,6 +131,7 @@
 /adc-728-90-
 /adcash/300.
 /adcash/728.
+/AdConfig.aspx
 /adhosting.
 /adimage-
 /adkompan.
@@ -496,6 +497,10 @@
 ?callback=ADS.
 ?clickTag=
 ?imgPrefix=/ligatus/
+?Page=*&Width=120&Height=600&
+?Page=*&Width=160&Height=600&
+?Page=*&Width=300&Height=250&
+?Page=*&Width=468&Height=60&
 ?redir=*/click?
 ?runauction=*?crr=*&cbrandom=
 @preroll/*,adb=$xmlhttprequest
@@ -3850,6 +3855,7 @@ toutcash.com/images/bandeau-
 ||tahiti-infos.com/photo/habillage_
 ||tahiti-infos.com/photo/heiva_pol_
 ||tchat-tarot.com/?partner=$popup
+||tchatche.com/123m?
 ||team-iphone.fr/phpbbtip/images/pub/
 ||technikart.com/images/banners/
 ||telechargement-film.org/images/ban*.jpg
@@ -6590,6 +6596,7 @@ maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
 24matins.fr##article > div
 24matins.fr##article > li
 24matins.fr##article a > img
+tchatche.com##banner
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 telesatellite.com##body > [id^="a"]
 theworldtoptens.com##body > a
