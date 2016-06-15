@@ -1722,7 +1722,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 !----------------------- Publicités tierces ----------------------!
 !
 &proxyurl=$domain=allmyvideos.net|amvtv.net|vidspot.net
-.ovh^$domain=huffingtonpost.fr
+.ovh^$domain=huffingtonpost.fr|lemonde.fr
 |http://$popup,third-party,domain=ultimedia.com|up07.net|uploaded.net|uptobox.com|uptostream.com
 |http://$popup,~third-party,domain=flashx.tv
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
