@@ -1141,6 +1141,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||lmoppm.ovh^$third-party
 ||loading-delivery2.com^$third-party
 ||loractu.pro^$third-party
+||lslsd.ovh^$third-party
 ||madameglad.com^$third-party
 ||madcents.ma^$third-party
 ||madison-ads.net^$third-party
@@ -1721,6 +1722,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 !----------------------- Publicités tierces ----------------------!
 !
 &proxyurl=$domain=allmyvideos.net|amvtv.net|vidspot.net
+.ovh^$domain=huffingtonpost.fr
 |http://$popup,third-party,domain=ultimedia.com|up07.net|uploaded.net|uptobox.com|uptostream.com
 |http://$popup,~third-party,domain=flashx.tv
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
