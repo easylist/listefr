@@ -5275,6 +5275,7 @@ franceculture.fr###block-fcbloc-publicite
 lemouv.fr###block-lemouv_bloc-pub_ftv_right
 lemouv.fr,mouv.fr###block-lemouv_bloc-pub_ftv_top
 macg.co###block-quicktabs-bon-plans-macg-
+medisite.fr###block-system-main > div > img
 voyages-sncf.com###block-vsct_vsca-megabanner
 franceinfo.fr###block-zerobloc-pub-ftv-carre
 bricoleurdudimanche.com###block_a_decouvrir
@@ -5524,6 +5525,7 @@ carrefour.fr###overlayBase
 gameblog.fr###overlayFnac
 forum-iphoneaddict.fr###p00
 cdiscount.com###paFooterPubPartner
+medisite.fr###page > div > img
 aujourdhui-en-france.fr,leparisien.fr###parisien-partenaires
 judgehype.com,redlist-ultimate.be,soonnight.com###partenaire
 tube-teen.fr###partenaire_img
@@ -6267,6 +6269,7 @@ lemonde.fr##.reco_cross_site_outbrain
 gonzai.com##.red-one-third
 lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.references
 jds.fr##.regie_20
+medisite.fr##.region > div > img
 igen.fr,macg.co,watchgeneration.fr##.region-pubheader
 jeux-e.com##.rek_ban
 frandroid.com##.relatedviatopic
@@ -6807,6 +6810,7 @@ igen.fr##.article [-abp-properties='cursor: pointer;']
 igen.fr##.article a[-abp-properties='display: block;']
 igen.fr##.region-sidebar a[-abp-properties='*']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
+medisite.fr##[-abp-properties='cursor: pointer;']
 begeek.fr##[-abp-properties='height: 3*px;']
 begeek.fr##[-abp-properties='height: 5*px;'] > img
 begeek.fr##[-abp-properties='height: 6*px;']
@@ -7067,6 +7071,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||iscoolcdn.com/versioned/prod/bundles/iscoolkitchen/adblock/advertisement.
 @@||lafansubresistance.biz^$script,domain=lafansubresistance.biz
 @@||linkbucks.com/scripts/script-adv.js$script,third-party
+@@||medisite.fr/files/images/ad_bomb/$image,domain=medisite.fr
 @@||nextinpact.com/ad*.js|$~third-party,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net|leveldown.fr
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
