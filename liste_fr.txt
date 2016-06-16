@@ -1781,6 +1781,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||algeriemobiles.com/pub/
 ||alibaba.com^$popup,domain=streamin.to
 ||aliencable.com/images/habillagealien.jpg
+||aliexpress.com^$popup,domain=dzsat.org
 ||allo-heberge.com/interface/bannieres/
 ||allo-nom.com/interface/bannieres/
 ||allopass.com^*/pub/
@@ -1954,6 +1955,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||edi-static.fr/Images/Pubs/
 ||education.ti.com^$domain=ti.bank.free.fr
 ||effiliation.com/servlet/effi.show?
+||effiliation.com^$popup,domain=dzsat.org
 ||elles-mouillent.com/ban/$third-party
 ||emploicom.com/application/views/docs/pub/
 ||emploicom.com/baniere.
@@ -6534,7 +6536,6 @@ tomtomax.fr##a[href^="http://clk.tradedoubler.com/"]
 cdiscount.com,laptopspirit.fr,sosiphone.com##a[href^="http://clk.tradedoubler.com/click?"]
 premiere.fr##a[href^="http://clkde.tradedoubler.com/click?"]
 lefigaro.fr##a[href^="http://cplussur.lefigaro.fr/"]
-dzsat.org##a[href^="http://fr.aliexpress.com/"]
 only-iphone.fr##a[href^="http://fr.copytrans.net/copytranscontacts.php?utm_source="]
 argentmania.com##a[href^="http://fr.scratchmania.com/?brandId="]
 brunotritsch.fr##a[href^="http://fr.webmaster-rank.info/stat/affiliate/"]
@@ -6550,7 +6551,6 @@ needsandmoods.com##a[href^="http://sigma-beauty.7eer.net/"]
 sport.fr##a[href^="http://sport-kiff.com/"]
 mega-vesti.info,smartorrent.com##a[href^="http://tinyurl.com/"]
 tirage-gagnant.com##a[href^="http://tirage-gagnant.com/tirage/"] > img
-dzsat.org##a[href^="http://track.effiliation.com/"]
 9divx.org##a[href^="http://www.9divx.com/telde.php"]
 futurama-stream.eu,play-fr.com,t411streaming.com##a[href^="http://www.adcash.com/script/clic.php?"]
 fullanimes.free.fr##a[href^="http://www.allopass.com/check/red.php"] > img
