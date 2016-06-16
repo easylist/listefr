@@ -3649,6 +3649,7 @@ toutcash.com/images/bandeau-
 ||planet-casio.com/images/partenaires/
 ||planet-series.tv/images/250-
 ||planet-series.tv/images/728-
+||planet.fr/partenaires/
 ||plateformemedia.com/pub/
 ||pnc-contact.com/pub/
 ||pokerstars.com^*/ad/$popup
@@ -4273,6 +4274,11 @@ toutcash.com/images/bandeau-
 ###bloc_pub
 ###bloc_pub_carre
 ###bloc_pub_outer_float
+###block-gc-ad-bloc-centre-1
+###block-gc-ad-bloc-centre-2
+###block-gc-ad-bloc-centre-3
+###block-gc-ad-megaban-haut
+###block-gc-ad-pave_haut
 ###block-rf-pub-middle
 ###block-rf-pub-middle2
 ###block_pub
@@ -4746,6 +4752,7 @@ toutcash.com/images/bandeau-
 ##.bloc_pub_left
 ##.bloc_rightcol_pub
 ##.block-cPublicite
+##.block-gc-ad
 ##.block-pubimage
 ##.block-rf-pub
 ##.block_adtop
@@ -4823,6 +4830,7 @@ toutcash.com/images/bandeau-
 ##.ipsAdvertisement_large
 ##.jt-poublicidadContainer
 ##.kadmer-ad
+##.label-pub-span
 ##.large-ad-center
 ##.large-ad-center-close
 ##.leaderboard728
@@ -5104,6 +5112,7 @@ toutcash.com/images/bandeau-
 ##a[href*="friendlyduck"]
 ##a[href*="qadserver.com"]
 ##a[href*="utm_medium=mega_banniere"] > img
+##a[href*="weborama.fr/fcgi-bin/performance.fcgi?"]
 ##a[href*="xiti.com/go.ad?"]
 ##a[href^=".php/ads/"]
 ##a[href^=".php/annonce/ads/"]
@@ -5471,6 +5480,7 @@ ouedkniss.com###list-last-stores
 millenium.org###logo_droite
 centreimmo.com###logos-partenaires
 laposte.net###lpn_pub_main
+medisite.fr###main-content-header > [id^="logo_"]
 voyageforum.com###mainposttravelsbox1
 lafranceagricole.fr###materielOccasion
 streetpress.com###mb_moving_container
