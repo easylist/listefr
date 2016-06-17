@@ -466,6 +466,8 @@
 /vbs-ads.
 /vpn160.gif
 /vpn468.gif
+/vykingAd/*
+/vykingAd?
 /vyprad.$image
 /wads-blank.
 /wbdds.
@@ -488,6 +490,7 @@
 ://adss.
 ://bannieres.
 ://soads.
+://vykingad.
 =/ads.js|
 =goto_adv&id_adv=
 =iframe_pub&
@@ -497,6 +500,8 @@
 =sponsored_links_
 ?ad_id=
 ?adlink/
+?adRef=
+?adSelector=
 ?bannertag=
 ?callback=ADS.
 ?clickTag=
@@ -780,6 +785,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||adqia.com^$third-party
 ||adrife.com^$third-party
 ||ads-in-games.com^$third-party
+||ads-metro.net^$third-party
 ||ads-peinture.fr^$third-party
 ||ads-x.com^$third-party
 ||ads.ch^$third-party
@@ -1040,6 +1046,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||eurolive.com^$third-party
 ||eurowebbiz.com^$third-party
 ||every.com^$third-party
+||everybodyads.net^$third-party
 ||ex-show.com^$third-party
 ||exarab.com^$third-party
 ||exchange.gouik.com^$third-party
@@ -1435,6 +1442,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||vorcu.com^$third-party
 ||vshop.fr^$third-party
 ||vuiads.org^$third-party
+||vyking.io^$third-party
 ||wafmedia2.com^$third-party
 ||waframedia.com^$third-party
 ||waframedia1.com^$third-party
@@ -4107,7 +4115,7 @@ toutcash.com/images/bandeau-
 ||cloudfront.net/wp-content/news/images/*/FS11.jpg
 ||cloudfront.net/wp-content/news/images/*/NATURE-AUX-BONS-SOINS.gif
 ||cloudfront.net/wp-content/news/images/*/Restaurantentre2.gif
-||cloudfront.net^$domain=1host.name|allvid.ch|clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exashare.com|exity.info|folue.info|gighub.net|golmamak.info|gorillavid.in|gover.info|guib.info|hadik.info|halazoun.info|hehehe.info|kechekch.info|kerkessni.info|khaltek.info|khalto.info|maldi.info|maquillage.com|nassira.info|openload.co|openload.info|opert.info|oping.info|pausefun.com|pausepeople.com|revclouds.com|rors.info|sega3.info|solidfiles.com|stiwine.info|thand.info|thewatchseries.to|tiziwezo.info|toofy.tv|trafe.info|tribicha.info|uploadrocket.net|uplod.it|uptobox.com|utte.info|wstream.video|youwatch.org|ywhah.info|zidni.info
+||cloudfront.net^$domain=1host.name|allvid.ch|brain-magazine.fr|clien.info|convs.info|couns.info|creas.info|crite.info|dange.info|disbe.info|dowed.info|elded.info|eties.info|exashare.com|exity.info|folue.info|gighub.net|golmamak.info|gorillavid.in|gover.info|guib.info|hadik.info|halazoun.info|hehehe.info|kechekch.info|kerkessni.info|khaltek.info|khalto.info|maldi.info|maquillage.com|nassira.info|openload.co|openload.info|opert.info|oping.info|pausefun.com|pausepeople.com|revclouds.com|rors.info|sega3.info|solidfiles.com|stiwine.info|thand.info|thewatchseries.to|tiziwezo.info|toofy.tv|trafe.info|tribicha.info|uploadrocket.net|uplod.it|uptobox.com|utte.info|wstream.video|youwatch.org|ywhah.info|zidni.info
 ||cloudfront.net^*&tid=$script
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*?tid=$script
@@ -4116,6 +4124,7 @@ toutcash.com/images/bandeau-
 ||d1izbwxtc3f9ue.cloudfront.net^
 ||d1rb5wwywwoqqm.cloudfront.net^
 ||d1sj3yrs7ojvv7.cloudfront.net^
+||d1uydqzj7b9nt9.cloudfront.net^
 ||d29lpg037v41oq.cloudfront.net^
 ||d2gt9oovykfp1z.cloudfront.net^
 ||d2mrcwg3epew1i.cloudfront.net^
@@ -4131,6 +4140,7 @@ toutcash.com/images/bandeau-
 ||d3al52d8cojds7.cloudfront.net^
 ||d3cknv5e7a99jg.cloudfront.net^
 ||d3edizycpjjo07.cloudfront.net^
+||d3mcf0n3hvvfk4.cloudfront.net^
 ||d42tbok7l2bg1.cloudfront.net^
 ||d5z42oph1suk.cloudfront.net^
 ||d7gqsdo66itj3.cloudfront.net^
@@ -6383,6 +6393,7 @@ viamichelin.fr##.vm-pub-home-google
 viamichelin.be,viamichelin.fr##.vm-pub-home300
 elmoudjahid.com##.vpub
 vube.com##.vube-grid-feature
+brain-magazine.fr##.vv-hide
 rtl.be##.w-content-details-ligatus
 almountakhab.com,journaldumusulman.fr,staractus.fr##.wallpaper-link
 slappyto.net##.webrox._300x250.centered
