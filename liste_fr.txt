@@ -6824,6 +6824,7 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! foot01.com
 foot01.com###content > div + * + * > div
 foot01.com##.pub + * + * + * > [class]
+foot01.com##.sidebar li > :first-child + * + * > *
 foot01.com##.sidebar li > :last-child > div
 foot01.com##.sidebar li > div + :last-child
 ! Éléments pour generichide
