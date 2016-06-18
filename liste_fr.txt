@@ -182,6 +182,7 @@
 /adv_banner.
 /adv_forum-
 /advertisement?
+/AdvertisingBanners/*
 /advertisingView?
 /adwizard/*
 /af-250x250.
@@ -5148,6 +5149,7 @@ toutcash.com/images/bandeau-
 ##a[href^="ads.php?id="]
 ##a[href^="http://aclick.adhoc1.net/"]
 ##a[href^="http://ad-online.biz/"]
+##a[href^="http://adprovider."]
 ##a[href^="http://adv-mybankai.ggcorp.me/"]
 ##a[href^="http://always-parser.xyz/"]
 ##a[href^="http://centredecontrole.biz/ads/"]
