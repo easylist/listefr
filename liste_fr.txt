@@ -3791,7 +3791,7 @@ toutcash.com/images/bandeau-
 ||secretsdujeu.com/pop/$popup
 ||securite.01net.com^
 ||senioractu.com/photo/background-
-||senscritique.com/*.ajax$xmlhttprequest
+||senscritique.com/*.ajax|$xmlhttprequest
 ||seriesstreaming.fr/images/partenaire_
 ||seriezone.com/ba/
 ||serre-editeur.fr/images/banners/
@@ -6452,7 +6452,6 @@ ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
-senscritique.com##[class*="overlay"]
 forumconstruire.com##[class^="habillage"]
 nrj.fr##[class^="modal"]
 ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
@@ -6646,6 +6645,7 @@ jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"
 ca-anjou-maine.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 mega-vesti.info,smartorrent.com##a[style="color:hotpink;"]
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
+senscritique.com##a[target="_blank"]
 journaldu4x4.com##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
