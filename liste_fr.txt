@@ -3084,6 +3084,7 @@ toutcash.com/images/bandeau-
 ||focusur.fr/wp-content/plugins/simple-popup-manager/
 ||football.fr/includes/cobrand/*/habillage/
 ||footballclubdemarseille.fr/*-img/$xmlhttprequest
+||footnamurois.com/uploads/banners/
 ||force-download.net^*/yellowtoolbar/
 ||formation-dz.com/images/banners/
 ||formation-dz.com/modules/mod_banners/
@@ -6451,6 +6452,7 @@ ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
+footnamurois.com##[class^="banners-"]
 forumconstruire.com##[class^="habillage"]
 nrj.fr##[class^="modal"]
 ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
@@ -6462,6 +6464,7 @@ meilleur-vpn.biz##[href^="http://meilleur-vpn.biz/visit/"]
 smartorrent.com##[href^="http://smartorrent.com/telecharger-torrent/"]
 turbo.fr##[id^="ABbypass"]
 aujourdhui-en-france.fr,leparisien.fr##[id^="Ads_"]
+footnamurois.com##[id^="banners-"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 megatorrent.biz##[onclick="getVpn();"]
 amvtv.net##[style*="position: absolute; z-index: 99999"]
