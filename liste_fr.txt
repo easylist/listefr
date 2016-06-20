@@ -719,6 +719,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||85.116.37.142^$third-party
 ||89.185.33.51^$third-party
 ||8mm.shiksha^$third-party
+||a2r-media.com^$third-party
 ||abporn.com^$third-party
 ||acads.net^$third-party
 ||acces-charme.com^$third-party
@@ -726,6 +727,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||acdcads.com^$third-party
 ||acdcadz.com^$third-party
 ||acexedge.com^$third-party
+||achat-visiteurs.com^$third-party
 ||acpublicite.fr^$third-party
 ||activepop.net^$third-party
 ||acuityplatform.com^$third-party
@@ -1507,7 +1509,9 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||5b15a826.xyz^$popup,third-party
 ||77978.みんな^$popup,third-party
 ||8mm.shiksha^$popup,third-party
+||a2r-media.com^$popup,third-party
 ||absoluteviews.com^$popup,third-party
+||achat-visiteurs.com^$popup,third-party
 ||ad-center.com^$popup,third-party
 ||ad-online.biz^$popup,third-party
 ||ad-sys.com^$popup,third-party
@@ -1738,6 +1742,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 .ovh^$domain=huffingtonpost.fr|lemonde.fr|telerama.fr
 |http://$popup,third-party,domain=ultimedia.com|up07.net|uploaded.net|uptobox.com|uptostream.com
 |http://$popup,~third-party,domain=flashx.tv
+|http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
 |http://po.st^$popup,domain=almountakhab.com
