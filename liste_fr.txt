@@ -6669,7 +6669,6 @@ jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"
 ca-anjou-maine.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 mega-vesti.info,smartorrent.com##a[style="color:hotpink;"]
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
-senscritique.com##a[target="_blank"]
 journaldu4x4.com##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
@@ -6685,6 +6684,7 @@ telesatellite.com##body > [id^="a"]
 theworldtoptens.com##body > a
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 senscritique.com##body > div > a
+senscritique.com##body > div[data-rel]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 forumpiscine.com##div#\31
