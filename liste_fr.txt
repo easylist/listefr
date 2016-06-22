@@ -2622,6 +2622,8 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||wwwtatonnai.eu^
 ||wwwtatonnai.info^
 ||wwwtatonnai.uk^
+! secretmedia.com
+/http://[a-z0-9]{15,}\.[a-z0-9]+\.[a-z]{2,}\/.*[a-zA-Z0-9]{100,}/$xmlhttprequest,domain=maxisciences.com
 ! ultimedia.com
 .ovh^$domain=ultimedia.com
 @@|http://*.digiteka.net/*,,/*?mdtk=$object-subrequest,third-party,domain=ultimedia.com
