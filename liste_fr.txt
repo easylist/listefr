@@ -2666,6 +2666,11 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |http://$popup,script,third-party,domain=gum-gum-streaming.com
 |http://*/|$image,domain=gum-gum-streaming.com
 |https://$popup,script,domain=gum-gum-streaming.com
+! senscritique.com
+@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=senscritique.com
+|http://$script,third-party,xmlhttprequest,domain=senscritique.com
+||facebook.com/plugins/video.php?$domain=senscritique.com
+||senscritique.com^$popup,~third-party
 ! imgur.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
@@ -3810,7 +3815,6 @@ toutcash.com/images/bandeau-
 ||secretsdujeu.com/pop/$popup
 ||securite.01net.com^
 ||senioractu.com/photo/background-
-||senscritique.com/*.ajax|$xmlhttprequest
 ||seriesstreaming.fr/images/partenaire_
 ||seriezone.com/ba/
 ||serre-editeur.fr/images/banners/
@@ -6678,6 +6682,7 @@ blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 telesatellite.com##body > [id^="a"]
 theworldtoptens.com##body > a
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
+senscritique.com##body > div > a
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 forumpiscine.com##div#\31
