@@ -701,6 +701,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||104.197.188.$script,third-party
 ||104.197.34.$script,third-party
 ||104.197.4.$script,third-party
+||104.198.198.$script,third-party
 ||104.238.188.$script,third-party
 ||104.238.189.$script,third-party
 ||146.148.85.61^$third-party
@@ -1522,6 +1523,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||ad-online.biz^$popup,third-party
 ||ad-sys.com^$popup,third-party
 ||ad6media.fr^$popup,third-party
+||adbooth.com^$popup,third-party
 ||adbucks.com^$popup,third-party
 ||adexint.com^$popup,third-party
 ||adfection.net^$popup,third-party
@@ -7104,6 +7106,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
+@@/advertisement.js$script,~third-party,domain=streamwatching.fr
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|ouest-france.fr|silicon.fr
 @@||195.154.104.$script,domain=multiup.org
 @@||1max2sms.com/blogads.css
