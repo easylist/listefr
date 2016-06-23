@@ -6023,6 +6023,7 @@ factornews.com##.div_pub_728_90
 dailymotion.com##.dm_widget_advert_iabrighttitle
 blog2mature.com##.download
 oujdacity.net,passion-net.fr##.ebuzzing_box
+senscritique.com##.ecbi-billboard-container
 tsa-algerie.com##.ekk-footer-ad-wrapper
 wp-infinity.com##.entry-featured
 fredzone.org##.entry-pub
@@ -6887,6 +6888,8 @@ foot01.com##[-abp-properties='margin-left: auto;']
 foot01.com##[-abp-properties='margin-right: auto;']
 macg.co##article > a[-abp-properties='*'] > img
 24matins.fr##article > div[-abp-properties='background-image:*;']
+senscritique.com##body > div > [-abp-properties='display: block;']
+senscritique.com##body > div > [-abp-properties='width: *%;']
 ! Ligatus
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=foot01.com
 @@||connect.facebook.net^$script,domain=24matins.fr|begeek.fr
