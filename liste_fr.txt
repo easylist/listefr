@@ -128,6 +128,7 @@
 /ad_trafic.
 /adaptvInfo.
 /adblockbanner/*
+/adblockinsert.
 /adc-300-250-
 /adc-336-280-
 /adc-728-90-
@@ -2818,8 +2819,8 @@ toutcash.com/images/bandeau-
 ||bdgest.com/habillages/
 ||bdgest.com/prepub/
 ||beaute-test.com/img/habillages/
-||beaute-test.com/shopping/*.php?
-||beaute-test.com/users/*.php?$image
+||beaute-test.com^$subdocument
+||beaute-test.com^*?$image
 ||becompta.be/sites/default/files/banners/
 ||bedetheque.com/javascript/campagne?
 ||begeek.fr/cdiscount.jpg
@@ -5202,6 +5203,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://www.marketdot.net/"]
 ##a[href^="http://www.xmediaserve.com/"]
 ##a[href^="http://www.yourfilezone.com/"]
+##a[href^="http://www3.smartadserver.com/call/cliccommand/"] > img
 ##a[href^="http://yotefiles.com/"]
 ##a[href^="https://secure.securitetotale.com/"]
 ##a[href^="https://store.mspy.com/affiliate.php"] > img
@@ -6541,8 +6543,7 @@ fourchette-et-bikini.fr##a[href*="go2cloud.org/aff_c?"]
 dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-de-l-en-galerant-sur-le.html"]
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 zetorrents.com##a[href*="porno"]
-canalplus.fr##a[href*="smartadserver.com"]
-magicmaman.com##a[href*="smartadserver.com/call/cliccommand/"]
+beaute-test.com,canalplus.fr,magicmaman.com##a[href*="smartadserver.com"]
 mega-vesti.info,smartorrent.com##a[href*="tonlive.com"]
 cacastream.com,ddstream.com,youwatch-series.com##a[href*="xmediaserve"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
@@ -6948,7 +6949,7 @@ senscritique.com##body > div > [-abp-properties='width: *%;']
 @@||aw-experience.com/banners/b0.png
 @@||banners.oxiads.fr/player/
 @@||bannieres.telethon.fr/compteurs/$image,subdocument
-@@||beaute-test.com/service/show_ads.js$script
+@@||beaute-test.com/global/js/show_ads.js$script
 @@||beead.fr^$domain=doc-etudiant.fr|ouifm.fr|play.nrj.fr|radiofg.com|radioneo.org|rfm.fr|virginradio.fr
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
