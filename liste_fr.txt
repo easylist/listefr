@@ -5365,6 +5365,7 @@ franceculture.fr###block-fcbloc-publicite
 lemouv.fr###block-lemouv_bloc-pub_ftv_right
 lemouv.fr,mouv.fr###block-lemouv_bloc-pub_ftv_top
 macg.co###block-quicktabs-bon-plans-macg-
+medisite.fr###block-system-main > [id] > img
 medisite.fr###block-system-main > a > img
 medisite.fr###block-system-main > div > img
 voyages-sncf.com###block-vsct_vsca-megabanner
@@ -5599,6 +5600,7 @@ numerama.com###module_bonnes_affaires
 aujourdhui-en-france.fr,leparisien.fr###moteur-billetterie
 salon-du-mobilier.com###mynewfooter
 zizi-top.fr###myvideo
+medisite.fr###navigation-content + [class] > img
 p-nintendo.com###network > ul > .jm
 vacanceo.com###new_travelbloc
 judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
@@ -6367,6 +6369,7 @@ lemonde.fr##.reco_cross_site_outbrain
 gonzai.com##.red-one-third
 lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.references
 jds.fr##.regie_20
+medisite.fr##.region > [id] > img
 medisite.fr##.region > a > img
 medisite.fr##.region > div > img
 igen.fr,macg.co,watchgeneration.fr##.region-pubheader
