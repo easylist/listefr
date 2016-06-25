@@ -6056,6 +6056,7 @@ dailymotion.com##.dm_widget_advert_iabrighttitle
 blog2mature.com##.download
 oujdacity.net,passion-net.fr##.ebuzzing_box
 senscritique.com##.ecbi-billboard-container
+senscritique.com##.ecbi-billboard-slide > [class$="product"]
 tsa-algerie.com##.ekk-footer-ad-wrapper
 wp-infinity.com##.entry-featured
 fredzone.org##.entry-pub
@@ -6505,7 +6506,6 @@ ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
-senscritique.com##[class*="product"]
 footnamurois.com##[class^="banners-"]
 forumconstruire.com##[class^="habillage"]
 nrj.fr##[class^="modal"]
@@ -6713,6 +6713,7 @@ blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 telesatellite.com##body > [id^="a"]
 theworldtoptens.com##body > a
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
+senscritique.com##body > div > [class$="product "]
 senscritique.com##body > div > a
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
