@@ -142,6 +142,7 @@
 /AdPortalService.
 /AdPortalWebService/*
 /adrequest/*
+/Ads*/banner_
 /ads-1-
 /ads-2-
 /ads-3-
@@ -461,6 +462,7 @@
 /smartad_
 /srv.php?size=300x250
 /srv.php?size=315x300
+/supersonicads-
 /Tag/go2?url=$subdocument
 /tag468.php
 /tag728.php
@@ -1242,6 +1244,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||oneclickad.net^$third-party
 ||oneinstaller.com^$third-party
 ||onenima.com^$third-party
+||onfocus.io^$third-party
 ||onshowit.com^$third-party
 ||oopt.fr^$third-party
 ||ooxad.com^$third-party
@@ -1493,6 +1496,9 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||xmediaserve.com^$third-party
 ||y-ads.net^$third-party
 ||yban.fr^$third-party
+||yospace.co.uk^$third-party
+||yospace.com^$third-party
+||yospace.net^$third-party
 ||you-hentai.com^$third-party
 ||yx-ads*.com^$third-party
 ||z-barre.com^$third-party
