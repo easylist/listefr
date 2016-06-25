@@ -53,6 +53,7 @@
 -pub-ads/
 -viceads.
 -viewability.
+.ad/banner/
 .ad4mat.$domain=~ad4mat.com
 .adfarm1.
 .adserverpub.$domain=~adserverpub.com
@@ -1135,6 +1136,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||journaux-du-midi.com^$third-party
 ||kadserver.com^$third-party
 ||kappacdn.net^$third-party
+||kelkoo.com^$third-party
 ||killstruckfavor.com^$third-party
 ||kiloh.ovh^$third-party
 ||kingtopdeals.com^$third-party
@@ -4798,6 +4800,7 @@ toutcash.com/images/bandeau-
 ##.advertisement-pub
 ##.advimg46860
 ##.advimg72890
+##.advn_zone
 ##.adwords_bottom
 ##.adziner-adzone
 ##.annonce_pub_contenu
