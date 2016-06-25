@@ -2011,6 +2011,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||eurosportbet.loa24.com^$domain=eurosport.fr
 ||evolucare.com/bannieres/
 ||exashare.com/ici.html
+||facebook.com/senscritique/videos/$popup,domain=senscritique.com
 ||facebook.net/*/sdk.js$script,domain=lexpress.fr
 ||fanslave.com/images/stories/*/banner-$third-party
 ||fapbase.com/widgets?
@@ -2678,6 +2679,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |https://$popup,script,domain=gum-gum-streaming.com
 ! senscritique.com
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=senscritique.com
+@@||connect.facebook.net^$script,domain=senscritique.com
 |http://$script,third-party,xmlhttprequest,domain=senscritique.com
 ||facebook.com/plugins/video.php?$domain=senscritique.com
 ||senscritique.com^$popup,~third-party
@@ -6503,6 +6505,7 @@ ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
+senscritique.com##[class*="product"]
 footnamurois.com##[class^="banners-"]
 forumconstruire.com##[class^="habillage"]
 nrj.fr##[class^="modal"]
@@ -6711,7 +6714,6 @@ telesatellite.com##body > [id^="a"]
 theworldtoptens.com##body > a
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 senscritique.com##body > div > a
-senscritique.com##body > div[data-rel]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 forumpiscine.com##div#\31
@@ -6904,6 +6906,7 @@ begeek.fr###single > a[-abp-properties='*'] > img
 24matins.fr##.ad-sidebar + div[-abp-properties='background-image:*;']
 igen.fr##.article [-abp-properties='cursor: pointer;']
 igen.fr##.article a[-abp-properties='display: block;']
+senscritique.com##.ecbi-billboard-slide > [-abp-properties='position: absolute;']
 igen.fr##.region-sidebar a[-abp-properties='*']
 foot01.com,igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 medisite.fr##[-abp-properties='cursor: pointer;']
