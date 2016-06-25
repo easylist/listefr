@@ -2086,6 +2086,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||img.ucweb.com^*/ad/
 ||img6.bricozone.be/jquery-1.2.6.min.js
 ||indecentes-voisines.com/bans/
+||infojobs.com.br/banner.aspx?
 ||inoutscripts.com/affiliate/
 ||inskin.hs.llnwd.net^
 ||instalife.fr/affiliate/
@@ -3349,6 +3350,7 @@ toutcash.com/images/bandeau-
 ||lanouvellerepublique.fr/pub/
 ||lanutrition.fr/images/banners/
 ||laposte.net^*/scripts/pub_
+||laprovence.com/sites/all/themes/lpv4/js/pubs.js
 ||laptopspirit.fr/js/su.js
 ||laptopspirit.fr/js/suo.js
 ||laptopspirit.fr/wp-content/uploads/new/w6.png
@@ -4330,6 +4332,7 @@ toutcash.com/images/bandeau-
 ###bloc_pub
 ###bloc_pub_carre
 ###bloc_pub_outer_float
+###bloc_pub_p4_top
 ###block-gc-ad-bloc-centre-1
 ###block-gc-ad-bloc-centre-2
 ###block-gc-ad-bloc-centre-3
@@ -4342,6 +4345,7 @@ toutcash.com/images/bandeau-
 ###block_regie_pub_bas
 ###bonsplansprospect
 ###bottom_pub
+###box-izipub
 ###box-pub-1
 ###box-pub-2
 ###box-pub-3
@@ -4365,6 +4369,11 @@ toutcash.com/images/bandeau-
 ###custom-ad
 ###displayedPub
 ###div-ads
+###div-gpt-ad-Banniere_Haute
+###div-gpt-ad-Habillage
+###div-gpt-ad-Pave_Article
+###div-gpt-ad-Pave_Bas
+###div-gpt-ad-Rectangle
 ###divPub
 ###divPublicityLateral
 ###div_banniere_pub
@@ -4888,6 +4897,7 @@ toutcash.com/images/bandeau-
 ##.inside_adv_section
 ##.ipsAdvertisement
 ##.ipsAdvertisement_large
+##.item-izipub
 ##.js_DivPublicityLateral
 ##.jt-poublicidadContainer
 ##.kadmer-ad
@@ -4993,6 +5003,7 @@ toutcash.com/images/bandeau-
 ##.pubFlash
 ##.pubGoodDeals
 ##.pubGoogle300
+##.pubHabillage
 ##.pubHead
 ##.pubHeader
 ##.pubIframe
@@ -5120,6 +5131,7 @@ toutcash.com/images/bandeau-
 ##.sqrpub
 ##.srcPub
 ##.srcPubZone
+##.tableAds
 ##.texte_ads
 ##.texte_ads_plug
 ##.texte_pub
@@ -5158,6 +5170,7 @@ toutcash.com/images/bandeau-
 ##[data-type="ligatus-script"]
 ##[id*="_ads_id_"]
 ##[id^="ads_adnemo_"]
+##[id^="block-xiti_oas-"]
 ##[id^="pub_dart_"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
 ##a[href*=".php?ads_id="]
@@ -5542,6 +5555,7 @@ orange.fr###lienComPart
 lfp.fr###lien_billeterie
 commentcamarche.net###lig_benchmark_commentcamarche_smartbox
 free.fr###lig_free_home_smartbox
+laprovence.com###lig_laprovence_smartbox
 orange.fr###lig_orange_web_ang_smartbox_home
 degroupnews.com###link_pub
 journaldugeek.com###linkhabillage
@@ -5822,6 +5836,7 @@ programme.tv###zeromask
 programme.tv###zeropop
 terredauphinoise.fr###zone-pub1
 cityvox.fr###zoneConnexion + * + .RP
+laprovence.com###zonePub
 voila.fr##.ADS
 ivocommunication.com##.Ads
 dna.fr##.GANO_adIookaz
@@ -5957,6 +5972,7 @@ premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 jeuxvideopc.com##.block-concours_en_cours
 jeuxvideo.fr##.block-divers-widget_shopping
 francetvsport.fr##.block-ftv-loading-of-mad
+laprovence.com##.block-gestion_block_gelp
 jeuxvideo.fr##.block-jeux-micromania_offre
 d8.tv##.block-mozaic-pub
 orange.fr##.block-pub
@@ -7150,6 +7166,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||images.voyageforum.com/ad$image
 @@||iscoolcdn.com/versioned/prod/bundles/iscoolkitchen/adblock/advertisement.
 @@||lafansubresistance.biz^$script,domain=lafansubresistance.biz
+@@||laprovence.com/sites/all/themes/lpv4/js/ads.js
 @@||linkbucks.com/scripts/script-adv.js$script,third-party
 @@||nextinpact.com/ad*.js|$~third-party,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net|leveldown.fr
