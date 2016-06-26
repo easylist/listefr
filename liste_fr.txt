@@ -719,6 +719,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||380tl.com^$third-party
 ||3xdl.com^$third-party
 ||415daa520.com^$third-party
+||46.101.101.204^$third-party
 ||46.249.58.117^$third-party
 ||57union.com^$third-party
 ||5b15a826.xyz^$third-party
@@ -1443,6 +1444,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||unicefworld12.ovh^$third-party
 ||univers-porno.com^$third-party
 ||uploadedtag.com^$third-party
+||usswrite.com^$third-party
 ||varsloqt.name^$third-party
 ||vartoken.com^$third-party
 ||venturead.com^$third-party
@@ -1522,6 +1524,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||37.187.248.215^$popup,third-party
 ||3wr110.net^$popup,third-party
 ||415daa520.com^$popup,third-party
+||46.101.101.204^$popup,third-party
 ||52.51.50.245^$popup,third-party
 ||5b15a826.xyz^$popup,third-party
 ||77978.みんな^$popup,third-party
@@ -2679,6 +2682,10 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |http://$popup,script,third-party,domain=gum-gum-streaming.com
 |http://*/|$image,domain=gum-gum-streaming.com
 |https://$popup,script,domain=gum-gum-streaming.com
+! dpstream.net
+|http://$script,third-party,xmlhttprequest,domain=dpstream.net
+|https://$script,third-party,xmlhttprequest,domain=dpstream.net
+||dpstream.net^$popup,~third-party
 ! senscritique.com
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=senscritique.com
 @@||connect.facebook.net^$script,domain=senscritique.com
