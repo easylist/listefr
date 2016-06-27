@@ -51,6 +51,7 @@
 -banner728.
 -popads_
 -pub-ads/
+-reklama-300x300.
 -viceads.
 -viewability.
 .ad/banner/
@@ -1128,6 +1129,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||internetpourtout.com^$third-party
 ||ipav.xyz^$third-party
 ||irclick.net^$third-party
+||isanalyze.com^$third-party
 ||jazayr.net^$third-party
 ||jedeconnebiensur.com^$third-party
 ||jedeconnebiensur2.com^$third-party
@@ -1639,6 +1641,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||idhad.com^$popup,third-party
 ||illyx.com^$popup,third-party
 ||irclick.net^$popup,third-party
+||isanalyze.com^$popup,third-party
 ||justgetitfaster.com^$popup,third-party
 ||keymeta.work^$popup,third-party
 ||leadzupc.com^$popup,third-party
