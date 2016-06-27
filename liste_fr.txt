@@ -907,6 +907,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||arecio.work^$third-party
 ||asadismn.xyz^$third-party
 ||aservtrack.com^$third-party
+||asjdfasas.xyz^$third-party
 ||atedra.com^$third-party
 ||aties.info^$third-party
 ||atoshonetwork.com^$third-party
@@ -1164,6 +1165,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||liveparadise.com^$third-party
 ||liversely.com^$third-party
 ||livewithbinaryoptions.com^$third-party
+||lklasoo.xyz^$third-party
 ||lmoppm.ovh^$third-party
 ||loading-delivery2.com^$third-party
 ||loractu.pro^$third-party
@@ -1765,6 +1767,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 !
 &proxyurl=$domain=allmyvideos.net|amvtv.net|vidspot.net
 .ovh^$domain=huffingtonpost.fr|lemonde.fr|telerama.fr
+.xyz^$domain=filmvf.ws
 |http://$popup,third-party,domain=ultimedia.com|up07.net|uploaded.net|uptobox.com|uptostream.com
 |http://$popup,~third-party,domain=flashx.tv
 |http://$subdocument,domain=a2r-media.com
@@ -2679,6 +2682,9 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ! japscan.com
 |http://$script,third-party,domain=japscan.com
 |https://$script,third-party,domain=japscan.com
+! filmvf.ws
+|http://$script,third-party,xmlhttprequest,domain=filmvf.ws
+|https://$script,third-party,xmlhttprequest,domain=filmvf.ws
 ! streamay.com
 |http://$script,third-party,domain=streamay.com
 |https://$script,third-party,domain=streamay.com
