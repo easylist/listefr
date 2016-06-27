@@ -2701,8 +2701,10 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |http://*/|$image,domain=gum-gum-streaming.com
 |https://$popup,script,domain=gum-gum-streaming.com
 ! dpstream.net
-|http://$script,third-party,xmlhttprequest,domain=dpstream.net
-|https://$script,third-party,xmlhttprequest,domain=dpstream.net
+about:blank$popup,domain=dpstream.net
+data:text/html;base64,$popup,domain=dpstream.net
+|http://$script,xmlhttprequest,domain=dpstream.net
+|https://$script,xmlhttprequest,domain=dpstream.net
 ||dpstream.net^$popup,~third-party
 ! senscritique.com
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=senscritique.com
