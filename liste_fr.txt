@@ -1985,6 +1985,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||dir-fr.com/banners/$domain=la-musique-rai.com
 ||disco-sexe.com/ban/$third-party
 ||discutfree.com^$popup,domain=netvibes.com
+||divinafutur.net^$popup,domain=dpstream.net
 ||dmcdn.net/*_mp4_h264_aac_$media
 ||dmcdn.net/playerv5/eb8722eb6f866d1cf35d.dmp.js
 ||dmcdn.net^*/Orange_PingPong/$subdocument
@@ -6697,6 +6698,7 @@ fullanimes.free.fr##a[href^="http://www.allopass.com/check/red.php"] > img
 scally.typepad.com##a[href^="http://www.amazon.fr/"] > img
 alsacreations.com##a[href^="http://www.amazon.fr/gp/product/"]
 usbfix.net##a[href^="http://www.bitdefender.fr/media/"]
+dpstream.net##a[href^="http://www.divinafutur.net/"]
 djelfa.info##a[href^="http://www.djelfa.info/ar/click/"]
 dzsat.org##a[href^="http://www.dzsat.org/forum/rbs_banner.php?"]
 gizmodo.fr##a[href^="http://www.ebuyclub.com/operations/gizmodo/entreeGizmodo.jsp?"]
