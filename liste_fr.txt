@@ -6445,7 +6445,6 @@ nintendo-master.com##.side-pub-img
 nextinpact.com##.side_content_pub
 gmx.fr##.sideadd
 voyage-economique.fr##.sideaff-container
-foot01.com##.sidebar img
 clicbienetre.com##.sidebar_block
 desmatures.com##.sidebarpub350250
 francemobiles.com##.simpleoFlashBanner
@@ -6485,7 +6484,6 @@ walfoot.be##.take-banner
 jeuxonline.info##.takeover-link
 turbo.fr##.textPub
 asso-web.com##.text_pub
-foot01.com##.the_post a > img
 wakanim.tv##.theoplayer-error
 laposte.fr##.tile--flag--partner
 frenchpopcorn.com##.tiptipr
@@ -6945,10 +6943,14 @@ people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! foot01.com
 foot01.com###content > div + * + * > div
+foot01.com###content div:first-child:last-child
 foot01.com##.pub + * + * + * > [class]
+foot01.com##.sidebar div:first-child:last-child
+foot01.com##.sidebar img
 foot01.com##.sidebar li > :first-child + * + * > *
 foot01.com##.sidebar li > :last-child > div
 foot01.com##.sidebar li > div + :last-child
+foot01.com##.the_post a > img
 ! Éléments pour generichide
 nrj.fr##.aside-pub-300
 nrj.fr##.pubContainer
