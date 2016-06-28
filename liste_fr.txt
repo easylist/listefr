@@ -2689,8 +2689,8 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |http://$script,third-party,domain=ex-down.org
 |https://$script,third-party,domain=ex-down.org
 ! japscan.com
-|http://$script,third-party,domain=japscan.com
-|https://$script,third-party,domain=japscan.com
+|http://$script,third-party,xmlhttprequest,domain=japscan.com
+|https://$script,third-party,xmlhttprequest,domain=japscan.com
 ! filmvf.ws
 |http://$script,third-party,xmlhttprequest,domain=filmvf.ws
 |https://$script,third-party,xmlhttprequest,domain=filmvf.ws
