@@ -1603,6 +1603,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||cityads.com^$popup,third-party
 ||cityadspix.com^$popup,third-party
 ||clickadu.com^$popup,third-party
+||clickfordeal.click^$popup,third-party
 ||clicks4ads.com^$popup,third-party
 ||clicnscores.ma^$popup,third-party
 ||cloudservepoint.com^$popup,third-party
@@ -1673,6 +1674,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||mobimediatraf.com^$popup,third-party
 ||mobisla.com^$popup,third-party
 ||mobusi.com^$popup,third-party
+||mobutrafsrcms.com^$popup,third-party
 ||monetizemytraffic.com^$popup,third-party
 ||multiupload.com^$popup,third-party
 ||mumbai-invest.email^$popup,third-party
@@ -2140,6 +2142,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||js.stream-up.com/fonctions.min.js?
 ||kazeo.com/websites/js/openwindow.js
 ||kelformation.com/htm/*/habillage/
+||kickstarter.com^$popup,domain=trictrac.net
 ||kidioui.fr^$subdocument,third-party
 ||kiporn.com^$popup,domain=yourporno.fr
 ||kloopicash.com/upload/ban/
@@ -4040,8 +4043,11 @@ toutcash.com/images/bandeau-
 ||tribunejuive.info^*/module_pubs_
 ||tribunejuive.info^*/PubTribuneJuive.
 ||trictrac.net/br
+||trictrac.net/documents/formats/background_big/
+||trictrac.net/documents/originals/
 ||trictrac.net/file-*.swf
 ||trictrac.net/img-*.jpeg
+||trictrac.net^$subdocument
 ||trimag.fr^*/tx_macinabanners/
 ||troc-velo.com/images/pub/
 ||trou-fion.com^
