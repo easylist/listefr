@@ -6962,9 +6962,10 @@ telesatellite.com##td[width="728"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! foot01.com
-foot01.com###content > div + * + * > div
+foot01.com###content div + div
 foot01.com###content div:first-child:last-child
 foot01.com##.pub + * + * + * > [class]
+foot01.com##.sidebar div + :last-child
 foot01.com##.sidebar div:first-child:last-child
 foot01.com##.sidebar img
 foot01.com##.sidebar li > :first-child + * + * > *
