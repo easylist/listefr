@@ -5251,6 +5251,7 @@ toutcash.com/images/bandeau-
 ##a[href*="ads_random"]
 ##a[href*="friendlyduck"]
 ##a[href*="qadserver.com"]
+##a[href*="smartadserver.com/call/cliccommand/"] > img
 ##a[href*="utm_medium=mega_banniere"] > img
 ##a[href*="weborama.fr/fcgi-bin/performance.fcgi?"]
 ##a[href*="xiti.com/go.ad?"]
@@ -5283,7 +5284,6 @@ toutcash.com/images/bandeau-
 ##a[href^="http://www.marketdot.net/"]
 ##a[href^="http://www.xmediaserve.com/"]
 ##a[href^="http://www.yourfilezone.com/"]
-##a[href^="http://www3.smartadserver.com/call/cliccommand/"] > img
 ##a[href^="http://yotefiles.com/"]
 ##a[href^="https://secure.securitetotale.com/"]
 ##a[href^="https://store.mspy.com/affiliate.php"] > img
@@ -6633,7 +6633,7 @@ dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-d
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 lemonde.fr##a[href*="monster.fr/"]
 zetorrents.com##a[href*="porno"]
-beaute-test.com,canalplus.fr,magicmaman.com##a[href*="smartadserver.com"]
+beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com##a[href*="smartadserver.com/call/cliccommand/"]
 mega-vesti.info,smartorrent.com##a[href*="tonlive.com"]
 cacastream.com,ddstream.com,youwatch-series.com##a[href*="xmediaserve"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
