@@ -58,6 +58,7 @@
 .ad/banner/
 .ad4mat.$domain=~ad4mat.com
 .adfarm1.
+.ads/banner/
 .adserverpub.$domain=~adserverpub.com
 .adtech.
 .adxcore.
@@ -1602,6 +1603,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||camsympa.com^$popup,third-party
 ||cityads.com^$popup,third-party
 ||cityadspix.com^$popup,third-party
+||clddt.com^$popup,third-party
 ||clickadu.com^$popup,third-party
 ||clickfordeal.click^$popup,third-party
 ||clicks4ads.com^$popup,third-party
