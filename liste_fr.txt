@@ -2683,7 +2683,6 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.ch
 |http://$script,third-party,domain=t411.ch
 |https://$script,third-party,domain=t411.ch
-||t411.ch^$popup,~third-party
 ! voirfilms.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=voirfilms.org
 |http://$script,third-party,domain=voirfilms.org
