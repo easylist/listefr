@@ -1628,6 +1628,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||espace-plus.net^$popup,third-party
 ||europacash.com^$popup,third-party
 ||exasharetab.com^$popup,third-party
+||extremesoundmedium.com^$popup,third-party
 ||femme-cougar.tv^$popup,third-party
 ||femtoads.com^$popup,third-party
 ||fitgame.biz^$popup,third-party
@@ -1748,6 +1749,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||tradeadexchange.com^$popup,third-party
 ||trafe.info^$popup,third-party
 ||trafficmagnates.com^$popup,third-party
+||travelaudience.com^$popup,third-party
 ||tribalfusion.com^$popup,third-party
 ||trkfl.com^$popup,third-party
 ||urlcash.com^$popup,third-party
@@ -2715,6 +2717,9 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |http://$script,xmlhttprequest,domain=dpstream.net
 |https://$script,xmlhttprequest,domain=dpstream.net
 ||dpstream.net^$popup,~third-party
+! ebookdz.com
+@@|http://$script,third-party,xmlhttprequest,domain=ebookdz.com
+@@|https://$script,third-party,xmlhttprequest,domain=ebookdz.com
 ! senscritique.com
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=senscritique.com
 @@||connect.facebook.net^$script,domain=senscritique.com
