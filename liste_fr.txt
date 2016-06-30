@@ -1848,7 +1848,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||akamaihd.net^$domain=dailymotion.com
 ||algeriemobiles.com/pub/
 ||alibaba.com^$popup,domain=streamin.to
-||aliencable.com/images/habillagealien.jpg
+||aliencable.com/images/$third-party
 ||aliexpress.com^$popup,domain=dzsat.org
 ||allo-heberge.com/interface/bannieres/
 ||allo-nom.com/interface/bannieres/
@@ -3270,6 +3270,7 @@ toutcash.com/images/bandeau-
 ||handroit.com/Annonceur/
 ||hdfever.fr/wp-content/uploads/*/banni
 ||hdfever.fr/wp-content/uploads/*/habillage-
+||hdfever.fr/wp-content/uploads/*/soldes
 ||hentaigratuit.org/delaypub.js
 ||herault-tribune.com^*/flash_pub_
 ||herault-tribune.com^*/rep_pub/
@@ -6870,7 +6871,6 @@ auto-utilitaire.com##div[style="position:relative;width:728px;height:90px;"]
 voyageforum.com##div[style="width: 300px; height: 250px;"]
 groupon.fr##div[style="width: 445px; margin: 8px auto; text-align: center; background-color: #fff; border: 1px solid #e4e4e4;"]
 t411.ch,theworldtoptens.com##div[style="width: 465px;margin: 0 auto;"]
-hdfever.fr##div[style="width: 728px; height: 90px; margin: auto; background-color: grey; box-shadow: 5px 5px 15px black; border: 4px solid grey; border-radius: 4px;"]
 bricozone.be##div[style="width: 728px; height: 90px; overflow: hidden;"]
 dzfoot.com##div[style="width:100%;  height:587px;"]
 debrideurstreaming.com##div[style="width:100%; height:110px; padding-top:100px; padding-right:2px; color:#FFF; background:url(images/pub011.png) no-repeat -25px; margin:auto; text-align:center; padding-bottom:6px;"]
@@ -6898,7 +6898,7 @@ commerce-ville.info,habitant-ville.info,information-ville.info,rue-ville.info##d
 tooply.com##div[style^="position:fixed; bottom:0px; left:50%; margin-left:-379px; width:728px; height:90px;"]
 geny.com##div[style^="width: 300px; height: 250px;"]
 mcetv.fr##div[style^="width: 300px;font-style: none;height: 250px"]
-free-reseau.fr##div[style^="width: 728px; height: 90px;"]
+free-reseau.fr,hdfever.fr##div[style^="width: 728px; height: 90px;"]
 forum-des-oranges.fr##div[style^="width: 728px;"]
 algerie360.com##div[style^="width:100%; height:100px"]
 copine-coquine.com##div[style^="width:300px;height:250px"]
