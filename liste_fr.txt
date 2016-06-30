@@ -1639,6 +1639,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||fitgame.biz^$popup,third-party
 ||flagagreebelieve.com^$popup,third-party
 ||flashtalking.com^$popup,third-party
+||flowlz.com^$popup,third-party
 ||fungoiddempseyimpasse.info^$popup,third-party
 ||gamingaffiliation.com^$popup,third-party
 ||gestionpub.com^$popup,third-party
@@ -2703,8 +2704,8 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |http://$popup,script,third-party,domain=torrent9.tv
 |https://$popup,script,third-party,domain=torrent9.tv
 ! ex-down.org
-|http://$script,third-party,domain=ex-down.org
-|https://$script,third-party,domain=ex-down.org
+|http://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|extreme-down.info|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com
+|https://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|extreme-down.info|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com
 ! japscan.com
 |http://$script,third-party,xmlhttprequest,domain=japscan.com
 |https://$script,third-party,xmlhttprequest,domain=japscan.com
