@@ -2710,8 +2710,8 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |http://$popup,script,third-party,domain=torrent9.tv
 |https://$popup,script,third-party,domain=torrent9.tv
 ! ex-down.org
-|http://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|extreme-down.info|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com
-|https://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|extreme-down.info|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com
+|http://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|extreme-down.info|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
+|https://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|extreme-down.info|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
 ! extreme-protect.net
 @@||ajax.googleapis.com/ajax/libs/jquery$script,domain=extreme-protect.net
 |http://$script,third-party,xmlhttprequest,domain=extreme-protect.net
