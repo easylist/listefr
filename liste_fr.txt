@@ -1830,7 +1830,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||ad.net-c.com^
 ||ad.vacanceo.com^
 ||ad.zanox.com^
-||ad.zanox.com^$popup,domain=configspc.com|telesatellite.com
+||ad.zanox.com^$popup,domain=configspc.com|heures.be|telesatellite.com
 ||adf.ly^$popup,domain=ytubesave.com
 ||adjsla.daycorpltd12.netdna-cdn.com^
 ||ads.giponewing.com^
@@ -2557,6 +2557,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||youtube2mp3.cc/p.php$popup
 ||yubee.free.fr/admin/bannieres/
 ||z51.biz/IBinnewz.aspx
+||zalando.be^$popup,domain=heures.be
 ||zeusmangax.com/baniere/
 ||zone-hot.com/thumblink.php?
 ||zone.*.netdna-cdn.com^
@@ -3282,7 +3283,8 @@ toutcash.com/images/bandeau-
 ||hentaigratuit.org/delaypub.js
 ||herault-tribune.com^*/flash_pub_
 ||herault-tribune.com^*/rep_pub/
-||heures.be/template/images/prom/zalando/
+||heures.be/includes/js/checkblock.js
+||heures.be^*/zalando/
 ||hibamusic.com/pub/
 ||histoires-de-sexe.net/histoires-sexe-videos.php$popup
 ||hitek.fr/img/*-ban.
@@ -5533,6 +5535,7 @@ liberte-algerie.com###flash[style="width:980px; margin:auto; position:relative;"
 sport-team.org###floatLayer
 streaming-foot.me###floatLayer1
 heures.be###floatingCntr
+heures.be###floatingContr
 cinemavf.net,vfstreaminggratuit.com###floatlayer2
 algeriepatriotique.com###flottante_droite
 algeriepatriotique.com###flottante_gauche
@@ -5948,6 +5951,7 @@ turfomania.fr##.ad1
 vinyculture.com##.ad2
 pafpaf.com##.adBlocTop
 lastminute.com##.adContainer
+heures.be##.adHours
 souiqua.net##.adblock
 msn.com##.adcontainer
 reverso.net##.adcontent
@@ -5974,6 +5978,7 @@ reverso.net##.advhead
 statistiks.fr##.adz
 aufeminin.com##.af_bloc_partners
 permaculteurs.com##.aff
+heures.be##.affbox
 captainmugiwara.over-blog.com##.afterload
 hdfever.fr,homecinema-fr.com##.aliencable-link
 sitesavisiter.com##.alj
@@ -6357,6 +6362,7 @@ abomag.com##.postContent > p[style="float: left;margin: 4px;"]
 strastv.com##.post_pub
 canalplus.fr##.preroll
 kelkoo.fr##.priceminister
+heures.be##.promSB
 heures.be##.promSidebar
 deco.fr##.promo
 boursorama.com##.promo + .visible-desktop[style$="display: block;"]
@@ -6744,6 +6750,7 @@ gizmodo.fr##a[href^="http://www.ebuyclub.com/operations/gizmodo/entreeGizmodo.js
 forumconstruire.com##a[href^="http://www.forumconstruire.com/torm3/click.php?"]
 forumpiscine.com##a[href^="http://www.forumpiscine.com/torm3/click.php?"]
 guide-piscine.fr##a[href^="http://www.guide-piscine.fr/scripts/gp_div_clic.php?"]
+heures.be##a[href^="http://www.heures.be/voir/"]
 9rayti.com##a[href^="http://www.ilycee.com/?utm_source="]
 kaamelott-streaming.tv##a[href^="http://www.kaamelott-streaming.tv/partenaire/"]
 cowcotland.com##a[href^="http://www.ldlc.com#aff"] > img
