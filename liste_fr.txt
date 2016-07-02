@@ -160,6 +160,7 @@
 /ads-iframe-
 /ads-lootmarketllc.
 /ads.*/banners/*
+/ads/*-300x250.
 /ads/*-habillage-
 /ads/2-728.
 /ads/3-728.
@@ -1882,8 +1883,6 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||annuaire-web-france.com/partenaires/
 ||aolcdn.com/ads/
 ||api.wamland.com^
-||appvip.com/img_gen/
-||appvip.com/index.php?app=
 ||arkea.com/banque/assurance/credit/upload/docs/image/$image,third-party
 ||as-salat.fr/images/banners/
 ||asia-passion.fr/annuaire/ban/$third-party
@@ -2825,6 +2824,7 @@ toutcash.com/images/bandeau-
 ||amateur2sexe.fr/static/haut/
 ||amateurdesexe.com^*/zone_hard.gif
 ||android-dz.com/pub/
+||android-dz.com/wp-content/uploads/*/habillage-
 ||animeka.com/_img/cache/partner/
 ||animes-streaming.net/images/ruedufric.png
 ||annonce.lequipement.fr^
@@ -2840,7 +2840,6 @@ toutcash.com/images/bandeau-
 ||annuaire-inverse-france.com/s/i/*/ad
 ||annuaire-inverse-france.com/s/i/encart_
 ||apipub.oumma.com^
-||appvip.com/offre.php?
 ||aps.dz/modules/mod_vtem_banners/
 ||aps.dz/pub-
 ||aps.dz/pub.php
@@ -5471,6 +5470,7 @@ pooki.fr###cardTopSummaryPrices
 sofoot.com###case-partenaires
 actupc.info###casing > center > table[width="100%"][height="60"][cellspacing="0"][cellpadding="0"]
 sexeautop.com###catcher
+android-dz.com###cb-bg-to
 imagik.fr###cb30popmedia
 renovationettravaux.fr###cboxOverlay
 emule-island.ru###centre_haut
