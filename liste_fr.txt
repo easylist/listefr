@@ -299,6 +299,7 @@
 /gestionpub/*
 /get.cgi?*=banner
 /get_banniere.php?$subdocument
+/getAdAjax/*
 /getadsor.
 /getPromotedClassifiedAd.
 /gfx/bannieres/*
@@ -1752,6 +1753,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||teracreative.com^$popup,third-party
 ||terrapops.com^$popup,third-party
 ||the-adult-company.com^$popup,third-party
+||the-queen.net^$popup,third-party
 ||theopenads.com^$popup,third-party
 ||thisclick.network^$popup,third-party
 ||tonlive.com^$popup,third-party
