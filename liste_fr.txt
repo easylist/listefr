@@ -7092,6 +7092,7 @@ senscritique.com##body > div > [-abp-properties='width: *%;']
 @@||bannieres.telethon.fr/compteurs/$image,subdocument
 @@||beaute-test.com/global/css/show_ads.js$script
 @@||beead.fr^$domain=doc-etudiant.fr|ouifm.fr|play.nrj.fr|radiofg.com|radioneo.org|rfm.fr|virginradio.fr
+@@||bfm-ak.cds1.yospace.com/u/file~video_$object-subrequest,third-party,domain=bfmtv.com
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
@@ -7199,6 +7200,7 @@ senscritique.com##body > div > [-abp-properties='width: *%;']
 @@||vshop.fr^$domain=shopping-discount.fr
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 @@||wifeo.com/ads/promo/advertise-publicite.gif$image,domain=wifeo.com
+@@||yospace.com/crossdomain.xml$object-subrequest,third-party,domain=bfmtv.com
 @@||zatnawqy.net/intermission/loadTargetUrl?$~third-party,xmlhttprequest
 !
 !----------------------- Exceptions d'éléments -----------------------!
