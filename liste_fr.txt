@@ -1639,6 +1639,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||cloudservepoint.com^$popup,third-party
 ||coloredview.com^$popup,third-party
 ||cometstar.net^$popup,third-party
+||console-bar.net^$popup,third-party
 ||coolood.biz^$popup,third-party
 ||coosc.info^$popup,third-party
 ||copyop-ads.com^$popup,third-party
@@ -1738,6 +1739,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||pub2srv.com^$popup,third-party
 ||purlive.com^$popup,third-party
 ||px9y26.com^$popup,third-party
+||qertewrt.com^$popup,third-party
 ||redpeepers.com^$popup,third-party
 ||reflexcash.com^$popup,third-party
 ||regie3digital.com^$popup,third-party
@@ -1817,6 +1819,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |http://$popup,~third-party,domain=flashx.tv
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
+|http://*=|$popup,third-party,domain=nowvideo.ag|nowvideo.co|nowvideo.li|nowvideo.sx|nowvideo.to
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
 |http://po.st^$popup,domain=almountakhab.com
 ||1001sondages.com/assets/images/250x250.jpg
