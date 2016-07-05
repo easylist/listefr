@@ -2765,6 +2765,10 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 @@||scontent.lrcdn.net/outbound-cdn-static/js/LiveRail.AdManager.JWPlayer-6.4.0.plugin.js$script,domain=generation-nt.com
 |http://$script,third-party,xmlhttprequest,domain=generation-nt.com
 |https://$script,third-party,xmlhttprequest,domain=generation-nt.com
+! mangas-fr.com (goyavelab)
+@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=mangas-fr.com
+|http://$script,third-party,xmlhttprequest,domain=mangas-fr.com
+|https://$script,third-party,xmlhttprequest,domain=mangas-fr.com
 ! dpstream.net
 |http://$script,third-party,xmlhttprequest,domain=dpstream.net
 |https://$script,third-party,xmlhttprequest,domain=dpstream.net
