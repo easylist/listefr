@@ -198,6 +198,7 @@
 /adwizard/*
 /af-250x250.
 /af-300x250.
+/aff.php?
 /aff_*/banners/*
 /aff_pub_
 /affiliate.*/banner
@@ -354,6 +355,7 @@
 /page_pub.
 /pagepub.
 /pages_ads.
+/panel_regie/*
 /pariez-h728.
 /partners/ads-
 /partners/rotator.
@@ -585,6 +587,7 @@ _publicite.
 _publicite1.
 _publicite_
 _pubscript.
+_regie/aff.
 _regiepub/
 _smads_
 _Social-Advert-
@@ -711,6 +714,7 @@ _adb_728x90_$popup
 _domain=ads.$popup
 _pop.php?z=$popup
 _redir.php?id_rotation=$popup
+_regie/clic.$popup
 data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||adv-mybankai.$popup
 !
@@ -5541,6 +5545,9 @@ asso-web.com###container_pub_left
 canalturf.com###content > div[style="width:100%; z-index: 100; margin-bottom:10px; text-align:center "]:first-child
 millenium.org###content_pub
 spi0n.com###content_top
+extase-y.com###criteoDiv1
+extase-y.com###criteoDiv2
+extase-y.com###criteoDiv3
 flyordie.com###dasb
 edcom.fr###decouvrirActu
 lareclame.fr###dfp-top
