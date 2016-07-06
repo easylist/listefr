@@ -7023,6 +7023,8 @@ sinfest.net##noscript a
 bonjourmadame.fr##object[width="728"][height="90"]
 ouedkniss.com#habillage_flash
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
+senscritique.com##script + div > [class*="0"][style*="display: block;"]
+senscritique.com##script + div > [class*="9"][style*="display: block;"]
 debrideurstreaming.com##script[src="http://www.pubdirecte.com/script/pop.php?id=48523&ref=23821"] + table[style="float:right; margin-right:50px;"]
 omgtorrent.me##span > a:first-child
 mega-vesti.info,smartorrent.com##span[style^="cursor:pointer;"] > a
@@ -7092,6 +7094,7 @@ macg.co##article > a[-abp-properties='*'] > img
 24matins.fr##article > div[-abp-properties='background-image:*;']
 senscritique.com##body > div > [-abp-properties='display: block;']
 senscritique.com##body > div > [-abp-properties='width: *%;']
+senscritique.com##body > div > [-abp-properties='z-index: 0;']
 ! Ligatus
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=foot01.com
 @@||connect.facebook.net^$script,domain=24matins.fr|begeek.fr
