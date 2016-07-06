@@ -735,7 +735,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||1mov-team.com^$third-party
 ||1sponsor.com^$third-party
 ||1stads.net^$third-party
-||2mdn.net^$object-subrequest,domain=dhnet.be
+||2mdn.net^$object-subrequest,domain=dhnet.be|lalibre.be
 ||2town.net^$third-party
 ||37.46.192.170^$third-party
 ||380tl.com^$third-party
@@ -6182,7 +6182,7 @@ girlsgogames.fr##.categoryBanner
 android-dz.com##.cb-sidebar-widget
 akelys.com##.cellulePUB
 neowebcar.com##.cetelem
-dhnet.be##.cinebelSmall
+dhnet.be,lalibre.be##.cinebelSmall
 yahoo.com##.classickick
 test-mobile.fr##.clickleft
 test-mobile.fr##.clickright
@@ -6534,7 +6534,7 @@ medisite.fr##.region > div > img
 igen.fr,macg.co,watchgeneration.fr##.region-pubheader
 jeux-e.com##.rek_ban
 frandroid.com##.relatedviatopic
-dhnet.be##.relookingHtml
+dhnet.be,lalibre.be##.relookingHtml
 kelkoo.fr##.results-lrec
 goldenboys.fr##.right-minipub
 mappy.com##.rightHabillage
@@ -6744,7 +6744,7 @@ emule-island.ru##a[href="/vpn.php"]
 arabzik.org##a[href="http://arabzik.org/free-phone/"]
 dzzik.com##a[href="http://dzzik.OurToolbar.com/exe"]
 blogspot.be##a[href="http://everybodyswim.blogspot.be/p/ebook-everybodyswim.html"]
-dhnet.be##a[href="http://fleurdelyst.be/"]
+dhnet.be,lalibre.be##a[href="http://fleurdelyst.be/"]
 olivierdauvers.fr##a[href="http://ifm.asso.fr/site/portfolio/262728-novembre-2013/"]
 kaaz.eu##a[href="http://inspxtrc.com/"]
 mega-vesti.info##a[href="http://mega-vesti.info/vpn"]
@@ -6831,7 +6831,7 @@ heures.be##a[href^="http://www.heures.be/voir/"]
 9rayti.com##a[href^="http://www.ilycee.com/?utm_source="]
 kaamelott-streaming.tv##a[href^="http://www.kaamelott-streaming.tv/partenaire/"]
 cowcotland.com##a[href^="http://www.ldlc.com#aff"] > img
-dhnet.be##a[href^="http://www.livepartners.be/affiliate/"]
+dhnet.be,lalibre.be##a[href^="http://www.livepartners.be/affiliate/"]
 lyonmag.com##a[href^="http://www.lyonmag.com/home/habillage/"]
 dzfoot.com,ma-dz.com##a[href^="http://www.medncom.com/regie/"]
 meetmuslima.net##a[href^="http://www.meetmuslima.net/go/"]
