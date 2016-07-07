@@ -2116,6 +2116,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||g2a.com^$popup,domain=hitek.fr
 ||gagnantacoupsur.com/images/banner
 ||gagne-facile.com/img/banner-
+||gambling-affiliation.com^$popup,domain=euro-2016-france.net
 ||gametap.com/convergence/Header/framed/?
 ||gametrailer.click^$subdocument
 ||gamingskin.com^
@@ -3931,6 +3932,7 @@ toutcash.com/images/bandeau-
 ||ruedesjoueurs.com^*/campagnes/habillage/
 ||ruedesjoueurs.fr/images/banners/
 ||ruedesjoueurs.fr^*/campagnes/habillage/
+||ruedufootball.com/images/partners/
 ||rustica.fr/popunder/$popup
 ||s-sfr.fr/webmail/*.smartbanner.js
 ||s-sfr.fr^*/pubsa.
@@ -5450,6 +5452,7 @@ africanmanager.com###bLayer
 commentcamarche.net###ba_position4
 commentcamarche.net###ba_right
 top-for-phone.fr###background-cover
+euro-2016-france.net###background-promo
 argentmania.com,e-jeune.net###ban
 egora.fr###ban-gp
 grandecran.fr###ban_big
@@ -5558,8 +5561,9 @@ asso-web.com###container_pub_left
 canalturf.com###content > div[style="width:100%; z-index: 100; margin-bottom:10px; text-align:center "]:first-child
 millenium.org###content_pub
 spi0n.com###content_top
-extase-y.com###criteoDiv1
-extase-y.com###criteoDiv2
+euro-2016-france.net###criteoDiv
+euro-2016-france.net,extase-y.com###criteoDiv1
+euro-2016-france.net,extase-y.com###criteoDiv2
 extase-y.com###criteoDiv3
 flyordie.com###dasb
 edcom.fr###decouvrirActu
@@ -6716,6 +6720,7 @@ sosvirus.net##a[href*="/affiliate-"] > img
 espritlib.com##a[href*="/goto_part.php?"]
 nouvelobs.com##a[href*="/les-bons-plans-shopping/"]
 planet-series.tv##a[href*="/offer?"]
+euro-2016-france.net##a[href*="/parier/"]
 centre-audition.com,easyzic.com,info-algerie.com##a[href*="/redirect."]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
 comment-supprimer.com,igen.fr,macg.co,needsandmoods.com,refurbgeneration.com,sosiphone.com,watchgeneration.fr##a[href*="://ad.zanox.com/"]
