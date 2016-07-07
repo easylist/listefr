@@ -7096,7 +7096,7 @@ foot01.com##.the_post a > img
 nrj.fr##.aside-pub-300
 nrj.fr##.pubContainer
 ! Filtres de propriété CSS pour Adblock Plus
-foot01.com###content [-abp-properties='cursor: pointer;']
+foot01.com###content [-abp-properties='*']
 begeek.fr###sidebar a[-abp-properties='background-image: *;']
 begeek.fr###single > [-abp-properties='cursor: pointer;']
 begeek.fr###single > [-abp-properties='height: *px; padding-top: *px;']
@@ -7107,7 +7107,8 @@ igen.fr##.article [-abp-properties='cursor: pointer;']
 igen.fr##.article a[-abp-properties='display: block;']
 senscritique.com##.ecbi-billboard-slide > [-abp-properties='position: absolute;']
 igen.fr##.region-sidebar a[-abp-properties='*']
-foot01.com,igen.fr##.sidebar [-abp-properties='cursor: pointer;']
+foot01.com##.sidebar [-abp-properties='*']
+igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 medisite.fr##[-abp-properties='cursor: pointer;']
 begeek.fr##[-abp-properties='height: 3*px;']
 begeek.fr##[-abp-properties='height: 5*px;'] > img
