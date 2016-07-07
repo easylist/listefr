@@ -6068,7 +6068,8 @@ lemonde.fr##.annonces_monster
 neowebcar.com##.argus-logo
 sortiesdvd.com##.art-Post[style="float: left"]
 sortiesdvd.com##.art-Post[style="float: right"]
-igen.fr##.article a > img
+macg.co##.article > div > a
+igen.fr,macg.co##.article a > img
 igen.fr##.article a[class]
 elhayatonline.net##.article-body + div[style*="width: 336px;"]
 madmoizelle.com##.article_banner
