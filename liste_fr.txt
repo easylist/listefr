@@ -6681,6 +6681,8 @@ ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
+senscritique.com##[class*="0"]
+senscritique.com##[class*="9"]
 medisite.fr##[class] > img
 footnamurois.com##[class^="banners-"]
 forumconstruire.com##[class^="habillage"]
@@ -6904,6 +6906,7 @@ theworldtoptens.com##body > a
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 senscritique.com##body > div > [class$="product "]
 senscritique.com##body > div > a
+senscritique.com##body > noscript + script + div > [class]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 forumpiscine.com##div#\31
@@ -7047,8 +7050,6 @@ sinfest.net##noscript a
 bonjourmadame.fr##object[width="728"][height="90"]
 ouedkniss.com#habillage_flash
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
-senscritique.com##script + div > [class*="0"][style*="display: block;"]
-senscritique.com##script + div > [class*="9"][style*="display: block;"]
 debrideurstreaming.com##script[src="http://www.pubdirecte.com/script/pop.php?id=48523&ref=23821"] + table[style="float:right; margin-right:50px;"]
 omgtorrent.me##span > a:first-child
 mega-vesti.info,smartorrent.com##span[style^="cursor:pointer;"] > a
