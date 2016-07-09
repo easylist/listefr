@@ -3954,6 +3954,7 @@ toutcash.com/images/bandeau-
 ||secretsdujeu.com/pop/$popup
 ||securite.01net.com^
 ||senioractu.com/photo/background-
+||senscritique.com^*/sponsored.ajax
 ||seriesstreaming.fr/images/partenaire_
 ||seriezone.com/ba/
 ||serre-editeur.fr/images/banners/
@@ -6562,7 +6563,6 @@ lol89.com##.s-300
 europe1.fr##.s-partenaires
 lefigaro.fr##.s24-shopping
 phpsources.org##.sample-lst
-senscritique.com##.sc-class
 bakchich.info##.scpe-pub
 ouest-france.fr##.sd-deals
 sports.fr##.service.a[data-link$="\", \"target\":\"_blank\" \7d "]
@@ -6904,12 +6904,15 @@ tchatche.com##banner
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 telesatellite.com##body > [id^="a"]
 theworldtoptens.com##body > a
+senscritique.com##body > button + div > div[class]
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 senscritique.com##body > div > [class$="product "]
 senscritique.com##body > div > a
 senscritique.com##body > noscript + script + div > [class]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
+senscritique.com##button + div > div > [class*="0"]
+senscritique.com##button + div > div > [class*="9"]
 forumpiscine.com##div#\31
 forumconstruire.com##div#\32
 domimmo.com##div#an-fin
