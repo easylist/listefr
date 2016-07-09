@@ -742,9 +742,12 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||3xdl.com^$third-party
 ||415daa520.com^$third-party
 ||46.101.101.204^$third-party
+||46.101.125.$popup,third-party
+||46.101.125.$script,third-party
 ||46.249.58.117^$third-party
 ||57union.com^$third-party
 ||5b15a826.xyz^$third-party
+||62.212.73.45^$popup,third-party
 ||720.kim^$third-party
 ||77978.みんな^$third-party
 ||7x4.fr^$third-party
@@ -1205,6 +1208,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||marshmallow-digital.com^$third-party
 ||matomyseo.com^$third-party
 ||maxidivx.com^$third-party
+||maxonclick.com^$third-party
 ||media-clic.com^$third-party
 ||mediacpm.pl^$third-party
 ||mediagraph.com^$third-party
@@ -1470,6 +1474,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||trafstore.com^$third-party
 ||trck.eu^$third-party
 ||trck.me^$third-party
+||trully-sun.top^$popup,third-party
 ||tubicash.biz^$third-party
 ||tubicash.com^$third-party
 ||tworismo.com^$third-party
@@ -1705,6 +1710,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||makeitunder.com^$popup,third-party
 ||marsads.com^$popup,third-party
 ||maxidivx.com^$popup,third-party
+||maxonclick.com^$popup,third-party
 ||mediavenus.biz^$popup,third-party
 ||medleyads.com^$popup,third-party
 ||medncom.com^$popup,third-party
@@ -2788,8 +2794,8 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |https://$script,third-party,xmlhttprequest,domain=dpstream.net
 ||dpstream.net^$popup,~third-party
 ! ebookdz.com
-@@|http://$script,third-party,xmlhttprequest,domain=ebookdz.com
-@@|https://$script,third-party,xmlhttprequest,domain=ebookdz.com
+|http://$script,third-party,xmlhttprequest,domain=ebookdz.com
+|https://$script,third-party,xmlhttprequest,domain=ebookdz.com
 ! senscritique.com
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=senscritique.com
 @@||connect.facebook.net^$script,domain=senscritique.com
