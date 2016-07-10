@@ -1763,6 +1763,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||regie3digital.com^$popup,third-party
 ||relateev.com^$popup,third-party
 ||removeadsnow.info^$popup,third-party
+||rencontresparis2015.com^$popup,third-party
 ||retargetads.net^$popup,third-party
 ||rev2pub.com^$popup,third-party
 ||revsharecash.com^$popup,third-party
@@ -1935,6 +1936,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||atoowin.com/images/diffusion/
 ||autosurf.me/promo/
 ||autotrack.be/scripts/partner/
+||awin1.com/awclick.php?
 ||azurewebsites.net/widget/
 ||ba.commentcamarche.net^
 ||ba.copainsdavant.com^
@@ -2761,6 +2763,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |https://$popup,script,third-party,domain=zetorrents.com
 ! torrent9.tv
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=torrent9.tv
+@@||www.torrent9.tv/*.html$popup,third-party,domain=cpasbien.cm
 |http://$popup,script,third-party,domain=torrent9.tv
 |https://$popup,script,third-party,domain=torrent9.tv
 ! ex-down.org
