@@ -2760,17 +2760,15 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |http://$script,third-party,domain=films-regarder.com
 |https://$script,third-party,domain=films-regarder.com
 ! cpasbien.cm
-@@||www.torrent9.tv/*.html$popup,third-party,domain=cpasbien.cm
-|http://$popup,script,third-party,domain=cpasbien.cm
-|https://$popup,script,third-party,domain=cpasbien.cm
+|http://$script,third-party,domain=cpasbien.cm
+|https://$script,third-party,domain=cpasbien.cm
 ! zetorrents.com
 |http://$popup,script,third-party,domain=zetorrents.com
 |https://$popup,script,third-party,domain=zetorrents.com
 ! torrent9.tv
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=torrent9.tv
-@@||www.torrent9.tv/*.html$popup,third-party,domain=cpasbien.cm
-|http://$popup,script,third-party,domain=torrent9.tv
-|https://$popup,script,third-party,domain=torrent9.tv
+|http://$script,third-party,domain=torrent9.tv
+|https://$script,third-party,domain=torrent9.tv
 ! ex-down.org
 |http://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|extreme-down.info|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
 |https://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|extreme-down.info|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
