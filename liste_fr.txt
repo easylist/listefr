@@ -312,6 +312,7 @@
 /header_ads|
 /iframe_pub.
 /iframe_pub_
+/iframes/ads/*
 /IFrameStoreReciever.
 /images/adsMB/*
 /images/bnr/300/*
@@ -798,6 +799,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||adecolo.com^$third-party
 ||adefficiency.net^$third-party
 ||adexc.net^$third-party
+||adexp.net^$third-party
 ||adfever.com^$third-party
 ||adhoc1.net^
 ||adhost.se^$third-party
@@ -4555,6 +4557,7 @@ toutcash.com/images/bandeau-
 ###content_left_pub
 ###content_pub_carre
 ###contenu-text-publicite
+###contextualAds
 ###contextuel-publicite-video
 ###current_side_ad
 ###custom-ad
