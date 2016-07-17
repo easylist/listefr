@@ -7212,10 +7212,10 @@ senscritique.com##body > div > div > [-abp-properties='height: 250px; position: 
 @@||disqus.com^$script,third-party,domain=foot01.com|medisite.fr
 @@||player.mediabong.com/*/video.js$script,third-party,domain=medisite.fr
 @@||static.mediabong.com/scripts/mb.*.js$script,third-party,domain=medisite.fr
-|http://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|medisite.fr|watchgeneration.fr
-|http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co
-|https://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|medisite.fr|watchgeneration.fr
-|https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co
+|http://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|medisite.fr
+|http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
+|https://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|medisite.fr
+|https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
