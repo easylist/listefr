@@ -2775,10 +2775,10 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 @@||p.jwpcdn.com^$object-subrequest,third-party,domain=ultimedia.com
 |http://$object-subrequest,script,third-party,xmlhttprequest,domain=ultimedia.com
 ! t411.ch
-@@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ch|torrent-411.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.ch|torrent-411.com
-|http://$script,third-party,domain=t411.ch|torrent-411.com
-|https://$script,third-party,domain=t411.ch|torrent-411.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ch|t411fr.com|torrent-411.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.ch|t411fr.com|torrent-411.com
+|http://$script,third-party,domain=t411.ch|t411fr.com|torrent-411.com
+|https://$script,third-party,domain=t411.ch|t411fr.com|torrent-411.com
 ! voirfilms.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=voirfilms.org
 |http://$script,third-party,domain=voirfilms.org
@@ -6827,7 +6827,7 @@ beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com##a[href*="smartadserve
 mega-vesti.info,smartorrent.com##a[href*="tonlive.com"]
 cacastream.com,ddstream.com,youwatch-series.com##a[href*="xmediaserve"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
-t411.ch,torrent-411.com##a[href="/download/"]
+t411.ch,t411fr.com,torrent-411.com##a[href="/download/"]
 corobizar.com##a[href="/g2a-link/"]
 pmu.fr##a[href="/mon-pmu/easypari"]
 french-movies.net##a[href="/videosplus18.html"]
@@ -6868,7 +6868,7 @@ ensnaredbyabook.com##a[href^="/file.php?name="]
 mayottehebdo.com##a[href^="/index.php?option=com_banners"]
 immigrer.com##a[href^="/p/bannieres/"]
 confidentielles.com##a[href^="/rc_787_"]
-t411.ch,torrent-411.com##a[href^="/redirect.php"]
+t411.ch,t411fr.com,torrent-411.com##a[href^="/redirect.php"]
 jeuxvideo.com##a[href^="/sponso/"] img
 beaute-test.com##a[href^="/stat/clic.php?"]
 omgtorrent.me##a[href^="/torrent-"]
@@ -6947,7 +6947,7 @@ lefigaro.fr##a[href^="https://go.babbel.com/"]
 mega-vesti.info,smartorrent.com##a[href^="https://tr.im/"]
 cdiscount.com##a[href^="https://tracking.cdiscount.com/tracker.ashx?"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
-t411.ch,torrent-411.com##a[href^="https://www.amazon.com/"]
+t411.ch,t411fr.com,torrent-411.com##a[href^="https://www.amazon.com/"]
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
 credit-agricole.fr##a[href^="https://www.onatousuncotefoot.fr/"]
 undernews.fr##a[href^="https://www.undernews.fr/redirect/"]
@@ -6961,7 +6961,7 @@ mega-p2p.net##a[href^="vpn"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 wawacity.su##a[onclick$="()"]
 degrouptest.com##a[onclick*="/resultspage/"]
-t411.ch,theworldtoptens.com,torrent-411.com##a[onclick*="base64"]
+t411.ch,t411fr.com,theworldtoptens.com,torrent-411.com##a[onclick*="base64"]
 lien-torrent.com##a[onclick*="directlinks"]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
@@ -7065,7 +7065,7 @@ egora.fr##div[style="position: relative; width: 1000px; height: 110px; z-index:1
 auto-utilitaire.com##div[style="position:relative;width:728px;height:90px;"]
 voyageforum.com##div[style="width: 300px; height: 250px;"]
 groupon.fr##div[style="width: 445px; margin: 8px auto; text-align: center; background-color: #fff; border: 1px solid #e4e4e4;"]
-t411.ch,theworldtoptens.com,torrent-411.com##div[style="width: 465px;margin: 0 auto;"]
+t411.ch,t411fr.com,theworldtoptens.com,torrent-411.com##div[style="width: 465px;margin: 0 auto;"]
 bricozone.be##div[style="width: 728px; height: 90px; overflow: hidden;"]
 dzfoot.com##div[style="width:100%;  height:587px;"]
 debrideurstreaming.com##div[style="width:100%; height:110px; padding-top:100px; padding-right:2px; color:#FFF; background:url(images/pub011.png) no-repeat -25px; margin:auto; text-align:center; padding-bottom:6px;"]
