@@ -2838,6 +2838,10 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |http://$script,third-party,xmlhttprequest,domain=senscritique.com
 ||facebook.com/plugins/video.php?$domain=senscritique.com
 ||senscritique.com^$popup,~third-party
+! heures.be (zalando)
+@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=heures.be
+|http://$script,third-party,domain=heures.be
+|https://$script,third-party,domain=heures.be
 ! imgur.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
@@ -3389,8 +3393,9 @@ toutcash.com/images/bandeau-
 ||hentaigratuit.org/delaypub.js
 ||herault-tribune.com^*/flash_pub_
 ||herault-tribune.com^*/rep_pub/
-||heures.be/includes/js/checkblock.js
-||heures.be^*/zalando/
+||heures.be/includes/js/check
+||heures.be^*/prom
+||heures.be^*/zala
 ||hibamusic.com/pub/
 ||histoires-de-sexe.net/histoires-sexe-videos.php$popup
 ||hitek.fr/img/*-ban.
@@ -6805,6 +6810,7 @@ nouvelobs.com##a[href*="/les-bons-plans-shopping/"]
 planet-series.tv##a[href*="/offer?"]
 euro-2016-france.net##a[href*="/parier/"]
 centre-audition.com,easyzic.com,info-algerie.com##a[href*="/redirect."]
+heures.be##a[href*="/regarder/"]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
 comment-supprimer.com,igen.fr,macg.co,needsandmoods.com,refurbgeneration.com,sosiphone.com,watchgeneration.fr##a[href*="://ad.zanox.com/"]
 mistergooddeal.com##a[href*="=H_pub_"]
