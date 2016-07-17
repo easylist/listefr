@@ -7188,8 +7188,8 @@ igen.fr##.article [-abp-properties='cursor: pointer;']
 igen.fr##.article a[-abp-properties='background-image: *;']
 igen.fr##.article a[-abp-properties='display: block;']
 macg.co##.article div a[-abp-properties='background-image: *;']
-igen.fr##.article span[-abp-properties='background-image: *;']
-igen.fr##.article span[-abp-properties='padding-top: *px;']
+igen.fr,macg.co##.article span[-abp-properties='background-image: *;']
+igen.fr,macg.co##.article span[-abp-properties='padding-top: *px;']
 senscritique.com##.ecbi-billboard-slide > [-abp-properties='position: absolute;']
 igen.fr##.region-sidebar a[-abp-properties='*']
 foot01.com##.sidebar [-abp-properties='*']
@@ -7212,10 +7212,10 @@ senscritique.com##body > div > div > [-abp-properties='height: 250px; position: 
 @@||disqus.com^$script,third-party,domain=foot01.com|medisite.fr
 @@||player.mediabong.com/*/video.js$script,third-party,domain=medisite.fr
 @@||static.mediabong.com/scripts/mb.*.js$script,third-party,domain=medisite.fr
-|http://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|macg.co|medisite.fr|watchgeneration.fr
-|http://$script,third-party,xmlhttprequest,domain=igen.fr
-|https://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|macg.co|medisite.fr|watchgeneration.fr
-|https://$script,third-party,xmlhttprequest,domain=igen.fr
+|http://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|medisite.fr|watchgeneration.fr
+|http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co
+|https://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|medisite.fr|watchgeneration.fr
+|https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
