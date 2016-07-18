@@ -733,6 +733,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||1000mercis.com^$third-party
 ||104.197.10.$script,third-party
 ||104.197.127.$script,third-party
+||104.197.140.$script,third-party
 ||104.197.188.$script,third-party
 ||104.197.34.$script,third-party
 ||104.197.4.$script,third-party
@@ -1585,6 +1586,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 !
 |http://n*adserv.com^$popup
 ||104.197.*&ban=$popup
+||104.197.140.$popup,third-party
 ||104.197.4.$popup,third-party
 ||104.198.198.$popup,third-party
 ||104.238.188.$popup,third-party
