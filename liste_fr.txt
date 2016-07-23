@@ -46,6 +46,7 @@
 -728-90b.
 -728-90c.
 -728-x-90-
+-730x90.
 -90x600-
 -90x728_
 -ad160x600.
@@ -2542,6 +2543,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||ssl.gstatic.com^*.gif?$popup,third-party
 ||stars-passion.com/ban/$third-party
 ||static.ccmbg.com/ops.ccmbg.com/
+||static.fotolia.com/pics/*/banners/
 ||static.meilleursagents.com^*/partners
 ||static.mntzm.com^
 ||static.s-sfr.fr/media/mire_$image
@@ -5287,6 +5289,7 @@ toutcash.com/images/bandeau-
 ##.pub_header
 ##.pub_header_banner
 ##.pub_info
+##.pub_kelkoo
 ##.pub_leaderboard
 ##.pub_left
 ##.pub_middle
@@ -6614,7 +6617,6 @@ meilleurmobile.com##.pub_combo
 supportduweb.com##.pub_contenu_cr
 renders-graphiques.fr##.pub_galerie
 aerobuzz.fr##.pub_image
-nintendo-master.com##.pub_kelkoo
 influencia.net##.pub_large
 asso-web.com##.pub_left_content
 jeuxvideopc.com##.pub_refonte
@@ -6918,6 +6920,7 @@ kerix.net##a[href^="LienExterne.asp?"]
 ladepeche.pf##a[href^="ads/"]
 youwatch-series.com##a[href^="dpstream.php?"]
 boursorama.com##a[href^="http://ads."]
+oujdacity.net##a[href^="http://ads.oujdacity.net/"]
 lotusnoir.info##a[href^="http://adv-myninja."]
 aidemu.fr##a[href^="http://aidemu.fr/pub/"]
 films-regarder.com,telechargementz-streaming.com##a[href^="http://api.adlure.net/"]
