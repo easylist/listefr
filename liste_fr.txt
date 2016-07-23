@@ -1884,6 +1884,8 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |http://*=|$popup,third-party,domain=nowvideo.ag|nowvideo.co|nowvideo.li|nowvideo.sx|nowvideo.to
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
 |http://po.st^$popup,domain=almountakhab.com
+|ws://$other,domain=dpstream.net
+|wss:$other,domain=dpstream.net
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
 ||11footballclub.com^*/indexcolonne.php?
