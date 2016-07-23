@@ -740,6 +740,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 !----------------------- Annonceurs -----------------------!
 !
 ||1000mercis.com^$third-party
+||104.154.237.$script,third-party
 ||104.197.10.$script,third-party
 ||104.197.127.$script,third-party
 ||104.197.140.$script,third-party
@@ -1597,6 +1598,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 !-------------------- Annonceurs popup --------------------!
 !
 |http://n*adserv.com^$popup
+||104.154.237.$popup,third-party
 ||104.197.*&ban=$popup
 ||104.197.140.$popup,third-party
 ||104.197.4.$popup,third-party
