@@ -2799,7 +2799,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||wwwtatonnai.uk^
 ! secretmedia.com
 /^http://[a-z0-9_-]{15,}\.[a-z0-9-]+\.[a-z]{2,}\/.*?\w{100,}/$image,media,domain=gentside.com|maxisciences.com|ohmymag.com
-/http://[a-z0-9]{15,}\.[a-z0-9]+\.[a-z]{2,}\/.*[a-zA-Z0-9]{100,}/$object-subrequest,domain=wat.tv
+/^http://[a-z0-9_]{15,}\.[a-z0-9-]+\.[a-z]{2,}\/.*[a-zA-Z0-9]{100,}/$object-subrequest,domain=wat.tv
 ! ultimedia.com
 .ovh^$domain=ultimedia.com
 @@|http://*.digiteka.net/*,,/*?mdtk=$object-subrequest,third-party,domain=ultimedia.com
