@@ -2834,6 +2834,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ! extreme-protect.net
 @@||ajax.googleapis.com/ajax/libs/jquery$script,domain=extreme-protect.net
 |http://$script,third-party,xmlhttprequest,domain=extreme-protect.net
+|http://104.$popup,domain=extreme-protect.net
 |https://$script,third-party,xmlhttprequest,domain=extreme-protect.net
 ! japscan.com
 |http://$script,third-party,xmlhttprequest,domain=japscan.com
