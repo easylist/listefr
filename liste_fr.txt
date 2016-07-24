@@ -2872,8 +2872,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||senscritique.com^$popup,~third-party
 ! heures.be (zalando)
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=heures.be
-@@||maps.google.com/maps/api/js?$script,domain=heures.be
-@@||maps.googleapis.com/maps-api-*/api/js/*.js$script,domain=heures.be
+@@||maps.google.com^$script,domain=heures.be
 @@||maps.googleapis.com/maps/api/js/$script,domain=heures.be
 |http://$script,third-party,domain=heures.be
 |https://$script,third-party,domain=heures.be
