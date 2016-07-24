@@ -60,6 +60,7 @@
 -banner250-
 -banner300-
 -banner728.
+-emarketplace.
 -popads_
 -pub-ads/
 -reklama-300x300.
@@ -95,6 +96,7 @@
 .ma/ads/
 .ma/ads_
 .me/adver/
+.php/affiliate/
 .php?&zoneid=
 .php?*&bannerid*campaignid=
 .php?*&size=*&synergie=
@@ -574,6 +576,7 @@ _60x468_
 _728x90v2.
 _90x728_
 _970x250.
+_ad4.
 _ad_images_
 _ad_unit.
 _adclick_$subdocument
@@ -2485,6 +2488,8 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||rencontreshard.com^$subdocument
 ||rencontresparis2015.com^$popup
 ||rendez-vous.be/scripts/Clients/
+||rhcloud.com/*-affiliate-
+||rhcloud.com^$domain=android-dz.com
 ||rockub.com/ban/
 ||rockub.com/widget/
 ||rollersexe.com/ban/$third-party
