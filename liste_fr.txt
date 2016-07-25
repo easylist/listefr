@@ -2877,6 +2877,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=senscritique.com
 @@||connect.facebook.net^$script,domain=senscritique.com
 |http://$script,third-party,xmlhttprequest,domain=senscritique.com
+|https://$script,third-party,xmlhttprequest,domain=senscritique.com
 ||facebook.com/plugins/video.php?$domain=senscritique.com
 ||senscritique.com^$popup,~third-party
 ! heures.be (zalando)
@@ -7273,6 +7274,7 @@ igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 medisite.fr##[-abp-properties='cursor: pointer;']
 24matins.fr##[-abp-properties='display:flex;']
 24matins.fr##[-abp-properties='display:none;']
+senscritique.com##[-abp-properties='height: 25*px;']
 begeek.fr##[-abp-properties='height: 3*px;']
 begeek.fr##[-abp-properties='height: 5*px;'] > img
 begeek.fr##[-abp-properties='height: 6*px;']
