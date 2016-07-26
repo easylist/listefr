@@ -7061,11 +7061,10 @@ cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor=
 senscritique.com##body > div + script + div
 senscritique.com##body > div > [class$="product "]
 senscritique.com##body > div > a
+senscritique.com##body > div > div[class]:first-child > [class*="0"]
 senscritique.com##body > noscript + script + div > [class]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
-senscritique.com##button + div > div > [class*="0"]
-senscritique.com##button + div > div > [class*="9"]
 senscritique.com##div + script + div[style="display: block;width: 100%;"]
 forumpiscine.com##div#\31
 forumconstruire.com##div#\32
