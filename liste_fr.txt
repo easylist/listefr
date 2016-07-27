@@ -202,6 +202,7 @@
 /adslider.
 /adsmouse.
 /adsrvmedia/*
+/adsw1.
 /adv/pads.
 /Adv728.
 /adv_banner.
@@ -635,6 +636,7 @@ _waframedia_*&random=
 /cdn-cgi/pe/bag2?*omnitagjs.com
 /cdn-cgi/pe/bag2?*padsdel.com
 /cdn-cgi/pe/bag2?*padstm.com
+/cdn-cgi/pe/bag2?*pagead2.googlesyndication.com
 /cdn-cgi/pe/bag2?*pub2srv.com
 /cdn-cgi/pe/bag2?*pubdirecte.com
 /cdn-cgi/pe/bag2?*tradeadexchange.com
@@ -1661,6 +1663,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||adserverpub.com^$popup,third-party
 ||adservingsolutionsinc.com^$popup,third-party
 ||adservme.com^$popup,third-party
+||adskeeper.co.uk^$popup,third-party
 ||adstract.com^$popup,third-party
 ||adventurefeeds.com^$popup,third-party
 ||advertising-support.com^$popup,third-party
@@ -1688,6 +1691,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||azerty.solutions^$popup,third-party
 ||baise-ce-soir.com^$popup,third-party
 ||beach-queen.net^$popup,third-party
+||bestarmour4u.net^$popup,third-party
 ||bidtrk.com^$popup,third-party
 ||bidverdrd.com$popup,third-party
 ||bitadexchange.com^$popup,third-party
@@ -4980,6 +4984,7 @@ toutcash.com/images/bandeau-
 ##.ad46860
 ##.ad970-wrapper
 ##.adBottom
+##.adFootBox
 ##.adSpace1
 ##.adSpace2
 ##.ad_970x90
@@ -5684,7 +5689,6 @@ ogaming.tv###campain-rightPlaceHolder
 ogaming.tv###campain-topPlaceHolder
 pooki.fr###cardTopSummaryPrices
 sofoot.com###case-partenaires
-actupc.info###casing > center > table[width="100%"][height="60"][cellspacing="0"][cellpadding="0"]
 sexeautop.com###catcher
 android-dz.com###cb-bg-to
 imagik.fr###cb30popmedia
