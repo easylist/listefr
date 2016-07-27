@@ -5699,6 +5699,7 @@ orange.fr###commercial-links
 oujdacity.net###common-top-widget
 matchendirect.fr###comparateur
 covoiturage.fr###comuto_insidepage_ads
+foot01.com###container div > img:first-child
 geny.com###containerBanniere1mois
 asso-web.com###container_pub
 asso-web.com###container_pub_left
@@ -5965,7 +5966,6 @@ turfomania.fr###prehome_contenu
 turfomania.fr###prehome_fond
 nrj.fr###preroll
 teramixer.com###preroll-case-prime
-foot01.com###primary img
 lequipement.fr###prixendirect_block
 egaliteetreconciliation.fr###produits_en_vente
 fluvore.com###prom
@@ -6456,6 +6456,7 @@ laptopspirit.fr##.lien_hab
 laptopspirit.fr##.lien_habillage
 cine-media.fr##.lienbackground
 blog2mature.com##.liens
+foot01.com##.lig
 pagesjaunes.fr##.linkPushEmbauche
 frandroid.com##.link_htr
 mavieencouleurs.fr##.list-brands-carousel
@@ -6717,6 +6718,7 @@ nintendo-master.com##.side-pub-img
 nextinpact.com##.side_content_pub
 gmx.fr##.sideadd
 voyage-economique.fr##.sideaff-container
+foot01.com##.sidebar img:first-child
 clicbienetre.com##.sidebar_block
 desmatures.com##.sidebarpub350250
 francemobiles.com##.simpleoFlashBanner
@@ -7241,24 +7243,10 @@ telesatellite.com##td[width="728"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 omgtorrent.me##ul > li[style*="padding:"]
-! foot01.com
-foot01.com###content div + div
-foot01.com###content div:first-child:last-child
-foot01.com###content span + div
-foot01.com##.pub + * + * + * > [class]
-foot01.com##.sidebar div + :last-child
-foot01.com##.sidebar div:first-child:last-child
-foot01.com##.sidebar img
-foot01.com##.sidebar li > :first-child + * + * > *
-foot01.com##.sidebar li > :last-child > div
-foot01.com##.sidebar li > div + :last-child
-foot01.com##.sidebar span + div
-foot01.com##.the_post a > img
 ! Éléments pour generichide
 nrj.fr##.aside-pub-300
 nrj.fr##.pubContainer
 ! Filtres de propriété CSS pour Adblock Plus
-foot01.com###content [-abp-properties='*']
 begeek.fr###sidebar a[-abp-properties='background-image: *;']
 begeek.fr###single > [-abp-properties='cursor: pointer;']
 begeek.fr###single > [-abp-properties='height: *px; padding-top: *px;']
@@ -7273,7 +7261,6 @@ igen.fr,macg.co##.article span[-abp-properties='background-image: *;']
 igen.fr,macg.co##.article span[-abp-properties='padding-top: *px;']
 senscritique.com##.ecbi-billboard-slide > [-abp-properties='position: absolute;']
 igen.fr##.region-sidebar a[-abp-properties='*']
-foot01.com##.sidebar [-abp-properties='*']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 senscritique.com##[-abp-properties='background-position: *;']
 senscritique.com##[-abp-properties='background: rgba(*);']
@@ -7287,8 +7274,6 @@ begeek.fr##[-abp-properties='height: 5*px;'] > img
 begeek.fr##[-abp-properties='height: 6*px;']
 senscritique.com##[-abp-properties='height: calc(*);']
 24matins.fr##[-abp-properties='margin-bottom: 15px;']
-foot01.com##[-abp-properties='margin-left: auto;']
-foot01.com##[-abp-properties='margin-right: auto;']
 senscritique.com##[-abp-properties='position: *;']
 medisite.fr##[-abp-properties='width: 670px;']
 senscritique.com##[-abp-properties='width: calc(*);']
@@ -7299,14 +7284,13 @@ senscritique.com##body > div > [-abp-properties='width: *%;']
 senscritique.com##body > div > [-abp-properties='z-index: 0;']
 senscritique.com##body > div > div > [-abp-properties='height: 250px; position: relative;']
 ! Ligatus
-@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=foot01.com
 @@||connect.facebook.net^$script,domain=24matins.fr|begeek.fr
-@@||disqus.com^$script,third-party,domain=foot01.com|medisite.fr
+@@||disqus.com^$script,third-party,domain=medisite.fr
 @@||player.mediabong.com/*/video.js$script,third-party,domain=medisite.fr
 @@||static.mediabong.com/scripts/mb.*.js$script,third-party,domain=medisite.fr
-|http://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|medisite.fr
+|http://$script,third-party,domain=24matins.fr|begeek.fr|medisite.fr
 |http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
-|https://$script,third-party,domain=24matins.fr|begeek.fr|foot01.com|medisite.fr
+|https://$script,third-party,domain=24matins.fr|begeek.fr|medisite.fr
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 !
 !----------------------- Exceptions -----------------------!
