@@ -2662,6 +2662,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||wallmanga.com/img/anim_banniere_
 ||wat.tv/get/externalpubhigh/
 ||wat.tv^*#autoStart=1&forceOASTag=$subdocument,domain=tf1.fr
+||wat.tv^*?SM=1&
 ||watchmygf.net^$popup
 ||wbz11.com/m/habillage/
 ||wcdn.co.il/banners/
@@ -7573,6 +7574,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||scan-manga.fr^$stylesheet
 @@||securepubads.g.doubleclick.net/gampad/ads?$script,domain=7sur7.be
 @@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
+@@||slpubmedias.tf1.fr/ads/js/publicite.js$script
 @@||smartadserver.com/call/pubj/$object-subrequest,domain=ecranlarge.com
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|ecranlarge.com|itele.fr|larvf.com|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|portail.free.fr
