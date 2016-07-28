@@ -277,6 +277,7 @@
 /brightcoveAds.
 /bshow.php?dimension=$script,third-party
 /campagne/redir/*
+/cdn-ads-
 /choixPubJS.
 /clash/ads/*
 /clash/banner-
@@ -1985,7 +1986,6 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||amateursvideos.net/banners/
 ||amazon.fr/exec/obidos/external-search?$subdocument,domain=annuaire-bleu.net
 ||amazon.fr^$popup,domain=fdesouche.com
-||amazonaws.com/cdn-ads-
 ||ambed.io^*/img/partners/
 ||amisexe.fr/design/default/rencontre/$third-party
 ||animes-streaming.net/pubs/
@@ -2188,6 +2188,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||fitnext.com/masculin_box$third-party
 ||flux.effiliation.com^
 ||flyrelax.com/wp-widget/widget.php
+||foot-en-streaming.com^$popup,domain=stream-filmz.com
 ||fortuneinternet101.com/Bannieres/
 ||fpcplugs.com/do.cgi?
 ||france-telechargements.com^$popup
