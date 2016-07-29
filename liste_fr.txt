@@ -2576,6 +2576,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||spilcloud.com/gameapi/*_banner_
 ||sponsorboost.com/banniere-rotative.
 ||sponsoweb.com/htdocs/templates/banners/
+||ssl-images-amazon.com^$domain=fdesouche.com
 ||ssl.gstatic.com^*.gif?$popup,third-party
 ||stars-passion.com/ban/$third-party
 ||static.ccmbg.com/ops.ccmbg.com/
@@ -2660,6 +2661,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||voiture-net.info/pub1.
 ||voyage-langue.com/widget/
 ||vp.videoplaza.tv/creatives/assets/$object-subrequest,third-party
+||vplan.com^$popup,domain=fdesouche.com
 ||vpn-surf.com^$popup,domain=mega-vesti.info|smartorrent.com
 ||w3sexe.com/logo.php?
 ||wac.a164.taucdn.net^
@@ -3320,6 +3322,7 @@ toutcash.com/images/bandeau-
 ||fastecard.net^*/pub
 ||fcnantes.com/includes/sponsor/
 ||fdata.over-blog.net^*/js/ob.bar1*.js
+||fdesouche.com/wp-includes/js/jquery/jquery.js
 ||ferrarista.fr/forum-ferrari/uploads/referral-$image
 ||fifa.com/images/layout/sponsors/
 ||fifostream.tv/video.html
@@ -6389,6 +6392,7 @@ lefigaro.fr##.fig-adgps
 lefigaro.fr##.fig-widget-satellite
 solvusoft.com##.fileviewpro
 fluket.com,libertyland.tv,moviz.net,sky-animes.com,streamgo.net,telechargementgratuits.com,vostfr-vf.com##.fixe
+fdesouche.com##.fixed
 francetransactions.com##.fondcliquable
 jeunesfooteux.com##.footer-actuly
 bx1.be##.footer-partners
@@ -6993,6 +6997,7 @@ needsandmoods.com##a[href^="http://sigma-beauty.7eer.net/"]
 sport.fr##a[href^="http://sport-kiff.com/"]
 mega-vesti.info,smartorrent.com##a[href^="http://tinyurl.com/"]
 tirage-gagnant.com##a[href^="http://tirage-gagnant.com/tirage/"] > img
+fdesouche.com##a[href^="http://vplan.com/"]
 9divx.org##a[href^="http://www.9divx.com/telde.php"]
 futurama-stream.eu,play-fr.com,t411streaming.com##a[href^="http://www.adcash.com/"]
 peuple-vert.fr,scally.typepad.com##a[href^="http://www.amazon.fr/"] > img
@@ -7590,7 +7595,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||wakanim.tv^*/video/advertisement?idepisode=
 !
 leveldown.fr#@##adblock
-xavierstuder.com#@##adsense
+fdesouche.com,xavierstuder.com#@##adsense
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
 !
 @@||2folie.com^$elemhide
