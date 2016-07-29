@@ -70,6 +70,7 @@
 .ad4mat.$domain=~ad4mat.com
 .adfarm1.
 .ads/banner/
+.adsearch.
 .adserverpub.$domain=~adserverpub.com
 .adtech.
 .adxcore.
@@ -211,6 +212,7 @@
 /AdvertisingBanners/*
 /advertisingView?
 /adwizard/*
+/adx_iframe_
 /af-250x250.
 /af-300x250.
 /aff.php?
@@ -832,6 +834,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||adhost.se^$third-party
 ||adinlive.com^$third-party
 ||adintop.com^$third-party
+||adkontekst.pl^$third-party
 ||adleadevent.com^$third-party
 ||adleave.com^$third-party
 ||adlike.net^$third-party
@@ -871,6 +874,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||adschemist.com^$third-party
 ||adschoom.com^$third-party
 ||adscoo.com^$third-party
+||adsearch.pl^$third-party
 ||adserver.khingtracking.com^$third-party
 ||adserver.pdltracking.com^$third-party
 ||adserver.pm^$third-party
