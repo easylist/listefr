@@ -1053,8 +1053,10 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||coindushopping.fr^$third-party
 ||coloredview.com^$third-party
 ||comandclick.com^$third-party
+||como.com^$third-party
 ||comoclic.com^$third-party
 ||comoclic.net^$third-party
+||conduit.com^$third-party
 ||confectionner.xyz^$third-party
 ||congruityheterocephalus.info^$third-party
 ||connexionsafe.com^$third-party
@@ -2666,6 +2668,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||voiture-net.info/pub.
 ||voiture-net.info/pub1.
 ||voyage-langue.com/widget/
+||voyantissime.com^$popup,domain=ovnis-direct.com
 ||vp.videoplaza.tv/creatives/assets/$object-subrequest,third-party
 ||vplan.com^$popup,domain=fdesouche.com
 ||vpn-surf.com^$popup,domain=mega-vesti.info|smartorrent.com
@@ -3933,6 +3936,7 @@ toutcash.com/images/bandeau-
 ||ouifm.fr^*/images/partners/
 ||oujdacity.net/kelkoo*.html
 ||outils-web.com/frm_menu_
+||ovnis-direct.com/_media/img/medium/*banner-
 ||pafpaf.com/pubs/
 ||pafpaf.com/pubs/$popup
 ||parlonspiscine.com/pubs/
@@ -6992,6 +6996,7 @@ only-iphone.fr##a[href^="http://fr.copytrans.net/copytranscontacts.php?utm_sourc
 argentmania.com##a[href^="http://fr.scratchmania.com/?brandId="]
 brunotritsch.fr##a[href^="http://fr.webmaster-rank.info/stat/affiliate/"]
 abidjan.net,igen.fr,israelmagazine.co.il,journaldumusulman.fr,lnc.nc,macg.co,mega-vesti.info,smartorrent.com,watchgeneration.fr,wawacity.su##a[href^="http://goo.gl/"]
+ovnis-direct.com##a[href^="http://ligneker.com/"]
 moviz-telecharger.com##a[href^="http://moviz-telecharger.com/films-en-qualité-hd-"]
 opensubtitles.org##a[href^="http://osdb.link/go?"]
 mega-vesti.info,smartorrent.com##a[href^="http://ow.ly/"]
