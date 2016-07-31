@@ -224,6 +224,7 @@
 /affiliateplus/banner/*
 /affiliation-mb.
 /affiliation_simple/*
+/affilist-$third-party
 /affilitybanners.
 /affpx.php
 /affs?addonname=
@@ -253,6 +254,7 @@
 /banner728.
 /banner?sid=
 /banner_campaign_
+/banner_show.
 /bannerad2300.
 /bannerad300.
 /banners-ads/*
@@ -492,6 +494,7 @@
 /sdk-ads/*
 /servepop.php?wid=
 /shared/ad/*
+/show.php?*&ad=
 /show_adv.
 /show_next_ads.
 /showads?
@@ -949,6 +952,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||affiliaweb.fr^$third-party
 ||affilinks.fr^$third-party
 ||affilipub.com^$third-party
+||affilist-a-ban01.com^$third-party
 ||affility.com^$third-party
 ||affiliwix.com^$third-party
 ||afflight.biz^$third-party
@@ -1542,6 +1546,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||varsloqt.name^$third-party
 ||vartoken.com^$third-party
 ||venturead.com^$third-party
+||vertoz.com^$third-party
 ||vfjkd.ovh^$third-party
 ||vgsgaming.com^$third-party
 ||videonas.eu^$third-party
@@ -1593,6 +1598,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||xmediaserve.com^$third-party
 ||y-ads.net^$third-party
 ||yban.fr^$third-party
+||ylx-3.com^$third-party
 ||yospace.co.uk^$third-party
 ||yospace.com^$third-party
 ||yospace.net^$third-party
@@ -1884,6 +1890,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||tribalfusion.com^$popup,third-party
 ||trkfl.com^$popup,third-party
 ||urlcash.com^$popup,third-party
+||veteran-safe4u.com^$popup,third-party
 ||video1404.info^$popup,third-party
 ||videoroow.com^$popup,third-party
 ||vixnixxer.com^$popup,third-party
@@ -1917,9 +1924,10 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |http://$popup,~third-party,domain=flashx.tv
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
-|http://*=|$popup,third-party,domain=nowvideo.ag|nowvideo.co|nowvideo.li|nowvideo.sx|nowvideo.to
+|http://*=|$popup,third-party,domain=nowvideo.ag|nowvideo.co|nowvideo.li|nowvideo.sx|nowvideo.to|uploads.to
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
 |http://po.st^$popup,domain=almountakhab.com
+|https://*=|$popup,third-party,domain=nowvideo.ag|nowvideo.co|nowvideo.li|nowvideo.sx|nowvideo.to|uploads.to
 |ws://$other,domain=dpstream.net
 |wss:$other,domain=dpstream.net
 ||1001sondages.com/assets/images/250x250.jpg
@@ -2527,7 +2535,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||s-sfr.fr/stats/footer.js
 ||s.brsimg.com^*/cache/css/compress/$object
 ||s.click.aliexpress.com/e/qFAmuzNju$popup
-||s3.amazonaws.com^$domain=uptostream.com
+||s3.amazonaws.com^$domain=uploads.to|uptostream.com
 ||s3.amazonaws.com^*/publishers/$script
 ||salopes-du-jour.com/sexy.js
 ||seargg.xyz^$popup
