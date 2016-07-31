@@ -7290,6 +7290,7 @@ nrj.fr##.pubContainer
 begeek.fr###sidebar a[-abp-properties='background-image: *;']
 begeek.fr###single > [-abp-properties='cursor: pointer;']
 begeek.fr###single > [-abp-properties='height: *px; padding-top: *px;']
+24matins.fr###single > [id] > :first-child[-abp-properties='background-image:*;']
 begeek.fr###single > a[-abp-properties='*'] > img
 24matins.fr###single [-abp-properties='cursor: pointer;']
 24matins.fr##.ad-sidebar + div[-abp-properties='background-image:*;']
