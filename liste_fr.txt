@@ -708,9 +708,11 @@ _waframedia_*&random=
 /display/?method=pop&force=$popup
 /effi.click?$popup
 /fr/adcr/*$popup
+/gopartner.php?pid=$popup
 /iframePopUpLoader.$popup
 /lp_fkplay/*$popup
 /null/*/Redirect.$popup,third-party
+/offer?*&placement=$popup
 /out.php?link=t$popup
 /out?zoneId=$popup
 /partner/click/*$popup
@@ -739,6 +741,7 @@ _waframedia_*&random=
 =partenariat&utm_campaign=$popup
 =pubdirecte&$popup
 ?action=linkpub&$popup
+?ad_domain=$popup
 ?adCampaign=$popup
 ?adslotid=$popup
 ?id_rotation=$popup
@@ -1905,6 +1908,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||travelaudience.com^$popup,third-party
 ||tribalfusion.com^$popup,third-party
 ||trkfl.com^$popup,third-party
+||url.rw^$popup,third-party
 ||urlcash.com^$popup,third-party
 ||veteran-safe4u.com^$popup,third-party
 ||video1404.info^$popup,third-party
@@ -1936,6 +1940,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 &proxyurl=$domain=allmyvideos.net|amvtv.net|vidspot.net
 .ovh^$domain=huffingtonpost.fr|lemonde.fr|telerama.fr
 .xyz^$domain=filmvf.ws
+://*qertewrt.com^$popup
 |http://$popup,third-party,domain=ultimedia.com|up07.net|uploaded.net|uptobox.com|uptostream.com
 |http://$popup,~third-party,domain=flashx.tv
 |http://$subdocument,domain=a2r-media.com
@@ -2527,6 +2532,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||realnswag.fr^$popup,domain=rapghetto.com
 ||redirecting.ws/?$subdocument,third-party
 ||redirecting.ws^$subdocument
+||referer.us/?*&placement=$popup
 ||refgratuit.fr/images/pub/
 ||regie-agricole.com^*/pubs^$third-party
 ||regietrk.jetm-tech.net^
@@ -6443,7 +6449,7 @@ humanite.fr##.field-name-pub-sidebar-first-content
 lefigaro.fr##.fig-adgps
 lefigaro.fr##.fig-widget-satellite
 solvusoft.com##.fileviewpro
-fluket.com,libertyland.tv,moviz.net,sky-animes.com,streamgo.net,telechargementgratuits.com,vostfr-vf.com##.fixe
+fluket.com,libertyland.tv,sky-animes.com,streamgo.net,telechargementgratuits.com,vostfr-vf.com##.fixe
 fdesouche.com##.fixed
 francetransactions.com##.fondcliquable
 jeunesfooteux.com##.footer-actuly
@@ -7204,7 +7210,6 @@ coolkora.com##div[style="max-width: 302px;overflow:hidden;margin: 0 auto;"]
 nautiljon.com##div[style="min-height:90px;"]
 nautiljon.com##div[style="min-height:90px;margin-bottom:5px;"]
 lafermeduweb.net##div[style="overflow: hidden; width: 336px; height: 280px; margin: 0 auto;"]
-moviz.net##div[style="position: relative; display: block; margin-top: 0px; width: 100%; border-bottom: 1px solid rgb(0, 0, 0); height: auto; z-index: 100000; background: none repeat scroll 0% 0% rgb(255, 255, 225); line-height: 20px; font-family: Arial,Helvetica,sans-serif;"]
 egora.fr##div[style="position: relative; width: 1000px; height: 110px; z-index:10000;"]
 auto-utilitaire.com##div[style="position:relative;width:728px;height:90px;"]
 voyageforum.com##div[style="width: 300px; height: 250px;"]
