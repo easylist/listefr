@@ -634,6 +634,7 @@ _waframedia_*&random=
 /cdn-cgi/pe/bag2?*adstract.com
 /cdn-cgi/pe/bag2?*adverline.com
 /cdn-cgi/pe/bag2?*affiliation-france.com
+/cdn-cgi/pe/bag2?*ajgffcat.com
 /cdn-cgi/pe/bag2?*arabytracking.com
 /cdn-cgi/pe/bag2?*clksite.com
 /cdn-cgi/pe/bag2?*cpmstar.com
@@ -960,6 +961,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||afflight.biz^$third-party
 ||affpx.com^$third-party
 ||afilio.com.br^$third-party
+||ajgffcat.com^$third-party
 ||ajoutezvotresite.com^$third-party
 ||aknod.com^$third-party
 ||akuitsdre.in^$third-party
@@ -1693,6 +1695,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||affiliation-france.com^$popup,third-party
 ||affiliwix.com^$popup,third-party
 ||agkn.com^$popup,third-party
+||ajgffcat.com^$popup,third-party
 ||algocashmaster.net^$popup,third-party
 ||all2lnk.com^$popup,third-party
 ||ampxchange.com^$popup,third-party
@@ -7590,7 +7593,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||c.ad6media.fr/l.js$domain=eternitygames.org|fan-de-cinema.com|fit.sh|programmes-cinema.com
 @@||cpagrip.com/script_include.php?
 @@||d.adxcore.com/adjs_r.php?$script,domain=forum.virtualdjing.com
-@@||ddlfr.org/cdn-cgi/pe/bag2?*serve.popads.net%2FcheckInventory.php$xmlhttprequest,domain=ddlfr.org
 @@||doubleverify.com^$domain=kissanime.com
 @@||foglio.basilic.io/ad/basilic.adsense.js
 @@||folihentai.eu/*.js|$script,third-party
