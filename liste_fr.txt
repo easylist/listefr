@@ -6117,6 +6117,8 @@ nostrodomus.fr###sidebar-pub
 mobigeeks.fr###sidebar-shell-2
 nostrodomus.fr###sidebar-sup-promo
 lematin.ch###sidebarSky
+24matins.fr###single > [class] > :first-child:last-child
+24matins.fr###single > [id] > :first-child:last-child
 begeek.fr###single > div + a
 spi0n.com###single_sidebar
 jvn.com###skin
@@ -7313,6 +7315,7 @@ nrj.fr##.pubContainer
 begeek.fr###sidebar a[-abp-properties='background-image: *;']
 begeek.fr###single > [-abp-properties='cursor: pointer;']
 begeek.fr###single > [-abp-properties='height: *px; padding-top: *px;']
+24matins.fr###single > [class] > :first-child[-abp-properties='background-image:*;']
 24matins.fr###single > [id] > :first-child[-abp-properties='background-image:*;']
 begeek.fr###single > a[-abp-properties='*'] > img
 24matins.fr###single [-abp-properties='cursor: pointer;']
