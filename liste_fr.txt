@@ -838,6 +838,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||adfever.com^$third-party
 ||adhoc1.net^
 ||adhost.se^$third-party
+||adhslx.com^$third-party
 ||adinlive.com^$third-party
 ||adintop.com^$third-party
 ||adkontekst.pl^$third-party
@@ -3955,6 +3956,7 @@ toutcash.com/images/bandeau-
 ||pafpaf.com/pubs/
 ||pafpaf.com/pubs/$popup
 ||pagesjaunes.fr/js/pj_ad.js
+||pagesjaunes.fr/pub#
 ||parlonspiscine.com/pubs/
 ||particuliers.secure.lcl.fr/SCUW/publication/pages/pj/286x55-vel-auto.png
 ||partoch.com/redir/$popup
@@ -6677,7 +6679,7 @@ francebleu.fr##.pub-sidebar
 1point2vue.com##.pub-sidebar1
 1point2vue.com##.pub-sidebar2
 1point2vue.com##.pub-single-top
-01net.com,bfmtv.com##.pub-title
+01net.com,bfmtv.com,pagesjaunes.fr##.pub-title
 horoscope.fr##.pub-transfo
 lefigaro.fr##.pub-zoom
 rueducommerce.fr##.pub1
