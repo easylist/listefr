@@ -2951,6 +2951,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 !
 !----------------------- Sites spécifiques -----------------------!
 !
+egora.fr/sites/all/themes/*/pub.png
 toutcash.com/images/bandeau-
 ||0zz0.com/e/$image
 ||100pour100sexe.com/pop.
@@ -3303,9 +3304,7 @@ toutcash.com/images/bandeau-
 ||educastream.com/IMG/Image/*-cligno.gif
 ||educastream.com/upload/popin/
 ||eftharbia.com/img/atlas_bann.jpg
-||egora.fr/sites/default/files/box-enq-acne.jpg
-||egora.fr/sites/default/files/carre-dpc.gif
-||egora.fr^*/files/pub/
+||egora.fr^*/pub/
 ||eklablog.net/js/addons/iQweez.js?
 ||elahmad.com/ads/
 ||elahmad.com/js/extreme.js
@@ -6916,6 +6915,7 @@ smartorrent.com##[href^="http://smartorrent.com/telecharger-torrent/"]
 turbo.fr##[id^="ABbypass"]
 aujourdhui-en-france.fr,leparisien.fr##[id^="Ads_"]
 footnamurois.com##[id^="banners-"]
+egora.fr##[id^="block-gmsante_pub-"]
 agate-france.com##[id^="pbad_"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 megatorrent.biz##[onclick="getVpn();"]
@@ -7210,7 +7210,6 @@ coolkora.com##div[style="max-width: 302px;overflow:hidden;margin: 0 auto;"]
 nautiljon.com##div[style="min-height:90px;"]
 nautiljon.com##div[style="min-height:90px;margin-bottom:5px;"]
 lafermeduweb.net##div[style="overflow: hidden; width: 336px; height: 280px; margin: 0 auto;"]
-egora.fr##div[style="position: relative; width: 1000px; height: 110px; z-index:10000;"]
 auto-utilitaire.com##div[style="position:relative;width:728px;height:90px;"]
 voyageforum.com##div[style="width: 300px; height: 250px;"]
 groupon.fr##div[style="width: 445px; margin: 8px auto; text-align: center; background-color: #fff; border: 1px solid #e4e4e4;"]
