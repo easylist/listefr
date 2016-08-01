@@ -1759,6 +1759,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||cptefr.com^$popup,third-party
 ||danstonfion.com^$popup,third-party
 ||dealdunjour.com^$popup,third-party
+||deliverydom.com^$popup,third-party
 ||delnapb.com^$popup,third-party
 ||derby-digital.com^$popup,third-party
 ||direction-x.com^$popup,third-party
@@ -1868,6 +1869,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||retargetads.net^$popup,third-party
 ||rev2pub.com^$popup,third-party
 ||revsharecash.com^$popup,third-party
+||rtbanalytics.com^$popup,third-party
 ||rvfrm2005.com^$popup,third-party
 ||safelinktracker.com^$popup,third-party
 ||secure.securitetotale.com^$popup,third-party
@@ -7320,6 +7322,17 @@ omgtorrent.me##ul > li[style*="padding:"]
 ! Éléments pour generichide
 nrj.fr##.aside-pub-300
 nrj.fr##.pubContainer
+! goyavelab
+gum-gum-streaming.com##br + a:last-child
+gum-gum-streaming.com##div > br + center
+gum-gum-streaming.com##div > p + span
+gum-gum-streaming.com##div[id^="adblock"]
+gum-gum-streaming.com##script + div > a
+gum-gum-streaming.com##script + div > a + div
+gum-gum-streaming.com##script + div > div:first-child
+gum-gum-streaming.com##script + div > p
+gum-gum-streaming.com##script + div > span
+gum-gum-streaming.com##style + a
 ! Filtres de propriété CSS pour Adblock Plus
 begeek.fr###sidebar a[-abp-properties='background-image: *;']
 begeek.fr###single > [-abp-properties='cursor: pointer;']
