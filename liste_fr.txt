@@ -755,7 +755,6 @@ _waframedia_*&random=
 ?MediaSegmentId=$popup
 ?preview=*&pgid*&from_sz=$popup
 ?runauction=*?crr=*&ctbust=$popup
-?voluumdata=$popup
 _adb_300x250_$popup
 _adb_728x90_$popup
 _domain=ads.$popup
@@ -5540,7 +5539,6 @@ toutcash.com/images/bandeau-
 ##[id^="pub_dart_"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
 ##a[href*=".php?ads_id="]
-##a[href*=".voluumtrk.com/"]
 ##a[href*="/?a_aid="]
 ##a[href*="/ads.php?ref="]
 ##a[href*="/ads/ad_link."]
