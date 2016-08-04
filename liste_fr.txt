@@ -1951,7 +1951,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 .ovh^$domain=huffingtonpost.fr|lemonde.fr|telerama.fr
 .xyz^$domain=filmvf.ws
 ://*qertewrt.com^$popup
-|http://$popup,third-party,domain=ultimedia.com|up07.net|uploaded.net|uptobox.com|uptostream.com
+|http://$popup,third-party,domain=getmytorrent.com|ultimedia.com|up07.net|uploaded.net|uptobox.com|uptostream.com
 |http://$popup,~third-party,domain=flashx.tv
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
@@ -2033,7 +2033,6 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||amazon.fr^$popup,domain=fdesouche.com
 ||ambed.io^*/img/partners/
 ||amisexe.fr/design/default/rencontre/$third-party
-||androidbackuponline.com^$popup,domain=getmytorrent.com
 ||animes-streaming.net/pubs/
 ||animetrailer.click^$subdocument
 ||annuaire-energie-renouvelable.org/cssimg/site/$third-party
