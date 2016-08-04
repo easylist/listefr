@@ -321,6 +321,7 @@
 /emplacement-pub/*$subdocument
 /epomads2.
 /EpubDelivery/*
+/exads-adblock-
 /fakevideo/rotate.
 /fastclick300.
 /fastclick468.
@@ -7662,8 +7663,11 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 !
 &adbIsActive=
 &adbIsActive=$popup
+.adblocker.adblocker/
 /ad-blocking-advisor/*
 /ad-blocking-detector/*
+/adblockbait.js
+/adblockchecker.js
 /ads_enabled_
 /blockadblock.js
 /fadb.min.js?
