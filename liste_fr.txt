@@ -210,6 +210,7 @@
 /adsmouse.
 /adsrvmedia/*
 /adsw1.
+/adv/banners/*
 /adv/pads.
 /Adv728.
 /adv_banner.
@@ -309,6 +310,7 @@
 /delivery/rta/*
 /delivery?*&ad=
 /df/250x250.
+/dfp-adblock-
 /dfp/dfp.
 /display.php?ec=
 /display/?affid=
@@ -1493,6 +1495,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||slutroulette.com^$third-party
 ||smart-dn.com^$third-party
 ||smartstream.tv^$third-party
+||smartxads^$third-party
 ||snake-leads.com^$third-party
 ||spaceshipads.com^$third-party
 ||spb2011.com^$third-party
@@ -7677,7 +7680,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 !
 @@.gif#$image,domain=sos-lettre.fr|youwatch-series.com
 @@.jpg#$image,domain=dpstream.cc|naruto-mx.net|telecharger-jeuxpc.com
-@@.png#$image,domain=bbstreaming.com|cacastream.com|crash-aerien.aero|ddstream.com|dpstream.cc|dpstream.tv|leetgamerz.net|protect-stream.com|rapidebrideur.com|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net|youwatch-series.com
+@@.png#$image,domain=bbstreaming.com|cacastream.com|crash-aerien.aero|ddstream.com|dpstream.cc|dpstream.tv|leetgamerz.net|protect-stream.com|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net|youwatch-series.com
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
@@ -7712,8 +7715,8 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 @@||nextinpact.com/ad*.js|$~third-party,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net|leveldown.fr
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=crash-aerien.news|cuisineactuelle.fr|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr|voyageforum.com|www.catnat.net
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bricozone.fr|crash-aerien.news|cuisineactuelle.fr|leetgamerz.net|quebeccoupongratuit.com|slideplayer.fr|telephoneannuaire.fr|voyageforum.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=crash-aerien.news|cuisineactuelle.fr|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|softmaroc.org|sos-lettre.fr|telephoneannuaire.fr|voyageforum.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bricozone.fr|crash-aerien.news|cuisineactuelle.fr|leetgamerz.net|quebeccoupongratuit.com|slideplayer.fr|softmaroc.org|telephoneannuaire.fr|voyageforum.com|www.catnat.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=qcm-concours.blogspot.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pub-config/ca-pub-*.js$domain=bricozone.fr
@@ -7777,6 +7780,7 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 @@||protect-stream.com^$generichide
 @@||rapidebrideur.com^$elemhide
 @@||seriehentai.com^$elemhide
+@@||softmaroc.org^$generichide
 @@||sos-lettre.fr^$generichide
 @@||telecharger-jeuxpc.com^$generichide
 @@||total-sport.tv^$elemhide
