@@ -6813,6 +6813,8 @@ jeux-e.com##.rek_ban
 frandroid.com##.relatedviatopic
 dhnet.be,lalibre.be##.relookingHtml
 omgtorrent.me##.rencontres
+qwant.com##.result--shopping
+qwant.com##.result--web:first-child
 kelkoo.fr##.results-lrec
 goldenboys.fr##.right-minipub
 mappy.com##.rightHabillage
@@ -6960,6 +6962,7 @@ tomsguide.fr##.zoneTriple
 tsa-algerie.com##.zone_annonceurs
 lepetiteconomiste.com##.zoom
 lefigaro.fr##.zoom-widget-react
+qwant.com##:first-child + .result--web
 24matins.fr##ARTICLE [class*="j"]
 24matins.fr##ARTICLE [class*="x"]
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
