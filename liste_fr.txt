@@ -2940,12 +2940,6 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |https://$script,third-party,xmlhttprequest,domain=senscritique.com
 ||facebook.com/plugins/video.php?$domain=senscritique.com
 ||senscritique.com^$popup,~third-party
-! heures.be (zalando)
-@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=heures.be
-@@||maps.google.com^$script,domain=heures.be
-@@||maps.googleapis.com/maps/api/js/$script,domain=heures.be
-|http://$script,third-party,domain=heures.be
-|https://$script,third-party,domain=heures.be
 ! imgur.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
@@ -3506,8 +3500,6 @@ toutcash.com/images/bandeau-
 ||herault-tribune.com^*/flash_pub_
 ||herault-tribune.com^*/rep_pub/
 ||heures.be/includes/js/check
-||heures.be^*/prom
-||heures.be^*/zala
 ||hibamusic.com/pub/
 ||histoires-de-sexe.net/graf/
 ||histoires-de-sexe.net/histoires-sexe-videos.php$popup
@@ -5832,8 +5824,6 @@ forumfr.com###firstpost_ad
 liberte-algerie.com###flash[style="width:980px; margin:auto; position:relative;"]
 sport-team.org###floatLayer
 streaming-foot.me###floatLayer1
-heures.be###floatingCntr
-heures.be###floatingContr
 cinemavf.net,vfstreaminggratuit.com###floatlayer2
 algeriepatriotique.com###flottante_droite
 algeriepatriotique.com###flottante_gauche
@@ -7151,7 +7141,6 @@ gizmodo.fr##a[href^="http://www.ebuyclub.com/operations/gizmodo/entreeGizmodo.js
 forumconstruire.com##a[href^="http://www.forumconstruire.com/torm3/click.php?"]
 forumpiscine.com##a[href^="http://www.forumpiscine.com/torm3/click.php?"]
 guide-piscine.fr##a[href^="http://www.guide-piscine.fr/scripts/gp_div_clic.php?"]
-heures.be##a[href^="http://www.heures.be/voir/"]
 9rayti.com##a[href^="http://www.ilycee.com/?utm_source="]
 kaamelott-streaming.tv##a[href^="http://www.kaamelott-streaming.tv/partenaire/"]
 cowcotland.com##a[href^="http://www.ldlc.com#aff"] > img
