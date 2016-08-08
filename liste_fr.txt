@@ -338,6 +338,7 @@
 /footerPartnerOffers.js
 /fr-ads.
 /fra/ads/*
+/frame_popup.
 /gestionpub/*
 /get.cgi?*=banner
 /get_banniere.php?$subdocument
@@ -1868,6 +1869,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||possini.eu^$popup,third-party
 ||pourmajeurs.com^$popup,third-party
 ||predictivadvertising.com^$popup,third-party
+||prjcq.com^$popup,third-party
 ||promo.voyance-web.fr^$popup,third-party
 ||promotions.djummer.com^$popup,third-party
 ||pt21na.com^$popup,third-party
@@ -1918,6 +1920,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||thisclick.network^$popup,third-party
 ||todigroup.com^$popup,third-party
 ||tonlive.com^$popup,third-party
+||top2016games.com^$popup,third-party
 ||torriderencontre.com^$popup,third-party
 ||track2cash.com^$popup,third-party
 ||tracker.zombaio.com^$popup,third-party
@@ -5571,6 +5574,7 @@ toutcash.com/images/bandeau-
 ##a[href*="/regiehab.php?"]
 ##a[href*="/telechargement-rapide.php?"]
 ##a[href*="/tracking_campaign.php?"]
+##a[href*="://adsrvmedia."]
 ##a[href*="?ad_id="]
 ##a[href*="ads_random"]
 ##a[href*="fastclick.net/ad/"]
@@ -7689,6 +7693,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 !
 &adbIsActive=
 &adbIsActive=$popup
+-adblock-bait.js
 .adblocker.adblocker/
 /ad-blocking-advisor/*
 /ad-blocking-detector/*
