@@ -6297,6 +6297,7 @@ lemonde.fr##.annonces_monster
 neowebcar.com##.argus-logo
 sortiesdvd.com##.art-Post[style="float: left"]
 sortiesdvd.com##.art-Post[style="float: right"]
+igen.fr##.article > [class] > [id] img:last-child
 macg.co##.article > div > a
 macg.co##.article [class*="C"]
 macg.co##.article [class*="F"]
@@ -6323,6 +6324,7 @@ igen.fr##.article [id*="W"]
 igen.fr##.article [id*="X"]
 igen.fr##.article [id*="Y"]
 igen.fr##.article [id*="Z"]
+igen.fr##.article [id] > img
 igen.fr,macg.co##.article a > img
 igen.fr##.article a[class]
 elhayatonline.net##.article-body + div[style*="width: 336px;"]
@@ -6851,6 +6853,7 @@ igen.fr##.sidebar [id*="W"]
 igen.fr##.sidebar [id*="X"]
 igen.fr##.sidebar [id*="Y"]
 igen.fr##.sidebar [id*="Z"]
+igen.fr##.sidebar div img
 foot01.com##.sidebar img:first-child
 clicbienetre.com##.sidebar_block
 desmatures.com##.sidebarpub350250
@@ -7432,7 +7435,7 @@ senscritique.com##[-abp-properties='background-position: *;']
 senscritique.com##[-abp-properties='background: rgba(*);']
 medisite.fr,senscritique.com##[-abp-properties='cursor: pointer;']
 senscritique.com##[-abp-properties='display: *;']
-macg.co##[-abp-properties='display: inherit;']
+igen.fr,macg.co##[-abp-properties='display: inherit;']
 24matins.fr##[-abp-properties='display:flex;']
 24matins.fr##[-abp-properties='display:none;']
 senscritique.com##[-abp-properties='height: 2*px;']
