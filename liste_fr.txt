@@ -2571,7 +2571,6 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||s3.amazonaws.com^*/publishers/$script
 ||salopes-du-jour.com/sexy.js
 ||seargg.xyz^$popup
-||serie-stream.org^$popup,domain=full-stream.cc
 ||service-factures.fr/bannieres/
 ||sex-is-free.net/pub/
 ||sexe-au-bois.com/ban/$third-party
@@ -5626,8 +5625,6 @@ africanmanager.com###Layer1
 portail.free.fr###LiensPartenaires
 zonebourse.com###Middle2_id
 full-stream.nu,full-stream.org###NewsUpdate
-film-streamiz.net,filmstreamvf.co###PapaGooGorHDVid
-film-streamiz.net,filmstreamvf.co###PapaGooGorHDVidx
 installations-home-cinema.eu###Partenaire
 mypornmotion.com###Pub
 bfmtv.com###Tpromo
@@ -5647,7 +5644,7 @@ courrierlaval.com,letraitdunion.com###add_top
 mistergoodmovies.net###addspace
 telechargerunevideo.com###adlbl
 clicanoo.re###adress_utiles
-ecogine.org,full-serie.com,full-stream.cc,full-stream.me,full-stream.net,full-stream.nu,full-stream.org,hstv.over-blog.com,narkive.com,telechargementgratuits.com,zone-films.net###ads
+ecogine.org,film-streamiz.net,filmstreamvf.co,full-serie.com,full-stream.cc,full-stream.is,full-stream.me,full-stream.net,full-stream.nu,full-stream.org,hstv.over-blog.com,libre-stream.com,narkive.com,telechargementgratuits.com,zone-films.net###ads
 ustart.org###ads_tall
 algerie360.com###adssouspost
 wawacity.su###adultMenuItem
@@ -6244,7 +6241,6 @@ contournerhadopi.com##.Leaderboard
 mypornmotion.com##.LinePromo
 bienpublic.com,lalsace.fr##.OffreHabitat
 aufeminin.com##.OffresSpe_cadre
-full-stream.cc,full-stream.nu,serie-stream.org##.PapaGooGorHD
 afrokanlife.com##.PubAdAI
 driverscloud.com##.accueil_pubotherlan
 lagazettedescommunes.com##.actus-case-pub
@@ -6982,6 +6978,7 @@ amazon.fr##[class*="-sponsored-"]
 24matins.fr##[class*="W"]
 24matins.fr##[class*="X"]
 medisite.fr##[class] > img
+film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.nu,libre-stream.com##[class^="PapaGoo"]
 footnamurois.com##[class^="banners-"]
 forumconstruire.com##[class^="habillage"]
 nrj.fr##[class^="modal"]
@@ -6994,6 +6991,7 @@ meilleur-vpn.biz##[href^="http://meilleur-vpn.biz/visit/"]
 smartorrent.com##[href^="http://smartorrent.com/telecharger-torrent/"]
 turbo.fr##[id^="ABbypass"]
 aujourdhui-en-france.fr,leparisien.fr##[id^="Ads_"]
+film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.nu,libre-stream.com##[id^="PapaGoo"]
 24matins.fr##[id^="S"]
 24matins.fr##[id^="U"]
 footnamurois.com##[id^="banners-"]
