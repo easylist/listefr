@@ -1677,6 +1677,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||8mm.shiksha^$popup,third-party
 ||91.210.165.104^$popup,third-party
 ||a2r-media.com^$popup,third-party
+||a4trk.com^$popup,third-party
 ||absoluteviews.com^$popup,third-party
 ||achat-visiteurs.com^$popup,third-party
 ||ad-center.com^$popup,third-party
@@ -2558,6 +2559,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||regie-agricole.com^*/pubs^$third-party
 ||regietrk.jetm-tech.net^
 ||register.ma-box-media.fr/?lang=$popup,third-party
+||rencontre-ephemere.fr^$popup
 ||rencontreshard.com^$subdocument
 ||rencontresparis2015.com^$popup
 ||rendez-vous.be/scripts/Clients/
@@ -4008,6 +4010,9 @@ toutcash.com/images/bandeau-
 ||pixiz.com/img/pub_
 ||pizzahut.fr/img/habillage_site.jpg
 ||plageporno.com/pex/exitp.js
+||plancul-gratuit.fr^$popup,~third-party
+||plancul-gratuit.fr^*/disclamer.js
+||plancul-gratuit.fr^*/popupPerso/
 ||plancul.*/?id=$popup
 ||planet-casio.com/*/Images/Banniere.png
 ||planet-casio.com/images/partenaires/
@@ -6191,6 +6196,7 @@ google.fr###tadsb
 nautiljon.com###tdpromo
 psthc.fr###thc_amz_content
 phpsources.org###titre_librairie
+plancul-gratuit.fr###toast-container
 top-serie.org###top
 viewsurf.com###top-ban
 liligo.fr###top-banner-smart
