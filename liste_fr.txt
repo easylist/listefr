@@ -6832,7 +6832,9 @@ jeux-e.com##.rek_ban
 frandroid.com##.relatedviatopic
 dhnet.be,lalibre.be##.relookingHtml
 omgtorrent.me##.rencontres
-qwant.com##.result--shopping
+qwant.com##.result--ext
+qwant.com##.result_extensions__underline
+qwant.com##.results-column--shopping-ribbon
 kelkoo.fr##.results-lrec
 goldenboys.fr##.right-minipub
 mappy.com##.rightHabillage
@@ -7043,7 +7045,6 @@ meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[h
 omgtorrent.me##a[href*="+"]
 omgtorrent.me##a[href*="-torrent/"]
 jeddl.net,omgtorrent.me##a[href*=".php?"]
-qwant.com##a[href*=".r.msn.com/?ld="]
 paruvendu.fr##a[href*=".xiti.com/go.click?"]
 artdeseduire.com##a[href*="/?part=ads"]
 webactus.net##a[href*="/?utm_source="]
