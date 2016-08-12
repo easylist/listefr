@@ -316,6 +316,8 @@
 /df/250x250.
 /dfp-adblock-
 /dfp/dfp.
+/dhtml/notification/*
+/dhtml/popup/*
 /display.php?ec=
 /display/?affid=
 /display/?method=$subdocument
@@ -1692,6 +1694,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||adbucks.com^$popup,third-party
 ||adexchangeprediction.com^$popup,third-party
 ||adexint.com^$popup,third-party
+||adextrem.com^$popup,third-party
 ||adfection.net^$popup,third-party
 ||adfornet.com^$popup,third-party
 ||adhoc1.net^$popup,third-party
@@ -4404,6 +4407,7 @@ toutcash.com/images/bandeau-
 ||virtualdjing.com/include/js/refresh_pub.js?
 ||virusphoto.com/bannieres/
 ||visiban.com/b.php?
+||visio-x.fr/disc.php
 ||visio-x.fr/js/x1.js
 ||visual-pagerank.fr/pub/
 ||vitaminedz.com/images/general/pub-vitaminedz
@@ -5590,6 +5594,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://ad-online.biz/"]
 ##a[href^="http://adprovider."]
 ##a[href^="http://ads.affiliation-france.com/"]
+##a[href^="http://ads.reflexcash.com/"]
 ##a[href^="http://adv-mybankai.ggcorp.me/"]
 ##a[href^="http://always-parser.xyz/"]
 ##a[href^="http://centredecontrole.biz/ads/"]
