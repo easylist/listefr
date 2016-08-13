@@ -140,6 +140,7 @@
 /ad-360-280-player.
 /ad-lib/*
 /ad-netc-
+/ad.ashx/*
 /ad.bon-plan-
 /ad/*_300250_
 /ad/banners_
@@ -194,6 +195,7 @@
 /ads/banner03.
 /ads/bigbox?
 /ads/extra.
+/ads700.
 /ads?key=
 /ads?p=
 /ads?req_id=
@@ -201,6 +203,7 @@
 /ads_250_
 /ads_90_728.
 /ads_block
+/ads_hao123.
 /ads_video.
 /adsatlas_
 /adscores/*
@@ -217,6 +220,7 @@
 /Adv728.
 /adv_banner.
 /adv_forum-
+/adver_imgs/*
 /advertisement?
 /AdvertisingBanners/*
 /advertisingView?
@@ -268,6 +272,7 @@
 /banners-ads/*
 /banners-pub/*
 /banners/show_flash.js
+/banners?tid=
 /banniere.php?id=
 /banniere/proxy.php?
 /banniere/proxy2.php?
@@ -303,6 +308,8 @@
 /cmpn_async.js?
 /code-float-ad.
 /col_droite_googleads2
+/Criteo.ADBLOK.
+/Criteo.Left.
 /cshoppingbox.
 /default_ad/*
 /default_ads_
@@ -361,6 +368,7 @@
 /img-bandeau-pub/*
 /img/_ad/*
 /img/bnr728.
+/in-ad_desktop/*
 /index.php/tag/iframe/*
 /infopop/*.php?$script
 /InjectPopunderAd.
@@ -368,6 +376,7 @@
 /inside_ad.
 /jp_display.
 /js.adv.$script
+/js/468.
 /js/infopop_$script
 /js/pub.js
 /last_ads.
@@ -561,6 +570,7 @@
 /xbanniere-pub-
 /XnewadsX/*
 /xpopunder.js
+/xpopunder/*
 /zoneads/*
 /zones?zone=$subdocument
 /~cdn/Ads/*
@@ -647,7 +657,7 @@ _regie/aff.
 _regiepub/
 _smads_
 _Social-Advert-
-_waframedia_*&random=
+_waframedia_
 ||com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com|~visuels.l214.com
 !
 ! CDN filters
@@ -675,6 +685,7 @@ _waframedia_*&random=
 /cdn-cgi/pe/bag2?*pubdirecte.com
 /cdn-cgi/pe/bag2?*tradeadexchange.com
 /cdn-cgi/pe/bag2?*tribalfusion.com
+/cdn-cgi/pe/bag2?*xpopunder.js
 !
 !------------------------ Génériques popup -----------------------!
 !
@@ -1603,6 +1614,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||waframedia1.com^$third-party
 ||waframedia2.com^$third-party
 ||waframedia4.com^$third-party
+||waframedia9.com^$third-party
 ||wbsadsdel2.com^$third-party
 ||wbusiness.fr^$third-party
 ||webauditoire.com^$third-party
@@ -4646,6 +4658,7 @@ toutcash.com/images/bandeau-
 ###adsense_haut
 ###adsground
 ###adspave
+###adswap
 ###advBarMars
 ###adv_big_blocked
 ###advert-title
@@ -4815,6 +4828,7 @@ toutcash.com/images/bandeau-
 ###news-droite-publicite
 ###news_pub_centre
 ###nuggadcontentadIF
+###om_ads-7
 ###pavePub
 ###pave_pub
 ###pavepub
@@ -5291,6 +5305,7 @@ toutcash.com/images/bandeau-
 ##.leaderboard728
 ##.leftSideAds
 ##.leftmenupub
+##.lftBigAds
 ##.lien_sponso
 ##.link-background-advert
 ##.list-ads-282
@@ -5310,8 +5325,11 @@ toutcash.com/images/bandeau-
 ##.moduleAds728
 ##.mueveads
 ##.nativeads
+##.newads
 ##.nipnadszone
 ##.node-publicite
+##.nosub-side-ad
+##.nosub-side-ad-pos
 ##.oas-ad-160-600
 ##.oas-ad-728-90
 ##.oas-ads-box
@@ -5328,6 +5346,7 @@ toutcash.com/images/bandeau-
 ##.pave_pub2
 ##.pjsleads
 ##.po_wads
+##.popupads
 ##.position_pub
 ##.ppub300
 ##.pstAdLegend
@@ -5513,6 +5532,7 @@ toutcash.com/images/bandeau-
 ##.reklamlink
 ##.right_advertissment
 ##.rigthpubvideo
+##.ritBigAds
 ##.row_pub
 ##.search_publicity_box
 ##.search_square_publicity
@@ -5526,6 +5546,7 @@ toutcash.com/images/bandeau-
 ##.single-top-ads
 ##.single-top-ads-bloc
 ##.skin_outer_ad
+##.smiliar_ads
 ##.snippet-publisher
 ##.soar-media-global
 ##.span_pub_normal
@@ -5566,6 +5587,8 @@ toutcash.com/images/bandeau-
 ##.widget-le_guide
 ##.widget-paruvendu
 ##.widget-pub
+##.widget_advncdads
+##.widget_om_ads
 ##.widget_publicite
 ##.widgetpub
 ##.wpproaddlink
@@ -5582,6 +5605,7 @@ toutcash.com/images/bandeau-
 ##a[href*="%2Fapi%2Fmpup%2F"]
 ##a[href*=".php?ads_id="]
 ##a[href*=".voluumtrk.com/"]
+##a[href*="//go.ad2up.com/"]
 ##a[href*="/?a_aid="]
 ##a[href*="/ads.php?ref="]
 ##a[href*="/ads/ad_link."]
@@ -7720,6 +7744,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /blockadblock.js
 /fadb.min.js?
 /modules/mod_jpayday/*
+_adblockdetector/
 !
 ||photo.programme-tv.net/js/main-
 !
