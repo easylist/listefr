@@ -2718,10 +2718,9 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||trackuity.*/*/ticker/
 ||travelagency.travel/img/Partners/*/logo-
 ||trc.emv2.com^
-||tripadvisor.com/*/partner/$third-party
-||tripadvisor.com/WidgetEmbed-$domain=aujourdhui-en-france.fr|leparisien.fr
-||tripadvisor.fr/PricefinderPopunder$popup
-||tripadvisor.ru/WidgetEmbed-tcphoto?$domain=larussiedaujourdhui.fr
+||tripadvisor.*/partner/$third-party
+||tripadvisor.*/PriceFinderPopunder$popup
+||tripadvisor.*/WidgetEmbed-$third-party
 ||trouart.fr/labo/
 ||tuto.com/banner/common/$third-party
 ||tutti.ch/*_banner_$third-party
@@ -6549,7 +6548,6 @@ futura-sciences.com##.col-droite-pub-milieu
 mediadico.com##.cold-bloc-video-generique
 seasons.fr##.colsEditoMainMS
 allocine.fr##.coltop
-tripadvisor.fr##.commerce
 tirage-gagnant.com##.compteBar
 pagesjaunes.fr##.containerPdsSitesPartenaires
 strastv.com##.container_pubh_02
