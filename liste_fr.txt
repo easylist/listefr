@@ -2013,7 +2013,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 |http://po.st^$popup,domain=almountakhab.com
 |https://*=|$popup,third-party,domain=nowvideo.ag|nowvideo.co|nowvideo.li|nowvideo.sx|nowvideo.to|uploads.to
 |ws://$other,domain=dpstream.net
-|wss:$other,domain=dpstream.net
+|wss://$other,domain=dpstream.net
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
 ||11footballclub.com^*/indexcolonne.php?
@@ -5689,6 +5689,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://www.gaddin.com/index.php?sponsor"] > img
 ##a[href^="http://www.leguide.com/lettre/"]
 ##a[href^="http://www.marketdot.net/"]
+##a[href^="http://www.questiondivine.com/?ctid="]
 ##a[href^="http://www.xmediaserve.com/"]
 ##a[href^="http://www.yourfilezone.com/"]
 ##a[href^="http://yotefiles.com/"]
