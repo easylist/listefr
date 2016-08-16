@@ -7352,6 +7352,7 @@ senscritique.com##body > div > div[class]:first-child > [class*="0"]
 senscritique.com##body > noscript + script + div > [class]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
+igen.fr##br + div + div + div
 senscritique.com##div + script + div[style="display: block;width: 100%;"]
 forumpiscine.com##div#\31
 forumconstruire.com##div#\32
@@ -7557,6 +7558,7 @@ senscritique.com##.ecbi-billboard-slide > [-abp-properties='position: absolute;'
 igen.fr##.region-sidebar a[-abp-properties='*']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 igen.fr##.view-content [-abp-properties='background-image:*;']
+igen.fr##[-abp-properties='*: 300px;']
 medisite.fr##[-abp-properties='background-image: *;']
 senscritique.com##[-abp-properties='background-position: *;']
 senscritique.com##[-abp-properties='background: rgba(*);']
