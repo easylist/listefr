@@ -195,6 +195,7 @@
 /ads/banner03.
 /ads/bigbox?
 /ads/extra.
+/ads/mgid_
 /ads700.
 /ads?key=
 /ads?p=
@@ -1677,6 +1678,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||yospace.com^$third-party
 ||yospace.net^$third-party
 ||you-hentai.com^$third-party
+||yuhuads.com^$third-party
 ||yx-ads*.com^$third-party
 ||z-barre.com^$third-party
 ||z-cache.com^$third-party
@@ -4606,6 +4608,7 @@ toutcash.com/images/bandeau-
 ||d1vguuq5efvsfq.cloudfront.net^
 ||d29lpg037v41oq.cloudfront.net^
 ||d2gt9oovykfp1z.cloudfront.net^
+||d2kbaqwa2nt57l.cloudfront.net^
 ||d2mrcwg3epew1i.cloudfront.net^
 ||d2nje72ms8ylvb.cloudfront.net^
 ||d2ov8u95yeeh5v.cloudfront.net^
