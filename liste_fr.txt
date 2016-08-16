@@ -30,6 +30,7 @@
 &placement=*&ad=
 &playadw=
 &pop_under=
+&popundersPerIP=
 &promo=*_mpu_
 &subpartenaire=
 &videoAdHtmlId=
@@ -1904,6 +1905,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||npmpecd.com^$popup,third-party
 ||oclasrv.com^$popup,third-party
 ||offpageads.com^$popup,third-party
+||ohmwrite.com^$popup,third-party
 ||ohmyad.co^$popup,third-party
 ||olmeramarketing.com^$popup,third-party
 ||onclasrv.com^$popup,third-party
@@ -5629,6 +5631,7 @@ toutcash.com/images/bandeau-
 ##.texte_ads_plug
 ##.texte_pub
 ##.titrePub
+##.toast-ad
 ##.top-publicite
 ##.topPub
 ##.top_pub_google
