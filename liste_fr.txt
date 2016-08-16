@@ -249,6 +249,7 @@
 /article/ads/*
 /async?*&tid=
 /b728x90a.
+/backend_loader.js|$script,~third-party
 /ban/*/300x250
 /ban160.js
 /ban300.js
@@ -4096,6 +4097,7 @@ toutcash.com/images/bandeau-
 ||porno-gratuit.ws/trade/$popup
 ||porno-gratuit.ws/videos-gratuites.$popup
 ||porno.qtube.com^
+||pornz.fr^*/disclaimer.js
 ||porsche-99x.info/pagedirect/*/pub/
 ||portail.free.fr/_/img/1000xx90-
 ||portaildusexe.com/ban/
