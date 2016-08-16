@@ -307,7 +307,6 @@
 /click_lx.ads/*
 /click_update.php?id_pub=
 /clients-ads.
-/close.htm?tid=$popup
 /cmpn_async.js?
 /code-float-ad.
 /col_droite_googleads2
@@ -684,6 +683,7 @@ _waframedia_
 /cdn-cgi/pe/bag2?*hilltopads.net
 /cdn-cgi/pe/bag2?*komoona.com
 /cdn-cgi/pe/bag2?*mobisla.com
+/cdn-cgi/pe/bag2?*nefxtwxk.com
 /cdn-cgi/pe/bag2?*oclasrv.com
 /cdn-cgi/pe/bag2?*omnitagjs.com
 /cdn-cgi/pe/bag2?*padsdel.com
@@ -746,6 +746,7 @@ _waframedia_
 /click?*=ad&$popup
 /click?adv=^$popup
 /click_lx.ads/*$popup
+/close.htm?tid=$popup
 /default_ad/*$popup
 /delivery/ck.php?$popup
 /display.*&ban=$popup
@@ -793,6 +794,7 @@ _waframedia_
 ?preview=*&pgid*&from_sz=$popup
 ?runauction=*?crr=*&ctbust=$popup
 ?voluumdata=$popup
+?zoneid=$popup,domain=ddlfr.org
 _adb_300x250_$popup
 _adb_728x90_$popup
 _domain=ads.$popup
@@ -1367,6 +1369,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||natoms.com^$third-party
 ||neckermann.be^$third-party
 ||nefroto.net^$third-party
+||nefxtwxk.com^$third-party
 ||nelads.com^$third-party
 ||neoadvertising.be^$third-party
 ||nepasmanquer.com^$third-party
@@ -2935,7 +2938,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||wwwtatonnai.info^
 ||wwwtatonnai.uk^
 ! popads.net
-|http:/*.asp?*=*&*=*&*=*&*=*&*=*&*=&*=*=*,*,*,*,$script,third-party
+|http://*.asp?*=*&*=*&*=*&*=*&*=*&*=&*=*=*,*,*,*,$script,third-party
 |http://*.aspx?*=*&*=*&*=*&*=*&*=*&*=&*=*=*,*,*,*,$script,third-party
 |http://*.php?*=*&*=*&*=*&*=*&*=*&*=&*=*=*,*,*,*,$script,third-party
 ! secretmedia.com
@@ -2958,6 +2961,9 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ! films-regarder.com
 |http://$script,third-party,domain=films-regarder.com
 |https://$script,third-party,domain=films-regarder.com
+! ddlfr.org
+|http://$script,third-party,xmlhttprequest,domain=ddlfr.org
+|https://$script,third-party,xmlhttprequest,domain=ddlfr.org
 ! cpasbien.cm
 |http://$script,third-party,domain=cpasbien.cm
 |https://$script,third-party,domain=cpasbien.cm
@@ -3300,6 +3306,7 @@ toutcash.com/images/bandeau-
 ||dailymotion.com/webapp/ads-mopub
 ||darjadida.com/pub/
 ||days-media.fr^*/disclaimers.js
+||ddlfr.org/cdn-cgi/pe/bag2?
 ||decerto.fr/adblock/
 ||degroupnews.com/*/img/fond/
 ||degroupnews.com/*/img/sidebar/
