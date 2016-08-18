@@ -2972,6 +2972,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ! popads.net
 ://*.asp?*=*&*=*&*=*&*=*&*=*&*=&*=*=*,*,*,*,$script,third-party
 ://*.aspx?*=*&*=*&*=*&*=*&*=*&*=&*=*=*,*,*,*,$script,third-party
+://*.html?*=*&*=*&*=*&*=*&*=*&*=&*=*=*,*,*,*,$script,third-party
 ://*.php?*=*&*=*&*=*&*=*&*=*&*=&*=*=*,*,*,*,$script,third-party
 ! secretmedia.com
 /^http://[a-z0-9_-]{10,}\.[a-z0-9-]+\.[a-z]{2,}\/.*?\w{30,}/$~xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
@@ -3014,6 +3015,9 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 |http://$script,third-party,xmlhttprequest,domain=extreme-protect.net
 |http://104.$popup,domain=extreme-protect.net
 |https://$script,third-party,xmlhttprequest,domain=extreme-protect.net
+! telecharger-jeuxpc.com
+|http://$script,third-party,xmlhttprequest,domain=telecharger-jeuxpc.com
+|https://$script,third-party,xmlhttprequest,domain=telecharger-jeuxpc.com
 ! japscan.com
 |http://$script,third-party,xmlhttprequest,domain=japscan.com
 |http://104.$popup,domain=japscan.com
