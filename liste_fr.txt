@@ -214,6 +214,7 @@
 /adsdino.
 /adsen.php
 /adserverimages/*
+/adsf300.
 /adsleft.
 /adslider.
 /adsmouse.
@@ -427,6 +428,7 @@
 /partnertag/iframe.
 /path/ads/*
 /pave_PUB_
+/PBTopAds.
 /plugins/vp_pub/*
 /pop-ads.
 /pop.php?user=
@@ -496,6 +498,7 @@
 /publ1c1te.
 /publi728.
 /publi728/*
+/publicidades/*
 /publicidadsetup/*
 /publicite-
 /publicite.
@@ -893,6 +896,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||adexc.net^$third-party
 ||adexp.net^$third-party
 ||adfever.com^$third-party
+||adhispanic.com^$third-party
 ||adhoc1.net^
 ||adhost.se^$third-party
 ||adhslx.com^$third-party
@@ -1160,8 +1164,10 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||dghf.ovh^$third-party
 ||diffusionpub.com^$third-party
 ||digital-metric.com^$third-party
+||dinozap.info^$third-party
 ||direct-foot.co^$third-party
 ||directionplaisir.com^$third-party
+||disc.host^$third-party
 ||discovery-ptp.eu^$third-party
 ||distrimach.com^$third-party
 ||dkkdkqsss.ovh^$third-party
@@ -1486,6 +1492,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||qhiip.com^$third-party
 ||quaelead.com^$third-party
 ||quanta.lu^$third-party
+||quideo.men^$third-party
 ||qwerty1.co.pl^$third-party
 ||qwtbx.com^$third-party
 ||r867qq.net^$third-party
@@ -1855,6 +1862,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||getgamers.eu^$popup,third-party
 ||getlinksinaseconds.com^$popup,third-party
 ||go.padsdel.com^$popup,third-party
+||gold-good4u.com^$popup,third-party
 ||goo.gl^$image,domain=teramixer.com
 ||googleframe.net^$popup,third-party
 ||gornewtab.com^$popup,third-party
@@ -1900,6 +1908,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||mxpopad.com^$popup,third-party
 ||mxttrf.com^$popup,third-party
 ||myfreesoftwarehub.com^$popup,third-party
+||namesakeoscilloscopemarquis.com^$popup,third-party
 ||nbeatrk.com^$popup,third-party
 ||neigh.info^$popup,third-party
 ||newartspy.link^$popup,third-party
@@ -1940,6 +1949,7 @@ data:text/html;base64,$popup,domain=uptobox.com|uptostream.com
 ||retargetads.net^$popup,third-party
 ||rev2pub.com^$popup,third-party
 ||revsharecash.com^$popup,third-party
+||rometroit.com^$popup,third-party
 ||rtbanalytics.com^$popup,third-party
 ||rvfrm2005.com^$popup,third-party
 ||safelinktracker.com^$popup,third-party
@@ -4640,6 +4650,7 @@ toutcash.com/images/bandeau-
 ||dnyjp3iys0r8o.cloudfront.net^
 ||dqy6k7wqsbont.cloudfront.net^
 ||dr3k6qonw2kee.cloudfront.net^
+||dylasklmlxige.cloudfront.net^
 !
 !------------------ Éléments génériques -----------------!
 !
@@ -4833,6 +4844,7 @@ toutcash.com/images/bandeau-
 ###div-gpt-ad-Pave_Bas
 ###div-gpt-ad-Rectangle
 ###div-gpt-ad-mainColumn_double
+###divADV
 ###divPub
 ###divPublicityLateral
 ###div_banniere_pub
@@ -5395,6 +5407,7 @@ toutcash.com/images/bandeau-
 ##.logo_pub
 ##.ltas_adspot
 ##.mailPubHeader
+##.marketing-container
 ##.masthead-overHeader
 ##.mb_video_syncad
 ##.mdmAd-inner
@@ -5611,6 +5624,7 @@ toutcash.com/images/bandeau-
 ##.reklam_728_90
 ##.reklama-box
 ##.reklamlink
+##.remove_ads
 ##.right_advertissment
 ##.rigthpubvideo
 ##.ritBigAds
