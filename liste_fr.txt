@@ -590,6 +590,7 @@
 /widgets-bazarchic-
 /widgets-zoom-annonce-shopping.
 /widgets-zoom-mytravelchic.
+/wigetmedia.js
 /wp-content/plugins/baw-bon-plan/*
 /xbanniere-pub-
 /XnewadsX/*
@@ -2030,6 +2031,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||videoroow.com^$popup,third-party
 ||vixnixxer.com^$popup,third-party
 ||vkunlock3.eu^$popup,third-party
+||voluums.com^$popup,third-party
 ||votdengi.club^$popup,third-party
 ||watchformytechstuff.com^$popup,third-party
 ||wct.link^$popup,third-party
@@ -3041,6 +3043,10 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 |http://$script,third-party,xmlhttprequest,domain=extreme-protect.net
 |http://104.$popup,domain=extreme-protect.net
 |https://$script,third-party,xmlhttprequest,domain=extreme-protect.net
+! protect-stream.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=protect-stream.com
+|http://$script,third-party,xmlhttprequest,domain=protect-stream.com
+|https://$script,third-party,xmlhttprequest,domain=protect-stream.com
 ! telecharger-jeuxpc.com
 |http://$script,third-party,xmlhttprequest,domain=telecharger-jeuxpc.com
 |https://$script,third-party,xmlhttprequest,domain=telecharger-jeuxpc.com
