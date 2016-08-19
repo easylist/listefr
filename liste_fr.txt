@@ -12,6 +12,7 @@
 !
 !----------------------- Filtres génériques ----------------------!
 !
+&ad=*&bid=*&bn=
 &ad_count=
 &ad_domain=
 &ad_image_
@@ -4402,6 +4403,7 @@ toutcash.com/images/bandeau-
 ||syskb.com/wp-content/uploads/*-ban.gif
 ||syskb.com^*/wordpress-notification-bar
 ||systemed.fr/popunder/$popup
+||t-algerie.com/pub/
 ||t.nl.francetv.fr/r/?id=$popup
 ||tahiti-infos.com/ads/$popup
 ||tahiti-infos.com/photo/*.gif$image
@@ -6477,7 +6479,7 @@ begeek.fr##.ad-sidebar + span
 turfomania.fr##.ad1
 vinyculture.com##.ad2
 pafpaf.com##.adBlocTop
-lastminute.com##.adContainer
+lastminute.com,t-algerie.com##.adContainer
 heures.be##.adHours
 souiqua.net##.adblock
 msn.com##.adcontainer
