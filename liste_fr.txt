@@ -742,6 +742,10 @@ _waframedia_
 .online^*?zoneid=$popup
 .popunder.$popup
 .promorewards.$popup
+.xyz^*&zone=$popup
+.xyz^*&zoneid=$popup
+.xyz^*?zone=$popup
+.xyz^*?zoneid=$popup
 /?pub_id=*&sub_id=$popup
 /?tid=*&red=$popup
 /__utm.gif$popup
