@@ -810,6 +810,7 @@ _waframedia_
 /script/redirect.php?$popup
 /smart_ad/*$popup
 /t/?*&clickid=$popup
+/trk/|$popup
 /unsub_aff.$popup
 /xdirect.html?$popup
 =partenariat&utm_campaign=$popup
