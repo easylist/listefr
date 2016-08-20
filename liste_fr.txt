@@ -206,6 +206,7 @@
 /ads/extra.
 /ads/mgid_
 /ads700.
+/ads728x90.
 /ads?key=
 /ads?p=
 /ads?req_id=
@@ -7930,7 +7931,7 @@ _adblockdetector/
 ||photo.programme-tv.net/js/main-
 !
 @@.gif#$image,domain=sos-lettre.fr|youwatch-series.com
-@@.jpg#$image,domain=dpstream.cc|naruto-mx.net|telecharger-jeuxpc.com
+@@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|naruto-mx.net|telecharger-jeuxpc.com
 @@.png#$image,domain=bbstreaming.com|cacastream.com|crash-aerien.aero|ddstream.com|dpstream.cc|dpstream.tv|leetgamerz.net|protect-stream.com|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net|youwatch-series.com
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
@@ -7966,8 +7967,8 @@ _adblockdetector/
 @@||nextinpact.com/ad*.js|$~third-party,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net|leveldown.fr
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=crash-aerien.news|cuisineactuelle.fr|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|softmaroc.org|sos-lettre.fr|telephoneannuaire.fr|voyageforum.com|www.catnat.net
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bricozone.fr|crash-aerien.news|cuisineactuelle.fr|leetgamerz.net|quebeccoupongratuit.com|slideplayer.fr|softmaroc.org|telephoneannuaire.fr|voyageforum.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|crash-aerien.news|cuisineactuelle.fr|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|softmaroc.org|sos-lettre.fr|telephoneannuaire.fr|voyageforum.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alligatographe.blogspot.fr|bricozone.fr|crash-aerien.news|cuisineactuelle.fr|leetgamerz.net|quebeccoupongratuit.com|slideplayer.fr|softmaroc.org|telephoneannuaire.fr|voyageforum.com|www.catnat.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=qcm-concours.blogspot.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pub-config/ca-pub-*.js$domain=bricozone.fr
@@ -8002,6 +8003,7 @@ fdesouche.com,xavierstuder.com#@##adsense
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
 !
 @@||2folie.com^$elemhide
+@@||alligatographe.blogspot.fr^$generichide
 @@||annoncedesexe.com^$elemhide
 @@||bbstreaming.com^$elemhide
 @@||cacastream.com^$generichide
