@@ -1439,6 +1439,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||oneclickad.net^$third-party
 ||oneinstaller.com^$third-party
 ||onenima.com^$third-party
+||onlinesupaads.com^$third-party
 ||onlinevenditatio.space^$third-party
 ||onshowit.com^$third-party
 ||oopt.fr^$third-party
@@ -1593,6 +1594,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||sublimemedia.fr^$third-party
 ||sublimeskinz.com^$third-party
 ||sunrisema.link^$third-party
+||supaads.com^$third-party
 ||superadsoffers.com^$third-party
 ||supersmsoffers.com^$third-party
 ||supravideos.com^$third-party
@@ -1727,7 +1729,6 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||zeybjsxy.com^$third-party
 ||zwaar.net^$third-party
 ! youwatch.org 51.255.80.163
-||adminlady.info^$popup,third-party
 ||asadismn.xyz^$third-party
 ||asjdfasas.xyz^$third-party
 ||bircgizd.com^$third-party
@@ -1792,6 +1793,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||adit-media.com^$popup,third-party
 ||admailtiser.com^$popup,third-party
 ||admarketplace.net^$popup,third-party
+||adminlady.info^$popup,third-party
 ||adnetw0rk.net^$popup,third-party
 ||adometric.com^$popup,third-party
 ||adorika.com^$popup,third-party
@@ -1872,6 +1874,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||delnapb.com^$popup,third-party
 ||delta-boa.com^$popup,third-party
 ||derby-digital.com^$popup,third-party
+||digitalworldads.com^$popup,third-party
 ||direction-x.com^$popup,third-party
 ||download-epic4u.com^$popup,third-party
 ||download366.net^$popup,third-party
@@ -1911,6 +1914,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||illyx.com^$popup,third-party
 ||imitrk.com^$popup,third-party
 ||infoyours.info^$popup,third-party
+||infra.systems^$popup,third-party
 ||irclick.net^$popup,third-party
 ||isanalyze.com^$popup,third-party
 ||justgetitfaster.com^$popup,third-party
@@ -1960,7 +1964,6 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||ohmyad.co^$popup,third-party
 ||olmeramarketing.com^$popup,third-party
 ||onclasrv.com^$popup,third-party
-||onlinesupaads.com^$third-party
 ||othip.info^$popup,third-party
 ||ouaitupeuxregarderenillimite.com^$popup,third-party
 ||poptm.com^$popup,third-party
@@ -2009,7 +2012,6 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||srvmd30s.com^$popup,third-party
 ||startnewtab.com^$popup,third-party
 ||stream4stream.com^$popup,third-party
-||supaads.com^$third-party
 ||sushis.kim^$popup,third-party
 ||sv2.biz^$popup,third-party
 ||tag.regieci.com^$popup,third-party
@@ -3584,6 +3586,7 @@ toutcash.com/images/bandeau-
 ||forumconstruire.com^*/click.php?$popup
 ||forumdz.com/pub/
 ||forzamotorsport.fr/img/pub/
+||fourchette-et-bikini.fr/*.php$xmlhttprequest
 ||fourchette-et-bikini.fr/sites/default/files/*-315x250$image
 ||fourchette-et-bikini.fr/sites/default/files/315x250$image
 ||framapad.org/static/img/bearstech_hosted.png
@@ -4050,6 +4053,7 @@ toutcash.com/images/bandeau-
 ||metaboli.fr/partners/gamekult/
 ||meteo.nc/images/stories/accueil/regie/
 ||meteo.pf/images/exemples/pub_
+||meteocity.com/images/$xmlhttprequest
 ||meteocity.com/ressources/images/encartJeuConcours.jpg
 ||metronews.fr/partenaires/
 ||michelin.fr/data/public/field/image/
@@ -4384,6 +4388,7 @@ toutcash.com/images/bandeau-
 ||starter.fm/images/*/bg_
 ||static.basket-infos.com/wp-content/uploads/Pub-
 ||static.ccm2.net/*/img/appstv/
+||static.commentcamarche.net/www.commentcamarche.net/faq/images/
 ||static.hitek.fr/img/emoticons/
 ||static.hitek.fr/img/integrations/
 ||static.lacentrale.fr/ressources/images/pages/home/spot_banner.jpg
@@ -7514,6 +7519,7 @@ pagesjaunes.fr##div[id^="push"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
 vakarm.net##div[onclick^="window.open('http://www.razerzone.com/"]
+commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[style$="cursor: pointer; width: 32%;"]
 gboxes.com##div[style$="top: 0px; left: 0px; position: absolute; z-index: 999999; cursor: pointer;"]
 gamalive.com##div[style$="width:300px;height:250px;"]
 impotsurlerevenu.org##div[style*="float:right;width:300px;"]
@@ -8149,10 +8155,3 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 |http://*/ZGdraDt2O21lamtiO2E4MD
 |http://*=|$xmlhttprequest,domain=actu95.net|addons-wow.fr|adunblock.com|adunblock.fr|allonews.fr|annuaire-bleu.net|annuaire-email.net|anthonix.fr|basket-ballworld.fr|breat.me|cinemotions.com|consoledejeux.info|coolradio.be|evoliofly.com|femmes-de-footballeurs.fr|gamekult.com|gamewinner.fr|gogo-films.com|imagesia.com|jeuxvideo24.com|kerbalspaceprogram.fr|lebouletdunet.com|lesarbres.fr|lolchat.fr|net-litiges.fr|nifoune.com|physagreg.fr|pix-geeks.com|radar-feu-rouge.fr|seventy-planes.com|space-blogs.net|teranya.fr|uptobox.com|vosforums.com|xavbox.com|xavbox.info|xavbox360.com|xavboxcube.com|xavboxds.com|xavboxforum.com|xavboxnews.com|xavboxone.com|xavboxphone.com|xavboxps2.com|xavboxps3.com|xavboxpsp.com|xavboxtuning.com|xiaomi-m3.fr|zevpn.net
 !
-! CCM Benchmarck
-commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[style$="cursor: pointer; width: 32%;"]
-||static.commentcamarche.net/*/images/*.jpg
-! meteocity.com
-||meteocity.com/images/$xmlhttprequest
-! fourchette-et-bikini.fr
-||fourchette-et-bikini.fr/*.php$xmlhttprequest
