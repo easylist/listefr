@@ -155,6 +155,7 @@
 /ad/banners_
 /ad2/show.php?
 /ad4mat.
+/Ad4S_Popup/*
 /ad_250250.
 /ad_fr.
 /ad_frames/*
@@ -6555,6 +6556,7 @@ lemonde.fr##.annonces_monster
 neowebcar.com##.argus-logo
 sortiesdvd.com##.art-Post[style="float: left"]
 sortiesdvd.com##.art-Post[style="float: right"]
+lepoint.fr##.art-small
 igen.fr##.article > [class] > [id] img:last-child
 macg.co##.article > div > a
 macg.co##.article [class*="C"]
@@ -6932,6 +6934,8 @@ nautiljon.com##.part.p1
 nautiljon.com##.part.p2
 nautiljon.com##.part.p3
 portail.free.fr##.partenaire
+lepoint.fr##.partenaire-block
+lepoint.fr##.partenaire-grid
 petitfute.com##.partenaire_mid
 mamytwink.com##.partenaire_pave
 lachainemeteo.com##.partenaire_simple
