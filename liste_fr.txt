@@ -374,6 +374,7 @@
 /gfx/bannieres/*
 /goclick?ref=$script
 /header_ads|
+/homad-global-configs-
 /iframe468x60-
 /iframe468x60.
 /iframe468x60/*
@@ -947,6 +948,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||adnetworkus.com^$third-party
 ||adnplay.com^$third-party
 ||adnxtr.com^$third-party
+||adobedtm.com^$third-party
 ||adoftheyear.com^$third-party
 ||adonads.com^$third-party
 ||adoptima.com^$third-party
@@ -2278,6 +2280,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
 ||dailymotion.com^*autoplay=1$domain=anime301.com|bescherelletamere.fr|buzzutopia.com|hitek.fr|mangas-ddl-free.over-blog.com|mangaxd.com|otakufr.com|pokercast.tv|sonyoutube.com|stream4free.pro
 ||dailymotion.com^*mute=1$domain=captainmugiwara.over-blog.com
+||damoh.schneevonmorgen.com^
 ||damtours.com/static/img/damtous_$third-party
 ||dc121677.com^
 ||deals-du-web.com^
