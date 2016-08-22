@@ -3107,7 +3107,6 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 |http://$script,third-party,xmlhttprequest,domain=senscritique.com
 |https://$script,third-party,xmlhttprequest,domain=senscritique.com
 ||facebook.com/plugins/video.php?$domain=senscritique.com
-||senscritique.com^$popup,~third-party
 ! macrojuegos.com
 @@||ajax.googleapis.com^$domain=macrojuegos.com
 |http://$script,third-party,xmlhttprequest,domain=macrojuegos.com
