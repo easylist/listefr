@@ -3017,12 +3017,6 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||wwwtatonnai.eu^
 ||wwwtatonnai.info^
 ||wwwtatonnai.uk^
-! popads.net
-://*.asp?*=*&*=*&*=*&*=*&*=*&*=&*=*=*,*,*,*,$script,third-party
-://*.aspx?*=*&*=*&*=*&*=*&*=*&*=&*=*=*,*,*,*,$script,third-party
-://*.htm?*=*&*=*&*=*&*=*&*=*&*=&*=*=*,*,*,*,$script,third-party
-://*.html?*=*&*=*&*=*&*=*&*=*&*=&*=*=*,*,*,*,$script,third-party
-://*.php?*=*&*=*&*=*&*=*&*=*&*=&*=*=*,*,*,*,$script,third-party
 ! secretmedia.com
 /^http://[a-z0-9_-]{10,}\.[a-z0-9-]+\.[a-z]{2,}\/.*?\w{30,}/$~xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
 /^http://[a-z0-9_]{15,}\.[a-z0-9-]+\.[a-z]{2,}\/.*[a-zA-Z0-9]{100,}/$object-subrequest,domain=wat.tv
