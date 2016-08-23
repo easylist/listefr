@@ -2277,7 +2277,6 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||crocastuce.fr/images/Boutons/
 ||croquettesbio.com/wp-content/uploads/*/skyscreeper-
 ||cybertek.fr^$popup,domain=nextinpact.com
-||cyclisme-mag.com/?specialSports$popup,domain=sports.fr
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
@@ -2700,7 +2699,6 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||ruedeslibraires.com/livre-affiliation/
 ||rueducommerce.fr/images/locales/*/widget/ban/
 ||rugbygeneration.com^$popup,domain=kazeo.com
-||rugbynews.fr/?specialSports$popup,domain=sports.fr
 ||rwabe.com/pub/
 ||s-sfr.fr/stats/authMsg.js
 ||s.brsimg.com^*/cache/css/compress/$object
@@ -4374,7 +4372,7 @@ toutcash.com/images/bandeau-
 ||soundlightup.com/wp-content/uploads/pub/
 ||sp.nasdaq.com^
 ||speedgame.fr/pub/
-||sports.fr/includes/cobrand/*/habillage/
+||sports.fr^*/habillage/
 ||sports.fr^*/partenaires/
 ||stage-emploi.campus.lemonde.fr^*/widget
 ||staractus.fr/wp-content/uploads/*/amazon.gif
@@ -4767,12 +4765,32 @@ toutcash.com/images/bandeau-
 ###ad-300x600-milieu
 ###ad-728x90_MB_Bas_Desktop
 ###ad-728x90_MB_Top_Desktop
+###ad-ban-bet-load
+###ad-ban-load
 ###ad-bg-transparent
 ###ad-habillage
+###ad-habillage-flash
+###ad-habillage-load
 ###ad-iframe
+###ad-inread
+###ad-inread-load
+###ad-ligatus-article-load
+###ad-megaban2-load
 ###ad-planetveo
+###ad-rec-bet1
+###ad-rec-bet1-load
+###ad-rec-top1
+###ad-rec-top1-load
+###ad-rec-top2
+###ad-rec-top2-load
 ###ad-rectangle-1-dst
 ###ad-rectangle-2-dst
+###ad-rectangle1
+###ad-rectangle1-load
+###ad-rectangle2
+###ad-rectangle2-load
+###ad-rectangle3
+###ad-rectangle3-load
 ###ad125
 ###ad125bl
 ###ad125br
@@ -4811,6 +4829,7 @@ toutcash.com/images/bandeau-
 ###ads-728x90-I2
 ###ads-970x60-I1
 ###ads-980x
+###ads-loader
 ###ads-medium-rectangle
 ###ads125-box
 ###ads46860
@@ -7088,7 +7107,7 @@ phpsources.org##.sample-lst
 senscritique.com##.sc-klass
 bakchich.info##.scpe-pub
 ouest-france.fr##.sd-deals
-sports.fr##.service.a[data-link$="\", \"target\":\"_blank\" \7d "]
+sports.fr##.service[data-link$="\", \"target\":\"_blank\" \7d "]
 jeuxetcompagnie.fr##.sg-formulaire
 programme-tv.net##.shopping
 portail.free.fr##.shopping_carrousel_produit
