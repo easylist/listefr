@@ -7737,7 +7737,7 @@ begeek.fr##[-abp-properties='height: 3*px;']
 begeek.fr##[-abp-properties='height: 5*px;'] > img
 begeek.fr##[-abp-properties='height: 6*px;']
 24matins.fr##[-abp-properties='margin-bottom: 15px;']
-cacastream.com,ddstream.com##[-abp-properties='opacity: *;']
+cacastream.com,ddstream.com,protect-stream.com##[-abp-properties='opacity: *;']
 24matins.fr##[-abp-properties='padding-top: 40*px;']
 medisite.fr##[-abp-properties='width: 670px;']
 lucariostream.eu##[-abp-properties='z-index: 999*;']
@@ -7978,7 +7978,7 @@ _adblockdetector/
 !
 @@.gif#$image,domain=sos-lettre.fr|youwatch-series.com
 @@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|naruto-mx.net|telecharger-jeuxpc.com
-@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|ddstream.com|dpstream.cc|dpstream.tv|leetgamerz.net|protect-stream.com|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net|youwatch-series.com
+@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|ddstream.com|dpstream.cc|dpstream.tv|leetgamerz.net|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net|youwatch-series.com
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdclicks.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
@@ -8076,7 +8076,6 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 @@||nrj.fr^$generichide
 @@||partage-facile.com^$elemhide
 @@||phonandroid.com^$generichide
-@@||protect-stream.com^$generichide
 @@||rapidebrideur.com^$elemhide
 @@||seriehentai.com^$elemhide
 @@||softmaroc.org^$generichide
