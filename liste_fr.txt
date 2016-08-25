@@ -236,6 +236,7 @@
 /adv_banner.
 /adv_forum-
 /adver_imgs/*
+/advert/rota-
 /advertisement?
 /AdvertisingBanners/*
 /advertisingView?
@@ -399,6 +400,7 @@
 /inread_
 /inside_ad.
 /ipvanish-300x250.
+/iwadserver.
 /jp_display.
 /js.adv.$script
 /js/468.
@@ -906,9 +908,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||ad-now.fr^$third-party
 ||ad-online.biz^$third-party
 ||ad-score.com^$third-party
-||ad.activaweb.fr^^$third-party
-||ad.adserverplus.com^
-||ad.prismamediadigital.com^$third-party
+||ad.activaweb.fr^$third-party
 ||ad2perf.com^$third-party
 ||ad2prm.com^$third-party
 ||ad380.com^$third-party
@@ -1067,6 +1067,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||allo-audience.fr^$third-party
 ||alloclick.com^$third-party
 ||allovisiteur.com^$third-party
+||altpubli.com^$third-party
 ||annoncesante.ma^$third-party
 ||anymad.com^$third-party
 ||appsfire.com^$third-party
@@ -1184,6 +1185,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||cyberflirt.fr^$third-party
 ||cytochemistryrecitativewrasse.com^$third-party
 ||dailyofferservice.com^$third-party
+||dajusepe.com^$third-party
 ||danstonfion.com^$third-party
 ||datvantage.com^$third-party
 ||dblock-ads.com^$third-party
@@ -1308,6 +1310,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||imediastreams.com^$third-party
 ||imgpromo.easyrencontre.com^$third-party
 ||imgsynd.com^$third-party
+||impresionesweb.com^$third-party
 ||initialcontroledge.info^$third-party
 ||inshopr.com^$third-party
 ||installwager.com^$third-party
@@ -1315,6 +1318,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||ipav.xyz^$third-party
 ||irclick.net^$third-party
 ||isanalyze.com^$third-party
+||iwadserver.com^$third-party
 ||jazayr.net^$third-party
 ||jedeconnebiensur.com^$third-party
 ||jedeconnebiensur2.com^$third-party
@@ -1569,6 +1573,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||see-work.info^$third-party
 ||seedtag.com^$third-party
 ||sefire.eu^$third-party
+||sepedaju.com^$third-party
 ||seprovider.com^$third-party
 ||septani.ru^$third-party
 ||serpzaer.com^$third-party
@@ -1725,6 +1730,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||yospace.com^$third-party
 ||yospace.net^$third-party
 ||you-hentai.com^$third-party
+||youzapping.com^$third-party
 ||yuhuads.com^$third-party
 ||yx-ads*.com^$third-party
 ||z-barre.com^$third-party
@@ -2125,6 +2131,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||ad.atdmt.com^*/go;$third-party
 ||ad.genybet.fr^
 ||ad.net-c.com^
+||ad.prismamediadigital.com^
 ||ad.vacanceo.com^
 ||ad.zanox.com^
 ||ad.zanox.com^$popup,domain=configspc.com|heures.be|telesatellite.com
@@ -2286,7 +2293,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
-||dailymotion.com^*autoplay=1$domain=anime301.com|bescherelletamere.fr|buzzutopia.com|hitek.fr|mangas-ddl-free.over-blog.com|mangaxd.com|otakufr.com|pokemon-streaming.com|pokercast.tv|sonyoutube.com|stream4free.pro
+||dailymotion.com^*autoplay=1$domain=anime301.com|bescherelletamere.fr|buzzutopia.com|hitek.fr|mangas-ddl-free.over-blog.com|mangaxd.com|otakufr.com|pokemon-streaming.com|pokercast.tv|sonyoutube.com|stream4free.pro|youzapping.com
 ||dailymotion.com^*mute=1$domain=captainmugiwara.over-blog.com
 ||damoh.schneevonmorgen.com^
 ||damtours.com/static/img/damtous_$third-party
@@ -2426,6 +2433,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||hotel-intime.com/banieres/
 ||hotpix.fr/widget_js.
 ||hqq.tv/js/adb/adb.js
+||href.li^$domain=youzapping.com
 ||i.alicdn.com/*/show-window/index.js
 ||i58.servimg.com/u/f58/11/03/61/79/bannie*.png
 ||iceroket.com^$subdocument
@@ -2892,7 +2900,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||yellowapi.com/twn/?
 ||yimg.com/hl/ap/default/*/HP_*.jpg
 ||youtube.com^$popup,domain=abdelghanisat.kazeo.com|zevpn.net
-||youtube.com^*autoplay=1$domain=esoxiste.com|hitek.fr|mon-compte.org|soltanati.com
+||youtube.com^*autoplay=1$domain=esoxiste.com|hitek.fr|mon-compte.org|soltanati.com|youzapping.com
 ||youtube2mp3.cc/p.php$popup
 ||yubee.free.fr/admin/bannieres/
 ||z51.biz/IBinnewz.aspx
@@ -3067,6 +3075,9 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ! telecharger-jeuxpc.com
 |http://$script,third-party,xmlhttprequest,domain=telecharger-jeuxpc.com
 |https://$script,third-party,xmlhttprequest,domain=telecharger-jeuxpc.com
+! lucariostream.eu
+|http://$script,third-party,xmlhttprequest,domain=lucariostream.eu
+|https://$script,third-party,xmlhttprequest,domain=lucariostream.eu
 ! skidrowreloaded.com
 |http://$script,third-party,xmlhttprequest,domain=skidrowreloaded.com
 |https://$script,third-party,xmlhttprequest,domain=skidrowreloaded.com
@@ -7337,6 +7348,7 @@ lemonde.fr##a[href*="monster.fr/"]
 zetorrents.com##a[href*="porno"]
 beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com,sports.fr##a[href*="smartadserver.com/call/cliccommand/"]
 mega-vesti.info,smartorrent.com##a[href*="tonlive.com"]
+lucariostream.eu##a[href*="univers-saiyan.com/"]
 cacastream.com,ddstream.com,youwatch-series.com##a[href*="xmediaserve"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 t411.ch,t411.la,torrent-411.com##a[href="/download/"]
@@ -7711,6 +7723,7 @@ begeek.fr##[-abp-properties='height: 6*px;']
 24matins.fr##[-abp-properties='margin-bottom: 15px;']
 24matins.fr##[-abp-properties='padding-top: 40*px;']
 medisite.fr##[-abp-properties='width: 670px;']
+lucariostream.eu##[-abp-properties='z-index: 999*;']
 macg.co##article > a[-abp-properties='*'] > img
 24matins.fr##article > div[-abp-properties='background-image:*;']
 ! Ligatus
