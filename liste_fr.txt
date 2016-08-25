@@ -2451,7 +2451,6 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||img.nuxit.com/banners/
 ||img.ucweb.com^*/ad/
 ||img6.bricozone.be/jquery-1.2.6.min.js
-||in.mydirtyhobby.de/track/$popup
 ||indecentes-voisines.com/bans/
 ||infojobs.com.br/banner.aspx?
 ||inoutscripts.com/affiliate/
@@ -2573,6 +2572,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
 ||mwzip.com/banner.
 ||mydirtyhobby.de/?naff=$popup
+||mydirtyhobby.de/track/$popup
 ||myfullstream.xyz/wp-content/uploads/$third-party
 ||mynewblog.com/tracker.php?
 ||mynewsnet.ch^$subdocument
@@ -3116,6 +3116,10 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=mangas-fr.com
 |http://$script,third-party,xmlhttprequest,domain=mangas-fr.com
 |https://$script,third-party,xmlhttprequest,domain=mangas-fr.com
+! youwatch-series.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=youwatch-series.com
+|http://$script,third-party,xmlhttprequest,domain=youwatch-series.com
+|https://$script,third-party,xmlhttprequest,domain=youwatch-series.com
 ! cacastream.com
 |http://$script,third-party,xmlhttprequest,domain=cacastream.com
 |https://$script,third-party,xmlhttprequest,domain=cacastream.com
