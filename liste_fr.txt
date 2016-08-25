@@ -132,11 +132,13 @@
 /160_x_600
 /160x300_
 /300-px-250-
+/300250.js|
 /300_250-2.
 /300_x_250
 /468-px-60-
 /468x60banner.
 /720x90_dfp.
+/72890.js|
 /728x090_
 /?placement=*&async$script
 /?placement=*&redirect&
@@ -3096,6 +3098,10 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ! streamay.com
 |http://$script,third-party,domain=streamay.com
 |https://$script,third-party,domain=streamay.com
+! enstreaming.tv
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=enstreaming.tv
+|http://$script,third-party,xmlhttprequest,domain=enstreaming.tv
+|https://$script,third-party,xmlhttprequest,domain=enstreaming.tv
 ! gum-gum-streaming.com
 |http://$popup,script,third-party,domain=gum-gum-streaming.com
 |http://*/|$image,domain=gum-gum-streaming.com
