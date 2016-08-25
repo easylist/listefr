@@ -5775,6 +5775,7 @@ toutcash.com/images/bandeau-
 ##.shopperAds
 ##.show-pub
 ##.sidbar-ad1
+##.side_content_pub
 ##.sidebar-ads160
 ##.sidebar-wrapper-advert
 ##.sidebar_share_ads
@@ -7147,7 +7148,6 @@ programme-tv.net##.shopping
 portail.free.fr##.shopping_carrousel_produit
 streamay.com##.showitonplayer
 nintendo-master.com##.side-pub-img
-nextinpact.com##.side_content_pub
 gmx.fr##.sideadd
 voyage-economique.fr##.sideaff-container
 igen.fr##.sidebar [id*="C"]
@@ -7738,12 +7738,14 @@ medisite.fr##[-abp-properties='cursor: pointer;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 24matins.fr##[-abp-properties='display:flex;']
 24matins.fr##[-abp-properties='display:none;']
+nextinpact.com##[-abp-properties='height: 250px;']
 begeek.fr##[-abp-properties='height: 3*px;']
 begeek.fr##[-abp-properties='height: 5*px;'] > img
 begeek.fr##[-abp-properties='height: 6*px;']
 24matins.fr##[-abp-properties='margin-bottom: 15px;']
 cacastream.com,ddstream.com,protect-stream.com##[-abp-properties='opacity: *;']
 24matins.fr##[-abp-properties='padding-top: 40*px;']
+nextinpact.com##[-abp-properties='width: 300px;']
 medisite.fr##[-abp-properties='width: 670px;']
 lucariostream.eu##[-abp-properties='z-index: 999*;']
 macg.co##article > a[-abp-properties='*'] > img
@@ -8015,7 +8017,6 @@ _adblockdetector/
 @@||lafansubresistance.biz^$script,domain=lafansubresistance.biz
 @@||laprovence.com/sites/all/themes/lpv4/js/ads.js
 @@||linkbucks.com/scripts/script-adv.js$script,third-party
-@@||nextinpact.com/ad*.js|$~third-party,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net|leveldown.fr
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|crash-aerien.news|cuisineactuelle.fr|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|softmaroc.org|sos-lettre.fr|telephoneannuaire.fr|voyageforum.com|www.catnat.net
