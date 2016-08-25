@@ -745,12 +745,16 @@ _waframedia_
 -popunder.php?$popup
 .com.sa/ads?$popup
 .loading-delivery2.$popup
+.online^*&zone=$popup
+.online^*&zoneid=$popup
+.online^*?subid=$popup
 .online^*?zone=$popup
 .online^*?zoneid=$popup
 .popunder.$popup
 .promorewards.$popup
 .xyz^*&zone=$popup
 .xyz^*&zoneid=$popup
+.xyz^*?subid=$popup
 .xyz^*?zone=$popup
 .xyz^*?zoneid=$popup
 /?pub_id=*&sub_id=$popup
@@ -3073,6 +3077,10 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ! filmvf.ws
 |http://$script,third-party,xmlhttprequest,domain=filmvf.ws
 |https://$script,third-party,xmlhttprequest,domain=filmvf.ws
+! sokrostream.biz
+@@||ajax.googleapis.com/ajax/libs/$script,domain=sokrostream.biz
+|http://$script,third-party,domain=sokrostream.biz
+|https://$script,third-party,domain=sokrostream.biz
 ! streamay.com
 |http://$script,third-party,domain=streamay.com
 |https://$script,third-party,domain=streamay.com
