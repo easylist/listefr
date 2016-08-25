@@ -2350,7 +2350,6 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||eurosportbet.loa24.com^$domain=eurosport.fr
 ||evolucare.com/bannieres/
 ||exashare.com/ici.html
-||facebook.com/senscritique/videos/$popup,domain=senscritique.com
 ||facebook.net/*/sdk.js$script,domain=lexpress.fr
 ||fanslave.com/images/stories/*/banner-$third-party
 ||fapbase.com/widgets?
@@ -3095,12 +3094,6 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ! ebookdz.com
 |http://$script,third-party,xmlhttprequest,domain=ebookdz.com
 |https://$script,third-party,xmlhttprequest,domain=ebookdz.com
-! senscritique.com
-@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=senscritique.com
-@@||connect.facebook.net^$script,domain=senscritique.com
-|http://$script,third-party,xmlhttprequest,domain=senscritique.com
-|https://$script,third-party,xmlhttprequest,domain=senscritique.com
-||facebook.com/plugins/video.php?$domain=senscritique.com
 ! macrojuegos.com
 @@||ajax.googleapis.com^$domain=macrojuegos.com
 |http://$script,third-party,xmlhttprequest,domain=macrojuegos.com
@@ -4322,7 +4315,6 @@ toutcash.com/images/bandeau-
 ||secretsdujeu.com/pop/$popup
 ||securite.01net.com^
 ||senioractu.com/photo/background-
-||senscritique.com^*/sponsored.ajax
 ||seriesstreaming.fr/images/partenaire_
 ||seriezone.com/ba/
 ||serre-editeur.fr/images/banners/
@@ -4401,7 +4393,6 @@ toutcash.com/images/bandeau-
 ||static.s-sfr.fr/media*messageriecentral
 ||static.s-sfr.fr/media/accga.
 ||static.s-sfr.fr/media/accsky*.
-||static.senscritique.com/img/*.jpg
 ||static.wanadoo.fr/webmail/templateMagic/*/graphics/*/meetic_$image
 ||statique.lnc.nc/_slider/promo.nc/
 ||stefgagnant.com^*ban
@@ -4647,7 +4638,6 @@ toutcash.com/images/bandeau-
 ||winds-up.com/images/pub/
 ||worldissmall.fr/*/uploads/partenaires/
 ||ww2.flashx.tv^
-||www.senscritique.com/img/
 ||xavbox.com/ban/
 ||xboards.org/static/sponsors/
 ||xboxunlimited.fr/images/testaxl.jpg
@@ -6272,7 +6262,6 @@ emule-island.ru###offerBox
 1fichier.co###openModal
 46.105.45.146###ourPartners
 jeu.info###outpubleft
-senscritique.com###overHeader-content
 carrefour.fr###overlayBase
 gameblog.fr###overlayFnac
 forum-iphoneaddict.fr###p00
@@ -6760,8 +6749,6 @@ factornews.com##.div_pub_728_90
 dailymotion.com##.dm_widget_advert_iabrighttitle
 blog2mature.com##.download
 oujdacity.net,passion-net.fr##.ebuzzing_box
-senscritique.com##.ecbi-billboard-container
-senscritique.com##.ecbi-billboard-slide > [class$="product"]
 tsa-algerie.com##.ekk-footer-ad-wrapper
 wp-infinity.com##.entry-featured
 jemangejemincis.fr,vpntorrent.com##.entry-footer
@@ -7501,17 +7488,10 @@ maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
 tchatche.com##banner
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 telesatellite.com##body > [id^="a"]
-senscritique.com##body > button + div > div[class]
 cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
-senscritique.com##body > div + script + div
-senscritique.com##body > div > [class$="product "]
-senscritique.com##body > div > a
-senscritique.com##body > div > div[class]:first-child > [class*="0"]
-senscritique.com##body > noscript + script + div > [class]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 igen.fr##br + div + div + div
-senscritique.com##div + script + div[style="display: block;width: 100%;"]
 forumpiscine.com##div#\31
 forumconstruire.com##div#\32
 domimmo.com##div#an-fin
@@ -7563,7 +7543,6 @@ masculin.com##div[style="float:left; width:980px; height:90px; text-align:left; 
 douniamusic.com##div[style="float:left;width:500px;height:300px;"]
 1fichier.fr##div[style="float:right;width:300px;height:600px"]
 futura-sciences.com##div[style="height:250px; width:300px;"]
-senscritique.com##div[style="height:250px;position:relative;"]
 jeuxactu.com##div[style="height:250px;width:300px;"]
 ibuzzyou.fr##div[style="height:280px;float:left;"]
 futura-sciences.com##div[style="height:90px; width:728px;"]
@@ -7647,8 +7626,6 @@ sinfest.net##noscript a
 bonjourmadame.fr##object[width="728"][height="90"]
 ouedkniss.com#habillage_flash
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
-senscritique.com##script + div > [class*="0"]
-senscritique.com##script + div > [class*="9"]
 debrideurstreaming.com##script[src="http://www.pubdirecte.com/script/pop.php?id=48523&ref=23821"] + table[style="float:right; margin-right:50px;"]
 omgtorrent.me##span > a:first-child
 mega-vesti.info,smartorrent.com##span[style^="cursor:pointer;"] > a
@@ -7711,35 +7688,23 @@ igen.fr##.article a[-abp-properties='display: block;']
 macg.co##.article div a[-abp-properties='background-image: *;']
 igen.fr,macg.co##.article span[-abp-properties='background-image: *;']
 igen.fr,macg.co##.article span[-abp-properties='padding-top: *px;']
-senscritique.com##.ecbi-billboard-slide > [-abp-properties='position: absolute;']
 igen.fr##.region-sidebar a[-abp-properties='*']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 igen.fr##.view-content [-abp-properties='background-image:*;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='*: 300px;']
 medisite.fr##[-abp-properties='background-image: *;']
-senscritique.com##[-abp-properties='background-position: *;']
-senscritique.com##[-abp-properties='background: rgba(*);']
-medisite.fr,senscritique.com##[-abp-properties='cursor: pointer;']
-senscritique.com##[-abp-properties='display: *;']
+medisite.fr##[-abp-properties='cursor: pointer;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 24matins.fr##[-abp-properties='display:flex;']
 24matins.fr##[-abp-properties='display:none;']
-senscritique.com##[-abp-properties='height: 2*px;']
 begeek.fr##[-abp-properties='height: 3*px;']
 begeek.fr##[-abp-properties='height: 5*px;'] > img
 begeek.fr##[-abp-properties='height: 6*px;']
-senscritique.com##[-abp-properties='height: calc(*);']
 24matins.fr##[-abp-properties='margin-bottom: 15px;']
 24matins.fr##[-abp-properties='padding-top: 40*px;']
-senscritique.com##[-abp-properties='position: *;']
 medisite.fr##[-abp-properties='width: 670px;']
-senscritique.com##[-abp-properties='width: calc(*);']
 macg.co##article > a[-abp-properties='*'] > img
 24matins.fr##article > div[-abp-properties='background-image:*;']
-senscritique.com##body > div > [-abp-properties='display: block;']
-senscritique.com##body > div > [-abp-properties='width: *%;']
-senscritique.com##body > div > [-abp-properties='z-index: 0;']
-senscritique.com##body > div > div > [-abp-properties='height: 250px; position: relative;']
 ! Ligatus
 @@||connect.facebook.net^$script,domain=24matins.fr|begeek.fr
 @@||disqus.com^$script,third-party,domain=medisite.fr
