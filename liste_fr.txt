@@ -866,6 +866,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||104.197.34.$script,third-party
 ||104.197.4.$script,third-party
 ||104.198.198.$script,third-party
+||104.198.221.$script,third-party
 ||104.238.188.$script,third-party
 ||104.238.189.$script,third-party
 ||146.148.85.61^$third-party
@@ -1772,6 +1773,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||104.197.199.$popup,third-party
 ||104.197.4.$popup,third-party
 ||104.198.198.$popup,third-party
+||104.198.221.$popup,third-party
 ||104.238.188.$popup,third-party
 ||104.238.189.$popup,third-party
 ||188.165.253.6^$popup,third-party
@@ -1832,6 +1834,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||adstract.com^$popup,third-party
 ||adventurefeeds.com^$popup,third-party
 ||advertine.com^$popup,third-party
+||advertiserurl.com^$popup,third-party
 ||advertising-support.com^$popup,third-party
 ||advertisingerror.com^$popup,third-party
 ||advertsight.com^$popup,third-party
@@ -3151,9 +3154,10 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 @@||ajax.googleapis.com^$domain=macrojuegos.com
 |http://$script,third-party,xmlhttprequest,domain=macrojuegos.com
 |https://$script,third-party,xmlhttprequest,domain=macrojuegos.com
-! smed79.info
-|http://$script,third-party,domain=smed79.info
-|https://$script,third-party,domain=smed79.info
+! youwatch.org
+|http://$script,third-party,domain=chouhaa.info|smed79.info
+|https://$script,third-party,domain=chouhaa.info|smed79.info
+||chouhaa.info^$popup,~third-party
 ||smed79.info^$popup,~third-party
 ! imgur.com
 ||i.imgur.com/0mKekma.jpg
