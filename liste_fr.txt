@@ -753,6 +753,7 @@ _waframedia_
 -banner.cib?$popup
 -popunder.php?$popup
 .com.sa/ads?$popup
+.exclusiverewards.$popup
 .loading-delivery2.$popup
 .online^*&zone=$popup
 .online^*&zoneid=$popup
@@ -1804,6 +1805,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||adbooth.com^$popup,third-party
 ||adbucks.com^$popup,third-party
 ||adexchangeprediction.com^$popup,third-party
+||adexchangetracker.com^$popup,third-party
 ||adexint.com^$popup,third-party
 ||adextrem.com^$popup,third-party
 ||adfection.net^$popup,third-party
@@ -1919,6 +1921,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||gestionpub.com^$popup,third-party
 ||getgamers.eu^$popup,third-party
 ||getlinksinaseconds.com^$popup,third-party
+||globaloffers.link^$popup,third-party
 ||go.padsdel.com^$popup,third-party
 ||goo.gl^$image,domain=teramixer.com
 ||googleframe.net^$popup,third-party
@@ -3148,6 +3151,10 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 @@||ajax.googleapis.com^$domain=macrojuegos.com
 |http://$script,third-party,xmlhttprequest,domain=macrojuegos.com
 |https://$script,third-party,xmlhttprequest,domain=macrojuegos.com
+! smed79.info
+|http://$script,third-party,domain=smed79.info
+|https://$script,third-party,domain=smed79.info
+||smed79.info^$popup,~third-party
 ! imgur.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
