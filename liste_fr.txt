@@ -409,6 +409,7 @@
 /iwadserver.
 /jp_display.
 /jquery.dfp.
+/jquery.fake.
 /js.adv.$script
 /js/468.
 /js/infopop_$script
@@ -830,6 +831,7 @@ _waframedia_
 /rotation_redir.$popup
 /script/campagne.php?cp=$popup
 /script/redirect.php?$popup
+/servePopunder.$popup
 /smart_ad/*$popup
 /t/?*&clickid=$popup
 /trk/|$popup
@@ -4596,6 +4598,7 @@ toutcash.com/images/bandeau-
 ||tubixe.com/site/images/*.gif
 ||tunibox.com/images/sponsors/
 ||turbo.fr/img/pocAB/
+||turbobit.net/platform/js/
 ||turfomania.fr/*-publicitaire/
 ||turfomania.fr/campagnes/
 ||turfomania.fr/habillage.css
