@@ -755,8 +755,10 @@ _waframedia_
 .com.sa/ads?$popup
 .exclusiverewards.$popup
 .loading-delivery2.$popup
+.online^*&pid=$popup
 .online^*&zone=$popup
 .online^*&zoneid=$popup
+.online^*?cid=$popup
 .online^*?subid=$popup
 .online^*?zone=$popup
 .online^*?zoneid=$popup
@@ -1392,6 +1394,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||megavisites.com^$third-party
 ||menaon.com^$third-party
 ||merciconseil.com^$third-party
+||mescodespromos.com^$third-party
 ||militarismreptilesoapsud.com^$third-party
 ||mirando.de^$third-party
 ||misstrends.com^$third-party
@@ -3103,6 +3106,9 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 |http://$script,third-party,xmlhttprequest,domain=japscan.com
 |http://104.$popup,domain=japscan.com
 |https://$script,third-party,xmlhttprequest,domain=japscan.com
+! lirescan.net
+|http://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
+|https://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
 ! filmvf.ws
 |http://$script,third-party,xmlhttprequest,domain=filmvf.ws
 |https://$script,third-party,xmlhttprequest,domain=filmvf.ws
