@@ -3103,9 +3103,8 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 |http://$script,third-party,xmlhttprequest,domain=skidrowreloaded.com
 |https://$script,third-party,xmlhttprequest,domain=skidrowreloaded.com
 ! japscan.com
-|http://$script,third-party,xmlhttprequest,domain=japscan.com
-|http://104.$popup,domain=japscan.com
-|https://$script,third-party,xmlhttprequest,domain=japscan.com
+|http://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.com
+|https://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.com
 ! lirescan.net
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
