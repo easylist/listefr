@@ -220,6 +220,7 @@
 /ads?p=
 /ads?req_id=
 /ads?spot_id=
+/ads?type=
 /ads_250_
 /ads_90_728.
 /ads_block
@@ -564,6 +565,7 @@
 /rsense_ad.
 /sas-banner-
 /script/pop.php?id=
+/scriptPub.
 /scripts/adv_
 /sdk-ads.
 /sdk-ads/*
@@ -4220,7 +4222,6 @@ toutcash.com/images/bandeau-
 ||opensubtitles.org/libs/js/jquery/jquery.bpopup.min.js
 ||opex360.com/pub/
 ||opt.be/images/db/banner/
-||orange.fr/media/pub/scriptPub.html
 ||orientation-chabab.com/img/pub.jpg
 ||otaku-attitude.net^*/okazu-manga.gif
 ||ouedkniss.com/inc/pubs/
@@ -4469,7 +4470,7 @@ toutcash.com/images/bandeau-
 ||static.s-sfr.fr/media*messageriecentral
 ||static.s-sfr.fr/media/accga.
 ||static.s-sfr.fr/media/accsky*.
-||static.wanadoo.fr/webmail/templateMagic/*/graphics/*/meetic_$image
+||static.wanadoo.fr/webmail/*/meetic_$image
 ||statique.lnc.nc/_slider/promo.nc/
 ||stefgagnant.com^*ban
 ||strasbourg-tramway.fr/ban_
@@ -5261,6 +5262,7 @@ toutcash.com/images/bandeau-
 ###pubcoldroite
 ###pubdirecte
 ###pubdroite
+###pubdudessous
 ###pubflottante
 ###pubfooter
 ###pubgauche
@@ -5491,6 +5493,7 @@ toutcash.com/images/bandeau-
 ##.bloc_rightcol_pub
 ##.block-cPublicite
 ##.block-gc-ad
+##.block-pub-max-300x600
 ##.block-pubimage
 ##.block-rf-pub
 ##.block_adtop
@@ -5502,6 +5505,7 @@ toutcash.com/images/bandeau-
 ##.cadre-pub-google
 ##.cadre_pub
 ##.cadrepub
+##.campagnePUBcoldroite
 ##.card--row-ads
 ##.carre_pub
 ##.carrepub
@@ -5971,7 +5975,6 @@ zonebourse.com###Bottom
 eurosport.fr###Container_OAS_Right
 amazon.fr###DAr2
 jeuxme.net###Div3
-orange.fr###EbsaVignettes
 lavoixdefrance.fr###ExpandBanner
 kijiji.ca###HeaderFeature > #FeatureContent
 africanmanager.com###Layer1
@@ -6343,7 +6346,6 @@ judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
 ex-down.org###news-partner
 voila.fr###nosPartenaires
 orange.fr###o_carrepub
-wikipedia.orange.fr###o_cartouchecarrepub
 leboncoin.fr###oas-Right
 leboncoin.fr###oas-top1
 emule-island.ru###offerBox
@@ -6364,7 +6366,6 @@ tube-teen.fr###partenaire_link
 batiactu.com###partenaire_premium
 alalettre.com,fun-trades.com,hardware.fr,lemoteurdusexe.com,ouifm.fr,portail.free.fr,ucpa-vacances.com###partenaires
 largus.fr###partenaires-aside
-orange.fr###partenaires-lc-ab-testing
 letour.fr###partenaires2
 lexpress.fr###partenaires_crm
 portail.free.fr###partenairescontenu
@@ -6461,7 +6462,6 @@ algerie360.com###pub_rand300a
 algerie360.com###pub_rand300b
 entrecoquins.com###pub_tatoo
 voyageforum.com###pubbetween
-orange.fr###pubdudessous
 laredoute.fr###pubiframe_sky
 paris-communiques.com,plateformemedia.com###publaterale
 troc-velo.com###publine
@@ -6766,7 +6766,6 @@ jeuxvideo.fr##.block-jeux-micromania_offre
 d8.tv##.block-mozaic-pub
 orange.fr##.block-pub
 bricoleurdudimanche.com##.block-pub-ban-btm
-orange.fr##.block-pub-max-300x600
 bricoleurdudimanche.com##.block-pub-partenaires
 laposte.net##.blockShopping
 maison-travaux.fr##.blockUI
@@ -6801,7 +6800,6 @@ lepoint.fr##.branding
 mega-vesti.info,smartorrent.com##.btn-sm-rouge
 gamergen.com,generation-nt.com##.bup
 terrafemina.com##.c-product
-orange.fr##.campagnePUBcoldroite
 metronews.fr##.campaign-push-wrapper
 lejsl.com##.campaignImage
 lacentrale.fr##.caradisiac
@@ -6898,7 +6896,6 @@ lafermeduweb.net##.homePub
 abrutis.com##.home_menu_container
 lo.st##.home_partner_img
 meteosun.com##.hotelteaser
-orange.fr##.hp2-promo-area
 lepeinture.com##.iklan
 lemonde.fr##.immostreet
 pagesblanches.be,rtbf.be##.imu
