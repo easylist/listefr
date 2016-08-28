@@ -765,6 +765,7 @@ _waframedia_
 .online^*?zoneid=$popup
 .popunder.$popup
 .promorewards.$popup
+.superpromo.$popup
 .xyz^*&zone=$popup
 .xyz^*&zoneid=$popup
 .xyz^*?subid=$popup
@@ -2010,6 +2011,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||purlive.com^$popup,third-party
 ||px9y26.com^$popup,third-party
 ||qertewrt.com^$popup,third-party
+||rdsa2013.com^$popup,third-party
 ||redichat.com^$popup,third-party
 ||redpeepers.com^$popup,third-party
 ||reflexcash.com^$popup,third-party
@@ -8102,7 +8104,7 @@ _adblockdetector/
 @@||www.msn.com/advertisement.ad.js$script,domain=www.msn.com
 !
 leveldown.fr#@##adblock
-fdesouche.com,xavierstuder.com#@##adsense
+bleachmx.co,fdesouche.com,xavierstuder.com#@##adsense
 toplien.fr#@#.AdvertContainer
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
 !
