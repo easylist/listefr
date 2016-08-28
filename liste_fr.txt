@@ -6648,6 +6648,7 @@ montelimar-news.fr##.annonce_immo
 centre-presse.fr,lamontagne.fr,larep.fr,le-pays.fr,leberry.fr,lechorepublicain.fr,lejdc.fr,lepopulaire.fr,lyonne.fr##.annonce_prompteur
 voyageforum.com##.annoncer_sur
 lemonde.fr##.annonces_monster
+toplien.fr##.annuinv-index-gauche
 neowebcar.com##.argus-logo
 sortiesdvd.com##.art-Post[style="float: left"]
 sortiesdvd.com##.art-Post[style="float: right"]
@@ -7468,6 +7469,7 @@ seedpeer.eu##a[href^="/usenet.php?"]
 kerix.net##a[href^="LienExterne.asp?"]
 ladepeche.pf##a[href^="ads/"]
 youwatch-series.com##a[href^="dpstream.php?"]
+toplien.fr##a[href^="http://action.metaffiliation.com/trk.php?"]
 boursorama.com##a[href^="http://ads."]
 oujdacity.net##a[href^="http://ads.oujdacity.net/"]
 lotusnoir.info##a[href^="http://adv-myninja."]
@@ -8100,6 +8102,7 @@ _adblockdetector/
 !
 leveldown.fr#@##adblock
 fdesouche.com,xavierstuder.com#@##adsense
+toplien.fr#@#.AdvertContainer
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
 !
 @@||2folie.com^$elemhide
