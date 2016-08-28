@@ -3147,7 +3147,6 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ! dpstream.net
 |http://$script,third-party,xmlhttprequest,domain=dpstream.net
 |https://$script,third-party,xmlhttprequest,domain=dpstream.net
-||dpstream.net^$popup,~third-party
 ! dpseries.net
 |http://$script,third-party,xmlhttprequest,domain=dpseries.net
 |https://$script,third-party,xmlhttprequest,domain=dpseries.net
@@ -8039,7 +8038,7 @@ _adblockdetector/
 !
 @@.gif#$image,domain=sos-lettre.fr|youwatch-series.com
 @@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|naruto-mx.net|telecharger-jeuxpc.com
-@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|ddstream.com|dpstream.cc|dpstream.tv|leetgamerz.net|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net|youwatch-series.com
+@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|ddstream.com|dpstream.cc|leetgamerz.net|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net|youwatch-series.com
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdiscount.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
@@ -8121,8 +8120,6 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 @@||danslescoulisses.com^$elemhide
 @@||ddstream.com^$generichide
 @@||dpseries.net^$generichide
-@@||dpstream.cc^$elemhide
-@@||dpstream.tv^$elemhide
 @@||ebanque-pdf.com^$generichide
 @@||entrepriseindividuelle.info^$elemhide
 @@||h-img.xyz^$generichide
