@@ -1338,6 +1338,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||isanalyze.com^$third-party
 ||iwadserver.com^$third-party
 ||jazayr.net^$third-party
+||jbam.info^$third-party
 ||jedeconnebiensur.com^$third-party
 ||jedeconnebiensur2.com^$third-party
 ||jeregardegratuitementetsanslimite.eu^$third-party
@@ -1418,6 +1419,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||monetize-me.com^$third-party
 ||moneytize.fr^$third-party
 ||morevoluum.com^$third-party
+||motobile.info^$third-party
 ||motorsregie.com^$third-party
 ||moxielinks.com^$third-party
 ||mozoo.com^$third-party
@@ -2243,6 +2245,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||beurette-passion.com/ban/$third-party
 ||beurettes-faciles.com/promo/
 ||bit.ly$image,domain=teramixer.com
+||bit.ly^$domain=nintendo-master.com
 ||bit.ly^$image,domain=korben.info|phonandroid.com
 ||bit.ly^$popup,domain=telechargementz-streaming.com|teramixer.com
 ||bitchvolley.com/ban/$third-party
@@ -2464,6 +2467,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||hqq.tv/js/adb/adb.js
 ||href.li^$domain=youzapping.com
 ||i.alicdn.com/*/show-window/index.js
+||i.imgur.com^$domain=nintendo-master.com
 ||i58.servimg.com/u/f58/11/03/61/79/bannie*.png
 ||iceroket.com^$subdocument
 ||icpc.tv/banners/$domain=europeplusnet.info
@@ -2737,6 +2741,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||rollersexe.com/ban/$third-party
 ||roussillhotel.com/roussillhotel.png
 ||roxservers.com/images/banners/
+||royaume-du-jeu.com^$popup,domain=nintendo-master.com
 ||rue89.com^*/wall89/widget-
 ||ruedeslibraires.com/livre-affiliation/
 ||rueducommerce.fr/images/locales/*/widget/ban/
@@ -4189,7 +4194,6 @@ toutcash.com/images/bandeau-
 ||nextwarez.com/wp-content/uploads/*/seedibox.gif
 ||nikopik.com/wp-content/uploads/*/Pub-JeuxRouille.png
 ||nikozen.fr/wasnap_
-||nintendo-master.com/fichiers/Pub_
 ||niooz.fr/pub.php
 ||niveales.com/media/habillage/
 ||nofrag.com/v2k7/s/*.jpg
@@ -5830,6 +5834,7 @@ toutcash.com/images/bandeau-
 ##.shopperAds
 ##.show-pub
 ##.sidbar-ad1
+##.side-pub-img
 ##.side_content_pub
 ##.sidebar-ads160
 ##.sidebar-wrapper-advert
@@ -5846,6 +5851,7 @@ toutcash.com/images/bandeau-
 ##.sponsoredLinksInfo
 ##.sponsored_banner
 ##.sqrpub
+##.square-pub
 ##.srcPub
 ##.srcPubZone
 ##.tableAds
@@ -6698,6 +6704,7 @@ lindependant.fr##.auto300X250
 viamichelin.fr##.autoPromoCarTrawler
 totonova.com##.avi
 buzzly.fr##.ayl-ad-article
+nintendo-master.com##.back_content > a
 hdfever.fr##.background_clic
 zebulon.fr##.ban2
 e-jeune.net##.ban_carre_1366
@@ -6732,7 +6739,6 @@ une-recette.com##.bannierebas
 soonnight.com##.bas_colonne
 oopsbuzz.com##.behincontent
 ebay.fr##.beta-placement
-nintendo-master.com##.bg-block
 iladit.com##.bg-pub-interne
 moov.mg##.bgTGC
 ennaharonline.com##.big-ad2
@@ -6828,6 +6834,7 @@ strastv.com##.container_pubh_02
 lemonde.fr##.conteneur_ligatus
 quetelecharger.com##.content-bloc-pub
 cotemaison.fr,lexpress.fr##.content_inside_partner
+nintendo-master.com##.content_kelkoo_link
 thebadbuzz.com##.contenu_pop
 lotusnoir.info##.countclick
 games.softgames.de##.cpi-banner-description-content
@@ -7043,7 +7050,7 @@ topsante.com##.partner-block
 youpinet.com##.partner-listing
 rtl.fr##.partner-mdl
 phpboost.com##.partner-picture
-caci.dz,lavenir.net##.partners
+caci.dz,lavenir.net,nintendo-master.com##.partners
 gameblog.fr##.pave300
 fourchette-et-bikini.fr##.pavePub
 grands-reportages.com,montagnes-magazine.com##.pavepub
@@ -7194,7 +7201,6 @@ programme-tv.net##.shopping
 portail.free.fr##.shopping_carrousel_produit
 streamay.com##.showitonplayer
 liberte-algerie.com##.side-pub
-nintendo-master.com##.side-pub-img
 gmx.fr##.sideadd
 voyage-economique.fr##.sideaff-container
 igen.fr##.sidebar [id*="C"]
@@ -7245,7 +7251,6 @@ francetvsport.fr##.sponsored-container
 lokan.fr##.sponsors
 fifa.com##.sponsors-section
 msn.com##.sponsorship
-nintendo-master.com##.square-pub
 msn.com##.startpage > div.refreshbody[style^="top:"]
 msn.com##.stripecontainer[data-section-id="stripe.msstore"]
 imobie.fr##.support_guide_download_upper
@@ -7483,7 +7488,7 @@ torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
 challenges.fr##a[href^="http://assurance-emprunteur.challenges.fr/"]
 dhnet.be##a[href^="http://bf1.be/"] > img
 mega-vesti.info,smartorrent.com##a[href^="http://bit.do/"]
-bigbike-magazine.com,brain-magazine.fr,grimper.com,igen.fr,kiteboarder-mag.com,macg.co,montagnes-magazine.com,mubawab.ma,niveales.com,portail.free.fr,public.fr,skieur.com,skimagazine.fr,snowsurf.com,supmag.fr,trekmag.com,unleashed.fr,walking-dead-streaming.net,watchgeneration.fr,widermag.com,windmag.com##a[href^="http://bit.ly/"]
+bigbike-magazine.com,brain-magazine.fr,grimper.com,igen.fr,kiteboarder-mag.com,macg.co,montagnes-magazine.com,mubawab.ma,nintendo-master.com,niveales.com,portail.free.fr,public.fr,skieur.com,skimagazine.fr,snowsurf.com,supmag.fr,trekmag.com,unleashed.fr,walking-dead-streaming.net,watchgeneration.fr,widermag.com,windmag.com##a[href^="http://bit.ly/"]
 pubeco.fr,usbfix.net##a[href^="http://clic.reussissonsensemble.fr/"]
 algeriephilatelie.net##a[href^="http://clic.reussissonsensemble.fr/click.asp?"]
 tomtomax.fr##a[href^="http://clk.tradedoubler.com/"]
