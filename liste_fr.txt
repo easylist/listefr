@@ -456,6 +456,7 @@
 /pave_PUB_
 /PBTopAds.
 /plugins/vp_pub/*
+/pmd-gdfp-server.
 /pop-ads.
 /pop.php?user=
 /pop0.js|
@@ -3453,6 +3454,7 @@ toutcash.com/images/bandeau-
 ||cpmaffiliation.com/logo.php
 ||crack-wifi.com/forum/img/banniere-
 ||creadunet.com^*/overall_header_iframe.html
+||creas.prismamediadigital.com/tv/jeux-push/300x225-michelin.gif
 ||credit-agricole.fr/IMG/mp4/
 ||credit-az.net/pub/
 ||credits-on-line.info/pub/
@@ -4462,7 +4464,6 @@ toutcash.com/images/bandeau-
 ||static.neowebcar.com/app/nwc/pix/allianz-widget.jpg
 ||static.neowebcar.com/app/nwc/pix/cetelem-300.jpg
 ||static.pornovore.fr/droite/
-||static.programme-tv.net/var/medias-*-590x90-
 ||static.rtl.fr/versions/www/*/css/skin.css
 ||static.rtl.fr^*/skin/$stylesheet
 ||static.rtl.fr^*/skin/promo/
@@ -4967,6 +4968,7 @@ toutcash.com/images/bandeau-
 ###bloc-pub-gauche-160-600
 ###bloc-pub-header
 ###blocPub300
+###blocPub_MEGABAN
 ###blocPublicitaire
 ###bloc_pub
 ###bloc_pub_carre
@@ -5251,6 +5253,7 @@ toutcash.com/images/bandeau-
 ###pub_plop-1
 ###pub_plop-2
 ###pub_plop-3
+###pub_pole_position1
 ###pub_rectangle_moyen_bas
 ###pub_right
 ###pub_soonight
@@ -6082,7 +6085,6 @@ logitheque.com###bloc-milieu-300-250
 graphistesonline.com###bloc-partenaires
 logicielmac.com###bloc-pub-centre
 aujourdhui-en-france.fr,leparisien.fr###blocMarketing
-programme-tv.net###blocPub_MEGABAN
 mail.voila.fr,orange.fr###blocServices
 maisonbrico.com###blocSponsor
 montelimar-news.fr###bloc_promos
@@ -6457,7 +6459,6 @@ soonnight.com###pub_imu
 ouedkniss.com###pub_interstitiel
 smash-streaming.com,the-big-bang-streaming.com,trone-de-fer-streaming.com###pub_js
 lesmobiles.com###pub_middle_home
-programme-tv.net###pub_pole_position1
 algerie360.com###pub_rand300a
 algerie360.com###pub_rand300b
 entrecoquins.com###pub_tatoo
@@ -8033,14 +8034,14 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /modules/mod_jpayday/*
 _adblockdetector/
 !
-||photo.programme-tv.net/js/main-
+||photo.programme-tv.net/js/main-*.js$script
 !
 @@.gif#$image,domain=sos-lettre.fr|youwatch-series.com
 @@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|naruto-mx.net|telecharger-jeuxpc.com
 @@.png#$image,domain=bbstreaming.com|crash-aerien.aero|ddstream.com|dpstream.cc|leetgamerz.net|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net|youwatch-series.com
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
-@@/advertisement.js$script,domain=bricozone.fr|cdiscount.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|prismamediadigital.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
+@@/advertisement.js$script,domain=bricozone.fr|cdiscount.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|funeralforamanga.fr|gamersconnexion.com|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr
 @@/advertisement.js$script,~third-party,domain=greys-anatomy-en-streaming.fr|streamwatching.fr
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|ouest-france.fr|silicon.fr
 @@||195.154.104.$script,domain=multiup.org
@@ -8069,6 +8070,7 @@ _adblockdetector/
 @@||lafansubresistance.biz^$script,domain=lafansubresistance.biz
 @@||laprovence.com/sites/all/themes/lpv4/js/ads.js
 @@||linkbucks.com/scripts/script-adv.js$script,third-party
+@@||ops.prismamediadigital.com/js/advertisement.js$script
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net|leveldown.fr
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|crash-aerien.news|cuisineactuelle.fr|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|softmaroc.org|sos-lettre.fr|telephoneannuaire.fr|voyageforum.com|www.catnat.net
