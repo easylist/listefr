@@ -7431,8 +7431,8 @@ beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com,sports.fr##a[href*="sm
 mega-vesti.info,smartorrent.com##a[href*="tonlive.com"]
 lucariostream.eu##a[href*="univers-saiyan.com/"]
 cacastream.com,ddstream.com,youwatch-series.com##a[href*="xmediaserve"]
-t411.ch,t411.la,torrent-411.com##a[href="#"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
+t411.ch,t411.la,torrent-411.com##a[href="#"]:last-child
 t411.ch,t411.la,torrent-411.com##a[href="/download/"]
 corobizar.com##a[href="/g2a-link/"]
 pmu.fr##a[href="/mon-pmu/easypari"]
