@@ -2734,8 +2734,6 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||rendez-vous.be/scripts/Clients/
 ||rhcloud.com/*-affiliate-
 ||rhcloud.com^$domain=android-dz.com
-||rockub.com/ban/
-||rockub.com/widget/
 ||rollersexe.com/ban/$third-party
 ||roussillhotel.com/roussillhotel.png
 ||roxservers.com/images/banners/
@@ -3831,6 +3829,7 @@ toutcash.com/images/bandeau-
 ||jeux.org/vda/
 ||jeuxactu.com/js/ayl.js
 ||jeuxactu.com/theme/*.js?home=
+||jeuxetcompagnie.fr/wp-content/uploads/*/Habillage-
 ||jeuxme.net/wp-content/themes/*/images/336280.gif
 ||jeuxvideo.com/ope/
 ||jeuxvideo.com/pics/web/eaplay4free_300x100.jpg
@@ -7190,7 +7189,6 @@ senscritique.com##.sc-klass
 bakchich.info##.scpe-pub
 ouest-france.fr##.sd-deals
 sports.fr##.service[data-link$="\", \"target\":\"_blank\" \7d "]
-jeuxetcompagnie.fr##.sg-formulaire
 programme-tv.net##.shopping
 portail.free.fr##.shopping_carrousel_produit
 streamay.com##.showitonplayer
@@ -7275,6 +7273,7 @@ expat.com##.travel-insurance
 nextinpact.com##.trend-big + *
 portail.free.fr##.troiscent
 juritravail.com##.ui-pnotify
+jeuxetcompagnie.fr##.umbg-overlay-link
 forum-windows.com##.unibluelink
 forum-windows.com##.unixblue
 excel-pratique.com##.vba_300
@@ -7399,6 +7398,7 @@ ddl-island.su,emule-island.ru,stream-island.su##a[href*="/xxx/"]
 rtl.be##a[href*="://ad.doubleclick.net/"]
 comment-supprimer.com,igen.fr,macg.co,needsandmoods.com,refurbgeneration.com,sosiphone.com,watchgeneration.fr##a[href*="://ad.zanox.com/"]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
+jeuxetcompagnie.fr##a[href*="://www.ludeek.com/"] > img
 mistergooddeal.com##a[href*="=H_pub_"]
 demo-gk.goyavelab.com##a[href*="?"]
 nouvelobs.com##a[href*="?partner="]
