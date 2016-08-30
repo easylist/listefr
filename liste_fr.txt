@@ -3163,6 +3163,8 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 @@||ajax.googleapis.com^$domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
 |http://$script,third-party,xmlhttprequest,domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
 |https://$script,third-party,xmlhttprequest,domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
+! youwatch.org
+|http://$popup,domain=chouhaa.info|haouzy.info|kechekch.info|kerkessni.info|khaltek.info|rienlol.info|sikafika.info|smed79.info|tiziwezo.info|tozfike.info|ywhah.info|z7ilika.info
 ! imgur.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
