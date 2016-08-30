@@ -753,7 +753,7 @@ _waframedia_
 &bann=$popup
 &nsfw=&id_promo=$popup
 &pub_sub_id_$popup
-&publisherID=$popup
+&publisherid=$popup
 &utm_$popup,domain=dailymotion.com
 &utm_medium=ads$popup
 &ymid=ADSYS-$popup
@@ -1059,6 +1059,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||adwise.bg^$third-party
 ||adzmath.com^$third-party
 ||adzzone.com^$third-party
+||aemediatraffic.com^$third-party
 ||afairweb.com^$third-party
 ||affidate.com^$third-party
 ||affidirect.com^$third-party
@@ -2020,6 +2021,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||retargetads.net^$popup,third-party
 ||rev2pub.com^$popup,third-party
 ||revsharecash.com^$popup,third-party
+||riowrite.com^$popup,third-party
 ||rometroit.com^$popup,third-party
 ||rtbanalytics.com^$popup,third-party
 ||rvfrm2005.com^$popup,third-party
@@ -2071,6 +2073,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||tribalfusion.com^$popup,third-party
 ||trkfl.com^$popup,third-party
 ||trully-sun.top^$popup,third-party
+||turbofileindir.com^$popup,third-party
 ||url.rw^$popup,third-party
 ||urlcash.com^$popup,third-party
 ||vertoz.com^$popup,third-party
@@ -3610,6 +3613,7 @@ toutcash.com/images/bandeau-
 ||filmon-ads.com^$popup
 ||filmoviez.com/wp-content/plugins/social-traffic-pop/
 ||films-ddl.net/domabar.js
+||filmstreaming1.com/templates/filmstreaming/images/pub
 ||fitshr.net/pg.php
 ||flam.me/*/divers/partners/
 ||flashmatin.fr/pub/
@@ -4739,7 +4743,6 @@ toutcash.com/images/bandeau-
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
-||||filmstreaming1.com/templates/filmstreaming/images/pub
 ! cloudfront.net
 ||cloudfront.net/?cdlad=$script
 ||cloudfront.net/?dxsbd=$script
