@@ -806,6 +806,7 @@ _waframedia_
 /banner_s?*&auto_click=$popup
 /banredir.cgi?$popup
 /bdv_rd.dbm?$popup
+/click?*&subid=$popup
 /click?*=ad&$popup
 /click?adv=^$popup
 /click_lx.ads/*$popup
@@ -3168,6 +3169,11 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=greys-anatomy-en-streaming.fr
 |http://$script,third-party,domain=greys-anatomy-en-streaming.fr
 |https://$script,third-party,domain=greys-anatomy-en-streaming.fr
+! filmzenstream.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=filmzenstream.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=filmzenstream.com
+|http://$script,third-party,domain=filmzenstream.com
+|https://$script,third-party,domain=filmzenstream.com
 ! ebookdz.com
 |http://$script,third-party,xmlhttprequest,domain=ebookdz.com
 |https://$script,third-party,xmlhttprequest,domain=ebookdz.com
