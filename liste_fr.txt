@@ -2329,7 +2329,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
-||dailymotion.com^*autoplay=1$domain=anime301.com|bescherelletamere.fr|buzzutopia.com|hitek.fr|mangas-ddl-free.over-blog.com|mangaxd.com|otakufr.com|pokemon-streaming.com|pokercast.tv|sonyoutube.com|stream4free.pro|youzapping.com
+||dailymotion.com^*autoplay=1$domain=anime301.com|bescherelletamere.fr|buzzutopia.com|hitek.fr|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|otakufr.com|pokemon-streaming.com|pokercast.tv|sonyoutube.com|stream4free.pro|youzapping.com
 ||dailymotion.com^*mute=1$domain=captainmugiwara.over-blog.com
 ||damoh.schneevonmorgen.com^
 ||damtours.com/static/img/damtous_$third-party
@@ -3184,6 +3184,10 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 @@||ajax.googleapis.com^$domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
 |http://$script,third-party,xmlhttprequest,domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
 |https://$script,third-party,xmlhttprequest,domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
+! mavanime.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=mavanime.com
+|http://$script,third-party,domain=mavanime.com
+|https://$script,third-party,domain=mavanime.com
 ! youwatch.org / exashare.com
 |http://$popup,domain=ajihezo.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|haouzy.info|hehahe.info|kechekch.info|kerkessni.info|khaltek.info|rienlol.info|sidek.info|sikafika.info|smed79.info|tikamika.info|tiziwezo.info|tozfike.info|ywhah.info|z7ilika.info
 ! imgur.com
