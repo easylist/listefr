@@ -2575,6 +2575,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||maximumwall.com/images/top_ban_
 ||maxistreaming.com/pub.html
 ||mayakado.net/parrainage/
+||mclcm.net^$xmlhttprequest
 ||media-fire.org^$popup
 ||mediapostcommunication.net^
 ||mediastay.net^*/js/offers-dyn.
@@ -6321,6 +6322,7 @@ libertyland.tv###leleftbas + div[style="width:160px; margin-top:10px;"]
 grandecran.fr###les_pubs_locales
 orange.fr###lienComPart
 lfp.fr###lien_billeterie
+lachainemeteo.com###lig
 commentcamarche.net###lig_benchmark_commentcamarche_smartbox
 free.fr###lig_free_home_smartbox
 laprovence.com###lig_laprovence_smartbox
@@ -7828,7 +7830,7 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||player.mediabong.com/*/video.js$script,third-party,domain=medisite.fr
 @@||static.mediabong.com/scripts/mb.*.js$script,third-party,domain=medisite.fr
 |http://$script,third-party,domain=24matins.fr|begeek.fr|medisite.fr
-|http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
+|http://$script,third-party,xmlhttprequest,domain=igen.fr|lachainemeteo.com|macg.co|watchgeneration.fr
 |https://$script,third-party,domain=24matins.fr|begeek.fr|medisite.fr
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 !
