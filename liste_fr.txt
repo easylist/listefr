@@ -26,6 +26,7 @@
 &adv_sub=
 &arabycash_
 &campaign_key=
+&cbrandom=
 &cwadformat=
 &lr_adtype=
 &placement=*&ad=
@@ -652,7 +653,7 @@
 ?Page=*&Width=468&Height=60&
 ?publisher-adserver=
 ?redir=*/click?
-?runauction=*?crr=*&cbrandom=
+?runauction=
 @preroll/*,adb=$xmlhttprequest
 @publicite@
 \adds\adds.
@@ -751,9 +752,11 @@ _waframedia_
 &adtv=*_bnmngr_$popup
 &ban=*&pc=*&id=$popup
 &bann=$popup
+&cbiframe=$popup
 &nsfw=&id_promo=$popup
 &pub_sub_id_$popup
 &publisherid=$popup
+&runauction=$popup
 &utm_$popup,domain=dailymotion.com
 &utm_medium=ads$popup
 &ymid=ADSYS-$popup
@@ -820,6 +823,7 @@ _waframedia_
 /offer?*&placement=$popup
 /out.php?link=t$popup
 /out?zoneId=$popup
+/packcpm.$popup
 /partner/click/*$popup
 /pdv/track.php?$popup
 /pop?dfp_id=$popup
@@ -854,7 +858,7 @@ _waframedia_
 ?id_rotation=$popup
 ?MediaSegmentId=$popup
 ?preview=*&pgid*&from_sz=$popup
-?runauction=*?crr=*&ctbust=$popup
+?runauction=$popup
 ?voluumdata=$popup
 ?zoneid=$popup,domain=ddlfr.org
 _adb_300x250_$popup
@@ -1995,6 +1999,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||ohmyad.co^$popup,third-party
 ||olmeramarketing.com^$popup,third-party
 ||onclasrv.com^$popup,third-party
+||onclickprediction.com^$popup,third-party
 ||othip.info^$popup,third-party
 ||ouaitupeuxregarderenillimite.com^$popup,third-party
 ||poptm.com^$popup,third-party
@@ -2088,6 +2093,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||vkunlock3.eu^$popup,third-party
 ||voluums.com^$popup,third-party
 ||votdengi.club^$popup,third-party
+||wardparser.info^$popup,third-party
 ||watchformytechstuff.com^$popup,third-party
 ||wct.link^$popup,third-party
 ||webprod.cybertesteurs.com^$popup,third-party,domain=~iss.net
@@ -3166,10 +3172,8 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 @@||ajax.googleapis.com^$domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
 |http://$script,third-party,xmlhttprequest,domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
 |https://$script,third-party,xmlhttprequest,domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
-! youwatch.org
-|http://$popup,domain=chouhaa.info|haouzy.info|kechekch.info|kerkessni.info|khaltek.info|rienlol.info|sikafika.info|smed79.info|tiziwezo.info|tozfike.info|ywhah.info|z7ilika.info
-! exashare.com
-|http://$popup,domain=ajihezo.info|bojem3a.info|chefti.info|daweya.info|tikamika.info
+! youwatch.org / exashare.com
+|http://$popup,domain=ajihezo.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|haouzy.info|kechekch.info|kerkessni.info|khaltek.info|rienlol.info|sikafika.info|smed79.info|tikamika.info|tiziwezo.info|tozfike.info|ywhah.info|z7ilika.info
 ! imgur.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
