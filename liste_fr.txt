@@ -6722,6 +6722,7 @@ igen.fr##.article [id*="Z"]
 igen.fr##.article [id] > img
 igen.fr,macg.co##.article a > img
 igen.fr##.article a[class]
+igen.fr##.article div + [class]:last-child > img
 elhayatonline.net##.article-body + div[style*="width: 336px;"]
 madmoizelle.com##.article_banner
 madmoizelle.com##.article_pub
@@ -7374,7 +7375,7 @@ medisite.fr##[class] > img
 film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.nu,libre-stream.com,planet-streaming.com,vfilmze.com,youwatchfilm.net##[class^="PapaGoo"]
 footnamurois.com##[class^="banners-"]
 forumconstruire.com##[class^="habillage"]
-macg.co##[class^="lig_"]
+igen.fr,macg.co##[class^="lig_"]
 nrj.fr##[class^="modal"]
 ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
 guide-piscine.fr##[class^="regie_"]
@@ -7817,12 +7818,14 @@ igen.fr##.article a[-abp-properties='display: block;']
 macg.co##.article div a[-abp-properties='background-image: *;']
 igen.fr,macg.co##.article span[-abp-properties='background-image: *;']
 igen.fr,macg.co##.article span[-abp-properties='padding-top: *px;']
+igen.fr##.content [-abp-properties='height: 60*px;']
+igen.fr##.content [-abp-properties='width: 30*px;']
 igen.fr##.region-sidebar a[-abp-properties='*']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 igen.fr##.view-content [-abp-properties='background-image:*;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='*: 300px;']
 medisite.fr##[-abp-properties='background-image: *;']
-macg.co##[-abp-properties='background-image: url(*;']
+igen.fr,macg.co##[-abp-properties='background-image: url(*;']
 medisite.fr##[-abp-properties='cursor: pointer;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 24matins.fr##[-abp-properties='display:flex;']
@@ -7833,7 +7836,7 @@ begeek.fr##[-abp-properties='height: 5*px;'] > img
 begeek.fr##[-abp-properties='height: 6*px;']
 24matins.fr##[-abp-properties='margin-bottom: 15px;']
 cacastream.com,ddstream.com,protect-stream.com,youwatch-series.com##[-abp-properties='opacity: *;']
-macg.co##[-abp-properties='padding-bottom: 50*px;']
+igen.fr,macg.co##[-abp-properties='padding-bottom: 50*px;']
 24matins.fr##[-abp-properties='padding-top: 40*px;']
 nextinpact.com##[-abp-properties='width: 300px;']
 medisite.fr##[-abp-properties='width: 670px;']
@@ -7845,9 +7848,9 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||disqus.com^$script,third-party,domain=medisite.fr
 @@||player.mediabong.com/*/video.js$script,third-party,domain=medisite.fr
 @@||static.mediabong.com/scripts/mb.*.js$script,third-party,domain=medisite.fr
-|http://$script,third-party,domain=24matins.fr|begeek.fr|medisite.fr
+|http://$script,third-party,domain=24matins.fr|aventure-apple.com|begeek.fr|ioccasion.fr|macgeneration.com|medisite.fr|refurbgeneration.com
 |http://$script,third-party,xmlhttprequest,domain=igen.fr|lachainemeteo.com|macg.co|watchgeneration.fr
-|https://$script,third-party,domain=24matins.fr|begeek.fr|medisite.fr
+|https://$script,third-party,domain=24matins.fr|aventure-apple.com|begeek.fr|ioccasion.fr|macgeneration.com|medisite.fr|refurbgeneration.com
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 !
 !----------------------- Exceptions -----------------------!
