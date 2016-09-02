@@ -3200,6 +3200,10 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=mavanime.com
 |http://$script,third-party,domain=mavanime.com
 |https://$script,third-party,domain=mavanime.com
+! uptostream.com
+@@||ajax.googleapis.com^$script,domain=uptostream.com
+|http://$script,third-party,xmlhttprequest,domain=uptostream.com
+|https://$script,third-party,xmlhttprequest,domain=uptostream.com
 ! youwatch.org / exashare.com
 |http://$popup,domain=6ltchp.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|ewazid.info|hadikla.info|haouzy.info|hehahe.info|kechekch.info|kerkessni.info|khaltek.info|maliana.info|mazlote.info|msemen.info|rienlol.info|sidek.info|sikafika.info|sirgoleha.info|smed79.info|tikamika.info|tiziwezo.info|tozfike.info|ywhah.info|z7ilika.info
 ! imgur.com
