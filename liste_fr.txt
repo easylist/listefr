@@ -6345,7 +6345,6 @@ libertyland.tv###leleftbas + div[style="width:160px; margin-top:10px;"]
 grandecran.fr###les_pubs_locales
 orange.fr###lienComPart
 lfp.fr###lien_billeterie
-lachainemeteo.com###lig
 commentcamarche.net###lig_benchmark_commentcamarche_smartbox
 free.fr###lig_free_home_smartbox
 laprovence.com###lig_laprovence_smartbox
@@ -7866,7 +7865,7 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||player.mediabong.com/*/video.js$script,third-party,domain=medisite.fr
 @@||static.mediabong.com/scripts/mb.*.js$script,third-party,domain=medisite.fr
 |http://$script,third-party,domain=24matins.fr|aventure-apple.com|begeek.fr|ioccasion.fr|macgeneration.com|medisite.fr|refurbgeneration.com
-|http://$script,third-party,xmlhttprequest,domain=igen.fr|lachainemeteo.com|macg.co|watchgeneration.fr
+|http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 |https://$script,third-party,domain=24matins.fr|aventure-apple.com|begeek.fr|ioccasion.fr|macgeneration.com|medisite.fr|refurbgeneration.com
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 !
