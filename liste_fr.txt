@@ -1119,6 +1119,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||azzerr.ovh^$third-party
 ||badibadou.eu^$third-party
 ||bakelitestationarityspouse.info^$third-party
+||banstex.com^$third-party
 ||bargetbook.com^$third-party
 ||baseandco.com^$third-party
 ||basebanner.com^
@@ -1605,7 +1606,6 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||sarmady.net^$third-party
 ||sasqos.com^$third-party
 ||say.fr^$third-party
-||script.banstex.com^$third-party
 ||sddan.com^$third-party
 ||sdk-ads.com^$third-party
 ||see-work.info^$third-party
@@ -6021,6 +6021,7 @@ toutcash.com/images/bandeau-
 ##div[id^="block-dfp-728-"]
 ##div[onclick*="/regiedeep.php?"]
 ##gwd-doubleclick
+##script[src^="http://www.pubdirecte.com/script/"]
 ##section[onclick*="/publicite-300-250/"]
 ##table > tbody > tr > td > a[href="http://www.pubdirecte.com"]
 !
@@ -7720,7 +7721,6 @@ voyageforum.com##div[style="width: 300px; height: 250px;"]
 groupon.fr##div[style="width: 445px; margin: 8px auto; text-align: center; background-color: #fff; border: 1px solid #e4e4e4;"]
 bricozone.be##div[style="width: 728px; height: 90px; overflow: hidden;"]
 dzfoot.com##div[style="width:100%;  height:587px;"]
-debrideurstreaming.com##div[style="width:100%; height:110px; padding-top:100px; padding-right:2px; color:#FFF; background:url(images/pub011.png) no-repeat -25px; margin:auto; text-align:center; padding-bottom:6px;"]
 h-suki.com##div[style="width:1020px;\a margin-left: auto; text-align:center;\a margin-right: auto; height: 100px;"]
 forum.webxfrance.org##div[style="width:1230px; height: 110px; background-color: #eff1f1"]
 strasbourg-tramway.fr##div[style="width:125px;height:125px;text-align:center"]
@@ -7787,7 +7787,6 @@ bonjourmadame.fr##object[width="728"][height="90"]
 ouedkniss.com#habillage_flash
 t411.ch,t411.tv##p[style="width: 400px; margin: 0 auto; color: darkorange"]
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
-debrideurstreaming.com##script[src="http://www.pubdirecte.com/script/pop.php?id=48523&ref=23821"] + table[style="float:right; margin-right:50px;"]
 omgtorrent.me##span > a:first-child
 mega-vesti.info,smartorrent.com##span[style^="cursor:pointer;"] > a
 boursorama.com##style + div > .visible-desktop:first-child
