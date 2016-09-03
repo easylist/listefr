@@ -791,6 +791,7 @@ _waframedia_
 /a4u_banner_.$popup
 /ad.*/aff_$popup
 /adcint/*$popup
+/adexchangelive.$popup
 /adplexmedia/*$popup
 /ads.php?$popup
 /ads/out.$popup
@@ -875,6 +876,7 @@ _redir.php?id_rotation=$popup
 _regie/clic.$popup
 data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||adv-mybankai.$popup
+||xml.*/click?$popup
 !
 !----------------------- Annonceurs -----------------------!
 !
@@ -1827,6 +1829,8 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||ad6media.fr^$popup,third-party
 ||adbooth.com^$popup,third-party
 ||adbucks.com^$popup,third-party
+||addragonppc.com^$popup,third-party
+||adexchangelive.com^$popup,third-party
 ||adexchangeprediction.com^$popup,third-party
 ||adexchangetracker.com^$popup,third-party
 ||adexint.com^$popup,third-party
@@ -1835,6 +1839,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||adfornet.com^$popup,third-party
 ||adhoc1.net^$popup,third-party
 ||adit-media.com^$popup,third-party
+||adjux.com^$popup,third-party
 ||admailtiser.com^$popup,third-party
 ||admarketplace.net^$popup,third-party
 ||adminlady.info^$popup,third-party
@@ -1851,6 +1856,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||adserverpub.com^$popup,third-party
 ||adservingsolutionsinc.com^$popup,third-party
 ||adservme.com^$popup,third-party
+||adsguru.co^$popup,third-party
 ||adskeeper.co.uk^$popup,third-party
 ||adstract.com^$popup,third-party
 ||adventurefeeds.com^$popup,third-party
@@ -1861,6 +1867,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||advertsight.com^$popup,third-party
 ||advmaker.net^$popup,third-party
 ||adxcore.com^$popup,third-party
+||adxfactory.com^$popup,third-party
 ||adxprts.com^$popup,third-party
 ||affilanity.com^$popup,third-party
 ||affiliation-france.com^$popup,third-party
@@ -1909,6 +1916,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||coosc.info^$popup,third-party
 ||copyop-ads.com^$popup,third-party
 ||coquines-dispo.com^$popup,third-party
+||cortexmg.com^$popup,third-party
 ||cound.info^$popup,third-party
 ||cpm.wargaming.net^$popup,third-party
 ||cptefr.com^$popup,third-party
@@ -1961,6 +1969,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||imitrk.com^$popup,third-party
 ||infoyours.info^$popup,third-party
 ||infra.systems^$popup,third-party
+||instanceyou.info^$popup,third-party
 ||irclick.net^$popup,third-party
 ||isanalyze.com^$popup,third-party
 ||justgetitfaster.com^$popup,third-party
@@ -1980,6 +1989,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||medleyads.com^$popup,third-party
 ||medncom.com^$popup,third-party
 ||meetaffiliate.com^$popup,third-party
+||mistralads.com^$popup,third-party
 ||mmtracking.com^$popup,third-party
 ||mmtrkbb.com^$popup,third-party
 ||mmtrkpy.com^$popup,third-party
@@ -2050,6 +2060,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||rometroit.com^$popup,third-party
 ||rotorrents.com^$popup,third-party
 ||rtbanalytics.com^$popup,third-party
+||rtbzone.com^$popup,third-party
 ||rvfrm2005.com^$popup,third-party
 ||safelinktracker.com^$popup,third-party
 ||scredir10.com^$popup,third-party
@@ -3212,7 +3223,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 |http://$subdocument,third-party,domain=uploaded.net
 |https://$subdocument,third-party,domain=uploaded.net
 ! youwatch.org / exashare.com
-|http://$popup,domain=6ltchp.xyz|99cavn.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|erd9x4.xyz|ewazid.info|hadikla.info|haouzy.info|hehahe.info|kechekch.info|kerkessni.info|khaltek.info|maliana.info|mazlote.info|msemen.info|rienlol.info|sidek.info|sikafika.info|sirgoleha.info|smed79.info|tikamika.info|tiziwezo.info|tozfike.info|ywhah.info|z7ilika.info
+|http://$popup,domain=6ltchp.xyz|99cavn.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|erd9x4.xyz|euc4gt.xyz|ewazid.info|hadikla.info|haouzy.info|hehahe.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|maliana.info|mazlote.info|msemen.info|rienlol.info|sidek.info|sikafika.info|sirgoleha.info|smed79.info|tikamika.info|tiziwezo.info|tozfike.info|ywhah.info|z7ilika.info
 ! imgur.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
