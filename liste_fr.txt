@@ -92,6 +92,7 @@
 .com.sa/ads/
 .com/adj/
 .com/adpro.
+.com/bnrs/$subdocument
 .dz/ads/
 .dz/ads_
 .fr/_adv/
@@ -119,6 +120,7 @@
 .php?*&synergie=*&size=
 .php?banner=$subdocument
 .php?id=*&ref=$script,third-party
+.php?img_adv=
 .php?style=160x600-
 .php?style=300x250-
 .php?style=468x60-
@@ -324,6 +326,7 @@
 /bnr?*=$script
 /brightcoveAds.
 /bshow.php?dimension=$script,third-party
+/bshow.php?id=*&dimension=
 /campagne/redir/*
 /carrepubHome.
 /cdn-ads-
@@ -451,6 +454,7 @@
 /pages_ads.
 /panel_regie/*
 /pariez-h728.
+/partners.php?id=
 /partners/ads-
 /partners/rotator.
 /partnertag/iframe.
@@ -779,6 +783,8 @@ _waframedia_
 .online^*?zoneid=$popup
 .popunder.$popup
 .promorewards.$popup
+.site^*?subid=$popup
+.site^*?zoneid=$popup
 .superpromo.$popup
 .xyz^*&zone=$popup
 .xyz^*&zoneid=$popup
@@ -802,6 +808,7 @@ _waframedia_
 /adservingsolutionsinc/*$popup
 /adsys.$popup
 /adsys/*$popup
+/adult/*?zoneid=$popup
 /adv-op2.$popup
 /adv.php$popup
 /adv_clk_redirect.$popup
@@ -1629,6 +1636,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||shoppingate.info^$third-party
 ||shoppytab.com^$third-party
 ||shortgoo.com^$third-party
+||shortinfo.mobi^$third-party
 ||showgirl.ch^$third-party
 ||silvercdn.ryukyu^$third-party
 ||similardeals.net^$third-party
@@ -1636,6 +1644,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||smart-dn.com^$third-party
 ||smartstream.tv^$third-party
 ||smartxads^$third-party
+||smilered.com^$third-party
 ||snake-leads.com^$third-party
 ||spaceshipads.com^$third-party
 ||spb2011.com^$third-party
@@ -1703,8 +1712,10 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||trafstore.com^$third-party
 ||trck.eu^$third-party
 ||trck.me^$third-party
+||tredman.com^$third-party
 ||tubicash.biz^$third-party
 ||tubicash.com^$third-party
+||twodrive.su^$third-party
 ||tworismo.com^$third-party
 ||txlpzpihveg.net^$third-party
 ||ultrafiles.co^$third-party
