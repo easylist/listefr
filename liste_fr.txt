@@ -286,6 +286,7 @@
 /bandeau-pub-
 /bandeaupublicite/*
 /bandito.php?p=$xmlhttprequest
+/banLight.js?ref=
 /bann468X60.
 /Banner-Tag-
 /banner/*/sponsored?
@@ -786,6 +787,7 @@ _waframedia_
 .site^*?subid=$popup
 .site^*?zoneid=$popup
 .superpromo.$popup
+.xyz/*==|$popup,third-party
 .xyz^*&zone=$popup
 .xyz^*&zoneid=$popup
 .xyz^*?subid=$popup
@@ -1981,6 +1983,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||imitrk.com^$popup,third-party
 ||infoyours.info^$popup,third-party
 ||infra.systems^$popup,third-party
+||installcdnfile.com^$popup,third-party
 ||instanceyou.info^$popup,third-party
 ||irclick.net^$popup,third-party
 ||isanalyze.com^$popup,third-party
@@ -1997,6 +2000,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||marsads.com^$popup,third-party
 ||maxidivx.com^$popup,third-party
 ||maxonclick.com^$popup,third-party
+||mediasaleads.com^$popup,third-party
 ||mediavenus.biz^$popup,third-party
 ||medleyads.com^$popup,third-party
 ||medncom.com^$popup,third-party
@@ -4842,6 +4846,7 @@ toutcash.com/images/bandeau-
 ||d1eyk8qbbvsiyg.cloudfront.net^
 ||d1gp9nlx229wzz.cloudfront.net^
 ||d1izbwxtc3f9ue.cloudfront.net^
+||d1k29rhvz38kg5.cloudfront.net^
 ||d1rb5wwywwoqqm.cloudfront.net^
 ||d1sj3yrs7ojvv7.cloudfront.net^
 ||d1uydqzj7b9nt9.cloudfront.net^
