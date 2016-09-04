@@ -2706,6 +2706,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||partners.cmptch.com^
 ||partners.neteventsmedia.be^$third-party
 ||partners.pmu.fr^
+||partners.tremorhub.com^
 ||paruvendu.fr^$subdocument,third-party
 ||passion-auto.me/pub.
 ||passion-auto.me/pub1.
@@ -5560,6 +5561,7 @@ toutcash.com/images/bandeau-
 ##.advn_zone
 ##.adwords_bottom
 ##.adziner-adzone
+##.annnonces_partenaires
 ##.annonce_pub_contenu
 ##.annonces_google
 ##.aside-pub-300
@@ -5606,6 +5608,7 @@ toutcash.com/images/bandeau-
 ##.container-pubcarre
 ##.contenedorAds
 ##.conteneur_ligatus
+##.conteneur_pub
 ##.conteneur_pub_250250
 ##.conteneur_pub_footer
 ##.conteneur_pub_horiz
@@ -6746,7 +6749,6 @@ heures.be##.affbox
 captainmugiwara.over-blog.com##.afterload
 hdfever.fr,homecinema-fr.com##.aliencable-link
 sitesavisiter.com##.alj
-lemonde.fr##.annnonces_partenaires
 webrankinfo.com##.annonce-gris
 montelimar-news.fr##.annonce_bloc
 montelimar-news.fr##.annonce_immo
@@ -6854,7 +6856,6 @@ psychologies.com##.bloc_abo
 programme-television.org##.bloc_evt
 reducavenue.com##.bloc_iab
 lemonde.fr##.bloc_nimp
-lemonde.fr##.bloc_part
 lexpress.fr##.bloc_partenaire
 tv5.org##.bloc_promomiddle
 creativejuiz.fr##.bloc_pub
@@ -6926,7 +6927,6 @@ allocine.fr##.coltop
 tirage-gagnant.com##.compteBar
 pagesjaunes.fr##.containerPdsSitesPartenaires
 strastv.com##.container_pubh_02
-lemonde.fr##.conteneur_ligatus
 quetelecharger.com##.content-bloc-pub
 cotemaison.fr,lexpress.fr##.content_inside_partner
 nintendo-master.com##.content_kelkoo_link
@@ -7001,7 +7001,6 @@ abrutis.com##.home_menu_container
 lo.st##.home_partner_img
 meteosun.com##.hotelteaser
 lepeinture.com##.iklan
-lemonde.fr##.immostreet
 pagesblanches.be,rtbf.be##.imu
 megaupload-download.net##.infoblock
 boursorama.com##.injected.block
@@ -7190,7 +7189,7 @@ pornofrance.org##.promomenu
 meteosun.com##.promote_large
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
-abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,ennaharonline.com,europages.ma,fan-de-cinema.com,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lesdebiles.com,lesoir.be,lexpress.fr,liensporno.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,slate.fr,sofoot.com,soonnight.com,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zone-series.biz,zupimages.net##.pub
+abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,ennaharonline.com,europages.ma,fan-de-cinema.com,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lemonde.fr,lesdebiles.com,lesoir.be,lexpress.fr,liensporno.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,slate.fr,sofoot.com,soonnight.com,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zone-series.biz,zupimages.net##.pub
 basketusa.com##.pub-1000x90-top
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
@@ -7710,7 +7709,6 @@ msn.com##div[data-aop="stripe.autos.ad_ad"]
 msn.com##div[data-aop="stripe.health.ad_ad"]
 msn.com##div[data-aop^="stripe.shopping"]
 msn.com##div[data-module-id*=".shopping."]
-lemonde.fr##div[data-name^="annonces"]
 allocine.fr##div[data-w="clickCommand"]
 notebookcheck.biz##div[id] + div[class] > img:first-child
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
