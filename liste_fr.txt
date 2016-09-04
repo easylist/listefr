@@ -291,6 +291,7 @@
 /bann468X60.
 /Banner-Tag-
 /banner/*/sponsored?
+/banner/*?site_id=
 /banner300.
 /banner468-
 /banner720x90/?ad=
@@ -763,6 +764,7 @@ _waframedia_
 &ban=*&pc=*&id=$popup
 &bann=$popup
 &cbiframe=$popup
+&id_rotation=$popup
 &nsfw=&id_promo=$popup
 &pub_sub_id_$popup
 &publisherid=$popup
@@ -882,6 +884,7 @@ _adb_300x250_$popup
 _adb_728x90_$popup
 _domain=ads.$popup
 _pop.php?z=$popup
+_pornofolies_$popup
 _redir.php?id_rotation=$popup
 _regie/clic.$popup
 data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
@@ -3139,8 +3142,8 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 |http://$script,third-party,xmlhttprequest,domain=ddlfr.org
 |https://$script,third-party,xmlhttprequest,domain=ddlfr.org
 ! cpasbien.cm
-|http://$script,third-party,domain=cpasbien.cm
-|https://$script,third-party,domain=cpasbien.cm
+|http://$script,third-party,domain=cpasbien.cm|cpasbien.io
+|https://$script,third-party,domain=cpasbien.cm|cpasbien.io
 ! zetorrents.com
 |http://$popup,script,third-party,domain=zetorrents.com
 |https://$popup,script,third-party,domain=zetorrents.com
