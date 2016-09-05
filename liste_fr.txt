@@ -1746,6 +1746,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 ||viperishly.com^$third-party
 ||visadd.com^$third-party
 ||visibay.com^$third-party
+||visualwebsiteoptimizer.com^$third-party
 ||vkunlock3.eu^$third-party
 ||vmedia.tv^$third-party
 ||vo-publishing.be^$third-party
@@ -3247,6 +3248,7 @@ data:text/html;base64,$popup,domain=adf.ly|uptobox.com|uptostream.com
 |http://$script,third-party,xmlhttprequest,domain=uptostream.com
 |https://$script,third-party,xmlhttprequest,domain=uptostream.com
 ! uploaded.net
+uploaded.net###fakeContentBoxContainer
 |http://$subdocument,third-party,domain=uploaded.net
 |https://$subdocument,third-party,domain=uploaded.net
 ! youwatch.org / exashare.com
