@@ -3246,6 +3246,7 @@ data:text/html;base64,$popup,domain=adf.ly|openload.co|uptobox.com|uptostream.co
 |https://$script,third-party,domain=mavanime.com
 ! uptostream.com
 @@||ajax.googleapis.com^$script,domain=uptostream.com
+@@||uptobox.com/jquery-1.8.3.min.js$script,domain=uptostream.com
 |http://$script,third-party,xmlhttprequest,domain=uptostream.com
 |https://$script,third-party,xmlhttprequest,domain=uptostream.com
 ! uploaded.net
