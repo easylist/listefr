@@ -2462,6 +2462,7 @@ _regie/clic.$popup
 ||eurosportbet.loa24.com^$domain=eurosport.fr
 ||evolucare.com/bannieres/
 ||exashare.com/ici.html
+||facebook.com^$subdocument,domain=senscritique.com
 ||facebook.net/*/sdk.js$script,domain=lexpress.fr
 ||fanslave.com/images/stories/*/banner-$third-party
 ||fapbase.com/widgets?
@@ -5640,6 +5641,7 @@ toutcash.com/images/bandeau-
 ##.content-ad-bloc
 ##.cubes-ads
 ##.custom-advert-banner-frame
+##.d-ad-megaBan
 ##.deck--below-ads
 ##.deck--top-ads
 ##.dfp > a > img
@@ -7721,6 +7723,7 @@ cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor=
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 igen.fr##br + div + div + div
+senscritique.com##div > ul > li > [data-rel]
 forumpiscine.com##div#\31
 forumconstruire.com##div#\32
 domimmo.com##div#an-fin
@@ -7924,6 +7927,7 @@ igen.fr##.view-content [-abp-properties='background-image:*;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='*: 300px;']
 medisite.fr##[-abp-properties='background-image: *;']
 igen.fr,macg.co##[-abp-properties='background-image: url(*;']
+senscritique.com##[-abp-properties='background-position: *;']
 medisite.fr##[-abp-properties='cursor: pointer;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 24matins.fr##[-abp-properties='display:flex;']
