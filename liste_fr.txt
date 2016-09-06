@@ -770,6 +770,7 @@ _waframedia_
 &pub_sub_id_$popup
 &publisherid=$popup
 &runauction=$popup
+&tid=*&ref=*embed-$popup
 &utm_$popup,domain=dailymotion.com
 &utm_medium=ads$popup
 &ymid=ADSYS-$popup
@@ -870,6 +871,8 @@ _waframedia_
 /trk/|$popup
 /unsub_aff.$popup
 /xdirect.html?$popup
+=*&referrer=*embed-$popup
+=adplexmedia&$popup
 =partenariat&utm_campaign=$popup
 =pubdirecte&$popup
 ?action=linkpub&$popup
@@ -3266,11 +3269,13 @@ uploaded.net###fakeContentBoxContainer
 |https://$subdocument,third-party,domain=uploaded.net
 ! youwatch.org / exashare.com
 |http://$popup,domain=6ltchp.info|6ltchp.xyz|99cavn.info|99cavn.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|erd9x4.xyz|euc4gt.xyz|ewazid.info|hadikla.info|haouzy.info|hehahe.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|lnxt1a.info|lnxt1a.xyz|maliana.info|mazlote.info|msemen.info|qu76rs.info|qu76rs.xyz|rienlol.info|sidek.info|sikafika.info|sirgoleha.info|smed79.info|tikamika.info|tiziwezo.info|tozfike.info|ywhah.info|z7ilika.info
-! imgur.com
+! images hosting
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
 ||i.imgur.com/qC2Tc51.png
 ||i.imgur.com/SmRC1lO.png
+||img11.hostingpics.net/pics/517373PubSFR.jpg
+||img15.hostingpics.net/pics/264067bANNsfr.jpg
 ! https://forums.lanik.us/viewtopic.php?f=62&t=25548
 ||festivalnikon.fr/video/$popup
 ||uptoporn.com/randomize/$popup
