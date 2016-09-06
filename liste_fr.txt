@@ -1981,6 +1981,7 @@ data:text/html;base64,$popup,domain=adf.ly|openload.co|uptobox.com|uptostream.co
 ||flowlz.com^$popup,third-party
 ||fungoiddempseyimpasse.info^$popup,third-party
 ||gamingaffiliation.com^$popup,third-party
+||geniusdisplay.com^$popup,third-party
 ||gestionpub.com^$popup,third-party
 ||getgamers.eu^$popup,third-party
 ||getlinksinaseconds.com^$popup,third-party
@@ -2185,7 +2186,7 @@ data:text/html;base64,$popup,domain=adf.ly|openload.co|uptobox.com|uptostream.co
 .ovh^$domain=huffingtonpost.fr|lemonde.fr|telerama.fr
 .xyz^$domain=filmvf.ws
 ://*qertewrt.com^$popup
-|http://$popup,domain=getmytorrent.com|ultimedia.com|up07.net|uploaded.net|uptobox.com|uptostream.com
+|http://$popup,domain=getmytorrent.com|teramixer.com|ultimedia.com|up07.net|uploaded.net|uptobox.com|uptostream.com
 |http://$popup,~third-party,domain=flashx.tv
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
@@ -2317,6 +2318,7 @@ data:text/html;base64,$popup,domain=adf.ly|openload.co|uptobox.com|uptostream.co
 ||bit.ly^$image,domain=korben.info|phonandroid.com
 ||bit.ly^$popup,domain=telechargementz-streaming.com|teramixer.com
 ||bitchvolley.com/ban/$third-party
+||bitly.com/teraplayerplay$popup
 ||blablaland.com/pubosaure/
 ||block.mediavenus.biz^
 ||block.s*block.com^$script
