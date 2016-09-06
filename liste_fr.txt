@@ -779,6 +779,7 @@ _waframedia_
 -popunder.php?$popup
 .com.sa/ads?$popup
 .exclusiverewards.$popup
+.info/*==|$popup,third-party
 .info/watch?key=$popup,third-party
 .loading-delivery2.$popup
 .online^*&pid=$popup
@@ -3267,7 +3268,7 @@ uploaded.net###fakeContentBoxContainer
 |http://$subdocument,third-party,domain=uploaded.net
 |https://$subdocument,third-party,domain=uploaded.net
 ! youwatch.org / exashare.com
-|http://$popup,domain=6ltchp.info|6ltchp.xyz|99cavn.info|99cavn.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|erd9x4.info|erd9x4.xyz|euc4gt.xyz|ewazid.info|fem3sz.info|hadikla.info|haouzy.info|hehahe.info|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|lnxt1a.info|lnxt1a.xyz|maliana.info|mazlote.info|msemen.info|qu76rs.info|qu76rs.xyz|rienlol.info|sidek.info|sikafika.info|sirgoleha.info|smed79.info|tikamika.info|tiziwezo.info|tozfike.info|ywhah.info|z7ilika.info
+|http://$popup,domain=6ltchp.info|6ltchp.xyz|99cavn.info|99cavn.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|erd9x4.info|erd9x4.xyz|euc4gt.xyz|ewazid.info|f55r4a.info|fem3sz.info|hadikla.info|haouzy.info|hehahe.info|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|lnxt1a.info|lnxt1a.xyz|maliana.info|mazlote.info|msemen.info|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|sidek.info|sikafika.info|sirgoleha.info|smed79.info|tikamika.info|tiziwezo.info|tozfike.info|ywhah.info|z7ilika.info
 ! images hosting
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
