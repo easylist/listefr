@@ -827,6 +827,7 @@ _waframedia_
 /banner_s?*&auto_click=$popup
 /banredir.cgi?$popup
 /bdv_rd.dbm?$popup
+/click/*?affiliate=$popup
 /click?*&subid=$popup
 /click?*=ad&$popup
 /click?adv=^$popup
@@ -1391,6 +1392,7 @@ _regie/clic.$popup
 ||kadserver.com^$third-party
 ||kalqui.com^$third-party
 ||kappacdn.net^$third-party
+||kiev.ua^$third-party
 ||killstruckfavor.com^$third-party
 ||kiloh.ovh^$third-party
 ||kingtopdeals.com^$third-party
@@ -1812,6 +1814,7 @@ _regie/clic.$popup
 ||zeropub.net^$third-party
 ||zert.ovh^$third-party
 ||zeybjsxy.com^$third-party
+||zidor.info^$third-party
 ||zwaar.net^$third-party
 ! popads.net
 ||ambqphwf.com^$third-party
@@ -1933,6 +1936,7 @@ _regie/clic.$popup
 ||bestarmour4u.net^$popup,third-party
 ||bidtrk.com^$popup,third-party
 ||bidverdrd.com$popup,third-party
+||birdmobster.info^$popup,third-party
 ||bitadexchange.com^$popup,third-party
 ||blendernetworks.com^$popup,third-party
 ||booksuper.info^$popup,third-party
@@ -2111,6 +2115,7 @@ _regie/clic.$popup
 ||scredir10.com^$popup,third-party
 ||secure.securitetotale.com^$popup,third-party
 ||sezonlukdizi.com^$popup,third-party
+||shglegle.com^$popup,third-party
 ||shopstockoff.com^$popup,third-party
 ||sierra-fox.com^$popup,third-party
 ||silvercdn.ryukyu^$popup,third-party
@@ -2188,6 +2193,7 @@ _regie/clic.$popup
 ||youwatchtab.com^$popup,third-party
 ||z-defense.com^$popup,third-party
 ||zeroredirect*.com^$popup
+||zidor.info^$popup,third-party
 ||zwaar.net^$popup,third-party
 ||zwaar.org^$popup,third-party
 !
