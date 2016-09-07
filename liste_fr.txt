@@ -7733,7 +7733,6 @@ cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor=
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 igen.fr##br + div + div + div
-senscritique.com##div > ul > li > [data-rel]
 forumpiscine.com##div#\31
 forumconstruire.com##div#\32
 domimmo.com##div#an-fin
@@ -7745,6 +7744,7 @@ finansemble.fr##div.div_description_v2[style="max-width:750px;"]
 gamopat-forum.com##div.inner > .corners-top + #fa_ticker_container[style="height: 141px;"]
 loractu.fr##div.landing
 pubeco.fr##div.w100p.h60
+senscritique.com##div[class$="-product"][data-rel]
 trictrac.net##div[class^="banner-zv"]
 trictrac.net##div[class^="content-zv"]
 trictrac.net##div[class^="zv"]
