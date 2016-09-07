@@ -2905,6 +2905,7 @@ _regie/clic.$popup
 ||static.fotolia.com/pics/*/banners/
 ||static.meilleursagents.com^*/partners
 ||static.mntzm.com^
+||static.poliris.com/zi/VgnAgences/
 ||static.s-sfr.fr/media/mire_$image
 ||static.shoptimate.com/js/partner.js
 ||static2.dmcdn.net/mc/skin_assets/*/body$image
@@ -5731,6 +5732,7 @@ toutcash.com/images/bandeau-
 ##.link-background-advert
 ##.list-ads-282
 ##.list-ads-468
+##.listing_list_ad
 ##.little_pub
 ##.logo-right-ads
 ##.logo_pub
@@ -5745,6 +5747,7 @@ toutcash.com/images/bandeau-
 ##.modAd
 ##.modalPub
 ##.moduleAds728
+##.mom-ads-wrap
 ##.mueveads
 ##.nativeads
 ##.newads
@@ -6906,7 +6909,7 @@ reducavenue.com##.bloc_iab
 lemonde.fr##.bloc_nimp
 lexpress.fr##.bloc_partenaire
 tv5.org##.bloc_promomiddle
-creativejuiz.fr##.bloc_pub
+creativejuiz.fr,seloger.com##.bloc_pub
 algerie360.com##.bloc_pub_250_s_marge
 porno-2luxe.com##.bloc_pubhosted
 premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
@@ -6969,6 +6972,7 @@ test-mobile.fr##.clickleft
 test-mobile.fr##.clickright
 test-mobile.fr##.clicktop
 futura-sciences.com##.col-droite-pub-milieu
+seloger.com##.col_right__service
 mediadico.com##.cold-bloc-video-generique
 seasons.fr##.colsEditoMainMS
 allocine.fr##.coltop
@@ -7091,6 +7095,7 @@ meilleureecoledefrance.com##.list_sponsors
 omgtorrent.me##.liste-clients + td > a
 omgtorrent.me##.liste-telecharger > a
 lequipement.fr##.listepartenairecomplete
+seloger.com##.listing_list_push
 lemonde.fr##.lmd-advert
 click-fr.com##.loc
 msn.com##.logo > a[target="_blank"] > img[width="300"]
