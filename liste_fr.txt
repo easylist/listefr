@@ -632,6 +632,7 @@
 /XnewadsX/*
 /xpopunder.js
 /xpopunder/*
+/xyz?*=|$subdocument
 /xzy?*=|$subdocument
 /zoneads/*
 /zones?zone=$subdocument
@@ -3412,9 +3413,6 @@ toutcash.com/images/bandeau-
 ||ats.dz/img/partenaires/
 ||ats.dz/slider2.html
 ||audioz.download/other/$script
-||aufeminin.com/clients/wengo/images/
-||aufeminin.com/home4/skin/*/fond.jpg
-||aufeminin.com/xyz?
 ||aujourdhui-en-france.fr/manchettepub/
 ||aujourdhui-en-france.fr/scripts/*/adblock_
 ||aujourdhui-en-france.fr^*/partenaires/
@@ -5604,6 +5602,7 @@ toutcash.com/images/bandeau-
 ##.advn_zone
 ##.adwords_bottom
 ##.adziner-adzone
+##.af_bloc_partners
 ##.annnonces_partenaires
 ##.annonce_pub_contenu
 ##.annonces_google
@@ -6757,7 +6756,6 @@ lemonde.fr##.LeMondePublicite_widget
 contournerhadopi.com##.Leaderboard
 mypornmotion.com##.LinePromo
 bienpublic.com,lalsace.fr##.OffreHabitat
-aufeminin.com##.OffresSpe_cadre
 afrokanlife.com##.PubAdAI
 driverscloud.com##.accueil_pubotherlan
 lagazettedescommunes.com##.actus-case-pub
@@ -6795,7 +6793,6 @@ traildesforts.com##.advertising
 ##.advertising-box-full
 reverso.net##.advhead
 statistiks.fr##.adz
-aufeminin.com##.af_bloc_partners
 permaculteurs.com##.aff
 heures.be##.affbox
 captainmugiwara.over-blog.com##.afterload
@@ -7053,6 +7050,7 @@ lafermeduweb.net##.homePub
 abrutis.com##.home_menu_container
 lo.st##.home_partner_img
 meteosun.com##.hotelteaser
+aufeminin.com##.html-block-native
 lepeinture.com##.iklan
 pagesblanches.be,rtbf.be##.imu
 megaupload-download.net##.infoblock
