@@ -867,6 +867,7 @@ _waframedia_
 /redirect?spot_id=$popup
 /redirect?tid=$popup
 /renderBanner.do?$popup
+/rotation_pdv.$popup
 /rotation_redir.$popup
 /script/campagne.php?cp=$popup
 /script/redirect.php?$popup
@@ -1981,6 +1982,7 @@ _regie/clic.$popup
 ||dynsrvaba.com^$popup,third-party
 ||elite-sex-finder.com^$popup,third-party
 ||emea.pub^$popup,third-party
+||eravage.com^$popup,third-party
 ||espace-plus.net^$popup,third-party
 ||europacash.com^$popup,third-party
 ||exasharetab.com^$popup,third-party
@@ -3002,6 +3004,7 @@ _regie/clic.$popup
 ||wcdn.co.il/banners/
 ||web-autosurf.com/promo/
 ||webcilon.tripod.com/bannieres/
+||webcool69.com^$popup
 ||webdesignerhut.com^$subdocument
 ||webself.net/WebselfEditeur/FormulaireDemo.aspx?
 ||webstar-auto.com/iframe.php?$third-party
@@ -3322,6 +3325,7 @@ toutcash.com/images/bandeau-
 ||a40ans.com/pub/
 ||a40ans.com^*/track.php
 ||abc-du-gratuit.com/bannieres/
+||abc-du-gratuit.net/images/anim_pub
 ||abidjan.net/images/habillage/
 ||abidjan.net/inc/video_a_la_une/
 ||absoluflash.com^*/jeux-ban/
