@@ -3281,6 +3281,9 @@ _regie/clic.$popup
 ! ebookdz.com
 |http://$script,third-party,xmlhttprequest,domain=ebookdz.com
 |https://$script,third-party,xmlhttprequest,domain=ebookdz.com
+! softmaroc.org
+|http://$script,third-party,domain=softmaroc.org
+|https://$script,third-party,domain=softmaroc.org
 ! microjeux.com
 @@||ajax.googleapis.com^$domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
 |http://$script,third-party,xmlhttprequest,domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
@@ -5588,6 +5591,9 @@ toutcash.com/images/bandeau-
 ##.adsense_300
 ##.adsense_unit
 ##.adserverHomePub405x60
+##.adshare_belownav
+##.adshare_firstpost
+##.adshare_lastpost
 ##.adslot_bot_728x90
 ##.adslot_top_300x250
 ##.adspave
@@ -8258,8 +8264,8 @@ _adblockdetector/
 @@||ops.prismamediadigital.com/js/advertisement.js$script
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net|leveldown.fr
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|crash-aerien.news|cuisineactuelle.fr|onvasortir.com|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|softmaroc.org|sos-lettre.fr|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alligatographe.blogspot.fr|bricozone.fr|crash-aerien.news|cuisineactuelle.fr|leetgamerz.net|onvasortir.com|quebeccoupongratuit.com|slideplayer.fr|softmaroc.org|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|crash-aerien.news|cuisineactuelle.fr|onvasortir.com|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alligatographe.blogspot.fr|bricozone.fr|crash-aerien.news|cuisineactuelle.fr|leetgamerz.net|onvasortir.com|quebeccoupongratuit.com|slideplayer.fr|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=qcm-concours.blogspot.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pub-config/ca-pub-*.js$domain=bricozone.fr
