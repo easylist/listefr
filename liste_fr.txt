@@ -1825,6 +1825,7 @@ _regie/clic.$popup
 ||zidor.info^$third-party
 ||zwaar.net^$third-party
 ! popads.net
+||dwentymgplvrizqhieugzkozmqjxrxcyxeqdjvcbjmrhnkguwk.com^$third-party
 ||tmdcfkxcckvqbqbixszbdyfjgusfzyguvtvvisojtswwvoduhi.com^$third-party
 ||yzsiwyvmgftjuqfoejhypwkmdawtwlpvawzewtrrrdfykqhccq.com^$third-party
 !
@@ -3272,6 +3273,9 @@ _regie/clic.$popup
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=filmzenstream.com
 |http://$script,third-party,domain=filmzenstream.com
 |https://$script,third-party,domain=filmzenstream.com
+! mes-ddl.com
+|http://$script,third-party,domain=mes-ddl.com
+|https://$script,third-party,domain=mes-ddl.com
 ! ebookdz.com
 |http://$script,third-party,xmlhttprequest,domain=ebookdz.com
 |https://$script,third-party,xmlhttprequest,domain=ebookdz.com
