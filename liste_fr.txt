@@ -780,6 +780,7 @@ _waframedia_
 &zoneid=*&direct=$popup
 -banner.cib?$popup
 -popunder.php?$popup
+.adsrv.$popup
 .com.sa/ads?$popup
 .exclusiverewards.$popup
 .info/*==|$popup,third-party
@@ -1974,6 +1975,7 @@ _regie/clic.$popup
 ||cound.info^$popup,third-party
 ||cpm.wargaming.net^$popup,third-party
 ||cptefr.com^$popup,third-party
+||cygnusadmedia.com^$popup,third-party
 ||danstonfion.com^$popup,third-party
 ||dblock-ads.com^$popup,third-party
 ||dealdunjour.com^$popup,third-party
@@ -1989,6 +1991,7 @@ _regie/clic.$popup
 ||downloatransfer.com^$popup,third-party
 ||dubshub.com^$popup,third-party
 ||dynsrvaba.com^$popup,third-party
+||eacdn.com^$popup,third-party
 ||elite-sex-finder.com^$popup,third-party
 ||emea.pub^$popup,third-party
 ||eravage.com^$popup,third-party
@@ -3313,6 +3316,7 @@ uploaded.net##[class*="pico-"]
 |https://$subdocument,third-party,domain=uploaded.net
 ! youwatch.org / exashare.com
 |http://$popup,domain=1jgvtb.info|2op1gr.xyz|5yfqce.xyz|6ltchp.info|6ltchp.xyz|99cavn.info|99cavn.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|e4brgi.info|erd9x4.info|erd9x4.xyz|euc4gt.xyz|ewazid.info|exashare.com|f55r4a.info|fem3sz.info|hadikla.info|haouzy.info|hehahe.info|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|lnxt1a.info|lnxt1a.xyz|maliana.info|mazlote.info|msemen.info|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|sidek.info|sikafika.info|sirgoleha.info|smed79.info|tikamika.info|tiziwezo.info|tozfike.info|ukn41v.xyz|youwatch.org|ywhah.info|z7ilika.info
+|http://$script,third-party,domain=1jgvtb.info|2op1gr.xyz|5yfqce.xyz|6ltchp.info|6ltchp.xyz|99cavn.info|99cavn.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|e4brgi.info|erd9x4.info|erd9x4.xyz|euc4gt.xyz|ewazid.info|exashare.com|f55r4a.info|fem3sz.info|hadikla.info|haouzy.info|hehahe.info|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|lnxt1a.info|lnxt1a.xyz|maliana.info|mazlote.info|msemen.info|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|sidek.info|sikafika.info|sirgoleha.info|smed79.info|tikamika.info|tiziwezo.info|tozfike.info|ukn41v.xyz|youwatch.org|ywhah.info|z7ilika.info
 ! images hosting
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
@@ -4908,18 +4912,15 @@ toutcash.com/images/bandeau-
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
 ! cloudfront.net
-||cloudfront.net/?cdlad=$script
-||cloudfront.net/?dxsbd=$script
 ||cloudfront.net/img/banner
 ||cloudfront.net/wp-content/news/images/*/BDM300x250.gif
 ||cloudfront.net/wp-content/news/images/*/city-messenger.gif
 ||cloudfront.net/wp-content/news/images/*/FS11.jpg
 ||cloudfront.net/wp-content/news/images/*/NATURE-AUX-BONS-SOINS.gif
 ||cloudfront.net/wp-content/news/images/*/Restaurantentre2.gif
-||cloudfront.net^$domain=1host.name|allvid.ch|brain-magazine.fr|dailymotion.com|exashare.com|gighub.net|gorillavid.in|gover.info|maquillage.com|openload.info|pausefun.com|pausepeople.com|revclouds.com|solidfiles.com|thewatchseries.to|toofy.tv|uploadrocket.net|uplod.it|uptobox.com|wuxiaworld.com|youwatch.org
-||cloudfront.net^*&tid=$script
+||cloudfront.net^$domain=1host.name|allvid.ch|brain-magazine.fr|dailymotion.com|exashare.com|gighub.net|gorillavid.in|maquillage.com|openload.info|pausefun.com|pausepeople.com|revclouds.com|solidfiles.com|thewatchseries.to|toofy.tv|uploadrocket.net|uplod.it|uptobox.com|wuxiaworld.com|youwatch.org
 ||cloudfront.net^*/?partner=
-||cloudfront.net^*?tid=$script
+||cloudfront.net^*tid=$script
 ||d14nx4uiqzwnqt.cloudfront.net^
 ||d17rlarvg2khuc.cloudfront.net^
 ||d1az0m14mjvs40.cloudfront.net^
@@ -4938,6 +4939,7 @@ toutcash.com/images/bandeau-
 ||d2mrcwg3epew1i.cloudfront.net^
 ||d2nje72ms8ylvb.cloudfront.net^
 ||d2nn3xyicdpsrf.cloudfront.net^
+||d2nrdy2pg3k168.cloudfront.net^
 ||d2ov8u95yeeh5v.cloudfront.net^
 ||d2skqnrxz11esv.cloudfront.net^
 ||d2w88er3oa79h8.cloudfront.net^
