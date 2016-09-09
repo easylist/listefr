@@ -8262,6 +8262,7 @@ _adblockdetector/
 @@||6play.fr/publicite-$script
 @@||ad.advertstream.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||ad4.liverail.com/?_=$domain=gamingroom.tv
+@@||ad4.liverail.com/|$image,domain=leveldown.fr
 @@||ads.stickyadstv.com/www/delivery/swfIndex.php?$xmlhttprequest,domain=wakanim.tv
 @@||audipassion.com^*/jsLoader.js?adType=foobar
 @@||badibadou.eu/*.js?auto=$script,third-party
@@ -8284,7 +8285,7 @@ _adblockdetector/
 @@||linkbucks.com/scripts/script-adv.js$script,third-party
 @@||nouvelle-fiat500.fr/ad-pub.js$script
 @@||ops.prismamediadigital.com/js/advertisement.js$script
-@@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net|leveldown.fr
+@@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|crash-aerien.news|cuisineactuelle.fr|onvasortir.com|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alligatographe.blogspot.fr|bricozone.fr|crash-aerien.news|cuisineactuelle.fr|leetgamerz.net|onvasortir.com|quebeccoupongratuit.com|slideplayer.fr|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
