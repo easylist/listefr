@@ -120,6 +120,8 @@
 .php?*&size=*&synergie=
 .php?*&synergie=*&size=
 .php?banner=$subdocument
+.php?format=160x600
+.php?format=728x90
 .php?id=*&ref=$script,third-party
 .php?img_adv=
 .php?style=160x600-
@@ -391,6 +393,7 @@
 /getAdAjax/*
 /getadsor.
 /getPromotedClassifiedAd.
+/getPub.php
 /gfx/bannieres/*
 /goclick?ref=$script
 /header_ads|
@@ -2398,6 +2401,7 @@ _regie/clic.$popup
 ||click.alibaba.com^$subdocument
 ||click.aliexpress.com^$subdocument
 ||clickbiz.fr/upload/ban/
+||clickmylink.fr/bannieres/
 ||cliquojeux.com/pub/
 ||cloudinary.com/hd-numerique/*/amz-300.jpg
 ||cloudlocker.biz/img/CL468-1.gif
