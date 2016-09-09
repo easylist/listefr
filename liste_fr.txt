@@ -3013,6 +3013,7 @@ _regie/clic.$popup
 ||w3sexe.com/logo.php?
 ||wac.a164.taucdn.net^
 ||wallmanga.com/img/anim_banniere_
+||wari.com^$popup,domain=maliweb.net
 ||wat.tv/get/externalpubhigh/
 ||wat.tv^*#autoStart=1&forceOASTag=$subdocument,domain=tf1.fr
 ||watchmygf.net^$popup
@@ -4199,6 +4200,9 @@ toutcash.com/images/bandeau-
 ||maidenfrance.fr/images/banniere-
 ||mailorama.fr^*/wearing/habillage_
 ||maisonbrico.com/images/partenaires/
+||maliweb.net/wp-content/news/images/*banniere
+||maliweb.net/wp-content/news/images/*habillage
+||maliweb.net/wp-content/news/images/*pmu
 ||malloc.viedemerde.fr^
 ||mamytwink.com^*/images/partenaires/
 ||manager-online.fr/styles/mo3/template/instant.png
@@ -4913,11 +4917,6 @@ toutcash.com/images/bandeau-
 ||ztat.net^*/affiliate/
 ! cloudfront.net
 ||cloudfront.net/img/banner
-||cloudfront.net/wp-content/news/images/*/BDM300x250.gif
-||cloudfront.net/wp-content/news/images/*/city-messenger.gif
-||cloudfront.net/wp-content/news/images/*/FS11.jpg
-||cloudfront.net/wp-content/news/images/*/NATURE-AUX-BONS-SOINS.gif
-||cloudfront.net/wp-content/news/images/*/Restaurantentre2.gif
 ||cloudfront.net^$domain=1host.name|allvid.ch|brain-magazine.fr|dailymotion.com|exashare.com|gighub.net|gorillavid.in|maquillage.com|openload.info|pausefun.com|pausepeople.com|revclouds.com|solidfiles.com|thewatchseries.to|toofy.tv|uploadrocket.net|uplod.it|uptobox.com|wuxiaworld.com|youwatch.org
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*tid=$script
@@ -4941,6 +4940,7 @@ toutcash.com/images/bandeau-
 ||d2nn3xyicdpsrf.cloudfront.net^
 ||d2nrdy2pg3k168.cloudfront.net^
 ||d2ov8u95yeeh5v.cloudfront.net^
+||d2q55mevlpufwx.cloudfront.net^$image
 ||d2skqnrxz11esv.cloudfront.net^
 ||d2w88er3oa79h8.cloudfront.net^
 ||d2xcimzl9ytdi0.cloudfront.net^
@@ -8072,6 +8072,7 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||clk.tradedoubler.com/click?p=$subdocument,domain=vshop.fr
 @@||costacroisieres.fr/B2C/SharedResources/js/popunder.js
 @@||cstatic.weborama.fr/js/advertiser/wbo_performance.js$domain=pmu.fr
+@@||d2q55mevlpufwx.cloudfront.net/wp-content/news/images/2012/02/mwlogo.jpg
 @@||daily-buzz.fr/images/*/pages/*_300x250.png$image
 @@||daily-geek.fr/images/*/pages/*_300x250.png$image
 @@||daily-joy.fr/images/*/pages/*_300x250.png$image
