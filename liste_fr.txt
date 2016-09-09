@@ -3177,7 +3177,7 @@ _regie/clic.$popup
 ||wwwtatonnai.info^
 ||wwwtatonnai.uk^
 ! secretmedia.com
-/^http://[a-z0-9_-]{10,}\.[a-z0-9-]+\.[a-z]{2,}\/.*?\w{30,}/$~xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
+/^http://[a-z0-9_-]{10,}\.[a-z0-9-]+\.[a-z]{2,}\/.*?\w{30,}/$~xmlhttprequest,domain=exclusivomen.com|gentside.com|gentside.com.br|gentside.de|maxisciences.com|ohmirevista.com|ohmymag.com|ohmymag.com.br|ohmymag.de|simplyvoyage.com
 /^http://[a-z0-9_]{15,}\.[a-z0-9-]+\.[a-z]{2,}\/.*[a-zA-Z0-9]{100,}/$object-subrequest,domain=wat.tv
 ! ultimedia.com
 .ovh^$domain=ultimedia.com
@@ -6243,7 +6243,7 @@ dzairfoot.net###bannerfloat
 tous-sports.tv###bannerfloat01
 nticweb.com###banners
 aliceadsl.fr###bannershop
-france-pittoresque.com,gentside.com,matchendirect.mobi,maxisciences.com,ohmymag.com,radiofrance.fr###banniere
+exclusivomen.com,france-pittoresque.com,gentside.com,gentside.com.br,gentside.de,matchendirect.mobi,maxisciences.com,ohmirevista.com,ohmymag.com,ohmymag.com.br,ohmymag.de,radiofrance.fr,simplyvoyage.com###banniere
 cap-public.fr###banniereGoogle
 algeriatenders.com###banniereHorizontale
 actu-environnement.com,emploi-environnement.com###banniereRight
@@ -6568,8 +6568,8 @@ windsurfjournal.com###pave300x250
 oumma.com###pave3_ad
 oumma.com###pave4_ad
 windsurfjournal.com###pave695x90
-gentside.com,maxisciences.com,ohmymag.com###pave_bas
-gentside.com,maxisciences.com,ohmymag.com###pave_haut
+exclusivomen.com,gentside.com,gentside.com.br,gentside.de,maxisciences.com,ohmirevista.com,ohmymag.com,ohmymag.com.br,ohmymag.de,simplyvoyage.com###pave_bas
+exclusivomen.com,gentside.com,gentside.com.br,gentside.de,maxisciences.com,ohmirevista.com,ohmymag.com,ohmymag.com.br,ohmymag.de,simplyvoyage.com###pave_haut
 dzfoot.com###pave_twoh
 windsurfjournal.com###paves214x157
 lastfilmstreaming.com###pb1
@@ -8535,6 +8535,7 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 ||cornergenustulipa.me^
 ||corpuschristilipped.info^
 ||cosponsorchianturpentine.com^
+||coulibread.com^
 ||counterbalancegenusonychomys.com^
 ||counterparthaberdashery.com^
 ||creationsciencelinesquall.com^
@@ -8632,6 +8633,7 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 ||gradateinternalsecretion.info^
 ||grazedrumpusroom.com^
 ||gritrockloftily.net^
+||growerthistlelike.org^
 ||growthregulatorsayeretmatkal.info^
 ||hamadryadgilgaisoil.net^
 ||hammeredmalawian.net^
@@ -8672,6 +8674,7 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 ||jobinterviewadjustment.info^
 ||joborientedterminalkickstand.me^
 ||johnchapmanbodyplethysmograph.org^
+||johnvpositi.com^
 ||jujuplath.me^
 ||karien.org^
 ||keloks.com^
@@ -8707,6 +8710,7 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 ||militarypostsmokedsalmon.net^
 ||minorityleaderignorantly.biz^
 ||modernistgenusanaphalis.com^
+||moltenmesocr.com^
 ||monasticismribesuvacrispa.org^
 ||moonworshipchapatti.net^
 ||mothertheresabionic.com^
@@ -8747,6 +8751,7 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 ||pacificstandardtimemarut.info^
 ||paciniancorpusclemopearound.info^
 ||palatinetonsilamoristic.in^
+||palmshapednontransferable.com^
 ||panclunc.com^
 ||papacarefully.info^
 ||paraffinscaleraffiavinifera.org^
@@ -8771,6 +8776,7 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 ||pressburgseptation.info^
 ||prurientlygrandfatherclause.net^
 ||pseudomonodaceaenonlinearcorrelation.info^
+||pseudosifter.com^
 ||pushforwardbellcot.info^
 ||quaternschoolship.org^
 ||radioannouncerthelypterisdryopteris.me^
@@ -8785,6 +8791,7 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 ||romanaclefpolemicist.in^
 ||rostovondoncarbondating.net^
 ||rudderlessstaging.net^
+||rummdeat.com^
 ||ruralistacinose.me^
 ||saintfrancisclaw.org^
 ||sanctiparhe.com^
@@ -8869,4 +8876,4 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 ||underlaymentgallstone.net^
 !
 @@||lymantriacypresdoctrine.biz^$xmlhttprequest,domain=www.wat.tv
-@@||palmshapednontransferable.com^$xmlhttprequest,domain=gentside.com|maxisciences.com|ohmymag.com
+@@||palmshapednontransferable.com^$xmlhttprequest,domain=exclusivomen.com|gentside.com|gentside.com.br|gentside.de|maxisciences.com|ohmirevista.com|ohmymag.com|ohmymag.com.br|ohmymag.de|simplyvoyage.com
