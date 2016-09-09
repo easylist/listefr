@@ -3308,6 +3308,7 @@ _regie/clic.$popup
 |https://$script,third-party,xmlhttprequest,domain=uptostream.com
 ! uploaded.net
 uploaded.net###fakeContentBoxContainer
+uploaded.net##[class*="pico-"]
 |http://$subdocument,third-party,domain=uploaded.net
 |https://$subdocument,third-party,domain=uploaded.net
 ! youwatch.org / exashare.com
