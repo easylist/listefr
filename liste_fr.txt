@@ -3521,7 +3521,12 @@ toutcash.com/images/bandeau-
 ||ca-centrest.fr/content/binary/*_banniere_
 ||ca-centrest.fr/content/binary/*_fond_
 ||ca-centrest.fr/content/binary/*_promo_
-||ca-sudrhonealpes.fr/content/binary/full_promo_
+||ca-sudrhonealpes.fr/*/fullscreen_
+||ca-sudrhonealpes.fr/*_1920.jpg
+||ca-sudrhonealpes.fr/content/binary/*_annonce_
+||ca-sudrhonealpes.fr/content/binary/*_banniere_
+||ca-sudrhonealpes.fr/content/binary/*_fond_
+||ca-sudrhonealpes.fr/content/binary/*_promo_
 ||ca-sudrhonealpes.fr/content/binary/habillage_
 ||cacastream.com/video-300x250.php
 ||cache.itele.fr/content/skins/$image
@@ -6343,7 +6348,7 @@ foot01.com###container div > img:first-child
 geny.com###containerBanniere1mois
 asso-web.com###container_pub
 asso-web.com###container_pub_left
-ca-anjou-maine.fr,ca-centrest.fr###conteneur_PROMO_Gauche
+ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr###conteneur_PROMO_Gauche
 millenium.org###content_pub
 spi0n.com###content_top
 flyordie.com###dasb
@@ -6402,6 +6407,7 @@ hardware.fr###footer_img
 lien-torrent.com###footerpb-application
 pornofrance.org###formulaire
 dramapassion.com###free_pub_head
+ca-sudrhonealpes.fr###fullscreen
 vakarm.net###g2promoblock
 developpez.com###gabarit_pub0
 developpez.com###gabarit_pub1
@@ -7773,7 +7779,7 @@ lien-torrent.com##a[onclick*="directlinks"]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
-ca-anjou-maine.fr,ca-centrest.fr##a[onclick^="xiti_clic('N', 'Promo_"]
+ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 mega-vesti.info,smartorrent.com##a[style="color:hotpink;"]
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
 journaldu4x4.com##a[target="_blank"] > img
