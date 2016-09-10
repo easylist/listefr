@@ -3259,9 +3259,9 @@ _regie/clic.$popup
 |http://$script,third-party,xmlhttprequest,domain=ddstream.com
 |https://$script,third-party,xmlhttprequest,domain=ddstream.com
 ! gum-gum-streaming.com
-|http://$popup,script,third-party,domain=gum-gum-streaming.com
+|http://$popup,script,xmlhttprequest,domain=gum-gum-streaming.com
 |http://*/|$image,domain=gum-gum-streaming.com
-|https://$popup,script,domain=gum-gum-streaming.com
+|https://$popup,script,xmlhttprequest,domain=gum-gum-streaming.com
 ! mangas-fr.com (goyavelab)
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=mangas-fr.com
 |http://$script,third-party,xmlhttprequest,domain=mangas-fr.com
@@ -7952,6 +7952,7 @@ mon-ordi.com##td[width="567"]
 telesatellite.com##td[width="728"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
+gum-gum-streaming.com##ul + a[href*="?"]
 omgtorrent.me##ul > li[style*="padding:"]
 ! Éléments pour generichide
 nrj.fr##.aside-pub-300
