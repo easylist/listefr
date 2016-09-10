@@ -3293,6 +3293,11 @@ _regie/clic.$popup
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=filmzenstream.com
 |http://$script,third-party,domain=filmzenstream.com
 |https://$script,third-party,domain=filmzenstream.com
+! vfstream.biz
+@@||ajax.googleapis.com/ajax/libs/$script,domain=vfstream.biz
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=vfstream.biz
+|http://$script,third-party,domain=vfstream.biz
+|https://$script,third-party,domain=vfstream.biz
 ! mes-ddl.com
 |http://$script,third-party,domain=mes-ddl.com
 |https://$script,third-party,domain=mes-ddl.com
@@ -7600,6 +7605,7 @@ free-reseau.fr##a[href*="&tag=freereseaufr-"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
 omgtorrent.me##a[href*="+"]
 omgtorrent.me##a[href*="-torrent/"]
+vfstream.biz##a[href*=".php"]
 jeddl.net,omgtorrent.me##a[href*=".php?"]
 paruvendu.fr##a[href*=".xiti.com/go.click?"]
 artdeseduire.com##a[href*="/?part=ads"]
