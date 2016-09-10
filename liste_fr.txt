@@ -8067,6 +8067,7 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||ads.audience2media.com/crossdomain.xml$domain=videos.nt1.tv
 @@||ads.horyzon-media.com/config.js?$script,domain=larousse.fr
 @@||ads.horyzon-media.com/diff/js/smart.js$script,domain=larousse.fr
+@@||ads.nc^$~third-party
 @@||ads.webedia.fr/crossdomain.xml$domain=ozap.com
 @@||ads.webedia.fr/p-dp-vast2/$object-subrequest,domain=ozap.com
 @@||adserve.atedra.com/js/$script,domain=pourquoipas.ca
