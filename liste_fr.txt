@@ -5065,6 +5065,7 @@ toutcash.com/images/bandeau-
 ###ad336b
 ###ad4x125
 ###ad728b
+###adBlockBanner
 ###adBoxFooter
 ###adContainerParent
 ###adPopup
@@ -7814,6 +7815,7 @@ maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
 24matins.fr##article > div
 24matins.fr##article > li
 24matins.fr##article a > img
+gamekult.com##article[style="background-color: rgba(0, 0, 0, 0.06);padding: 30px;;margin-bottom:20px"]:first-child
 tchatche.com##banner
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 telesatellite.com##body > [id^="a"]
@@ -8275,6 +8277,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /ad-blocking-detector/*
 /adblockbait.js
 /adblockchecker.js
+/adblockDetector.js
 /ads_enabled_
 /blockadblock.js
 /fadb.min.js?
