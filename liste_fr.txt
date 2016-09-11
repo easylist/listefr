@@ -4363,6 +4363,7 @@ toutcash.com/images/bandeau-
 ||mybloggertricks.googlecode.com/files/mbtlikebox2.js
 ||myfreesurf.com/partenaires/
 ||mymanga.io/images/affil/
+||mymanga.io/images/gaminga/
 ||narutoshippudenvf.com/inc/pub/
 ||natoms.com/js/partner/
 ||nautiljon.com/images/boutique/
@@ -6164,6 +6165,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://www.espace-plus.net/"]
 ##a[href^="http://www.fducks.com/"]
 ##a[href^="http://www.gaddin.com/index.php?sponsor"] > img
+##a[href^="http://www.gamingaffiliation.com/"]
 ##a[href^="http://www.leguide.com/lettre/"]
 ##a[href^="http://www.linkredirect.biz/"]
 ##a[href^="http://www.marketdot.net/"]
@@ -6431,6 +6433,7 @@ ca-sudrhonealpes.fr###fullscreen
 vakarm.net###g2promoblock
 developpez.com###gabarit_pub0
 developpez.com###gabarit_pub1
+mymanga.io###gaminga
 centerblog.net###gauche > iframe[width="300"][height="250"]
 gameblog.fr###gbFnac300
 gameblog.fr###gb_home_sponsor
@@ -8316,6 +8319,7 @@ _adblockdetector/
 @@||lafansubresistance.biz^$script,domain=lafansubresistance.biz
 @@||laprovence.com/sites/all/themes/lpv4/js/ads.js
 @@||linkbucks.com/scripts/script-adv.js$script,third-party
+@@||mymanga.io/css/ads.css|$stylesheet
 @@||nouvelle-fiat500.fr/ad-pub.js$script
 @@||ops.prismamediadigital.com/js/advertisement.js$script
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
