@@ -297,6 +297,7 @@
 /Banner-Tag-
 /banner/*/sponsored?
 /banner/*?site_id=
+/banner/ads-
 /banner300.
 /banner468-
 /banner720x90/?ad=
@@ -2983,6 +2984,7 @@ _regie/clic.$popup
 ||tripadvisor.*/PriceFinderPopunder$popup
 ||tripleclicks.com^$subdocument
 ||trouart.fr/labo/
+||tudou.com^$subdocument
 ||tuto.com/banner/common/$third-party
 ||tutti.ch/*_banner_$third-party
 ||tv-live.fr/ban/
