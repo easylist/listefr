@@ -2072,6 +2072,7 @@ _regie/clic.$popup
 ||mobutrafsrcms.com^$popup,third-party
 ||monetizemytraffic.com^$popup,third-party
 ||monetizer.co^$popup,third-party
+||monstersbird.info^$popup,third-party
 ||morevoluum.com^$popup,third-party
 ||multiupload.com^$popup,third-party
 ||mumbai-invest.email^$popup,third-party
@@ -2356,7 +2357,7 @@ _regie/clic.$popup
 ||bit.ly$image,domain=teramixer.com
 ||bit.ly^$domain=nintendo-master.com
 ||bit.ly^$image,domain=korben.info|phonandroid.com
-||bit.ly^$popup,domain=telechargementz-streaming.com|teramixer.com
+||bit.ly^$popup,domain=telechargementz-streaming.com
 ||bitchvolley.com/ban/$third-party
 ||bitly.com/teraplayerplay$popup
 ||blablaland.com/pubosaure/
@@ -8355,6 +8356,7 @@ _adblockdetector/
 @@||static.mytf1.tf1.fr/assets/js/build/lib/ad$script
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
 @@||stream4free.eu/images/*#$~image
+@@||teramixer.com/plugins/mediaplayer/assets/js/advertisement.js$script
 @@||tsa-algerie.com/wp-content/themes/tsa/js/ads.js$script
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||wakanim.tv^*/video/advertisement?idepisode=
