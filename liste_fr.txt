@@ -291,6 +291,7 @@
 /bandeau-pub-
 /bandeaupublicite/*
 /bandito.php?p=$xmlhttprequest
+/baner/ads/*
 /banLight.js?ref=
 /bann468X60.
 /Banner-Tag-
@@ -1913,6 +1914,7 @@ _regie/clic.$popup
 ||adservingsolutionsinc.com^$popup,third-party
 ||adservme.com^$popup,third-party
 ||adsguru.co^$popup,third-party
+||adshell.net^$popup,third-party
 ||adskeeper.co.uk^$popup,third-party
 ||adstract.com^$popup,third-party
 ||adventurefeeds.com^$popup,third-party
@@ -2592,7 +2594,6 @@ _regie/clic.$popup
 ||imagefacile.com^$image
 ||img.grouponcdn.com/gpn/$image,third-party
 ||img.nuxit.com/banners/
-||img.ucweb.com^*/ad/
 ||img6.bricozone.be/jquery-1.2.6.min.js
 ||indecentes-voisines.com/bans/
 ||infojobs.com.br/banner.aspx?
@@ -5534,6 +5535,7 @@ toutcash.com/images/bandeau-
 ##.AdsA
 ##.AdsB
 ##.AdsTop
+##.After-body-ads
 ##.BannierePub
 ##.GTRF_sponsoredLinks
 ##.MobAdsHeader
