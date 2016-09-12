@@ -3066,7 +3066,7 @@ _regie/clic.$popup
 ||yellowapi.com/twn/?
 ||yimg.com/hl/ap/default/*/HP_*.jpg
 ||youtube.com^$popup,domain=abdelghanisat.kazeo.com|zevpn.net
-||youtube.com^*autoplay=1$domain=esoxiste.com|hitek.fr|mon-compte.org|soltanati.com|youzapping.com
+||youtube.com^*autoplay=1$domain=esoxiste.com|hitek.fr|mon-compte.org|pokemon-streaming.com|soltanati.com|youzapping.com
 ||youtube2mp3.cc/p.php$popup
 ||yubee.free.fr/admin/bannieres/
 ||z51.biz/IBinnewz.aspx
@@ -3319,6 +3319,10 @@ _regie/clic.$popup
 ! softmaroc.org
 |http://$script,third-party,domain=softmaroc.org
 |https://$script,third-party,domain=softmaroc.org
+! pokemon-streaming.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=pokemon-streaming.com
+|http://$script,third-party,domain=pokemon-streaming.com
+|https://$script,third-party,domain=pokemon-streaming.com
 ! microjeux.com
 @@||ajax.googleapis.com^$domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
 |http://$script,third-party,xmlhttprequest,domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
@@ -7725,7 +7729,7 @@ torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
 challenges.fr##a[href^="http://assurance-emprunteur.challenges.fr/"]
 dhnet.be##a[href^="http://bf1.be/"] > img
 mega-vesti.info,smartorrent.com##a[href^="http://bit.do/"]
-bigbike-magazine.com,brain-magazine.fr,grimper.com,igen.fr,kiteboarder-mag.com,macg.co,montagnes-magazine.com,mubawab.ma,nintendo-master.com,niveales.com,portail.free.fr,public.fr,skieur.com,skimagazine.fr,snowsurf.com,supmag.fr,trekmag.com,unleashed.fr,walking-dead-streaming.net,watchgeneration.fr,widermag.com,windmag.com##a[href^="http://bit.ly/"]
+bigbike-magazine.com,brain-magazine.fr,filmstreaming.la,grimper.com,igen.fr,kiteboarder-mag.com,macg.co,montagnes-magazine.com,mubawab.ma,nintendo-master.com,niveales.com,portail.free.fr,public.fr,skieur.com,skimagazine.fr,snowsurf.com,supmag.fr,trekmag.com,unleashed.fr,walking-dead-streaming.net,watchgeneration.fr,widermag.com,windmag.com##a[href^="http://bit.ly/"]
 pubeco.fr,usbfix.net##a[href^="http://clic.reussissonsensemble.fr/"]
 algeriephilatelie.net##a[href^="http://clic.reussissonsensemble.fr/click.asp?"]
 tomtomax.fr##a[href^="http://clk.tradedoubler.com/"]
