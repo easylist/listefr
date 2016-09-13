@@ -490,6 +490,7 @@
 /popupyous.js
 /prebid-dfp.
 /prebid-dfp/*
+/prix-immobilier.$subdocument
 /promo.*/ads/*
 /promo.*/banner/*
 /promo/*/display.
@@ -4498,7 +4499,6 @@ toutcash.com/images/bandeau-
 ||prelude.me/public/pub/
 ||presse-citron.net/wordpress_prod/wp-content/uploads/2015/06/Badge-Infiniti-
 ||presse.fr/campub/
-||prix-immobilier.lemonde.fr^$subdocument
 ||progonline.com/bannieres/
 ||progonline.com/js/message_display.js
 ||projectfreetv.*?d=300x250
@@ -7620,6 +7620,7 @@ film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.nu,l
 24matins.fr##[id^="U"]
 footnamurois.com##[id^="banners-"]
 egora.fr##[id^="block-gmsante_pub-"]
+leparticulier.fr##[id^="loca_service_simulateur_"]
 agate-france.com##[id^="pbad_"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 megatorrent.biz##[onclick="getVpn();"]
@@ -7648,7 +7649,7 @@ omgtorrent.me##a[href*="+"]
 omgtorrent.me##a[href*="-torrent/"]
 vfstream.biz##a[href*=".php"]
 jeddl.net,omgtorrent.me##a[href*=".php?"]
-paruvendu.fr##a[href*=".xiti.com/go.click?"]
+leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
 artdeseduire.com##a[href*="/?part=ads"]
 webactus.net##a[href*="/?utm_source="]
 sosvirus.net##a[href*="/affiliate-"] > img
