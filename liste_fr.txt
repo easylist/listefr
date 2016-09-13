@@ -2228,7 +2228,7 @@ _regie/clic.$popup
 .ovh^$domain=huffingtonpost.fr|lemonde.fr|telerama.fr
 .xyz^$domain=filmvf.ws
 ://*qertewrt.com^$popup
-|http://$popup,domain=getmytorrent.com|teramixer.com|ultimedia.com|up07.net|uploaded.net|uptobox.com|uptostream.com
+|http://$popup,domain=allvid.ch|getmytorrent.com|teramixer.com|ultimedia.com|up07.net|uploaded.net|uptobox.com|uptostream.com
 |http://$popup,~third-party,domain=flashx.tv
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
