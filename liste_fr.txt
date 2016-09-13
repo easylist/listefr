@@ -3376,6 +3376,7 @@ toutcash.com/images/bandeau-
 ||56c646cc9f58f35661191763632f428a.leboncoin.fr^
 ||7sur7.be/references/
 ||7sur7.be/static/nmc/adv/partners/
+||a.f1g.fr/iframes/
 ||a18ans.com/pub/
 ||a40ans.com/pub/
 ||a40ans.com^*/track.php
@@ -5874,6 +5875,7 @@ toutcash.com/images/bandeau-
 ##.pub-carre
 ##.pub-carre-smart-php
 ##.pub-demipage
+##.pub-double-bande
 ##.pub-gigaban
 ##.pub-half-width
 ##.pub-haut
@@ -6212,6 +6214,7 @@ eurosport.fr###Container_OAS_Right
 amazon.fr###DAr2
 jeuxme.net###Div3
 lavoixdefrance.fr###ExpandBanner
+lefigaro.fr###Fe_Gigaban
 kijiji.ca###HeaderFeature > #FeatureContent
 africanmanager.com###Layer1
 portail.free.fr###LiensPartenaires
@@ -6872,7 +6875,7 @@ abrutis.com,hooper.fr,pooki.fr##.adsense
 ipadsl.net##.adsl
 la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
 jeux.org##.adtitle
-fusac.fr,rajacasablanca.com##.adv
+fusac.fr,lefigaro.fr,rajacasablanca.com##.adv
 arabzik.org,fipradio.fr,francemusique.fr,jeu.fr,jeux.fr,lesoir.be,midilibre.fr##.advert
 decitre.fr##.advertise
 lemoniteur.fr,sites-torrent.com,skipass.com,telerama.fr##.advertisement
@@ -7094,8 +7097,14 @@ omgtorrent.me##.fiche-cadre-infos + .fiche-cadre
 humanite.fr##.field-name-bloc-pub-1ere-sidebar-contenu-3
 humanite.fr##.field-name-pub-sidebar-first-content
 lefigaro.fr##.fig-adgps
+lefigaro.fr##.fig-promo-jardin
 lefigaro.fr##.fig-widget-satellite
+lefigaro.fr##.figsco__ad__container
+lefigaro.fr##.figsco__ads
+lefigaro.fr##.figsco__ads__title
 solvusoft.com##.fileviewpro
+lefigaro.fr##.fim-annonces-similaires
+lefigaro.fr##.fim-container-bloc-annonces
 fluket.com,libertyland.tv,sky-animes.com,streamgo.net,telechargementgratuits.com,vostfr-vf.com##.fixe
 fdesouche.com##.fixed
 sous-la-mer.com,vpntorrent.com##.flexslider
@@ -7253,6 +7262,7 @@ galaxynote.fr##.offre
 aujourdhui-en-france.fr,leparisien.fr##.offresStage
 wamiz.com##.orange
 16algerie.com##.ot-banner
+lefigaro.fr##.oto-blocvit
 lameuse.be##.outbrain_gocar
 lameuse.be##.outbrain_jobsregions
 msn.com##.outeradcontainer
@@ -7262,6 +7272,7 @@ iphoneaddict.fr##.pabsidebar
 iphoneaddict.fr##.pabsidebarsingle
 nautiljon.com##.pad
 lequotidiendumedecin.fr##.pane-ad
+lefigaro.fr##.pane-bloc-ad
 priceminister.com##.panel_pub
 aujourdhui-en-france.fr,leparisien.fr##.parisien-section.pratique
 photo.fr##.parrains
@@ -7332,16 +7343,16 @@ pornofrance.org##.promomenu
 meteosun.com##.promote_large
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
-abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,ennaharonline.com,europages.ma,fan-de-cinema.com,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lemonde.fr,lesdebiles.com,lesoir.be,lexpress.fr,liensporno.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,slate.fr,sofoot.com,soonnight.com,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zone-series.biz,zupimages.net##.pub
+abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,ennaharonline.com,europages.ma,fan-de-cinema.com,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesoir.be,lexpress.fr,liensporno.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,slate.fr,sofoot.com,soonnight.com,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zone-series.biz,zupimages.net##.pub
 basketusa.com##.pub-1000x90-top
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
 android-dz.com##.pub-condor
-lefigaro.fr##.pub-double-bande
 omgtorrent.me##.pub-fiche-r + * + .fiche-cadre
 omgtorrent.me##.pub-fiche-r + * > a
 millepertuis.eu##.pub-gauche-flottant
 1point2vue.com##.pub-header
+lefigaro.fr##.pub-icone
 toplien.fr##.pub-index-gauche
 bdgest.com,bedetheque.com##.pub-interne-top
 lematin.ma##.pub-medium
@@ -7430,7 +7441,9 @@ la-musique-rai.com##.rowa
 vista-xp.fr##.rules + script + .topic-actions + .clear + .post
 lol89.com##.s-300
 europe1.fr##.s-partenaires
+lefigaro.fr##.s24-pub
 lefigaro.fr##.s24-shopping
+lefigaro.fr##.s24-thematique--igraal
 phpsources.org##.sample-lst
 senscritique.com##.sc-klass
 ouest-france.fr##.sd-deals
@@ -7479,6 +7492,7 @@ slappyto.net##.sonicprice
 forumconstruire.com,forumpiscine.com##.sospon_contener
 echoroukonline.com##.soundcloud-related
 playtv.fr##.span-sidebar
+lefigaro.fr##.spec-ops-box
 spi0n.com##.spion_single_pub
 lagazettedescommunes.com##.spons
 jeuxvideo.com##.sponso
@@ -7517,6 +7531,10 @@ forum-actif.net##.tradeDoubler
 expat.com##.travel-insurance
 nextinpact.com##.trend-big + *
 portail.free.fr##.troiscent
+lefigaro.fr##.tvm-ads-pave
+lefigaro.fr##.tvm-boutique
+lefigaro.fr##.tvm-boutique-iframe
+lefigaro.fr##.tvm-reagir__pub
 juritravail.com##.ui-pnotify
 jeuxetcompagnie.fr##.umbg-overlay-link
 forum-windows.com##.unibluelink
@@ -7540,7 +7558,6 @@ rtl.be##.w-content-details-ligatus
 almountakhab.com,journaldumusulman.fr,staractus.fr##.wallpaper-link
 slappyto.net##.webrox._300x250.centered
 msn.com##.widead
-lefigaro.fr##.widget-bazar_chic
 blog2mature.com##.widget.widget_links
 frandroid.com##.widget.widget_text
 joueurdugrenier.fr##.widgetAmis
@@ -7564,7 +7581,6 @@ torrentfrancais.com##.z2_full_pub_video
 tomsguide.fr##.zoneTriple
 tsa-algerie.com##.zone_annonceurs
 lepetiteconomiste.com##.zoom
-lefigaro.fr##.zoom-widget-react
 24matins.fr##ARTICLE [class*="j"]
 24matins.fr##ARTICLE [class*="x"]
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
@@ -7744,6 +7760,7 @@ argentmania.com##a[href^="http://fr.scratchmania.com/?brandId="]
 cdclicks.com##a[href^="http://fr.vegasmaster.com/"]
 brunotritsch.fr##a[href^="http://fr.webmaster-rank.info/stat/affiliate/"]
 abidjan.net,igen.fr,israelmagazine.co.il,journaldumusulman.fr,lnc.nc,macg.co,mega-vesti.info,smartorrent.com,watchgeneration.fr,wawacity.su##a[href^="http://goo.gl/"]
+lefigaro.fr##a[href^="http://lefigaro.explorimmo.com/resultat/annonces.html?"]
 ovnis-direct.com##a[href^="http://ligneker.com/"]
 moviz-telecharger.com##a[href^="http://moviz-telecharger.com/films-en-qualité-hd-"]
 opensubtitles.org##a[href^="http://osdb.link/go?"]
@@ -7821,6 +7838,7 @@ mega-vesti.info,smartorrent.com##a[style="color:hotpink;"]
 journaldu4x4.com##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
+lefigaro.fr##a[target="_blank"] > img[style="width: 463px; height: 170px;"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="100"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
 24matins.fr##article > .clear + div > a
@@ -8311,6 +8329,7 @@ _adblockdetector/
 @@||195.154.104.$script,domain=multiup.org
 @@||1max2sms.com/blogads.css
 @@||6play.fr/publicite-$script
+@@||a.f1g.fr/build/2/adsense.js$script
 @@||ad.advertstream.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||ad4.liverail.com/?_=$domain=gamingroom.tv
 @@||ad4.liverail.com/|$image,domain=leveldown.fr
