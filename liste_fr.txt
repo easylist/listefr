@@ -43,6 +43,8 @@
 -300-250a.
 -300-250b.
 -300-250c.
+-300-250d.
+-300-250e.
 -300-x-250-
 -300x250.html$subdocument
 -300x250.php?cb=
@@ -54,6 +56,7 @@
 -728-90a.
 -728-90b.
 -728-90c.
+-728-90d.
 -728-x-90-
 -728_90.
 -730x90.
@@ -790,6 +793,7 @@ _waframedia_
 .adsrv.$popup
 .com.sa/ads?$popup
 .exclusiverewards.$popup
+.gamingaffiliation.$popup
 .info/*==|$popup,third-party
 .info/watch?key=$popup,third-party
 .loading-delivery2.$popup
@@ -900,6 +904,8 @@ _waframedia_
 ?runauction=$popup
 ?voluumdata=$popup
 ?zoneid=$popup,domain=ddlfr.org
+_300x250_*_adb$popup
+_728x90_*_adb$popup
 _adb_300x250_$popup
 _adb_728x90_$popup
 _domain=ads.$popup
@@ -1848,6 +1854,7 @@ _regie/clic.$popup
 ||ptiqsfrnkmmtvtpucwzsaqonmvaprjafeerwlyhabobuvuazun.com^
 ||pzgchrjikhfyueumavkqiccvsdqhdjpljgwhbcobsnjrjfidpq.com^
 ||tapihmxemcksuvleuzpodsdfubceomxfqayamnsoswxzkijjmw.com^
+||ubhzahnzujqlvecihiyukradtnbmjyjsktsoeagcrbbsfzzrfi.com^
 ||wfiejyjdlbsrkklvxxwkferadhbcwtxrotehopgqppsqwluboc.com^
 ||zbfncjtaiwngdsrxvykupflpibvbrewhemghxlwsdoluaztwyi.com^
 ||zfrzdepuaqebzlenihciadhdjzujnexvnksksqtazbaywgmzwl.com^
@@ -4395,6 +4402,7 @@ toutcash.com/images/bandeau-
 ||mybloggertricks.googlecode.com/files/mbtlikebox2.js
 ||myfreesurf.com/partenaires/
 ||mymanga.io/images/gaminga/
+||narutoshippudenvf.com/*.gif
 ||narutoshippudenvf.com/inc/pub/
 ||natoms.com/js/partner/
 ||nautiljon.com/images/boutique/
@@ -4991,6 +4999,7 @@ toutcash.com/images/bandeau-
 ||d1gp9nlx229wzz.cloudfront.net^
 ||d1izbwxtc3f9ue.cloudfront.net^
 ||d1k29rhvz38kg5.cloudfront.net^
+||d1kl9s3ss3mgzt.cloudfront.net^
 ||d1rb5wwywwoqqm.cloudfront.net^
 ||d1sj3yrs7ojvv7.cloudfront.net^
 ||d1uydqzj7b9nt9.cloudfront.net^
@@ -7864,6 +7873,7 @@ jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 mega-vesti.info,smartorrent.com##a[style="color:hotpink;"]
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
+narutoshippudenvf.com##a[target="_blank"]
 journaldu4x4.com##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
