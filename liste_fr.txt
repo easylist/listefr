@@ -357,6 +357,7 @@
 /Criteo.ADBLOK.
 /Criteo.Left.
 /cshoppingbox.
+/custompopup.php?
 /dacash.
 /default_ad/*
 /default_ads_
@@ -1353,6 +1354,7 @@ _regie/clic.$popup
 ||foxserie.com^$script,third-party
 ||frtyb.com^$third-party
 ||fullon.tv^$third-party
+||fungetbag.info^$third-party
 ||gagner-une-console.com^$third-party
 ||gambling-france.com^$third-party
 ||gamingaffiliation.com^$third-party
@@ -1848,21 +1850,8 @@ _regie/clic.$popup
 ||zidor.info^$third-party
 ||zwaar.net^$third-party
 ! popads.net
-||bjzcyqezwksznxxhscsfcogugkyiupgjhikadadgoiruasxpxo.com^
-||cdrjblrhsuxljwesjholugzxwukkerpobmonocjygnautvzjjm.com^
-||gypxbcrmxsmikqbmnlwtezmjotrrdxpqtafumympsdtsfvkkza.com^
-||hndesrzcgjmprqbbropdulvkfroonnrlbpqxhvprsavhwrfxtv.com^
-||huzmweoxlwanzvstlgygbrnfrmodaodqaczzibeplcezmyjnlv.com^
-||lytpdzqyiygthvxlmgblonknzrctcwsjycmlcczifxbkquknsr.com^
-||ngmckvucrjbnyybvgesxozxcwpgnaljhpedttelavqmpgvfsxg.com^
-||pserhnmbbwexmbjderezswultfqlamugbqzsmyxwumgqwxuerl.com^
-||ptiqsfrnkmmtvtpucwzsaqonmvaprjafeerwlyhabobuvuazun.com^
-||pzgchrjikhfyueumavkqiccvsdqhdjpljgwhbcobsnjrjfidpq.com^
-||tapihmxemcksuvleuzpodsdfubceomxfqayamnsoswxzkijjmw.com^
-||ubhzahnzujqlvecihiyukradtnbmjyjsktsoeagcrbbsfzzrfi.com^
-||wfiejyjdlbsrkklvxxwkferadhbcwtxrotehopgqppsqwluboc.com^
-||zbfncjtaiwngdsrxvykupflpibvbrewhemghxlwsdoluaztwyi.com^
-||zfrzdepuaqebzlenihciadhdjzujnexvnksksqtazbaywgmzwl.com^
+||wdcxuezpxivqgmecukeirnsyhjpjoqdqfdtchquwyqatlwxtgq.com^
+||wwgdpbvbrublvjfbeunqvkrnvggoeubcfxzdjrgcgbnvgcolbf.com^
 ! toroadvertising.com
 ||asadismn.xyz^
 ||asjdfasas.xyz^
@@ -2266,7 +2255,7 @@ _regie/clic.$popup
 .ovh^$domain=huffingtonpost.fr|lemonde.fr|telerama.fr
 .xyz^$domain=filmvf.ws|smartorrent.com
 ://*qertewrt.com^$popup
-|http://$popup,domain=allmyvideos.net|allvid.ch|flashx.tv|getmytorrent.com|nowvideo.ag|nowvideo.co|nowvideo.li|nowvideo.sx|teramixer.com|ultimedia.com|up07.net|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com
+|http://$popup,domain=allmyvideos.net|allvid.ch|flashx.tv|getmytorrent.com|nowvideo.ag|nowvideo.co|nowvideo.li|nowvideo.sx|openload.co|teramixer.com|ultimedia.com|up07.net|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
@@ -3385,8 +3374,8 @@ xyz###player_img + div[id][style^="width: 315px; height: 266px; position: absolu
 xyz##div > div#player_img
 xyz##div[style="height: 258px; width: 308px; z-index: 2147483647; top: 241px; left: 562px; position: fixed; display: block;"]
 xyz##img + iframe#iframebanner[style="width: 308px; height: 258px; border: medium none;"]
-|http://$popup,domain=0fa8elhb.xyz|195en2b1.xyz|1jgvtb.info|2op1gr.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|99cavn.info|99cavn.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|lnxt1a.info|lnxt1a.xyz|maliana.info|mazlote.info|msemen.info|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|ssv1p3.xyz|st8vuu.xyz|t24dtznm.xyz|tei48gpw.xyz|tikamika.info|tiziwezo.info|tozfike.info|ukn41v.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
-|http://$script,third-party,domain=0fa8elhb.xyz|195en2b1.xyz|1jgvtb.info|2op1gr.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|99cavn.info|99cavn.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|lnxt1a.info|lnxt1a.xyz|maliana.info|mazlote.info|msemen.info|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|ssv1p3.xyz|st8vuu.xyz|t24dtznm.xyz|tei48gpw.xyz|tikamika.info|tiziwezo.info|tozfike.info|ukn41v.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
+|http://$popup,domain=0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|1jgvtb.info|2op1gr.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|99cavn.info|99cavn.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|lnxt1a.info|lnxt1a.xyz|maliana.info|mazlote.info|msemen.info|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|ssv1p3.xyz|st8vuu.xyz|t24dtznm.xyz|tei48gpw.xyz|tikamika.info|tiziwezo.info|tozfike.info|ukn41v.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
+|http://$script,third-party,domain=0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|1jgvtb.info|2op1gr.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|99cavn.info|99cavn.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|lnxt1a.info|lnxt1a.xyz|maliana.info|mazlote.info|msemen.info|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|ssv1p3.xyz|st8vuu.xyz|t24dtznm.xyz|tei48gpw.xyz|tikamika.info|tiziwezo.info|tozfike.info|ukn41v.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
 ! images hosting
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
@@ -5637,7 +5626,9 @@ toutcash.com/images/bandeau-
 ##.adSpace2
 ##.ad_970x90
 ##.ad_header_728x90
+##.ad_hidden
 ##.ad_placholder
+##.ad_visible
 ##.adavert-center
 ##.adbanner600active
 ##.adbloc
@@ -5647,6 +5638,7 @@ toutcash.com/images/bandeau-
 ##.adf_marketingbanner
 ##.adf_mpu
 ##.adflex
+##.admid2
 ##.ads--panorama
 ##.ads-300-300
 ##.ads-300-600
@@ -5686,6 +5678,7 @@ toutcash.com/images/bandeau-
 ##.ads_box_home_box
 ##.ads_buzz
 ##.ads_buzz_title
+##.ads_frame
 ##.ads_listvideos
 ##.ads_single_bottom
 ##.ads_table
@@ -7656,7 +7649,7 @@ amazon.fr##[class*="-sponsored-"]
 24matins.fr##[class*="W"]
 24matins.fr##[class*="X"]
 medisite.fr##[class] > img
-film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.nu,libre-stream.com,planet-streaming.com,vfilmze.com,youwatchfilm.net##[class^="PapaGoo"]
+film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.nu,libre-stream.com,planet-streaming.com,vfilmze.com##[class^="PapaGoo"]
 footnamurois.com##[class^="banners-"]
 t411.ch,t411.tv##[class^="gvbn"]
 forumconstruire.com##[class^="habillage"]
