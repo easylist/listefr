@@ -8134,7 +8134,6 @@ macg.co##article > a[-abp-properties='*'] > img
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
 ! mais d'empêcher les possibles dysfonctionnements liés aux filtres bloquants présents ci-dessus.
 !
-@@/adserver2/*$~third-party,domain=info.amnesty.be|petition.aides.org|www.enfantsdumekong.com|www.wwf.fr
 @@/plflv2/player_end.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@/plflv2/player_pause.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@/plflv2/preroll.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
@@ -8182,7 +8181,6 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
 @@||cdn.teads.tv/js/all-$script,domain=telechargement.zebulon.fr
 @@||clic.reussissonsensemble.fr/click*.asp$domain=forfait-mobile-moins-cher.com
-@@||client.iraiser.eu/adserver/
 @@||clk.tradedoubler.com/click?p=$subdocument,domain=vshop.fr
 @@||costacroisieres.fr/B2C/SharedResources/js/popunder.js
 @@||cstatic.weborama.fr/js/advertiser/wbo_performance.js$domain=pmu.fr
@@ -8224,7 +8222,6 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||images.newmedia.lu^*/adtech_video/
 @@||iphone4.fr/bannieres/header_icons.png
 @@||koifaire.com/upload/*/300x250-
-@@||libs.iraiser.eu/users/ffc/Header-pagededon.jpg
 @@||lokalok.com*/advert/$image,script,~third-party,xmlhttprequest,domain=lokalok.com
 @@||m2radio.fr/include/player/flash.swf?$domain=~live.m2stream.fr
 @@||mac4ever.com/min.php?$script
@@ -8287,6 +8284,21 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||wifeo.com/ads/promo/advertise-publicite.gif$image,domain=wifeo.com
 @@||yospace.com/crossdomain.xml$object-subrequest,third-party,domain=bfmtv.com
 @@||zatnawqy.net/intermission/loadTargetUrl?$~third-party,xmlhttprequest
+! iRaiser.eu
+@@||agir.plan-international.fr/adserver2/$~third-party
+@@||client.iraiser.eu/adserver/$~third-party
+@@||client.iraiser.eu/adserver2/$~third-party
+@@||ditesnonauxdevoirsalamaison.zupdeco.org/adserver2/$~third-party
+@@||info.amnesty.be/adserver2/$~third-party
+@@||info.fondationduclerge.com/adserver2/$~third-party
+@@||info.ligue-cancer.net/adserver2/$~third-party
+@@||infos.carefrance.org/adserver2/$~third-party
+@@||infos.francealzheimer.org/adserver2/$~third-party
+@@||infos.peuples-solidaires.org/adserver2/$~third-party
+@@||infos.wwf.fr/adserver2/$~third-party
+@@||petition.aides.org/adserver2/$~third-party
+@@||petitions.wwf.fr/adserver2/$~third-party
+@@||prehome.solidarites.org/adserver2/$~third-party
 !
 !----------------------- Exceptions d'éléments -----------------------!
 !
