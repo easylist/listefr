@@ -30,6 +30,7 @@
 &cwadformat=
 &forward_affiliate=
 &lr_adtype=
+&pdvId=
 &placement=*&ad=
 &playadw=
 &pop_under=
@@ -867,7 +868,7 @@ _waframedia_
 /out?zoneId=$popup
 /packcpm.$popup
 /partner/click/*$popup
-/pdv/track.php?$popup
+/pdv/track.$popup
 /pop?dfp_id=$popup
 /pop_packcpm.$popup
 /popads.$popup
@@ -892,6 +893,7 @@ _waframedia_
 /trk/|$popup
 /unsub_aff.$popup
 /xdirect.html?$popup
+://pdv.$popup
 =*&referrer=*embed-$popup
 =adplexmedia&$popup
 =partenariat&utm_campaign=$popup
