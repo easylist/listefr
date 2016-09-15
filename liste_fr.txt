@@ -1388,6 +1388,7 @@ _regie/clic.$popup
 ||icipourtout.com^$third-party
 ||idhad.com^$third-party
 ||igadserver.net^$third-party
+||iisksudks.xyz^$third-party
 ||ijero.com^$third-party
 ||ikoo.com^$third-party
 ||il0ad.com^$third-party
@@ -1850,6 +1851,7 @@ _regie/clic.$popup
 ||cdrjblrhsuxljwesjholugzxwukkerpobmonocjygnautvzjjm.com^
 ||gypxbcrmxsmikqbmnlwtezmjotrrdxpqtafumympsdtsfvkkza.com^
 ||hndesrzcgjmprqbbropdulvkfroonnrlbpqxhvprsavhwrfxtv.com^
+||huzmweoxlwanzvstlgygbrnfrmodaodqaczzibeplcezmyjnlv.com^
 ||lytpdzqyiygthvxlmgblonknzrctcwsjycmlcczifxbkquknsr.com^
 ||ngmckvucrjbnyybvgesxozxcwpgnaljhpedttelavqmpgvfsxg.com^
 ||pserhnmbbwexmbjderezswultfqlamugbqzsmyxwumgqwxuerl.com^
@@ -2250,7 +2252,7 @@ _regie/clic.$popup
 !
 &proxyurl=$domain=allmyvideos.net|amvtv.net|vidspot.net
 .ovh^$domain=huffingtonpost.fr|lemonde.fr|telerama.fr
-.xyz^$domain=filmvf.ws
+.xyz^$domain=filmvf.ws|smartorrent.com
 ://*qertewrt.com^$popup
 |http://$popup,domain=allmyvideos.net|allvid.ch|flashx.tv|getmytorrent.com|nowvideo.ag|nowvideo.co|nowvideo.li|nowvideo.sx|teramixer.com|ultimedia.com|up07.net|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com
 |http://$subdocument,domain=a2r-media.com
@@ -6153,6 +6155,7 @@ toutcash.com/images/bandeau-
 ##.yourcolor-ads
 ##.zonepub
 ##A[href*="=INSERT_RANDOM_NUMBER_HERE&"]
+##A[onclick^="CustomWLAdServer."]
 ##[data-type="ligatus-script"]
 ##[id*="_ads_id_"]
 ##[id^="ads_adnemo_"]
@@ -6170,6 +6173,7 @@ toutcash.com/images/bandeau-
 ##a[href*="/telechargement-rapide.php?"]
 ##a[href*="/tracking_campaign.php?"]
 ##a[href*="://adsrvmedia."]
+##a[href*="://all2lnk.com/"]
 ##a[href*="?ad_id="]
 ##a[href*="ads_random"]
 ##a[href*="fastclick.net/ad/"]
