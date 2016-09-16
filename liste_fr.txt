@@ -3052,6 +3052,7 @@ _regie/clic.$popup
 ||vp.videoplaza.tv/creatives/assets/$object-subrequest,third-party
 ||vp.videoplaza1.tv/creatives/assets/$object-subrequest,third-party
 ||vplan.com^$popup,domain=fdesouche.com
+||vpn-facile.net^$popup,domain=cachemoi.com
 ||vpn-surf.com^$popup,domain=mega-vesti.info|smartorrent.com
 ||w3sexe.com/logo.php?
 ||wac.a164.taucdn.net^
@@ -7897,7 +7898,6 @@ gamekult.com##article[style="background-color: rgba(0, 0, 0, 0.06);padding: 30px
 tchatche.com##banner
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 telesatellite.com##body > [id^="a"]
-cachemoi.com##body > center > table[width="728"][bordercolor="#333333"][bgcolor="#FFFFFF"][height="90"]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 igen.fr##br + div + div + div
@@ -8415,8 +8415,8 @@ _adblockdetector/
 @@||ops.prismamediadigital.com/js/advertisement.js$script
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|crash-aerien.news|cuisineactuelle.fr|onvasortir.com|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alligatographe.blogspot.fr|bricozone.fr|crash-aerien.news|cuisineactuelle.fr|leetgamerz.net|onvasortir.com|quebeccoupongratuit.com|slideplayer.fr|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|onvasortir.com|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alligatographe.blogspot.fr|bricozone.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|leetgamerz.net|onvasortir.com|quebeccoupongratuit.com|slideplayer.fr|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=qcm-concours.blogspot.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pub-config/ca-pub-*.js$domain=bricozone.fr
@@ -8456,6 +8456,7 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 @@||alligatographe.blogspot.fr^$generichide
 @@||annoncedesexe.com^$elemhide
 @@||bbstreaming.com^$elemhide
+@@||cachemoi.com^$generichide
 @@||cap-public.fr^$generichide
 @@||catnat.net^$generichide
 @@||cheminots.net^$generichide
