@@ -1160,8 +1160,10 @@ _regie/clic.$popup
 ||arabytracking.com^$third-party
 ||archiustube.com^$third-party
 ||aservtrack.com^$third-party
+||atdmt.com^$third-party
 ||atedra.com^$third-party
 ||aties.info^$third-party
+||atlassbx.com^$third-party
 ||atoshonetwork.com^$third-party
 ||attractive-sport.com^$third-party
 ||avanis.fr^$third-party
@@ -2293,8 +2295,6 @@ _regie/clic.$popup
 ||achetezfacile.com^*/widget.$third-party
 ||achetezfacile.com^*/widgets/$third-party
 ||ad.apps.fm^$popup
-||ad.atdmt.com^*.html;$third-party
-||ad.atdmt.com^*/go;$third-party
 ||ad.genybet.fr^
 ||ad.net-c.com^
 ||ad.prismamediadigital.com^
@@ -3718,6 +3718,7 @@ toutcash.com/images/bandeau-
 ||dl-more.eu/images/vpngratuit.png
 ||dlive.pagesjaunes.fr^
 ||dm.commentcamarche.net^
+||dm.html.net^$popup
 ||dm.hugolescargot.com^
 ||dm.journaldesfemmes.com^
 ||dm.journaldunet.com^
