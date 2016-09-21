@@ -3251,9 +3251,6 @@ _regie/clic.$popup
 ||wwwtatonnai.eu^
 ||wwwtatonnai.info^
 ||wwwtatonnai.uk^
-! secretmedia.com
-/^http://[a-z0-9_-]{10,}\.[a-z0-9-]+\.[a-z]{2,}\/.*?\w{30,}/$~xmlhttprequest,domain=exclusivomen.com|gentside.com|gentside.com.br|gentside.de|maxisciences.com|ohmirevista.com|ohmymag.com|ohmymag.com.br|ohmymag.de|simplyvoyage.com
-/^http://[a-z0-9_]{15,}\.[a-z0-9-]+\.[a-z]{2,}\/.*[a-zA-Z0-9]{100,}/$object-subrequest,domain=wat.tv
 ! ultimedia.com
 .ovh^$domain=ultimedia.com
 @@|http://*.digiteka.net/*,,/*?mdtk=$object-subrequest,third-party,domain=ultimedia.com
@@ -9055,6 +9052,9 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 ||unbarreleddarkened.net^
 ||unbodiediridaceousplant.net^
 ||underlaymentgallstone.net^
+!
+/^http://[a-z0-9_-]{10,}\.[a-z0-9-]+\.[a-z]{2,}\/.*?\w{30,}/$~xmlhttprequest,domain=exclusivomen.com|gentside.com|gentside.com.br|gentside.de|maxisciences.com|ohmirevista.com|ohmymag.com|ohmymag.com.br|ohmymag.de|over-blog.com|simplyvoyage.com
+/^http://[a-z0-9_]{15,}\.[a-z0-9-]+\.[a-z]{2,}\/.*[a-zA-Z0-9]{100,}/$object-subrequest,domain=wat.tv
 !
 @@||lymantriacypresdoctrine.biz^$xmlhttprequest,domain=www.wat.tv
 @@||palmshapednontransferable.com^$xmlhttprequest,domain=exclusivomen.com|gentside.com|gentside.com.br|gentside.de|maxisciences.com|ohmirevista.com|ohmymag.com|ohmymag.com.br|ohmymag.de|simplyvoyage.com
