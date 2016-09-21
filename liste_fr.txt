@@ -3566,9 +3566,6 @@ toutcash.com/images/bandeau-
 ||beaute-test.com^*?$image
 ||becompta.be/sites/default/files/banners/
 ||bedetheque.com/javascript/campagne?
-||begeek.fr/cdiscount.jpg
-||begeek.fr/images/index.php?
-||begeek.fr/media/images/pub-
 ||bejaiainfo.com/wp-content/uploads/*/thesource.gif
 ||belgianfootball.be/sites/default/files/img/banners/
 ||belgique-tourisme.be/images/db/banner/
@@ -6425,7 +6422,6 @@ novaplanet.com###block_novadraganddrop_pub
 femmemag.re###block_regie_pub_bas_article
 cine-media.fr###bloctopad
 explorimmo.com###bob
-begeek.fr###bonplans
 silicon.fr###boostToaster
 liligo.fr###bottom-banner-smart
 rugbyfederal.com###bottom_768x90
@@ -6608,7 +6604,6 @@ juritravail.com###jt-footerContainer
 virginradio.fr###la-promo-showskin-a
 lequipe.fr###la_boutique
 lafermeduweb.net###lastBar
-begeek.fr###last_post + span
 118712.fr###le712_lr_pub
 webactus.net###leader-small
 marketing-professionnel.fr###leader-wrapper
@@ -6821,17 +6816,12 @@ sfr.fr###shoppingWrapper
 choisirsonforfait.com###sidPub
 herault-tribune.com###side_pub1
 herault-tribune.com###side_pub2
-begeek.fr###sidebar > [class] > a
-begeek.fr###sidebar > a > img
-begeek.fr###sidebar > div > a
-begeek.fr###sidebar > li
 nostrodomus.fr###sidebar-bottom-promo
 nostrodomus.fr###sidebar-bottom-pub
 nostrodomus.fr###sidebar-pub
 mobigeeks.fr###sidebar-shell-2
 nostrodomus.fr###sidebar-sup-promo
 lematin.ch###sidebarSky
-begeek.fr###single > div + a
 spi0n.com###single_sidebar
 jvn.com###skin
 ezgif.com###sky
@@ -6936,7 +6926,6 @@ lagazettedescommunes.com##.actus-home-right-pub
 courrierinternational.com,covoiturage.fr,dna.fr,e-sante.fr,fabriquer-des-meubles.fr,gamer-network.fr,gizmodo.fr,heures.be,journalmetro.com,lematin.ch,lequotidiendumedecin.fr,lopinion.fr,maps.google.fr,marques.expert,msn.com,p-nintendo.com,photo.fr,playerhd1.pw,soundlightup.com,tetu.com,tripadvisor.fr,zapiks.fr##.ad
 nouvelobs.com##.ad--desk
 midilibre.fr,sudouest.fr##.ad-box
-begeek.fr##.ad-sidebar + span
 turfomania.fr##.ad1
 vinyculture.com##.ad2
 pafpaf.com##.adBlocTop
@@ -7692,7 +7681,6 @@ amvtv.net##[style*="position: absolute; z-index: 99999"]
 xooit.com##[style*="z-index: 99999999; height: 92px; width: 100%;"]
 boursorama.com##[style="width: 1000px; margin: 0px auto; min-width: 0px; min-height: 90px; display: block;"]
 forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding:15px"]
-begeek.fr##a > img
 basket-infos.com##a > img[alt^="Pub"]
 medialot.fr##a > img[height="250"]
 israelmagazine.co.il##a > img[width="238"]
@@ -8099,10 +8087,6 @@ gum-gum-streaming.com##script + div > span
 gum-gum-streaming.com##style + a
 gum-gum-streaming.com##style + center > a
 ! Filtres de propriété CSS pour Adblock Plus
-begeek.fr###sidebar a[-abp-properties='background-image: *;']
-begeek.fr###single > [-abp-properties='cursor: pointer;']
-begeek.fr###single > [-abp-properties='height: *px; padding-top: *px;']
-begeek.fr###single > a[-abp-properties='*'] > img
 igen.fr##.article > div + [class] [id]:last-child[-abp-properties='background-image:*;']
 macg.co##.article > div > div > [class]:last-child[-abp-properties='background-image:*;']
 igen.fr##.article [-abp-properties='cursor: pointer;']
@@ -8123,9 +8107,6 @@ senscritique.com##[-abp-properties='background-position: *;']
 medisite.fr##[-abp-properties='cursor: pointer;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 nextinpact.com##[-abp-properties='height: 250px;']
-begeek.fr##[-abp-properties='height: 3*px;']
-begeek.fr##[-abp-properties='height: 5*px;'] > img
-begeek.fr##[-abp-properties='height: 6*px;']
 igen.fr##[-abp-properties='height: 61*px;']
 cacastream.com,ddstream.com,protect-stream.com,youwatch-series.com##[-abp-properties='opacity: *;']
 igen.fr,macg.co##[-abp-properties='padding-bottom: 50*px;']
@@ -8135,13 +8116,12 @@ medisite.fr##[-abp-properties='width: 670px;']
 lucariostream.eu##[-abp-properties='z-index: 999*;']
 macg.co##article > a[-abp-properties='*'] > img
 ! Ligatus
-@@||connect.facebook.net^$script,domain=begeek.fr
 @@||disqus.com^$script,third-party,domain=medisite.fr
 @@||player.mediabong.com/*/video.js$script,third-party,domain=medisite.fr
 @@||static.mediabong.com/scripts/mb.*.js$script,third-party,domain=medisite.fr
-|http://$script,third-party,domain=aventure-apple.com|begeek.fr|ioccasion.fr|macgeneration.com|medisite.fr|refurbgeneration.com
+|http://$script,third-party,domain=aventure-apple.com|ioccasion.fr|macgeneration.com|medisite.fr|refurbgeneration.com
 |http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
-|https://$script,third-party,domain=aventure-apple.com|begeek.fr|ioccasion.fr|macgeneration.com|medisite.fr|refurbgeneration.com
+|https://$script,third-party,domain=aventure-apple.com|ioccasion.fr|macgeneration.com|medisite.fr|refurbgeneration.com
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 !
 !----------------------- Exceptions -----------------------!
