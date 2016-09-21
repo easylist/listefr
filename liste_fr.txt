@@ -2281,7 +2281,7 @@ _regie/clic.$popup
 .ovh^$domain=huffingtonpost.fr|lemonde.fr|telerama.fr
 .xyz^$domain=filmvf.ws|smartorrent.com
 ://*qertewrt.com^$popup
-|http://$popup,domain=allmyvideos.net|allvid.ch|flashx.tv|getmytorrent.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|ultimedia.com|up07.net|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com
+|http://$popup,domain=allmyvideos.net|allvid.ch|flashx.tv|getmytorrent.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
@@ -2959,6 +2959,7 @@ _regie/clic.$popup
 ||shopping.com/publisher/$third-party
 ||shoppingbox.leguide.com^
 ||short-stuff.com^$popup,domain=telechargementz-streaming.com
+||short-urls.biz^$popup,domain=up09.com
 ||simabio.fr/widget_$third-party
 ||simpleads.biz^
 ||site.elkhabar.com^
@@ -3058,6 +3059,7 @@ _regie/clic.$popup
 ||url.ph/banners/
 ||us-ugc-aka.canal-plus.com^
 ||users.skynet.be/freewaooh2/ban.png
+||vcc.me^$popup,domain=up09.com
 ||vendezvotrevoiture.fr^$subdocument,third-party
 ||vernimmen.net/images/flash/300x300_$third-party
 ||vide.maison/wp-content/uploads/$third-party
@@ -3406,6 +3408,9 @@ uploaded.net##[class*="pico-"]
 ||i.imgur.com/SmRC1lO.png
 ||img11.hostingpics.net/pics/517373PubSFR.jpg
 ||img15.hostingpics.net/pics/264067bANNsfr.jpg
+||s33.postimg.org/s61jp5py7/in_1.png
+||store1.up-00.com/2016-08/1471570071861.png
+||store2.up-00.com/2016-08/1472649197061.png
 ! https://forums.lanik.us/viewtopic.php?f=62&t=25548
 ||festivalnikon.fr/video/$popup
 ||gamez4tops.com$popup,third-party
@@ -3859,6 +3864,7 @@ toutcash.com/images/bandeau-
 ||ferrarista.fr/forum-ferrari/uploads/referral-$image
 ||fifa.com/images/layout/sponsors/
 ||fifostream.tv/video.html
+||file.up09.com/open*.js
 ||files-save.com/noyaux/pub/
 ||files.macg.co/macgupload/
 ||filierepro.fr/images/banners/
@@ -5019,13 +5025,14 @@ toutcash.com/images/bandeau-
 ||ztat.net^*/affiliate/
 ! cloudfront.net
 ||cloudfront.net/img/banner
-||cloudfront.net^$domain=1host.name|allvid.ch|brain-magazine.fr|dailymotion.com|exashare.com|gighub.net|gorillavid.in|maquillage.com|openload.info|pausefun.com|pausepeople.com|revclouds.com|solidfiles.com|thewatchseries.to|toofy.tv|uploadrocket.net|uplod.it|uptobox.com|wuxiaworld.com|youwatch.org
+||cloudfront.net^$domain=1host.name|allvid.ch|brain-magazine.fr|dailymotion.com|exashare.com|gighub.net|gorillavid.in|maquillage.com|openload.info|pausefun.com|pausepeople.com|revclouds.com|solidfiles.com|thewatchseries.to|toofy.tv|up09.com|uploadrocket.net|uplod.it|uptobox.com|wuxiaworld.com|youwatch.org
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*tid=$script
 ||d14nx4uiqzwnqt.cloudfront.net^
 ||d17rlarvg2khuc.cloudfront.net^
 ||d1az0m14mjvs40.cloudfront.net^
 ||d1eyk8qbbvsiyg.cloudfront.net^
+||d1fttzrngno3h1.cloudfront.net^
 ||d1gp9nlx229wzz.cloudfront.net^
 ||d1izbwxtc3f9ue.cloudfront.net^
 ||d1k29rhvz38kg5.cloudfront.net^
@@ -7848,6 +7855,7 @@ jamsvu.fr##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
 annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
 cinemafantastique.net##a[href^="http://pubs.ecranfantastique.net/"]
 brunotritsch.fr##a[href^="http://rdinews.com/ads/"]
+file.up09.com##a[href^="http://short-urls.biz/"]
 needsandmoods.com##a[href^="http://sigma-beauty.7eer.net/"]
 sport.fr##a[href^="http://sport-kiff.com/"]
 mega-vesti.info,smartorrent.com##a[href^="http://tinyurl.com/"]
@@ -7914,7 +7922,7 @@ jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 mega-vesti.info,smartorrent.com##a[style="color:hotpink;"]
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
-narutoshippudenvf.com##a[target="_blank"]
+file.up09.com,narutoshippudenvf.com##a[target="_blank"]
 journaldu4x4.com##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
