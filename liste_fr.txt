@@ -5364,6 +5364,7 @@ toutcash.com/images/bandeau-
 ###ligatus_art_foot
 ###ligatus_art_right
 ###ligatus_right_column
+###ligatus_single
 ###mainColRightPublireportage
 ###mb_video_syncad_bottom
 ###middle-publicite
@@ -6820,19 +6821,16 @@ sfr.fr###shoppingWrapper
 choisirsonforfait.com###sidPub
 herault-tribune.com###side_pub1
 herault-tribune.com###side_pub2
-24matins.fr###sidebar
 begeek.fr###sidebar > [class] > a
 begeek.fr###sidebar > a > img
 begeek.fr###sidebar > div > a
-24matins.fr,begeek.fr###sidebar > li
+begeek.fr###sidebar > li
 nostrodomus.fr###sidebar-bottom-promo
 nostrodomus.fr###sidebar-bottom-pub
 nostrodomus.fr###sidebar-pub
 mobigeeks.fr###sidebar-shell-2
 nostrodomus.fr###sidebar-sup-promo
 lematin.ch###sidebarSky
-24matins.fr###single > [class] > :first-child:last-child
-24matins.fr###single > [id] > :first-child:last-child
 begeek.fr###single > div + a
 spi0n.com###single_sidebar
 jvn.com###skin
@@ -7399,8 +7397,6 @@ portaildusexe.com##.player-catcher
 pausefun.com##.plugin_sidebar
 lemonde.fr##.poops
 zebrascrossing.net##.post--0
-24matins.fr##.post-content + span + [class]
-24matins.fr##.post-content + span + [id]
 gamergen.com##.post-google
 1001cocktails.com##.post.bg2 + * + .post.bg2
 pnc-contact.com##.post.bg3
@@ -7663,22 +7659,10 @@ torrentfrancais.com##.z2_full_pub_video
 tomsguide.fr##.zoneTriple
 tsa-algerie.com##.zone_annonceurs
 lepetiteconomiste.com##.zoom
-24matins.fr##ARTICLE [class*="j"]
-24matins.fr##ARTICLE [class*="x"]
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
-24matins.fr##[class*="E"]
-24matins.fr##[class*="F"]
-24matins.fr##[class*="I"]
-24matins.fr##[class*="L"]
-24matins.fr##[class*="N"]
-24matins.fr##[class*="O"]
-24matins.fr##[class*="S"]
-24matins.fr##[class*="V"]
-24matins.fr##[class*="W"]
-24matins.fr##[class*="X"]
 medisite.fr##[class] > img
 film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.nu,libre-stream.com,planet-streaming.com,vfilmze.com##[class^="PapaGoo"]
 footnamurois.com##[class^="banners-"]
@@ -7697,8 +7681,6 @@ smartorrent.com##[href^="http://smartorrent.com/telecharger-torrent/"]
 turbo.fr##[id^="ABbypass"]
 aujourdhui-en-france.fr,leparisien.fr##[id^="Ads_"]
 film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.nu,libre-stream.com,planet-streaming.com,vfilmze.com,youwatchfilm.net##[id^="PapaGoo"]
-24matins.fr##[id^="S"]
-24matins.fr##[id^="U"]
 footnamurois.com##[id^="banners-"]
 egora.fr##[id^="block-gmsante_pub-"]
 lachainemeteo.com##[id^="lig_"]
@@ -7929,10 +7911,6 @@ prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 lefigaro.fr##a[target="_blank"] > img[style="width: 463px; height: 170px;"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="100"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
-24matins.fr##article > .clear + div > a
-24matins.fr##article > div
-24matins.fr##article > li
-24matins.fr##article a > img
 gamekult.com##article[style="background-color: rgba(0, 0, 0, 0.06);padding: 30px;;margin-bottom:20px"]:first-child
 tchatche.com##banner
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
@@ -8124,11 +8102,7 @@ gum-gum-streaming.com##style + center > a
 begeek.fr###sidebar a[-abp-properties='background-image: *;']
 begeek.fr###single > [-abp-properties='cursor: pointer;']
 begeek.fr###single > [-abp-properties='height: *px; padding-top: *px;']
-24matins.fr###single > [class] > :first-child[-abp-properties='background-image:*;']
-24matins.fr###single > [id] > :first-child[-abp-properties='background-image:*;']
 begeek.fr###single > a[-abp-properties='*'] > img
-24matins.fr###single [-abp-properties='cursor: pointer;']
-24matins.fr##.ad-sidebar + div[-abp-properties='background-image:*;']
 igen.fr##.article > div + [class] [id]:last-child[-abp-properties='background-image:*;']
 macg.co##.article > div > div > [class]:last-child[-abp-properties='background-image:*;']
 igen.fr##.article [-abp-properties='cursor: pointer;']
@@ -8148,32 +8122,26 @@ igen.fr,macg.co##[-abp-properties='background-image: url(*;']
 senscritique.com##[-abp-properties='background-position: *;']
 medisite.fr##[-abp-properties='cursor: pointer;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
-24matins.fr##[-abp-properties='display:flex;']
-24matins.fr##[-abp-properties='display:none;']
 nextinpact.com##[-abp-properties='height: 250px;']
 begeek.fr##[-abp-properties='height: 3*px;']
 begeek.fr##[-abp-properties='height: 5*px;'] > img
-24matins.fr##[-abp-properties='height: 50*px;']
 begeek.fr##[-abp-properties='height: 6*px;']
 igen.fr##[-abp-properties='height: 61*px;']
-24matins.fr##[-abp-properties='margin-bottom: 15px;']:last-child
 cacastream.com,ddstream.com,protect-stream.com,youwatch-series.com##[-abp-properties='opacity: *;']
 igen.fr,macg.co##[-abp-properties='padding-bottom: 50*px;']
-24matins.fr##[-abp-properties='padding-top: 40*px;']
 nextinpact.com##[-abp-properties='width: 300px;']
 igen.fr##[-abp-properties='width: 31*px;']
 medisite.fr##[-abp-properties='width: 670px;']
 lucariostream.eu##[-abp-properties='z-index: 999*;']
 macg.co##article > a[-abp-properties='*'] > img
-24matins.fr##article > div[-abp-properties='background-image:*;']
 ! Ligatus
-@@||connect.facebook.net^$script,domain=24matins.fr|begeek.fr
+@@||connect.facebook.net^$script,domain=begeek.fr
 @@||disqus.com^$script,third-party,domain=medisite.fr
 @@||player.mediabong.com/*/video.js$script,third-party,domain=medisite.fr
 @@||static.mediabong.com/scripts/mb.*.js$script,third-party,domain=medisite.fr
-|http://$script,third-party,domain=24matins.fr|aventure-apple.com|begeek.fr|ioccasion.fr|macgeneration.com|medisite.fr|refurbgeneration.com
+|http://$script,third-party,domain=aventure-apple.com|begeek.fr|ioccasion.fr|macgeneration.com|medisite.fr|refurbgeneration.com
 |http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
-|https://$script,third-party,domain=24matins.fr|aventure-apple.com|begeek.fr|ioccasion.fr|macgeneration.com|medisite.fr|refurbgeneration.com
+|https://$script,third-party,domain=aventure-apple.com|begeek.fr|ioccasion.fr|macgeneration.com|medisite.fr|refurbgeneration.com
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 !
 !----------------------- Exceptions -----------------------!
