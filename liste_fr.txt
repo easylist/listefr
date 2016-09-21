@@ -2282,6 +2282,7 @@ _regie/clic.$popup
 .xyz^$domain=filmvf.ws|smartorrent.com
 ://*qertewrt.com^$popup
 |http://$popup,domain=allmyvideos.net|allvid.ch|flashx.tv|getmytorrent.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com
+|http://$popup,third-party,domain=minutebuzz.com
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
@@ -7478,6 +7479,7 @@ orangeinfo.fr##.pubside
 iphoneaddict.fr##.pubsoustag
 web-tricheur.net##.pubtexte
 jeuxflash.com##.pull-left
+minutebuzz.com##.push
 nouvelobs.com##.r89-partenariats--vertical
 souk.ma##.rbanner-wrap
 annuaire-inverse-france.com##.rborderpurple
@@ -7609,6 +7611,7 @@ forum-windows.com##.unixblue
 excel-pratique.com##.vba_300
 souk.ma##.vbanner-wrap
 aujourdhui-en-france.fr##.venteprivee
+minutebuzz.com##.vhtml5
 d8.tv##.video-preroll
 amateur2sexe.fr,pornovore.fr##.video-pub
 geste.fr##.view-id-partenaires
