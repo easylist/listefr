@@ -3186,6 +3186,8 @@ _regie/clic.$popup
 ! dblock-ads.com
 ||biebettude.xyz^
 ||biebettude.xyz^$popup
+||donager.xyz^
+||donager.xyz^$popup
 ||gothrough.xyz^
 ||gothrough.xyz^$popup
 ||lickroll.xyz^
@@ -3378,10 +3380,6 @@ _regie/clic.$popup
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=pokemon-streaming.com
 |http://$script,third-party,domain=pokemon-streaming.com
 |https://$script,third-party,domain=pokemon-streaming.com
-! microjeux.com
-@@||ajax.googleapis.com^$domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
-|http://$script,third-party,xmlhttprequest,domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
-|https://$script,third-party,xmlhttprequest,domain=macrogames.ru|macrojuegos.com|microgiochi.com|microgry.com|microjeux.com|microjogos.com|microspiele.com|minigamers.com
 ! mavanime.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=mavanime.com
 |http://$script,third-party,domain=mavanime.com
