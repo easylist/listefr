@@ -489,8 +489,10 @@
 /pop0.js|
 /popcall.js
 /popcashnet.js
+/popun.*&random=
 /popunder3.
 /popunder6.
+/popup.*&ads=
 /popup.php?*&pub=$script
 /popup.php?affil_id=
 /popup.php?user=
@@ -1041,6 +1043,7 @@ _regie/clic.$popup
 ||adoftheyear.com^$third-party
 ||adonads.com^$third-party
 ||adoptima.com^$third-party
+||adpays.net^$third-party
 ||adpdx.com^$third-party
 ||adproxy2.com^$third-party
 ||adpub.eu^$third-party
@@ -2455,6 +2458,7 @@ _regie/clic.$popup
 ||centredecontrole.biz^$subdocument
 ||centreimmo.com/contents//annonce/$third-party
 ||century21.fr^$subdocument,third-party
+||chimeratool.com/banner/
 ||choisir-ma-banque.com^$domain=challenges.fr
 ||choubijoux.com/image/banniere-$third-party
 ||classistatic.com/*/banner/
@@ -5042,6 +5046,7 @@ toutcash.com/images/bandeau-
 ||d1sj3yrs7ojvv7.cloudfront.net^
 ||d1uydqzj7b9nt9.cloudfront.net^
 ||d1vguuq5efvsfq.cloudfront.net^
+||d262g11wze3cwd.cloudfront.net^
 ||d29lpg037v41oq.cloudfront.net^
 ||d2ggw6du5pulet.cloudfront.net^
 ||d2gt9oovykfp1z.cloudfront.net^
