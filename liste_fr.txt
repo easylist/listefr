@@ -92,7 +92,6 @@
 .adxcore.
 .asp?adv=
 .asp?affid=
-.asp?clicktag=
 .aspx?adv=
 .campaignsFileLoaded$script
 .com.sa/ads/
@@ -318,6 +317,7 @@
 /bannercode-
 /banners-ads/*
 /banners-pub/*
+/banners/pub-
 /banners/show_flash.js
 /banners?tid=
 /banniere.php?id=
@@ -532,9 +532,7 @@
 /pub/dfp/*
 /pub/ga_pub_$script
 /pub/pub-
-/pub/pub-fr-
 /pub/pub_
-/pub/pub_$subdocument
 /Pub200x250.
 /pub250.
 /pub300-250.
@@ -681,7 +679,7 @@
 ?adSelector=
 ?bannertag=
 ?callback=ADS.
-?clickTag=
+?clicktag=
 ?imgPrefix=/ligatus/
 ?mmzad=
 ?Page=*&Width=120&Height=600&
@@ -900,14 +898,12 @@ _waframedia_
 /t/?*&clickid=$popup
 /trk/|$popup
 /unsub_aff.$popup
-/xdirect.html?$popup
 ://pdv.$popup
 =*&referrer=*embed-$popup
 =adplexmedia&$popup
 =partenariat&utm_campaign=$popup
 =pubdirecte&$popup
 ?action=linkpub&$popup
-?ad_domain=$popup
 ?adCampaign=$popup
 ?adslotid=$popup
 ?id_rotation=$popup
@@ -923,7 +919,6 @@ _adb_728x90_$popup
 _domain=ads.$popup
 _pop.php?z=$popup
 _pornofolies_$popup
-_redir.php?id_rotation=$popup
 _regie/clic.$popup
 ||adv-mybankai.$popup
 ||xml.*/click?$popup
@@ -1008,7 +1003,6 @@ _regie/clic.$popup
 ||adecolo.com^$third-party
 ||adefficiency.net^$third-party
 ||adenabler.com^$third-party
-||adexc.net^$third-party
 ||adexchangecloud.com^$third-party
 ||adexp.net^$third-party
 ||adfever.com^$third-party
@@ -1019,7 +1013,6 @@ _regie/clic.$popup
 ||adhslx.com^$third-party
 ||adinlive.com^$third-party
 ||adintop.com^$third-party
-||aditize.com^$third-party
 ||adkontekst.pl^$third-party
 ||adlead.com^$third-party
 ||adleadevent.com^$third-party
@@ -1032,7 +1025,6 @@ _regie/clic.$popup
 ||admark.fr^$third-party
 ||admathhd.com^$third-party
 ||admediaking.com^$third-party
-||admedit.net^$third-party
 ||admitlead.ru^$third-party
 ||admized.com^$third-party
 ||admtpmp123.com^$third-party
@@ -1052,7 +1044,6 @@ _regie/clic.$popup
 ||adpub.eu^$third-party
 ||adqia.com^$third-party
 ||adrife.com^$third-party
-||adrife.net^$third-party
 ||ads-in-games.com^$third-party
 ||ads-metro.net^$third-party
 ||ads-peinture.fr^$third-party
@@ -1377,7 +1368,7 @@ _regie/clic.$popup
 ||geniusinstaller.com^$third-party
 ||gestion2web.com^$third-party
 ||getfile321.com^$third-party
-||getmyads.com^$third-party
+||getmyads*.com^$third-party
 ||gibsonvillainousweatherstrip.com^$third-party
 ||gingermedia.com^$third-party
 ||giwcini.ru^$third-party
@@ -1395,7 +1386,6 @@ _regie/clic.$popup
 ||hibamedia.com^$third-party
 ||hits-exchange.me^$third-party
 ||hla-media.com^$third-party
-||hola-shopping.com^$third-party
 ||hopdream.com^$third-party
 ||horyzon-clics.com^$third-party
 ||hsoub.com^$third-party
@@ -1413,7 +1403,6 @@ _regie/clic.$popup
 ||illyx.com^$third-party
 ||imediastreams.com^$third-party
 ||imgsynd.com^$third-party
-||impresionesweb.com^$third-party
 ||initialcontroledge.info^$third-party
 ||inshopr.com^$third-party
 ||installwager.com^$third-party
@@ -1590,7 +1579,6 @@ _regie/clic.$popup
 ||placedesleads.com^$third-party
 ||plaisirsdejouir.fr^$third-party
 ||platine.org^$third-party
-||player.pornravage.com^$third-party
 ||playglad.com^$third-party
 ||pluginnetwork.net^$third-party
 ||plurielmediacenter.com^$third-party
@@ -1599,7 +1587,6 @@ _regie/clic.$popup
 ||pocofh.com^$third-party
 ||poparb.com^$third-party
 ||popitunder.com^$third-party
-||poprev.net^$third-party
 ||popvertising.com^$third-party
 ||popzila.com^$third-party
 ||porn247.info^$third-party
@@ -1608,7 +1595,6 @@ _regie/clic.$popup
 ||possini.eu^$third-party
 ||postaffiliatepro.com^$third-party
 ||predictivadvertising.com^$third-party
-||prm-native.com^$third-party
 ||proche2moi.com^$third-party
 ||promo.alienbiz.com^$third-party
 ||promo.ezstatic.com^$third-party
@@ -1936,9 +1922,7 @@ _regie/clic.$popup
 ||adbooth.com^$popup,third-party
 ||adbucks.com^$popup,third-party
 ||addragonppc.com^$popup,third-party
-||adexc.net^$popup,third-party
 ||adexchangelive.com^$popup,third-party
-||adexchangeprediction.com^$popup,third-party
 ||adexchangetracker.com^$popup,third-party
 ||adexint.com^$popup,third-party
 ||adextrem.com^$popup,third-party
@@ -1949,7 +1933,6 @@ _regie/clic.$popup
 ||adjux.com^$popup,third-party
 ||admailtiser.com^$popup,third-party
 ||admarketplace.net^$popup,third-party
-||admedit.net^$popup,third-party
 ||adminlady.info^$popup,third-party
 ||adnetw0rk.net^$popup,third-party
 ||adometric.com^$popup,third-party
@@ -1965,7 +1948,6 @@ _regie/clic.$popup
 ||adservingsolutionsinc.com^$popup,third-party
 ||adservme.com^$popup,third-party
 ||adsguru.co^$popup,third-party
-||adshell.net^$popup,third-party
 ||adskeeper.co.uk^$popup,third-party
 ||adstract.com^$popup,third-party
 ||adventurefeeds.com^$popup,third-party
@@ -1982,7 +1964,6 @@ _regie/clic.$popup
 ||affiliation-france.com^$popup,third-party
 ||affiliwix.com^$popup,third-party
 ||agkn.com^$popup,third-party
-||algocashmaster.net^$popup,third-party
 ||all2lnk.com^$popup,third-party
 ||ampxchange.com^$popup,third-party
 ||anytheengmedia.com^$popup,third-party
@@ -2023,7 +2004,6 @@ _regie/clic.$popup
 ||clicks4ads.com^$popup,third-party
 ||clicnscores.ma^$popup,third-party
 ||clksite.com^$popup,third-party
-||cloudservepoint.com^$popup,third-party
 ||coloredview.com^$popup,third-party
 ||cometstar.net^$popup,third-party
 ||compazenad.com^$popup,third-party
@@ -2041,9 +2021,7 @@ _regie/clic.$popup
 ||danstonfion.com^$popup,third-party
 ||dblock-ads.com^$popup,third-party
 ||dealdunjour.com^$popup,third-party
-||deliverydom.com^$popup,third-party
 ||delnapb.com^$popup,third-party
-||delta-boa.com^$popup,third-party
 ||derby-digital.com^$popup,third-party
 ||digitalworldads.com^$popup,third-party
 ||direction-x.com^$popup,third-party
@@ -2054,7 +2032,6 @@ _regie/clic.$popup
 ||dubshub.com^$popup,third-party
 ||dynsrvaba.com^$popup,third-party
 ||eacdn.com^$popup,third-party
-||elite-sex-finder.com^$popup,third-party
 ||emea.pub^$popup,third-party
 ||eravage.com^$popup,third-party
 ||espace-plus.net^$popup,third-party
@@ -2071,12 +2048,12 @@ _regie/clic.$popup
 ||fungoiddempseyimpasse.info^$popup,third-party
 ||gamingaffiliation.com^$popup,third-party
 ||geniusdisplay.com^$popup,third-party
-||geranew.info^$popup,third-party
 ||gernu.info^$popup,third-party
 ||gerwen.info^$popup,third-party
 ||gestionpub.com^$popup,third-party
 ||getgamers.eu^$popup,third-party
 ||getlinksinaseconds.com^$popup,third-party
+||getmyads*.com^$popup,third-party
 ||globaloffers.link^$popup,third-party
 ||go.padsdel.com^$popup,third-party
 ||go2me.tk^$popup,third-party
@@ -2094,9 +2071,6 @@ _regie/clic.$popup
 ||imitrk.com^$popup,third-party
 ||india-zed.com^$popup,third-party
 ||infoyours.info^$popup,third-party
-||infra.systems^$popup,third-party
-||installcdnfile.com^$popup,third-party
-||instanceyou.info^$popup,third-party
 ||ipsowrite.com^$popup,third-party
 ||irclick.net^$popup,third-party
 ||isanalyze.com^$popup,third-party
@@ -2129,7 +2103,6 @@ _regie/clic.$popup
 ||mobile-10.com^$popup,third-party
 ||mobimediatraf.com^$popup,third-party
 ||mobisla.com^$popup,third-party
-||mobsterbird.info^$popup,third-party
 ||mobusi.com^$popup,third-party
 ||mobutrafsrcms.com^$popup,third-party
 ||monetizemytraffic.com^$popup,third-party
@@ -2173,7 +2146,6 @@ _regie/clic.$popup
 ||purlive.com^$popup,third-party
 ||pwdplz.com^$popup,third-party
 ||px9y26.com^$popup,third-party
-||qertewrt.com^$popup,third-party
 ||rdsa2013.com^$popup,third-party
 ||reacheffect.com^$popup,third-party
 ||readerfonder.info^$popup,third-party
@@ -2184,13 +2156,11 @@ _regie/clic.$popup
 ||regie3digital.com^$popup,third-party
 ||relateev.com^$popup,third-party
 ||removeadsnow.info^$popup,third-party
-||rencontreanna.com^$popup,third-party
 ||rencontresparis2015.com^$popup,third-party
 ||replacescript.in^$popup,third-party
 ||retargetads.net^$popup,third-party
 ||rev2pub.com^$popup,third-party
 ||revsharecash.com^$popup,third-party
-||riowrite.com^$popup,third-party
 ||rometroit.com^$popup,third-party
 ||rotorrents.com^$popup,third-party
 ||rtbanalytics.com^$popup,third-party
@@ -2204,7 +2174,6 @@ _regie/clic.$popup
 ||sezonlukdizi.com^$popup,third-party
 ||shglegle.com^$popup,third-party
 ||shopstockoff.com^$popup,third-party
-||sierra-fox.com^$popup,third-party
 ||silvercdn.ryukyu^$popup,third-party
 ||slutroulette.com^$popup,third-party
 ||smart-dn.com^$popup,third-party
@@ -2223,7 +2192,6 @@ _regie/clic.$popup
 ||sushis.kim^$popup,third-party
 ||sv2.biz^$popup,third-party
 ||tag.regieci.com^$popup,third-party
-||targetctracker.com^$popup,third-party
 ||teracreative.com^$popup,third-party
 ||terrapops.com^$popup,third-party
 ||the-adult-company.com^$popup,third-party
@@ -2234,8 +2202,6 @@ _regie/clic.$popup
 ||todigroup.com^$popup,third-party
 ||tonlive.com^$popup,third-party
 ||top2016games.com^$popup,third-party
-||toroadvertisingmedia.com^$popup,third-party
-||torrentcacher.info^$popup,third-party
 ||torriderencontre.com^$popup,third-party
 ||track2cash.com^$popup,third-party
 ||tracker.zombaio.com^$popup,third-party
@@ -2253,7 +2219,6 @@ _regie/clic.$popup
 ||trkfl.com^$popup,third-party
 ||trully-sun.top^$popup,third-party
 ||ts-ads.info^$popup,third-party
-||turbofileindir.com^$popup,third-party
 ||url.rw^$popup,third-party
 ||urlcash.com^$popup,third-party
 ||vertoz.com^$popup,third-party
@@ -2264,8 +2229,6 @@ _regie/clic.$popup
 ||vkunlock3.eu^$popup,third-party
 ||voluums.com^$popup,third-party
 ||votdengi.club^$popup,third-party
-||wardparser.info^$popup,third-party
-||watchformytechstuff.com^$popup,third-party
 ||wct.link^$popup,third-party
 ||webprod.cybertesteurs.com^$popup,third-party,domain=~iss.net
 ||wgpartner.com^$popup,third-party
@@ -2285,7 +2248,6 @@ _regie/clic.$popup
 ||youwatchtab.com^$popup,third-party
 ||z-defense.com^$popup,third-party
 ||zeroredirect*.com^$popup
-||zeroredirect12.com^$popup,third-party
 ||zidor.info^$popup,third-party
 ||zwaar.net^$popup,third-party
 ||zwaar.org^$popup,third-party
@@ -2544,7 +2506,6 @@ _regie/clic.$popup
 ||dombeya.info^$subdocument
 ||doubleclick.net/apps/domainpark/$subdocument
 ||downloading.to/*?k=&ban=$popup
-||downloading.to/*?runauction=
 ||downloading.to/static/v2/pop.min.js
 ||dracouilla.com/ban/$third-party
 ||drague.net/pubs/
@@ -2623,8 +2584,6 @@ _regie/clic.$popup
 ||generation-nt.com/img/ovh/
 ||gerardmerinfo.fr/pub/
 ||get-my-ads.com^$popup
-||getmyads*.com^
-||getmyads*.com^$popup
 ||ggc.ninja^$subdocument
 ||gigaflat.com/affiliate/$third-party
 ||globirank.com/image/$domain=unlock-stream.com
@@ -2885,7 +2844,6 @@ _regie/clic.$popup
 ||promo.carasexe.com^
 ||promo.chocam.com^$popup
 ||promo.ejaculer.fr^
-||promo.eurolive.com^$third-party
 ||promo.japanhdv.com^
 ||promo.jeunette.net^
 ||promo.mes-meilleurs-films.fr^$popup
@@ -2921,7 +2879,6 @@ _regie/clic.$popup
 ||ratehub.ca/widgets/$third-party
 ||readersdigest.ca/*/images/promobrick_
 ||realnswag.fr^$popup,domain=rapghetto.com
-||redirecting.ws/?$subdocument,third-party
 ||redirecting.ws^$subdocument
 ||reef-guardian.com/boutique/$third-party
 ||referer.us/?*&placement=$popup
@@ -2931,7 +2888,6 @@ _regie/clic.$popup
 ||register.ma-box-media.fr/?lang=$popup,third-party
 ||rencontre-ephemere.fr^$popup
 ||rencontreshard.com^$subdocument
-||rencontresparis2015.com^$popup
 ||rendez-vous.be/scripts/Clients/
 ||rhcloud.com/*-affiliate-
 ||rhcloud.com^$domain=android-dz.com
@@ -3828,7 +3784,6 @@ toutcash.com/images/bandeau-
 ||elkhabar.com/media/uploads/images/*-habillage-
 ||elmazzika.com/images/banota.jpg
 ||elmazzika.com/images/download.png
-||elmihwar.com/fr/files/banners/pub-
 ||elmihwar.com^*/banners/
 ||elmoudjahid.com/images/pub
 ||elmoudjahid.com/upload/img/vpub.
@@ -4359,7 +4314,6 @@ toutcash.com/images/bandeau-
 ||media.rtl.fr/online/image/*_skin-
 ||media.rtl.fr^*/image/*_habillage$image
 ||media7.canal-plus.net.s0.frz.io/image/
-||media7.canal-plus.net.s0.frz.io/image/62/0/676620.jpg
 ||medialot.fr/wp-content/uploads/*/Logo-
 ||medialot.fr/wp-content/uploads/*/pub-
 ||medias.jds.fr/medias/direct/*/habillage_
@@ -5152,11 +5106,8 @@ toutcash.com/images/bandeau-
 ###ad-rec-top2-load
 ###ad-rectangle-1-dst
 ###ad-rectangle-2-dst
-###ad-rectangle1
 ###ad-rectangle1-load
-###ad-rectangle2
 ###ad-rectangle2-load
-###ad-rectangle3
 ###ad-rectangle3-load
 ###ad125
 ###ad125bl
@@ -5167,7 +5118,6 @@ toutcash.com/images/bandeau-
 ###ad336b
 ###ad4x125
 ###ad728b
-###adBlockBanner
 ###adBoxFooter
 ###adContainerParent
 ###adPopup
@@ -5181,10 +5131,6 @@ toutcash.com/images/bandeau-
 ###ad_mpu_1_placeholder
 ###ad_placement_workopolis
 ###ad_rotation_match
-###ad_unit_slot1
-###ad_unit_slot2
-###ad_unit_slot3
-###ad_unit_slot4
 ###adcontainerAdSense
 ###adcontainer_recherche
 ###adleftgame
@@ -5382,11 +5328,6 @@ toutcash.com/images/bandeau-
 ###kk-adsense-bottom
 ###libelle_pub
 ###liens_sponsorises
-###ligatus-sidebar
-###ligatus_art_foot
-###ligatus_art_right
-###ligatus_right_column
-###ligatus_single
 ###mainColRightPublireportage
 ###mb_video_syncad_bottom
 ###middle-publicite
@@ -5745,7 +5686,6 @@ toutcash.com/images/bandeau-
 ##.adsense-footer
 ##.adsense-sidebar
 ##.adsense_300
-##.adsense_unit
 ##.adserverHomePub405x60
 ##.adshare_belownav
 ##.adshare_firstpost
@@ -5765,7 +5705,6 @@ toutcash.com/images/bandeau-
 ##.adv300-topnews
 ##.advBackground
 ##.adv_big
-##.adv_box
 ##.adv_cont
 ##.adv_pop
 ##.advert-header-wrapper
@@ -6225,6 +6164,7 @@ toutcash.com/images/bandeau-
 ##[id*="_ads_id_"]
 ##[id^="ads_adnemo_"]
 ##[id^="block-xiti_oas-"]
+##[id^="ligatus-"]
 ##[id^="ligatus_"]
 ##[id^="pub_dart_"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
@@ -6689,7 +6629,6 @@ zdnet.fr###mpuBottom
 zdnet.fr###mpuTop
 salon-du-mobilier.com###mynewfooter
 zizi-top.fr###myvideo
-medisite.fr###navigation-content + [class] > img
 p-nintendo.com###network > ul > .jm
 vacanceo.com###new_travelbloc
 judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
@@ -6766,7 +6705,6 @@ extremepc.fr###promoHead + hr + .center
 trouvetamusique.com###promouvoirmusique
 allstreamz.com,annuaire-streaming.com,blogs.allocine.fr,centerblog.net,ddl-island.su,elbilad.net,emule-island.ru,extremepc.fr,habibal-tv.tk,iphonesoft.fr,japan-expo.be,jeu.info,jeux-2-filles.com,letudiant.fr,mac2sell.net,nolyo-tv.com,nrj.be,nrj.fr,nuked-klan.org,olivierdauvers.fr,oran-aps.dz,orange.fr,planet-casio.com,science-et-vie.com,service-public.fr,solutions-logiciels.com,sortir47.fr,stream-island.ru,stream-island.su,terre.tv,toutpratique.com,val-de-marne.gouv.fr,virtuoflash.com,wareziens.net,xboards.org###pub
 dici.fr###pub-background
-ledauphine.com###pub-dfp-pano-top
 francebleu.fr,franceinfo.fr###pub-ftv-top
 jeu.net###pub0
 alalettre.com,habibal-tv.tk,hebdo.ch,ledemondujeu.com,matchendirect.mobi,minuteur-en-ligne.fr,quiveutdufromage.com###pub1
@@ -6939,7 +6877,6 @@ voila.fr##.ADS
 ivocommunication.com##.Ads
 dna.fr##.GANO_adIookaz
 genybet.fr##.GGFODTBDCS
-estrepublicain.fr,ledauphine.com##.GTRF_sponsoredLinks
 application-remuneratrice.com##.HB-Modal
 estrepublicain.fr,lalsace.fr##.Iookaz
 vpntorrent.com##.LBoardWrap
@@ -7046,7 +6983,6 @@ e-jeune.net##.ban_carre_1366
 agroligne.com##.ban_holder
 lesechos.fr##.bandeau-weekend
 01net.com##.bandeau_promos
-meteo-paris.com##.bandeau_pub_630
 syskb.com##.bandeaupub
 cdmail.fr##.bandeauvert
 orientation-chabab.com##.bann
@@ -7496,7 +7432,6 @@ smash-streaming.com,the-big-bang-streaming.com,trone-de-fer-streaming.com##.publ
 jeuxvideo.com##.publi_info
 jeuxvideo.com##.publi_info + ul
 e-sante.fr##.public-info
-canalplus.fr##.publicite
 maghrebspace.net##.publicite_droite_600
 aussitot.fr##.pubmidtext
 buzzly.fr##.pubright
@@ -8382,7 +8317,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 ! A l'attention des webmasters : https://easylist.github.io/2013/05/10/anti-adblock-guide-for-site-admins.html
 !
 &adbIsActive=
-&adbIsActive=$popup
 -adblock-bait.js
 .adblocker.adblocker/
 /ad-blocking-advisor/*
@@ -8861,7 +8795,6 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 ||limbedpenn.info^
 ||limicolaepilosella.com^
 ||lineofreasoninganteriorcruralnerve.org^
-||lkjfqlmskjdqlkmsjd.com^
 ||loveknotflankerback.net^
 ||lowlyingcaviller.info^
 ||lowrisenonfat.in^
