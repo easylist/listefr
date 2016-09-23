@@ -4438,8 +4438,6 @@ toutcash.com/images/bandeau-
 ||nouvelobs.com^*/iframe-boxes/
 ||nouvelobs.com^*/partenaria
 ||novaplanet.com^*/widget/pub_pave_
-||nrj.fr/PUB/
-||nrj.fr/skin/classique/
 ||nrj12.fr/skin/classique/
 ||numeric.dz/IMG/swf/NUMERIC_KIA_MOTORSE_
 ||ocre-annuaire.net/bannieres/
@@ -5331,6 +5329,7 @@ toutcash.com/images/bandeau-
 ###liens_sponsorises
 ###mainColRightPublireportage
 ###mb_video_syncad_bottom
+###meaPubContainer
 ###middle-publicite
 ###milieu_pub
 ###module_publicite
@@ -5405,6 +5404,7 @@ toutcash.com/images/bandeau-
 ###pub-right-top-ads-refresh
 ###pub-right-top-msg
 ###pub-sky
+###pub-text
 ###pub-top
 ###pub-widget
 ###pub-widget2
@@ -5551,6 +5551,7 @@ toutcash.com/images/bandeau-
 ###shopper-widget-wrapper
 ###sideBarGoogleAnnounces
 ###sidebar_pub_top
+###sitePubTop
 ###skin_container_sidebar_ad
 ###skin_td_sidebar_ad
 ###slidepub
@@ -5633,6 +5634,8 @@ toutcash.com/images/bandeau-
 ##.adbvert
 ##.adcarousel
 ##.addblock
+##.adds-block
+##.adds-block-spacing
 ##.adf_marketingbanner
 ##.adf_mpu
 ##.adflex
@@ -5914,6 +5917,7 @@ toutcash.com/images/bandeau-
 ##.pub-block
 ##.pub-carre
 ##.pub-carre-smart-php
+##.pub-container
 ##.pub-demipage
 ##.pub-double-bande
 ##.pub-gigaban
@@ -5927,6 +5931,8 @@ toutcash.com/images/bandeau-
 ##.pub-pave
 ##.pub-promo
 ##.pub-rectangle-php
+##.pub-text
+##.pub-top-site
 ##.pub160x600
 ##.pub242x90
 ##.pub300
@@ -6103,6 +6109,9 @@ toutcash.com/images/bandeau-
 ##.sidebar_share_ads
 ##.single-top-ads
 ##.single-top-ads-bloc
+##.site-pub-interstitiel
+##.site-pub-skin
+##.site-pub-top
 ##.skin_outer_ad
 ##.smiliar_ads
 ##.snippet-publisher
@@ -6332,13 +6341,14 @@ kairn.com###bandeauTheme > .video
 lemonde.fr###bandeau_bizdev
 priceminister.com###bandeau_premium
 click-fr.com###baner
-blogger-au-bout-du-doigt.blogspot.com,boursier.com,htmlforums.com,lesaffaires.com,live.sofoot.com,maliweb.net,ultim-telechargementz.com###banner
+blogger-au-bout-du-doigt.blogspot.com,boursier.com,htmlforums.com,lesaffaires.com,live.sofoot.com,maliweb.net,nrj.fr,ultim-telechargementz.com###banner
 football.fr,sports.fr###banner-full
 welovetennis.fr###banner-top
 cpasbien.cm,cpasbien.io,hitradio.ma###banner2
 jeuxdelajungle.fr###bannerGameSkyscraperRight
 lil-life.com###bannerRightTop
 clubpoker.net###bannerTopWrapper
+nrj.fr###banner_bottom
 infobebes.com###banner_container
 gamesplanet.com###banner_data
 lacanausurfinfo.com###banner_footer
@@ -6505,7 +6515,7 @@ pagesjaunes.fr###goodDealsArea
 zero-complexe.com###google
 cdiscount.com###hMall
 bdgest.com,bedetheque.com###hab_click
-banques-en-ligne.fr,bd-sanctuary.com,bioalaune.com,canalplus.fr,cine-sanctuary.com,comics-sanctuary.com,ffeminin.com,gamer-network.fr,lequipement.fr,manga-sanctuary.com###habillage
+banques-en-ligne.fr,bd-sanctuary.com,bioalaune.com,canalplus.fr,cine-sanctuary.com,comics-sanctuary.com,ffeminin.com,gamer-network.fr,lequipement.fr,manga-sanctuary.com,nrj.fr###habillage
 minutebuzz.com###habillage-lightout
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-right
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-top
@@ -6691,7 +6701,6 @@ sitedesmarques.com###posPub
 forumfr.com###post_id_pub
 turfomania.fr###prehome_contenu
 turfomania.fr###prehome_fond
-nrj.fr###preroll
 teramixer.com###preroll-case-prime
 lequipement.fr###prixendirect_block
 egaliteetreconciliation.fr###produits_en_vente
@@ -8032,8 +8041,7 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 gum-gum-streaming.com##ul + a[href*="?"]
 omgtorrent.me##ul > li[style*="padding:"]
 ! Éléments pour generichide
-nrj.fr##.aside-pub-300
-nrj.fr##.pubContainer
+!
 ! goyavelab
 gum-gum-streaming.com##br + a:last-child
 gum-gum-streaming.com##div > br + center
@@ -8114,7 +8122,6 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||adworks.fr^$~third-party
 @@||afe2.specificclick.net/crossdomain.xml$domain=videos.nt1.tv|videos.tmc.tv
 @@||affiliation.leboncontact.fr/template/Affiliation/$~third-party
-@@||aka-cdn-ns.adtech.de/dt/common/DAC.js$domain=nrj.fr
 @@||ami2.com/resources/img/mysite/publicites/$image,domain=ami2.com
 @@||archives-numerisees.ain.fr^*/httpd/ad
 @@||assiste.com/Assiste/media/images/Ad-Aware_$image
@@ -8123,7 +8130,7 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||banners.oxiads.fr/player/
 @@||bannieres.telethon.fr/compteurs/$image,subdocument
 @@||beaute-test.com/global/css/show_ads.js$script
-@@||beead.fr^$domain=doc-etudiant.fr|ouifm.fr|play.nrj.fr|radiofg.com|radioneo.org|rfm.fr|virginradio.fr
+@@||beead.fr^$domain=doc-etudiant.fr|ouifm.fr|radiofg.com|radioneo.org|rfm.fr|virginradio.fr
 @@||bfm-ak.cds1.yospace.com/u/file~video_$object-subrequest,third-party,domain=bfmtv.com
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
@@ -8218,7 +8225,7 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||static.touraineverte.com/banners/$image
 @@||stcwbd.com/ads/plugins/jwplayer/player.swf$domain=eurosport.fr|ozap.com|puretrend.com
-@@||stickyads.adswizz.com/www/components/videocomponent.swf$object-subrequest,domain=cherie25.fr|nrj.fr|nrj12.fr|rireetchansons.fr
+@@||stickyads.adswizz.com/www/components/videocomponent.swf$object-subrequest,domain=cherie25.fr|nrj12.fr|rireetchansons.fr
 @@||toshiba.fr/innovation/download_drivers_bios.jsp?
 @@||viamichelin.be/static/advert/$script
 @@||viamichelin.ch/static/advert/$script
@@ -8421,7 +8428,6 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 @@||minutefacile.com^$elemhide
 @@||mon-ip.com^$elemhide
 @@||naruto-mx.net^$elemhide
-@@||nrj.fr^$generichide
 @@||partage-facile.com^$elemhide
 @@||phonandroid.com^$generichide
 @@||rapidebrideur.com^$elemhide
