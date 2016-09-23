@@ -8847,6 +8847,7 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 ||paraffinscaleraffiavinifera.org^
 ||patrilineagefashion.biz^
 ||pearlspong.com^
+||periodicgittern.org^
 ||perspirercetacea.info^
 ||philadelphaceaecirriped.com^
 ||phytophagoustransferee.info^
@@ -8966,8 +8967,8 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 ||unbodiediridaceousplant.net^
 ||underlaymentgallstone.net^
 !
+/\/[a-z0-9_]+\.[a-z0-9-]+\.[a-z]{2,}\/.*[a-zA-Z0-9]{40,}/$object-subrequest,domain=wat.tv
 /^http://[a-z0-9_-]{10,}\.[a-z0-9-]+\.[a-z]{2,}\/.*?\w{30,}/$~xmlhttprequest,domain=exclusivomen.com|gentside.com|gentside.com.br|gentside.de|maxisciences.com|ohmirevista.com|ohmymag.com|ohmymag.com.br|ohmymag.de|over-blog.com|simplyvoyage.com
-/^http://[a-z0-9_]{15,}\.[a-z0-9-]+\.[a-z]{2,}\/.*[a-zA-Z0-9]{40,}/$object-subrequest,domain=wat.tv
 !
 @@||lymantriacypresdoctrine.biz^$xmlhttprequest,domain=www.wat.tv
 @@||palmshapednontransferable.com^$xmlhttprequest,domain=exclusivomen.com|gentside.com|gentside.com.br|gentside.de|maxisciences.com|ohmirevista.com|ohmymag.com|ohmymag.com.br|ohmymag.de|simplyvoyage.com
