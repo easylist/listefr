@@ -660,6 +660,8 @@
 ://adspaces.
 ://adss.
 ://afflight.$third-party
+://banners2.$third-party
+://banners3.$third-party
 ://bannieres.
 ://eacash.
 ://soads.
@@ -862,6 +864,7 @@ _waframedia_
 /direct.php?said=$popup
 /display.*&ban=$popup
 /display/?method=pop&force=$popup
+/display/clicks/*$popup
 /effi.click?$popup
 /fr/adcr/*$popup
 /gopartner.php?pid=$popup
@@ -1172,6 +1175,7 @@ _regie/clic.$popup
 ||atlassbx.com^$third-party
 ||atoshonetwork.com^$third-party
 ||attractive-sport.com^$third-party
+||audify.io^$third-party
 ||avanis.fr^$third-party
 ||avenir-affiliation.fr^$third-party
 ||awsclic.com^$third-party
@@ -1991,6 +1995,7 @@ _regie/clic.$popup
 ||arthylndr.com^$popup,third-party
 ||aservtrack.com^$popup,third-party
 ||ato.mx^$popup,third-party
+||audify.io^$popup,third-party
 ||azerty.solutions^$popup,third-party
 ||baise-ce-soir.com^$popup,third-party
 ||bcvc.mobi^$popup,third-party
@@ -3434,6 +3439,7 @@ uploaded.net##[class*="pico-"]
 !
 egora.fr/sites/all/themes/*/pub.png
 toutcash.com/images/bandeau-
+|http://$third-party,domain=bigvoy.com
 ||0zz0.com/e/$image
 ||100pour100sexe.com/pop.
 ||16algerie.com/images/banner_
@@ -4494,6 +4500,7 @@ toutcash.com/images/bandeau-
 ||one-piece-streaming.fr/images/min/pub/
 ||one-piecevf.com/pub/
 ||onlinetri.com/graphics/Z3R0D_16WEB_ONLINETRI_TBAG_header.jpg
+||onlinevoyance.fr^$subdocument
 ||onvasortir.com/fond$image
 ||onvasortir.com/habillage_$image
 ||onvasortir.com/pub/
