@@ -2384,7 +2384,7 @@ _regie/clic.$popup
 ||aolcdn.com/ads/
 ||api.wamland.com^
 ||april.fr/#/?$third-party
-||arkea.com/banque/assurance/credit/upload/docs/image/$image,third-party
+||arkea.com/banque/assurance/credit/upload/$image,third-party
 ||as-salat.fr/images/banners/
 ||asia-passion.fr/annuaire/ban/$third-party
 ||assurland.com/widgets/$third-party
@@ -6202,6 +6202,7 @@ toutcash.com/images/bandeau-
 ##.widget_om_ads
 ##.widget_publicite
 ##.widgetpub
+##.wppasrotate
 ##.wpproaddlink
 ##.wrap-pub
 ##.wrapperPub
@@ -6209,6 +6210,7 @@ toutcash.com/images/bandeau-
 ##.zonepub
 ##A[href*="=INSERT_RANDOM_NUMBER_HERE&"]
 ##A[onclick^="CustomWLAdServer."]
+##[class*="proadszoneholder-"]
 ##[data-type="ligatus-script"]
 ##[id*="_ads_id_"]
 ##[id^="ads_adnemo_"]
@@ -7654,7 +7656,6 @@ spi0n.com##.widget_nq_laoding
 spi0n.com##.widget_nq_loading
 regimea.com##.widget_sp_image-image-link
 msn.com##.win10promo
-wiiztube.com##.wppasrotate
 directmatin.fr##.wrap_evenement
 directmatin.fr##.wrap_pub_300_250
 boulistenaute.com##.xo-banner-ad-footer
@@ -7884,6 +7885,7 @@ free-proxy.fr##a[href^="https://account.cyberghostvpn.com?affiliate="]
 le-buzz.fr##a[href^="https://addons.mozilla.org/"]
 yahoo.com##a[href^="https://beap.gemini.yahoo.com/"]
 clubic.com##a[href^="https://clk.tradedoubler.com/"]
+frenchweb.fr##a[href^="https://experiences.microsoft.fr/"]
 lefigaro.fr##a[href^="https://go.babbel.com/"]
 mega-vesti.info,smartorrent.com,t411.ch,t411.la,t411.tv,torrent-411.com,wawacity.su##a[href^="https://tr.im/"]
 cdiscount.com##a[href^="https://tracking.cdiscount.com/tracker.ashx?"]
