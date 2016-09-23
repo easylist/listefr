@@ -2484,6 +2484,7 @@ _regie/clic.$popup
 ||conseillemoi.com/images/$third-party
 ||coorsa.com^*/?task=*.widget&
 ||coquinissime.com/promo/
+||corsicatube.com^$popup,domain=ziimtube.com
 ||coteblog.com/_logo/$third-party
 ||countryclic.com/ban.gif
 ||coupling.fr/widget_$third-party
@@ -7620,7 +7621,9 @@ lefigaro.fr##.tvm-ads-pave
 lefigaro.fr##.tvm-boutique
 lefigaro.fr##.tvm-boutique-iframe
 lefigaro.fr##.tvm-reagir__pub
+ziimtube.com##.ui-dialog
 juritravail.com##.ui-pnotify
+ziimtube.com##.ui-widget-overlay
 jeuxetcompagnie.fr##.umbg-overlay-link
 forum-windows.com##.unibluelink
 forum-windows.com##.unixblue
@@ -8382,6 +8385,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /blockadblock.js
 /fadb.min.js?
 /modules/mod_jpayday/*
+?action=adblockvisitor$~third-party
 _adblockdetector/
 !
 ||e-sushi.fr/imagearticle/$script
