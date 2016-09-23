@@ -6380,9 +6380,6 @@ franceculture.fr###block-fcbloc-publicite
 lemouv.fr###block-lemouv_bloc-pub_ftv_right
 lemouv.fr,mouv.fr###block-lemouv_bloc-pub_ftv_top
 macg.co###block-quicktabs-bon-plans-macg-
-medisite.fr###block-system-main > [id] > img
-medisite.fr###block-system-main > a > img
-medisite.fr###block-system-main > div > img
 voyages-sncf.com###block-vsct_vsca-megabanner
 franceinfo.fr###block-zerobloc-pub-ftv-carre
 bricoleurdudimanche.com###block_a_decouvrir
@@ -6601,7 +6598,6 @@ ouedkniss.com###list-last-stores
 millenium.org###logo_droite
 centreimmo.com###logos-partenaires
 laposte.net###lpn_pub_main
-medisite.fr###main-content-header > [id^="logo_"]
 voyageforum.com###mainposttravelsbox1
 lafranceagricole.fr###materielOccasion
 streetpress.com###mb_moving_container
@@ -6644,8 +6640,6 @@ carrefour.fr###overlayBase
 gameblog.fr###overlayFnac
 forum-iphoneaddict.fr###p00
 cdiscount.com###paFooterPubPartner
-medisite.fr###page > a > img
-medisite.fr###page > div > img
 ouedkniss.com###page_interstitiel
 aujourdhui-en-france.fr,leparisien.fr###parisien-partenaires
 geoflotte.com,judgehype.com,redlist-ultimate.be,soonnight.com###partenaire
@@ -7450,9 +7444,6 @@ lemonde.fr##.reco_cross_site_outbrain
 gonzai.com##.red-one-third
 lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.references
 jds.fr##.regie_20
-medisite.fr##.region > [id] > img
-medisite.fr##.region > a > img
-medisite.fr##.region > div > img
 igen.fr,macg.co,watchgeneration.fr##.region-pubheader
 jeux-e.com##.rek_ban
 frandroid.com##.relatedviatopic
@@ -7617,7 +7608,6 @@ ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
-medisite.fr##[class] > img
 film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.nu,libre-stream.com,planet-streaming.com,vfilmze.com##[class^="PapaGoo"]
 footnamurois.com##[class^="banners-"]
 jeu.info##[class^="banniere-"]
@@ -8069,10 +8059,8 @@ igen.fr##.region-sidebar a[-abp-properties='*']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 igen.fr##.view-content [-abp-properties='background-image:*;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='*: 300px;']
-medisite.fr##[-abp-properties='background-image: *;']
 igen.fr,macg.co##[-abp-properties='background-image: url(*;']
 senscritique.com##[-abp-properties='background-position: *;']
-medisite.fr##[-abp-properties='cursor: pointer;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 nextinpact.com##[-abp-properties='height: 250px;']
 igen.fr##[-abp-properties='height: 61*px;']
@@ -8080,18 +8068,14 @@ cacastream.com,ddstream.com,protect-stream.com,youwatch-series.com##[-abp-proper
 igen.fr,macg.co##[-abp-properties='padding-bottom: 50*px;']
 nextinpact.com##[-abp-properties='width: 300px;']
 igen.fr##[-abp-properties='width: 31*px;']
-medisite.fr##[-abp-properties='width: 670px;']
 lucariostream.eu##[-abp-properties='z-index: 999*;']
 macg.co##article > a[-abp-properties='*'] > img
 ! Ligatus
 @@||admin.brightcove.com/js/api/SmartPlayerAPI.js$script,domain=lachainemeteo.com
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
-@@||disqus.com^$script,third-party,domain=medisite.fr
-@@||player.mediabong.com/*/video.js$script,third-party,domain=medisite.fr
-@@||static.mediabong.com/scripts/mb.*.js$script,third-party,domain=medisite.fr
-|http://$script,third-party,domain=aventure-apple.com|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|refurbgeneration.com
+|http://$script,third-party,domain=aventure-apple.com|ioccasion.fr|lachainemeteo.com|macgeneration.com|refurbgeneration.com
 |http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
-|https://$script,third-party,domain=aventure-apple.com|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|refurbgeneration.com
+|https://$script,third-party,domain=aventure-apple.com|ioccasion.fr|lachainemeteo.com|macgeneration.com|refurbgeneration.com
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 ||xiti.com^$domain=lachainemeteo.com
 !
