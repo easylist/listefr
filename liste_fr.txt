@@ -2699,7 +2699,8 @@ _regie/clic.$popup
 ||lien.lu^$popup,third-party
 ||liens-de-telechargement.com/data/img/site/ban_
 ||likebaguette.com/data/img/likebaguette-
-||liligo.fr/wpartner/
+||liligo.*/servlet/ads?
+||liligo.*/wpartner/
 ||live.prismamediadigital.com^
 ||live18ans.com^$subdocument
 ||livecareer.fr^$popup,domain=pole-emploi.fr
@@ -4242,6 +4243,7 @@ toutcash.com/images/bandeau-
 ||lienscash.com/?ref=$subdocument
 ||lig.liberation.fr^
 ||likesgag.com/tags/
+||liligo.*/compareSites/$popup
 ||lille.sortir.eu/portal_banneradmin/
 ||links.fhsarl.com^$popup,third-party
 ||linternaute.com/*@*,position$script
@@ -5624,6 +5626,7 @@ toutcash.com/images/bandeau-
 ##.ad-largebanner
 ##.ad-mention
 ##.ad-mpu-plus-bottom
+##.ad-provider-yahoo
 ##.ad-sidebar-125-1r
 ##.ad-sidebar-125-2r
 ##.ad-sponsored
@@ -5885,6 +5888,7 @@ toutcash.com/images/bandeau-
 ##.mb_video_syncad
 ##.mdmAd-inner
 ##.megapub
+##.midads
 ##.middle-publicite
 ##.modAd
 ##.modalPub
