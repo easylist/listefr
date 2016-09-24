@@ -8097,11 +8097,17 @@ macg.co##article > a[-abp-properties='*'] > img
 ! Ligatus
 @@||admin.brightcove.com/js/api/SmartPlayerAPI.js$script,domain=lachainemeteo.com
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
-|http://$script,third-party,domain=aventure-apple.com|ioccasion.fr|lachainemeteo.com|macgeneration.com|refurbgeneration.com
+@@||player.mediabong.com/*/video.js$script,domain=planet.fr
+@@||static.mediabong.com/scripts/mb.*.js$script,domain=planet.fr
+|http://$script,third-party,domain=aventure-apple.com|ioccasion.fr|lachainemeteo.com|macgeneration.com|planet.fr|refurbgeneration.com
 |http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
-|https://$script,third-party,domain=aventure-apple.com|ioccasion.fr|lachainemeteo.com|macgeneration.com|refurbgeneration.com
+|https://$script,third-party,domain=aventure-apple.com|ioccasion.fr|lachainemeteo.com|macgeneration.com|planet.fr|refurbgeneration.com
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 ||xiti.com^$domain=lachainemeteo.com
+!
+planet.fr###content > div > img
+planet.fr##.block-content + div > img
+planet.fr##.region-inner.clearfix > div > img
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
