@@ -1112,6 +1112,7 @@ _regie/clic.$popup
 ||advertsponsor.com^$third-party
 ||adverum.lt^$third-party
 ||advideo.ru^$third-party
+||advideum.com^$third-party
 ||advinapps.com^$third-party
 ||advprivate.com^$third-party
 ||advquality.com^$third-party
@@ -1357,6 +1358,7 @@ _regie/clic.$popup
 ||foxserie.com^$script,third-party
 ||frtyb.com^$third-party
 ||fullon.tv^$third-party
+||fullscreens.fr^$third-party
 ||fungetbag.info^$third-party
 ||gagner-une-console.com^$third-party
 ||gambling-france.com^$third-party
@@ -2824,7 +2826,6 @@ _regie/clic.$popup
 ||planete-hit.com/hit.php?
 ||planethoster.net/images/bannieres/$third-party
 ||platform.wawacity.su^
-||player.mediabong.com/syncroll/*/loader.js?
 ||pointscommuns.com/images/bannieres/$third-party
 ||pooki.fr/banner/
 ||porn.fr^*/site_id/$popup
@@ -3233,6 +3234,10 @@ _regie/clic.$popup
 ||wwwtatonnai.eu^
 ||wwwtatonnai.info^
 ||wwwtatonnai.uk^
+! mediabong.com
+||mediabong.com/campaign/
+||mediabong.com/t/
+||mediabong.com^*/loader.js
 ! ultimedia.com
 .ovh^$domain=ultimedia.com
 @@|http://*.digiteka.net/*,,/*?mdtk=$object-subrequest,third-party,domain=ultimedia.com
