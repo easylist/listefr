@@ -689,6 +689,7 @@
 ?publisher-adserver=
 ?redir=*/click?
 ?runauction=
+?zoneid=*&placement=
 @preroll/*,adb=$xmlhttprequest
 @publicite@
 \adds\adds.
@@ -1348,6 +1349,7 @@ _regie/clic.$popup
 ||extensionfactory.com^$third-party
 ||f5biz.biz^$third-party
 ||faitdufric.com^$third-party
+||fancybar.net^$third-party
 ||feelupdatingperfect.info^$third-party
 ||fellent.eu^$third-party
 ||fhserve.com^$third-party
@@ -1681,6 +1683,7 @@ _regie/clic.$popup
 ||seprovider.com^$third-party
 ||septani.ru^$third-party
 ||serpzaer.com^$third-party
+||servedby-buysellads.com^$third-party
 ||sex-affiliation.com^$third-party
 ||sextapes2stars.com^$third-party
 ||sexyxxx.biz^$third-party
@@ -1992,6 +1995,7 @@ _regie/clic.$popup
 ||bitadexchange.com^$popup,third-party
 ||blendernetworks.com^$popup,third-party
 ||booksuper.info^$popup,third-party
+||buysellads.com^$popup,third-party
 ||bwinpartypartners.com^$popup,third-party
 ||cacheicdn.com^$popup,third-party
 ||camsympa.com^$popup,third-party
@@ -5677,15 +5681,21 @@ toutcash.com/images/bandeau-
 ##.ads-container-1
 ##.ads-container-2
 ##.ads-download
+##.ads-entete
 ##.ads-f-left
 ##.ads-f-right
+##.ads-foot
 ##.ads-heads
 ##.ads-l
 ##.ads-ligatus-right
 ##.ads-lrec
+##.ads-pave
 ##.ads-r
 ##.ads-reco
 ##.ads-search
+##.ads-sidebar-left
+##.ads-sidebar-right
+##.ads-small-banner
 ##.ads-sponsored-text
 ##.ads-track
 ##.ads-tracking-lrec
@@ -6928,7 +6938,7 @@ reverso.net##.adcontent
 gmx.fr,lebonguide.com##.add
 vinyculture.com##.addLink
 lejsl.com##.addPic
-actustar.com,aujourdhui-en-france.fr,boursier.com,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,freefoot.fr,hostinger.fr,htmlforums.com,internetparsatellite.net,jeune-independant.net,ldlc.com,leparisien.fr,lephpfacile.com,lequipe.fr,nolyo-tv.com,obturations.com,oujdacity.net,over-blog.com,raje.fr,replay.fr,scan-mx.com,sortiesdvd.com,streaming-video3x.com,telesatellite.com,televiseurs.net,tonmanga.com,universalis.fr,uzinagaz.com,webstar-auto.com,webstar-electro.com,yourporno.fr##.ads
+actustar.com,aujourdhui-en-france.fr,boursier.com,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,freefoot.fr,hostinger.fr,htmlforums.com,internetparsatellite.net,jeune-independant.net,ldlc.com,leparisien.fr,lephpfacile.com,lequipe.fr,nolyo-tv.com,obturations.com,oujdacity.net,over-blog.com,raje.fr,replay.fr,scan-mx.com,sortiesdvd.com,stars-portraits.com,streaming-video3x.com,telesatellite.com,televiseurs.net,tonmanga.com,universalis.fr,uzinagaz.com,webstar-auto.com,webstar-electro.com,yourporno.fr##.ads
 artdeseduire.com##.ads-books
 artdeseduire.com##.ads-information
 cvya.dz##.ads-vert
