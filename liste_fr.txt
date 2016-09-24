@@ -8102,15 +8102,21 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||admin.brightcove.com/js/api/SmartPlayerAPI.js$script,domain=lachainemeteo.com
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
 @@||player.mediabong.com/*/video.js$script,domain=planet.fr
+@@||preprod-img.planet.fr/files/advagg_js/js_*.js$script,domain=femmesplus.fr
 @@||static.mediabong.com/scripts/mb.*.js$script,domain=planet.fr
-|http://$script,third-party,domain=aventure-apple.com|ioccasion.fr|lachainemeteo.com|macgeneration.com|planet.fr|refurbgeneration.com
+|http://$script,third-party,domain=aventure-apple.com|femmesplus.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|planet.fr|refurbgeneration.com
 |http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
-|https://$script,third-party,domain=aventure-apple.com|ioccasion.fr|lachainemeteo.com|macgeneration.com|planet.fr|refurbgeneration.com
+|https://$script,third-party,domain=aventure-apple.com|femmesplus.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|planet.fr|refurbgeneration.com
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 ||xiti.com^$domain=lachainemeteo.com
 !
+femmesplus.fr###block-system-main + div > img
+femmesplus.fr###block-system-main > div + div > img
 planet.fr###content > div > img
 planet.fr##.block-content + div > img
+femmesplus.fr##.block-views + div > img
+femmesplus.fr##.region > div > img
+femmesplus.fr##.region-inner > div > img
 planet.fr##.region-inner.clearfix > div > img
 !
 !----------------------- Exceptions -----------------------!
