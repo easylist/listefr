@@ -7152,6 +7152,7 @@ games.softgames.de##.cpi-banner-description-content
 blumei-piano.com##.cyt-affi-wrapper
 allocine.fr##.d_table-cell.vam
 logitheque.com##.description + .telechargement
+t411.ch##.description + div[class]
 grosnews.com##.deuxcarres
 rtl.fr##.dfp-pave
 dailymotion.com##.dm_widget_advert_iabrighttitle
@@ -7588,6 +7589,7 @@ get-your-rom.com##.topSectionContainer
 lnc.nc,softonic.fr,undernews.fr##.topbanner
 allocine.fr##.topheader
 fan-de-cinema.com##.topmargin
+t411.ch##.torrentDetails > h2 + div + [class]
 ca-briepicardie.fr##.total-cover
 search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
@@ -7655,7 +7657,6 @@ amazon.fr##[class*="-sponsored-"]
 film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.nu,libre-stream.com,planet-streaming.com,vfilmze.com##[class^="PapaGoo"]
 footnamurois.com##[class^="banners-"]
 jeu.info##[class^="banniere-"]
-t411.ch,t411.tv##[class^="gvbn"]
 forumconstruire.com##[class^="habillage"]
 igen.fr,macg.co##[class^="lig_"]
 seloger.com##[class^="listing_list_"]
@@ -7700,7 +7701,7 @@ meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[h
 omgtorrent.me##a[href*="+"]
 omgtorrent.me##a[href*="-torrent/"]
 vfstream.biz##a[href*=".php"]
-jeddl.net,omgtorrent.me##a[href*=".php?"]
+jeddl.net,omgtorrent.me,t411.ch##a[href*=".php?"]
 leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
 artdeseduire.com##a[href*="/?part=ads"]
 webactus.net##a[href*="/?utm_source="]
