@@ -866,6 +866,7 @@ _waframedia_
 /display.*&ban=$popup
 /display/?method=pop&force=$popup
 /display/clicks/*$popup
+/earn.php?feed=$popup
 /effi.click?$popup
 /fr/adcr/*$popup
 /gopartner.php?pid=$popup
@@ -1991,6 +1992,7 @@ _regie/clic.$popup
 ||beach-queen.net^$popup,third-party
 ||bee-tube.net^$popup,third-party
 ||bestarmour4u.net^$popup,third-party
+||bestdealmedia.click^$popup,third-party
 ||bidtrk.com^$popup,third-party
 ||bidverdrd.com$popup,third-party
 ||birdmobster.info^$popup,third-party
@@ -2002,6 +2004,7 @@ _regie/clic.$popup
 ||bwinpartypartners.com^$popup,third-party
 ||cacheicdn.com^$popup,third-party
 ||camsympa.com^$popup,third-party
+||cdnrl.com^$popup,third-party
 ||cityads.com^$popup,third-party
 ||cityadspix.com^$popup,third-party
 ||cld2r.com^$popup,third-party
@@ -2080,6 +2083,7 @@ _regie/clic.$popup
 ||i4track.net^$popup,third-party
 ||idhad.com^$popup,third-party
 ||illyx.com^$popup,third-party
+||im.mobsweet.com^$popup,third-party
 ||imitrk.com^$popup,third-party
 ||india-zed.com^$popup,third-party
 ||infoyours.info^$popup,third-party
@@ -2101,6 +2105,7 @@ _regie/clic.$popup
 ||marsads.com^$popup,third-party
 ||maxidivx.com^$popup,third-party
 ||maxonclick.com^$popup,third-party
+||mbsuitmsmt.com^$popup,third-party
 ||mediasaleads.com^$popup,third-party
 ||mediavenus.biz^$popup,third-party
 ||medleyads.com^$popup,third-party
@@ -2109,8 +2114,10 @@ _regie/clic.$popup
 ||mistralads.com^$popup,third-party
 ||mmtracking.com^$popup,third-party
 ||mmtrkbb.com^$popup,third-party
+||mmtrkms.com^$popup,third-party
 ||mmtrkpy.com^$popup,third-party
 ||mmtrkvk.com^$popup,third-party
+||mmtrkyv.com^$popup,third-party
 ||mmtro.com^$popup,third-party
 ||mobile-10.com^$popup,third-party
 ||mobimediatraf.com^$popup,third-party
@@ -2258,6 +2265,7 @@ _regie/clic.$popup
 ||yes-messenger.com^$popup,third-party
 ||yesmessenger.com^$popup,third-party
 ||yie4zooseif.info^$popup,third-party
+||yoursinstance.info^$popup,third-party
 ||youwatchtab.com^$popup,third-party
 ||z-defense.com^$popup,third-party
 ||zeroredirect*.com^$popup
@@ -2605,7 +2613,7 @@ _regie/clic.$popup
 ||gold-barre.com/banner*.
 ||golden-blog-awards.fr/votePlugin.$third-party
 ||goo.gl^$domain=arab.st|videomega.tv
-||goo.gl^$popup,domain=easybib.com|lnc.nc|openrunner.com|p0rno.org|seriezone.com|trackandnews.fr|vkpass.com|za-gay.org
+||goo.gl^$popup,domain=easybib.com|lnc.nc|openrunner.com|p0rno.org|seriezone.com|seriezone.org|trackandnews.fr|vkpass.com|za-gay.org
 ||googgl.me^$popup,domain=streamingfoot.direct
 ||gopro.com^$popup,domain=tignes.net
 ||gpstatic.com^*/banner/
@@ -3394,8 +3402,9 @@ uploaded.net##[class*="pico-"]
 |http://$script,xmlhttprequest,domain=gaara-fr.com
 |https://$script,xmlhttprequest,domain=gaara-fr.com
 ! youwatch.org / exashare.com
-|http://$popup,domain=00365ine.xyz|0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|19a9xx7d.xyz|1jgvtb.info|2op1gr.xyz|536xnecc.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|7825rwmq.xyz|99cavn.info|99cavn.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|izs9hils.xyz|jgqh4dok.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|ld5myrsq.xyz|lkwlg7d3.xyz|lnei151w.xyz|lnxt1a.info|lnxt1a.xyz|m8ob5rnk.xyz|maliana.info|mazlote.info|mryu6y5n.xyz|msemen.info|n3b9n3ld.xyz|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|ssv1p3.xyz|st8vuu.xyz|swjxp05y.xyz|t24dtznm.xyz|tei48gpw.xyz|tikamika.info|tiziwezo.info|tozfike.info|u8t03284.xyz|u9un46i4.xyz|ukn41v.xyz|ul1hdvdg.xyz|uroclm5d.xyz|uxp208ut.xyz|w3o8sq5x.xyz|w5drbgv6.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
+|http://$popup,domain=00365ine.xyz|0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|19a9xx7d.xyz|1jgvtb.info|2op1gr.xyz|536xnecc.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|7825rwmq.xyz|99cavn.info|99cavn.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|izs9hils.xyz|jgqh4dok.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|ld5myrsq.xyz|lkwlg7d3.xyz|lnei151w.xyz|lnxt1a.info|lnxt1a.xyz|m8ob5rnk.xyz|maliana.info|mazlote.info|mryu6y5n.xyz|msemen.info|n3b9n3ld.xyz|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rapidvideo.ws|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|ssv1p3.xyz|st8vuu.xyz|swjxp05y.xyz|t24dtznm.xyz|tei48gpw.xyz|tikamika.info|tiziwezo.info|tozfike.info|u8t03284.xyz|u9un46i4.xyz|ukn41v.xyz|ul1hdvdg.xyz|uroclm5d.xyz|uxp208ut.xyz|w3o8sq5x.xyz|w5drbgv6.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
 |http://$script,third-party,domain=00365ine.xyz|0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|19a9xx7d.xyz|1jgvtb.info|2op1gr.xyz|536xnecc.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|7825rwmq.xyz|99cavn.info|99cavn.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|izs9hils.xyz|jgqh4dok.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|ld5myrsq.xyz|lkwlg7d3.xyz|lnei151w.xyz|lnxt1a.info|lnxt1a.xyz|m8ob5rnk.xyz|maliana.info|mazlote.info|mryu6y5n.xyz|msemen.info|n3b9n3ld.xyz|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|ssv1p3.xyz|st8vuu.xyz|swjxp05y.xyz|t24dtznm.xyz|tei48gpw.xyz|tikamika.info|tiziwezo.info|tozfike.info|u8t03284.xyz|u9un46i4.xyz|ukn41v.xyz|ul1hdvdg.xyz|uroclm5d.xyz|uxp208ut.xyz|w3o8sq5x.xyz|w5drbgv6.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
+|https://$popup,domain=rapidvideo.ws
 ! 4nowvideo.com
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |http://$popup,script,third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
@@ -5951,6 +5960,7 @@ toutcash.com/images/bandeau-
 ##.pave_pub
 ##.pave_pub2
 ##.pjsleads
+##.playerpub
 ##.po_wads
 ##.popupads
 ##.position_pub
@@ -6103,6 +6113,7 @@ toutcash.com/images/bandeau-
 ##.pubaccueildroite1
 ##.pubaccueilgauche1
 ##.pubadsense
+##.pubbigsize
 ##.pubbottomvideo
 ##.pubimage
 ##.pubind1
@@ -6242,6 +6253,7 @@ toutcash.com/images/bandeau-
 ##a[href*="/a/display.php?"]
 ##a[href*="/ads.php?ref="]
 ##a[href*="/ads/ad_link."]
+##a[href*="/redirect?tid="]
 ##a[href*="/regiehab.php?"]
 ##a[href*="/telechargement-rapide.php?"]
 ##a[href*="/tracking_campaign.php?"]
@@ -7919,7 +7931,7 @@ ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N',
 mega-vesti.info,smartorrent.com##a[style="color:hotpink;"]
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
 file.up09.com,narutoshippudenvf.com##a[target="_blank"]
-journaldu4x4.com##a[target="_blank"] > img
+journaldu4x4.com,seriezone.org##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 lefigaro.fr##a[target="_blank"] > img[style="width: 463px; height: 170px;"]
