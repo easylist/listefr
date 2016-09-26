@@ -2262,13 +2262,11 @@ _regie/clic.$popup
 .ovh^$domain=huffingtonpost.fr|lemonde.fr|telerama.fr
 .xyz^$domain=filmvf.ws|smartorrent.com
 ://*qertewrt.com^$popup
-|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|flashx.tv|getmytorrent.com|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com
 |http://$popup,third-party,domain=minutebuzz.com
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
 |http://po.st^$popup,domain=almountakhab.com
-|https://$popup,domain=userscloud.com
 |ws://$other,domain=dpstream.net
 |wss://$other,domain=dpstream.net
 ||1001sondages.com/assets/images/250x250.jpg
@@ -3392,6 +3390,9 @@ uploaded.net##[class*="pico-"]
 ! 4nowvideo.com
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |http://$popup,script,third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
+! popup & popunder
+|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|flashx.tv|getmytorrent.com|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com
+|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|flashx.tv|getmytorrent.com|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com
 ! images hosting
 ||hostingpics.net/pics/*ban.png
 ||i.imgur.com/0mKekma.jpg
