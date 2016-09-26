@@ -1990,6 +1990,7 @@ _regie/clic.$popup
 ||birdmobster.info^$popup,third-party
 ||bitadexchange.com^$popup,third-party
 ||blendernetworks.com^$popup,third-party
+||boeangranolith.bid^$popup,third-party
 ||booksuper.info^$popup,third-party
 ||buysellads.com^$popup,third-party
 ||bwinpartypartners.com^$popup,third-party
@@ -2049,6 +2050,7 @@ _regie/clic.$popup
 ||flagagreebelieve.com^$popup,third-party
 ||flashtalking.com^$popup,third-party
 ||flowlz.com^$popup,third-party
+||frex.biz^$popup,third-party
 ||fungoiddempseyimpasse.info^$popup,third-party
 ||gamingaffiliation.com^$popup,third-party
 ||geniusdisplay.com^$popup,third-party
@@ -3391,8 +3393,8 @@ uploaded.net##[class*="pico-"]
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |http://$popup,script,third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 ! popup & popunder
-|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|flashx.tv|getmytorrent.com|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com
-|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|flashx.tv|getmytorrent.com|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com
+|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|flashx.tv|getmytorrent.com|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com
+|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|flashx.tv|getmytorrent.com|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com
 ! images hosting
 ||hostingpics.net/pics/*ban.png
 ||i.imgur.com/0mKekma.jpg
