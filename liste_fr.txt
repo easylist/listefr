@@ -665,6 +665,7 @@
 ://banners3.$third-party
 ://bannieres.
 ://eacash.
+://imads.
 ://soads.
 ://vykingad.
 =/ads.js|
@@ -2083,6 +2084,7 @@ _regie/clic.$popup
 ||gowl.info^$popup,third-party
 ||goyavelab.com^$popup,third-party
 ||guqu.info^$popup,third-party
+||hipersushiads.com^$popup,third-party
 ||hopdream.com^$popup,third-party
 ||humourgratuit.me^$popup,third-party
 ||i4track.net^$popup,third-party
@@ -3417,8 +3419,8 @@ uploaded.net##[class*="pico-"]
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |http://$popup,script,third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 ! popup & popunder
-|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|thevid.net|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com
-|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|thevid.net|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com
+|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|thevid.net|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidto.me
+|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|thevid.net|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidto.me
 ! images hosting
 ||hostingpics.net/pics/*ban.png
 ||i.imgur.com/0mKekma.jpg
@@ -7941,7 +7943,7 @@ ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N',
 mega-vesti.info,smartorrent.com##a[style="color:hotpink;"]
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
 file.up09.com,narutoshippudenvf.com##a[target="_blank"]
-journaldu4x4.com,seriezone.org##a[target="_blank"] > img
+journaldu4x4.com,planet-streaming.com,seriezone.org##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 lefigaro.fr##a[target="_blank"] > img[style="width: 463px; height: 170px;"]
