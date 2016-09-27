@@ -2089,6 +2089,7 @@ _regie/clic.$popup
 ||idhad.com^$popup,third-party
 ||illyx.com^$popup,third-party
 ||im.mobsweet.com^$popup,third-party
+||imagepearl.com^$popup,third-party
 ||imitrk.com^$popup,third-party
 ||india-zed.com^$popup,third-party
 ||infoyours.info^$popup,third-party
@@ -2102,6 +2103,7 @@ _regie/clic.$popup
 ||ktrackdata.com^$popup,third-party
 ||leadzupc.com^$popup,third-party
 ||linkredirect.biz^$popup,third-party
+||lionsdrive.com^$popup,third-party
 ||livechatdates.com^$popup,third-party
 ||livefreefunwith.me^$popup,third-party
 ||livepartners.com^$popup,third-party
@@ -2239,6 +2241,7 @@ _regie/clic.$popup
 ||trafe.info^$popup,third-party
 ||trafficbee.com^$popup,third-party
 ||trafficmagnates.com^$popup,third-party
+||trafficshop.com^$popup,third-party
 ||traffique.net^$popup,third-party
 ||travelaudience.com^$popup,third-party
 ||tribalfusion.com^$popup,third-party
@@ -2285,7 +2288,6 @@ _regie/clic.$popup
 .ovh^$domain=huffingtonpost.fr|lemonde.fr|telerama.fr
 .xyz^$domain=filmvf.ws|smartorrent.com
 ://*qertewrt.com^$popup
-|http://$popup,third-party,domain=minutebuzz.com
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|sa.ae
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
@@ -3418,6 +3420,7 @@ uploaded.net##[class*="pico-"]
 |http://$popup,script,third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 ! popup & popunder
 |http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|thevid.net|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidto.me
+|http://$popup,third-party,domain=imagepearl.com|minutebuzz.com
 |https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|teramixer.com|thevid.net|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidto.me
 ! images hosting
 ||hostingpics.net/pics/*ban.png
