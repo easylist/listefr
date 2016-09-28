@@ -7212,7 +7212,7 @@ games.softgames.de##.cpi-banner-description-content
 blumei-piano.com##.cyt-affi-wrapper
 allocine.fr##.d_table-cell.vam
 logitheque.com##.description + .telechargement
-t411.bz,t411.ch##.description + div[class]
+t411.bz,t411.ch,t411.la,t411.tv##.description + div[class]
 grosnews.com##.deuxcarres
 rtl.fr##.dfp-pave
 dailymotion.com##.dm_widget_advert_iabrighttitle
@@ -7651,7 +7651,8 @@ get-your-rom.com##.topSectionContainer
 lnc.nc,softonic.fr,undernews.fr##.topbanner
 allocine.fr##.topheader
 fan-de-cinema.com##.topmargin
-t411.bz,t411.ch##.torrentDetails > h2 + div + [class]
+t411.bz,t411.ch,t411.la,t411.tv##.torrentDetails + .block + [class]
+t411.bz,t411.ch,t411.la,t411.tv##.torrentDetails > h2 + div + [class]
 ca-briepicardie.fr##.total-cover
 search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
@@ -7762,7 +7763,7 @@ meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[h
 omgtorrent.me##a[href*="+"]
 omgtorrent.me##a[href*="-torrent/"]
 vfstream.biz##a[href*=".php"]
-jeddl.net,omgtorrent.me,t411.bz,t411.ch##a[href*=".php?"]
+jeddl.net,omgtorrent.me##a[href*=".php?"]
 leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
 artdeseduire.com##a[href*="/?part=ads"]
 webactus.net##a[href*="/?utm_source="]
@@ -7800,8 +7801,6 @@ mega-vesti.info,smartorrent.com##a[href*="tonlive.com"]
 lucariostream.eu##a[href*="univers-saiyan.com/"]
 cacastream.com,ddstream.com,youwatch-series.com##a[href*="xmediaserve"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
-t411.bz,t411.ch,t411.la,t411.tv,torrent-411.com##a[href="#"]:last-child
-t411.bz,t411.ch,t411.la,t411.tv,torrent-411.com##a[href="/download/"]
 corobizar.com##a[href="/g2a-link/"]
 macg.co##a[href="/macg-skross"]
 pmu.fr##a[href="/mon-pmu/easypari"]
@@ -7848,7 +7847,7 @@ imdb.com##a[href^="/offsite/?"]
 immigrer.com##a[href^="/p/bannieres/"]
 agevillage.com##a[href^="/pub-"]
 confidentielles.com##a[href^="/rc_787_"]
-t411.ch,t411.la,t411.tv,torrent-411.com##a[href^="/redirect.php"]
+t411.bz,t411.ch,t411.la,t411.tv##a[href^="/redirect.php"]
 jeuxvideo.com##a[href^="/sponso/"] img
 beaute-test.com##a[href^="/stat/clic.php?"]
 omgtorrent.me##a[href^="/torrent-"]
@@ -8103,7 +8102,7 @@ undernews.fr##img[width][height][alt$="VPN"]
 ici.tou.tv##li.bigBox
 sinfest.net##noscript a
 bonjourmadame.fr##object[width="728"][height="90"]
-t411.bz,t411.ch##p[style="width: 400px; margin: 0 auto; color: darkorange"]
+t411.bz,t411.ch,t411.la,t411.tv##p[style="width: 400px; margin: 0 auto; color: darkorange"]
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
 omgtorrent.me##span > a:first-child
 mega-vesti.info,smartorrent.com##span[style^="cursor:pointer;"] > a
