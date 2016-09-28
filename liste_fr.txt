@@ -5282,6 +5282,7 @@ toutcash.com/images/bandeau-
 ###block-gc-ad-bloc-centre-2
 ###block-gc-ad-bloc-centre-3
 ###block-gc-ad-megaban-haut
+###block-gc-ad-pave_bas
 ###block-gc-ad-pave_haut
 ###block-rf-pub-middle
 ###block-rf-pub-middle2
@@ -5965,6 +5966,8 @@ toutcash.com/images/bandeau-
 ##.orange-ad
 ##.ot_ads
 ##.outer_ads_right
+##.p-floating-ad-wrapper
+##.p-with-floating-ad
 ##.padscreen
 ##.panet-mars-adv-panel
 ##.partner-pub
@@ -8150,8 +8153,10 @@ igen.fr##.region-sidebar a[-abp-properties='*']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 igen.fr##.view-content [-abp-properties='background-image:*;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='*: 300px;']
+femmesplus.fr##[-abp-properties='background-image: *;']
 igen.fr,macg.co##[-abp-properties='background-image: url(*;']
 senscritique.com##[-abp-properties='background-position: *;']
+femmesplus.fr##[-abp-properties='cursor: pointer;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 nextinpact.com##[-abp-properties='height: 250px;']
 igen.fr##[-abp-properties='height: 61*px;']
@@ -8165,9 +8170,10 @@ macg.co##article > a[-abp-properties='*'] > img
 ! Ligatus
 @@||admin.brightcove.com/js/api/SmartPlayerAPI.js$script,domain=lachainemeteo.com
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
-@@||player.mediabong.com/*/video.js$script,domain=planet.fr
+@@||disqus.com^$script,domain=femmesplus.fr
+@@||player.mediabong.com/*/video.js$script,domain=femmesplus.fr|planet.fr
 @@||preprod-img.planet.fr/files/advagg_js/js_*.js$script,domain=femmesplus.fr
-@@||static.mediabong.com/scripts/mb.*.js$script,domain=planet.fr
+@@||static.mediabong.com/scripts/mb.*.js$script,domain=femmesplus.fr|planet.fr
 |http://$script,third-party,domain=aventure-apple.com|femmesplus.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|planet.fr|refurbgeneration.com
 |http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 |https://$script,third-party,domain=aventure-apple.com|femmesplus.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|planet.fr|refurbgeneration.com
@@ -8175,13 +8181,17 @@ macg.co##article > a[-abp-properties='*'] > img
 ||xiti.com^$domain=lachainemeteo.com
 !
 femmesplus.fr###block-system-main + div > img
+femmesplus.fr###block-system-main + span > img
 femmesplus.fr###block-system-main > div + div > img
 planet.fr###content > div > img
+femmesplus.fr###content [class] > img
 planet.fr##.block-content + div > img
 femmesplus.fr##.block-views + div > img
 femmesplus.fr##.region > div > img
 femmesplus.fr##.region-inner > div > img
 planet.fr##.region-inner.clearfix > div > img
+femmesplus.fr##.region-sidebar-first [class] > img
+femmesplus.fr##.region-sidebar-first [id] > img
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
