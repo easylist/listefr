@@ -831,6 +831,7 @@ _waframedia_
 /?pub_id=*&sub_id=$popup
 /?tid=*&red=$popup
 /__utm.gif$popup
+/a/display.php?$popup
 /a4u_banner_.$popup
 /ad.*/aff_$popup
 /adcint/*$popup
@@ -1873,7 +1874,9 @@ _regie/clic.$popup
 ||zidor.info^$third-party
 ||zwaar.net^$third-party
 ! popads.net
+||bkmmlcbertdbselmdxpzcuyuilaolxqfhtyukmjkklxphbwsae.com^
 ||bnkgacehxxmx.com^
+||bvobtmbziccr.com^
 ||cixjmaxkemzknxxuyvkbzlhvvgeqmzgopppvefpfkqdraonoez.com^
 ||csbsyukodmga.com^
 ||gwcujaprdsen.com^
@@ -1881,12 +1884,16 @@ _regie/clic.$popup
 ||iibcejrrfhxh.com^
 ||kihhgldtpuho.com^
 ||lcyxmuhxroyo.com^
+||nbbljlzbbpck.com^
 ||olctpejrnnfh.com^
+||ophpbseelohv.com^
+||prggimadscvm.com^
 ||qdlhprdtwhvgxuzklovisrdbkhptpfarrbcmtrxbzlvhygqisv.com^
 ||qpiyjprptazz.com^
 ||rscgfvsximqdpowcmruwitolouncrmnribnfobxzfhrpdmahqe.com^
 ||wijczxvihjyu.com^
 ||xmmnwyxkfcavuqhsoxfrjplodnhzaafbpsojnqjeoofyqallmf.com^
+||xwwkuacmqblu.com^
 ||yyuztnlcpiym.com^
 ||zrxgdnxneslb.com^
 ! toroadvertising.com
@@ -2082,6 +2089,7 @@ _regie/clic.$popup
 ||flowlz.com^$popup,third-party
 ||fonderreaders.info^$popup,third-party
 ||frex.biz^$popup,third-party
+||funbagget.info^$popup,third-party
 ||fungoiddempseyimpasse.info^$popup,third-party
 ||gamingaffiliation.com^$popup,third-party
 ||geniusdisplay.com^$popup,third-party
@@ -2111,12 +2119,14 @@ _regie/clic.$popup
 ||imitrk.com^$popup,third-party
 ||india-zed.com^$popup,third-party
 ||infoyours.info^$popup,third-party
+||instancetour.info^$popup,third-party
 ||ipsowrite.com^$popup,third-party
 ||irclick.net^$popup,third-party
 ||isanalyze.com^$popup,third-party
 ||javacript.cf^$popup,third-party
 ||justgetitfaster.com^$popup,third-party
 ||kastafor.com^$popup,third-party
+||kds.media^$popup,third-party
 ||keymeta.work^$popup,third-party
 ||ktrackdata.com^$popup,third-party
 ||leadzupc.com^$popup,third-party
@@ -5100,6 +5110,7 @@ toutcash.com/images/bandeau-
 ||d2nrdy2pg3k168.cloudfront.net^
 ||d2ov8u95yeeh5v.cloudfront.net^
 ||d2psf55e0gm6yv.cloudfront.net^
+||d2q039yelpk33c.cloudfront.net^
 ||d2q55mevlpufwx.cloudfront.net^$image
 ||d2skqnrxz11esv.cloudfront.net^
 ||d2w88er3oa79h8.cloudfront.net^
