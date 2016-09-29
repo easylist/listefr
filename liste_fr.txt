@@ -914,6 +914,7 @@ _waframedia_
 ?adslotid=$popup
 ?id_rotation=$popup
 ?MediaSegmentId=$popup
+?partner=*&offer_id=$popup,third-party
 ?preview=*&pgid*&from_sz=$popup
 ?runauction=$popup
 ?voluumdata=$popup
