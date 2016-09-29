@@ -3274,8 +3274,16 @@ _regie/clic.$popup
 ||wwwtatonnai.info^
 ||wwwtatonnai.uk^
 ! wat.tv
-@@||tf1.fr^$object-subrequest,domain=wat.tv
-|http://$third-party,domain=wat.tv
+@@||api.mytf1.tf1.fr^$object-subrequest,domain=wat.tv
+@@||hd1livhdsweblive-lh.akamaihd.net^$object-subrequest,domain=wat.tv
+@@||lcilivhlshdslive-lh.akamaihd.net^$object-subrequest,domain=wat.tv
+@@||nt1livhdsweb-lh.akamaihd.net^$object-subrequest,domain=wat.tv
+@@||players.edgesuite.net^$object-subrequest,domain=wat.tv
+@@||tf1livhdsstrike-lh.akamaihd.net^$object-subrequest,domain=wat.tv
+@@||tf1vodhdscatchup-vh.akamaihd.net^$object-subrequest,domain=wat.tv
+@@||tmclivhdsweblive-lh.akamaihd.net^$object-subrequest,domain=wat.tv
+@@||web.q1.tf1.fr^$object-subrequest,domain=wat.tv
+|http://$object-subrequest,third-party,xmlhttprequest,domain=wat.tv
 ! mediabong.com
 ||mediabong.com/campaign/
 ||mediabong.com^*/loader.js
