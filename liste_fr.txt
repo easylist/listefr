@@ -3616,6 +3616,7 @@ toutcash.com/images/bandeau-
 ||automobiles.nc^*.html$object,subdocument
 ||autopromo.jeuxvideo.com^$third-party
 ||autoreflex.com^*/logo_map_partenaires.png
+||autosurf.fr/campagnes/
 ||autosurf.me/pub-
 ||autotracer.org/cnc/?
 ||aviss.fr/wp-content/uploads/*/pubH.jpg
@@ -5905,6 +5906,7 @@ toutcash.com/images/bandeau-
 ##.carre_pub
 ##.carrepub
 ##.cazAd
+##.column_in_pub
 ##.container-pubcarre
 ##.contenedorAds
 ##.conteneur_ligatus
@@ -6377,6 +6379,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://www.affiliation-france.com/"]
 ##a[href^="http://www.allopass.com/"] > img
 ##a[href^="http://www.custom-qamis.com/"] > img
+##a[href^="http://www.easyflirt-partners.biz"]
 ##a[href^="http://www.espace-plus.net/"]
 ##a[href^="http://www.fducks.com/"]
 ##a[href^="http://www.gaddin.com/index.php?sponsor"] > img
