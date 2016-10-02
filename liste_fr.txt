@@ -273,6 +273,10 @@
 /aff.php?
 /aff_*/banners/*
 /aff_pub_
+/affich_ban.
+/affich_pub.
+/affich_pub_
+/affichban.
 /affiliate.*/banner
 /affiliate/*/banners/*
 /affiliate_member_banner/*
@@ -380,6 +384,7 @@
 /dfp/dfp.
 /dhtml/notification/*
 /dhtml/popup/*
+/diff_affich_ban.
 /display.php?ec=
 /display/?affid=
 /display/?method=$subdocument
@@ -478,6 +483,7 @@
 /pagepub.
 /pages_ads.
 /panel_regie/*
+/par_46860_
 /pariez-h728.
 /partners.php?id=
 /partners/ads-
@@ -2394,7 +2400,6 @@ _regie/clic.$popup
 ||aff.bstatic.com^
 ||aff.camplace.com^$popup,third-party
 ||affiliation.porn.fr^
-||affiliationcommando.com/bannieres/
 ||affiliationv4.porn.fr^
 ||agence-ecofin.com/mysimple/banners/
 ||ahlaejaba.com^$subdocument
@@ -2606,6 +2611,7 @@ _regie/clic.$popup
 ||echangegagnant.com/gagnant468.png
 ||edi-static.fr/Images/Pubs/
 ||education.ti.com^$domain=ti.bank.free.fr
+||efficacitemaximale.com/wp-content/uploads/*/bann
 ||effiliation.com/servlet/effi.show?
 ||effiliation.com^$popup,domain=dzsat.org
 ||elles-mouillent.com/ban/$third-party
@@ -2621,7 +2627,6 @@ _regie/clic.$popup
 ||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
 ||eurasie.eu/sponsors-
 ||euro-gains.fr/upload/ban/
-||euro-liste.net/affich_
 ||euroclix.fr^$domain=176.31.96.119
 ||eurosportbet.loa24.com^$domain=eurosport.fr
 ||evolucare.com/bannieres/
@@ -2641,7 +2646,6 @@ _regie/clic.$popup
 ||flux.effiliation.com^
 ||flyrelax.com/wp-widget/widget.php
 ||foot-en-streaming.com^$popup,domain=stream-filmz.com
-||fortuneinternet101.com/Bannieres/
 ||fpcplugs.com/do.cgi?
 ||france-telechargements.com^$popup
 ||francoischarron.com/datascontent/insertech-*.jpg
@@ -2656,7 +2660,6 @@ _regie/clic.$popup
 ||g2a.com/*?addid=$popup
 ||g2a.com/r/$popup
 ||g2a.com^$popup,domain=hitek.fr
-||gagnantacoupsur.com/images/banner
 ||gagne-facile.com/img/banner-
 ||gambling-affiliation.com^$popup,domain=euro-2016-france.net
 ||gametap.com/convergence/Header/framed/?
@@ -2911,6 +2914,7 @@ _regie/clic.$popup
 ||planethoster.net/images/bannieres/$third-party
 ||platform.wawacity.su^
 ||pointscommuns.com/images/bannieres/$third-party
+||pokeram.com/images/promo/
 ||pooki.fr/banner/
 ||porn.fr^*/site_id/$popup
 ||pornovore.fr^$popup,domain=amateur2sexe.fr
@@ -3066,9 +3070,9 @@ _regie/clic.$popup
 ||streaming-illimite.com^$popup,domain=freemoviesdown.com
 ||streaminger.tv/ad*.
 ||sublinet.com/www/public/images/*/72890_$third-party
+||suelaba.net^*/banners/
 ||surf-report-shop.com^$popup,domain=surf-report.com
 ||surfeurdor.free.fr^
-||systeme-business.com/images/120x600sb.jpg
 ||t5hkmjkmhfae.com^
 ||tac2.xcams.com/livecams/$third-party
 ||tadpu.com/wp-content/uploads/*/boxbox.png
@@ -3113,7 +3117,6 @@ _regie/clic.$popup
 ||uncadeau.com/partner_widgets/$third-party
 ||unifinance.net/images/banners/
 ||uniregistry.com/return_js.php?$third-party
-||untravailadomicile.info/images/banner
 ||up-00.com^$domain=up07.net
 ||up-banner.wavecdn.net^
 ||up07.net/open*.js
@@ -3847,7 +3850,6 @@ toutcash.com/images/bandeau-
 ||douniamusic.com/images/dzsoog.gif
 ||douniamusic.com/include/pub-
 ||douniamusic.com/InterDouniaMusic.swf
-||downline-builder.net/diff_affich_ban.php
 ||dsih.fr/pub/
 ||dynamique-mag.com/files/pub/
 ||dynamique-mag.com/images/partenaire/
