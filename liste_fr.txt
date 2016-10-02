@@ -3332,6 +3332,7 @@ _regie/clic.$popup
 @@||tf1livhdsstrike-lh.akamaihd.net^$object-subrequest,domain=wat.tv
 @@||tf1vodhdscatchup-vh.akamaihd.net^$object-subrequest,domain=wat.tv
 @@||tmclivhdsweblive-lh.akamaihd.net^$object-subrequest,domain=wat.tv
+@@||web-cdn.q1.tf1.fr^$object-subrequest,domain=wat.tv
 @@||web.q1.tf1.fr^$object-subrequest,domain=wat.tv
 |http://$object-subrequest,third-party,xmlhttprequest,domain=wat.tv
 ! mediabong.com
@@ -8590,7 +8591,7 @@ _adblockdetector/
 @@||static-v.com/lib/js/_source/blockadblock.js$script,domain=vtele.ca
 @@||static.autoplus.fr/_js/ads/ad$script
 @@||static.les-horaires.fr/js/advert.js
-@@||static.mytf1.tf1.fr/assets/js/build/lib/ad$script
+@@||static.mytf1.tf1.fr/assets/js/build/lib/ads_scripts/adframe.js$script
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
 @@||stream4free.eu/images/*#$~image
 @@||teramixer.com/plugins/mediaplayer/assets/js/advertisement.js$script
