@@ -20,6 +20,7 @@
 &ad_path=
 &ad_sub=
 &ad_tags=
+&AdFormat=
 &adGapId=
 &adplace=
 &ads_size_id=
@@ -37,6 +38,7 @@
 &pop_under=
 &popundersPerIP=
 &promo=*_mpu_
+&pubsite=
 &subpartenaire=
 &videoAdHtmlId=
 &zoneid=*&direct=
@@ -161,7 +163,7 @@
 /728x090_
 /728x300-banner.
 /?placement=*&async$script
-/?placement=*&redirect&
+/?placement=*&redirect
 /?redirect&placement=
 /?rpartner=$subdocument
 /a.ads.
@@ -806,6 +808,7 @@ _waframedia_
 &nsfw=&id_promo=$popup
 &pub_sub_id_$popup
 &publisherid=$popup
+&pubsite=$popup
 &runauction=$popup
 &tid=*&ref=*embed-$popup
 &utm_$popup,domain=dailymotion.com
@@ -1797,6 +1800,7 @@ _regie/clic.$popup
 ||trck.eu^$third-party
 ||trck.me^$third-party
 ||tredman.com^$third-party
+||trumbo.site^$third-party
 ||tubicash.biz^$third-party
 ||tubicash.com^$third-party
 ||twodrive.su^$third-party
@@ -2159,6 +2163,7 @@ _regie/clic.$popup
 ||keymeta.work^$popup,third-party
 ||ktrackdata.com^$popup,third-party
 ||leadzupc.com^$popup,third-party
+||letadnew.com^$popup,third-party
 ||linkredirect.biz^$popup,third-party
 ||lionsdrive.com^$popup,third-party
 ||livechatdates.com^$popup,third-party
@@ -2348,7 +2353,7 @@ _regie/clic.$popup
 .xyz^$domain=filmvf.ws|smartorrent.com
 ://*qertewrt.com^$popup
 |http://$subdocument,domain=a2r-media.com
-|http://$subdocument,third-party,domain=aptclkzmoelfm.net|clictune.com|frmrfhvwpi.net|gpxibvwmjbo.net|lnzpbkeijlkmfdr.net|sa.ae|ubqgcbmrqjdcqn.net|yqvzrpxxwyk.net
+|http://$subdocument,third-party,domain=clictune.com
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
 |http://po.st^$popup,domain=almountakhab.com
 |ws://$other,domain=dpstream.net
@@ -3489,6 +3494,8 @@ uploaded.net##[class*="pico-"]
 ! 4nowvideo.com
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |http://$popup,script,third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
+! linkbucks.com
+|http://$subdocument,domain=aptclkzmoelfm.net|clictune.com|frmrfhvwpi.net|gpxibvwmjbo.net|lnzpbkeijlkmfdr.net|sa.ae|ubqgcbmrqjdcqn.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net
 ! popup & popunder
 |http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|streamplay.to|teramixer.com|thevid.net|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidto.me
 |http://$popup,third-party,domain=imagepearl.com|minutebuzz.com
