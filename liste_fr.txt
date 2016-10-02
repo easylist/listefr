@@ -836,12 +836,6 @@ _waframedia_
 .site^*?subid=$popup
 .site^*?zoneid=$popup
 .superpromo.$popup
-.xyz/*==|$popup,third-party
-.xyz^*&zone=$popup
-.xyz^*&zoneid=$popup
-.xyz^*?subid=$popup
-.xyz^*?zone=$popup
-.xyz^*?zoneid=$popup
 /?pub_id=*&sub_id=$popup
 /?tid=*&red=$popup
 /__utm.gif$popup
@@ -945,6 +939,15 @@ _regie/clic.$popup
 ||adv-mybankai.$popup
 ||xml.*/click?$popup
 ||xmlsearch.*/click?$popup
+! xyz TLD popups
+||xyz^*&zone=$popup
+||xyz^*&zoneid=$popup
+||xyz^*==|$popup,third-party
+||xyz^*?subid=$popup
+||xyz^*?trckdom=$popup
+||xyz^*?websiteid=$popup
+||xyz^*?zone=$popup
+||xyz^*?zoneid=$popup
 !
 !----------------------- Annonceurs -----------------------!
 !
