@@ -534,6 +534,7 @@
 /pub/728_top.
 /pub/banniere/*
 /pub/bannieres/*
+/pub/dfp.
 /pub/dfp/*
 /pub/ga_pub_$script
 /pub/pub-
@@ -4315,7 +4316,6 @@ toutcash.com/images/bandeau-
 ||lesbiennesxxx.com^*/u.js
 ||lesechos.fr/pratique/
 ||lesechos.fr/promo-solutions/
-||lesechos.fr/wam_lesechos.js
 ||lesmobiles.com/habillage/
 ||lesnumeriques.com/habillages/
 ||lesoirdalgerie.com/articles/*/dzauto.swf
@@ -5355,6 +5355,8 @@ toutcash.com/images/bandeau-
 ###block-gc-ad-megaban-haut
 ###block-gc-ad-pave_bas
 ###block-gc-ad-pave_haut
+###block-pub-pav2
+###block-pub-pav3
 ###block-rf-pub-middle
 ###block-rf-pub-middle2
 ###block_pub
@@ -5903,7 +5905,10 @@ toutcash.com/images/bandeau-
 ##.bloc_rightcol_pub
 ##.block-cPublicite
 ##.block-gc-ad
+##.block-pub
+##.block-pub-fee1
 ##.block-pub-max-300x600
+##.block-pub-partenaires
 ##.block-pubimage
 ##.block-rf-pub
 ##.block_adtop
@@ -6083,6 +6088,7 @@ toutcash.com/images/bandeau-
 ##.pub-label
 ##.pub-megaban
 ##.pub-megabanner
+##.pub-partenaires
 ##.pub-pave
 ##.pub-promo
 ##.pub-rectangle-php
@@ -6231,6 +6237,7 @@ toutcash.com/images/bandeau-
 ##.publireportage_simple
 ##.pubovh
 ##.pubovh300
+##.pubs-mini
 ##.pubs_over
 ##.pubs_over1
 ##.pubsidebar
@@ -7146,7 +7153,6 @@ zebulon.fr##.ban2
 e-jeune.net##.ban_carre_1366
 agroligne.com##.ban_holder
 largus.fr##.bandeau-annonce
-lesechos.fr##.bandeau-weekend
 01net.com##.bandeau_promos
 syskb.com##.bandeaupub
 cdmail.fr##.bandeauvert
@@ -7207,9 +7213,7 @@ jeuxvideo.fr##.block-jeux-micromania_offre
 d8.tv##.block-mozaic-pub
 latribune.fr##.block-partner
 lemonde.fr##.block-partners
-orange.fr##.block-pub
 bricoleurdudimanche.com##.block-pub-ban-btm
-bricoleurdudimanche.com##.block-pub-partenaires
 laposte.net##.blockShopping
 maison-travaux.fr##.blockUI
 dzmusique.com##.block_ad_container
@@ -7540,7 +7544,7 @@ pornofrance.org##.promomenu
 meteosun.com##.promote_large
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
-abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,ennaharonline.com,europages.ma,fan-de-cinema.com,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesoir.be,lexpress.fr,liensporno.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,slate.fr,sofoot.com,soonnight.com,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zone-series.biz,zupimages.net##.pub
+abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,ennaharonline.com,europages.ma,fan-de-cinema.com,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,liensporno.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,slate.fr,sofoot.com,soonnight.com,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zone-series.biz,zupimages.net##.pub
 basketusa.com##.pub-1000x90-top
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
