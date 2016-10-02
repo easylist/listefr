@@ -3478,6 +3478,9 @@ uploaded.net##[class*="pico-"]
 ! gaara-fr.com
 |http://$script,xmlhttprequest,domain=gaara-fr.com
 |https://$script,xmlhttprequest,domain=gaara-fr.com
+! jeuxflash.com
+|http://$script,xmlhttprequest,domain=jeuxflash.com
+|https://$script,xmlhttprequest,domain=jeuxflash.com
 ! youwatch.org / exashare.com
 .xyz/embed-$popup,third-party
 |http://$popup,domain=00365ine.xyz|0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|19a9xx7d.xyz|1jgvtb.info|1wskdbkp.xyz|2op1gr.xyz|3mbs0aup.xyz|3nddurjq.xyz|536xnecc.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|7825rwmq.xyz|7gxj7aiv.xyz|817k2qh9.xyz|8azpdgm8.xyz|99cavn.info|99cavn.xyz|ajihezo.info|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|izs9hils.xyz|jgqh4dok.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|ld5myrsq.xyz|lkwlg7d3.xyz|lnei151w.xyz|lnxt1a.info|lnxt1a.xyz|m8ob5rnk.xyz|maliana.info|mazlote.info|mryu6y5n.xyz|msemen.info|n3b9n3ld.xyz|n8lx7uyz.xyz|nk14qx6e.xyz|nuyed0yg.xyz|o6tpiv6s.xyz|obzf5445.xyz|oepqu4xd.xyz|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rapidvideo.ws|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|ssv1p3.xyz|st8vuu.xyz|swjxp05y.xyz|t24dtznm.xyz|tei48gpw.xyz|tikamika.info|tiziwezo.info|tozfike.info|u8t03284.xyz|u9un46i4.xyz|ukn41v.xyz|ul1hdvdg.xyz|uroclm5d.xyz|uxp208ut.xyz|w3o8sq5x.xyz|w5drbgv6.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
@@ -4172,7 +4175,6 @@ toutcash.com/images/bandeau-
 ||jeuxactu.com/js/ayl.js
 ||jeuxactu.com/theme/*.js?home=
 ||jeuxetcompagnie.fr/wp-content/uploads/*/Habillage-
-||jeuxflash.com/*.php
 ||jeuxme.net/wp-content/themes/*/images/336280.gif
 ||jeuxvideo.com/ope/
 ||jeuxvideo.com/pics/web/eaplay4free_300x100.jpg
@@ -8145,7 +8147,6 @@ lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 igen.fr,macg.co##header + a[target="_blank"]
-jeuxflash.com##iframe
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
