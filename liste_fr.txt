@@ -3507,8 +3507,8 @@ uploaded.net##[class*="pico-"]
 ! linkbucks.com
 |http://$subdocument,domain=aptclkzmoelfm.net|clictune.com|frmrfhvwpi.net|gpxibvwmjbo.net|lnzpbkeijlkmfdr.net|sa.ae|ubqgcbmrqjdcqn.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net
 ! popup & popunder
-|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|streamplay.to|teramixer.com|thevid.net|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidto.me
-|http://$popup,third-party,domain=imagepearl.com|minutebuzz.com
+|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|streamplay.to|teramixer.com|thevid.net|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidto.me
+|http://$popup,third-party,domain=imagepearl.com|minutebuzz.com|speedvid.net
 |https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|streamplay.to|teramixer.com|thevid.net|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidto.me
 ! images hosting
 ||hostingpics.net/pics/*ban.png
@@ -7898,6 +7898,7 @@ mega-vesti.info,smartorrent.com##a[href*="tonlive.com"]
 lucariostream.eu##a[href*="univers-saiyan.com/"]
 cacastream.com,ddstream.com,youwatch-series.com##a[href*="xmediaserve"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
+speedvid.net##a[href="#"][onclick]
 corobizar.com##a[href="/g2a-link/"]
 macg.co##a[href="/macg-skross"]
 pmu.fr##a[href="/mon-pmu/easypari"]
