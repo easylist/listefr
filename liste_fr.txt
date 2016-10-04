@@ -3499,6 +3499,11 @@ uploaded.net##[class*="pico-"]
 ! jeuxflash.com
 |http://$script,xmlhttprequest,domain=jeuxflash.com
 |https://$script,xmlhttprequest,domain=jeuxflash.com
+! hitek.fr
+@@||ajax.googleapis.com/ajax/libs/$script,domain=hitek.fr
+|http://$script,third-party,xmlhttprequest,domain=hitek.fr
+|https://$script,third-party,xmlhttprequest,domain=hitek.fr
+||hitek.fr^$popup,~third-party
 ! youwatch.org / exashare.com
 .xyz/embed-$popup,third-party
 |http://$popup,domain=00365ine.xyz|0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|19a9xx7d.xyz|1jgvtb.info|1wskdbkp.xyz|2op1gr.xyz|373mupgp.xyz|3mbs0aup.xyz|3nddurjq.xyz|536xnecc.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|7825rwmq.xyz|7gxj7aiv.xyz|817k2qh9.xyz|8azpdgm8.xyz|939d5vez.xyz|95twcpky.xyz|99cavn.info|99cavn.xyz|a4ctx3yu.xyz|ajihezo.info|bcugtb2q.xyz|bikanika.info|bojem3a.info|chefti.info|chouhaa.info|daweya.info|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|izs9hils.xyz|jgqh4dok.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|ld5myrsq.xyz|lkwlg7d3.xyz|lnei151w.xyz|lnxt1a.info|lnxt1a.xyz|m8ob5rnk.xyz|maliana.info|mazlote.info|mryu6y5n.xyz|msemen.info|n3b9n3ld.xyz|n8lx7uyz.xyz|nk14qx6e.xyz|nuyed0yg.xyz|o6tpiv6s.xyz|obzf5445.xyz|oepqu4xd.xyz|oihk05sk.xyz|oogz4tdz.xyz|os2p30yo.xyz|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rapidvideo.ws|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|ssv1p3.xyz|st8vuu.xyz|swjxp05y.xyz|t24dtznm.xyz|tei48gpw.xyz|tikamika.info|tiziwezo.info|tozfike.info|u8t03284.xyz|u9un46i4.xyz|ukn41v.xyz|ul1hdvdg.xyz|uroclm5d.xyz|uxp208ut.xyz|w3o8sq5x.xyz|w5drbgv6.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
