@@ -1020,6 +1020,7 @@ _regie/clic.$popup
 ||ad6.fr^$third-party,domain=~ad6media.fr
 ||adaccess.fr^$third-party
 ||adaraby.com^$third-party
+||adback.co^$third-party
 ||adbox.lt^$third-party
 ||adcarem.co^$third-party
 ||adclick.lt^$third-party
@@ -4409,7 +4410,6 @@ toutcash.com/images/bandeau-
 ||maliweb.net/wp-content/news/images/*banniere
 ||maliweb.net/wp-content/news/images/*habillage
 ||maliweb.net/wp-content/news/images/*pmu
-||malloc.viedemerde.fr^
 ||mamytwink.com^*/images/partenaires/
 ||manager-online.fr/styles/mo3/template/instant.png
 ||manga-news.com/public/banners/
@@ -8323,7 +8323,6 @@ medisite.fr##[class] > img
 @@||ad.doubleclick.net/ddm/trackclk/*tracking.lengow.com$popup,domain=123comparer.fr
 @@||ad2play.ftv-publicite.fr/?sitepage=$subdocument,domain=mytaratata.com|psg.fr
 @@||ad2play.ftv-publicite.fr/js/ad2play.js$domain=mytaratata.com
-@@||adback.co^$~third-party
 @@||adimages.ch^$~third-party
 @@||admedia.rtl.fr/online/sound/$object-subrequest,domain=rtl.fr
 @@||ads.audience2media.com/crossdomain.xml$domain=videos.nt1.tv
@@ -8692,35 +8691,25 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 @@||webcallmalin.com^$generichide
 @@||writerband.com^$generichide
 @@||zenserv.fr^$generichide
-! ab-fake
-||0a4bc7da4753b4d6211fb1bd789f3942.racing^
+! adBack.co
 ||112038398dc590fd910f04439eba2dc2.ovh^
-||1fb1a6c0703b0291fa81f755ba0902cc.download^
-||2df853132229cadcd66c63997c3defd9.download^
 ||49192d62ae75aadb31db945156e50aa9.ovh^
 ||568e838860fb67c12141ee424b37df7f.ovh^
 ||66c55bdabf2a68dfc2e3d5991dd19648.ovh^
-||74673641b6eb77c20ae374a8da76c482.racing^
 ||7e59f52a58ab3be819c9a90ba53b9ffe.ovh^
-||8453c4cdb2d98b8a4445cb2cfff248e6.download^
-||8b1f4b8c3ce314bafa1dacab6364466e.win^
-||8b7b08ebf014bcf7f91a19f8b8922c28.xyz^
-||a1802d421897c44eb30c53106f213f3b.ovh^
 ||avingtonkinoulton.com^
-||b90d535762434787bb78fb8024618470.racing^
+||back.viedemerde.fr^
 ||belzonihooven.com^
-||dbb1e7e01909d92fbfb9adc0093a222a.xyz^
-||dd159fed3c740972b25ada3281087eda.racing^
+||brookletlidderdale.com^
+||delafielddardanelle.com^
 ||dorrancebonsecour.com^
-||e21665f25aef6938104ffac061365557.racing^
 ||e6d1606a88e12a42d494dfae826b95eb.ovh^
-||e6e371f1870452067490e5657d1ab86a.racing^
-||ed92f83b360e0385bf0b86225e29319e.download^
-||ee58fcbe0f8d5f57bc56fdeaf9f3248e.ovh^
-||f1146f2b99eb82016745396b26ffc1d9.racing^
 ||foyilhardburly.com^
+||front.viedemerde.fr^
 ||grovesmannford.com^
+||hosted.adback.co^
 ||hurlinesswhitchurch.com^
+||malloc.viedemerde.fr^
 ||markhamglascote.com^
 ||munfordwickatunk.com^
 ||norgerockingham.com^
