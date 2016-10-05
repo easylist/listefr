@@ -941,6 +941,7 @@ _domain=ads.$popup
 _pop.php?z=$popup
 _pornofolies_$popup
 _regie/clic.$popup
+|http://go.*&zoneid=$popup
 ||adv-mybankai.$popup
 ||xml.*/click?$popup
 ||xmlsearch.*/click?$popup
@@ -2909,6 +2910,7 @@ _regie/clic.$popup
 ||pokeram.com/images/promo/
 ||pooki.fr/banner/
 ||porn.fr^*/site_id/$popup
+||pornhub.com^*?utm_source=paid$popup
 ||pornovore.fr^$popup,domain=amateur2sexe.fr
 ||pornspirit.com/logo-$third-party
 ||porntoxico.com/widgets
@@ -2962,6 +2964,7 @@ _regie/clic.$popup
 ||readersdigest.ca/*/images/promobrick_
 ||realnswag.fr^$popup,domain=rapghetto.com
 ||redirecting.ws^$subdocument
+||redtube.com^*?utm_source=paid$popup
 ||reef-guardian.com/boutique/$third-party
 ||referer.us/?*&placement=$popup
 ||refgratuit.fr/images/pub/
@@ -3347,8 +3350,8 @@ _regie/clic.$popup
 |http://$script,third-party,domain=voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
 |https://$script,third-party,domain=voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
 ! films-regarder.com
-|http://$script,third-party,domain=films-regarder.com
-|https://$script,third-party,domain=films-regarder.com
+|http://$script,third-party,domain=films-regarder.com|films-regarder.org
+|https://$script,third-party,domain=films-regarder.com|films-regarder.org
 ! ddlfr.org
 |http://$script,third-party,xmlhttprequest,domain=ddlfr.org
 |https://$script,third-party,xmlhttprequest,domain=ddlfr.org
@@ -7874,7 +7877,7 @@ mistergooddeal.com##a[href*="=H_pub_"]
 demo-gk.goyavelab.com##a[href*="?"]
 nouvelobs.com##a[href*="?partner="]
 challenges.fr,nouvelobs.com##a[href*="?partnerlinkid="]
-films-regarder.com##a[href*="?redirect_link="]
+films-regarder.com,films-regarder.org##a[href*="?redirect_link="]
 jemangejemincis.fr##a[href*="?utm_campaign="]
 audiofanzine.com##a[href*="?utm_source="]
 deco-smart.com##a[href*="?utm_source=ds_shop"]
@@ -7952,7 +7955,7 @@ oujdacity.net##a[href^="http://ads.oujdacity.net/"]
 lotusnoir.info##a[href^="http://adv-myninja."]
 aidemu.fr##a[href^="http://aidemu.fr/pub/"]
 porno-mobile.ws##a[href^="http://anonym.to?"]
-films-regarder.com,telechargementz-streaming.com##a[href^="http://api.adlure.net/"]
+films-regarder.com,films-regarder.org,telechargementz-streaming.com##a[href^="http://api.adlure.net/"]
 torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
 challenges.fr##a[href^="http://assurance-emprunteur.challenges.fr/"]
 dhnet.be##a[href^="http://bf1.be/"] > img
