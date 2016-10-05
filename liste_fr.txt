@@ -411,7 +411,7 @@
 /fr-ads.
 /fra/ads/*
 /frame_popup.
-/frontend_loader.js|$script,~third-party
+/frontend_loader.js$script
 /gestionpub/*
 /get.cgi?*=banner
 /get_banniere.php?$subdocument
@@ -1226,6 +1226,7 @@ _regie/clic.$popup
 ||betfredaffiliates.com^$third-party
 ||bgrndi.com^$third-party
 ||bigour.net^$third-party
+||birdminster.info^$popup,third-party
 ||bizhentai.com^$third-party
 ||biznolimit.com^$third-party
 ||blockadz.com^$third-party
