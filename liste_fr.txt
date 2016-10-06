@@ -1834,9 +1834,15 @@ _regie/clic.$popup
 ||vfjkd.ovh^$third-party
 ||vgsgaming.com^$third-party
 ||videonas.eu^$third-party
+||videoplaza.se/proxy/distributor^$object-subrequest,third-party
+||videoplaza.se^$~object-subrequest,third-party
 ||videoplaza.tv^$object-subrequest,third-party,domain=commentcamarche.net|journaldesfemmes.com
 ||videoplaza1.tv/proxy/distributor^$object-subrequest,third-party
 ||videoplaza1.tv^$~object-subrequest,third-party
+||videoplaza2.tv/proxy/distributor^$object-subrequest,third-party
+||videoplaza2.tv^$~object-subrequest,third-party
+||videoplaza3.tv/proxy/distributor^$object-subrequest,third-party
+||videoplaza3.tv^$~object-subrequest,third-party
 ||videoroow.com^$third-party
 ||videos-x.me^$third-party
 ||videostep.com^$third-party
