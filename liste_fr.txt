@@ -1834,7 +1834,7 @@ _regie/clic.$popup
 ||vfjkd.ovh^$third-party
 ||vgsgaming.com^$third-party
 ||videonas.eu^$third-party
-||videoplaza.tv^$object-subrequest,third-party,domain=journaldesfemmes.com
+||videoplaza.tv^$object-subrequest,third-party,domain=commentcamarche.net|journaldesfemmes.com
 ||videoplaza1.tv/proxy/distributor^$object-subrequest,third-party
 ||videoplaza1.tv^$~object-subrequest,third-party
 ||videoroow.com^$third-party
@@ -2344,6 +2344,7 @@ _regie/clic.$popup
 |http://$subdocument,third-party,domain=clictune.com
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
 |http://po.st^$popup,domain=almountakhab.com
+|videoplaza*/aab/pulse-custom-svm-plugin.
 |ws://$other,domain=dpstream.net
 |wss://$other,domain=dpstream.net
 ||1001sondages.com/assets/images/250x250.jpg
