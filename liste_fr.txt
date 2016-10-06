@@ -4828,7 +4828,7 @@ toutcash.com/images/bandeau-
 ||starter.fm/images/*/bg_
 ||static.basket-infos.com/wp-content/uploads/Pub-
 ||static.ccm2.net/*/img/appstv/
-||static.commentcamarche.net/www.commentcamarche.net/faq/images/
+||static.commentcamarche.net/www.commentcamarche.net/$image
 ||static.lacentrale.fr/ressources/images/pages/home/spot_banner.jpg
 ||static.nautiljon.com/images/b1/?
 ||static.neowebcar.com/app/nwc/pix/allianz-widget.jpg
@@ -6800,7 +6800,6 @@ grandecran.fr###les_pubs_locales
 orange.fr###lienComPart
 lfp.fr###lien_billeterie
 lachainemeteo.com###lig
-commentcamarche.net###lig_benchmark_commentcamarche_smartbox
 free.fr###lig_free_home_smartbox
 laprovence.com###lig_laprovence_smartbox
 orange.fr###lig_orange_web_ang_smartbox_home
@@ -7837,7 +7836,7 @@ aujourdhui-en-france.fr,leparisien.fr##[id^="Ads_"]
 film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.nu,libre-stream.com,planet-streaming.com,vfilmze.com,youwatchfilm.net##[id^="PapaGoo"]
 footnamurois.com##[id^="banners-"]
 egora.fr##[id^="block-gmsante_pub-"]
-lachainemeteo.com##[id^="lig_"]
+commentcamarche.net,lachainemeteo.com##[id^="lig_"]
 leparticulier.fr##[id^="loca_service_simulateur_"]
 agate-france.com##[id^="pbad_"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
@@ -8630,6 +8629,7 @@ leveldown.fr#@##adblock
 bleachmx.co,fdesouche.com,xavierstuder.com#@##adsense
 toplien.fr#@#.AdvertContainer
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
+commentcamarche.net#@#.text_ads
 !
 @@||2folie.com^$elemhide
 @@||alligatographe.blogspot.fr^$generichide
