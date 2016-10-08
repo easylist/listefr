@@ -57,6 +57,7 @@
 -468-x-60-
 -468v60.
 -468x601.
+-468x60px.
 -486_60.
 -60x480.
 -728-90a.
@@ -3372,10 +3373,10 @@ _regie/clic.$popup
 @@||p.jwpcdn.com^$object-subrequest,third-party,domain=ultimedia.com
 |http://$object-subrequest,script,third-party,xmlhttprequest,domain=ultimedia.com
 ! t411
-@@||ajax.googleapis.com/ajax/libs/$script,domain=t411.bz|t411.ch|t411.la|t411.tv|torrent-411.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.bz|t411.ch|t411.la|t411.tv|torrent-411.com
-|http://$script,third-party,domain=t411.bz|t411.ch|t411.la|t411.tv|torrent-411.com
-|https://$script,third-party,domain=t411.bz|t411.ch|t411.la|t411.tv|torrent-411.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ch
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.ch
+|http://$script,third-party,domain=t411.bz|t411.ch|t411.la|t411.lt|t411.tv
+|https://$script,third-party,domain=t411.bz|t411.ch|t411.la|t411.lt|t411.tv
 ! voirfilms.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
 |http://$script,third-party,domain=voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
@@ -5945,6 +5946,7 @@ toutcash.com/images/bandeau-
 ##.ady90
 ##.adziner-adzone
 ##.af_bloc_partners
+##.an-advert-banner
 ##.annnonces_partenaires
 ##.annonce_pub_contenu
 ##.annonces_google
@@ -7353,7 +7355,7 @@ games.softgames.de##.cpi-banner-description-content
 blumei-piano.com##.cyt-affi-wrapper
 allocine.fr##.d_table-cell.vam
 logitheque.com##.description + .telechargement
-t411.bz,t411.ch,t411.la,t411.tv##.description + div[class]
+t411.bz,t411.ch,t411.la,t411.lt,t411.tv##.description + div[class]
 grosnews.com##.deuxcarres
 rtl.fr##.dfp-pave
 dailymotion.com##.dm_widget_advert_iabrighttitle
@@ -7792,8 +7794,8 @@ get-your-rom.com##.topSectionContainer
 lnc.nc,softonic.fr,undernews.fr##.topbanner
 allocine.fr##.topheader
 fan-de-cinema.com##.topmargin
-t411.bz,t411.ch,t411.la,t411.tv##.torrentDetails + .block + [class]
-t411.bz,t411.ch,t411.la,t411.tv##.torrentDetails > h2 + div + [class]
+t411.bz,t411.ch,t411.la,t411.lt,t411.tv##.torrentDetails + .block + [class]
+t411.bz,t411.ch,t411.la,t411.lt,t411.tv##.torrentDetails > h2 + div + [class]
 ca-briepicardie.fr##.total-cover
 search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
@@ -7990,7 +7992,7 @@ imdb.com##a[href^="/offsite/?"]
 immigrer.com##a[href^="/p/bannieres/"]
 agevillage.com##a[href^="/pub-"]
 confidentielles.com##a[href^="/rc_787_"]
-t411.bz,t411.ch,t411.la,t411.tv##a[href^="/redirect.php"]
+t411.bz,t411.ch,t411.la,t411.lt,t411.tv##a[href^="/redirect.php"]
 jeuxvideo.com##a[href^="/sponso/"] img
 beaute-test.com##a[href^="/stat/clic.php?"]
 omgtorrent.me##a[href^="/torrent-"]
@@ -8073,10 +8075,10 @@ yahoo.com##a[href^="https://beap.gemini.yahoo.com/"]
 clubic.com##a[href^="https://clk.tradedoubler.com/"]
 frenchweb.fr##a[href^="https://experiences.microsoft.fr/"]
 lefigaro.fr##a[href^="https://go.babbel.com/"]
-mega-vesti.info,smartorrent.com,t411.bz,t411.ch,t411.la,t411.tv,torrent-411.com,wawacity.su##a[href^="https://tr.im/"]
+mega-vesti.info,smartorrent.com,t411.bz,t411.ch,t411.la,t411.lt,t411.tv,wawacity.su##a[href^="https://tr.im/"]
 cdiscount.com##a[href^="https://tracking.cdiscount.com/tracker.ashx?"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
-t411.bz,t411.ch,t411.la,t411.tv,torrent-411.com##a[href^="https://www.amazon.com/"]
+t411.bz,t411.ch,t411.la,t411.lt,t411.tv##a[href^="https://www.amazon.com/"]
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
 credit-agricole.fr##a[href^="https://www.onatousuncotefoot.fr/"]
 undernews.fr##a[href^="https://www.undernews.fr/redirect/"]
@@ -8090,7 +8092,7 @@ mega-p2p.net##a[href^="vpn"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 wawacity.su##a[onclick$="()"]
 degrouptest.com##a[onclick*="/resultspage/"]
-t411.bz,t411.ch,t411.la,t411.tv,torrent-411.com##a[onclick*="base64"]
+t411.bz,t411.ch,t411.la,t411.lt,t411.tv##a[onclick*="base64"]
 lien-torrent.com##a[onclick*="directlinks"]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
@@ -8244,7 +8246,7 @@ undernews.fr##img[width][height][alt$="VPN"]
 ici.tou.tv##li.bigBox
 sinfest.net##noscript a
 bonjourmadame.fr##object[width="728"][height="90"]
-t411.bz,t411.ch,t411.la,t411.tv##p[style="width: 400px; margin: 0 auto; color: darkorange"]
+t411.bz,t411.ch,t411.la,t411.lt,t411.tv##p[style="width: 400px; margin: 0 auto; color: darkorange"]
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
 omgtorrent.me##span > a:first-child
 mega-vesti.info,smartorrent.com##span[style^="cursor:pointer;"] > a
