@@ -1639,6 +1639,7 @@ _regie/clic.$popup
 ||pluginnetwork.net^$third-party
 ||plurielmediacenter.com^$third-party
 ||plusservicepartners.com^$third-party
+||plxnt.com^$third-party
 ||poala21.com^$third-party
 ||pocofh.com^$third-party
 ||poparb.com^$third-party
@@ -2229,6 +2230,7 @@ _regie/clic.$popup
 ||onclickpredictiv.com^$popup,third-party
 ||othip.info^$popup,third-party
 ||ouaitupeuxregarderenillimite.com^$popup,third-party
+||plxnt.com^$popup,third-party
 ||poptm.com^$popup,third-party
 ||popundertotal.com^$popup,third-party
 ||pornravage.com^$popup,third-party
@@ -2366,7 +2368,7 @@ _regie/clic.$popup
 .xyz^$domain=filmvf.ws|smartorrent.com
 ://*qertewrt.com^$popup
 |http://$subdocument,domain=a2r-media.com
-|http://$subdocument,third-party,domain=clictune.com
+|http://$subdocument,third-party,domain=clictune.com|e-wok.tv
 |http://*.online/*/|$script,third-party
 |http://*.xyz/*/|$script,third-party
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
@@ -2769,7 +2771,6 @@ _regie/clic.$popup
 ||kelformation.com/htm/*/habillage/
 ||kickstarter.com^$popup,domain=trictrac.net
 ||kidioui.fr^$subdocument,third-party
-||kiporn.com^$popup,domain=yourporno.fr
 ||kloopicash.com/upload/ban/
 ||kokinette.com/ban/$third-party
 ||kuma-film.com/wp-content/*.gif
@@ -3546,9 +3547,9 @@ uploaded.net##[class*="pico-"]
 |http://$subdocument,domain=aptclkzmoelfm.net|clictune.com|frmrfhvwpi.net|gpxibvwmjbo.net|lnzpbkeijlkmfdr.net|sa.ae|ubqgcbmrqjdcqn.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net
 ! popup & popunder
 text/html;base64$popup
-|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidto.me
+|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidto.me|yourporno.fr
 |http://$popup,third-party,domain=imagepearl.com|minutebuzz.com|speedvid.net
-|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidto.me
+|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|speedvid.net|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidto.me|yourporno.fr
 ! images hosting
 ||hostingpics.net/pics/*ban.png
 ||i.imgur.com/0mKekma.jpg
@@ -5150,7 +5151,6 @@ toutcash.com/images/bandeau-
 ||yeswefoot.com/annuaire.gif
 ||yimg.com/dh/ap/default/*/yahoolast.jpg
 ||yimg.com^*/default/*/Habillage_
-||yourporno.fr^*/pop.js
 ||z-barre.com/fonction/aff*.php
 ||za-gay.org^*/exit_pop_up.js
 ||zataz.com/cdn-cgi/pe/bag?
@@ -6343,6 +6343,7 @@ toutcash.com/images/bandeau-
 ##.reklama-box
 ##.reklamlink
 ##.remove_ads
+##.rightPub
 ##.rightRailAdContainer
 ##.right_advertissment
 ##.rigthpubvideo
@@ -6474,6 +6475,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://always-parser.xyz/"]
 ##a[href^="http://centredecontrole.biz/ads/"]
 ##a[href^="http://click.union.ucweb.com/"]
+##a[href^="http://clicks.totemcash.com/"]
 ##a[href^="http://fave.co/"]
 ##a[href^="http://freedowns.info/"]
 ##a[href^="http://givemeclip.com/"]
@@ -6641,6 +6643,7 @@ logicielmac.com###bloc-pub-centre
 aujourdhui-en-france.fr,leparisien.fr###blocMarketing
 mail.voila.fr,orange.fr###blocServices
 maisonbrico.com###blocSponsor
+yourporno.fr###bloc_partners + #content
 montelimar-news.fr###bloc_promos
 meteoconsult.fr###bloc_pub_sommaire_terrestre
 algerie360.com###bloc_pub_sprt
@@ -6904,6 +6907,7 @@ leboncoin.fr###oas-top1
 emule-island.ru###offerBox
 1fichier.co###openModal
 46.105.45.146###ourPartners
+e-wok.tv###overlay
 carrefour.fr###overlayBase
 gameblog.fr###overlayFnac
 forum-iphoneaddict.fr###p00
@@ -7162,7 +7166,7 @@ reverso.net##.adcontent
 gmx.fr,lebonguide.com##.add
 vinyculture.com##.addLink
 lejsl.com##.addPic
-actustar.com,aujourdhui-en-france.fr,boursier.com,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,freefoot.fr,hostinger.fr,htmlforums.com,internetparsatellite.net,jeune-independant.net,ldlc.com,leparisien.fr,lephpfacile.com,lequipe.fr,nolyo-tv.com,obturations.com,oujdacity.net,over-blog.com,raje.fr,replay.fr,scan-mx.com,sortiesdvd.com,stars-portraits.com,streaming-video3x.com,telesatellite.com,televiseurs.net,tonmanga.com,universalis.fr,uzinagaz.com,webstar-auto.com,webstar-electro.com,yourporno.fr##.ads
+actustar.com,aujourdhui-en-france.fr,boursier.com,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,freefoot.fr,hostinger.fr,htmlforums.com,internetparsatellite.net,jeune-independant.net,ldlc.com,leparisien.fr,lephpfacile.com,lequipe.fr,nolyo-tv.com,obturations.com,oujdacity.net,over-blog.com,raje.fr,replay.fr,scan-mx.com,sortiesdvd.com,stars-portraits.com,streaming-video3x.com,telesatellite.com,televiseurs.net,tonmanga.com,universalis.fr,uzinagaz.com,webstar-auto.com,webstar-electro.com##.ads
 artdeseduire.com##.ads-books
 artdeseduire.com##.ads-information
 cvya.dz##.ads-vert
@@ -8601,6 +8605,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 .adblocker.adblocker/
 /ad-blocking-advisor/*
 /ad-blocking-detector/*
+/adblock_blocked/*
 /adblockbait.js
 /adblockchecker.js
 /adblockDetector.js
@@ -8622,6 +8627,7 @@ _adblockdetector/
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdiscount.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|greys-anatomy-en-streaming.fr|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
+@@/advertisement.js$script,~third-party,domain=e-wok.tv
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|silicon.fr
 @@||195.154.104.$script,domain=multiup.org
 @@||1max2sms.com/blogads.css
