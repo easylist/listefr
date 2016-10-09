@@ -94,6 +94,7 @@
 .ads/banner/
 .adsearch.
 .adserverpub.$domain=~adserverpub.com
+.AdTech&
 .adtech.
 .adxcore.
 .asp?adv=
@@ -258,6 +259,7 @@
 /adslider.
 /adsmouse.
 /adsrvmedia/*
+/adstrack/*
 /adsw1.
 /adtube.js
 /adv/banners/*
