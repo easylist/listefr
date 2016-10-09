@@ -921,6 +921,7 @@ _waframedia_
 /servePopunder.$popup
 /smart_ad/*$popup
 /t/?*&clickid=$popup
+/traffic.*&click_id=$popup
 /trk/|$popup
 /unsub_aff.$popup
 ://pdv.$popup
@@ -2171,6 +2172,7 @@ _regie/clic.$popup
 ||kds.media^$popup,third-party
 ||keymeta.work^$popup,third-party
 ||ktrackdata.com^$popup,third-party
+||leadzu.com^$popup,third-party
 ||leadzupc.com^$popup,third-party
 ||linkredirect.biz^$popup,third-party
 ||lionsdrive.com^$popup,third-party
@@ -2297,6 +2299,7 @@ _regie/clic.$popup
 ||sushis.kim^$popup,third-party
 ||sv2.biz^$popup,third-party
 ||tag.regieci.com^$popup,third-party
+||tcblpromo.com^$popup,third-party
 ||teracreative.com^$popup,third-party
 ||terrapops.com^$popup,third-party
 ||terrapops.com^$third-party
@@ -2310,6 +2313,7 @@ _regie/clic.$popup
 ||top2016games.com^$popup,third-party
 ||torriderencontre.com^$popup,third-party
 ||track2cash.com^$popup,third-party
+||trackeoz.fr^$popup,third-party
 ||tracker.zombaio.com^$popup,third-party
 ||tracking.ecookie.fr^$popup,third-party
 ||trackor.net^$popup,third-party
@@ -4800,6 +4804,7 @@ toutcash.com/images/bandeau-
 ||sataid.net/banners/
 ||satlinker.dz/iso_album/partenaires_
 ||satmag.fr/pub/
+||saucissonsexe.com/wp-content/uploads/*.gif
 ||sbx.pagesjaunes.fr^
 ||scifi-movies.com/images/site/promo/
 ||scoopers.com/?o=$popup
@@ -6913,12 +6918,13 @@ gameblog.fr###overlayFnac
 forum-iphoneaddict.fr###p00
 cdiscount.com###paFooterPubPartner
 ouedkniss.com###page_interstitiel
+saucissonsexe.com###paragraphe
 aujourdhui-en-france.fr,leparisien.fr###parisien-partenaires
 geoflotte.com,judgehype.com,redlist-ultimate.be,soonnight.com###partenaire
 tube-teen.fr###partenaire_img
 tube-teen.fr###partenaire_link
 batiactu.com###partenaire_premium
-alalettre.com,fun-trades.com,hardware.fr,lemoteurdusexe.com,ouifm.fr,portail.free.fr,ucpa-vacances.com###partenaires
+alalettre.com,fun-trades.com,hardware.fr,lemoteurdusexe.com,ouifm.fr,portail.free.fr,saucissonsexe.com,ucpa-vacances.com###partenaires
 largus.fr###partenaires-aside
 letour.fr###partenaires2
 lexpress.fr###partenaires_crm
