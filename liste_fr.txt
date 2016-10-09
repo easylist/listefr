@@ -2208,6 +2208,7 @@ _regie/clic.$popup
 ||kds.media^$popup,third-party
 ||keymeta.work^$popup,third-party
 ||ktrackdata.com^$popup,third-party
+||large-format.net^$popup,third-party
 ||leadzu.com^$popup,third-party
 ||leadzupc.com^$popup,third-party
 ||linkredirect.biz^$popup,third-party
@@ -3586,9 +3587,9 @@ uploaded.net##[class*="pico-"]
 |http://$subdocument,domain=aptclkzmoelfm.net|clictune.com|frmrfhvwpi.net|gpxibvwmjbo.net|lnzpbkeijlkmfdr.net|sa.ae|ubqgcbmrqjdcqn.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net
 ! popup & popunder
 text/html;base64$popup
-|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|rapidvideo.ws|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidto.me|yourporno.fr
+|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|rapidvideo.ws|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidshare.me|vidshare.us|vidto.me|yourporno.fr
 |http://$popup,third-party,domain=imagepearl.com|minutebuzz.com|speedvid.net
-|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|rapidvideo.ws|speedvid.net|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidto.me|yourporno.fr
+|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|rapidvideo.ws|speedvid.net|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidshare.me|vidshare.us|vidto.me|yourporno.fr
 ! images hosting
 ||hostingpics.net/pics/*ban.png
 ||i.imgur.com/0mKekma.jpg
@@ -5218,7 +5219,7 @@ toutcash.com/images/bandeau-
 ! cloudfront.net
 ||cloudfront.net/_$script
 ||cloudfront.net/img/banner
-||cloudfront.net^$domain=1host.name|allvid.ch|bdupload.info|brain-magazine.fr|dailymotion.com|exashare.com|gighub.net|gorillavid.in|maquillage.com|openload.info|pausefun.com|pausepeople.com|revclouds.com|solidfiles.com|thewatchseries.to|toofy.tv|up09.com|uploadrocket.net|uplod.it|uptobox.com|wuxiaworld.com|youwatch.org
+||cloudfront.net^$domain=1host.name|allvid.ch|bdupload.info|brain-magazine.fr|dailymotion.com|exashare.com|gighub.net|gorillavid.in|letwatch.to|letwatch.us|maquillage.com|openload.info|pausefun.com|pausepeople.com|revclouds.com|solidfiles.com|thewatchseries.to|toofy.tv|up09.com|uploadrocket.net|uplod.it|uptobox.com|vidshare.me|vidshare.us|wuxiaworld.com|youwatch.org
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*tid=$script
 ||d13strl4lo8mtp.cloudfront.net^
