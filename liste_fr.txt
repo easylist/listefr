@@ -365,6 +365,7 @@
 /choixPubJS.
 /clash/ads/*
 /clash/banner-
+/click?adv=
 /click_lx.ads/*
 /click_update.php?id_pub=
 /clients-ads.
@@ -449,6 +450,7 @@
 /InjectPopunderAd.
 /inread_
 /inside_ad.
+/interstitial-ads.
 /ipvanish-300x250.
 /iwadserver.
 /jp_display.
@@ -3523,6 +3525,11 @@ uploaded.net##[class*="pico-"]
 |http://$script,third-party,xmlhttprequest,domain=hitek.fr
 |https://$script,third-party,xmlhttprequest,domain=hitek.fr
 ||hitek.fr^$popup,~third-party
+! sound-park.fr
+@@||sound-park.fr^$popup,~third-party
+|http://$script,third-party,xmlhttprequest,domain=sound-park.fr
+|https://$script,third-party,xmlhttprequest,domain=sound-park.fr
+||sound-park.fr/js/banner.js
 ! youwatch.org / exashare.com
 .bid/embed-$popup,third-party
 .space/embed-$popup,third-party
