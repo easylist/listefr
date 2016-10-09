@@ -1273,6 +1273,7 @@ _regie/clic.$popup
 ||cdxndirectopt.com^$third-party
 ||cdxnopt.com^$third-party
 ||charmix.com^$third-party
+||checkapi.xyz^$third-party
 ||chilican.com^$third-party
 ||citenkomedia.com^$third-party
 ||cityads.com^$third-party
@@ -2367,6 +2368,7 @@ _regie/clic.$popup
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com
 |http://*.online/*/|$script,third-party
+|http://*.xyz/*/|$script,third-party
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
 |http://go.*/|$script,third-party,domain=bid|space|xyz
 |http://go.*?zoneid=
