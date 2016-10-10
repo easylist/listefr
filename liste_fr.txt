@@ -1929,6 +1929,7 @@ _regie/clic.$popup
 ||zidor.info^$third-party
 ||zwaar.net^$third-party
 ! popads.net
+||csmqorveetie.com^
 ||fegyacmbobil.com^
 ||giojhiimnvwr.com^
 ||lgthvsytzwtc.com^
@@ -2414,6 +2415,7 @@ _regie/clic.$popup
 .ovh^$domain=huffingtonpost.fr|lemonde.fr|telerama.fr
 .xyz^$domain=filmvf.ws|smartorrent.com
 ://*qertewrt.com^$popup
+|blob:$domain=dragon-ball-super-streaming.com
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|e-wok.tv
 |http://*.online/*/|$script,third-party
@@ -2629,7 +2631,7 @@ _regie/clic.$popup
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
-||dailymotion.com^*autoplay=1$domain=anime301.com|bescherelletamere.fr|buzzutopia.com|hitek.fr|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|otakufr.com|pokemon-streaming.com|pokercast.tv|sonyoutube.com|stream4free.pro|youzapping.com
+||dailymotion.com^*autoplay=1$domain=anime301.com|bescherelletamere.fr|buzzutopia.com|dragon-ball-super-streaming.com|hitek.fr|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|otakufr.com|pokemon-streaming.com|pokercast.tv|sonyoutube.com|stream4free.pro|youzapping.com
 ||dailymotion.com^*mute=1$domain=captainmugiwara.over-blog.com
 ||damoh.schneevonmorgen.com^
 ||damtours.com/static/img/damtous_$third-party
@@ -3548,6 +3550,11 @@ _regie/clic.$popup
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=pokemon-streaming.com
 |http://$script,third-party,domain=pokemon-streaming.com
 |https://$script,third-party,domain=pokemon-streaming.com
+! dragon-ball-super-streaming.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=dailymotion.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=dragon-ball-super-streaming.com
+|http://$script,third-party,domain=dragon-ball-super-streaming.com
+|https://$script,third-party,domain=dragon-ball-super-streaming.com
 ! mavanime.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=mavanime.com
 |http://$script,third-party,domain=mavanime.com
