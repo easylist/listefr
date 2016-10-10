@@ -8415,6 +8415,7 @@ macg.co##article > a[-abp-properties='*'] > img
 ||xiti.com^$domain=lachainemeteo.com
 !
 planet.fr###block-sp-node-sp-node-videos-home + [class]
+planet.fr###block-sp-node-sp-node-videos-home + span > img
 femmesplus.fr###block-system-main + div > img
 femmesplus.fr,planet.fr###block-system-main + span > img
 medisite.fr###block-system-main > [id] > img
@@ -8439,6 +8440,7 @@ femmesplus.fr##.region-inner > div > img
 planet.fr##.region-inner.clearfix > div > img
 femmesplus.fr,planet.fr##.region-sidebar-first [class] > img
 femmesplus.fr,planet.fr##.region-sidebar-first [id] > img
+planet.fr##.region-sidebar-first span > img
 medisite.fr##[class] > img
 !
 !----------------------- Exceptions -----------------------!
