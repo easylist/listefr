@@ -8430,9 +8430,11 @@ planet.fr##.block-content + div > img
 medisite.fr##.block-gc-ad + [class] img
 medisite.fr##.block-gc-ad + [id] > :first-child > img
 femmesplus.fr##.block-views + div > img
+medisite.fr##.node-content img
 medisite.fr##.region > [id] > img
 medisite.fr##.region > a > img
 femmesplus.fr,medisite.fr##.region > div > img
+medisite.fr##.region > div img
 femmesplus.fr##.region-inner > div > img
 planet.fr##.region-inner.clearfix > div > img
 femmesplus.fr,planet.fr##.region-sidebar-first [class] > img
