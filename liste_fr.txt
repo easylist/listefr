@@ -1974,6 +1974,7 @@ _regie/clic.$popup
 ||weeth7o.bid^
 !
 ||checkapi.xyz^
+||coinsicmp.com^
 ||grumpyadzen.com^
 ||letadnew.com^
 ||rediamob.com^
@@ -2415,7 +2416,7 @@ _regie/clic.$popup
 .ovh^$domain=huffingtonpost.fr|lemonde.fr|telerama.fr
 .xyz^$domain=filmvf.ws|smartorrent.com
 ://*qertewrt.com^$popup
-|blob:$domain=dragon-ball-super-streaming.com
+|blob:$domain=dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|e-wok.tv
 |http://*.online/*/|$script,third-party
@@ -3436,8 +3437,8 @@ _regie/clic.$popup
 |http://$script,third-party,domain=voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
 |https://$script,third-party,domain=voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
 ! films-regarder.com
-|http://$script,third-party,domain=films-regarder.com|films-regarder.org
-|https://$script,third-party,domain=films-regarder.com|films-regarder.org
+|http://$script,third-party,domain=films-regarder.com|films-regarder.org|films-regarder.xyz
+|https://$script,third-party,domain=films-regarder.com|films-regarder.org|films-regarder.xyz
 ! ddlfr.org
 |http://$script,third-party,xmlhttprequest,domain=ddlfr.org
 |https://$script,third-party,xmlhttprequest,domain=ddlfr.org
@@ -8014,7 +8015,6 @@ mistergooddeal.com##a[href*="=H_pub_"]
 demo-gk.goyavelab.com##a[href*="?"]
 nouvelobs.com##a[href*="?partner="]
 challenges.fr,nouvelobs.com##a[href*="?partnerlinkid="]
-films-regarder.com,films-regarder.org##a[href*="?redirect_link="]
 jemangejemincis.fr##a[href*="?utm_campaign="]
 audiofanzine.com##a[href*="?utm_source="]
 deco-smart.com##a[href*="?utm_source=ds_shop"]
@@ -8095,7 +8095,7 @@ oujdacity.net##a[href^="http://ads.oujdacity.net/"]
 lotusnoir.info##a[href^="http://adv-myninja."]
 aidemu.fr##a[href^="http://aidemu.fr/pub/"]
 porno-mobile.ws##a[href^="http://anonym.to?"]
-films-regarder.com,films-regarder.org,telechargementz-streaming.com##a[href^="http://api.adlure.net/"]
+films-regarder.com,films-regarder.org,films-regarder.xyz,telechargementz-streaming.com##a[href^="http://api.adlure.net/"]
 torrent-avenue.com##a[href^="http://api.adlure.net/partner/click/"]
 challenges.fr##a[href^="http://assurance-emprunteur.challenges.fr/"]
 dhnet.be##a[href^="http://bf1.be/"] > img
@@ -8356,6 +8356,7 @@ annonces-dz.com##table[width="800"][height="115"]
 codeshttp.com##table[width="800"][height="118"]
 algeriatenders.com##tbody > tr[style="height:92px;"]
 trancegoa.org##td > .fb-like-box + br + .texteentete.taille2
+films-regarder.com,films-regarder.org,films-regarder.xyz##td > [align="left"] + [align="right"]
 depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
 miss34.com##td[style="height:99px; vertical-align:top; background:#ffffff"]
 people-looks.com##td[width="340"][height="265"][align="center"]
