@@ -833,8 +833,6 @@ _waframedia_
 .com.sa/ads?$popup
 .exclusiverewards.$popup
 .gamingaffiliation.$popup
-.info/*==|$popup,third-party
-.info/watch?key=$popup,third-party
 .loading-delivery2.$popup
 .popunder.$popup
 .promorewards.$popup
@@ -949,7 +947,10 @@ _regie/clic.$popup
 ||xmlsearch.*/click?$popup
 ! TLD popups
 ||bid^*&refer=$popup
-||bid^*watch?key=$popup
+||bid^*watch?key=$popup,third-party
+||info^*==|$popup,third-party
+||info^*watch?key=$popup,third-party
+||me^*==|$popup,third-party
 ||online^*&pid=$popup
 ||online^*&zone=$popup
 ||online^*&zoneid=$popup
@@ -2079,6 +2080,7 @@ _regie/clic.$popup
 ||affiliation-france.com^$popup,third-party
 ||affiliwix.com^$popup,third-party
 ||agkn.com^$popup,third-party
+||ai.me^$popup,third-party
 ||all2lnk.com^$popup,third-party
 ||ampxchange.com^$popup,third-party
 ||anytheengmedia.com^$popup,third-party
@@ -2107,6 +2109,7 @@ _regie/clic.$popup
 ||boeangranolith.bid^$popup,third-party
 ||booksuper.info^$popup,third-party
 ||buysellads.com^$popup,third-party
+||buzzadexchange.com^$popup,third-party
 ||bwinpartypartners.com^$popup,third-party
 ||cacheicdn.com^$popup,third-party
 ||camsympa.com^$popup,third-party
@@ -3578,8 +3581,8 @@ uploaded.net##[class*="pico-"]
 .bid/embed-$popup,third-party
 .space/embed-$popup,third-party
 .xyz/embed-$popup,third-party
-|http://$popup,domain=00365ine.xyz|0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|19a9xx7d.xyz|1jgvtb.info|1wskdbkp.xyz|2op1gr.xyz|373mupgp.xyz|3mbs0aup.xyz|3nddurjq.xyz|536xnecc.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|7825rwmq.xyz|7gxj7aiv.xyz|817k2qh9.xyz|8azpdgm8.xyz|939d5vez.xyz|95twcpky.xyz|99cavn.info|99cavn.xyz|a4ctx3yu.xyz|ajihezo.info|bcugtb2q.xyz|bikanika.info|bojem3a.info|c44aiwwu.xy|c44aiwwu.xyz|chefti.info|chouhaa.info|daweya.info|doyki.net|dt9vtzxq.xyz|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|ey2deiy7zun.bid|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|izs9hils.xyz|jgqh4dok.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|ld5myrsq.xyz|lkwlg7d3.xyz|lnei151w.xyz|lnxt1a.info|lnxt1a.xyz|m8ob5rnk.xyz|maliana.info|mazlote.info|mryu6y5n.xyz|msemen.info|n3b9n3ld.xyz|n8lx7uyz.xyz|nk14qx6e.xyz|nuyed0yg.xyz|o6tpiv6s.xyz|obzf5445.xyz|odein4ohxoh.com|oepqu4xd.xyz|oihk05sk.xyz|oogz4tdz.xyz|oojaiyo1feb.bid|os2p30yo.xyz|ph7hcp4u.xyz|pl2n1kjq.xyz|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|spashopaz.com|ssv1p3.xyz|st8vuu.xyz|swjxp05y.xyz|t24dtznm.xyz|teehiweing1.bid|tei48gpw.xyz|tikamika.info|tiziwezo.info|tozfike.info|u8t03284.xyz|u9un46i4.xyz|ugh8yepiech.space|ukn41v.xyz|ul1hdvdg.xyz|uroclm5d.xyz|uxp208ut.xyz|w3o8sq5x.xyz|w5drbgv6.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
-|http://$script,third-party,domain=00365ine.xyz|0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|19a9xx7d.xyz|1jgvtb.info|1wskdbkp.xyz|2op1gr.xyz|373mupgp.xyz|3mbs0aup.xyz|3nddurjq.xyz|536xnecc.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|7825rwmq.xyz|7gxj7aiv.xyz|817k2qh9.xyz|8azpdgm8.xyz|939d5vez.xyz|95twcpky.xyz|99cavn.info|99cavn.xyz|a4ctx3yu.xyz|ajihezo.info|bcugtb2q.xyz|bikanika.info|bojem3a.info|c44aiwwu.xy|c44aiwwu.xyz|chefti.info|chouhaa.info|daweya.info|doyki.net|dt9vtzxq.xyz|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|ey2deiy7zun.bid|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|izs9hils.xyz|jgqh4dok.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|ld5myrsq.xyz|lkwlg7d3.xyz|lnei151w.xyz|lnxt1a.info|lnxt1a.xyz|m8ob5rnk.xyz|maliana.info|mazlote.info|mryu6y5n.xyz|msemen.info|n3b9n3ld.xyz|n8lx7uyz.xyz|nk14qx6e.xyz|nuyed0yg.xyz|o6tpiv6s.xyz|obzf5445.xyz|odein4ohxoh.com|oepqu4xd.xyz|oihk05sk.xyz|oogz4tdz.xyz|oojaiyo1feb.bid|os2p30yo.xyz|ph7hcp4u.xyz|pl2n1kjq.xyz|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|spashopaz.com|ssv1p3.xyz|st8vuu.xyz|swjxp05y.xyz|t24dtznm.xyz|teehiweing1.bid|tei48gpw.xyz|tikamika.info|tiziwezo.info|tozfike.info|u8t03284.xyz|u9un46i4.xyz|ugh8yepiech.space|ukn41v.xyz|ul1hdvdg.xyz|uroclm5d.xyz|uxp208ut.xyz|w3o8sq5x.xyz|w5drbgv6.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
+|http://$popup,domain=00365ine.xyz|0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|19a9xx7d.xyz|1jgvtb.info|1wskdbkp.xyz|2op1gr.xyz|373mupgp.xyz|3mbs0aup.xyz|3nddurjq.xyz|536xnecc.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|7825rwmq.xyz|7gxj7aiv.xyz|817k2qh9.xyz|8azpdgm8.xyz|939d5vez.xyz|95twcpky.xyz|99cavn.info|99cavn.xyz|a4ctx3yu.xyz|ajihezo.info|bcugtb2q.xyz|bikanika.info|bojem3a.info|c44aiwwu.xy|c44aiwwu.xyz|chefti.info|chouhaa.info|daweya.info|doyki.com|doyki.net|dt9vtzxq.xyz|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|ey2deiy7zun.bid|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|izs9hils.xyz|jgqh4dok.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|ld5myrsq.xyz|lkwlg7d3.xyz|lnei151w.xyz|lnxt1a.info|lnxt1a.xyz|m8ob5rnk.xyz|maliana.info|mazlote.info|mryu6y5n.xyz|msemen.info|n3b9n3ld.xyz|n8lx7uyz.xyz|nk14qx6e.xyz|nuyed0yg.xyz|o6tpiv6s.xyz|obzf5445.xyz|odein4ohxoh.com|oepqu4xd.xyz|oihk05sk.xyz|oogz4tdz.xyz|oojaiyo1feb.bid|os2p30yo.xyz|ph7hcp4u.xyz|pl2n1kjq.xyz|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|spashopaz.com|ssv1p3.xyz|st8vuu.xyz|swjxp05y.xyz|t24dtznm.xyz|teehiweing1.bid|tei48gpw.xyz|tikamika.info|tiziwezo.info|tozfike.info|u8t03284.xyz|u9un46i4.xyz|ugh8yepiech.space|ukn41v.xyz|ul1hdvdg.xyz|uroclm5d.xyz|uxp208ut.xyz|w3o8sq5x.xyz|w5drbgv6.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
+|http://$script,third-party,domain=00365ine.xyz|0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|19a9xx7d.xyz|1jgvtb.info|1wskdbkp.xyz|2op1gr.xyz|373mupgp.xyz|3mbs0aup.xyz|3nddurjq.xyz|536xnecc.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|7825rwmq.xyz|7gxj7aiv.xyz|817k2qh9.xyz|8azpdgm8.xyz|939d5vez.xyz|95twcpky.xyz|99cavn.info|99cavn.xyz|a4ctx3yu.xyz|ajihezo.info|bcugtb2q.xyz|bikanika.info|bojem3a.info|c44aiwwu.xy|c44aiwwu.xyz|chefti.info|chouhaa.info|daweya.info|doyki.com|doyki.net|dt9vtzxq.xyz|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|ey2deiy7zun.bid|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|izs9hils.xyz|jgqh4dok.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|ld5myrsq.xyz|lkwlg7d3.xyz|lnei151w.xyz|lnxt1a.info|lnxt1a.xyz|m8ob5rnk.xyz|maliana.info|mazlote.info|mryu6y5n.xyz|msemen.info|n3b9n3ld.xyz|n8lx7uyz.xyz|nk14qx6e.xyz|nuyed0yg.xyz|o6tpiv6s.xyz|obzf5445.xyz|odein4ohxoh.com|oepqu4xd.xyz|oihk05sk.xyz|oogz4tdz.xyz|oojaiyo1feb.bid|os2p30yo.xyz|ph7hcp4u.xyz|pl2n1kjq.xyz|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|spashopaz.com|ssv1p3.xyz|st8vuu.xyz|swjxp05y.xyz|t24dtznm.xyz|teehiweing1.bid|tei48gpw.xyz|tikamika.info|tiziwezo.info|tozfike.info|u8t03284.xyz|u9un46i4.xyz|ugh8yepiech.space|ukn41v.xyz|ul1hdvdg.xyz|uroclm5d.xyz|uxp208ut.xyz|w3o8sq5x.xyz|w5drbgv6.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
 ||exashare.com^$subdocument,third-party
 ||youwatch.org^$subdocument,third-party
 ! 4nowvideo.com
@@ -3589,9 +3592,9 @@ uploaded.net##[class*="pico-"]
 |http://$subdocument,domain=aptclkzmoelfm.net|clictune.com|frmrfhvwpi.net|gpxibvwmjbo.net|lnzpbkeijlkmfdr.net|mcuzfdumqro.net|sa.ae|ubqgcbmrqjdcqn.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net
 ! popup & popunder
 text/html;base64$popup
-|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|rapidvideo.ws|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidshare.me|vidshare.us|vidto.me|yourporno.fr
+|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|rapidvideo.ws|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidshare.me|vidshare.us|vidto.me|vimple.me|yourporno.fr
 |http://$popup,third-party,domain=imagepearl.com|minutebuzz.com|speedvid.net
-|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|rapidvideo.ws|speedvid.net|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidshare.me|vidshare.us|vidto.me|yourporno.fr
+|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|rapidvideo.ws|speedvid.net|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidshare.me|vidshare.us|vidto.me|vimple.me|yourporno.fr
 ! images hosting
 ||hostingpics.net/pics/*ban.png
 ||i.imgur.com/0mKekma.jpg
