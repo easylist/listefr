@@ -2022,6 +2022,7 @@ _regie/clic.$popup
 ||104.238.188.$popup,third-party
 ||104.238.189.$popup,third-party
 ||108.61.209.24^$popup,third-party
+||130.211.198.$popup,third-party
 ||188.165.253.6^$popup,third-party
 ||19950501.com^$popup,third-party
 ||25.115.187.96^$popup,third-party
@@ -8418,6 +8419,8 @@ drague.net##tr > td[height="95"][align="center"][colspan="2"]
 gum-gum-streaming.com##ul + a[href*="?"]
 omgtorrent.me##ul > li[style*="padding:"]
 ! Éléments pour generichide
+extreme-down.co##a[href*="friendlyduck.com/AF_"]
+extreme-down.co##a[href^="http://www.xmediaserve.com/"]
 !
 ! goyavelab
 gum-gum-streaming.com##br + a:last-child
@@ -8837,6 +8840,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||dpseries.net^$generichide
 @@||ebanque-pdf.com^$generichide
 @@||entrepriseindividuelle.info^$elemhide
+@@||extreme-down.co^$generichide
 @@||h-img.xyz^$generichide
 @@||japan-shin.com^$generichide
 @@||japan-shin.info^$generichide
