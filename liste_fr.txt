@@ -1586,6 +1586,7 @@ _regie/clic.$popup
 ||netcomvad.com^$third-party
 ||netmediaeurope.com^$third-party
 ||netmediaeurope.fr^$third-party
+||netnet44.net^$third-party
 ||networkmanag.com^$third-party
 ||nile-ads.com^$third-party
 ||ninjapd.com^$third-party
@@ -2264,6 +2265,7 @@ _regie/clic.$popup
 ||mobisla.com^$popup,third-party
 ||mobusi.com^$popup,third-party
 ||mobutrafsrcms.com^$popup,third-party
+||modescrips.info^$popup,third-party
 ||monetizemytraffic.com^$popup,third-party
 ||monetizer.co^$popup,third-party
 ||monstersbird.info^$popup,third-party
@@ -3642,9 +3644,9 @@ uploaded.net##[class*="pico-"]
 |http://$subdocument,domain=aptclkzmoelfm.net|clictune.com|frmrfhvwpi.net|gpxibvwmjbo.net|lnzpbkeijlkmfdr.net|mcuzfdumqro.net|sa.ae|ubqgcbmrqjdcqn.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net
 ! popup & popunder
 text/html;base64$popup
-|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|auroravid.to|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.ws|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidshare.me|vidshare.us|vidto.me|vimple.me|yourporno.fr
+|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|auroravid.to|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.ws|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidshare.me|vidshare.us|vidto.me|vimple.me|xvidstage.com|yourporno.fr
 |http://$popup,third-party,domain=imagepearl.com|minutebuzz.com|speedvid.net
-|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|auroravid.to|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.ws|speedvid.net|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidshare.me|vidshare.us|vidto.me|vimple.me|yourporno.fr
+|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|auroravid.to|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.ws|speedvid.net|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidshare.me|vidshare.us|vidto.me|vimple.me|xvidstage.com|yourporno.fr
 ! images hosting
 ||hostingpics.net/pics/*468x60.
 ||hostingpics.net/pics/*ban.png
@@ -5279,7 +5281,7 @@ toutcash.com/images/bandeau-
 ||ztat.net^*/affiliate/
 ! cloudfront.net
 ||cloudfront.net/img/banner
-||cloudfront.net^$domain=1host.name|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|dailymotion.com|exashare.com|fas.li|gighub.net|gorillavid.in|letwatch.to|letwatch.us|maquillage.com|openload.info|pausefun.com|pausepeople.com|revclouds.com|solidfiles.com|thewatchseries.to|toofy.tv|up09.com|uploadrocket.net|uplod.it|uptobox.com|vidshare.me|vidshare.us|wuxiaworld.com|youwatch.org
+||cloudfront.net^$domain=1host.name|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|dailymotion.com|exashare.com|fas.li|gighub.net|gorillavid.in|letwatch.to|letwatch.us|maquillage.com|openload.info|pausefun.com|pausepeople.com|revclouds.com|solidfiles.com|thewatchseries.to|toofy.tv|up09.com|uploadrocket.net|uplod.it|uptobox.com|vidshare.me|vidshare.us|wuxiaworld.com|xvidstage.com|youwatch.org
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*tid=$script
 ||d13strl4lo8mtp.cloudfront.net^
@@ -5303,6 +5305,7 @@ toutcash.com/images/bandeau-
 ||d2b560qq58menv.cloudfront.net^
 ||d2ggw6du5pulet.cloudfront.net^
 ||d2gt9oovykfp1z.cloudfront.net^
+||d2is3w689nunba.cloudfront.net^
 ||d2kbaqwa2nt57l.cloudfront.net^
 ||d2mrcwg3epew1i.cloudfront.net^
 ||d2nje72ms8ylvb.cloudfront.net^
