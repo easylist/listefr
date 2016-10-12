@@ -954,6 +954,7 @@ _regie/clic.$popup
 ||info^*==|$popup,third-party
 ||info^*watch?key=$popup,third-party
 ||me^*==|$popup,third-party
+||online^*&campid=$popup
 ||online^*&pid=$popup
 ||online^*&zone=$popup
 ||online^*&zoneid=$popup
@@ -963,6 +964,7 @@ _regie/clic.$popup
 ||online^*?zoneid=$popup
 ||site^*?subid=$popup
 ||site^*?zoneid=$popup
+||space^*&pubid=$popup
 ||xyz^*&zone=$popup
 ||xyz^*&zoneid=$popup
 ||xyz^*==|$popup,third-party
