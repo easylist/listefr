@@ -83,6 +83,7 @@
 -banner728.
 -emarketplace.
 -popads_
+-pub-300x250.
 -pub-ads/
 -reklama-300x300.
 -viceads.
@@ -506,6 +507,7 @@
 /pmd-gdfp-server.
 /pop-ads.
 /pop.php?user=
+/pop/script.packed.
 /pop0.js|
 /popcall.js
 /popcashnet.js
@@ -1092,6 +1094,7 @@ _regie/clic.$popup
 ||adproxy2.com^$third-party
 ||adpub.eu^$third-party
 ||adqia.com^$third-party
+||adrelayer.com^$third-party
 ||adrife.com^$third-party
 ||ads-in-games.com^$third-party
 ||ads-metro.net^$third-party
@@ -6591,6 +6594,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://centredecontrole.biz/ads/"]
 ##a[href^="http://click.union.ucweb.com/"]
 ##a[href^="http://clicks.totemcash.com/"]
+##a[href^="http://clicks.toteme.com/"]
 ##a[href^="http://fave.co/"]
 ##a[href^="http://freedowns.info/"]
 ##a[href^="http://givemeclip.com/"]
