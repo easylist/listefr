@@ -509,6 +509,7 @@
 /pop.php?user=
 /pop/script.packed.
 /pop0.js|
+/pop?tid=
 /popcall.js
 /popcashnet.js
 /popun.*&random=
@@ -990,6 +991,7 @@ _regie/clic.$popup
 ||104.238.188.$script,third-party
 ||104.238.189.$script,third-party
 ||146.148.85.61^$third-party
+||178.162.205.67^$third-party
 ||188affiliates.com^$third-party
 ||198.16.64.66^$media,third-party
 ||19950501.com^$third-party
@@ -1177,6 +1179,7 @@ _regie/clic.$popup
 ||adwebmanager.com^$third-party
 ||adwidecenter.com^$third-party
 ||adwise.bg^$third-party
+||adx.io^$third-party
 ||adxite-advertising.com^$third-party
 ||adzmath.com^$third-party
 ||adzzone.com^$third-party
@@ -1344,6 +1347,7 @@ _regie/clic.$popup
 ||dekalee.fr^$third-party
 ||dekalee.net^$third-party
 ||deliv.prisma-presse.com^$third-party
+||deltax.com^$third-party
 ||dfast.net^$third-party
 ||dfp.host^$third-party
 ||dghf.ovh^$third-party
@@ -2087,6 +2091,7 @@ _regie/clic.$popup
 ||affilanity.com^$popup,third-party
 ||affiliation-france.com^$popup,third-party
 ||affiliwix.com^$popup,third-party
+||agisdayra.com^$popup,third-party
 ||agkn.com^$popup,third-party
 ||ai.me^$popup,third-party
 ||all2lnk.com^$popup,third-party
@@ -3309,6 +3314,7 @@ _regie/clic.$popup
 ||youtube.com^$popup,domain=abdelghanisat.kazeo.com|zevpn.net
 ||youtube.com^*autoplay=1$domain=esoxiste.com|hitek.fr|mon-compte.org|pokemon-streaming.com|soltanati.com|youzapping.com
 ||youtube2mp3.cc/p.php$popup
+||youwatch.org/make-money.html$popup,third-party
 ||yubee.free.fr/admin/bannieres/
 ||z51.biz/IBinnewz.aspx
 ||zalando.be^$popup,domain=heures.be
@@ -3625,9 +3631,9 @@ uploaded.net##[class*="pico-"]
 !.bid/embed-$popup,third-party
 !.space/embed-$popup,third-party
 !.xyz/embed-$popup,third-party
-|http://$popup,domain=00365ine.xyz|0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|19a9xx7d.xyz|1jgvtb.info|1wskdbkp.xyz|2op1gr.xyz|373mupgp.xyz|3mbs0aup.xyz|3nddurjq.xyz|536xnecc.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|7825rwmq.xyz|7gxj7aiv.xyz|817k2qh9.xyz|8azpdgm8.xyz|939d5vez.xyz|95twcpky.xyz|99cavn.info|99cavn.xyz|a4ctx3yu.xyz|ain8vahdeng.com|ajihezo.info|bcugtb2q.xyz|bikanika.info|bojem3a.info|c44aiwwu.xy|c44aiwwu.xyz|chefti.info|chouhaa.info|daweya.info|doyki.com|doyki.net|dt9vtzxq.xyz|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|ey2deiy7zun.bid|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|izs9hils.xyz|jgqh4dok.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|ld5myrsq.xyz|lkwlg7d3.xyz|lnei151w.xyz|lnxt1a.info|lnxt1a.xyz|m8ob5rnk.xyz|maliana.info|mazlote.info|moopei1ahc5.com|mryu6y5n.xyz|msemen.info|n3b9n3ld.xyz|n8lx7uyz.xyz|nk14qx6e.xyz|nuyed0yg.xyz|o6tpiv6s.xyz|obzf5445.xyz|odein4ohxoh.com|oepqu4xd.xyz|oihk05sk.xyz|oogz4tdz.xyz|oojaiyo1feb.bid|os2p30yo.xyz|ph7hcp4u.xyz|pl2n1kjq.xyz|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|smotretfilm.net|spashopaz.com|ssv1p3.xyz|st8vuu.xyz|swjxp05y.xyz|t24dtznm.xyz|teehiweing1.bid|tei48gpw.xyz|tie6eeghaoc.com|tikamika.info|tiziwezo.info|tozfike.info|twer.info|u8t03284.xyz|u9un46i4.xyz|ugh8yepiech.space|ui3que6gaex.com|ukn41v.xyz|ul1hdvdg.xyz|uroclm5d.xyz|uxp208ut.xyz|w3o8sq5x.xyz|w5drbgv6.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
-|http://$script,subdocument,third-party,domain=00365ine.xyz|0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|19a9xx7d.xyz|1jgvtb.info|1wskdbkp.xyz|2op1gr.xyz|373mupgp.xyz|3mbs0aup.xyz|3nddurjq.xyz|536xnecc.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|7825rwmq.xyz|7gxj7aiv.xyz|817k2qh9.xyz|8azpdgm8.xyz|939d5vez.xyz|95twcpky.xyz|99cavn.info|99cavn.xyz|a4ctx3yu.xyz|ain8vahdeng.com|ajihezo.info|bcugtb2q.xyz|bikanika.info|bojem3a.info|c44aiwwu.xy|c44aiwwu.xyz|chefti.info|chouhaa.info|daweya.info|doyki.com|doyki.net|dt9vtzxq.xyz|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|ey2deiy7zun.bid|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|izs9hils.xyz|jgqh4dok.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|ld5myrsq.xyz|lkwlg7d3.xyz|lnei151w.xyz|lnxt1a.info|lnxt1a.xyz|m8ob5rnk.xyz|maliana.info|mazlote.info|moopei1ahc5.com|mryu6y5n.xyz|msemen.info|n3b9n3ld.xyz|n8lx7uyz.xyz|nk14qx6e.xyz|nuyed0yg.xyz|o6tpiv6s.xyz|obzf5445.xyz|odein4ohxoh.com|oepqu4xd.xyz|oihk05sk.xyz|oogz4tdz.xyz|oojaiyo1feb.bid|os2p30yo.xyz|ph7hcp4u.xyz|pl2n1kjq.xyz|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|smotretfilm.net|spashopaz.com|ssv1p3.xyz|st8vuu.xyz|swjxp05y.xyz|t24dtznm.xyz|teehiweing1.bid|tei48gpw.xyz|tie6eeghaoc.com|tikamika.info|tiziwezo.info|tozfike.info|twer.info|u8t03284.xyz|u9un46i4.xyz|ugh8yepiech.space|ui3que6gaex.com|ukn41v.xyz|ul1hdvdg.xyz|uroclm5d.xyz|uxp208ut.xyz|w3o8sq5x.xyz|w5drbgv6.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
-|https://$script,subdocument,third-party,domain=00365ine.xyz|0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|19a9xx7d.xyz|1jgvtb.info|1wskdbkp.xyz|2op1gr.xyz|373mupgp.xyz|3mbs0aup.xyz|3nddurjq.xyz|536xnecc.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|7825rwmq.xyz|7gxj7aiv.xyz|817k2qh9.xyz|8azpdgm8.xyz|939d5vez.xyz|95twcpky.xyz|99cavn.info|99cavn.xyz|a4ctx3yu.xyz|ain8vahdeng.com|ajihezo.info|bcugtb2q.xyz|bikanika.info|bojem3a.info|c44aiwwu.xy|c44aiwwu.xyz|chefti.info|chouhaa.info|daweya.info|doyki.com|doyki.net|dt9vtzxq.xyz|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|ey2deiy7zun.bid|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|izs9hils.xyz|jgqh4dok.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|ld5myrsq.xyz|lkwlg7d3.xyz|lnei151w.xyz|lnxt1a.info|lnxt1a.xyz|m8ob5rnk.xyz|maliana.info|mazlote.info|moopei1ahc5.com|mryu6y5n.xyz|msemen.info|n3b9n3ld.xyz|n8lx7uyz.xyz|nk14qx6e.xyz|nuyed0yg.xyz|o6tpiv6s.xyz|obzf5445.xyz|odein4ohxoh.com|oepqu4xd.xyz|oihk05sk.xyz|oogz4tdz.xyz|oojaiyo1feb.bid|os2p30yo.xyz|ph7hcp4u.xyz|pl2n1kjq.xyz|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|smotretfilm.net|spashopaz.com|ssv1p3.xyz|st8vuu.xyz|swjxp05y.xyz|t24dtznm.xyz|teehiweing1.bid|tei48gpw.xyz|tie6eeghaoc.com|tikamika.info|tiziwezo.info|tozfike.info|twer.info|u8t03284.xyz|u9un46i4.xyz|ugh8yepiech.space|ui3que6gaex.com|ukn41v.xyz|ul1hdvdg.xyz|uroclm5d.xyz|uxp208ut.xyz|w3o8sq5x.xyz|w5drbgv6.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
+|http://$popup,domain=00365ine.xyz|0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|19a9xx7d.xyz|1jgvtb.info|1wskdbkp.xyz|2op1gr.xyz|373mupgp.xyz|3mbs0aup.xyz|3nddurjq.xyz|536xnecc.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|7825rwmq.xyz|7gxj7aiv.xyz|817k2qh9.xyz|8azpdgm8.xyz|939d5vez.xyz|95twcpky.xyz|99cavn.info|99cavn.xyz|a4ctx3yu.xyz|ain8vahdeng.com|ajihezo.info|bcugtb2q.xyz|bikanika.info|bojem3a.info|c44aiwwu.xy|c44aiwwu.xyz|chefti.info|chouhaa.info|daweya.info|doyki.com|doyki.net|dt9vtzxq.xyz|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|ey2deiy7zun.bid|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|ieghang7ahc.com|izs9hils.xyz|jgqh4dok.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|ld5myrsq.xyz|lkwlg7d3.xyz|lnei151w.xyz|lnxt1a.info|lnxt1a.xyz|m8ob5rnk.xyz|maliana.info|mazlote.info|moopei1ahc5.com|mryu6y5n.xyz|msemen.info|n3b9n3ld.xyz|n8lx7uyz.xyz|nk14qx6e.xyz|nuyed0yg.xyz|o6tpiv6s.xyz|obzf5445.xyz|odein4ohxoh.com|oepqu4xd.xyz|oihk05sk.xyz|oogz4tdz.xyz|oojaiyo1feb.bid|os2p30yo.xyz|ph7hcp4u.xyz|pl2n1kjq.xyz|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|smotretfilm.net|spashopaz.com|ssv1p3.xyz|st8vuu.xyz|swjxp05y.xyz|t24dtznm.xyz|teehiweing1.bid|tei48gpw.xyz|tie6eeghaoc.com|tikamika.info|tiziwezo.info|tozfike.info|twer.info|u8t03284.xyz|u9un46i4.xyz|ugh8yepiech.space|ui3que6gaex.com|ukn41v.xyz|ul1hdvdg.xyz|uroclm5d.xyz|uteephaero5.com|uxp208ut.xyz|w3o8sq5x.xyz|w5drbgv6.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
+|http://$script,subdocument,third-party,domain=00365ine.xyz|0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|19a9xx7d.xyz|1jgvtb.info|1wskdbkp.xyz|2op1gr.xyz|373mupgp.xyz|3mbs0aup.xyz|3nddurjq.xyz|536xnecc.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|7825rwmq.xyz|7gxj7aiv.xyz|817k2qh9.xyz|8azpdgm8.xyz|939d5vez.xyz|95twcpky.xyz|99cavn.info|99cavn.xyz|a4ctx3yu.xyz|ain8vahdeng.com|ajihezo.info|bcugtb2q.xyz|bikanika.info|bojem3a.info|c44aiwwu.xy|c44aiwwu.xyz|chefti.info|chouhaa.info|daweya.info|doyki.com|doyki.net|dt9vtzxq.xyz|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|ey2deiy7zun.bid|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|ieghang7ahc.com|izs9hils.xyz|jgqh4dok.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|ld5myrsq.xyz|lkwlg7d3.xyz|lnei151w.xyz|lnxt1a.info|lnxt1a.xyz|m8ob5rnk.xyz|maliana.info|mazlote.info|moopei1ahc5.com|mryu6y5n.xyz|msemen.info|n3b9n3ld.xyz|n8lx7uyz.xyz|nk14qx6e.xyz|nuyed0yg.xyz|o6tpiv6s.xyz|obzf5445.xyz|odein4ohxoh.com|oepqu4xd.xyz|oihk05sk.xyz|oogz4tdz.xyz|oojaiyo1feb.bid|os2p30yo.xyz|ph7hcp4u.xyz|pl2n1kjq.xyz|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|smotretfilm.net|spashopaz.com|ssv1p3.xyz|st8vuu.xyz|swjxp05y.xyz|t24dtznm.xyz|teehiweing1.bid|tei48gpw.xyz|tie6eeghaoc.com|tikamika.info|tiziwezo.info|tozfike.info|twer.info|u8t03284.xyz|u9un46i4.xyz|ugh8yepiech.space|ui3que6gaex.com|ukn41v.xyz|ul1hdvdg.xyz|uroclm5d.xyz|uteephaero5.com|uxp208ut.xyz|w3o8sq5x.xyz|w5drbgv6.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
+|https://$script,subdocument,third-party,domain=00365ine.xyz|0fa8elhb.xyz|13hbbqju.xyz|195en2b1.xyz|19a9xx7d.xyz|1jgvtb.info|1wskdbkp.xyz|2op1gr.xyz|373mupgp.xyz|3mbs0aup.xyz|3nddurjq.xyz|536xnecc.xyz|5yfqce.xyz|6krv195h.xyz|6ltchp.info|6ltchp.xyz|7825rwmq.xyz|7gxj7aiv.xyz|817k2qh9.xyz|8azpdgm8.xyz|939d5vez.xyz|95twcpky.xyz|99cavn.info|99cavn.xyz|a4ctx3yu.xyz|ain8vahdeng.com|ajihezo.info|bcugtb2q.xyz|bikanika.info|bojem3a.info|c44aiwwu.xy|c44aiwwu.xyz|chefti.info|chouhaa.info|daweya.info|doyki.com|doyki.net|dt9vtzxq.xyz|e4brgi.info|erd9x4.info|erd9x4.xyz|erkp87.xyz|euc4gt.xyz|ewazid.info|exashare.com|ey2deiy7zun.bid|f55r4a.info|fem3sz.info|gctix126.xyz|ghmxo6c8.xyz|gm0ez9.xyz|gmjzn7e3.xyz|gzxo4wno.xyz|h3pgejtw.xyz|hadikla.info|haouzy.info|hehahe.info|hrid938r.xyz|i6w8lo3q.xyz|ieghang7ahc.com|izs9hils.xyz|jgqh4dok.xyz|k05g2d.info|k05g2d.xyz|kechekch.info|kerkessni.info|khaltek.info|ld5myrsq.xyz|lkwlg7d3.xyz|lnei151w.xyz|lnxt1a.info|lnxt1a.xyz|m8ob5rnk.xyz|maliana.info|mazlote.info|moopei1ahc5.com|mryu6y5n.xyz|msemen.info|n3b9n3ld.xyz|n8lx7uyz.xyz|nk14qx6e.xyz|nuyed0yg.xyz|o6tpiv6s.xyz|obzf5445.xyz|odein4ohxoh.com|oepqu4xd.xyz|oihk05sk.xyz|oogz4tdz.xyz|oojaiyo1feb.bid|os2p30yo.xyz|ph7hcp4u.xyz|pl2n1kjq.xyz|pnp28n.xyz|qgt13b.info|qu76rs.info|qu76rs.xyz|rienlol.info|s147gs.xyz|s9wlo05n.xyz|sidek.info|sikafika.info|sirgoleha.info|sj7k0zq4.xyz|slpw6kdx.xyz|smed79.info|smotretfilm.net|spashopaz.com|ssv1p3.xyz|st8vuu.xyz|swjxp05y.xyz|t24dtznm.xyz|teehiweing1.bid|tei48gpw.xyz|tie6eeghaoc.com|tikamika.info|tiziwezo.info|tozfike.info|twer.info|u8t03284.xyz|u9un46i4.xyz|ugh8yepiech.space|ui3que6gaex.com|ukn41v.xyz|ul1hdvdg.xyz|uroclm5d.xyz|uteephaero5.com|uxp208ut.xyz|w3o8sq5x.xyz|w5drbgv6.xyz|w76loqfc.xyz|wvvn1bew.xyz|youwatch.org|ywhah.info|z7ilika.info|zycosg8u.xyz
 !||exashare.com^$subdocument,third-party
 !||youwatch.org^$subdocument,third-party
 ! 4nowvideo.com
@@ -5312,6 +5318,7 @@ toutcash.com/images/bandeau-
 ||d2skqnrxz11esv.cloudfront.net^
 ||d2w88er3oa79h8.cloudfront.net^
 ||d2xcimzl9ytdi0.cloudfront.net^
+||d2xsy1lxezptdm.cloudfront.net^
 ||d2ymkpxi1rgldj.cloudfront.net^
 ||d2yyf02s9xqns0.cloudfront.net^
 ||d2zc7uilftxw71.cloudfront.net^
@@ -5327,11 +5334,13 @@ toutcash.com/images/bandeau-
 ||d3mcf0n3hvvfk4.cloudfront.net^
 ||d3oyytf0n6db9a.cloudfront.net^
 ||d3pphfzjkpjgfn.cloudfront.net^
+||d3rmeear8e0ybo.cloudfront.net^
 ||d42tbok7l2bg1.cloudfront.net^
 ||d5z42oph1suk.cloudfront.net^
 ||d7gqsdo66itj3.cloudfront.net^
 ||d9rj2sdxjer5v.cloudfront.net^
 ||ddfnmo6ev4fd.cloudfront.net^
+||dercaktgexxus.cloudfront.net^
 ||dfzenk6ej1plw.cloudfront.net^
 ||diqdel92t4na6.cloudfront.net^
 ||dk2mvwe4uw0z3.cloudfront.net^
