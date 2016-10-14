@@ -136,6 +136,7 @@
 .php?format=728x90
 .php?id=*&ref=$script,third-party
 .php?img_adv=
+.php?redirect_
 .php?style=160x600-
 .php?style=300x250-
 .php?style=468x60-
@@ -327,6 +328,8 @@
 /banner728.
 /banner?*&domain=
 /banner?sid=
+/banner_adv.
+/banner_adv2.
 /banner_campaign_
 /banner_show.
 /bannerad2300.
@@ -1611,6 +1614,7 @@ _regie/clic.$popup
 ||num-link.ru^$third-party
 ||nyyed.com^$third-party
 ||obhodsb.com^$third-party
+||octopuspop.com^$third-party
 ||oftrau54.com^$third-party
 ||ohmyad.co^$third-party
 ||onclickrev.com^$third-party
@@ -1641,6 +1645,7 @@ _regie/clic.$popup
 ||payglad.com^$third-party
 ||paygladplayer.com^$third-party
 ||payreadydistinctive.xyz^$third-party
+||pee-puu-see.com^$third-party
 ||perabetads.com^$third-party
 ||peritas247.info^$third-party
 ||pgflow.com^$third-party
@@ -2166,6 +2171,7 @@ _regie/clic.$popup
 ||download-epic4u.com^$popup,third-party
 ||download366.net^$popup,third-party
 ||downloadext.com^$popup,third-party
+||downloadplayer1.com^$popup,third-party
 ||downloatransfer.com^$popup,third-party
 ||dubshub.com^$popup,third-party
 ||dynsrvaba.com^$popup,third-party
@@ -2536,6 +2542,7 @@ _regie/clic.$popup
 ||assurland.com/widgets/$third-party
 ||astrill.com/bnrs/
 ||astroportail.com/images/pubastro4.gif
+||asumi.shinobi.jp^
 ||atlassbx.com^$domain=dailymotion.com
 ||atoowin.com/images/diffusion/
 ||autosurf-tranquille.fr/upload/bannieres/
@@ -3930,7 +3937,7 @@ toutcash.com/images/bandeau-
 ||classistatic.com^*/img/*_Kijiji_AD_
 ||clictune.com/?ref=$subdocument
 ||clubpoker.net/medias/images/club-poker/habillages/
-||cochoncoquin.com/templates/arfooo/images/pornkif.com-
+||cochoncoquin.com/templates/arfooo/images/pornkif.com
 ||coco.fr/chat/bigban
 ||code-promo.01net.com/widget/
 ||codeposte.com/pub/
@@ -6606,6 +6613,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://toroadvertisingmedia.com"]
 ##a[href^="http://www.affiliation-france.com/"]
 ##a[href^="http://www.allopass.com/"] > img
+##a[href^="http://www.downloadplayer1.com/"]
 ##a[href^="http://www.easyflirt-partners.biz"]
 ##a[href^="http://www.espace-plus.net/"]
 ##a[href^="http://www.fducks.com/"]
