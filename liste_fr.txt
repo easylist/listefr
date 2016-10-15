@@ -3238,6 +3238,7 @@ _regie/clic.$popup
 ||trc.emv2.com^
 ||tripadvisor.*/partner/$third-party
 ||tripadvisor.*/PriceFinderPopunder$popup
+||tripadvisor.*/WidgetEmbed-*&partnerId=
 ||tripleclicks.com^$subdocument
 ||trouart.fr/labo/
 ||tudou.com^$subdocument
@@ -4483,7 +4484,6 @@ toutcash.com/images/bandeau-
 ||lensois.com/wp-content/uploads/*/BMW-
 ||lensois.com/wp-content/uploads/*/LE-FIL-INFO-
 ||lensois.com/wp-content/uploads/*/MINI-
-||leparisien.fr/*-img/$xmlhttprequest
 ||leparisien.fr/manchettepub/
 ||leparisien.fr^*/partenaires/
 ||lepetiteconomiste.com^*/swf_banniere_
@@ -7735,6 +7735,7 @@ youpinet.com##.partner-listing
 rtl.fr##.partner-mdl
 phpboost.com##.partner-picture
 caci.dz,lavenir.net,nintendo-master.com##.partners
+leparisien.fr##.partners__lpbox-container
 gameblog.fr##.pave300
 fourchette-et-bikini.fr##.pavePub
 grands-reportages.com,montagnes-magazine.com##.pavepub
@@ -8022,6 +8023,7 @@ ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
+leparisien.fr##[class*="ads-"]
 film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.nu,libre-stream.com,planet-streaming.com,vfilmze.com##[class^="PapaGoo"]
 footnamurois.com##[class^="banners-"]
 jeu.info##[class^="banniere-"]
@@ -8036,7 +8038,7 @@ mega-vesti.info##[href^="http://mega-vesti.info/telecharger-torrent/"]
 meilleur-vpn.biz##[href^="http://meilleur-vpn.biz/visit/"]
 smartorrent.com##[href^="http://smartorrent.com/telecharger-torrent/"]
 turbo.fr##[id^="ABbypass"]
-aujourdhui-en-france.fr,leparisien.fr##[id^="Ads_"]
+aujourdhui-en-france.fr##[id^="Ads_"]
 film-streamingvk.com,film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.nu,libre-stream.com,planet-streaming.com,vfilmze.com,youwatchfilm.net##[id^="PapaGoo"]
 footnamurois.com##[id^="banners-"]
 egora.fr##[id^="block-gmsante_pub-"]
