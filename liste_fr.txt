@@ -3670,6 +3670,7 @@ uploaded.net##[class*="pico-"]
 ! images hosting
 ||hostingpics.net/pics/*468x60.
 ||hostingpics.net/pics/*ban.png
+||hostpic.org^$domain=fdesouche.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
 ||i.imgur.com/qC2Tc51.png
@@ -8245,6 +8246,7 @@ mega-vesti.info,smartorrent.com,t411.bz,t411.ch,t411.la,t411.lt,t411.tv,wawacity
 cdiscount.com##a[href^="https://tracking.cdiscount.com/tracker.ashx?"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
 t411.bz,t411.ch,t411.la,t411.lt,t411.tv##a[href^="https://www.amazon.com/"]
+fdesouche.com##a[href^="https://www.amazon.fr/"]
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
 credit-agricole.fr##a[href^="https://www.onatousuncotefoot.fr/"]
 undernews.fr##a[href^="https://www.undernews.fr/redirect/"]
@@ -8845,7 +8847,7 @@ _adblockdetector/
 @@||wakanim.tv^*/video/advertisement?idepisode=
 !
 leveldown.fr#@##adblock
-bleachmx.co,fdesouche.com#@##adsense
+bleachmx.co#@##adsense
 toplien.fr#@#.AdvertContainer
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
 commentcamarche.net,journaldesfemmes.com#@#.text_ads
@@ -8867,6 +8869,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||ebanque-pdf.com^$generichide
 @@||entrepriseindividuelle.info^$elemhide
 @@||extreme-down.co^$generichide
+@@||fdesouche.com^$generichide
 @@||h-img.xyz^$generichide
 @@||japan-shin.com^$generichide
 @@||japan-shin.info^$generichide
