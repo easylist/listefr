@@ -3681,9 +3681,9 @@ uploaded.net##[class*="pico-"]
 ! popup & popunder
 |data*text/html*base64$popup
 |data*text/html*script$popup
-|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|auroravid.to|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.ws|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vimple.me|wholecloud.net|xvidstage.com|yourporno.fr
+|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|auroravid.to|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.ws|streamplay.to|t411.lt|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vimple.me|wholecloud.net|xvidstage.com|yourporno.fr
 |http://$popup,third-party,domain=imagepearl.com|minutebuzz.com|speedvid.net
-|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|auroravid.to|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.ws|speedvid.net|streamplay.to|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vimple.me|wholecloud.net|xvidstage.com|yourporno.fr
+|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|auroravid.to|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.ws|speedvid.net|streamplay.to|t411.lt|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vimple.me|wholecloud.net|xvidstage.com|yourporno.fr
 ! images hosting
 ||hostingpics.net/pics/*468x60.
 ||hostingpics.net/pics/*ban.png
@@ -8098,12 +8098,14 @@ leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
 artdeseduire.com##a[href*="/?part=ads"]
 webactus.net##a[href*="/?utm_source="]
 sosvirus.net##a[href*="/affiliate-"] > img
+t411.lt##a[href*="/download/"]
 espritlib.com##a[href*="/goto_part.php?"]
 nouvelobs.com##a[href*="/les-bons-plans-shopping/"]
 planet-series.tv##a[href*="/offer?"]
 euro-2016-france.net##a[href*="/parier/"]
 centre-audition.com,easyzic.com,info-algerie.com##a[href*="/redirect."]
 heures.be##a[href*="/regarder/"]
+t411.lt##a[href*="/signup/"]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
 ddl-island.su,emule-island.ru,stream-island.su##a[href*="/xxx/"]
 rtl.be##a[href*="://ad.doubleclick.net/"]
