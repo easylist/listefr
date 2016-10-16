@@ -8436,9 +8436,9 @@ medialot.fr##img[height="38"][width="300"]
 forum-windows.com##img[height="60"][width="650"]
 forum-windows.com##img[height="600"][width="160"]
 dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
+youwatch-series.com##img[src*="base64"]
 nextinpact.com##img[src*="data:image/png;base64,"]
 playfrance.com##img[src="http://images.playfrance.com/v4/blank_1x1.gif"]
-youwatch-series.com##img[src^="data:image/png;base64,"]
 sortir.eu##img[src^="http://www.lille.sortir.eu/portal_banneradmin/"]
 zataz.com##img[style="border: 0px solid ; width: 300px; height: 250px;"]
 zataz.com##img[style="border: 0px solid; width: 300px; height: 250px;"]
@@ -8464,6 +8464,7 @@ t411.bz,t411.ch,t411.la,t411.lt,t411.tv##p[style="width: 400px; margin: 0 auto; 
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
 omgtorrent.me##span > a:first-child
 mega-vesti.info,smartorrent.com##span[style^="cursor:pointer;"] > a
+idowatch.net##style + [onclick]
 boursorama.com##style + div > .visible-desktop:first-child
 boursorama.com##sup.main[style="display: block;"]
 netbusiness-team.com##table[background="../img/banner/pub_verticale.gif"]
