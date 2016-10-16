@@ -4667,6 +4667,7 @@ toutcash.com/images/bandeau-
 ||mensuelautomobile.com/files/banners/
 ||mensup.fr/*/pub/
 ||mensup.fr/jeux-concours/$third-party
+||mensup.fr/photo_cc/
 ||mes-dialogues.net^*/gaysize.gif
 ||mesbagages.com/images/habillage/
 ||mesbagages.com/images/pub/
@@ -6634,6 +6635,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://adprovider."]
 ##a[href^="http://ads.affiliation-france.com/"]
 ##a[href^="http://ads.reflexcash.com/"]
+##a[href^="http://ads.wui.fr/"]
 ##a[href^="http://adv-mybankai.ggcorp.me/"]
 ##a[href^="http://always-parser.xyz/"]
 ##a[href^="http://centredecontrole.biz/ads/"]
@@ -7761,7 +7763,7 @@ lachainemeteo.com##.partenaire_simple_home
 lachainemeteo.com##.partenaire_triple
 boursorama.com,caradisiac.com,ficam.ma,lesechos.fr,lfp.fr,mangario.fr,nouvelobs.com,sexandtrash.com##.partenaires
 nouvelobs.com##.partenaires-services
-gameblog.fr,lexpress.fr,swissquote.ch##.partner
+gameblog.fr,lexpress.fr,mensup.fr,swissquote.ch##.partner
 topsante.com##.partner-block
 lequotidiendumedecin.fr##.partner-container
 youpinet.com##.partner-listing
