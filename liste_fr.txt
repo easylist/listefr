@@ -959,6 +959,8 @@ _regie/clic.$popup
 ! TLD popups
 ||bid^*&refer=$popup
 ||bid^*watch?key=$popup,third-party
+||data.*.com^*=$popup,third-party
+||data.*.info^*=$popup,third-party
 ||info^*==|$popup,third-party
 ||info^*watch?key=$popup,third-party
 ||me^*==|$popup,third-party
@@ -4182,6 +4184,7 @@ toutcash.com/images/bandeau-
 ||filmon-ads.com^$popup
 ||filmoviez.com/wp-content/plugins/social-traffic-pop/
 ||films-ddl.net/domabar.js
+||filmstreaming-hd.com/promo/
 ||filmstreaming1.com/templates/filmstreaming/images/pub
 ||fitshr.net/pg.php
 ||flam.me/*/divers/partners/
@@ -8140,6 +8143,7 @@ jemangejemincis.fr##a[href*="?utm_campaign="]
 audiofanzine.com##a[href*="?utm_source="]
 deco-smart.com##a[href*="?utm_source=ds_shop"]
 jds.fr##a[href*="_clic.php?"]
+filmstreaming-hd.com##a[href*="base64"]
 metaboli.fr##a[href*="gametap.com/convergence/?"]
 fourchette-et-bikini.fr##a[href*="go2cloud.org/aff_c?"]
 dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-de-l-en-galerant-sur-le.html"]
