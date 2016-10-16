@@ -3597,9 +3597,8 @@ _regie/clic.$popup
 |http://$script,third-party,domain=film-streamingvk.com
 |https://$script,third-party,domain=film-streamingvk.com
 ! gum-gum-streaming.com
-|http://$popup,script,xmlhttprequest,domain=gum-gum-streaming.com
-|http://*/|$image,domain=gum-gum-streaming.com
-|https://$popup,script,xmlhttprequest,domain=gum-gum-streaming.com
+|http://$popup,script,subdocument,xmlhttprequest,domain=gum-gum-streaming.com
+|https://$popup,script,subdocument,xmlhttprequest,domain=gum-gum-streaming.com
 ! mangas-fr.com (goyavelab)
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=mangas-fr.com
 |http://$script,third-party,xmlhttprequest,domain=mangas-fr.com
@@ -8095,6 +8094,7 @@ amvtv.net##[style*="position: absolute; z-index: 99999"]
 xooit.com##[style*="z-index: 99999999; height: 92px; width: 100%;"]
 boursorama.com##[style="width: 1000px; margin: 0px auto; min-width: 0px; min-height: 90px; display: block;"]
 forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding:15px"]
+gum-gum-streaming.com##[title] + .wrap > a
 basket-infos.com##a > img[alt^="Pub"]
 medialot.fr##a > img[height="250"]
 fourchette-et-bikini.fr##a > img[style="width: 660px; height: 190px;"]
@@ -8493,6 +8493,7 @@ telesatellite.com##td[width="728"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 gum-gum-streaming.com##ul + a[href*="?"]
+gum-gum-streaming.com##ul + span
 omgtorrent.me##ul > li[style*="padding:"]
 ! Éléments pour generichide
 extreme-down.co##a[href*="friendlyduck.com/AF_"]
