@@ -498,6 +498,7 @@
 /panel_regie/*
 /par_46860_
 /pariez-h728.
+/partners.js?location=
 /partners.php?id=
 /partners/ads-
 /partners/rotator.
@@ -637,6 +638,7 @@
 /search_caf.php?
 /secure-ads.
 /servepop.php?wid=
+/shareaholic.js
 /shared/ad/*
 /show.php?*&ad=
 /show_adv.
@@ -1772,6 +1774,7 @@ _regie/clic.$popup
 ||sexyxxx.biz^$third-party
 ||sezonlukdizi.com^$third-party
 ||shabakti.com^$third-party
+||shareaholic.com^$third-party
 ||shink.in^$script,third-party
 ||shoppingate.info^$third-party
 ||shoppytab.com^$third-party
@@ -6546,6 +6549,11 @@ toutcash.com/images/bandeau-
 ##.search_publicity_box
 ##.search_square_publicity
 ##.separepub
+##.shareaholic-ad
+##.shareaholic-ad-content
+##.shareaholic-canvas
+##.shareaholic-dis-ad-col-2
+##.shareaholic-dis-ad-contains-2
 ##.shopperAds
 ##.show-pub
 ##.show_banner_bottom_leaderboard
