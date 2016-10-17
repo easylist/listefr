@@ -166,6 +166,7 @@
 /72890.js|
 /728x090_
 /728x300-banner.
+/728X90px_
 /?placement=*&async$script
 /?placement=*&redirect
 /?redirect&placement=
@@ -578,6 +579,7 @@
 /pub_html5/*
 /pub_smart.js
 /pub_smart_js.
+/pub_title.
 /pub_ver.
 /pubAdv.
 /pubde2.
@@ -6951,6 +6953,7 @@ forumfr.com###firstpost_ad
 liberte-algerie.com###flash[style="width:980px; margin:auto; position:relative;"]
 sport-team.org###floatLayer
 streaming-foot.me###floatLayer1
+mobilealgerie.com###floatdiv
 cinemavf.net,vfstreaminggratuit.com###floatlayer2
 algeriepatriotique.com###flottante_droite
 algeriepatriotique.com###flottante_gauche
@@ -7004,7 +7007,6 @@ mobiles-actus.com###header3
 autojdid.com###header72890
 lalibre.be###headerRelook
 auto-utilitaire.com###header_3
-mobilealgerie.com###header_3_banner
 lefaso.net###header_content_banner
 lyonmag.com###header_empl
 intellego.fr###header_top
@@ -8352,6 +8354,7 @@ gamekult.com##article[style="background-color: rgba(0, 0, 0, 0.06);padding: 30px
 tchatche.com##banner
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 telesatellite.com##body > [id^="a"]
+mobilealgerie.com##body > a > img
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 igen.fr##br + div + div + div
