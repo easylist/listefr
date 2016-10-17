@@ -8112,7 +8112,6 @@ amvtv.net##[style*="position: absolute; z-index: 99999"]
 xooit.com##[style*="z-index: 99999999; height: 92px; width: 100%;"]
 boursorama.com##[style="width: 1000px; margin: 0px auto; min-width: 0px; min-height: 90px; display: block;"]
 forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding:15px"]
-gum-gum-streaming.com##[title] + .wrap > a
 basket-infos.com##a > img[alt^="Pub"]
 medialot.fr##a > img[height="250"]
 fourchette-et-bikini.fr##a > img[style="width: 660px; height: 190px;"]
@@ -8510,24 +8509,29 @@ mon-ordi.com##td[width="567"]
 telesatellite.com##td[width="728"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
-gum-gum-streaming.com##ul + a[href*="?"]
-gum-gum-streaming.com##ul + span
 omgtorrent.me##ul > li[style*="padding:"]
-! Éléments pour generichide
-extreme-down.co##a[href*="friendlyduck.com/AF_"]
-extreme-down.co##a[href^="http://www.xmediaserve.com/"]
-!
 ! goyavelab
+gum-gum-streaming.com###footer + a[href*="/?"]
+gum-gum-streaming.com##[html] + div > span
+gum-gum-streaming.com##[id*="adblock"]
+gum-gum-streaming.com##[title] + .wrap > a
 gum-gum-streaming.com##br + a:last-child
 gum-gum-streaming.com##div > br + center
 gum-gum-streaming.com##div > p + span
-gum-gum-streaming.com##div[id^="adblock"]
+gum-gum-streaming.com##div > ul + p
+gum-gum-streaming.com##h3 + .wrap > div
+gum-gum-streaming.com##h3 + div > span
 gum-gum-streaming.com##script + div > a
 gum-gum-streaming.com##script + div > div
 gum-gum-streaming.com##script + div > p
 gum-gum-streaming.com##script + div > span
 gum-gum-streaming.com##style + a
 gum-gum-streaming.com##style + center > a
+gum-gum-streaming.com##ul + a[href*="?"]
+gum-gum-streaming.com##ul + span
+! Éléments pour generichide
+extreme-down.co##a[href*="friendlyduck.com/AF_"]
+extreme-down.co##a[href^="http://www.xmediaserve.com/"]
 ! Filtres de propriété CSS pour Adblock Plus
 igen.fr##.article > div + [class] [id]:last-child[-abp-properties='background-image:*;']
 macg.co##.article > div > div > [class]:last-child[-abp-properties='background-image:*;']
