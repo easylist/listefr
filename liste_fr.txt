@@ -3974,7 +3974,7 @@ toutcash.com/images/bandeau-
 ||cbmanga.fr/images/pubs/
 ||cci.fr/sites/default/files/src/pub/
 ||cciaf.org/typo3temp/_processed_/csm_
-||cdiscount.com/imagesok/tetiere/partners/
+||cdiscount.com/imagesok/*/partners/
 ||cdiscount.com/include/css/op_skin/
 ||cdmail.fr//pro/Images/ban_
 ||cdmail.fr/bandeau/
@@ -6971,7 +6971,6 @@ viamichelin.be,viamichelin.com###gdhMegaBanBottom
 numerama.com###general_dec
 pagesjaunes.fr###goodDealsArea
 zero-complexe.com###google
-cdiscount.com###hMall
 bdgest.com,bedetheque.com###hab_click
 banques-en-ligne.fr,bd-sanctuary.com,bioalaune.com,c8.fr,canalplus.fr,cine-sanctuary.com,comics-sanctuary.com,ffeminin.com,gamer-network.fr,lequipement.fr,manga-sanctuary.com,nrj.fr###habillage
 minutebuzz.com###habillage-lightout
@@ -7674,6 +7673,7 @@ idf1.fr##.jcarousel
 jdubuzz.com,journaldugamer.com,journaldugeek.com,pixelistes.com##.jdg-recommend
 lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.jobsregions
 trovit.fr##.js-loadPremium
+cdiscount.com##.jsNoPrdtBloc
 allocine.fr##.jtp
 lemonde.fr##.la_centrale
 ergor.org##.ladypub
@@ -7700,6 +7700,7 @@ click-fr.com##.loc
 msn.com##.logo > a[target="_blank"] > img[width="300"]
 mavieencouleurs.fr##.logo-brand
 caradisiac.com##.logosPartenaires
+cdiscount.com##.lpTradeRegie
 maisonapart.com##.map_fond_pub
 maisonapart.com##.map_pdp_pub
 parlonspiscine.com##.margin_bottom[style="padding:5px;border:1px solid #8F8F8F;border-radius:5px 0px 5px 0px;box-shadow: 0px 0px 10px #000000;"]
@@ -7919,6 +7920,7 @@ imobie.fr##.rec_download
 lemonde.fr##.reco_cross_site_outbrain
 gonzai.com##.red-one-third
 lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.references
+cdiscount.com##.regBloc
 jds.fr##.regie_20
 igen.fr,macg.co,watchgeneration.fr##.region-pubheader
 jeux-e.com##.rek_ban
@@ -8307,7 +8309,6 @@ clubic.com##a[href^="https://clk.tradedoubler.com/"]
 frenchweb.fr##a[href^="https://experiences.microsoft.fr/"]
 lefigaro.fr##a[href^="https://go.babbel.com/"]
 mega-vesti.info,smartorrent.com,t411.bz,t411.ch,t411.la,t411.lt,t411.tv,wawacity.su##a[href^="https://tr.im/"]
-cdiscount.com##a[href^="https://tracking.cdiscount.com/tracker.ashx?"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
 t411.bz,t411.ch,t411.la,t411.lt,t411.tv##a[href^="https://www.amazon.com/"]
 fdesouche.com##a[href^="https://www.amazon.fr/"]
@@ -8852,7 +8853,7 @@ _adblockdetector/
 @@.png#$image,domain=bbstreaming.com|crash-aerien.aero|ddstream.com|dpstream.cc|leetgamerz.net|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net|youwatch-series.com
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
-@@/advertisement.js$script,domain=bricozone.fr|cdiscount.com|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|greys-anatomy-en-streaming.fr|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
+@@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|greys-anatomy-en-streaming.fr|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
 @@/advertisement.js$script,~third-party,domain=e-wok.tv|quoverbis.com
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|silicon.fr
 @@||195.154.104.$script,domain=multiup.org
@@ -8867,6 +8868,7 @@ _adblockdetector/
 @@||badibadou.eu/*.js?auto=$script,third-party
 @@||bizhentai.com/*.js|$script,third-party
 @@||c.ad6media.fr/l.js$domain=eternitygames.org|fan-de-cinema.com|fit.sh|programmes-cinema.com
+@@||cdscdn.com/Js/advertise.js$script
 @@||cpagrip.com/script_include.php?
 @@||d.adxcore.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||doubleverify.com^$domain=kissanime.com
