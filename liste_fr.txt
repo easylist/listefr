@@ -4608,6 +4608,7 @@ toutcash.com/images/bandeau-
 ||mappy.com/services/annoncesjaunes/
 ||marianne.net/photo/background-
 ||marmiton.org/partenaires/
+||marmiton.org^*=|
 ||matchendirect.fr/image/tux/
 ||matchendirect.fr/tux/habillage/$popup
 ||materiel.net*^/catbanner/
@@ -8423,10 +8424,9 @@ lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 igen.fr,macg.co##header + a[target="_blank"]
-aufeminin.com##iframe[style]
+aufeminin.com,marmiton.org##iframe[style]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
-marmiton.org##iframe[width]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
 medialot.fr##img[height="38"][width="300"]
 forum-windows.com##img[height="60"][width="650"]
