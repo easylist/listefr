@@ -3840,7 +3840,7 @@ toutcash.com/images/bandeau-
 ||ats.dz/img/partenaires/
 ||ats.dz/slider2.html
 ||audioz.download/other/$script
-||aufeminin.com^*=|$subdocument,~third-party
+||aufeminin.com^*=|
 ||aujourdhui-en-france.fr/manchettepub/
 ||aujourdhui-en-france.fr/scripts/*/adblock_
 ||aujourdhui-en-france.fr^*/partenaires/
@@ -8420,6 +8420,7 @@ lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 igen.fr,macg.co##header + a[target="_blank"]
+aufeminin.com##iframe[style]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 marmiton.org##iframe[width]
