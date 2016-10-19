@@ -791,7 +791,8 @@ _smads_
 _Social-Advert-
 _waframedia_
 ||com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com|~visuels.l214.com
-!
+! TLD websocket
+|ws://*.site./*/|$other
 ! CDN filters
 /cdn-cgi/pe/bag2?*/adServe/*
 /cdn-cgi/pe/bag2?*?tid=
