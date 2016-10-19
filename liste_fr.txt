@@ -307,7 +307,7 @@
 /article/ads/*
 /async?*&tid=
 /b728x90a.
-/backend_loader.js|$script,~third-party
+/backend_loader.js
 /ban/*/300x250
 /ban160.js
 /ban300.js
@@ -422,7 +422,7 @@
 /fr-ads.
 /fra/ads/*
 /frame_popup.
-/frontend_loader.js$script
+/frontend_loader.js
 /gestionpub/*
 /get.cgi?*=banner
 /get_banniere.php?$subdocument
@@ -632,7 +632,7 @@
 /sales/*_leaderboard_
 /sam-pro-free/*
 /sas-banner-
-/script.packed.js
+/script.packed.
 /script/pop.php?id=
 /scriptPub.
 /scriptPub_
@@ -915,6 +915,7 @@ _waframedia_
 /popunderoncl.$popup
 /popuplp/btag/*$popup
 /promos/popeachclick/*$popup
+/pu2redirector.$popup
 /puopen.php?$popup
 /random.php$popup
 /redir/k.php?r=$popup
@@ -1168,6 +1169,7 @@ _regie/clic.$popup
 ||adtech.com^$third-party
 ||adten.eu^$third-party
 ||adtify.pl^$third-party
+||adtomafusion.net^$third-party
 ||adtracking.asia^$third-party
 ||adtraffic.pl^$third-party
 ||adtrafic.com^$third-party
@@ -6027,6 +6029,7 @@ toutcash.com/images/bandeau-
 ##.adavert-center
 ##.adbanner600active
 ##.adbloc
+##.adblock-spot
 ##.adbvert
 ##.adcarousel
 ##.addblock
