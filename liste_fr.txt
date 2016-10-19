@@ -322,6 +322,7 @@
 /Banner-Tag-
 /banner/*/sponsored?
 /banner/*?site_id=
+/banner/?id_affilie=
 /banner/ads-
 /banner300.
 /banner468-
@@ -1732,6 +1733,7 @@ _regie/clic.$popup
 ||rarenok.biz^$third-party
 ||rbpcomponents.info^$third-party
 ||rdv5a7.com^$third-party
+||reactads.com^$third-party
 ||reactivpub.com^$third-party
 ||reactivpub.fr^$third-party
 ||rebelmouse.com^$third-party
@@ -2082,6 +2084,7 @@ _regie/clic.$popup
 ||adextrem.com^$popup,third-party
 ||adfection.net^$popup,third-party
 ||adfornet.com^$popup,third-party
+||adglare.net^$popup,third-party
 ||adhoc1.net^$popup,third-party
 ||adit-media.com^$popup,third-party
 ||adjux.com^$popup,third-party
@@ -3229,6 +3232,7 @@ _regie/clic.$popup
 ||streaminger.tv/ad*.
 ||sublinet.com/www/public/images/*/72890_$third-party
 ||suelaba.net^*/banners/
+||super-virals.com^$subdocument
 ||surf-malin.net^*/upload/bannieres/
 ||surf-report-shop.com^$popup,domain=surf-report.com
 ||surfaddict.fr^*/images/surfaddict_
@@ -3682,7 +3686,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14
 |blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |http://$popup,script,third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 ! linkbucks.com
-|http://$subdocument,domain=aptclkzmoelfm.net|clictune.com|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|lnzpbkeijlkmfdr.net|mcuzfdumqro.net|sa.ae|ubqgcbmrqjdcqn.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net
+|http://$subdocument,domain=aptclkzmoelfm.net|clictune.com|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|lnzpbkeijlkmfdr.net|mcuzfdumqro.net|mnjsowaj.net|sa.ae|ubqgcbmrqjdcqn.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net
 ! popup & popunder
 |about:blank$popup,third-party
 |data*text/html*base64$popup
