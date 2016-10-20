@@ -3609,8 +3609,10 @@ _regie/clic.$popup
 |http://$script,third-party,xmlhttprequest,domain=youwatch-series.com
 |https://$script,third-party,xmlhttprequest,domain=youwatch-series.com
 ! cacastream.com
-|http://$script,third-party,xmlhttprequest,domain=cacastream.com
-|https://$script,third-party,xmlhttprequest,domain=cacastream.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=twstream.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=twstream.com
+|http://$script,third-party,xmlhttprequest,domain=cacastream.com|twstream.com
+|https://$script,third-party,xmlhttprequest,domain=cacastream.com|twstream.com
 ! dpstream.net
 |http://$script,third-party,xmlhttprequest,domain=dpstream.net
 |https://$script,third-party,xmlhttprequest,domain=dpstream.net
@@ -3940,7 +3942,6 @@ toutcash.com/images/bandeau-
 ||ca-sudrhonealpes.fr/content/binary/*_fond_
 ||ca-sudrhonealpes.fr/content/binary/*_promo_
 ||ca-sudrhonealpes.fr/content/binary/habillage_
-||cacastream.com/video-300x250.php
 ||cache.itele.fr/content/skins/$image
 ||caci.dz/files/banner/
 ||cadremploi.fr/emploi/jsp/include/home/bloc_promos.jsp
@@ -5206,6 +5207,7 @@ toutcash.com/images/bandeau-
 ||tvcom.be/images/stories/bannierespub/
 ||tvcom.be/index.php?option=com_content&view=article&id=
 ||twodollarclick.com/earnbanner.php?
+||twstream.com/video-300x250.php
 ||uhit.eu/uhit.html
 ||undernews.fr/*/hip-2015_300.gif
 ||undernews.fr/*/NDH_2k15.gif
@@ -8179,7 +8181,7 @@ zetorrents.com##a[href*="porno"]
 beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com,sports.fr##a[href*="smartadserver.com/call/cliccommand/"]
 mega-vesti.info,smartorrent.com##a[href*="tonlive.com"]
 lucariostream.eu##a[href*="univers-saiyan.com/"]
-cacastream.com,ddstream.com,youwatch-series.com##a[href*="xmediaserve"]
+ddstream.com,twstream.com,youwatch-series.com##a[href*="xmediaserve"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 speedvid.net##a[href="#"][onclick]
 corobizar.com##a[href="/g2a-link/"]
@@ -8323,7 +8325,7 @@ windsurfjournal.com##a[href^="link,"]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 manga-news.com##a[href^="redirection.php?"]
-cacastream.com,ddstream.com,youwatch-series.com##a[href^="streaming-series"]
+ddstream.com,twstream.com,youwatch-series.com##a[href^="streaming-series"]
 mega-p2p.net##a[href^="vpn"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 wawacity.su##a[onclick$="()"]
@@ -8563,7 +8565,7 @@ femmesplus.fr,medisite.fr,planet.fr##[-abp-properties='cursor: pointer;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 nextinpact.com##[-abp-properties='height: 250px;']
 igen.fr##[-abp-properties='height: 61*px;']
-cacastream.com,ddstream.com,protect-stream.com,youwatch-series.com##[-abp-properties='opacity: *;']
+ddstream.com,protect-stream.com,youwatch-series.com##[-abp-properties='opacity: *;']
 igen.fr,macg.co##[-abp-properties='padding-bottom: 50*px;']
 nextinpact.com##[-abp-properties='width: 300px;']
 igen.fr##[-abp-properties='width: 31*px;']
