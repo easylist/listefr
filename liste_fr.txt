@@ -3615,6 +3615,7 @@ _regie/clic.$popup
 |http://$script,third-party,xmlhttprequest,domain=dpstream.net
 |https://$script,third-party,xmlhttprequest,domain=dpstream.net
 ! dpseries.net
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=dpseries.net
 |http://$script,third-party,xmlhttprequest,domain=dpseries.net
 |https://$script,third-party,xmlhttprequest,domain=dpseries.net
 ! greys-anatomy-en-streaming.fr
