@@ -2512,7 +2512,6 @@ _regie/clic.$popup
 ||achetezfacile.com^*/widget.$third-party
 ||achetezfacile.com^*/widgets/$third-party
 ||ad.apps.fm^$popup
-||ad.doubleclick.net^$popup,domain=minutebuzz.com
 ||ad.genybet.fr^
 ||ad.net-c.com^
 ||ad.prismamediadigital.com^
@@ -3704,7 +3703,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14
 |data*text/html*base64$popup
 |data*text/html*script$popup
 |http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|auroravid.to|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.ws|streamplay.to|t411.lt|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vimple.me|wholecloud.net|xvidstage.com|yourporno.fr
-|http://$popup,third-party,domain=imagepearl.com|minutebuzz.com|speedvid.net
+|http://$popup,third-party,domain=imagepearl.com|speedvid.net
 |https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|auroravid.to|dailyuploads.net|e-wok.tv|flash-x.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.ws|speedvid.net|streamplay.to|t411.lt|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vimple.me|wholecloud.net|xvidstage.com|yourporno.fr
 ! images hosting
 ||hostingpics.net/pics/*468x60.
@@ -4604,7 +4603,6 @@ toutcash.com/images/bandeau-
 ||lyonmag.com/medias/habillages/
 ||ma-dz.com/souq/templates/aimed/images/hhes1112.jpg
 ||ma-reduc.com/img/meahabillage/
-||ma.minutebuzz.com/js/tracker.js
 ||macbidouille.com/banners/
 ||madcine.com/xhtml/pubd*.html
 ||maddyness.com/wp-content/uploads/2016/05/serre-numerique-maddyness.jpg
@@ -4960,7 +4958,6 @@ toutcash.com/images/bandeau-
 ||s-sfr.fr^*/pubns.
 ||s-sfr.fr^*/pubsa.
 ||s-sfr.fr^*/sky160navmulti.json?
-||s.minutebuzz.com/i/*-BG.jpg
 ||s.psg.fr/psg/file/*/pmu*.jpg
 ||sainte-marie-mineral.com/img/pub_
 ||sataid.net/banners/
@@ -6827,7 +6824,6 @@ espritlib.com###banniere_partenaire
 toutcash.com###banniere_top
 free.fr###banshopping1
 jeux-gratuits.com###barre-partenaires
-minutebuzz.com###bg
 tennisactu.net###bgclicable
 neomag.fr###big-ad
 gizmodo.fr###big-mega
@@ -6977,7 +6973,6 @@ pagesjaunes.fr###goodDealsArea
 zero-complexe.com###google
 bdgest.com,bedetheque.com###hab_click
 banques-en-ligne.fr,bd-sanctuary.com,bioalaune.com,c8.fr,canalplus.fr,cine-sanctuary.com,comics-sanctuary.com,ffeminin.com,gamer-network.fr,lequipement.fr,manga-sanctuary.com,nrj.fr###habillage
-minutebuzz.com###habillage-lightout
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-right
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-top
 autobip.com,ouedkniss.com###habillage_a
@@ -7917,7 +7912,6 @@ cci.fr,inovaovao.com,tennisactu.net##.pubs
 orangeinfo.fr##.pubside
 web-tricheur.net##.pubtexte
 jeuxflash.com##.pull-left
-minutebuzz.com##.push
 nouvelobs.com##.r89-partenariats--vertical
 souk.ma##.rbanner-wrap
 annuaire-inverse-france.com##.rborderpurple
@@ -8053,7 +8047,6 @@ excel-pratique.com##.vba_300
 souk.ma##.vbanner-wrap
 largus.fr##.vendreAvecLargus
 aujourdhui-en-france.fr##.venteprivee
-minutebuzz.com##.vhtml5
 d8.tv##.video-preroll
 amateur2sexe.fr,pornovore.fr##.video-pub
 geste.fr##.view-id-partenaires
