@@ -2478,7 +2478,6 @@ _regie/clic.$popup
 |http://$subdocument,third-party,domain=clictune.com|e-wok.tv
 |http://*.online/*/|$script,third-party
 |http://*.xyz/*/|$script,third-party
-|http://*?cache=$domain=lcd-compare.com
 |http://go.*/|$script,third-party,domain=bid|space|xyz
 |http://po.st^$popup,domain=almountakhab.com
 |ws://$other,domain=dpstream.net
@@ -4478,6 +4477,8 @@ toutcash.com/images/bandeau-
 ||lc2international.tv/contenus/images/nasuba-
 ||lc2international.tv/images/banners/
 ||lc2international.tv/video/pub-
+||lcd-compare.com/images/*?cache=
+||lcd-compare.com/images/main/*/pub.png
 ||le1er.net/pub-
 ||le2minutes.com/pub/
 ||leboncoin.fr^*/*-habillage-
