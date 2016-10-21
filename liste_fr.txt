@@ -704,6 +704,8 @@
 ://banners3.$third-party
 ://bannieres.
 ://eacash.
+://go.*&zoneid=
+://go.*?zoneid=
 ://imads.
 ://soads.
 ://vykingad.
@@ -2468,7 +2470,6 @@ _regie/clic.$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
-&proxyurl=$domain=allmyvideos.net|amvtv.net|vidspot.net
 .ovh^$domain=huffingtonpost.fr|lemonde.fr|telerama.fr
 .xyz^$domain=filmvf.ws|smartorrent.com
 ://*qertewrt.com^$popup
@@ -2479,11 +2480,9 @@ _regie/clic.$popup
 |http://*.xyz/*/|$script,third-party
 |http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
 |http://go.*/|$script,third-party,domain=bid|space|xyz
-|http://go.*?zoneid=
 |http://po.st^$popup,domain=almountakhab.com
 |ws://$other,domain=dpstream.net
 |wss://$other,domain=dpstream.net
-||xyz/script/*.php?*&r=*&ab=$script
 !
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
