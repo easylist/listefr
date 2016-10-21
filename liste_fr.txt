@@ -8893,6 +8893,7 @@ _adblockdetector/
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pub-config/ca-pub-*.js$domain=bricozone.fr
 @@||pagefair.com/static/adblock_detection/js/$script,third-party
+@@||partage-facile.com/*ad$script,xmlhttprequest
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=7sur7.be|f1i.com
 @@||pla.folue.info/needes.js$script
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
@@ -8951,7 +8952,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||minutefacile.com^$elemhide
 @@||mon-ip.com^$elemhide
 @@||naruto-mx.net^$elemhide
-@@||partage-facile.com^$elemhide
+@@||partage-facile.com^$generichide
 @@||phonandroid.com^$generichide
 @@||rapidebrideur.com^$elemhide
 @@||seriehentai.com^$elemhide
