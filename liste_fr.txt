@@ -2478,7 +2478,7 @@ _regie/clic.$popup
 |http://$subdocument,third-party,domain=clictune.com|e-wok.tv
 |http://*.online/*/|$script,third-party
 |http://*.xyz/*/|$script,third-party
-|http://*?cache=$domain=electromenager-compare.com|homecine-compare.com|lcd-compare.com
+|http://*?cache=$domain=homecine-compare.com|lcd-compare.com
 |http://go.*/|$script,third-party,domain=bid|space|xyz
 |http://po.st^$popup,domain=almountakhab.com
 |ws://$other,domain=dpstream.net
@@ -4125,6 +4125,8 @@ toutcash.com/images/bandeau-
 ||elahmad.com/ads/
 ||elahmad.com/js/extreme.js
 ||electromagazine.fr/images/banners/
+||electromenager-compare.com/images/*?cache=
+||electromenager-compare.com/images/main/*/pub.png
 ||elevage-poules.com/Images/matpoules.gif
 ||elgoual.com/images/banners/
 ||elhayatonline.net/IMG/300x600.gif
