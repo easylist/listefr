@@ -3587,10 +3587,10 @@ _regie/clic.$popup
 |http://$script,third-party,xmlhttprequest,domain=enstreaming.tv
 |https://$script,third-party,xmlhttprequest,domain=enstreaming.tv
 ! ddstream.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=ddstream.com|streaming-films.tv|streaming-series.to
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=ddstream.com|streaming-films.tv|streaming-series.to
-|http://$script,third-party,xmlhttprequest,domain=ddstream.com|streaming-films.tv|streaming-series.to
-|https://$script,third-party,xmlhttprequest,domain=ddstream.com|streaming-films.tv|streaming-series.to
+@@||ajax.googleapis.com/ajax/libs/$script,domain=ddstream.com|streaming-films.tv|streaming-series.to|youwatch-series.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=ddstream.com|streaming-films.tv|streaming-series.to|youwatch-series.com
+|http://$script,third-party,xmlhttprequest,domain=ddstream.com|streaming-films.tv|streaming-series.to|youwatch-series.com
+|https://$script,third-party,xmlhttprequest,domain=ddstream.com|streaming-films.tv|streaming-series.to|youwatch-series.com
 ! film-streamingvk.com
 @@||cdnjs.cloudflare.com/ajax/libs/$stylesheet,domain=film-streamingvk.com
 |http://$script,third-party,domain=film-streamingvk.com
@@ -3602,10 +3602,6 @@ _regie/clic.$popup
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=mangas-fr.com
 |http://$script,third-party,xmlhttprequest,domain=mangas-fr.com
 |https://$script,third-party,xmlhttprequest,domain=mangas-fr.com
-! youwatch-series.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=youwatch-series.com
-|http://$script,third-party,xmlhttprequest,domain=youwatch-series.com
-|https://$script,third-party,xmlhttprequest,domain=youwatch-series.com
 ! cacastream.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=twstream.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=twstream.com
@@ -8177,7 +8173,7 @@ zetorrents.com##a[href*="porno"]
 beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com,sports.fr##a[href*="smartadserver.com/call/cliccommand/"]
 mega-vesti.info,smartorrent.com##a[href*="tonlive.com"]
 lucariostream.eu##a[href*="univers-saiyan.com/"]
-streaming-series.to,twstream.com,youwatch-series.com##a[href*="xmediaserve"]
+streaming-series.to,twstream.com##a[href*="xmediaserve"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 speedvid.net##a[href="#"][onclick]
 corobizar.com##a[href="/g2a-link/"]
@@ -8236,7 +8232,6 @@ seedpeer.eu##a[href^="/usenet.php?"]
 kerix.net##a[href^="LienExterne.asp?"]
 ladepeche.pf##a[href^="ads/"]
 skitour.fr##a[href^="divers/annonces/out.php?"]
-youwatch-series.com##a[href^="dpstream.php?"]
 toplien.fr##a[href^="http://action.metaffiliation.com/trk.php?"]
 boursorama.com##a[href^="http://ads."]
 oujdacity.net##a[href^="http://ads.oujdacity.net/"]
@@ -8321,7 +8316,7 @@ windsurfjournal.com##a[href^="link,"]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 manga-news.com##a[href^="redirection.php?"]
-streaming-series.to,twstream.com,youwatch-series.com##a[href^="streaming-series"]
+streaming-series.to,twstream.com##a[href^="streaming-series"]
 mega-p2p.net##a[href^="vpn"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 wawacity.su##a[onclick$="()"]
@@ -8460,7 +8455,6 @@ medialot.fr##img[height="38"][width="300"]
 forum-windows.com##img[height="60"][width="650"]
 forum-windows.com##img[height="600"][width="160"]
 dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
-youwatch-series.com##img[src*="base64"]
 nextinpact.com##img[src*="data:image/png;base64,"]
 playfrance.com##img[src="http://images.playfrance.com/v4/blank_1x1.gif"]
 sortir.eu##img[src^="http://www.lille.sortir.eu/portal_banneradmin/"]
@@ -8561,7 +8555,7 @@ femmesplus.fr,medisite.fr,planet.fr##[-abp-properties='cursor: pointer;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 nextinpact.com##[-abp-properties='height: 250px;']
 igen.fr##[-abp-properties='height: 61*px;']
-protect-stream.com,youwatch-series.com##[-abp-properties='opacity: *;']
+protect-stream.com##[-abp-properties='opacity: *;']
 igen.fr,macg.co##[-abp-properties='padding-bottom: 50*px;']
 nextinpact.com##[-abp-properties='width: 300px;']
 igen.fr##[-abp-properties='width: 31*px;']
@@ -8852,9 +8846,9 @@ _adblockdetector/
 ||photo.programme-tv.net/js/main-*.js$script
 ||static.caradisiac.com/javascript/caradisiac_first.js
 !
-@@.gif#$image,domain=sos-lettre.fr|youwatch-series.com
+@@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|naruto-mx.net|telecharger-jeuxpc.com
-@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|leetgamerz.net|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net|youwatch-series.com
+@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|leetgamerz.net|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|greys-anatomy-en-streaming.fr|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
@@ -8969,7 +8963,6 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||ultim-telechargementz.com^$generichide
 @@||vtele.ca^$generichide
 @@||xavierstuder.com^$generichide
-@@||youwatch-series.com^$generichide
 ! captchme.com
 @@||adblock.fr^$generichide
 @@||annonces-jobber.com^$generichide
