@@ -2479,7 +2479,6 @@ _regie/clic.$popup
 |http://*.online/*/|$script,third-party
 |http://*.xyz/*/|$script,third-party
 |http://go.*/|$script,third-party,domain=bid|space|xyz
-|http://po.st^$popup,domain=almountakhab.com
 |ws://$other,domain=dpstream.net
 |wss://$other,domain=dpstream.net
 !
@@ -3810,7 +3809,6 @@ toutcash.com/images/bandeau-
 ||alldebrid.fr/lib/images/pub_
 ||allmetsat.com/data/pub/
 ||allstream.fr/images/partenaires/
-||almountakhab.com^*/img/pub/
 ||alsacreations.com/xmedia/pubs/
 ||alternatives-economiques.fr/pics_bdd/habillage/
 ||alternatives-economiques.fr/pics_bdd/pub/
@@ -8069,7 +8067,7 @@ elmoudjahid.com##.vpub
 vube.com##.vube-grid-feature
 brain-magazine.fr##.vv-hide
 rtl.be##.w-content-details-ligatus
-almountakhab.com,journaldumusulman.fr,staractus.fr##.wallpaper-link
+journaldumusulman.fr,staractus.fr##.wallpaper-link
 slappyto.net##.webrox._300x250.centered
 msn.com##.widead
 blog2mature.com##.widget.widget_links
