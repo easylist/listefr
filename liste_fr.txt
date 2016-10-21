@@ -2478,7 +2478,7 @@ _regie/clic.$popup
 |http://$subdocument,third-party,domain=clictune.com|e-wok.tv
 |http://*.online/*/|$script,third-party
 |http://*.xyz/*/|$script,third-party
-|http://*?cache=$domain=homecine-compare.com|lcd-compare.com
+|http://*?cache=$domain=lcd-compare.com
 |http://go.*/|$script,third-party,domain=bid|space|xyz
 |http://po.st^$popup,domain=almountakhab.com
 |ws://$other,domain=dpstream.net
@@ -4327,6 +4327,8 @@ toutcash.com/images/bandeau-
 ||histoires-de-sexe.net/graf/
 ||histoires-de-sexe.net/histoires-sexe-videos.php$popup
 ||hitek.fr/img/*-ban.
+||homecine-compare.com/images/*?cache=
+||homecine-compare.com/images/main/*/pub.png
 ||homecinema-fr.com/iframe-header-300x600-
 ||homecinema-fr.com/images/
 ||homer-simpson-streaming.blog4ever.com/sp
