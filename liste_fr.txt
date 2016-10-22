@@ -3591,10 +3591,10 @@ _regie/clic.$popup
 |http://$script,third-party,xmlhttprequest,domain=enstreaming.tv
 |https://$script,third-party,xmlhttprequest,domain=enstreaming.tv
 ! ddstream.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=ddstream.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=ddstream.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
-|http://$script,third-party,xmlhttprequest,domain=ddstream.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
-|https://$script,third-party,xmlhttprequest,domain=ddstream.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=ddstream.com|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=ddstream.com|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
+|http://$script,third-party,xmlhttprequest,domain=ddstream.com|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
+|https://$script,third-party,xmlhttprequest,domain=ddstream.com|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
 ! film-streamingvk.com
 @@||cdnjs.cloudflare.com/ajax/libs/$stylesheet,domain=film-streamingvk.com
 |http://$script,third-party,domain=film-streamingvk.com
