@@ -794,8 +794,6 @@ _smads_
 _Social-Advert-
 _waframedia_
 ||com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com|~visuels.l214.com
-! TLD websocket
-|ws://*.site./*/|$other
 ! CDN filters
 /cdn-cgi/pe/bag2?*/adServe/*
 /cdn-cgi/pe/bag2?*?tid=
@@ -861,6 +859,7 @@ _waframedia_
 .popunder.$popup
 .promorewards.$popup
 .superpromo.$popup
+/*qertewrt.com$popup
 /?pub_id=*&sub_id=$popup
 /?tid=*&red=$popup
 /__utm.gif$popup
@@ -2480,17 +2479,12 @@ _regie/clic.$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
-.ovh^$domain=huffingtonpost.fr|lemonde.fr|telerama.fr
-.xyz^$domain=filmvf.ws|smartorrent.com
-://*qertewrt.com^$popup
 |blob:$domain=dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|e-wok.tv
 |http://*.online/*/|$script,third-party,xmlhttprequest
 |http://*.xyz/*/|$script,third-party,xmlhttprequest
 |http://go.*/|$script,third-party,xmlhttprequest
-|ws://$other,domain=dpstream.net
-|wss://$other,domain=dpstream.net
 !
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
