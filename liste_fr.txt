@@ -528,7 +528,6 @@
 /popupyous.js
 /prebid-dfp.
 /prebid-dfp/*
-/prix-immobilier.$subdocument
 /promo.*/ads/*
 /promo.*/banner/*
 /promo/*/display.
@@ -3228,7 +3227,6 @@ _regie/clic.$popup
 ||stars-passion.com/ban/$third-party
 ||static.ccmbg.com/ops.ccmbg.com/
 ||static.fotolia.com/pics/*/banners/
-||static.meilleursagents.com^*/partners
 ||static.mntzm.com^
 ||static.poliris.com/zi/VgnAgences/
 ||static.s-sfr.fr/media/mire_$image
@@ -3348,6 +3346,7 @@ _regie/clic.$popup
 ||westernunion.fr^*/Home.page?src=netAffiliation&$popup
 ||widget.achetezfacile.com^$third-party
 ||widgethost.barnebys.com^
+||widgets.meilleursagents.com^$third-party
 ||widgetvillage.com/ministore/$third-party
 ||wp.com/*/wp-content/uploads/*?resize=468%2C60
 ||wp.com/*/wp-content/uploads/*?resize=728%2C90
@@ -4524,7 +4523,6 @@ toutcash.com/images/bandeau-
 ||lelogicielgratuit.com/media/js/popupGenerator.min.js
 ||lemaghrebdz.com/images/pub/
 ||lemaghrebdz.com/pub/
-||lemde.fr/mmpub/img/friends/
 ||lemde.fr^*/partenaires/
 ||lemeilleurdupsg.com/pub/
 ||lemoniteurdubatiment.be/images/mediafactory_
@@ -4914,7 +4912,6 @@ toutcash.com/images/bandeau-
 ||pub.plan-dial.com^
 ||pub.tetu.com^
 ||pub.webxfrance.org^
-||pubs.lemonde.fr^
 ||pubs.ouedkniss.com^
 ||purevid.com/html/
 ||pyrenees-passion.info/WP_img_ban/
@@ -5657,6 +5654,10 @@ toutcash.com/images/bandeau-
 ###criteoDiv3
 ###current_side_ad
 ###custom-ad
+###dfp-banniere_haute
+###dfp-habillage
+###dfp-pave_bas
+###dfp-pave_milieu
 ###displayedPub
 ###div-ads
 ###div-gpt-ad-Banniere_Haute
@@ -6535,6 +6536,8 @@ toutcash.com/images/bandeau-
 ##.pubwrapper
 ##.purple-ad
 ##.quads-location
+##.recipe-col-droite-ad
+##.recipe-col-droite-ad-caption
 ##.red-ad
 ##.reklam728x90
 ##.reklam_300_250
@@ -6604,6 +6607,7 @@ toutcash.com/images/bandeau-
 ##.topbarpub
 ##.topleftad
 ##.toppubs
+##.tuto-pub-ad-caption
 ##.txt-pub
 ##.ustreklam
 ##.vertical-ads-group
@@ -6811,7 +6815,6 @@ egora.fr###ban-gp
 grandecran.fr###ban_big
 cdmail.fr###bandeau
 kairn.com###bandeauTheme > .video
-lemonde.fr###bandeau_bizdev
 priceminister.com###bandeau_premium
 click-fr.com###baner
 blogger-au-bout-du-doigt.blogspot.com,boursier.com,htmlforums.com,lesaffaires.com,live.sofoot.com,maliweb.net,nrj.fr,ultim-telechargementz.com###banner
@@ -7124,6 +7127,7 @@ gameblog.fr###overlayFnac
 forum-iphoneaddict.fr###p00
 cdiscount.com###paFooterPubPartner
 ouedkniss.com###page_interstitiel
+lemonde.fr###panneau-programme-emploi
 saucissonsexe.com###paragraphe
 aujourdhui-en-france.fr,leparisien.fr###parisien-partenaires
 geoflotte.com,judgehype.com,redlist-ultimate.be,soonnight.com###partenaire
@@ -7361,7 +7365,6 @@ genybet.fr##.GGFODTBDCS
 application-remuneratrice.com##.HB-Modal
 estrepublicain.fr,lalsace.fr##.Iookaz
 vpntorrent.com##.LBoardWrap
-lemonde.fr##.LeMondePublicite_widget
 contournerhadopi.com##.Leaderboard
 mypornmotion.com##.LinePromo
 bienpublic.com,lalsace.fr##.OffreHabitat
@@ -7414,7 +7417,6 @@ montelimar-news.fr##.annonce_bloc
 montelimar-news.fr##.annonce_immo
 centre-presse.fr,lamontagne.fr,larep.fr,le-pays.fr,leberry.fr,lechorepublicain.fr,lejdc.fr,lepopulaire.fr,lyonne.fr##.annonce_prompteur
 voyageforum.com##.annoncer_sur
-lemonde.fr##.annonces_monster
 toplien.fr##.annuinv-index-gauche
 neowebcar.com##.argus-logo
 sortiesdvd.com##.art-Post[style="float: left"]
@@ -7512,7 +7514,6 @@ auto-utilitaire.com,mobilealgerie.com##.bloc_728x90_brd
 psychologies.com##.bloc_abo
 programme-television.org##.bloc_evt
 reducavenue.com##.bloc_iab
-lemonde.fr##.bloc_nimp
 lexpress.fr##.bloc_partenaire
 tv5.org##.bloc_promomiddle
 creativejuiz.fr,seloger.com##.bloc_pub
@@ -7600,6 +7601,7 @@ logitheque.com##.description + .telechargement
 t411.bz,t411.ch,t411.la,t411.lt,t411.tv##.description + div[class]
 grosnews.com##.deuxcarres
 rtl.fr##.dfp-pave
+lemonde.fr##.dfp_slot
 dailymotion.com##.dm_widget_advert_iabrighttitle
 blog2mature.com##.download
 oujdacity.net,passion-net.fr##.ebuzzing_box
@@ -7694,7 +7696,6 @@ lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.jobs
 trovit.fr##.js-loadPremium
 cdiscount.com##.jsNoPrdtBloc
 allocine.fr##.jtp
-lemonde.fr##.la_centrale
 ergor.org##.ladypub
 agenceecofin.com##.land-management-sgs
 faclic.com##.lbx_content
@@ -7714,7 +7715,6 @@ meilleureecoledefrance.com##.list_sponsors
 omgtorrent.me##.liste-clients + td > a
 omgtorrent.me##.liste-telecharger > a
 lequipement.fr##.listepartenairecomplete
-lemonde.fr##.lmd-advert
 click-fr.com##.loc
 msn.com##.logo > a[target="_blank"] > img[width="300"]
 mavieencouleurs.fr##.logo-brand
@@ -7799,6 +7799,7 @@ lefigaro.fr##.pane-bloc-ad
 monbestseller.com##.pane-mbspush
 priceminister.com##.panel_pub
 aujourdhui-en-france.fr,leparisien.fr##.parisien-section.pratique
+lemonde.fr##.parmonster
 photo.fr##.parrains
 lemonde.fr##.parstreet
 jeuxvideo.com##.part-boutique
@@ -8052,6 +8053,7 @@ forum-actif.net##.tradeDoubler
 expat.com##.travel-insurance
 nextinpact.com##.trend-big + *
 portail.free.fr##.troiscent
+lemonde.fr##.tuto-pub
 lefigaro.fr##.tvm-ads-pave
 lefigaro.fr##.tvm-boutique
 lefigaro.fr##.tvm-boutique-iframe
@@ -8190,7 +8192,6 @@ fourchette-et-bikini.fr##a[href*="go2cloud.org/aff_c?"]
 dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-de-l-en-galerant-sur-le.html"]
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 jemangejemincis.fr##a[href*="leadpages.co/"]
-lemonde.fr##a[href*="monster.fr/"]
 zetorrents.com##a[href*="porno"]
 beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com,sports.fr##a[href*="smartadserver.com/call/cliccommand/"]
 mega-vesti.info,smartorrent.com##a[href*="tonlive.com"]
@@ -8198,6 +8199,7 @@ lucariostream.eu##a[href*="univers-saiyan.com/"]
 streaming-series.to,twstream.com##a[href*="xmediaserve"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 speedvid.net##a[href="#"][onclick]
+lemonde.fr##a[href="#panneau-programme-emploi"]
 corobizar.com##a[href="/g2a-link/"]
 macg.co##a[href="/macg-skross"]
 pmu.fr##a[href="/mon-pmu/easypari"]
