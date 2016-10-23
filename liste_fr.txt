@@ -442,6 +442,7 @@
 /iframe_pub_
 /iframes/ads/*
 /IFrameStoreReciever.
+/images/*_ads/
 /images/adsMB/*
 /images/bnr/300/*
 /images/bnr/468/*
@@ -1697,6 +1698,7 @@ _regie/clic.$popup
 ||predictivadvertising.com^$third-party
 ||privetadblock.ru^$third-party
 ||proche2moi.com^$third-party
+||proludimpup.com^$third-party
 ||promo.alienbiz.com^$third-party
 ||promo.ezstatic.com^$third-party
 ||promo.hysteriq.com^$third-party
@@ -6082,6 +6084,7 @@ toutcash.com/images/bandeau-
 ##.ad-title-pave
 ##.ad-tray-728
 ##.ad-unit-after-title
+##.ad-visible
 ##.ad160b
 ##.ad336b
 ##.ad46860
