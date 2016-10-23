@@ -3739,9 +3739,6 @@ uploaded.net##[class*="pico-"]
 @@||maxcdn.bootstrapcdn.com^$script,third-party,domain=the-walking-dead-stream.net
 |http://$script,third-party,domain=the-walking-dead-stream.net
 |https://$script,third-party,domain=the-walking-dead-stream.net
-! multiup.org
-|http://$script,third-party,domain=multiup.org
-|https://$script,third-party,domain=multiup.org
 ! youwatch.org / exashare.com
 !.bid/embed-$popup,third-party
 !.space/embed-$popup,third-party
@@ -8958,7 +8955,6 @@ _adblockdetector/
 @@||foglio.basilic.io/ad/basilic.adsense.js
 @@||folihentai.eu/*.js|$script,third-party
 @@||geek-malin.fr/wp-content/plugins/adziner/Front/Js/ads.min.js?
-@@||gorin.multiup.org/pop.js|$script
 @@||gowonda.com^$image,~third-party
 @@||gratuitcul.com/ad.php?ad=$script
 @@||gstatic.com/images?$image,domain=ebanque-pdf.com
