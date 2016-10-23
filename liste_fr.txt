@@ -1260,7 +1260,6 @@ _regie/clic.$popup
 ||awsclic.com^$third-party
 ||ayads.co^$third-party
 ||azerty.solutions^$third-party
-||azzerr.ovh^$third-party
 ||backclick.net^$third-party
 ||badibadou.eu^$third-party
 ||bakelitestationarityspouse.info^$third-party
@@ -1302,7 +1301,6 @@ _regie/clic.$popup
 ||buzzonclick.com^$third-party
 ||buzzoola.com^$third-party
 ||buzzvet.com^$third-party
-||bvvx.ovh^$third-party
 ||bvyvk.space^$third-party
 ||bzlwe.com^$third-party
 ||cam4ads.com^$third-party
@@ -1525,13 +1523,10 @@ _regie/clic.$popup
 ||kappacdn.net^$third-party
 ||kiev.ua^$third-party
 ||killstruckfavor.com^$third-party
-||kiloh.ovh^$third-party
 ||kingtopdeals.com^$third-party
 ||kinkypeepz.com^$third-party
 ||koodoo.net^$third-party
 ||kreaffiliation.com^$third-party
-||kskss.ovh^$third-party
-||ksqqq.ovh^$third-party
 ||leadzupc.com^$third-party
 ||leasured.eu^$third-party
 ||lien-amateur.org^$third-party
@@ -1890,7 +1885,6 @@ _regie/clic.$popup
 ||vartoken.com^$third-party
 ||venturead.com^$third-party
 ||vertoz.com^$third-party
-||vfjkd.ovh^$third-party
 ||vgsgaming.com^$third-party
 ||videonas.eu^$third-party
 ||videoplaza.se/proxy/distributor^$object-subrequest,third-party
@@ -1905,7 +1899,6 @@ _regie/clic.$popup
 ||videoroow.com^$third-party
 ||videos-x.me^$third-party
 ||videostep.com^$third-party
-||viperishly.com^$third-party
 ||visadd.com^$third-party
 ||visibay.com^$third-party
 ||visualwebsiteoptimizer.com^$third-party
@@ -1972,6 +1965,15 @@ _regie/clic.$popup
 ||zeybjsxy.com^$third-party
 ||zidor.info^$third-party
 ||zwaar.net^$third-party
+! videoadex.com
+||azzerr.ovh^$third-party
+||bvvx.ovh^$third-party
+||kiloh.ovh^$third-party
+||kskss.ovh^$third-party
+||ksqqq.ovh^$third-party
+||mlllllllmmm.ovh^$third-party
+||vfjkd.ovh^$third-party
+||viperishly.com^$third-party
 ! popads.net
 ||ccbaobjyprxh.com^
 ||epesogtigole.com^
@@ -5109,7 +5111,6 @@ toutcash.com/images/bandeau-
 ||telemb.be/site/*/Image/videos/*.mp4.xml
 ||telemb.tv/site/*/Image/banners/
 ||telephoneannuaire.fr/resources/amz*.jpg
-||telerama.fr/autopromo_*/banner_
 ||telesatellite.com/images/cplusbein.jpg
 ||telesatellite.com/images/fransat-bistv.jpg
 ||telesatellite.com/images/nl/
@@ -5427,6 +5428,12 @@ toutcash.com/images/bandeau-
 ###AdBanner_2
 ###AdSense_Header
 ###Block_Pub_Right
+###DFP-banniere_basse
+###DFP-banniere_haute
+###DFP-pave_bas
+###DFP-pave_bas_2
+###DFP-pave_bas_3
+###DFP-vignette
 ###HeadPub
 ###NFBannierePublicitaire
 ###Pub728x90
@@ -5674,6 +5681,7 @@ toutcash.com/images/bandeau-
 ###favoris_pub_ligatus
 ###fixe_plugin
 ###footer-ad-formation
+###footer-pub
 ###footer_728x90_ad
 ###footer_haut-publicite
 ###footer_pub
@@ -6245,6 +6253,7 @@ toutcash.com/images/bandeau-
 ##.fix-ad
 ##.fix_reklama
 ##.flayr-ad
+##.footer--pub
 ##.footer-pub
 ##.footerAdsPaves
 ##.footer_pub
@@ -6957,7 +6966,6 @@ search.ke.voila.fr###fontDivVignette
 forum.oujdacity.net###footer
 boursier.com###footer-partenaires
 liberation.fr###footer-partners-box
-amateur2sexe.fr###footer-pub
 allocine.fr###footerPlayer
 lequipe.fr###footer_boutique
 hardware.fr###footer_img
@@ -7550,6 +7558,7 @@ israel7.com##.box2[style="padding:5px;height:600px;"]
 banques-en-ligne.fr##.boxEliracashLNA
 canoe.ca##.boxPool
 days-media.fr##.boxed[style^="width:300px; height:250px"]
+telerama.fr##.boxpub
 lepoint.fr##.branding
 mega-vesti.info,smartorrent.com##.btn-sm-rouge
 gamergen.com,generation-nt.com##.bup
