@@ -151,6 +151,7 @@
 /*300x250_pub.
 /*728x90_pub.
 /*utm_campaign=$subdocument,domain=zatnawqy.net
+//engine.*&subid=
 /160-px-600-
 /160_x_600
 /160x300_
@@ -518,6 +519,7 @@
 /pop?tid=
 /popcall.js
 /popcashnet.js
+/pops/*&subid=
 /popun.*&random=
 /popunder3.
 /popunder6.
@@ -1501,6 +1503,7 @@ _regie/clic.$popup
 ||illyx.com^$third-party
 ||imediastreams.com^$third-party
 ||imgsynd.com^$third-party
+||inclk.com^$third-party
 ||initialcontroledge.info^$third-party
 ||inshopr.com^$third-party
 ||installwager.com^$third-party
@@ -1566,6 +1569,7 @@ _regie/clic.$popup
 ||maxidivx.com^$third-party
 ||maxonclick.com^$third-party
 ||media-clic.com^$third-party
+||media-serving.com^$third-party
 ||mediacpm.pl^$third-party
 ||mediagraph.com^$third-party
 ||mediavoice.com^$third-party
@@ -1833,6 +1837,7 @@ _regie/clic.$popup
 ||tagcodes.net^$third-party
 ||tagsrvcs.com^$third-party
 ||targetctracker.com^$third-party
+||tatami-solutions.com^$third-party
 ||tbvid.com^$third-party
 ||teads.fr^$third-party
 ||tfxiq.com^$third-party
@@ -3660,6 +3665,7 @@ _regie/clic.$popup
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=mangas-fr.com
 |http://$script,third-party,xmlhttprequest,domain=mangas-fr.com
 |https://$script,third-party,xmlhttprequest,domain=mangas-fr.com
+||mangas-fr.com/*.php$script
 ! cacastream.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=twstream.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=twstream.com
@@ -8538,7 +8544,7 @@ lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 igen.fr,macg.co##header + a[target="_blank"]
-aufeminin.com,marmiton.org##iframe[style]
+aufeminin.com,mangas-fr.com,marmiton.org##iframe[style]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
