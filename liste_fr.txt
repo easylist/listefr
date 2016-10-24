@@ -161,6 +161,7 @@
 /300250.js|
 /300_250-2.
 /300_x_250
+/300x250fr.
 /468-px-60-
 /468x60banner.
 /720x90_dfp.
@@ -718,6 +719,7 @@
 ://soads.
 ://vykingad.
 =/ads.js|
+=dynamic_banner&
 =GetAdHtml&
 =goto_adv&id_adv=
 =iframe_pub&
@@ -3872,6 +3874,7 @@ toutcash.com/images/bandeau-
 ||algerie-site.net/pub/
 ||algerie360.com/pub360/
 ||algerie360.com/wp-content/uploads/*/Banniere
+||algerie360.com/wp-content/uploads/*/fond-
 ||algerieclic.com/images/bandeau/
 ||algerieclic.com/images/baniere_principale/
 ||algerieclic.com/images/lateral/
@@ -6461,6 +6464,8 @@ toutcash.com/images/bandeau-
 ##.pub242x90
 ##.pub300
 ##.pub300250
+##.pub300250L
+##.pub300250R
 ##.pub300_600
 ##.pub300_contenu
 ##.pub300a
@@ -6819,6 +6824,7 @@ ledevoir.com###A1
 echoroukonline.com###Advertisement
 mappy.com###AdvertisingBL
 bienpublic.com###AjaxCarreEditoIoomyz
+algerie360.com###AlireAussi
 lavoixdefrance.fr###Bandeau
 belgique-tourisme.be,opt.be###BannerFrontpage
 annoncesbateau.com###BlocPartenaires
@@ -8250,7 +8256,7 @@ torrentfrancais.eu##a[href*="/torrfran_ez?"]
 ddl-island.su,emule-island.ru,stream-island.su##a[href*="/xxx/"]
 rtl.be##a[href*="://ad.doubleclick.net/"]
 comment-supprimer.com,igen.fr,macg.co,needsandmoods.com,refurbgeneration.com,sosiphone.com,watchgeneration.fr##a[href*="://ad.zanox.com/"]
-abidjan.net,igen.fr,israelmagazine.co.il,journaldumusulman.fr,lnc.nc,macg.co,mega-vesti.info,proxylistpro.com,smartorrent.com,watchgeneration.fr,wawacity.su##a[href*="://goo.gl/"]
+abidjan.net,algerie360.com,igen.fr,israelmagazine.co.il,journaldumusulman.fr,lnc.nc,macg.co,mega-vesti.info,proxylistpro.com,smartorrent.com,watchgeneration.fr,wawacity.su##a[href*="://goo.gl/"]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
 jeuxetcompagnie.fr##a[href*="://www.ludeek.com/"] > img
 mistergooddeal.com##a[href*="=H_pub_"]
