@@ -3656,6 +3656,7 @@ _regie/clic.$popup
 |https://$script,third-party,xmlhttprequest,domain=serie-streaming-vf.net
 ! sokrostream.biz
 @@||ajax.googleapis.com/ajax/libs/$script,domain=sokrostream.biz
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=sokrostream.biz
 |http://$script,third-party,domain=sokrostream.biz
 |https://$script,third-party,domain=sokrostream.biz
 ! streamay.com
