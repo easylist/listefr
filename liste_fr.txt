@@ -2431,6 +2431,7 @@ _regie/clic.$popup
 ||pub2srv.com^$popup,third-party
 ||purlive.com^$popup,third-party
 ||pwdplz.com^$popup,third-party
+||pwwysydh.com^$popup,third-party
 ||px9y26.com^$popup,third-party
 ||rdsa2013.com^$popup,third-party
 ||rdsa2014.com^$popup,third-party
@@ -3713,9 +3714,6 @@ _regie/clic.$popup
 ! streamingk.com
 |http://$script,third-party,domain=streamingk.com
 |https://$script,third-party,domain=streamingk.com
-! ebookdz.com
-|http://$script,third-party,xmlhttprequest,domain=ebookdz.com
-|https://$script,third-party,xmlhttprequest,domain=ebookdz.com
 ! softmaroc.org
 |http://$script,third-party,domain=softmaroc.org
 |https://$script,third-party,domain=softmaroc.org
@@ -4186,7 +4184,6 @@ toutcash.com/images/bandeau-
 ||easyrencontre.com/promo
 ||easyvols.org/leparisien/
 ||easyvols.org/liberation/
-||ebookdz.com^$script
 ||economiematin.fr^*-ban-300x150.
 ||ecranlarge.com/js/entree_pub.
 ||ecranlarge.com/pop_under.php$popup
@@ -6237,6 +6234,7 @@ toutcash.com/images/bandeau-
 ##.adziner-adzone
 ##.af_bloc_partners
 ##.an-advert-banner
+##.an-sponsored
 ##.annnonces_partenaires
 ##.annonce_pub_contenu
 ##.annonces_google
@@ -8957,7 +8955,7 @@ _adblockdetector/
 !
 @@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|naruto-mx.net|telecharger-jeuxpc.com
-@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|leetgamerz.net|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net
+@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|ebookdz.com|leetgamerz.net|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|greys-anatomy-en-streaming.fr|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
@@ -9049,6 +9047,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||danslescoulisses.com^$elemhide
 @@||dpseries.net^$generichide
 @@||ebanque-pdf.com^$generichide
+@@||ebookdz.com^$generichide
 @@||entrepriseindividuelle.info^$elemhide
 @@||extreme-down.co^$generichide
 @@||fdesouche.com^$generichide
