@@ -7665,6 +7665,7 @@ allocine.fr##.coltop
 tirage-gagnant.com##.compteBar
 pagesjaunes.fr##.containerPdsSitesPartenaires
 strastv.com##.container_pubh_02
+t411.ch##.content > .block + [class] + [style]
 quetelecharger.com##.content-bloc-pub
 cotemaison.fr,lexpress.fr##.content_inside_partner
 nintendo-master.com##.content_kelkoo_link
@@ -8120,6 +8121,7 @@ allocine.fr##.topheader
 fan-de-cinema.com##.topmargin
 t411.bz,t411.ch,t411.la,t411.lt,t411.tv##.torrentDetails + .block + [class]
 t411.ch##.torrentDetails + script + .block + [class]
+t411.ch##.torrentDetails > [class] + [style]
 t411.bz,t411.ch,t411.la,t411.lt,t411.tv##.torrentDetails > h2 + div + [class]
 ca-briepicardie.fr##.total-cover
 search.ke.voila.fr##.tpl_slpartner_container_bottom
