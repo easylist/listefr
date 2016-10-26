@@ -1479,6 +1479,7 @@ _regie/clic.$popup
 ||gestion2web.com^$third-party
 ||getfile321.com^$third-party
 ||getmyads*.com^$third-party
+||gfstrck.com^$third-party
 ||gibsonvillainousweatherstrip.com^$third-party
 ||gingermedia.com^$third-party
 ||giwcini.ru^$third-party
@@ -1829,6 +1830,7 @@ _regie/clic.$popup
 ||sperse.com^$third-party
 ||sporary.eu^$third-party
 ||ssl-services.com^$third-party
+||statisticresearch.com^$third-party
 ||stickyads.tv^$third-party
 ||stigads.com^$third-party
 ||storetail.io^$third-party
@@ -1867,6 +1869,7 @@ _regie/clic.$popup
 ||top-chaude.com^$third-party
 ||toponclick.com^$third-party
 ||toro-tags.com^$third-party
+||torpsol.com^$third-party
 ||torriderencontre.com^$third-party
 ||totaladperformance.com^$third-party
 ||totale-defonce.com^$third-party
@@ -3610,8 +3613,8 @@ _regie/clic.$popup
 |http://$script,third-party,domain=torrent9.me|torrent9.tv|torrent9.ws
 |https://$script,third-party,domain=torrent9.me|torrent9.tv|torrent9.ws
 ! ex-down.org
-|http://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.co|extreme-down.info|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
-|https://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.co|extreme-down.info|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
+|http://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.co|extreme-down.info|extreme-down.me|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
+|https://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.co|extreme-down.info|extreme-down.me|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
 ! extreme-protect.net
 @@||ajax.googleapis.com/ajax/libs/jquery$script,domain=extreme-protect.net
 |http://$script,third-party,xmlhttprequest,domain=extreme-protect.net
@@ -8624,8 +8627,7 @@ gum-gum-streaming.com##style + center > a
 gum-gum-streaming.com##ul + a[href*="?"]
 gum-gum-streaming.com##ul + span
 ! Éléments pour generichide
-extreme-down.co##a[href*="friendlyduck.com/AF_"]
-extreme-down.co##a[href^="http://www.xmediaserve.com/"]
+!
 ! Filtres de propriété CSS pour Adblock Plus
 igen.fr##.article > div + [class] [id]:last-child[-abp-properties='background-image:*;']
 macg.co##.article > div > div > [class]:last-child[-abp-properties='background-image:*;']
@@ -9036,7 +9038,6 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||ebanque-pdf.com^$generichide
 @@||ebookdz.com^$generichide
 @@||entrepriseindividuelle.info^$elemhide
-@@||extreme-down.co^$generichide
 @@||fdesouche.com^$generichide
 @@||flash-mail.xyz^$generichide
 @@||h-img.xyz^$generichide
