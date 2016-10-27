@@ -2422,6 +2422,7 @@ _regie/clic.$popup
 ||pornstreet.com^$popup,third-party
 ||possini.eu^$popup,third-party
 ||pourmajeurs.com^$popup,third-party
+||predictivadnetwork.com^$popup,third-party
 ||predictivadvertising.com^$popup,third-party
 ||promo.voyance-web.fr^$popup,third-party
 ||promotions.djummer.com^$popup,third-party
@@ -4271,6 +4272,7 @@ toutcash.com/images/bandeau-
 ||filmoviez.com/wp-content/plugins/social-traffic-pop/
 ||films-ddl.net/domabar.js
 ||filmstreaming-hd.com/promo/
+||filmstreaming-hd.com^$subdocument
 ||filmstreaming1.com/templates/filmstreaming/images/pub
 ||fitshr.net/pg.php
 ||flam.me/*/divers/partners/
@@ -7852,6 +7854,8 @@ lanutrition.fr##.moduletable-pub2
 rtl.fr##.money-talks
 lemondeinformatique.fr##.mpu
 gamekult.com##.mpubas-wrapper
+filmstreaming-hd.com##.msgp
+filmstreaming-hd.com##.msgpHold
 msn.com##.nativead
 leboncoin.fr##.newPartnerbox
 iwin.com##.ng-scope > .modals
@@ -9028,6 +9032,7 @@ _adblockdetector/
 leveldown.fr#@##adblock
 bleachmx.co#@##adsense
 toplien.fr#@#.AdvertContainer
+filmstreaming-hd.com#@#.adsbox
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
 commentcamarche.net,journaldesfemmes.com#@#.text_ads
 !
