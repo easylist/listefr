@@ -3603,9 +3603,10 @@ _regie/clic.$popup
 |https://$script,third-party,domain=t411.bz|t411.ch|t411.la|t411.lt|t411.tv
 ||t411.ch/js/jquery/jquery.ui.stars.min.js
 ! voirfilms.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
-|http://$script,third-party,domain=voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
-|https://$script,third-party,domain=voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
+@@||ajax.googleapis.com/ajax/libs/$script,domain=voirfilms.co
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=voirfilms.co
+|http://$script,third-party,xmlhttprequest,domain=voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
+|https://$script,third-party,xmlhttprequest,domain=voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
 ! films-regarder.com
 |http://$script,third-party,domain=films-regarder.com|films-regarder.org|films-regarder.xyz
 |https://$script,third-party,domain=films-regarder.com|films-regarder.org|films-regarder.xyz
