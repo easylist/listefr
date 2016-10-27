@@ -424,6 +424,7 @@
 /fakevideo/rotate.
 /fastclick300.
 /fastclick468.
+/fera/ads/*
 /fillerAds/*
 /fod_ad_
 /footerPartnerOffers.js
@@ -724,6 +725,7 @@
 ://soads.
 ://vykingad.
 =/ads.js|
+=250x250&bn=
 =dynamic_banner&
 =GetAdHtml&
 =goto_adv&id_adv=
@@ -8752,6 +8754,7 @@ medisite.fr##[class] > img
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
+@@||calculitineraires.fr/js/ads.js$script,~third-party
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
 @@||cdn.teads.tv/js/all-$script,domain=telechargement.zebulon.fr
 @@||clic.reussissonsensemble.fr/click*.asp$domain=forfait-mobile-moins-cher.com
