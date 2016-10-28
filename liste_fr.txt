@@ -862,6 +862,7 @@ _waframedia_
 &tid=*&ref=*embed-$popup
 &utm_$popup,domain=dailymotion.com
 &utm_medium=ads$popup
+&voluumdata=$popup
 &ymid=ADSYS-$popup
 &zoneid=*&direct=$popup
 -banner.cib?$popup
@@ -2144,6 +2145,7 @@ _regie/clic.$popup
 ||45.32.147.99^$popup,third-party
 ||46.101.101.204^$popup,third-party
 ||46.101.125.$popup,third-party
+||46.101.139.152^$popup,third-party
 ||52.51.50.245^$popup,third-party
 ||5b15a826.xyz^$popup,third-party
 ||6187817.com^$popup,third-party
@@ -6400,6 +6402,7 @@ toutcash.com/images/bandeau-
 ##.megapub
 ##.midads
 ##.middle-publicite
+##.mod-advertisement
 ##.modAd
 ##.modalPub
 ##.moduleAds728
@@ -6792,6 +6795,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://ouo.io/ref/"]
 ##a[href^="http://partner.global-espace.com/"]
 ##a[href^="http://promo.vador.com/"]
+##a[href^="http://redir.bebi.com/"]
 ##a[href^="http://share.payoneer-affiliates.com/"]
 ##a[href^="http://styleapplicationzillion.com/"]
 ##a[href^="http://t.mdn2015x1.com/"]
