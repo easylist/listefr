@@ -8684,8 +8684,8 @@ macg.co##article > a[-abp-properties='*'] > img
 ! Ligatus
 @@||admin.brightcove.com/js/api/SmartPlayerAPI.js$script,domain=lachainemeteo.com
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
-@@||disqus.com^$script,third-party,domain=medisite.fr
-@@||player.mediabong.com/*/video.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
+@@||player.mediabong.com^*/video.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
+@@||player.qualifio.com/kit/qualp.2.min.js$script,domain=medisite.fr
 @@||preprod-img.planet.fr/files/advagg_js/js_*.js$script,domain=femmesplus.fr
 @@||static.mediabong.com/scripts/mb.*.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
 |http://$script,third-party,domain=aventure-apple.com|femmesplus.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|planet.fr|refurbgeneration.com
@@ -8714,18 +8714,15 @@ medisite.fr##.block-gc-ad + [class] img
 medisite.fr##.block-gc-ad + [id] > :first-child > img
 femmesplus.fr##.block-views + div > img
 planet.fr##.even + section > img
-medisite.fr##.node-content img
 planet.fr##.odd > section > img
 medisite.fr##.region > [id] > img
 medisite.fr##.region > a > img
 femmesplus.fr,medisite.fr##.region > div > img
-medisite.fr##.region > div img
 femmesplus.fr##.region-inner > div > img
 planet.fr##.region-inner.clearfix > div > img
 femmesplus.fr,planet.fr##.region-sidebar-first [class] > img
 femmesplus.fr,planet.fr##.region-sidebar-first [id] > img
 planet.fr##.region-sidebar-first span > img
-medisite.fr##[class] > img
 femmesplus.fr##section[id] > img
 !
 !----------------------- Exceptions -----------------------!
