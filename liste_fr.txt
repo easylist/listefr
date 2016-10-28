@@ -1529,6 +1529,7 @@ _regie/clic.$popup
 ||javacript.cf^$third-party
 ||javacript.ga^$third-party
 ||javacript.gq^$third-party
+||javacript.ml^$third-party
 ||jazayr.net^$third-party
 ||jbam.info^$third-party
 ||jedeconnebiensur.com^$third-party
@@ -3730,6 +3731,9 @@ _regie/clic.$popup
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=dragon-ball-super-streaming.com
 |http://$script,third-party,domain=dragon-ball-super-streaming.com
 |https://$script,third-party,domain=dragon-ball-super-streaming.com
+! dragonball-z.net
+|http://$script,domain=dragonball-z.net
+|https://$script,domain=dragonball-z.net
 ! mavanime.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=mavanime.com
 |http://$script,third-party,domain=mavanime.com
