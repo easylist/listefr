@@ -8683,7 +8683,6 @@ macg.co##article > a[-abp-properties='*'] > img
 ! Ligatus
 @@||admin.brightcove.com/js/api/SmartPlayerAPI.js$script,domain=lachainemeteo.com
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
-@@||disqus.com^$script,domain=planet.fr
 @@||disqus.com^$script,third-party,domain=medisite.fr
 @@||player.mediabong.com/*/video.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
 @@||preprod-img.planet.fr/files/advagg_js/js_*.js$script,domain=femmesplus.fr
@@ -8697,6 +8696,7 @@ macg.co##article > a[-abp-properties='*'] > img
 planet.fr###block-sp-node-sp-node-videos-home + [class]
 planet.fr###block-sp-node-sp-node-videos-home + span > img
 femmesplus.fr###block-system-main + div > img
+planet.fr###block-system-main + section > img
 femmesplus.fr,planet.fr###block-system-main + span > img
 medisite.fr###block-system-main > [id] > img
 medisite.fr###block-system-main > a > img
@@ -8712,7 +8712,9 @@ planet.fr##.block-content + div > img
 medisite.fr##.block-gc-ad + [class] img
 medisite.fr##.block-gc-ad + [id] > :first-child > img
 femmesplus.fr##.block-views + div > img
+planet.fr##.even + section > img
 medisite.fr##.node-content img
+planet.fr##.odd > section > img
 medisite.fr##.region > [id] > img
 medisite.fr##.region > a > img
 femmesplus.fr,medisite.fr##.region > div > img
