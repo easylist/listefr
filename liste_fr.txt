@@ -3783,7 +3783,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14
 |data*text/html*script$popup
 |http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|auroravid.to|dailyuploads.net|e-wok.tv|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.ws|streamplay.to|t411.lt|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vimple.me|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 |http://$popup,third-party,domain=imagepearl.com|speedvid.net
-|http://*.*.*.*/$popup,domain=extreme-down.me
+|http://*.*.*.*/$popup,domain=extreme-down.me|filmstreaming-hd.com
 |https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|auroravid.to|dailyuploads.net|e-wok.tv|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.ws|speedvid.net|streamplay.to|t411.lt|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vimple.me|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 ! images hosting
 ||hostingpics.net/pics/*468x60.
@@ -9033,7 +9033,6 @@ _adblockdetector/
 leveldown.fr#@##adblock
 bleachmx.co#@##adsense
 toplien.fr#@#.AdvertContainer
-filmstreaming-hd.com#@#.adsbox
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
 commentcamarche.net,journaldesfemmes.com#@#.text_ads
 !
