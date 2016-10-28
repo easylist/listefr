@@ -8683,7 +8683,7 @@ macg.co##article > a[-abp-properties='*'] > img
 ! Ligatus
 @@||admin.brightcove.com/js/api/SmartPlayerAPI.js$script,domain=lachainemeteo.com
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
-@@||disqus.com^$script,domain=femmesplus.fr|planet.fr
+@@||disqus.com^$script,domain=planet.fr
 @@||disqus.com^$script,third-party,domain=medisite.fr
 @@||player.mediabong.com/*/video.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
 @@||preprod-img.planet.fr/files/advagg_js/js_*.js$script,domain=femmesplus.fr
@@ -8704,7 +8704,7 @@ femmesplus.fr###block-system-main > div + div > img
 medisite.fr###block-system-main > div > img
 femmesplus.fr###columns div > span > img
 planet.fr###content > div > img
-femmesplus.fr,planet.fr###content [class] > img
+planet.fr###content [class] > img
 medisite.fr###main-content-header > [id^="logo_"]
 medisite.fr###page > a > img
 medisite.fr###page > div > img
@@ -8723,6 +8723,7 @@ femmesplus.fr,planet.fr##.region-sidebar-first [class] > img
 femmesplus.fr,planet.fr##.region-sidebar-first [id] > img
 planet.fr##.region-sidebar-first span > img
 medisite.fr##[class] > img
+femmesplus.fr##section[id] > img
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
