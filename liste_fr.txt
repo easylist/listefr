@@ -51,6 +51,7 @@
 -300-250d.
 -300-250e.
 -300-x-250-
+-300x250.$subdocument
 -300x250.html$subdocument
 -300x250.php?cb=
 -300x250_pub.
@@ -3691,10 +3692,10 @@ _regie/clic.$popup
 |https://$script,third-party,xmlhttprequest,domain=mangas-fr.com
 ||mangas-fr.com/*.php$script
 ! cacastream.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=twstream.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=twstream.com
-|http://$script,third-party,xmlhttprequest,domain=cacastream.com|twstream.com
-|https://$script,third-party,xmlhttprequest,domain=cacastream.com|twstream.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=quedustream.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=quedustream.com
+|http://$script,third-party,xmlhttprequest,domain=cacastream.com|quedustream.com|twstream.com
+|https://$script,third-party,xmlhttprequest,domain=cacastream.com|quedustream.com|twstream.com
 ! dpstream.net
 |http://$script,third-party,xmlhttprequest,domain=dpstream.net
 |https://$script,third-party,xmlhttprequest,domain=dpstream.net
@@ -5292,7 +5293,6 @@ toutcash.com/images/bandeau-
 ||tvcom.be/images/stories/bannierespub/
 ||tvcom.be/index.php?option=com_content&view=article&id=
 ||twodollarclick.com/earnbanner.php?
-||twstream.com/video-300x250.php
 ||uhit.eu/uhit.html
 ||undernews.fr/*/hip-2015_300.gif
 ||undernews.fr/*/NDH_2k15.gif
@@ -8295,7 +8295,7 @@ zetorrents.com##a[href*="porno"]
 beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com,sports.fr##a[href*="smartadserver.com/call/cliccommand/"]
 mega-vesti.info,smartorrent.com##a[href*="tonlive.com"]
 lucariostream.eu##a[href*="univers-saiyan.com/"]
-streaming-series.to,twstream.com##a[href*="xmediaserve"]
+quedustream.com,streaming-series.to,twstream.com##a[href*="xmediaserve"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 speedvid.net##a[href="#"][onclick]
 lemonde.fr##a[href="#panneau-programme-emploi"]
@@ -8439,7 +8439,7 @@ windsurfjournal.com##a[href^="link,"]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 manga-news.com##a[href^="redirection.php?"]
-streaming-series.to,twstream.com##a[href^="streaming-series"]
+quedustream.com,streaming-series.to,twstream.com##a[href^="streaming-series"]
 mega-p2p.net##a[href^="vpn"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 wawacity.su##a[onclick$="()"]
