@@ -2922,7 +2922,7 @@ _regie/clic.$popup
 ||gold-barre.com/banner*.
 ||golden-blog-awards.fr/votePlugin.$third-party
 ||goo.gl^$domain=arab.st|videomega.tv
-||goo.gl^$popup,domain=easybib.com|lnc.nc|openrunner.com|p0rno.org|seriezone.com|seriezone.org|trackandnews.fr|vkpass.com|za-gay.org
+||goo.gl^$popup,domain=algerie360.com|easybib.com|lnc.nc|openrunner.com|p0rno.org|seriezone.com|seriezone.org|trackandnews.fr|vkpass.com|za-gay.org
 ||googgl.me^$popup,domain=streamingfoot.direct
 ||gopro.com^$popup,domain=tignes.net
 ||gpstatic.com^*/banner/
@@ -3911,6 +3911,7 @@ toutcash.com/images/bandeau-
 ||algerie360.com/pub360/
 ||algerie360.com/wp-content/uploads/*/Banniere
 ||algerie360.com/wp-content/uploads/*/fond-
+||algerie360.com/wp-content/uploads/*/habillage-
 ||algerieclic.com/images/bandeau/
 ||algerieclic.com/images/baniere_principale/
 ||algerieclic.com/images/lateral/
@@ -6789,6 +6790,7 @@ toutcash.com/images/bandeau-
 ##a[href*="friendlyduckaffiliates.com/"]
 ##a[href*="friendlyquacks.com/"]
 ##a[href*="qadserver.com"]
+##a[href*="regie.medncom.com/"]
 ##a[href*="smartadserver.com/call/cliccommand/"] > img
 ##a[href*="utm_medium=mega_banniere"] > img
 ##a[href*="weborama.fr/fcgi-bin/performance.fcgi?"]
@@ -6965,6 +6967,7 @@ free.fr###banshopping1
 jeux-gratuits.com###barre-partenaires
 minutebuzz.com###bg
 tennisactu.net###bgclicable
+algerie360.com###bglink
 neomag.fr###big-ad
 gizmodo.fr###big-mega
 neurozinzin.com###bigAdd
