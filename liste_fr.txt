@@ -1533,6 +1533,7 @@ _regie/clic.$popup
 ||javacript.ga^$third-party
 ||javacript.gq^$third-party
 ||javacript.ml^$third-party
+||javacript.tk^$third-party
 ||jazayr.net^$third-party
 ||jbam.info^$third-party
 ||jedeconnebiensur.com^$third-party
@@ -3703,6 +3704,11 @@ _regie/clic.$popup
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=dpseries.net
 |http://$script,third-party,xmlhttprequest,domain=dpseries.net
 |https://$script,third-party,xmlhttprequest,domain=dpseries.net
+! dpstreaming.watch
+@@||ajax.googleapis.com/ajax/libs/$script,domain=dpstreaming.watch
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=dpstreaming.watch
+|http://$script,third-party,xmlhttprequest,domain=dpstreaming.watch
+|https://$script,third-party,xmlhttprequest,domain=dpstreaming.watch
 ! greys-anatomy-en-streaming.fr
 @@||ajax.googleapis.com/ajax/libs/$script,domain=greys-anatomy-en-streaming.fr
 |http://$script,third-party,domain=greys-anatomy-en-streaming.fr
