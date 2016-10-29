@@ -269,6 +269,7 @@
 /adsleft.
 /adslider.
 /adsmouse.
+/adsrv.
 /adsrvmedia/*
 /adstrack/*
 /adsw1.
@@ -1782,6 +1783,7 @@ _regie/clic.$popup
 ||remerciez.com^$third-party
 ||rencontreroulette.com^$third-party
 ||rentacorner.com^$third-party
+||requiredcollectfilm.info^$third-party
 ||retagapp.com^$third-party
 ||retainguaninefluorite.info^$third-party
 ||retargetads.net^$third-party
@@ -2219,6 +2221,7 @@ _regie/clic.$popup
 ||agkn.com^$popup,third-party
 ||ai.me^$popup,third-party
 ||all2lnk.com^$popup,third-party
+||allyourmobi.com^$popup,third-party
 ||ampxchange.com^$popup,third-party
 ||anytheengmedia.com^$popup,third-party
 ||appfly.mobi^$popup,third-party
@@ -2394,6 +2397,7 @@ _regie/clic.$popup
 ||modescrips.info^$popup,third-party
 ||monetizemytraffic.com^$popup,third-party
 ||monetizer.co^$popup,third-party
+||moneymak3rstrack.com^$popup,third-party
 ||monstersbird.info^$popup,third-party
 ||morevoluum.com^$popup,third-party
 ||multiupload.com^$popup,third-party
@@ -3792,7 +3796,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14
 |blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |http://$popup,script,third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 ! linkbucks.com
-|http://$subdocument,domain=aptclkzmoelfm.net|clictune.com|cvwgklzfu.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|inesajjovx.net|lnzpbkeijlkmfdr.net|mcuzfdumqro.net|mnjsowaj.net|sa.ae|ubqgcbmrqjdcqn.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net
+|http://$subdocument,domain=aptclkzmoelfm.net|cedrofltell.net|clictune.com|cvwgklzfu.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|inesajjovx.net|lnzpbkeijlkmfdr.net|mcuzfdumqro.net|mnjsowaj.net|sa.ae|ubqgcbmrqjdcqn.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net
 ! popup & popunder
 |about:blank$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|auroravid.to|dailyuploads.net|e-wok.tv|eztv.ag|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|imgchili.net|letwatch.to|letwatch.us|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.ws|streamplay.to|t411.lt|teramixer.com|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vimple.me|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 |data*text/html*base64$popup
