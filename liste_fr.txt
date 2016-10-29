@@ -1309,6 +1309,7 @@ _regie/clic.$popup
 ||boostsaves.com^$third-party
 ||box.shopoon.fr^$third-party
 ||braip.com.br^$third-party
+||brethrengenotypeteledyne.com^$third-party
 ||brightonclick.com^$third-party
 ||briwat.info^$third-party
 ||brlmoney.com^$third-party
@@ -2009,6 +2010,7 @@ _regie/clic.$popup
 ||viperishly.com^$third-party
 ! popads.net
 ||aadbobwqgmzi.com^
+||bhjhijisulwl.com^
 ||cjvgnswapbqo.com^
 ||eejcqlenlsko.com^
 ||ehnjtmqchrub.com^
@@ -3676,10 +3678,10 @@ _regie/clic.$popup
 |http://$script,third-party,xmlhttprequest,domain=enstreaming.tv
 |https://$script,third-party,xmlhttprequest,domain=enstreaming.tv
 ! ddstream.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=ddstream.com|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=ddstream.com|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
-|http://$script,third-party,xmlhttprequest,domain=ddstream.com|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
-|https://$script,third-party,xmlhttprequest,domain=ddstream.com|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=ddstream.com|dpstream.to|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=ddstream.com|dpstream.to|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
+|http://$script,third-party,xmlhttprequest,domain=ddstream.com|dpstream.to|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
+|https://$script,third-party,xmlhttprequest,domain=ddstream.com|dpstream.to|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
 ! film-streamingvk.com
 @@||cdnjs.cloudflare.com/ajax/libs/$stylesheet,domain=film-streamingvk.com
 |http://$script,third-party,domain=film-streamingvk.com
@@ -8301,7 +8303,7 @@ zetorrents.com##a[href*="porno"]
 beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com,sports.fr##a[href*="smartadserver.com/call/cliccommand/"]
 mega-vesti.info,smartorrent.com##a[href*="tonlive.com"]
 lucariostream.eu##a[href*="univers-saiyan.com/"]
-quedustream.com,streaming-series.to,twstream.com##a[href*="xmediaserve"]
+dpstream.to,quedustream.com,streaming-series.to,twstream.com##a[href*="xmediaserve"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 speedvid.net##a[href="#"][onclick]
 lemonde.fr##a[href="#panneau-programme-emploi"]
@@ -8445,7 +8447,7 @@ windsurfjournal.com##a[href^="link,"]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 manga-news.com##a[href^="redirection.php?"]
-quedustream.com,streaming-series.to,twstream.com##a[href^="streaming-series"]
+dpstream.to,quedustream.com,streaming-series.to,twstream.com##a[href^="streaming-series"]
 mega-p2p.net##a[href^="vpn"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 wawacity.su##a[onclick$="()"]
