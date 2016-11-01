@@ -3524,13 +3524,10 @@ _regie/clic.$popup
 ||xfore.org^$popup
 ! dblock-ads.com
 ||biebettude.xyz^
-||biebettude.xyz^$popup
 ||donager.xyz^
-||donager.xyz^$popup
 ||gothrough.xyz^
-||gothrough.xyz^$popup
 ||lickroll.xyz^
-||lickroll.xyz^$popup
+||nextwest.xyz^
 ! Webediads revolving adservers
 ||a-staticwebedia.com^
 ||accelerat.xyz^
@@ -3800,6 +3797,9 @@ uploaded.net##[class*="pico-"]
 @@||maxcdn.bootstrapcdn.com^$script,third-party,domain=the-walking-dead-stream.net
 |http://$script,third-party,domain=the-walking-dead-stream.net
 |https://$script,third-party,domain=the-walking-dead-stream.net
+! lectureduweb.fr (dblock-ads.com)
+|http://$script,third-party,xmlhttprequest,domain=lectureduweb.fr
+|https://$script,third-party,xmlhttprequest,domain=lectureduweb.fr
 ! 4nowvideo.com
 $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
