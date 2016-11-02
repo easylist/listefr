@@ -1319,6 +1319,8 @@ _regie/clic.$popup
 ||boostsaves.com^$third-party
 ||box.shopoon.fr^$third-party
 ||braip.com.br^$third-party
+||branchroughlend.info^$third-party
+||brassyobedientcotangent.com^$third-party
 ||brethrengenotypeteledyne.com^$third-party
 ||brightonclick.com^$third-party
 ||briwat.info^$third-party
@@ -2325,6 +2327,7 @@ _regie/clic.$popup
 ||earth-111.com^$popup,third-party
 ||electroshaurmal.ru^$popup,third-party
 ||emea.pub^$popup,third-party
+||emjcd.com^$popup,third-party
 ||eravage.com^$popup,third-party
 ||espace-plus.net^$popup,third-party
 ||europacash.com^$popup,third-party
@@ -2345,6 +2348,7 @@ _regie/clic.$popup
 ||fungoiddempseyimpasse.info^$popup,third-party
 ||gamingaffiliation.com^$popup,third-party
 ||geniusdisplay.com^$popup,third-party
+||gernewt.info^$popup,third-party
 ||gernu.info^$popup,third-party
 ||gerwen.info^$popup,third-party
 ||gestionpub.com^$popup,third-party
@@ -2376,6 +2380,7 @@ _regie/clic.$popup
 ||ipsowrite.com^$popup,third-party
 ||irclick.net^$popup,third-party
 ||isanalyze.com^$popup,third-party
+||jdoqocy.com^$popup,third-party
 ||justgetitfaster.com^$popup,third-party
 ||kastafor.com^$popup,third-party
 ||kds.media^$popup,third-party
@@ -5597,6 +5602,7 @@ toutcash.com/images/bandeau-
 ###ad-ban-bet-load
 ###ad-ban-load
 ###ad-bg-transparent
+###ad-container-overlay
 ###ad-habillage
 ###ad-habillage-flash
 ###ad-habillage-load
@@ -5606,6 +5612,7 @@ toutcash.com/images/bandeau-
 ###ad-lb-bottom
 ###ad-ligatus-article-load
 ###ad-megaban2-load
+###ad-output
 ###ad-planetveo
 ###ad-rec-bet1
 ###ad-rec-bet1-load
@@ -6159,6 +6166,8 @@ toutcash.com/images/bandeau-
 ##.ad-mark
 ##.ad-mention
 ##.ad-mpu-plus-bottom
+##.ad-output-middle
+##.ad-output-wrapper
 ##.ad-page_top
 ##.ad-provider-yahoo
 ##.ad-sidebar-125-1r
@@ -6743,6 +6752,7 @@ toutcash.com/images/bandeau-
 ##.srcPubZone
 ##.tableAds
 ##.teaser-mpu
+##.testAd-holder
 ##.texte_ads
 ##.texte_ads_plug
 ##.texte_pub
@@ -6818,6 +6828,7 @@ toutcash.com/images/bandeau-
 ##a[href*="friendlyduck.com/AF_"]
 ##a[href*="friendlyduckaffiliates.com/"]
 ##a[href*="friendlyquacks.com/"]
+##a[href*="https://relap.io/r?"]
 ##a[href*="qadserver.com"]
 ##a[href*="regie.medncom.com/"]
 ##a[href*="smartadserver.com/call/cliccommand/"] > img
@@ -8732,6 +8743,8 @@ igen.fr##.region-sidebar a[-abp-properties='*']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 igen.fr##.view-content [-abp-properties='background-image:*;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='*: 300px;']
+gum-gum-streaming.com##[-abp-properties='*: 7*px;']
+gum-gum-streaming.com##[-abp-properties='*: 9*px;']
 femmesplus.fr,medisite.fr,planet.fr##[-abp-properties='background-image: *;']
 igen.fr,macg.co##[-abp-properties='background-image: url(*;']
 senscritique.com##[-abp-properties='background-position: *;']
