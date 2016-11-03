@@ -1570,6 +1570,7 @@ _regie/clic.$popup
 ||leasured.eu^$third-party
 ||lien-amateur.org^$third-party
 ||ligatus.com^$third-party
+||likablescaldfelted.info^$third-party
 ||limk.com^$third-party
 ||linkbolic.com^$third-party
 ||linklift.fr^$third-party
@@ -1706,6 +1707,7 @@ _regie/clic.$popup
 ||pee-puu-see.com^$third-party
 ||perabetads.com^$third-party
 ||peritas247.info^$third-party
+||permittingnorthlandseamen.info^$third-party
 ||pgflow.com^$third-party
 ||phuc.cc^$third-party
 ||physoi.eu^$third-party
@@ -2452,6 +2454,7 @@ _regie/clic.$popup
 ||onlygamesforme.com^$popup,third-party
 ||othip.info^$popup,third-party
 ||ouaitupeuxregarderenillimite.com^$popup,third-party
+||peritas247.info^$popup,third-party
 ||plxnt.com^$popup,third-party
 ||poptm.com^$popup,third-party
 ||popunderjs.com^$popup
@@ -2503,6 +2506,7 @@ _regie/clic.$popup
 ||scripmode.info^$popup,third-party
 ||scriptall.tk^$popup,third-party
 ||secure.securitetotale.com^$popup,third-party
+||secure.securitetotale.fr^$popup,third-party
 ||sezonlukdizi.com^$popup,third-party
 ||shglegle.com^$popup,third-party
 ||shopstockoff.com^$popup,third-party
@@ -3297,7 +3301,6 @@ _regie/clic.$popup
 ||sexy.1001-recherches.com/ban/$third-party
 ||sexy.yakoila.com/bans/$third-party
 ||sexyadults.eu/banners/
-||sexyavenue.com/store/$popup
 ||sexyavenue.com/store/$third-party
 ||sexypower.xxx^
 ||sexytout.com/ban/$third-party
@@ -7728,6 +7731,7 @@ days-media.fr##.boxed[style^="width:300px; height:250px"]
 telerama.fr##.boxpub
 lepoint.fr##.branding
 mega-vesti.info,smartorrent.com##.btn-sm-rouge
+wawacity.su##.btn-warning
 gamergen.com,generation-nt.com##.bup
 terrafemina.com##.c-product
 metronews.fr##.campaign-push-wrapper
@@ -8346,6 +8350,7 @@ rtl.be##a[href*="://ad.doubleclick.net/"]
 comment-supprimer.com,igen.fr,macg.co,needsandmoods.com,refurbgeneration.com,sosiphone.com,watchgeneration.fr##a[href*="://ad.zanox.com/"]
 abidjan.net,algerie360.com,igen.fr,israelmagazine.co.il,journaldumusulman.fr,lnc.nc,macg.co,mega-vesti.info,proxylistpro.com,smartorrent.com,watchgeneration.fr,wawacity.su##a[href*="://goo.gl/"]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
+wawacity.su##a[href*="://secure."]
 jeuxetcompagnie.fr##a[href*="://www.ludeek.com/"] > img
 mistergooddeal.com##a[href*="=H_pub_"]
 demo-gk.goyavelab.com##a[href*="?"]
@@ -8512,10 +8517,10 @@ manga-news.com##a[href^="redirection.php?"]
 dpstream.to,quedustream.com,streaming-series.to,twstream.com##a[href^="streaming-series"]
 mega-p2p.net##a[href^="vpn"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
-wawacity.su##a[onclick$="()"]
 degrouptest.com##a[onclick*="/resultspage/"]
 t411.bz,t411.ch,t411.la,t411.lt,t411.tv##a[onclick*="base64"]
 lien-torrent.com##a[onclick*="directlinks"]
+wawacity.su##a[onclick]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
