@@ -290,6 +290,8 @@
 /af-300x250.
 /aff.php?
 /aff_*/banners/*
+/aff_ad?
+/aff_c?aff_id=
 /aff_pub_
 /affich_ban.
 /affich_pub.
@@ -647,6 +649,7 @@
 /right_up_ads|
 /rotaban/*$subdocument
 /rotation.php?idaff=
+/rotation/hits?$subdocument
 /rotator.php?zone=$script
 /rotban/*$script
 /rsense-ad.
@@ -915,7 +918,9 @@ _werbebanner_
 /adv_clk_redirect.$popup
 /adv_show?$popup
 /advertisers/?utm_source=$popup
+/aff_ad?$popup
 /async_redirect?$popup
+/back?from=back&tracker=DEFAULT&token=$popup
 /banner_s?*&auto_click=$popup
 /banredir.cgi?$popup
 /bdv_rd.dbm?$popup
@@ -1392,6 +1397,7 @@ _regie/clic.$popup
 ||cpmwizard.com^$third-party
 ||cptefr.com^$third-party
 ||cpxmasters.com^$third-party
+||crvtrk.com^$third-party
 ||ctpsrv.com^$third-party
 ||ctx-traffic.com^$third-party
 ||cubicleoffers.com^$third-party
@@ -1484,7 +1490,6 @@ _regie/clic.$popup
 ||folihentai.eu^$third-party
 ||forevermelodicheidegger.info^$third-party
 ||foxserie.com^$script,third-party
-||frtyb.com^$third-party
 ||fullon.tv^$third-party
 ||fullscreens.fr^$third-party
 ||fungetbag.info^$third-party
@@ -2336,7 +2341,6 @@ _regie/clic.$popup
 ||flowlz.com^$popup,third-party
 ||fonderreaders.info^$popup,third-party
 ||frex.biz^$popup,third-party
-||frtyd.com^$popup,third-party
 ||funbagget.info^$popup,third-party
 ||fungoiddempseyimpasse.info^$popup,third-party
 ||gamingaffiliation.com^$popup,third-party
@@ -2529,6 +2533,7 @@ _regie/clic.$popup
 ||theopenads.com^$popup,third-party
 ||thewhizmarketing.com^$popup,third-party
 ||thisclick.network^$popup,third-party
+||tmhgm.com^$popup,third-party
 ||todigroup.com^$popup,third-party
 ||tonlive.com^$popup,third-party
 ||top2016games.com^$popup,third-party
