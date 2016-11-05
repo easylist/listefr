@@ -266,6 +266,7 @@
 /adsdino.
 /adsen.php
 /adserverimages/*
+/adservermn/*
 /adsf300.
 /adsleft.
 /adslider.
@@ -2950,6 +2951,7 @@ _regie/clic.$popup
 ||get-my-ads.com^$popup
 ||ggc.ninja^$subdocument
 ||gigaflat.com/affiliate/$third-party
+||glenat.com/dyn/glenat/upload/$third-party
 ||globirank.com/image/$domain=unlock-stream.com
 ||go2cloud.org/aff_c?offer_id=
 ||goclecd.fr/wp-content/themes/reviewit/freekey/
@@ -4780,7 +4782,6 @@ toutcash.com/images/bandeau-
 ||mamytwink.com^*/images/partenaires/
 ||manager-online.fr/styles/mo3/template/instant.png
 ||manga-news.com/public/banners/
-||manga-news.com/redirection.php?$popup
 ||manga-sanctuary.com/cg/proxy.php?
 ||mangavatars.com/include/partenaires.php
 ||mangavatars.com/include/topsite.php3
@@ -6993,6 +6994,7 @@ euro-2016-france.net###background-promo
 deavita.fr###badHabbitsPopup
 argentmania.com,e-jeune.net###ban
 egora.fr###ban-gp
+manga-news.com###ban970250
 grandecran.fr###ban_big
 cdmail.fr###bandeau
 kairn.com###bandeauTheme > .video
@@ -7799,6 +7801,7 @@ ruedesjoueurs.com##.esspo232x70
 ruedesjoueurs.com##.esspo736x110
 easyvoyage.com##.esv-pub-300-250
 1001excuses.fr##.excuses[style="padding-left:105px;padding-top:25px;"]
+manga-news.com##.external-link
 maddyness.com##.extra-block
 omgtorrent.me##.fiche-cadre + * > a
 omgtorrent.me##.fiche-cadre-infos + .fiche-cadre
@@ -8527,7 +8530,6 @@ braindamaged.fr##a[href^="index.php?adclick="]
 windsurfjournal.com##a[href^="link,"]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
-manga-news.com##a[href^="redirection.php?"]
 dpstream.to,quedustream.com,streaming-series.to,twstream.com##a[href^="streaming-series"]
 mega-p2p.net##a[href^="vpn"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
@@ -9048,7 +9050,7 @@ _adblockdetector/
 @@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|naruto-mx.net|telecharger-jeuxpc.com
 @@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|ebookdz.com|leetgamerz.net|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
-@@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
+@@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|greys-anatomy-en-streaming.fr|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
 @@/advertisement.js$script,~third-party,domain=e-wok.tv|quoverbis.com
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|silicon.fr
