@@ -488,6 +488,7 @@
 /js/468.
 /js/infopop_$script
 /js/pub.js
+/jwplayer/plugin/preroll.js
 /last_ads.
 /layout/ads?
 /lib/ads.
@@ -3976,6 +3977,7 @@ toutcash.com/images/bandeau-
 ||all-musculation.com^*/pub-fond/
 ||alldebrid.fr/lib/images/pub_
 ||allmetsat.com/data/pub/
+||allocine.fr/_video/partner/
 ||allstream.fr/images/partenaires/
 ||alsacreations.com/xmedia/pubs/
 ||alternatives-economiques.fr/pics_bdd/habillage/
@@ -7176,7 +7178,6 @@ search.ke.voila.fr###fontDivVignette
 forum.oujdacity.net###footer
 boursier.com###footer-partenaires
 liberation.fr###footer-partners-box
-allocine.fr###footerPlayer
 lequipe.fr###footer_boutique
 hardware.fr###footer_img
 lien-torrent.com###footerpb-application
@@ -7371,6 +7372,7 @@ gladplayer.com,paygladplayer.com,pgflow.com,playglad.com###pg_banproll
 topanalyse.com###pid_f
 tayo.fr###pioubhaut
 francoischarron.com###placeholder
+allocine.fr###player-footer
 vidbull.com###player_ads
 cuisineactuelle.fr###pmd300x600
 terre.tv###point_part
@@ -7778,6 +7780,7 @@ metronews.fr##.campaign-push-wrapper
 lejsl.com##.campaignImage
 lacentrale.fr##.caradisiac
 canalplus.fr##.carousel-preroll
+allocine.fr##.carrousel-main a[href*="/video/player_gen_cmedia="]
 psychologies.com##.carrousel_partenaires
 a18ans.com,jamaisjouis.com,liste2cul.com,vidule.com##.catcher
 girlsgogames.fr##.categoryBanner
@@ -8321,6 +8324,7 @@ torrentfrancais.com##.z2_full_pub_video
 tomsguide.fr##.zoneTriple
 tsa-algerie.com##.zone_annonceurs
 lepetiteconomiste.com##.zoom
+allocine.fr##:first-child > .card-video-trailer a[href^="/video/player_gen_cmedia="]
 wawacity.su##A[href$="/Adultes"]
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
@@ -8336,6 +8340,7 @@ nrj.fr##[class^="modal"]
 ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
 guide-piscine.fr##[class^="regie_"]
 msn.com##[class^="stripecontaine"][data-section-id="stripe.store"]
+allocine.fr##[data-ga-trigger="impression"] > .card-news
 meteofrance.com##[href*=".xiti.com"] > img
 mega-vesti.info##[href^="http://mega-vesti.info/telecharger-torrent/"]
 smartorrent.com##[href^="http://smartorrent.com/telecharger-torrent/"]
