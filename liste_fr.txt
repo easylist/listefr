@@ -3733,11 +3733,10 @@ _regie/clic.$popup
 |http://$script,third-party,domain=film-streamingvk.com
 |https://$script,third-party,domain=film-streamingvk.com
 ! gum-gum-streaming.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=gum-gum-streaming.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=gum-gum-streaming.com
-@@||wp.com/gum-gum-streaming.com/wp-content/uploads/$image,domain=gum-gum-streaming.com
-|http://$image,third-party,domain=gum-gum-streaming.com
-|http://$popup,script,xmlhttprequest,domain=gum-gum-streaming.com
-|https://$popup,script,xmlhttprequest,domain=gum-gum-streaming.com
+|http://$script,xmlhttprequest,domain=gum-gum-streaming.com
+|https://$script,xmlhttprequest,domain=gum-gum-streaming.com
 ! mangas-fr.com (goyavelab)
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=mangas-fr.com
 |http://$script,third-party,xmlhttprequest,domain=mangas-fr.com
@@ -8723,30 +8722,7 @@ people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 omgtorrent.me##ul > li[style*="padding:"]
 ! goyavelab
-gum-gum-streaming.com###fb-root > a
-gum-gum-streaming.com###fb-root > div
-gum-gum-streaming.com###fb-root > p
-gum-gum-streaming.com###fb-root > span
-gum-gum-streaming.com###footer + a[href*="/?"]
-gum-gum-streaming.com##[html] + div > span
-gum-gum-streaming.com##[id*="adblock"]
-gum-gum-streaming.com##[title] + .wrap > a
-gum-gum-streaming.com##a + a
-gum-gum-streaming.com##a + span
-gum-gum-streaming.com##br + a:last-child
-gum-gum-streaming.com##div > br + center
-gum-gum-streaming.com##div > p + span
-gum-gum-streaming.com##div > ul + p
-gum-gum-streaming.com##h3 + .wrap > div
-gum-gum-streaming.com##h3 + div > span
-gum-gum-streaming.com##script + div > a
-gum-gum-streaming.com##script + div > div
-gum-gum-streaming.com##script + div > p
-gum-gum-streaming.com##script + div > span
-gum-gum-streaming.com##style + a
-gum-gum-streaming.com##style + center > a
-gum-gum-streaming.com##ul + a[href*="?"]
-gum-gum-streaming.com##ul + span
+!
 ! Éléments pour generichide
 !
 ! Filtres de propriété CSS pour Adblock Plus
@@ -8764,8 +8740,6 @@ igen.fr##.region-sidebar a[-abp-properties='*']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 igen.fr##.view-content [-abp-properties='background-image:*;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='*: 300px;']
-gum-gum-streaming.com##[-abp-properties='*: 7*px;']
-gum-gum-streaming.com##[-abp-properties='*: 9*px;']
 femmesplus.fr,medisite.fr,planet.fr##[-abp-properties='background-image: *;']
 igen.fr,macg.co##[-abp-properties='background-image: url(*;']
 senscritique.com##[-abp-properties='background-position: *;']
