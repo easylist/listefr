@@ -423,6 +423,7 @@
 /dynamicads.
 /ec_adalt.
 /ec_adalt/*
+/ec_adalt_
 /ec_connectorDelivery.
 /email_catcher/track.php?$subdocument
 /emplacement-pub/*$subdocument
@@ -610,6 +611,7 @@
 /pub_ver.
 /pubAdv.
 /pubb.php
+/pubbl_vert.
 /pubde2.
 /pubdirecte_
 /publ1c1te.
@@ -737,7 +739,10 @@
 ://bannieres.
 ://eacash.
 ://go.*&zoneid=
+://go.*/|$script,third-party,xmlhttprequest
 ://go.*?zoneid=
+://goto.*&zoneid=
+://goto.*?zoneid=
 ://imads.
 ://reclame.
 ://soads.
@@ -943,9 +948,7 @@ _werbebanner_
 /effi.click?$popup
 /fr/adcr/*$popup
 /gopartner.php?pid=$popup
-/goto.*/watch?$popup
 /iframePopUpLoader.$popup
-/lp_fkplay/*$popup
 /n*adserv.com$popup
 /null/*/Redirect.$popup,third-party
 /offer?*&placement=$popup
@@ -955,7 +958,6 @@ _werbebanner_
 /partner/click/*$popup
 /pdv/track.$popup
 /pop?dfp_id=$popup
-/pop_packcpm.$popup
 /popads.$popup
 /popunderoncl.$popup
 /popuplp/btag/*$popup
@@ -980,7 +982,15 @@ _werbebanner_
 /trk/|$popup
 /unsub_aff.$popup
 /watch?*&uuid=*&refer=*&key=$popup
+://adv-mybankai.$popup
+://go.*&zoneid=$popup
+://go.*/watch?$popup
+://go.*?zoneid=$popup
+://goto.*/watch?$popup
 ://pdv.$popup
+://xml-feed.*/go.$popup
+://xml.*/click?$popup
+://xmlsearch.*/click?$popup
 =*&referrer=*embed-$popup
 =adplexmedia&$popup
 =partenariat&utm_campaign=$popup
@@ -1003,14 +1013,11 @@ _728x90_*_adb$popup
 _adb_300x250_$popup
 _adb_728x90_$popup
 _domain=ads.$popup
+_fkplay/$popup
+_packcpm.$popup
 _pop.php?z=$popup
 _pornofolies_$popup
 _regie/clic.$popup
-|http://go.*&zoneid=$popup
-||adv-mybankai.$popup
-||xml-feed.*/go.php?$popup
-||xml.*/click?$popup
-||xmlsearch.*/click?$popup
 ! TLD popups
 ||bid^*&refer=$popup
 ||bid^*watch?key=$popup,third-party
@@ -2630,7 +2637,6 @@ _regie/clic.$popup
 |http://$subdocument,third-party,domain=clictune.com|e-wok.tv
 |http://*.online/*/|$script,third-party,xmlhttprequest
 |http://*.xyz/*/|$script,third-party,xmlhttprequest
-|http://go.*/|$script,third-party,xmlhttprequest
 !
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
