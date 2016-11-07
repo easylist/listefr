@@ -20,6 +20,8 @@
 &ad_path=
 &ad_sub=
 &ad_tags=
+&adclickthrough=
+&adclickurl=
 &AdFormat=
 &adGapId=
 &adplace=
@@ -38,6 +40,7 @@
 &pop_under=
 &popundersPerIP=
 &promo=*_mpu_
+&pub_redirect=
 &pubsite=
 &subpartenaire=
 &videoAdHtmlId=
@@ -744,8 +747,10 @@
 ://goto.*&zoneid=
 ://goto.*?zoneid=
 ://imads.
+://na.ads.
 ://reclame.
 ://soads.
+://sync.adaptv.
 ://vykingad.
 =/ads.js|
 =250x250&bn=
@@ -1586,6 +1591,7 @@ _regie/clic.$popup
 ||kinkypeepz.com^$third-party
 ||koodoo.net^$third-party
 ||kreaffiliation.com^$third-party
+||lamiflor.xyz^$third-party
 ||leadzupc.com^$third-party
 ||leasured.eu^$third-party
 ||lien-amateur.org^$third-party
@@ -2173,6 +2179,7 @@ _regie/clic.$popup
 ||redorange.website^
 ||stickredgr.online^
 ||telehan.xyz^
+||verymuchad.com^
 ! toroadvertising.com
 ||asadismn.xyz^
 ||asjdfasas.xyz^
@@ -2971,6 +2978,7 @@ _regie/clic.$popup
 ||gamingskin.com^
 ||gardena-house.fr/affilies.js
 ||gateway.eravage.com/hit.php?$popup
+||gearbest.com^*?utm_source=$popup,third-party
 ||generation-nt.com/img/ovh/
 ||gerardmerinfo.fr/pub/
 ||get-my-ads.com^$popup
