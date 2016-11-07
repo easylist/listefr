@@ -8401,7 +8401,7 @@ artdeseduire.com##a[href*="/?part=ads"]
 webactus.net##a[href*="/?utm_source="]
 sosvirus.net##a[href*="/affiliate-"] > img
 t411.lt##a[href*="/download/"]
-papyfullstream.com##a[href*="/film-"]
+papyfullstream.com,papystreaming-film.com##a[href*="/film-"]
 espritlib.com##a[href*="/goto_part.php?"]
 nouvelobs.com##a[href*="/les-bons-plans-shopping/"]
 planet-series.tv##a[href*="/offer?"]
@@ -9205,6 +9205,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||naruto-mx.net^$elemhide
 @@||noovo.ca^$generichide
 @@||papyfullstream.com^$generichide
+@@||papystreaming-film.com^$generichide
 @@||partage-facile.com^$generichide
 @@||phonandroid.com^$generichide
 @@||rapidebrideur.com^$elemhide
