@@ -6852,6 +6852,7 @@ toutcash.com/images/bandeau-
 ##.wrap-pub
 ##.wrapperPub
 ##.yourcolor-ads
+##.zone_annonceurs
 ##.zonepub
 ##A[href*="=INSERT_RANDOM_NUMBER_HERE&"]
 ##A[onclick^="CustomWLAdServer."]
@@ -8336,7 +8337,6 @@ lapresse.ca##.xtra
 torrentfrancais.com##.z2_full_direct_link_download
 torrentfrancais.com##.z2_full_pub_video
 tomsguide.fr##.zoneTriple
-tsa-algerie.com##.zone_annonceurs
 lepetiteconomiste.com##.zoom
 allocine.fr##:first-child > .card-video-trailer a[href^="/video/player_gen_cmedia="]
 wawacity.su##A[href$="/Adultes"]
@@ -9159,7 +9159,6 @@ _adblockdetector/
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
 @@||stream4free.eu/images/*#$~image
 @@||teramixer.com/plugins/mediaplayer/assets/js/advertisement.js$script
-@@||tsa-algerie.com/wp-content/themes/tsa/js/ads.js$script
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||wakanim.tv^*/video/advertisement?idepisode=
 !
