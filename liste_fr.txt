@@ -603,6 +603,7 @@
 /pub_delivery.
 /pub_header.
 /pub_html5/*
+/pub_json_
 /pub_smart.js
 /pub_smart_js.
 /pub_title.
@@ -4882,6 +4883,7 @@ toutcash.com/images/bandeau-
 ||meteo.pf/images/exemples/pub_
 ||meteocity.com/images/$xmlhttprequest
 ||meteocity.com/ressources/images/encartJeuConcours.jpg
+||meteofrance.com^*/habillage/
 ||metronews.fr/partenaires/
 ||mfteam.fr/wp-content/uploads/*/fond.png
 ||michelin.fr/data/public/field/image/
@@ -8408,7 +8410,7 @@ demo-gk.goyavelab.com##a[href*="?"]
 nouvelobs.com##a[href*="?partner="]
 challenges.fr,nouvelobs.com##a[href*="?partnerlinkid="]
 jemangejemincis.fr##a[href*="?utm_campaign="]
-audiofanzine.com##a[href*="?utm_source="]
+audiofanzine.com,meteofrance.com##a[href*="?utm_source="]
 deco-smart.com##a[href*="?utm_source=ds_shop"]
 jds.fr##a[href*="_clic.php?"]
 filmstreaming-hd.com##a[href*="base64"]
