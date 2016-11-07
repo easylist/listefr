@@ -987,6 +987,7 @@ _werbebanner_
 /trk/|$popup
 /unsub_aff.$popup
 /watch?*&uuid=*&refer=*&key=$popup
+/www/go/*?zoneid=$popup
 ://adv-mybankai.$popup
 ://go.*&zoneid=$popup
 ://go.*/watch?$popup
@@ -3863,6 +3864,12 @@ uploaded.net##[class*="pico-"]
 @@||ajax.googleapis.com/ajax/libs/$script,domain=streamingeur.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=streamingeur.com
 |https://$script,third-party,domain=streamingeur.com
+! neko-san.fr
+@@||ajax.googleapis.com/ajax/libs/$script,domain=neko-san.fr
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=neko-san.fr
+|http://$script,third-party,xmlhttprequest,domain=neko-san.fr
+|https://$script,third-party,xmlhttprequest,domain=neko-san.fr
+||neko-san.fr^$popup,~third-party
 ! the-walking-dead-stream.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=the-walking-dead-stream.net
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=the-walking-dead-stream.net
@@ -4965,6 +4972,7 @@ toutcash.com/images/bandeau-
 ||navis.ma/_medias_files/pub_files/
 ||navis.ma/images_1/hcar.jpg
 ||neezzmail.com/js/box.js
+||neko-san.fr/js/$script
 ||neomag.fr/e-pubs/
 ||netbeopen.com/clients/*/img/partners/
 ||netiris.fr/imgs/wengo/
@@ -8717,7 +8725,7 @@ vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 igen.fr,macg.co##header + a[target="_blank"]
 aufeminin.com,mangas-fr.com,marmiton.org##iframe[style]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
-developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
+developpez.net,neko-san.fr,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
 medialot.fr##img[height="38"][width="300"]
 forum-windows.com##img[height="60"][width="650"]
@@ -8995,6 +9003,7 @@ femmesplus.fr##section[id] > img
 @@||serrurier-menuisier-31-ad2.fr^$~third-party
 @@||serrurier-menuisier-31-ad2.site-privilege.pagesjaunes.fr^$image,third-party
 @@||static.caradisiac.com/img_site/autopromo/300x90_autopromo_depot_avis.png|$image
+@@||static.neko-san.fr/js/neko-1.2.min.js|$script
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||static.touraineverte.com/banners/$image
 @@||stcwbd.com/ads/plugins/jwplayer/player.swf$domain=eurosport.fr|ozap.com|puretrend.com
