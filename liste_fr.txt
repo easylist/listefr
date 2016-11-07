@@ -623,6 +623,7 @@
 /publi728/*
 /publicidades/*
 /publicidadsetup/*
+/publicit%c3%a9/*
 /publicite-
 /publicite.
 /publicite/*
@@ -6890,6 +6891,7 @@ toutcash.com/images/bandeau-
 ##a[href*="://adsrvmedia."]
 ##a[href*="://all2lnk.com/"]
 ##a[href*="?ad_id="]
+##a[href*="_728x90_bleach_adb"]
 ##a[href*="ads_random"]
 ##a[href*="fastclick.net/ad/"]
 ##a[href*="friendlyduck.com/AF_"]
@@ -7743,6 +7745,7 @@ aujourdhui-en-france.fr,leparisien.fr##.bloc-pratique
 logitheque.com##.bloc-pub-center-left
 aeroport.fr##.bloc-shopping
 aujourdhui-en-france.fr,leparisien.fr##.blocPartenaire
+narutoshippudenvf.com##.bloc_728c
 auto-utilitaire.com,mobilealgerie.com##.bloc_728x90_brd
 psychologies.com##.bloc_abo
 programme-television.org##.bloc_evt
@@ -8596,7 +8599,7 @@ jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 mega-vesti.info,smartorrent.com##a[style="color:hotpink;"]
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
-file.up09.com,narutoshippudenvf.com##a[target="_blank"]
+file.up09.com##a[target="_blank"]
 journaldu4x4.com,planet-streaming.com,seriezone.org##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
