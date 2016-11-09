@@ -360,6 +360,7 @@
 /banners/pub-
 /banners/show_flash.js
 /banners?tid=
+/banniere.*?type=
 /banniere.php?id=
 /banniere/proxy.php?
 /banniere/proxy2.php?
@@ -520,6 +521,7 @@
 /open_pub.
 /openwindow.js?puurl=
 /otherads/*
+/p_under.
 /packcpm.
 /pad_ban.
 /page_pub.
@@ -1489,6 +1491,7 @@ _regie/clic.$popup
 ||etoro.fr^$third-party
 ||euro-clic.com^$third-party
 ||eurolive.com^$third-party
+||europacash.com^$third-party
 ||eurowebbiz.com^$third-party
 ||every.com^$third-party
 ||everybodyads.net^$third-party
