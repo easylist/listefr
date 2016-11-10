@@ -40,6 +40,7 @@
 &pop_under=
 &popundersPerIP=
 &promo=*_mpu_
+&promo_sizes=970x90,
 &pub_redirect=
 &pubsite=
 &subpartenaire=
@@ -64,6 +65,7 @@
 -468x60px.
 -486_60.
 -60x480.
+-728-90-1.
 -728-90a.
 -728-90b.
 -728-90c.
@@ -1008,6 +1010,7 @@ _werbebanner_
 ?action=linkpub&$popup
 ?adCampaign=$popup
 ?adslotid=$popup
+?adTagId=$popup
 ?auction_id=*&zoneid=$popup
 ?floatpop=$popup
 ?id_rotation=$popup
@@ -1856,6 +1859,7 @@ _regie/clic.$popup
 ||sepedaju.com^$third-party
 ||seprovider.com^$third-party
 ||septani.ru^$third-party
+||sepulchralconestogaleftover.com^$third-party
 ||serpzaer.com^$third-party
 ||servedby-buysellads.com^$third-party
 ||setads.bid^$third-party
@@ -2071,6 +2075,7 @@ _regie/clic.$popup
 ||mmvcmovwegkz.com^
 ||molqvpnnlmnb.com^
 ||mueqzsdabscd.com^
+||pcebrrqydcox.com^
 ||rvzudtgpvwxz.com^
 ||teyuzyrjmrdi.com^
 ||vejlbuixnknc.com^
@@ -2169,6 +2174,7 @@ _regie/clic.$popup
 ||rediamob.com^
 ||redorange.website^
 ||stickredgr.online^
+||stirshakead.com^
 ||telehan.xyz^
 ||verymuchad.com^
 ! toroadvertising.com
@@ -2760,6 +2766,7 @@ _regie/clic.$popup
 ||belledesfleurs.com/ban/$third-party
 ||bestofartisans.com/app/$third-party
 ||bestofmedia.com/sfp/images/partner/
+||bet365.com^*?affiliate=$popup
 ||betclic.fr/partner.aspx?
 ||betclic.fr^$popup,domain=flashresultats.fr
 ||betclick.com^*/banner.ashx?
@@ -6944,6 +6951,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://toroadvertisingmedia.com"]
 ##a[href^="http://www.affiliation-france.com/"]
 ##a[href^="http://www.allopass.com/"] > img
+##a[href^="http://www.bet365.com/dl/~offer?affiliate="]
 ##a[href^="http://www.downloadplayer1.com/"]
 ##a[href^="http://www.easyflirt-partners.biz"]
 ##a[href^="http://www.espace-plus.net/"]
