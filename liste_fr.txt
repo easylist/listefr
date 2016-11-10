@@ -573,6 +573,7 @@
 /pub-300x250.
 /pub-ads/*
 /pub-bouygues/*
+/pub-collante.
 /pub-colonne-droite/*
 /pub-ovh/*
 /pub-sky.
@@ -5996,6 +5997,7 @@ toutcash.com/images/bandeau-
 ###pub-banner-refresh
 ###pub-caree
 ###pub-center
+###pub-collante
 ###pub-dfp
 ###pub-dfp-footer
 ###pub-dfp-footer-fixe
@@ -9152,6 +9154,7 @@ _adblockdetector/
 @@||iscoolcdn.com/versioned/prod/bundles/iscoolkitchen/adblock/advertisement.
 @@||lafansubresistance.biz^$script,domain=lafansubresistance.biz
 @@||laprovence.com/sites/all/themes/lpv4/js/ads.js
+@@||lesbriconautes.fr/wp-content/themes/mts_ad_sense/js/ads.js|$script
 @@||linkbucks.com/scripts/script-adv.js$script,third-party
 @@||mymanga.io/css/ads.css|$stylesheet
 @@||nouvelle-fiat500.fr/ad-pub.js$script
