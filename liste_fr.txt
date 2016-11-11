@@ -2987,7 +2987,6 @@ _regie/clic.$popup
 ||funradio.fr/partenaires/
 ||g2a.com/*?addid=$popup
 ||g2a.com/r/$popup
-||g2a.com^$popup,domain=hitek.fr
 ||gagne-facile.com/img/banner-
 ||gambling-affiliation.com^$popup,domain=euro-2016-france.net
 ||gametap.com/convergence/Header/framed/?
@@ -3860,11 +3859,6 @@ uploaded.net##[class*="pico-"]
 ! jeuxflash.com
 |http://$script,xmlhttprequest,domain=jeuxflash.com
 |https://$script,xmlhttprequest,domain=jeuxflash.com
-! hitek.fr
-@@||ajax.googleapis.com/ajax/libs/$script,domain=hitek.fr
-|http://$script,third-party,xmlhttprequest,domain=hitek.fr
-|https://$script,third-party,xmlhttprequest,domain=hitek.fr
-||hitek.fr^$popup,~third-party
 ! sound-park.fr
 @@||sound-park.fr^$popup,~third-party
 |http://$script,third-party,xmlhttprequest,domain=sound-park.fr
@@ -4541,7 +4535,6 @@ toutcash.com/images/bandeau-
 ||histoires-de-sexe.net/graf/
 ||histoires-de-sexe.net/histoires-sexe-videos.php$popup
 ||hitek.fr/img/*-ban.
-||hitek.fr/scripts/common.js
 ||homecine-compare.com/images/*?cache=
 ||homecine-compare.com/images/main/*/pub.png
 ||homecinema-fr.com/iframe-header-300x600-
