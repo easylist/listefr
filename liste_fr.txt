@@ -876,6 +876,7 @@ _werbebanner_
 !
 !------------------------ Génériques popup -----------------------!
 !
+&_r=*.adult.&$popup
 &ad_domain=$popup
 &ad_id=$popup
 &ad_path=$popup
@@ -891,6 +892,7 @@ _werbebanner_
 &noexitctapop=$popup
 &nsfw=&id_promo=$popup
 &pub_sub_id_$popup
+&pubid=*.adult.*&$popup
 &publisherid=$popup
 &pubsite=$popup
 &runauction=$popup
@@ -1013,6 +1015,7 @@ _werbebanner_
 ?adslotid=$popup
 ?adTagId=$popup
 ?auction_id=*&zoneid=$popup
+?clickid=*.adult.*&$popup
 ?floatpop=$popup
 ?id_rotation=$popup
 ?MediaSegmentId=$popup
@@ -2353,6 +2356,7 @@ _regie/clic.$popup
 ||danstonfion.com^$popup,third-party
 ||dblock-ads.com^$popup,third-party
 ||dealdunjour.com^$popup,third-party
+||dealitright.click^$popup,third-party
 ||delnapb.com^$popup,third-party
 ||derby-digital.com^$popup,third-party
 ||digitalworldads.com^$popup,third-party
@@ -2422,6 +2426,7 @@ _regie/clic.$popup
 ||ipsowrite.com^$popup,third-party
 ||irclick.net^$popup,third-party
 ||isanalyze.com^$popup,third-party
+||istripper.com^$popup,third-party
 ||jdoqocy.com^$popup,third-party
 ||justgetitfaster.com^$popup,third-party
 ||kastafor.com^$popup,third-party
@@ -2634,6 +2639,7 @@ _regie/clic.$popup
 ||yoursinstance.info^$popup,third-party
 ||youwatchtab.com^$popup,third-party
 ||yoyadsdom.com^$popup,third-party
+||yrdrtzmsmt.com^$popup,third-party
 ||z-defense.com^$popup,third-party
 ||zeroredirect*.com^$popup
 ||zidor.info^$popup,third-party
@@ -8819,10 +8825,12 @@ igen.fr,macg.co##[-abp-properties='background-image: url(*;']
 senscritique.com##[-abp-properties='background-position: *;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='content:*;']
 femmesplus.fr,medisite.fr,planet.fr##[-abp-properties='cursor: pointer;']
+tube8.com,tube8.fr##[-abp-properties='data:']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 nextinpact.com##[-abp-properties='height: 250px;']
 igen.fr##[-abp-properties='height: 61*px;']
 igen.fr##[-abp-properties='height: 62*px;']
+tube8.com,tube8.fr##[-abp-properties='image/']
 protect-stream.com##[-abp-properties='opacity: *;']
 igen.fr,macg.co##[-abp-properties='padding-bottom: 50*px;']
 nextinpact.com##[-abp-properties='width: 300px;']
