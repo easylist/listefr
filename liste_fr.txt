@@ -2677,6 +2677,7 @@ _regie/clic.$popup
 ||othip.info^$popup,third-party
 ||ouaitupeuxregarderenillimite.com^$popup,third-party
 ||parserward.info^$popup,third-party
+||parserwoad.info^$popup,third-party
 ||peritas247.info^$popup,third-party
 ||plxnt.com^$popup,third-party
 ||poptm.com^$popup,third-party
@@ -4003,9 +4004,10 @@ uploaded.net##[class*="pico-"]
 ! neko-san.fr
 @@||ajax.googleapis.com/ajax/libs/$script,domain=neko-san.fr
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=neko-san.fr
-|http://$script,third-party,xmlhttprequest,domain=neko-san.fr
-|https://$script,third-party,xmlhttprequest,domain=neko-san.fr
+|http://$script,xmlhttprequest,domain=neko-san.fr
+|https://$script,xmlhttprequest,domain=neko-san.fr
 ||neko-san.fr^$popup,~third-party
+||youtube.com^$domain=neko-san.fr
 ! the-walking-dead-stream.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=the-walking-dead-stream.net
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=the-walking-dead-stream.net
@@ -5113,7 +5115,6 @@ toutcash.com/images/bandeau-
 ||navis.ma/_medias_files/pub_files/
 ||navis.ma/images_1/hcar.jpg
 ||neezzmail.com/js/box.js
-||neko-san.fr/js/$script
 ||neomag.fr/e-pubs/
 ||netbeopen.com/clients/*/img/partners/
 ||netiris.fr/imgs/wengo/
@@ -5771,6 +5772,7 @@ toutcash.com/images/bandeau-
 ||dnyjp3iys0r8o.cloudfront.net^
 ||dqy6k7wqsbont.cloudfront.net^
 ||dr3k6qonw2kee.cloudfront.net^
+||dviixeyykyqjv.cloudfront.net^
 ||dylasklmlxige.cloudfront.net^
 ||dymwsh1c2kslr.cloudfront.net^
 !
@@ -6753,6 +6755,7 @@ toutcash.com/images/bandeau-
 ##.pub-rectangle-php
 ##.pub-text
 ##.pub-top-site
+##.pub-trailer
 ##.pub160x600
 ##.pub242x90
 ##.pub300
