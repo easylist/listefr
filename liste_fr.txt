@@ -2748,7 +2748,6 @@ _regie/clic.$popup
 ||smart-dn.com^$popup,third-party
 ||smartadserver.com^$popup,third-party
 ||socket-parser.work^$popup
-||solution.weborama.fr^$popup,third-party
 ||soosooka.com^$popup,third-party
 ||sopoto.co^$popup,third-party
 ||soutienaristophil.tk^$popup,third-party
@@ -2809,6 +2808,7 @@ _regie/clic.$popup
 ||voluums.com^$popup,third-party
 ||votdengi.club^$popup,third-party
 ||wct.link^$popup,third-party
+||weborama.fr^$popup,third-party
 ||webprod.cybertesteurs.com^$popup,third-party,domain=~iss.net
 ||wgpartner.com^$popup,third-party
 ||white-eyes.com^$popup,third-party
@@ -7077,7 +7077,7 @@ toutcash.com/images/bandeau-
 ##a[href*="regie.medncom.com/"]
 ##a[href*="smartadserver.com/call/cliccommand/"] > img
 ##a[href*="utm_medium=mega_banniere"] > img
-##a[href*="weborama.fr/fcgi-bin/performance.fcgi?"]
+##a[href*="weborama.fr/fcgi-bin/"]
 ##a[href*="xiti.com/go.ad?"]
 ##a[href^=".php/ads/"]
 ##a[href^=".php/annonce/ads/"]
@@ -7330,6 +7330,7 @@ asso-web.com###container_pub_left
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr###conteneur_PROMO_Gauche
 millenium.org###content_pub
 spi0n.com###content_top
+abcbourse.com###ctl00_btmmaster_xforex
 flyordie.com###dasb
 edcom.fr###decouvrirActu
 lareclame.fr###dfp-top
@@ -8607,7 +8608,7 @@ demo-gk.goyavelab.com##a[href*="?"]
 nouvelobs.com##a[href*="?partner="]
 challenges.fr,nouvelobs.com##a[href*="?partnerlinkid="]
 jemangejemincis.fr##a[href*="?utm_campaign="]
-audiofanzine.com,meteofrance.com##a[href*="?utm_source="]
+abcbourse.com,audiofanzine.com,meteofrance.com##a[href*="?utm_source="]
 deco-smart.com##a[href*="?utm_source=ds_shop"]
 jds.fr##a[href*="_clic.php?"]
 filmstreaming-hd.com##a[href*="base64"]
