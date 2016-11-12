@@ -1072,7 +1072,7 @@ _regie/clic.$popup
 !----------------------- Annonceurs -----------------------!
 !
 ||1000mercis.com^$third-party
-||104.154.237.$script,third-party
+||104.154.237.$third-party
 ||104.197.10.$script,third-party
 ||104.197.127.$script,third-party
 ||104.197.140.$script,third-party
@@ -1423,6 +1423,7 @@ _regie/clic.$popup
 ||clkmon.com^$third-party
 ||closestloyaltyand.xyz^$third-party
 ||cms-skin.com^$third-party
+||codeonclick.com^$third-party
 ||coindushopping.fr^$third-party
 ||coloredview.com^$third-party
 ||comandclick.com^$third-party
@@ -9266,7 +9267,7 @@ _adblockdetector/
 ||static.caradisiac.com/javascript/caradisiac_first.js
 !
 @@.gif#$image,domain=sos-lettre.fr
-@@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|naruto-mx.net|telecharger-jeuxpc.com
+@@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|naruto-mx.net|telecharger-jeuxpc.com|the-night-of-streaming.eu
 @@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|ebookdz.com|leetgamerz.net|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
@@ -9385,6 +9386,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||softmaroc.org^$generichide
 @@||sos-lettre.fr^$generichide
 @@||telecharger-jeuxpc.com^$generichide
+@@||the-night-of-streaming.eu^$generichide
 @@||total-sport.tv^$elemhide
 @@||tout-debrid.net^$generichide
 @@||ultim-telechargementz.com^$generichide
