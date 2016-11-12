@@ -3836,6 +3836,13 @@ _regie/clic.$popup
 @@|http://*.digiteka.net/*,,/*?mdtk=$object-subrequest,third-party,domain=ultimedia.com
 @@||p.jwpcdn.com^$object-subrequest,third-party,domain=ultimedia.com
 |http://$object-subrequest,script,third-party,xmlhttprequest,domain=ultimedia.com
+! videoplaza
+|http://*0.*.damoh.*/|$domain=rtl.be
+|http://*2.*.damoh.*/|$domain=rtl.be
+|http://*3.*.damoh.*/|$domain=rtl.be
+|http://*4.*.damoh.*/|$domain=rtl.be
+|http://*8.*.damoh.*/|$domain=rtl.be
+|http://*9.*.damoh.*/|$domain=rtl.be
 ! t411
 @@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ch
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.ch
