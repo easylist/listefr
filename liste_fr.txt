@@ -761,6 +761,7 @@
 ://vykingad.
 =/ads.js|
 =250x250&bn=
+=banniere&*=leaderboard&
 =dynamic_banner&
 =GetAdHtml&
 =goto_adv&id_adv=
@@ -5348,6 +5349,8 @@ toutcash.com/images/bandeau-
 ||telesatellite.com/images/fransat-bistv.jpg
 ||telesatellite.com/images/nl/
 ||telesatellite.com/images/tvc_hybrides.jpg
+||tendancehotellerie.fr/img/gif/
+||tendancehotellerie.fr/spip.php
 ||tendanceouest.com/*/lightbox-
 ||tennisactu.net/*/encarts_partenaires/
 ||terre.tv/images/partenaires/
@@ -7052,7 +7055,7 @@ courrierlaval.com,letraitdunion.com###add_top
 mistergoodmovies.net###addspace
 telechargerunevideo.com###adlbl
 clicanoo.re###adress_utiles
-ecogine.org,film-streamiz.net,filmstreamvf.co,full-serie.com,full-stream.cc,full-stream.is,full-stream.la,full-stream.me,full-stream.net,full-stream.nu,full-stream.org,hstv.over-blog.com,libre-stream.com,narkive.com,planet-streaming.com,streamiz-films.com,telechargementgratuits.com,vfilmze.com,youwatchfilm.net,zone-films.net,zone-series.biz###ads
+ecogine.org,film-streamiz.net,filmstreamvf.co,full-serie.com,full-stream.cc,full-stream.is,full-stream.la,full-stream.me,full-stream.net,full-stream.nu,full-stream.org,hstv.over-blog.com,libre-stream.com,narkive.com,planet-streaming.com,streamiz-films.com,telechargementgratuits.com,tendancehotellerie.fr,vfilmze.com,youwatchfilm.net,zone-films.net,zone-series.biz###ads
 ustart.org###ads_tall
 algerie360.com###adssouspost
 nowvideo.eu###adv1
@@ -9224,6 +9227,7 @@ _adblockdetector/
 @@||teramixer.com/plugins/mediaplayer/assets/js/advertisement.js$script
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||wakanim.tv^*/video/advertisement?idepisode=
+@@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 !
 leveldown.fr#@##adblock
 bleachmx.co#@##adsense
