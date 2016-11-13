@@ -524,6 +524,7 @@
 /oas/oas.php?
 /open_pub.
 /openwindow.js?puurl=
+/origin-ads.
 /otherads/*
 /p_under.
 /packcpm.
@@ -2525,6 +2526,7 @@ _regie/clic.$popup
 ||clksite.com^$popup,third-party
 ||coloredview.com^$popup,third-party
 ||cometstar.net^$popup,third-party
+||companypolicyurl.com^$popup,third-party
 ||compazenad.com^$popup,third-party
 ||consol-energy.net^$popup,third-party
 ||console-bar.net^$popup,third-party
@@ -2789,7 +2791,9 @@ _regie/clic.$popup
 ||the-adult-company.com^$popup,third-party
 ||the-queen.net^$popup,third-party
 ||theopenads.com^$popup,third-party
+||thewhizltd.com^$popup,third-party
 ||thewhizmarketing.com^$popup,third-party
+||thewhizproducts.com^$popup,third-party
 ||thisclick.network^$popup,third-party
 ||tmhgm.com^$popup,third-party
 ||todigroup.com^$popup,third-party
@@ -6485,6 +6489,7 @@ toutcash.com/images/bandeau-
 ##.ads-ligatus-right
 ##.ads-lrec
 ##.ads-pave
+##.ads-popular-comments
 ##.ads-r
 ##.ads-reco
 ##.ads-search
