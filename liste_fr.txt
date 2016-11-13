@@ -3875,8 +3875,8 @@ _regie/clic.$popup
 |http://$script,third-party,domain=cpabien.xyz|cpasbien.cm|cpasbien.io
 |https://$script,third-party,domain=cpabien.xyz|cpasbien.cm|cpasbien.io
 ! zetorrents.com
-|http://$popup,script,third-party,domain=zetorrents.com
-|https://$popup,script,third-party,domain=zetorrents.com
+|http://$popup,script,third-party,domain=zetorrento.fr|zetorrents.com
+|https://$popup,script,third-party,domain=zetorrento.fr|zetorrents.com
 ! torrent9.tv
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=torrent9.me|torrent9.tv|torrent9.ws
 |http://$script,third-party,domain=torrent9.me|torrent9.tv|torrent9.ws
@@ -7080,7 +7080,9 @@ toutcash.com/images/bandeau-
 ##a[href*="_728x90_bleach_adb"]
 ##a[href*="_728x90_bleachsx_adb"]
 ##a[href*="ads_random"]
+##a[href*="ducklingquacks.com/"]
 ##a[href*="fastclick.net/ad/"]
+##a[href*="fducks.com/"]
 ##a[href*="friendlyduck.com/AF_"]
 ##a[href*="friendlyduckaffiliates.com/"]
 ##a[href*="friendlyquacks.com/"]
@@ -7131,7 +7133,6 @@ toutcash.com/images/bandeau-
 ##a[href^="http://www.downloadplayer1.com/"]
 ##a[href^="http://www.easyflirt-partners.biz"]
 ##a[href^="http://www.espace-plus.net/"]
-##a[href^="http://www.fducks.com/"]
 ##a[href^="http://www.gaddin.com/index.php?sponsor"] > img
 ##a[href^="http://www.gamingaffiliation.com/"]
 ##a[href^="http://www.leguide.com/lettre/"]
@@ -8541,6 +8542,7 @@ tomsguide.fr##.zoneTriple
 lepetiteconomiste.com##.zoom
 allocine.fr##:first-child > .card-video-trailer a[href^="/video/player_gen_cmedia="]
 wawacity.su##A[href$="/Adultes"]
+zetorrento.fr##A[href*="/AF_"]
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
@@ -8629,7 +8631,7 @@ fourchette-et-bikini.fr##a[href*="go2cloud.org/aff_c?"]
 dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-de-l-en-galerant-sur-le.html"]
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 jemangejemincis.fr##a[href*="leadpages.co/"]
-zetorrents.com##a[href*="porno"]
+zetorrento.fr,zetorrents.com##a[href*="porno"]
 beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com,sports.fr##a[href*="smartadserver.com/call/cliccommand/"]
 mega-vesti.info,smartorrent.com##a[href*="tonlive.com"]
 lucariostream.eu##a[href*="univers-saiyan.com/"]
