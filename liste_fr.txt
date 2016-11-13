@@ -4041,9 +4041,10 @@ uploaded.net##[class*="pico-"]
 ! neko-san.fr
 @@||ajax.googleapis.com/ajax/libs/$script,domain=neko-san.fr
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=neko-san.fr
+@@||neko-san.fr/ressources/timeline|$script,~third-party
 |http://$script,xmlhttprequest,domain=neko-san.fr
 |https://$script,xmlhttprequest,domain=neko-san.fr
-||neko-san.fr^$popup,~third-party
+||neko-san.fr^$popup
 ||youtube.com^$domain=neko-san.fr
 ! the-walking-dead-stream.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=the-walking-dead-stream.net
