@@ -7049,6 +7049,7 @@ toutcash.com/images/bandeau-
 ##.yourcolor-ads
 ##.zone_annonceurs
 ##.zonepub
+##A[href*="/rel/index.cfm?TAD="]
 ##A[href*="=INSERT_RANDOM_NUMBER_HERE&"]
 ##A[onclick^="CustomWLAdServer."]
 ##[class*="proadszoneholder-"]
@@ -8542,7 +8543,7 @@ tomsguide.fr##.zoneTriple
 lepetiteconomiste.com##.zoom
 allocine.fr##:first-child > .card-video-trailer a[href^="/video/player_gen_cmedia="]
 wawacity.su##A[href$="/Adultes"]
-zetorrento.fr##A[href*="/AF_"]
+zetorrento.fr,zetorrents.com##A[href*="/AF_"]
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
