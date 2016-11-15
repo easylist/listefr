@@ -1035,6 +1035,7 @@ _werbebanner_
 ?partner=*&offer_id=$popup,third-party
 ?preview=*&pgid*&from_sz=$popup
 ?runauction=$popup
+?utm_term=*&clickverify=$popup
 ?voluumdata=$popup
 ?zoneid=$popup,domain=ddlfr.org
 _300x250_*_adb$popup
@@ -2740,6 +2741,7 @@ _regie/clic.$popup
 ||pourmajeurs.com^$popup,third-party
 ||predictivadnetwork.com^$popup,third-party
 ||predictivadvertising.com^$popup,third-party
+||profitforyou.info^$popup,third-party
 ||promo.voyance-web.fr^$popup,third-party
 ||promotions.djummer.com^$popup,third-party
 ||ps4ux.com^$popup,third-party
