@@ -3897,6 +3897,8 @@ _regie/clic.$popup
 |http://$script,third-party,xmlhttprequest,domain=voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
 |https://$script,third-party,xmlhttprequest,domain=voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
 ! films-regarder.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=films-regarder.org
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=films-regarder.org
 |http://$script,third-party,domain=films-regarder.com|films-regarder.org|films-regarder.xyz
 |https://$script,third-party,domain=films-regarder.com|films-regarder.org|films-regarder.xyz
 ! ddlfr.org
