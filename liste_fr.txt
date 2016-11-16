@@ -3968,10 +3968,10 @@ _regie/clic.$popup
 |http://*8.*.damoh.*/|$domain=rtl.be
 |http://*9.*.damoh.*/|$domain=rtl.be
 ! t411
-@@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ch
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.ch
-|http://$script,third-party,domain=t411.bz|t411.ch|t411.la|t411.lt|t411.tv
-|https://$script,third-party,domain=t411.bz|t411.ch|t411.la|t411.lt|t411.tv
+@@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ch|t411.li
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.ch|t411.li
+|http://$script,third-party,domain=t411.bz|t411.ch|t411.la|t411.li|t411.lt|t411.tv
+|https://$script,third-party,domain=t411.bz|t411.ch|t411.la|t411.li|t411.lt|t411.tv
 ! voirfilms.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=voirfilms.co
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=voirfilms.co
@@ -7802,8 +7802,8 @@ tomshardware.fr###rightcol_top_anchor
 7sur7.be###rpVacature
 korben.info###samsarin_php_widget-12
 maxistreaming.com###searchform
-t411.ch###searchform + .notice + p + p > a
-t411.ch###searchform + .notice + p > a
+t411.ch,t411.li###searchform + .notice + p + p > a
+t411.ch,t411.li###searchform + .notice + p > a
 slappyto.net###shadow
 zapiks.fr###shop
 aliceadsl.fr,laposte.net,portail.free.fr###shoppingBox
@@ -8139,7 +8139,7 @@ allocine.fr##.coltop
 tirage-gagnant.com##.compteBar
 pagesjaunes.fr##.containerPdsSitesPartenaires
 strastv.com##.container_pubh_02
-t411.ch##.content > .block + [class] + [style]
+t411.ch,t411.li##.content > .block + [class] + [style]
 quetelecharger.com##.content-bloc-pub
 cotemaison.fr,lexpress.fr##.content_inside_partner
 nintendo-master.com##.content_kelkoo_link
@@ -8149,7 +8149,7 @@ games.softgames.de##.cpi-banner-description-content
 blumei-piano.com##.cyt-affi-wrapper
 allocine.fr##.d_table-cell.vam
 logitheque.com##.description + .telechargement
-t411.bz,t411.ch,t411.la,t411.lt,t411.tv##.description + div[class]
+t411.bz,t411.ch,t411.la,t411.li,t411.lt,t411.tv##.description + div[class]
 grosnews.com##.deuxcarres
 rtl.fr##.dfp-pave
 lemonde.fr##.dfp_slot
@@ -8521,7 +8521,7 @@ senscritique.com##.sc-klass
 ouest-france.fr##.sd-deals
 telesatellite.com##.sda
 sports.fr##.service[data-link$="\", \"target\":\"_blank\" \7d "]
-t411.ch##.share + .description + [class]
+t411.ch,t411.li##.share + .description + [class]
 programme-tv.net##.shopping
 portail.free.fr##.shopping_carrousel_produit
 streamay.com##.showitonplayer
@@ -8595,10 +8595,10 @@ get-your-rom.com##.topSectionContainer
 lnc.nc,softonic.fr,undernews.fr##.topbanner
 allocine.fr##.topheader
 fan-de-cinema.com##.topmargin
-t411.bz,t411.ch,t411.la,t411.lt,t411.tv##.torrentDetails + .block + [class]
-t411.ch##.torrentDetails + script + .block + [class]
-t411.ch##.torrentDetails > [class] + [style]
-t411.bz,t411.ch,t411.la,t411.lt,t411.tv##.torrentDetails > h2 + div + [class]
+t411.bz,t411.ch,t411.la,t411.li,t411.lt,t411.tv##.torrentDetails + .block + [class]
+t411.ch,t411.li##.torrentDetails + script + .block + [class]
+t411.ch,t411.li##.torrentDetails > [class] + [style]
+t411.bz,t411.ch,t411.la,t411.li,t411.lt,t411.tv##.torrentDetails > h2 + div + [class]
 ca-briepicardie.fr##.total-cover
 search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
@@ -8666,7 +8666,7 @@ fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
-t411.bz,t411.ch,t411.la,t411.lt,t411.tv##[class] + div > img + a
+t411.bz,t411.ch,t411.la,t411.li,t411.lt,t411.tv##[class] + div > img + a
 film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.la,full-stream.nu,libre-stream.com,planet-streaming.com,streamiz-films.com,vfilmze.com##[class^="PapaGoo"]
 footnamurois.com##[class^="banners-"]
 jeu.info##[class^="banniere-"]
@@ -8805,7 +8805,7 @@ imdb.com##a[href^="/offsite/?"]
 immigrer.com##a[href^="/p/bannieres/"]
 agevillage.com##a[href^="/pub-"]
 confidentielles.com##a[href^="/rc_787_"]
-t411.bz,t411.ch,t411.la,t411.lt,t411.tv##a[href^="/redirect.php"]
+t411.bz,t411.ch,t411.la,t411.li,t411.lt,t411.tv##a[href^="/redirect.php"]
 jeuxvideo.com##a[href^="/sponso/"] img
 beaute-test.com##a[href^="/stat/clic.php?"]
 omgtorrent.me##a[href^="/torrent-"]
@@ -8885,9 +8885,9 @@ yahoo.com##a[href^="https://beap.gemini.yahoo.com/"]
 clubic.com##a[href^="https://clk.tradedoubler.com/"]
 frenchweb.fr##a[href^="https://experiences.microsoft.fr/"]
 lefigaro.fr##a[href^="https://go.babbel.com/"]
-mega-vesti.info,smartorrent.com,t411.bz,t411.ch,t411.la,t411.lt,t411.tv,wawacity.su##a[href^="https://tr.im/"]
+mega-vesti.info,smartorrent.com,t411.bz,t411.ch,t411.la,t411.li,t411.lt,t411.tv,wawacity.su##a[href^="https://tr.im/"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
-t411.bz,t411.ch,t411.la,t411.lt,t411.tv##a[href^="https://www.amazon.com/"]
+t411.bz,t411.ch,t411.la,t411.li,t411.lt,t411.tv##a[href^="https://www.amazon.com/"]
 fdesouche.com##a[href^="https://www.amazon.fr/"]
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
 credit-agricole.fr##a[href^="https://www.onatousuncotefoot.fr/"]
@@ -8898,10 +8898,10 @@ japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 dpstream.to,quedustream.com,streaming-series.to,twstream.com##a[href^="streaming-series"]
 mega-p2p.net##a[href^="vpn"]
-t411.bz,t411.ch,t411.la,t411.lt,t411.tv##a[id]
+t411.bz,t411.ch,t411.la,t411.li,t411.lt,t411.tv##a[id]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
-t411.bz,t411.ch,t411.la,t411.lt,t411.tv##a[onclick*="base64"]
+t411.bz,t411.ch,t411.la,t411.li,t411.lt,t411.tv##a[onclick*="base64"]
 lien-torrent.com##a[onclick*="directlinks"]
 wawacity.su##a[onclick]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
@@ -8910,7 +8910,7 @@ jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 mega-vesti.info,smartorrent.com##a[style="color:hotpink;"]
 750g.com##a[style="display: block; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;"]
-t411.bz,t411.ch,t411.la,t411.lt,t411.tv##a[style]
+t411.bz,t411.ch,t411.la,t411.li,t411.lt,t411.tv##a[style]
 file.up09.com##a[target="_blank"]
 journaldu4x4.com,planet-streaming.com,seriezone.org##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
@@ -9014,7 +9014,7 @@ echoroukonline.com##div[style^="display:inline-block;width:300px;height:250px;"]
 embed.nowvideo.sx##div[style^="height: 350px; width: 600px; z-index:"]
 tooply.com##div[style^="position:fixed; bottom:0px; left:50%; margin-left:-379px; width:728px; height:90px;"]
 geny.com##div[style^="width: 300px; height: 250px;"]
-t411.ch##div[style^="width: 468px;"]
+t411.ch,t411.li##div[style^="width: 468px;"]
 free-reseau.fr,hdfever.fr##div[style^="width: 728px; height: 90px;"]
 forum-des-oranges.fr##div[style^="width: 728px;"]
 algerie360.com##div[style^="width:100%; height:100px"]
@@ -9056,7 +9056,7 @@ faireunlien.com##img[width^="728height=90"]
 ici.tou.tv##li.bigBox
 sinfest.net##noscript a
 bonjourmadame.fr##object[width="728"][height="90"]
-t411.bz,t411.ch,t411.la,t411.lt,t411.tv##p[style="width: 400px; margin: 0 auto; color: darkorange"]
+t411.bz,t411.ch,t411.la,t411.li,t411.lt,t411.tv##p[style="width: 400px; margin: 0 auto; color: darkorange"]
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
 omgtorrent.me##span > a:first-child
 mega-vesti.info,smartorrent.com##span[style^="cursor:pointer;"] > a
