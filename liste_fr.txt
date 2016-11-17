@@ -4143,6 +4143,9 @@ uploaded.net##[class*="pico-"]
 @@||ajax.googleapis.com/ajax/libs/$script,domain=streamingeur.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=streamingeur.com
 |https://$script,third-party,domain=streamingeur.com
+! neko-san.fr
+|http://*,$script,third-party,domain=neko-san.fr
+|https://*,$script,third-party,domain=neko-san.fr
 ! the-walking-dead-stream.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=the-walking-dead-stream.net
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=the-walking-dead-stream.net
