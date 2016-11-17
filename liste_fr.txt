@@ -691,6 +691,7 @@
 /shareaholic.js
 /shareaholic/*
 /shared/ad/*
+/shopify_rolling_
 /show.php?*&ad=
 /show_adv.
 /show_next_ads.
@@ -9428,6 +9429,7 @@ _adblockdetector/
 ||larascasse.fr/forum/uploads/javascript_core/plugins_plugins.js
 ||photo.programme-tv.net/js/main-*.js$script
 ||static.caradisiac.com/javascript/caradisiac_first.js
+||static.tacdn.com/*/src/ta/common/behavior/abAppeal-*.js
 !
 @@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|naruto-mx.net|telecharger-jeuxpc.com|the-night-of-streaming.eu
