@@ -3024,7 +3024,6 @@ _regie/clic.$popup
 ||akamaihd.net/*_vpaid.js
 ||akamaihd.net^$domain=dailymotion.com
 ||algeriemobiles.com/pub/
-||gearbest.com/?utm_source=$popup
 ||alibaba.com^$popup,domain=streamin.to
 ||aliencable.com/images/$third-party
 ||aliexpress.com^$popup,domain=dzsat.org
@@ -3303,6 +3302,7 @@ _regie/clic.$popup
 ||gamingskin.com^
 ||gardena-house.fr/affilies.js
 ||gateway.eravage.com/hit.php?$popup
+||gearbest.com/?utm_source=$popup
 ||gearbest.com^*?utm_source=$popup,third-party
 ||generation-nt.com/img/ovh/
 ||gerardmerinfo.fr/pub/
@@ -3964,12 +3964,12 @@ _regie/clic.$popup
 @@||p.jwpcdn.com^$object-subrequest,third-party,domain=ultimedia.com
 |http://$object-subrequest,script,third-party,xmlhttprequest,domain=ultimedia.com
 ! videoplaza
-|http://*0.*.damoh.*/|$domain=rtl.be
-|http://*2.*.damoh.*/|$domain=rtl.be
-|http://*3.*.damoh.*/|$domain=rtl.be
-|http://*4.*.damoh.*/|$domain=rtl.be
-|http://*8.*.damoh.*/|$domain=rtl.be
-|http://*9.*.damoh.*/|$domain=rtl.be
+|http://*0.*.damoh.*/|$domain=canalplus.fr|rtl.be
+|http://*2.*.damoh.*/|$domain=canalplus.fr|rtl.be
+|http://*3.*.damoh.*/|$domain=canalplus.fr|rtl.be
+|http://*4.*.damoh.*/|$domain=canalplus.fr|rtl.be
+|http://*8.*.damoh.*/|$domain=canalplus.fr|rtl.be
+|http://*9.*.damoh.*/|$domain=canalplus.fr|rtl.be
 ! t411
 @@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ch|t411.li
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.ch|t411.li
