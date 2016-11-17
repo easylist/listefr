@@ -3981,8 +3981,8 @@ _regie/clic.$popup
 ! films-regarder.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=films-regarder.org
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=films-regarder.org
-|http://$script,third-party,domain=films-regarder.com|films-regarder.org|films-regarder.xyz
-|https://$script,third-party,domain=films-regarder.com|films-regarder.org|films-regarder.xyz
+|http://$popup,script,third-party,domain=films-regarder.com|films-regarder.org|films-regarder.xyz
+|https://$popup,script,third-party,domain=films-regarder.com|films-regarder.org|films-regarder.xyz
 ! ddlfr.org
 |http://$script,third-party,xmlhttprequest,domain=ddlfr.org
 |https://$script,third-party,xmlhttprequest,domain=ddlfr.org
