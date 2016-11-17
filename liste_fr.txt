@@ -25,6 +25,7 @@
 &AdFormat=
 &adGapId=
 &adplace=
+&adroll_pix_id=
 &ads_size_id=
 &adv_sub=
 &arabycash_
@@ -3025,8 +3026,10 @@ _regie/clic.$popup
 ||akamaihd.net^$domain=dailymotion.com
 ||algeriemobiles.com/pub/
 ||alibaba.com^$popup,domain=streamin.to
+||alibaba.com^*&aff_platform=$popup
 ||aliencable.com/images/$third-party
 ||aliexpress.com^$popup,domain=dzsat.org
+||aliexpress.com^*&aff_platform=$popup
 ||allo-heberge.com/interface/bannieres/
 ||allo-nom.com/interface/bannieres/
 ||allodiagnostic.com/partenariat/$third-party
@@ -3151,6 +3154,7 @@ _regie/clic.$popup
 ||clicjeux.net/bann/
 ||clicjeux.net/banniere.
 ||click.alibaba.com^$subdocument
+||click.aliexpress.com^$popup
 ||click.aliexpress.com^$subdocument
 ||clickbiz.fr/upload/ban/
 ||clickmylink.fr/bannieres/
@@ -3302,8 +3306,7 @@ _regie/clic.$popup
 ||gamingskin.com^
 ||gardena-house.fr/affilies.js
 ||gateway.eravage.com/hit.php?$popup
-||gearbest.com/?utm_source=$popup
-||gearbest.com^*?utm_source=$popup,third-party
+||gearbest.com^*?utm_$popup,third-party
 ||generation-nt.com/img/ovh/
 ||gerardmerinfo.fr/pub/
 ||get-my-ads.com^$popup
@@ -3649,7 +3652,6 @@ _regie/clic.$popup
 ||rwabe.com/pub/
 ||s-sfr.fr/stats/authMsg.js
 ||s.brsimg.com^*/cache/css/compress/$object
-||s.click.aliexpress.com/e/qFAmuzNju$popup
 ||s3.amazonaws.com^$domain=uploads.to
 ||s3.amazonaws.com^*/publishers/$script
 ||salopes-du-jour.com/sexy.js
@@ -4146,6 +4148,9 @@ uploaded.net##[class*="pico-"]
 ! neko-san.fr
 |http://*,$script,third-party,domain=neko-san.fr
 |https://*,$script,third-party,domain=neko-san.fr
+! stream-island.su
+|http://*,$script,third-party,domain=ddl-island.su|emule-island.ru|stream-island.ru|stream-island.su
+|https://*,$script,third-party,domain=ddl-island.su|emule-island.ru|stream-island.ru|stream-island.su
 ! the-walking-dead-stream.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=the-walking-dead-stream.net
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=the-walking-dead-stream.net
@@ -5844,7 +5849,7 @@ toutcash.com/images/bandeau-
 ||ztat.net^*/affiliate/
 ! cloudfront.net
 ||cloudfront.net/img/banner
-||cloudfront.net^$domain=1host.name|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|daclips.in|dailymotion.com|exashare.com|fas.li|gighub.net|gorillavid.com|gorillavid.in|letwatch.to|letwatch.us|maquillage.com|movpod.in|openload.info|pausefun.com|pausepeople.com|revclouds.com|solidfiles.com|thewatchseries.to|toofy.tv|up09.com|uploadocean.com|uploadrocket.net|uplod.it|vidshare.me|vidshare.us|wholecloud.net|wuxiaworld.com|xvidstage.com|youwatch.org
+||cloudfront.net^$domain=1host.name|ahzahg6ohb.com|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|daclips.in|dailymotion.com|exashare.com|fas.li|gighub.net|gorillavid.com|gorillavid.in|letwatch.to|letwatch.us|maquillage.com|movpod.in|openload.info|pausefun.com|pausepeople.com|revclouds.com|solidfiles.com|thewatchseries.to|toofy.tv|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uplod.it|vidshare.me|vidshare.us|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*tid=$script
 ||d13strl4lo8mtp.cloudfront.net^
@@ -5913,6 +5918,7 @@ toutcash.com/images/bandeau-
 ||diqdel92t4na6.cloudfront.net^
 ||dk2mvwe4uw0z3.cloudfront.net^
 ||dnyjp3iys0r8o.cloudfront.net^
+||dpiw925yvtpfq.cloudfront.net^
 ||dqy6k7wqsbont.cloudfront.net^
 ||dr3k6qonw2kee.cloudfront.net^
 ||dviixeyykyqjv.cloudfront.net^
