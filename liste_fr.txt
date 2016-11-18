@@ -4060,9 +4060,8 @@ _regie/clic.$popup
 |http://$script,third-party,domain=streamay.com
 |https://$script,third-party,domain=streamay.com
 ! enstreaming.tv
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=enstreaming.tv
-|http://$script,third-party,xmlhttprequest,domain=enstreaming.tv
-|https://$script,third-party,xmlhttprequest,domain=enstreaming.tv
+|http://*,$script,third-party,xmlhttprequest,domain=enstreaming.eu|enstreaming.tv
+|https://*,$script,third-party,xmlhttprequest,domain=enstreaming.eu|enstreaming.tv
 ! ddstream.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=ddstream.com|dpstream.to|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=ddstream.com|dpstream.to|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
