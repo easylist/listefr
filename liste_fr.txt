@@ -2238,6 +2238,7 @@ _regie/clic.$popup
 ||isbzjaedbdjr.com^
 ||isdlyvhegxxz.com^
 ||jamkkydyiyhx.com^
+||jbgehhqvfppf.com^
 ||jjpoxurorlsb.com^
 ||jwfdyujffrzt.com^
 ||jyauuwrrigim.com^
@@ -2254,6 +2255,7 @@ _regie/clic.$popup
 ||npgdqwtrprfq.com^
 ||onkcjpgmshqx.com^
 ||osbblnlmwzcr.com^
+||ovoczhahelca.com^
 ||pcebrrqydcox.com^
 ||peqdwnztlzjp.com^
 ||ppqfteducvts.com^
@@ -4044,8 +4046,8 @@ _regie/clic.$popup
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
 ! filmvf.ws
-|http://$script,third-party,xmlhttprequest,domain=filmvf.ws
-|https://$script,third-party,xmlhttprequest,domain=filmvf.ws
+|http://*,$script,third-party,xmlhttprequest,domain=filmvf.ws
+|https://*,$script,third-party,xmlhttprequest,domain=filmvf.ws
 ! serie-streaming-vf.net
 |http://$script,third-party,xmlhttprequest,domain=serie-streaming-vf.net
 |https://$script,third-party,xmlhttprequest,domain=serie-streaming-vf.net
@@ -9516,6 +9518,8 @@ _adblockdetector/
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||wakanim.tv^*/video/advertisement?idepisode=
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
+! openload
+@@|https://555fff555f.net/*.js|$script,domain=openload.co
 !
 leveldown.fr#@##adblock
 bleachmx.co#@##adsense
