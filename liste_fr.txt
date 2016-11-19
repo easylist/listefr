@@ -3002,6 +3002,12 @@ _regie/clic.$popup
 |http://*.online/*/|$script,third-party,xmlhttprequest
 |http://*.xyz/*/|$script,third-party,xmlhttprequest
 !
+|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1024,768,1,1024,768|$script,third-party
+|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1366,768,1,1366,768|$script,third-party
+|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1440,900,1,1440,900|$script,third-party
+|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,1,1600,900|$script,third-party
+|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,1,1920,1080|$script,third-party
+!
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
 ||11footballclub.com^*/indexcolonne.php?
