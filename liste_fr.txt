@@ -2273,6 +2273,7 @@ _regie/clic.$popup
 ||lyzskjigkxwy.com^
 ||lzvnaaozpqyb.com^
 ||mdeaoowvqxma.com^
+||mhrfhwlqsnzf.com^
 ||mjujcjfrgslf.com^
 ||mmvcmovwegkz.com^
 ||molqvpnnlmnb.com^
@@ -2285,6 +2286,7 @@ _regie/clic.$popup
 ||ovoczhahelca.com^
 ||pcebrrqydcox.com^
 ||peqdwnztlzjp.com^
+||popzkvfimbox.com^
 ||ppqfteducvts.com^
 ||ptoflpqqqkdk.com^
 ||pzkpyzgqvofi.com^
@@ -2310,10 +2312,12 @@ _regie/clic.$popup
 ||vdyqcdxqvebl.com^
 ||veeqneifeblh.com^
 ||vejlbuixnknc.com^
+||vfkfctmtgrtq.com^
 ||vhwuphctrfil.com^
 ||vkarvfrrlhmv.com^
 ||volleqgoafcb.com^
 ||vqaprwkiwset.com^
+||vulexmouotod.com^
 ||wkggjmkrkvot.com^
 ||wpktjtwsidcz.com^
 ||wsscyuyclild.com^
@@ -3030,14 +3034,14 @@ _regie/clic.$popup
 |http://*.online/*/|$script,third-party,xmlhttprequest
 |http://*.xyz/*/|$script,third-party,xmlhttprequest
 !
-|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1024,768,1,1024,768|$script,third-party
-|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1366,768,1,1366,768|$script,third-party
-|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1440,900,1,1440,900|$script,third-party
-|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,1,1600,900|$script,third-party
-|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,1,1920,1080|$script,third-party
+|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1024,768,*,102*,$script,third-party
+|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1366,768,*,136*,$script,third-party
+|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1440,900,*,144*,$script,third-party
+|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,*,160*,$script,third-party
+|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,*,192*,$script,third-party
 !
-|http://*,$script,third-party,domain=full-film.me|manga-fr.com|neko-san.fr
-|https://*,$script,third-party,domain=full-film.me|manga-fr.com|neko-san.fr
+|http://*,$script,third-party,domain=filmvf.ws|full-film.me|manga-fr.com|neko-san.fr
+|https://*,$script,third-party,domain=filmvf.ws|full-film.me|manga-fr.com|neko-san.fr
 !
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
@@ -4095,9 +4099,6 @@ _regie/clic.$popup
 ! lirescan.net
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
-! filmvf.ws
-|http://*,$script,third-party,xmlhttprequest,domain=filmvf.ws
-|https://*,$script,third-party,xmlhttprequest,domain=filmvf.ws
 ! serie-streaming-vf.net
 |http://$script,third-party,xmlhttprequest,domain=serie-streaming-vf.net
 |https://$script,third-party,xmlhttprequest,domain=serie-streaming-vf.net
