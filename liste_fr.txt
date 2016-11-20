@@ -3032,8 +3032,8 @@ _regie/clic.$popup
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,1,1600,900|$script,third-party
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,1,1920,1080|$script,third-party
 !
-|http://*,$script,third-party,domain=full-film.me
-|https://*,$script,third-party,domain=full-film.me
+|http://*,$script,third-party,domain=full-film.me|manga-fr.com
+|https://*,$script,third-party,domain=full-film.me|manga-fr.com
 !
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
@@ -3189,6 +3189,7 @@ _regie/clic.$popup
 ||bstatic.ccmbg.com/www.linternaute.com/js/start?
 ||business-lounge.fr/public/widget-prod/
 ||buziol.pl^$popup
+||buzzy9.com/video/$subdocument
 ||buzzypeople.fr/download/115163_k.gif
 ||buzzypeople.fr/pluginbarre/
 ||buzzypeople.fr/webplayertv/728x90wa.png
@@ -3249,7 +3250,7 @@ _regie/clic.$popup
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
-||dailymotion.com^*autoplay=1$domain=anime301.com|bescherelletamere.fr|buzzutopia.com|dragon-ball-super-streaming.com|hitek.fr|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|otakufr.com|pokemon-streaming.com|pokercast.tv|sonyoutube.com|stream4free.pro|youzapping.com
+||dailymotion.com^*autoplay=1$domain=anime301.com|bescherelletamere.fr|buzzutopia.com|dragon-ball-super-streaming.com|hitek.fr|manga-fr.com|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|otakufr.com|pokemon-streaming.com|pokercast.tv|sonyoutube.com|stream4free.pro|youzapping.com
 ||dailymotion.com^*mute=1$domain=captainmugiwara.over-blog.com
 ||damoh.schneevonmorgen.com^
 ||damtours.com/static/img/damtous_$third-party
@@ -5186,6 +5187,7 @@ toutcash.com/images/bandeau-
 ||maliweb.net/wp-content/news/images/*pmu
 ||mamytwink.com^*/images/partenaires/
 ||manager-online.fr/styles/mo3/template/instant.png
+||manga-fr.com^$script
 ||manga-news.com/public/banners/
 ||manga-sanctuary.com^*?url=
 ||mangavatars.com/include/partenaires.php
