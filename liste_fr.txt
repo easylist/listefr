@@ -3260,7 +3260,6 @@ _regie/clic.$popup
 ||dir-fr.com/banners/$domain=la-musique-rai.com
 ||disco-sexe.com/ban/$third-party
 ||discutfree.com^$popup,domain=netvibes.com
-||divinafutur.net^$popup,domain=dpstream.net
 ||djezzy.dz^$popup,domain=ouedkniss.com
 ||dmcdn.net/*_mp4_h264_aac_$media
 ||dmcdn.net/playerv5/152cfcd3fdbcc85f376e.dmp.js
@@ -8661,6 +8660,7 @@ walfoot.be##.take-banner
 turbo.fr##.textPub
 asso-web.com##.text_pub
 wakanim.tv##.theoplayer-error
+dpstream.net##.tickercontainer
 laposte.fr##.tile--flag--partner
 moteurs-regionaux.com##.titreCoupProjo
 cinemotions.com##.titre_paragraphe + div[style="height:450px; margin-left:12px;"]
@@ -8932,7 +8932,6 @@ futurama-stream.eu,play-fr.com,t411streaming.com##a[href^="http://www.adcash.com
 peuple-vert.fr,scally.typepad.com##a[href^="http://www.amazon.fr/"] > img
 alsacreations.com##a[href^="http://www.amazon.fr/gp/product/"]
 usbfix.net##a[href^="http://www.bitdefender.fr/media/"]
-dpstream.net##a[href^="http://www.divinafutur.net/"]
 djelfa.info##a[href^="http://www.djelfa.info/ar/click/"]
 dzsat.org##a[href^="http://www.dzsat.org/forum/rbs_banner.php?"]
 gizmodo.fr##a[href^="http://www.ebuyclub.com/operations/gizmodo/entreeGizmodo.jsp?"]
@@ -9115,7 +9114,6 @@ playfrance.com##img[src="http://images.playfrance.com/v4/blank_1x1.gif"]
 sortir.eu##img[src^="http://www.lille.sortir.eu/portal_banneradmin/"]
 zataz.com##img[style="border: 0px solid ; width: 300px; height: 250px;"]
 zataz.com##img[style="border: 0px solid; width: 300px; height: 250px;"]
-dpstream.net##img[title*="partenaire"]
 supplychainmagazine.fr##img[width="120"][height="240"]
 journaldu4x4.com##img[width="120"][height="600"]
 bricozone.be##img[width="120"][height="75"]
