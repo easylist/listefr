@@ -8531,6 +8531,7 @@ cciaf.org##.pubDroite
 whitespirit.fr##.pubHaut
 priceminister.com##.pubHeading
 lapresse.ca##.pubInterne
+tuxboard.com##.pubMixte
 cdiscount.com##.pubText
 meilleurmobile.com##.pub_combo
 evous.fr##.pub_contenu
@@ -8759,7 +8760,7 @@ turbo.fr##[id^="ABbypass"]
 film-streamingvk.com,film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.la,full-stream.nu,libre-stream.com,planet-streaming.com,streamiz-films.com,vfilmze.com,youwatchfilm.net##[id^="PapaGoo"]
 footnamurois.com##[id^="banners-"]
 egora.fr##[id^="block-gmsante_pub-"]
-20minutes.fr,pix-geeks.com,telesatellite.com##[id^="crt-"]
+20minutes.fr,pix-geeks.com,telesatellite.com,tuxboard.com##[id^="crt-"]
 commentcamarche.net,journaldesfemmes.com,lachainemeteo.com##[id^="lig_"]
 leparticulier.fr##[id^="loca_service_simulateur_"]
 agate-france.com##[id^="pbad_"]
@@ -9623,6 +9624,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||the-night-of-streaming.eu^$generichide
 @@||total-sport.tv^$elemhide
 @@||tout-debrid.net^$generichide
+@@||tuxboard.com^$generichide
 @@||ultim-telechargementz.com^$generichide
 @@||vtele.ca^$generichide
 @@||xavierstuder.com^$generichide
