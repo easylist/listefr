@@ -2213,6 +2213,7 @@ _regie/clic.$popup
 ||acjmkenepeyn.com^
 ||adtbomthnsyz.com^
 ||afedispdljgb.com^
+||aiiaqehoqgrj.com^
 ||alasdzdnfvtj.com^
 ||amnpmitevuxx.com^
 ||aoqviogrwckf.com^
@@ -2268,9 +2269,11 @@ _regie/clic.$popup
 ||ktjqfqadgmxh.com^
 ||lctpaemybjkv.com^
 ||lroywnhohfrj.com^
+||lwqwsptepdxy.com^
 ||lyzskjigkxwy.com^
 ||lzvnaaozpqyb.com^
 ||mdeaoowvqxma.com^
+||mjujcjfrgslf.com^
 ||mmvcmovwegkz.com^
 ||molqvpnnlmnb.com^
 ||mueqzsdabscd.com^
@@ -2321,6 +2324,7 @@ _regie/clic.$popup
 ||xcrruqesggzc.com^
 ||xegavyzkxowj.com^
 ||xseczkcysdvc.com^
+||xwwsojvluzsb.com^
 ||yflpucjkuwvh.com^
 ||zfkkmayphqrw.com^
 ||zfqpjxuycxdl.com^
@@ -3032,8 +3036,8 @@ _regie/clic.$popup
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,1,1600,900|$script,third-party
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,1,1920,1080|$script,third-party
 !
-|http://*,$script,third-party,domain=full-film.me|manga-fr.com
-|https://*,$script,third-party,domain=full-film.me|manga-fr.com
+|http://*,$script,third-party,domain=full-film.me|manga-fr.com|neko-san.fr
+|https://*,$script,third-party,domain=full-film.me|manga-fr.com|neko-san.fr
 !
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
@@ -4209,9 +4213,6 @@ uploaded.net##[class*="pico-"]
 @@||ajax.googleapis.com/ajax/libs/$script,domain=streamingeur.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=streamingeur.com
 |https://$script,third-party,domain=streamingeur.com
-! neko-san.fr
-|http://*,$script,third-party,domain=neko-san.fr
-|https://*,$script,third-party,domain=neko-san.fr
 ! otakufr.com
 |http://*,$script,third-party,domain=otakufr.com
 |https://*,$script,third-party,domain=otakufr.com
