@@ -3041,8 +3041,8 @@ _regie/clic.$popup
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,*,160*,$script,third-party
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,*,192*,$script,third-party
 !
-|http://*,$script,third-party,domain=dpstreaming.watch|filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|stream-watch.co
-|https://*,$script,third-party,domain=dpstreaming.watch|filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|stream-watch.co
+|http://*,$script,third-party,domain=dpstreaming.watch|filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|otakufr.com|stream-watch.co
+|https://*,$script,third-party,domain=dpstreaming.watch|filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|otakufr.com|stream-watch.co
 !
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
@@ -4210,9 +4210,6 @@ uploaded.net##[class*="pico-"]
 @@||ajax.googleapis.com/ajax/libs/$script,domain=streamingeur.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=streamingeur.com
 |https://$script,third-party,domain=streamingeur.com
-! otakufr.com
-|http://*,$script,third-party,domain=otakufr.com
-|https://*,$script,third-party,domain=otakufr.com
 ! stream-island.su
 |http://*,$script,third-party,domain=ddl-island.su|emule-island.ru|stream-island.ru|stream-island.su
 |https://*,$script,third-party,domain=ddl-island.su|emule-island.ru|stream-island.ru|stream-island.su
