@@ -3043,8 +3043,8 @@ _regie/clic.$popup
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,*,160*,$script,third-party
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,*,192*,$script,third-party
 !
-|http://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstreaming.watch|filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|otakufr.com|stream-watch.co
-|https://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstreaming.watch|filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|otakufr.com|stream-watch.co
+|http://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstreaming.watch|filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
+|https://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstreaming.watch|filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
 !
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
@@ -4105,9 +4105,6 @@ _regie/clic.$popup
 ! serie-streaming-vf.net
 |http://$script,third-party,xmlhttprequest,domain=serie-streaming-vf.net
 |https://$script,third-party,xmlhttprequest,domain=serie-streaming-vf.net
-! sokrostream.biz
-|http://*,$script,third-party,domain=sokrostream.biz
-|https://*,$script,third-party,domain=sokrostream.biz
 ! k-streaming.com
 |http://*,$script,third-party,domain=k-streaming.com
 |https://*,$script,third-party,domain=k-streaming.com
