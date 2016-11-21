@@ -1979,6 +1979,7 @@ _regie/clic.$popup
 ||sarmady.net^$third-party
 ||sasqos.com^$third-party
 ||say.fr^$third-party
+||scriptall.ga^$third-party
 ||scriptall.tk^$third-party
 ||sddan.com^$third-party
 ||sdk-ads.com^$third-party
@@ -3040,8 +3041,8 @@ _regie/clic.$popup
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,*,160*,$script,third-party
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,*,192*,$script,third-party
 !
-|http://*,$script,third-party,domain=filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|stream-watch.co
-|https://*,$script,third-party,domain=filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|stream-watch.co
+|http://*,$script,third-party,domain=dpstreaming.watch|filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|stream-watch.co
+|https://*,$script,third-party,domain=dpstreaming.watch|filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|stream-watch.co
 !
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
@@ -4145,11 +4146,6 @@ _regie/clic.$popup
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=dpseries.net
 |http://$script,third-party,xmlhttprequest,domain=dpseries.net
 |https://$script,third-party,xmlhttprequest,domain=dpseries.net
-! dpstreaming.watch
-@@||ajax.googleapis.com/ajax/libs/$script,domain=dpstreaming.watch
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=dpstreaming.watch
-|http://$script,third-party,xmlhttprequest,domain=dpstreaming.watch
-|https://$script,third-party,xmlhttprequest,domain=dpstreaming.watch
 ! greys-anatomy-en-streaming.fr
 @@||ajax.googleapis.com/ajax/libs/$script,domain=greys-anatomy-en-streaming.fr
 |http://$script,third-party,domain=greys-anatomy-en-streaming.fr
