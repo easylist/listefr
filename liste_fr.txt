@@ -3043,8 +3043,8 @@ _regie/clic.$popup
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,*,160*,$script,third-party
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,*,192*,$script,third-party
 !
-|http://*,$script,third-party,domain=club-anime.fr|dpstreaming.watch|filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|otakufr.com|stream-watch.co
-|https://*,$script,third-party,domain=club-anime.fr|dpstreaming.watch|filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|otakufr.com|stream-watch.co
+|http://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstreaming.watch|filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|otakufr.com|stream-watch.co
+|https://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstreaming.watch|filmvf.ws|full-film.me|manga-fr.com|neko-san.fr|otakufr.com|stream-watch.co
 !
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
@@ -5927,7 +5927,7 @@ toutcash.com/images/bandeau-
 ||ztat.net^*/affiliate/
 ! cloudfront.net
 ||cloudfront.net/img/banner
-||cloudfront.net^$domain=1host.name|ahzahg6ohb.com|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|daclips.in|dailymotion.com|exashare.com|fas.li|gighub.net|gorillavid.com|gorillavid.in|letwatch.to|letwatch.us|maquillage.com|movpod.in|openload.info|pausefun.com|pausepeople.com|revclouds.com|solidfiles.com|thewatchseries.to|toofy.tv|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uplod.it|vidshare.me|vidshare.us|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org
+||cloudfront.net^$domain=1host.name|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|daclips.in|dailymotion.com|exashare.com|fas.li|gighub.net|gorillavid.com|gorillavid.in|letwatch.to|letwatch.us|maquillage.com|movpod.in|openload.info|pausefun.com|pausepeople.com|revclouds.com|solidfiles.com|thewatchseries.to|toofy.tv|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uplod.it|vidshare.me|vidshare.us|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*tid=$script
 ||d13strl4lo8mtp.cloudfront.net^
@@ -9589,6 +9589,8 @@ _adblockdetector/
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 ! openload
 @@|https://555fff555f.net/*.js|$script,domain=openload.co
+! youwatch
+@@||ahkaik9yof.com/js/*.js|$script,domain=ahkaik9yof.com
 !
 leveldown.fr#@##adblock
 bleachmx.co#@##adsense
