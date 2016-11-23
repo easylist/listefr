@@ -2257,6 +2257,7 @@ _regie/clic.$popup
 ||hnoajsaivjsg.com^
 ||hpmgdwvvqulp.com^
 ||hsvqfvjidloc.com^
+||hwvwuoxsosfp.com^
 ||hytkatubjuln.com^
 ||idkyfrsbzesx.com^
 ||ieqprskfariw.com^
@@ -2301,6 +2302,7 @@ _regie/clic.$popup
 ||popzkvfimbox.com^
 ||ppqfteducvts.com^
 ||ptoflpqqqkdk.com^
+||puogotzrsvtg.com^
 ||pzkpyzgqvofi.com^
 ||qevivcixnngf.com^
 ||qndqwtrwguhv.com^
@@ -2313,6 +2315,7 @@ _regie/clic.$popup
 ||suwadesdshrg.com^
 ||svjloaomrher.com^
 ||teyuzyrjmrdi.com^
+||thnqemehtyfe.com^
 ||tkfsmiyiozuo.com^
 ||tyzfzrjaxxcg.com^
 ||uavqdzorwish.com^
@@ -3057,8 +3060,8 @@ _regie/clic.$popup
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,*,160*,$script,third-party
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,*,192*,$script,third-party
 !
-|http://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstreaming.watch|filmvf.ws|full-film.me|hinata-online-community.fr|k-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
-|https://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstreaming.watch|filmvf.ws|full-film.me|hinata-online-community.fr|k-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
+|http://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstreaming.watch|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
+|https://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstreaming.watch|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
 !
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
@@ -4134,11 +4137,6 @@ _regie/clic.$popup
 @@||cdnjs.cloudflare.com/ajax/libs/$stylesheet,domain=film-streamingvk.com
 |http://$script,third-party,domain=film-streamingvk.com
 |https://$script,third-party,domain=film-streamingvk.com
-! gum-gum-streaming.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=gum-gum-streaming.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=gum-gum-streaming.com
-|http://$script,xmlhttprequest,domain=gum-gum-streaming.com
-|https://$script,xmlhttprequest,domain=gum-gum-streaming.com
 ! mangas-fr.com (goyavelab)
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=mangas-fr.com
 |http://$script,third-party,xmlhttprequest,domain=mangas-fr.com
