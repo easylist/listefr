@@ -1015,6 +1015,9 @@ _werbebanner_
 /watch?*&uuid=*&refer=*&key=$popup
 /www/go/*?zoneid=$popup
 ://adv-mybankai.$popup
+://adv-mylegend.$popup
+://adv-myninja.$popup
+://adv-mypirate.$popup
 ://go.*&zoneid=$popup
 ://go.*/watch?$popup
 ://go.*?zoneid=$popup
@@ -7318,8 +7321,10 @@ toutcash.com/images/bandeau-
 ##a[href^="http://ads.affiliation-france.com/"]
 ##a[href^="http://ads.reflexcash.com/"]
 ##a[href^="http://ads.wui.fr/"]
-##a[href^="http://adv-mybankai.ggcorp.me/"]
+##a[href^="http://adv-mybankai."]
+##a[href^="http://adv-mylegend."]
 ##a[href^="http://adv-myninja."]
+##a[href^="http://adv-mypirate."]
 ##a[href^="http://always-parser.xyz/"]
 ##a[href^="http://centredecontrole.biz/ads/"]
 ##a[href^="http://click.union.ucweb.com/"]
