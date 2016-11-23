@@ -222,6 +222,7 @@
 /adhosting.
 /adimage-
 /adkompan.
+/admaxdsp/*
 /adoff.js?
 /adpj-result/*
 /adporn.
@@ -837,6 +838,7 @@ _event_pub.
 _flash_ad_
 _iframe300x600.
 _infopop/infopop-
+_jx.ads/
 _liens_sponsorises.
 _logic_on_ad.
 _nnads/$subdocument
@@ -7751,6 +7753,7 @@ liligo.fr###midbanner
 logicielmac.com###milieu-de-page-728-90
 lessentiel.lu###min_rectangle
 pubeco.fr###modPromoMoment
+e-sushi.fr###modal
 le-buzz.fr###modal_chrome
 numerama.com###module_bonnes_affaires
 aujourdhui-en-france.fr,leparisien.fr###moteur-billetterie
@@ -9521,7 +9524,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 ?action=adblockvisitor$~third-party
 _adblockdetector/
 !
-||e-sushi.fr/imagearticle/$script
 ||larascasse.fr/forum/uploads/javascript_core/plugins_plugins.js
 ||photo.programme-tv.net/js/main-*.js$script
 ||static.caradisiac.com/javascript/caradisiac_first.js
