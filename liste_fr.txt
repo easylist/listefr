@@ -4195,11 +4195,6 @@ _regie/clic.$popup
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=mavanime.com
 |http://$script,third-party,domain=mavanime.com
 |https://$script,third-party,domain=mavanime.com
-! uploaded.net
-uploaded.net###fakeContentBoxContainer
-uploaded.net##[class*="pico-"]
-|http://$subdocument,third-party,domain=uploaded.net
-|https://$subdocument,third-party,domain=uploaded.net
 ! gaara-fr.com
 |http://$script,xmlhttprequest,domain=gaara-fr.com
 |https://$script,xmlhttprequest,domain=gaara-fr.com
@@ -5806,6 +5801,9 @@ toutcash.com/images/bandeau-
 ||unleashed.fr/media/habillage/
 ||unlock-stream.com/js/disclamer.js
 ||unsimpleclic.com/wp-content/uploads/*/GoodBarber-250-250.png
+||uploaded.net/js2/ablo*.js
+||uploaded.net/video/adshare-modal.js
+||uploaded.net/video/lic.js
 ||upor.openrunner.com^
 ||upp-auteurs.fr/annonces/
 ||uprapide.com/pub/
@@ -8777,6 +8775,7 @@ fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
+uploaded.net##[class*="pico-"]
 t411.bz,t411.cl,t411.la,t411.li,t411.lt,t411.tv##[class] + div > img + a
 film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.la,full-stream.nu,libre-stream.com,planet-streaming.com,streamiz-films.com,vfilmze.com##[class^="PapaGoo"]
 footnamurois.com##[class^="banners-"]
