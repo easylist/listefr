@@ -3060,8 +3060,8 @@ _regie/clic.$popup
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,*,160*,$script,third-party
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,*,192*,$script,third-party
 !
-|http://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstreaming.watch|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
-|https://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstreaming.watch|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
+|http://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstream.net|dpstreaming.watch|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
+|https://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstream.net|dpstreaming.watch|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
 !
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
@@ -4147,9 +4147,6 @@ _regie/clic.$popup
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=quedustream.com
 |http://$script,third-party,xmlhttprequest,domain=cacastream.com|quedustream.com|twstream.com
 |https://$script,third-party,xmlhttprequest,domain=cacastream.com|quedustream.com|twstream.com
-! dpstream.net
-|http://$script,third-party,xmlhttprequest,domain=dpstream.net
-|https://$script,third-party,xmlhttprequest,domain=dpstream.net
 ! dpseries.net
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=dpseries.net
 |http://$script,third-party,xmlhttprequest,domain=dpseries.net
