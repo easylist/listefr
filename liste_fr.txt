@@ -381,13 +381,16 @@
 /banniere728x90home.
 /banniere_pub.
 /bannieres/habillage.
+/bannieres_fdf.
 /bannieres_pub/*$domain=~sgmaroc.com
 /bannieres_responsive_partenaires/*
+/bannieresadultes.
 /banpub/*
 /bans_infopop/*
 /bansfakes_st.php?ref=
 /bb728x90.
 /blog/ads_
+/bnr.php?section=
 /bnr/ad/*
 /bnr/ads/*
 /bnr468.
@@ -456,6 +459,7 @@
 /fra/ads/*
 /frame_popup.
 /frontend_loader.$script
+/frprn_ad.
 /gestionpub/*
 /get.cgi?*=banner
 /get_banniere.php?$subdocument
@@ -3138,6 +3142,7 @@ _regie/clic.$popup
 ||amazon.fr^$popup,domain=fdesouche.com
 ||amazonaws.com/pubfig/
 ||amazonaws.com/waframedia*.
+||amazonaws.com^*/publishers/$script
 ||ambed.io^*/img/partners/
 ||amisexe.fr/design/default/rencontre/$third-party
 ||animes-streaming.net/pubs/
@@ -3175,8 +3180,6 @@ _regie/clic.$popup
 ||ba.journaldesfemmes.com^
 ||babysurf.fr^*/bannieres/
 ||baise3x.com/ban/
-||bannieres_fdf.s3.amazonaws.com^
-||bannieresadultes.s3.amazonaws.com^
 ||barredesurf.com/includes/images/bannieres/
 ||baseturf.com/bannieres/
 ||batman.blogautomobile.fr^
@@ -3746,8 +3749,6 @@ _regie/clic.$popup
 ||rwabe.com/pub/
 ||s-sfr.fr/stats/authMsg.js
 ||s.brsimg.com^*/cache/css/compress/$object
-||s3.amazonaws.com^$domain=uploads.to
-||s3.amazonaws.com^*/publishers/$script
 ||salopes-du-jour.com/sexy.js
 ||scubastore.com^$popup,domain=sous-la-mer.com
 ||seargg.xyz^$popup
@@ -5926,9 +5927,11 @@ toutcash.com/images/bandeau-
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
+! amazonaws.com
+||amazonaws.com^$domain=1host.name|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|cinemay.com|club-anime.fr|daclips.in|dailymotion.com|dpstream.net|dpstreaming.watch|exashare.com|fas.li|filmvf.ws|full-film.me|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|letwatch.to|letwatch.us|manga-fr.com|maquillage.com|movpod.in|neko-san.fr|openload.info|otakufr.com|pausefun.com|pausepeople.com|revclouds.com|sokrostream.biz|solidfiles.com|stream-watch.co|thewatchseries.to|toofy.tv|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vidshare.me|vidshare.us|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org
 ! cloudfront.net
 ||cloudfront.net/img/banner
-||cloudfront.net^$domain=1host.name|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|daclips.in|dailymotion.com|exashare.com|fas.li|gighub.net|gorillavid.com|gorillavid.in|letwatch.to|letwatch.us|maquillage.com|movpod.in|openload.info|pausefun.com|pausepeople.com|revclouds.com|solidfiles.com|thewatchseries.to|toofy.tv|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uplod.it|vidshare.me|vidshare.us|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org
+||cloudfront.net^$domain=1host.name|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|cinemay.com|club-anime.fr|daclips.in|dailymotion.com|dpstream.net|dpstreaming.watch|exashare.com|fas.li|filmvf.ws|full-film.me|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|letwatch.to|letwatch.us|manga-fr.com|maquillage.com|movpod.in|neko-san.fr|openload.info|otakufr.com|pausefun.com|pausepeople.com|revclouds.com|sokrostream.biz|solidfiles.com|stream-watch.co|thewatchseries.to|toofy.tv|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vidshare.me|vidshare.us|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*tid=$script
 ||d13strl4lo8mtp.cloudfront.net^
@@ -5999,6 +6002,7 @@ toutcash.com/images/bandeau-
 ||dfzenk6ej1plw.cloudfront.net^
 ||diqdel92t4na6.cloudfront.net^
 ||dk2mvwe4uw0z3.cloudfront.net^
+||dm8ojo46iwxm2.cloudfront.net^
 ||dnyjp3iys0r8o.cloudfront.net^
 ||dohs95d6tfj19.cloudfront.net^
 ||dpiw925yvtpfq.cloudfront.net^
