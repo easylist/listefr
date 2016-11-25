@@ -3081,11 +3081,11 @@ _regie/clic.$popup
 |http://*.online/*/|$script,third-party,xmlhttprequest
 |http://*.xyz/*/|$script,third-party,xmlhttprequest
 !
-|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1024,768,*,102*,$script,third-party
-|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1366,768,*,136*,$script,third-party
-|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1440,900,*,144*,$script,third-party
-|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,*,160*,$script,third-party
-|https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,*,192*,$script,third-party
+://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1024,768,1,102$script,third-party
+://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1366,768,1,136$script,third-party
+://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1440,900,1,144$script,third-party
+://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,1,160$script,third-party
+://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,1,192$script,third-party
 !
 |http://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstream.net|dpstreaming.watch|enstreaming.eu|enstreaming.tv|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|le-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|series-en-streaming.tv|sokrostream.biz|stream-watch.co
 |https://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstream.net|dpstreaming.watch|enstreaming.eu|enstreaming.tv|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|le-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|series-en-streaming.tv|sokrostream.biz|stream-watch.co
