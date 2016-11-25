@@ -401,6 +401,9 @@
 /bshow.php?id=*&dimension=
 /campagne/redir/*
 /carrepubHome.
+/cd_infopop/*
+/cd_pop_dhtml-responsive.
+/cd_pop_dhtml/*
 /cdn-ads-
 /choixPubJS.
 /clash/ads/*
@@ -494,6 +497,8 @@
 /img/bnr728.
 /in-ad_desktop/*
 /index.php/tag/iframe/*
+/infopop-optimise-
+/infopop-optimise.
 /infopop/*.php?$script
 /InjectPopunderAd.
 /inread_
@@ -911,6 +916,7 @@ _werbebanner_
 &ban=*&pc=*&id=$popup
 &bann=$popup
 &cbiframe=$popup
+&click_to_display=$popup
 &id_rotation=$popup
 &noexitctapop=$popup
 &nsfw=&id_promo=$popup
@@ -1186,7 +1192,7 @@ _regie/clic.$popup
 ||adfever.com^$third-party
 ||adhispanic.com^$third-party
 ||adhit.me^$third-party
-||adhoc1.net^
+||adhoc1.net^$third-party
 ||adhost.se^$third-party
 ||adhslx.com^$third-party
 ||adinlive.com^$third-party
@@ -2631,6 +2637,7 @@ _regie/clic.$popup
 ||adxfactory.com^$popup,third-party
 ||adxite-ads.com^$popup,third-party
 ||adxprts.com^$popup,third-party
+||affbuzzads.com^$popup,third-party
 ||affilanity.com^$popup,third-party
 ||affiliation-france.com^$popup,third-party
 ||affiliwix.com^$popup,third-party
@@ -2917,6 +2924,7 @@ _regie/clic.$popup
 ||ptcong.com^$popup,third-party
 ||pub2srv.com^$popup,third-party
 ||purlive.com^$popup,third-party
+||pushplay.com^$popup,third-party
 ||pwdplz.com^$popup,third-party
 ||pwwysydh.com^$popup,third-party
 ||px9y26.com^$popup,third-party
@@ -3562,6 +3570,7 @@ _regie/clic.$popup
 ||maximumwall.com/images/top_ban_
 ||maxistreaming.com/pub.html
 ||mayakado.net/parrainage/
+||mb.indecentes-voisines.com^$popup
 ||mclcm.net^$xmlhttprequest
 ||media-fire.org^$popup
 ||media.easybib.com/images/gr_
@@ -5893,6 +5902,7 @@ toutcash.com/images/bandeau-
 ||welovetennis.fr/medias/pubs/
 ||wgcdn.net/widget/
 ||whois-raynette.fr/*/domaine-libre-big.gif
+||whynotclub.com/images/prelinker-
 ||widermag.com/media/habillage/
 ||wii-info.fr/ban/
 ||willemsefrance.fr/media/*/partenariat/
@@ -6608,6 +6618,7 @@ toutcash.com/images/bandeau-
 ##.After-body-ads
 ##.ArticleContent-advertising
 ##.BannierePub
+##.CDInfopopIframe
 ##.GTRF_sponsoredLinks
 ##.MobAdsHeader
 ##.PostAd
