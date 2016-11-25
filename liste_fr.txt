@@ -2790,6 +2790,7 @@ _regie/clic.$popup
 ||guqu.info^$popup,third-party
 ||hipersushiads.com^$popup,third-party
 ||hopdream.com^$popup,third-party
+||howtosimplified.com^$popup,third-party
 ||humourgratuit.me^$popup,third-party
 ||hyperline88.com^$popup,third-party
 ||i4track.net^$popup,third-party
@@ -3079,8 +3080,8 @@ _regie/clic.$popup
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,*,160*,$script,third-party
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,*,192*,$script,third-party
 !
-|http://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstream.net|dpstreaming.watch|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
-|https://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstream.net|dpstreaming.watch|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
+|http://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstream.net|dpstreaming.watch|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|le-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
+|https://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstream.net|dpstreaming.watch|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|le-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
 !
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
@@ -3917,6 +3918,7 @@ _regie/clic.$popup
 ||videoplaza.tv/proxy/$popup
 ||videoplaza.tv/proxy/vpsupport.js
 ||videos-de-celebrites.com/CMF_Banners/
+||viewster.com^*utm_$popup
 ||visio-x.fr/js/out.js
 ||visio-x.fr/x-video.php?idsite=$popup
 ||viteundevis.com/ads/
@@ -5025,6 +5027,7 @@ toutcash.com/images/bandeau-
 ||konbini.com^*/xhabillage_
 ||korben.info/wp-content/uploads/*/LogoAgarik_
 ||korben.info/wp-content/uploads/*/mrf*.$image
+||kvid.org^*/popimg.html
 ||kyngseca.com/forum/images/pub.gif
 ||l.liberation.fr/img/promo/
 ||la-musique-rai.com/images/banner_
@@ -5949,10 +5952,10 @@ toutcash.com/images/bandeau-
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
 ! amazonaws.com
-||amazonaws.com^$domain=1host.name|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|cinemay.com|club-anime.fr|daclips.in|dailymotion.com|dpstream.net|dpstreaming.watch|exashare.com|eztv-proxy.net|eztv.ag|eztv.ch|eztv.it|eztv.tf|eztv.yt|fas.li|filmvf.ws|full-film.me|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|letwatch.to|letwatch.us|manga-fr.com|maquillage.com|movpod.in|neko-san.fr|openload.info|otakufr.com|pausefun.com|pausepeople.com|revclouds.com|sokrostream.biz|solidfiles.com|stream-watch.co|thewatchseries.to|toofy.tv|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vidshare.me|vidshare.us|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org
+||amazonaws.com^$domain=1host.name|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|cinemay.com|club-anime.fr|daclips.in|dailymotion.com|dpstream.net|dpstreaming.watch|exashare.com|eztv-proxy.net|eztv.ag|eztv.ch|eztv.it|eztv.tf|eztv.yt|fas.li|filmvf.ws|full-film.me|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|le-streaming.com|letwatch.to|letwatch.us|manga-fr.com|maquillage.com|movpod.in|neko-san.fr|openload.info|otakufr.com|pausefun.com|pausepeople.com|revclouds.com|sokrostream.biz|solidfiles.com|stream-watch.co|thewatchseries.to|toofy.tv|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vidshare.me|vidshare.us|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org
 ! cloudfront.net
 ||cloudfront.net/img/banner
-||cloudfront.net^$domain=1host.name|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|cinemay.com|club-anime.fr|daclips.in|dailymotion.com|dpstream.net|dpstreaming.watch|exashare.com|eztv-proxy.net|eztv.ag|eztv.ch|eztv.it|eztv.tf|eztv.yt|fas.li|filmvf.ws|full-film.me|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|letwatch.to|letwatch.us|manga-fr.com|maquillage.com|movpod.in|neko-san.fr|openload.info|otakufr.com|pausefun.com|pausepeople.com|revclouds.com|sokrostream.biz|solidfiles.com|stream-watch.co|thewatchseries.to|toofy.tv|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vidshare.me|vidshare.us|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org
+||cloudfront.net^$domain=1host.name|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|cinemay.com|club-anime.fr|daclips.in|dailymotion.com|dpstream.net|dpstreaming.watch|exashare.com|eztv-proxy.net|eztv.ag|eztv.ch|eztv.it|eztv.tf|eztv.yt|fas.li|filmvf.ws|full-film.me|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|le-streaming.com|letwatch.to|letwatch.us|manga-fr.com|maquillage.com|movpod.in|neko-san.fr|openload.info|otakufr.com|pausefun.com|pausepeople.com|revclouds.com|sokrostream.biz|solidfiles.com|stream-watch.co|thewatchseries.to|toofy.tv|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vidshare.me|vidshare.us|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*tid=$script
 ||d10hxp21ljytsr.cloudfront.net^
