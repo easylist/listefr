@@ -3549,6 +3549,7 @@ _regie/clic.$popup
 ||lp.advertsight.com^
 ||lprs1.fr^*/blocs-partenaires$third-party
 ||lrcdn.net^$domain=dailymotion.com
+||ma-reduc.com^*#coupon/
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||madamesimone.com/ban/$third-party
 ||magikmobile.com/iframe_$third-party
@@ -8837,6 +8838,7 @@ omgtorrent.me##a[href*="-torrent/"]
 vfstream.biz##a[href*=".php"]
 jeddl.net,omgtorrent.me##a[href*=".php?"]
 leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
+meilleurs-hebergeurs.com##a[href*="/-"] > img
 artdeseduire.com##a[href*="/?part=ads"]
 webactus.net##a[href*="/?utm_source="]
 sosvirus.net##a[href*="/affiliate-"] > img
