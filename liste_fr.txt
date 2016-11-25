@@ -802,6 +802,7 @@
 ?id_promo=*&nsfw=
 ?imgPrefix=/ligatus/
 ?mmzad=
+?module=*&action=getPub
 ?oas_mode_pub=
 ?Page=*&Width=120&Height=600&
 ?Page=*&Width=160&Height=600&
@@ -822,6 +823,7 @@ _46860_
 _468x60&
 _468X60v2.
 _60x468_
+_728x90pxl_
 _728x90v2.
 _90x728_
 _970x250.
@@ -4349,6 +4351,7 @@ toutcash.com/images/bandeau-
 ||africanmanager.com/oad/
 ||afrik-cuisine.com^*-partenaires.
 ||afromeet.com/img/ban_
+||agevillage.com/documents/images/*_banniere_
 ||agevillage.com/documents/images/banniere_
 ||agroligne.com/images/banners/
 ||agroligne.com/images/partenaires/
@@ -8388,6 +8391,7 @@ largus.fr##.item-partenaire
 journaldesfemmes.com##.jLinkSponsored
 idf1.fr##.jcarousel
 jdubuzz.com,journaldugamer.com,journaldugeek.com,pixelistes.com##.jdg-recommend
+agevillage.com##.jobgp
 lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.jobsregions
 trovit.fr##.js-loadPremium
 cdiscount.com##.jsNoPrdtBloc
@@ -8565,11 +8569,12 @@ pornofrance.org##.promomenu
 meteosun.com##.promote_large
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
-abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,liensporno.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zone-series.biz,zupimages.net##.pub
+abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,liensporno.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zone-series.biz,zupimages.net##.pub
 basketusa.com##.pub-1000x90-top
 les-terrains.com##.pub-bloc
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
+agevillage.com##.pub-fade
 omgtorrent.me##.pub-fiche-r + * + .fiche-cadre
 omgtorrent.me##.pub-fiche-r + * > a
 millepertuis.eu##.pub-gauche-flottant
