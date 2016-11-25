@@ -2226,12 +2226,14 @@ _regie/clic.$popup
 ||adtbomthnsyz.com^
 ||afedispdljgb.com^
 ||aiiaqehoqgrj.com^
+||ajaeihzlcwvn.com^
 ||alasdzdnfvtj.com^
 ||amnpmitevuxx.com^
 ||aoqviogrwckf.com^
 ||aqlvpnfxrkyf.com^
 ||azgyzdjexcxg.com^
 ||bayvlsmaahou.com^
+||beghfkrygvxp.com^
 ||bhejerqgrtlq.com^
 ||bqptlqmtroto.com^
 ||bqqjowpigdnx.com^
@@ -2298,6 +2300,7 @@ _regie/clic.$popup
 ||mdeaoowvqxma.com^
 ||mhrfhwlqsnzf.com^
 ||mjujcjfrgslf.com^
+||mmnridsrreyh.com^
 ||mmvcmovwegkz.com^
 ||molqvpnnlmnb.com^
 ||mpzuzvqyuvbh.com^
@@ -2363,6 +2366,7 @@ _regie/clic.$popup
 ||xcrruqesggzc.com^
 ||xegavyzkxowj.com^
 ||xseczkcysdvc.com^
+||xswnrjbzmdof.com^
 ||xwwsojvluzsb.com^
 ||ycmejutxukkz.com^
 ||yflpucjkuwvh.com^
@@ -3080,8 +3084,8 @@ _regie/clic.$popup
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,*,160*,$script,third-party
 |https://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,*,192*,$script,third-party
 !
-|http://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstream.net|dpstreaming.watch|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|le-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
-|https://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstream.net|dpstreaming.watch|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|le-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
+|http://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstream.net|dpstreaming.watch|enstreaming.eu|enstreaming.tv|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|le-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
+|https://*,$script,third-party,domain=cinemay.com|club-anime.fr|dpstream.net|dpstreaming.watch|enstreaming.eu|enstreaming.tv|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|le-streaming.com|manga-fr.com|neko-san.fr|otakufr.com|sokrostream.biz|stream-watch.co
 !
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
@@ -4146,9 +4150,6 @@ _regie/clic.$popup
 ! streamay.com
 |http://$script,third-party,domain=streamay.com
 |https://$script,third-party,domain=streamay.com
-! enstreaming.tv
-|http://*,$script,third-party,xmlhttprequest,domain=enstreaming.eu|enstreaming.tv
-|https://*,$script,third-party,xmlhttprequest,domain=enstreaming.eu|enstreaming.tv
 ! ddstream.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=ddstream.com|dpstream.to|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=ddstream.com|dpstream.to|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
@@ -5952,10 +5953,10 @@ toutcash.com/images/bandeau-
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
 ! amazonaws.com
-||amazonaws.com^$domain=1host.name|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|cinemay.com|club-anime.fr|daclips.in|dailymotion.com|dpstream.net|dpstreaming.watch|exashare.com|eztv-proxy.net|eztv.ag|eztv.ch|eztv.it|eztv.tf|eztv.yt|fas.li|filmvf.ws|full-film.me|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|le-streaming.com|letwatch.to|letwatch.us|manga-fr.com|maquillage.com|movpod.in|neko-san.fr|openload.info|otakufr.com|pausefun.com|pausepeople.com|revclouds.com|sokrostream.biz|solidfiles.com|stream-watch.co|thewatchseries.to|toofy.tv|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vidshare.me|vidshare.us|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org
+||amazonaws.com^$domain=1host.name|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|cinemay.com|club-anime.fr|daclips.in|dailymotion.com|dpstream.net|dpstreaming.watch|enstreaming.eu|enstreaming.tv|exashare.com|eztv-proxy.net|eztv.ag|eztv.ch|eztv.it|eztv.tf|eztv.yt|fas.li|filmvf.ws|full-film.me|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|le-streaming.com|letwatch.to|letwatch.us|manga-fr.com|maquillage.com|movpod.in|neko-san.fr|openload.info|otakufr.com|pausefun.com|pausepeople.com|revclouds.com|sokrostream.biz|solidfiles.com|stream-watch.co|thewatchseries.to|toofy.tv|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vidshare.me|vidshare.us|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org
 ! cloudfront.net
 ||cloudfront.net/img/banner
-||cloudfront.net^$domain=1host.name|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|cinemay.com|club-anime.fr|daclips.in|dailymotion.com|dpstream.net|dpstreaming.watch|exashare.com|eztv-proxy.net|eztv.ag|eztv.ch|eztv.it|eztv.tf|eztv.yt|fas.li|filmvf.ws|full-film.me|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|le-streaming.com|letwatch.to|letwatch.us|manga-fr.com|maquillage.com|movpod.in|neko-san.fr|openload.info|otakufr.com|pausefun.com|pausepeople.com|revclouds.com|sokrostream.biz|solidfiles.com|stream-watch.co|thewatchseries.to|toofy.tv|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vidshare.me|vidshare.us|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org
+||cloudfront.net^$domain=1host.name|allvid.ch|auroravid.to|bdupload.info|brain-magazine.fr|cinemay.com|club-anime.fr|daclips.in|dailymotion.com|dpstream.net|dpstreaming.watch|enstreaming.eu|enstreaming.tv|exashare.com|eztv-proxy.net|eztv.ag|eztv.ch|eztv.it|eztv.tf|eztv.yt|fas.li|filmvf.ws|full-film.me|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hinata-online-community.fr|k-streaming.com|le-streaming.com|letwatch.to|letwatch.us|manga-fr.com|maquillage.com|movpod.in|neko-san.fr|openload.info|otakufr.com|pausefun.com|pausepeople.com|revclouds.com|sokrostream.biz|solidfiles.com|stream-watch.co|thewatchseries.to|toofy.tv|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vidshare.me|vidshare.us|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*tid=$script
 ||d10hxp21ljytsr.cloudfront.net^
@@ -9630,7 +9631,6 @@ _adblockdetector/
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 ! openload
 @@|https://4dbl0ckd3t3ct0r.net/*.js|$script,domain=openload.co
-@@|https://555fff555f.net/*.js|$script,domain=openload.co
 ! youwatch
 @@||ahkaik9yof.com/js/*.js|$script,domain=ahkaik9yof.com
 !
