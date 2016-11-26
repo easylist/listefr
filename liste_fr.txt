@@ -775,6 +775,7 @@
 ://goto.*?zoneid=
 ://imads.
 ://na.ads.
+://pop.$script,third-party,xmlhttprequest
 ://reclame.
 ://soads.
 ://sync.adaptv.
@@ -1061,6 +1062,7 @@ _werbebanner_
 ?utm_term=*&clickverify=$popup
 ?voluumdata=$popup
 ?zoneid=$popup,domain=ddlfr.org
+?zoneid=*&sz=$popup
 _300x250_*_adb$popup
 _728x90_*_adb$popup
 _adb_300x250_$popup
@@ -1134,6 +1136,7 @@ _regie/clic.$popup
 ||46.101.101.204^$third-party
 ||46.101.125.$script,third-party
 ||46.249.58.117^$third-party
+||48fd4acf12b.se^$third-party
 ||5207470.com^$third-party
 ||57union.com^$third-party
 ||5b15a826.xyz^$third-party
@@ -1181,6 +1184,7 @@ _regie/clic.$popup
 ||adaraby.com^$third-party
 ||adback.co^$third-party
 ||adbox.lt^$third-party
+||adcapt.com^$third-party
 ||adcarem.co^$third-party
 ||adclick.lt^$third-party
 ||adconnect.fr^$third-party
@@ -1384,6 +1388,7 @@ _regie/clic.$popup
 ||baseandco.com^$third-party
 ||basebanner.com^
 ||bayard-pub.com^$third-party
+||baypops.com^$third-party
 ||bccyyc.com^$third-party
 ||beead.fr^$third-party
 ||best-deals-products.com^$third-party
@@ -1407,6 +1412,7 @@ _regie/clic.$popup
 ||booraq.org^$third-party
 ||boostsaves.com^$third-party
 ||boruto.fr^$third-party
+||bouncebidder.com^$third-party
 ||braip.com.br^$third-party
 ||branchroughlend.info^$third-party
 ||brassyobedientcotangent.com^$third-party
@@ -1427,6 +1433,7 @@ _regie/clic.$popup
 ||bvyvk.space^$third-party
 ||bzlwe.com^$third-party
 ||bzzvid.com^$third-party
+||c03jij5q.website^$third-party
 ||cam4ads.com^$third-party
 ||camplace.com^$third-party
 ||camsympa.com^$third-party,domain=~camsympa.fr
@@ -1444,7 +1451,10 @@ _regie/clic.$popup
 ||cdxndirectopt.com^$third-party
 ||cdxnopt.com^$third-party
 ||cellflor.site^$third-party
+||chainwalladsoid.com^$third-party
+||chainwalladsy.com^$third-party
 ||charmix.com^$third-party
+||checkapi.xyz^$third-party
 ||chilican.com^$third-party
 ||citenkomedia.com^$third-party
 ||cityads.com^$third-party
@@ -1497,7 +1507,9 @@ _regie/clic.$popup
 ||cytochemistryrecitativewrasse.com^$third-party
 ||dailyofferservice.com^$third-party
 ||dajusepe.com^$third-party
+||danmeneldur.com^$third-party
 ||danstonfion.com^$third-party
+||dashgreen.online^$third-party
 ||data1rtb.com^$third-party
 ||datvantage.com^$third-party
 ||dblock-ads.com^$third-party
@@ -1512,7 +1524,9 @@ _regie/clic.$popup
 ||deltax.com^$third-party
 ||dfast.net^$third-party
 ||dfp.host^$third-party
+||dfpnative.com^$third-party
 ||dghf.ovh^$third-party
+||dialogads.com^$third-party
 ||diclickadv.com^$third-party
 ||diffusionpub.com^$third-party
 ||digital-metric.com^$third-party
@@ -1530,6 +1544,7 @@ _regie/clic.$popup
 ||dorcelcash.com^$third-party
 ||double6affiliation.com^$third-party
 ||doubleclick.net^$domain=basketusa.com|cinefil.com|essentielle.be|gameone.net|rds.ca|videos.tmc.tv
+||doubleonclick.com^$third-party
 ||ds1.nl^$third-party
 ||dsdsdsf.ovh^$third-party
 ||dubshub.com^$third-party
@@ -1597,6 +1612,7 @@ _regie/clic.$popup
 ||flymob.com^$third-party
 ||fmstigat.online^$third-party
 ||fmstitial.xyz^$third-party
+||fodstyj9.website^$third-party
 ||folihentai.eu^$third-party
 ||forcesdevente.ma^$third-party
 ||forevermelodicheidegger.info^$third-party
@@ -1626,15 +1642,18 @@ _regie/clic.$popup
 ||gibsonvillainousweatherstrip.com^$third-party
 ||gingermedia.com^$third-party
 ||giwcini.ru^$third-party
+||glambucks.net^$third-party
 ||goninjaspiel.com^$third-party
 ||goodaction.com^$third-party
 ||goodbookbook.com^
 ||goracash.com^$third-party
 ||gravity4.com^$third-party
+||greatchwall.com^$third-party
 ||greatregie.com^$third-party
 ||greatwork.info^$third-party
 ||gtburst.com^$third-party
 ||guestcash.com^$third-party
+||guovdageaidnu.lol^$third-party
 ||hchupin.xyz^$third-party
 ||hebdotop.com^$third-party
 ||heberparis23.com^$third-party
@@ -1670,7 +1689,9 @@ _regie/clic.$popup
 ||inpicture.tv^$third-party
 ||inshopr.com^$third-party
 ||installwager.com^$third-party
+||interdfp.com^$third-party
 ||internetpourtout.com^$third-party
+||intnative.com^$third-party
 ||ipav.xyz^$third-party
 ||irclick.net^$third-party
 ||isanalyze.com^$third-party
@@ -1701,7 +1722,9 @@ _regie/clic.$popup
 ||kadserver.com^$third-party
 ||kalqui.com^$third-party
 ||kappacdn.net^$third-party
+||karasjok.lol^$third-party
 ||kastafor.com^$third-party
+||kautokeino.lol^$third-party
 ||kiev.ua^$third-party
 ||killstruckfavor.com^$third-party
 ||killthenoob.com^$third-party
@@ -1713,6 +1736,7 @@ _regie/clic.$popup
 ||lamiflor.xyz^$third-party
 ||leadzupc.com^$third-party
 ||leasured.eu^$third-party
+||lenteroi.xyz^$third-party
 ||lien-amateur.org^$third-party
 ||ligatus.com^$third-party
 ||likablescaldfelted.info^$third-party
@@ -1746,6 +1770,7 @@ _regie/clic.$popup
 ||maxidivx.com^$third-party
 ||maxonclick.com^$third-party
 ||maxprofitcontrol.com^$third-party
+||maxrevenue1.com^$third-party
 ||media-clic.com^$third-party
 ||media-serving.com^$third-party
 ||mediacpm.pl^$third-party
@@ -1760,6 +1785,7 @@ _regie/clic.$popup
 ||menaon.com^$third-party
 ||merciconseil.com^$third-party
 ||mescodespromos.com^$third-party
+||mhadsd.com^$third-party
 ||milan-pub.com^$third-party
 ||militarismreptilesoapsud.com^$third-party
 ||mirando.de^$third-party
@@ -1769,9 +1795,13 @@ _regie/clic.$popup
 ||mm387.com^$third-party
 ||mobads4app.com^$third-party
 ||mobawaba.com^$third-party
+||mobdel.com^$third-party
 ||mobibiobi.com^$third-party
+||mobidevmod.com^$third-party
 ||mobidowr.com^$third-party
 ||mobidude.com^$third-party
+||mobiflyd.com^$third-party
+||mobiflys.com^$third-party
 ||mobifoth.com^$third-party
 ||mobligo.com^$third-party
 ||mobsuccess.com^$third-party
@@ -1792,6 +1822,7 @@ _regie/clic.$popup
 ||myadcash.com^$third-party
 ||mybankai.net^$third-party
 ||mybestsky.com^$third-party
+||mygpuid.com^$third-party
 ||myimagetracking.com^$third-party
 ||myimgt.com^$third-party
 ||mykocam.com^$third-party
@@ -1803,10 +1834,12 @@ _regie/clic.$popup
 ||myninja.tv^$third-party
 ||myninja.xyz^$third-party
 ||mypopunder.com^$third-party
+||mypushads.com^$third-party
 ||myserv4.com^$third-party
 ||myservdir.com^$third-party
 ||myskyspire.com^$third-party
 ||myspot.fr^$third-party
+||myway2ch.com^$third-party
 ||mywebsquare.com^$third-party
 ||myxpub.com^$third-party
 ||n1.webedia.fr^$third-party
@@ -1829,6 +1862,7 @@ _regie/clic.$popup
 ||never-break.com^$third-party
 ||nile-ads.com^$third-party
 ||ninjapd.com^$third-party
+||nlass9o4.online^$third-party
 ||no-adblock.com^$third-party
 ||no-hide.com^$third-party
 ||noadirect.com^$third-party
@@ -1840,6 +1874,7 @@ _regie/clic.$popup
 ||nuclersoncanthinger.info^$third-party
 ||nuggad.net^$third-party
 ||num-link.ru^$third-party
+||nvane.com^$third-party
 ||nyyed.com^$third-party
 ||obhodsb.com^$third-party
 ||octopuspop.com^$third-party
@@ -1852,12 +1887,14 @@ _regie/clic.$popup
 ||oneclickad.net^$third-party
 ||oneinstaller.com^$third-party
 ||onenima.com^$third-party
+||onhitads.net^$third-party
 ||onlinesupaads.com^$third-party
 ||onlinevenditatio.space^$third-party
 ||onshowit.com^$third-party
 ||oopt.fr^$third-party
 ||ooxad.com^$third-party
 ||opresat.ru^$third-party
+||or3f3xmk.xyz^$third-party
 ||orangepublicite.fr^$third-party
 ||ouaitupeuxregarderenillimite.com^$third-party
 ||ouo.io^$third-party
@@ -1865,6 +1902,7 @@ _regie/clic.$popup
 ||ovnet.fr^$third-party
 ||ovnet.net^$third-party
 ||palfad.com^$third-party
+||palocalworld.info^$third-party
 ||pandad.eu^$third-party
 ||papbusters.fr^$third-party
 ||papycash.com^$third-party
@@ -1877,7 +1915,9 @@ _regie/clic.$popup
 ||pdanew.com^$third-party
 ||pee-puu-see.com^$third-party
 ||perabetads.com^$third-party
+||peretasker.xyz^$third-party
 ||peritas247.info^$third-party
+||perload.com^$third-party
 ||permittingnorthlandseamen.info^$third-party
 ||pgflow.com^$third-party
 ||phuc.cc^$third-party
@@ -1938,6 +1978,7 @@ _regie/clic.$popup
 ||pureadexchange.com^$third-party
 ||puserving.com^$third-party
 ||pushnative.com^$third-party
+||putbid.net^$third-party
 ||pwspace.com^$third-party
 ||pxltgr.com^$third-party
 ||pxt-networks.com^$third-party
@@ -1962,6 +2003,7 @@ _regie/clic.$popup
 ||reactivpub.com^$third-party
 ||reactivpub.fr^$third-party
 ||reagend.com^$third-party
+||realpopbid.com^$third-party
 ||rebelmouse.com^$third-party
 ||rediamob.com^$third-party
 ||redorange.website^$third-party
@@ -1979,6 +2021,7 @@ _regie/clic.$popup
 ||retagapp.com^$third-party
 ||retainguaninefluorite.info^$third-party
 ||retargetads.net^$third-party
+||revenuemob1.com^$third-party
 ||revenuestripe.com^$third-party
 ||revnuehub.com^$third-party
 ||rf6oo9gq.online^$third-party
@@ -1988,8 +2031,13 @@ _regie/clic.$popup
 ||rosseladvertising.be^$third-party
 ||rotabann.com^$third-party
 ||rtadtrack.com^$third-party
+||rtbpopd.com^$third-party
+||rtrgt.com^$third-party
+||rtrgt2.com^$third-party
 ||rvfrm2005.com^$third-party
+||rw3xxb80.online^$third-party
 ||s1block.com^$third-party
+||s7jrg2eb.club^$third-party
 ||safeadnetwork.net^$third-party
 ||salesforce.ma^$third-party
 ||sarmady-ads.com^$third-party
@@ -2074,7 +2122,9 @@ _regie/clic.$popup
 ||telehan.xyz^$third-party
 ||tfxiq.com^$third-party
 ||themoneytizer.com^$third-party
+||thfw1wuq.site^$third-party
 ||thisclick.network^$third-party
+||throughdfp.com^$third-party
 ||tidido.com^$third-party
 ||tiz-et.ru^$third-party
 ||tmcregie.fr^$third-party
@@ -2094,6 +2144,7 @@ _regie/clic.$popup
 ||totale-defonce.com^$third-party
 ||toutlinternet.com^$third-party
 ||touturf.com^$third-party
+||tpbdir.com^$third-party
 ||tpcserve.com^$third-party
 ||tpctrust.com^$third-party
 ||tr553.com^$third-party
@@ -2129,6 +2180,7 @@ _regie/clic.$popup
 ||univers-porno.com^$third-party
 ||unlockads.com^$third-party
 ||uploadedtag.com^$third-party
+||usoqmr8m.club^$third-party
 ||uuuuuuuu.lol^$third-party
 ||varsloqt.name^$third-party
 ||vartoken.com^$third-party
@@ -2160,6 +2212,7 @@ _regie/clic.$popup
 ||wafmedia2.com^$third-party
 ||waframedia*.com^$third-party
 ||waframedia.com^$third-party
+||wbsadsdel.com^$third-party
 ||wbsadsdel2.com^$third-party
 ||wbusiness.fr^$third-party
 ||web-affiliation.com^$third-party
@@ -2174,13 +2227,17 @@ _regie/clic.$popup
 ||wheretogo.bid^$third-party
 ||whirlclick.com^$third-party
 ||white-eyes.com^$third-party
+||whiteboardnez.com^$third-party
 ||whonami.info^$third-party
 ||widespace.com^$third-party
 ||widgetbooster.com^$third-party
 ||wineuroptp.fr^$third-party
+||wkecrte5.link^$third-party
+||wonderlandads.com^$third-party
 ||woogames.me^$third-party
 ||work2media.com^$third-party
 ||wortparser.info^$third-party
+||wq4q0uln.club^$third-party
 ||wslinx.com^$third-party
 ||wydpt.com^$third-party
 ||x.porn.fr^$third-party
@@ -2193,8 +2250,11 @@ _regie/clic.$popup
 ||xiepl.com^$third-party
 ||xl415.com^$third-party
 ||xmediaserve.com^$third-party
+||xpu99tyg.lol^$third-party
+||xxarbitrage.com^$third-party
 ||y-ads.net^$third-party
 ||yban.fr^$third-party
+||yku0xk97.site^$third-party
 ||ylx-3.com^$third-party
 ||yospace.co.uk^$third-party
 ||yospace.com^$third-party
@@ -2793,7 +2853,6 @@ _regie/clic.$popup
 ||getmyads*.com^$popup,third-party
 ||ggcorp.me^$popup,third-party
 ||globaloffers.link^$popup,third-party
-||go.padsdel.com^$popup,third-party
 ||go2me.tk^$popup,third-party
 ||goninjaspiel.com^$popup,third-party
 ||goo.gl^$image,domain=teramixer.com
@@ -2918,6 +2977,7 @@ _regie/clic.$popup
 ||onlygamesforme.com^$popup,third-party
 ||othip.info^$popup,third-party
 ||ouaitupeuxregarderenillimite.com^$popup,third-party
+||padsdel.com^$popup,third-party
 ||parserord.info^$popup,third-party
 ||parserward.info^$popup,third-party
 ||parserwoad.info^$popup,third-party
@@ -3087,7 +3147,13 @@ _regie/clic.$popup
 |blob:$domain=dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|e-wok.tv
+|http://*.club/*/|$script,third-party,xmlhttprequest
+|http://*.link/*/|$script,third-party,xmlhttprequest
+|http://*.lol/*/|$script,third-party,xmlhttprequest
 |http://*.online/*/|$script,third-party,xmlhttprequest
+|http://*.site/*/|$script,third-party,xmlhttprequest
+|http://*.space/*/|$script,third-party,xmlhttprequest
+|http://*.website/*/|$script,third-party,xmlhttprequest
 |http://*.xyz/*/|$script,third-party,xmlhttprequest
 !
 ://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1024,768,1,102$script,third-party
@@ -3687,6 +3753,7 @@ _regie/clic.$popup
 ||pdv.juste-pour-un-soir.com^$popup
 ||petite-garce.com/ban/$third-party
 ||petiteporn.xyz^*/o.php?$popup
+||pfr.anistar.ru^
 ||philatelistes.net/liens/cptr/
 ||phone-look.com/img/ban_
 ||piazza.ch^$subdocument
