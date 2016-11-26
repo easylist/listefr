@@ -517,6 +517,7 @@
 /last_ads.
 /layout/ads?
 /lib/ads.
+/link-converter.$script,third-party
 /load.php?*&size=
 /load.php?action=adsc&
 /logos-pub/*
@@ -3337,6 +3338,8 @@ _regie/clic.$popup
 ||cast4u.tv/fku2.php
 ||cccamsharing.net/*-net480x60.gif
 ||cdn.a9fast.com^*/misc/partner/
+||cdn.adf.ly/static/js/entry_
+||cdn.ay.gy/js/entry.
 ||cdn.installclick.fr^*/ad.html
 ||cdn.m6web.fr/creatives/assets/
 ||cdn.speedvid.net^$popup
