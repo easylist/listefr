@@ -128,6 +128,7 @@
 .fr/adv/
 .fr/adv_
 .fr/adver/
+.fr/affiliate/
 .gif?partner=
 .html?imgPrefix=/$xmlhttprequest
 .ir/ad/
@@ -446,6 +447,8 @@
 /ec_adalt/*
 /ec_adalt_
 /ec_connectorDelivery.
+/effiliation/*
+/effinity/banniere-
 /email_catcher/track.php?$subdocument
 /emplacement-pub/*$subdocument
 /epomads2.
@@ -1568,6 +1571,7 @@ _regie/clic.$popup
 ||edi7.lu^$third-party
 ||edintorni.net^$third-party
 ||edomz.com^$third-party
+||effiliation.com^$third-party
 ||egogame.biz^$third-party
 ||egrana.com.br^$third-party
 ||elasticad.com^$third-party
@@ -1610,6 +1614,7 @@ _regie/clic.$popup
 ||findgoogl.com^$third-party
 ||firamayu.com^$third-party
 ||firstoffersfinder.com^$third-party
+||flinteractive.fr^$third-party
 ||flymob.com^$third-party
 ||fmstigat.online^$third-party
 ||fmstitial.xyz^$third-party
@@ -2829,6 +2834,7 @@ _regie/clic.$popup
 ||dynsrvaba.com^$popup,third-party
 ||eacdn.com^$popup,third-party
 ||earth-111.com^$popup,third-party
+||effiliation.com^$popup,third-party
 ||electroshaurmal.ru^$popup,third-party
 ||emea.pub^$popup,third-party
 ||emjcd.com^$popup,third-party
@@ -3331,6 +3337,7 @@ _regie/clic.$popup
 ||boutique.aero/images/block_pub_
 ||box10.com^*?utm_source=$popup
 ||brainer.cc^*?PCTX=$popup
+||brocantelab.com/media/$third-party
 ||brsimg.com/pub/
 ||bstatic.ccmbg.com/www.linternaute.com/js/start?
 ||business-lounge.fr/public/widget-prod/
@@ -3347,10 +3354,11 @@ _regie/clic.$popup
 ||cast4u.tv/fku2.php
 ||cccamsharing.net/*-net480x60.gif
 ||cdn.a9fast.com^*/misc/partner/
-||cdn.adf.ly/static/js/entry_
-||cdn.ay.gy/js/entry.
+||cdn.adf.ly^$script,third-party,domain=~j.gs|~q.gs
 ||cdn.installclick.fr^*/ad.html
+||cdn.j.gs^$script,third-party,domain=~adf.ly|~q.gs
 ||cdn.m6web.fr/creatives/assets/
+||cdn.q.gs^$script,third-party,domain=~adf.ly|~j.gs
 ||cdn.speedvid.net^$popup
 ||cdscdn.com^*/banniere_
 ||cdscdn.com^*/partenaires/
@@ -3454,11 +3462,10 @@ _regie/clic.$popup
 ||easy-charme.com/pub/
 ||ecchi.fr/banieres/
 ||echangegagnant.com/gagnant468.png
+||eden-deco.fr/media/banniere/
 ||edi-static.fr/Images/Pubs/
 ||education.ti.com^$domain=ti.bank.free.fr
 ||efficacitemaximale.com/wp-content/uploads/*/bann
-||effiliation.com/servlet/effi.show?
-||effiliation.com^$popup,domain=dzsat.org
 ||elles-mouillent.com/ban/$third-party
 ||emp3s.ws/spon/$popup
 ||emploicom.com/application/views/docs/pub/
@@ -3493,7 +3500,6 @@ _regie/clic.$popup
 ||films-2-boules.com/promo/$third-party
 ||findizer.fr/partners/
 ||fitnext.com/masculin_box$third-party
-||flux.effiliation.com^
 ||flyrelax.com/wp-widget/widget.php
 ||foot-en-streaming.com^$popup,domain=stream-filmz.com
 ||fpcplugs.com/do.cgi?
@@ -3572,7 +3578,6 @@ _regie/clic.$popup
 ||infojobs.com.br/banner.aspx?
 ||inoutscripts.com/affiliate/
 ||inskin.hs.llnwd.net^
-||instalife.fr/affiliate/
 ||instant-gaming.com/affgames/
 ||iris.ma/themes/maroc/img/pub/
 ||ithreeweb.com/creationsiteweb.jpg
@@ -3639,6 +3644,7 @@ _regie/clic.$popup
 ||librarything.fr/jswidget.php?
 ||lien.lu^$popup,third-party
 ||liens-de-telechargement.com/data/img/site/ban_
+||lightonline.fr/public/images/bans/
 ||likebaguette.com/data/img/likebaguette-
 ||liligo.*/servlet/ads?
 ||liligo.*/wpartner/
@@ -3981,6 +3987,7 @@ _regie/clic.$popup
 ||trackuity.*/*/ticker/
 ||travelagency.travel/img/Partners/*/logo-
 ||trc.emv2.com^
+||trend-corner.com/images/bannieres/
 ||tripadvisor.*/partner/$third-party
 ||tripadvisor.*/PriceFinderPopunder$popup
 ||tripadvisor.*/WidgetEmbed-*&partnerId=
@@ -4089,7 +4096,6 @@ _regie/clic.$popup
 ||ziimtube.com^$popup,domain=pornytude.com
 ||zone-hot.com/thumblink.php?
 ||zone.*.netdna-cdn.com^
-||zooplus.fr/affiliate/
 ||zp.programme.tv^
 ||zupimages.net/up/2/1780414445.gif
 ! dblock-ads.com
@@ -7469,6 +7475,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://mytogolinks.com/?"]
 ##a[href^="http://ouo.io/ref/"]
 ##a[href^="http://partner.global-espace.com/"]
+##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
 ##a[href^="http://promo.vador.com/"]
 ##a[href^="http://redir.bebi.com/"]
 ##a[href^="http://share.payoneer-affiliates.com/"]
@@ -7476,6 +7483,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://t.mdn2015x1.com/"]
 ##a[href^="http://t2lgo.com/"]
 ##a[href^="http://toroadvertisingmedia.com"]
+##a[href^="http://track.effiliation.com/"]
 ##a[href^="http://www.affiliation-france.com/"]
 ##a[href^="http://www.allopass.com/"] > img
 ##a[href^="http://www.bet365.com/dl/~offer?affiliate="]
@@ -9027,6 +9035,7 @@ streaminghd.fr##a[href="http://streaminghd.fr/StreamIllimite"]
 streamingk.com##a[href="http://streamingk.com/watch.php"]
 tuxboard.com##a[href="http://www.8000kmenplus.fr/"]
 afroo.com##a[href="http://www.afromeet.com/"]
+decodesign.space-blogs.com##a[href="http://www.bleuhabitat.fr/"]
 space-blogs.net##a[href="http://www.bleuhabitat.fr/"] > img
 coco.fr##a[href="http://www.joker.net"]
 shinymen.com##a[href="http://www.karouikaroui.com/fr/outdoor/"]
@@ -9088,7 +9097,6 @@ ovnis-direct.com##a[href^="http://ligneker.com/"]
 moviz-telecharger.com##a[href^="http://moviz-telecharger.com/films-en-qualité-hd-"]
 opensubtitles.org##a[href^="http://osdb.link/go?"]
 mega-vesti.info,smartorrent.com##a[href^="http://ow.ly/"]
-jamsvu.fr##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
 annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
 cinemafantastique.net##a[href^="http://pubs.ecranfantastique.net/"]
 brunotritsch.fr##a[href^="http://rdinews.com/ads/"]
