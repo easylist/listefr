@@ -1627,6 +1627,7 @@ _regie/clic.$popup
 ||fullon.tv^$third-party
 ||fullscreens.fr^$third-party
 ||fungetbag.info^$third-party
+||futureadlabs.com^$third-party
 ||gagner-une-console.com^$third-party
 ||gambling-france.com^$third-party
 ||gamingaffbox.com^$third-party
@@ -5613,6 +5614,7 @@ toutcash.com/images/bandeau-
 ||starter.fm/blog/*/bg_$image
 ||starter.fm/images/*/bg_
 ||static.basket-infos.com/wp-content/uploads/Pub-
+||static.booska-p.com/img/operations/
 ||static.ccm2.net/*/img/appstv/
 ||static.commentcamarche.net/www.commentcamarche.net/$image
 ||static.lacentrale.fr/ressources/images/pages/home/spot_banner.jpg
@@ -8136,6 +8138,7 @@ viamichelin.fr##.autoPromoCarTrawler
 totonova.com##.avi
 buzzly.fr##.ayl-ad-article
 nintendo-master.com##.back_content > a
+booska-p.com##.back_fader
 hdfever.fr##.background_clic
 bdgest.com,bedetheque.com##.ban-top
 zebulon.fr##.ban2
@@ -8817,11 +8820,12 @@ msn.com##[class^="stripecontaine"][data-section-id="stripe.store"]
 meteofrance.com##[href*=".xiti.com"] > img
 mega-vesti.info##[href^="http://mega-vesti.info/telecharger-torrent/"]
 smartorrent.com##[href^="http://smartorrent.com/telecharger-torrent/"]
+booska-p.com##[href^="http://www.booska-p.com/re/"]
 turbo.fr##[id^="ABbypass"]
 film-streamingvk.com,film-streamiz.net,filmstreamvf.co,full-stream.cc,full-stream.is,full-stream.la,full-stream.nu,libre-stream.com,planet-streaming.com,streamiz-films.com,vfilmze.com,youwatchfilm.net##[id^="PapaGoo"]
 footnamurois.com##[id^="banners-"]
 egora.fr##[id^="block-gmsante_pub-"]
-20minutes.fr,pix-geeks.com,telesatellite.com,tuxboard.com##[id^="crt-"]
+20minutes.fr,booska-p.com,pix-geeks.com,telesatellite.com,tuxboard.com##[id^="crt-"]
 commentcamarche.net,journaldesfemmes.com,lachainemeteo.com##[id^="lig_"]
 leparticulier.fr##[id^="loca_service_simulateur_"]
 agate-france.com##[id^="pbad_"]
