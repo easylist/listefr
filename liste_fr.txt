@@ -1573,7 +1573,6 @@ _regie/clic.$popup
 ||edi7.lu^$third-party
 ||edintorni.net^$third-party
 ||edomz.com^$third-party
-||effiliation.com^$third-party
 ||egogame.biz^$third-party
 ||egrana.com.br^$third-party
 ||elasticad.com^$third-party
@@ -2707,7 +2706,6 @@ _regie/clic.$popup
 ||dynsrvaba.com^$popup,third-party
 ||eacdn.com^$popup,third-party
 ||earth-111.com^$popup,third-party
-||effiliation.com^$popup,third-party
 ||electroshaurmal.ru^$popup,third-party
 ||emea.pub^$popup,third-party
 ||emjcd.com^$popup,third-party
@@ -3339,6 +3337,8 @@ _regie/clic.$popup
 ||edi-static.fr/Images/Pubs/
 ||education.ti.com^$domain=ti.bank.free.fr
 ||efficacitemaximale.com/wp-content/uploads/*/bann
+||effiliation.com/servlet/effi.show?
+||effiliation.com^$popup,domain=dzsat.org
 ||elles-mouillent.com/ban/$third-party
 ||emp3s.ws/spon/$popup
 ||emploicom.com/application/views/docs/pub/
@@ -3373,6 +3373,7 @@ _regie/clic.$popup
 ||films-2-boules.com/promo/$third-party
 ||findizer.fr/partners/
 ||fitnext.com/masculin_box$third-party
+||flux.effiliation.com^
 ||flyrelax.com/wp-widget/widget.php
 ||foot-en-streaming.com^$popup,domain=stream-filmz.com
 ||fpcplugs.com/do.cgi?
@@ -7353,7 +7354,6 @@ toutcash.com/images/bandeau-
 ##a[href^="http://t.mdn2015x1.com/"]
 ##a[href^="http://t2lgo.com/"]
 ##a[href^="http://toroadvertisingmedia.com"]
-##a[href^="http://track.effiliation.com/"]
 ##a[href^="http://www.affiliation-france.com/"]
 ##a[href^="http://www.allopass.com/"] > img
 ##a[href^="http://www.bet365.com/dl/~offer?affiliate="]
