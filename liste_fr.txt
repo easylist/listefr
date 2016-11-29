@@ -1374,6 +1374,7 @@ _regie/clic.$popup
 ||atedra.com^$third-party
 ||aties.info^$third-party
 ||atlassbx.com^$third-party
+||atlassolutions.com^$third-party
 ||atoshonetwork.com^$third-party
 ||attractive-sport.com^$third-party
 ||audify.io^$third-party
@@ -7275,6 +7276,7 @@ toutcash.com/images/bandeau-
 ##A[onclick^="CustomWLAdServer."]
 ##[class*="proadszoneholder-"]
 ##[data-type="ligatus-script"]
+##[id*="/adunblock_"] > iframe
 ##[id*="_ads_id_"]
 ##[id^="ads_adnemo_"]
 ##[id^="block-xiti_oas-"]
@@ -7378,6 +7380,7 @@ toutcash.com/images/bandeau-
 ##div[id^="block-dfp-728-"]
 ##div[onclick*="/regiedeep.php?"]
 ##gwd-doubleclick
+##iframe[name*="/adunblock_"]
 ##script[src^="http://www.pubdirecte.com/script/"]
 ##section[onclick*="/publicite-300-250/"]
 ##table > tbody > tr > td > a[href="http://www.pubdirecte.com"]
