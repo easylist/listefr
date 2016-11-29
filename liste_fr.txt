@@ -2622,6 +2622,7 @@ _regie/clic.$popup
 ||ampxchange.com^$popup,third-party
 ||annoncessante.ma^$popup,third-party
 ||anytheengmedia.com^$popup,third-party
+||anytrx.com^$popup,third-party
 ||apk-download-market.com^$popup,third-party
 ||appfly.mobi^$popup,third-party
 ||apportium.com^$popup,third-party
@@ -4308,6 +4309,7 @@ toutcash.com/images/bandeau-
 ||ad.oujdacity.net^
 ||ad.referencement.01net.com^
 ||adli.pw/campagnes/
+||adn.zone-telechargement.com^
 ||adopteunmec.com^*/pave_partenaire_
 ||adserver.ouedkniss.com^
 ||aeroport.fr/sites/default/files/*/pub-
@@ -5913,6 +5915,8 @@ toutcash.com/images/bandeau-
 ||zone-films.net/ttmov.php?url=
 ||zone-numerique.com/pub/
 ||zone-series.biz/zone-
+||zone-telechargement.com/*.html$subdocument
+||zone-telechargement.com/ac.php
 ||zone911.com/images/banners/
 ||zone911.com/images/logo-banniere/
 ||zone911pub.com^
@@ -7336,6 +7340,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://adv-myninja."]
 ##a[href^="http://adv-mypirate."]
 ##a[href^="http://always-parser.xyz/"]
+##a[href^="http://c.tnkexchange.com/"]
 ##a[href^="http://centredecontrole.biz/ads/"]
 ##a[href^="http://click.union.ucweb.com/"]
 ##a[href^="http://clicks.totemcash.com/"]
@@ -8862,7 +8867,9 @@ centre-audition.com,easyzic.com,info-algerie.com##a[href*="/redirect."]
 heures.be##a[href*="/regarder/"]
 t411.cl##a[href*="/signup/"]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
+zone-telechargement.com##a[href*="/x.php"]
 ddl-island.su,emule-island.ru,stream-island.su##a[href*="/xxx/"]
+zone-telechargement.com##a[href*="/xz.php"]
 rtl.be##a[href*="://ad.doubleclick.net/"]
 comment-supprimer.com,igen.fr,macg.co,needsandmoods.com,refurbgeneration.com,sosiphone.com,watchgeneration.fr##a[href*="://ad.zanox.com/"]
 abidjan.net,algerie360.com,igen.fr,israelmagazine.co.il,journaldumusulman.fr,lnc.nc,macg.co,mega-vesti.info,orientation-chabab.com,proxylistpro.com,smartorrent.com,watchgeneration.fr,wawacity.su##a[href*="://goo.gl/"]
