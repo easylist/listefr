@@ -2205,7 +2205,7 @@ _regie/clic.$popup
 ||videonas.eu^$third-party
 ||videoplaza.se/proxy/distributor^$object-subrequest,third-party
 ||videoplaza.se^$~object-subrequest,third-party
-||videoplaza.tv^$object-subrequest,third-party,domain=commentcamarche.net|journaldesfemmes.com
+||videoplaza.tv^$third-party,domain=commentcamarche.net|journaldesfemmes.com
 ||videoplaza1.tv/proxy/distributor^$object-subrequest,third-party
 ||videoplaza1.tv^$~object-subrequest,third-party
 ||videoplaza2.tv/proxy/distributor^$object-subrequest,third-party
@@ -3699,6 +3699,7 @@ _regie/clic.$popup
 ||planethoster.net/images/bannieres/$third-party
 ||planethoster.net/img/banners/$third-party
 ||platform.wawacity.su^
+||player.ooyala.com^*?adSetCode=
 ||pointscommuns.com/images/bannieres/$third-party
 ||pokeram.com/images/promo/
 ||pooki.fr/banner/
