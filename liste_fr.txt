@@ -1045,6 +1045,7 @@ _werbebanner_
 ://pdv.$popup
 ://xml-feed.*/go.$popup
 ://xml.*/click?$popup
+://xml.*/redirect?$popup
 ://xmlsearch.*/click?$popup
 =*&referrer=*embed-$popup
 =adplexmedia&$popup
@@ -1096,6 +1097,7 @@ _regie/clic.$popup
 ||online^*?subid=$popup
 ||online^*?zone=$popup
 ||online^*?zoneid=$popup
+||site^*&zoneid=$popup
 ||site^*?subid=$popup
 ||site^*?zoneid=$popup
 ||space^*&pubid=$popup
@@ -2783,6 +2785,7 @@ _regie/clic.$popup
 ||gotositenow.com^$popup,third-party
 ||gowl.info^$popup,third-party
 ||goyavelab.com^$popup,third-party
+||greatwork.info^$popup,third-party
 ||guqu.info^$popup,third-party
 ||hipersushiads.com^$popup,third-party
 ||hopdream.com^$popup,third-party
@@ -2903,6 +2906,7 @@ _regie/clic.$popup
 ||parserord.info^$popup,third-party
 ||parserward.info^$popup,third-party
 ||parserwoad.info^$popup,third-party
+||pdn-1.com^$popup,third-party
 ||peritas247.info^$popup,third-party
 ||plxnt.com^$popup,third-party
 ||poptm.com^$popup,third-party
