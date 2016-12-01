@@ -1588,6 +1588,7 @@ _regie/clic.$popup
 ||emarketing.net.sa^$third-party
 ||embraceablemidpointcinnabar.com^$third-party
 ||emea.pub^$third-party
+||emooji.com^$third-party
 ||enmediadonner.pl^$third-party
 ||ep7kpqn8.online^$third-party
 ||eravage.com^$third-party
@@ -2137,6 +2138,7 @@ _regie/clic.$popup
 ||teads.fr^$third-party
 ||teads.net^$third-party
 ||telehan.xyz^$third-party
+||temp.uno^$third-party
 ||tfxiq.com^$third-party
 ||themoneytizer.com^$third-party
 ||thfw1wuq.site^$third-party
@@ -2290,6 +2292,7 @@ _regie/clic.$popup
 ||zeybjsxy.com^$third-party
 ||zidor.info^$third-party
 ||zwaar.net^$third-party
+||||pdn-1.com^$third-party
 ! videoadex.com
 ||azzerr.ovh^$third-party
 ||bvvx.ovh^$third-party
@@ -3604,6 +3607,7 @@ _regie/clic.$popup
 ||media-fire.org^$popup
 ||media.easybib.com/images/gr_
 ||mediabong.com^$domain=hitek.fr
+||mediafire.com/file/*.exe|$subdocument
 ||mediapostcommunication.net^
 ||mediastay.net^*/js/offers-dyn.
 ||mediastay.net^*/js/OMBanners-
@@ -4282,7 +4286,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14
 |blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |http://$popup,script,third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 ! linkbucks.com
-|http://$subdocument,domain=aptclkzmoelfm.net|cedrofltell.net|clictune.com|cvwgklzfu.net|ffhogexfyplgm.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|inesajjovx.net|kcmzydgk.net|lnzpbkeijlkmfdr.net|lskjpnkavksj.net|mcuzfdumqro.net|mnjsowaj.net|sa.ae|sugjtdizgo.net|tmccbzsxu.net|ubqgcbmrqjdcqn.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net|zypdvbupo.net
+|http://$subdocument,domain=aptclkzmoelfm.net|cedrofltell.net|clictune.com|cvwgklzfu.net|esywoeuo.net|ffhogexfyplgm.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|inesajjovx.net|kcmzydgk.net|lnzpbkeijlkmfdr.net|lskjpnkavksj.net|mcuzfdumqro.net|mnjsowaj.net|sa.ae|sugjtdizgo.net|tmccbzsxu.net|ubqgcbmrqjdcqn.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net|zypdvbupo.net
 ||fidelityhouse.eu^$subdocument,third-party
 ||super-virals.com^$subdocument,third-party
 ||uploadbank.com^$subdocument,third-party
