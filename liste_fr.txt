@@ -3128,6 +3128,7 @@ _regie/clic.$popup
 ||achetezfacile.com^*/widget.$third-party
 ||achetezfacile.com^*/widgets/$third-party
 ||ad.apps.fm^$popup
+||ad.ccmbg.com^
 ||ad.genybet.fr^
 ||ad.net-c.com^
 ||ad.prismamediadigital.com^
@@ -5655,7 +5656,6 @@ toutcash.com/images/bandeau-
 ||static.basket-infos.com/wp-content/uploads/Pub-
 ||static.booska-p.com/img/operations/
 ||static.ccm2.net/*/img/appstv/
-||static.commentcamarche.net/www.commentcamarche.net/$image
 ||static.lacentrale.fr/ressources/images/pages/home/spot_banner.jpg
 ||static.nautiljon.com/images/b1/?
 ||static.neowebcar.com/app/nwc/pix/allianz-widget.jpg
@@ -6824,6 +6824,7 @@ toutcash.com/images/bandeau-
 ##.annonce_pub_contenu
 ##.annonces_google
 ##.antiadclass
+##.app_google_ad_box
 ##.aside-pub-300
 ##.ast-block-adslot
 ##.ban-728
@@ -8844,6 +8845,7 @@ ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
+commentcamarche.net##[class*="_item--sponsor"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
 uploaded.net##[class*="pico-"]
 t411.bz,t411.cl,t411.la,t411.li,t411.lt,t411.tv##[class] + div > img + a
