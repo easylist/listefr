@@ -114,6 +114,7 @@
 .aspx?adv=
 .campaignsFileLoaded$script
 .com.sa/ads/
+.com/adb.
 .com/adj/
 .com/adpro.
 .com/bnrs/$subdocument
@@ -400,11 +401,13 @@
 /bnr/ads/*
 /bnr468.
 /bnr?*=$script
+/bouton_pub.gif
 /brightcoveAds.
 /bshow.php?dimension=$script,third-party
 /bshow.php?id=*&dimension=
 /campagne/redir/*
 /carrepubHome.
+/cash_ban/*
 /cd_infopop/*
 /cd_pop_dhtml-responsive.
 /cd_pop_dhtml/*
@@ -467,6 +470,7 @@
 /footerPartnerOffers.js
 /fr-ads.
 /fra/ads/*
+/frame_clic.*&aff=
 /frame_popup.
 /frontend_loader.$script
 /frprn_ad.
@@ -573,6 +577,7 @@
 /pop.php?user=
 /pop0.js|
 /pop?tid=
+/pop_ex.
 /popcall.js
 /popcashnet.js
 /pops/*&subid=
@@ -939,6 +944,7 @@ _werbebanner_
 &subAffId=$popup
 &tid=*&ref=$popup
 &tid=*&ref=*embed-$popup
+&url_annonceur=$popup
 &utm_$popup,domain=dailymotion.com
 &utm_medium=ads$popup
 &voluumdata=$popup
@@ -3154,6 +3160,7 @@ _regie/clic.$popup
 ||abc-du-gratuit.com^$image,third-party
 ||abc-du-gratuit.net/bannieres/
 ||abc-netmarketing.com/*/L160xH600_
+||abc-webmasters.net/images_annuaire_gratuit/$third-party
 ||abcdelaremuneration.com/banniere.gif
 ||abcdelaremuneration.com/bouton.gif
 ||acceptable.jeuxvideo.com^
@@ -3278,6 +3285,7 @@ _regie/clic.$popup
 ||bookiblog.com/iframe*.
 ||booking.com/static/img/*_banners_
 ||boonex.com/modules/Txt/layout/default/img/txt-abt-file
+||boostercash.fr/ban-
 ||bourbonvoyages.fr^$subdocument,third-party
 ||bourgogne-restaurants.com/a_decouvrir_resto_$third-party
 ||boutique.aero/images/block_pub_
@@ -3315,6 +3323,7 @@ _regie/clic.$popup
 ||chimeratool.com/banner/
 ||choisir-ma-banque.com^$domain=challenges.fr
 ||choubijoux.com/image/banniere-$third-party
+||chtiflouz.com/upload/ban/
 ||classistatic.com/*/banner/
 ||classistatic.com/*/homepage-banner/
 ||clicjeux.net/bann/
@@ -3406,6 +3415,7 @@ _regie/clic.$popup
 ||eamobile.com/*/dart_skyscraper.
 ||easy-charme.com/pub/
 ||ecchi.fr/banieres/
+||echangedebannieres.fr/images/$third-party
 ||echangegagnant.com/gagnant468.png
 ||eden-deco.fr/media/banniere/
 ||edi-static.fr/Images/Pubs/
@@ -7071,6 +7081,7 @@ toutcash.com/images/bandeau-
 ##.pub-970x90
 ##.pub-banner
 ##.pub-block
+##.pub-btns
 ##.pub-carre
 ##.pub-carre-smart-php
 ##.pub-condor
