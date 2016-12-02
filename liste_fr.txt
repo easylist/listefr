@@ -825,6 +825,7 @@
 ?publisher-adserver=
 ?redir=*/click?
 ?runauction=
+?target=_blank&mouseover=
 ?zoneid=*&placement=
 @preroll/*,adb=$xmlhttprequest
 @publicite@
@@ -1730,6 +1731,7 @@ _regie/clic.$popup
 ||javacript.tk^$third-party
 ||jazayr.net^$third-party
 ||jbam.info^$third-party
+||jdoqocy.com^$third-party
 ||jedeconnebiensur.com^$third-party
 ||jedeconnebiensur2.com^$third-party
 ||jeregardegratuitementetsanslimite.eu^$third-party
