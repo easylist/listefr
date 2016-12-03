@@ -2339,7 +2339,9 @@ _regie/clic.$popup
 ||fkrrvhoierty.com^
 ||flzelfqolfnf.com^
 ||frddujheozns.com^
+||gefaqjwdgzbo.com^
 ||gnipadiiodpa.com^
+||gtmonytxxglu.com^
 ||heefwozhlxgz.com^
 ||hfgevdzcoocs.com^
 ||hjukmfdbryln.com^
@@ -2374,6 +2376,7 @@ _regie/clic.$popup
 ||nnjiluslnwli.com^
 ||nryvxfosuiju.com^
 ||nwfdrxktftep.com^
+||ofgapiydisrw.com^
 ||ofghrodsrqkg.com^
 ||pjffrqroudcp.com^
 ||ppuuwencqopa.com^
@@ -2405,6 +2408,7 @@ _regie/clic.$popup
 ||uyfsqkwhpihm.com^
 ||uzbboiydfzog.com^
 ||uzesptwcwwmt.com^
+||vfasewomnmco.com^
 ||vgfeahkrzixa.com^
 ||vkdbvgcawubn.com^
 ||vunwzlxfsogj.com^
@@ -2685,6 +2689,7 @@ _regie/clic.$popup
 ||adsguru.co^$popup,third-party
 ||adskeeper.co.uk^$popup,third-party
 ||adstract.com^$popup,third-party
+||adturtle.biz^$popup,third-party
 ||adventurefeeds.com^$popup,third-party
 ||advertine.com^$popup,third-party
 ||advertiserurl.com^$popup,third-party
@@ -2807,6 +2812,7 @@ _regie/clic.$popup
 ||espace-plus.net^$popup,third-party
 ||europacash.com^$popup,third-party
 ||exasharetab.com^$popup,third-party
+||exdynsrv.com^$popup,third-party
 ||exhaustionlaurenbremsstrahlung.info^$popup,third-party
 ||exosrv.com^$popup,third-party
 ||expertweb.xyz^$popup,third-party
@@ -3137,6 +3143,7 @@ _regie/clic.$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
+$websocket,domain=lucariostream.eu
 /.*?\w{60}/$script,xmlhttprequest,domain=jeu.fr
 ://*.club/*/|$script,third-party,xmlhttprequest
 ://*.link/*/|$script,third-party,xmlhttprequest
@@ -3146,7 +3153,7 @@ _regie/clic.$popup
 ://*.space/*/|$script,third-party,xmlhttprequest
 ://*.website/*/|$script,third-party,xmlhttprequest
 ://*.xyz/*/|$script,third-party,xmlhttprequest
-|blob:$domain=dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|istreamin.com
+|blob:$domain=dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|istreamin.com|lucariostream.eu
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|e-wok.tv
 !
@@ -3156,8 +3163,8 @@ _regie/clic.$popup
 ://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1600,900,1,160$script,third-party
 ://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1920,1080,1,192$script,third-party
 !
-|http://*,$script,third-party,domain=anime-hunter.com|auratorrent.pl|bitvid.sx|cinemay.com|club-anime.fr|ddl-island.su|dpstream.net|dpstreaming.watch|dragonball-z.net|emule-island.ru|enstreaming.eu|enstreaming.tv|filmstreaming1.com|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|ianime.tv|istreamin.com|k-streaming.com|la-space.ch|le-streaming.com|libertyland.co|manga-fr.com|mangas-anime.com|mangas-vostfr.com|neko-san.fr|officiel-streamingfr.over-blog.com|otakufr.com|papyfullstream.com|papystreaming-film.com|papystreaming.org|planete-series.info|serie-streaming-vf.net|serie-streaming.tv|series-en-streaming.tv|sky-animes.com|sokrostream.biz|stream-island.ru|stream-island.su|stream-watch.co|streamdown.co|streamingpl.com|sznpaste.net|the-big-bang-theory-streaming.net|the-walking-dead-stream.net|trollvid.net|vkstreamingfilm.biz|zone-telechargement.eu|zone-telechargement.tv
-|https://*,$script,third-party,domain=anime-hunter.com|auratorrent.pl|bitvid.sx|cinemay.com|club-anime.fr|ddl-island.su|dpstream.net|dpstreaming.watch|dragonball-z.net|emule-island.ru|enstreaming.eu|enstreaming.tv|filmstreaming1.com|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|ianime.tv|istreamin.com|k-streaming.com|la-space.ch|le-streaming.com|libertyland.co|manga-fr.com|mangas-anime.com|mangas-vostfr.com|neko-san.fr|officiel-streamingfr.over-blog.com|otakufr.com|papyfullstream.com|papystreaming-film.com|papystreaming.org|planete-series.info|serie-streaming-vf.net|serie-streaming.tv|series-en-streaming.tv|sky-animes.com|sokrostream.biz|stream-island.ru|stream-island.su|stream-watch.co|streamdown.co|streamingpl.com|sznpaste.net|the-big-bang-theory-streaming.net|the-walking-dead-stream.net|trollvid.net|vkstreamingfilm.biz|zone-telechargement.eu|zone-telechargement.tv
+|http://*,$script,third-party,domain=anime-hunter.com|auratorrent.pl|bitvid.sx|cinemay.com|club-anime.fr|ddl-island.su|dpstream.net|dpstreaming.watch|dragonball-z.net|emule-island.ru|enstreaming.eu|enstreaming.tv|filecrypt.cc|filmstreaming1.com|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|ianime.tv|istreamin.com|k-streaming.com|la-space.ch|le-streaming.com|libertyland.co|manga-fr.com|mangas-anime.com|mangas-vostfr.com|neko-san.fr|officiel-streamingfr.over-blog.com|otakufr.com|papyfullstream.com|papystreaming-film.com|papystreaming.org|planete-series.info|serie-streaming-vf.net|serie-streaming.tv|series-en-streaming.tv|sky-animes.com|sokrostream.biz|stream-island.ru|stream-island.su|stream-watch.co|streamdown.co|streamingpl.com|sznpaste.net|the-big-bang-theory-streaming.net|the-walking-dead-stream.net|trollvid.net|vkstreamingfilm.biz|zone-telechargement.eu|zone-telechargement.tv
+|https://*,$script,third-party,domain=anime-hunter.com|auratorrent.pl|bitvid.sx|cinemay.com|club-anime.fr|ddl-island.su|dpstream.net|dpstreaming.watch|dragonball-z.net|emule-island.ru|enstreaming.eu|enstreaming.tv|filecrypt.cc|filmstreaming1.com|filmvf.ws|full-film.me|gum-gum-streaming.com|hinata-online-community.fr|ianime.tv|istreamin.com|k-streaming.com|la-space.ch|le-streaming.com|libertyland.co|manga-fr.com|mangas-anime.com|mangas-vostfr.com|neko-san.fr|officiel-streamingfr.over-blog.com|otakufr.com|papyfullstream.com|papystreaming-film.com|papystreaming.org|planete-series.info|serie-streaming-vf.net|serie-streaming.tv|series-en-streaming.tv|sky-animes.com|sokrostream.biz|stream-island.ru|stream-island.su|stream-watch.co|streamdown.co|streamingpl.com|sznpaste.net|the-big-bang-theory-streaming.net|the-walking-dead-stream.net|trollvid.net|vkstreamingfilm.biz|zone-telechargement.eu|zone-telechargement.tv
 !
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
@@ -4227,6 +4234,7 @@ _regie/clic.$popup
 ! lucariostream.eu
 |http://$script,third-party,xmlhttprequest,domain=lucariostream.eu
 |https://$script,third-party,xmlhttprequest,domain=lucariostream.eu
+||lucariostream.eu^$popup,~third-party
 ! skidrowreloaded.com
 |http://$script,third-party,xmlhttprequest,domain=skidrowreloaded.com
 |https://$script,third-party,xmlhttprequest,domain=skidrowreloaded.com
@@ -6037,10 +6045,10 @@ toutcash.com/images/bandeau-
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
 ! amazonaws.com
-||amazonaws.com^$domain=1host.name|allvid.ch|anime-hunter.com|auratorrent.pl|auroravid.to|bdupload.info|bitvid.sx|brain-magazine.fr|cinemay.com|club-anime.fr|daclips.in|dailymotion.com|ddl-island.su|dpstream.net|dpstreaming.watch|dragonball-z.net|emule-island.ru|enstreaming.eu|enstreaming.tv|exashare.com|eztv-proxy.net|eztv.ag|eztv.ch|eztv.it|eztv.tf|eztv.yt|fas.li|filmstreaming1.com|filmvf.ws|full-film.me|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hinata-online-community.fr|ianime.tv|istreamin.com|k-streaming.com|la-space.ch|le-streaming.com|letwatch.to|letwatch.us|libertyland.co|manga-fr.com|mangas-anime.com|mangas-vostfr.com|maquillage.com|movpod.in|neko-san.fr|officiel-streamingfr.over-blog.com|openload.info|otakufr.com|papyfullstream.com|papystreaming-film.com|papystreaming.org|pausefun.com|pausepeople.com|planete-series.info|revclouds.com|serie-streaming-vf.net|serie-streaming.tv|series-en-streaming.tv|sky-animes.com|sokrostream.biz|solidfiles.com|speedvid.net|stream-island.ru|stream-island.su|stream-watch.co|streamdown.co|streamingpl.com|sznpaste.net|the-big-bang-theory-streaming.net|the-walking-dead-stream.net|thewatchseries.to|toofy.tv|trollvid.net|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vidshare.me|vidshare.us|vkstreamingfilm.biz|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org|zone-telechargement.eu|zone-telechargement.tv
+||amazonaws.com^$domain=1host.name|allvid.ch|anime-hunter.com|auratorrent.pl|auroravid.to|bdupload.info|bitvid.sx|brain-magazine.fr|cinemay.com|club-anime.fr|daclips.in|dailymotion.com|ddl-island.su|dpstream.net|dpstreaming.watch|dragonball-z.net|emule-island.ru|enstreaming.eu|enstreaming.tv|exashare.com|eztv-proxy.net|eztv.ag|eztv.ch|eztv.it|eztv.tf|eztv.yt|fas.li|filecrypt.cc|filmstreaming1.com|filmvf.ws|full-film.me|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hinata-online-community.fr|ianime.tv|istreamin.com|k-streaming.com|la-space.ch|le-streaming.com|letwatch.to|letwatch.us|libertyland.co|manga-fr.com|mangas-anime.com|mangas-vostfr.com|maquillage.com|movpod.in|neko-san.fr|officiel-streamingfr.over-blog.com|openload.info|otakufr.com|papyfullstream.com|papystreaming-film.com|papystreaming.org|pausefun.com|pausepeople.com|planete-series.info|revclouds.com|serie-streaming-vf.net|serie-streaming.tv|series-en-streaming.tv|sky-animes.com|sokrostream.biz|solidfiles.com|speedvid.net|stream-island.ru|stream-island.su|stream-watch.co|streamdown.co|streamingpl.com|sznpaste.net|the-big-bang-theory-streaming.net|the-walking-dead-stream.net|thewatchseries.to|toofy.tv|trollvid.net|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vidshare.me|vidshare.us|vkstreamingfilm.biz|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org|zone-telechargement.eu|zone-telechargement.tv
 ! cloudfront.net
 ||cloudfront.net/img/banner
-||cloudfront.net^$domain=1host.name|allvid.ch|anime-hunter.com|auratorrent.pl|auroravid.to|bdupload.info|bitvid.sx|brain-magazine.fr|cinemay.com|club-anime.fr|daclips.in|dailymotion.com|ddl-island.su|dpstream.net|dpstreaming.watch|dragonball-z.net|emule-island.ru|enstreaming.eu|enstreaming.tv|exashare.com|eztv-proxy.net|eztv.ag|eztv.ch|eztv.it|eztv.tf|eztv.yt|fas.li|filmstreaming1.com|filmvf.ws|full-film.me|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hinata-online-community.fr|ianime.tv|istreamin.com|k-streaming.com|la-space.ch|le-streaming.com|letwatch.to|letwatch.us|libertyland.co|manga-fr.com|mangas-anime.com|mangas-vostfr.com|maquillage.com|movpod.in|neko-san.fr|officiel-streamingfr.over-blog.com|openload.info|otakufr.com|papyfullstream.com|papystreaming-film.com|papystreaming.org|pausefun.com|pausepeople.com|planete-series.info|revclouds.com|serie-streaming-vf.net|serie-streaming.tv|series-en-streaming.tv|sky-animes.com|sokrostream.biz|solidfiles.com|speedvid.net|stream-island.ru|stream-island.su|stream-watch.co|streamdown.co|streamingpl.com|sznpaste.net|the-big-bang-theory-streaming.net|the-walking-dead-stream.net|thewatchseries.to|toofy.tv|trollvid.net|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vidshare.me|vidshare.us|vkstreamingfilm.biz|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org|zone-telechargement.eu|zone-telechargement.tv
+||cloudfront.net^$domain=1host.name|allvid.ch|anime-hunter.com|auratorrent.pl|auroravid.to|bdupload.info|bitvid.sx|brain-magazine.fr|cinemay.com|club-anime.fr|daclips.in|dailymotion.com|ddl-island.su|dpstream.net|dpstreaming.watch|dragonball-z.net|emule-island.ru|enstreaming.eu|enstreaming.tv|exashare.com|eztv-proxy.net|eztv.ag|eztv.ch|eztv.it|eztv.tf|eztv.yt|fas.li|filecrypt.cc|filmstreaming1.com|filmvf.ws|full-film.me|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hinata-online-community.fr|ianime.tv|istreamin.com|k-streaming.com|la-space.ch|le-streaming.com|letwatch.to|letwatch.us|libertyland.co|manga-fr.com|mangas-anime.com|mangas-vostfr.com|maquillage.com|movpod.in|neko-san.fr|officiel-streamingfr.over-blog.com|openload.info|otakufr.com|papyfullstream.com|papystreaming-film.com|papystreaming.org|pausefun.com|pausepeople.com|planete-series.info|revclouds.com|serie-streaming-vf.net|serie-streaming.tv|series-en-streaming.tv|sky-animes.com|sokrostream.biz|solidfiles.com|speedvid.net|stream-island.ru|stream-island.su|stream-watch.co|streamdown.co|streamingpl.com|sznpaste.net|the-big-bang-theory-streaming.net|the-walking-dead-stream.net|thewatchseries.to|toofy.tv|trollvid.net|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vidshare.me|vidshare.us|vkstreamingfilm.biz|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org|zone-telechargement.eu|zone-telechargement.tv
 ||cloudfront.net^*/?partner=
 ||cloudfront.net^*tid=$script
 ||d10hxp21ljytsr.cloudfront.net^
