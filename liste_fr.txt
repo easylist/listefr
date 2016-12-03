@@ -2759,6 +2759,7 @@ _regie/clic.$popup
 ||clickfordeal.click^$popup,third-party
 ||clickppcbuzz.com^$popup,third-party
 ||clicks4ads.com^$popup,third-party
+||clicksgear.com^$popup,third-party
 ||clicnscores.ma^$popup,third-party
 ||clksite.com^$popup,third-party
 ||clktrcking.com^$popup,third-party
@@ -3470,6 +3471,7 @@ _regie/clic.$popup
 ||fbcdn.net^$domain=dailymotion.com
 ||feelingsurf.fr/images/banner_
 ||fetishgirls.com/liveshowbanners/
+||filerio.in/js/*.fancybox.
 ||files.nyaa.se/*.jpg
 ||fille-sensuelle.fr/annuaire/promo/$third-party
 ||filmeseseriesonline.org^$script,third-party
@@ -6867,6 +6869,7 @@ toutcash.com/images/bandeau-
 ##.adv--float
 ##.adv-header
 ##.adv300-topnews
+##.adv350200
 ##.advBackground
 ##.adv_big
 ##.adv_cont
@@ -7410,6 +7413,7 @@ toutcash.com/images/bandeau-
 ##a[href*="//go.ad2up.com/"]
 ##a[href*="/?a_aid="]
 ##a[href*="/a/display.php?"]
+##a[href*="/adagency/"] > img
 ##a[href*="/ads.php?ref="]
 ##a[href*="/ads/ad_link."]
 ##a[href*="/goto.php?ads_id="]
@@ -7421,6 +7425,7 @@ toutcash.com/images/bandeau-
 ##a[href*="/tracking_campaign.php?"]
 ##a[href*="://adsrvmedia."]
 ##a[href*="://all2lnk.com/"]
+##a[href*="://syndication."] > img
 ##a[href*="://toroadvertisingmedia.com/"]
 ##a[href*="?ad_id="]
 ##a[href*="_728x90_bleach_adb"]
