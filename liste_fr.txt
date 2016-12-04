@@ -58,14 +58,12 @@
 -300-250e.
 -300-x-250-
 -300x250.$subdocument
--300x250.html$subdocument
 -300x250.php?cb=
 -300x250_pub.
 -468-x-60-
 -468-x-60.
 -468v60.
 -468x601.
--468x60px.
 -486_60.
 -60x480.
 -728-90-1.
@@ -101,7 +99,6 @@
 -viewability.
 .ad/banner/
 .ad4mat.$domain=~ad4mat.com
-.ad6media.$domain=~ad6media.fr
 .adfarm1.
 .ads/banner/
 .adsearch.
@@ -150,11 +147,6 @@
 .php?id=*&ref=$script,third-party
 .php?img_adv=
 .php?redirect_
-.php?style=160x600-
-.php?style=300x250-
-.php?style=468x60-
-.php?style=720x90-
-.php?zones=*&blockcampaign=
 .popundersc.js
 .pub-ban-
 .pubdirecte.$domain=~pubdirecte.com
@@ -181,7 +173,7 @@
 /468-px-60-
 /468x60banner.
 /720x90_dfp.
-/72890.js|
+/72890.js
 /728x090_
 /728x300-banner.
 /728X90px_
@@ -194,7 +186,7 @@
 /acad.$script
 /accrochePub300.
 /acecAdServer.
-/ad-360-280-player.
+/ad-360-280-
 /ad-lib/*
 /ad-netc-
 /ad-script.
@@ -204,7 +196,7 @@
 /ad/ad3/*
 /ad/banners_
 /ad/screen.
-/ad2/show.php?
+/ad2/show.
 /ad4mat.
 /Ad4S_Popup/*
 /ad_250250.
@@ -289,8 +281,6 @@
 /adslider.
 /adsmouse.
 /adspage.
-/adsrv.
-/adsrvmedia/*
 /adstrack/*
 /adsw1.
 /adtube.js
@@ -312,8 +302,7 @@
 /af-300x250.
 /aff.php?
 /aff_*/banners/*
-/aff_ad?
-/aff_c?aff_id=
+/aff_*?aff_id=
 /aff_pub_
 /affich_ban.
 /affich_pub.
@@ -326,7 +315,7 @@
 /affiliates/banners/*
 /affiliation-mb.
 /affiliation_simple/*
-/affiliationbanner/$third-party
+/affiliationbanner/*
 /affilist-$third-party
 /affilitybanners.
 /affpx.php
@@ -351,18 +340,18 @@
 /bandeau-pub-
 /bandeaupublicite/*
 /bandeaux_pub/*
-/bandito.php?p=$xmlhttprequest
+/bandito.php?$xmlhttprequest
 /baner/ads/*
-/banLight.js?ref=
+/banLight.*?ref=
 /bann468X60.
 /Banner-Tag-
 /banner/*/sponsored?
 /banner/*?site_id=
-/banner/?id_affilie=
+/banner/*_affilie=
 /banner/ads-
 /banner300.
 /banner468-
-/banner720x90/?ad=
+/banner720x90/*
 /banner728.
 /banner?*&domain=
 /banner?sid=
@@ -377,7 +366,7 @@
 /banners-ads/*
 /banners-pub/*
 /banners/pub-
-/banners/show_flash.js
+/banners/show_flash.
 /banners?tid=
 /banniere.*?type=
 /banniere.php?id=
@@ -396,10 +385,13 @@
 /bannieresadultes.
 /banpub/*
 /bans_infopop/*
-/bansfakes_st.php?ref=
+/bansfakes_st.
 /bb728x90.
 /blog/ads_
 /bnr.php?section=
+/bnr/300/*
+/bnr/468/*
+/bnr/720/*
 /bnr/ad/*
 /bnr/ads/*
 /bnr468.
@@ -412,30 +404,29 @@
 /carrepubHome.
 /cash_ban/*
 /cd_infopop/*
-/cd_pop_dhtml-responsive.
+/cd_pop_dhtml-
 /cd_pop_dhtml/*
 /cdn-ads-
 /choixPubJS.
 /clash/ads/*
 /clash/banner-
 /click?adv=
-/click_lx.ads/*
-/click_update.php?id_pub=
+/click_update.*?id_pub=
 /clients-ads.
-/cmpn_async.js?
+/cmpn_async.
 /code-float-ad.
 /col_droite_googleads2
 /Criteo.ADBLOK.
 /Criteo.Left.
 /cshoppingbox.
-/custompopup.php?
+/custompopup.
 /dacash.
 /default_ad/*
 /default_ads_
 /defclick_ad/*
 /delivery/*?bannerid=
 /delivery/ajs.
-/delivery/ck.php?
+/delivery/ck.
 /delivery/ifrm.
 /delivery/rta/*
 /delivery?*&ad=
@@ -458,8 +449,8 @@
 /ec_connectorDelivery.
 /effiliation/*
 /effinity/banniere-
-/email_catcher/track.php?$subdocument
-/emplacement-pub/*$subdocument
+/email_catcher/track.
+/emplacement-pub/*
 /epomads2.
 /EpubDelivery/*
 /espace-pub-
@@ -470,7 +461,7 @@
 /fera/ads/*
 /fillerAds/*
 /fod_ad_
-/footerPartnerOffers.js
+/footerPartnerOffers.
 /fr-ads.
 /fra/ads/*
 /frame_clic.*&aff=
@@ -487,8 +478,7 @@
 /gfx/bannieres/*
 /goclick?ref=$script
 /header_ads|
-/homad-global-configs-
-/homad-global-configs.
+/homad-global-
 /iframe468x60-
 /iframe468x60.
 /iframe468x60/*
@@ -499,10 +489,6 @@
 /IFrameStoreReciever.
 /images/*_ads/
 /images/adsMB/*
-/images/bnr/300/*
-/images/bnr/468/*
-/images/bnr/720/*
-/images/liens-commerciaux/*
 /images/sponsored?
 /images_pub/pub_
 /img-bandeau-pub/*
@@ -512,7 +498,7 @@
 /index.php/tag/iframe/*
 /infopop-optimise-
 /infopop-optimise.
-/infopop/*.php?$script
+/infopop/*.php?
 /InjectPopunderAd.
 /inread_
 /inside_ad.
@@ -522,14 +508,15 @@
 /jp_display.
 /jquery.dfp.
 /jquery.fake.
-/js.adv.$script
+/js.adv.
 /js/468.
-/js/infopop_$script
+/js/infopop_
 /js/pub.js
 /jwplayer/plugin/preroll.js
 /last_ads.
 /layout/ads?
 /lib/ads.
+/liens-commerciaux/*
 /link-converter.$script,third-party
 /load.php?*&size=
 /load.php?action=adsc&
@@ -543,7 +530,7 @@
 /miniads/*
 /modalads.
 /money/ad.
-/mosaique/track.php?$script
+/mosaique/track.php?
 /myadproxy_
 /networking/ref_
 /newcafv2.js
@@ -563,7 +550,6 @@
 /pagepub.
 /pages_ads.
 /panel_regie/*
-/par_46860_
 /pariez-h728.
 /partners.js?location=
 /partners.php?id=
@@ -579,7 +565,6 @@
 /pop-ads.
 /pop.php?user=
 /pop0.js|
-/pop?tid=
 /pop_ex.
 /popcall.js
 /popcashnet.js
@@ -589,7 +574,7 @@
 /popunder6.
 /popundersc/*
 /popup.*&ads=
-/popup.php?*&pub=$script
+/popup.php?*&pub=
 /popup.php?affil_id=
 /popup.php?user=
 /popup4.js
@@ -649,7 +634,7 @@
 /pub_html5/*
 /pub_json_
 /pub_smart.js
-/pub_smart_js.
+/pub_smart_
 /pub_title.
 /pub_ver.
 /pubAdv.
@@ -675,7 +660,7 @@
 /publicity.
 /publisher_configurations.
 /pubs/*-300x250.
-/pubs/*/ban.html
+/pubs/*/ban.
 /pubs/*_300x600-
 /pubs/160600/*
 /pubs/300250/*
@@ -684,7 +669,7 @@
 /pubs/?format=728x90
 /pubs/dfp/*
 /pubs/habillage/*
-/query.php?aff=$subdocument
+/query.*?aff=$subdocument
 /redirect/*?banner=
 /regie_pub/*
 /regiepub/*
@@ -697,7 +682,7 @@
 /right_down_ads|
 /right_up_ads|
 /rotaban/*$subdocument
-/rotation.php?idaff=
+/rotation.*?idaff=
 /rotation/hits?$subdocument
 /rotator.php?zone=$script
 /rotban/*$script
@@ -715,7 +700,7 @@
 /sdk-ads/*
 /search_caf.php?
 /secure-ads.
-/servepop.php?wid=
+/servepop.
 /shareaholic.js
 /shareaholic/*
 /shared/ad/*
@@ -766,7 +751,7 @@
 /wp-totemtools/*
 /xbanniere-pub-
 /XnewadsX/*
-/xpopunder.js
+/xpopunder.
 /xpopunder/*
 /xyz?*=|$subdocument
 /xzy?*=|$subdocument
@@ -783,25 +768,26 @@
 ://bannieres.
 ://eacash.
 ://go.*&zoneid=
-://go.*/|$script,third-party,xmlhttprequest
+://go.*/|$script,subdocument,third-party,xmlhttprequest
 ://go.*?zoneid=
 ://goto.*&zoneid=
 ://goto.*?zoneid=
 ://imads.
 ://na.ads.
-://pop.$script,third-party,xmlhttprequest
+://pop.$script,subdocument,third-party,xmlhttprequest
 ://reclame.
 ://soads.
 ://sync.adaptv.
 ://vykingad.
 =/ads.js|
+=/ligatus/
 =250x250&bn=
 =banniere&*=leaderboard&
 =dynamic_banner&
 =GetAdHtml&
 =goto_adv&id_adv=
 =iframe_pub&
-=INSERT_RANDOM_NUMBER_HERE
+=INSERT_RANDOM_NUMBER_
 =publicite&
 =show_ads;
 =sponsored_links_
@@ -815,19 +801,23 @@
 ?callback=ADS.
 ?clicktag=
 ?id_promo=*&nsfw=
-?imgPrefix=/ligatus/
 ?mmzad=
 ?module=*&action=getPub
 ?oas_mode_pub=
-?Page=*&Width=120&Height=600&
-?Page=*&Width=160&Height=600&
-?Page=*&Width=300&Height=250&
-?Page=*&Width=468&Height=60&
+?Page=*&Width=120&
+?Page=*&Width=160&
+?Page=*&Width=300&
+?Page=*&Width=468&
 ?publisher-adserver=
 ?redir=*/click?
 ?runauction=
+?style=160x600-
+?style=300x250-
+?style=468x60-
+?style=720x90-
 ?target=_blank&mouseover=
 ?zoneid=*&placement=
+?zones=*&blockcampaign=
 @preroll/*,adb=$xmlhttprequest
 @publicite@
 \adds\adds.
@@ -857,10 +847,10 @@ _adstyle.
 _adv.js
 _advertising_img.
 _alenty.js
-_emplacements.php?f=300x125
-_emplacements.php?f=300x250
-_emplacements.php?f=468x60
-_emplacements.php?f=728x90
+_emplacements.*=300x125
+_emplacements.*=300x250
+_emplacements.*=468x60
+_emplacements.*=728x90
 _epmads.
 _event_pub.
 _flash_ad_
@@ -869,6 +859,7 @@ _infopop/infopop-
 _jx.ads/
 _liens_sponsorises.
 _logic_on_ad.
+_lx.ads/
 _nnads/$subdocument
 _pages_ad.
 _pop.php?z=
@@ -906,6 +897,7 @@ _werbebanner_
 /cdn-cgi/pe/bag2?*hilltopads.net
 /cdn-cgi/pe/bag2?*jsadapi.com
 /cdn-cgi/pe/bag2?*komoona.com
+/cdn-cgi/pe/bag2?*ligatus.com
 /cdn-cgi/pe/bag2?*liveadexchanger.com
 /cdn-cgi/pe/bag2?*mobisla.com
 /cdn-cgi/pe/bag2?*oclasrv.com
@@ -945,7 +937,6 @@ _werbebanner_
 &runauction=$popup
 &subAffId=$popup
 &tid=*&ref=$popup
-&tid=*&ref=*embed-$popup
 &url_annonceur=$popup
 &utm_$popup,domain=dailymotion.com
 &utm_medium=ads$popup
@@ -966,15 +957,14 @@ _werbebanner_
 /?pub_id=*&sub_id=$popup
 /?tid=*&red=$popup
 /__utm.gif$popup
-/a/display.php?$popup
 /a4u_banner_.$popup
 /ad.*/aff_$popup
 /adcint/*$popup
 /adexchangelive.$popup
 /adplexmedia/*$popup
-/ads.php?$popup
+/ads.php$popup
 /ads/out.$popup
-/ads?*==|$popup
+/ads?*=|$popup
 /ads?key=$popup
 /ads?spot_id=$popup
 /ads_$popup
@@ -987,21 +977,20 @@ _werbebanner_
 /adv.php$popup
 /adv_clk_redirect.$popup
 /adv_show?$popup
-/advertisers/?utm_source=$popup
+/advertisers/?utm_$popup
 /aff_ad?$popup
 /async_redirect?$popup
 /back?from=back&tracker=DEFAULT&token=$popup
-/banner_s?*&auto_click=$popup
+/banner_*&auto_click=$popup
 /banredir.cgi?$popup
 /bdv_rd.dbm?$popup
 /click/*?affiliate=$popup
 /click?*&subid=$popup
 /click?*=ad&$popup
 /click?adv=^$popup
-/click_lx.ads/*$popup
-/close.htm?tid=$popup
+/close.*?tid=$popup
 /default_ad/*$popup
-/delivery/ck.php?$popup
+/delivery/ck.$popup
 /direct.php?said=$popup
 /display.*&ban=$popup
 /display/?method=pop&force=$popup
@@ -1027,7 +1016,7 @@ _werbebanner_
 /pu2redirector.$popup
 /puopen.php?$popup
 /random.php$popup
-/redir/k.php?r=$popup
+/redir/*.php?r=$popup
 /redirect.php?*==$popup
 /redirect?&tid=$popup
 /redirect?spot_id=$popup
@@ -1076,7 +1065,7 @@ _werbebanner_
 ?partner=*&offer_id=$popup,third-party
 ?preview=*&pgid*&from_sz=$popup
 ?runauction=$popup
-?utm_term=*&clickverify=$popup
+?utm_*&clickverify=$popup
 ?voluumdata=$popup
 ?zoneid=$popup,domain=ddlfr.org
 ?zoneid=*&sz=$popup
@@ -1086,6 +1075,7 @@ _adb_300x250_$popup
 _adb_728x90_$popup
 _domain=ads.$popup
 _fkplay/$popup
+_lx.ads/$popup
 _packcpm.$popup
 _pop.php?z=$popup
 _pornofolies_$popup
@@ -1251,8 +1241,6 @@ _regie/clic.$popup
 ||adoftheyear.com^$third-party
 ||adonads.com^$third-party
 ||adoptima.com^$third-party
-||adpays.net^$third-party
-||adpdx.com^$third-party
 ||adproxy2.com^$third-party
 ||adpub.eu^$third-party
 ||adqia.com^$third-party
@@ -1323,7 +1311,6 @@ _regie/clic.$popup
 ||advantagz.com^$third-party
 ||adverkeyz.com^$third-party
 ||adverline.com^$third-party
-||adverpub.com^$third-party
 ||adverteasy.fr^$third-party
 ||adverti.fr^$third-party
 ||adverti.io^$third-party
@@ -1333,11 +1320,9 @@ _regie/clic.$popup
 ||advertsponsor.com^$third-party
 ||adverum.lt^$third-party
 ||advideo.ru^$third-party
-||advideum.com^$third-party
 ||advinapps.com^$third-party
 ||advprivate.com^$third-party
 ||advquality.com^$third-party
-||advserver.xyz^$third-party
 ||adwebmanager.com^$third-party
 ||adwidecenter.com^$third-party
 ||adwise.bg^$third-party
@@ -1378,7 +1363,6 @@ _regie/clic.$popup
 ||alloclick.com^$third-party
 ||allovisiteur.com^$third-party
 ||altpubli.com^$third-party
-||amd2016.com^$third-party
 ||annoncesante.ma^$third-party
 ||annoncessante.ma^$third-party
 ||anymad.com^$third-party
@@ -1439,8 +1423,6 @@ _regie/clic.$popup
 ||bouncebidder.com^$third-party
 ||braip.com.br^$third-party
 ||branchroughlend.info^$third-party
-||brassyobedientcotangent.com^$third-party
-||brethrengenotypeteledyne.com^$third-party
 ||brightonclick.com^$third-party
 ||briwat.info^$third-party
 ||brlmoney.com^$third-party
@@ -1464,7 +1446,6 @@ _regie/clic.$popup
 ||captchme.net^$third-party
 ||caradisiac-publicite.com^$third-party
 ||carpediem.fr^$third-party
-||cartstick.com^$third-party
 ||cash-manager.biz^$third-party
 ||cclpub.com^$third-party
 ||cdn.nextperf.net^$third-party
@@ -1478,7 +1459,6 @@ _regie/clic.$popup
 ||chainwalladsoid.com^$third-party
 ||chainwalladsy.com^$third-party
 ||charmix.com^$third-party
-||checkapi.xyz^$third-party
 ||chilican.com^$third-party
 ||citenkomedia.com^$third-party
 ||cityads.com^$third-party
@@ -1489,7 +1469,6 @@ _regie/clic.$popup
 ||click-fr.com^$third-party
 ||clickmena.com^$third-party
 ||clickpartoffon.xyz^$third-party
-||clicks4ads.com^$third-party
 ||clicmanager.fr^$third-party
 ||clicmanager.net^$third-party
 ||clicnscores.ma^$third-party
@@ -1531,9 +1510,7 @@ _regie/clic.$popup
 ||cytochemistryrecitativewrasse.com^$third-party
 ||dailyofferservice.com^$third-party
 ||dajusepe.com^$third-party
-||danmeneldur.com^$third-party
 ||danstonfion.com^$third-party
-||dashgreen.online^$third-party
 ||data1rtb.com^$third-party
 ||datvantage.com^$third-party
 ||dblock-ads.com^$third-party
@@ -1615,7 +1592,6 @@ _regie/clic.$popup
 ||etoro.fr^$third-party
 ||euro-clic.com^$third-party
 ||eurolive.com^$third-party
-||europacash.com^$third-party
 ||eurowebbiz.com^$third-party
 ||euym8eel.club^$third-party
 ||every.com^$third-party
@@ -1632,7 +1608,6 @@ _regie/clic.$popup
 ||feelupdatingperfect.info^$third-party
 ||fellent.eu^$third-party
 ||fhserve.com^$third-party
-||ficusoid.xyz^$third-party
 ||findgoogl.com^$third-party
 ||firamayu.com^$third-party
 ||firstoffersfinder.com^$third-party
@@ -1763,7 +1738,6 @@ _regie/clic.$popup
 ||koodoo.net^$third-party
 ||koqtrn1b.site^$third-party
 ||kreaffiliation.com^$third-party
-||lamiflor.xyz^$third-party
 ||leadzupc.com^$third-party
 ||leasured.eu^$third-party
 ||lenteroi.xyz^$third-party
@@ -1945,6 +1919,7 @@ _regie/clic.$popup
 ||paygladplayer.com^$third-party
 ||payreadydistinctive.xyz^$third-party
 ||pdanew.com^$third-party
+||pdn-1.com^$third-party
 ||pee-puu-see.com^$third-party
 ||perabetads.com^$third-party
 ||peretasker.xyz^$third-party
@@ -1969,7 +1944,6 @@ _regie/clic.$popup
 ||pocofh.com^$third-party
 ||poparb.com^$third-party
 ||popitunder.com^$third-party
-||poptm.com^$third-party
 ||popudom.xyz^$third-party
 ||popvertising.com^$third-party
 ||popzila.com^$third-party
@@ -2008,7 +1982,6 @@ _regie/clic.$popup
 ||pubovore.com^$third-party
 ||pubwebnet.com^$third-party
 ||pureadexchange.com^$third-party
-||puserving.com^$third-party
 ||pushnative.com^$third-party
 ||putbid.net^$third-party
 ||pwspace.com^$third-party
@@ -2020,11 +1993,8 @@ _regie/clic.$popup
 ||qhiip.com^$third-party
 ||quaelead.com^$third-party
 ||quanta.lu^$third-party
-||quideo.men^$third-party
 ||qwerty1.co.pl^$third-party
 ||qwtbx.com^$third-party
-||r66net.com^$third-party
-||r66net.net^$third-party
 ||r867qq.net^$third-party
 ||rafomedia.com^$third-party
 ||rapsio.com^$third-party
@@ -2049,13 +2019,11 @@ _regie/clic.$popup
 ||remerciez.com^$third-party
 ||rencontreroulette.com^$third-party
 ||rentacorner.com^$third-party
-||requiredcollectfilm.info^$third-party
 ||retagapp.com^$third-party
 ||retainguaninefluorite.info^$third-party
 ||retargetads.net^$third-party
 ||revenuemob1.com^$third-party
 ||revenuestripe.com^$third-party
-||revnuehub.com^$third-party
 ||rf6oo9gq.online^$third-party
 ||rgbperf.com^$third-party
 ||ritzysponge.com^$third-party
@@ -2090,7 +2058,6 @@ _regie/clic.$popup
 ||septani.ru^$third-party
 ||sepulchralconestogaleftover.com^$third-party
 ||serpzaer.com^$third-party
-||servedby-buysellads.com^$third-party
 ||setads.bid^$third-party
 ||sex-affiliation.com^$third-party
 ||sextapes2stars.com^$third-party
@@ -2173,7 +2140,6 @@ _regie/clic.$popup
 ||topfreesoft4you.com^$third-party
 ||toponclick.com^$third-party
 ||toro-tags.com^$third-party
-||torpsol.com^$third-party
 ||torriderencontre.com^$third-party
 ||totaladperformance.com^$third-party
 ||totale-defonce.com^$third-party
@@ -2246,7 +2212,6 @@ _regie/clic.$popup
 ||vyking.io^$third-party
 ||wafmedia2.com^$third-party
 ||waframedia*.com^$third-party
-||waframedia.com^$third-party
 ||wbsadsdel.com^$third-party
 ||wbsadsdel2.com^$third-party
 ||wbusiness.fr^$third-party
@@ -2262,7 +2227,6 @@ _regie/clic.$popup
 ||wheretogo.bid^$third-party
 ||whirlclick.com^$third-party
 ||white-eyes.com^$third-party
-||whiteboardnez.com^$third-party
 ||whonami.info^$third-party
 ||widespace.com^$third-party
 ||widgetbooster.com^$third-party
@@ -2308,7 +2272,6 @@ _regie/clic.$popup
 ||zeybjsxy.com^$third-party
 ||zidor.info^$third-party
 ||zwaar.net^$third-party
-||||pdn-1.com^$third-party
 ! videoadex.com
 ||azzerr.ovh^$third-party
 ||bvvx.ovh^$third-party
@@ -2321,128 +2284,6 @@ _regie/clic.$popup
 ||viperishly.com^$third-party
 ||zert.ovh^$third-party
 ! popads.net
-||ajmggjgrardn.com^
-||alvivigqrogq.com^
-||anyuwksovtwv.com^
-||blprkaomvazv.com^
-||bocksnabswdq.com^
-||ccwinenmbnso.com^
-||czcbkaptwfmv.com^
-||czgeitdowtlv.com^
-||dcgbswcvywyl.com^
-||ditouyldfqgt.com^
-||dsmysdzjhxot.com^
-||dswwghrlwwcm.com^
-||duchmcmpmqqu.com^
-||ectbduztanog.com^
-||elzlogcphhka.com^
-||emirdzzvhviv.com^
-||emrumkgmdmdq.com^
-||eslydbnukkme.com^
-||evhvoeqfrlsb.com^
-||firugsivsqot.com^
-||fkrrvhoierty.com^
-||flzelfqolfnf.com^
-||frddujheozns.com^
-||gefaqjwdgzbo.com^
-||gnipadiiodpa.com^
-||gtmonytxxglu.com^
-||heefwozhlxgz.com^
-||hfgevdzcoocs.com^
-||hjukmfdbryln.com^
-||hplgpoicsnea.com^
-||hxuvwqsecumg.com^
-||hyzncftkveum.com^
-||ioighavxylne.com^
-||irzdishtggyo.com^
-||jffwwuyychxw.com^
-||jlarmqbypyku.com^
-||jorndvyzchaq.com^
-||jqibqqxghcfk.com^
-||jtzlsdmbmfms.com^
-||kdvcvkwwtbwn.com^
-||keqnebfovnhl.com^
-||krovrhmqgupd.com^
-||kurtgcwrdakv.com^
-||kzwddxlpcqww.com^
-||lbpndcvhuqlm.com^
-||ljhuvzutnpza.com^
-||lsegvhvzrpqc.com^
-||lstkfdmmxbmv.com^
-||lwysswaxnutn.com^
-||lxkqybzanzug.com^
-||maboflgkaxqn.com^
-||mbvmecdlwlts.com^
-||mflkgrgxadij.com^
-||mgrxsztbcfeg.com^
-||mlgrrqymdsyk.com^
-||mmojdtejhgeg.com^
-||moadlbgojatn.com^
-||mpoboqvqhjqv.com^
-||mpzuzvqyuvbh.com^
-||mszfmpseoqbu.com^
-||nguooqblyjrz.com^
-||nnjiluslnwli.com^
-||nryvxfosuiju.com^
-||nwfdrxktftep.com^
-||ofgapiydisrw.com^
-||ofghrodsrqkg.com^
-||pjffrqroudcp.com^
-||ppuuwencqopa.com^
-||ppxrlfhsouac.com^
-||psmlgjalddqu.com^
-||qfhjthejwvgm.com^
-||qiremmtynkae.com^
-||qqapezviufsh.com^
-||qvsbroqoaggw.com^
-||qwbnzilogwdc.com^
-||rcjthosmxldl.com^
-||reebinbxhlva.com^
-||riaetcuycxjz.com^
-||sagulzuyvybu.com^
-||scxxbyqjslyp.com^
-||skzhfyqozkic.com^
-||spfrlpjmvkmq.com^
-||srizwhcdjruf.com^
-||ssjhkvwjoovf.com^
-||sufzmohljbgw.com^
-||taqyljgaqsaz.com^
-||thvdzghlvfoh.com^
-||tigzuaivmtgo.com^
-||tivlvdeuokwy.com^
-||tkoatkkdwyky.com^
-||tmexywfvjoei.com^
-||trqbzsxnzxmf.com^
-||tsuitufixxlf.com^
-||ubazpxeafwjr.com^
-||umxzhxfrrkmt.com^
-||uyfsqkwhpihm.com^
-||uzbboiydfzog.com^
-||uzesptwcwwmt.com^
-||vfasewomnmco.com^
-||vgfeahkrzixa.com^
-||vkdbvgcawubn.com^
-||vunwzlxfsogj.com^
-||vxqhchlyijwu.com^
-||vywycfxgxqlv.com^
-||whzbmdeypkrb.com^
-||wxjqyqvagefw.com^
-||wylnauxhkerp.com^
-||xcakezoqgkmj.com^
-||xpkhmrdqhiux.com^
-||xswnrjbzmdof.com^
-||xwmbaxufcdxb.com^
-||yiyycuqozjwc.com^
-||yoywgmzjgtfl.com^
-||yqtzhigbiame.com^
-||ywbfhuofnvuk.com^
-||yyajvvjrcigf.com^
-||zgalejbegahc.com^
-||ziuxkdcgsjhq.com^
-||zmbrweqglexv.com^
-||znmrgzozlohe.com^
-||zupeaoohmntp.com^
-||zylokfmgrtzv.com^
 ! admeasures.com
 ||6rvewc.top^
 ||aagoop7.top^
@@ -2461,7 +2302,6 @@ _regie/clic.$popup
 ||aoy2nor.top^
 ||aoz9ied.bid^
 ||at8pah7.bid^
-||audu0yi.bid^
 ||ayohz3o.top^
 ||b8t0c8.top^
 ||beyaek3.top^
@@ -2495,7 +2335,6 @@ _regie/clic.$popup
 ||erufu7p.bid^
 ||etah6wu.top^
 ||fae5ret.top^
-||faeph6ax.com^
 ||fe7ooni.top^
 ||foh6bah.top^
 ||foi2vie.bid^
@@ -2504,7 +2343,6 @@ _regie/clic.$popup
 ||gie8aic.top^
 ||goo8ex8.bid^
 ||ha8ohfi.top^
-||haeg1ei.bid^
 ||hahpe0o.top^
 ||hai4aes.top^
 ||hepoh1w.top^
@@ -2512,7 +2350,6 @@ _regie/clic.$popup
 ||ic2eith.bid^
 ||iebei5v.bid^
 ||iece1vi.top^
-||ieh1ook.bid^
 ||iej2vee.bid^
 ||iek7kei.bid^
 ||iel2out.top^
@@ -2526,7 +2363,6 @@ _regie/clic.$popup
 ||iewei4t.top^
 ||ikoh6ie.top^
 ||isho1xu.top^
-||it4oop7.bid^
 ||iwzqn5.top^
 ||jiew9un.top^
 ||jiqu8he.bid^
@@ -2663,15 +2499,12 @@ _regie/clic.$popup
 ||absoluteviews.com^$popup,third-party
 ||achat-visiteurs.com^$popup,third-party
 ||ad-center.com^$popup,third-party
-||ad-maven.com^$popup,third-party
 ||ad-online.biz^$popup,third-party
 ||ad-sys.com^$popup,third-party
-||ad6media.fr^$popup,third-party
 ||adbooth.com^$popup,third-party
 ||adbucks.com^$popup,third-party
 ||addragonppc.com^$popup,third-party
 ||adexchangelive.com^$popup,third-party
-||adexchangeprediction.com^$popup,third-party
 ||adexchangetracker.com^$popup,third-party
 ||adexint.com^$popup,third-party
 ||adextrem.com^$popup,third-party
@@ -2714,7 +2547,6 @@ _regie/clic.$popup
 ||adxfactory.com^$popup,third-party
 ||adxite-ads.com^$popup,third-party
 ||adxprts.com^$popup,third-party
-||affbuzzads.com^$popup,third-party
 ||affilanity.com^$popup,third-party
 ||affiliation-france.com^$popup,third-party
 ||affiliwix.com^$popup,third-party
@@ -2869,7 +2701,6 @@ _regie/clic.$popup
 ||goyavelab.com^$popup,third-party
 ||greatwork.info^$popup,third-party
 ||guqu.info^$popup,third-party
-||hipersushiads.com^$popup,third-party
 ||hopdream.com^$popup,third-party
 ||howtosimplified.com^$popup,third-party
 ||humourgratuit.me^$popup,third-party
@@ -2903,7 +2734,6 @@ _regie/clic.$popup
 ||keymeta.work^$popup,third-party
 ||killthenoob.com^$popup,third-party
 ||ktrackdata.com^$popup,third-party
-||large-format.net^$popup,third-party
 ||leadzu.com^$popup,third-party
 ||leadzupc.com^$popup,third-party
 ||linkredirect.biz^$popup,third-party
@@ -2984,7 +2814,6 @@ _regie/clic.$popup
 ||onlygamesforme.com^$popup,third-party
 ||othip.info^$popup,third-party
 ||ouaitupeuxregarderenillimite.com^$popup,third-party
-||padsdel.com^$popup,third-party
 ||parserord.info^$popup,third-party
 ||parsersword.info^$popup,third-party
 ||parserward.info^$popup,third-party
@@ -3042,7 +2871,6 @@ _regie/clic.$popup
 ||rotorrents.com^$popup,third-party
 ||rtbanalytics.com^$popup,third-party
 ||rtbzone.com^$popup,third-party
-||ruckusschroederraspberry.com^$popup,third-party
 ||rvfrm2005.com^$popup,third-party
 ||safelinktracker.com^$popup,third-party
 ||safeshieldredir.com^$popup,third-party
@@ -3105,7 +2933,6 @@ _regie/clic.$popup
 ||trafe.info^$popup,third-party
 ||trafficbee.com^$popup,third-party
 ||trafficmagnates.com^$popup,third-party
-||trafficshop.com^$popup,third-party
 ||traffique.net^$popup,third-party
 ||travelaudience.com^$popup,third-party
 ||tribalfusion.com^$popup,third-party
@@ -3519,7 +3346,6 @@ $websocket,domain=lucariostream.eu
 ||gambling-affiliation.com^$popup,domain=euro-2016-france.net
 ||gametap.com/convergence/Header/framed/?
 ||gametrailer.click^$subdocument
-||gamingskin.com^
 ||gardena-house.fr/affilies.js
 ||gateway.eravage.com/hit.php?$popup
 ||gearbest.com^*?utm_$popup,third-party
@@ -4392,7 +4218,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14
 ||choice-of-gamers.com^$popup
 ||donnezvotreavis2016.com^$popup
 ||easy2date.net^$popup
-||gotositenow.com^$popup
 ||gtarcade.com^$popup
 ||hitparades.fr^*utm_$popup
 ||sextreffen69.de^$popup
@@ -5698,7 +5523,6 @@ toutcash.com/images/bandeau-
 ||shoppingbox.liberation.fr^
 ||signification-prenom.com/images/starmyname-prenom.gif
 ||silicon.fr/wp-content/uploads/*/skin_
-||sk1n.fr^$third-party
 ||ski-powder.com/images/pub/
 ||skieur.com/media/HABILLAGE/
 ||skimagazine.fr/media/habillage/
@@ -6084,7 +5908,6 @@ toutcash.com/images/bandeau-
 ||d262g11wze3cwd.cloudfront.net^
 ||d269y12mnftu9c.cloudfront.net^
 ||d29lpg037v41oq.cloudfront.net^
-||d2b560qq58menv.cloudfront.net^
 ||d2ggw6du5pulet.cloudfront.net^
 ||d2gt9oovykfp1z.cloudfront.net^
 ||d2is3w689nunba.cloudfront.net^
@@ -6109,7 +5932,6 @@ toutcash.com/images/bandeau-
 ||d32zx4lhje2crr.cloudfront.net^
 ||d33dsfwui17p31.cloudfront.net^
 ||d39iocnrk5rxnb.cloudfront.net^
-||d3al52d8cojds7.cloudfront.net^
 ||d3avqv6zaxegeu.cloudfront.net^
 ||d3cknv5e7a99jg.cloudfront.net^
 ||d3d5har4hmweni.cloudfront.net^
@@ -6191,7 +6013,6 @@ toutcash.com/images/bandeau-
 ###ad-ban-bet-load
 ###ad-ban-load
 ###ad-bg-transparent
-###ad-container-overlay
 ###ad-desktop-footer
 ###ad-desktop-pop
 ###ad-desktop-skin
@@ -6204,7 +6025,6 @@ toutcash.com/images/bandeau-
 ###ad-lb-bottom
 ###ad-ligatus-article-load
 ###ad-megaban2-load
-###ad-output
 ###ad-planetveo
 ###ad-rec-bet1
 ###ad-rec-bet1-load
@@ -6408,8 +6228,6 @@ toutcash.com/images/bandeau-
 ###divPublicityLateral
 ###div_banniere_pub
 ###div_pub_google
-###download_ad-box
-###download_slide_ad
 ###eShowPubTop
 ###ecsc-ad-wrapper
 ###encart-adsense-top-single
@@ -6764,8 +6582,6 @@ toutcash.com/images/bandeau-
 ##.ad-mention
 ##.ad-mpu-plus-bottom
 ##.ad-ops
-##.ad-output-middle
-##.ad-output-wrapper
 ##.ad-page_top
 ##.ad-provider-yahoo
 ##.ad-sidebar-125-1r
@@ -7007,7 +6823,6 @@ toutcash.com/images/bandeau-
 ##.fig-ad-pave
 ##.fig-native-ads
 ##.fig-wid-ads-img
-##.fix-ad
 ##.fix_reklama
 ##.flayr-ad
 ##.footer--pub
@@ -7366,7 +7181,6 @@ toutcash.com/images/bandeau-
 ##.srcPubZone
 ##.tableAds
 ##.teaser-mpu
-##.testAd-holder
 ##.texte_ads
 ##.texte_ads_plug
 ##.texte_pub
@@ -7501,7 +7315,6 @@ toutcash.com/images/bandeau-
 ##a[href^="http://www.affiliation-france.com/"]
 ##a[href^="http://www.allopass.com/"] > img
 ##a[href^="http://www.bet365.com/dl/~offer?affiliate="]
-##a[href^="http://www.downloadplayer1.com/"]
 ##a[href^="http://www.easyflirt-partners.biz"]
 ##a[href^="http://www.espace-plus.net/"]
 ##a[href^="http://www.gaddin.com/index.php?sponsor"] > img
@@ -8329,7 +8142,6 @@ reducavenue.com##.bloc_iab
 lexpress.fr##.bloc_partenaire
 tv5.org##.bloc_promomiddle
 creativejuiz.fr,seloger.com##.bloc_pub
-algerie360.com##.bloc_pub_250_s_marge
 porno-2luxe.com##.bloc_pubhosted
 premiere.fr##.bloc_rightcol.bloc_rightcol_dealjour.groupon
 public.fr##.bloc_rightcol_shopping
@@ -8797,7 +8609,6 @@ t411.li,t411.lt##.share + .description + [class]
 programme-tv.net##.shopping
 portail.free.fr##.shopping_carrousel_produit
 streamay.com##.showitonplayer
-liberte-algerie.com##.side-pub
 gmx.fr##.sideadd
 voyage-economique.fr##.sideaff-container
 igen.fr##.sidebar [id*="C"]
@@ -9427,13 +9238,11 @@ femmesplus.fr###block-system-main + div > img
 planet.fr###block-system-main + section > img
 femmesplus.fr,planet.fr###block-system-main + span > img
 medisite.fr###block-system-main > [id] > img
-medisite.fr###block-system-main > a > img
 femmesplus.fr###block-system-main > div + div > img
 medisite.fr###block-system-main > div > img
 femmesplus.fr###columns div > span > img
 planet.fr###content > div > img
 medisite.fr###main-content-header > [id^="logo_"]
-medisite.fr###page > a > img
 medisite.fr###page > div > img
 igen.fr,macg.co,watchgeneration.fr##.bloc-accroches + h2 + br + [class]
 igen.fr,macg.co,watchgeneration.fr##.bloc-accroches + h2 + br + [id]
