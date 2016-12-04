@@ -563,6 +563,7 @@
 /plugins/vp_pub/*
 /pmd-gdfp-server.
 /pop-ads.
+/pop-url/|$script
 /pop.php?user=
 /pop0.js|
 /pop_ex.
@@ -1397,6 +1398,7 @@ _regie/clic.$popup
 ||bayard-pub.com^$third-party
 ||baypops.com^$third-party
 ||bccyyc.com^$third-party
+||beaverscripts.com^$third-party
 ||beead.fr^$third-party
 ||best-deals-products.com^$third-party
 ||bestadbid.com^$third-party
@@ -2652,6 +2654,7 @@ _regie/clic.$popup
 ||dynsrvaba.com^$popup,third-party
 ||eacdn.com^$popup,third-party
 ||earth-111.com^$popup,third-party
+||eclkmpbn.com^$popup,third-party
 ||electroshaurmal.ru^$popup,third-party
 ||emea.pub^$popup,third-party
 ||emjcd.com^$popup,third-party
@@ -8801,7 +8804,7 @@ free-reseau.fr##a[href*="&tag=freereseaufr-"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
 omgtorrent.me##a[href*="+"]
 omgtorrent.me##a[href*="-torrent/"]
-vfstream.biz##a[href*=".php"]
+films-telecharger.eu,vfstream.biz##a[href*=".php"]
 planete-series.info##a[href*=".php"] > img
 jeddl.net,omgtorrent.me##a[href*=".php?"]
 leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
