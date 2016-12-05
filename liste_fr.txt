@@ -550,6 +550,7 @@
 /packcpm.
 /pad_ban.
 /page_pub.
+/pagead/ads.
 /pagepub.
 /pages_ads.
 /panel_regie/*
@@ -2039,6 +2040,7 @@ _regie/clic.$popup
 ||s7jrg2eb.club^$third-party
 ||safeadnetwork.net^$third-party
 ||salesforce.ma^$third-party
+||saoboo.com^$third-party
 ||sarmady-ads.com^$third-party
 ||sarmady.net^$third-party
 ||sasqos.com^$third-party
@@ -3334,6 +3336,7 @@ $websocket,domain=lucariostream.eu
 ||eurosportbet.loa24.com^$domain=eurosport.fr
 ||evolucare.com/bannieres/
 ||exashare.com/make-money.html$popup,third-party
+||exoner.com^$subdocument,third-party
 ||facebook.net/*/sdk.js$script,domain=lexpress.fr
 ||faireunlien.com/ful468.
 ||faireunlien.com/promo/
@@ -4203,6 +4206,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14
 ||fidelityhouse.eu^$subdocument,third-party
 ||super-virals.com^$subdocument,third-party
 ||uploadbank.com^$subdocument,third-party
+! goolink.me
+@@||www.google.com/recaptcha/$subdocument,domain=goolink.me
+|http://$subdocument,third-party,domain=goolink.me
+|https://$subdocument,third-party,domain=goolink.me
 ! popup & popunder
 |about:blank$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|auroravid.to|bitvid.sx|daclips.in|dailyuploads.net|e-wok.tv|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|extreme-down.me|extreme-protect.net|eztv.ag|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|speedvid.net|streamplay.to|t411.cl|t411.lt|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 |http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|auroravid.to|daclips.in|dailyuploads.net|e-wok.tv|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|speedvid.net|streamplay.to|t411.cl|t411.lt|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
