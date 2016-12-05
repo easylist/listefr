@@ -1118,15 +1118,8 @@ _regie/clic.$popup
 ||1-1ads.com^$third-party
 ||1000mercis.com^$third-party
 ||104.154.237.$third-party
-||104.197.10.$script,third-party
-||104.197.127.$script,third-party
-||104.197.140.$script,third-party
-||104.197.188.$script,third-party
-||104.197.199.$script,third-party
-||104.197.34.$script,third-party
-||104.197.4.$script,third-party
-||104.198.198.$script,third-party
-||104.198.221.$script,third-party
+||104.197.$script,third-party,xmlhttprequest
+||104.198.$script,third-party,xmlhttprequest
 ||104.238.188.$script,third-party
 ||104.238.189.$script,third-party
 ||130.211.198.219^$third-party
@@ -2467,14 +2460,8 @@ _regie/clic.$popup
 !-------------------- Annonceurs popup --------------------!
 !
 ||104.154.237.$popup,third-party
-||104.197.*&ban=$popup
-||104.197.140.$popup,third-party
-||104.197.199.$popup,third-party
-||104.197.4.$popup,third-party
-||104.198.147.$popup,third-party
-||104.198.188.$popup,third-party
-||104.198.198.$popup,third-party
-||104.198.221.$popup,third-party
+||104.197.$popup,third-party
+||104.198.$popup,third-party
 ||104.238.188.$popup,third-party
 ||104.238.189.$popup,third-party
 ||107.191.46.37^$popup,third-party
