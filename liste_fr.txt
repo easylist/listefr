@@ -2292,8 +2292,26 @@ _regie/clic.$popup
 ||viperishly.com^$third-party
 ||zert.ovh^$third-party
 ! popads.net
+||enfhddbnariw.com^
+||isggimkjabpa.com^
+||kyhkyreweusn.com^
+||nlfqbfwbfovt.com^
+||nvajxoahenwe.com^
+||oknmanswftcd.com^
+||owwewfaxvpch.com^
+||pqwaaocbzrob.com^
+||qazzzxwynmot.com^
+||qudpdpkxffzt.com^
 ||qwhkndqqxxbq.com^
 ||rxisfwvggzot.com^
+||rxsazdeoypma.com^
+||srksyzqzcetq.com^
+||ssvolkkihcyp.com^
+||uerhhgezdrdi.com^
+||vqfksrwnxodc.com^
+||vwugfpktabed.com^
+||vyozgtrtyoms.com^
+||ybhaoglgbgdk.com^
 ! admeasures.com
 ||6rvewc.top^
 ||aagoop7.top^
@@ -4150,10 +4168,9 @@ $websocket,domain=lucariostream.eu
 |http://$script,xmlhttprequest,domain=jeuxflash.com
 |https://$script,xmlhttprequest,domain=jeuxflash.com
 ! sound-park.fr
-@@||sound-park.fr^$popup,~third-party
-|http://$script,third-party,xmlhttprequest,domain=sound-park.fr
-|https://$script,third-party,xmlhttprequest,domain=sound-park.fr
-||sound-park.fr/js/banner.js
+|http://$script,xmlhttprequest,domain=sound-park.fr
+|https://$script,xmlhttprequest,domain=sound-park.fr
+||sound-park.fr^$popup,~third-party
 ! skstream.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=skstream.org
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=skstream.org
