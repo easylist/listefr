@@ -3958,7 +3958,6 @@ $websocket,domain=lucariostream.eu
 ||yaagle.com^$subdocument
 ||yellowapi.com/twn/?
 ||yimg.com/hl/ap/default/*/HP_*.jpg
-||yourjavascript.com^$domain=adlipay.com
 ||youtube.com^$popup,domain=abdelghanisat.kazeo.com|zevpn.net
 ||youtube.com^*autoplay=1$domain=esoxiste.com|hitek.fr|mon-compte.org|pokemon-streaming.com|soltanati.com|youzapping.com
 ||youtube2mp3.cc/p.php$popup
@@ -9563,7 +9562,7 @@ _adblockdetector/
 !
 @@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|naruto-mx.net|telecharger-jeuxpc.com|the-night-of-streaming.eu
-@@.png#$image,domain=adlipay.com|bbstreaming.com|crash-aerien.aero|dpstream.cc|ebookdz.com|leetgamerz.net|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net
+@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|ebookdz.com|leetgamerz.net|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|greys-anatomy-en-streaming.fr|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
@@ -9645,7 +9644,6 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 commentcamarche.net,journaldesfemmes.com#@#.text_ads
 !
 @@||2folie.com^$elemhide
-@@||adlipay.com^$generichide
 @@||alligatographe.blogspot.fr^$generichide
 @@||animes-mangas-ddl.com^$generichide
 @@||annoncedesexe.com^$elemhide
