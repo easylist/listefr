@@ -1130,6 +1130,7 @@ _regie/clic.$popup
 ||104.198.$script,third-party,xmlhttprequest
 ||104.238.188.$script,third-party
 ||104.238.189.$script,third-party
+||10nr6frq.cricket^$third-party
 ||130.211.198.219^$third-party
 ||146.148.85.61^$third-party
 ||178.162.205.67^$third-party
@@ -1142,6 +1143,7 @@ _regie/clic.$popup
 ||1stads.net^$third-party
 ||2mdn.net^$object-subrequest,domain=dhnet.be|lalibre.be
 ||2town.net^$third-party
+||35hn7f37.faith^$third-party
 ||37.46.192.170^$third-party
 ||380tl.com^$third-party
 ||3xdl.com^$third-party
@@ -1740,6 +1742,7 @@ _regie/clic.$popup
 ||kinkypeepz.com^$third-party
 ||koodoo.net^$third-party
 ||koqtrn1b.site^$third-party
+||kpc4jpbm.date^$third-party
 ||kreaffiliation.com^$third-party
 ||leadzupc.com^$third-party
 ||leasured.eu^$third-party
@@ -2219,6 +2222,7 @@ _regie/clic.$popup
 ||wbsadsdel.com^$third-party
 ||wbsadsdel2.com^$third-party
 ||wbusiness.fr^$third-party
+||wbxkty3l.website^$third-party
 ||web-affiliation.com^$third-party
 ||webauditoire.com^$third-party
 ||webconcours.fr^$third-party
@@ -2302,10 +2306,14 @@ _regie/clic.$popup
 ||lmejuamdbtwc.com^
 ||mwqkpxsrlrus.com^
 ||nheanvabodkw.com^
+||nlfqbfwbfovt.com^
 ||opyisszzoyhc.com^
+||pqwaaocbzrob.com^
 ||qazzzxwynmot.com^
+||qudpdpkxffzt.com^
 ||rbdmtydtobai.com^
 ||rxsazdeoypma.com^
+||ssvolkkihcyp.com^
 ||turyvfzreolc.com^
 ||uebcqdgigsid.com^
 ||umxzhxfrrkmt.com^
@@ -3020,6 +3028,9 @@ _regie/clic.$popup
 $websocket,domain=lucariostream.eu
 /.*?\w{60}/$script,xmlhttprequest,domain=jeu.fr
 ://*.club/*/|$script,third-party,xmlhttprequest
+://*.cricket/*/|$script,third-party,xmlhttprequest
+://*.date/*/|$script,third-party,xmlhttprequest
+://*.faith/*/|$script,third-party,xmlhttprequest
 ://*.link/*/|$script,third-party,xmlhttprequest
 ://*.lol/*/|$script,third-party,xmlhttprequest
 ://*.online/*/|$script,third-party,xmlhttprequest
@@ -4180,10 +4191,10 @@ $websocket,domain=lucariostream.eu
 |https://$script,third-party,xmlhttprequest,domain=sound-park.fr
 ||sound-park.fr/js/banner.js
 ! skstream.net
-@@||ajax.googleapis.com/ajax/libs/$script,domain=skstream.net
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=skstream.net
-|http://$script,third-party,xmlhttprequest,domain=skstream.net
-|https://$script,third-party,xmlhttprequest,domain=skstream.net
+@@||ajax.googleapis.com/ajax/libs/$script,domain=skstream.org
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=skstream.org
+|http://$script,third-party,xmlhttprequest,domain=skstream.net|skstream.org
+|https://$script,third-party,xmlhttprequest,domain=skstream.net|skstream.org
 ! streamingeur.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=streamingeur.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=streamingeur.com
