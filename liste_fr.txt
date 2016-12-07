@@ -258,6 +258,7 @@
 /ads/bigbox?
 /ads/extra.
 /ads/mgid_
+/ads17.
 /ads700.
 /ads728x90.
 /ads?key=
@@ -4156,9 +4157,6 @@ $websocket,domain=lucariostream.eu
 ! streamingk.com
 |http://$script,third-party,domain=streamingk.com
 |https://$script,third-party,domain=streamingk.com
-! softmaroc.org
-|http://$script,third-party,domain=softmaroc.org
-|https://$script,third-party,domain=softmaroc.org
 ! pokemon-streaming.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=pokemon-streaming.com
 |http://$script,third-party,domain=pokemon-streaming.com
@@ -7379,6 +7377,7 @@ toutcash.com/images/bandeau-
 ##a[href^="https://www.g2a.com/r/"] > img
 ##a[target="_blank"][href*="/buy-vpn?"] > img
 ##div[id^="block-dfp-728-"]
+##div[id^="crt-"][style^="width: 468px;"]
 ##div[id^="crt-"][style^="width: 728px;"]
 ##div[onclick*="/regiedeep.php?"]
 ##gwd-doubleclick
@@ -9596,8 +9595,8 @@ _adblockdetector/
 @@||ops.prismamediadigital.com/js/advertisement.js$script
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|onvasortir.com|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alligatographe.blogspot.fr|bricozone.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|leetgamerz.net|onvasortir.com|quebeccoupongratuit.com|slideplayer.fr|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|forum.softmaroc.org|onvasortir.com|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alligatographe.blogspot.fr|bricozone.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|forum.softmaroc.org|leetgamerz.net|onvasortir.com|quebeccoupongratuit.com|slideplayer.fr|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=qcm-concours.blogspot.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pub-config/ca-pub-*.js$domain=bricozone.fr
