@@ -107,6 +107,7 @@
 .AdTech&
 .adtech.
 .adxcore.
+.AmazonProducts.js
 .asp?adv=
 .asp?affid=
 .aspx?adv=
@@ -326,6 +327,7 @@
 /afterclick.js
 /ajs?zoneid=
 /amazon-product-in-a-post-plugin/*
+/amazonProducts.js
 /anime/ads/*
 /anti-pub.
 /api/ads_
@@ -863,7 +865,9 @@ _emplacements.*=728x90
 _epmads.
 _event_pub.
 _flash_ad_
+_iframe300x200.
 _iframe300x600.
+_iframe728x90.
 _infopop/infopop-
 _jx.ads/
 _liens_sponsorises.
@@ -5772,8 +5776,8 @@ toutcash.com/images/bandeau-
 ||undernews.fr/*/NDH_2k15.gif
 ||undernews.fr/wp-content/uploads/*-ban.gif
 ||undernews.fr/wp-content/uploads/*_head.gif
-||une-recette.com/include/_iframe
-||une-recette.com/include/r7com.php
+||une-recette.com/include/$subdocument
+||une-recette.com/include/*.php
 ||unionrunningworld.com/upload/bannieres/
 ||universfreebox.com/IMG/$xmlhttprequest
 ||unleashed.fr/media/habillage/
@@ -8157,6 +8161,7 @@ laverite.mg,letempsdz.com,maghrebemergent.com##.banneritem
 goldenddl.org##.bannertop
 actu-environnement.com,chouf-chouf.com,emploi-environnement.com,webfrance.com##.banniere
 une-recette.com##.banniere1
+une-recette.com##.banniere2
 algeriatenders.com##.banniereCarre
 une-recette.com##.bannierebas
 envertetcontretous.fr##.banpub
