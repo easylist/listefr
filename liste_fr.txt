@@ -158,6 +158,7 @@
 /#ads|$subdocument
 /*300x250_pub.
 /*728x90_pub.
+/*=adjs,
 //engine.*&subid=
 /160-px-600-
 /160_x_600
@@ -475,6 +476,7 @@
 /frame_popup.
 /frontend_loader.$script
 /frprn_ad.
+/generateAds.
 /gestionpub/*
 /get.cgi?*=banner
 /get_banniere.php?$subdocument
@@ -539,6 +541,7 @@
 /money/ad.
 /mosaique/track.php?
 /myadproxy_
+/myads.
 /networking/ref_
 /newcafv2.js
 /newpromo.
@@ -1491,6 +1494,7 @@ _regie/clic.$popup
 ||coindushopping.fr^$third-party
 ||coloredview.com^$third-party
 ||comandclick.com^$third-party
+||committeemenencyclopedicrepertory.info^$third-party
 ||como.com^$third-party
 ||comoclic.com^$third-party
 ||comoclic.net^$third-party
@@ -1608,6 +1612,7 @@ _regie/clic.$popup
 ||ex-show.com^$third-party
 ||exarab.com^$third-party
 ||exchange.gouik.com^$third-party
+||exhaustionlaurenbremsstrahlung.info^$third-party
 ||exosrv.com^$third-party
 ||expertweb.xyz^$third-party
 ||extensionfactory.com^$third-party
@@ -1620,6 +1625,7 @@ _regie/clic.$popup
 ||findgoogl.com^$third-party
 ||firamayu.com^$third-party
 ||firstoffersfinder.com^$third-party
+||flagagreebelieve.com^$third-party
 ||flinteractive.fr^$third-party
 ||flymob.com^$third-party
 ||fmstigat.online^$third-party
@@ -1629,6 +1635,7 @@ _regie/clic.$popup
 ||forcesdevente.ma^$third-party
 ||forevermelodicheidegger.info^$third-party
 ||foxserie.com^$script,third-party
+||friesmeasureretain.info^$third-party
 ||fullon.tv^$third-party
 ||fullscreens.fr^$third-party
 ||fungetbag.info^$third-party
@@ -1704,6 +1711,7 @@ _regie/clic.$popup
 ||inshopr.com^$third-party
 ||installwager.com^$third-party
 ||interdfp.com^$third-party
+||internalredirect.site^$third-party
 ||internetpourtout.com^$third-party
 ||intnative.com^$third-party
 ||ipav.xyz^$third-party
@@ -1731,6 +1739,7 @@ _regie/clic.$popup
 ||jeubleach.fr^$third-party
 ||jfduv7.com^$third-party
 ||jixing8.com^$third-party
+||jointspellgot.com^$third-party
 ||jor1.net^$third-party
 ||journaux-du-midi.com^$third-party
 ||jsadapi.com^$third-party
@@ -2030,6 +2039,7 @@ _regie/clic.$popup
 ||remerciez.com^$third-party
 ||rencontreroulette.com^$third-party
 ||rentacorner.com^$third-party
+||replacingobservedlose.info^$third-party
 ||retagapp.com^$third-party
 ||retainguaninefluorite.info^$third-party
 ||retargetads.net^$third-party
@@ -2245,6 +2255,7 @@ _regie/clic.$popup
 ||widespace.com^$third-party
 ||widgetbooster.com^$third-party
 ||wineuroptp.fr^$third-party
+||wizenedjogger.info^$third-party
 ||wkecrte5.link^$third-party
 ||wonderlandads.com^$third-party
 ||woogames.me^$third-party
@@ -4209,6 +4220,12 @@ $websocket,domain=123movies.cz|123movies.gs|123movies.is|123movies.live|123movie
 |http://$script,third-party,xmlhttprequest,domain=rapidvideo.com
 |https://$script,third-party,xmlhttprequest,domain=rapidvideo.com
 ||rapidvideo.com^$popup,~third-party
+! zony.tv
+|http://$script,third-party,xmlhttprequest,domain=zony.tv
+|https://$script,third-party,xmlhttprequest,domain=zony.tv
+! embedezcast.com
+|http://$script,third-party,xmlhttprequest,domain=embedezcast.com
+|https://$script,third-party,xmlhttprequest,domain=embedezcast.com
 ! 4nowvideo.com
 $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
@@ -6121,6 +6138,7 @@ toutcash.com/images/bandeau-
 ###ads-medium-rectangle
 ###ads-top-728x90
 ###ads-top-banner
+###ads1
 ###ads125-box
 ###ads46860
 ###ads72890
@@ -6822,6 +6840,7 @@ toutcash.com/images/bandeau-
 ##.carre_pub
 ##.carrepub
 ##.cazAd
+##.co-ads
 ##.column_in_pub
 ##.container-pubcarre
 ##.contenedorAds
