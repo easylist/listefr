@@ -258,6 +258,7 @@
 /ads/banner02.
 /ads/banner03.
 /ads/bigbox?
+/ads/criteo2_
 /ads/extra.
 /ads/mgid_
 /ads17.
@@ -7608,6 +7609,7 @@ lareclame.fr###dfp-top
 118218.fr###dfp_left
 viamichelin.com###diaporama
 only-stream.com###disclaimer
+voyageforum.com###divArroundTableListx1
 videostep.com###divBrandVideo1
 videostep.com###divBrandVideo2
 kissanime.com###divFloatLeft
@@ -8308,6 +8310,7 @@ tsa-algerie.com##.ekk-footer-ad-wrapper
 wp-infinity.com##.entry-featured
 jemangejemincis.fr,vpntorrent.com##.entry-footer
 fredzone.org##.entry-pub
+voyageforum.com##.error
 frandroid.com##.espace-sony-widget
 ruedesjoueurs.com##.esspo232x70
 ruedesjoueurs.com##.esspo736x110
@@ -9173,7 +9176,7 @@ solutions-logiciels.com##div[style^="border:1px solid black; width: 300px; heigh
 echoroukonline.com##div[style^="display:inline-block;width:300px;height:250px;"]
 embed.nowvideo.sx##div[style^="height: 350px; width: 600px; z-index:"]
 tooply.com##div[style^="position:fixed; bottom:0px; left:50%; margin-left:-379px; width:728px; height:90px;"]
-geny.com##div[style^="width: 300px; height: 250px;"]
+geny.com,voyageforum.com##div[style^="width: 300px; height: 250px;"]
 t411.ch,t411.li,t411.lt##div[style^="width: 468px;"]
 free-reseau.fr,hdfever.fr##div[style^="width: 728px; height: 90px;"]
 forum-des-oranges.fr##div[style^="width: 728px;"]
@@ -9610,7 +9613,6 @@ _adblockdetector/
 @@||gowonda.com^$image,~third-party
 @@||gratuitcul.com/ad.php?ad=$script
 @@||gstatic.com/images?$image,domain=ebanque-pdf.com
-@@||images.voyageforum.com/ad$image
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.cdn.famobi.com
 @@||iscoolcdn.com/versioned/prod/bundles/iscoolkitchen/adblock/advertisement.
 @@||lafansubresistance.biz^$script,domain=lafansubresistance.biz
@@ -9622,8 +9624,8 @@ _adblockdetector/
 @@||ops.prismamediadigital.com/js/advertisement.js$script
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|forum.softmaroc.org|onvasortir.com|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alligatographe.blogspot.fr|bricozone.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|forum.softmaroc.org|leetgamerz.net|onvasortir.com|quebeccoupongratuit.com|slideplayer.fr|telephoneannuaire.fr|urbeez.com|voyageforum.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|forum.softmaroc.org|onvasortir.com|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr|urbeez.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alligatographe.blogspot.fr|bricozone.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|forum.softmaroc.org|leetgamerz.net|onvasortir.com|quebeccoupongratuit.com|slideplayer.fr|telephoneannuaire.fr|urbeez.com|www.catnat.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=qcm-concours.blogspot.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pub-config/ca-pub-*.js$domain=bricozone.fr
@@ -9746,6 +9748,10 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||webcallmalin.com^$generichide
 @@||writerband.com^$generichide
 @@||zenserv.fr^$generichide
+! voyageforum.com (anti adblock)
+|http://$script,third-party,xmlhttprequest,domain=voyageforum.com
+|https://$script,third-party,xmlhttprequest,domain=voyageforum.com
+||voyageforum.com^$~third-party,xmlhttprequest
 ! adBack.co
 ||112038398dc590fd910f04439eba2dc2.ovh^
 ||49192d62ae75aadb31db945156e50aa9.ovh^
