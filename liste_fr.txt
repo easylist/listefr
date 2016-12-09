@@ -3069,6 +3069,7 @@ $websocket,domain=lucariostream.eu
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|e-wok.tv
 !
+/cdn-cgi/pe/bag2?*.com%2F*%3Fr%3D*%26*%3D3%26*%3D*%26*%3D%26*%3D%26*%3D%26*%3D%26s%3D1*%2C*%2C1%2C*%2C$xmlhttprequest
 ://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1024,768,1,102$script,third-party
 ://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1366,768,1,136$script,third-party
 ://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1440,900,1,144$script,third-party
