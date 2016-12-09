@@ -1153,6 +1153,7 @@ _regie/clic.$popup
 ||1mov-team.com^$third-party
 ||1sponsor.com^$third-party
 ||1stads.net^$third-party
+||2h045kx8.review^$third-party
 ||2mdn.net^$object-subrequest,domain=dhnet.be|lalibre.be
 ||2town.net^$third-party
 ||35hn7f37.faith^$third-party
@@ -1456,6 +1457,7 @@ _regie/clic.$popup
 ||bzlwe.com^$third-party
 ||bzzvid.com^$third-party
 ||c03jij5q.website^$third-party
+||c9snorwj.website^$third-party
 ||cam4ads.com^$third-party
 ||camplace.com^$third-party
 ||camsympa.com^$third-party,domain=~camsympa.fr
@@ -2024,6 +2026,7 @@ _regie/clic.$popup
 ||rapsio.com^$third-party
 ||rarenok.biz^$third-party
 ||rbpcomponents.info^$third-party
+||rd1wc5gi.party^$third-party
 ||rdv5a7.com^$third-party
 ||reactads.com^$third-party
 ||reactivpub.com^$third-party
@@ -3054,6 +3057,8 @@ $websocket,domain=lucariostream.eu
 ://*.link/*/|$script,third-party,xmlhttprequest
 ://*.lol/*/|$script,third-party,xmlhttprequest
 ://*.online/*/|$script,third-party,xmlhttprequest
+://*.party/*/|$script,third-party,xmlhttprequest
+://*.review/*/|$script,third-party,xmlhttprequest
 ://*.site/*/|$script,third-party,xmlhttprequest
 ://*.space/*/|$script,third-party,xmlhttprequest
 ://*.website/*/|$script,third-party,xmlhttprequest
