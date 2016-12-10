@@ -318,6 +318,7 @@
 /affiliate/*/banners/*
 /affiliate_member_banner/*
 /affiliateplus/banner/*
+/affiliates/*_banner.
 /affiliates/banners/*
 /affiliation-mb.
 /affiliation_simple/*
@@ -747,6 +748,8 @@
 /Temp/Ads/*
 /thumb_banner_frame.
 /TiscaliAds.
+/toastr.
+/toastr/*
 /totemtools/*
 /ttn_adspaces
 /vaxadserver.
@@ -5457,6 +5460,7 @@ toutcash.com/images/bandeau-
 ||plancul-gratuit.fr^$popup,~third-party
 ||plancul-gratuit.fr^*/disclamer.js
 ||plancul-gratuit.fr^*/popupPerso/
+||plancul-paris.net^*/popupPerso/
 ||plancul.*/?id=$popup
 ||planet-casio.com/*/Images/Banniere.png
 ||planet-casio.com/images/partenaires/
