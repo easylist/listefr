@@ -184,6 +184,7 @@
 /?placement=*&redirect
 /?redirect&placement=
 /?rpartner=$subdocument
+/_affiliate/hubtraffic/*
 /a.ads.
 /a.php?t=*&pgid=*&rebill=
 /acad.$script
@@ -933,6 +934,7 @@ _werbebanner_
 /cdn-cgi/pe/bag2?*pagead2.googlesyndication.com
 /cdn-cgi/pe/bag2?*pub2srv.com
 /cdn-cgi/pe/bag2?*pubdirecte.com
+/cdn-cgi/pe/bag2?*puserving.com
 /cdn-cgi/pe/bag2?*tradeadexchange.com
 /cdn-cgi/pe/bag2?*tribalfusion.com
 /cdn-cgi/pe/bag2?*waframedia*.com
@@ -3204,6 +3206,7 @@ $websocket,domain=lucariostream.eu
 ||annuaire-web-france.com/partenaires/
 ||aolcdn.com/ads/
 ||api.wamland.com^
+||appleboobs.com/images/banner/
 ||april.fr/#/?$third-party
 ||arkea.com/banque/assurance/credit/upload/$image,third-party
 ||as-salat.fr/images/banners/
@@ -3331,6 +3334,7 @@ $websocket,domain=lucariostream.eu
 ||croquettesbio.com/wp-content/uploads/*/skyscreeper-
 ||cyberflirt.com/cx/
 ||cybertek.fr^$popup,domain=nextinpact.com
+||cyonix.to^$subdocument
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
@@ -5549,6 +5553,7 @@ toutcash.com/images/bandeau-
 ||releve.qc.ca^*/bannieres/
 ||remiremontinfo.fr/pub/
 ||renault-safrane.com/banierre_partenaire/
+||rencontreadulteparis.fr/banners/
 ||rencontres.nc^*.html$object,subdocument
 ||republicain-lorrain.fr/images/pub/
 ||restoconnection.fr/wp-content/uploads/*_banner_
@@ -6212,6 +6217,8 @@ toutcash.com/images/bandeau-
 ###advBarMars
 ###adv_big_blocked
 ###advert-title
+###advert01
+###advert02
 ###advideum
 ###advncdads-1
 ###advncdads-2
