@@ -1007,11 +1007,14 @@ _werbebanner_
 /banners?tid=$popup
 /banredir.cgi?$popup
 /bdv_rd.dbm?$popup
+/click-cpa.$popup
 /click/*?affiliate=$popup
 /click?*&subid=$popup
 /click?*=ad&$popup
 /click?adv=^$popup
 /close.*?tid=$popup
+/cpaclicks.$popup
+/cpmclick.$popup
 /default_ad/*$popup
 /delivery/ck.$popup
 /direct.php?said=$popup
@@ -2675,6 +2678,7 @@ _regie/clic.$popup
 ||cld2r.com^$popup,third-party
 ||cld3r.com^$popup,third-party
 ||clddt.com^$popup,third-party
+||click-cpa.net^$popup,third-party
 ||clickadu.com^$popup,third-party
 ||clickdomnew.com^$popup,third-party
 ||clickfordeal.click^$popup,third-party
@@ -2697,7 +2701,13 @@ _regie/clic.$popup
 ||coquines-dispo.com^$popup,third-party
 ||cortexmg.com^$popup,third-party
 ||cound.info^$popup,third-party
+||cpaclickoffer.com^$popup,third-party
+||cpaclickoffers.com^$popup,third-party
+||cpaclicks.net^$popup,third-party
+||cpaofferstat.com^$popup,third-party
 ||cpm.wargaming.net^$popup,third-party
+||cpmclick.com^$popup,third-party
+||cpmofferconvert.com^$popup,third-party
 ||cptefr.com^$popup,third-party
 ||cygnusadmedia.com^$popup,third-party
 ||cytochemistryrecitativewrasse.com^$popup,third-party
@@ -2877,6 +2887,7 @@ _regie/clic.$popup
 ||no-hide.com^$popup,third-party
 ||npmpecd.com^$popup,third-party
 ||oclasrv.com^$popup,third-party
+||offergo.net^$popup,third-party
 ||offpageads.com^$popup,third-party
 ||ohmwrite.com^$popup,third-party
 ||ohmyad.co^$popup,third-party
@@ -2896,6 +2907,7 @@ _regie/clic.$popup
 ||pleasewait.co^$popup,third-party
 ||plxnt.com^$popup,third-party
 ||poptm.com^$popup,third-party
+||popunderclick.com^$popup,third-party
 ||popunderjs.com^$popup
 ||popundertotal.com^$popup,third-party
 ||pormurop.me^$popup,third-party
@@ -2975,6 +2987,7 @@ _regie/clic.$popup
 ||surfingpaths.com^$popup,third-party
 ||sushis.kim^$popup,third-party
 ||sv2.biz^$popup,third-party
+||sweetaker.pro^$popup,third-party
 ||tag.regieci.com^$popup,third-party
 ||tag101.com^$popup,third-party
 ||tagnwin.com^$popup,third-party
