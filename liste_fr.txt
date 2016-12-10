@@ -3972,7 +3972,6 @@ $websocket,domain=lucariostream.eu
 ||wallmanga.com/img/anim_banniere_
 ||wari.com^$popup,domain=maliweb.net
 ||wat.tv/get/externalpubhigh/
-||wat.tv^*#autoStart=1&forceOASTag=$subdocument,domain=tf1.fr
 ||watchmygf.net^$popup
 ||wbz11.com/m/habillage/
 ||wcdn.co.il/banners/
@@ -9657,7 +9656,6 @@ _adblockdetector/
 @@||scan-manga.fr^$stylesheet
 @@||securepubads.g.doubleclick.net/gampad/ads?$script,domain=7sur7.be
 @@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
-@@||slpubmedias.tf1.fr/ads/js/publicite.js$script
 @@||smartadserver.com/call/pubj/$object-subrequest,domain=ecranlarge.com
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|ecranlarge.com|itele.fr|larvf.com|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|portail.free.fr
@@ -9665,7 +9663,6 @@ _adblockdetector/
 @@||static-v.com/lib/js/_source/blockadblock.js$script,domain=vtele.ca
 @@||static.autoplus.fr/_js/ads/ad$script
 @@||static.les-horaires.fr/js/advert.js
-@@||static.mytf1.tf1.fr/assets/js/build/lib/ads_scripts/adframe.js$script
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
 @@||stream4free.eu/images/*#$~image
 @@||teramixer.com/plugins/mediaplayer/assets/js/advertisement.js$script
