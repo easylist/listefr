@@ -505,6 +505,7 @@
 /images/sponsored?
 /images_pub/pub_
 /img-bandeau-pub/*
+/img/46860.
 /img/_ad/*
 /img/bnr728.
 /in-ad_desktop/*
@@ -801,6 +802,7 @@
 =/ads.js|
 =/ligatus/
 =250x250&bn=
+=banner_*goclick&
 =banniere&*=leaderboard&
 =dynamic_banner&
 =GetAdHtml&
@@ -1856,6 +1858,7 @@ _regie/clic.$popup
 ||motorsregie.com^$third-party
 ||moxielinks.com^$third-party
 ||mozoo.com^$third-party
+||mp-https.info^$third-party
 ||mrmserve.com^$third-party
 ||multilinkhost.com^$third-party
 ||mumbai-invest.email^$third-party
@@ -5871,6 +5874,7 @@ toutcash.com/images/bandeau-
 ||videos-de-celebrites.com/pub/
 ||vidule.com^*/u.js
 ||viepratique.fr/wp-content/uploads/sites/*/Bloc_partenaire_
+||village-libertin.com/site_rencontre/ban/
 ||vinyculture.com/wp-content/uploads/*-banner-
 ||virtualdjing.com/include/js/refresh_pub.js?
 ||virusphoto.com/bannieres/
