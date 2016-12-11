@@ -13,6 +13,7 @@
 !----------------------- Filtres génériques ----------------------!
 !
 &ad=*&bid=*&bn=
+&ad_block=
 &ad_count=
 &ad_domain=
 &ad_image_
@@ -1254,6 +1255,7 @@ _regie/clic.$popup
 ||adlure.net^$third-party
 ||adm-vids.com^$third-party
 ||admanmedia.fr^$third-party
+||admarise.com^$third-party
 ||admark.fr^$third-party
 ||admathhd.com^$third-party
 ||admediaking.com^$third-party
@@ -1782,6 +1784,8 @@ _regie/clic.$popup
 ||kreaffiliation.com^$third-party
 ||leadzupc.com^$third-party
 ||leasured.eu^$third-party
+||leb961.com^$third-party
+||lebanonreaders.com^$third-party
 ||lenteroi.xyz^$third-party
 ||lien-amateur.org^$third-party
 ||ligatus.com^$third-party
