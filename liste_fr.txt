@@ -422,6 +422,7 @@
 /cd_pop_dhtml-
 /cd_pop_dhtml/*
 /cdn-ads-
+/cgi-bin/affiliates/*
 /choixPubJS.
 /clash/ads/*
 /clash/banner-
@@ -654,7 +655,8 @@
 /pub_header.
 /pub_html5/*
 /pub_json_
-/pub_smart.js
+/pub_liens.
+/pub_smart.
 /pub_smart_
 /pub_title.
 /pub_ver.
@@ -3570,6 +3572,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||location-vacances-bretagne.eu/location_
 ||logic-immo.be/embed/new-static-search.php5
 ||logic-immo.com/mmf/ads/$third-party
+||login.meexy.com^
 ||lopast.xyz^
 ||lownet.fr^$subdocument
 ||lp.advertsight.com^
@@ -3729,6 +3732,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||promo.ejaculer.fr^
 ||promo.japanhdv.com^
 ||promo.jeunette.net^
+||promo.meexy.com^
 ||promo.mes-meilleurs-films.fr^$popup
 ||promo.partie-membres.com^
 ||promo.payserve.com^$third-party
