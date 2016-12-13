@@ -3589,7 +3589,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||lp.advertsight.com^
 ||lprs1.fr^*/blocs-partenaires$third-party
 ||lrcdn.net^$domain=dailymotion.com
-||ma-reduc.com^*#coupon/
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||madamesimone.com/ban/$third-party
 ||magikmobile.com/iframe_$third-party
@@ -5213,7 +5212,6 @@ toutcash.com/images/bandeau-
 ||lyonmag.com/medias/habillages/
 ||ma-dz.com/souq/templates/aimed/images/hhes1112.jpg
 ||ma-reduc.com/img/meahabillage/
-||ma-reduc.com/out/$popup
 ||ma-reduc.com/static/upload/ad/
 ||macbidouille.com/banners/
 ||madcine.com/xhtml/pubd*.html
@@ -9173,6 +9171,7 @@ vakarm.net##div[onclick^="window.open('http://www.razerzone.com/"]
 commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[style$="cursor: pointer; width: 32%;"]
 gboxes.com##div[style$="top: 0px; left: 0px; position: absolute; z-index: 999999; cursor: pointer;"]
 gamalive.com##div[style$="width:300px;height:250px;"]
+ma-reduc.com##div[style*="/ads/"]
 lachainemeteo.com##div[style*="display:block !important;"]
 impotsurlerevenu.org##div[style*="float:right;width:300px;"]
 superphysique.org##div[style*="text-align: center"][style*="width:250px"]
