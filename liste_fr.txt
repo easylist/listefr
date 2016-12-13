@@ -9715,8 +9715,9 @@ _adblockdetector/
 ! openload
 @@|https://4dbl0ckd3t3ct0r.net/*.js|$script,domain=openload.co
 @@|https://555fff555f.net/*.js|$script,domain=openload.co
-! youwatch
+! youwatch / exashare
 @@||ay8ou8ohth.com/js/pop*.js|$script,domain=ay8ou8ohth.com
+@@||ohbuegh3ev.com/*ads.js|$script,domain=ohbuegh3ev.com
 !
 leveldown.fr#@##adblock
 bleachmx.co#@##adsense
