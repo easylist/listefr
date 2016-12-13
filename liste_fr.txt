@@ -8949,7 +8949,6 @@ comment-supprimer.com,igen.fr,macg.co,needsandmoods.com,refurbgeneration.com,sos
 abidjan.net,algerie360.com,igen.fr,israelmagazine.co.il,journaldumusulman.fr,lnc.nc,macg.co,mega-vesti.info,orientation-chabab.com,proxylistpro.com,smartorrent.com,watchgeneration.fr,wawacity.su##a[href*="://goo.gl/"]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
 wawacity.su##a[href*="://secure."]
-satelliweb.com##a[href*="://www.2galli."]
 jeuxetcompagnie.fr##a[href*="://www.ludeek.com/"] > img
 mistergooddeal.com##a[href*="=H_pub_"]
 demo-gk.goyavelab.com##a[href*="?"]
@@ -9801,8 +9800,8 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 |https://$script,third-party,xmlhttprequest,domain=voyageforum.com
 ||voyageforum.com^$~third-party,xmlhttprequest
 ! telesatellite.com
-telesatellite.com##a[target="_blank"] > img
-telesatellite.com##a[target="_new"] > img
+satelliweb.com,telesatellite.com##a[target="_blank"] > img
+satelliweb.com,telesatellite.com##a[target="_new"] > img
 |http://$image,popup,script,third-party,xmlhttprequest,domain=telesatellite.com
 |https://$image,popup,script,third-party,xmlhttprequest,domain=telesatellite.com
 ! adBack.co
