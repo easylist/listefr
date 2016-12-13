@@ -3139,7 +3139,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||ad.prismamediadigital.com^
 ||ad.vacanceo.com^
 ||ad.zanox.com^
-||ad.zanox.com^$popup,domain=configspc.com|heures.be|laptopspirit.fr|telesatellite.com
+||ad.zanox.com^$popup,domain=configspc.com|heures.be|laptopspirit.fr
 ||adf.ly^$popup,domain=ytubesave.com
 ||adjsla.daycorpltd12.netdna-cdn.com^
 ||ads.giponewing.com^
@@ -5736,10 +5736,6 @@ toutcash.com/images/bandeau-
 ||telemb.tv^*/image/banners/
 ||telemb.tv^*/image/videos/*.mp4
 ||telephoneannuaire.fr/resources/amz*.jpg
-||telesatellite.com/images/buiperenoelfr08.jpg
-||telesatellite.com/images/defnio45sq.gif
-||telesatellite.com/images/fransat-beinsports1.jpg
-||telesatellite.com/images/fsatpassdec.jpg
 ||tendancehotellerie.fr/img/gif/
 ||tendancehotellerie.fr/spip.php
 ||tendanceouest.com/*/lightbox-
@@ -7720,7 +7716,6 @@ developpez.com###gabarit_pub0
 developpez.com###gabarit_pub1
 mymanga.io###gaminga
 centerblog.net###gauche > iframe[width="300"][height="250"]
-telesatellite.com###gauche a[target="_blank"] > img
 gameblog.fr###gbFnac300
 gameblog.fr###gb_home_sponsor
 gameblog.fr###gb_megaban
@@ -7747,7 +7742,6 @@ logicielmac.com###haut-droit-728-90
 annonces-dz.com###hb
 750g.com,cod-france.com,maxistreaming.com###header
 boursorama.com###header + #body > div:first-child > .visible-desktop
-telesatellite.com###header a[target="_blank"]
 jam-mag.com###header-banner
 ezgif.com###header-infoblock
 mobiles-actus.com###header3
@@ -8038,7 +8032,6 @@ jeuxvideo.com###sponsor_google
 cherchons.com###sponsoredContainer
 cherchons.com###sponsoredProducts
 esi.dz###sponsors
-telesatellite.com###subheader a[target="_blank"]
 europe-echecs.com###subheader_pub
 francoischarron.com###superbanner_v2
 ruedesjoueurs.com###supersticiel
@@ -8134,7 +8127,7 @@ reverso.net##.adcontent
 gmx.fr,lebonguide.com##.add
 vinyculture.com##.addLink
 lejsl.com##.addPic
-actustar.com,aujourdhui-en-france.fr,boursier.com,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,freefoot.fr,hentaihaven.org,hostinger.fr,htmlforums.com,internetparsatellite.net,jeune-independant.net,ldlc.com,leparisien.fr,lephpfacile.com,lequipe.fr,nolyo-tv.com,obturations.com,oujdacity.net,over-blog.com,porn0sexe.com,raje.fr,replay.fr,scan-mx.com,sortiesdvd.com,stars-portraits.com,streaming-video3x.com,telesatellite.com,televiseurs.net,tonmanga.com,universalis.fr,uzinagaz.com,webstar-auto.com,webstar-electro.com##.ads
+actustar.com,aujourdhui-en-france.fr,boursier.com,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,freefoot.fr,hentaihaven.org,hostinger.fr,htmlforums.com,internetparsatellite.net,jeune-independant.net,ldlc.com,leparisien.fr,lephpfacile.com,lequipe.fr,nolyo-tv.com,obturations.com,oujdacity.net,over-blog.com,porn0sexe.com,raje.fr,replay.fr,scan-mx.com,sortiesdvd.com,stars-portraits.com,streaming-video3x.com,televiseurs.net,tonmanga.com,universalis.fr,uzinagaz.com,webstar-auto.com,webstar-electro.com##.ads
 artdeseduire.com##.ads-books
 artdeseduire.com##.ads-information
 cvya.dz##.ads-vert
@@ -8732,7 +8725,6 @@ lefigaro.fr##.s24-thematique--igraal
 phpsources.org##.sample-lst
 senscritique.com##.sc-klass
 ouest-france.fr##.sd-deals
-telesatellite.com##.sda
 sports.fr##.service[data-link$="\", \"target\":\"_blank\" \7d "]
 t411.ch,t411.li,t411.lt##.share + .description + [class]
 programme-tv.net##.shopping
@@ -8901,7 +8893,7 @@ turbo.fr##[id^="ABbypass"]
 film-streamingvk.com,film-streamiz.net,full-stream.nu,libre-stream.com,planet-streaming.com,streamiz-films.com,vfilmze.com,youwatchfilm.net##[id^="PapaGoo"]
 footnamurois.com##[id^="banners-"]
 egora.fr##[id^="block-gmsante_pub-"]
-20minutes.fr,booska-p.com,pix-geeks.com,telesatellite.com,tuxboard.com##[id^="crt-"]
+20minutes.fr,booska-p.com,pix-geeks.com,tuxboard.com##[id^="crt-"]
 commentcamarche.net,journaldesfemmes.com,lachainemeteo.com##[id^="lig_"]
 leparticulier.fr##[id^="loca_service_simulateur_"]
 agate-france.com##[id^="pbad_"]
@@ -8957,10 +8949,8 @@ comment-supprimer.com,igen.fr,macg.co,needsandmoods.com,refurbgeneration.com,sos
 abidjan.net,algerie360.com,igen.fr,israelmagazine.co.il,journaldumusulman.fr,lnc.nc,macg.co,mega-vesti.info,orientation-chabab.com,proxylistpro.com,smartorrent.com,watchgeneration.fr,wawacity.su##a[href*="://goo.gl/"]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
 wawacity.su##a[href*="://secure."]
-satelliweb.com,telesatellite.com##a[href*="://www.2galli."]
-telesatellite.com##a[href*="://www.fransat."]
+satelliweb.com##a[href*="://www.2galli."]
 jeuxetcompagnie.fr##a[href*="://www.ludeek.com/"] > img
-telesatellite.com##a[href*="://www.tvcorner."]
 mistergooddeal.com##a[href*="=H_pub_"]
 demo-gk.goyavelab.com##a[href*="?"]
 nouvelobs.com##a[href*="?partner="]
@@ -9143,7 +9133,6 @@ maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
 gamekult.com##article[style="background-color: rgba(0, 0, 0, 0.06);padding: 30px;;margin-bottom:20px"]:first-child
 tchatche.com##banner
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
-telesatellite.com##body > [id^="a"]
 auto-utilitaire.com,mobilealgerie.com##body > a > img
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
@@ -9305,10 +9294,8 @@ trancegoa.org##td > .fb-like-box + br + .texteentete.taille2
 films-regarder.com,films-regarder.org,films-regarder.xyz##td > [align="left"] + [align="right"]
 depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
 miss34.com##td[style="height:99px; vertical-align:top; background:#ffffff"]
-telesatellite.com##td[style="width:728px"]
 people-looks.com##td[width="340"][height="265"][align="center"]
 mon-ordi.com##td[width="567"]
-telesatellite.com##td[width="728"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 eztv-proxy.net,eztv.ag,eztv.ch,eztv.it,eztv.tf,eztv.yt##tr > td[style="border: 3px solid #C70000;"] > [id]
@@ -9722,7 +9709,6 @@ _adblockdetector/
 leveldown.fr#@##adblock
 bleachmx.co#@##adsense
 toplien.fr#@#.AdvertContainer
-telesatellite.com#@#.ads
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
 commentcamarche.net,journaldesfemmes.com#@#.text_ads
 !
@@ -9814,6 +9800,11 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 |http://$script,third-party,xmlhttprequest,domain=voyageforum.com
 |https://$script,third-party,xmlhttprequest,domain=voyageforum.com
 ||voyageforum.com^$~third-party,xmlhttprequest
+! telesatellite.com
+telesatellite.com##a[target="_blank"] > img
+telesatellite.com##a[target="_new"] > img
+|http://$image,popup,script,third-party,xmlhttprequest,domain=telesatellite.com
+|https://$image,popup,script,third-party,xmlhttprequest,domain=telesatellite.com
 ! adBack.co
 ||112038398dc590fd910f04439eba2dc2.ovh^
 ||49192d62ae75aadb31db945156e50aa9.ovh^
