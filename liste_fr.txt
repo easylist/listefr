@@ -606,6 +606,7 @@
 /popup.php?user=
 /popup4.js
 /popupyous.js
+/porn_ad.
 /prebid-dfp.
 /prebid-dfp/*
 /promo.*/ads/*
@@ -730,6 +731,7 @@
 /search_caf.php?
 /secure-ads.
 /servepop.
+/sex_ad.
 /shareaholic.js
 /shareaholic/*
 /shared/ad/*
@@ -1695,6 +1697,7 @@ _regie/clic.$popup
 ||gg88game.space^$third-party
 ||gibsonvillainousweatherstrip.com^$third-party
 ||gingermedia.com^$third-party
+||givingsol.com^$third-party
 ||giwcini.ru^$third-party
 ||gk25qeyc.xyz^$third-party
 ||glambucks.net^$third-party
@@ -5014,6 +5017,7 @@ toutcash.com/images/bandeau-
 ||jeune-homme-gay.com^*/u.js
 ||jeunebaisemature.com^*/u.js
 ||jeux-gratuits.com/images/*/bandeau-
+||jeux-porno.net^$script,~third-party
 ||jeux.org/vda/
 ||jeuxetcompagnie.fr/wp-content/uploads/*/Habillage-
 ||jeuxme.net/wp-content/themes/*/images/336280.gif
@@ -9239,6 +9243,7 @@ lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 igen.fr,macg.co##header + a[target="_blank"]
+jeux-porno.net##iframe[src]
 aufeminin.com,mangas-fr.com,marmiton.org##iframe[style]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
@@ -9745,7 +9750,6 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||japan-shin.com^$generichide
 @@||japan-shin.info^$generichide
 @@||jeux-hentai.com^$elemhide
-@@||jeux-porno.net^$elemhide
 @@||lecrabeinfo.net^$generichide
 @@||lethal-weapon-streaming.eu^$generichide
 @@||likeup.fr^$generichide
