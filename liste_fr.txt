@@ -879,6 +879,7 @@ _adstyle.
 _adv.js
 _advertising_img.
 _alenty.js
+_bnrrotator_
 _emplacements.*=300x125
 _emplacements.*=300x250
 _emplacements.*=468x60
@@ -9634,7 +9635,7 @@ _adblockdetector/
 !
 @@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|naruto-mx.net|telecharger-jeuxpc.com|the-night-of-streaming.eu
-@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|ebookdz.com|leetgamerz.net|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net
+@@.png#$image,domain=bbstreaming.com|crash-aerien.aero|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|greys-anatomy-en-streaming.fr|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
@@ -9672,8 +9673,8 @@ _adblockdetector/
 @@||ops.prismamediadigital.com/js/advertisement.js$script
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|forum.softmaroc.org|onvasortir.com|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr|urbeez.com|www.catnat.net
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alligatographe.blogspot.fr|bricozone.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|forum.softmaroc.org|leetgamerz.net|onvasortir.com|quebeccoupongratuit.com|slideplayer.fr|telephoneannuaire.fr|urbeez.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|forum.softmaroc.org|likeup.fr|onvasortir.com|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr|urbeez.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alligatographe.blogspot.fr|bricozone.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|forum.softmaroc.org|leetgamerz.net|likeup.fr|onvasortir.com|quebeccoupongratuit.com|slideplayer.fr|telephoneannuaire.fr|urbeez.com|www.catnat.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=qcm-concours.blogspot.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pub-config/ca-pub-*.js$domain=bricozone.fr
@@ -9744,6 +9745,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||jeux-porno.net^$elemhide
 @@||lecrabeinfo.net^$generichide
 @@||lethal-weapon-streaming.eu^$generichide
+@@||likeup.fr^$generichide
 @@||minutefacile.com^$elemhide
 @@||mon-ip.com^$elemhide
 @@||naruto-mx.net^$elemhide
