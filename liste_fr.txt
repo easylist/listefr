@@ -103,6 +103,7 @@
 .ad4mat.$domain=~ad4mat.com
 .adfarm1.
 .ads/banner/
+.adscroller.
 .adsearch.
 .adserverpub.$domain=~adserverpub.com
 .AdTech&
@@ -192,6 +193,7 @@
 /accrochePub300.
 /acecAdServer.
 /ad-360-280-
+/ad-ads.
 /ad-lib/*
 /ad-netc-
 /ad-script.
@@ -2181,6 +2183,7 @@ _regie/clic.$popup
 ||telehan.xyz^$third-party
 ||temp.uno^$third-party
 ||tfxiq.com^$third-party
+||thankswrite.com^$third-party
 ||themoneytizer.com^$third-party
 ||thfw1wuq.site^$third-party
 ||thisclick.network^$third-party
