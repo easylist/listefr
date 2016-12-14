@@ -136,6 +136,7 @@
 .ir/ad/
 .ir/ads.
 .ir/ads/
+.jmpopups-
 .loading-delivery2.
 .ma/ads/
 .ma/ads_
@@ -2304,6 +2305,7 @@ _regie/clic.$popup
 ||wonderlandads.com^$third-party
 ||woogames.me^$third-party
 ||work2media.com^$third-party
+||worldclubtrack.com^$third-party
 ||wortparser.info^$third-party
 ||wq4q0uln.club^$third-party
 ||wslinx.com^$third-party
@@ -4291,6 +4293,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ! adhy.pe
 |http://$script,subdocument,third-party,xmlhttprequest,domain=adhy.pe|ah.pe
 |https://$script,subdocument,third-party,xmlhttprequest,domain=adhy.pe|ah.pe
+! urlsh.xyz
+|http://$popup,subdocument,third-party,domain=urlsh.xyz
+|https://$popup,subdocument,third-party,domain=urlsh.xyz
 ! linkbucks.com
 |http://$subdocument,domain=aptclkzmoelfm.net|cedrofltell.net|clictune.com|cvwgklzfu.net|esywoeuo.net|ffhogexfyplgm.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|inesajjovx.net|kcmzydgk.net|lnzpbkeijlkmfdr.net|lskjpnkavksj.net|lzbsrxvkz.net|mcuzfdumqro.net|mnjsowaj.net|sa.ae|sugjtdizgo.net|tbyauqjvluik.net|tditbdczodoowf.net|tmccbzsxu.net|ubqgcbmrqjdcqn.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net|zypdvbupo.net
 ||fidelityhouse.eu^$subdocument,third-party
