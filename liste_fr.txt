@@ -428,6 +428,7 @@
 /cd_pop_dhtml-
 /cd_pop_dhtml/*
 /cdn-ads-
+/cdn/banners/*
 /cgi-bin/affiliates/*
 /choixPubJS.
 /clash/ads/*
@@ -793,6 +794,7 @@
 /zoneads/*
 /zones?zone=$subdocument
 /~cdn/Ads/*
+://acces.*/a.php?
 ://adscdn.
 ://adspaces.
 ://adss.
@@ -2018,6 +2020,7 @@ _regie/clic.$popup
 ||pornravage.com^$third-party
 ||possini.eu^$third-party
 ||postaffiliatepro.com^$third-party
+||pouradultes.com^$third-party
 ||pprx.work^$third-party
 ||predictivadnetwork.com^$third-party
 ||predictivadvertising.com^$third-party
@@ -3754,7 +3757,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||porntoxico.com/widgets
 ||pornvee.com/?utm_source=$popup
 ||pornytude.com^$popup,domain=gahyoo.com
-||pouradultes.com^
 ||pourlesmajeurs.com^
 ||powerpress.fr/services/$third-party
 ||powersante.com^*_products.php?partner=
@@ -3908,6 +3910,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||streaming-de-films.net/telecharger-films-gratuits^$popup,domain=streaming-de-films.net
 ||streaming-illimite.com^$popup,domain=freemoviesdown.com
 ||streaminger.tv/ad*.
+||stripchat.com/cdn/banners/
 ||sublinet.com/www/public/images/*/72890_$third-party
 ||suelaba.net^*/banners/
 ||surf-malin.net^*/upload/bannieres/
@@ -6076,6 +6079,7 @@ toutcash.com/images/bandeau-
 ||ddfnmo6ev4fd.cloudfront.net^
 ||de5xhnpt1l1mn.cloudfront.net^
 ||dercaktgexxus.cloudfront.net^
+||det8214mmc717.cloudfront.net^
 ||detnsuoxy81x.cloudfront.net^
 ||dfzenk6ej1plw.cloudfront.net^
 ||dhy77jsjr4g76.cloudfront.net^
