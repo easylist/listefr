@@ -7874,8 +7874,8 @@ sofoot.com###megaban
 businessnews.com.tn###megaban-1000
 cartimini.com###megaban-footer
 channelbiz.fr,elwatan.com,franceantilles.fr,franceguyane.fr,glenatbd.com,itespresso.fr,lerevenu.com,ventsdouest.com###megabanner
-lejournaldelamaison.fr###megabanner_bottom
-lejournaldelamaison.fr###megabanner_top
+lejournaldelamaison.fr,mariefrance.fr###megabanner_bottom
+lejournaldelamaison.fr,mariefrance.fr###megabanner_top
 jeuxvideo-live.com###meilleursPrix
 jeuxvideo.com###menu_topventes
 aujourdhui-en-france.fr,leparisien.fr###meteo-immo
@@ -8236,6 +8236,7 @@ igen.fr,macg.co##.article a > img
 igen.fr##.article a[class]
 igen.fr##.article div + [class]:last-child > img
 elhayatonline.net##.article-body + div[style*="width: 336px;"]
+lejournaldelamaison.fr,mariefrance.fr##.article-context-produit
 madmoizelle.com##.article_banner
 madmoizelle.com##.article_pub
 buzzly.fr##.article_pubtop
@@ -8769,7 +8770,7 @@ senscritique.com##.sc-klass
 ouest-france.fr##.sd-deals
 sports.fr##.service[data-link$="\", \"target\":\"_blank\" \7d "]
 t411.ch,t411.li,t411.lt##.share + .description + [class]
-lejournaldelamaison.fr##.shoopingbox_products
+lejournaldelamaison.fr,mariefrance.fr##.shoopingbox_products
 programme-tv.net##.shopping
 portail.free.fr##.shopping_carrousel_produit
 streamay.bz,streamay.com##.showitonplayer
@@ -8936,7 +8937,7 @@ turbo.fr##[id^="ABbypass"]
 film-streamingvk.com,film-streamiz.net,full-stream.nu,libre-stream.com,planet-streaming.com,streamiz-films.com,vfilmze.com,youwatchfilm.net##[id^="PapaGoo"]
 footnamurois.com##[id^="banners-"]
 egora.fr##[id^="block-gmsante_pub-"]
-20minutes.fr,booska-p.com,free.fr,lejournaldelamaison.fr,pix-geeks.com,telesatellite.com,tuxboard.com##[id^="crt-"]
+20minutes.fr,booska-p.com,free.fr,lejournaldelamaison.fr,mariefrance.fr,pix-geeks.com,telesatellite.com,tuxboard.com##[id^="crt-"]
 commentcamarche.net,free.fr,journaldesfemmes.com,lachainemeteo.com##[id^="lig_"]
 leparticulier.fr##[id^="loca_service_simulateur_"]
 agate-france.com##[id^="pbad_"]
