@@ -287,6 +287,7 @@
 /adscores/*
 /adsdino.
 /adsen.php
+/adserve?
 /adserverimages/*
 /adservermn/*
 /adsf300.
@@ -630,6 +631,7 @@
 /pub-ovh/*
 /pub-sky.
 /pub.php?f=
+/Pub.php?iframe=
 /pub.php?partnerId=
 /pub.tbl.html?
 /pub/*-300x600/*
@@ -727,6 +729,7 @@
 /sas-banner-
 /script.packed.
 /script/pop.php?id=
+/script/Pub.php?id=
 /scriptPub.
 /scriptPub_
 /scripts/adv_
@@ -1037,6 +1040,7 @@ _werbebanner_
 /click?*&subid=$popup
 /click?*=ad&$popup
 /click?adv=^$popup
+/clickhabillage/$popup
 /close.*?tid=$popup
 /cpaclicks.$popup
 /cpmclick.$popup
@@ -3825,6 +3829,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||referer.us/?*&placement=$popup
 ||refgratuit.fr/images/pub/
 ||regie-agricole.com^*/pubs^$third-party
+||regie.zeplayers.com^$third-party
 ||regietrk.jetm-tech.net^
 ||register.ma-box-media.fr/?lang=$popup,third-party
 ||rencontre-ephemere.fr^$popup
@@ -7404,6 +7409,7 @@ toutcash.com/images/bandeau-
 ##a[href*="/adagency/"] > img
 ##a[href*="/ads.php?ref="]
 ##a[href*="/ads/ad_link."]
+##a[href*="/clickhabillage/"][target="_blank"]
 ##a[href*="/goto.php?ads_id="]
 ##a[href*="/install-app?affid="]
 ##a[href*="/redirect.php?title="]
