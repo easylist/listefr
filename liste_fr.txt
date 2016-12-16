@@ -589,6 +589,7 @@
 /pave_PUB_
 /PBTopAds.
 /peelrotateur/*
+/plugins/dfp/$script
 /plugins/vp_pub/*
 /pmd-gdfp-server.
 /pop-ads.
@@ -4166,12 +4167,12 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 @@||p.jwpcdn.com^$object-subrequest,third-party,domain=ultimedia.com
 |http://$object-subrequest,script,third-party,xmlhttprequest,domain=ultimedia.com
 ! videoplaza
-|http://*0.*.damoh.*/|$domain=canalplus.fr|rtl.be
-|http://*2.*.damoh.*/|$domain=canalplus.fr|rtl.be
-|http://*3.*.damoh.*/|$domain=canalplus.fr|rtl.be
-|http://*4.*.damoh.*/|$domain=canalplus.fr|rtl.be
-|http://*8.*.damoh.*/|$domain=canalplus.fr|rtl.be
-|http://*9.*.damoh.*/|$domain=canalplus.fr|rtl.be
+|http://*0.*.damoh.*/|$domain=6play.fr|canalplus.fr|rtl.be
+|http://*2.*.damoh.*/|$domain=6play.fr|canalplus.fr|rtl.be
+|http://*3.*.damoh.*/|$domain=6play.fr|canalplus.fr|rtl.be
+|http://*4.*.damoh.*/|$domain=6play.fr|canalplus.fr|rtl.be
+|http://*8.*.damoh.*/|$domain=6play.fr|canalplus.fr|rtl.be
+|http://*9.*.damoh.*/|$domain=6play.fr|canalplus.fr|rtl.be
 ! t411
 @@||ajax.googleapis.com/ajax/libs/$script,domain=t411.li
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.li
@@ -9682,7 +9683,6 @@ _adblockdetector/
 @@/advertisement.js$script,~third-party,domain=e-wok.tv|quoverbis.com
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|silicon.fr
 @@||1max2sms.com/blogads.css
-@@||6play.fr/publicite-$script
 @@||a.f1g.fr/build/2/adsense.js$script
 @@||ad.advertstream.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||ad4.liverail.com/?_=$domain=gamingroom.tv
