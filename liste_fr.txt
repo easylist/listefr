@@ -1498,6 +1498,7 @@ _regie/clic.$popup
 ||buzzoola.com^$third-party
 ||buzzvet.com^$third-party
 ||bvyvk.space^$third-party
+||bwknu1lo.top^$third-party
 ||bzlwe.com^$third-party
 ||bzzvid.com^$third-party
 ||c03jij5q.website^$third-party
@@ -1798,6 +1799,7 @@ _regie/clic.$popup
 ||jor1.net^$third-party
 ||journaux-du-midi.com^$third-party
 ||jsadapi.com^$third-party
+||jzeu6qlk.accountant^$third-party
 ||kadserver.com^$third-party
 ||kalqui.com^$third-party
 ||kappacdn.net^$third-party
@@ -2076,6 +2078,7 @@ _regie/clic.$popup
 ||qwerty1.co.pl^$third-party
 ||qwtbx.com^$third-party
 ||r867qq.net^$third-party
+||r91c6tvs.science^$third-party
 ||rafomedia.com^$third-party
 ||rapsio.com^$third-party
 ||rarenok.biz^$third-party
@@ -3111,6 +3114,7 @@ _regie/clic.$popup
 !
 $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.pl|123movies.ru|123music.to|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|datpiff.com|divxstage.ch|divxstage.to|epornik.com|freewarefiles.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.to|thecountrycaller.com|videoweed.ch|videoweed.co|videoweed.com|videoweed.es|videowood.tv
 /.*?\w{60}/$script,xmlhttprequest,domain=jeu.fr
+://*.accountant/*/|$script,third-party,xmlhttprequest
 ://*.club/*/|$script,third-party,xmlhttprequest
 ://*.cricket/*/|$script,third-party,xmlhttprequest
 ://*.date/*/|$script,third-party,xmlhttprequest
@@ -3122,6 +3126,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ://*.review/*/|$script,third-party,xmlhttprequest
 ://*.site/*/|$script,third-party,xmlhttprequest
 ://*.space/*/|$script,third-party,xmlhttprequest
+://*.top/*/|$script,third-party,xmlhttprequest
+://*.webcam/*/|$script,third-party,xmlhttprequest
 ://*.website/*/|$script,third-party,xmlhttprequest
 ://*.xyz/*/|$script,third-party,xmlhttprequest
 |blob:$domain=dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|istreamin.com|lucariostream.eu
