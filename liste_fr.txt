@@ -1205,6 +1205,7 @@ _regie/clic.$popup
 ||5207470.com^$third-party
 ||57union.com^$third-party
 ||5b15a826.xyz^$third-party
+||5tcgu99n.loan^$third-party
 ||69wnz64h.xyz^$third-party
 ||720.kim^$third-party
 ||77978.みんな^$third-party
@@ -3121,6 +3122,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ://*.date/*/|$script,third-party,xmlhttprequest
 ://*.faith/*/|$script,third-party,xmlhttprequest
 ://*.link/*/|$script,third-party,xmlhttprequest
+://*.loan/*/|$script,third-party,xmlhttprequest
 ://*.lol/*/|$script,third-party,xmlhttprequest
 ://*.online/*/|$script,third-party,xmlhttprequest
 ://*.party/*/|$script,third-party,xmlhttprequest
