@@ -545,7 +545,7 @@
 /layout/ads?
 /lib/ads.
 /liens-commerciaux/*
-/link-converter.$script,third-party
+/link-converter.$script
 /load.php?*&size=
 /load.php?action=adsc&
 /logos-pub/*
@@ -985,6 +985,7 @@ _werbebanner_
 &pubid=*.adult.*&$popup
 &publisherid=$popup
 &pubsite=$popup
+&redid=*&pop=$popup
 &runauction=$popup
 &subAffId=$popup
 &tid=*&ref=$popup
@@ -1101,6 +1102,7 @@ _werbebanner_
 ://go.*?zoneid=$popup
 ://goto.*/watch?$popup
 ://pdv.$popup
+://survey.$popup,third-party
 ://xml-feed.*/go.$popup
 ://xml.*/click?$popup
 ://xml.*/redirect?$popup
@@ -1956,6 +1958,7 @@ _regie/clic.$popup
 ||noadirect.com^$third-party
 ||nols-pub.fr^$third-party
 ||nosyezhe.com^$third-party
+||noxaffiliates.com^$third-party
 ||nr-data.net^$third-party
 ||nsfxaffiliates.com^$third-party
 ||nturveev.com^$third-party
@@ -2094,6 +2097,7 @@ _regie/clic.$popup
 ||realpopbid.com^$third-party
 ||rebelmouse.com^$third-party
 ||rediamob.com^$third-party
+||redirect2719.ws^$third-party
 ||redorange.website^$third-party
 ||reflexcash.com^$third-party
 ||refresh-tool.website^$third-party
@@ -2955,6 +2959,7 @@ _regie/clic.$popup
 ||parserwoad.info^$popup,third-party
 ||pdn-1.com^$popup,third-party
 ||peritas247.info^$popup,third-party
+||pertholin.com^$popup,third-party
 ||pleasewait.co^$popup,third-party
 ||plxnt.com^$popup,third-party
 ||poptm.com^$popup,third-party
@@ -3327,11 +3332,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||cast4u.tv/fku2.php
 ||cccamsharing.net/*-net480x60.gif
 ||cdn.a9fast.com^*/misc/partner/
-||cdn.adf.ly^$script,third-party,domain=~j.gs|~q.gs
 ||cdn.installclick.fr^*/ad.html
-||cdn.j.gs^$script,third-party,domain=~adf.ly|~q.gs
 ||cdn.m6web.fr/creatives/assets/
-||cdn.q.gs^$script,third-party,domain=~adf.ly|~j.gs
 ||cdn.speedvid.net^$popup
 ||cdscdn.com^*/banniere_
 ||cdscdn.com^*/partenaires/
@@ -4356,6 +4358,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ! urlsh.xyz
 |http://$popup,subdocument,third-party,domain=urlsh.xyz
 |https://$popup,subdocument,third-party,domain=urlsh.xyz
+! adf.ly
+||cdn.adf.ly^$script,third-party,domain=~j.gs|~q.gs
+||cdn.j.gs^$script,third-party,domain=~adf.ly|~q.gs
+||cdn.q.gs^$script,third-party,domain=~adf.ly|~j.gs
 ! linkbucks.com
 |http://$subdocument,domain=aptclkzmoelfm.net|cedrofltell.net|clictune.com|cvwgklzfu.net|esywoeuo.net|ffhogexfyplgm.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|inesajjovx.net|kcmzydgk.net|lnzpbkeijlkmfdr.net|lskjpnkavksj.net|lzbsrxvkz.net|mcuzfdumqro.net|mnjsowaj.net|sa.ae|sugjtdizgo.net|tbyauqjvluik.net|tditbdczodoowf.net|tmccbzsxu.net|ubqgcbmrqjdcqn.net|vdmduttihyxsx.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net|zypdvbupo.net
 ||fidelityhouse.eu^$subdocument,third-party
@@ -6065,6 +6071,7 @@ toutcash.com/images/bandeau-
 ||d1kl9s3ss3mgzt.cloudfront.net^
 ||d1mgg0px9mqxbp.cloudfront.net^
 ||d1rb5wwywwoqqm.cloudfront.net^
+||d1s5n6wuwgnxf4.cloudfront.net^
 ||d1sj3yrs7ojvv7.cloudfront.net^
 ||d1uydqzj7b9nt9.cloudfront.net^
 ||d1vguuq5efvsfq.cloudfront.net^
@@ -6124,6 +6131,7 @@ toutcash.com/images/bandeau-
 ||dhy77jsjr4g76.cloudfront.net^
 ||diqdel92t4na6.cloudfront.net^
 ||dk2mvwe4uw0z3.cloudfront.net^
+||dk7rftbivnkgr.cloudfront.net^
 ||dm8ojo46iwxm2.cloudfront.net^
 ||dnyjp3iys0r8o.cloudfront.net^
 ||dohs95d6tfj19.cloudfront.net^
