@@ -1052,6 +1052,7 @@ _werbebanner_
 /display.*&ban=$popup
 /display/?method=pop&force=$popup
 /display/clicks/*$popup
+/display_content.php?id=$popup,third-party
 /earn.php?feed=$popup
 /feedclick?$popup
 /fr/adcr/*$popup
@@ -2682,6 +2683,7 @@ _regie/clic.$popup
 ||annoncessante.ma^$popup,third-party
 ||anytheengmedia.com^$popup,third-party
 ||anytrx.com^$popup,third-party
+||apk-download-free.com^$popup,third-party
 ||apk-download-market.com^$popup,third-party
 ||appfly.mobi^$popup,third-party
 ||apportium.com^$popup,third-party
@@ -7499,6 +7501,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://threate.info/"]
 ##a[href^="http://www.affiliation-france.com/"]
 ##a[href^="http://www.allopass.com/"] > img
+##a[href^="http://www.apk-download-free.com/"]
 ##a[href^="http://www.bet365.com/dl/~offer?affiliate="]
 ##a[href^="http://www.easyflirt-partners.biz"]
 ##a[href^="http://www.espace-plus.net/"]
