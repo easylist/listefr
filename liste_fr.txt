@@ -335,6 +335,7 @@
 /affilitybanners.
 /affpx.php
 /affs?addonname=
+/afiliados/*
 /afilyads1.
 /afterclick.js
 /ajs?zoneid=
@@ -464,6 +465,7 @@
 /display/?affid=
 /display/?method=$subdocument
 /display_pub.
+/DisplayAdTargets.
 /doubleclick_dmm/*
 /drawpub2.
 /dynamicads.
@@ -566,7 +568,7 @@
 /newpromo.
 /nugg.ad.
 /nugg.add.
-/null/*/Tag.$script,third-party
+/null/*/Tag.$script,third-party,xmlhttprequest
 /oas/oas.php?
 /open_pub.
 /openwindow.js?puurl=
@@ -2386,11 +2388,13 @@ _regie/clic.$popup
 ||atcyboopajyp.com^
 ||cbxqceuuwnaz.com^
 ||chvjfriqlvnt.com^
+||cmqyhtqkhduy.com^
 ||dmbjbgiifpfo.com^
 ||dmojscqlwewu.com^
 ||dovltuzibsfs.com^
 ||ezbtpdjeimlv.com^
 ||fxjgprpozntk.com^
+||gpnduywxhgme.com^
 ||grfqrhqlzvjl.com^
 ||gtevyaeeiged.com^
 ||gzkoehgbpozz.com^
@@ -2407,6 +2411,7 @@ _regie/clic.$popup
 ||rbvfibdsouqz.com^
 ||rdikvendxamg.com^
 ||taodggarfrmd.com^
+||tijosnqojfmv.com^
 ||tskctmvpwjdb.com^
 ||uhfqrxwlnszw.com^
 ||uuproxhcbcsl.com^
@@ -7448,6 +7453,7 @@ toutcash.com/images/bandeau-
 ##a[href*="/redirect?partenaire="]
 ##a[href*="/redirect?tid="]
 ##a[href*="/regiehab.php?"]
+##a[href*="/rel/index.cfm?RST="]
 ##a[href*="/telechargement-rapide.php?"]
 ##a[href*="/tracking_campaign.php?"]
 ##a[href*="://adlipay.com/ref/"]
@@ -7455,6 +7461,7 @@ toutcash.com/images/bandeau-
 ##a[href*="://all2lnk.com/"]
 ##a[href*="://syndication."] > img
 ##a[href*="://toroadvertisingmedia.com/"]
+##a[href*="://www.ducksnetwork.com/"]
 ##a[href*="?ad_id="]
 ##a[href*="_728x90_bleach_adb"]
 ##a[href*="_728x90_bleachsx_adb"]
