@@ -1799,6 +1799,7 @@ _regie/clic.$popup
 ||jeu-onepiece2.fr^$third-party
 ||jeubleach.fr^$third-party
 ||jfduv7.com^$third-party
+||jfx61qca.site^$third-party
 ||jixing8.com^$third-party
 ||jointspellgot.com^$third-party
 ||jokerly.com^$third-party
@@ -1821,6 +1822,7 @@ _regie/clic.$popup
 ||koqtrn1b.site^$third-party
 ||kpc4jpbm.date^$third-party
 ||kreaffiliation.com^$third-party
+||kzkjewg7.stream^$third-party
 ||leadzupc.com^$third-party
 ||leasured.eu^$third-party
 ||leb961.com^$third-party
@@ -2272,6 +2274,7 @@ _regie/clic.$popup
 ||twodrive.su^$third-party
 ||tworismo.com^$third-party
 ||txlpzpihveg.net^$third-party
+||ufyvdps3.webcam^$third-party
 ||ultrafiles.co^$third-party
 ||unicefworld12.ovh^$third-party
 ||univers-porno.com^$third-party
@@ -3146,6 +3149,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ://*.review/*/|$script,third-party,xmlhttprequest
 ://*.site/*/|$script,third-party,xmlhttprequest
 ://*.space/*/|$script,third-party,xmlhttprequest
+://*.stream/*/|$script,third-party,xmlhttprequest
 ://*.top/*/|$script,third-party,xmlhttprequest
 ://*.webcam/*/|$script,third-party,xmlhttprequest
 ://*.website/*/|$script,third-party,xmlhttprequest
@@ -4351,6 +4355,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 @@|https://thepiratebay.org/static/js/tpb.js|$script,~third-party
 |http://$script,xmlhttprequest,domain=thepiratebay.org
 |https://$script,xmlhttprequest,domain=thepiratebay.org
+! cloudtime.to
+@@||ajax.googleapis.com/ajax/libs/$script,domain=cloudtime.to
+|http://$script,third-party,xmlhttprequest,domain=cloudtime.to
+|https://$script,third-party,xmlhttprequest,domain=cloudtime.to
 ! 4nowvideo.com
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
@@ -4374,11 +4382,11 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||super-virals.com^$subdocument,third-party
 ||uploadbank.com^$subdocument,third-party
 ! popup & popunder
-|about:blank$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|bitvid.sx|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|extreme-down.me|extreme-protect.net|eztv.ag|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|speedvid.net|streamplay.to|t411.cl|t411.lt|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
-|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|speedvid.net|streamplay.to|t411.cl|t411.lt|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+|about:blank$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|bitvid.sx|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|extreme-down.me|extreme-protect.net|eztv.ag|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|speedvid.net|streamplay.to|t411.cl|t411.lt|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|speedvid.net|streamplay.to|t411.cl|t411.lt|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 |http://$popup,third-party,domain=bitvid.sx|imagepearl.com
 |http://*.*.*.*/$popup,domain=extratorrent.cc|extreme-down.me|extreme-protect.net|filmstreaming-hd.com|the-walking-dead-stream.net
-|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|bitvid.sx|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|speedvid.net|streamplay.to|t411.cl|t411.lt|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|bitvid.sx|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|speedvid.net|streamplay.to|t411.cl|t411.lt|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 ! images hosting
 ||hostingpics.net/pics/*468x60.
 ||hostingpics.net/pics/*ban.png
