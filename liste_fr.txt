@@ -1009,8 +1009,6 @@ _werbebanner_
 .promorewards.$popup
 .superpromo.$popup
 /*qertewrt.com$popup
-/?pub_id=*&sub_id=$popup
-/?tid=*&red=$popup
 /__utm.gif$popup
 /a4u_banner_.$popup
 /ad.*/aff_$popup
@@ -1104,6 +1102,7 @@ _werbebanner_
 ://go.*?zoneid=$popup
 ://goto.*/watch?$popup
 ://pdv.$popup
+://pop.$popup
 ://survey.$popup,third-party
 ://xml-feed.*/go.$popup
 ://xml.*/click?$popup
@@ -1126,7 +1125,9 @@ _werbebanner_
 ?noexitctapop=$popup
 ?partner=*&offer_id=$popup,third-party
 ?preview=*&pgid*&from_sz=$popup
+?pub_id=$popup
 ?runauction=$popup
+?tid=*&red=$popup
 ?utm_*&clickverify=$popup
 ?voluumdata=$popup
 ?zoneid=$popup,domain=ddlfr.org
@@ -2672,6 +2673,7 @@ _regie/clic.$popup
 ||adservingsolutionsinc.com^$popup,third-party
 ||adservme.com^$popup,third-party
 ||adsguru.co^$popup,third-party
+||adsjudo.com^$popup,third-party
 ||adskeeper.co.uk^$popup,third-party
 ||adstract.com^$popup,third-party
 ||adturtle.biz^$popup,third-party
@@ -7450,6 +7452,7 @@ toutcash.com/images/bandeau-
 ##[id^="ligatus_"]
 ##[id^="pub_dart_"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
+##a[href*=".adk2x.com/"]
 ##a[href*=".ourtoolbar.com"]
 ##a[href*=".voluumtrk.com/"]
 ##a[href*="//go.ad2up.com/"]
@@ -7458,6 +7461,8 @@ toutcash.com/images/bandeau-
 ##a[href*="/adagency/"] > img
 ##a[href*="/ads.php?ref="]
 ##a[href*="/ads/ad_link."]
+##a[href*="/adsrvmedia."]
+##a[href*="/adstract."]
 ##a[href*="/clickhabillage/"][target="_blank"]
 ##a[href*="/goto.php?ads_id="]
 ##a[href*="/install-app?affid="]
@@ -7492,7 +7497,6 @@ toutcash.com/images/bandeau-
 ##a[href*="xiti.com/go.ad?"]
 ##a[href^=".php/ads/"]
 ##a[href^=".php/annonce/ads/"]
-##a[href^="//adsrvmedia.adk2x.com/"]
 ##a[href^="/rdh?"]
 ##a[href^="ads.php?id="]
 ##a[href^="http://aclick.adhoc1.net/"]
@@ -7548,7 +7552,6 @@ toutcash.com/images/bandeau-
 ##a[href^="http://www.xmediaserve.com/"]
 ##a[href^="http://www.yourfilezone.com/"]
 ##a[href^="http://yotefiles.com/"]
-##a[href^="https://adstract.adk2x.com/"]
 ##a[href^="https://secure.securitetotale.com/"]
 ##a[href^="https://store.mspy.com/affiliate.php"] > img
 ##a[href^="https://www.g2a.com/r/"] > img
