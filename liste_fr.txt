@@ -3154,7 +3154,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ://*.webcam/*/|$script,third-party,xmlhttprequest
 ://*.website/*/|$script,third-party,xmlhttprequest
 ://*.xyz/*/|$script,third-party,xmlhttprequest
-|blob:$domain=dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|istreamin.com|lucariostream.eu
+|blob:$domain=cloudtime.to|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|istreamin.com|lucariostream.eu
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|e-wok.tv
 !
