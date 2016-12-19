@@ -4264,6 +4264,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 |https://$popup,script,third-party,domain=zetorrento.fr|zetorrents.com
 ! torrent9.tv
 @@||ajax.googleapis.com/ajax/libs/$script,domain=torrent9.biz
+@@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=torrent9.biz
 |http://$script,third-party,domain=torrent9.biz|torrent9.me|torrent9.tv|torrent9.ws
 |https://$script,third-party,domain=torrent9.biz|torrent9.me|torrent9.tv|torrent9.ws
 ||torrent9.biz/top_torrent.php$popup
