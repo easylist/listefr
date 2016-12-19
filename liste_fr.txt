@@ -806,6 +806,7 @@
 /zones?zone=$subdocument
 /~cdn/Ads/*
 ://acces.*/a.php?
+://adsadmin.
 ://adscdn.
 ://adspaces.
 ://adss.
@@ -6525,6 +6526,7 @@ toutcash.com/images/bandeau-
 ###meaPubContainer
 ###middle-publicite
 ###milieu_pub
+###modp-300600
 ###module_publicite
 ###msgNoPub
 ###news-droite-publicite
@@ -9832,6 +9834,7 @@ _adblockdetector/
 @@||thevideo.me/js/jspc.js?ab|$script,domain=vidup.me
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||wakanim.tv^*/video/advertisement?idepisode=
+@@||www.christineandthefans.com/blockadblock.js|$script,~third-party
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 ! openload
 @@|https://4dbl0ckd3t3ct0r.net/*.js|$script,domain=openload.co
@@ -9855,6 +9858,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||cap-public.fr^$generichide
 @@||catnat.net^$generichide
 @@||cheminots.net^$generichide
+@@||christineandthefans.com^$generichide
 @@||comptoir-hardware.com^$generichide
 @@||comptoir.co^$generichide
 @@||conserves.blogspot.ca^$generichide
