@@ -4243,8 +4243,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ! t411
 @@||ajax.googleapis.com/ajax/libs/$script,domain=t411.li
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.li
-|http://$script,third-party,domain=t411.bz|t411.ch|t411.cl|t411.la|t411.li|t411.lt|t411.tv
-|https://$script,third-party,domain=t411.bz|t411.ch|t411.cl|t411.la|t411.li|t411.lt|t411.tv
+|http://$script,third-party,domain=t411.bz|t411.ch|t411.cl|t411.la|t411.li|t411.lt|t411.lv|t411.tv
+|https://$script,third-party,domain=t411.bz|t411.ch|t411.cl|t411.la|t411.li|t411.lt|t411.lv|t411.tv
 ! voirfilms.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=voirfilms.co
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=voirfilms.co
@@ -4407,11 +4407,11 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||super-virals.com^$subdocument,third-party
 ||uploadbank.com^$subdocument,third-party
 ! popup & popunder
-|about:blank$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|bitvid.sx|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|extreme-down.me|extreme-protect.net|eztv.ag|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|speedvid.net|streamplay.to|t411.cl|t411.lt|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
-|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|speedvid.net|streamplay.to|t411.cl|t411.lt|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+|about:blank$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|bitvid.sx|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|extreme-down.me|extreme-protect.net|eztv.ag|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|speedvid.net|streamplay.to|t411.cl|t411.lt|t411.lv|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|speedvid.net|streamplay.to|t411.cl|t411.lt|t411.lv|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 |http://$popup,third-party,domain=bitvid.sx|imagepearl.com
 |http://*.*.*.*/$popup,domain=emule-island.ru|extratorrent.cc|extreme-down.me|extreme-protect.net|filmstreaming-hd.com|the-walking-dead-stream.net|zone-telechargement.eu
-|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|bitvid.sx|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|speedvid.net|streamplay.to|t411.cl|t411.lt|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|bitvid.sx|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|speedvid.net|streamplay.to|t411.cl|t411.lt|t411.lv|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 ! images hosting
 ||hostingpics.net/pics/*468x60.
 ||hostingpics.net/pics/*ban.png
@@ -8472,7 +8472,7 @@ games.softgames.de##.cpi-banner-description-content
 blumei-piano.com##.cyt-affi-wrapper
 allocine.fr##.d_table-cell.vam
 logitheque.com##.description + .telechargement
-t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.tv##.description + div[class]
+t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##.description + div[class]
 grosnews.com##.deuxcarres
 rtl.fr##.dfp-pave
 lemonde.fr##.dfp_slot
@@ -8853,7 +8853,7 @@ phpsources.org##.sample-lst
 senscritique.com##.sc-klass
 ouest-france.fr##.sd-deals
 sports.fr##.service[data-link$="\", \"target\":\"_blank\" \7d "]
-t411.ch,t411.li,t411.lt##.share + .description + [class]
+t411.ch,t411.li,t411.lt,t411.lv##.share + .description + [class]
 lejournaldelamaison.fr,mariefrance.fr##.shoopingbox_products
 programme-tv.net##.shopping
 portail.free.fr##.shopping_carrousel_produit
@@ -8929,10 +8929,10 @@ get-your-rom.com##.topSectionContainer
 lnc.nc,softonic.fr,undernews.fr##.topbanner
 allocine.fr##.topheader
 fan-de-cinema.com##.topmargin
-t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.tv##.torrentDetails + .block + [class]
-t411.ch,t411.li,t411.lt##.torrentDetails + script + .block + [class]
-t411.ch,t411.li,t411.lt##.torrentDetails > [class] + [style]
-t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.tv##.torrentDetails > h2 + div + [class]
+t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##.torrentDetails + .block + [class]
+t411.ch,t411.li,t411.lt,t411.lv##.torrentDetails + script + .block + [class]
+t411.ch,t411.li,t411.lt,t411.lv##.torrentDetails > [class] + [style]
+t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##.torrentDetails > h2 + div + [class]
 ca-briepicardie.fr##.total-cover
 search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
@@ -9003,7 +9003,7 @@ amazon.fr##[class*="-sponsored-"]
 ccm.net,commentcamarche.net##[class*="_item--sponsor"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
 uploaded.net##[class*="pico-"]
-t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.tv##[class] + div > img + a
+t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##[class] + div > img + a
 full-stream.nu,libre-stream.com,planet-streaming.com,streamiz-films.com,vfilmze.com##[class^="PapaGoo"]
 footnamurois.com##[class^="banners-"]
 jeu.info##[class^="banniere-"]
@@ -9059,7 +9059,7 @@ presse-algerie.net##a[href*="/?ad="]
 artdeseduire.com##a[href*="/?part=ads"]
 webactus.net##a[href*="/?utm_source="]
 sosvirus.net##a[href*="/affiliate-"] > img
-t411.cl##a[href*="/download/"]
+t411.cl,t411.lv##a[href*="/download/"]
 papyfullstream.com,papystreaming-film.com##a[href*="/film-"]
 espritlib.com##a[href*="/goto_part.php?"]
 nouvelobs.com##a[href*="/les-bons-plans-shopping/"]
@@ -9067,7 +9067,7 @@ planet-series.tv##a[href*="/offer?"]
 euro-2016-france.net##a[href*="/parier/"]
 centre-audition.com,easyzic.com,info-algerie.com##a[href*="/redirect."]
 heures.be##a[href*="/regarder/"]
-t411.cl##a[href*="/signup/"]
+t411.cl,t411.lv##a[href*="/signup/"]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
 zone-telechargement.com##a[href*="/x.php"]
 ddl-island.su,emule-island.ru,stream-island.su##a[href*="/xxx/"]
@@ -9149,7 +9149,7 @@ immigrer.com##a[href^="/p/bannieres/"]
 telemagazine.fr##a[href^="/produits_contextuels/"]
 agevillage.com##a[href^="/pub-"]
 confidentielles.com##a[href^="/rc_787_"]
-t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.tv##a[href^="/redirect.php"]
+t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##a[href^="/redirect.php"]
 jeuxvideo.com##a[href^="/sponso/"] img
 beaute-test.com##a[href^="/stat/clic.php?"]
 omgtorrent.me##a[href^="/torrent-"]
@@ -9230,7 +9230,7 @@ frenchweb.fr##a[href^="https://experiences.microsoft.fr/"]
 lefigaro.fr##a[href^="https://go.babbel.com/"]
 mega-vesti.info,smartorrent.com,t411.ch,t411.li,wawacity.su##a[href^="https://tr.im/"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
-t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.tv##a[href^="https://www.amazon.com/"]
+t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##a[href^="https://www.amazon.com/"]
 fdesouche.com##a[href^="https://www.amazon.fr/"]
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
 credit-agricole.fr##a[href^="https://www.onatousuncotefoot.fr/"]
@@ -9243,7 +9243,7 @@ dpstream.to,quedustream.com,streaming-series.to##a[href^="streaming-series"]
 mega-p2p.net##a[href^="vpn"]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
-t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.tv##a[onclick*="base64"]
+t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##a[onclick*="base64"]
 lien-torrent.com##a[onclick*="directlinks"]
 wawacity.su##a[onclick]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
@@ -9354,7 +9354,7 @@ echoroukonline.com##div[style^="display:inline-block;width:300px;height:250px;"]
 embed.nowvideo.sx##div[style^="height: 350px; width: 600px; z-index:"]
 tooply.com##div[style^="position:fixed; bottom:0px; left:50%; margin-left:-379px; width:728px; height:90px;"]
 geny.com,voyageforum.com##div[style^="width: 300px; height: 250px;"]
-t411.ch,t411.li,t411.lt##div[style^="width: 468px;"]
+t411.ch,t411.li,t411.lt,t411.lv##div[style^="width: 468px;"]
 free-reseau.fr,hdfever.fr##div[style^="width: 728px; height: 90px;"]
 forum-des-oranges.fr##div[style^="width: 728px;"]
 algerie360.com##div[style^="width:100%; height:100px"]
@@ -9397,7 +9397,7 @@ faireunlien.com##img[width^="728height=90"]
 ici.tou.tv##li.bigBox
 sinfest.net##noscript a
 bonjourmadame.fr##object[width="728"][height="90"]
-t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.tv##p[style="width: 400px; margin: 0 auto; color: darkorange"]
+t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##p[style="width: 400px; margin: 0 auto; color: darkorange"]
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
 omgtorrent.me##span > a:first-child
 mega-vesti.info,smartorrent.com##span[style^="cursor:pointer;"] > a
