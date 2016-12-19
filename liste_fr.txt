@@ -4306,11 +4306,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 @@||cdnjs.cloudflare.com/ajax/libs/$stylesheet,domain=film-streamingvk.com
 |http://$script,third-party,domain=film-streamingvk.com
 |https://$script,third-party,domain=film-streamingvk.com
-! mangas-fr.com (goyavelab)
-@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=mangas-fr.com
-|http://$script,third-party,xmlhttprequest,domain=mangas-fr.com
-|https://$script,third-party,xmlhttprequest,domain=mangas-fr.com
-||mangas-fr.com/*.php$script
 ! greys-anatomy-en-streaming.fr
 @@||ajax.googleapis.com/ajax/libs/$script,domain=greys-anatomy-en-streaming.fr
 |http://$script,third-party,domain=greys-anatomy-en-streaming.fr
@@ -5356,6 +5351,7 @@ toutcash.com/images/bandeau-
 ||manga-fr.com^$script
 ||manga-news.com/public/banners/
 ||manga-sanctuary.com^*?url=
+||mangas-fr.com^$script,~third-party
 ||mangavatars.com/include/partenaires.php
 ||mangavatars.com/include/topsite.php3
 ||manifone.com/banner/
