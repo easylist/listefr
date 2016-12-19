@@ -3198,6 +3198,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 |http://*,$script,third-party,domain=american-dad-streaming.com|anime-hunter.com|anime-sama.com|auratorrent.pl|bitvid.sx|cinemay.com|cloudtime.to|club-anime.fr|ddl-island.su|dpfilms.net|dpseries.net|dpstream.net|dpstreaming.watch|dragonball-z.net|embedscr.com|embedscr.to|emule-island.ru|enstreaming.eu|enstreaming.tv|filecrypt.cc|film-en-stream.biz|film-streaming.co|film-streamiz.net|filmstreaming1.com|filmstreamvf.cc|filmstreamvk.net|filmvf.ws|filmzenstream.com|full-film.me|full-serie.com|full-stream.is|full-stream.la|full-stream.nu|full-streaming.co|fullsharez.com|gum-gum-streaming.com|hdmovie2k.co|hinata-online-community.fr|ianime.tv|istreamin.com|k-streaming.com|kmotion.fr|kykstreaming.net|kykvideo.net|la-space.ch|le-streaming.com|libertyland.co|manga-fr.com|mangas-anime.com|mangas-vostfr.com|memoireetvie.com|neko-san.fr|officiel-streamingfr.over-blog.com|otakufr.com|papyfullstream.com|papystreaming-film.com|papystreaming.org|planet-streaming.com|planete-series.info|quedustream.com|replay-streaming.com|serie-streaming-vf.net|serie-streaming.tv|series-en-streaming.tv|sky-animes.com|sokrostream.biz|stream-island.ru|stream-island.su|stream-watch.co|streamay.bz|streamay.com|streambox.club|streamcomplet.com|streamdown.co|streamingpl.com|streamiz-films.com|sznpaste.net|the-big-bang-theory-streaming.net|the-walking-dead-stream.biz|the-walking-dead-stream.net|trollvid.net|vkstreamingfilm.biz|zone-telechargement.eu|zone-telechargement.tv
 |https://*,$script,third-party,domain=american-dad-streaming.com|anime-hunter.com|anime-sama.com|auratorrent.pl|bitvid.sx|cinemay.com|cloudtime.to|club-anime.fr|ddl-island.su|dpfilms.net|dpseries.net|dpstream.net|dpstreaming.watch|dragonball-z.net|embedscr.com|embedscr.to|emule-island.ru|enstreaming.eu|enstreaming.tv|filecrypt.cc|film-en-stream.biz|film-streaming.co|film-streamiz.net|filmstreaming1.com|filmstreamvf.cc|filmstreamvk.net|filmvf.ws|filmzenstream.com|full-film.me|full-serie.com|full-stream.is|full-stream.la|full-stream.nu|full-streaming.co|fullsharez.com|gum-gum-streaming.com|hdmovie2k.co|hinata-online-community.fr|ianime.tv|istreamin.com|k-streaming.com|kmotion.fr|kykstreaming.net|kykvideo.net|la-space.ch|le-streaming.com|libertyland.co|manga-fr.com|mangas-anime.com|mangas-vostfr.com|memoireetvie.com|neko-san.fr|officiel-streamingfr.over-blog.com|otakufr.com|papyfullstream.com|papystreaming-film.com|papystreaming.org|planet-streaming.com|planete-series.info|quedustream.com|replay-streaming.com|serie-streaming-vf.net|serie-streaming.tv|series-en-streaming.tv|sky-animes.com|sokrostream.biz|stream-island.ru|stream-island.su|stream-watch.co|streamay.bz|streamay.com|streambox.club|streamcomplet.com|streamdown.co|streamingpl.com|streamiz-films.com|sznpaste.net|the-big-bang-theory-streaming.net|the-walking-dead-stream.biz|the-walking-dead-stream.net|trollvid.net|vkstreamingfilm.biz|zone-telechargement.eu|zone-telechargement.tv
 !
+/widgets.stackcommerce.com/*
 ||1001sondages.com/assets/images/250x250.jpg
 ||11footballclub.com/equipe/
 ||11footballclub.com^*/indexcolonne.php?
@@ -4115,6 +4116,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||widget.achetezfacile.com^$third-party
 ||widgethost.barnebys.com^
 ||widgets.meilleursagents.com^$third-party
+||widgets.stackcommerce.com^
 ||widgetvillage.com/ministore/$third-party
 ||wp.com/*/wp-content/uploads/*?resize=468%2C60
 ||wp.com/*/wp-content/uploads/*?resize=728%2C90
@@ -6265,6 +6267,7 @@ toutcash.com/images/bandeau-
 ###ad125ul
 ###ad125ur
 ###ad160b
+###ad3
 ###ad336b
 ###ad4x125
 ###ad728b
@@ -7420,6 +7423,7 @@ toutcash.com/images/bandeau-
 ##.squareadboxext
 ##.srcPub
 ##.srcPubZone
+##.stackcommerce-widget
 ##.tableAds
 ##.teaser-mpu
 ##.texte_ads
@@ -9776,7 +9780,7 @@ _adblockdetector/
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|greys-anatomy-en-streaming.fr|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
-@@/advertisement.js$script,~third-party,domain=e-wok.tv|quoverbis.com
+@@/advertisement.js$script,~third-party,domain=crash-aerien.news|e-wok.tv|quoverbis.com
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|silicon.fr
 @@||1max2sms.com/blogads.css
 @@||a.f1g.fr/build/2/adsense.js$script
@@ -9809,8 +9813,8 @@ _adblockdetector/
 @@||ops.prismamediadigital.com/js/advertisement.js$script
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|forum.softmaroc.org|likeup.fr|onvasortir.com|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr|urbeez.com|www.catnat.net
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alligatographe.blogspot.fr|bricozone.fr|cachemoi.com|crash-aerien.news|cuisineactuelle.fr|forum.softmaroc.org|leetgamerz.net|likeup.fr|onvasortir.com|quebeccoupongratuit.com|slideplayer.fr|telephoneannuaire.fr|urbeez.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|cachemoi.com|cuisineactuelle.fr|forum.softmaroc.org|likeup.fr|onvasortir.com|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr|urbeez.com|www.catnat.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alligatographe.blogspot.fr|bricozone.fr|cachemoi.com|cuisineactuelle.fr|forum.softmaroc.org|leetgamerz.net|likeup.fr|onvasortir.com|quebeccoupongratuit.com|slideplayer.fr|telephoneannuaire.fr|urbeez.com|www.catnat.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=qcm-concours.blogspot.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
 @@||pagead2.googlesyndication.com/pub-config/ca-pub-*.js$domain=bricozone.fr
@@ -9866,7 +9870,6 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||comptoir.co^$generichide
 @@||conserves.blogspot.ca^$generichide
 @@||crash-aerien.aero^$elemhide
-@@||crash-aerien.news^$generichide
 @@||danslescoulisses.com^$elemhide
 @@||dpseries.net^$generichide
 @@||e-sushi.fr^$generichide
