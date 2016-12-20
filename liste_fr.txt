@@ -2402,10 +2402,13 @@ _regie/clic.$popup
 ||azditojzcdkc.com^
 ||cmqyhtqkhduy.com^
 ||dcdalkgtbmip.com^
+||ejgxyfzciwyi.com^
+||eslgydoqbedo.com^
 ||gpnduywxhgme.com^
 ||jogpsoiyngua.com^
 ||mmdcibihoimt.com^
 ||owlmjcogunzx.com^
+||pshcqtizgdlm.com^
 ||qpcyafunjtir.com^
 ||sapvummffiay.com^
 ||tijosnqojfmv.com^
@@ -3168,7 +3171,7 @@ _regie/clic.$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
-$websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.pl|123movies.ru|123music.to|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|datpiff.com|divxstage.ch|divxstage.to|epornik.com|freewarefiles.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.to|thecountrycaller.com|videoweed.ch|videoweed.co|videoweed.com|videoweed.es|videowood.tv
+$websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.pl|123movies.ru|123music.to|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|datpiff.com|divxstage.ch|divxstage.to|epornik.com|freewarefiles.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.to|thecountrycaller.com|videoweed.ch|videoweed.co|videoweed.com|videoweed.es|videowood.tv|viid.me
 /.*?\w{60}/$script,xmlhttprequest,domain=jeu.fr
 ://*.accountant/*/|$script,third-party,xmlhttprequest
 ://*.click/*/|$script,third-party,xmlhttprequest
