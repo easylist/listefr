@@ -3730,7 +3730,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||maximumwall.com/images/top_ban_
 ||mayakado.net/parrainage/
 ||mb.indecentes-voisines.com^$popup
-||mclcm.net^$xmlhttprequest
 ||media-fire.org^$popup
 ||media.easybib.com/images/gr_
 ||mediabong.com^$domain=hitek.fr
@@ -7966,7 +7965,6 @@ lemonde.fr###lemonde-pub-web_partenariat
 grandecran.fr###les_pubs_locales
 orange.fr###lienComPart
 lfp.fr###lien_billeterie
-lachainemeteo.com###lig
 free.fr###lig_free_home_smartbox
 laprovence.com###lig_laprovence_smartbox
 orange.fr###lig_orange_web_ang_smartbox_home
@@ -8125,7 +8123,6 @@ algerie360.com###pub_rand300a
 algerie360.com###pub_rand300b
 entrecoquins.com###pub_tatoo
 voyageforum.com###pubbetween
-lachainemeteo.com###pubcentrale
 laredoute.fr###pubiframe_sky
 paris-communiques.com,plateformemedia.com###publaterale
 troc-velo.com###publine
@@ -8741,9 +8738,6 @@ aujourdhui-en-france.fr,leparisien.fr##.partners__lpbox-container
 gameblog.fr##.pave300
 fourchette-et-bikini.fr##.pavePub
 grands-reportages.com,montagnes-magazine.com##.pavepub
-lachainemeteo.com##.paves_bas.pub_lcm
-lachainemeteo.com##.paves_haut.pub_lcm
-lachainemeteo.com##.paves_haut_bis.pub_lcm
 footballclubdemarseille.fr##.pb-sidebar-article
 envertetcontretous.fr##.pb300
 seriesaddict.fr##.pbl728x90
@@ -9052,7 +9046,7 @@ turbo.fr##[id^="ABbypass"]
 film-streamingvk.com,film-streamiz.net,full-stream.nu,libre-stream.com,planet-streaming.com,streamiz-films.com##[id^="PapaGoo"]
 footnamurois.com##[id^="banners-"]
 egora.fr##[id^="block-gmsante_pub-"]
-commentcamarche.net,free.fr,journaldesfemmes.com,lachainemeteo.com##[id^="lig_"]
+commentcamarche.net,free.fr,journaldesfemmes.com##[id^="lig_"]
 leparticulier.fr##[id^="loca_service_simulateur_"]
 agate-france.com##[id^="pbad_"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
@@ -9330,7 +9324,6 @@ commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[s
 gboxes.com##div[style$="top: 0px; left: 0px; position: absolute; z-index: 999999; cursor: pointer;"]
 gamalive.com##div[style$="width:300px;height:250px;"]
 ma-reduc.com##div[style*="/ads/"]
-lachainemeteo.com##div[style*="display:block !important;"]
 impotsurlerevenu.org##div[style*="float:right;width:300px;"]
 superphysique.org##div[style*="text-align: center"][style*="width:250px"]
 gamalive.com##div[style*="width:160px;height:600px;"]
@@ -9480,6 +9473,7 @@ igen.fr##.content [-abp-properties='width: 30*px;']
 igen.fr##.region-sidebar a[-abp-properties='*']
 igen.fr##.sidebar [-abp-properties='cursor: pointer;']
 igen.fr##.view-content [-abp-properties='background-image:*;']
+lachainemeteo.com##[-abp-properties='!important;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='*: 300px;']
 femmesplus.fr,medisite.fr,planet.fr##[-abp-properties='background-image: *;']
 igen.fr,macg.co##[-abp-properties='background-image: url(*;']
