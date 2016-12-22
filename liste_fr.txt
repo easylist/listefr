@@ -7045,6 +7045,9 @@ toutcash.com/images/bandeau-
 ##.blocpubbas
 ##.bn_ads
 ##.border_ads
+##.buzz-ad-post
+##.buzz-ad-post-top
+##.buzz-ads
 ##.cadre-pub-google
 ##.cadre_pub
 ##.cadrepub
@@ -7622,7 +7625,7 @@ toutcash.com/images/bandeau-
 ##a[href^="https://www.g2a.com/r/"] > img
 ##a[target="_blank"][href*="/buy-vpn?"] > img
 ##div[id^="block-dfp-728-"]
-##div[id^="crt-"][style^="width:"]
+##div[id^="crt-"][style*="width:"]
 ##div[onclick*="/regiedeep.php?"]
 ##gwd-doubleclick
 ##iframe[name*="/adunblock_"]
