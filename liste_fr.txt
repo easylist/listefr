@@ -3007,7 +3007,9 @@ _regie/clic.$popup
 ||onclasrv.com^$popup,third-party
 ||onclickprediction.com^$popup,third-party
 ||onclickpredictiv.com^$popup,third-party
+||onclkds.com^$popup,third-party
 ||onlygamesforme.com^$popup,third-party
+||optmz.online^$popup,third-party
 ||othip.info^$popup,third-party
 ||ouaitupeuxregarderenillimite.com^$popup,third-party
 ||parserord.info^$popup,third-party
@@ -3210,6 +3212,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ://*.webcam/*/|$script,third-party,xmlhttprequest
 ://*.website/*/|$script,third-party,xmlhttprequest
 ://*.xyz/*/|$script,third-party,xmlhttprequest
+://.loan/*/|$script,third-party,xmlhttprequest
 |blob:$domain=cloudtime.to|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|istreamin.com|lucariostream.eu
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|e-wok.tv
