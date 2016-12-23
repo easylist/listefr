@@ -1098,6 +1098,7 @@ _werbebanner_
 /random.php$popup
 /redir/*.php?r=$popup
 /redirect.php?*==$popup
+/redirect/?spot_id=$popup
 /redirect?&tid=$popup
 /redirect?spot_id=$popup
 /redirect?tid=$popup
@@ -1878,7 +1879,6 @@ _regie/clic.$popup
 ||makeitunder.com^$third-party
 ||mallonire.us.com^$third-party
 ||manga-exchange.com^$third-party
-||mangacity.org^$third-party
 ||marchiustube.pw^$third-party
 ||marketdot.net^$third-party
 ||marshmallow-digital.com^$third-party
@@ -2711,6 +2711,7 @@ _regie/clic.$popup
 ||admarketplace.com^$popup,third-party
 ||admarketplace.net^$popup,third-party
 ||adminlady.info^$popup,third-party
+||admobitrack.com^$popup,third-party
 ||adnetw0rk.net^$popup,third-party
 ||adometric.com^$popup,third-party
 ||adorika.com^$popup,third-party
@@ -2948,7 +2949,6 @@ _regie/clic.$popup
 ||livepartners.com^$popup,third-party
 ||loading-delivery2.com^$popup,third-party
 ||makeitunder.com^$popup,third-party
-||mangacity.org^$popup,third-party
 ||marsads.com^$popup,third-party
 ||maxidivx.com^$popup,third-party
 ||maxonclick.com^$popup,third-party
