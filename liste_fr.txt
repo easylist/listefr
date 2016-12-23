@@ -393,6 +393,7 @@
 /bannercode-
 /banners-ads/*
 /banners-pub/*
+/banners/*?campaign_id=
 /banners/pub-
 /banners/show_flash.
 /banners?tid=
@@ -626,6 +627,7 @@
 /popup4.js
 /popupyous.js
 /porn_ad.
+/porn_ads.
 /prebid-dfp.
 /prebid-dfp/*
 /promo.*/ads/*
@@ -754,6 +756,7 @@
 /secure-ads.
 /servepop.
 /sex_ad.
+/sex_ads.
 /shareaholic.js
 /shareaholic/*
 /shared/ad/*
@@ -2222,6 +2225,7 @@ _regie/clic.$popup
 ||surfaceprivee.com^$third-party
 ||surfactif.fr^$third-party
 ||sushis.kim^$third-party
+||swingers-match.com^$third-party
 ||sx77.net^$third-party
 ||sydtrack.me^$third-party
 ||t4b.tv^$third-party
@@ -2303,6 +2307,7 @@ _regie/clic.$popup
 ||urldelivery.com^$third-party
 ||usoqmr8m.club^$third-party
 ||uuuuuuuu.lol^$third-party
+||vador.com^$third-party
 ||varsloqt.name^$third-party
 ||vartoken.com^$third-party
 ||venturead.com^$third-party
@@ -3538,6 +3543,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||enligne.com/ndd*.$third-party
 ||enucip.spacefoot.com^
 ||equirodi.com/images/pub/
+||erotik-nrw.com/banner/
 ||etudiant-podologie.fr/images/banniere_$domain=pedicurie-podologie.fr
 ||eurasie.eu/sponsors-
 ||euro-gains.fr/upload/ban/
@@ -3627,6 +3633,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||hqq.tv/js/adb/adb.js
 ||hqq.tv^*/license.
 ||href.li^$domain=youzapping.com
+||hurenportal.com/banner/
 ||i.alicdn.com/*/show-window/index.js
 ||iceroket.com^$subdocument
 ||icpc.tv/banners/$domain=europeplusnet.info
@@ -8796,7 +8803,7 @@ pornofrance.org##.promomenu
 meteosun.com##.promote_large
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
-abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,liensporno.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zupimages.net##.pub
+abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zupimages.net##.pub
 basketusa.com##.pub-1000x90-top
 les-terrains.com##.pub-bloc
 degrouptest.com##.pub-bonaboSite
@@ -9707,7 +9714,6 @@ femmesplus.fr##section[id] > img
 @@||viamichelin.fr/static/advert/$script
 @@||videos-pub.ftv-publicite.fr/media/$object-subrequest,domain=playerftp.videostream.fr
 @@||videos-pub.ftv-publicite.fr/player/ad2play.js$domain=tv5mondeplus.com
-@@||videos.direction-x.com^$object-subrequest,domain=liensporno.com
 @@||vo2.fr/uploads/tx_regiepub/bando-site-
 @@||vshop.fr/js/freakBig.js$domain=montrestendance.com
 @@||vshop.fr^$domain=shopping-discount.fr
