@@ -531,6 +531,7 @@
 /IFrameStoreReciever.
 /images/*_ads/
 /images/adsMB/*
+/images/affiliates/*
 /images/sponsored?
 /images_pub/pub_
 /img-bandeau-pub/*
@@ -834,6 +835,7 @@
 ://banners2.$third-party
 ://banners3.$third-party
 ://bannieres.
+://cdn.ads.
 ://eacash.
 ://go.*&zoneid=
 ://go.*/|$script,subdocument,third-party,xmlhttprequest
@@ -845,6 +847,7 @@
 ://na.ads.
 ://pop.$script,subdocument,third-party,xmlhttprequest
 ://reclame.
+://rotator.
 ://soads.
 ://static.ads.
 ://sync.adaptv.
@@ -1141,6 +1144,7 @@ _werbebanner_
 =*&referrer=*embed-$popup
 =adplexmedia&$popup
 =partenariat&utm_campaign=$popup
+=poplink&$popup
 =promo.*_ref=*_affid=$popup
 =pubdirecte&$popup
 ?action=linkpub&$popup
@@ -2725,6 +2729,7 @@ _regie/clic.$popup
 ||adskeeper.co.uk^$popup,third-party
 ||adstract.com^$popup,third-party
 ||adturtle.biz^$popup,third-party
+||adult3dgames.com^$popup,third-party
 ||adventurefeeds.com^$popup,third-party
 ||advertine.com^$popup,third-party
 ||advertiserurl.com^$popup,third-party
@@ -2967,6 +2972,7 @@ _regie/clic.$popup
 ||mobimediatraf.com^$popup,third-party
 ||mobisla.com^$popup,third-party
 ||mobrevflwms.com^$popup,third-party
+||mobswift.com^$popup,third-party
 ||mobusi.com^$popup,third-party
 ||mobutrafsrcms.com^$popup,third-party
 ||modescrip.info^$popup,third-party
@@ -3856,6 +3862,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||philatelistes.net/liens/cptr/
 ||phone-look.com/img/ban_
 ||piazza.ch^$subdocument
+||pimpland.pl/images/$third-party
 ||ping-agency.com/pub/
 ||placelibertine.com^$image,third-party
 ||planet49.com^*?click=
@@ -7620,7 +7627,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://promo.vador.com/"]
 ##a[href^="http://reallygoodlink.free3dadultgames.com/"]
 ##a[href^="http://redir.bebi.com/"]
-##a[href^="http://refer.ccbill.com/"]
+##a[href^="http://refer.ccbill.com/cgi-bin/clicks.cgi?"]
 ##a[href^="http://sexgamedevil.com/?"]
 ##a[href^="http://share.payoneer-affiliates.com/"]
 ##a[href^="http://styleapplicationzillion.com/"]
