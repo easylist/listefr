@@ -321,6 +321,7 @@
 /AdvertisingBanners/*
 /advertisingView?
 /adwizard/*
+/adx.js
 /af-250x250.
 /af-300x250.
 /aff.php?
@@ -419,6 +420,7 @@
 /bansfakes_st.
 /bb728x90.
 /bens/vinos.js
+/bimages/*&ad=
 /blog/ads_
 /bnr.php?section=
 /bnr/300/*
@@ -1865,6 +1867,7 @@ _regie/clic.$popup
 ||lebanonreaders.com^$third-party
 ||lenteroi.xyz^$third-party
 ||lien-amateur.org^$third-party
+||lifeselector.com^$third-party
 ||ligatus.com^$third-party
 ||likablescaldfelted.info^$third-party
 ||limk.com^$third-party
@@ -2259,6 +2262,7 @@ _regie/clic.$popup
 ||themoneytizer.com^$third-party
 ||thfw1wuq.site^$third-party
 ||thisclick.network^$third-party
+||thri.xxx^$third-party
 ||throughdfp.com^$third-party
 ||tidido.com^$third-party
 ||tiz-et.ru^$third-party
@@ -2319,6 +2323,7 @@ _regie/clic.$popup
 ||uploadedtag.com^$third-party
 ||urldelivery.com^$third-party
 ||usoqmr8m.club^$third-party
+||utherverse.com^$third-party
 ||uuuuuuuu.lol^$third-party
 ||vador.com^$third-party
 ||varsloqt.name^$third-party
@@ -2915,6 +2920,7 @@ _regie/clic.$popup
 ||ipsowrite.com^$popup,third-party
 ||irclick.net^$popup,third-party
 ||isanalyze.com^$popup,third-party
+||istri.it^$popup,third-party
 ||istripper.com^$popup,third-party
 ||jdoqocy.com^$popup,third-party
 ||jeu-bleach.fr^$popup,third-party
@@ -3865,6 +3871,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||pooki.fr/banner/
 ||porn.fr^*/site_id/$popup
 ||pornhub.com^*?utm_source=paid$popup
+||pornoparadies.org/banner/
 ||pornovore.fr^$popup,domain=amateur2sexe.fr
 ||pornspirit.com/logo-$third-party
 ||porntoxico.com/widgets
@@ -3956,6 +3963,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||service-factures.fr/bannieres/
 ||sex-is-free.net/pub/
 ||sexamtelefon.com/backbanner/
+||sexcity-girls.com/banner/
 ||sexe-au-bois.com/ban/$third-party
 ||sexe-gratuit.me/images/bannieres/
 ||sexe-venise.com/ban/$third-party
@@ -4046,7 +4054,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||teramixer.com/themes/cloudmix/img/pixel/
 ||terasexe.com/pubs/
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
-||thri.xxx/web/uploads/b_images/
 ||tinypic.com^$image,domain=mediafree.co|skymiga.com|timeload.net
 ||tool.acces-vod.com^
 ||tool.acces-vod.com^$popup
@@ -5170,6 +5177,7 @@ toutcash.com/images/bandeau-
 ||jeunebaisemature.com^*/u.js
 ||jeux-gratuits.com/images/*/bandeau-
 ||jeux-porno.net^$script,~third-party
+||jeux-sexe-gratuit.com/img/
 ||jeux.org/vda/
 ||jeuxetcompagnie.fr/wp-content/uploads/*/Habillage-
 ||jeuxme.net/wp-content/themes/*/images/336280.gif
@@ -7577,6 +7585,7 @@ toutcash.com/images/bandeau-
 ##a[href^=".php/annonce/ads/"]
 ##a[href^="/rdh?"]
 ##a[href^="ads.php?id="]
+##a[href^="http://3dxchat.com/?"]
 ##a[href^="http://aclick.adhoc1.net/"]
 ##a[href^="http://ad-online.biz/"]
 ##a[href^="http://adprovider."]
@@ -7588,6 +7597,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://adv-myninja."]
 ##a[href^="http://adv-mypirate."]
 ##a[href^="http://affiliate.flipkart.com/"]
+##a[href^="http://affiliates.lifeselector.com/"]
 ##a[href^="http://always-parser.xyz/"]
 ##a[href^="http://c.tnkexchange.com/"]
 ##a[href^="http://centredecontrole.biz/ads/"]
@@ -7600,13 +7610,18 @@ toutcash.com/images/bandeau-
 ##a[href^="http://go.wwwdg.net/"]
 ##a[href^="http://go2me.tk/"]
 ##a[href^="http://goodbeautyjob.com/"]
+##a[href^="http://hits.epochstats.com/"]
+##a[href^="http://lifeselector.com/game/listGames?"]
 ##a[href^="http://lp.ilividnewtab.com/"]
 ##a[href^="http://mytogolinks.com/?"]
 ##a[href^="http://ouo.io/ref/"]
 ##a[href^="http://partner.global-espace.com/"]
 ##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
 ##a[href^="http://promo.vador.com/"]
+##a[href^="http://reallygoodlink.free3dadultgames.com/"]
 ##a[href^="http://redir.bebi.com/"]
+##a[href^="http://refer.ccbill.com/"]
+##a[href^="http://sexgamedevil.com/?"]
 ##a[href^="http://share.payoneer-affiliates.com/"]
 ##a[href^="http://styleapplicationzillion.com/"]
 ##a[href^="http://t.mdn2015x1.com/"]
@@ -7626,10 +7641,12 @@ toutcash.com/images/bandeau-
 ##a[href^="http://www.mediaprogramasdlmdelivery.com/"]
 ##a[href^="http://www.pubdirecte.com/script/"]
 ##a[href^="http://www.questiondivine.com/?ctid="]
+##a[href^="http://www.sexgangsters.com/?"]
 ##a[href^="http://www.tradeadexchange.com/"]
 ##a[href^="http://www.xmediaserve.com/"]
 ##a[href^="http://www.yourfilezone.com/"]
 ##a[href^="http://yotefiles.com/"]
+##a[href^="https://admin.thrixxx.com/affiliates/"]
 ##a[href^="https://secure.securitetotale.com/"]
 ##a[href^="https://store.mspy.com/affiliate.php"] > img
 ##a[href^="https://www.g2a.com/r/"] > img
