@@ -277,6 +277,7 @@
 /ads/extra.
 /ads/left/*
 /ads/mgid_
+/ads16.
 /ads17.
 /ads700.
 /ads728x90.
@@ -7070,6 +7071,9 @@ toutcash.com/images/bandeau-
 ##.block-cPublicite
 ##.block-gc-ad
 ##.block-pub
+##.block-pub-ban-btm
+##.block-pub-ban-forum
+##.block-pub-ens-th-forum
 ##.block-pub-fee1
 ##.block-pub-max-300x600
 ##.block-pub-partenaires
@@ -8486,7 +8490,6 @@ jeuxvideo.fr##.block-jeux-micromania_offre
 d8.tv##.block-mozaic-pub
 latribune.fr##.block-partner
 lemonde.fr##.block-partners
-bricoleurdudimanche.com##.block-pub-ban-btm
 laposte.net##.blockShopping
 maison-travaux.fr##.blockUI
 hallofmen.fr##.block_banniere
