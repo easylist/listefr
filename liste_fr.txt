@@ -846,6 +846,7 @@
 ://soads.
 ://static.ads.
 ://sync.adaptv.
+://syndication.$third-party
 ://vykingad.
 =/ads.js|
 =/ligatus/
@@ -1624,6 +1625,7 @@ _regie/clic.$popup
 ||deliverymod.com^$third-party
 ||deliverymodo.com^$third-party
 ||deltax.com^$third-party
+||detour.click^$script
 ||dfast.net^$third-party
 ||dfp.host^$third-party
 ||dfpnative.com^$third-party
@@ -1755,6 +1757,7 @@ _regie/clic.$popup
 ||giwcini.ru^$third-party
 ||gk25qeyc.xyz^$third-party
 ||glambucks.net^$third-party
+||globaltraffico.com^$third-party
 ||gob-gob-ul.com^$third-party
 ||goninjaspiel.com^$third-party
 ||goodaction.com^$third-party
@@ -1838,6 +1841,7 @@ _regie/clic.$popup
 ||jor1.net^$third-party
 ||journaux-du-midi.com^$third-party
 ||jsadapi.com^$third-party
+||justasingle.click^$third-party
 ||jzeu6qlk.accountant^$third-party
 ||kadserver.com^$third-party
 ||kalqui.com^$third-party
@@ -3975,6 +3979,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||series-en-streaming.tv^*?r=$popup
 ||service-factures.fr/bannieres/
 ||sex-is-free.net/pub/
+||sexamtelefon.com/backbanner/
 ||sexe-au-bois.com/ban/$third-party
 ||sexe-gratuit.me/images/bannieres/
 ||sexe-venise.com/ban/$third-party
@@ -4065,6 +4070,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||teramixer.com/themes/cloudmix/img/pixel/
 ||terasexe.com/pubs/
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
+||thri.xxx/web/uploads/b_images/
 ||tinypic.com^$image,domain=mediafree.co|skymiga.com|timeload.net
 ||tool.acces-vod.com^
 ||tool.acces-vod.com^$popup
