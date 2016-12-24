@@ -396,6 +396,8 @@
 /bannerad2300.
 /bannerad300.
 /bannercode-
+/bannerinf.js
+/bannerinf?lg=
 /banners-ads/*
 /banners-pub/*
 /banners/*?campaign_id=
@@ -3962,6 +3964,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||rencontre-ephemere.fr^$popup
 ||rencontreshard.com^$subdocument
 ||rendez-vous.be/scripts/Clients/
+||restaurants.infcdn.net/img/$third-party
 ||rhcloud.com/*-affiliate-
 ||rhcloud.com^$domain=android-dz.com
 ||rollersexe.com/ban/$third-party
