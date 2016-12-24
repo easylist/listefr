@@ -1094,6 +1094,7 @@ _werbebanner_
 /fr/adcr/*$popup
 /gopartner.php?pid=$popup
 /iframePopUpLoader.$popup
+/jump/clk1.$popup
 /n*adserv.com$popup
 /null/*/Redirect.$popup,third-party
 /offer?*&placement=$popup
@@ -2449,10 +2450,13 @@ _regie/clic.$popup
 ||imtdtaloqwcz.com^$third-party
 ||jakzxxzrymhz.com^$third-party
 ||kvsyksorguja.com^$third-party
+||leuojmgbkpcl.com^$third-party
 ||mrfveznetjtp.com^$third-party
 ||ndkvzncsuxgx.com^$third-party
 ||oazojnwqtsaj.com^$third-party
+||pixjqfvlsqvu.com^$third-party
 ||swgvpkwmojcv.com^$third-party
+||wydwkpjomckb.com^$third-party
 ! admeasures.com
 ||6rvewc.top^
 ||aagoop7.top^
@@ -3173,6 +3177,7 @@ _regie/clic.$popup
 ||vkunlock3.eu^$popup,third-party
 ||voluums.com^$popup,third-party
 ||votdengi.club^$popup,third-party
+||wafmedia2.com^$popup,third-party
 ||wct.link^$popup,third-party
 ||web-affiliation.com^$popup,third-party
 ||weborama.fr^$popup,third-party
@@ -9100,7 +9105,7 @@ ccm.net,commentcamarche.net##[class*="_item--sponsor"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
 uploaded.net##[class*="pico-"]
 t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##[class] + div > img + a
-full-stream.nu,libre-stream.com,planet-streaming.com,streamiz-films.com##[class^="PapaGoo"]
+libre-stream.com,planet-streaming.com,streamiz-films.com##[class^="PapaGoo"]
 footnamurois.com##[class^="banners-"]
 jeu.info##[class^="banniere-"]
 forumconstruire.com##[class^="habillage"]
