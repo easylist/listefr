@@ -871,6 +871,7 @@
 =publicite&
 =show_ads;
 =sponsored_links_
+?action=VIEWAD&
 ?ad_id=
 ?ADFassetID=
 ?adlink/
@@ -1121,6 +1122,7 @@ _werbebanner_
 /redirect?spot_id=$popup
 /redirect?tid=$popup
 /renderBanner.do?$popup
+/retarget/*$popup
 /rotation_pdv.$popup
 /rotation_redir.$popup
 /script/campagne.php?cp=$popup
@@ -7500,6 +7502,7 @@ toutcash.com/images/bandeau-
 ##.show_banner_bottom_leaderboard
 ##.show_banner_leaderboard
 ##.sidbar-ad1
+##.side-ad-inner
 ##.side-pub
 ##.side-pub-img
 ##.side_content_pub
