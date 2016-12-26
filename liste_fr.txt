@@ -2455,6 +2455,7 @@ _regie/clic.$popup
 ! popads.net
 ||anasjdzutdmv.com^$third-party
 ||bhyqllgtzjee.com^$third-party
+||dxfsbkmaydtt.com^$third-party
 ||dyazeqpeoykf.com^$third-party
 ||fmzxzkgmpmrx.com^$third-party
 ||fpbmjwoebzby.com^$third-party
@@ -2469,9 +2470,11 @@ _regie/clic.$popup
 ||leuojmgbkpcl.com^$third-party
 ||mrfveznetjtp.com^$third-party
 ||ndkvzncsuxgx.com^$third-party
+||nrectoqhwdhi.com^$third-party
 ||oazojnwqtsaj.com^$third-party
 ||pixjqfvlsqvu.com^$third-party
 ||swgvpkwmojcv.com^$third-party
+||sznxdqqvjgam.com^$third-party
 ||tksljtdqkqxh.com^$third-party
 ||wydwkpjomckb.com^$third-party
 ||zgdejlhmzjrd.com^$third-party
@@ -7767,7 +7770,7 @@ courrierlaval.com,letraitdunion.com###add_top
 mistergoodmovies.net###addspace
 telechargerunevideo.com###adlbl
 clicanoo.re###adress_utiles
-ecogine.org,film-streamiz.net,full-serie.com,full-stream.la,full-stream.me,full-stream.net,full-stream.nu,full-stream.org,libre-stream.com,narkive.com,planet-streaming.com,streamiz-films.com,tendancehotellerie.fr,zone-films.net###ads
+ecogine.org,full-serie.com,full-stream.la,full-stream.me,full-stream.net,full-stream.nu,full-stream.org,libre-stream.com,narkive.com,planet-streaming.com,streamiz-films.com,tendancehotellerie.fr,zone-films.net###ads
 ustart.org###ads_tall
 algerie360.com###adssouspost
 nowvideo.eu###adv1
@@ -9151,7 +9154,7 @@ mega-vesti.info##[href^="http://mega-vesti.info/telecharger-torrent/"]
 smartorrent.com##[href^="http://smartorrent.com/telecharger-torrent/"]
 booska-p.com##[href^="http://www.booska-p.com/re/"]
 turbo.fr##[id^="ABbypass"]
-film-streamiz.net,full-stream.nu,libre-stream.com,planet-streaming.com,streamiz-films.com##[id^="PapaGoo"]
+full-stream.nu,libre-stream.com,planet-streaming.com,streamiz-films.com##[id^="PapaGoo"]
 footnamurois.com##[id^="banners-"]
 egora.fr##[id^="block-gmsante_pub-"]
 commentcamarche.net,free.fr,journaldesfemmes.com##[id^="lig_"]
@@ -9970,7 +9973,7 @@ _adblockdetector/
 @@|https://4dbl0ckd3t3ct0r.net/*.js|$script,domain=openload.co
 @@|https://555fff555f.net/*.js|$script,domain=openload.co
 ! youwatch / exashare
-@@||ay8ou8ohth.com/js/pop*.js|$script,domain=ay8ou8ohth.com
+@@||ay8ou8ohth.com/ads/pop*.js$script,domain=ay8ou8ohth.com
 @@||ohbuegh3ev.com/*ads.js|$script,domain=ohbuegh3ev.com
 !
 leveldown.fr#@##adblock
