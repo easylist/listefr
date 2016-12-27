@@ -280,6 +280,7 @@
 /ads/mgid_
 /ads16.
 /ads17.
+/ads300m.
 /ads700.
 /ads728x90.
 /ads?key=
@@ -2877,6 +2878,7 @@ _regie/clic.$popup
 ||dblock-ads.com^$popup,third-party
 ||dealdunjour.com^$popup,third-party
 ||dealitright.click^$popup,third-party
+||deliverymodo.com^$popup,third-party
 ||delnapb.com^$popup,third-party
 ||derby-digital.com^$popup,third-party
 ||digitalworldads.com^$popup,third-party
@@ -7696,6 +7698,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://partner.global-espace.com/"]
 ##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
 ##a[href^="http://promo.vador.com/"]
+##a[href^="http://propellerads.com/?rfd="]
 ##a[href^="http://reallygoodlink.free3dadultgames.com/"]
 ##a[href^="http://redir.bebi.com/"]
 ##a[href^="http://refer.ccbill.com/cgi-bin/clicks.cgi?"]
