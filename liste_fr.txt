@@ -161,6 +161,7 @@
 .publicite.
 .showads.
 .wbdds.
+.xxx/imgban/
 /#ads|$subdocument
 /*300x250_pub.
 /*728x90_pub.
@@ -1080,6 +1081,7 @@ _werbebanner_
 /bdv_rd.dbm?$popup
 /click-cpa.$popup
 /click/*?affiliate=$popup
+/click/?idadprint=$popup
 /click?*&subid=$popup
 /click?*=ad&$popup
 /click?adv=^$popup
@@ -3159,6 +3161,7 @@ _regie/clic.$popup
 ||srvmd30s.com^$popup,third-party
 ||startnewtab.com^$popup,third-party
 ||stream4stream.com^$popup,third-party
+||stuntoffer.com^$popup,third-party
 ||surfingpaths.com^$popup,third-party
 ||sushis.kim^$popup,third-party
 ||sv2.biz^$popup,third-party
@@ -5389,7 +5392,7 @@ toutcash.com/images/bandeau-
 ||les-terrains.com/open-link.phpid=$popup
 ||lesbeurettes.com^*/u.js
 ||lesbienne-gratis.com^*/u.js
-||lesbienne.cc^*/u.js
+||lesbienne.cc^$script
 ||lesechos.fr/pratique/
 ||lesechos.fr/promo-solutions/
 ||lesmobiles.com/habillage/
@@ -7971,6 +7974,7 @@ easyvoyage.com###esv-pub-hp
 soldesdunet.com###etheme-popup
 muslimshop.fr###evenement
 moov.mg###extruderLeft1
+lesbienne.cc###fakeplayer
 livefoot.fr###fancybox-overlay
 livefoot.fr###fancybox-wrap
 israelmagazine.co.il###featgal
