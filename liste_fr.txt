@@ -1128,6 +1128,7 @@ _werbebanner_
 /redirect?tid=$popup
 /renderBanner.do?$popup
 /retarget/*$popup
+/revive-adserver-$popup
 /rotation_pdv.$popup
 /rotation_redir.$popup
 /script/campagne.php?cp=$popup
@@ -1167,7 +1168,7 @@ _werbebanner_
 ?adslotid=$popup
 ?adTagId=$popup
 ?auction_id=*&zoneid=$popup
-?clickid=*.adult.*&$popup
+?clickid=*.adult.$popup
 ?floatpop=$popup
 ?id_rotation=$popup
 ?MediaSegmentId=$popup
@@ -2459,6 +2460,8 @@ _regie/clic.$popup
 ! popads.net
 ||aanvxbvkdxph.com^$third-party
 ||oosdjdhqayjm.com^$third-party
+||vzmnvqiqgxqk.com^$third-party
+||zvuespzsdgdq.com^$third-party
 ! admeasures.com
 ||6rvewc.top^
 ||aagoop7.top^
