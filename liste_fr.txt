@@ -1251,6 +1251,7 @@ _regie/clic.$popup
 ||1mov-team.com^$third-party
 ||1sponsor.com^$third-party
 ||1stads.net^$third-party
+||1yqbp.com^$third-party
 ||2h045kx8.review^$third-party
 ||2mdn.net^$object-subrequest,domain=dhnet.be|lalibre.be
 ||2town.net^$third-party
@@ -2432,6 +2433,7 @@ _regie/clic.$popup
 ||y-ads.net^$third-party
 ||y86qs9ct.xyz^$third-party
 ||yban.fr^$third-party
+||yiq6p.com^$third-party
 ||yku0xk97.site^$third-party
 ||ylx-3.com^$third-party
 ||yospace.co.uk^$third-party
@@ -4477,6 +4479,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 @@||escdn.co^$script,third-party,xmlhttprequest,domain=estream.to
 |http://$script,third-party,xmlhttprequest,domain=estream.to
 |https://$script,third-party,xmlhttprequest,domain=estream.to
+! vidto.me
+@@||ajax.googleapis.com/ajax/libs/$script,domain=vidto.me
+|http://$script,third-party,domain=vidto.me
+|https://$script,third-party,domain=vidto.me
 ! 4nowvideo.com
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
