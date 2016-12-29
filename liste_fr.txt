@@ -3595,6 +3595,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||fapmd.com/widgets/populars/$third-party
 ||fbcdn.net^$domain=dailymotion.com
 ||feelingsurf.fr/images/banner_
+||festivalnikon.fr^$popup,domain=uptobox.com
 ||fetishgirls.com/liveshowbanners/
 ||filerio.in/js/*.fancybox.
 ||files.nyaa.se/*.jpg
@@ -4137,6 +4138,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||up-banner.wavecdn.net^
 ||up07.net/open*.js
 ||uptojizz.com^$subdocument
+||uptoporn.com/randomize/$popup
 ||urafur.clubeo.com^
 ||url.ph/banners/
 ||us-ugc-aka.canal-plus.com^
@@ -4517,10 +4519,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||s33.postimg.org/s61jp5py7/in_1.png
 ||store1.up-00.com/2016-08/1471570071861.png
 ||store2.up-00.com/2016-08/1472649197061.png
-! https://forums.lanik.us/viewtopic.php?f=62&t=25548
-||festivalnikon.fr/video/$popup
-||gamez4tops.com$popup,third-party
-||uptoporn.com/randomize/$popup
 ! Tmp popup campaign
 ||appscase.com^$popup
 ||cathomepage.com^$popup
