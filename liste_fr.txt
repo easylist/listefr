@@ -5951,6 +5951,7 @@ toutcash.com/images/bandeau-
 ||telemb.tv^*/image/banners/
 ||telemb.tv^*/image/videos/*.mp4
 ||telephoneannuaire.fr/resources/amz*.jpg
+||telesatellite.com/images/bg_
 ||tendancehotellerie.fr/img/gif/
 ||tendancehotellerie.fr/spip.php
 ||tendanceouest.com/*/lightbox-
@@ -9142,6 +9143,7 @@ wawacity.su##A[href$="/Adultes"]
 zetorrento.fr,zetorrents.com##A[href*="/AF_"]
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
+telesatellite.com##[class$="bg"] > [id]:first-child
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
 ccm.net,commentcamarche.net##[class*="_item--sponsor"]
