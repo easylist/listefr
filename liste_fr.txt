@@ -122,6 +122,7 @@
 .com/adj/
 .com/adpro.
 .com/bnrs/$subdocument
+.com/func.js|$script,~third-party
 .dz/ads/
 .dz/ads_
 .fr/_adv/
@@ -162,6 +163,8 @@
 .showads.
 .wbdds.
 .xxx/imgban/
+.xxx/pop/$script
+.xxx/pu/$script
 /#ads|$subdocument
 /*300x250_pub.
 /*728x90_pub.
@@ -990,6 +993,7 @@ _werbebanner_
 /cdn-cgi/pe/bag2?*exponential.com
 /cdn-cgi/pe/bag2?*hilltopads.net
 /cdn-cgi/pe/bag2?*jsadapi.com
+/cdn-cgi/pe/bag2?*juicyads.com
 /cdn-cgi/pe/bag2?*komoona.com
 /cdn-cgi/pe/bag2?*ligatus.com
 /cdn-cgi/pe/bag2?*liveadexchanger.com
@@ -1005,7 +1009,7 @@ _werbebanner_
 /cdn-cgi/pe/bag2?*tradeadexchange.com
 /cdn-cgi/pe/bag2?*tribalfusion.com
 /cdn-cgi/pe/bag2?*waframedia*.com
-/cdn-cgi/pe/bag2?*xpopunder.js
+/cdn-cgi/pe/bag2?*xpopunder.
 !
 !------------------------ Génériques popup -----------------------!
 !
@@ -2803,6 +2807,7 @@ _regie/clic.$popup
 ||boeangranolith.bid^$popup,third-party
 ||booksuper.info^$popup,third-party
 ||boruto.fr^$popup,third-party
+||brostraffic.com^$popup,third-party
 ||buysellads.com^$popup,third-party
 ||buzzadexchange.com^$popup,third-party
 ||bwinpartypartners.com^$popup,third-party
@@ -3111,6 +3116,7 @@ _regie/clic.$popup
 ||scriptall.tk^$popup,third-party
 ||secure.securitetotale.com^$popup,third-party
 ||secure.securitetotale.fr^$popup,third-party
+||sendmad.com^$popup,third-party
 ||sezonlukdizi.com^$popup,third-party
 ||shglegle.com^$popup,third-party
 ||shopstockoff.com^$popup,third-party
@@ -3195,6 +3201,7 @@ _regie/clic.$popup
 ||white-eyes.com^$popup,third-party
 ||word-my.com^$popup,third-party
 ||wordkeyhelper.com^$popup,third-party
+||www.gangstabros.com^$popup,third-party
 ||www.meetic-partners.com^$popup,third-party
 ||x.porn.fr^$popup,third-party
 ||xcapps.com^$popup,third-party
@@ -4760,7 +4767,7 @@ toutcash.com/images/bandeau-
 ||capinfoproreport.batiactu.com^$popup
 ||capinfoproreport.com/cap_pub/
 ||capital.fr^*/boutons-pub-header/
-||carrefoune.com^*/u.js
+||carrefoune.com^$script
 ||carriere-algerie.com/carriere/pub_files/
 ||casimages.com/300250.php
 ||casimages.com/72890.php
@@ -7669,6 +7676,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://clicks.toteme.com/"]
 ##a[href^="http://fave.co/"]
 ##a[href^="http://freedowns.info/"]
+##a[href^="http://frtyd.com/"]
 ##a[href^="http://givemeclip.com/"]
 ##a[href^="http://go.wwwdg.net/"]
 ##a[href^="http://go2me.tk/"]
@@ -9886,6 +9894,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /blockadblock.js
 /fadb.min.js?
 /modules/mod_jpayday/*
+/setvisitadblocked|
 /sorry-adblocker/*$script
 /wp-adblock-dedect/*
 ?action=adblockvisitor$~third-party
