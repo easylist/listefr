@@ -849,6 +849,7 @@
 ://bannieres.
 ://cdn.ads.
 ://eacash.
+://gateway-banner.
 ://go.*&zoneid=
 ://go.*/|$script,subdocument,third-party,xmlhttprequest
 ://go.*?zoneid=
@@ -1003,6 +1004,7 @@ _werbebanner_
 /cdn-cgi/pe/bag2?*padsdel.com
 /cdn-cgi/pe/bag2?*padstm.com
 /cdn-cgi/pe/bag2?*pagead2.googlesyndication.com
+/cdn-cgi/pe/bag2?*prscripts.com
 /cdn-cgi/pe/bag2?*pub2srv.com
 /cdn-cgi/pe/bag2?*pubdirecte.com
 /cdn-cgi/pe/bag2?*puserving.com
@@ -3684,6 +3686,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||img.nuxit.com/banners/
 ||img6.bricozone.be/jquery-1.2.6.min.js
 ||indecentes-voisines.com/bans/
+||indecentes-voisines.com/pub.
 ||infojobs.com.br/banner.aspx?
 ||inoutscripts.com/affiliate/
 ||inskin.hs.llnwd.net^
@@ -4101,6 +4104,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||tool.acces-vod.com^
 ||tool.acces-vod.com^$popup
 ||tools.gigacu.com^
+||tools.indecentes-voisines.com^
 ||tools.vpscash.nl^
 ||toomai.fr/lp/$subdocument
 ||toomai.fr/olp/$subdocument
@@ -4723,6 +4727,7 @@ toutcash.com/images/bandeau-
 ||bit.ly^$domain=teramixer.com
 ||bittovore.com/popup.php$popup
 ||blague.info/pub/
+||blog-adulte.fr/sextoy.gif
 ||blog-nouvelles-technologies.fr/wp-content/annonceurs/
 ||blog.lesoir.be/moi-jeux/wp-content/uploads/sites/*/banniere_
 ||blog2mature.com/273_210/
@@ -5015,6 +5020,7 @@ toutcash.com/images/bandeau-
 ||flashmatin.fr/pub/
 ||floriankarmen.com/wp-content/themes/creatordesign/Ads/
 ||flux.liberation.fr/fnac/
+||flv-tool.pornravage.com^
 ||fm93.com/images/publiereportage/
 ||fm93.com/js/larouche
 ||fm93.com/webradio/gabarits-webradio-poppers-bg.jpg
