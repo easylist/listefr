@@ -2467,6 +2467,8 @@ _regie/clic.$popup
 ||zert.ovh^$third-party
 ! popads.net
 ||aanvxbvkdxph.com^$third-party
+||anypbbervqig.com^$third-party
+||glslciwwvtxn.com^$third-party
 ||oosdjdhqayjm.com^$third-party
 ||vzmnvqiqgxqk.com^$third-party
 ||zvuespzsdgdq.com^$third-party
@@ -5404,7 +5406,7 @@ toutcash.com/images/bandeau-
 ||libellules.ch/infomaniak-hosted-by-black-transparent.png
 ||liberte-algerie.com/data/pub/
 ||libertyland.co/libertyland/images/partenaire/
-||libre-stream.com^$popup,~third-party
+||libre-stream.com^$script
 ||libre.eu/homepage/relooking/
 ||lien-torrent.com^$subdocument
 ||liens-de-telechargement.com/popmodal/
@@ -9155,7 +9157,7 @@ ccm.net,commentcamarche.net##[class*="_item--sponsor"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
 uploaded.net##[class*="pico-"]
 t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##[class] + div > img + a
-libre-stream.com,streamiz-films.com##[class^="PapaGoo"]
+streamiz-films.com##[class^="PapaGoo"]
 footnamurois.com##[class^="banners-"]
 jeu.info##[class^="banniere-"]
 forumconstruire.com##[class^="habillage"]
@@ -9167,7 +9169,7 @@ msn.com##[class^="stripecontaine"][data-section-id="stripe.store"]
 meteofrance.com##[href*=".xiti.com"] > img
 booska-p.com##[href^="http://www.booska-p.com/re/"]
 turbo.fr##[id^="ABbypass"]
-libre-stream.com,streamiz-films.com##[id^="PapaGoo"]
+streamiz-films.com##[id^="PapaGoo"]
 footnamurois.com##[id^="banners-"]
 egora.fr##[id^="block-gmsante_pub-"]
 commentcamarche.net,free.fr,journaldesfemmes.com##[id^="lig_"]
