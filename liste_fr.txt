@@ -4368,8 +4368,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||torrent9.biz/top_torrent.php$popup
 ! ex-down.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=extreme-protect.net
-|http://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.co|extreme-down.info|extreme-down.me|extreme-down.org|extreme-down.ws|extreme-protect.net|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
-|https://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.co|extreme-down.info|extreme-down.me|extreme-down.org|extreme-down.ws|extreme-protect.net|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
+|http://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.info|extreme-down.me|extreme-down.org|extreme-down.ws|extreme-protect.net|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
+|https://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.info|extreme-down.me|extreme-down.org|extreme-down.ws|extreme-protect.net|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
 ! protect-stream.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=protect-stream.com
 |http://$script,third-party,xmlhttprequest,domain=protect-stream.com
@@ -4509,10 +4509,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||super-virals.com^$subdocument,third-party
 ||uploadbank.com^$subdocument,third-party
 ! popup & popunder
-|about:blank$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|bitvid.sx|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|extreme-down.me|extreme-protect.net|eztv.ag|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamplay.to|t411.cl|t411.lt|t411.lv|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidhos.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+|about:blank$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|bitvid.sx|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamplay.to|t411.cl|t411.lt|t411.lv|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidhos.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 |http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamplay.to|t411.cl|t411.lt|t411.lv|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidhos.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 |http://$popup,third-party,domain=bitvid.sx|imagepearl.com
-|http://*.*.*.*/$popup,domain=emule-island.ru|extratorrent.cc|extreme-down.me|extreme-protect.net|filmstreaming-hd.com|the-walking-dead-stream.net|zone-telechargement.eu
+|http://*.*.*.*/$popup,domain=emule-island.ru|extratorrent.cc|filmstreaming-hd.com|the-walking-dead-stream.net|zone-telechargement.eu
 |https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|bitvid.sx|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamplay.to|t411.cl|t411.lt|t411.lv|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidhos.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 ! images hosting
 ||hostingpics.net/pics/*468x60.
@@ -4981,8 +4981,6 @@ toutcash.com/images/bandeau-
 ||etr.fr/partner/
 ||eugenol.com/images/abcdentpro.jpg
 ||eugenol.com/images/canalpalatin.png
-||ex-down.com/redir.html?$popup
-||ex-down.org/uploads/extreme-down.net_btn$image
 ||exerciceabdo.fr/wp-content/uploads/*/banner2.gif
 ||exerciceabdo.fr/wp-content/uploads/*/capsimax.png
 ||exerciceabdo.fr/wp-content/uploads/2014/07/the-vert.png
@@ -8130,7 +8128,6 @@ zizi-top.fr###myvideo
 p-nintendo.com###network > ul > .jm
 vacanceo.com###new_travelbloc
 judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
-ex-down.org###news-partner
 voila.fr###nosPartenaires
 bienvenue-a-la-ferme.com###nos_partenaires
 orange.fr###o_carrepub
@@ -9385,6 +9382,7 @@ japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 dpstream.to,quedustream.com,streaming-series.to##a[href^="streaming-series"]
 mega-p2p.net##a[href^="vpn"]
+extreme-down.cc##a[id]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
 t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##a[onclick*="base64"]
