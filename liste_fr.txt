@@ -2445,9 +2445,8 @@ _regie/clic.$popup
 ||viperishly.com^$third-party
 ||zert.ovh^$third-party
 ! popads.net
-||bzyrhqbdldds.com^$third-party
-||rlypbeouoxxw.com^$third-party
-||zpznbracwdai.com^$third-party
+||iziwhlafxitn.com^$third-party
+||ujqbxbcqtbqt.com^$third-party
 ! admeasures.com
 ||6rvewc.top^$third-party
 ||aagoop7.top^$third-party
@@ -4451,6 +4450,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 @@||ajax.googleapis.com/ajax/libs/$script,domain=vidto.me
 |http://$script,third-party,domain=vidto.me
 |https://$script,third-party,domain=vidto.me
+! vidlox.tv
+|http://$script,third-party,xmlhttprequest,domain=vidlox.tv
+|https://$script,third-party,xmlhttprequest,domain=vidlox.tv
 ! 4nowvideo.com
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
@@ -6188,6 +6190,7 @@ toutcash.com/images/bandeau-
 ||d1kl9s3ss3mgzt.cloudfront.net^
 ||d1mgg0px9mqxbp.cloudfront.net^
 ||d1rb5wwywwoqqm.cloudfront.net^
+||d1re760tkiprs5.cloudfront.net^
 ||d1s5n6wuwgnxf4.cloudfront.net^
 ||d1sj3yrs7ojvv7.cloudfront.net^
 ||d1uydqzj7b9nt9.cloudfront.net^
@@ -9937,6 +9940,7 @@ _adblockdetector/
 @@||teramixer.com/plugins/mediaplayer/assets/js/advertisement.js$script
 @@||thevideo.me/js/jspc.js?ab|$script,domain=vidup.me
 @@||unjourunerecette.fr/css/publicite-ads.css
+@@||vidlox.tv/pop.js|$script,~third-party
 @@||wakanim.tv^*/video/advertisement?idepisode=
 @@||www.christineandthefans.com/blockadblock.js|$script,~third-party
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
