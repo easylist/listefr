@@ -5190,7 +5190,9 @@ toutcash.com/images/bandeau-
 ||images-et-cadres.fr/images/banners/
 ||images.fan-de-cinema.com/habillage/
 ||images.opt.be/pictos/logo_
-||images.playfrance.com/habillages$image
+||images.playfrance.com/habillages
+||images.playfrance.com/operation/
+||images.playfrance.com^*/ban_
 ||img.123movies.*/banner/
 ||img.uefa.com/imgml/comp/ucl/sponsor/
 ||immobilier.nc/images/part_
@@ -8926,6 +8928,7 @@ basketusa.com##.pub-1000x90-top
 les-terrains.com##.pub-bloc
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
+playfrance.com##.pub-col3
 agevillage.com##.pub-fade
 omgtorrent.me##.pub-fiche-r + * + .fiche-cadre
 omgtorrent.me##.pub-fiche-r + * > a
@@ -9538,7 +9541,6 @@ forum-windows.com##img[height="60"][width="650"]
 forum-windows.com##img[height="600"][width="160"]
 dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
 nextinpact.com##img[src*="data:"]
-playfrance.com##img[src="http://images.playfrance.com/v4/blank_1x1.gif"]
 jpost.com##img[src^="blob:"]
 sortir.eu##img[src^="http://www.lille.sortir.eu/portal_banneradmin/"]
 zataz.com##img[style="border: 0px solid ; width: 300px; height: 250px;"]
