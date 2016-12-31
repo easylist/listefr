@@ -237,6 +237,7 @@
 /adcash/300.
 /adcash/728.
 /AdConfig.aspx
+/adengine2/*
 /adengine2_
 /adform.
 /adhosting.
@@ -282,6 +283,9 @@
 /ads/extra.
 /ads/left/*
 /ads/mgid_
+/ads13.
+/ads14.
+/ads15.
 /ads16.
 /ads17.
 /ads300m.
@@ -317,6 +321,7 @@
 /adv/adx.
 /adv/banners/*
 /adv/pads.
+/adv/show_
 /Adv728.
 /adv_banner.
 /adv_forum-
@@ -383,6 +388,7 @@
 /banLight.*?ref=
 /bann468X60.
 /Banner-Tag-
+/banner/*/goclick/?
 /banner/*/sponsored?
 /banner/*?site_id=
 /banner/*_affilie=
@@ -505,6 +511,7 @@
 /EpubDelivery/*
 /espace-pub-
 /exads-
+/exoclick300m.
 /fakevideo/rotate.
 /fastclick300.
 /fastclick468.
@@ -838,6 +845,8 @@
 /zones?zone=$subdocument
 /~cdn/Ads/*
 ://acces.*/a.php?
+://aclick.
+://ads-js.
 ://adsadmin.
 ://adscdn.
 ://adspaces.
@@ -3056,6 +3065,7 @@ _regie/clic.$popup
 ||parsersword.info^$popup,third-party
 ||parserward.info^$popup,third-party
 ||parserwoad.info^$popup,third-party
+||parserworld.info^$popup,third-party
 ||pdn-1.com^$popup,third-party
 ||peritas247.info^$popup,third-party
 ||pertholin.com^$popup,third-party
@@ -3261,6 +3271,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 |blob:$domain=cloudtime.to|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|istreamin.com|keepvid.com|lucariostream.eu|streamgaroo.com
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|e-wok.tv
+|javascript^$popup
 !
 /cdn-cgi/pe/bag2?*.com%2F*%3Fr%3D*%26*%3D*%26*%3D*%26*%3D%26*%3D%26*%3D%26*%3D%26s%3D*%2C*%2C1%2C*%2C$xmlhttprequest
 ://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1024,768,1,102$script,third-party
@@ -4001,6 +4012,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||rwabe.com/pub/
 ||s-sfr.fr/stats/authMsg.js
 ||s.brsimg.com^*/cache/css/compress/$object
+||s3.amazonaws.com^*/ads/
 ||salopes-du-jour.com/sexy.js
 ||scubastore.com^$popup,domain=sous-la-mer.com
 ||seargg.xyz^$popup
@@ -6300,6 +6312,7 @@ toutcash.com/images/bandeau-
 !
 !------------------ Éléments génériques -----------------!
 !
+#.top_banner_ads
 ###AdBanner_1
 ###AdBanner_2
 ###AdSense_Header
@@ -6937,6 +6950,7 @@ toutcash.com/images/bandeau-
 ##.ad-ops
 ##.ad-page_top
 ##.ad-provider-yahoo
+##.ad-right-img
 ##.ad-sidebar-125-1r
 ##.ad-sidebar-125-2r
 ##.ad-sponsored
@@ -6951,6 +6965,7 @@ toutcash.com/images/bandeau-
 ##.ad728b
 ##.ad970-wrapper
 ##.adBottom
+##.adDisplay
 ##.adFootBox
 ##.adSpace1
 ##.adSpace2
@@ -6973,6 +6988,7 @@ toutcash.com/images/bandeau-
 ##.adf_marketingbanner
 ##.adf_mpu
 ##.adflex
+##.adg_row adg_banners
 ##.adg_table
 ##.admag-block
 ##.admid2
@@ -7030,6 +7046,7 @@ toutcash.com/images/bandeau-
 ##.ads_table
 ##.ads_vert
 ##.ads_widget
+##.adsbanner
 ##.adsbygoogle_desktop
 ##.adsbygoogle_h_250
 ##.adsbygoogle_wrap
@@ -7039,6 +7056,8 @@ toutcash.com/images/bandeau-
 ##.adsense-sidebar
 ##.adsense_300
 ##.adserverHomePub405x60
+##.adsfoot1
+##.adsfoot2
 ##.adshare_belownav
 ##.adshare_firstpost
 ##.adshare_lastpost
@@ -7062,6 +7081,7 @@ toutcash.com/images/bandeau-
 ##.adv350200
 ##.advBackground
 ##.adv_big
+##.adv_block
 ##.adv_cont
 ##.adv_pop
 ##.adv_standard_d
@@ -7137,6 +7157,7 @@ toutcash.com/images/bandeau-
 ##.blocpubbas
 ##.bn_ads
 ##.border_ads
+##.bumpable-ima-ad-container
 ##.buzz-ad-post
 ##.buzz-ad-post-top
 ##.buzz-ads
@@ -7556,6 +7577,7 @@ toutcash.com/images/bandeau-
 ##.srcPub
 ##.srcPubZone
 ##.stackcommerce-widget
+##.standard_adv_link
 ##.tableAds
 ##.teaser-mpu
 ##.texte_ads
@@ -7732,6 +7754,7 @@ toutcash.com/images/bandeau-
 ##a[href^="https://store.mspy.com/affiliate.php"] > img
 ##a[href^="https://www.g2a.com/r/"] > img
 ##a[target="_blank"][href*="/buy-vpn?"] > img
+##div[id^="adsatlas-"]
 ##div[id^="block-dfp-728-"]
 ##div[id^="crt-"][style*="width:"]
 ##div[onclick*="/regiedeep.php?"]
