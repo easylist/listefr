@@ -200,6 +200,7 @@
 /?redirect&placement=
 /?rpartner=$subdocument
 /_affiliate/hubtraffic/*
+/_ra_lib.php$script
 /a.ads.
 /a.php?t=*&pgid=*&rebill=
 /acad.$script
@@ -325,6 +326,7 @@
 /Adv728.
 /adv_banner.
 /adv_forum-
+/adv_pi.
 /adver_imgs/*
 /advert-serv.
 /advert/rota-
@@ -574,6 +576,7 @@
 /js.adv.
 /js/468.
 /js/infopop_
+/js/marketing/marketing.js
 /js/pub.js
 /jwplayer/plugin/preroll.js
 /last_ads.
@@ -796,6 +799,7 @@
 /slider.php?&pub=$script
 /smartad/*
 /smartad_
+/smartclick.js
 /srv.php?size=300x250
 /srv.php?size=315x300
 /static/t/b.js
@@ -977,6 +981,7 @@ _pubscript.
 _regie/aff.
 _regiepub/
 _smads_
+_smartclick.js
 _Social-Advert-
 _waframedia_
 _werbebanner_
@@ -2820,6 +2825,7 @@ _regie/clic.$popup
 ||booksuper.info^$popup,third-party
 ||boruto.fr^$popup,third-party
 ||brostraffic.com^$popup,third-party
+||bstlnk.com^$popup,third-party
 ||buysellads.com^$popup,third-party
 ||buzzadexchange.com^$popup,third-party
 ||bwinpartypartners.com^$popup,third-party
@@ -5152,6 +5158,7 @@ toutcash.com/images/bandeau-
 ||hdfever.fr/wp-content/uploads/*/banni
 ||hdfever.fr/wp-content/uploads/*/habillage-
 ||hdfever.fr/wp-content/uploads/*/soldes
+||hentaifr.net/*.php$script
 ||hentaigratuit.org/delaypub.js
 ||hentaihaven.org/_
 ||hentaihaven.org/beta/
@@ -7621,6 +7628,7 @@ toutcash.com/images/bandeau-
 ##.wrap-pub
 ##.wrapperPub
 ##.yourcolor-ads
+##.zoneAds
 ##.zone_annonceurs
 ##.zonepub
 ##A[href*="/rel/index.cfm?TAD="]
@@ -9529,7 +9537,7 @@ vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 igen.fr,macg.co##header + a[target="_blank"]
 jeux-porno.net##iframe[src]
-aufeminin.com,hadoken-fansubs.fr,mangas-fr.com,marmiton.org##iframe[style]
+aufeminin.com,hadoken-fansubs.fr,hentaifr.net,mangas-fr.com,marmiton.org##iframe[style]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
