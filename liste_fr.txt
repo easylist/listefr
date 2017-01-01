@@ -5382,7 +5382,6 @@ toutcash.com/images/bandeau-
 ||lig.liberation.fr^
 ||likesgag.com/tags/
 ||liligo.*/compareSites/$popup
-||lille.sortir.eu/portal_banneradmin/
 ||links.fhsarl.com^$popup,third-party
 ||linternaute.com/*@*,position$script
 ||linternaute.com^*/0_pub/
@@ -5845,6 +5844,7 @@ toutcash.com/images/bandeau-
 ||soonnight.com/template/skins/*_ovh_$image
 ||soonnight.com/template/skins/1/images2/miniban_funradio.jpg
 ||soonnight.com^*/bande_partenaires.png
+||sortir-prod.s3.amazonaws.com/uploads/annonce/
 ||sosvirus.net/wp-content/uploads/*336x*.png
 ||soundlightup.com/wp-content/uploads/pub/
 ||sous-la-mer.com/javascripts/sunder.min.js
@@ -8400,6 +8400,7 @@ captainmugiwara.over-blog.com##.afterload
 detecteur.net##.alert-warning
 hdfever.fr,homecinema-fr.com##.aliencable-link
 sitesavisiter.com##.alj
+sortir.eu##.annonce-container
 webrankinfo.com##.annonce-gris
 montelimar-news.fr##.annonce_bloc
 montelimar-news.fr##.annonce_immo
@@ -9487,7 +9488,6 @@ forum-windows.com##img[height="600"][width="160"]
 dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
 nextinpact.com##img[src*="data:"]
 jpost.com##img[src^="blob:"]
-sortir.eu##img[src^="http://www.lille.sortir.eu/portal_banneradmin/"]
 zataz.com##img[style="border: 0px solid ; width: 300px; height: 250px;"]
 zataz.com##img[style="border: 0px solid; width: 300px; height: 250px;"]
 supplychainmagazine.fr##img[width="120"][height="240"]
