@@ -6150,8 +6150,6 @@ toutcash.com/images/bandeau-
 ||yts.ag/images/vpn
 ||z-barre.com/fonction/aff*.php
 ||za-gay.org^*/exit_pop_up.js
-||zataz.com/cdn-cgi/pe/bag?
-||zataz.com/images/images_news/
 ||zatnawqy.net^$popup,~third-party
 ||zdnet.fr/images/base/addv.gif
 ||zebest-3000.com/*.html
@@ -8954,6 +8952,7 @@ dhnet.be,lalibre.be##.relookingHtml
 omgtorrent.me##.rencontres
 kelkoo.fr##.results-lrec
 premsgo.fr##.results-sidebar
+zataz.com##.right > .sidebar-wrapper a[target="_blank"] > img
 goldenboys.fr##.right-minipub
 mappy.com##.rightHabillage
 joursferies.fr##.rightnav[style="background-color: #efefef;"]
@@ -9488,8 +9487,7 @@ forum-windows.com##img[height="600"][width="160"]
 dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
 nextinpact.com##img[src*="data:"]
 jpost.com##img[src^="blob:"]
-zataz.com##img[style="border: 0px solid ; width: 300px; height: 250px;"]
-zataz.com##img[style="border: 0px solid; width: 300px; height: 250px;"]
+zataz.com##img[style$="width: 300px; height: 250px;"]
 supplychainmagazine.fr##img[width="120"][height="240"]
 journaldu4x4.com##img[width="120"][height="600"]
 bricozone.be##img[width="120"][height="75"]
