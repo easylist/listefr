@@ -93,6 +93,7 @@
 -banner250-
 -banner300-
 -banner728.
+-cgi/ads/
 -display-ads_
 -emarketplace.
 -jquery.dfp.
@@ -469,6 +470,7 @@
 /choixPubJS.
 /clash/ads/*
 /clash/banner-
+/click/*/subaccount|
 /click?adv=
 /click_update.*?id_pub=
 /clients-ads.
@@ -1097,6 +1099,7 @@ _werbebanner_
 /adv_show?$popup
 /advertisers/?utm_$popup
 /aff_ad?$popup
+/afu.php?id=&$popup
 /async_redirect?$popup
 /back?from=back&tracker=DEFAULT&token=$popup
 /banner_*&auto_click=$popup
@@ -1138,6 +1141,7 @@ _werbebanner_
 /popads.$popup
 /popad|$popup
 /popunderoncl.$popup
+/popupclick/*$popup
 /popuplp/btag/*$popup
 /promos/popeachclick/*$popup
 /pu2redirector.$popup
@@ -2808,6 +2812,7 @@ _regie/clic.$popup
 ||clicnscores.ma^$popup,third-party
 ||clksite.com^$popup,third-party
 ||clktrcking.com^$popup,third-party
+||clotraiam.website^$popup,third-party
 ||codeonclick.com^$popup,third-party
 ||coloredview.com^$popup,third-party
 ||cometstar.net^$popup,third-party
@@ -3259,6 +3264,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||7k7sv99t490i.xyz^
 ||91.121.87.136:84/promo.php?$popup
 ||a.getgamers.eu^
+||a75-10-so.ssl.cdn13.com^
 ||abc-du-gratuit.com^$image,third-party
 ||abc-du-gratuit.net/bannieres/
 ||abc-netmarketing.com/*/L160xH600_
@@ -3418,6 +3424,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||cdn.installclick.fr^*/ad.html
 ||cdn.m6web.fr/creatives/assets/
 ||cdn.speedvid.net^$popup
+||cdn13.com^*/license.$script
 ||cdnpark.com/registrar/*/loader.js
 ||cdscdn.com^*/banniere_
 ||cdscdn.com^*/partenaires/
@@ -3882,7 +3889,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||pokeram.com/images/promo/
 ||pooki.fr/banner/
 ||porn.fr^*/site_id/$popup
-||pornhub.com^*?utm_source=paid$popup
+||pornhub.com^*?utm_$popup
 ||pornoparadies.org/banner/
 ||pornovore.fr^$popup,domain=amateur2sexe.fr
 ||pornspirit.com/logo-$third-party
@@ -4189,6 +4196,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||yellowapi.com/twn/?
 ||yimg.com/hl/ap/default/*/HP_*.jpg
 ||youcloud.tv/adl?
+||youporn.com^*?utm_$popup
 ||youtube.com^$popup,domain=abdelghanisat.kazeo.com|zevpn.net
 ||youtube.com^*autoplay=1$domain=esoxiste.com|hitek.fr|mon-compte.org|pokemon-streaming.com|soltanati.com|youzapping.com
 ||youtube2mp3.cc/p.php$popup
@@ -7622,6 +7630,7 @@ toutcash.com/images/bandeau-
 ##a[href*="/tracking_campaign.php?"]
 ##a[href*="://adlipay.com/ref/"]
 ##a[href*="://all2lnk.com/"]
+##a[href*="://popcash.net/register/"]
 ##a[href*="://syndication."] > img
 ##a[href*="://toroadvertisingmedia.com/"]
 ##a[href*="://www.ducksnetwork.com/"]
