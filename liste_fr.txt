@@ -2446,10 +2446,17 @@ _regie/clic.$popup
 ||zert.ovh^$third-party
 ! popads.net
 ||anluecyopslm.com^$third-party
+||aqornnfwxmua.com^$third-party
+||cfdmkifknsjt.com^$third-party
+||duxyrxhfwilv.com^$third-party
 ||iziwhlafxitn.com^$third-party
+||lgnjcntegeqf.com^$third-party
 ||mnyavixcddgx.com^$third-party
 ||sauispjbeisl.com^$third-party
 ||ujqbxbcqtbqt.com^$third-party
+||vlvowhlxxibn.com^$third-party
+||yesucplcylxg.com^$third-party
+||yjjtxuhfglxa.com^$third-party
 ! admeasures.com
 ||6rvewc.top^$third-party
 ||aagoop7.top^$third-party
@@ -4456,6 +4463,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ! vidlox.tv
 |http://$script,third-party,xmlhttprequest,domain=vidlox.tv
 |https://$script,third-party,xmlhttprequest,domain=vidlox.tv
+! bestream.tv
+|http://$script,third-party,domain=bestream.tv
+|https://$script,third-party,domain=bestream.tv
 ! 4nowvideo.com
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
@@ -9129,6 +9139,7 @@ ccm.net,commentcamarche.net##[class*="_item--sponsor"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
 uploaded.net##[class*="pico-"]
 t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##[class] + div > img + a
+bestream.tv##[class^="adsRemove"]
 footnamurois.com##[class^="banners-"]
 jeu.info##[class^="banniere-"]
 forumconstruire.com##[class^="habillage"]
