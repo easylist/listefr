@@ -318,6 +318,7 @@
 /adsmouse.
 /adspage.
 /adstrack/*
+/adsvrz-
 /adsw1.
 /adtube.js
 /adv/adx.
@@ -861,6 +862,7 @@
 ://banners3.$third-party
 ://bannieres.
 ://cdn.ads.
+://dc.ads.
 ://eacash.
 ://gateway-banner.
 ://go.*&zoneid=
@@ -892,6 +894,7 @@
 =publicite&
 =show_ads;
 =sponsored_links_
+=WebAdsLinks&
 ?action=VIEWAD&
 ?ad_id=
 ?ADFassetID=
@@ -3417,6 +3420,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||cdn.installclick.fr^*/ad.html
 ||cdn.m6web.fr/creatives/assets/
 ||cdn.speedvid.net^$popup
+||cdnpark.com/registrar/*/loader.js
 ||cdscdn.com^*/banniere_
 ||cdscdn.com^*/partenaires/
 ||cdscdn.com^*/partners/
