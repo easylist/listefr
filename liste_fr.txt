@@ -3624,7 +3624,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||grmtas.com/pub/
 ||grosnews.com/grosnews.php?
 ||groupolitan.fr/partners/
-||guadeloupe-paradise.fr^$popup,domain=alineabux.com
 ||guide-hebergeur.fr/img/tophebergement.gif
 ||guitar-pro.com/img/links/
 ||hawaii-surf.net/upload/bannieres/
@@ -4484,10 +4483,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||uploadbank.com^$subdocument,third-party
 ! popup & popunder
 |about:blank$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|bitvid.sx|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamplay.to|t411.cl|t411.lt|t411.lv|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidhos.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
-|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamplay.to|t411.cl|t411.lt|t411.lv|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidhos.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+|http://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|guadeloupe-paradise.fr|imgchili.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamplay.to|t411.cl|t411.lt|t411.lv|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidhos.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 |http://$popup,third-party,domain=bitvid.sx|imagepearl.com
 |http://*.*.*.*/$popup,domain=emule-island.ru|extratorrent.cc|filmstreaming-hd.com|the-walking-dead-stream.net|zone-telechargement.eu
-|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|bitvid.sx|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamplay.to|t411.cl|t411.lt|t411.lv|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidhos.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+|https://$popup,domain=4downfiles.net|allmyvideos.net|allvid.ch|appcdn.xyz|auroravid.to|bitvid.sx|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|flash-x.tv|flashsx.tv|flashx.tv|flashx1.tv|flashxx.tv|getmytorrent.com|gorillavid.com|gorillavid.in|guadeloupe-paradise.fr|imgchili.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|openload.co|powerwatch.pw|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamplay.to|t411.cl|t411.lt|t411.lv|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbull.com|videowood.tv|vidhos.com|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidzi.tv|vimple.me|vkpass.com|watchtvserieslive.org|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 ! images hosting
 ||hostingpics.net/pics/*468x60.
 ||hostingpics.net/pics/*ban.png
@@ -7911,6 +7910,7 @@ geny.com###containerBanniere1mois
 asso-web.com###container_pub
 asso-web.com###container_pub_left
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr###conteneur_PROMO_Gauche
+guadeloupe-paradise.fr###content-shadow
 millenium.org###content_pub
 spi0n.com###content_top
 abcbourse.com###ctl00_btmmaster_xforex
@@ -10028,8 +10028,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||freedom-ip.com^$generichide
 @@||freesoft.fr^$generichide
 @@||gagnergratuitement.fr^$generichide
-@@||googleads.g.doubleclick.net/pagead/ads?$subdocument,domain=adblock.fr|annonces-jobber.com|cine-media.fr|e-monsite.com|fashionmomes.fr|fbdutaff.com|francetabs.com|freedom-ip.com|freesoft.fr|gagnergratuitement.fr|guadeloupe-paradise.fr|guildi.com|himaliagaming.com|lebusmagique.fr|monpompier.com|naruto-shippudenvf.com|positivelivinmusic.com|pronofootbol.fr|publishyourproject.com|rcweb.fr|rummyworld.net|securelbdi.com|tendinite.org|voxmakers.fr|webcallmalin.com|writerband.com|zenserv.fr
-@@||guadeloupe-paradise.fr^$generichide
+@@||googleads.g.doubleclick.net/pagead/ads?$subdocument,domain=adblock.fr|annonces-jobber.com|cine-media.fr|e-monsite.com|fashionmomes.fr|fbdutaff.com|francetabs.com|freedom-ip.com|freesoft.fr|gagnergratuitement.fr|guildi.com|himaliagaming.com|lebusmagique.fr|monpompier.com|naruto-shippudenvf.com|positivelivinmusic.com|pronofootbol.fr|publishyourproject.com|rcweb.fr|rummyworld.net|securelbdi.com|tendinite.org|voxmakers.fr|webcallmalin.com|writerband.com|zenserv.fr
 @@||guildi.com^$generichide
 @@||himaliagaming.com^$generichide
 @@||lebusmagique.fr^$generichide
