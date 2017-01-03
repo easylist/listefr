@@ -8634,8 +8634,6 @@ eztv-proxy.net,eztv.ag,eztv.ch,eztv.it,eztv.tf,eztv.yt##.exit-overlay
 eztv-proxy.net,eztv.ag,eztv.ch,eztv.it,eztv.tf,eztv.yt##.exit-pop-holder
 maddyness.com##.extra-block
 yts.ag##.fdn
-omgtorrent.me##.fiche-cadre + * > a
-omgtorrent.me##.fiche-cadre-infos + .fiche-cadre
 humanite.fr##.field-name-bloc-pub-1ere-sidebar-contenu-3
 humanite.fr##.field-name-pub-sidebar-first-content
 lefigaro.fr##.fig-adgps
@@ -8733,8 +8731,6 @@ pagesjaunes.fr##.linkPushEmbauche
 frandroid.com##.link_htr
 mavieencouleurs.fr##.list-brands-carousel
 meilleureecoledefrance.com##.list_sponsors
-omgtorrent.me##.liste-clients + td > a
-omgtorrent.me##.liste-telecharger > a
 lequipement.fr##.listepartenairecomplete
 click-fr.com##.loc
 msn.com##.logo > a[target="_blank"] > img[width="300"]
@@ -8896,8 +8892,6 @@ degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
 playfrance.com##.pub-col3
 agevillage.com##.pub-fade
-omgtorrent.me##.pub-fiche-r + * + .fiche-cadre
-omgtorrent.me##.pub-fiche-r + * > a
 millepertuis.eu##.pub-gauche-flottant
 1point2vue.com##.pub-header
 lefigaro.fr##.pub-icone
@@ -9053,6 +9047,9 @@ msn.com##.stripecontainer[data-section-id="stripe.msstore"]
 imobie.fr##.support_guide_download_upper
 forum.sportytrader.com##.tableau_bleu
 walfoot.be##.take-banner
+omgtorrent.me##.telechargement
+omgtorrent.me##.telechargement + .fiche-infos
+omgtorrent.me##.telechargement + .fiche-infos + .fiche-infos
 turbo.fr##.textPub
 asso-web.com##.text_pub
 wakanim.tv##.theoplayer-error
@@ -9179,15 +9176,13 @@ free-telechargement.org,streaming-telechargementz.net,telechargementz-streaming.
 thebadbuzz.com##a[href$="/boost.php"]
 sites-torrent.com##a[href$="/seedbox"]
 opensubtitles.org##a[href$="=="][rel="nofollow"]
-omgtorrent.me##a[href*=" "]
 sante-nutrition.org##a[href*="&pos="]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
 omgtorrent.me##a[href*="+"]
-omgtorrent.me##a[href*="-torrent/"]
 films-telecharger.eu,vfstream.biz##a[href*=".php"]
 planete-series.info##a[href*=".php"] > img
-jeddl.net,omgtorrent.me##a[href*=".php?"]
+jeddl.net##a[href*=".php?"]
 leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
 meilleurs-hebergeurs.com##a[href*="/-"] > img
 presse-algerie.net##a[href*="/?ad="]
@@ -9287,7 +9282,6 @@ confidentielles.com##a[href^="/rc_787_"]
 t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##a[href^="/redirect.php"]
 jeuxvideo.com##a[href^="/sponso/"] img
 beaute-test.com##a[href^="/stat/clic.php?"]
-omgtorrent.me##a[href^="/torrent-"]
 emule-island.ru##a[href^="/tutoriaux/usenext-dl.php?"]
 seedpeer.eu##a[href^="/usenet.php?"]
 kerix.net##a[href^="LienExterne.asp?"]
@@ -9526,7 +9520,6 @@ sinfest.net##noscript a
 bonjourmadame.fr##object[width="728"][height="90"]
 t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##p[style="width: 400px; margin: 0 auto; color: darkorange"]
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
-omgtorrent.me##span > a:first-child
 idowatch.net##style + [onclick]
 boursorama.com##style + div > .visible-desktop:first-child
 boursorama.com##sup.main[style="display: block;"]
@@ -9555,7 +9548,6 @@ mon-ordi.com##td[width="567"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 eztv-proxy.net,eztv.ag,eztv.ch,eztv.it,eztv.tf,eztv.yt##tr > td[style="border: 3px solid #C70000;"] > [id]
-omgtorrent.me##ul > li[style*="padding:"]
 ! goyavelab
 !
 ! Éléments pour generichide
