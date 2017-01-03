@@ -3042,7 +3042,6 @@ _regie/clic.$popup
 ||plxnt.com^$popup,third-party
 ||poptm.com^$popup,third-party
 ||popunderclick.com^$popup,third-party
-||popunderjs.com^$popup
 ||popundertotal.com^$popup,third-party
 ||pormurop.me^$popup,third-party
 ||pornravage.com^$popup,third-party
@@ -4357,9 +4356,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 |http://$script,third-party,xmlhttprequest,domain=lucariostream.eu
 |https://$script,third-party,xmlhttprequest,domain=lucariostream.eu
 ||lucariostream.eu^$popup,~third-party
-! skidrowreloaded.com
-|http://$script,third-party,xmlhttprequest,domain=skidrowreloaded.com
-|https://$script,third-party,xmlhttprequest,domain=skidrowreloaded.com
 ! japscan.com
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.com
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.com
