@@ -3234,7 +3234,7 @@ _regie/clic.$popup
 !----------------------- Publicités tierces ----------------------!
 !
 $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.pl|123movies.ru|123music.to|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|datpiff.com|divxstage.ch|divxstage.to|epornik.com|firstrowus1.eu|freewarefiles.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.to|streamgaroo.com|thecountrycaller.com|videoweed.ch|videoweed.co|videoweed.com|videoweed.es|videowood.tv|viid.me
-/.*?\w{60}/$script,xmlhttprequest,domain=jeu.fr
+!
 |blob:$domain=cloudtime.to|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|istreamin.com|keepvid.com|lucariostream.eu|streamgaroo.com
 !
 |http://$subdocument,domain=a2r-media.com
@@ -7511,6 +7511,7 @@ toutcash.com/images/bandeau-
 ##.search_publicity_box
 ##.search_square_publicity
 ##.separepub
+##.sgAdLabel
 ##.shareaholic-ad
 ##.shareaholic-ad-content
 ##.shareaholic-canvas
@@ -9153,6 +9154,7 @@ nrj.fr##[class^="modal"]
 ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
 guide-piscine.fr##[class^="regie_"]
 msn.com##[class^="stripecontaine"][data-section-id="stripe.store"]
+jeu.fr##[data-fallback-type="image"]
 meteofrance.com##[href*=".xiti.com"] > img
 booska-p.com##[href^="http://www.booska-p.com/re/"]
 turbo.fr##[id^="ABbypass"]
@@ -9507,15 +9509,15 @@ zataz.com##img[style$="width: 300px; height: 250px;"]
 supplychainmagazine.fr##img[width="120"][height="240"]
 journaldu4x4.com##img[width="120"][height="600"]
 bricozone.be##img[width="120"][height="75"]
-ajoutezvotresite.com,bricozone.be##img[width="160"][height="600"]
+ajoutezvotresite.com,bricozone.be,jeu.fr##img[width="160"][height="600"]
 vatry.com##img[width="300"][height="190"]
-israelmagazine.co.il,maliweb.net,soonnight.com,undernews.fr##img[width="300"][height="250"]
+israelmagazine.co.il,jeu.fr,maliweb.net,soonnight.com,undernews.fr##img[width="300"][height="250"]
 supplychainmagazine.fr##img[width="468"]
 echangegagnant.com,espace-francophone.com,genhit.com,israelmagazine.co.il,space-blogs.net##img[width="468"][height="60"]
 israelmagazine.co.il##img[width="600"][height="90"]
 qcm-concours.blogspot.fr##img[width="716"][height="100"]
 forum.soirnet.fr##img[width="720"][height="100"]
-maliweb.net,undernews.fr##img[width="728"][height="90"]
+jeu.fr,maliweb.net,undernews.fr##img[width="728"][height="90"]
 undernews.fr##img[width][height][alt$="VPN"]
 faireunlien.com##img[width^="728height=90"]
 ici.tou.tv##li.bigBox
@@ -9890,7 +9892,7 @@ _adblockdetector/
 @@.png#$image,domain=bbstreaming.com|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
-@@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|greys-anatomy-en-streaming.fr|jeu.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
+@@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|greys-anatomy-en-streaming.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
 @@/advertisement.js$script,~third-party,domain=crash-aerien.aero|crash-aerien.news|e-wok.tv|quoverbis.com
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|silicon.fr
 @@||1max2sms.com/blogads.css
