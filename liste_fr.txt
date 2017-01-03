@@ -2451,8 +2451,12 @@ _regie/clic.$popup
 ||viperishly.com^$third-party
 ||zert.ovh^$third-party
 ! popads.net
+||anluecyopslm.com^$third-party
+||aqdrzqsuxxvd.com^$third-party
 ||cwliihvsjckn.com^$third-party
+||dmatquyckwtu.com^$third-party
 ||qajaohrcbpkd.com^$third-party
+||tiouqzubepuy.com^$third-party
 ||tkeeebdseixv.com^$third-party
 ! admeasures.com
 ||6rvewc.top^$third-party
@@ -3227,6 +3231,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ://*.top/*/|$script,third-party,xmlhttprequest
 ://*.webcam/*/|$script,third-party,xmlhttprequest
 ://*.website/*/|$script,third-party,xmlhttprequest
+://*.win/*/|$script,third-party,xmlhttprequest
 ://*.xyz/*/|$script,third-party,xmlhttprequest
 |blob:$domain=cloudtime.to|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|istreamin.com|keepvid.com|lucariostream.eu|streamgaroo.com
 |http://$subdocument,domain=a2r-media.com
@@ -6216,6 +6221,7 @@ toutcash.com/images/bandeau-
 ||d29lpg037v41oq.cloudfront.net^
 ||d2ggw6du5pulet.cloudfront.net^
 ||d2gt9oovykfp1z.cloudfront.net^
+||d2hiddpkp3wlza.cloudfront.net^
 ||d2is3w689nunba.cloudfront.net^
 ||d2kbaqwa2nt57l.cloudfront.net^
 ||d2l8bbn629wykr.cloudfront.net^
