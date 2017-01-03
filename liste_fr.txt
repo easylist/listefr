@@ -478,6 +478,7 @@
 /cmpn_async.
 /code-float-ad.
 /col_droite_googleads2
+/crakrevenue/*
 /Criteo.ADBLOK.
 /Criteo.Left.
 /cshoppingbox.
@@ -1244,6 +1245,8 @@ _packcpm.$popup
 _pop.php?z=$popup
 _pornofolies_$popup
 _regie/clic.$popup
+|data:,|$popup
+|data:;|$popup
 |javascript^$popup
 ! TLD popups
 ||bid^*&refer=$popup
@@ -1789,6 +1792,7 @@ _regie/clic.$popup
 ||forevermelodicheidegger.info^$third-party
 ||foxserie.com^$script,third-party
 ||friesmeasureretain.info^$third-party
+||frtyi.com^$third-party
 ||fullon.tv^$third-party
 ||fullscreens.fr^$third-party
 ||fungetbag.info^$third-party
@@ -2322,6 +2326,7 @@ _regie/clic.$popup
 ||top-chaude.com^$third-party
 ||topfreesoft4you.com^$third-party
 ||toponclick.com^$third-party
+||topqualitylink.com^$third-party
 ||toro-tags.com^$third-party
 ||torriderencontre.com^$third-party
 ||totaladperformance.com^$third-party
@@ -2478,6 +2483,7 @@ _regie/clic.$popup
 ! popads.net
 ||anluecyopslm.com^$third-party
 ||aqdrzqsuxxvd.com^$third-party
+||bajofdblygev.com^$third-party
 ||cwliihvsjckn.com^$third-party
 ||dmatquyckwtu.com^$third-party
 ||fhylnqzxwsbo.com^$third-party
@@ -2487,9 +2493,11 @@ _regie/clic.$popup
 ||ompzowzfwwfc.com^$third-party
 ||qajaohrcbpkd.com^$third-party
 ||scbywuiojqvh.com^$third-party
+||sqnezuqjdbhe.com^$third-party
 ||tiouqzubepuy.com^$third-party
 ||tkeeebdseixv.com^$third-party
 ||ujqbxbcqtbqt.com^$third-party
+||vdpyueivvsuc.com^$third-party
 ! admeasures.com
 ||6rvewc.top^$third-party
 ||aagoop7.top^$third-party
@@ -3079,6 +3087,7 @@ _regie/clic.$popup
 ||popunderclick.com^$popup,third-party
 ||popundertotal.com^$popup,third-party
 ||pormurop.me^$popup,third-party
+||porncrash.com^$popup,third-party
 ||pornravage.com^$popup,third-party
 ||pornstreet.com^$popup,third-party
 ||possini.eu^$popup,third-party
@@ -3239,6 +3248,7 @@ _regie/clic.$popup
 ||z-defense.com^$popup,third-party
 ||zeroredirect*.com^$popup
 ||zidor.info^$popup,third-party
+||zrada.site^$popup,third-party
 ||zwaar.net^$popup,third-party
 ||zwaar.org^$popup,third-party
 !
@@ -6301,6 +6311,7 @@ toutcash.com/images/bandeau-
 ||dviixeyykyqjv.cloudfront.net^
 ||dylasklmlxige.cloudfront.net^
 ||dymwsh1c2kslr.cloudfront.net^
+||dzbx8qv1at614.cloudfront.net^
 !
 !------------------ Éléments génériques -----------------!
 !
