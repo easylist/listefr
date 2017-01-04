@@ -638,11 +638,13 @@
 /peelrotateur/*
 /plugins/dfp/$script
 /plugins/vp_pub/*
+/plx_popup.js
 /pmd-gdfp-server.
 /pop-ads.
 /pop-url/|$script
 /pop.php?id_
 /pop.php?user=
+/pop.php|$script
 /pop0.js|
 /pop_ex.
 /popcall.js
@@ -1220,6 +1222,7 @@ _werbebanner_
 ?adTagId=$popup
 ?auction_id=*&zoneid=$popup
 ?clickid=*.adult.$popup
+?exotracker=$popup
 ?floatpop=$popup
 ?id_rotation=$popup
 ?MediaSegmentId=$popup
@@ -3512,6 +3515,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||damoh.schneevonmorgen.com^
 ||damtours.com/static/img/damtous_$third-party
 ||dc121677.com^
+||dealdog.net/advert.php$popup
 ||deals-du-web.com^
 ||delivery.playtem.com^
 ||delivery.vidible.tv^$domain=gamekult.com
@@ -3639,6 +3643,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||ggc.ninja^$subdocument
 ||gifsauce.com/widgets?
 ||gigaflat.com/affiliate/$third-party
+||gigaflat.com^$subdocument
 ||glenat.com/dyn/glenat/upload/$third-party
 ||globirank.com/image/$domain=unlock-stream.com
 ||go2cloud.org/aff_c?offer_id=
@@ -7625,9 +7630,10 @@ toutcash.com/images/bandeau-
 ##.zone_annonceurs
 ##.zonepub
 ##A[href*="/rel/index.cfm?TAD="]
+##A[href*="://www.fducks.com/AF_"]
 ##A[href*="=INSERT_RANDOM_NUMBER_HERE&"]
-##A[onclick*="http://duckcash.eu/AF_"]
-##A[onclick*="http://www.duckcash.eu/AF_"]
+##A[onclick*="://duckcash.eu/AF_"]
+##A[onclick*="://www.duckcash.eu/AF_"]
 ##A[onclick^="CustomWLAdServer."]
 ##[class*="proadszoneholder-"]
 ##[data-type="ligatus-script"]
@@ -9400,7 +9406,7 @@ japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 dpstream.to,quedustream.com,streaming-series.to##a[href^="streaming-series"]
 mega-p2p.net##a[href^="vpn"]
-extreme-down.cc##a[id]
+extreme-down.cc,zetorrento.fr##a[id]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
 t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##a[onclick*="base64"]
