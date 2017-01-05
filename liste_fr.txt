@@ -4375,8 +4375,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 |http://$script,third-party,xmlhttprequest,domain=protect-stream.com
 |https://$script,third-party,xmlhttprequest,domain=protect-stream.com
 ! telecharger-jeuxpc.com
-|http://$script,third-party,xmlhttprequest,domain=pcgames-download.net|telecharger-jeuxpc.com
-|https://$script,third-party,xmlhttprequest,domain=pcgames-download.net|telecharger-jeuxpc.com
+|http://$script,third-party,xmlhttprequest,domain=telecharger-jeuxpc.com
+|https://$script,third-party,xmlhttprequest,domain=telecharger-jeuxpc.com
 ! lucariostream.eu
 |http://$script,third-party,xmlhttprequest,domain=lucariostream.eu
 |https://$script,third-party,xmlhttprequest,domain=lucariostream.eu
