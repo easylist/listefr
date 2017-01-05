@@ -4097,6 +4097,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||teen-passion.net/annuaire/ban/$third-party
 ||telechargementgratuits.com/dm.php
 ||teliad.fr^*/banner/
+||teramixer.com/playerroll.html
 ||teramixer.com/themes/cloudmix/img/pixel/
 ||terasexe.com/pubs/
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
@@ -5981,6 +5982,7 @@ toutcash.com/images/bandeau-
 ||tendancehotellerie.fr/spip.php
 ||tendanceouest.com/*/lightbox-
 ||tennisactu.net/*/encarts_partenaires/
+||teramixer.com/playerroll.html
 ||terre.tv/images/partenaires/
 ||terredauphinoise.fr/casiope/serveur/partage/
 ||tetesaclaques.tv/public/images/promo_mini_300x127_canalplus_FR.jpg
@@ -8212,6 +8214,8 @@ topanalyse.com###pid_f
 tayo.fr###pioubhaut
 francoischarron.com###placeholder
 allocine.fr###player-footer
+teramixer.com###player-next
+teramixer.com###player-prime
 vidbull.com###player_ads
 cuisineactuelle.fr###pmd300x600
 terre.tv###point_part
@@ -8751,6 +8755,9 @@ bienpublic.com,republicain-lorrain.fr##.iookaz
 cuisineactuelle.fr##.item-ad-header
 jeuxvideo.com##.item-home-accroche-sponso
 largus.fr##.item-partenaire
+dpstream.net##.itemNum_1
+dpstream.net##.itemNum_11
+dpstream.net##.itemNum_5
 journaldesfemmes.com##.jLinkSponsored
 idf1.fr##.jcarousel
 jdubuzz.com,journaldugamer.com,journaldugeek.com,pixelistes.com##.jdg-recommend
@@ -9253,6 +9260,7 @@ comment-supprimer.com,igen.fr,macg.co,needsandmoods.com,refurbgeneration.com,sos
 telesatellite.com##a[href*="://bit.ly/"]
 abidjan.net,algerie360.com,igen.fr,israelmagazine.co.il,journaldumusulman.fr,lnc.nc,macg.co,orientation-chabab.com,proxylistpro.com,tendancehotellerie.fr,watchgeneration.fr,wawacity.su##a[href*="://goo.gl/"]
 techtablets.com##a[href*="://goo.gl/"] > img
+dpstream.net##a[href*="://plarium.com/"]
 amateur2sexe.fr,pornovore.fr##a[href*="://pqr."]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
 wawacity.su##a[href*="://secure."]
@@ -9993,7 +10001,7 @@ _adblockdetector/
 @@||static.les-horaires.fr/js/advert.js
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
 @@||stream4free.eu/images/*#$~image
-@@||teramixer.com/plugins/mediaplayer/assets/js/advertisement.js$script
+@@||teramixer.com/plugins/mediaplayer/assets/js/advertisement.js$script,domain=teramixer.com
 @@||thevideo.me/js/jspc.js?ab|$script,domain=vidup.me
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||vidlox.tv/pop.js|$script,~third-party
