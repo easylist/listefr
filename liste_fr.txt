@@ -9930,7 +9930,7 @@ _adblockdetector/
 ||static.tacdn.com/*/src/ta/common/behavior/abAppeal-*.js
 !
 @@.gif#$image,domain=sos-lettre.fr
-@@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|naruto-mx.net|telecharger-jeuxpc.com|the-night-of-streaming.eu
+@@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|naruto-mx.net|the-night-of-streaming.eu
 @@.png#$image,domain=bbstreaming.com|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
@@ -10059,7 +10059,6 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||sos-lettre.fr^$generichide
 @@||sospc.name^$generichide
 @@||streaming-sport.tv^$generichide
-@@||telecharger-jeuxpc.com^$generichide
 @@||the-night-of-streaming.eu^$generichide
 @@||total-sport.tv^$elemhide
 @@||tout-debrid.net^$generichide
