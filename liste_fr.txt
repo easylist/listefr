@@ -1034,10 +1034,12 @@ _werbebanner_
 /cdn-cgi/pe/bag2?*pub2srv.com
 /cdn-cgi/pe/bag2?*pubdirecte.com
 /cdn-cgi/pe/bag2?*puserving.com
+/cdn-cgi/pe/bag2?*sv2.biz%
 /cdn-cgi/pe/bag2?*tradeadexchange.com
 /cdn-cgi/pe/bag2?*tribalfusion.com
 /cdn-cgi/pe/bag2?*waframedia*.com
 /cdn-cgi/pe/bag2?*xpopunder.
+/cdn-cgi/pe/bag2?*yesmessenger.com
 !
 ||accountant^*/|$script,third-party,xmlhttprequest
 ||click^*/|$script,third-party,xmlhttprequest
@@ -4361,8 +4363,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ! torrent9.tv
 @@||ajax.googleapis.com/ajax/libs/$script,domain=torrent9.biz
 @@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=torrent9.biz
-|http://$script,third-party,domain=torrent9.biz|torrent9.me|torrent9.tv|torrent9.ws
-|https://$script,third-party,domain=torrent9.biz|torrent9.me|torrent9.tv|torrent9.ws
+|http://$popup,script,third-party,domain=torrent9.biz|torrent9.me|torrent9.tv|torrent9.ws
+|https://$popup,script,third-party,domain=torrent9.biz|torrent9.me|torrent9.tv|torrent9.ws
 ||torrent9.biz/top_torrent.php$popup
 ! ex-down.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=extreme-protect.net
@@ -6010,6 +6012,7 @@ toutcash.com/images/bandeau-
 ||torrent1.com/pubs/
 ||torrent411.io^*/*_frame.
 ||torrent411.io^*/banniere
+||torrent9.biz/cdn-cgi/pe/bag2?
 ||torrentfilmseriestreaming.com/wp-content/uploads/*/banniere-
 ||torrentfrancais.com/directdownload.png
 ||torrentfrancais.com/includes/external/fakeplayer/
@@ -9212,6 +9215,7 @@ israelmagazine.co.il##a > img[width="238"]
 cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
+torrent9.biz##a[class][style]
 narutoshippudenvf.com##a[class][target="_blank"]
 free-telechargement.org,streaming-telechargementz.net,telechargementz-streaming.com,telechargementz-streaming.net,telecharger-ebook-gratuit.net##a[href$=".php"]
 thebadbuzz.com##a[href$="/boost.php"]
