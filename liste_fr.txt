@@ -274,6 +274,7 @@
 /ads/*-habillage-
 /ads/120/600/*
 /ads/2-728.
+/ads/250x250-
 /ads/3-728.
 /ads/300/250/*
 /ads/468/60/*
@@ -1047,6 +1048,7 @@ _werbebanner_
 ||link^*/|$script,third-party,xmlhttprequest
 ||loan^*/|$script,third-party,xmlhttprequest
 ||lol^*/|$script,third-party,xmlhttprequest
+||men^*/|$script,third-party,xmlhttprequest
 ||online^*/|$script,third-party,xmlhttprequest
 ||party^*/|$script,third-party,xmlhttprequest
 ||review^*/|$script,third-party,xmlhttprequest
@@ -1849,6 +1851,7 @@ _regie/clic.$popup
 ||hoortols.org^$third-party
 ||hopdream.com^$third-party
 ||horyzon-clics.com^$third-party
+||hotclicks.com.br^$third-party
 ||hsoub.com^$third-party
 ||i-promotion.net^$third-party
 ||iaffiliates.com^$third-party
@@ -3079,6 +3082,7 @@ _regie/clic.$popup
 ||pertholin.com^$popup,third-party
 ||pleasewait.co^$popup,third-party
 ||plxnt.com^$popup,third-party
+||popmycash.com^$popup,third-party
 ||poptm.com^$popup,third-party
 ||popunderclick.com^$popup,third-party
 ||popundertotal.com^$popup,third-party
@@ -4375,8 +4379,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 |http://$script,third-party,xmlhttprequest,domain=protect-stream.com
 |https://$script,third-party,xmlhttprequest,domain=protect-stream.com
 ! telecharger-jeuxpc.com
-|http://$script,third-party,xmlhttprequest,domain=telecharger-jeuxpc.com
-|https://$script,third-party,xmlhttprequest,domain=telecharger-jeuxpc.com
+|http://$script,third-party,xmlhttprequest,domain=pcgames-download.net|telecharger-jeuxpc.com
+|https://$script,third-party,xmlhttprequest,domain=pcgames-download.net|telecharger-jeuxpc.com
 ! lucariostream.eu
 |http://$script,third-party,xmlhttprequest,domain=lucariostream.eu
 |https://$script,third-party,xmlhttprequest,domain=lucariostream.eu
@@ -7673,6 +7677,7 @@ toutcash.com/images/bandeau-
 ##a[href*="://popcash.net/register/"]
 ##a[href*="://syndication."] > img
 ##a[href*="://toroadvertisingmedia.com/"]
+##a[href*="://www.anrdoezrs.net/"]
 ##a[href*="://www.ducksnetwork.com/"]
 ##a[href*="?ad_id="]
 ##a[href*="_728x90_bleach_adb"]
