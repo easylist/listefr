@@ -4456,11 +4456,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=streamingeur.com
 |https://$script,third-party,domain=streamingeur.com
 ! lectureduweb.fr (dblock-ads.com)
-|http://$script,third-party,xmlhttprequest,domain=lectureduweb.fr
-|https://$script,third-party,xmlhttprequest,domain=lectureduweb.fr
-! badside.fr (dblock-ads.com)
-|http://$script,third-party,xmlhttprequest,domain=badside.fr
-|https://$script,third-party,xmlhttprequest,domain=badside.fr
+@@||ajax.googleapis.com/ajax/libs/$script,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
+|http://$image,script,subdocument,third-party,xmlhttprequest,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
+|https://$image,script,subdocument,third-party,xmlhttprequest,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
 ! 123movies
 |blob:$domain=123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.pl|123movies.ru|123music.to
 |http://$popup,script,third-party,xmlhttprequest,domain=123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.pl|123movies.ru|123music.to
