@@ -8643,6 +8643,7 @@ canoe.ca##.boxPool
 days-media.fr##.boxed[style^="width:300px; height:250px"]
 telerama.fr##.boxpub
 lepoint.fr##.branding
+torrent9.biz##.btn-danger[href^="http://"]
 wawacity.su##.btn-warning
 gamergen.com,generation-nt.com##.bup
 terrafemina.com##.c-product
@@ -8689,7 +8690,6 @@ lemonde.fr##.dfp_slot
 dailymotion.com##.dm_widget_advert_iabrighttitle
 blog2mature.com##.download
 thepiratebay.org##.download + [style] > a[target="_blank"]
-torrent9.biz##.download-btn + .download-btn + *
 oujdacity.net,passion-net.fr##.ebuzzing_box
 tsa-algerie.com##.ekk-footer-ad-wrapper
 wp-infinity.com##.entry-featured
@@ -9247,7 +9247,6 @@ israelmagazine.co.il##a > img[width="238"]
 cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
-torrent9.biz##a[class][style]
 narutoshippudenvf.com##a[class][target="_blank"]
 free-telechargement.org,streaming-telechargementz.net,telechargementz-streaming.com,telechargementz-streaming.net,telecharger-ebook-gratuit.net##a[href$=".php"]
 thebadbuzz.com##a[href$="/boost.php"]
