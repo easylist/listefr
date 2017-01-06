@@ -22,6 +22,8 @@
 &ad_path=
 &ad_sub=
 &ad_tags=
+/infopop/infopop.$script
+/a.php?mode=*&pgid=$script
 &adclickthrough=
 &adclickurl=
 &AdFormat=
@@ -1198,6 +1200,8 @@ _werbebanner_
 /servePopunder.$popup
 /smart_ad/*$popup
 /t/?*&clickid=$popup
+/a.php?mode=*&pgid=$popup
+/a.php?*=infopop$script
 /traffic.*&click_id=$popup
 /trk/|$popup
 /unsub_aff.$popup
