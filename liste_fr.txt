@@ -1554,6 +1554,7 @@ _regie/clic.$popup
 ||arab-ads.com^$third-party
 ||arabytracking.com^$third-party
 ||archiustube.com^$third-party
+||bazardux.com^$third-party
 ||aservtrack.com^$third-party
 ||atdmt.com^$third-party
 ||atedra.com^$third-party
@@ -2712,6 +2713,7 @@ _regie/clic.$popup
 ||19950501.com^$popup,third-party
 ||25.115.187.96^$popup,third-party
 ||25.131.85.202^$popup,third-party
+||brucelead.com^$popup,third-party
 ||25.52.111.246^$popup,third-party
 ||37.187.248.215^$popup,third-party
 ||37.46.192.170^$popup,third-party
@@ -3193,6 +3195,7 @@ _regie/clic.$popup
 ||todigroup.com^$popup,third-party
 ||tonlive.com^$popup,third-party
 ||top2016games.com^$popup,third-party
+||wister.biz^$popup,third-party
 ||torriderencontre.com^$popup,third-party
 ||track-*.link^*utm_$popup,third-party
 ||track2cash.com^$popup,third-party
@@ -3401,7 +3404,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||barredesurf.com/includes/images/bannieres/
 ||baseturf.com/bannieres/
 ||batman.blogautomobile.fr^
-||bazardux.com/index.php?$third-party
 ||beaverscripts.com^$popup,third-party
 ||belle-salope.fr/ban/$third-party
 ||belledesfleurs.com/ban/$third-party
@@ -7166,6 +7168,7 @@ toutcash.com/images/bandeau-
 ##.bloc_rightcol_pub
 ##.block-cPublicite
 ##.block-gc-ad
+##A[href^="http://m.mobilerevenu.com/idw/"]
 ##.block-pub
 ##.block-pub-ban-btm
 ##.block-pub-ban-forum
@@ -7818,7 +7821,6 @@ installations-home-cinema.eu###Partenaire
 mypornmotion.com###Pub
 bfmtv.com###Tpromo
 mypornmotion.com###VideoPub300x250
-porn-tube-sexe.com,sexytout.com###\5f email_catcher
 commentcamarche.net###a0[style="background:#EFF2FB !important"]
 mappy.com###a300x600
 ecranlarge.com###aNePasManquer
@@ -7845,8 +7847,6 @@ telechargementgratuits.com###aff-france
 spi0n.com###aff_spion-7
 finalclap.com###aff_tuto_com
 dogzer.com###affichage_tag_58
-porn-tube-sexe.com###affidate_form_horiz
-porn-tube-sexe.com###affidate_form_img
 zikinf.com###album
 millenium.org###amazon_container
 soap-passion.com###annonce
@@ -9831,7 +9831,6 @@ femmesplus.fr##section[id] > img
 @@||photo.fr/img/ad_$image
 @@||planet-casio.com/images/ad/$image,~third-party
 @@||player.ooyala.com/static/*/stable/*/ad-plugin/google_ima.min.js|$script,domain=commentcamarche.net
-@@||porn-tube-sexe.com/ad.php?
 @@||programme-tv.net/widget-tv/programme-tv.html?$subdocument
 @@||quefaire.be/annonces/imgads/$image
 @@||reseauforum.org/*/modules/ad/serve.php?$domain=reseauforum.org
