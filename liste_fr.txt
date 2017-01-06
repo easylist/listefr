@@ -22,8 +22,6 @@
 &ad_path=
 &ad_sub=
 &ad_tags=
-/infopop/infopop.$script
-/a.php?mode=*&pgid=$script
 &adclickthrough=
 &adclickurl=
 &AdFormat=
@@ -209,6 +207,8 @@
 /_affiliate/hubtraffic/*
 /_ra_lib.php$script
 /a.ads.
+/a.php?*=infopop$script
+/a.php?mode=*&pgid=$script
 /a.php?t=*&pgid=*&rebill=
 /acad.$script
 /accrochePub300.
@@ -576,6 +576,7 @@
 /infopop-optimise-
 /infopop-optimise.
 /infopop/*.php?
+/infopop/infopop.$script
 /InjectPopunderAd.
 /inread_
 /inside_ad.
@@ -1114,6 +1115,7 @@ _werbebanner_
 .superpromo.$popup
 /*qertewrt.com$popup
 /__utm.gif$popup
+/a.php?mode=*&pgid=$popup
 /a4u_banner_.$popup
 /ad.*/aff_$popup
 /adcint/*$popup
@@ -1200,8 +1202,6 @@ _werbebanner_
 /servePopunder.$popup
 /smart_ad/*$popup
 /t/?*&clickid=$popup
-/a.php?mode=*&pgid=$popup
-/a.php?*=infopop$script
 /traffic.*&click_id=$popup
 /trk/|$popup
 /unsub_aff.$popup
@@ -1558,7 +1558,6 @@ _regie/clic.$popup
 ||arab-ads.com^$third-party
 ||arabytracking.com^$third-party
 ||archiustube.com^$third-party
-||bazardux.com^$third-party
 ||aservtrack.com^$third-party
 ||atdmt.com^$third-party
 ||atedra.com^$third-party
@@ -1584,6 +1583,7 @@ _regie/clic.$popup
 ||baseandco.com^$third-party
 ||bayard-pub.com^$third-party
 ||baypops.com^$third-party
+||bazardux.com^$third-party
 ||bccyyc.com^$third-party
 ||beaverscripts.com^$third-party
 ||beead.fr^$third-party
@@ -2717,7 +2717,6 @@ _regie/clic.$popup
 ||19950501.com^$popup,third-party
 ||25.115.187.96^$popup,third-party
 ||25.131.85.202^$popup,third-party
-||brucelead.com^$popup,third-party
 ||25.52.111.246^$popup,third-party
 ||37.187.248.215^$popup,third-party
 ||37.46.192.170^$popup,third-party
@@ -2844,6 +2843,7 @@ _regie/clic.$popup
 ||booksuper.info^$popup,third-party
 ||boruto.fr^$popup,third-party
 ||brostraffic.com^$popup,third-party
+||brucelead.com^$popup,third-party
 ||bstlnk.com^$popup,third-party
 ||buysellads.com^$popup,third-party
 ||buzzadexchange.com^$popup,third-party
@@ -3199,7 +3199,6 @@ _regie/clic.$popup
 ||todigroup.com^$popup,third-party
 ||tonlive.com^$popup,third-party
 ||top2016games.com^$popup,third-party
-||wister.biz^$popup,third-party
 ||torriderencontre.com^$popup,third-party
 ||track-*.link^*utm_$popup,third-party
 ||track2cash.com^$popup,third-party
@@ -3239,6 +3238,7 @@ _regie/clic.$popup
 ||webprod.cybertesteurs.com^$popup,third-party,domain=~iss.net
 ||wgpartner.com^$popup,third-party
 ||white-eyes.com^$popup,third-party
+||wister.biz^$popup,third-party
 ||word-my.com^$popup,third-party
 ||wordkeyhelper.com^$popup,third-party
 ||www.gangstabros.com^$popup,third-party
@@ -7172,7 +7172,6 @@ toutcash.com/images/bandeau-
 ##.bloc_rightcol_pub
 ##.block-cPublicite
 ##.block-gc-ad
-##A[href^="http://m.mobilerevenu.com/idw/"]
 ##.block-pub
 ##.block-pub-ban-btm
 ##.block-pub-ban-forum
@@ -7751,6 +7750,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://hits.epochstats.com/"]
 ##a[href^="http://lifeselector.com/game/listGames?"]
 ##a[href^="http://lp.ilividnewtab.com/"]
+##a[href^="http://m.mobilerevenu.com/idw/"]
 ##a[href^="http://mytogolinks.com/?"]
 ##a[href^="http://ouo.io/ref/"]
 ##a[href^="http://partner.global-espace.com/"]
