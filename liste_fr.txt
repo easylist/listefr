@@ -160,6 +160,7 @@
 .php?redirect_
 .popundersc.js
 .pub-ban-
+.pub.preroll/
 .pubdirecte.$domain=~pubdirecte.com
 .publicite.
 .showads.
@@ -3768,6 +3769,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||lprs1.fr^*/blocs-partenaires$third-party
 ||lrcdn.net^$domain=dailymotion.com
 ||lusttempel.net/banner/
+||m6web.fr^*_6play_pub_$media
 ||macside.fr^$domain=buzzdugrizzly.fr
 ||madamesimone.com/ban/$third-party
 ||magikmobile.com/iframe_$third-party
