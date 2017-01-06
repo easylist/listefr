@@ -1184,6 +1184,7 @@ _werbebanner_
 /popupclick/*$popup
 /popuplp/btag/*$popup
 /promos/popeachclick/*$popup
+/proxy.php?*/site_id/*$popup
 /pu2redirector.$popup
 /puopen.php?$popup
 /random.php$popup
@@ -2827,6 +2828,7 @@ _regie/clic.$popup
 ||ato.mx^$popup,third-party
 ||audify.io^$popup,third-party
 ||azerty.solutions^$popup,third-party
+||badoink.com^$popup,third-party
 ||baise-ce-soir.com^$popup,third-party
 ||bcvc.mobi^$popup,third-party
 ||beach-queen.net^$popup,third-party
@@ -2959,6 +2961,7 @@ _regie/clic.$popup
 ||getmyads*.com^$popup,third-party
 ||ggcorp.me^$popup,third-party
 ||globaloffers.link^$popup,third-party
+||gloupa.com^$popup,third-party
 ||go2me.tk^$popup,third-party
 ||goninjaspiel.com^$popup,third-party
 ||goo.gl^$image,domain=teramixer.com
@@ -4672,11 +4675,13 @@ toutcash.com/images/bandeau-
 ||alvinet.com/images/pub.gif
 ||amateur2sexe.fr/droibam/
 ||amateur2sexe.fr/droite/
+||amateur2sexe.fr/fooboom/
 ||amateur2sexe.fr/footers/
 ||amateur2sexe.fr/haubim/
 ||amateur2sexe.fr/haut/
+||amateur2sexe.fr/include/$script
 ||amateur2sexe.fr/static/haut/
-||amateur2sexe.fr^$script
+||amateur2sexe.fr^*/pub-
 ||amateurdesexe.com^*/zone_hard.gif
 ||android-dz.com/pub/
 ||android-dz.com/wp-content/uploads/*/habillage-
@@ -4737,7 +4742,6 @@ toutcash.com/images/bandeau-
 ||autotracer.org/cnc/?
 ||aviss.fr/wp-content/uploads/*/pubH.jpg
 ||awbarre.com/includes/rotateurs/
-||badoink.com^$popup
 ||banques-en-ligne.fr/img/hb-
 ||banques-en-ligne.fr^*/habillage.
 ||batiactu.com/cap_pub/
@@ -8047,6 +8051,7 @@ algeriepatriotique.com###flottante_gauche
 test-mobile.fr###fondhabillage
 search.ke.voila.fr###fontDivVignette
 forum.oujdacity.net###footer
+amateur2sexe.fr###footer-boom
 boursier.com###footer-partenaires
 liberation.fr###footer-partners-box
 lequipe.fr###footer_boutique
