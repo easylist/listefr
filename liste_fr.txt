@@ -1062,6 +1062,7 @@ _werbebanner_
 ||online^*/|$script,third-party,xmlhttprequest
 ||party^*/|$script,third-party,xmlhttprequest
 ||review^*/|$script,third-party,xmlhttprequest
+||science^*/|$script,third-party,xmlhttprequest
 ||site^*/|$script,third-party,xmlhttprequest
 ||space^*/|$script,third-party,xmlhttprequest
 ||stream^*/|$script,third-party,xmlhttprequest
@@ -1376,6 +1377,7 @@ _regie/clic.$popup
 ||ad.activaweb.fr^$third-party
 ||ad2perf.com^$third-party
 ||ad2prm.com^$third-party
+||ad2upapp.com^$third-party
 ||ad380.com^$third-party
 ||ad4you.org^$third-party
 ||ad6.fr^$third-party,domain=~ad6media.fr
