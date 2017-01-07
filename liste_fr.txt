@@ -3471,7 +3471,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||block.s*vesta.com^$script
 ||blogspot.com/*.gif$domain=mega-telechargement.com
 ||bon-reduc.com/pub/
-||bontent.powvideo.net^
 ||bookiblog.com/iframe*.
 ||booking.com/static/img/*_banners_
 ||boonex.com/modules/Txt/layout/default/img/txt-abt-file
@@ -3960,9 +3959,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||pourlesmajeurs.com^
 ||powerpress.fr/services/$third-party
 ||powersante.com^*_products.php?partner=
-||powvideo.*/js/jquery.pu*.js
-||powvideo.*/js/pu3/
-||powvideo.xyz/bon/
 ||premiumpress.com/banner/
 ||priceminister.com^*/referral_widget.swf$third-party
 ||priceminister.com^*/seller_shop.$domain=legrenier.roumieux.com|strasbourg-tramway.fr
@@ -6294,6 +6290,15 @@ toutcash.com/images/bandeau-
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
+! powvideo.net
+@@/js/ads.js$script,~third-party,domain=powvideo.net|powvideo.xyz
+@@||code.jquery.com/ui/*/jquery-ui.min.js$script,domain=powvideo.net
+@@||codeorigin.jquery.com/ui/*/jquery-ui.min.js$domain=powvideo.net
+@@||powvideo.net/js/pu3/pu2.min.js?$script,domain=powvideo.net
+@@||powvideo.net^$generichide
+||bontent.powvideo.net^
+||powvideo.*/js/jquery.pu*.js
+||powvideo.net^$popup,~third-party
 ! amazonaws.com
 ||amazonaws.com^$domain=1host.name|allvid.ch|american-dad-streaming.com|anime-hunter.com|anime-sama.com|animefr.net|anyanime.com|arabseed.com|auratorrent.pl|auroravid.to|bdupload.info|bitvid.sx|brain-magazine.fr|cinemay.com|cloudtime.to|club-anime.fr|daclips.in|dailymotion.com|dailyuploads.net|ddl-island.su|dpfilms.net|dpseries.net|dpstream.net|dpstreaming.watch|dragonball-z.net|embedscr.com|embedscr.to|emule-island.ru|enstreaming.eu|enstreaming.tv|exashare.com|eztv-proxy.net|eztv.ag|eztv.ch|eztv.it|eztv.tf|eztv.yt|fas.li|filecrypt.cc|filesupload.org|film-en-stream.biz|film-streaming.co|film-streamingvk.com|film-streamiz.net|filmcomplet.tv|filmstreaming1.com|filmstreamvf.cc|filmstreamvk.net|filmvf.ws|filmzenstream.com|full-film.me|full-serie.com|full-stream.biz|full-stream.is|full-stream.la|full-stream.nu|full-stream.su|full-streaming.co|full-streamingvf.com|fullsharez.com|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hdfilm-streaming.com|hdmovie2k.co|hinata-online-community.fr|hulkload.com|ianime.tv|istreamin.com|k-streaming.com|kmotion.fr|kvcdn.cf|kvid.org|kykstreaming.net|kykvideo.net|la-space.ch|le-streaming.com|letwatch.to|letwatch.us|libertyland.co|libre-stream.com|mamzouka.com|manga-fr.com|mangas-anime.com|mangas-vostfr.com|maquillage.com|memoireetvie.com|movpod.in|mystream.la|neko-san.fr|officiel-streamingfr.over-blog.com|openload.info|otakufr.com|papyfullstream.com|papystreaming-film.com|papystreaming.net|papystreaming.org|pausefun.com|pausepeople.com|planet-streaming.com|planete-series.info|quedustream.com|replay-streaming.com|revclouds.com|serie-streaming-vf.net|serie-streaming.tv|series-en-streaming.tv|shink.in|sky-animes.com|sokrostream.biz|solidfiles.com|speedvid.net|stream-island.ru|stream-island.su|stream-watch.co|streamay.bz|streamay.com|streambox.club|streamcomplet.com|streamdown.co|streamingpl.com|streamiz-films.com|sznpaste.net|the-big-bang-theory-streaming.net|the-walking-dead-stream.biz|the-walking-dead-stream.net|thewatchseries.to|toofy.tv|trollvid.net|tvlogy.to|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vfilmze.com|vidgg.to|vidshare.me|vidshare.us|vkstreamingfilm.biz|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org|youwatchfilm.net|zone-telechargement.eu|zone-telechargement.tv|zone-telechargement.ws
 ! cloudfront.net
