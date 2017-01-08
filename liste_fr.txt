@@ -8718,7 +8718,6 @@ canoe.ca##.boxPool
 days-media.fr##.boxed[style^="width:300px; height:250px"]
 telerama.fr##.boxpub
 lepoint.fr##.branding
-torrent9.biz##.btn-danger[href^="http://"]
 wawacity.su##.btn-warning
 gamergen.com,generation-nt.com##.bup
 terrafemina.com##.c-product
@@ -9327,10 +9326,11 @@ free-telechargement.org,streaming-telechargementz.net,telechargementz-streaming.
 thebadbuzz.com##a[href$="/boost.php"]
 sites-torrent.com##a[href$="/seedbox"]
 opensubtitles.org##a[href$="=="][rel="nofollow"]
+torrent9.biz##a[href*=" "]
 sante-nutrition.org##a[href*="&pos="]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
-omgtorrent.me##a[href*="+"]
+omgtorrent.me,torrent9.biz##a[href*="+"]
 films-telecharger.eu,vfstream.biz##a[href*=".php"]
 planete-series.info##a[href*=".php"] > img
 jeddl.net##a[href*=".php?"]
