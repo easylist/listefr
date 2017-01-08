@@ -1325,6 +1325,7 @@ _regie/clic.$popup
 ||1yqbp.com^$third-party
 ||2mdn.net^$object-subrequest,domain=dhnet.be|lalibre.be
 ||2town.net^$third-party
+||332-d.com^$third-party
 ||35hn7f37.faith^$third-party
 ||37.46.192.170^$third-party
 ||380tl.com^$third-party
@@ -1399,6 +1400,10 @@ _regie/clic.$popup
 ||adexchangecloud.com^$third-party
 ||adexp.net^$third-party
 ||adfever.com^$third-party
+||adg99.com^$third-party
+||adgoi-1.net^$third-party
+||adgoi.com^$third-party
+||adgoi.mobi^$third-party
 ||adhispanic.com^$third-party
 ||adhit.me^$third-party
 ||adhoc1.net^$third-party
@@ -2530,13 +2535,16 @@ _regie/clic.$popup
 ||zert.ovh^$third-party
 ! popads.net
 ||bsupflnjmuzn.com^$third-party
+||duvyjbofwfqh.com^$third-party
 ||easnviytengk.com^$third-party
 ||fdogfuqpgeub.com^$third-party
 ||ndemlviibdyc.com^$third-party
+||oiffrtkdgoef.com^$third-party
 ||pjnrwznmzguc.com^$third-party
 ||tfbzzigqzbax.com^$third-party
 ||wcoloqvrhhcf.com^$third-party
 ||xqopbyfjdqfs.com^$third-party
+||xtqfguvsmroo.com^$third-party
 ||xxwpminhccoq.com^$third-party
 ! admeasures.com
 ||6rvewc.top^$third-party
@@ -4565,6 +4573,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |http://$popup,script,third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
+! 9xlinks.net
+@@||ajax.googleapis.com/ajax/libs/$script,domain=9xlinks.net
+|http://$script,third-party,domain=9xlinks.net
+|https://$script,third-party,domain=9xlinks.net
 ! viid.me
 |http://$subdocument,third-party,domain=viid.me
 |https://$subdocument,third-party,domain=viid.me
@@ -6327,6 +6339,7 @@ toutcash.com/images/bandeau-
 ||d1sj3yrs7ojvv7.cloudfront.net^
 ||d1uydqzj7b9nt9.cloudfront.net^
 ||d1vguuq5efvsfq.cloudfront.net^
+||d1vp02a2w2d335.cloudfront.net^
 ||d1vwpe7grtcv9d.cloudfront.net^
 ||d1zwpjtdh4bi8u.cloudfront.net^
 ||d20ct0j8bz6fs5.cloudfront.net^
