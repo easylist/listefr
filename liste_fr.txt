@@ -44,6 +44,7 @@
 &popundersPerIP=
 &promo=*_mpu_
 &promo_alignment=
+&promo_sizes=
 &promo_sizes=970x90,
 &pub_redirect=
 &pubsite=
@@ -474,6 +475,7 @@
 /cd_pop_dhtml-
 /cd_pop_dhtml/*
 /cdn-ads-
+/cdn/affiliates/*
 /cdn/banners/*
 /cgi-bin/affiliates/*
 /choixPubJS.
@@ -2333,6 +2335,7 @@ _regie/clic.$popup
 ||streamvo.com^$third-party
 ||sublimemedia.fr^$third-party
 ||sublimeskinz.com^$third-party
+||submitsupport.com^$third-party
 ||sunrisema.link^$third-party
 ||supaads.com^$third-party
 ||superadsoffers.com^$third-party
@@ -2749,6 +2752,7 @@ _regie/clic.$popup
 ||130.211.$popup,third-party
 ||188.165.253.6^$popup,third-party
 ||19950501.com^$popup,third-party
+||23a.co^$popup,third-party
 ||25.115.187.96^$popup,third-party
 ||25.131.85.202^$popup,third-party
 ||25.52.111.246^$popup,third-party
@@ -7060,6 +7064,7 @@ toutcash.com/images/bandeau-
 ##.ad-unit-after-title
 ##.ad-visible
 ##.ad160b
+##.ad300d
 ##.ad336b
 ##.ad46860
 ##.ad728b
@@ -7802,6 +7807,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://adv-mypirate."]
 ##a[href^="http://affiliate.flipkart.com/"]
 ##a[href^="http://affiliates.lifeselector.com/"]
+##a[href^="http://afflight.postaffiliatepro.com/"]
 ##a[href^="http://always-parser.xyz/"]
 ##a[href^="http://c.tnkexchange.com/"]
 ##a[href^="http://centredecontrole.biz/ads/"]
