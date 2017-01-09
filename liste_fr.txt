@@ -9758,6 +9758,7 @@ macg.co##article > a[-abp-properties='*'] > img
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 ||xiti.com^$domain=lachainemeteo.com
 !
+medisite.fr###block-gc-ad-bloc-centre-1 + * img
 planet.fr###block-sp-node-sp-node-videos-home + [class]
 planet.fr###block-sp-node-sp-node-videos-home + span > img
 planet.fr###block-system-main + * img
@@ -9771,6 +9772,7 @@ medisite.fr###block-system-main > div > img
 femmesplus.fr###columns div > span > img
 planet.fr###content > div > img
 medisite.fr###main-content-header > [id^="logo_"]
+medisite.fr###navigation-content + * > * > img
 medisite.fr###page > div > img
 igen.fr,macg.co,watchgeneration.fr##.bloc-accroches + h2 + br + [class]
 igen.fr,macg.co,watchgeneration.fr##.bloc-accroches + h2 + br + [id]
