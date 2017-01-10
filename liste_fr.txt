@@ -1573,6 +1573,7 @@ _regie/clic.$popup
 ||annoncesante.ma^$third-party
 ||annoncessante.ma^$third-party
 ||anymad.com^$third-party
+||anytrx.com^$third-party
 ||apploading.mobi^$third-party
 ||appsfire.com^$third-party
 ||ar-ads.com^$third-party
@@ -1682,6 +1683,7 @@ _regie/clic.$popup
 ||clic-diffusion.com^$third-party
 ||clic.ws^$third-party
 ||click-fr.com^$third-party
+||clickenabler.com^$third-party
 ||clickmena.com^$third-party
 ||clickpartoffon.xyz^$third-party
 ||clicmanager.fr^$third-party
@@ -2373,6 +2375,7 @@ _regie/clic.$popup
 ||tiz-et.ru^$third-party
 ||tmcregie.fr^$third-party
 ||tmstrack.com^$third-party
+||tnkexchange.com^$third-party
 ||tnx.net^$third-party
 ||to0xy090.website^$third-party
 ||todaypk.online^$third-party
@@ -2544,8 +2547,14 @@ _regie/clic.$popup
 ||viperishly.com^$third-party
 ||zert.ovh^$third-party
 ! popads.net
+||byqmzodcdhhu.com^$third-party
+||fzsiwzxnqadb.com^$third-party
 ||gazogsjsoxty.com^$third-party
 ||odsljzffiixm.com^$third-party
+||rklluqchluxg.com^$third-party
+||rpulxcwmnuxi.com^$third-party
+||seiqobwpbofg.com^$third-party
+||vnyginzinvmq.com^$third-party
 ||xqhgisklvxrh.com^$third-party
 ! admeasures.com
 ||6rvewc.top^$third-party
@@ -2993,6 +3002,7 @@ _regie/clic.$popup
 ||gernu.info^$popup,third-party
 ||gerwen.info^$popup,third-party
 ||gestionpub.com^$popup,third-party
+||get-my-ads.com^$popup,third-party
 ||getfile136.com^$popup,third-party
 ||getgamers.eu^$popup,third-party
 ||gethide.com^$popup,third-party
@@ -3152,6 +3162,7 @@ _regie/clic.$popup
 ||pornravage.com^$popup,third-party
 ||pornstreet.com^$popup,third-party
 ||possini.eu^$popup,third-party
+||postaffiliatepro.com^$popup,third-party
 ||pourmajeurs.com^$popup,third-party
 ||predictivadnetwork.com^$popup,third-party
 ||predictivadvertising.com^$popup,third-party
@@ -3429,6 +3440,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||annuaire-generaliste.fr/affiche_logo.php?
 ||annuaire-transsexuelle.com/annuaire/ban/$third-party
 ||annuaire-web-france.com/partenaires/
+||anogaming.fr/*.php
 ||aolcdn.com/ads/
 ||api.wamland.com^
 ||appleboobs.com/images/banner/
@@ -3678,7 +3690,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||gearbest.com^*?utm_$popup,third-party
 ||generation-nt.com/img/ovh/
 ||gerardmerinfo.fr/pub/
-||get-my-ads.com^$popup
 ||ggc.ninja^$subdocument
 ||gifsauce.com/widgets?
 ||gigaflat.com/affiliate/$third-party
@@ -4471,7 +4482,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 |http://$script,third-party,xmlhttprequest,domain=ddstream.com|dpstream.to|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
 |https://$script,third-party,xmlhttprequest,domain=ddstream.com|dpstream.to|streaming-films-hd.com|streaming-films.tv|streaming-series.to|streaming-series.xyz|youwatch-series.com
 ! greys-anatomy-en-streaming.fr
-@@||ajax.googleapis.com/ajax/libs/$script,domain=greys-anatomy-en-streaming.fr
 |http://$script,third-party,domain=greys-anatomy-en-streaming.fr
 |https://$script,third-party,domain=greys-anatomy-en-streaming.fr
 ! vfstream.biz
@@ -5231,6 +5241,7 @@ toutcash.com/images/bandeau-
 ||gratuit-xxx.com/images/boost/
 ||gratuit-xxx.com^*/boost_*.js
 ||grazia.fr/popin-
+||greys-anatomy-en-streaming.fr/pub/
 ||grimper.com/media/habillage/
 ||groupolitan.be/fr/partners/iframe/
 ||guardiana.net/img/boutons/
@@ -8234,7 +8245,6 @@ marketing-professionnel.fr###leader-wrapper
 zdnet.fr###leaderBottom
 zdnet.fr###leaderTop
 bloggif.com,play3-live.com,topquizz.fr###leaderboard
-greys-anatomy-en-streaming.fr###lecteur_partage
 rugbyfederal.com###left_sky
 parolesmania.com###leftcolumn2 > .thinbox div[style="height: 600px;"]
 libertyland.co###leleftbas + div[style="width:160px; margin-top:10px;"]
@@ -10067,7 +10077,7 @@ _adblockdetector/
 @@.png#$image,domain=bbstreaming.com|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
-@@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|greys-anatomy-en-streaming.fr|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
+@@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
 @@/advertisement.js$script,~third-party,domain=crash-aerien.aero|crash-aerien.news|e-wok.tv|quoverbis.com
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|silicon.fr
 @@||1max2sms.com/blogads.css
