@@ -5750,7 +5750,7 @@ toutcash.com/images/bandeau-
 ||ohmydollz.com/pub2012/
 ||okpay.com/img/a/
 ||omg.esprit-click.com^
-||omgtorrent.me/assets/pubs.js
+||omgtorrent.me/assets/js/pubs.js
 ||on-veut-du-cul.com/img/pub/
 ||on-veut-du-cul.com^*/partenaire/
 ||one-piece-streaming.fr/images/min/pub/
@@ -8260,6 +8260,7 @@ laprovence.com###lig_laprovence_smartbox
 degroupnews.com###link_pub
 journaldugeek.com###linkhabillage
 ouedkniss.com###list-last-stores
+omgtorrent.me###liste-des-fichiers
 millenium.org###logo_droite
 centreimmo.com###logos-partenaires
 laposte.net###lpn_pub_main
@@ -8481,6 +8482,7 @@ brain-magazine.fr###t_logo_pub
 dinogaia.com###tableau_info
 google.fr###tadsb
 nautiljon.com###tdpromo
+omgtorrent.me###telechargement
 mon-compte.org###text-8
 psthc.fr###thc_amz_content
 phpsources.org###titre_librairie
@@ -9229,9 +9231,6 @@ msn.com##.stripecontainer[data-section-id="stripe.msstore"]
 imobie.fr##.support_guide_download_upper
 forum.sportytrader.com##.tableau_bleu
 walfoot.be##.take-banner
-omgtorrent.me##.telechargement
-omgtorrent.me##.telechargement + .fiche-infos
-omgtorrent.me##.telechargement + .fiche-infos + .fiche-infos
 turbo.fr##.textPub
 asso-web.com##.text_pub
 wakanim.tv##.theoplayer-error
@@ -9247,6 +9246,7 @@ get-your-rom.com##.topSectionContainer
 lnc.nc,softonic.fr,undernews.fr##.topbanner
 allocine.fr##.topheader
 fan-de-cinema.com##.topmargin
+omgtorrent.me##.torrent-usenet
 t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##.torrentDetails + .block + [class]
 t411.ch,t411.li,t411.lt,t411.lv##.torrentDetails + script + .block + [class]
 t411.ch,t411.li,t411.lt,t411.lv##.torrentDetails > [class] + [style]
