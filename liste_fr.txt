@@ -6347,6 +6347,7 @@ toutcash.com/images/bandeau-
 @@||www.nextinpact.com/bundles/accueil?v=$script,domain=nextinpact.com
 @@||www.nextinpact.com/bundles/globalSite?v=$script,domain=nextinpact.com
 @@||www.nextinpact.com/bundles/unitArticle?v=$script,domain=nextinpact.com
+@@||www.nextinpact.com/Commentaire/Show?id=*&page=$xmlhttprequest,domain=nextinpact.com
 @@||www.nextinpact.com/Commentaire/Show|$xmlhttprequest,domain=nextinpact.com
 @@||www.nextinpact.com/ReadApi/GetAffList|$xmlhttprequest,domain=nextinpact.com
 ||nextinpact.com^$script,xmlhttprequest
