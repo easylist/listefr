@@ -6337,19 +6337,15 @@ toutcash.com/images/bandeau-
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
 ! nextinpact.com
-@@||m.nextinpact.com/Account/LogOn$xmlhttprequest,domain=m.nextinpact.com
-@@||m.nextinpact.com/comment/|$xmlhttprequest,domain=m.nextinpact.com
-@@||m.nextinpact.com/increment-view|$xmlhttprequest,domain=m.nextinpact.com
-@@||m.nextinpact.com/js/all?v=$script,domain=m.nextinpact.com
-@@||m.nextinpact.com/js/jq?v=$script,domain=m.nextinpact.com
-@@||m.nextinpact.com/news/*.htm|$xmlhttprequest,domain=m.nextinpact.com
-@@||www.nextinpact.com/Account/Login$xmlhttprequest,domain=nextinpact.com
-@@||www.nextinpact.com/bundles/accueil?v=$script,domain=nextinpact.com
-@@||www.nextinpact.com/bundles/globalSite?v=$script,domain=nextinpact.com
-@@||www.nextinpact.com/bundles/unitArticle?v=$script,domain=nextinpact.com
-@@||www.nextinpact.com/Commentaire/Show?id=*&page=$xmlhttprequest,domain=nextinpact.com
-@@||www.nextinpact.com/Commentaire/Show|$xmlhttprequest,domain=nextinpact.com
-@@||www.nextinpact.com/ReadApi/GetAffList|$xmlhttprequest,domain=nextinpact.com
+@@||m.nextinpact.com/comment/$xmlhttprequest,domain=nextinpact.com
+@@||m.nextinpact.com/increment-view|$xmlhttprequest,domain=nextinpact.com
+@@||m.nextinpact.com/js/$script,domain=nextinpact.com
+@@||m.nextinpact.com/news/$xmlhttprequest,domain=nextinpact.com
+@@||nextinpact.com/Account/$xmlhttprequest,domain=nextinpact.com
+@@||www.nextinpact.com/AlerteActu/$xmlhttprequest,domain=nextinpact.com
+@@||www.nextinpact.com/bundles/$script,domain=nextinpact.com
+@@||www.nextinpact.com/Commentaire/$xmlhttprequest,domain=nextinpact.com
+@@||www.nextinpact.com/ReadApi/$xmlhttprequest,domain=nextinpact.com
 ||nextinpact.com^$script,xmlhttprequest
 ! powvideo.net
 @@/js/ads.js$script,~third-party,domain=powvideo.net|powvideo.xyz
