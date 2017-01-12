@@ -542,6 +542,7 @@
 /fillerAds/*
 /fod_ad_
 /fond_pub_
+/makeBanner.js
 /footerPartnerOffers.
 /fr-ads.
 /fra/ads/*
@@ -2790,6 +2791,7 @@ _regie/clic.$popup
 ||46.101.139.152^$popup,third-party
 ||52.51.50.245^$popup,third-party
 ||5b15a826.xyz^$popup,third-party
+||esprit-click.com^$popup,third-party
 ||6187817.com^$popup,third-party
 ||62.212.73.45^$popup,third-party
 ||77978.みんな^$popup,third-party
@@ -2836,6 +2838,7 @@ _regie/clic.$popup
 ||ads-in-games.com^$popup,third-party
 ||ads2rtb.com^$popup,third-party
 ||adsawesome.com^$popup,third-party
+||sexyfreecamz.com^$popup,third-party
 ||adschemist.com^$popup,third-party
 ||adschoom.com^$popup,third-party
 ||adserverpub.com^$popup,third-party
@@ -5102,7 +5105,6 @@ toutcash.com/images/bandeau-
 ||esoxiste.com/wp-content/images/*.gif
 ||esoxiste.com/wp-content/images/pub-
 ||espaceagro.com/frasp/
-||esprit-click.com/click.$popup
 ||espritlib.com/banniere/
 ||estrepublicain.fr/fr/ajaxappli/emploi.html?
 ||estrepublicain.fr/images/pub/
@@ -5789,6 +5791,8 @@ toutcash.com/images/bandeau-
 ||ouifm.fr^*/images/partners/
 ||oujdacity.net/kelkoo*.html
 ||outils-web.com/frm_menu_
+||seriehentai.com^$script
+||seriehentai.com^$popup,~third-party
 ||ovnis-direct.com/_media/img/medium/*banner-
 ||pafpaf.com/pubs/
 ||pafpaf.com/pubs/$popup
@@ -9777,6 +9781,7 @@ igen.fr,macg.co##[-abp-properties='background-image: url(*;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='content:*;']
 femmesplus.fr,medisite.fr,planet.fr##[-abp-properties='cursor: pointer;']
 gaytube.com,nextinpact.com,pornhub.com,redtube.com,senscritique.com,tube8.com,tube8.es,tube8.fr,xtube.com,youjizz.com,youporn.com,youporngay.com##[-abp-properties='data:']
+seriehentai.com##[-abp-properties='data:']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 nextinpact.com##[-abp-properties='height: 250px;']
 igen.fr##[-abp-properties='height: 61*px;']
@@ -10212,7 +10217,6 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||papystreaming-film.com^$generichide
 @@||partage-facile.com^$generichide
 @@||rapidebrideur.com^$elemhide
-@@||seriehentai.com^$elemhide
 @@||shink.in^$generichide
 @@||softmaroc.org^$generichide
 @@||sos-lettre.fr^$generichide
