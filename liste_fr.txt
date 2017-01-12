@@ -2062,6 +2062,7 @@ _regie/clic.$popup
 ||moxielinks.com^$third-party
 ||mozoo.com^$third-party
 ||mp-https.info^$third-party
+||mpixeli.com^$third-party
 ||mrmserve.com^$third-party
 ||multilinkhost.com^$third-party
 ||mumbai-invest.email^$third-party
@@ -2147,6 +2148,7 @@ _regie/clic.$popup
 ||orangepublicite.fr^$third-party
 ||ouaitupeuxregarderenillimite.com^$third-party
 ||ouo.io^$third-party
+||ourinstance.info^$third-party
 ||overlays.next-targeting.com^$third-party
 ||ovnet.fr^$third-party
 ||ovnet.net^$third-party
@@ -3148,6 +3150,7 @@ _regie/clic.$popup
 ||optmz.online^$popup,third-party
 ||othip.info^$popup,third-party
 ||ouaitupeuxregarderenillimite.com^$popup,third-party
+||ourinstance.info^$popup,third-party
 ||parserord.info^$popup,third-party
 ||parsersword.info^$popup,third-party
 ||parserward.info^$popup,third-party
@@ -4592,6 +4595,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ! webchoc.com
 |http://$script,domain=sexefelin.com|tubixe.com|vidsexe.com|webchoc.com
 |https://$script,domain=sexefelin.com|tubixe.com|vidsexe.com|webchoc.com
+! speedvid.net
+|http://$script,subdocument,third-party,xmlhttprequest,domain=speedvid.net
+|https://$script,subdocument,third-party,xmlhttprequest,domain=speedvid.net
 ! 4nowvideo.com
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
@@ -6438,6 +6444,7 @@ toutcash.com/images/bandeau-
 ||d3oyytf0n6db9a.cloudfront.net^
 ||d3pphfzjkpjgfn.cloudfront.net^
 ||d3rmeear8e0ybo.cloudfront.net^
+||d3tivku5hdr7jk.cloudfront.net^
 ||d42tbok7l2bg1.cloudfront.net^
 ||d5z42oph1suk.cloudfront.net^
 ||d7gqsdo66itj3.cloudfront.net^
@@ -6457,11 +6464,13 @@ toutcash.com/images/bandeau-
 ||dm8ojo46iwxm2.cloudfront.net^
 ||dnyjp3iys0r8o.cloudfront.net^
 ||dohs95d6tfj19.cloudfront.net^
+||dp8hsntg6do36.cloudfront.net^
 ||dpiw925yvtpfq.cloudfront.net^
 ||dqhu0lvuvqh74.cloudfront.net^
 ||dqy6k7wqsbont.cloudfront.net^
 ||dr3k6qonw2kee.cloudfront.net^
 ||dviixeyykyqjv.cloudfront.net^
+||dwq4do82y8xi7.cloudfront.net^
 ||dylasklmlxige.cloudfront.net^
 ||dymwsh1c2kslr.cloudfront.net^
 ||dzbx8qv1at614.cloudfront.net^
@@ -9360,6 +9369,7 @@ msn.com##[class^="stripecontaine"][data-section-id="stripe.store"]
 jeu.fr##[data-fallback-type="image"]
 meteofrance.com##[href*=".xiti.com"] > img
 booska-p.com##[href^="http://www.booska-p.com/re/"]
+speedvid.net##[id][style*="z-index:"]
 turbo.fr##[id^="ABbypass"]
 footnamurois.com##[id^="banners-"]
 egora.fr##[id^="block-gmsante_pub-"]
@@ -9441,7 +9451,6 @@ lucariostream.eu##a[href*="univers-saiyan.com/"]
 yts.ag##a[href*="vpn"]
 dpstream.to,quedustream.com,streaming-series.to##a[href*="xmediaserve"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
-speedvid.net##a[href="#"][onclick]
 lemonde.fr##a[href="#panneau-programme-emploi"]
 corobizar.com##a[href="/g2a-link/"]
 macg.co##a[href="/macg-skross"]
@@ -9582,7 +9591,8 @@ aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
 t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##a[onclick*="base64"]
 lien-torrent.com##a[onclick*="directlinks"]
-wawacity.su##a[onclick]
+speedvid.net,wawacity.su##a[onclick]
+speedvid.net##a[onclick][style]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
@@ -10004,7 +10014,6 @@ femmesplus.fr##section[id] > img
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 @@||wifeo.com/ads/promo/advertise-publicite.gif$image,domain=wifeo.com
 @@||www.bouyguestelecom.fr^*/catalog/product/cache/*/image/300x600/$image,~third-party
-@@||www.speedvid.net/dl?op=download_orig&id=$popup,domain=speedvid.net
 @@||yospace.com/crossdomain.xml$object-subrequest,third-party,domain=bfmtv.com
 @@||zatnawqy.net/intermission/loadTargetUrl?$~third-party,xmlhttprequest
 ! iRaiser.eu
