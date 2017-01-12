@@ -3387,8 +3387,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||abc-webmasters.net/images_annuaire_gratuit/$third-party
 ||abcdelaremuneration.com/banniere.gif
 ||abcdelaremuneration.com/bouton.gif
-||acceptable.jeuxvideo.com^
-||acceptable.purepeople.com^
 ||achatventepagefan.com/images/AVPF_
 ||achatventepagefan.com^*/banachat*.gif$third-party
 ||achetezfacile.com^*/widget.$third-party
@@ -4350,6 +4348,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ! Webediads revolving adservers
 ||a-staticwebedia.com^$third-party
 ||accelerat.xyz^$third-party
+||acceptable.jeuxvideo.com^
+||acceptable.purepeople.com^
 ||accusto.top^$third-party
 ||annexere.top^$third-party
 ||appeng.website^$third-party
