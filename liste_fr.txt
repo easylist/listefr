@@ -687,6 +687,7 @@
 /promo/*/display.
 /promo/bannieres/*
 /promo/gif_banners/*
+/promo/livewebcam/*&id_affilie=
 /proxy_eds.php?
 /proxy_iframe.php?url=
 /ptp/banners/*
@@ -6301,14 +6302,18 @@ toutcash.com/images/bandeau-
 ||windmag.com/media/habillage/
 ||winds-up.com/images/pub/
 ||worldissmall.fr/*/uploads/partenaires/
+||www.xstory-fr.com^$script
 ||xavbox.com/ban/
 ||xboards.org/static/sponsors/
 ||xboxunlimited.fr/images/testaxl.jpg
 ||xlporn.fr/getpub?
 ||xstarsnews.com/admin/gestion_bann/banniere.
 ||xstarsnews.com/banner-pub/
+||xstory-fr.com/*.mergedscripts.js
 ||xstory-fr.com/ban/
 ||xstory-fr.com/images/coup-de-coeur/
+||xstory-fr.com/js/promo_livewebcam.js
+||xstory-fr.com/promo/
 ||yahoo.fr/wp-content/*/habillage/
 ||yanik.com/pubcitibar.jpg
 ||yeswefoot.com/annuaire.gif
@@ -10099,7 +10104,6 @@ _adblockdetector/
 @@||ads.stickyadstv.com/www/delivery/swfIndex.php?$xmlhttprequest,domain=wakanim.tv
 @@||audipassion.com^*/jsLoader.js?adType=foobar
 @@||badibadou.eu/*.js?auto=$script,third-party
-@@||bizhentai.com/*.js|$script,third-party
 @@||c.ad6media.fr/l.js$domain=eternitygames.org|fan-de-cinema.com|fit.sh|programmes-cinema.com
 @@||cdscdn.com/Js/advertise.js$script
 @@||cpagrip.com/script_include.php?
