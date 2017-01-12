@@ -4641,6 +4641,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||hostpic.org^$domain=fdesouche.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
+||i.imgur.com/PRdyOv3.gif
 ||i.imgur.com/qC2Tc51.png
 ||i.imgur.com/SmRC1lO.png
 ||i.imgur.com^$domain=nintendo-master.com|protect-stream.com
@@ -5029,6 +5030,7 @@ toutcash.com/images/bandeau-
 ||doctissimo.fr/event-block/
 ||doctissimo.fr/product/
 ||docvelo.com^*/kamvban.gif
+||dojinshi.biz/wp-content/uploads/*.gif
 ||domimmo.com/assets/img/app/di/financement/
 ||douniamusic.com/images/chat.jpg
 ||douniamusic.com/images/dzsoog.gif
@@ -5805,6 +5807,7 @@ toutcash.com/images/bandeau-
 ||passeportsante.net^*/controls/pub/
 ||pc-overware.be/index/images/banners/
 ||peimg.fr/images/partenaire-pubeco/
+||pervify.com/*/sponsors/
 ||petit-bulletin.fr^*/habillage
 ||petite-annonce-gratuite.com/encarts/bannieres/
 ||petitfute.com/img/partenaire/
@@ -5818,6 +5821,8 @@ toutcash.com/images/bandeau-
 ||pixiz.com/img/pub_
 ||pizzahut.fr/img/habillage_site.jpg
 ||plageporno.com/pex/exitp.js
+||plan-sex.net/wp-content/themes/$script
+||plan-sex.net^$popup,~third-party
 ||plancul-gratuit.fr^$popup,~third-party
 ||plancul-gratuit.fr^*/disclamer.js
 ||plancul-gratuit.fr^*/popupPerso/
