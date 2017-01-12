@@ -6231,6 +6231,7 @@ toutcash.com/images/bandeau-
 ||ventsdouest.com/images/skins/
 ||viacredit.net/pub/
 ||viamichelin.com/img/ihm/carRent/
+||viamichelin.fr/*/img/partners/
 ||video-2-cul.com/javascript/functions.js
 ||videos-de-celebrites.com/pub/
 ||vidule.com^*/u.js
@@ -6617,6 +6618,12 @@ toutcash.com/images/bandeau-
 ###advert-title
 ###advert01
 ###advert02
+###advertising_1
+###advertising_2
+###advertising_300_under
+###advertising_300x105
+###advertising_320
+###advertising_728_under
 ###advideum
 ###advncdads-1
 ###advncdads-2
@@ -7031,6 +7038,7 @@ toutcash.com/images/bandeau-
 ###reklam_mgid
 ###reklamarkaplan
 ###rightpubbox
+###roadsheet-advertising
 ###roundPub
 ###sbPubRegie
 ###shopper-widget-wrapper
@@ -8233,7 +8241,7 @@ confidentielles.com###hunt
 algerianmag.com,avis-express.com###icegram_messages_container
 viamichelin.be###idAFSRoadsheetTop
 viamichelin.be###idAdvertPubLeMonde
-viamichelin.com,viamichelin.fr###idHeaderGDH
+viamichelin.com###idHeaderGDH
 viamichelin.be###idTopAdvertCol2
 01net.com###ig-code-promo-widget
 agevillage.com###image_partenaire
@@ -8590,7 +8598,7 @@ reverso.net##.adcontent
 gmx.fr,lebonguide.com##.add
 vinyculture.com##.addLink
 lejsl.com##.addPic
-actustar.com,aujourdhui-en-france.fr,boursier.com,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,freefoot.fr,hentaihaven.org,hostinger.fr,htmlforums.com,internetparsatellite.net,jeune-independant.net,ldlc.com,leparisien.fr,lephpfacile.com,lequipe.fr,nolyo-tv.com,obturations.com,oujdacity.net,over-blog.com,porn0sexe.com,raje.fr,replay.fr,scan-mx.com,sortiesdvd.com,stars-portraits.com,streaming-video3x.com,televiseurs.net,tonmanga.com,universalis.fr,uzinagaz.com,webstar-auto.com,webstar-electro.com##.ads
+actustar.com,aujourdhui-en-france.fr,boursier.com,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,freefoot.fr,hentaihaven.org,hostinger.fr,htmlforums.com,internetparsatellite.net,jeune-independant.net,ldlc.com,leparisien.fr,lephpfacile.com,lequipe.fr,nolyo-tv.com,obturations.com,oujdacity.net,over-blog.com,porn0sexe.com,raje.fr,replay.fr,scan-mx.com,sortiesdvd.com,stars-portraits.com,streaming-video3x.com,televiseurs.net,tonmanga.com,universalis.fr,uzinagaz.com,viamichelin.fr,webstar-auto.com,webstar-electro.com##.ads
 artdeseduire.com##.ads-books
 artdeseduire.com##.ads-information
 cvya.dz##.ads-vert
@@ -8664,7 +8672,6 @@ madmoizelle.com##.article_pub
 buzzly.fr##.article_pubtop
 msn.com##.aside-ad
 lindependant.fr##.auto300X250
-viamichelin.fr##.autoPromoCarTrawler
 totonova.com##.avi
 buzzly.fr##.ayl-ad-article
 booska-p.com##.bacck_fader
@@ -8909,6 +8916,7 @@ largus.fr##.item-partenaire
 dpstream.net##.itemNum_1
 dpstream.net##.itemNum_11
 dpstream.net##.itemNum_5
+viamichelin.fr##.itinerary-index-advertising
 journaldesfemmes.com##.jLinkSponsored
 idf1.fr##.jcarousel
 jdubuzz.com,journaldugamer.com,journaldugeek.com,pixelistes.com##.jdg-recommend
@@ -9257,6 +9265,7 @@ laposte.fr##.tile--flag--partner
 moteurs-regionaux.com##.titreCoupProjo
 cinemotions.com##.titre_paragraphe + div[style="height:450px; margin-left:12px;"]
 msn.com##.todayshowcasead
+viamichelin.fr##.toggle-adinmap
 seriezone.com##.tokloz
 cpasbien-torrents.fr##.top-banner
 save.ca##.topAd
@@ -9298,9 +9307,7 @@ geste.fr##.view-id-partenaires
 geste.fr##.view-partenaires
 bioalaune.com##.view-pub
 wakanim.tv##.vjs-error-display
-viamichelin.fr##.vm-gdhmegaban
-viamichelin.fr##.vm-pub-home-google
-viamichelin.be,viamichelin.fr##.vm-pub-home300
+viamichelin.be##.vm-pub-home300
 elmoudjahid.com##.vpub
 vube.com##.vube-grid-feature
 brain-magazine.fr##.vv-hide
@@ -9989,7 +9996,6 @@ femmesplus.fr##section[id] > img
 @@||uptobox.com/jquery-1.8.3.min.js$script,domain=uptostream.com
 @@||viamichelin.be/static/advert/$script
 @@||viamichelin.ch/static/advert/$script
-@@||viamichelin.fr/static/advert/$script
 @@||videos-pub.ftv-publicite.fr/media/$object-subrequest,domain=playerftp.videostream.fr
 @@||videos-pub.ftv-publicite.fr/player/ad2play.js$domain=tv5mondeplus.com
 @@||vo2.fr/uploads/tx_regiepub/bando-site-
