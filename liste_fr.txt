@@ -5271,7 +5271,6 @@ toutcash.com/images/bandeau-
 ||hdfever.fr/wp-content/uploads/*/banni
 ||hdfever.fr/wp-content/uploads/*/habillage-
 ||hdfever.fr/wp-content/uploads/*/soldes
-||hentaifr.net/*.php$script
 ||hentaigratuit.org/delaypub.js
 ||hentaihaven.org/_
 ||hentaihaven.org/beta/
@@ -6365,6 +6364,11 @@ toutcash.com/images/bandeau-
 ||bontent.powvideo.net^
 ||powvideo.*/js/jquery.pu*.js
 ||powvideo.net^$popup,~third-party
+! hentaifr.net
+@@||hentaifr.net/scripts/device.js|$script,domain=hentaifr.net
+@@||hentaifr.net/scripts/jquery.min.js|$script,domain=hentaifr.net
+||hentaifr.net^$popup,~third-party
+||hentaifr.net^$script
 ! amazonaws.com
 ||amazonaws.com^$domain=1host.name|allvid.ch|american-dad-streaming.com|anime-hunter.com|anime-sama.com|animefr.net|anyanime.com|arabseed.com|auratorrent.pl|auroravid.to|bdupload.info|bitvid.sx|brain-magazine.fr|cinemay.com|cloudtime.to|club-anime.fr|cpasbien.online|daclips.in|dailymotion.com|dailyuploads.net|ddl-island.su|dpfilms.net|dpseries.net|dpstream.net|dpstreaming.watch|dragonball-z.net|embedscr.com|embedscr.to|emule-island.ru|enstreaming.eu|enstreaming.tv|exashare.com|eztv-proxy.net|eztv.ag|eztv.ch|eztv.it|eztv.tf|eztv.yt|fas.li|filecrypt.cc|filesupload.org|film-en-stream.biz|film-streaming.co|film-streamingvk.com|film-streamiz.net|filmcomplet.tv|filmstreaming1.com|filmstreamvf.cc|filmstreamvk.net|filmvf.ws|filmzenstream.com|full-film.me|full-serie.com|full-stream.biz|full-stream.is|full-stream.la|full-stream.nu|full-stream.su|full-streaming.co|full-streamingvf.com|fullsharez.com|gighub.net|gorillavid.com|gorillavid.in|gum-gum-streaming.com|hdfilm-streaming.com|hdmovie2k.co|hinata-online-community.fr|hulkload.com|ianime.tv|istreamin.com|k-streaming.com|kmotion.fr|kvcdn.cf|kvid.org|kykstreaming.net|kykvideo.net|la-space.ch|le-streaming.com|letwatch.to|letwatch.us|libertyland.co|libre-stream.com|mamzouka.com|manga-fr.com|mangas-anime.com|mangas-vostfr.com|maquillage.com|memoireetvie.com|movpod.in|mystream.la|neko-san.fr|officiel-streamingfr.over-blog.com|openload.info|otakufr.com|papyfullstream.com|papystreaming-film.com|papystreaming.net|papystreaming.org|pausefun.com|pausepeople.com|planet-streaming.com|planete-series.info|quedustream.com|replay-streaming.com|revclouds.com|serie-streaming-vf.net|serie-streaming.tv|series-en-streaming.tv|shink.in|sky-animes.com|sokrostream.biz|solidfiles.com|speedvid.net|stream-island.ru|stream-island.su|stream-watch.co|streamay.bz|streamay.com|streambox.club|streamcomplet.com|streamdown.co|streamingpl.com|streamiz-films.com|sznpaste.net|the-big-bang-theory-streaming.net|the-walking-dead-stream.biz|the-walking-dead-stream.net|thewatchseries.to|toofy.tv|trollvid.net|tvlogy.to|uame8aij4f.com|up09.com|uploadocean.com|uploadrocket.net|uploads.to|uplod.it|vfilmze.com|vidgg.to|vidshare.me|vidshare.us|vkstreamingfilm.biz|wholecloud.net|wuxiaworld.com|xvidstage.com|yahmaib3ai.com|youwatch.org|youwatchfilm.net|zone-telechargement.eu|zone-telechargement.tv|zone-telechargement.ws
 ! cloudfront.net
@@ -9693,8 +9697,9 @@ lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 igen.fr,macg.co##header + a[target="_blank"]
+hentaifr.net##iframe
 jeux-porno.net##iframe[src]
-aufeminin.com,hadoken-fansubs.fr,hentaifr.net,mangas-fr.com,marmiton.org##iframe[style]
+aufeminin.com,hadoken-fansubs.fr,mangas-fr.com,marmiton.org##iframe[style]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
