@@ -542,7 +542,6 @@
 /fillerAds/*
 /fod_ad_
 /fond_pub_
-/makeBanner.js
 /footerPartnerOffers.
 /fr-ads.
 /fra/ads/*
@@ -612,6 +611,7 @@
 /logos-pub/*
 /lp_fkplay/*
 /mailorama120600.
+/makeBanner.js
 /markt/banner/*
 /media/300250.
 /media/72890.
@@ -2791,7 +2791,6 @@ _regie/clic.$popup
 ||46.101.139.152^$popup,third-party
 ||52.51.50.245^$popup,third-party
 ||5b15a826.xyz^$popup,third-party
-||esprit-click.com^$popup,third-party
 ||6187817.com^$popup,third-party
 ||62.212.73.45^$popup,third-party
 ||77978.みんな^$popup,third-party
@@ -2838,7 +2837,6 @@ _regie/clic.$popup
 ||ads-in-games.com^$popup,third-party
 ||ads2rtb.com^$popup,third-party
 ||adsawesome.com^$popup,third-party
-||sexyfreecamz.com^$popup,third-party
 ||adschemist.com^$popup,third-party
 ||adschoom.com^$popup,third-party
 ||adserverpub.com^$popup,third-party
@@ -2986,6 +2984,7 @@ _regie/clic.$popup
 ||enverthere.info^$popup,third-party
 ||eravage.com^$popup,third-party
 ||espace-plus.net^$popup,third-party
+||esprit-click.com^$popup,third-party
 ||europacash.com^$popup,third-party
 ||exasharetab.com^$popup,third-party
 ||exdynsrv.com^$popup,third-party
@@ -3230,6 +3229,7 @@ _regie/clic.$popup
 ||secure.securitetotale.com^$popup,third-party
 ||secure.securitetotale.fr^$popup,third-party
 ||sendmad.com^$popup,third-party
+||sexyfreecamz.com^$popup,third-party
 ||sezonlukdizi.com^$popup,third-party
 ||shglegle.com^$popup,third-party
 ||shiah.ru^$popup,third-party
@@ -5791,8 +5791,6 @@ toutcash.com/images/bandeau-
 ||ouifm.fr^*/images/partners/
 ||oujdacity.net/kelkoo*.html
 ||outils-web.com/frm_menu_
-||seriehentai.com^$script
-||seriehentai.com^$popup,~third-party
 ||ovnis-direct.com/_media/img/medium/*banner-
 ||pafpaf.com/pubs/
 ||pafpaf.com/pubs/$popup
@@ -5959,6 +5957,8 @@ toutcash.com/images/bandeau-
 ||seduireunhomme.fr/wp-content/uploads/*/Banner_
 ||sendvid.com/assets/bjsp-
 ||senioractu.com/photo/background-
+||seriehentai.com^$popup,~third-party
+||seriehentai.com^$script
 ||seriesstreaming.fr/images/partenaire_
 ||seriezone.com/ba/
 ||serre-editeur.fr/images/banners/
@@ -9780,8 +9780,7 @@ femmesplus.fr,medisite.fr,planet.fr##[-abp-properties='background-image: *;']
 igen.fr,macg.co##[-abp-properties='background-image: url(*;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='content:*;']
 femmesplus.fr,medisite.fr,planet.fr##[-abp-properties='cursor: pointer;']
-gaytube.com,nextinpact.com,pornhub.com,redtube.com,senscritique.com,tube8.com,tube8.es,tube8.fr,xtube.com,youjizz.com,youporn.com,youporngay.com##[-abp-properties='data:']
-seriehentai.com##[-abp-properties='data:']
+gaytube.com,nextinpact.com,pornhub.com,redtube.com,senscritique.com,seriehentai.com,tube8.com,tube8.es,tube8.fr,xtube.com,youjizz.com,youporn.com,youporngay.com##[-abp-properties='data:']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 nextinpact.com##[-abp-properties='height: 250px;']
 igen.fr##[-abp-properties='height: 61*px;']
