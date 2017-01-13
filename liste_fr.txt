@@ -928,6 +928,7 @@
 =show_ads;
 =sponsored_links_
 =WebAdsLinks&
+=xadv-invid&
 ?action=VIEWAD&
 ?ad_id=
 ?ADFassetID=
@@ -7115,6 +7116,7 @@ toutcash.com/images/bandeau-
 ##.AD_underpost
 ##.AdsA
 ##.AdsB
+##.AdsC
 ##.AdsTop
 ##.After-body-ads
 ##.ArticleContent-advertising
@@ -7819,6 +7821,7 @@ toutcash.com/images/bandeau-
 ##.wpproaddlink
 ##.wrap-pub
 ##.wrapperPub
+##.xadv-invid2
 ##.yourcolor-ads
 ##.zoneAds
 ##.zone_annonceurs
@@ -10133,7 +10136,7 @@ _adblockdetector/
 !
 @@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|macgames-download.com|naruto-mx.net|the-night-of-streaming.eu
-@@.png#$image,domain=bbstreaming.com|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|rapidebrideur.com|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net
+@@.png#$image,domain=bbstreaming.com|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|rapidebrideur.com|savefile.co|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
@@ -10255,6 +10258,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||papystreaming-film.com^$generichide
 @@||partage-facile.com^$generichide
 @@||rapidebrideur.com^$elemhide
+@@||savefile.co^$generichide
 @@||shink.in^$generichide
 @@||softmaroc.org^$generichide
 @@||sos-lettre.fr^$generichide
