@@ -2577,8 +2577,11 @@ _regie/clic.$popup
 ||viperishly.com^$third-party
 ||zert.ovh^$third-party
 ! popads.net
+||akrzgxzjynpi.com^$third-party
 ||gvoszbzfzmtl.com^$third-party
+||jboovenoenkh.com^$third-party
 ||mhwxckevqdkx.com^$third-party
+||ovzmelkxgtgf.com^$third-party
 ||yctquwjbbkfa.com^$third-party
 ||ytiyuqfxjbke.com^$third-party
 ! admeasures.com
@@ -3063,6 +3066,7 @@ _regie/clic.$popup
 ||india-zed.com^$popup,third-party
 ||infojeu.com^$popup,third-party
 ||infoyours.info^$popup,third-party
+||instanceour.info^$popup,third-party
 ||instancetour.info^$popup,third-party
 ||intervice.info^$popup,third-party
 ||ipsowrite.com^$popup,third-party
@@ -4567,10 +4571,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=streamingeur.com
 |https://$script,third-party,domain=streamingeur.com
 ! filmzenstream.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=filmzenstream.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=filmzenstream.com
-|http://$script,third-party,xmlhttprequest,domain=filmzenstream.com
-|https://$script,third-party,xmlhttprequest,domain=filmzenstream.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=completvf.com|filmzenstream.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=completvf.com|filmzenstream.com
+|http://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com
+|https://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com
 ! lectureduweb.fr (dblock-ads.com)
 @@||ajax.googleapis.com/ajax/libs/$script,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
