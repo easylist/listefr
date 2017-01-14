@@ -2582,8 +2582,11 @@ _regie/clic.$popup
 ||fmuxugcqucuu.com^$third-party
 ||gvoszbzfzmtl.com^$third-party
 ||jboovenoenkh.com^$third-party
+||klakcdiqmgxq.com^$third-party
 ||mhwxckevqdkx.com^$third-party
+||mmesheltljyi.com^$third-party
 ||ovzmelkxgtgf.com^$third-party
+||rfvicvayyfsp.com^$third-party
 ||tmwhazsjnhip.com^$third-party
 ||yctquwjbbkfa.com^$third-party
 ||ytiyuqfxjbke.com^$third-party
@@ -4668,6 +4671,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ! urlsh.xyz
 |http://$popup,subdocument,third-party,domain=urlsh.xyz
 |https://$popup,subdocument,third-party,domain=urlsh.xyz
+! urlst.me
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=urlst.me
+|http://$script,third-party,domain=urlst.me
+|https://$script,third-party,domain=urlst.me
 ! adf.ly
 ||cdn.adf.ly^$script,third-party,domain=~j.gs|~q.gs
 ||cdn.j.gs^$script,third-party,domain=~adf.ly|~q.gs
@@ -10308,6 +10315,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||tuxboard.com^$generichide
 @@||ultim-telechargementz.com^$generichide
 @@||uploads.to^$generichide
+@@||urlst.me^$generichide
 @@||vtele.ca^$generichide
 @@||xavierstuder.com^$generichide
 ! captchme.com
