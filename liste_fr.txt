@@ -132,6 +132,7 @@
 .com/func.js|$script,~third-party
 .dz/ads/
 .dz/ads_
+.fr/*/ads/
 .fr/_adv/
 .fr/ads-
 .fr/ads.
@@ -2071,6 +2072,7 @@ _regie/clic.$popup
 ||mobusi.com^$third-party
 ||mochiads.com^$third-party
 ||monarchads.com^$third-party
+||monetiz.fr^$third-party
 ||monetize-me.com^$third-party
 ||moneytize.fr^$third-party
 ||morevoluum.com^$third-party
@@ -6906,6 +6908,7 @@ toutcash.com/images/bandeau-
 ###milieu_pub
 ###modp-300600
 ###module_publicite
+###monetiz-pub
 ###msgNoPub
 ###news-droite-publicite
 ###news_pub_centre
