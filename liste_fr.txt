@@ -4644,6 +4644,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 |http://$script,domain=sexefelin.com|tubixe.com|vidsexe.com|webchoc.com
 |https://$script,domain=sexefelin.com|tubixe.com|vidsexe.com|webchoc.com
 ! speedvid.net
+@@||www.speedvid.net/dl?op=download_orig&id=*&r=$popup,~third-party,domain=speedvid.net
 |http://$script,subdocument,third-party,xmlhttprequest,domain=speedvid.net
 |https://$script,subdocument,third-party,xmlhttprequest,domain=speedvid.net
 ! divxme.com
