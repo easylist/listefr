@@ -4597,6 +4597,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 |http://$script,third-party,xmlhttprequest,domain=rapidvideo.com
 |https://$script,third-party,xmlhttprequest,domain=rapidvideo.com
 ||rapidvideo.com^$popup,~third-party
+! arabloads.net
+|http://$script,third-party,domain=arabloads.net
+|https://$script,third-party,domain=arabloads.net
 ! zony.tv
 |http://$script,third-party,xmlhttprequest,domain=zony.tv
 |https://$script,third-party,xmlhttprequest,domain=zony.tv
