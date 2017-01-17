@@ -3873,6 +3873,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 ||likebaguette.com/data/img/likebaguette-
 ||liligo.*/servlet/ads?
 ||liligo.*/wpartner/
+||link.tl^$script,third-party
 ||links-protection.com/*.htm$subdocument
 ||live.prismamediadigital.com^
 ||live18ans.com^$subdocument
@@ -6172,8 +6173,7 @@ toutcash.com/images/bandeau-
 ||tcho.fr/assets/img/home_pub.
 ||team-iphone.fr/phpbbtip/images/pub/
 ||technikart.com/images/banners/
-||telechargement-film.org/images/ban*.jpg
-||telechargement-film.org/images/regarder-film.jpg
+||telechargement-film.org^$popup,~third-party
 ||telechargementgratuits.com/hexa.png
 ||telechargementgratuits.com/hop-300x250.png
 ||telechargementz.tv^$popup,~third-party
@@ -9417,6 +9417,7 @@ amateur2sexe.fr,pornovore.fr##.video-pub
 geste.fr##.view-id-partenaires
 geste.fr##.view-partenaires
 bioalaune.com##.view-pub
+telechargement-film.org##.vip-buttons
 wakanim.tv##.vjs-error-display
 elmoudjahid.com##.vpub
 vube.com##.vube-grid-feature
@@ -9500,6 +9501,7 @@ sante-nutrition.org##a[href*="&pos="]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
 omgtorrent.me,torrent9.biz##a[href*="+"]
+telechargement-film.org##a[href*="-film-"]
 films-telecharger.eu,jetelecharger1.fr,vfstream.biz##a[href*=".php"]
 planete-series.info##a[href*=".php"] > img
 jeddl.net##a[href*=".php?"]
