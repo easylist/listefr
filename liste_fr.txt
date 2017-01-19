@@ -229,6 +229,7 @@
 /ad-ads.
 /ad-lib/*
 /ad-netc-
+/ad-rotator.
 /ad-script.
 /ad.ashx/*
 /ad.bon-plan-
@@ -4687,6 +4688,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.cz|123movies.gs|123mov
 |https://$script,third-party,xmlhttprequest,domain=divxme.com
 ! kvid.org
 .php$domain=appcdn.xyz|kcdn.cf|kstream.xyz|kvcdn.cf|kvid.org
+@@||static.kvid.org^*/jwplayer/jwplayer.js|$script,domain=kcdn.cf
 |http://$script,subdocument,third-party,domain=appcdn.xyz|kcdn.cf|kstream.xyz|kvcdn.cf|kvid.org
 |https://$script,subdocument,third-party,domain=appcdn.xyz|kcdn.cf|kstream.xyz|kvcdn.cf|kvid.org
 ! 4nowvideo.com
