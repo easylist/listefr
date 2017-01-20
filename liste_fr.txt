@@ -3746,6 +3746,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||fullqurandownload.com^$subdocument
 ||funnel-me.com^$subdocument
 ||funradio.fr/partenaires/
+||fused.com/images/banners/
 ||g2a.com/*?addid=$popup
 ||g2a.com/r/$popup
 ||gagne-facile.com/img/banner-
@@ -6244,8 +6245,7 @@ toutcash.com/images/bandeau-
 ||torrentfrancais.com/telechargementdirect.png
 ||torrentfrancais.com/z2/direct-telechargement.png
 ||torrentfrancais.eu/includes/external/fakeplayer/
-||torrentfrançais.fr/wp-content/uploads/HMA-720.gif
-||torrentfrançais.fr/wp-content/uploads/HMA.gif
+||torrentfrançais.fr/wp-content/uploads/HMA
 ||totonova.com/images/p.jpg
 ||toucharger.com/pub_iframe.
 ||touslesprix.com/img_*/background/
@@ -10220,6 +10220,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /ads_enabled_
 /blockadblock.js
 /fadb.min.js?
+/mod_atblockdetector/*
 /modules/mod_jpayday/*
 /setvisitadblocked|
 /sorry-adblocker/*$script
