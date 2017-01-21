@@ -1148,6 +1148,7 @@ _werbebanner_
 .exclusiverewards.$popup
 .gamingaffiliation.$popup
 .loading-delivery2.$popup
+.php?sp_promote=$popup
 .popunder.$popup
 .promorewards.$popup
 .superpromo.$popup
@@ -1208,6 +1209,7 @@ _werbebanner_
 /gopartner.php?pid=$popup
 /iframePopUpLoader.$popup
 /jump/clk1.$popup
+/lp/*;pop|$popup
 /n*adserv.com$popup
 /null/*/Redirect.$popup,third-party
 /offer?*&placement=$popup
@@ -1306,6 +1308,8 @@ _packcpm.$popup
 _pop.php?z=$popup
 _pornofolies_$popup
 _regie/clic.$popup
+!
+||data.*.*/*=|$popup,third-party
 !
 data:*text/html,$popup
 |data:,|$popup
@@ -4733,7 +4737,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||cdn.j.gs^$script,third-party,domain=~adf.ly|~q.gs
 ||cdn.q.gs^$script,third-party,domain=~adf.ly|~j.gs
 ! linkbucks.com
-|http://$subdocument,domain=abnouneuuxbozmt.net|aptclkzmoelfm.net|bohjrmvzefy.net|cedrofltell.net|clictune.com|cquixlgothzm.net|cvwgklzfu.net|esywoeuo.net|ffhogexfyplgm.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|ikqksgum.net|inesajjovx.net|kcmzydgk.net|kkssrjkyduydc.net|linkbucks.com|lnzpbkeijlkmfdr.net|lskjpnkavksj.net|lzbsrxvkz.net|mcuzfdumqro.net|mnjsowaj.net|rdzxxzabj.net|sa.ae|sugjtdizgo.net|tbyauqjvluik.net|tditbdczodoowf.net|tmccbzsxu.net|ubqgcbmrqjdcqn.net|vdmduttihyxsx.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net|zypdvbupo.net
+|http://$subdocument,domain=abnouneuuxbozmt.net|aptclkzmoelfm.net|bohjrmvzefy.net|cedrofltell.net|clictune.com|cquixlgothzm.net|cvwgklzfu.net|esywoeuo.net|ffhogexfyplgm.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|ikqksgum.net|inesajjovx.net|kcmzydgk.net|kkssrjkyduydc.net|linkbucks.com|lnzpbkeijlkmfdr.net|lskjpnkavksj.net|lzbsrxvkz.net|mcuzfdumqro.net|mnjsowaj.net|rdzxxzabj.net|sa.ae|sugjtdizgo.net|tbyauqjvluik.net|tditbdczodoowf.net|tmccbzsxu.net|ubqgcbmrqjdcqn.net|vdmduttihyxsx.net|wxwqbpkr.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net|zypdvbupo.net
 ||fidelityhouse.eu^$subdocument,third-party
 ||rements.com^$subdocument,third-party
 ||super-virals.com^$subdocument,third-party
