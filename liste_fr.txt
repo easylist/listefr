@@ -469,6 +469,7 @@
 /bens/vinos.js
 /bimages/*&ad=
 /blog/ads_
+/bnr.php?*&pub=
 /bnr.php?section=
 /bnr/300/*
 /bnr/468/*
@@ -1554,6 +1555,7 @@ data:*text/html,$popup
 ||adverteasy.fr^$third-party
 ||adverti.fr^$third-party
 ||adverti.io^$third-party
+||advertica.ae^$third-party
 ||advertine.com^$third-party
 ||advertizementserving.com^$third-party
 ||advertoly.com^$third-party
@@ -2570,7 +2572,10 @@ data:*text/html,$popup
 ||y86qs9ct.xyz^$third-party
 ||yban.fr^$third-party
 ||yku0xk97.site^$third-party
+||ylx-1.com^$third-party
+||ylx-2.com^$third-party
 ||ylx-3.com^$third-party
+||ylx-4.com^$third-party
 ||yospace.co.uk^$third-party
 ||yospace.com^$third-party
 ||yospace.net^$third-party
@@ -4719,6 +4724,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=urlst.me
 |http://$script,third-party,domain=urlst.me
 |https://$script,third-party,domain=urlst.me
+! getcpm.com
+@@||google.com/recaptcha/$subdocument,domain=getcpm.com
+|http://$subdocument,third-party,domain=getcpm.com
+|https://$subdocument,third-party,domain=getcpm.com
 ! adf.ly
 ||cdn.adf.ly^$script,third-party,domain=~j.gs|~q.gs
 ||cdn.j.gs^$script,third-party,domain=~adf.ly|~q.gs
