@@ -1311,8 +1311,6 @@ _pop.php?z=$popup
 _pornofolies_$popup
 _regie/clic.$popup
 !
-||data.*.*/*=|$popup,third-party
-!
 data:*text/html,$popup
 |data:,|$popup
 |data:;|$popup
@@ -1321,8 +1319,6 @@ data:*text/html,$popup
 ||bid^*&refer=$popup
 ||bid^*watch?key=$popup,third-party
 ||club^*?zoneid=$popup
-||data.*.com^*=$popup,third-party
-||data.*.info^*=$popup,third-party
 ||info^*==|$popup,third-party
 ||info^*watch?key=$popup,third-party
 ||me^*==|$popup,third-party
