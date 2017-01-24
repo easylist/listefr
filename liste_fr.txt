@@ -10326,11 +10326,10 @@ _adblockdetector/
 @@||www.christineandthefans.com/blockadblock.js|$script,~third-party
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 ! openload
-@@|https://4dbl0ck.info/*.js|$script,domain=openload.co
-@@|https://ch4ng3d.info/*.js|$script,domain=openload.co
+@@|https://easylist.club/*.js|$script,domain=openload.co
 ! youwatch / exashare
-@@||ay8ou8ohth.com/ads/pop*.js$script,domain=ay8ou8ohth.com
-@@||ohbuegh3ev.com/*ads.js|$script,domain=ohbuegh3ev.com
+@@|http://ohbuegh3ev.com/*ads.js|$script,domain=ohbuegh3ev.com
+@@|http://oogh8ot0el.com/*pop*.js|$script,domain=openload.co
 !
 leveldown.fr#@##adblock
 bleachmx.co#@##adsense
