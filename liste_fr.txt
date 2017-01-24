@@ -1321,6 +1321,8 @@ data:*text/html,$popup
 ||club^*?zoneid=$popup
 ||info^*==|$popup,third-party
 ||info^*watch?key=$popup,third-party
+||loan^*&zoneid=$popup
+||loan^*?zoneid=$popup
 ||me^*==|$popup,third-party
 ||online^*&campid=$popup
 ||online^*&pid=$popup
@@ -1357,6 +1359,7 @@ data:*text/html,$popup
 ||10nr6frq.cricket^$third-party
 ||130.211.$third-party
 ||146.148.85.61^$third-party
+||163.172.16.147^$third-party
 ||178.162.205.67^$third-party
 ||188affiliates.com^$third-party
 ||198.16.64.66^$media,third-party
@@ -2609,6 +2612,8 @@ data:*text/html,$popup
 ||viperishly.com^$third-party
 ||zert.ovh^$third-party
 ! popads.net
+||fwcrhzvfxoyi.com^$third-party
+||geazikjazoid.com^$third-party
 ||jiyairvjgfqk.com^$third-party
 ||wbqliddtojkf.com^$third-party
 ||ymlbuooxppzt.com^$third-party
