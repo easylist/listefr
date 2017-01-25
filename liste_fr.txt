@@ -1089,6 +1089,7 @@ _werbebanner_
 /cdn-cgi/pe/bag2?*yesmessenger.com
 !
 ||accountant^*/|$script,third-party,xmlhttprequest
+||bid^*/|$script,third-party,xmlhttprequest
 ||click^*/|$script,third-party,xmlhttprequest
 ||club^*/|$script,third-party,xmlhttprequest
 ||cricket^*/|$script,third-party,xmlhttprequest
@@ -2010,6 +2011,7 @@ data:*text/html,$popup
 ||kingtopdeals.com^$third-party
 ||kinkypeepz.com^$third-party
 ||kkloud.com^$third-party
+||koidt1wn.bid^$third-party
 ||koodoo.net^$third-party
 ||koqtrn1b.site^$third-party
 ||kpc4jpbm.date^$third-party
@@ -2613,9 +2615,13 @@ data:*text/html,$popup
 ||viperishly.com^$third-party
 ||zert.ovh^$third-party
 ! popads.net
+||dfujqyjifvoe.com^$third-party
 ||fwcrhzvfxoyi.com^$third-party
 ||geazikjazoid.com^$third-party
 ||jiyairvjgfqk.com^$third-party
+||karownxatpbd.com^$third-party
+||msrwoxdkffcl.com^$third-party
+||mttyfwtvyumc.com^$third-party
 ||wbqliddtojkf.com^$third-party
 ||ymlbuooxppzt.com^$third-party
 ! admeasures.com
@@ -2674,6 +2680,7 @@ data:*text/html,$popup
 ||gai9h7.top^$third-party
 ||gei7oos.top^$third-party
 ||gie8aic.top^$third-party
+||giu9aab.bid^$third-party
 ||goo8ex8.bid^$third-party
 ||ha8ohfi.top^$third-party
 ||hahpe0o.top^$third-party
@@ -2731,6 +2738,7 @@ data:*text/html,$popup
 ||ot8chae.top^$third-party
 ||ov2ochu.bid^$third-party
 ||phafah4.bid^$third-party
+||phi7phu.bid^$third-party
 ||phox2ey.bid^$third-party
 ||quee4wa.top^$third-party
 ||quei1ai.top^$third-party
@@ -3418,9 +3426,9 @@ data:*text/html,$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
-$websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.pl|123movies.ru|123movies.vc|123music.to|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|datpiff.com|divxstage.ch|divxstage.to|dp-stream.com|epornik.com|firstrowus1.eu|freewarefiles.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.to|primewire.ag|streamgaroo.com|thecountrycaller.com|videoweed.ch|videoweed.co|videoweed.com|videoweed.es|videowood.tv|viid.me|wholecloud.net
+$websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.pl|123movies.ru|123movies.vc|123music.to|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|datpiff.com|divxstage.ch|divxstage.to|dp-stream.com|epornik.com|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.to|primewire.ag|streamgaroo.com|thecountrycaller.com|videoweed.ch|videoweed.co|videoweed.com|videoweed.es|videowood.tv|viid.me|wholecloud.net
 !
-|blob:$domain=auroravid.to|cloudtime.to|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|istreamin.com|keepvid.com|lucariostream.eu|streamgaroo.com
+|blob:$domain=auroravid.to|cloudtime.to|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|istreamin.com|keepvid.com|lucariostream.eu|streamgaroo.com
 !
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|e-wok.tv
