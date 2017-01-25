@@ -310,6 +310,7 @@
 /ads/extra.
 /ads/left/*
 /ads/mgid_
+/ads/pops/*
 /ads13.
 /ads14.
 /ads15.
@@ -824,6 +825,7 @@
 /scriptPub.
 /scriptPub_
 /scripts/adv_
+/scripts/sweet/?js=*&$script,third-party
 /sdk-ads.
 /sdk-ads/*
 /search_caf.php?
@@ -863,6 +865,7 @@
 /TiscaliAds.
 /toastr.$domain=plancul-paris.net
 /totemtools/*
+/TrafficHaus/*
 /ttn_adspaces
 /vaxadserver.
 /vbs-ads.
@@ -1167,6 +1170,7 @@ _werbebanner_
 /adplexmedia/*$popup
 /ads.php$popup
 /ads/out.$popup
+/ads/pops/$popup
 /ads?*=|$popup
 /ads?key=$popup
 /ads?spot_id=$popup
@@ -1452,6 +1456,7 @@ data:*text/html,$popup
 ||adgoi-1.net^$third-party
 ||adgoi.com^$third-party
 ||adgoi.mobi^$third-party
+||adhealers.com^$third-party
 ||adhispanic.com^$third-party
 ||adhit.me^$third-party
 ||adhoc1.net^$third-party
@@ -1491,7 +1496,9 @@ data:*text/html,$popup
 ||adpub.eu^$third-party
 ||adqia.com^$third-party
 ||adrecord.com^$third-party
+||adrecreate.com^$third-party
 ||adrelayer.com^$third-party
+||adrenovate.com^$third-party
 ||adrife.com^$third-party
 ||adrock.org^$third-party
 ||ads-in-games.com^$third-party
@@ -1550,6 +1557,7 @@ data:*text/html,$popup
 ||adten.eu^$third-party
 ||adtify.pl^$third-party
 ||adtomafusion.net^$third-party
+||adtonement.com^$third-party
 ||adtracking.asia^$third-party
 ||adtraffic.pl^$third-party
 ||adtrafic.com^$third-party
@@ -1564,6 +1572,7 @@ data:*text/html,$popup
 ||adverti.io^$third-party
 ||advertica.ae^$third-party
 ||advertine.com^$third-party
+||advertiserurl.com^$third-party
 ||advertizementserving.com^$third-party
 ||advertoly.com^$third-party
 ||advertsponsor.com^$third-party
@@ -1779,6 +1788,7 @@ data:*text/html,$popup
 ||dajusepe.com^$third-party
 ||danstonfion.com^$third-party
 ||data1rtb.com^$third-party
+||datingcensored.com^$third-party
 ||datvantage.com^$third-party
 ||dblock-ads.com^$third-party
 ||ddblock.eu^$third-party
@@ -2310,6 +2320,8 @@ data:*text/html,$popup
 ||rediamob.com^$third-party
 ||redirect2719.ws^$third-party
 ||redorange.website^$third-party
+||reevivenetwork.com^$third-party
+||reevivepro.com^$third-party
 ||reflexcash.com^$third-party
 ||refresh-tool.website^$third-party
 ||regie.audioprint.fr^$third-party
@@ -2320,6 +2332,7 @@ data:*text/html,$popup
 ||relateev.com^$third-party
 ||remerciez.com^$third-party
 ||rencontreroulette.com^$third-party
+||renewads.com^$third-party
 ||rentacorner.com^$third-party
 ||replacingobservedlose.info^$third-party
 ||replase.ga^$third-party
@@ -2328,6 +2341,7 @@ data:*text/html,$popup
 ||retargetads.net^$third-party
 ||revenuemob1.com^$third-party
 ||revenuestripe.com^$third-party
+||revivestar.com^$third-party
 ||rf6oo9gq.online^$third-party
 ||rgbperf.com^$third-party
 ||ritzysponge.com^$third-party
@@ -2361,6 +2375,7 @@ data:*text/html,$popup
 ||serpzaer.com^$third-party
 ||setads.bid^$third-party
 ||sex-affiliation.com^$third-party
+||sextadate.net^$third-party
 ||sextapes2stars.com^$third-party
 ||sexyxxx.biz^$third-party
 ||sezonlukdizi.com^$third-party
@@ -5030,6 +5045,7 @@ toutcash.com/images/bandeau-
 ||cadremploi.fr/emploi/jsp/include/home/bloc_promos.jsp
 ||caf.fr/sites/default/files/cnaf/Images/Headers/VDF/
 ||caledoccaz.com/PUBS/
+||cam4.com/ads/$popup
 ||camer.be/UserFiles/file/images/pub/
 ||cameroon-info.net/img/banners/
 ||camptocamp.org/static/images/pub/
@@ -7863,6 +7879,7 @@ toutcash.com/images/bandeau-
 ##.reklama-box
 ##.reklamlink
 ##.release-mangas-pub
+##.removeAds
 ##.remove_ads
 ##.replaceDelayedAds
 ##.rightPub
@@ -7900,11 +7917,14 @@ toutcash.com/images/bandeau-
 ##.site-pub-skin
 ##.site-pub-top
 ##.skin_outer_ad
+##.skyscraper-ad-1
+##.skyscraper-ad-2
 ##.smiliar_ads
 ##.snippet-publisher
 ##.soar-media-global
 ##.span_pub_normal
 ##.special-banner
+##.sponsorAd
 ##.sponsoredLinksContainer
 ##.sponsoredLinksInfo
 ##.sponsored_banner
