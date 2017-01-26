@@ -83,6 +83,7 @@
 -728-x-90-
 -728_90.
 -728v90.
+-729x91-
 -730x90.
 -90x600-
 -90x728_
@@ -787,6 +788,7 @@
 /publicity.
 /publisher_configurations.
 /pubs/*-300x250.
+/pubs/*-300x600-
 /pubs/*/ban.
 /pubs/*_300x600-
 /pubs/160600/*
@@ -4894,7 +4896,7 @@ toutcash.com/images/bandeau-
 ||aliceadsl.fr/modules/shopping.
 ||aliexpress.com/p4pforlist.html?
 ||alimentation-france.com/*/pubs/
-||all-musculation.com/AM/template/images/pubs/
+||all-musculation.com^*/images/pubs/
 ||all-musculation.com^*/pub-fond/
 ||alldebrid.fr/lib/images/pub_
 ||allmetsat.com/data/pub/
@@ -7833,6 +7835,7 @@ toutcash.com/images/bandeau-
 ##.pubaudessunews
 ##.pubbigsize
 ##.pubbottomvideo
+##.pubfond
 ##.pubimage
 ##.pubind1
 ##.pubind2
