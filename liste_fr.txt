@@ -802,6 +802,7 @@
 /pubs/habillage/*
 /query.*?aff=$subdocument
 /redirect/*?banner=
+/redirect/dl.
 /regie_pub/*
 /regiepub/*
 /rekban.php
@@ -969,6 +970,7 @@
 ?Page=*&Width=160&
 ?Page=*&Width=300&
 ?Page=*&Width=468&
+?promoTool=*&aff_sub=
 ?publisher-adserver=
 ?redir=*/click?
 ?runauction=
@@ -1379,6 +1381,7 @@ data:*text/html,$popup
 ||1sponsor.com^$third-party
 ||1stads.net^$third-party
 ||1yqbp.com^$third-party
+||221dst.com^$third-party
 ||2mdn.net^$object-subrequest,domain=dhnet.be|lalibre.be
 ||2town.net^$third-party
 ||332-d.com^$third-party
@@ -1737,6 +1740,7 @@ data:*text/html,$popup
 ||clic-diffusion.com^$third-party
 ||clic.ws^$third-party
 ||click-fr.com^$third-party
+||click2tap.com^$third-party
 ||clickbank.net^$third-party
 ||clickenabler.com^$third-party
 ||clickmena.com^$third-party
@@ -2402,6 +2406,7 @@ data:*text/html,$popup
 ||speednetwork6.com^$third-party
 ||sperse.com^$third-party
 ||sporary.eu^$third-party
+||spykemediatrack.com^$third-party
 ||ssl-services.com^$third-party
 ||statisticresearch.com^$third-party
 ||stickredgr.online^$third-party
@@ -2445,6 +2450,7 @@ data:*text/html,$popup
 ||thri.xxx^$third-party
 ||throughdfp.com^$third-party
 ||tidido.com^$third-party
+||tipslz.com^$third-party
 ||tiz-et.ru^$third-party
 ||tmcregie.fr^$third-party
 ||tmstrack.com^$third-party
@@ -4762,7 +4768,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||cdn.j.gs^$script,third-party,domain=~adf.ly|~q.gs
 ||cdn.q.gs^$script,third-party,domain=~adf.ly|~j.gs
 ! linkbucks.com
-|http://$subdocument,domain=abnouneuuxbozmt.net|aptclkzmoelfm.net|bohjrmvzefy.net|cedrofltell.net|clictune.com|cquixlgothzm.net|cvwgklzfu.net|esywoeuo.net|ffhogexfyplgm.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|ikqksgum.net|inesajjovx.net|kcmzydgk.net|kkssrjkyduydc.net|linkbucks.com|lnzpbkeijlkmfdr.net|lskjpnkavksj.net|lzbsrxvkz.net|mcuzfdumqro.net|mnjsowaj.net|rdzxxzabj.net|sa.ae|sugjtdizgo.net|tbyauqjvluik.net|tditbdczodoowf.net|tmccbzsxu.net|ubqgcbmrqjdcqn.net|vdmduttihyxsx.net|wxwqbpkr.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net|zypdvbupo.net
+|http://$subdocument,domain=abnouneuuxbozmt.net|aptclkzmoelfm.net|bohjrmvzefy.net|cedrofltell.net|clictune.com|cquixlgothzm.net|cvwgklzfu.net|esywoeuo.net|ffhogexfyplgm.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|ikqksgum.net|inesajjovx.net|kcmzydgk.net|kkssrjkyduydc.net|linkbucks.com|lnzpbkeijlkmfdr.net|lskjpnkavksj.net|lzbsrxvkz.net|mcuzfdumqro.net|mnjsowaj.net|neayknle.net|rdzxxzabj.net|sa.ae|sugjtdizgo.net|tbyauqjvluik.net|tditbdczodoowf.net|tmccbzsxu.net|ubqgcbmrqjdcqn.net|vdmduttihyxsx.net|wxwqbpkr.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net|zypdvbupo.net
 ||fidelityhouse.eu^$subdocument,third-party
 ||rements.com^$subdocument,third-party
 ||super-virals.com^$subdocument,third-party
