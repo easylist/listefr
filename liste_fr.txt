@@ -187,11 +187,13 @@
 /125x125_Ad1_
 /125x125_Ad2_
 /160-px-600-
+/160/600|$subdocument
 /160_x_600
 /160x300_
 /2016/ads/*
 /2017/ads/*
 /300-px-250-
+/300/250|$subdocument
 /300250.js
 /300250_2.
 /300_250-2.
@@ -204,11 +206,13 @@
 /468-px-60-
 /468.htm$subdocument
 /468.html$subdocument
+/468/60|$subdocument
 /468by60two.
 /468px.php$subdocument
 /468x60banner.
 /720x90.
 /720x90_dfp.
+/728/90|$subdocument
 /72890.js
 /728x090_
 /728x300-banner.
@@ -510,6 +514,8 @@
 /cmpn_async.
 /code-float-ad.
 /col_droite_googleads2
+/core/ad2/*
+/cpv.php?$subdocument
 /crakrevenue/*
 /Criteo.ADBLOK.
 /Criteo.Left.
@@ -1449,6 +1455,7 @@ data:*text/html,$popup
 ||adcapt.com^$third-party
 ||adcarem.co^$third-party
 ||adcitrik.com^$third-party
+||adclerks.com^$third-party
 ||adclick.lt^$third-party
 ||adconnect.fr^$third-party
 ||adcpm.com^$third-party
@@ -1535,6 +1542,7 @@ data:*text/html,$popup
 ||adsmena.com^$third-party
 ||adsmobile1.com^$third-party
 ||adsp.io^$third-party
+||adsplain.com^$third-party
 ||adsplex.com^$third-party
 ||adsplius.lt^$third-party
 ||adspoper.com^$third-party
@@ -1676,6 +1684,7 @@ data:*text/html,$popup
 ||big-bang-empire.com^$third-party
 ||bigbangempire.tv^$third-party
 ||bigour.net^$third-party
+||bitadspool.com^$third-party
 ||bizhentai.com^$third-party
 ||biznolimit.com^$third-party
 ||bleach.fr^$third-party
@@ -1828,6 +1837,7 @@ data:*text/html,$popup
 ||double6affiliation.com^$third-party
 ||doubleclick.net^$domain=basketusa.com|cinefil.com|essentielle.be|gameone.net|rds.ca|videos.tmc.tv
 ||doubleonclick.com^$third-party
+||downanddirty.xyz^$third-party
 ||ds1.nl^$third-party
 ||dsdsdsf.ovh^$third-party
 ||duporno.biz^$third-party
@@ -2056,6 +2066,8 @@ data:*text/html,$popup
 ||madameglad.com^$third-party
 ||madcents.ma^$third-party
 ||madison-ads.net^$third-party
+||magicfinds.com^$third-party
+||magnumads.me^$third-party
 ||majuwe.com^$third-party
 ||makeitunder.com^$third-party
 ||mallonire.us.com^$third-party
@@ -2183,6 +2195,7 @@ data:*text/html,$popup
 ||nvane.com^$third-party
 ||nyyed.com^$third-party
 ||obhodsb.com^$third-party
+||obozrevatelcom.info^$third-party
 ||octopuspop.com^$third-party
 ||oftrau54.com^$third-party
 ||ohmyad.co^$third-party
@@ -8130,6 +8143,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://www.yourfilezone.com/"]
 ##a[href^="http://yotefiles.com/"]
 ##a[href^="https://admin.thrixxx.com/affiliates/"]
+##a[href^="https://blockadz.com/?"]
 ##a[href^="https://secure.securitetotale.com/"]
 ##a[href^="https://store.mspy.com/affiliate.php"] > img
 ##a[href^="https://www.g2a.com/r/"] > img
@@ -10315,7 +10329,7 @@ _adblockdetector/
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
-@@/advertisement.js$script,~third-party,domain=crash-aerien.aero|crash-aerien.news|e-wok.tv|quoverbis.com
+@@/advertisement.js$script,~third-party,domain=crash-aerien.aero|crash-aerien.news|e-wok.tv|fiki.faucetfly.com|quoverbis.com
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|silicon.fr
 @@||1max2sms.com/blogads.css
 @@||a.f1g.fr/build/2/adsense.js$script
