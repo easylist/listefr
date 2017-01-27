@@ -430,6 +430,9 @@
 /banner/*/sponsored?
 /banner/*?site_id=
 /banner/*_affilie=
+/banner/150x60.
+/banner/250X300.
+/banner/728
 /banner/ads-
 /banner160.
 /banner300.
@@ -10325,7 +10328,7 @@ _adblockdetector/
 !
 @@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|macgames-download.com|naruto-mx.net|the-night-of-streaming.eu
-@@.png#$image,domain=bbstreaming.com|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|rapidebrideur.com|savefile.co|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|www.catnat.net
+@@.png#$image,domain=bbstreaming.com|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|rapidebrideur.com|savefile.co|softmaroc.org|total-sport.tv|tout-debrid.net|tout-gratuit.be|up-4ever.com|www.catnat.net
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
@@ -10461,6 +10464,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||tout-debrid.net^$generichide
 @@||tuxboard.com^$generichide
 @@||ultim-telechargementz.com^$generichide
+@@||up-4ever.com^$generichide
 @@||uploads.to^$generichide
 @@||urlst.me^$generichide
 @@||vtele.ca^$generichide
