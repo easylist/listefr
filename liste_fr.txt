@@ -2351,6 +2351,7 @@ data:*text/html,$popup
 ||rtrgt.com^$third-party
 ||rtrgt2.com^$third-party
 ||rvfrm2005.com^$third-party
+||rvfrm2010.com^$third-party
 ||rw3xxb80.online^$third-party
 ||s1block.com^$third-party
 ||s7jrg2eb.club^$third-party
@@ -4589,8 +4590,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||torrent9.biz/top_torrent.php$popup
 ! ex-down.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=extreme-protect.net
-|http://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.info|extreme-down.me|extreme-down.org|extreme-down.ws|extreme-protect.net|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
-|https://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.info|extreme-down.me|extreme-down.org|extreme-down.ws|extreme-protect.net|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
+|http://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.org|extreme-down.ws|extreme-protect.net|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
+|https://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.org|extreme-down.ws|extreme-protect.net|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
 ! protect-stream.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=protect-stream.com
 |http://$script,third-party,xmlhttprequest,domain=protect-stream.com
@@ -9776,7 +9777,7 @@ japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 dpstream.to,quedustream.com,streaming-series.to##a[href^="streaming-series"]
 mega-p2p.net##a[href^="vpn"]
-extreme-down.cc,zetorrento.fr,zetorrents.com##a[id]
+extreme-down.cc,extreme-down.in,zetorrento.fr,zetorrents.com##a[id]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
 t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##a[onclick*="base64"]
