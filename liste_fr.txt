@@ -548,6 +548,7 @@
 /display.php?ec=
 /display/?affid=
 /display/?method=$subdocument
+/display/ads.
 /display_pub.
 /DisplayAdTargets.
 /doubleclick_dmm/*
@@ -953,6 +954,7 @@
 =/ads.js|
 =/ligatus/
 =250x250&bn=
+=adunit/
 =banner_*goclick&
 =banniere&*=leaderboard&
 =dynamic_banner&
@@ -4786,6 +4788,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 @@||google.com/recaptcha/$subdocument,domain=getcpm.com
 |http://$subdocument,third-party,domain=getcpm.com
 |https://$subdocument,third-party,domain=getcpm.com
+! gsurl.me
+@@||ajax.googleapis.com/ajax/libs/$script,domain=gsurl.me
+|http://$script,third-party,xmlhttprequest,domain=gsurl.me
+|https://$script,third-party,xmlhttprequest,domain=gsurl.me
 ! adf.ly
 ||cdn.adf.ly^$script,third-party,domain=~j.gs|~q.gs
 ||cdn.j.gs^$script,third-party,domain=~adf.ly|~q.gs
@@ -8443,6 +8449,7 @@ football.fr,sports.fr###hablinkzone
 logicielmac.com###haut-droit-728-90
 annonces-dz.com###hb
 boursorama.com###header + #body > div:first-child > .visible-desktop
+gsurl.me###header + #container
 jam-mag.com###header-banner
 ezgif.com###header-infoblock
 mobiles-actus.com###header3
