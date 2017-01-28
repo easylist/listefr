@@ -3522,7 +3522,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||ad.prismamediadigital.com^
 ||ad.vacanceo.com^
 ||ad.zanox.com^
-||ad.zanox.com^$popup,domain=configspc.com|heures.be|laptopspirit.fr
+||ad.zanox.com^$popup,domain=configspc.com|heures.be
 ||adf.ly^$popup,domain=ytubesave.com
 ||adjsla.daycorpltd12.netdna-cdn.com^
 ||ads.giponewing.com^
@@ -3769,7 +3769,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||emploipartner.com/moteur_partner/
 ||emptyloop.com/unlocker/welcome.htm$popup,domain=emptyloop.com
 ||emule-island.ru/images/pub/
-||enateo.fr^$popup,domain=laptopspirit.fr
 ||enfingratuit.com^
 ||enligne.com/ndd*.$third-party
 ||enucip.spacefoot.com^
@@ -5616,6 +5615,7 @@ toutcash.com/images/bandeau-
 ||laposte.net^*/scripts/pub_
 ||laprovence.com/sites/all/themes/lpv4/js/pubs.js
 ||laptopspirit.fr/js/suo.js
+||laptopspirit.fr/wp-content/uploads/new/f22j.gif
 ||laptopspirit.fr^*/habillage-
 ||laredoute.fr/*/pubiframe/
 ||lasurfeuze.com/index.php?page=banner
@@ -9743,7 +9743,7 @@ bigbike-magazine.com,brain-magazine.fr,filmstreaming.la,grimper.com,igen.fr,kite
 pubeco.fr,usbfix.net##a[href^="http://clic.reussissonsensemble.fr/"]
 algeriephilatelie.net##a[href^="http://clic.reussissonsensemble.fr/click.asp?"]
 tomtomax.fr##a[href^="http://clk.tradedoubler.com/"]
-cdiscount.com,laptopspirit.fr,sosiphone.com##a[href^="http://clk.tradedoubler.com/click?"]
+cdiscount.com,sosiphone.com##a[href^="http://clk.tradedoubler.com/click?"]
 premiere.fr##a[href^="http://clkde.tradedoubler.com/click?"]
 lefigaro.fr##a[href^="http://cplussur.lefigaro.fr/"]
 only-iphone.fr##a[href^="http://fr.copytrans.net/copytranscontacts.php?utm_source="]
