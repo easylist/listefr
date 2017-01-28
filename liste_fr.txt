@@ -4789,9 +4789,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 |http://$subdocument,third-party,domain=getcpm.com
 |https://$subdocument,third-party,domain=getcpm.com
 ! gsurl.me
-@@||ajax.googleapis.com/ajax/libs/$script,domain=gsurl.me
-|http://$script,third-party,xmlhttprequest,domain=gsurl.me
-|https://$script,third-party,xmlhttprequest,domain=gsurl.me
+@@||ajax.googleapis.com/ajax/libs/$script,domain=g5u.pw|gsurl.me
+|http://$script,third-party,xmlhttprequest,domain=g5u.pw|gsurl.me
+|https://$script,third-party,xmlhttprequest,domain=g5u.pw|gsurl.me
 ! adf.ly
 ||cdn.adf.ly^$script,third-party,domain=~j.gs|~q.gs
 ||cdn.j.gs^$script,third-party,domain=~adf.ly|~q.gs
@@ -8449,7 +8449,7 @@ football.fr,sports.fr###hablinkzone
 logicielmac.com###haut-droit-728-90
 annonces-dz.com###hb
 boursorama.com###header + #body > div:first-child > .visible-desktop
-gsurl.me###header + #container
+g5u.pw,gsurl.me###header + #container
 jam-mag.com###header-banner
 ezgif.com###header-infoblock
 mobiles-actus.com###header3
