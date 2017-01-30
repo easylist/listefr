@@ -219,6 +219,7 @@
 /728/90|$subdocument
 /72890.js
 /728x090_
+/popox.js
 /728x300-banner.
 /728X90px_
 /790-90.
@@ -1326,6 +1327,7 @@ _werbebanner_
 ?exotracker=$popup
 ?floatpop=$popup
 ?id_rotation=$popup
+?link=fakeplayer$popup
 ?MediaSegmentId=$popup
 ?noexitctapop=$popup
 ?partner=*&offer_id=$popup,third-party
@@ -4342,6 +4344,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||tripadvisor.*/WidgetEmbed-*&partnerId=
 ||tripleclicks.com^$subdocument
 ||trouart.fr/labo/
+||tube-manga-hentai.com/promo/a.php?
+||tube-manga-hentai.com/tools/bannieres/
 ||tudou.com^$subdocument
 ||tuto.com/banner/common/$third-party
 ||tutti.ch/*_banner_$third-party
@@ -4381,6 +4385,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||videoplaza.tv/proxy/$popup
 ||videoplaza.tv/proxy/vpsupport.js
 ||videos-de-celebrites.com/CMF_Banners/
+||videos-pornographiques.com/promo/
 ||vidup.me/mba/
 ||vidzi.tv/300e.html
 ||viewster.com^*utm_$popup
