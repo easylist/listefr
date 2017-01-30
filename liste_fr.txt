@@ -279,6 +279,7 @@
 /admaxdsp/*
 /adoff.js?
 /adpj-result/*
+/adplexmedia.
 /adporn.
 /AdPortalService.
 /AdPortalWebService/*
@@ -316,6 +317,7 @@
 /ads/banner02.
 /ads/banner03.
 /ads/bigbox?
+/ads/boost.
 /ads/criteo2_
 /ads/extra.
 /ads/left/*
@@ -772,6 +774,7 @@
 /pub_428x90.
 /pub_72890_
 /pub_affiche.
+/pub_col.js
 /pub_delivery.
 /pub_header.
 /pub_html5/*
@@ -968,6 +971,7 @@
 =WebAdsLinks&
 =xadv-invid&
 ?action=VIEWAD&
+?ad_domain=
 ?ad_id=
 ?ADFassetID=
 ?adlink/
@@ -1033,6 +1037,7 @@ _advertising_img.
 _alenty.js
 _banner_46860.
 _bnrrotator_
+_domain=ads.
 _emplacements.*=300x125
 _emplacements.*=300x250
 _emplacements.*=468x60
@@ -1133,6 +1138,7 @@ _werbebanner_
 ||site^*/|$script,third-party,xmlhttprequest
 ||space^*/|$script,third-party,xmlhttprequest
 ||stream^*/|$script,third-party,xmlhttprequest
+||systems^*/|$script,third-party,xmlhttprequest
 ||top^*/|$script,third-party,xmlhttprequest
 ||webcam^*/|$script,third-party,xmlhttprequest
 ||website^*/|$script,third-party,xmlhttprequest
@@ -2580,6 +2586,7 @@ data:*text/html,$popup
 ||web-affiliation.com^$third-party
 ||webauditoire.com^$third-party
 ||webconcours.fr^$third-party
+||webmanager.biz^$third-party
 ||webtv-sexe.com^$third-party
 ||webzodes.com^$third-party
 ||wedoo.com^$third-party
@@ -2648,6 +2655,7 @@ data:*text/html,$popup
 ||zeybjsxy.com^$third-party
 ||zidor.info^$third-party
 ||zwaar.net^$third-party
+||zytpirwai.net^$third-party
 ! videoadex.com
 ||azzerr.ovh^$third-party
 ||bvvx.ovh^$third-party
@@ -6345,7 +6353,6 @@ toutcash.com/images/bandeau-
 ||touteladomotique.com/pub/
 ||toutmontpellier.fr/bannieres/
 ||toutporno.com/boost_niche/
-||toutporno.com^*/pub_col.
 ||toutpratique.com/imgs/pub/
 ||trackandnews.fr/wp-content/uploads/*/bg-
 ||tracking.easyzic.com^
@@ -6664,6 +6671,7 @@ toutcash.com/images/bandeau-
 ||d3tivku5hdr7jk.cloudfront.net^
 ||d3us2i0tqwa7m7.cloudfront.net^
 ||d42tbok7l2bg1.cloudfront.net^
+||d49z64r3ud4kq.cloudfront.net^
 ||d5z42oph1suk.cloudfront.net^
 ||d7gqsdo66itj3.cloudfront.net^
 ||d9rj2sdxjer5v.cloudfront.net^
