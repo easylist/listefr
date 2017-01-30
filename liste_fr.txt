@@ -219,7 +219,6 @@
 /728/90|$subdocument
 /72890.js
 /728x090_
-/popox.js
 /728x300-banner.
 /728X90px_
 /790-90.
@@ -704,6 +703,7 @@
 /popaaa/*$script
 /popcall.js
 /popcashnet.js
+/popox.js
 /pops/*&subid=
 /popun.*&random=
 /popunder3.
@@ -980,6 +980,8 @@
 ?adRef=
 ?adroll_adv_id=
 ?adSelector=
+?aff=*&roll=
+?aff=*&size=
 ?bannertag=
 ?callback=ADS.
 ?clicktag=
@@ -3492,6 +3494,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 !
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=clictune.com|e-wok.tv
+|https://$subdocument,third-party,domain=e-wok.tv
 !
 /cdn-cgi/pe/bag2?*.com%2F*%3Fr%3D*%26*%3D*%26*%3D*%26*%3D%26*%3D%26*%3D%26*%3D%26s%3D*%2C*%2C1%2C*%2C$xmlhttprequest
 ://*.com^*.*?*=*&*=*&*=*&*=&*=&*=&*=&*=1024,768,1,102$script,third-party
@@ -3935,6 +3938,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||ladmedia.fr/includes/cobrand/*/habillage/
 ||ladmedia.fr^*/le-guide/
 ||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
+||lafranceapoil.com/tools/
 ||lagence.fr/*728-
 ||lagitane.com/ban-sites-phares/
 ||lagur.com/a7fr/scroller.php$domain=israel7.com
@@ -4293,6 +4297,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||static.poliris.com/zi/VgnAgences/
 ||static.s-sfr.fr/media/mire_$image
 ||static.shoptimate.com/js/partner.js
+||static.vadorcdn.com/templates/plarge/banner/
 ||static2.dmcdn.net/mc/skin_assets/*/body$image
 ||storefollow.com/?support=
 ||streaming-de-films.net/telecharger-films-gratuits^$popup,domain=streaming-de-films.net
@@ -5655,6 +5660,9 @@ toutcash.com/images/bandeau-
 ||lcd-compare.com/images/main/*/pub.png
 ||le1er.net/pub-
 ||le2minutes.com/pub/
+||leatube.com/banner/
+||leatube.com/ghyuoscdfm/
+||leatube.com/ref/
 ||leboncoin.fr^*-habillage-
 ||lebuteur.com/danone/
 ||lebuteur.com/data/dzauto.swf
@@ -9326,6 +9334,7 @@ tendanceaumasculin.fr##.placeholder
 portaildusexe.com##.player-catcher
 pausefun.com##.plugin_sidebar
 lemonde.fr##.poops
+e-wok.tv##.pop_parent
 zebrascrossing.net##.post--0
 korben.info##.post-footer + * [href*="://bit.ly/"] > img
 gamergen.com##.post-google
@@ -9980,7 +9989,7 @@ bricozone.be##img[width="120"][height="75"]
 ajoutezvotresite.com,bricozone.be,jeu.fr##img[width="160"][height="600"]
 avis-express.com##img[width="280"][height="425"]
 vatry.com##img[width="300"][height="190"]
-israelmagazine.co.il,jeu.fr,maliweb.net,soonnight.com,undernews.fr##img[width="300"][height="250"]
+israelmagazine.co.il,jeu.fr,leatube.com,maliweb.net,soonnight.com,undernews.fr##img[width="300"][height="250"]
 supplychainmagazine.fr##img[width="468"]
 echangegagnant.com,espace-francophone.com,genhit.com,israelmagazine.co.il,space-blogs.net##img[width="468"][height="60"]
 israelmagazine.co.il##img[width="600"][height="90"]
