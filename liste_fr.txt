@@ -1131,6 +1131,7 @@ _werbebanner_
 ||club^*/|$script,third-party,xmlhttprequest
 ||cricket^*/|$script,third-party,xmlhttprequest
 ||date^*/|$script,third-party,xmlhttprequest
+||download^*/|$script,third-party,xmlhttprequest
 ||faith^*/|$script,third-party,xmlhttprequest
 ||link^*/|$script,third-party,xmlhttprequest
 ||loan^*/|$script,third-party,xmlhttprequest
@@ -1138,6 +1139,7 @@ _werbebanner_
 ||men^*/|$script,third-party,xmlhttprequest
 ||online^*/|$script,third-party,xmlhttprequest
 ||party^*/|$script,third-party,xmlhttprequest
+||racing^*/|$script,third-party,xmlhttprequest
 ||review^*/|$script,third-party,xmlhttprequest
 ||science^*/|$script,third-party,xmlhttprequest
 ||site^*/|$script,third-party,xmlhttprequest
@@ -4792,6 +4794,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ! kvid.org
 |http://$script,subdocument,third-party,xmlhttprequest,domain=kvid.org
 |https://$script,subdocument,third-party,xmlhttprequest,domain=kvid.org
+! streamin.to
+@@||code.jquery.com/jquery-$script,domain=streamin.to
+|http://$script,third-party,xmlhttprequest,domain=streamin.to
+|https://$script,third-party,xmlhttprequest,domain=streamin.to
 ! 4nowvideo.com
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
