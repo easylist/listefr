@@ -1358,6 +1358,7 @@ _pornofolies_$popup
 _regie/clic.$popup
 !
 data:*text/html,$popup
+data:text/*html,$popup
 |data:,|$popup
 |data:;|$popup
 |javascript^$popup
@@ -10454,7 +10455,8 @@ _adblockdetector/
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 ! openload
 @@|https://easylist.club/*.js|$script,domain=openload.co
-! youwatch / exashare
+! youwatch.org / exashare.com / allvid.ch
+@@|http://coo5shaine.com/js/pop.js|$script,domain=coo5shaine.com
 @@|http://ohbuegh3ev.com/ads/ads.js|$script,domain=ohbuegh3ev.com
 @@|http://ohbuegh3ev.com/js/show_ads.js|$script,domain=ohbuegh3ev.com
 @@|http://oogh8ot0el.com/ads/pop-under.js|$script,domain=oogh8ot0el.com
