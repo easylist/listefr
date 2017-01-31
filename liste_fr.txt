@@ -3740,7 +3740,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||crocastuce.fr/images/Boutons/
 ||croquettesbio.com/wp-content/uploads/*/skyscreeper-
 ||cyberflirt.com/cx/
-||cybertek.fr^$popup,domain=nextinpact.com
 ||cyonix.to^$subdocument
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
@@ -6580,18 +6579,9 @@ toutcash.com/images/bandeau-
 ||ztat.net^*/affiliate/
 ! nextinpact.com
 @@||compte.nextinpact.com/bundles/$script,domain=compte.nextinpact.com
-@@||m.nextinpact.com/comment/$xmlhttprequest,domain=nextinpact.com
-@@||m.nextinpact.com/increment-view|$xmlhttprequest,domain=nextinpact.com
 @@||m.nextinpact.com/js/$script,domain=nextinpact.com
-@@||m.nextinpact.com/news/$xmlhttprequest,domain=nextinpact.com
-@@||nextinpact.com/Account/$xmlhttprequest,domain=nextinpact.com
-@@||nextinpact.com/post-comment|$xmlhttprequest,domain=nextinpact.com
-@@||www.nextinpact.com/AlerteActu/$xmlhttprequest,domain=nextinpact.com
 @@||www.nextinpact.com/bundles/$script,domain=nextinpact.com
-@@||www.nextinpact.com/Commentaire/$xmlhttprequest,domain=nextinpact.com
-@@||www.nextinpact.com/get-comment-preview-$xmlhttprequest,domain=nextinpact.com
-@@||www.nextinpact.com/ReadApi/$xmlhttprequest,domain=nextinpact.com
-||nextinpact.com^$script,xmlhttprequest
+||nextinpact.com^$script
 ! powvideo.net
 @@/js/ads.js$script,~third-party,domain=powvideo.net|powvideo.xyz
 @@||code.jquery.com/ui/*/jquery-ui.min.js$script,domain=powvideo.net
