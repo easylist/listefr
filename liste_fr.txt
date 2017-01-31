@@ -3532,6 +3532,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||achatventepagefan.com^*/banachat*.gif$third-party
 ||achetezfacile.com^*/widget.$third-party
 ||achetezfacile.com^*/widgets/$third-party
+||actu-zap.com/wp-content/uploads/$third-party
 ||ad.apps.fm^$popup
 ||ad.ccmbg.com^
 ||ad.genybet.fr^
@@ -3911,6 +3912,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||jejethesniper.free.fr/Forum/Partenariat.gif
 ||jememontre.com/images/banners/
 ||jeodrive.com^$popup,domain=jheberg.net
+||jeu-gratuit.net/mg/
 ||jeux-flash-gratis.com/pics/$domain=la-musique-rai.com
 ||jeux-football.com/468_jeufoot.gif
 ||jeux-web.com/pub/
@@ -4054,8 +4056,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||mynewblog.com/tracker.php?
 ||mynewsnet.ch^$subdocument
 ||myposeo.com^*250x250.swf?$third-party
-||mystream.la/n/
-||mystream.la^*/license.
 ||myxpass.com^*&affid=
 ||nakedteens.video^$subdocument
 ||neko-hentai.com/banieres/
@@ -10437,6 +10437,9 @@ _adblockdetector/
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 ! openload
 @@|https://easylist.club/*.js|$script,domain=openload.co
+! mystream.la
+@@||mystream.la/js/pop.js|$script,domain=mystream.la
+||mystream.la/js/*.js?
 ! youwatch.org / exashare.com / allvid.ch
 @@|http://coo5shaine.com/js/pop.js|$script,domain=coo5shaine.com
 @@|http://ohbuegh3ev.com/ads/ads.js|$script,domain=ohbuegh3ev.com
