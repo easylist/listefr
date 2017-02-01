@@ -4717,7 +4717,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
 ! 123movies
 /banner/*$domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.pl|123movies.ru|123movies.vc|123music.to
-@@||cdn.123data-proxy.ru^$script,third-party,xmlhttprequest,domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.pl|123movies.ru|123movies.vc|123music.to
+@@||cdn.123clouds.ru^$script,third-party,xmlhttprequest,domain=123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.pl|123movies.ru|123movies.vc|123music.to
 |blob:$domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.pl|123movies.ru|123movies.vc|123music.to
 |http://$popup,script,third-party,xmlhttprequest,domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.pl|123movies.ru|123movies.vc|123music.to
 |https://$popup,script,third-party,xmlhttprequest,domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.pl|123movies.ru|123movies.vc|123music.to
