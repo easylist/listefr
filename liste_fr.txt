@@ -9038,6 +9038,7 @@ canoe.ca##.boxPool
 days-media.fr##.boxed[style^="width:300px; height:250px"]
 telerama.fr##.boxpub
 lepoint.fr##.branding
+voyageforum.com##.breadcrumb
 wawacity.su##.btn-warning
 gamergen.com,generation-nt.com##.bup
 terrafemina.com##.c-product
@@ -10540,6 +10541,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||writerband.com^$generichide
 @@||zenserv.fr^$generichide
 ! voyageforum.com (anti adblock)
+@@||voyageforum.com/images/advertisers/logos/$image,~third-party
 |http://$script,third-party,xmlhttprequest,domain=voyageforum.com
 |https://$script,third-party,xmlhttprequest,domain=voyageforum.com
 ||voyageforum.com^$~third-party,xmlhttprequest
