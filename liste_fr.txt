@@ -179,6 +179,7 @@
 .pubdirecte.$domain=~pubdirecte.com
 .publicite.
 .showads.
+.vast.vpaid.
 .wbdds.
 .xxx/imgban/
 .xxx/pop/$script
@@ -1806,6 +1807,7 @@ data:text/*html,$popup
 ||confectionner.xyz^$third-party
 ||congruityheterocephalus.info^$third-party
 ||connexionsafe.com^$third-party
+||contentza.com^$third-party
 ||contextualyield.com^$third-party
 ||coolood.biz^$third-party
 ||coosc.info^$third-party
@@ -3591,6 +3593,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||amazon.fr/exec/obidos/external-search?$subdocument,domain=annuaire-bleu.net
 ||amazon.fr^$popup,domain=fdesouche.com
 ||amazonaws.com/pubfig/
+||amazonaws.com/static.contentza.com/
 ||amazonaws.com/waframedia*.
 ||amazonaws.com^*/3x250-$subdocument
 ||amazonaws.com^*/publishers/$script
@@ -3925,6 +3928,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||jeodrive.com^$popup,domain=jheberg.net
 ||jeu-gratuit.net/mg/
 ||jeux-flash-gratis.com/pics/$domain=la-musique-rai.com
+||jeux-flash.jeu-gratuit.net^$third-party
 ||jeux-football.com/468_jeufoot.gif
 ||jeux-web.com/pub/
 ||jobaproximite.com/external-search
@@ -10469,6 +10473,7 @@ bricozone.fr,gamingroom.tv#@#.adsbygoogle
 commentcamarche.net,journaldesfemmes.com#@#.text_ads
 !
 @@||2folie.com^$elemhide
+@@||actu-zap.com^$generichide
 @@||alligatographe.blogspot.fr^$generichide
 @@||animes-mangas-ddl.com^$generichide
 @@||annoncedesexe.com^$elemhide
