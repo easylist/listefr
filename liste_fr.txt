@@ -11211,5 +11211,5 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 !
 /\/[a-z0-9_]+\.[a-z0-9-]+\.[a-z]{2,}\/.*?\w{30,}/$domain=exclusivomen.com|gentside.com|gentside.com.br|gentside.de|maxisciences.com|ohmirevista.com|ohmymag.com|ohmymag.com.br|ohmymag.de|simplyvoyage.com
 /\/[a-z0-9_]+\.[a-z0-9-]+\.[a-z]{2,}\/.*[a-zA-Z0-9]{40,}/$object-subrequest,domain=wat.tv
-@@|https://*.halfhgrout.com/*/*/*/*/$third-party,xmlhttprequest,domain=bfmtv.com
+@@|https://*.familannona.com^*/*/$third-party,xmlhttprequest,domain=bfmtv.com
 !@@/\.palmshapednontransferable\.com/[a-zA-Z0-9]{50,150}$/$image,xmlhttprequest,domain=exclusivomen.com|gentside.com|gentside.com.br|gentside.de|maxisciences.com|ohmirevista.com|ohmymag.com|ohmymag.com.br|ohmymag.de|simplyvoyage.com
