@@ -6597,11 +6597,6 @@ toutcash.com/images/bandeau-
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
-! nextinpact.com
-@@||compte.nextinpact.com/bundles/$script,domain=compte.nextinpact.com
-@@||m.nextinpact.com/js/$script,domain=nextinpact.com
-@@||www.nextinpact.com/bundles/$script,domain=nextinpact.com
-||nextinpact.com^$script
 ! powvideo.net
 @@/js/ads.js$script,~third-party,domain=powvideo.net|powvideo.xyz
 @@||code.jquery.com/ui/*/jquery-ui.min.js$script,domain=powvideo.net
