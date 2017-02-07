@@ -1625,6 +1625,7 @@ data:*text/*html,$popup
 ||adwise.bg^$third-party
 ||adx.io^$third-party
 ||adxite-advertising.com^$third-party
+||adxxx.com^$third-party
 ||adyieldoptimizer.com^$third-party
 ||adzmath.com^$third-party
 ||adzzone.com^$third-party
@@ -1750,6 +1751,7 @@ data:*text/*html,$popup
 ||calexito.com^$third-party
 ||cam4ads.com^$third-party
 ||camplace.com^$third-party
+||camsoda.com^$third-party
 ||camsympa.com^$third-party,domain=~camsympa.fr
 ||captchme.net^$third-party
 ||caradisiac-publicite.com^$third-party
@@ -3554,6 +3556,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||ad.apps.fm^$popup
 ||ad.ccmbg.com^
 ||ad.genybet.fr^
+||ad.munion.in^
 ||ad.net-c.com^
 ||ad.prismamediadigital.com^
 ||ad.vacanceo.com^
@@ -3619,6 +3622,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||anogaming.fr/*.php
 ||aolcdn.com/ads/
 ||api.wamland.com^
+||apk.miuor.com/footer.js
+||apk.miuor.com/header.js
 ||appleboobs.com/images/banner/
 ||april.fr/#/?$third-party
 ||arkea.com/banque/assurance/credit/upload/$image,third-party
@@ -5508,6 +5513,7 @@ toutcash.com/images/bandeau-
 ||hdfever.fr/wp-content/uploads/*/banni
 ||hdfever.fr/wp-content/uploads/*/habillage-
 ||hdfever.fr/wp-content/uploads/*/soldes
+||hentaifr.net/bg/
 ||hentaigratuit.org/delaypub.js
 ||hentaihaven.org/_
 ||hentaihaven.org/beta/
@@ -9161,6 +9167,7 @@ supertoinette.com##.g-ads-336-250
 israelmagazine.co.il##.g-dyn
 abidjanshow.com##.g1-ad
 abidjanshow.com##.g1-banner
+hentaifr.net##.ga-skin
 nautiljon.com##.gad
 gamekult.com##.gamerprices-tab
 voyages-sncf.com##.gondola-pub
