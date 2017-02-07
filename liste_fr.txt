@@ -983,6 +983,7 @@
 ?adRef=
 ?adroll_adv_id=
 ?adSelector=
+?advplaces=
 ?aff=*&roll=
 ?aff=*&size=
 ?bannertag=
@@ -2627,6 +2628,7 @@ data:*text/*html,$popup
 ||x-traff.com^$third-party
 ||x.porn.fr^$third-party
 ||xaddad.com^$third-party
+||xads.mobi^$third-party
 ||xaxa.in^$third-party
 ||xcapps.com^$third-party
 ||xfactact.com^$third-party
@@ -3569,6 +3571,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||affiliation.porn.fr^
 ||affiliationv4.porn.fr^
 ||agence-ecofin.com/mysimple/banners/
+||ah-me.com/flirt/
 ||ahlaejaba.com^$subdocument
 ||ajoutezvotrelien.com/visuel46.png
 ||akamaihd.net/*_vpaid.js
@@ -3689,6 +3692,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||camgasm.com/affiliates/
 ||camsympa.com/?tracker=$popup
 ||camtempel.com/banner/
+||camwhores.tv/banners/
 ||canaljeuvideo.com/var/storage/habillages/
 ||canalseduction.com/Bannieres/
 ||cashtravel.info/banners/
