@@ -1219,6 +1219,7 @@ _werbebanner_
 /ads?spot_id=$popup
 /ads_$popup
 /adserver/iframe.$popup
+/adserver/iframe?$popup
 /adservingsolutionsinc/*$popup
 /adstract.$popup
 /adsys.$popup
@@ -3412,6 +3413,7 @@ data:*text/*html,$popup
 ||slutroulette.com^$popup,third-party
 ||smart-dn.com^$popup,third-party
 ||smartadserver.com^$popup,third-party
+||smrtgs.com^$popup,third-party
 ||socialmanga.net^$popup,third-party
 ||socket-parser.work^$popup
 ||soosooka.com^$popup,third-party
@@ -4916,6 +4918,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||only2date.com^$popup
 ||rencontre-adulte.com^$popup
 ||sextreffen69.de^$popup
+||streaming-direct.co^$popup
 ||theprofitsmaker.net^$popup
 ||x-flirt.co^$popup
 ! kvid.org
@@ -5404,7 +5407,8 @@ toutcash.com/images/bandeau-
 ||films-ddl.net/domabar.js
 ||filmstreaming-hd.com/promo/
 ||filmstreaming-hd.com^$subdocument
-||filmstreaming1.com/templates/filmstreaming/images/pub
+||filmstreaming1.com/templates/filmstreaming/images/468
+||filmstreaming1.com/templates/filmstreaming/images/pub/
 ||filmzenstream.com/player.html
 ||fitshr.net/pg.php
 ||flam.me/*/divers/partners/
@@ -6735,6 +6739,7 @@ toutcash.com/images/bandeau-
 ||d3us2i0tqwa7m7.cloudfront.net^
 ||d42tbok7l2bg1.cloudfront.net^
 ||d49z64r3ud4kq.cloudfront.net^
+||d5em5plenp2k5.cloudfront.net^
 ||d5z42oph1suk.cloudfront.net^
 ||d6swopgiplmy0.cloudfront.net^
 ||d7gqsdo66itj3.cloudfront.net^
@@ -8127,6 +8132,7 @@ toutcash.com/images/bandeau-
 ##a[href*="/adagency/"] > img
 ##a[href*="/ads.php?ref="]
 ##a[href*="/ads/ad_link."]
+##a[href*="/adserver/iframe?"]
 ##a[href*="/adsrvmedia."]
 ##a[href*="/adstract."]
 ##a[href*="/afu.php?"]
@@ -8241,6 +8247,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://www.tradeadexchange.com/"]
 ##a[href^="http://www.xmediaserve.com/"]
 ##a[href^="http://www.yourfilezone.com/"]
+##a[href^="http://xch.smrtgs.com/"]
 ##a[href^="http://yotefiles.com/"]
 ##a[href^="https://admin.thrixxx.com/affiliates/"]
 ##a[href^="https://blockadz.com/?"]
