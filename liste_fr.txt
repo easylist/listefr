@@ -10506,6 +10506,7 @@ _adblockdetector/
 @@||wakanim.tv^*/video/advertisement?idepisode=
 @@||www.christineandthefans.com/blockadblock.js|$script,~third-party
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
+||afreesms.now.im/adblocker.js$script,domain=afreesms.com
 ! openload
 @@|https://easylist.club/*.js|$script,domain=openload.co
 ! mystream.la
