@@ -4825,6 +4825,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ! kvid.org
 |http://$script,subdocument,third-party,xmlhttprequest,domain=kvid.org
 |https://$script,subdocument,third-party,xmlhttprequest,domain=kvid.org
+! le-streaming.com
+@@||kvid.org/v2/vid-$subdocument,domain=le-streaming.com
+|http://$subdocument,third-party,domain=le-streaming.com
+|https://$subdocument,third-party,domain=le-streaming.com
 ! streamin.to
 @@||code.jquery.com/jquery-$script,domain=streamin.to
 |http://$script,third-party,xmlhttprequest,domain=streamin.to
@@ -4915,6 +4919,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||kstream.xyz^
 ||kvads.xyz^
 ||kvcdn.cf^
+||kvidcdn.cf^
+||kvstream.cf^
 !
 !----------------------- Sites spécifiques -----------------------!
 !
