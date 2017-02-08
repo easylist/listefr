@@ -1200,6 +1200,7 @@ _werbebanner_
 -banner.cib?$popup
 -popunder.php?$popup
 .adsrv.$popup
+.clksite.$popup
 .com.sa/ads?$popup
 .exclusiverewards.$popup
 .gamingaffiliation.$popup
@@ -1278,6 +1279,7 @@ _werbebanner_
 /packcpm.$popup
 /partner/click/*$popup
 /pdv/track.$popup
+/pop.redirect.$popup
 /pop?dfp_id=$popup
 /popads.$popup
 /popad|$popup
@@ -4881,7 +4883,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||cdn.j.gs^$script,third-party,domain=~adf.ly|~q.gs
 ||cdn.q.gs^$script,third-party,domain=~adf.ly|~j.gs
 ! linkbucks.com
-|http://$subdocument,domain=abnouneuuxbozmt.net|aptclkzmoelfm.net|bohjrmvzefy.net|cedrofltell.net|clictune.com|cquixlgothzm.net|cvwgklzfu.net|esywoeuo.net|ffhogexfyplgm.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|ikqksgum.net|inesajjovx.net|iurmxkchajoxppg.net|kcmzydgk.net|kkssrjkyduydc.net|linkbucks.com|lnzpbkeijlkmfdr.net|lskjpnkavksj.net|lzbsrxvkz.net|mcuzfdumqro.net|mnjsowaj.net|neayknle.net|pipkdrzb.net|rdzxxzabj.net|sa.ae|sugjtdizgo.net|tbyauqjvluik.net|tditbdczodoowf.net|tmccbzsxu.net|ubqgcbmrqjdcqn.net|vdmduttihyxsx.net|wxwqbpkr.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net|zypdvbupo.net
+|http://$subdocument,domain=abnouneuuxbozmt.net|aptclkzmoelfm.net|bohjrmvzefy.net|cedrofltell.net|clictune.com|cquixlgothzm.net|cvwgklzfu.net|esywoeuo.net|ffhogexfyplgm.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|ikqksgum.net|inesajjovx.net|iurmxkchajoxppg.net|kcmzydgk.net|kkssrjkyduydc.net|linkbucks.com|lnzpbkeijlkmfdr.net|lskjpnkavksj.net|lzbsrxvkz.net|mcuzfdumqro.net|mnjsowaj.net|neayknle.net|pipkdrzb.net|qdifkhrghxhbyw.net|rdzxxzabj.net|sa.ae|sugjtdizgo.net|tbyauqjvluik.net|tditbdczodoowf.net|tmccbzsxu.net|ubqgcbmrqjdcqn.net|vdmduttihyxsx.net|wxwqbpkr.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|ztevysowdzkkjw.net|zypdvbupo.net
 ||fidelityhouse.eu^$subdocument,third-party
 ||rements.com^$subdocument,third-party
 ||super-virals.com^$subdocument,third-party
