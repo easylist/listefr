@@ -358,6 +358,7 @@
 /adsf300.
 /adsleft.
 /adslider.
+/AdsManagementScript.
 /adsmanager.js
 /adsmouse.
 /adspage.
@@ -902,7 +903,6 @@
 /textlink-ads.
 /thumb_banner_frame.
 /TiscaliAds.
-/AdsManagementScript.
 /toastr.$domain=plancul-paris.net
 /totemtools/*
 /ttn_adspaces
@@ -3114,6 +3114,7 @@ data:*text/*html,$popup
 ||copyop-ads.com^$popup,third-party
 ||coquines-dispo.com^$popup,third-party
 ||cortexmg.com^$popup,third-party
+||cositin.com^$popup,third-party
 ||cound.info^$popup,third-party
 ||couponxplorer.com^$popup,third-party
 ||cpaclickoffer.com^$popup,third-party
@@ -3239,6 +3240,7 @@ data:*text/*html,$popup
 ||jeu-onepiece.fr^$popup,third-party
 ||jeu-onepiece2.fr^$popup,third-party
 ||jeubleach.fr^$popup,third-party
+||jolic2.com^$popup,third-party
 ||jsadapi.com^$popup,third-party
 ||justgetitfaster.com^$popup,third-party
 ||kastafor.com^$popup,third-party
@@ -3410,8 +3412,6 @@ data:*text/*html,$popup
 ||rvfrm2005.com^$popup,third-party
 ||safelinktracker.com^$popup,third-party
 ||safeshieldredir.com^$popup,third-party
-||jolic2.com^$popup,third-party
-||cositin.com^$popup,third-party
 ||salesforce.ma^$popup,third-party
 ||scredir10.com^$popup,third-party
 ||scripmode.info^$popup,third-party
