@@ -902,6 +902,7 @@
 /textlink-ads.
 /thumb_banner_frame.
 /TiscaliAds.
+/AdsManagementScript.
 /toastr.$domain=plancul-paris.net
 /totemtools/*
 /ttn_adspaces
@@ -3409,6 +3410,8 @@ data:*text/*html,$popup
 ||rvfrm2005.com^$popup,third-party
 ||safelinktracker.com^$popup,third-party
 ||safeshieldredir.com^$popup,third-party
+||jolic2.com^$popup,third-party
+||cositin.com^$popup,third-party
 ||salesforce.ma^$popup,third-party
 ||scredir10.com^$popup,third-party
 ||scripmode.info^$popup,third-party
