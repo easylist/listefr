@@ -738,6 +738,7 @@
 /promo/bannieres/*
 /promo/gif_banners/*
 /promo/livewebcam/*&id_affilie=
+/promos/banners/*$third-party
 /proxy_eds.php?
 /proxy_iframe.php?url=
 /ptp/banners/*
@@ -2976,6 +2977,7 @@ data:*text/*html,$popup
 ||ad-center.com^$popup,third-party
 ||ad-online.biz^$popup,third-party
 ||ad-sys.com^$popup,third-party
+||ad2upapp.com^$popup,third-party
 ||adbooth.com^$popup,third-party
 ||adbucks.com^$popup,third-party
 ||adcitrik.com^$popup,third-party
@@ -4908,9 +4910,11 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||hostpic.org^$domain=fdesouche.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
+||i.imgur.com/nUEuHxd.png
 ||i.imgur.com/PRdyOv3.gif
 ||i.imgur.com/qC2Tc51.png
 ||i.imgur.com/SmRC1lO.png
+||i.imgur.com/WI1faon.png
 ||i.imgur.com^$domain=nintendo-master.com|protect-stream.com
 ||i66.tinypic.com/2hriwxl.gif
 ||i66.tinypic.com/2la5w8n.jpg
