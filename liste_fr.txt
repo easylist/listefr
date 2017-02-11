@@ -753,6 +753,7 @@
 /pub-collante.
 /pub-colonne-droite/*
 /pub-ovh/*
+/pub-side/*
 /pub-sky.
 /pub.php?f=
 /Pub.php?iframe=
@@ -4100,6 +4101,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||merci-facteur.com/design/promo/
 ||mes-dialogues.net^*/mes-dialogues-js.php?
 ||mes-meilleurs-films.fr^$popup
+||messageries-adp.com/editeurs/medias/*/bandeau/
 ||metaffiliation.com/emplacement.php
 ||methode-finance.com^$popup,third-party
 ||meyclub.com/search?q=$popup,third-party
@@ -7797,6 +7799,8 @@ toutcash.com/images/bandeau-
 ##.midads
 ##.middle-publicite
 ##.mod-ad-middle
+##.mod-ad-top
+##.mod-ad-top-2
 ##.mod-advertisement
 ##.modAd
 ##.modalPub
