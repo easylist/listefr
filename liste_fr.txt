@@ -164,6 +164,7 @@
 .ma/ads/
 .ma/ads_
 .me/adver/
+.mobi/ads/
 .php/affiliate/
 .php?&zoneid=
 .php?*&bannerid*campaignid=
@@ -348,6 +349,7 @@
 /ads_server/*
 /ads_video.
 /adsatlas_
+/adsbyadsn.
 /adsc.js
 /adscores/*
 /adsdino.
@@ -497,6 +499,7 @@
 /bb728x90.
 /bens/vinos.js
 /bimages/*&ad=
+/bloc-midpubplug/*
 /blog/ads_
 /bnr.php?*&pub=
 /bnr.php?section=
@@ -1739,6 +1742,7 @@ data:*text/*html,$popup
 ||big-bang-empire.com^$third-party
 ||bigbangempire.tv^$third-party
 ||bigour.net^$third-party
+||billy.mobi^$third-party
 ||bitadspool.com^$third-party
 ||bizhentai.com^$third-party
 ||biznolimit.com^$third-party
@@ -6142,9 +6146,8 @@ toutcash.com/images/bandeau-
 ||porn0sexe.com/video-out-blocg.
 ||porn0sexe.com/video-out-footer.
 ||porno-2luxe.com/*/popon.js
-||porno-2luxe.com/bloc-midpubplug/
 ||porno-2luxe.com/lien-dl-hosted/
-||porno-2luxe.com/out/$popup
+||porno-2luxe.com^$popup,~third-party
 ||porno-gratuit.ws/boost/
 ||porno-gratuit.ws/images/catcher_
 ||porno-gratuit.ws/infopop.php
