@@ -5648,6 +5648,7 @@ toutcash.com/images/bandeau-
 ||jasonsavard.com/js/jasonsavard.js
 ||jeanmarcmorandini.com/sites/jeanmarcmorandini.com/files/morandinisante.jpg
 ||jeddl.net/images/ban-
+||jeddl.org^$popup,~third-party
 ||jemangejemincis.fr/wp-content/uploads/*banner
 ||jemontremalingerie.com/*.php
 ||jemontremesfesses.com/*.php
@@ -7756,6 +7757,8 @@ toutcash.com/images/bandeau-
 ##.large-ad-center-close
 ##.leaderboard728
 ##.leftSideAds
+##.left_middle_ad
+##.left_top_ad
 ##.leftmenupub
 ##.lftBigAds
 ##.lien_commerciaux_bann
@@ -8032,6 +8035,8 @@ toutcash.com/images/bandeau-
 ##.rightPub
 ##.rightRailAdContainer
 ##.right_advertissment
+##.right_middle_ad
+##.right_top_ad
 ##.rigthpubvideo
 ##.ritBigAds
 ##.row_pub
@@ -9943,7 +9948,7 @@ lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 file.up09.com##a[target="_blank"]
-journaldu4x4.com,planet-streaming.com,seriezone.org##a[target="_blank"] > img
+jeddl.org,journaldu4x4.com,planet-streaming.com,seriezone.org##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 lefigaro.fr##a[target="_blank"] > img[style="width: 463px; height: 170px;"]
