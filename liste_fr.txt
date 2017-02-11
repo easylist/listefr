@@ -1145,6 +1145,7 @@ _werbebanner_
 /cdn-cgi/pe/bag2?*waframedia*.com
 /cdn-cgi/pe/bag2?*xpopunder.
 /cdn-cgi/pe/bag2?*yesmessenger.com
+/cdn-cgi/pe/bag2?*zwaar.org
 !
 ||accountant^*/|$script,third-party,xmlhttprequest
 ||bid^*/|$script,third-party,xmlhttprequest
@@ -6701,6 +6702,7 @@ toutcash.com/images/bandeau-
 ||d1sj3yrs7ojvv7.cloudfront.net^
 ||d1sqvj6uj0ght6.cloudfront.net^
 ||d1uydqzj7b9nt9.cloudfront.net^
+||d1v6js7bjzmhoa.cloudfront.net^
 ||d1vguuq5efvsfq.cloudfront.net^
 ||d1vp02a2w2d335.cloudfront.net^
 ||d1vwpe7grtcv9d.cloudfront.net^
@@ -7786,6 +7788,7 @@ toutcash.com/images/bandeau-
 ##.megapub
 ##.midads
 ##.middle-publicite
+##.mod-ad-middle
 ##.mod-advertisement
 ##.modAd
 ##.modalPub
