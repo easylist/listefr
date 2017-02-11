@@ -5525,6 +5525,7 @@ toutcash.com/images/bandeau-
 ||gameonly.com^*/include/pub/
 ||gamer-network.fr/wp-content/*/g2a-
 ||gamer-network.fr/wp-content/uploads/*/banniere.
+||gamereactor.dk/prerolls/
 ||geek-malin.fr/pm-728.gif
 ||geekopolis.fr/images/habillage_$image
 ||generation-nt.com/img/habillages/
@@ -6901,6 +6902,8 @@ toutcash.com/images/bandeau-
 ###ad_mpu_1_placeholder
 ###ad_placement_workopolis
 ###ad_rotation_match
+###ad_smartphbig
+###ad_video
 ###adcontainerAdSense
 ###adcontainer_recherche
 ###adleftgame
@@ -7478,6 +7481,8 @@ toutcash.com/images/bandeau-
 ##.ad_hidden
 ##.ad_placholder
 ##.ad_sense
+##.ad_smartphbig
+##.ad_video
 ##.ad_visible
 ##.adavert-center
 ##.adbanner600active
@@ -8164,6 +8169,7 @@ toutcash.com/images/bandeau-
 ##a[href*="/a/display.php?"]
 ##a[href*="/adServe/banners?"]
 ##a[href*="/adagency/"] > img
+##a[href*="/adclick."]
 ##a[href*="/ads.php?ref="]
 ##a[href*="/ads/ad_link."]
 ##a[href*="/adserver/iframe?"]
