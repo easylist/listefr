@@ -2108,6 +2108,7 @@ data:*text/*html,$popup
 ||linksprotection.com^$third-party
 ||linksynergy.com^$third-party
 ||linqallgood.net^$third-party
+||live18ans.com^$third-party
 ||livefreefunwith.me^$third-party
 ||liveparadise.com^$third-party
 ||liversely.com^$third-party
@@ -4011,10 +4012,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||link.tl^$script,third-party
 ||links-protection.com/*.htm$subdocument
 ||live.prismamediadigital.com^
-||live18ans.com^$subdocument
 ||livecareer.fr^$popup,domain=pole-emploi.fr
 ||livehost.fr^*/bannieres/
-||livejasmin.com/pu/$popup,third-party
+||livejasmin.com/pu/$popup
 ||livementor.com/widget-livementor?$third-party
 ||localbitcoins.com/affiliate-
 ||locamax.fr^*?popup=$popup
@@ -4077,6 +4077,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||montjeuturf.net/bannieres/
 ||montrealaise.com^$domain=montrealamateur.com
 ||moovijob.com/partenaires/$third-party
+||motherless.com/*?i=
 ||motion-twin.com/goto/$popup
 ||mottodistribution.com^*/placeholder/
 ||movietrailer.click^$subdocument
@@ -8459,7 +8460,7 @@ flyordie.com###dasb
 edcom.fr###decouvrirActu
 lareclame.fr###dfp-top
 118218.fr###dfp_left
-only-stream.com###disclaimer
+a18ans.com,only-stream.com###disclaimer
 voyageforum.com###divArroundTableListx1
 videostep.com###divBrandVideo1
 videostep.com###divBrandVideo2
@@ -9853,6 +9854,7 @@ cdclicks.com##a[href^="http://fr.vegasmaster.com/"]
 brunotritsch.fr##a[href^="http://fr.webmaster-rank.info/stat/affiliate/"]
 lefigaro.fr##a[href^="http://lefigaro.explorimmo.com/resultat/annonces.html?"]
 ovnis-direct.com##a[href^="http://ligneker.com/"]
+a18ans.com##a[href^="http://media.a18ans.com/"]
 moviz-telecharger.com##a[href^="http://moviz-telecharger.com/films-en-qualité-hd-"]
 opensubtitles.org##a[href^="http://osdb.link/go?"]
 annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
