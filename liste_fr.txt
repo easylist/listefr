@@ -89,7 +89,6 @@
 -728-x-90-
 -728_90.
 -728v90.
--729x91-
 -730x90.
 -90x600-
 -90x728_
@@ -115,7 +114,6 @@
 -pub-300x250.
 -pub-ads/
 -reklama-300x300.
--sync2ad-
 -viceads.
 -viewability.
 .ad/banner/
@@ -317,7 +315,6 @@
 /ads/300/250/*
 /ads/468/60/*
 /ads/728/90/*
-/ads/ab/*
 /ads/ad1.
 /Ads/ad_
 /ads/banner02.
@@ -891,14 +888,12 @@
 /slide_banner/*
 /slidegirlad.
 /slider.php?&pub=$script
-/smartad/*
 /smartad_
 /smartclick.js
 /srv.php?size=300x250
 /srv.php?size=315x300
 /static/t/b.js
 /supersonicads-
-/sync2ad.
 /syndication/pub/*
 /Tag/go2?url=$subdocument
 /tag468.php
@@ -1514,7 +1509,6 @@ data:*text/*html,$popup
 ||adback.co^$third-party
 ||adbox.lt^$third-party
 ||adcapt.com^$third-party
-||adcarem.co^$third-party
 ||adcitrik.com^$third-party
 ||adclerks.com^$third-party
 ||adclick.lt^$third-party
@@ -1528,8 +1522,6 @@ data:*text/*html,$popup
 ||adfever.com^$third-party
 ||adg99.com^$third-party
 ||adgoi-1.net^$third-party
-||adgoi.com^$third-party
-||adgoi.mobi^$third-party
 ||adhispanic.com^$third-party
 ||adhit.me^$third-party
 ||adhoc1.net^$third-party
@@ -1625,7 +1617,6 @@ data:*text/*html,$popup
 ||adswinner.com^$third-party
 ||adsximg.com^$third-party
 ||adsxxxtraff.com^$third-party
-||adszom.com^$third-party
 ||adtech.com^$third-party
 ||adten.eu^$third-party
 ||adtify.pl^$third-party
@@ -1689,7 +1680,6 @@ data:*text/*html,$popup
 ||akuitsdre.in^$third-party
 ||aleja.lt^$third-party
 ||algocashmaster.com^$third-party
-||alipromo.com^$third-party
 ||alldomserv2.com^$third-party
 ||allo-audience.fr^$third-party
 ||alloclick.com^$third-party
@@ -1829,7 +1819,6 @@ data:*text/*html,$popup
 ||clkmon.com^$third-party
 ||closestloyaltyand.xyz^$third-party
 ||cms-skin.com^$third-party
-||codeonclick.com^$third-party
 ||coindushopping.fr^$third-party
 ||coloredview.com^$third-party
 ||comandclick.com^$third-party
@@ -1974,7 +1963,6 @@ data:*text/*html,$popup
 ||forcesdevente.ma^$third-party
 ||forevermelodicheidegger.info^$third-party
 ||foxserie.com^$script,third-party
-||friesmeasureretain.info^$third-party
 ||frtyi.com^$third-party
 ||fullon.tv^$third-party
 ||fullscreens.fr^$third-party
@@ -2030,7 +2018,6 @@ data:*text/*html,$popup
 ||hotclicks.com.br^$third-party
 ||hsoub.com^$third-party
 ||hyperline88.com^$third-party
-||hyperpromote.com^$third-party
 ||i-promotion.net^$third-party
 ||iaffiliates.com^$third-party
 ||icileweb.com^$third-party
@@ -2079,7 +2066,6 @@ data:*text/*html,$popup
 ||jeu-onepiece.fr^$third-party
 ||jeu-onepiece2.fr^$third-party
 ||jeubleach.fr^$third-party
-||jfduv7.com^$third-party
 ||jixing8.com^$third-party
 ||jointspellgot.com^$third-party
 ||jor1.net^$third-party
@@ -2244,8 +2230,6 @@ data:*text/*html,$popup
 ||netnet44.net^$third-party
 ||networkmanag.com^$third-party
 ||never-break.com^$third-party
-||new-new-years.com^$third-party
-||new17write.com^$third-party
 ||nile-ads.com^$third-party
 ||ninjapd.com^$third-party
 ||nlass9o4.online^$third-party
@@ -2313,7 +2297,6 @@ data:*text/*html,$popup
 ||phuc.cc^$third-party
 ||physoi.eu^$third-party
 ||picxxxhub.com^$third-party
-||pipsol.net^$third-party
 ||piximedia.com^$third-party
 ||piximedia.fr^$third-party
 ||pkthop.com^$third-party
@@ -2341,7 +2324,6 @@ data:*text/*html,$popup
 ||ppcadmedia.com^$third-party
 ||ppndr.xyz^$third-party
 ||pprx.work^$third-party
-||predictivadnetwork.com^$third-party
 ||predictivadvertising.com^$third-party
 ||privetadblock.ru^$third-party
 ||proche2moi.com^$third-party
@@ -2371,7 +2353,6 @@ data:*text/*html,$popup
 ||pubagence.net^$third-party
 ||publicideas.com^$third-party
 ||publike.fr^$third-party
-||publited.com^$third-party
 ||puboclic.com^$third-party
 ||pubovore.com^$third-party
 ||pubwebnet.com^$third-party
@@ -2485,7 +2466,6 @@ data:*text/*html,$popup
 ||smartstream.tv^$third-party
 ||smartxads.com^$third-party
 ||smartxads^$third-party
-||smilered.com^$third-party
 ||smrtgsrtbsourceads.net
 ||snake-leads.com^$third-party
 ||socialmanga.net^$third-party
@@ -2496,7 +2476,6 @@ data:*text/*html,$popup
 ||sperse.com^$third-party
 ||sporary.eu^$third-party
 ||spykemediatrack.com^$third-party
-||ssl-services.com^$third-party
 ||statisticresearch.com^$third-party
 ||stickredgr.online^$third-party
 ||stickyads.tv^$third-party
@@ -2676,7 +2655,6 @@ data:*text/*html,$popup
 ||xfreeservice.com^$third-party
 ||xiepl.com^$third-party
 ||xl415.com^$third-party
-||xmas-xmas-wow.com^$third-party
 ||xmediaserve.com^$third-party
 ||xpu99tyg.lol^$third-party
 ||xsnap.me^$third-party
@@ -2698,7 +2676,6 @@ data:*text/*html,$popup
 ||you-hentai.com^$third-party
 ||youzapping.com^$third-party
 ||yoyadsdom.com^$third-party
-||yuhuads.com^$third-party
 ||yx-ads*.com^$third-party
 ||z-barre.com^$third-party
 ||z-cache.com^$third-party
@@ -2783,7 +2760,6 @@ data:*text/*html,$popup
 ||eixu1wu.top^$third-party
 ||eo7iesa.bid^$third-party
 ||erufu7p.bid^$third-party
-||etah6wu.top^$third-party
 ||fae5ret.top^$third-party
 ||fe7ooni.top^$third-party
 ||foh6bah.top^$third-party
@@ -2791,7 +2767,6 @@ data:*text/*html,$popup
 ||gai9h7.top^$third-party
 ||gei7oos.top^$third-party
 ||gie8aic.top^$third-party
-||giu9aab.bid^$third-party
 ||goo8ex8.bid^$third-party
 ||ha8ohfi.top^$third-party
 ||hahpe0o.top^$third-party
@@ -2857,7 +2832,6 @@ data:*text/*html,$popup
 ||quoo5ie.bid^$third-party
 ||rah7uph.bid^$third-party
 ||s94u13.top^$third-party
-||sa2eoqu.bid^$third-party
 ||sae3phu.bid^$third-party
 ||sei9poo.top^$third-party
 ||siphic5.top^$third-party
@@ -2918,7 +2892,6 @@ data:*text/*html,$popup
 ||kriaspuy.net^$third-party
 ||kuamanan.com^$third-party
 ||ootloakr.com^$third-party
-||picstunoar.com^$third-party
 ||plex2.com^$third-party
 ||poaulpos.net^$third-party
 ||puoplord.link^$third-party
@@ -2926,10 +2899,7 @@ data:*text/*html,$popup
 ||quandrer.link^$third-party
 ||qwewas.info^$third-party
 ||ruandr.link^$third-party
-||shoapinh.com^$third-party
 ||slacaxy.com^$third-party
-||smethgiar.com^$third-party
-||spamualfr.com^$third-party
 ||tersur.link^$third-party
 ||vualawilk.com^$third-party
 !
@@ -2980,7 +2950,6 @@ data:*text/*html,$popup
 ||ad-online.biz^$popup,third-party
 ||ad-sys.com^$popup,third-party
 ||ad2upapp.com^$popup,third-party
-||adbooth.com^$popup,third-party
 ||adbucks.com^$popup,third-party
 ||adcitrik.com^$popup,third-party
 ||addragonppc.com^$popup,third-party
@@ -3121,7 +3090,6 @@ data:*text/*html,$popup
 ||copyop-ads.com^$popup,third-party
 ||coquines-dispo.com^$popup,third-party
 ||cortexmg.com^$popup,third-party
-||cositin.com^$popup,third-party
 ||cound.info^$popup,third-party
 ||couponxplorer.com^$popup,third-party
 ||cpaclickoffer.com^$popup,third-party
@@ -3169,7 +3137,6 @@ data:*text/*html,$popup
 ||esprit-click.com^$popup,third-party
 ||europacash.com^$popup,third-party
 ||exasharetab.com^$popup,third-party
-||exdynsrv.com^$popup,third-party
 ||exhaustionlaurenbremsstrahlung.info^$popup,third-party
 ||exosrv.com^$popup,third-party
 ||expertweb.xyz^$popup,third-party
@@ -3196,7 +3163,6 @@ data:*text/*html,$popup
 ||geniusdisplay.com^$popup,third-party
 ||gernewt.info^$popup,third-party
 ||gernu.info^$popup,third-party
-||gerwen.info^$popup,third-party
 ||gestionpub.com^$popup,third-party
 ||get-my-ads.com^$popup,third-party
 ||getfile136.com^$popup,third-party
@@ -3258,7 +3224,6 @@ data:*text/*html,$popup
 ||leadzu.com^$popup,third-party
 ||leadzupc.com^$popup,third-party
 ||leagueplayoff.com^$popup,third-party
-||linkmyc.com^$popup,third-party
 ||linkredirect.biz^$popup,third-party
 ||lionsdrive.com^$popup,third-party
 ||livechatdates.com^$popup,third-party
@@ -3351,7 +3316,6 @@ data:*text/*html,$popup
 ||parsersword.info^$popup,third-party
 ||parserward.info^$popup,third-party
 ||parserwoad.info^$popup,third-party
-||parserworld.info^$popup,third-party
 ||pathere.info^$popup,third-party
 ||pdn-1.com^$popup,third-party
 ||pdn-2.com^$popup,third-party
@@ -7906,7 +7870,6 @@ toutcash.com/images/bandeau-
 ##.pubBox
 ##.pubContainer
 ##.pubContent
-##.pubDesk
 ##.pubFlash
 ##.pubGoodDeals
 ##.pubGoogle300
@@ -8030,7 +7993,6 @@ toutcash.com/images/bandeau-
 ##.pubsoustag
 ##.pubwrapper
 ##.purple-ad
-##.quads-location
 ##.recipe-col-droite-ad
 ##.recipe-col-droite-ad-caption
 ##.red-ad
@@ -8069,7 +8031,6 @@ toutcash.com/images/bandeau-
 ##.show_banner_bottom_leaderboard
 ##.show_banner_leaderboard
 ##.sidbar-ad1
-##.side-ad-inner
 ##.side-pub
 ##.side-pub-img
 ##.side_content_pub
@@ -8200,7 +8161,6 @@ toutcash.com/images/bandeau-
 ##a[href*="?ad_id="]
 ##a[href*="_728x90_bleach_adb"]
 ##a[href*="_728x90_bleachsx_adb"]
-##a[href*="ad2upapp.com/"]
 ##a[href*="ads_random"]
 ##a[href*="ducklingquacks.com/"]
 ##a[href*="fastclick.net/ad/"]
@@ -8266,7 +8226,6 @@ toutcash.com/images/bandeau-
 ##a[href^="http://sexgamedevil.com/?"]
 ##a[href^="http://share.payoneer-affiliates.com/"]
 ##a[href^="http://styleapplicationzillion.com/"]
-##a[href^="http://t.mdn2015x1.com/"]
 ##a[href^="http://t2lgo.com/"]
 ##a[href^="http://threate.info/"]
 ##a[href^="http://www.affiliation-france.com/"]
@@ -8286,7 +8245,6 @@ toutcash.com/images/bandeau-
 ##a[href^="http://www.questiondivine.com/?ctid="]
 ##a[href^="http://www.sexgangsters.com/?"]
 ##a[href^="http://www.tradeadexchange.com/"]
-##a[href^="http://www.xmediaserve.com/"]
 ##a[href^="http://www.yourfilezone.com/"]
 ##a[href^="http://xch.smrtgs.com/"]
 ##a[href^="http://yotefiles.com/"]
@@ -10606,13 +10564,10 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||partage-facile.com^$generichide
 @@||rapidebrideur.com^$elemhide
 @@||savefile.co^$generichide
-@@||shink.in^$generichide
 @@||softmaroc.org^$generichide
 @@||sos-lettre.fr^$generichide
 @@||sospc.name^$generichide
-@@||streaming-sport.tv^$generichide
 @@||the-night-of-streaming.eu^$generichide
-@@||tinypaste.me^$generichide
 @@||total-sport.tv^$elemhide
 @@||tout-debrid.net^$generichide
 @@||tuxboard.com^$generichide
