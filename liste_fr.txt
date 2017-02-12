@@ -313,6 +313,7 @@
 /ads/250x250.
 /ads/3-728.
 /ads/300/250/*
+/ads/4.0/*
 /ads/468/60/*
 /ads/728/90/*
 /ads/ad1.
@@ -3953,7 +3954,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||jobat.be/ticker/$subdocument,third-party
 ||jobup.ch/*?server=$third-party
 ||jokconcept.net/images/jok-concept-annuaire-referencement.gif
+||jolstatic.fr/www/modules/pub/
 ||jolstatic.fr/www/skins/
+||jolstatic.fr/www/themes/*/habi
 ||jrphotographie.com/pub/
 ||js.stream-up.com/fonctions.min.js?
 ||kaltura.com^*/a.mp4|$media
