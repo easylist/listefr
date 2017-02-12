@@ -100,11 +100,13 @@
 -ads-300x250.
 -ads/ads.
 -adsmanager/
+-animated-ad.
 -ban.468.php
 -banner-300x250.
 -banner250-
 -banner300-
 -banner728.
+-banner_600x100.
 -cgi/ads/
 -display-ads_
 -emarketplace.
@@ -4505,6 +4507,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||dmcdn.net/playerv5/12a06867ddcb99322541.dmp.js
 ||dmcdn.net/playerv5/152cfcd3fdbcc85f376e.dmp.js
 ||dmcdn.net/playerv5/16a9fe29923d61776bff.dmp.js
+||dmcdn.net/playerv5/16d7940318620309f009.dmp.js
 ||dmcdn.net/playerv5/21164592a2e8ab21f8a4.dmp.js
 ||dmcdn.net/playerv5/215e05c2cbfee2c63b90.dmp.js
 ||dmcdn.net/playerv5/251ba43b95f48375a104.dmp.js
@@ -4521,9 +4524,11 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||dmcdn.net/playerv5/783a5fdf7e7c8f4bdfe7.dmp.js
 ||dmcdn.net/playerv5/78429012029f32ff3b8b.dmp.js
 ||dmcdn.net/playerv5/786aa946f4f14ce02088.dmp.js
+||dmcdn.net/playerv5/a62796d4dccfc4188956.dmp.js
 ||dmcdn.net/playerv5/aa95432bbe0fd16c515e.dmp.js
 ||dmcdn.net/playerv5/bef9a7aa9e52bf674623.dmp.js
 ||dmcdn.net/playerv5/ca9b8e4a4391f749ab18.dmp.js
+||dmcdn.net/playerv5/da72f24765e8bdaa5aa4.dmp.js
 ||dmcdn.net/playerv5/e535b47860bb25b01252.dmp.js
 ||dmcdn.net/playerv5/eb08295c3e70c7c160b7.dmp.js
 ||dmcdn.net/playerv5/eb8722eb6f866d1cf35d.dmp.js
@@ -10319,6 +10324,7 @@ femmesplus.fr##section[id] > img
 @@||photo.fr/img/ad_$image
 @@||planet-casio.com/images/ad/$image,~third-party
 @@||player.ooyala.com/static/*/stable/*/ad-plugin/google_ima.min.js|$script,domain=commentcamarche.net
+@@||premiere.fr/inextenso/uploads/300x150_$image,domain=premiere.fr
 @@||programme-tv.net/widget-tv/programme-tv.html?$subdocument
 @@||quefaire.be/annonces/imgads/$image
 @@||reseauforum.org/*/modules/ad/serve.php?$domain=reseauforum.org
