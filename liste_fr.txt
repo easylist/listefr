@@ -2711,6 +2711,7 @@ data:*text/*html,$popup
 ||viperishly.com^$third-party
 ||zert.ovh^$third-party
 ! popads.net
+||bolgooltxygp.com^$third-party
 ||cmdotgwjhpqf.com^$third-party
 ||gllkdkxygckb.com^$third-party
 ||jfaqiomgvajb.com^$third-party
@@ -2726,6 +2727,7 @@ data:*text/*html,$popup
 ||ukxeudykhgdi.com^$third-party
 ||vsgherxdcfon.com^$third-party
 ||vshsjxfjehju.com^$third-party
+||wqrwopgkkohk.com^$third-party
 ||xgzybmbwfmjd.com^$third-party
 ||zfmqywrpazlx.com^$third-party
 ! admeasures.com
@@ -10550,6 +10552,7 @@ _blockadblock_
 @@|https://easylist.club/*.js|$script,domain=openload.co
 ! mystream.la
 @@||mystream.la/js/pop.js|$script,domain=mystream.la
+||mystream.la/ext/
 ||mystream.la/js/*.js?
 ! youwatch.org / exashare.com / allvid.ch
 @@|http://coo5shaine.com/js/pop.js|$script,domain=coo5shaine.com
@@ -10557,6 +10560,7 @@ _blockadblock_
 @@|http://ohbuegh3ev.com/js/show_ads.js|$script,domain=ohbuegh3ev.com
 @@|http://oogh8ot0el.com/ads/pop-under.js|$script,domain=oogh8ot0el.com
 @@|http://oogh8ot0el.com/js/-ad-big.js|$script,domain=oogh8ot0el.com
+@@||educing.info/popunder.gif|$image,domain=ohbuegh3ev.com
 !
 leveldown.fr#@##adblock
 bleachmx.co#@##adsense
