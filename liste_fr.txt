@@ -10488,6 +10488,7 @@ _blockadblock_
 @@||ad4.liverail.com/?_=$domain=gamingroom.tv
 @@||ad4.liverail.com/|$image,domain=leveldown.fr
 @@||ads.stickyadstv.com/www/delivery/swfIndex.php?$xmlhttprequest,domain=wakanim.tv
+@@||afreesms.now.im/adblocker.js$script,domain=afreesms.com
 @@||audipassion.com^*/jsLoader.js?adType=foobar
 @@||ay.gy/static/js/advert.js|$script,domain=adf.ly|ay.gy|j.gs|q.gs
 @@||badibadou.eu/*.js?auto=$script,third-party
@@ -10545,7 +10546,6 @@ _blockadblock_
 @@||wakanim.tv^*/video/advertisement?idepisode=
 @@||www.christineandthefans.com/blockadblock.js|$script,~third-party
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
-||afreesms.now.im/adblocker.js$script,domain=afreesms.com
 ! openload
 @@|https://easylist.club/*.js|$script,domain=openload.co
 ! mystream.la
