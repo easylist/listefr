@@ -4701,11 +4701,12 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 |http://$popup,script,third-party,domain=zetorrento.fr|zetorrents.com
 |https://$popup,script,third-party,domain=zetorrento.fr|zetorrents.com
 ! torrent9.tv
-@@||ajax.googleapis.com/ajax/libs/$script,domain=torrent9.biz
-@@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=torrent9.biz
-|http://$popup,script,third-party,domain=torrent9.biz|torrent9.me|torrent9.tv|torrent9.ws
-|https://$popup,script,third-party,domain=torrent9.biz|torrent9.me|torrent9.tv|torrent9.ws
+@@||ajax.googleapis.com/ajax/libs/$script,domain=torrent9.biz|torrents9.tv
+@@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=torrent9.biz|torrents9.tv
+|http://$popup,script,third-party,domain=torrent9.biz|torrent9.me|torrent9.tv|torrent9.ws|torrents9.tv
+|https://$popup,script,third-party,domain=torrent9.biz|torrent9.me|torrent9.tv|torrent9.ws|torrents9.tv
 ||torrent9.biz/top_torrent.php$popup
+||torrents9.tv/top_torrent.php$popup
 ! ex-down.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=extreme-protect.net
 |http://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.org|extreme-down.ws|extreme-protect.net|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
@@ -6461,6 +6462,7 @@ toutcash.com/images/bandeau-
 ||torrentfrancais.com/z2/direct-telechargement.png
 ||torrentfrancais.eu/includes/external/fakeplayer/
 ||torrentfrançais.fr/wp-content/uploads/HMA
+||torrents9.tv/cdn-cgi/pe/bag2?
 ||totonova.com/images/p.jpg
 ||toucharger.com/pub_iframe.
 ||touslesprix.com/img_*/background/
@@ -9773,11 +9775,11 @@ free-telechargement.org,streaming-telechargementz.net,telechargementz-streaming.
 thebadbuzz.com##a[href$="/boost.php"]
 sites-torrent.com##a[href$="/seedbox"]
 opensubtitles.org##a[href$="=="][rel="nofollow"]
-torrent9.biz##a[href*=" "]
+torrent9.biz,torrents9.tv##a[href*=" "]
 sante-nutrition.org##a[href*="&pos="]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
-torrent9.biz##a[href*="+"]
+torrent9.biz,torrents9.tv##a[href*="+"]
 telechargement-film.org##a[href*="-film-"]
 9divx.org,likeur.org##a[href*="-vip.html"]
 9divx.org,films-telecharger.eu,frtorrent.fr,jetelecharger1.fr,vfstream.biz##a[href*=".php"]
