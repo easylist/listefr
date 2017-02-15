@@ -4773,6 +4773,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=completvf.com|filmzenstream.com
 |http://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com
 |https://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com
+! 2ddl
+@@||ajax.googleapis.com/ajax/libs/$script,domain=2ddl.org
+|http://$script,third-party,domain=2ddl.org|twoddl.tv
+|https://$script,third-party,domain=2ddl.org|twoddl.tv
 ! lectureduweb.fr (dblock-ads.com)
 @@||ajax.googleapis.com/ajax/libs/$script,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
@@ -9953,6 +9957,7 @@ lalibre.be##a[href^="https://www.ipmstore.be/"] > img
 credit-agricole.fr##a[href^="https://www.onatousuncotefoot.fr/"]
 undernews.fr##a[href^="https://www.undernews.fr/redirect/"]
 braindamaged.fr##a[href^="index.php?adclick="]
+2ddl.org##a[href^="javascript:"]
 windsurfjournal.com##a[href^="link,"]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
