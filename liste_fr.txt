@@ -1335,6 +1335,7 @@ _werbebanner_
 /watch?*&uuid=*&refer=*&key=$popup
 /www/go/*?zoneid=$popup
 /xdirect/*$popup
+/xmladserver.$popup
 ://adv-mybankai.$popup
 ://adv-mylegend.$popup
 ://adv-myninja.$popup
@@ -4282,6 +4283,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||salopes-du-jour.com/sexy.js
 ||scubastore.com^$popup,domain=sous-la-mer.com
 ||seargg.xyz^$popup
+||securitetotale.com^$subdocument,third-party
 ||seo-autosurf.esy.es^*/upload/bannieres/
 ||seriefr.xyz^*?r=$popup
 ||series-en-streaming.tv^*?r=$popup
