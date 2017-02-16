@@ -4001,7 +4001,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||lacentrale.fr^$domain=nouvelobs.com
 ||ladmedia.fr/includes/cobrand/*/habillage/
 ||ladmedia.fr^*/le-guide/
-||lafourchette.com^*/widget.js$domain=strasbourg-tramway.fr
 ||lafranceapoil.com/tools/
 ||lagence.fr/*728-
 ||lagitane.com/ban-sites-phares/
@@ -4413,6 +4412,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||tripadvisor.*/PriceFinderPopunder$popup
 ||tripadvisor.*/WidgetEmbed-*&partnerId=
 ||tripleclicks.com^$subdocument
+||trivago.fr^/srv/$third-party
 ||trouart.fr/labo/
 ||tube-manga-hentai.com/promo/a.php?
 ||tube-manga-hentai.com/tools/bannieres/
@@ -8178,6 +8178,7 @@ toutcash.com/images/bandeau-
 ##A[onclick*="://www.duckcash.eu/AF_"]
 ##A[onclick^="CustomWLAdServer."]
 ##[class*="proadszoneholder-"]
+##[class^="trivago_widget_"]
 ##[data-type="ligatus-script"]
 ##[id*="/adunblock_"] > iframe
 ##[id*="_ads_id_"]
@@ -8948,7 +8949,6 @@ jeuxvideo.com###wootbox_campaign
 priceminister.com###wrap[style="width: 685px; height: 125px; overflow: hidden"]
 frequence-radio.com###wrap_pub_listing
 casatv.ca###wrapperbanner
-strasbourg-tramway.fr###ws_embed_footer
 troc-velo.com###xpubpart
 yahoo.com###yad-billboard
 programme.tv###zeromask
@@ -10076,7 +10076,6 @@ bricozone.be##div[style="width: 728px; height: 90px; overflow: hidden;"]
 dzfoot.com##div[style="width:100%;  height:587px;"]
 h-suki.com##div[style="width:1020px;\a margin-left: auto; text-align:center;\a margin-right: auto; height: 100px;"]
 forum.webxfrance.org##div[style="width:1230px; height: 110px; background-color: #eff1f1"]
-strasbourg-tramway.fr##div[style="width:125px;height:125px;text-align:center"]
 cinemay.com##div[style="width:160px; height:600px; background-color:#ffffff; float:right;"]
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr##div[style="width:300px; height:250px;margin:10px; margin: 0 auto; padding:15px 0; clear:both;"]
 koreus.com,picasion.com##div[style="width:300px;height:250px;"]
