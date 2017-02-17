@@ -4815,6 +4815,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ! hqq.tv
 |http://$script,third-party,domain=hqq.tv
 |https://$script,third-party,domain=hqq.tv
+! t7melat.org
+@@||cdn.rawgit.com/gkatsev/$script,domain=t7melat.org
+|http://$script,third-party,xmlhttprequest,domain=t7melat.org
+|https://$script,third-party,xmlhttprequest,domain=t7melat.org
 ! thepiratebay.org
 @@|https://thepiratebay.org/static/js/jquery.min.js|$script,~third-party
 @@|https://thepiratebay.org/static/js/tpb.js|$script,~third-party
