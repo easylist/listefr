@@ -9668,7 +9668,6 @@ skyyart.fr##.sponsors
 fifa.com##.sponsors-section
 msn.com##.sponsorship
 msn.com##.startpage > div.refreshbody[style^="top:"]
-cpasbien-torrents.fr##.story + center > a
 msn.com##.stripecontainer[data-section-id="stripe.msstore"]
 imobie.fr##.support_guide_download_upper
 forum.sportytrader.com##.tableau_bleu
@@ -9768,6 +9767,7 @@ uploaded.net##[class*="pico-"]
 t411.bz,t411.ch,t411.cl,t411.la,t411.lc,t411.li,t411.lt,t411.lv,t411.tv##[class] + div > img + a
 bestream.tv##[class^="adsRemove"]
 jeu.info##[class^="banniere-"]
+cpasbien-torrents.fr##[class^="fstory"] + center > a
 forumconstruire.com##[class^="habillage"]
 igen.fr,macg.co,orange.fr##[class^="lig_"]
 nrj.fr##[class^="modal"]
