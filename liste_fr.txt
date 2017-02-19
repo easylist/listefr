@@ -1082,6 +1082,7 @@ _adstyle.
 _adv.js
 _advertising_img.
 _alenty.js
+_b468x60.
 _banner_46860.
 _bnrrotator_
 _domain=ads.
@@ -1760,6 +1761,7 @@ data:*text/*html,$popup
 ||bigour.net^$third-party
 ||billy.mobi^$third-party
 ||bitadspool.com^$third-party
+||bitcoset.com^$third-party
 ||bizhentai.com^$third-party
 ||biznolimit.com^$third-party
 ||bleach.fr^$third-party
@@ -10047,6 +10049,7 @@ petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 jam-mag.com##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"] > img
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
+achat-bitcoins.com##a[rel="nofollow"] > img
 zetorrente.fr,zetorrents.com##a[rel]
 file.up09.com##a[target="_blank"]
 footnamurois.com,jeddl.org,journaldu4x4.com,planet-streaming.com,seriezone.org##a[target="_blank"] > img
