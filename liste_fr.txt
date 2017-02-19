@@ -322,6 +322,7 @@
 /ads/468/60/*
 /ads/728/90/*
 /ads/ad1.
+/ads/ad2.
 /Ads/ad_
 /ads/banner02.
 /ads/banner03.
@@ -5245,8 +5246,7 @@ toutcash.com/images/bandeau-
 ||camptocamp.org/static/images/pub/
 ||canal-plus.com/creatives/assets/
 ||canal-plus.com/image/56/3/611563.jpg
-||cap-public.fr/adb.js
-||cap-public.fr/styles/*/IMG/habillage_site/
+||cap-public.fr/*/habillage
 ||cap-sciences.net/upload/pubs/
 ||capinfoproreport.batiactu.com^
 ||capinfoproreport.batiactu.com^$popup
@@ -10575,7 +10575,7 @@ _blockadblock_
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|viedemerde.fr|zonebourse.com
-@@/advertisement.js$script,~third-party,domain=crash-aerien.aero|crash-aerien.news|e-wok.tv|fiki.faucetfly.com|quoverbis.com
+@@/advertisement.js$script,~third-party,domain=cap-public.fr|crash-aerien.aero|crash-aerien.news|e-wok.tv|fiki.faucetfly.com|quoverbis.com
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|silicon.fr
 @@||1max2sms.com/blogads.css
 @@||a.f1g.fr/build/2/adsense.js$script
