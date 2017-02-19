@@ -374,6 +374,7 @@
 /adsvrz-
 /adsw1.
 /adtube.js
+/adUnblock.
 /adv/adx.
 /adv/banners/*
 /adv/pads.
@@ -10638,7 +10639,6 @@ _blockadblock_
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||vidlox.tv/pop.js|$script,~third-party
 @@||wakanim.tv^*/video/advertisement?idepisode=
-@@||www.christineandthefans.com/blockadblock.js|$script,~third-party
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 ! openload
 @@|https://easylist.club/*.js|$script,domain=openload.co
