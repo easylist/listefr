@@ -7835,6 +7835,7 @@ toutcash.com/images/bandeau-
 ##.header-pub
 ##.headerPub
 ##.header_pub
+##.header_top_ads
 ##.hnadszone
 ##.home_pub
 ##.hori-advert
@@ -10706,6 +10707,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||vtele.ca^$generichide
 @@||xavierstuder.com^$generichide
 ! voyageforum.com (anti adblock)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=voyageforum.com
 @@||voyageforum.com/images/advertisers/logos/$image,~third-party
 |http://$script,third-party,xmlhttprequest,domain=voyageforum.com
 |https://$script,third-party,xmlhttprequest,domain=voyageforum.com
