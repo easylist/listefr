@@ -630,6 +630,7 @@
 /iframe_pub_
 /iframes/ads/*
 /IFrameStoreReciever.
+/images/*/ads/
 /images/*_ads/
 /images/adsMB/*
 /images/affiliates/*
@@ -4214,6 +4215,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||passion-auto.me/pub.
 ||passion-auto.me/pub1.
 ||pdv.juste-pour-un-soir.com^$popup
+||peimg.fr/bannieres/
+||peimg.fr^*/partenaire-
 ||petite-garce.com/ban/$third-party
 ||petiteporn.xyz^*/o.php?$popup
 ||pfr.anistar.ru^
@@ -6176,7 +6179,6 @@ toutcash.com/images/bandeau-
 ||paruvendu.fr/pub/
 ||passeportsante.net^*/controls/pub/
 ||pc-overware.be/index/images/banners/
-||peimg.fr/images/partenaire-pubeco/
 ||pervify.com/*/sponsors/
 ||petit-bulletin.fr^*/habillage
 ||petite-annonce-gratuite.com/encarts/bannieres/
@@ -8467,7 +8469,6 @@ upp-auteurs.fr###annonce_a
 upp-auteurs.fr###annonce_b
 annonces.nc,automobiles.nc,batiment.nc,embauche.nc,mode.nc,nautisme.nc,rencontres.nc###annonceur
 macbidouille.com###arch
-pubeco.fr###aroundShop
 nouvelobs.com###article-colonne-partenaires
 autoreflex.com###arx_home_partenaires
 comment-economiser.fr###astuce_pub
@@ -8771,7 +8772,6 @@ aujourdhui-en-france.fr,leparisien.fr###meteo-immo
 liligo.fr###midbanner
 logicielmac.com###milieu-de-page-728-90
 lessentiel.lu###min_rectangle
-pubeco.fr###modPromoMoment
 e-sushi.fr###modal
 le-buzz.fr###modal_chrome
 numerama.com###module_bonnes_affaires
@@ -8807,7 +8807,6 @@ largus.fr###partenaires-aside
 letour.fr###partenaires2
 lexpress.fr###partenaires_crm
 portail.free.fr###partenairescontenu
-pubeco.fr###partner
 expat.com###partner-ajax-on-forum
 cciaf.org###partner_content
 miroirsocial.com,netbeopen.com,slateafrique.com,wanimo.com###partners
@@ -8910,7 +8909,6 @@ jeu.net###pubz
 search.free.fr###pud_search
 liligo.fr###pulledbanner
 liligo.fr###pulledbanner-right-top
-pubeco.fr###recommandPublis
 parolesmania.com###rectangle > .thinbox div[style="height: 250px;"]
 lexpress.mu###region-user-second
 radio-monaco.com###responsive-banner-slider
@@ -10088,7 +10086,6 @@ pyrenees-team.com##div#link
 gamopat-forum.com##div#wrapper > div#right img[src*="/11/03/61/79/"]
 finansemble.fr##div.div_description_v2[style="max-width:750px;"]
 loractu.fr##div.landing
-pubeco.fr##div.w100p.h60
 trictrac.net##div[class^="banner-zv"]
 trictrac.net##div[class^="content-zv"]
 trictrac.net##div[class^="zv"]
@@ -10634,6 +10631,7 @@ _blockadblock_
 @@||pagefair.com/static/adblock_detection/js/$script,third-party
 @@||partage-facile.com/*ad$script,xmlhttprequest
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=7sur7.be|f1i.com
+@@||peimg.fr/js/ads.js$script,domain=pubeco.fr
 @@||pla.folue.info/needes.js$script
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
 @@||scan-manga.fr^$stylesheet
