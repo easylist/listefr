@@ -4797,7 +4797,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 |http://$script,third-party,domain=pokemon-streaming.com
 |https://$script,third-party,domain=pokemon-streaming.com
 ! dragon-ball-super-streaming.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=dailymotion.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=dragon-ball-super-streaming.com
 |http://$script,third-party,domain=dragon-ball-super-streaming.com
 |https://$script,third-party,domain=dragon-ball-super-streaming.com
@@ -4977,6 +4976,7 @@ data:$popup,domain=eztv-proxy.net,eztv.ag,eztv.ch,eztv.it,eztv.tf,eztv.yt
 ||hostpic.org^$domain=fdesouche.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/5tS8GcN.png
+||i.imgur.com/FinBqT8.jpg
 ||i.imgur.com/nUEuHxd.png
 ||i.imgur.com/PRdyOv3.gif
 ||i.imgur.com/qC2Tc51.png
@@ -8376,6 +8376,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://www.espace-plus.net/"]
 ##a[href^="http://www.gaddin.com/index.php?sponsor"] > img
 ##a[href^="http://www.gamingaffiliation.com/"]
+##a[href^="http://www.hentaiheroes.com/?ref_id="]
 ##a[href^="http://www.leguide.com/lettre/"]
 ##a[href^="http://www.linkredirect.biz/"]
 ##a[href^="http://www.marketdot.net/"]
