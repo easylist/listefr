@@ -7640,6 +7640,7 @@ toutcash.com/images/bandeau-
 ##.ads_buzz
 ##.ads_buzz_title
 ##.ads_frame
+##.ads_label
 ##.ads_listvideos
 ##.ads_single_bottom
 ##.ads_table
@@ -7926,6 +7927,7 @@ toutcash.com/images/bandeau-
 ##.po_wads
 ##.popupads
 ##.position_pub
+##.ppb_ads
 ##.ppub300
 ##.pstAdLegend
 ##.pub-160-600
@@ -8251,6 +8253,7 @@ toutcash.com/images/bandeau-
 ##[id*="/adunblock_"] > iframe
 ##[id*="ScrollDownAds"]
 ##[id*="_ads_id_"]
+##[id*="_custom_ads-"]
 ##[id^="ads_adnemo_"]
 ##[id^="block-xiti_oas-"]
 ##[id^="ligatus-"]
@@ -10034,6 +10037,7 @@ yahoo.com##a[href^="https://beap.gemini.yahoo.com/"]
 clubic.com##a[href^="https://clk.tradedoubler.com/"]
 frenchweb.fr##a[href^="https://experiences.microsoft.fr/"]
 lefigaro.fr##a[href^="https://go.babbel.com/"]
+appsystem.fr##a[href^="https://shop.appsystem.fr/"] > img
 t411.ch,t411.li##a[href^="https://tr.im/"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
 t411.bz,t411.ch,t411.cl,t411.la,t411.li,t411.lt,t411.lv,t411.tv##a[href^="https://www.amazon.com/"]
