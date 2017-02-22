@@ -1052,6 +1052,7 @@
 @publicite@
 \adds\adds.
 _120by600_
+_120x600banner.
 _250x300_
 _300x250&
 _300x250/
@@ -4035,7 +4036,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||kaltura.com^*/a.mp4|$media
 ||kazeo.com/websites/js/openwindow.js
 ||kelformation.com/htm/*/habillage/
-||kickstarter.com^$popup,domain=trictrac.net
 ||kidioui.fr^$subdocument,third-party
 ||kloopicash.com/upload/ban/
 ||kokinette.com/ban/$third-party
@@ -6549,11 +6549,8 @@ toutcash.com/images/bandeau-
 ||tribunejuive.info/wp-content/uploads/2012/12/wizo.jpg
 ||tribunejuive.info^*/module_pubs_
 ||tribunejuive.info^*/PubTribuneJuive.
-||trictrac.net/br
 ||trictrac.net/documents/formats/background_big/
 ||trictrac.net/documents/originals/
-||trictrac.net/file-*.swf
-||trictrac.net/img-*.jpeg
 ||trictrac.net^$subdocument
 ||trimag.fr^*/tx_macinabanners/
 ||troc-velo.com/images/pub/
@@ -7649,6 +7646,7 @@ toutcash.com/images/bandeau-
 ##.ads_frame
 ##.ads_label
 ##.ads_listvideos
+##.ads_partners
 ##.ads_single_bottom
 ##.ads_table
 ##.ads_vert
@@ -10094,9 +10092,6 @@ pyrenees-team.com##div#link
 gamopat-forum.com##div#wrapper > div#right img[src*="/11/03/61/79/"]
 finansemble.fr##div.div_description_v2[style="max-width:750px;"]
 loractu.fr##div.landing
-trictrac.net##div[class^="banner-zv"]
-trictrac.net##div[class^="content-zv"]
-trictrac.net##div[class^="zv"]
 msn.com##div[data-aop="stripe.autos.ad_ad"]
 msn.com##div[data-aop="stripe.health.ad_ad"]
 msn.com##div[data-aop^="stripe.shopping"]
