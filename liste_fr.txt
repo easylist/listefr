@@ -906,6 +906,7 @@
 /slider.php?&pub=$script
 /smartad_
 /smartclick.js
+/smartrotator.*?referrer=
 /srv.php?size=300x250
 /srv.php?size=315x300
 /static/t/b.js
@@ -10600,6 +10601,7 @@ _blockadblock_
 @@||adgear.com^*/adgear.js$domain=vtele.ca
 @@||ads.stickyadstv.com/www/delivery/swfIndex.php?$xmlhttprequest,domain=wakanim.tv
 @@||afreesms.now.im/adblocker.js$script,domain=afreesms.com
+@@||assets.over-blog-kiwi.com/b/blog/bundles/overblogblogblog/js/ads.js$script,domain=mariage-franco-marocain.net
 @@||audipassion.com^*/jsLoader.js?adType=foobar
 @@||ay.gy/static/js/advert.js|$script,domain=adf.ly|ay.gy|j.gs|q.gs
 @@||badibadou.eu/*.js?auto=$script,third-party
@@ -10708,6 +10710,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||libre-stream.com^$generichide
 @@||likeup.fr^$generichide
 @@||macgames-download.com^$generichide
+@@||mariage-franco-marocain.net^$generichide
 @@||mobinozer.com^$generichide
 @@||papystreaming-film.com^$generichide
 @@||partage-facile.com^$generichide
