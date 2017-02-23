@@ -3012,6 +3012,7 @@ data:*text/*html,$popup
 ||5b15a826.xyz^$popup,third-party
 ||6187817.com^$popup,third-party
 ||62.212.73.45^$popup,third-party
+||777-888.ru^$popup,third-party
 ||77978.みんな^$popup,third-party
 ||85.170.167.205^$popup,third-party
 ||8mm.shiksha^$popup,third-party
@@ -3028,6 +3029,7 @@ data:*text/*html,$popup
 ||ad-center.com^$popup,third-party
 ||ad-online.biz^$popup,third-party
 ||ad-sys.com^$popup,third-party
+||ad.atdmt.com^$popup,third-party
 ||ad2upapp.com^$popup,third-party
 ||adbucks.com^$popup,third-party
 ||adcitrik.com^$popup,third-party
@@ -4236,6 +4238,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||piazza.ch^$subdocument
 ||pimpland.pl/images/$third-party
 ||ping-agency.com/pub/
+||pixcp.bangdom.com^
 ||placelibertine.com^$image,third-party
 ||planet49.com^*?click=
 ||planete-adulte.com/hit.php?
@@ -4933,6 +4936,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ! annoncedesexe.com
 |http://$script,xmlhttprequest,domain=annoncedesexe.com
 |https://$script,xmlhttprequest,domain=annoncedesexe.com
+! annoncedesexe.com
+|http://$script,xmlhttprequest,domain=jeux-hentai.com
+|https://$script,xmlhttprequest,domain=jeux-hentai.com
 ! 4nowvideo.com
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
@@ -5752,6 +5758,7 @@ toutcash.com/images/bandeau-
 ||jeune-homme-gay.com^*/u.js
 ||jeunebaisemature.com^*/u.js
 ||jeux-gratuits.com/images/*/bandeau-
+||jeux-hentai.com/bg/
 ||jeux-porno.net^$script,~third-party
 ||jeux-sexe-gratuit.com/img/
 ||jeux-sexe-gratuit.fr/images/banners/
@@ -10275,10 +10282,10 @@ lachainemeteo.com##[-abp-properties='!important;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='*: 300px;']
 femmesplus.fr,medisite.fr,planet.fr##[-abp-properties='background-image: *;']
 igen.fr,macg.co##[-abp-properties='background-image: url(*;']
-annoncedesexe.com##[-abp-properties='base64']
+annoncedesexe.com,jeux-hentai.com##[-abp-properties='base64']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='content:*;']
 femmesplus.fr,medisite.fr,planet.fr##[-abp-properties='cursor: pointer;']
-annoncedesexe.com,gaytube.com,nextinpact.com,pornhub.com,redtube.com,senscritique.com,seriehentai.com,tube8.com,tube8.es,tube8.fr,tube8.fr#tube8.com,xtube.com,youjizz.com,youporn.com,youporngay.com##[-abp-properties='data:']
+annoncedesexe.com,gaytube.com,jeux-hentai.com,nextinpact.com,pornhub.com,redtube.com,senscritique.com,seriehentai.com,tube8.com,tube8.es,tube8.fr,tube8.fr#tube8.com,xtube.com,youjizz.com,youporn.com,youporngay.com##[-abp-properties='data:']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 nextinpact.com##[-abp-properties='height: 250px;']
 igen.fr##[-abp-properties='height: 61*px;']
