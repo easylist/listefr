@@ -6722,7 +6722,6 @@ toutcash.com/images/bandeau-
 ||winds-up.com/images/pub/
 ||worldissmall.fr/*/uploads/partenaires/
 ||www.multiup.org/js/compiled_js_7.js
-||www.xstory-fr.com^$script
 ||xavbox.com/ban/
 ||xboards.org/static/sponsors/
 ||xboxunlimited.fr/images/testaxl.jpg
@@ -6734,6 +6733,8 @@ toutcash.com/images/bandeau-
 ||xstory-fr.com/images/coup-de-coeur/
 ||xstory-fr.com/js/promo_livewebcam.js
 ||xstory-fr.com/promo/
+||xstory-fr.com^$popup,~third-party
+||xstory-fr.com^$script,xmlhttprequest
 ||yahoo.fr/wp-content/*/habillage/
 ||yanik.com/pubcitibar.jpg
 ||yeswefoot.com/annuaire.gif
@@ -9597,7 +9598,7 @@ pornofrance.org##.promomenu
 meteosun.com##.promote_large
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
-abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zupimages.net##.pub
+abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,xstory-fr.com,yabiladi.com,yatahonga.com,zupimages.net##.pub
 basketusa.com##.pub-1000x90-top
 les-terrains.com##.pub-bloc
 degrouptest.com##.pub-bonaboSite
@@ -10209,7 +10210,7 @@ vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 igen.fr,macg.co##header + a[target="_blank"]
 hentaifr.net##iframe
-jeux-porno.net##iframe[src]
+jeux-porno.net,xstory-fr.com##iframe[src]
 aufeminin.com,hadoken-fansubs.fr,marmiton.org##iframe[style]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
@@ -10294,10 +10295,10 @@ lachainemeteo.com##[-abp-properties='!important;']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='*: 300px;']
 femmesplus.fr,medisite.fr,planet.fr##[-abp-properties='background-image: *;']
 igen.fr,macg.co##[-abp-properties='background-image: url(*;']
-annoncedesexe.com,jeux-hentai.com##[-abp-properties='base64']
+annoncedesexe.com,jeux-hentai.com,xstory-fr.com##[-abp-properties='base64']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='content:*;']
 femmesplus.fr,medisite.fr,planet.fr##[-abp-properties='cursor: pointer;']
-annoncedesexe.com,gaytube.com,jeux-hentai.com,nextinpact.com,pornhub.com,redtube.com,senscritique.com,seriehentai.com,tube8.com,tube8.es,tube8.fr,tube8.fr#tube8.com,xtube.com,youjizz.com,youporn.com,youporngay.com##[-abp-properties='data:']
+annoncedesexe.com,gaytube.com,jeux-hentai.com,nextinpact.com,pornhub.com,redtube.com,senscritique.com,seriehentai.com,tube8.com,tube8.es,tube8.fr,tube8.fr#tube8.com,xstory-fr.com,xtube.com,youjizz.com,youporn.com,youporngay.com##[-abp-properties='data:']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 nextinpact.com##[-abp-properties='height: 250px;']
 igen.fr##[-abp-properties='height: 61*px;']
