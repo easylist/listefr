@@ -4861,6 +4861,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 @@||ajax.googleapis.com/ajax/libs/$script,domain=2ddl.org
 |http://$script,third-party,domain=2ddl.org|twoddl.tv
 |https://$script,third-party,domain=2ddl.org|twoddl.tv
+! gamestorrents.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=gamestorrents.com
+|http://$script,third-party,xmlhttprequest,domain=gamestorrents.com
+|https://$script,third-party,xmlhttprequest,domain=gamestorrents.com
 ! lectureduweb.fr (dblock-ads.com)
 @@||ajax.googleapis.com/ajax/libs/$script,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
