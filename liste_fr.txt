@@ -1179,6 +1179,7 @@ _werbebanner_
 /cdn-cgi/pe/bag2?*xpopunder.
 /cdn-cgi/pe/bag2?*yesmessenger.com
 /cdn-cgi/pe/bag2?*zwaar.org
+/cdn-cgi/pe/bag2?r*adplus.io
 !
 ||accountant^*/|$script,third-party,xmlhttprequest
 ||bid^*/|$script,third-party,xmlhttprequest
@@ -1591,6 +1592,7 @@ data:*text/*html,$popup
 ||adoftheyear.com^$third-party
 ||adonads.com^$third-party
 ||adoptima.com^$third-party
+||adplus.io^$third-party
 ||adproxy2.com^$third-party
 ||adpub.eu^$third-party
 ||adqia.com^$third-party
@@ -7889,6 +7891,7 @@ toutcash.com/images/bandeau-
 ##.item-izipub
 ##.item-pubb-728
 ##.job_ads_container
+##.jquery-adi
 ##.js_DivPublicityLateral
 ##.jt-poublicidadContainer
 ##.kadmer-ad
@@ -10595,6 +10598,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /adblockchecker.js
 /ads_enabled_
 /fadb.min.js?
+/jquery.adi.
 /modules/mod_jpayday/*
 /setvisitadblocked|
 /sorry-adblocker/*$script
@@ -10702,7 +10706,6 @@ _blockadblock_
 @@||youwatch.org/js/-adv.js|$script,domain=voodaith7e.com
 !
 leveldown.fr#@##adblock
-bleachmx.co#@##adsense
 toplien.fr#@#.AdvertContainer
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
 commentcamarche.net,journaldesfemmes.com#@#.text_ads
@@ -10710,6 +10713,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||actu-zap.com^$generichide
 @@||alligatographe.blogspot.fr^$generichide
 @@||animes-mangas-ddl.com^$generichide
+@@||bleach-mx.net^$generichide
 @@||cap-public.fr^$generichide
 @@||cheminots.net^$generichide
 @@||christineandthefans.com^$generichide
