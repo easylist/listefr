@@ -4576,6 +4576,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||youtube2mp3.cc/p.php$popup
 ||youwatch.org/make-money.html$popup,third-party
 ||yubee.free.fr/admin/bannieres/
+||z-o-o-m.eu/banner_images/$third-party
 ||z51.biz/IBinnewz.aspx
 ||zalando.be^$popup,domain=heures.be
 ||zeusmangax.com/baniere/
@@ -9918,6 +9919,7 @@ presse-algerie.net##a[href*="/?ad="]
 artdeseduire.com##a[href*="/?part=ads"]
 webactus.net##a[href*="/?utm_source="]
 sosvirus.net##a[href*="/affiliate-"] > img
+multiup.org##a[href*="/download-usenet/"]
 t411.cl,t411.lc,t411.lv##a[href*="/download/"]
 papyfullstream.com,papystreaming-film.com##a[href*="/film-"]
 espritlib.com##a[href*="/goto_part.php?"]
