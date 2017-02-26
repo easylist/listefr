@@ -2729,7 +2729,6 @@ data:*text/*html,$popup
 ||ylx-3.com^$third-party
 ||ylx-4.com^$third-party
 ||yospace.co.uk^$third-party
-||yospace.com^$third-party
 ||yospace.net^$third-party
 ||you-hentai.com^$third-party
 ||youzapping.com^$third-party
@@ -4569,6 +4568,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||yaagle.com^$subdocument
 ||yellowapi.com/twn/?
 ||yimg.com/hl/ap/default/*/HP_*.jpg
+||yospace.com^domain=bfmtv.com
 ||youcloud.tv/adl?
 ||youporn.com^*?utm_$popup
 ||youtube.com^$popup,domain=abdelghanisat.kazeo.com|zevpn.net
