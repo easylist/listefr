@@ -1423,7 +1423,6 @@ _regie/clic.$popup
 !
 data:*text*/*html*,$popup
 data:*text/*html,$popup
-|blob:$popup
 |data:,|$popup
 |data:;|$popup
 |javascript^$popup
