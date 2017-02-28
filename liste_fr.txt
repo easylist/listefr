@@ -4920,10 +4920,11 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ! annoncedesexe.com
 |http://$script,xmlhttprequest,domain=jeux-hentai.com
 |https://$script,xmlhttprequest,domain=jeux-hentai.com
-! wholecloud.net
+! wholecloud.net / auroravid.to
 @@||ajax.googleapis.com/ajax/libs/$script,domain=wholecloud.net
+@@||auroravid.to/html5/dash/popups-300x250-popunder.js$script,domain=auroravid.to
 @@||wholecloud.net/html5/dash/popups-300x250-popunder.js$script,domain=wholecloud.net
-@@||zerocdn.to^$xmlhttprequest,domain=wholecloud.net
+@@||zerocdn.to^$xmlhttprequest,domain=auroravid.to|wholecloud.net
 |http://$script,third-party,domain=wholecloud.net
 |https://$script,third-party,domain=wholecloud.net
 ! 4nowvideo.com
@@ -6775,6 +6776,7 @@ toutcash.com/images/bandeau-
 ||d13strl4lo8mtp.cloudfront.net^
 ||d1447tq2m68ekg.cloudfront.net^
 ||d14nx4uiqzwnqt.cloudfront.net^
+||d15cjcet1djbmv.cloudfront.net^
 ||d17rlarvg2khuc.cloudfront.net^
 ||d19182vyfoustz.cloudfront.net^
 ||d1afet533lf7zs.cloudfront.net^
