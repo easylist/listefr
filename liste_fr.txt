@@ -2783,7 +2783,10 @@ data:*text/*html,$popup
 ||gzpqlbqyerpb.com^$third-party
 ||jbbgczjipjvb.com^$third-party
 ||kyveduvdkbro.com^$third-party
+||mlkqusrmsfib.com^$third-party
+||ozymwqsycimr.com^$third-party
 ||uqhtuahgfmcx.com^$third-party
+||vpklpmvzbogn.com^$third-party
 ||zftgljkhrdze.com^$third-party
 ! admeasures.com
 ||6rvewc.top^$third-party
@@ -4917,6 +4920,12 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ! annoncedesexe.com
 |http://$script,xmlhttprequest,domain=jeux-hentai.com
 |https://$script,xmlhttprequest,domain=jeux-hentai.com
+! wholecloud.net
+@@||ajax.googleapis.com/ajax/libs/$script,domain=wholecloud.net
+@@||wholecloud.net/html5/dash/popups-300x250-popunder.js$script,domain=wholecloud.net
+@@||zerocdn.to^$xmlhttprequest,domain=wholecloud.net
+|http://$script,third-party,domain=wholecloud.net
+|https://$script,third-party,domain=wholecloud.net
 ! 4nowvideo.com
 @@||ajax.googleapis.com^$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
 |blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|divxstage.ch|divxstage.to|epornik.com|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.ch|videoweed.co|videoweed.com|videoweed.es
