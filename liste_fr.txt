@@ -520,6 +520,7 @@
 /blockadvertising/*
 /blog/ads_
 /bnjs.php?*&aff=
+/bnjs.php?aff=
 /bnr.php?*&pub=
 /bnr.php?section=
 /bnr/300/*
@@ -962,6 +963,7 @@
 /wp-content/themes/*/ads/*
 /wp-totemtools/*
 /wpxtube/*
+/wtop_bannieres/*$third-party
 /xbanniere-pub-
 /XnewadsX/*
 /xpopunder/*
@@ -995,6 +997,7 @@
 ://msk.*/redir/
 ://na.ads.
 ://pop.$script,subdocument,third-party,xmlhttprequest
+://promo2.$third-party
 ://reclame.
 ://rotator.
 ://serve.*?random=
@@ -2137,6 +2140,7 @@ data:*text/*html,$popup
 ||koqtrn1b.site^$third-party
 ||kpc4jpbm.date^$third-party
 ||kreaffiliation.com^$third-party
+||lafrancebdsm.com^$third-party
 ||lavastone.ml^$third-party
 ||leadzupc.com^$third-party
 ||leasured.eu^$third-party
@@ -3815,6 +3819,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||choubijoux.com/image/banniere-$third-party
 ||chromecrx.blogspot.co.il^
 ||chtiflouz.com/upload/ban/
+||classement.pro/button.php
 ||classistatic.com/*/banner/
 ||classistatic.com/*/homepage-banner/
 ||clicjeux.net/bann/
