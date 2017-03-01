@@ -4687,6 +4687,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ! bfmtv.com
 |http://$media,third-party,domain=bfmtv.com
 |https://$media,third-party,domain=bfmtv.com
+! 01net.com
+|http://$media,third-party,domain=01net.com
+|https://$media,third-party,domain=01net.com
 ! wat.tv
 @@||api.mytf1.tf1.fr^$object-subrequest,domain=wat.tv
 @@||hd1livhdsweblive-lh.akamaihd.net^$object-subrequest,domain=wat.tv
