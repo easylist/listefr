@@ -1606,6 +1606,7 @@ data:*text/*html,$popup
 ||adoftheyear.com^$third-party
 ||adonads.com^$third-party
 ||adoptima.com^$third-party
+||adoric.com^$third-party
 ||adplus.io^$third-party
 ||adproxy2.com^$third-party
 ||adpub.eu^$third-party
@@ -2780,8 +2781,10 @@ data:*text/*html,$popup
 ||bewovdhiubnk.com^$third-party
 ||buitxcrnucyi.com^$third-party
 ||ccefzhxgobjm.com^$third-party
+||dmjcabavsraf.com^$third-party
 ||gzpqlbqyerpb.com^$third-party
 ||jbbgczjipjvb.com^$third-party
+||jmvjmgofvxnu.com^$third-party
 ||kyveduvdkbro.com^$third-party
 ||mlkqusrmsfib.com^$third-party
 ||ozymwqsycimr.com^$third-party
@@ -4920,6 +4923,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ! annoncedesexe.com
 |http://$script,xmlhttprequest,domain=jeux-hentai.com
 |https://$script,xmlhttprequest,domain=jeux-hentai.com
+! putstream.com
+|http://$script,third-party,xmlhttprequest,domain=putstream.com
+|https://$script,third-party,xmlhttprequest,domain=putstream.com
 ! wholecloud.net / auroravid.to
 @@||ajax.googleapis.com/ajax/libs/$script,domain=wholecloud.net
 @@||auroravid.to/html5/dash/popups-300x250-popunder.js$script,domain=auroravid.to
