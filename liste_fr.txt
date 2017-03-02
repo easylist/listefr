@@ -349,6 +349,7 @@
 /ads300m.
 /ads700.
 /ads728x90.
+/ads?idc=
 /ads?key=
 /ads?p=
 /ads?req_id=
@@ -411,6 +412,7 @@
 /aff_generic_banners/*
 /aff_pub_
 /affi-300x250.
+/affi/ads?
 /affich_ban.
 /affich_pub.
 /affich_pub_
@@ -2193,6 +2195,7 @@ data:*text/*html,$popup
 ||maxonclick.com^$third-party
 ||maxprofitcontrol.com^$third-party
 ||maxrevenue1.com^$third-party
+||mecacroquer.com^$third-party
 ||media-clic.com^$third-party
 ||media-serving.com^$third-party
 ||mediacpm.pl^$third-party
@@ -2577,6 +2580,7 @@ data:*text/*html,$popup
 ||targetctracker.com^$third-party
 ||tatami-solutions.com^$third-party
 ||tbvid.com^$third-party
+||tdc-affiliation.com^$third-party
 ||teads.de^$third-party
 ||teads.fr^$third-party
 ||teads.net^$third-party
