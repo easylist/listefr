@@ -1631,6 +1631,7 @@ data:*text/*html,$popup
 ||adsclick.com.br^$third-party
 ||adscoo.com^$third-party
 ||adsearch.pl^$third-party
+||adsensecustomsearchads.com^$third-party
 ||adserveradulte.com^$third-party
 ||adserverbanners.com^$third-party
 ||adservingstd.com^$third-party
@@ -10628,6 +10629,7 @@ _blockadblock_
 ||ajax.googleapis.com^$domain=greys-anatomy-en-streaming.fr
 !
 ||larascasse.fr/forum/uploads/javascript_core/plugins_plugins.js
+||photo.gala.fr/js/jquery.min-
 ||photo.programme-tv.net/js/main-*.js$script
 ||static.caradisiac.com/javascript/caradisiac_first.js
 ||static.tacdn.com/*/src/ta/common/behavior/abAppeal-*.js
@@ -10672,7 +10674,7 @@ _blockadblock_
 @@||linkbucks.com/scripts/script-adv.js$script,third-party
 @@||mymanga.io/css/ads.css|$stylesheet
 @@||nouvelle-fiat500.fr/ad-pub.js$script
-@@||ops.prismamediadigital.com/js/advertisement.js$script
+@@||ops.prismamediadigital.com/js/advertisement.js$third-party,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alligatographe.blogspot.fr|cachemoi.com|cuisineactuelle.fr|forum.softmaroc.org|likeup.fr|onvasortir.com|ot-boutique.fr|quebeccoupongratuit.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr|urbeez.com
