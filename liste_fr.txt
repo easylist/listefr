@@ -109,6 +109,7 @@
 -cgi/ads/
 -display-ads_
 -emarketplace.
+-gdfp-server.
 -jquery.dfp.
 -net480x60.
 -popads_
@@ -619,6 +620,7 @@
 /frame_popup.
 /frontend_loader.$script
 /frprn_ad.
+/gdfp.js?
 /generateAds.
 /gestionpub/*
 /get.cgi?*=banner
@@ -732,7 +734,7 @@
 /plugins/dfp/$script
 /plugins/vp_pub/*
 /plx_popup.js
-/pmd-gdfp-server.
+/pmd_gdfp-
 /pop-ads.
 /pop-url/|$script
 /pop.php?id_
