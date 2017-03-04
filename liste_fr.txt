@@ -4716,6 +4716,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 |http://$media,third-party,domain=bfmtv.com
 |https://$media,third-party,domain=bfmtv.com
 ! 01net.com
+/\/[a-z0-9]+\.[a-z0-9-]+\.[a-z]{2,}\/.{70,}/$image,media,object,script,third-party,domain=01net.com
+@@||admin.brightcove.com/viewer/*/BrightcoveBootloader.swf?playerID=$object,domain=01net.com
+@@||c.brightcove.com/services/viewer/federated_f9?*&playerID=$object,domain=01net.com
 |http://$media,third-party,domain=01net.com
 |https://$media,third-party,domain=01net.com
 ! wat.tv
