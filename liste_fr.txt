@@ -4709,6 +4709,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||wwwtatonnai.info^$third-party
 ||wwwtatonnai.uk^$third-party
 ! bfmtv.com
+/\/[a-z0-9]+\.[a-z0-9-]+\.[a-z]{2,}\/.{40,}/$~font,image,media,object,script,~stylesheet,third-party,~xmlhttprequest,domain=bfmtv.com
+@@|https://*.gcsegauss.com^*/*/*/*/*/*/$third-party,xmlhttprequest,domain=bfmtv.com
+@@||players.brightcove.net^*_default/index.min.js$script,domain=bfmtv.com
+@@||service.ooul.tv/contrib/fr-groupe01/aab/pulse-vjs-sm-plugin.min.js$domain=bfmtv.com
 |http://$media,third-party,domain=bfmtv.com
 |https://$media,third-party,domain=bfmtv.com
 ! 01net.com
