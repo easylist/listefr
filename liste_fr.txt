@@ -4717,6 +4717,12 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 @@||c.brightcove.com/services/viewer/federated_f9?*&playerID=$object,domain=01net.com
 |http://$media,third-party,domain=01net.com
 |https://$media,third-party,domain=01net.com
+! femmeactuelle.fr
+/\/[a-z0-9]+\.[a-z0-9-]+\.[a-z]{2,}\/.{40,}/$image,media,object,script,third-party,domain=femmeactuelle.fr
+@@||creas.prismamediadigital.com/feminin/2014/carousel_application/femme_actuelle_$image,domain=femmeactuelle.fr
+@@||players.brightcove.net^*_default/index.min.js$script,domain=femmeactuelle.fr
+|http://$media,third-party,domain=femmeactuelle.fr
+|https://$media,third-party,domain=femmeactuelle.fr
 ! wat.tv
 @@||api.mytf1.tf1.fr^$object-subrequest,domain=wat.tv
 @@||hd1livhdsweblive-lh.akamaihd.net^$object-subrequest,domain=wat.tv
@@ -11514,4 +11520,4 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 /\/[a-z0-9_]+\.[a-z0-9-]+\.[a-z]{2,}\/.*?\w{30,}/$domain=exclusivomen.com|gentside.com|gentside.com.br|gentside.de|maxisciences.com|ohmirevista.com|ohmymag.com|ohmymag.com.br|ohmymag.de|simplyvoyage.com
 /\/[a-z0-9_]+\.[a-z0-9-]+\.[a-z]{2,}\/.*[a-zA-Z0-9]{40,}/$object-subrequest,domain=wat.tv
 !@@/\.palmshapednontransferable\.com/[a-zA-Z0-9]{50,150}$/$image,xmlhttprequest,domain=exclusivomen.com|gentside.com|gentside.com.br|gentside.de|maxisciences.com|ohmirevista.com|ohmymag.com|ohmymag.com.br|ohmymag.de|simplyvoyage.com
-@@|https://*.gcsegauss.com^*/*/*/*/*/*/$third-party,xmlhttprequest,domain=01net.com|bfmtv.com
+@@|https://*.gcsegauss.com^*/*/*/*/*/*/$third-party,xmlhttprequest,domain=01net.com|bfmtv.com|femmeactuelle.fr
