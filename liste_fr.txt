@@ -10666,6 +10666,7 @@ _blockadblock_
 !
 ||ajax.googleapis.com^$domain=greys-anatomy-en-streaming.fr
 !
+||firstonetv.eu/js/app?
 ||larascasse.fr/forum/uploads/javascript_core/plugins_plugins.js
 ||photo.gala.fr/js/jquery.min-
 ||photo.programme-tv.net/js/main-*.js$script
@@ -10746,7 +10747,6 @@ _blockadblock_
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||vidlox.tv/pop.js|$script,~third-party
 @@||wakanim.tv^*/video/advertisement?idepisode=
-@@||www.firstonetv.eu^*&&_=$xmlhttprequest,domain=firstonetv.eu
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 ! mystream.la
 @@||mystream.la/js/pop.js|$script,domain=mystream.la
