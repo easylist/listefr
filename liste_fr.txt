@@ -4904,6 +4904,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ! shrvid.com
 |http://$script,third-party,xmlhttprequest,domain=shrvid.com
 |https://$script,third-party,xmlhttprequest,domain=shrvid.com
+! k-vid.net
+|http://$third-party,xmlhttprequest,domain=k-vid.net
+|https://$third-party,xmlhttprequest,domain=k-vid.net
 ! vidhos.com
 @@||plugins.longtailvideo.com^$script,domain=vidhos.com
 |http://$script,third-party,xmlhttprequest,domain=vidhos.com
@@ -9155,7 +9158,7 @@ reverso.net##.adcontent
 gmx.fr,lebonguide.com##.add
 vinyculture.com##.addLink
 lejsl.com##.addPic
-actustar.com,aujourdhui-en-france.fr,boursier.com,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,freefoot.fr,hentaihaven.org,hostinger.fr,htmlforums.com,internetparsatellite.net,jeune-independant.net,ldlc.com,leblogjeuvideo.be,leparisien.fr,lephpfacile.com,lequipe.fr,nolyo-tv.com,obturations.com,oujdacity.net,over-blog.com,porn0sexe.com,raje.fr,replay.fr,scan-mx.com,sortiesdvd.com,stars-portraits.com,streaming-video3x.com,televiseurs.net,tonmanga.com,universalis.fr,uzinagaz.com,viamichelin.be,viamichelin.ch,viamichelin.com,viamichelin.fr,webstar-auto.com,webstar-electro.com##.ads
+actustar.com,aujourdhui-en-france.fr,boursier.com,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,freefoot.fr,hentaihaven.org,hostinger.fr,htmlforums.com,internetparsatellite.net,jeune-independant.net,k-vid.net,ldlc.com,leblogjeuvideo.be,leparisien.fr,lephpfacile.com,lequipe.fr,nolyo-tv.com,obturations.com,oujdacity.net,over-blog.com,porn0sexe.com,raje.fr,replay.fr,scan-mx.com,sortiesdvd.com,stars-portraits.com,streaming-video3x.com,televiseurs.net,tonmanga.com,universalis.fr,uzinagaz.com,viamichelin.be,viamichelin.ch,viamichelin.com,viamichelin.fr,webstar-auto.com,webstar-electro.com##.ads
 artdeseduire.com##.ads-books
 artdeseduire.com##.ads-information
 cvya.dz##.ads-vert
