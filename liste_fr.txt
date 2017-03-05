@@ -3828,6 +3828,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||classistatic.com/*/homepage-banner/
 ||clicjeux.net/bann/
 ||clicjeux.net/banniere.
+||click-dz.com/img/$third-party
 ||click.alibaba.com^$subdocument
 ||click.aliexpress.com^$popup
 ||click.aliexpress.com^$subdocument
@@ -10297,6 +10298,7 @@ sinfest.net##noscript a
 bonjourmadame.fr##object[width="728"][height="90"]
 t411.bz,t411.ch,t411.cl,t411.la,t411.lc,t411.li,t411.lt,t411.lv,t411.tv##p[style="width: 400px; margin: 0 auto; color: darkorange"]
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
+kbk-tv.com##section#ref
 idowatch.net##style + [onclick]
 boursorama.com##style + div > .visible-desktop:first-child
 boursorama.com##sup.main[style="display: block;"]
