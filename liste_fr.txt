@@ -1155,12 +1155,14 @@ _waframedia_
 _werbebanner_
 ||com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com|~visuels.l214.com
 ! CDN filters
+/cdn-cgi/pe/bag2?*.mdn2015x*.com
 /cdn-cgi/pe/bag2?*/adServe/*
 /cdn-cgi/pe/bag2?*?tid=
 /cdn-cgi/pe/bag2?*ad6media.fr
 /cdn-cgi/pe/bag2?*adcash.com
 /cdn-cgi/pe/bag2?*adhitzads.com
 /cdn-cgi/pe/bag2?*adikteev.com
+/cdn-cgi/pe/bag2?*adsoptimal.com
 /cdn-cgi/pe/bag2?*adstract.com
 /cdn-cgi/pe/bag2?*adverline.com
 /cdn-cgi/pe/bag2?*affiliation-france.com
@@ -1182,7 +1184,6 @@ _werbebanner_
 /cdn-cgi/pe/bag2?*komoona.com
 /cdn-cgi/pe/bag2?*ligatus.com
 /cdn-cgi/pe/bag2?*liveadexchanger.com
-/cdn-cgi/pe/bag2?*mdn2015x4.com
 /cdn-cgi/pe/bag2?*mobisla.com
 /cdn-cgi/pe/bag2?*o333o.com
 /cdn-cgi/pe/bag2?*oclasrv.com
@@ -2804,9 +2805,12 @@ data:*text/*html,$popup
 ||oubriojtpnps.com^$third-party
 ||rcnkflgtxspr.com^$third-party
 ||rifwhwdsqvgw.com^$third-party
+||rjncckyoyvtu.com^$third-party
+||tvammzkprvuv.com^$third-party
 ||wipjyzwavojq.com^$third-party
 ||xakmsoaozjgm.com^$third-party
 ||yxhyxfyibqhd.com^$third-party
+||zyfuywrjbxyf.com^$third-party
 ! admeasures.com
 ||6rvewc.top^$third-party
 ||aagoop7.top^$third-party
