@@ -1447,6 +1447,7 @@ data:*text*/*html*,$popup
 data:*text/*html,$popup
 |data:,|$popup
 |data:;|$popup
+|debugger:$popup
 |javascript^$popup
 ! TLD popups
 ||bid^*&refer=$popup
@@ -6729,6 +6730,7 @@ toutcash.com/images/bandeau-
 ||viamichelin.fr/*/img/partners/
 ||video-2-cul.com/javascript/functions.js
 ||videos-de-celebrites.com/pub/
+||vidlox.tv/js/$xmlhttprequest
 ||vidule.com^*/u.js
 ||viepratique.fr/wp-content/uploads/sites/*/Bloc_partenaire_
 ||village-libertin.com/site_rencontre/ban/
