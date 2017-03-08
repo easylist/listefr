@@ -606,6 +606,7 @@
 /effiliation/*
 /effinity/banniere-
 /email_catcher/track.
+/embed/ads/*
 /emplacement-pub/*
 /epomads2.
 /EpubDelivery/*
@@ -4501,6 +4502,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||toomai.fr/olp/$subdocument
 ||tooplay.com/midroll?session_id=
 ||tooplay.com/preroll?session_id=
+||torah-box.com/upl/ban/
 ||torrent24h.net^$popup,third-party
 ||tour.reelvidz.com/movie_player_dps/$popup,third-party
 ||toutsurlesabdos.com/images/bannieres_$domain=europeplusnet.info
@@ -8052,6 +8054,7 @@ toutcash.com/images/bandeau-
 ##.p-floating-ad-wrapper
 ##.p-with-floating-ad
 ##.padscreen
+##.panel-ads
 ##.panet-mars-adv-panel
 ##.partner-pub
 ##.pave-pub
