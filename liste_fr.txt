@@ -387,6 +387,7 @@
 /adsw1.
 /adtube.js
 /adUnblock.
+/adv/*/banner/
 /adv/adx.
 /adv/banners/*
 /adv/pads.
@@ -5307,7 +5308,6 @@ toutcash.com/images/bandeau-
 ||belgianfootball.be/sites/default/files/img/banners/
 ||belgique-tourisme.be/images/db/banner/
 ||belgiumapps.lesoir.be/iframe/
-||benkhouya.com^*/hebergement-web-maroc.png
 ||bergaag.com/wp-content/themes/bergaag/img/banniere-
 ||beurette-soumise.gahyoo.com^$popup
 ||bienpublic.com/images/pub/
@@ -7989,6 +7989,8 @@ toutcash.com/images/bandeau-
 ##.headerPub
 ##.header_pub
 ##.header_top_ads
+##.hide-pub-1000x90
+##.hide-pub-300x250
 ##.hnadszone
 ##.home_pub
 ##.hori-advert
@@ -8077,12 +8079,19 @@ toutcash.com/images/bandeau-
 ##.ppb_ads
 ##.ppub300
 ##.pstAdLegend
+##.pub-1000x90
+##.pub-1000x90-bottom
+##.pub-1000x90-top
 ##.pub-160-600
 ##.pub-300
 ##.pub-300-250
 ##.pub-300-corp
 ##.pub-300x250
+##.pub-300x250-bottom
 ##.pub-300x250-du-bas
+##.pub-300x250-top
+##.pub-300x600
+##.pub-300x600-bottom
 ##.pub-336x280
 ##.pub-468x60
 ##.pub-728
@@ -8107,6 +8116,7 @@ toutcash.com/images/bandeau-
 ##.pub-home-news-bloc
 ##.pub-img
 ##.pub-label
+##.pub-ligatus-article
 ##.pub-megaban
 ##.pub-megabanner
 ##.pub-partenaires
@@ -9722,7 +9732,6 @@ meteosun.com##.promote_large
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
 abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zupimages.net##.pub
-basketusa.com##.pub-1000x90-top
 les-terrains.com##.pub-bloc
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
@@ -9738,6 +9747,7 @@ yabiladi.com##.pub-read
 lequipement.fr##.pub-revendeur
 francebleu.fr##.pub-sidebar
 01net.com,bfmtv.com,pagesjaunes.fr##.pub-title
+basketusa.com##.pub-top
 horoscope.fr##.pub-transfo
 lefigaro.fr##.pub-zoom
 cpasbien.online,rueducommerce.fr##.pub1
