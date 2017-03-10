@@ -1274,6 +1274,7 @@ _werbebanner_
 &zoneid=*&direct=$popup
 -banner.cib?$popup
 -popunder.php?$popup
+.adhoc1.$popup,third-party
 .adsrv.$popup
 .clksite.$popup
 .com.sa/ads?$popup
@@ -1391,6 +1392,7 @@ _werbebanner_
 /www/go/*?zoneid=$popup
 /xdirect/*$popup
 /xmladserver.$popup
+://aclick.$popup
 ://adv-mybankai.$popup
 ://adv-mylegend.$popup
 ://adv-myninja.$popup
@@ -1414,6 +1416,7 @@ _werbebanner_
 =promo.*_ref=*_affid=$popup
 =pubdirecte&$popup
 ?action=linkpub&$popup
+?ad=*&affId=$popup
 ?adCampaign=$popup
 ?adslotid=$popup
 ?adTagId=$popup
@@ -1449,12 +1452,13 @@ _regie/clic.$popup
 !
 data:*text*/*html*,$popup
 data:*text/*html,$popup
+debugger:$popup
 |data:,|$popup
 |data:;|$popup
-|debugger:$popup
 |javascript^$popup
 ! TLD popups
 ||bid^*&refer=$popup
+||bid^*?affId=$popup
 ||bid^*watch?key=$popup,third-party
 ||club^*?zoneid=$popup
 ||info^*==|$popup,third-party
@@ -1476,6 +1480,7 @@ data:*text/*html,$popup
 ||site^*?subid=$popup
 ||site^*?zoneid=$popup
 ||space^*&pubid=$popup
+||stream^*?zoneid=$popup
 ||xyz^*&zone=$popup
 ||xyz^*&zoneid=$popup
 ||xyz^*==|$popup,third-party
@@ -3185,6 +3190,7 @@ data:*text/*html,$popup
 ||bwinpartypartners.com^$popup,third-party
 ||cacheicdn.com^$popup,third-party
 ||camsympa.com^$popup,third-party
+||carsquill.bid^$popup,third-party
 ||cash-duck.com^$popup,third-party
 ||cbshift.com^$popup,third-party
 ||cdnrl.com^$popup,third-party
@@ -3198,6 +3204,7 @@ data:*text/*html,$popup
 ||clickdomnew.com^$popup,third-party
 ||clickfordeal.click^$popup,third-party
 ||clickppcbuzz.com^$popup,third-party
+||clickredirection.com^$popup,third-party
 ||clicks4ads.com^$popup,third-party
 ||clicnscores.ma^$popup,third-party
 ||clk1013.com^$popup,third-party
@@ -3209,8 +3216,10 @@ data:*text/*html,$popup
 ||cometstar.net^$popup,third-party
 ||companypolicyurl.com^$popup,third-party
 ||compazenad.com^$popup,third-party
+||connectionpower.pw^$popup,third-party
 ||consol-energy.net^$popup,third-party
 ||console-bar.net^$popup,third-party
+||contentpap.info^$popup,third-party
 ||coolood.biz^$popup,third-party
 ||coosc.info^$popup,third-party
 ||copyop-ads.com^$popup,third-party
@@ -3236,6 +3245,7 @@ data:*text/*html,$popup
 ||dblock-ads.com^$popup,third-party
 ||dealdunjour.com^$popup,third-party
 ||dealitright.click^$popup,third-party
+||delibert.info^$popup,third-party
 ||deliverymodo.com^$popup,third-party
 ||delnapb.com^$popup,third-party
 ||derby-digital.com^$popup,third-party
@@ -3596,6 +3606,7 @@ data:*text/*html,$popup
 ||trustedpubs.com^$popup,third-party
 ||ts-ads.info^$popup,third-party
 ||twap2.com^$popup,third-party
+||uencedrefortifica.bid^$popup,third-party
 ||unlockads.com^$popup,third-party
 ||url.rw^$popup,third-party
 ||urlcash.com^$popup,third-party
@@ -6925,6 +6936,7 @@ toutcash.com/images/bandeau-
 ||d2hiddpkp3wlza.cloudfront.net^
 ||d2i54aseqwhx68.cloudfront.net^
 ||d2is3w689nunba.cloudfront.net^
+||d2k8yz7zlc0yyi.cloudfront.net^
 ||d2kbaqwa2nt57l.cloudfront.net^
 ||d2l8bbn629wykr.cloudfront.net^
 ||d2lxztepvo7ma1.cloudfront.net^
