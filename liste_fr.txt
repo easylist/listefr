@@ -1275,6 +1275,8 @@ _werbebanner_
 -banner.cib?$popup
 -popunder.php?$popup
 .adhoc1.$popup,third-party
+.adhoc2.$popup,third-party
+.adhoc4.$popup,third-party
 .adsrv.$popup
 .clksite.$popup
 .com.sa/ads?$popup
@@ -1601,6 +1603,7 @@ debugger:$popup
 ||adhit.me^$third-party
 ||adhoc1.net^$third-party
 ||adhoc2.net^$third-party
+||adhoc4.net^$third-party
 ||adhost.se^$third-party
 ||adhslx.com^$third-party
 ||adinlive.com^$third-party
@@ -3088,6 +3091,7 @@ debugger:$popup
 ||adglare.net^$popup,third-party
 ||adhoc1.net^$popup,third-party
 ||adhoc2.net^$popup,third-party
+||adhoc4.net^$popup,third-party
 ||adit-media.com^$popup,third-party
 ||adjux.com^$popup,third-party
 ||adlovaltd.com^$popup,third-party
@@ -8506,6 +8510,7 @@ toutcash.com/images/bandeau-
 ##a[href^="ads.php?id="]
 ##a[href^="http://3dxchat.com/?"]
 ##a[href^="http://aclick.adhoc1.net/"]
+##a[href^="http://aclick.adhoc2.net/"]
 ##a[href^="http://aclick.adhoc4.net/"]
 ##a[href^="http://ad-online.biz/"]
 ##a[href^="http://adprovider."]
