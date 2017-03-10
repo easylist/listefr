@@ -3688,6 +3688,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||380.hotpix.fr^
 ||3gpporn.org/bng/
 ||46.105.45.146/fr/img/affil/
+||4j.com/images/banners/
 ||6fun.fr/api.php
 ||78.41.233.99/~fhv3/slidein.php
 ||91.121.87.136:84/promo.php?$popup
@@ -7051,6 +7052,7 @@ toutcash.com/images/bandeau-
 ###EmplPubGauche
 ###EmplPubHaut
 ###HeadPub
+###LeftAdDiv
 ###NFBannierePublicitaire
 ###Pub728x90
 ###PubBas
@@ -7064,6 +7066,7 @@ toutcash.com/images/bandeau-
 ###PubPave
 ###PubTop
 ###PubliciteTop
+###RightAdDiv
 ###_div-ad-1
 ###_div-ad-2
 ###_div-ad-3
@@ -7614,6 +7617,7 @@ toutcash.com/images/bandeau-
 ###reklam300x250
 ###reklam300x600
 ###reklam_mgid
+###reklama2
 ###reklamarkaplan
 ###rightpubbox
 ###roadsheet-advertising
@@ -10807,6 +10811,7 @@ _blockadblock_
 @@||gorin.multiup.org/pop.js|$script,domain=filesupload.org
 @@||gowonda.com^$image,~third-party
 @@||gratuitcul.com/ad.php?ad=$script
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=h5.4j.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.cdn.famobi.com
 @@||iscoolcdn.com/versioned/prod/bundles/iscoolkitchen/adblock/advertisement.
 @@||lafansubresistance.biz^$script,domain=lafansubresistance.biz
