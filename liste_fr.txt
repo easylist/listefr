@@ -601,6 +601,7 @@
 /doubleclick_dmm/*
 /drawpub2.
 /dynamicads.
+/earn.*?zone=
 /ec_adalt.
 /ec_adalt/*
 /ec_adalt_
@@ -1775,6 +1776,7 @@ debugger:$popup
 ||anytrx.com^$third-party
 ||apploading.mobi^$third-party
 ||appsfire.com^$third-party
+||appupdate.center^$third-party
 ||ar-ads.com^$third-party
 ||ar-ads.net^$third-party
 ||arab-ads.com^$third-party
@@ -4049,6 +4051,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||gigaflat.com^$subdocument
 ||glenat.com/dyn/glenat/upload/$third-party
 ||globirank.com/image/$domain=unlock-stream.com
+||go.bcvc.mobi^
 ||go.nordvpn.net^
 ||go2cloud.org/aff_c?offer_id=
 ||goclecd.fr/wp-content/themes/reviewit/freekey/
@@ -4542,7 +4545,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||torrent24h.net^$popup,third-party
 ||tour.reelvidz.com/movie_player_dps/$popup,third-party
 ||toutsurlesabdos.com/images/bannieres_$domain=europeplusnet.info
-||track.bcvc.mobi/earn.php
+||track.bcvc.mobi^
+||track.bcvc.mobi^$popup
 ||track.bloglog.com^$third-party
 ||track.mdsmatch.com^
 ||trackuity.*/*/ticker/
@@ -10913,6 +10917,7 @@ toplien.fr#@#.AdvertContainer
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
 commentcamarche.net,journaldesfemmes.com#@#.text_ads
 !
+@@|http://bc.vc^$generichide
 @@||actu-zap.com^$generichide
 @@||alligatographe.blogspot.fr^$generichide
 @@||animes-mangas-ddl.com^$generichide
