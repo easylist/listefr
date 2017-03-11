@@ -2783,6 +2783,7 @@ debugger:$popup
 ||ylx-3.com^$third-party
 ||ylx-4.com^$third-party
 ||yospace.co.uk^$third-party
+||yospace.com^$~object-subrequest,third-party
 ||yospace.net^$third-party
 ||you-hentai.com^$third-party
 ||youzapping.com^$third-party
@@ -3927,6 +3928,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||crm-pour-pme.fr/images/copie%20de%20728-90.png
 ||crocastuce.fr/images/Boutons/
 ||croquettesbio.com/wp-content/uploads/*/skyscreeper-
+||csm-e.cds1.yospace.com^
 ||cyberflirt.com/cx/
 ||cyonix.to^$subdocument
 ||d4.fr/img/af_$third-party
@@ -4200,6 +4202,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||maigris.com^$popup
 ||maisonentravaux.fr^*/avoir-devis-travaux-gratuit.gif
 ||marche-forex.com/popup*.js
+||mas-e.cds1.yospace.com^
 ||materiel.net^$popup,domain=configspc.com
 ||maxannu.com/max468.
 ||maximobileshop.com/widget/$domain=iphonetweak.fr
@@ -4654,7 +4657,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||yaagle.com^$subdocument
 ||yellowapi.com/twn/?
 ||yimg.com/hl/ap/default/*/HP_*.jpg
-||yospace.com^$domain=bfmtv.com
+||yospace.com/csm/
+||yospace.com^*.ts?yo.u=0
+||yospace.com^*.ts?yo.u=1
 ||youcloud.tv/adl?
 ||youporn.com^*?utm_$popup
 ||youtube.com^$popup,domain=abdelghanisat.kazeo.com|zevpn.net
@@ -5345,6 +5350,7 @@ toutcash.com/images/bandeau-
 ||belgiumapps.lesoir.be/iframe/
 ||bergaag.com/wp-content/themes/bergaag/img/banniere-
 ||beurette-soumise.gahyoo.com^$popup
+||bfmtv.com/csm/
 ||bienpublic.com/images/pub/
 ||bigbike-magazine.com/media/HABILLAGE/
 ||binnews.biz/_images/pub/
@@ -10596,7 +10602,6 @@ femmesplus.fr##section[id] > img
 @@||bannieres.telethon.fr/compteurs/$image,subdocument
 @@||beaute-test.com/global/css/show_ads.js$script
 @@||beead.fr^$domain=doc-etudiant.fr|ouifm.fr|radiofg.com|radioneo.org|rfm.fr|virginradio.fr
-@@||bfm-ak.cds1.yospace.com/u/file~video_$object-subrequest,third-party,domain=bfmtv.com
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
 @@||bluesteel.fr/affiliation/$domain=bluesteel.fr
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
@@ -10610,6 +10615,8 @@ femmesplus.fr##section[id] > img
 @@||cowcotland.com/scripjs.php?files=*,jquery.lazyload-ad-$script
 @@||cstatic.weborama.fr/js/advertiser/wbo_performance.js$domain=pmu.fr
 @@||d2q55mevlpufwx.cloudfront.net/wp-content/news/images/2012/02/mwlogo.jpg
+@@||dai.bfmtv.com/csm/live/*.m3u8?yo.po=$object-subrequest,domain=bfmtv.com
+@@||dai.bfmtv.com/csm/live/*/*.m3u8;jsessionid=*.cds1.yospace.com?yo.po=$object-subrequest,domain=bfmtv.com
 @@||daily-buzz.fr/images/*/pages/*_300x250.png$image
 @@||daily-geek.fr/images/*/pages/*_300x250.png$image
 @@||daily-joy.fr/images/*/pages/*_300x250.png$image
@@ -10709,7 +10716,6 @@ femmesplus.fr##section[id] > img
 @@||wifeo.com/ads/promo/advertise-publicite.gif$image,domain=wifeo.com
 @@||www.bouyguestelecom.fr^*/catalog/product/cache/*/image/300x600/$image,~third-party
 @@||www.xstory-fr.com/ajax.php?$xmlhttprequest,domain=www.xstory-fr.com
-@@||yospace.com/crossdomain.xml$object-subrequest,third-party,domain=bfmtv.com
 @@||zatnawqy.net/intermission/loadTargetUrl?$~third-party,xmlhttprequest
 ! iRaiser.eu
 @@||agir.plan-international.fr/adserver2/$~third-party
