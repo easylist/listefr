@@ -1299,6 +1299,7 @@ _werbebanner_
 /adexchangelive.$popup
 /adplexmedia/*$popup
 /ads.php$popup
+/ads/direct/*$popup
 /ads/out.$popup
 /ads/pops/$popup
 /ads?*=|$popup
