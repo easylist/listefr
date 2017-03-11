@@ -586,6 +586,7 @@
 /df/250x250.
 /dfp-adblock-
 /dfp/dfp.
+/dfp_ad/*
 /dfp_server.
 /dhtml/notification/*
 /dhtml/popup/*
@@ -7319,6 +7320,9 @@ toutcash.com/images/bandeau-
 ###dfp-habillage
 ###dfp-pave_bas
 ###dfp-pave_milieu
+###dfp_ad_2
+###dfp_banniere_bas
+###dfp_banniere_haute
 ###displayedPub
 ###div-ads
 ###div-gpt-ad-Banniere_Haute
@@ -8107,6 +8111,9 @@ toutcash.com/images/bandeau-
 ##.pave_pub2
 ##.pjsleads
 ##.playerpub
+##.pmd_dfp_ad
+##.pmdfp-placer
+##.pmdfp_habillage
 ##.po_wads
 ##.popupads
 ##.position_pub
@@ -9249,7 +9256,7 @@ porn0sexe.com##.aRight
 driverscloud.com##.accueil_pubotherlan
 lagazettedescommunes.com##.actus-case-pub
 lagazettedescommunes.com##.actus-home-right-pub
-courrierinternational.com,dna.fr,e-sante.fr,fabriquer-des-meubles.fr,gamer-network.fr,gizmodo.fr,heures.be,journalmetro.com,lematin.ch,lequotidiendumedecin.fr,lopinion.fr,maps.google.fr,marques.expert,msn.com,p-nintendo.com,photo.fr,playerhd1.pw,soundlightup.com,tetu.com,tripadvisor.fr,zapiks.fr##.ad
+courrierinternational.com,dna.fr,e-sante.fr,fabriquer-des-meubles.fr,femmeactuelle.fr,gamer-network.fr,gizmodo.fr,heures.be,journalmetro.com,lematin.ch,lequotidiendumedecin.fr,lopinion.fr,maps.google.fr,marques.expert,msn.com,p-nintendo.com,photo.fr,playerhd1.pw,soundlightup.com,tetu.com,tripadvisor.fr,zapiks.fr##.ad
 nouvelobs.com##.ad--desk
 midilibre.fr,sudouest.fr##.ad-box
 turfomania.fr##.ad1
@@ -9768,7 +9775,7 @@ pornofrance.org##.promomenu
 meteosun.com##.promote_large
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
-abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zupimages.net##.pub
+abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zupimages.net##.pub
 les-terrains.com##.pub-bloc
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
