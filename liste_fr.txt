@@ -360,6 +360,8 @@
 /ads_90_728.
 /ads_block
 /ads_hao123.
+/ads_left.
+/ads_right.
 /ads_scripts/*
 /ads_server/*
 /ads_top.
@@ -2789,6 +2791,7 @@ debugger:$popup
 ||yospace.com^$~object-subrequest,third-party
 ||yospace.net^$third-party
 ||you-hentai.com^$third-party
+||youwatchtab.com^$third-party
 ||youzapping.com^$third-party
 ||yoyadsdom.com^$third-party
 ||yx-ads*.com^$third-party
@@ -10848,7 +10851,6 @@ _blockadblock_
 @@||d.adxcore.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||doubleverify.com^$domain=kissanime.com
 @@||foglio.basilic.io/ad/basilic.adsense.js
-@@||folihentai.eu/*.js|$script,third-party
 @@||geek-malin.fr/wp-content/plugins/adziner/Front/Js/ads.min.js?
 @@||gorin.multiup.org/pop.js|$script,domain=filesupload.org
 @@||gowonda.com^$image,~third-party
