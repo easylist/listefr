@@ -7854,6 +7854,10 @@ toutcash.com/images/bandeau-
 ##.ads_label
 ##.ads_listvideos
 ##.ads_partners
+##.ads_post_bit
+##.ads_post_bit_first
+##.ads_post_bit_last
+##.ads_post_bit_middle
 ##.ads_single_bottom
 ##.ads_table
 ##.ads_vert
@@ -8705,7 +8709,7 @@ courrierlaval.com,letraitdunion.com###add_top
 mistergoodmovies.net###addspace
 telechargerunevideo.com###adlbl
 clicanoo.re###adress_utiles
-ecogine.org,full-serie.com,full-stream.nu,libre-stream.com,narkive.com,tendancehotellerie.fr###ads
+ecogine.org,full-serie.com,full-stream.nu,libre-stream.com,tendancehotellerie.fr###ads
 ustart.org###ads_tall
 algerie360.com###adssouspost
 nowvideo.eu###adv1
@@ -10067,6 +10071,7 @@ aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
 uploaded.net##[class*="pico-"]
 t411.bz,t411.ch,t411.cl,t411.la,t411.lc,t411.li,t411.lt,t411.lv,t411.tv##[class] + div > img + a
 bestream.tv##[class^="adsRemove"]
+narkive.com##[class^="ads_"]
 jeu.info##[class^="banniere-"]
 cpasbien-torrents.fr##[class^="fstory"] + center > a
 forumconstruire.com##[class^="habillage"]
