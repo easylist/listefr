@@ -4612,7 +4612,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||videos-de-celebrites.com/bann/
 ||videos-de-celebrites.com/CMF_Banners/
 ||videos-pornographiques.com/promo/
-||vidup.me/mba/
 ||vidzi.tv/300e.html
 ||viewster.com^*utm_$popup
 ||visio-x.fr/js/out.js
@@ -6813,6 +6812,7 @@ toutcash.com/images/bandeau-
 ||vidlox.me/js/$xmlhttprequest
 ||vidlox.tv/js/$xmlhttprequest
 ||vidule.com^*/u.js
+||vidup.me^$subdocument,~third-party
 ||viepratique.fr/wp-content/uploads/sites/*/Bloc_partenaire_
 ||village-libertin.com/site_rencontre/ban/
 ||vinyculture.com/wp-content/uploads/*-banner-
@@ -10917,6 +10917,7 @@ _blockadblock_
 @@||tune.pk/js/ads.js?cache=$script,domain=tune.pk
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||vidlox.me/bootstrap.js|$script,domain=vidlox.tv
+@@||vidup.me/adsense.js?$script,domain=vidup.me
 @@||wakanim.tv^*/video/advertisement?idepisode=
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 ! mystream.la
