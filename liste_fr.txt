@@ -285,6 +285,7 @@
 /AdConfig.aspx
 /adengine2/*
 /adengine2_
+/adfever.
 /adform.
 /adhosting.
 /adimage-
@@ -6115,8 +6116,9 @@ toutcash.com/images/bandeau-
 ||lkeria.com/redirect.$popup
 ||lnc.nc^*/habillage-lnc/
 ||lobourse.com/pub/
-||logicielmac.com/media/data/LogicielMac/zpub/
-||logicielmac.com/media/pubs/
+||logicielmac.com^*/habillage/
+||logicielmac.com^*/zpub/
+||logicielmac.com^/pubs/
 ||logitheque.com/media/*-pub-
 ||logitheque.com/media/pubs/
 ||loractu.fr/uploads/ad/background/
@@ -8778,7 +8780,6 @@ logitheque.com###bloc-droit-haut-250-250
 logitheque.com###bloc-droite-bas-250-250
 logitheque.com###bloc-milieu-300-250
 graphistesonline.com###bloc-partenaires
-logicielmac.com###bloc-pub-centre
 aujourdhui-en-france.fr,leparisien.fr###blocMarketing
 mail.voila.fr,orange.fr###blocServices
 maisonbrico.com###blocSponsor
@@ -8929,7 +8930,6 @@ millenium.org###habillagesite
 geekopolis.fr###habitdroit
 geekopolis.fr###habitgauche
 football.fr,sports.fr###hablinkzone
-logicielmac.com###haut-droit-728-90
 annonces-dz.com###hb
 classement.pro###headbanner
 boursorama.com###header + #body > div:first-child > .visible-desktop
@@ -9020,7 +9020,6 @@ jeuxvideo-live.com###meilleursPrix
 jeuxvideo.com###menu_topventes
 aujourdhui-en-france.fr,leparisien.fr###meteo-immo
 liligo.fr###midbanner
-logicielmac.com###milieu-de-page-728-90
 lessentiel.lu###min_rectangle
 e-sushi.fr###modal
 le-buzz.fr###modal_chrome
@@ -9590,7 +9589,7 @@ lemondeinformatique.fr##.gradient-sponsor + .bloc-container
 star7arab.com##.grid[style="width: 770px; height: 69px;"]
 semageek.com##.h300
 zonebourse.com##.hPubRight2
-cbanque.com,logitheque.com,made-in-algeria.com,made-in-tunisia.net,maghrebex.com,mediscom.com,navis.ma##.habillage
+cbanque.com,logicielmac.com,logitheque.com,made-in-algeria.com,made-in-tunisia.net,maghrebex.com,mediscom.com,navis.ma##.habillage
 le2minutes.com##.habillage-left
 le2minutes.com##.habillage-right
 le2minutes.com##.habillage-top
@@ -9811,7 +9810,7 @@ pornofrance.org##.promomenu
 meteosun.com##.promote_large
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
-abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zupimages.net##.pub
+abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,logicielmac.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zupimages.net##.pub
 les-terrains.com##.pub-bloc
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
