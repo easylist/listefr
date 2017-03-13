@@ -957,6 +957,7 @@
 /underpopup.
 /upld/ads/*
 /upload/ad/*
+/uploads/*/ads.
 /vaxadserver.
 /vbs-ads.
 /videojs.adss.
@@ -1368,6 +1369,7 @@ _werbebanner_
 /pop?dfp_id=$popup
 /popads.$popup
 /popad|$popup
+/popclick/*$popup
 /popOut.*?key=$popup
 /popunderoncl.$popup
 /popupclick/*$popup
@@ -1712,6 +1714,7 @@ debugger:$popup
 ||adtrafic.com^$third-party
 ||adtwbjs.com^$third-party
 ||adual.net^$third-party
+||adult.xyz^$script,third-party
 ||advanpromo.com^$third-party
 ||advantagz.com^$third-party
 ||adverkeyz.com^$third-party
@@ -5333,6 +5336,7 @@ toutcash.com/images/bandeau-
 ||awbarre.com/includes/rotateurs/
 ||banques-en-ligne.fr/img/hb-
 ||banques-en-ligne.fr^*/habillage.
+||bas88.com/data/$image
 ||batiactu.com/cap_pub/
 ||batiactu.com/cap_pub/$popup
 ||batiactu.com/images/pub/
@@ -7003,6 +7007,7 @@ toutcash.com/images/bandeau-
 ||d3591q3cwzbtxd.cloudfront.net^
 ||d35gxjm3e9wg7v.cloudfront.net^
 ||d36sxvmjoflc2i.cloudfront.net^
+||d37s9vd5t6mov7.cloudfront.net^
 ||d39hdzmeufnl50.cloudfront.net^
 ||d39iocnrk5rxnb.cloudfront.net^
 ||d3al52d8cojds7.cloudfront.net^
@@ -8128,6 +8133,7 @@ toutcash.com/images/bandeau-
 ##.pave_pub
 ##.pave_pub2
 ##.pjsleads
+##.player-ad-overlay
 ##.playerpub
 ##.pmd_dfp_ad
 ##.pmdfp-placer
@@ -8169,6 +8175,7 @@ toutcash.com/images/bandeau-
 ##.pub-container
 ##.pub-demipage
 ##.pub-double-bande
+##.pub-droite-player
 ##.pub-gigaban
 ##.pub-half-width
 ##.pub-haut
