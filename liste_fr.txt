@@ -4542,7 +4542,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||teramixer.com/themes/cloudmix/img/pixel/
 ||terasexe.com/pubs/
 ||test-psycho.com/meetic.gif$domain=sortirensemble.com
-||thevideo.me/mba/
 ||tinypic.com^$image,domain=mediafree.co|skymiga.com|timeload.net
 ||tool.acces-vod.com^$popup
 ||tools.gigacu.com^
@@ -6678,6 +6677,7 @@ toutcash.com/images/bandeau-
 ||theadultcompany.biz/*/ff_siteunder/$popup
 ||thefrenchporn.com^$popup,~third-party
 ||thefrenchporn.com^*/disclaimer.js
+||thevideo.me^$subdocument,~third-party
 ||ti.bank.free.fr/images/jarrety
 ||ticketac.com/upload/banniere/
 ||tignes.net/data/habillages/
