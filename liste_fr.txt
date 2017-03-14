@@ -11015,6 +11015,13 @@ satelliweb.com,telesatellite.com##a[target="_blank"] > img
 satelliweb.com,telesatellite.com##a[target="_new"] > img
 |http://$image,popup,script,third-party,xmlhttprequest,domain=telesatellite.com
 |https://$image,popup,script,third-party,xmlhttprequest,domain=telesatellite.com
+! fdesouche.com
+@@.ico|$image,domain=fdesouche.com
+@@|http://*.ad$script,third-party,domain=fdesouche.com
+@@|http://*.ban$script,third-party,domain=fdesouche.com
+@@||fdesouche.com^$generichide
+|http://$script,third-party,domain=fdesouche.com
+|https://$script,third-party,domain=fdesouche.com
 ! adBack.co
 ||112038398dc590fd910f04439eba2dc2.ovh^
 ||49192d62ae75aadb31db945156e50aa9.ovh^
