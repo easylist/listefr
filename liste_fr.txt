@@ -4887,6 +4887,12 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 |http://$script,third-party,xmlhttprequest,domain=lucariostream.eu
 |https://$script,third-party,xmlhttprequest,domain=lucariostream.eu
 ||lucariostream.eu^$popup,~third-party
+! heures.be
+@@||ajax.googleapis.com/ajax/libs/$script,domain=heures.be
+@@||maps.google.com^*/api/js$script,domain=heures.be
+@@||maps.googleapis.com/maps/api/js/$script,domain=heures.be
+|http://$script,third-party,domain=heures.be
+|https://$script,third-party,domain=heures.be
 ! japscan.com
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.com
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.com
@@ -5827,7 +5833,8 @@ toutcash.com/images/bandeau-
 ||hentaihaven.org/lube/
 ||herault-tribune.com^*/flash_pub_
 ||herault-tribune.com^*/rep_pub/
-||heures.be/includes/js/check
+||heures.be/includes/js/block
+||heures.be/template/images/promm/
 ||hibamusic.com/pub/
 ||hiqqu.xxx/static/n/
 ||histoires-de-sexe.net/graf/
@@ -9306,14 +9313,13 @@ porn0sexe.com##.aRight
 driverscloud.com##.accueil_pubotherlan
 lagazettedescommunes.com##.actus-case-pub
 lagazettedescommunes.com##.actus-home-right-pub
-courrierinternational.com,dna.fr,e-sante.fr,fabriquer-des-meubles.fr,femmeactuelle.fr,gamer-network.fr,gizmodo.fr,heures.be,journalmetro.com,lematin.ch,lequotidiendumedecin.fr,lopinion.fr,maps.google.fr,marques.expert,msn.com,p-nintendo.com,photo.fr,playerhd1.pw,soundlightup.com,tetu.com,tripadvisor.fr,zapiks.fr##.ad
+courrierinternational.com,dna.fr,e-sante.fr,fabriquer-des-meubles.fr,femmeactuelle.fr,gamer-network.fr,gizmodo.fr,journalmetro.com,lematin.ch,lequotidiendumedecin.fr,lopinion.fr,maps.google.fr,marques.expert,msn.com,p-nintendo.com,photo.fr,playerhd1.pw,soundlightup.com,tetu.com,tripadvisor.fr,zapiks.fr##.ad
 nouvelobs.com##.ad--desk
 midilibre.fr,sudouest.fr##.ad-box
 turfomania.fr##.ad1
 vinyculture.com##.ad2
 pafpaf.com##.adBlocTop
 lastminute.com,t-algerie.com##.adContainer
-heures.be##.adHours
 fusac.fr,souiqua.net##.adblock
 msn.com##.adcontainer
 reverso.net##.adcontent
@@ -9338,7 +9344,6 @@ reverso.net##.advhead
 statistiks.fr##.adz
 aufeminin.com##.af-block-native
 permaculteurs.com##.aff
-heures.be##.affbox
 captainmugiwara.over-blog.com##.afterload
 detecteur.net##.alert-warning
 algerianmag.com##.alger-in
@@ -9809,8 +9814,6 @@ strastv.com##.post_pub
 canalplus.fr##.preroll
 kelkoo.fr##.priceminister
 sport-equipements.fr##.product-photo
-heures.be##.promSB
-heures.be##.promSidebar
 deco.fr##.promo
 boursorama.com##.promo + .visible-desktop[style$="display: block;"]
 challenges.fr,nouvelobs.com##.promo-bottom-art
@@ -10079,6 +10082,7 @@ ccm.net,commentcamarche.net##[class*="_item--sponsor"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
 uploaded.net##[class*="pico-"]
 t411.li##[class] + div > img + a
+heures.be##[class^="ad"]
 bestream.tv##[class^="adsRemove"]
 narkive.com##[class^="ads_"]
 jeu.info##[class^="banniere-"]
@@ -10086,6 +10090,7 @@ cpasbien-torrents.fr##[class^="fstory"] + center > a
 forumconstruire.com##[class^="habillage"]
 igen.fr,macg.co,orange.fr##[class^="lig_"]
 nrj.fr##[class^="modal"]
+heures.be##[class^="prom"]
 ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
 guide-piscine.fr##[class^="regie_"]
 msn.com##[class^="stripecontaine"][data-section-id="stripe.store"]
@@ -10099,6 +10104,7 @@ speedvid.net##[id][style*="z-index:"]
 turbo.fr##[id^="ABbypass"]
 egora.fr##[id^="block-gmsante_pub-"]
 comarketing-news.fr##[id^="comar-"]
+heures.be##[id^="float"]
 commentcamarche.net,free.fr,journaldesfemmes.com,orange.fr##[id^="lig_"]
 leparticulier.fr##[id^="loca_service_simulateur_"]
 agate-france.com##[id^="pbad_"]
@@ -10148,7 +10154,6 @@ nouvelobs.com##a[href*="/les-bons-plans-shopping/"]
 planet-series.tv##a[href*="/offer?"]
 euro-2016-france.net##a[href*="/parier/"]
 centre-audition.com,easyzic.com,info-algerie.com##a[href*="/redirect."]
-heures.be##a[href*="/regarder/"]
 torrentfrancais.eu##a[href*="/torrfran_ez?"]
 zone-telechargement.com##a[href*="/x.php"]
 ddl-island.su,emule-island.ru,stream-island.su##a[href*="/xxx/"]
