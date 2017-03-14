@@ -4791,19 +4791,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||wwwtatonnai.eu^$third-party
 ||wwwtatonnai.info^$third-party
 ||wwwtatonnai.uk^$third-party
-! bfmtv.com
-/\/[a-z0-9]+\.[a-z0-9-]+\.[a-z]{2,}\/.{40,}/$~font,image,media,object,script,~stylesheet,third-party,~xmlhttprequest,domain=bfmtv.com
-@@||admin.brightcove.com/viewer/*/BrightcoveBootloader.swf?$object,domain=bfmtv.com
-@@||admin.brightcove.com/viewer/*/connection/ExternalConnection_2.swf$object-subrequest,domain=bfmtv.com
-@@||admin.brightcove.com/viewer/*/controllers/FP10StreamingMediaController.swf$object-subrequest,domain=bfmtv.com
-@@||admin.brightcove.com/viewer/*/federatedVideoUI/BrightcovePlayer.swf?$object-subrequest,domain=bfmtv.com
-@@||admin.brightcove.com/viewer/*/themes/widgets/chromelessVideoPlayer/Deluxe.swf$object-subrequest,domain=bfmtv.com
-@@||c.brightcove.com/services/messagebroker/amf?$object-subrequest,domain=bfmtv.com
-@@||c.brightcove.com/services/viewer/federated_f9?$object,domain=bfmtv.com
-@@||players.brightcove.net^*_default/index.min.js$script,domain=bfmtv.com
-@@||service.ooul.tv/contrib/fr-groupe01/aab/pulse-vjs-sm-plugin.min.js$domain=bfmtv.com
-|http://$media,third-party,domain=bfmtv.com
-|https://$media,third-party,domain=bfmtv.com
 ! femmeactuelle.fr
 /\/[a-z0-9]+\.[a-z0-9-]+\.[a-z]{2,}\/.{40,}/$image,media,object,script,third-party,domain=femmeactuelle.fr
 @@||creas.prismamediadigital.com/feminin/2014/carousel_application/femme_actuelle_$image,domain=femmeactuelle.fr
@@ -11709,4 +11696,3 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 /\/[a-z0-9_]+\.[a-z0-9-]+\.[a-z]{2,}\/.*?\w{30,}/$domain=exclusivomen.com|gentside.com|gentside.com.br|gentside.de|maxisciences.com|ohmirevista.com|ohmymag.com|ohmymag.com.br|ohmymag.de|simplyvoyage.com
 /\/[a-z0-9_]+\.[a-z0-9-]+\.[a-z]{2,}\/.*[a-zA-Z0-9]{40,}/$object-subrequest,domain=wat.tv
 !@@/\.palmshapednontransferable\.com/[a-zA-Z0-9]{50,150}$/$image,xmlhttprequest,domain=exclusivomen.com|gentside.com|gentside.com.br|gentside.de|maxisciences.com|ohmirevista.com|ohmymag.com|ohmymag.com.br|ohmymag.de|simplyvoyage.com
-@@|https://*.genusgpenet.com^*/*/*/*/*/*/$third-party,xmlhttprequest,domain=bfmtv.com
