@@ -3933,6 +3933,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||cloudfront.net^*tid=$script
 ||cloudinary.com/hd-numerique/*/amz-300.jpg
 ||cloudlocker.biz/img/CL468-1.gif
+||cloudsdns.net/protJS/$third-party
 ||club-salopes.com/partenaires/
 ||coachingminceur.go2cloud.org^
 ||comdotcdn.com/hiqqu/files/widgets/
@@ -10933,6 +10934,7 @@ _blockadblock_
 @@||mystream.la/js/pop.js|$script,domain=mystream.la
 @@||mystream.la/pop.js|$script,domain=mystream.la
 @@||mystream.la/popu.js|$script,domain=mystream.la
+@@||mystream.la/rsads.js|$script,domain=mystream.la
 ||mystream.la/ext/
 ||mystream.la/js/*.js?
 ! youwatch.org / exashare.com / allvid.ch
