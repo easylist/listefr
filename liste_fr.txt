@@ -6891,7 +6891,6 @@ toutcash.com/images/bandeau-
 ||yimg.com/dh/ap/default/*/yahoolast.jpg
 ||yimg.com^*/default/*/Habillage_
 ||youjizz.com/exoa/
-||yts.ag/images/vpn
 ||z-barre.com/fonction/aff*.php
 ||za-gay.org^*/exit_pop_up.js
 ||zatnawqy.net^$popup,~third-party
@@ -9399,6 +9398,7 @@ logemaroc.com##.baniere
 orientation-chabab.com##.bann
 afrik-foot.com,afrik.com,afrikeco.com,canalplus.fr,glenatbd.com,gulli.fr,hdnumerique.com,kpopfm.fr,manga-news.com,medialot.fr,mesbagages.com,orientation-chabab.com,telquel.ma,textnow.com,trimag.fr,ventsdouest.com,video-2-cul.com##.banner
 batiactu.com##.banner-background
+yts.ag##.banner-bordered
 golem13.fr##.banner-halfpage
 afrik-cuisine.com##.banner1
 darjadida.com##.banner_125x125
@@ -9550,7 +9550,6 @@ easyvoyage.com##.esv-pub-300-250
 eztv-proxy.net,eztv.ag,eztv.ch,eztv.it,eztv.tf,eztv.yt##.exit-overlay
 eztv-proxy.net,eztv.ag,eztv.ch,eztv.it,eztv.tf,eztv.yt##.exit-pop-holder
 maddyness.com##.extra-block
-yts.ag##.fdn
 humanite.fr##.field-name-bloc-pub-1ere-sidebar-contenu-3
 humanite.fr##.field-name-pub-sidebar-first-content
 lefigaro.fr##.fig-adgps
@@ -9876,6 +9875,8 @@ web-tricheur.net##.pubtexte
 jeuxflash.com##.pull-left
 femmeactuelle.fr##.push-partenaire
 nouvelobs.com##.r89-partenariats--vertical
+yts.ag##.rating-row > [rel]
+yts.ag##.rating-row > [style]
 souk.ma##.rbanner-wrap
 annuaire-inverse-france.com##.rborderpurple
 lien-torrent.com##.rcol
@@ -10172,7 +10173,6 @@ zetorrento.fr,zetorrents.com##a[href*="porno"]
 beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com,sports.fr##a[href*="smartadserver.com/call/cliccommand/"]
 torrent9.biz,torrents9.org,torrents9.tv##a[href*="torrent9.me/"]
 lucariostream.eu##a[href*="univers-saiyan.com/"]
-yts.ag##a[href*="vpn"]
 dpstream.to,quedustream.com,streaming-series.to##a[href*="xmediaserve"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 lemonde.fr##a[href="#panneau-programme-emploi"]
