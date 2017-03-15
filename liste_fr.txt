@@ -4795,7 +4795,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||wwwtatonnai.info^$third-party
 ||wwwtatonnai.uk^$third-party
 ! femmeactuelle.fr
-/\/[a-z0-9]+\.[a-z0-9-]+\.[a-z]{2,}\/.{40,}/$image,media,object,script,third-party,domain=femmeactuelle.fr
+/\/[a-z0-9]+\.[a-z0-9-]+\.[a-z]{2,}\/.{40,}/$image,media,object,script,third-party,xmlhttprequest,domain=femmeactuelle.fr
+@@||c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=$xmlhttprequest,domain=femmeactuelle.fr
+@@||c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=$xmlhttprequest,domain=femmeactuelle.fr
 @@||creas.prismamediadigital.com/feminin/2014/carousel_application/femme_actuelle_$image,domain=femmeactuelle.fr
 @@||players.brightcove.net^*_default/index.min.js$script,domain=femmeactuelle.fr
 |http://$media,third-party,domain=femmeactuelle.fr
@@ -11226,6 +11228,7 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 ||bowelbellj.com^$third-party
 ||boynejackstraw.org^$third-party
 ||brachycephalismotterhound.net^$third-party
+||bradyplychni.com^$third-party
 ||bragibriefness.com^$third-party
 ||breastfeedingramjet.org^$third-party
 ||brickshapedcallnumber.net^$third-party
