@@ -4825,12 +4825,16 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 @@||p.jwpcdn.com^$object-subrequest,third-party,domain=ultimedia.com
 |http://$object-subrequest,script,third-party,xmlhttprequest,domain=ultimedia.com
 ! videoplaza
-|http://*0.*.damoh.*/|$domain=6play.fr|canalplus.fr|minutefacile.com|rtl.be
-|http://*2.*.damoh.*/|$domain=6play.fr|canalplus.fr|minutefacile.com|rtl.be
-|http://*3.*.damoh.*/|$domain=6play.fr|canalplus.fr|minutefacile.com|rtl.be
-|http://*4.*.damoh.*/|$domain=6play.fr|canalplus.fr|minutefacile.com|rtl.be
-|http://*8.*.damoh.*/|$domain=6play.fr|canalplus.fr|minutefacile.com|rtl.be
-|http://*9.*.damoh.*/|$domain=6play.fr|canalplus.fr|minutefacile.com|rtl.be
+|http://*0.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.ne|minutefacile.com|rtl.be
+|http://*2.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.ne|minutefacile.com|rtl.be
+|http://*3.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.ne|minutefacile.com|rtl.be
+|http://*4.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.ne|minutefacile.com|rtl.be
+|http://*5.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.ne|minutefacile.com|rtl.be
+|http://*6.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.ne|minutefacile.com|rtl.be
+|http://*7.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.ne|minutefacile.com|rtl.be
+|http://*8.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.ne|minutefacile.com|rtl.be
+|http://*9.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.ne|minutefacile.com|rtl.be
+|http://*e.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.ne|minutefacile.com|rtl.be
 ! t411
 @@||ajax.googleapis.com/ajax/libs/$script,domain=t411.li
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.li
