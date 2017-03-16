@@ -4826,6 +4826,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=films-regarder.org
 |http://$popup,script,third-party,domain=films-regarder.com|films-regarder.org|films-regarder.xyz
 |https://$popup,script,third-party,domain=films-regarder.com|films-regarder.org|films-regarder.xyz
+! free-telechargement.com
+|http://$script,third-party,xmlhttprequest,domain=free-telechargement.com
+|https://$script,third-party,xmlhttprequest,domain=free-telechargement.com
 ! ddlfr.org
 |http://$script,third-party,xmlhttprequest,domain=ddlfr.org
 |https://$script,third-party,xmlhttprequest,domain=ddlfr.org
