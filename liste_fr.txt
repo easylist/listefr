@@ -648,6 +648,7 @@
 /gfx/bannieres/*
 /goclick?ref=$script
 /grid/ads/*
+/header-ads.
 /header_ads|
 /homad-global-
 /iframe468x60-
@@ -3904,6 +3905,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||cloudlocker.biz/img/CL468-1.gif
 ||cloudsdns.net/protJS/$third-party
 ||club-salopes.com/partenaires/
+||cmp.vidcoin.com^
 ||coachingminceur.go2cloud.org^
 ||comdotcdn.com/hiqqu/files/widgets/
 ||compteur-blog.net/img/pub_
@@ -4584,6 +4586,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||vernimmen.net/images/flash/300x300_$third-party
 ||viafeed.mobi^$popup
 ||vidazoo.com/aggregate?
+||vidcoin.com^$domain=aufeminin.com
 ||vide.maison/wp-content/uploads/$third-party
 ||videochart.net/mnc/
 ||videochart.net/vedro/
@@ -4612,6 +4615,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||vp.videoplaza1.tv/creatives/assets/$object-subrequest,third-party
 ||vplan.com^$popup,domain=fdesouche.com
 ||vpn-facile.net^$popup,domain=cachemoi.com
+||vws.vidcoin.com^
 ||w3sexe.com/logo.php?
 ||wac.*.deltacdn.net^*/ta-cdn/$third-party
 ||wac.a164.taucdn.net^
