@@ -563,7 +563,9 @@
 /choixPubJS.
 /clash/ads/*
 /clash/banner-
+/click/*&trafficsource_id=
 /click/*/subaccount|
+/click/*?pubid=
 /click?adv=
 /click_update.*?id_pub=
 /clients-ads.
@@ -1671,6 +1673,7 @@ debugger:$popup
 ||adsb4track.com^$third-party
 ||adsb4trk.com^$third-party
 ||adsbtrack.com^$third-party
+||adsbtrk.com^$third-party
 ||adschemist.com^$third-party
 ||adschoom.com^$third-party
 ||adsclick.com.br^$third-party
