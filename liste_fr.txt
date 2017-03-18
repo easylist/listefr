@@ -3858,6 +3858,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||amazon.fr/exec/obidos/external-search?$subdocument,domain=annuaire-bleu.net
 ||amazon.fr^$popup,domain=fdesouche.com
 ||amazonaws.com/pubfig/
+||amazonaws.com/purch-adops/
 ||amazonaws.com/static.contentza.com/
 ||amazonaws.com/waframedia*.
 ||amazonaws.com^*/3x250-$subdocument
@@ -8165,6 +8166,7 @@ toutcash.com/images/bandeau-
 ##.ipsAdvertisement_large
 ##.item-izipub
 ##.item-pubb-728
+##.itemlist-block-pub
 ##.job_ads_container
 ##.jquery-adi
 ##.js_DivPublicityLateral
@@ -9038,7 +9040,7 @@ lalibre.be###headerRelook
 auto-utilitaire.com###header_3
 lefaso.net###header_content_banner
 lyonmag.com###header_empl
-tomshardware.fr###header_leaderboard
+tomsguide.fr,tomshardware.fr###header_leaderboard
 intellego.fr###header_top
 dogzer.com###header_tr_banniere
 pixmania.com###highlight-new
@@ -9587,6 +9589,7 @@ terrafemina.com##.c-product
 metronews.fr##.campaign-push-wrapper
 lejsl.com##.campaignImage
 lacentrale.fr##.caradisiac
+tomsguide.fr##.carousel-multi-css-side
 canalplus.fr##.carousel-preroll
 psychologies.com##.carrousel_partenaires
 a18ans.com,jamaisjouis.com,liste2cul.com,vidule.com##.catcher
@@ -10067,6 +10070,7 @@ msn.com##.stripecontainer[data-section-id="stripe.msstore"]
 imobie.fr##.support_guide_download_upper
 t411.li##.switcher + a
 forum.sportytrader.com##.tableau_bleu
+tomsguide.fr##.tabletoff
 walfoot.be##.take-banner
 turbo.fr##.textPub
 asso-web.com##.text_pub
@@ -10148,7 +10152,6 @@ esoxiste.com##.xoxo a > img
 lapresse.ca##.xtra
 torrentfrancais.com##.z2_full_direct_link_download
 torrentfrancais.com##.z2_full_pub_video
-tomsguide.fr##.zoneTriple
 lepetiteconomiste.com##.zoom
 zetorrento.fr,zetorrents.com##A[href*="/AF_"]
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
