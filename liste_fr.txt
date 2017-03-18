@@ -4878,9 +4878,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||torrents9.org/top_torrent.php$popup
 ||torrents9.tv/top_torrent.php$popup
 ! emule-island
-@@||ajax.googleapis.com/ajax/libs/$script,domain=emule-island.ru
-|http://$script,third-party,domain=emule-island.ru
-|https://$script,third-party,domain=emule-island.ru
+@@||ajax.googleapis.com/ajax/libs/$script,domain=ddl-island.su|emule-island.ru
+|http://$script,third-party,domain=ddl-island.su|emule-island.ru
+|https://$script,third-party,domain=ddl-island.su|emule-island.ru
 ! ex-down.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=extreme-protect.net
 |http://$script,third-party,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.org|extreme-down.ws|extreme-protect.net|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
@@ -10176,7 +10176,7 @@ ddl-island.su,emule-island.ru,stream-island.su##a[href*="/xxx/"]
 zone-telechargement.com##a[href*="/xz.php"]
 rtl.be##a[href*="://ad.doubleclick.net/"]
 comment-supprimer.com,igen.fr,leparking.fr,macg.co,needsandmoods.com,refurbgeneration.com,sosiphone.com,watchgeneration.fr##a[href*="://ad.zanox.com/"]
-emule-island.ru##a[href*="://ads."]
+ddl-island.su,emule-island.ru##a[href*="://ads."]
 telesatellite.com##a[href*="://bit.ly/"]
 abidjan.net,algerie360.com,igen.fr,israelmagazine.co.il,journaldumusulman.fr,lnc.nc,macg.co,orientation-chabab.com,proxylistpro.com,tendancehotellerie.fr,watchgeneration.fr##a[href*="://goo.gl/"]
 techtablets.com##a[href*="://goo.gl/"] > img
