@@ -4677,6 +4677,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|123movies-proxy.ru|123movies.cz|
 ||wp.com/*/wp-content/uploads/*?resize=728%2C90
 ||wp.com/medialot.fr/wp-content/uploads/*?resize=300%2C38
 ||wtpn.twenga.com/publisher/$third-party
+||x-flirt.co^$popup
 ||x.walla.co.il^
 ||x19network.com^$subdocument
 ||xavbox360.com/ban/
@@ -5170,24 +5171,7 @@ data:$popup,domain=eztv-proxy.net,eztv.ag,eztv.ch,eztv.it,eztv.tf,eztv.yt
 ||store1.up-00.com/2016-08/1471570071861.png
 ||store2.up-00.com/2016-08/1472649197061.png
 ! Tmp popup campaign
-||appscase.com^$popup
-||bigbangempire.com^$popup
-||cathomepage.com^$popup
-||choice-of-gamers.com^$popup
-||donnezvotreavis2016.com^$popup
-||easy2date.net^$popup
-||exhib-coquine.fr^$popup
-||gtarcade.com^$popup
-||hitparades.fr^*utm_$popup
-||methode-binaire.com^$popup
-||mysagagame.com^$popup
-||ohmydating.com^$popup
-||only2date.com^$popup
-||rencontre-adulte.com^$popup
-||sextreffen69.de^$popup
-||streaming-direct.co^$popup
-||theprofitsmaker.net^$popup
-||x-flirt.co^$popup
+!
 ! kvid.org
 ||appcdn.xyz^
 ||kcdn.cf^
@@ -5197,8 +5181,8 @@ data:$popup,domain=eztv-proxy.net,eztv.ag,eztv.ch,eztv.it,eztv.tf,eztv.yt
 ||kvidcdn.cf^
 ||kvstream.cf^
 !
-||methode-binaire.com^
-||streaming-direct.co^
+$domain=beyondhosting.net|easy2date.net|facebookdating.link|methode-binaire.com|streaming-direct.co
+beyondhosting.net,easy2date.net,facebookdating.link,methode-binaire.com,streaming-direct.co##html
 !
 !----------------------- Sites spécifiques -----------------------!
 !
