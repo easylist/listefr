@@ -624,6 +624,7 @@
 /email_catcher/track.
 /embed/ads/*
 /emplacement-pub/*
+/entree_pub.
 /epomads2.
 /EpubDelivery/*
 /espace-pub-
@@ -5735,8 +5736,6 @@ toutcash.com/images/bandeau-
 ||easyvols.org/leparisien/
 ||easyvols.org/liberation/
 ||economiematin.fr^*-ban-300x150.
-||ecranlarge.com/js/entree_pub.
-||ecranlarge.com/pop_under.php$popup
 ||edcom.fr/images/habillage/
 ||edenflirt.co/pdv/*/?comfrom=*&cf2=$popup
 ||editeurjavascript.com/bans/
@@ -8687,6 +8686,7 @@ toutcash.com/images/bandeau-
 ##[id*="_custom_ads-"]
 ##[id^="ads_adnemo_"]
 ##[id^="block-xiti_oas-"]
+##[id^="criteoDivPave"]
 ##[id^="ligatus-"]
 ##[id^="ligatus_"]
 ##[id^="pub_dart_"]
@@ -8878,7 +8878,6 @@ bfmtv.com###Tpromo
 mypornmotion.com###VideoPub300x250
 commentcamarche.net###a0[style="background:#EFF2FB !important"]
 mappy.com###a300x600
-ecranlarge.com###aNePasManquer
 xboxunlimited.fr###abos
 ahlaejaba.com,hqq.tv,radio.co.ma###ad
 annuaire-inverse-france.com,liveradio.fr###ad1
@@ -9293,7 +9292,7 @@ teramixer.com###preroll-case-prime
 lequipement.fr###prixendirect_block
 egaliteetreconciliation.fr###produits_en_vente
 fluvore.com###prom
-ecranlarge.com,lacanausurfinfo.com###promo
+lacanausurfinfo.com###promo
 trouvetamusique.com###promouvoirmusique
 allstreamz.com,annuaire-streaming.com,blogs.allocine.fr,centerblog.net,ddl-island.su,elbilad.net,emule-island.ru,habibal-tv.tk,iphonesoft.fr,japan-expo.be,jeu.info,jeux-2-filles.com,lc2international.tv,letudiant.fr,mac2sell.net,nolyo-tv.com,nrj.be,nrj.fr,nuked-klan.org,olivierdauvers.fr,oran-aps.dz,orange.fr,planet-casio.com,science-et-vie.com,service-public.fr,solutions-logiciels.com,sortir47.fr,stream-island.ru,stream-island.su,terre.tv,toutpratique.com,val-de-marne.gouv.fr,virtuoflash.com,wareziens.net,xboards.org###pub
 dici.fr###pub-background
@@ -10278,6 +10277,7 @@ speedvid.net##[id][style*="z-index:"]
 turbo.fr##[id^="ABbypass"]
 egora.fr##[id^="block-gmsante_pub-"]
 comarketing-news.fr##[id^="comar-"]
+ecranlarge.com##[id^="criteo"]
 heures.be##[id^="float"]
 crichd.info##[id^="floatLayer"]
 commentcamarche.net,free.fr,journaldesfemmes.com,orange.fr##[id^="lig_"]
@@ -11098,10 +11098,8 @@ _blockadblock_
 @@||securepubads.g.doubleclick.net/gampad/ads?$script,domain=7sur7.be
 @@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
 @@||shink.in/js/showads.js$script,domain=shink.in
-@@||smartadserver.com/call/pubj/$object-subrequest,domain=ecranlarge.com
-@@||smartadserver.com/call/pubj/$script,domain=alloclips.com|ecranlarge.com|itele.fr|larvf.com|portail.free.fr
+@@||smartadserver.com/call/pubj/$script,domain=alloclips.com|itele.fr|larvf.com|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|portail.free.fr
-@@||smartadserver.com/diff/$object-subrequest,domain=ecranlarge.com
 @@||static-v.com/lib/js/_source/blockadblock.js$script,domain=vtele.ca
 @@||static.autoplus.fr/_js/ads/ad$script
 @@||static.les-horaires.fr/js/advert.js
