@@ -394,6 +394,8 @@
 /adtube.js
 /adUnblock.
 /adv/*/banner/
+/adv/*_468
+/adv/*_728
 /adv/adx.
 /adv/banners/*
 /adv/pads.
@@ -7552,6 +7554,7 @@ toutcash.com/images/bandeau-
 ###footer-ad-formation
 ###footer-advertising
 ###footer-pub
+###footer-reklam
 ###footer_728x90_ad
 ###footer_haut-publicite
 ###footer_pub
@@ -11033,7 +11036,7 @@ _blockadblock_
 !
 @@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|macgames-download.com|the-night-of-streaming.eu
-@@.png#$image,domain=dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|pxstream.tv|savefile.co|softmaroc.org|tout-debrid.net|tout-gratuit.be|up-4ever.com
+@@.png#$image,domain=dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|pxstream.tv|savefile.co|softmaroc.org|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|coco.fr|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
@@ -11173,6 +11176,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||urlst.me^$generichide
 @@||vtele.ca^$generichide
 @@||xavierstuder.com^$generichide
+@@||zone-torrent.net^$generichide
 ! voyageforum.com (anti adblock)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=voyageforum.com
 @@||voyageforum.com/images/advertisers/logos/$image,~third-party
