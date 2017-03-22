@@ -768,6 +768,7 @@
 /pop.php?user=
 /pop.php|$script
 /pop0.js|
+/pop_*&ref=
 /pop_ex.
 /popaaa/*$script
 /popcall.js
@@ -818,6 +819,8 @@
 /pub/*-300x600/*
 /pub/*/1000x90.
 /pub/*/300_300_
+/pub/*/ad.
+/pub/*/ads.
 /pub/300.
 /pub/300_top.
 /pub/468.
@@ -1067,6 +1070,7 @@
 ?adRef=
 ?adroll_adv_id=
 ?adSelector=
+?adspot_
 ?advplaces=
 ?aff=*&roll=
 ?aff=*&size=
@@ -2446,6 +2450,7 @@ debugger:$popup
 ||pocofh.com^$third-party
 ||poparb.com^$third-party
 ||popitunder.com^$third-party
+||poprevenue.com^$third-party
 ||popudom.xyz^$third-party
 ||popvertising.com^$third-party
 ||popvertizer.com^$third-party
@@ -2662,6 +2667,7 @@ debugger:$popup
 ||tfxiq.com^$third-party
 ||thankswrite.com^$third-party
 ||themoneytizer.com^$third-party
+||thesplendidbabes.com^$third-party
 ||thfw1wuq.site^$third-party
 ||thisclick.network^$third-party
 ||thri.xxx^$third-party
@@ -3646,6 +3652,7 @@ debugger:$popup
 ||pleasewait.co^$popup,third-party
 ||plxnt.com^$popup,third-party
 ||popmycash.com^$popup,third-party
+||poprevenue.com^$popup,third-party
 ||poptm.com^$popup,third-party
 ||popunderclick.com^$popup,third-party
 ||popundertotal.com^$popup,third-party
@@ -6216,6 +6223,7 @@ toutcash.com/images/bandeau-
 ||les-horaires.fr/ajax/staytuned.popup.
 ||les-paparazzix.com/popup_in.php?
 ||les-simpson-streaming.fr/pub/
+||les-simpson-streaming.fr^*/pub/
 ||les-terrains.com/ajax/iframe/load.php
 ||les-terrains.com/assets/background/
 ||les-terrains.com/bandeau_droite_ajax.php
