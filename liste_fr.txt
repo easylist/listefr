@@ -638,6 +638,7 @@
 /fastclick300.
 /fastclick468.
 /fera/ads/*
+/ffadp/init/?
 /fillerAds/*
 /fod_ad_
 /fond_pub_
@@ -817,9 +818,9 @@
 /pub-responsive/*
 /pub-side/*
 /pub-sky.
+/pub.*?partnerId=
 /pub.php?f=
 /Pub.php?iframe=
-/pub.php?partnerId=
 /pub.tbl.html?
 /pub/*-300x250.
 /pub/*-300x600/*
@@ -1026,6 +1027,7 @@
 ://adss.
 ://adw.
 ://afflight.$third-party
+://ban.$third-party
 ://banners2.$third-party
 ://banners3.$third-party
 ://bannieres.
@@ -1781,6 +1783,7 @@ debugger:$popup
 ||adzzone.com^$third-party
 ||aemediatraffic.com^$third-party
 ||afairweb.com^$third-party
+||afcontent.net^$third-party
 ||affidate.com^$third-party
 ||affidirect.com^$third-party
 ||affil4you.com^$third-party
@@ -7186,6 +7189,7 @@ toutcash.com/images/bandeau-
 ||d3oyytf0n6db9a.cloudfront.net^
 ||d3p27nzp3rc51k.cloudfront.net^
 ||d3pphfzjkpjgfn.cloudfront.net^
+||d3qk9u6c2k2cid.cloudfront.net^
 ||d3qyjzkrkuj7me.cloudfront.net^
 ||d3rm04c4p9a75q.cloudfront.net^
 ||d3rmeear8e0ybo.cloudfront.net^
@@ -7638,6 +7642,7 @@ toutcash.com/images/bandeau-
 ###pub-banner
 ###pub-banner-content
 ###pub-banner-refresh
+###pub-carasexe
 ###pub-caree
 ###pub-center
 ###pub-collante
