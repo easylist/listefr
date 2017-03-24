@@ -7040,6 +7040,7 @@ toutcash.com/images/bandeau-
 ||yimg.com/dh/ap/default/*/yahoolast.jpg
 ||yimg.com^*/default/*/Habillage_
 ||youjizz.com/exoa/
+||yts.ag/*.gif
 ||z-barre.com/fonction/aff*.php
 ||za-gay.org^*/exit_pop_up.js
 ||zatnawqy.net^$popup,~third-party
@@ -9268,6 +9269,7 @@ cuisineactuelle.fr###pmd300x600
 terre.tv###point_part
 grazia.fr,regimea.com###popin
 regimea.com###popin-overlay
+yts.ag###popular-downloads + [class]
 clicbienetre.com###popup
 tubixe.com###popup-1
 logitheque.com###popupMsg
@@ -9572,7 +9574,6 @@ logemaroc.com##.baniere
 orientation-chabab.com##.bann
 afrik-foot.com,afrik.com,afrikeco.com,canalplus.fr,glenatbd.com,gulli.fr,hdnumerique.com,kpopfm.fr,manga-news.com,medialot.fr,mesbagages.com,orientation-chabab.com,telquel.ma,textnow.com,trimag.fr,ventsdouest.com,video-2-cul.com##.banner
 batiactu.com##.banner-background
-yts.ag##.banner-bordered
 golem13.fr##.banner-halfpage
 afrik-cuisine.com##.banner1
 darjadida.com##.banner_125x125
@@ -10052,6 +10053,7 @@ web-tricheur.net##.pubtexte
 jeuxflash.com##.pull-left
 femmeactuelle.fr##.push-partenaire
 nouvelobs.com##.r89-partenariats--vertical
+yts.ag##.rating-row > [href^="javascript:"]
 yts.ag##.rating-row > [rel]
 yts.ag##.rating-row > [style]
 souk.ma##.rbanner-wrap
@@ -10376,6 +10378,7 @@ coco.fr##a[href="http://www.joker.net"]
 shinymen.com##a[href="http://www.karouikaroui.com/fr/outdoor/"]
 leparking.fr##a[href="http://www.ligloo.fr"]
 tadpu.com##a[href^="//fr.ulule.com/insidezecube/?utm_campaign="]
+yts.ag##a[href^="/ad/"]
 avocat.fr,jeunesfooteux.com,ladepeche.pf,ophtalmo.tv,rewmi.com,senioractu.com,zinfos974.com##a[href^="/ads/"]
 tahiti-infos.com##a[href^="/ads/"] > .image
 tunisie-news.com##a[href^="/artpublic/banniere/click3.php?"]
