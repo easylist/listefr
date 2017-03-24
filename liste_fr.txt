@@ -580,6 +580,7 @@
 /core/ad2/*
 /core/ad3/*
 /cpv.php?$subdocument
+/crakmedia.js
 /crakrevenue/*
 /Criteo.ADBLOK.
 /Criteo.Left.
@@ -1012,6 +1013,7 @@
 /xpopunder/*
 /xyz?*=|$subdocument
 /xzy?*=|$subdocument
+/zone?*&random=
 /zoneads/*
 /zones?zone=$subdocument
 /~cdn/Ads/*
@@ -1797,6 +1799,7 @@ debugger:$popup
 ||afflight.biz^$third-party
 ||affpx.com^$third-party
 ||afftrack001.com^$third-party
+||afgr1.com^$third-party
 ||afilio.com.br^$third-party
 ||agisdayra.com^$third-party
 ||ainnisrine.com^$third-party
@@ -1921,6 +1924,7 @@ debugger:$popup
 ||cdxndirectopt.com^$third-party
 ||cdxnopt.com^$third-party
 ||cellflor.site^$third-party
+||cfgr1.com^$third-party
 ||chainwalladsoid.com^$third-party
 ||chainwalladsy.com^$third-party
 ||chameleonx.net^$third-party
@@ -4273,6 +4277,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||jejethesniper.free.fr/Forum/Partenariat.gif
 ||jememontre.com/images/banners/
 ||jeodrive.com^$popup,domain=jheberg.net
+||jetm-tech.net^*/img/pub.
 ||jeu-gratuit.net/mg/
 ||jeux-flash-gratis.com/pics/$domain=la-musique-rai.com
 ||jeux-flash.jeu-gratuit.net^$third-party
@@ -6675,9 +6680,9 @@ toutcash.com/images/bandeau-
 ||sexegratuit.be^*/u.js
 ||sexeoptimal.com^
 ||sexeplus.com/bannieres/
-||sexparadisiac.net/*/img/pub.jpg
 ||sexparadisiac.net/out/
 ||sexparadisiac.net/static/vod/
+||sexparadisiac.net^*/img/pub.
 ||sfr.fr/arrow/banner?
 ||sfr.fr/eTagP/msg.jsp?
 ||sfr.fr^*/framePub_
