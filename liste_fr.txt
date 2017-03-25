@@ -1119,6 +1119,8 @@ _120x600banner.
 _250x300_
 _300x250&
 _300x250/
+_300x250v1.
+_300x250v2.
 _300x600&
 _336x280.
 _46860_
@@ -2591,6 +2593,7 @@ debugger:$popup
 ||sarmady.net^$third-party
 ||sasqos.com^$third-party
 ||say.fr^$third-party
+||scriptutils.net^$third-party
 ||sddan.com^$third-party
 ||sdk-ads.com^$third-party
 ||see-work.info^$third-party
@@ -6678,7 +6681,7 @@ toutcash.com/images/bandeau-
 ||scoopnest.com/content_rb.php?
 ||script-pag.com/demo/fr/images/pub/
 ||sdv.fr/staticmacg/img/static/avosmac_
-||secretsdujeu.com/pop/$popup
+||secretsdujeu.com/ajax/?
 ||securite.01net.com^
 ||seduireunhomme.fr/wp-content/uploads/*/Banner_
 ||sendvid.com/assets/marabga-
@@ -7860,6 +7863,7 @@ toutcash.com/images/bandeau-
 ###spaceForPub
 ###sponsoredResultitem
 ###squareadevertise
+###squareadvertise
 ###taboola-above-homepage-thumbnails
 ###tagPubBanniere
 ###tag_pub_footer
@@ -8616,6 +8620,7 @@ toutcash.com/images/bandeau-
 ##.square-pub
 ##.squareadboxext
 ##.squareadevertise
+##.squareadvertise
 ##.srcPub
 ##.srcPubZone
 ##.stackcommerce-widget
