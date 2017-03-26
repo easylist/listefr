@@ -3264,6 +3264,7 @@ debugger:$popup
 ||ad-online.biz^$popup,third-party
 ||ad-sys.com^$popup,third-party
 ||ad.atdmt.com^$popup,third-party
+||ad2load.net^$popup,third-party
 ||ad2upapp.com^$popup,third-party
 ||adbucks.com^$popup,third-party
 ||adcitrik.com^$popup,third-party
@@ -3545,6 +3546,7 @@ debugger:$popup
 ||jeu-onepiece2.fr^$popup,third-party
 ||jeubleach.fr^$popup,third-party
 ||jolic2.com^$popup,third-party
+||jouthad.com^$popup,third-party
 ||jsadapi.com^$popup,third-party
 ||justgetitfaster.com^$popup,third-party
 ||kastafor.com^$popup,third-party
@@ -8814,6 +8816,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://goodbeautyjob.com/"]
 ##a[href^="http://hits.epochstats.com/"]
 ##a[href^="http://hopinions.info/"]
+##a[href^="http://jouthad.com/"]
 ##a[href^="http://lifeselector.com/game/listGames?"]
 ##a[href^="http://lp.ilividnewtab.com/"]
 ##a[href^="http://m.mobilerevenu.com/idw/"]
@@ -10374,7 +10377,7 @@ abcbourse.com,audiofanzine.com,meteofrance.com##a[href*="?utm_source="]
 deco-smart.com##a[href*="?utm_source=ds_shop"]
 torrent9.biz,torrents9.org,torrents9.tv##a[href*="\a0 "]
 jds.fr##a[href*="_clic.php?"]
-wawacity.in##a[href*="adulte18"]
+wawacity.ec##a[href*="adulte18"]
 metaboli.fr##a[href*="gametap.com/convergence/?"]
 fourchette-et-bikini.fr##a[href*="go2cloud.org/aff_c?"]
 dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-de-l-en-galerant-sur-le.html"]
@@ -10527,7 +10530,7 @@ aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
 t411.ai##a[onclick*="base64"]
 lien-torrent.com##a[onclick*="directlinks"]
-free-telechargement.com,speedvid.net,wawacity.in##a[onclick]
+free-telechargement.com,speedvid.net,wawacity.ec##a[onclick]
 speedvid.net##a[onclick][style]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
