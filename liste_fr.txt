@@ -5011,8 +5011,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ! t411
 @@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ai
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.ai
-|http://$script,third-party,domain=t411.ai|t411.bz|t411.cl|t411.la|t411.lc|t411.li|t411.lt|t411.lv|t411.so|t411.tv
-|https://$script,third-party,domain=t411.ai|t411.bz|t411.cl|t411.la|t411.lc|t411.li|t411.lt|t411.lv|t411.so|t411.tv
+|http://$script,third-party,domain=t411.ag|t411.ai|t411.bz|t411.cl|t411.la|t411.lc|t411.li|t411.lt|t411.lv|t411.so|t411.tv
+|https://$script,third-party,domain=t411.ag|t411.ai|t411.bz|t411.cl|t411.la|t411.lc|t411.li|t411.lt|t411.lv|t411.so|t411.tv
 ! voirfilms.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=voirfilms.co
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=voirfilms.co
@@ -10291,7 +10291,7 @@ omgtorrent.me##[class^="toro"]
 jeu.fr##[data-fallback-type="image"]
 films-telecharger.eu##[data-hash]
 meteofrance.com##[href*=".xiti.com"] > img
-t411.bz,t411.cl,t411.la,t411.lc,t411.lt,t411.lv,t411.so,t411.tv##[href^="/signup/"]
+t411.ag,t411.bz,t411.cl,t411.la,t411.lc,t411.lt,t411.lv,t411.so,t411.tv##[href^="/signup/"]
 booska-p.com##[href^="http://www.booska-p.com/re/"]
 speedvid.net##[id][style*="z-index:"]
 turbo.fr##[id^="ABbypass"]
