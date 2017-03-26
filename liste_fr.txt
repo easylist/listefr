@@ -2183,6 +2183,7 @@ debugger:$popup
 ||imprisonemblemhoosier.com^$third-party
 ||inclk.com^$third-party
 ||infeed.tv^$third-party
+||infobizyours.info^$third-party
 ||infojeu.com^$third-party
 ||initialcontroledge.info^$third-party
 ||inpicture.tv^$third-party
@@ -3857,8 +3858,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 |blob:$domain=auroravid.to|cloudtime.to|datpiff.com|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|immunicity.world|istreamin.com|keepvid.com|lucariostream.eu|streamgaroo.com|torrentz2.eu
 !
 |http://$subdocument,domain=a2r-media.com
-|http://$subdocument,third-party,domain=clictune.com|e-wok.tv
-|https://$subdocument,third-party,domain=e-wok.tv
+|http://$subdocument,third-party,domain=clictune.com|e-wok.tv|letwatch.to
+|https://$subdocument,third-party,domain=e-wok.tv|letwatch.to
 !
 ||com^*.*?*=*&*=*&*=*&*=&*=&*=&*&s=1280,800,1,1280,800|$script,third-party
 ||com^*.*?*=*&*=*&*=*&*=&*=&*=&*&s=1366,768,1,1366,768|$script,third-party
@@ -7145,6 +7146,7 @@ toutcash.com/images/bandeau-
 ||d1zwpjtdh4bi8u.cloudfront.net^
 ||d20ct0j8bz6fs5.cloudfront.net^
 ||d20je219bs8hnq.cloudfront.net^
+||d2222t5nvb13ei.cloudfront.net^
 ||d23rdjhd16xqjq.cloudfront.net^
 ||d240937yockcdo.cloudfront.net^
 ||d24a1q42xt7oz9.cloudfront.net^
