@@ -3874,8 +3874,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 |blob:$domain=auroravid.to|cloudtime.to|datpiff.com|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|immunicity.world|istreamin.com|keepvid.com|lucariostream.eu|streamgaroo.com|torrentz2.eu
 !
 |http://$subdocument,domain=a2r-media.com
-|http://$subdocument,third-party,domain=clictune.com|e-wok.tv|letwatch.to|mystream.la
-|https://$subdocument,third-party,domain=e-wok.tv|letwatch.to|mystream.la
+|http://$subdocument,third-party,domain=clictune.com|daclips.in|e-wok.tv|letwatch.to|mystream.la
+|https://$subdocument,third-party,domain=daclips.in|e-wok.tv|letwatch.to|mystream.la
 !
 ||com^*.*?*=*&*=*&*=*&*=&*=&*=&*&s=1280,800,1,1280,800|$script,third-party
 ||com^*.*?*=*&*=*&*=*&*=&*=&*=&*&s=1366,768,1,1366,768|$script,third-party
