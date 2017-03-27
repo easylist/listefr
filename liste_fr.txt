@@ -3232,6 +3232,7 @@ debugger:$popup
 ||25.115.187.96^$popup,third-party
 ||25.131.85.202^$popup,third-party
 ||25.52.111.246^$popup,third-party
+||35.184.98.90^$popup,third-party
 ||37.187.248.215^$popup,third-party
 ||37.46.192.170^$popup,third-party
 ||380tl.com^$popup,third-party
@@ -5013,8 +5014,11 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ! t411
 @@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ai
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.ai
-|http://$script,third-party,domain=t411.ag|t411.ai|t411.bz|t411.cl|t411.la|t411.lc|t411.li|t411.lt|t411.lv|t411.so|t411.tv
-|https://$script,third-party,domain=t411.ag|t411.ai|t411.bz|t411.cl|t411.la|t411.lc|t411.li|t411.lt|t411.lv|t411.so|t411.tv
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=t411.ai
+t411.ai##script:inject(noeval.js)
+t411.ai#@#.adsbox
+|http://$popup,script,third-party,domain=t411.ag|t411.ai|t411.bz|t411.cl|t411.la|t411.lc|t411.li|t411.lt|t411.lv|t411.so|t411.tv
+|https://$popup,script,third-party,domain=t411.ag|t411.ai|t411.bz|t411.cl|t411.la|t411.lc|t411.li|t411.lt|t411.lv|t411.so|t411.tv
 ! voirfilms.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=voirfilms.co
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=voirfilms.co
