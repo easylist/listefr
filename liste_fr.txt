@@ -3874,7 +3874,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 |blob:$domain=auroravid.to|cloudtime.to|datpiff.com|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|immunicity.world|istreamin.com|keepvid.com|lucariostream.eu|streamgaroo.com|torrentz2.eu
 !
 |http://$subdocument,domain=a2r-media.com
-|http://$subdocument,third-party,domain=clictune.com|daclips.in|e-wok.tv|letwatch.to|mystream.la
+|http://$subdocument,third-party,domain=daclips.in|e-wok.tv|letwatch.to|mystream.la
 |https://$subdocument,third-party,domain=daclips.in|e-wok.tv|letwatch.to|mystream.la
 !
 ||com^*.*?*=*&*=*&*=*&*=&*=&*=&*&s=1280,800,1,1280,800|$script,third-party
@@ -5318,6 +5318,9 @@ $websocket,domain=123movies.cz|123movies.gs|123movies.is|123movies.live|123movie
 ||cdn.adf.ly^$script,third-party,domain=~j.gs|~q.gs
 ||cdn.j.gs^$script,third-party,domain=~adf.ly|~q.gs
 ||cdn.q.gs^$script,third-party,domain=~adf.ly|~j.gs
+! clictune.com
+|http://$subdocument,third-party,domain=clictune.com
+|https://$subdocument,third-party,domain=clictune.com
 ! linkbucks.com
 |http://$subdocument,domain=abnouneuuxbozmt.net|aptclkzmoelfm.net|bohjrmvzefy.net|brnopvwa.net|cedrofltell.net|clictune.com|cquixlgothzm.net|cvwgklzfu.net|esywoeuo.net|ezfbngpqcxnu.net|ffhogexfyplgm.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|ikqksgum.net|inesajjovx.net|iurmxkchajoxppg.net|kcmzydgk.net|kkssrjkyduydc.net|linkbucks.com|lnzpbkeijlkmfdr.net|lrlvmaeris.net|lskjpnkavksj.net|lzbsrxvkz.net|mcuzfdumqro.net|mkjuobtzd.net|mnjsowaj.net|neayknle.net|nsdxoecjx.net|pipkdrzb.net|qdifkhrghxhbyw.net|rdzxxzabj.net|sa.ae|sipmnteinohts.net|sugjtdizgo.net|tbyauqjvluik.net|tditbdczodoowf.net|tmccbzsxu.net|ubqgcbmrqjdcqn.net|vdmduttihyxsx.net|vvujlrldhpbou.net|wuhknlrnhcli.net|wxwqbpkr.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|zjslornrlnvbmom.net|ztevysowdzkkjw.net|zuemosjimenxnmy.net|zypdvbupo.net
 ||arabtise.com^$subdocument,third-party
