@@ -5166,13 +5166,6 @@ t411.ai#@#.adsbox
 @@||ajax.googleapis.com/ajax/libs/$script,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
-! 123movies
-$websocket,domain=123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.ru|123movies.vc|123music.to
-/banner/*$domain=123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.ru|123movies.vc|123music.to
-@@||cdn.cowcdn.ru/js/$script,third-party,domain=123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.ru|123movies.vc|123music.to
-|blob:$domain=123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.ru|123movies.vc|123music.to
-|http://$popup,script,third-party,xmlhttprequest,domain=123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.ru|123movies.vc|123music.to
-|https://$popup,script,third-party,xmlhttprequest,domain=123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.ru|123movies.vc|123music.to
 ! rapidvideo.com
 |http://$script,third-party,xmlhttprequest,domain=rapidvideo.com
 |https://$script,third-party,xmlhttprequest,domain=rapidvideo.com
