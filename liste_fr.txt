@@ -3876,9 +3876,9 @@ debugger:$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
-$websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|datpiff.com|divxstage.ch|divxstage.to|dp-stream.com|epornik.com|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.to|primewire.ag|streamgaroo.com|thecountrycaller.com|torrentz2.eu|videoweed.ch|videoweed.co|videoweed.com|videoweed.es|videowood.tv|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net
+$websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|4nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|datpiff.com|divxstage.ch|divxstage.to|dp-stream.com|epornik.com|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.at|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.ch|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.to|primewire.ag|streamgaroo.com|thecountrycaller.com|videoweed.ch|videoweed.co|videoweed.com|videoweed.es|videowood.tv|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net
 !
-|blob:$domain=auroravid.to|cloudtime.to|datpiff.com|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|immunicity.world|istreamin.com|keepvid.com|lucariostream.eu|streamgaroo.com|torrentz2.eu
+|blob:$domain=auroravid.to|cloudtime.to|datpiff.com|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|immunicity.world|istreamin.com|keepvid.com|lucariostream.eu|streamgaroo.com
 !
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=daclips.in|e-wok.tv|flashx.tv|letwatch.to|mystream.la
@@ -7920,7 +7920,6 @@ toutcash.com/images/bandeau-
 ##.ADS-cont
 ##.AD_Leaderboard
 ##.AD_underpost
-##.AcceptableTextAds
 ##.Ad--970x90
 ##.AdsA
 ##.AdsB
