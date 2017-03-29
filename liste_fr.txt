@@ -2483,7 +2483,6 @@ debugger:$popup
 ||pornravage.com^$third-party
 ||possini.eu^$third-party
 ||postaffiliatepro.com^$third-party
-||pouradultes.com^$third-party
 ||ppcadmedia.com^$third-party
 ||ppndr.xyz^$third-party
 ||pprx.work^$third-party
@@ -3892,7 +3891,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||11footballclub.com/equipe/
 ||11footballclub.com^*/indexcolonne.php?
 ||11footballclub.com^*/indexhomepage2.php*&domain=
-||18etplus.com^
 ||1et2.org/sora/$image
 ||3.bp.blogspot.com/*/s1600/eL97xwC.gif
 ||380.bu2z.com^
@@ -4187,7 +4185,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||emploipartner.com/moteur_partner/
 ||emptyloop.com/unlocker/welcome.htm$popup,domain=emptyloop.com
 ||emule-island.ru/images/pub/
-||enfingratuit.com^
 ||enligne.com/ndd*.$third-party
 ||enucip.spacefoot.com^
 ||equirodi.com/images/pub/
@@ -4545,7 +4542,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||porntoxico.com/widgets
 ||pornvee.com/?utm_source=$popup
 ||pornytude.com^$popup,domain=gahyoo.com
-||pourlesmajeurs.com^
 ||powerpress.fr/services/$third-party
 ||powersante.com^*_products.php?partner=
 ||premiumpress.com/banner/
@@ -9309,7 +9305,6 @@ comptoir-info.com###pb_lb
 comptoir-info.com###pb_sb
 comptoir-info.com###pb_sq
 charentelibre.fr,lindependant.fr###petitesAnnoncesBlock
-gladplayer.com,paygladplayer.com,pgflow.com,playglad.com###pg_banproll
 topanalyse.com###pid_f
 tayo.fr###pioubhaut
 allocine.fr###player-footer
@@ -10826,9 +10821,6 @@ femmesplus.fr##section[id] > img
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
 ! mais d'empêcher les possibles dysfonctionnements liés aux filtres bloquants présents ci-dessus.
 !
-@@/plflv2/player_end.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
-@@/plflv2/player_pause.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
-@@/plflv2/preroll.js$domain=gladplayer.com|paygladplayer.com|pgflow.com|playglad.com
 @@|http://ad4.fr^$~third-party
 @@||123comparer.fr/photoProd/*00px/*-120x60-$image,domain=123comparer.fr
 @@||123comparer.fr/photoProd/*00px/*-300-x-250-$image,domain=123comparer.fr
