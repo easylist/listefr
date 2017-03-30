@@ -5191,6 +5191,7 @@ t411.ai#@#.adsbox
 |http://$script,third-party,xmlhttprequest,domain=embedezcast.com
 |https://$script,third-party,xmlhttprequest,domain=embedezcast.com
 ! hqq.tv
+@@||api.peer5.com^$script,domain=hqq.tv
 |http://$script,third-party,domain=hqq.tv
 |https://$script,third-party,domain=hqq.tv
 ! cloudy.ec
