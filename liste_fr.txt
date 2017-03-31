@@ -2983,6 +2983,7 @@ debugger:$popup
 ||f5b44da3a1ab55.com^
 ||fdf96bba78a9249ca4e.com^
 !
+||triction.info^$third-party
 ! admeasures.com
 ||1bx4t5c.com^$third-party
 ||2e4hk5g.com^$third-party
@@ -5262,8 +5263,11 @@ t411.ai#@#.adsbox
 ! vidlox.tv
 @@||api.peer5.com^$script,domain=vidlox.me
 @@||cdn.jsdelivr.net^$script,domain=vidlox.me
-|http://$script,third-party,xmlhttprequest,domain=vidlox.me|vidlox.tv
-|https://$script,third-party,xmlhttprequest,domain=vidlox.me|vidlox.tv
+@@||vidlox.me/bootstrap.js|$script,domain=vidlox.tv
+|http://$script,subdocument,third-party,xmlhttprequest,domain=vidlox.me|vidlox.tv
+|https://$script,subdocument,third-party,xmlhttprequest,domain=vidlox.me|vidlox.tv
+||vidlox.me/js/$xmlhttprequest
+||vidlox.tv/js/$xmlhttprequest
 ! openload
 /assets/js/license.$domain=oload.tv|openload.co
 /assets/js/script.$domain=oload.tv|openload.co
@@ -5373,10 +5377,10 @@ t411.ai#@#.adsbox
 ||uploadbank.com^$subdocument,third-party
 ! popup & popunder
 data:$popup,domain=eztv-proxy.net,eztv.ag,eztv.ch,eztv.it,eztv.tf,eztv.yt
-|about:blank$popup,domain=adf.ly|allmyvideos.net|allvid.ch|auroravid.to|ay.gy|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|j.gs|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|media1fire.com|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|powerwatch.pw|powvideo.xyz|q.gs|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamplay.to|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|thevideobee.to|tout-sur-le-web.com|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidhos.com|vidlox.me|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
-|http://$popup,domain=adf.ly|allmyvideos.net|allvid.ch|auroravid.to|ay.gy|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|getmytorrent.com|gorillavid.com|gorillavid.in|guadeloupe-paradise.fr|imgchili.net|j.gs|kickass.cd|kvid.org|letwatch.to|letwatch.us|media1fire.com|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|powerwatch.pw|powvideo.xyz|q.gs|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamplay.to|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|thevideobee.to|tout-sur-le-web.com|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidhos.com|vidlox.me|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+|about:blank$popup,domain=adf.ly|allmyvideos.net|allvid.ch|auroravid.to|ay.gy|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|getmytorrent.com|gorillavid.com|gorillavid.in|imgchili.net|j.gs|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|media1fire.com|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|powerwatch.pw|powvideo.xyz|q.gs|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamplay.to|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|thevideobee.to|tout-sur-le-web.com|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidhos.com|vidshare.me|vidshare.us|vidto.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+|http://$popup,domain=adf.ly|allmyvideos.net|allvid.ch|auroravid.to|ay.gy|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|getmytorrent.com|gorillavid.com|gorillavid.in|guadeloupe-paradise.fr|imgchili.net|j.gs|kickass.cd|kvid.org|letwatch.to|letwatch.us|media1fire.com|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|powerwatch.pw|powvideo.xyz|q.gs|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamplay.to|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|thevideobee.to|tout-sur-le-web.com|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidhos.com|vidshare.me|vidshare.us|vidto.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 |http://$popup,third-party,domain=imagepearl.com
-|https://$popup,domain=adf.ly|allmyvideos.net|allvid.ch|auroravid.to|ay.gy|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|getmytorrent.com|gorillavid.com|gorillavid.in|guadeloupe-paradise.fr|imgchili.net|j.gs|kickass.cd|kvid.org|letwatch.to|letwatch.us|media1fire.com|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|powerwatch.pw|powvideo.xyz|q.gs|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamplay.to|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|thevideobee.to|tout-sur-le-web.com|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidhos.com|vidlox.me|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+|https://$popup,domain=adf.ly|allmyvideos.net|allvid.ch|auroravid.to|ay.gy|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|getmytorrent.com|gorillavid.com|gorillavid.in|guadeloupe-paradise.fr|imgchili.net|j.gs|kickass.cd|kvid.org|letwatch.to|letwatch.us|media1fire.com|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|powerwatch.pw|powvideo.xyz|q.gs|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamplay.to|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|thevideobee.to|tout-sur-le-web.com|ultimedia.com|up07.net|up09.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidhos.com|vidshare.me|vidshare.us|vidto.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 ! images hosting
 ||bluesattv.net/gif.gif
 ||hostingpics.net/pics/*468x60.
@@ -7043,8 +7047,6 @@ toutcash.com/images/bandeau-
 ||viamichelin.fr/*/img/partners/
 ||video-2-cul.com/javascript/functions.js
 ||videos-de-celebrites.com/pub/
-||vidlox.me/js/$xmlhttprequest
-||vidlox.tv/js/$xmlhttprequest
 ||vidule.com^*/u.js
 ||vidup.me^$subdocument,~third-party
 ||viepratique.fr/wp-content/uploads/sites/*/Bloc_partenaire_
@@ -11193,7 +11195,6 @@ _blockadblock_
 @@||thevideo.me/js/jspc.js?ab|$script,domain=thevideo.me|vidup.me
 @@||tune.pk/js/ads.js?cache=$script,domain=tune.pk
 @@||unjourunerecette.fr/css/publicite-ads.css
-@@||vidlox.me/bootstrap.js|$script,domain=vidlox.tv
 @@||vidup.me/adsense.js?$script,domain=vidup.me
 @@||wakanim.tv^*/video/advertisement?idepisode=
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
