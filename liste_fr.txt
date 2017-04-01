@@ -493,6 +493,7 @@
 /banner728.
 /banner?*&domain=
 /banner?sid=
+/banner_*?size=$subdocument
 /banner_160x60.
 /banner_adv.
 /banner_adv2.
@@ -514,6 +515,7 @@
 /banners/pub-
 /banners/show_flash.
 /banners?tid=
+/banners_*?size=$subdocument
 /banniere.*/ref=
 /banniere.*?type=
 /banniere.php?id=
@@ -2922,6 +2924,7 @@ debugger:$popup
 ||ixlsylapsdtr.com^$third-party
 ||jfribvstvcqy.com^$third-party
 ||jijcetagjfzo.com^$third-party
+||jzlzdnvvktcf.com^$third-party
 ||kutlvuitevgw.com^$third-party
 ||lcpqoewrzuxh.com^$third-party
 ||lrjltdosshhd.com^$third-party
@@ -11223,6 +11226,7 @@ commentcamarche.net,journaldesfemmes.com#@#.text_ads
 @@||actu-zap.com^$generichide
 @@||alligatographe.blogspot.fr^$generichide
 @@||animes-mangas-ddl.com^$generichide
+@@||arabloads.net^$generichide
 @@||bleach-mx.net^$generichide
 @@||bytesloader.com^$generichide
 @@||cap-public.fr^$generichide
