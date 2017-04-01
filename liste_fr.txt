@@ -2912,7 +2912,11 @@ debugger:$popup
 ! popads.net
 ||bufqrxzyrecf.com^$third-party
 ||jzlzdnvvktcf.com^$third-party
+||kjbqzbiteubt.com^$third-party
 ||lskzcjgerhzn.com^$third-party
+||oyrgxjuvsedi.com^$third-party
+||rbuowrinsjsx.com^$third-party
+||vagttuyfeuij.com^$third-party
 !
 ||004b17a0c349157de.com^
 ||00e20f955428d.com^
@@ -5079,6 +5083,10 @@ t411.ai#@#.adsbox
 |http://$script,third-party,xmlhttprequest,domain=lucariostream.eu
 |https://$script,third-party,xmlhttprequest,domain=lucariostream.eu
 ||lucariostream.eu^$popup,~third-party
+! 9xbuddy.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=9xbuddy.com
+|http://$script,third-party,xmlhttprequest,domain=9xbuddy.com
+|https://$script,third-party,xmlhttprequest,domain=9xbuddy.com
 ! heures.be
 @@||ajax.googleapis.com/ajax/libs/$script,domain=heures.be
 @@||maps.google.com^*/api/js$script,domain=heures.be
