@@ -671,6 +671,7 @@
 /grid/ads/*
 /header-ads.
 /header_ads|
+/hgap/init/?siteId=
 /homad-global-
 /iframe468x60-
 /iframe468x60.
@@ -1422,6 +1423,7 @@ _werbebanner_
 /popad|$popup
 /popclick/*$popup
 /popOut.*?key=$popup
+/pops.regie.$popup
 /popunderoncl.$popup
 /popupclick/*$popup
 /popuplp/btag/*$popup
@@ -2220,6 +2222,7 @@ debugger:$popup
 ||jedeconnebiensur2.com^$third-party
 ||jeregardegratuitementetsanslimite.eu^$third-party
 ||jesuisalahauteur.com^$third-party
+||jetm-tech.net^$third-party
 ||jeu-bleach.fr^$third-party
 ||jeu-memontre.com^$third-party
 ||jeu-naruto.fr^$third-party
@@ -3562,6 +3565,7 @@ debugger:$popup
 ||isanalyze.com^$popup,third-party
 ||istri.it^$popup,third-party
 ||istripper.com^$popup,third-party
+||jetm-tech.net^$popup,third-party
 ||jeu-bleach.fr^$popup,third-party
 ||jeu-memontre.com^$popup,third-party
 ||jeu-naruto.fr^$popup,third-party
