@@ -932,6 +932,8 @@
 /rotation/hits?$subdocument
 /rotator.php?zone=$script
 /rotban/*$script
+/rotbas/img_bas.
+/rotcol/img_col.
 /rsense-ad.
 /rsense_ad.
 /sales/*_leaderboard_
@@ -5408,8 +5410,7 @@ toutcash.com/images/bandeau-
 ||1divx.co/*-film-$popup,~third-party
 ||1divx.co/images/ban*.jpg
 ||1fichier.fr/pub2/
-||1maxdegay.com/images/rotbas/
-||1maxdegay.com/images/rotcol/
+||1maxdegay.com^$subdocument,~third-party
 ||1parrainage.com/logos/habillage
 ||1solution1.com/wp-content/uploads/*/bann
 ||7sur7.be/references/
