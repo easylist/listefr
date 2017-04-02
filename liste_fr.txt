@@ -3669,6 +3669,7 @@ debugger:$popup
 ||ondate.xyz^$popup,third-party
 ||onderlea.info^$popup,third-party
 ||online-adnetwork.com^$popup,third-party
+||only-stream.com^$popup,third-party
 ||onlygamesforme.com^$popup,third-party
 ||onwardclick.com^$popup,third-party
 ||optmz.online^$popup,third-party
@@ -3909,8 +3910,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||46.105.45.146/fr/img/affil/
 ||4j.com/images/banners/
 ||6fun.fr/api.php
-||78.41.233.99/~fhv3/slidein.php
-||91.121.87.136:84/promo.php?$popup
 ||a.getgamers.eu^
 ||a75-10-so.ssl.cdn13.com^
 ||abc-du-gratuit.com^$image,third-party
@@ -4655,7 +4654,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||sexe.trouves-tout.com/ban/$third-party
 ||sexeautop.com/images/logos/
 ||sexefelin.com/1$script
-||sexegratuit.be/ban/$third-party
 ||sextapes.fr/promo/
 ||sexy-cocktail.com/promo/
 ||sexy-tresors.com/ban/$third-party
@@ -5413,7 +5411,6 @@ toutcash.com/images/bandeau-
 ||7sur7.be/references/
 ||7sur7.be/static/nmc/adv/partners/
 ||a.f1g.fr/iframes/
-||a18ans.com/pub/
 ||a40ans.com/pub/
 ||a40ans.com^*/track.php
 ||abc-du-gratuit.com/bannieres/
@@ -5858,7 +5855,6 @@ toutcash.com/images/bandeau-
 ||exerciceabdo.fr/wp-content/uploads/2014/07/the-vert.png
 ||expat.com^*/getAdvancedPartnerDiv.php
 ||explorerlondres.com^*/hotelscom.gif
-||extraithentai.com/admin/spnsr/
 ||extraitsmatures.com^*/pop.
 ||f-secure.com/static/general/img/banner/
 ||faf.dz/pub/
@@ -6112,7 +6108,6 @@ toutcash.com/images/bandeau-
 ||jacquieetmicheltv.net/carasexe.
 ||jacquieetmicheltv.net^*/thumbpubressources/
 ||jacquieetmicheltv2.net^*/thumbpubressources/
-||jamaisjouis.com^*/u.js
 ||jamsvu.fr/img/*_250x250.
 ||japan-expo.be/img/pub/
 ||jasonsavard.com/js/jasonsavard.js
@@ -6124,8 +6119,6 @@ toutcash.com/images/bandeau-
 ||jemontremontorse.com/*.php
 ||jemontremontorse.com/images/banners/
 ||jeu.net/pub/
-||jeune-homme-gay.com^*/u.js
-||jeunebaisemature.com^*/u.js
 ||jeux-gratuits.com/images/*/bandeau-
 ||jeux-hentai.com/bg/
 ||jeux-porno.net^$script,~third-party
@@ -6142,7 +6135,6 @@ toutcash.com/images/bandeau-
 ||jeuxvideo.org/wp-content/themes/jv/habillage/
 ||jeuxvideo24.com/code_user_1.html
 ||jeuxvideo24.com/membres/bonsplan/
-||jeveuxdestrans.com^*/u.js
 ||jheberg.net/images/mp.png
 ||jobculture.fr/wp-content/uploads/*/cfp*.gif
 ||jobculture.fr/wp-content/uploads/*/eac*.gif
@@ -6208,7 +6200,6 @@ toutcash.com/images/bandeau-
 ||laredoute.fr/*/pubiframe/
 ||lasurfeuze.com/index.php?page=banner
 ||lasurfeuze.com/tagsky.php
-||lateen18.com^*/u.js
 ||laverite.mg/images/Autodiffusion-
 ||lavoixdefrance.fr/pbs/
 ||lc2international.tv/contenus/images/nasuba-
@@ -6290,8 +6281,6 @@ toutcash.com/images/bandeau-
 ||les-terrains.com/images_pub/
 ||les-terrains.com^*/P0*.$image,object
 ||les-terrains.com^*/P5*.$image,object
-||lesbeurettes.com^*/u.js
-||lesbienne-gratis.com^*/u.js
 ||lesbienne.cc^$script
 ||lesechos.fr/pratique/
 ||lesechos.fr/promo-solutions/
@@ -6329,7 +6318,6 @@ toutcash.com/images/bandeau-
 ||linternaute.com/*@*,position$script
 ||linternaute.com^*/0_pub/
 ||linux62.org/html_css/pub_
-||liste2cul.com/pub/
 ||livecad.net/img/pub_
 ||livefoot.fr/images/habillage_
 ||lkeria.com/media/Polo-Sedan.jpg
@@ -6394,7 +6382,6 @@ toutcash.com/images/bandeau-
 ||mature-amateur.com/pop/
 ||max-videos.com/tools/
 ||maxisexy.com/pub/
-||maxtransexuelle.com^*/u.js
 ||maxxxblog.com/disclaimer-st.js
 ||mayottehebdo.com/images/banners/
 ||mayottehebdo.com^*/pub_bottom.
@@ -6745,14 +6732,10 @@ toutcash.com/images/bandeau-
 ||seriezone.com/ba/
 ||serre-editeur.fr/images/banners/
 ||sexe-clip.com/infopop/
-||sexe-i.com^*/u.js
-||sexe-pornxx-videos.com^$popup,~third-party
-||sexe70s.com/ban/
+||sexe-i.com^$script,third-party
 ||sexecine.com/data/ati/
 ||sexefelin.com/images/*.gif
-||sexegratuit.be^*/u.js
 ||sexeoptimal.com^
-||sexeplus.com/bannieres/
 ||sexparadisiac.net/out/
 ||sexparadisiac.net/static/vod/
 ||sexparadisiac.net^*/img/pub.
@@ -7023,7 +7006,6 @@ toutcash.com/images/bandeau-
 ||viamichelin.fr/*/img/partners/
 ||video-2-cul.com/javascript/functions.js
 ||videos-de-celebrites.com/pub/
-||vidule.com^*/u.js
 ||vidup.me^$subdocument,~third-party
 ||viepratique.fr/wp-content/uploads/sites/*/Bloc_partenaire_
 ||village-libertin.com/site_rencontre/ban/
@@ -9113,7 +9095,6 @@ flyordie.com###dasb
 edcom.fr###decouvrirActu
 lareclame.fr###dfp-top
 118218.fr###dfp_left
-a18ans.com,only-stream.com###disclaimer
 datpiff.com###disqus_thread > div
 voyageforum.com###divArroundTableListx1
 videostep.com###divBrandVideo1
@@ -9496,7 +9477,6 @@ algeriepatriotique.com###topbanner_wrapper
 as-salat.com,forumbismillah.com,streamxd.com###topbar
 playerhd1.pw###total_banner
 embed.tune.pk###tpkp-toolbar
-lateen18.com,lesbeurettes.com,lesbienne-gratis.com,vidule.com###trade
 cbanque.com###trk_promoforum
 zimbra.free.fr###troiscents
 portail.free.fr###trousse
@@ -9521,7 +9501,6 @@ creativejuiz.fr###widget_juiz_ads-2
 turbo.fr###widget_shopper
 wix.com###wixFooter
 wix.com###wixfooter
-vidule.com###wnc_disclaimer
 jeuxvideo.com###wootbox_campaign
 priceminister.com###wrap[style="width: 685px; height: 125px; overflow: hidden"]
 frequence-radio.com###wrap_pub_listing
@@ -9752,7 +9731,6 @@ lacentrale.fr##.caradisiac
 tomsguide.fr##.carousel-multi-css-side
 canalplus.fr##.carousel-preroll
 psychologies.com##.carrousel_partenaires
-a18ans.com,jamaisjouis.com,liste2cul.com,vidule.com##.catcher
 girlsgogames.fr##.categoryBanner
 android-dz.com##.cb-sidebar-widget
 grosbill.com##.cda-iab
@@ -10507,7 +10485,6 @@ cdclicks.com##a[href^="http://fr.vegasmaster.com/"]
 brunotritsch.fr##a[href^="http://fr.webmaster-rank.info/stat/affiliate/"]
 lefigaro.fr##a[href^="http://lefigaro.explorimmo.com/resultat/annonces.html?"]
 ovnis-direct.com##a[href^="http://ligneker.com/"]
-a18ans.com##a[href^="http://media.a18ans.com/"]
 moviz-telecharger.com##a[href^="http://moviz-telecharger.com/films-en-qualité-hd-"]
 opensubtitles.org##a[href^="http://osdb.link/go?"]
 annuaire-liens-durs.com##a[href^="http://pub.annuaire-liens-durs.com"]
