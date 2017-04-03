@@ -263,6 +263,8 @@
 /ad/ad3/*
 /ad/banners_
 /ad/screen.
+/ad140x200-
+/ad140x200.
 /ad140x60-
 /ad140x60.
 /ad2/show.
@@ -1584,6 +1586,7 @@ debugger:$popup
 ||221dst.com^$third-party
 ||2mdn.net^$object-subrequest,domain=dhnet.be|lalibre.be
 ||2town.net^$third-party
+||301ads.com^$third-party
 ||332-d.com^$third-party
 ||35hn7f37.faith^$third-party
 ||360tracking.fr^$third-party
