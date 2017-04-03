@@ -10795,7 +10795,7 @@ uploads.to##[-abp-properties='z-index: *']
 lucariostream.eu##[-abp-properties='z-index: 999*;']
 macg.co##article > a[-abp-properties='*'] > img
 ! Ligatus
-/:\/\/static.ccm2.net/www.commentcamarche.net/.*/images/.{50,}/$image
+/:\/\/.*\.ccm2.net/www.commentcamarche.net/.*/images/.{50,}/$image
 @@||admin.brightcove.com/js/api/SmartPlayerAPI.js$script,domain=lachainemeteo.com
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
 @@||player.mediabong.com^*/video.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
@@ -10807,9 +10807,9 @@ macg.co##article > a[-abp-properties='*'] > img
 |http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 |https://$script,third-party,domain=aventure-apple.com|femmesplus.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|planet.fr|refurbgeneration.com
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
-||i-cms.journaldesfemmes.com/image_cms/500/
-||i-cms.journaldunet.com/image_cms/500/
-||i-cms.linternaute.com/image_cms/500/
+||i-cms.journaldesfemmes.com/image_cms/309/
+||i-cms.journaldunet.com/image_cms/558/
+||i-cms.linternaute.com/image_cms/106/
 ||xiti.com^$domain=lachainemeteo.com
 !
 medisite.fr###block-gc-ad-bloc-centre-1 + * img
