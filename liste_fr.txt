@@ -440,6 +440,7 @@
 /affiliateplus/banner/*
 /affiliates/*_banner.
 /affiliates/banners/*
+/affiliatesiamges/*
 /affiliation-mb.
 /affiliation_simple/*
 /affiliationbanner/*
@@ -5210,8 +5211,8 @@ t411.ai#@#.adsbox
 |http://$script,third-party,domain=arabloads.net
 |https://$script,third-party,domain=arabloads.net
 ! up07.net
-|http://$image,popup,script,third-party,xmlhttprequest,domain=up07.me|up08.net
-|https://$image,popup,script,third-party,xmlhttprequest,domain=up07.me|up08.net
+|http://$image,popup,script,third-party,xmlhttprequest,domain=up07.me|up08.net|up09.com
+|https://$image,popup,script,third-party,xmlhttprequest,domain=up07.me|up08.net|up09.com
 ! zony.tv
 |http://$script,third-party,xmlhttprequest,domain=zony.tv
 |https://$script,third-party,xmlhttprequest,domain=zony.tv
@@ -6993,8 +6994,6 @@ toutcash.com/images/bandeau-
 ||unleashed.fr/media/habillage/
 ||unlock-stream.com/js/disclamer.js
 ||unsimpleclic.com/wp-content/uploads/*/GoodBarber-250-250.png
-||up07.me/affiliatesiamges/
-||up08.net/affiliatesiamges/
 ||uploadbb.co/*.php
 ||uploaded.net/img/as/
 ||uploaded.net/js2/*blo
@@ -10564,7 +10563,7 @@ lalibre.be##a[href^="https://www.ipmstore.be/"] > img
 credit-agricole.fr##a[href^="https://www.onatousuncotefoot.fr/"]
 undernews.fr##a[href^="https://www.undernews.fr/redirect/"]
 braindamaged.fr##a[href^="index.php?adclick="]
-2ddl.la,2ddl.org,iiddl.com,up07.me,up08.net##a[href^="javascript:"]
+2ddl.la,2ddl.org,iiddl.com,up07.me,up08.net,up09.com##a[href^="javascript:"]
 windsurfjournal.com##a[href^="link,"]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
