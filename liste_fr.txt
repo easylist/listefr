@@ -5432,8 +5432,9 @@ toutcash.com/images/bandeau-
 ||7sur7.be/references/
 ||7sur7.be/static/nmc/adv/partners/
 ||a.f1g.fr/iframes/
-||a40ans.com/pub/
-||a40ans.com^*/track.php
+||a40ans.com/data/$image
+||a40ans.com/image.php?src=*://
+||a40ans.com^$popup,~third-party
 ||abc-du-gratuit.com/bannieres/
 ||abc-du-gratuit.net/images/anim_pub
 ||abidjan.net/images/habillage/
@@ -9264,6 +9265,7 @@ degroupnews.com###link_pub
 journaldugeek.com###linkhabillage
 ouedkniss.com###list-last-stores
 omgtorrent.me###liste-des-fichiers
+a40ans.com###liste-webcams
 millenium.org###logo_droite
 centreimmo.com###logos-partenaires
 laposte.net###lpn_pub_main
