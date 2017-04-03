@@ -4747,7 +4747,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||static.vadorcdn.com/templates/plarge/banner/
 ||static2.dmcdn.net/mc/skin_assets/*/body$image
 ||statstools.porn.fr^
-||store*.up-00.com^
 ||storefollow.com/?support=
 ||streaming-de-films.net/telecharger-films-gratuits^$popup,domain=streaming-de-films.net
 ||streaming-illimite.com^$popup,domain=freemoviesdown.com
@@ -5211,8 +5210,8 @@ t411.ai#@#.adsbox
 |http://$script,third-party,domain=arabloads.net
 |https://$script,third-party,domain=arabloads.net
 ! up07.net
-|http://$popup,script,third-party,xmlhttprequest,domain=up07.me
-|https://$popup,script,third-party,xmlhttprequest,domain=up07.me
+|http://$image,popup,script,third-party,xmlhttprequest,domain=up07.me|up08.net
+|https://$image,popup,script,third-party,xmlhttprequest,domain=up07.me|up08.net
 ! zony.tv
 |http://$script,third-party,xmlhttprequest,domain=zony.tv
 |https://$script,third-party,xmlhttprequest,domain=zony.tv
@@ -6995,6 +6994,7 @@ toutcash.com/images/bandeau-
 ||unlock-stream.com/js/disclamer.js
 ||unsimpleclic.com/wp-content/uploads/*/GoodBarber-250-250.png
 ||up07.me/affiliatesiamges/
+||up08.net/affiliatesiamges/
 ||uploadbb.co/*.php
 ||uploaded.net/img/as/
 ||uploaded.net/js2/*blo
@@ -7211,6 +7211,7 @@ toutcash.com/images/bandeau-
 ||d26us1doo6mh7f.cloudfront.net^
 ||d27uz827y1nafd.cloudfront.net^
 ||d28g1fhp6rn9w3.cloudfront.net^
+||d28wlxclbkz49x.cloudfront.net^
 ||d29lpg037v41oq.cloudfront.net^
 ||d2b7n13v8adl6f.cloudfront.net^
 ||d2ggw6du5pulet.cloudfront.net^
@@ -10563,7 +10564,7 @@ lalibre.be##a[href^="https://www.ipmstore.be/"] > img
 credit-agricole.fr##a[href^="https://www.onatousuncotefoot.fr/"]
 undernews.fr##a[href^="https://www.undernews.fr/redirect/"]
 braindamaged.fr##a[href^="index.php?adclick="]
-2ddl.la,2ddl.org,iiddl.com,up07.me##a[href^="javascript:"]
+2ddl.la,2ddl.org,iiddl.com,up07.me,up08.net##a[href^="javascript:"]
 windsurfjournal.com##a[href^="link,"]
 japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
