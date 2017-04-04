@@ -491,6 +491,7 @@
 /banner/ads-
 /banner/sponsor.
 /banner160.
+/banner160xx600.
 /banner300.
 /banner468-
 /banner720x90/*
@@ -873,7 +874,7 @@
 /pub_428x90.
 /pub_72890_
 /pub_affiche.
-/pub_col.js
+/pub_col.
 /pub_delivery.
 /pub_header.
 /pub_html5/*
@@ -4369,6 +4370,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||jolstatic.fr/www/themes/*/habi
 ||jrphotographie.com/pub/
 ||js.stream-up.com/fonctions.min.js?
+||junge-luder.com/Stripbunny/
 ||kaltura.com^*/a.mp4|$media
 ||kazeo.com/websites/js/openwindow.js
 ||kelformation.com/htm/*/habillage/
@@ -4688,6 +4690,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||sexefelin.com/1$script
 ||sextapes.fr/promo/
 ||sexy-cocktail.com/promo/
+||sexy-livecams.eu/sexyteen.gif
 ||sexy-tresors.com/ban/$third-party
 ||sexy.1001-recherches.com/ban/$third-party
 ||sexy.yakoila.com/bans/$third-party
@@ -4872,6 +4875,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||webcool69.com^$popup
 ||webdesignerhut.com^$subdocument
 ||webself.net/WebselfEditeur/FormulaireDemo.aspx?
+||websexkontakte.org/banner.html
 ||webstar-auto.com/iframe.php?$third-party
 ||webstars.fr/services/webstars.php?
 ||webutation.net/js/load_badge.js
@@ -6931,6 +6935,7 @@ toutcash.com/images/bandeau-
 ||touteladomotique.com/pub/
 ||toutmontpellier.fr/bannieres/
 ||toutporno.com/boost_niche/
+||toutporno.com^$subdocument,~third-party
 ||toutpratique.com/imgs/pub/
 ||trackandnews.fr/wp-content/uploads/*/bg-
 ||tracking.easyzic.com^
