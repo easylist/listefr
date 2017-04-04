@@ -5063,6 +5063,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ! t411
 @@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ai
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.ai
+@@||code.jquery.com/jquery-$script,domain=t411.ai
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=t411.ai
 t411.ai#@#.adsbox
 |http://$script,third-party,domain=t411.ag|t411.ai|t411.am|t411.bz|t411.cl|t411.la|t411.lc|t411.li|t411.lt|t411.lv|t411.so|t411.tv
