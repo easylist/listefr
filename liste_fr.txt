@@ -1457,6 +1457,7 @@ _werbebanner_
 /script/redirect.php?$popup
 /servePopunder.$popup
 /smart_ad/*$popup
+/superlink?aff_id=$popup
 /t/?*&clickid=$popup
 /traffic.*&click_id=$popup
 /trk/|$popup
@@ -3283,7 +3284,7 @@ debugger:$popup
 ||25.131.85.202^$popup,third-party
 ||25.52.111.246^$popup,third-party
 ||34.250.229.112^$popup,third-party
-||35.184.98.90^$popup,third-party
+||35.184.$popup,third-party
 ||37.187.248.215^$popup,third-party
 ||37.46.192.170^$popup,third-party
 ||380tl.com^$popup,third-party
@@ -3918,9 +3919,9 @@ debugger:$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
-$websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|auroravid.to|bitvid.sx|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|istreamin.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|primewire.ag|streamgaroo.com|thecountrycaller.com|videoweed.com|videoweed.es|videowood.tv|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net
+$websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|auroravid.to|bitvid.sx|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|istreamin.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|primewire.ag|streamgaroo.com|t411.ai|thecountrycaller.com|videoweed.com|videoweed.es|videowood.tv|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net
 !
-|blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|auroravid.to|bitvid.sx|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|istreamin.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|primewire.ag|streamgaroo.com|thecountrycaller.com|videoweed.com|videoweed.es|videowood.tv|vidlox.me|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net
+|blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|auroravid.to|bitvid.sx|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|istreamin.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|primewire.ag|streamgaroo.com|t411.ai|thecountrycaller.com|videoweed.com|videoweed.es|videowood.tv|vidlox.me|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net
 !
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=daclips.in|e-wok.tv|flashx.tv|letwatch.to|mystream.la|uploadrocket.net
@@ -5066,8 +5067,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 @@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ai
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.ai
 @@||code.jquery.com/jquery-$script,domain=t411.ai
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=t411.ai
-t411.ai#@#.adsbox
 |http://$script,third-party,domain=t411.ag|t411.ai|t411.am|t411.bz|t411.cl|t411.la|t411.lc|t411.li|t411.lt|t411.lv|t411.so|t411.tv
 |https://$script,third-party,domain=t411.ag|t411.ai|t411.am|t411.bz|t411.cl|t411.la|t411.lc|t411.li|t411.lt|t411.lv|t411.so|t411.tv
 ! voirfilms.com
