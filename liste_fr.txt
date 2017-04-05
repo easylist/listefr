@@ -11270,6 +11270,7 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 @@.ico|$image,domain=fdesouche.com
 @@|http://*.ad$script,third-party,domain=fdesouche.com
 @@|http://*.ban$script,third-party,domain=fdesouche.com
+@@||disquscdn.com^$script,domain=fdesouche.com
 @@||fdesouche-1.disqus.com^$script,domain=fdesouche.com
 @@||fdesouche.com^$generichide
 |http://$script,third-party,domain=fdesouche.com
