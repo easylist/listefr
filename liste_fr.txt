@@ -4549,6 +4549,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||p0rno.com/banners/
 ||packbarre.com/pub/
 ||paradise-barre.com/bannieres/
+||paraisowebcam.com^$subdocument,third-party
 ||parlonspiscine.com/img/pubs/
 ||partner-ts.groupon.fr^
 ||partner.leguide.com^
@@ -6759,7 +6760,9 @@ toutcash.com/images/bandeau-
 ||serre-editeur.fr/images/banners/
 ||sexe-clip.com/infopop/
 ||sexe-i.com^$script,third-party
-||sexecine.com/data/ati/
+||sexecine.com/data/$image
+||sexecine.com/image.php?src=*://
+||sexecine.com^$popup,~third-party
 ||sexefelin.com/images/*.gif
 ||sexeoptimal.com^
 ||sexparadisiac.net/out/
@@ -9269,7 +9272,7 @@ degroupnews.com###link_pub
 journaldugeek.com###linkhabillage
 ouedkniss.com###list-last-stores
 omgtorrent.me###liste-des-fichiers
-a40ans.com###liste-webcams
+a40ans.com,sexecine.com###liste-webcams
 millenium.org###logo_droite
 centreimmo.com###logos-partenaires
 laposte.net###lpn_pub_main
