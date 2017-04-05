@@ -5075,11 +5075,13 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 |http://$popup,script,third-party,domain=zetorrento.fr|zetorrents.com
 |https://$popup,script,third-party,domain=zetorrento.fr|zetorrents.com
 ! torrent9.tv
-@@||ajax.googleapis.com/ajax/libs/$script,domain=torrent9.biz|torrents9.org|torrents9.tv
-@@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=torrent9.biz|torrents9.org|torrents9.tv
-|http://$popup,script,third-party,domain=torrent9.biz|torrent9.me|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
-|https://$popup,script,third-party,domain=torrent9.biz|torrent9.me|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
+/cdn-cgi/pe/bag2?$domain=torrent9.biz|torrent9.info|torrent9.me|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
+@@||ajax.googleapis.com/ajax/libs/$script,domain=torrent9.biz|torrent9.info|torrents9.org
+@@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=torrent9.biz|torrent9.info|torrents9.org
+|http://$popup,script,third-party,domain=torrent9.biz|torrent9.info|torrent9.me|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
+|https://$popup,script,third-party,domain=torrent9.biz|torrent9.info|torrent9.me|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
 ||torrent9.biz/top_torrent.php$popup
+||torrent9.info/top_torrent.php$popup
 ||torrents9.org/top_torrent.php$popup
 ||torrents9.tv/top_torrent.php$popup
 ! emule-island
@@ -6916,8 +6918,6 @@ toutcash.com/images/bandeau-
 ||torrent9.biz/cdn-cgi/pe/bag2?
 ||torrentfilmseriestreaming.com/wp-content/uploads/*/banniere-
 ||torrentfrançais.fr/wp-content/uploads/HMA
-||torrents9.org/cdn-cgi/pe/bag2?
-||torrents9.tv/cdn-cgi/pe/bag2?
 ||totonova.com/images/p.jpg
 ||toucharger.com/pub_iframe.
 ||touslesprix.com/img_*/background/
@@ -9789,7 +9789,7 @@ lemonde.fr##.dfp_slot
 dailymotion.com##.dm_widget_advert_iabrighttitle
 blog2mature.com##.download
 thepiratebay.org##.download + [style] > a[target="_blank"]
-torrent9.biz,torrents9.org,torrents9.tv##.download-btn + [class]
+torrent9.biz,torrent9.info,torrents9.org,torrents9.tv##.download-btn + [class]
 oujdacity.net,passion-net.fr##.ebuzzing_box
 tsa-algerie.com##.ekk-footer-ad-wrapper
 wp-infinity.com##.entry-featured
@@ -10370,11 +10370,11 @@ free-telechargement.org,planet-streaming.com,streaming-telechargementz.net,telec
 thebadbuzz.com##a[href$="/boost.php"]
 sites-torrent.com##a[href$="/seedbox"]
 opensubtitles.org##a[href$="=="][rel="nofollow"]
-torrent9.biz,torrents9.org,torrents9.tv##a[href*=" "]
+torrent9.biz,torrent9.info,torrents9.org,torrents9.tv##a[href*=" "]
 sante-nutrition.org##a[href*="&pos="]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
-go4up.com,torrent9.biz,torrents9.org,torrents9.tv##a[href*="+"]
+go4up.com,torrent9.biz,torrent9.info,torrents9.org,torrents9.tv##a[href*="+"]
 telechargement-film.org##a[href*="-film-"]
 9divx.org,likeur.org##a[href*="-vip.html"]
 9divx.org,films-telecharger.eu,frtorrent.fr,jetelecharger1.fr,streamingseries.info,vfstream.biz##a[href*=".php"]
@@ -10415,7 +10415,7 @@ full-stream.su##a[href*="?txt="]
 jemangejemincis.fr##a[href*="?utm_campaign="]
 abcbourse.com,audiofanzine.com,meteofrance.com##a[href*="?utm_source="]
 deco-smart.com##a[href*="?utm_source=ds_shop"]
-torrent9.biz,torrents9.org,torrents9.tv##a[href*="\a0 "]
+torrent9.biz,torrent9.info,torrents9.org,torrents9.tv##a[href*="\a0 "]
 jds.fr##a[href*="_clic.php?"]
 wawacity.ec##a[href*="adulte18"]
 metaboli.fr##a[href*="gametap.com/convergence/?"]
@@ -10425,7 +10425,7 @@ forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 jemangejemincis.fr##a[href*="leadpages.co/"]
 zetorrento.fr,zetorrents.com##a[href*="porno"]
 beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com,sports.fr##a[href*="smartadserver.com/call/cliccommand/"]
-torrent9.biz,torrents9.org,torrents9.tv##a[href*="torrent9.me/"]
+torrent9.biz,torrent9.info,torrents9.org,torrents9.tv##a[href*="torrent9.me/"]
 lucariostream.eu##a[href*="univers-saiyan.com/"]
 dpstream.to,quedustream.com,streaming-series.to##a[href*="xmediaserve"]
 zetorrente.fr##a[href="#"]
