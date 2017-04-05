@@ -5594,7 +5594,6 @@ toutcash.com/images/bandeau-
 ||bbox-news.com/forums/banniere-
 ||bc.vc/efes.js
 ||bc.vc/pages/
-||bcc.linternaute.com^
 ||bdgest.com/habillages/
 ||bdgest.com/prepub/
 ||beaute-test.com/img/habillages/
@@ -6181,8 +6180,6 @@ toutcash.com/images/bandeau-
 ||journaldumusulman.fr/wp-content/uploads/*.gif
 ||journaldumusulman.fr/wp-content/uploads/*/fond-
 ||journaldumusulman.fr/wp-content/uploads/*ban
-||journaldunet.com/*@*,position$script
-||journaldunet.com^*/0_pub/
 ||journaldupirate.com/vpn2.png
 ||journaldupirate.com/vpn4.png
 ||journalintime.com/static/pubs/
@@ -6349,8 +6346,6 @@ toutcash.com/images/bandeau-
 ||likesgag.com/tags/
 ||liligo.*/compareSites/$popup
 ||links.fhsarl.com^$popup,third-party
-||linternaute.com/*@*,position$script
-||linternaute.com^*/0_pub/
 ||linux62.org/html_css/pub_
 ||livecad.net/img/pub_
 ||livefoot.fr/images/habillage_
@@ -8963,7 +8958,6 @@ installations-home-cinema.eu###Partenaire
 mypornmotion.com###Pub
 bfmtv.com###Tpromo
 mypornmotion.com###VideoPub300x250
-commentcamarche.net###a0[style="background:#EFF2FB !important"]
 mappy.com###a300x600
 xboxunlimited.fr###abos
 ahlaejaba.com,hqq.tv,radio.co.ma###ad
@@ -10803,7 +10797,6 @@ uploads.to##[-abp-properties='z-index: *']
 lucariostream.eu##[-abp-properties='z-index: 999*;']
 macg.co##article > a[-abp-properties='*'] > img
 ! Ligatus
-/:\/\/.*\.ccm2.net/www.commentcamarche.net/.*/images/.{50,}/$image
 @@||admin.brightcove.com/js/api/SmartPlayerAPI.js$script,domain=lachainemeteo.com
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
 @@||player.mediabong.com^*/video.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
@@ -10815,10 +10808,33 @@ macg.co##article > a[-abp-properties='*'] > img
 |http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 |https://$script,third-party,domain=aventure-apple.com|femmesplus.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|planet.fr|refurbgeneration.com
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
-||i-cms.journaldesfemmes.com/image_cms/309/
-||i-cms.journaldunet.com/image_cms/558/
-||i-cms.linternaute.com/image_cms/106/
 ||xiti.com^$domain=lachainemeteo.com
+! CCM Benchmark (ligatus)
+/:\/\/.*\.ccm2.net/www.commentcamarche.net/.*/images/.{50,}/$image
+@@||ajax.googleapis.com/ajax/libs/$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||ccmbg.com^*/asset/js?$script,domain=linternaute.com
+@@||ccmbg.com^*/js.php?$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||ccmbg.com^*/js/app.bottom,$script,domain=ccm.net|commentcamarche.net
+@@||ccmbg.com^*/js/app?$script,domain=journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||ccmbg.com^*/js/ccmcms.$script,domain=journaldunet.com|linternaute.com
+@@||ccmbg.com^*/js/codesnippet?$script,domain=ccm.net|commentcamarche.net
+@@||ccmbg.com^*/js/core,lang.$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||ccmbg.com^*/js/coreloader?$script,domain=linternaute.com
+@@||ccmbg.com^*/js/front?$script,domain=journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||ccmbg.com^*/js/frontExt?$script,domain=journaldunet.com
+@@||ccmbg.com^*/js/header?$script,domain=journaldunet.com|linternaute.com
+@@||ccmbg.com^*/js/main?$script,domain=ccm.net|commentcamarche.net
+@@||ccmbg.com^*/js/responsive?$script,domain=ccm.net|commentcamarche.net
+@@||ccmbg.com^*/js/start?$script,domain=journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||ccmbg.com^*/js/startSymfony?$script,domain=journaldunet.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||connect.facebook.net^$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||platform.twitter.com^$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+|http://$script,third-party,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+|https://$script,third-party,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+||i-cms.journaldesfemmes.com/image_cms/
+||i-cms.journaldunet.com/image_cms/
+||i-cms.linternaute.com/image_cms/
 !
 medisite.fr###block-gc-ad-bloc-centre-1 + * img
 planet.fr###block-sp-node-sp-node-videos-home + [class]
@@ -10980,7 +10996,6 @@ femmesplus.fr##section[id] > img
 @@||pc-overware.be/index/images/banners/pc-overware.be.png
 @@||photo.fr/img/ad_$image
 @@||planet-casio.com/images/ad/$image,~third-party
-@@||player.ooyala.com/static/*/stable/*/ad-plugin/google_ima.min.js|$script,domain=commentcamarche.net
 @@||premiere.fr/inextenso/uploads/300x150_$image,domain=premiere.fr
 @@||programme-tv.net/widget-tv/programme-tv.html?$subdocument
 @@||quefaire.be/annonces/imgads/$image
@@ -11193,7 +11208,6 @@ _blockadblock_
 leveldown.fr#@##adblock
 toplien.fr#@#.AdvertContainer
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
-commentcamarche.net,journaldesfemmes.com#@#.text_ads
 !
 @@|http://bc.vc^$generichide
 @@||4downfiles.org^$generichide
