@@ -4312,6 +4312,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||hdfree.tv/ad.
 ||hdvideos.porn/?id=$popup
 ||hellocoton.fr/*/badges/$third-party
+||hentai-tube.fr^*?$popup
 ||herocccam.com/herocccam.gif
 ||hipub.hiwit.org^
 ||hit-amateur.com/ban/$third-party
@@ -4752,6 +4753,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||statstools.porn.fr^
 ||storefollow.com/?support=
 ||streaming-de-films.net/telecharger-films-gratuits^$popup,domain=streaming-de-films.net
+||streaming-hentai.org/images/$third-party
+||streaming-hentai.org^*?$popup
 ||streaming-illimite.com^$popup,domain=freemoviesdown.com
 ||streaminger.tv/ad*.
 ||streaminghd.fr/wp-content/uploads/$third-party
@@ -6055,6 +6058,7 @@ toutcash.com/images/bandeau-
 ||hdfever.fr/wp-content/uploads/*/banni
 ||hdfever.fr/wp-content/uploads/*/habillage-
 ||hdfever.fr/wp-content/uploads/*/soldes
+||hentai-3x.com/images/out
 ||hentaibox.fr^$script
 ||hentaifr.net/bg/
 ||hentaigratuit.org/delaypub.js
@@ -9743,7 +9747,6 @@ whitespirit.fr##.blogt
 leguide-shopping.tele-2-semaines.fr##.body
 trocdestrains.com##.boite-partenaire-v
 vpntorrent.com##.boom_bar
-hentai-3x.com##.boost
 extratorrent.cc##.borderdark + .trtblsearch[width="100%"]
 liligo.fr##.bottom-banner
 hebdo.ch##.boutique2014
@@ -10085,7 +10088,7 @@ pornofrance.org##.promomenu
 meteosun.com##.promote_large
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
-abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,hentai-3x.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,logicielmac.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zupimages.net##.pub
+abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,inovaovao.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,logicielmac.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zupimages.net##.pub
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
 playfrance.com##.pub-col3
