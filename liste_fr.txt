@@ -6839,6 +6839,9 @@ toutcash.com/images/bandeau-
 ||streambox.club/jsfeed/
 ||streamcomplet.com/img/a/
 ||streamcomplet.com/popup/
+||streaming-hardcore.com/data/$image
+||streaming-hardcore.com/image.php?src=*://
+||streaming-hardcore.com^$popup,~third-party
 ||streaming-serie.tv/get.php?$popup
 ||streamingeur.com/480.html
 ||streamingfoot.direct/images/pub
@@ -9278,7 +9281,7 @@ degroupnews.com###link_pub
 journaldugeek.com###linkhabillage
 ouedkniss.com###list-last-stores
 omgtorrent.me###liste-des-fichiers
-a40ans.com,sexecine.com###liste-webcams
+a40ans.com,sexecine.com,streaming-hardcore.com###liste-webcams
 millenium.org###logo_droite
 centreimmo.com###logos-partenaires
 laposte.net###lpn_pub_main
