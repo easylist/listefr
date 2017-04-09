@@ -2935,12 +2935,15 @@ debugger:$popup
 ! popads.net
 ||dcznhkojghrl.com^$third-party
 ||jpncpftyxliq.com^$third-party
+||kknwvfdzyqzj.com^$third-party
 ||lfvrjrdrgazl.com^$third-party
 ||mhaafkoekzax.com^$third-party
+||mxsuikhqaggf.com^$third-party
 ||sailznsgbygz.com^$third-party
 ||swtwtbiwbjvq.com^$third-party
 ||vhpqxkhvjgwx.com^$third-party
 ||whkwbllcctfm.com^$third-party
+||yzlwuuzzehjh.com^$third-party
 ||zhabyesrdnvn.com^$third-party
 !
 ||004b17a0c349157de.com^
@@ -5193,10 +5196,11 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 |http://$script,third-party,xmlhttprequest,domain=filmstreamvk.net
 |https://$script,third-party,xmlhttprequest,domain=filmstreamvk.net
 ! filmzenstream.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=completvf.com|filmzenstream.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=completvf.com|filmzenstream.com
-|http://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com
-|https://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=completvf.com|filmzenstream.com|official-film-illimite.net
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=completvf.com|filmzenstream.com|official-film-illimite.net
+@@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=completvf.com|filmzenstream.com|official-film-illimite.net
+|http://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|official-film-illimite.net
+|https://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|official-film-illimite.net
 ! mega-stream.fr
 |http://$script,third-party,xmlhttprequest,domain=mega-stream.fr
 |https://$script,third-party,xmlhttprequest,domain=mega-stream.fr
@@ -7243,6 +7247,7 @@ toutcash.com/images/bandeau-
 ||d2pppxxtaciku9.cloudfront.net^
 ||d2psf55e0gm6yv.cloudfront.net^
 ||d2q039yelpk33c.cloudfront.net^
+||d2q52i8yx3j68p.cloudfront.net^
 ||d2q55mevlpufwx.cloudfront.net^$image
 ||d2skqnrxz11esv.cloudfront.net^
 ||d2w88er3oa79h8.cloudfront.net^
