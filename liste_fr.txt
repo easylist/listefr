@@ -1068,7 +1068,7 @@
 ://imads.
 ://msk.*/redir/
 ://na.ads.
-://partner.$third-party
+://partner.$third-party,domain=~viator.com|~viatorcom.de|~viatorcom.fr|~viatorcom.nl|~viatorcom.no|~viatorcom.se
 ://pop.$script,subdocument,third-party,xmlhttprequest
 ://promo2.$third-party
 ://reclame.
