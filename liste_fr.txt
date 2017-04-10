@@ -2939,12 +2939,14 @@ debugger:$popup
 ||zert.ovh^$third-party
 ! popads.net
 ||dcznhkojghrl.com^$third-party
+||iijmodcvlwfk.com^$third-party
 ||jpncpftyxliq.com^$third-party
 ||kknwvfdzyqzj.com^$third-party
 ||konbwfktusra.com^$third-party
 ||lfvrjrdrgazl.com^$third-party
 ||mhaafkoekzax.com^$third-party
 ||mxsuikhqaggf.com^$third-party
+||ohecnqpldvuw.com^$third-party
 ||qlugrmjsncbe.com^$third-party
 ||sailznsgbygz.com^$third-party
 ||swtwtbiwbjvq.com^$third-party
@@ -5099,6 +5101,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=films-regarder.org
 |http://$popup,script,third-party,domain=films-regarder.com|films-regarder.org|films-regarder.xyz
 |https://$popup,script,third-party,domain=films-regarder.com|films-regarder.org|films-regarder.xyz
+! regarder-film-gratuit.eu
+|http://$script,third-party,xmlhttprequest,domain=regarder-film-gratuit.eu
+|https://$script,third-party,xmlhttprequest,domain=regarder-film-gratuit.eu
 ! free-telechargement.com
 |http://$script,third-party,xmlhttprequest,domain=free-telechargement.com
 |https://$script,third-party,xmlhttprequest,domain=free-telechargement.com
