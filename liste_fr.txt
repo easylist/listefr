@@ -4931,7 +4931,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||yimg.com/hl/ap/default/*/HP_*.jpg
 ||yospace.com/csm/
 ||yospace.com^*.ts?yo.u=0
-||yospace.com^*.ts?yo.u=1
+||yospace.com^*.ts?yo.u=10|
+||yospace.com^*.ts?yo.u=1|
 ||youcloud.tv/adl?
 ||youporn.com^*?utm_$popup
 ||yourupload.com/m$script
