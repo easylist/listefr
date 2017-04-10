@@ -1007,6 +1007,7 @@
 /underpopup.
 /upld/ads/*
 /upload/ad/*
+/upload/adv/*
 /uploads/*/ads.
 /vaxadserver.
 /vbs-ads.
@@ -4438,6 +4439,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||liligo.*/wpartner/
 ||link.tl^$script,third-party
 ||links-protection.com/*.htm$subdocument
+||linuxsat-support.com^*_banners/
 ||live.prismamediadigital.com^
 ||livecareer.fr^$popup,domain=pole-emploi.fr
 ||livehost.fr^*/bannieres/
