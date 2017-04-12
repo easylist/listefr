@@ -664,6 +664,7 @@
 /frame_popup.
 /frontend_loader.$script
 /frprn_ad.
+/full-page-script-short.
 /games-ad.
 /gdfp.js?
 /gdfp_reload-
@@ -718,6 +719,7 @@
 /jquery.dfp.
 /jquery.fake.
 /jquery.kpop.
+/jquery.linkshrink.js
 /js.adv.
 /js/468.
 /js/infopop_
@@ -729,6 +731,7 @@
 /lib/ads.
 /liens-commerciaux/*
 /link-converter.$script
+/linkshrink.js
 /load.php?*&size=
 /load.php?action=adsc&
 /logos-pub/*
@@ -1685,7 +1688,6 @@ debugger:$popup
 ||adg99.com^$third-party
 ||adgoi-1.net^$third-party
 ||adhispanic.com^$third-party
-||adhit.me^$third-party
 ||adhoc1.net^$third-party
 ||adhoc2.net^$third-party
 ||adhoc4.net^$third-party
@@ -2464,7 +2466,6 @@ debugger:$popup
 ||or3f3xmk.xyz^$third-party
 ||orangepublicite.fr^$third-party
 ||ouaitupeuxregarderenillimite.com^$third-party
-||ouo.io^$third-party
 ||ourinstance.info^$third-party
 ||overlays.next-targeting.com^$third-party
 ||ovnet.fr^$third-party
@@ -4442,7 +4443,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||likebaguette.com/data/img/likebaguette-
 ||liligo.*/servlet/ads?
 ||liligo.*/wpartner/
-||link.tl^$script,third-party
 ||links-protection.com/*.htm$subdocument
 ||linuxsat-support.com^*_banners/
 ||live.prismamediadigital.com^
@@ -5408,6 +5408,18 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ! clictune.com
 |http://$subdocument,third-party,domain=clictune.com
 |https://$subdocument,third-party,domain=clictune.com
+! Auto short link scripts
+||adhit.me^$script,third-party
+||al.ly^$script,third-party
+||binbox.io^$script,third-party
+||croco.me^$script,third-party
+||cut-urls.com^$script,third-party
+||faltuwap.com^$script,third-party
+||jumpbucks.com^$script,third-party
+||link.tl^$script,third-party
+||ouo.io^$script,third-party
+||uskip.me^$script,third-party
+||yourlink.in^$script,third-party
 ! linkbucks.com
 |http://$subdocument,domain=abnouneuuxbozmt.net|aptclkzmoelfm.net|bohjrmvzefy.net|brnopvwa.net|cedrofltell.net|clictune.com|cquixlgothzm.net|cvwgklzfu.net|esywoeuo.net|ezfbngpqcxnu.net|ffhogexfyplgm.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gpxibvwmjbo.net|ikqksgum.net|inesajjovx.net|iurmxkchajoxppg.net|kcmzydgk.net|kkssrjkyduydc.net|linkbucks.com|lnzpbkeijlkmfdr.net|lrlvmaeris.net|lskjpnkavksj.net|lzbsrxvkz.net|mcuzfdumqro.net|mkjuobtzd.net|mnjsowaj.net|neayknle.net|nsdxoecjx.net|nuzvlmynt.net|pipkdrzb.net|qdifkhrghxhbyw.net|rdzxxzabj.net|sa.ae|sipmnteinohts.net|sugjtdizgo.net|tbyauqjvluik.net|tditbdczodoowf.net|tiunleoecoolii.net|tmccbzsxu.net|ubqgcbmrqjdcqn.net|vdmduttihyxsx.net|vfbsjcwl.net|vvujlrldhpbou.net|wuhknlrnhcli.net|wxwqbpkr.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|zjslornrlnvbmom.net|ztevysowdzkkjw.net|zuemosjimenxnmy.net|zvpelwevlav.net|zypdvbupo.net
 ||arabtise.com^$subdocument,third-party
