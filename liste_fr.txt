@@ -2683,6 +2683,7 @@ debugger:$popup
 ||smrtgsrtbsourceads.net
 ||snake-leads.com^$third-party
 ||socialmanga.net^$third-party
+||socike.com^$third-party
 ||softmaster4you.xyz^$third-party
 ||spaceshipads.com^$third-party
 ||spb2011.com^$third-party
@@ -2944,6 +2945,7 @@ debugger:$popup
 ||zert.ovh^$third-party
 ! popads.net
 ||aclsqdpgeaik.com^$third-party
+||bebufuspldzh.com^$third-party
 ||dcznhkojghrl.com^$third-party
 ||ewgtanybkkch.com^$third-party
 ||gqnmautydwky.com^$third-party
@@ -2957,6 +2959,7 @@ debugger:$popup
 ||mhaafkoekzax.com^$third-party
 ||mxsuikhqaggf.com^$third-party
 ||ohecnqpldvuw.com^$third-party
+||olthlikechgq.com^$third-party
 ||oouggjayokzx.com^$third-party
 ||qlugrmjsncbe.com^$third-party
 ||sailznsgbygz.com^$third-party
@@ -2967,6 +2970,7 @@ debugger:$popup
 ||whkwbllcctfm.com^$third-party
 ||wrhpnrkdkbqi.com^$third-party
 ||yzlwuuzzehjh.com^$third-party
+||zslembevfypr.com^$third-party
 !
 ||004b17a0c349157de.com^
 ||00e20f955428d.com^
@@ -5306,6 +5310,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 @@||ajax.googleapis.com/ajax/libs/$script,domain=vidto.me
 |http://$script,third-party,domain=vidto.me
 |https://$script,third-party,domain=vidto.me
+! vidzcode.com
+|http://$script,third-party,domain=vidzcode.com
+|https://$script,third-party,domain=vidzcode.com
 ! vidlox.tv
 @@||api.peer5.com^$script,domain=vidlox.me
 @@||cdn.jsdelivr.net^$script,domain=vidlox.me
