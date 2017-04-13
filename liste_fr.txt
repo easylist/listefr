@@ -935,6 +935,7 @@
 /query.*?aff=$subdocument
 /redirect/*?banner=
 /redirect/dl.
+/redirect?tid=$subdocument
 /regie_pub/*
 /regiepub/*
 /rekban.php
@@ -1999,6 +2000,7 @@ debugger:$popup
 ||clintads.com^$third-party
 ||clk100.com^$third-party
 ||clkmon.com^$third-party
+||clksite.com^$third-party
 ||closestloyaltyand.xyz^$third-party
 ||cms-skin.com^$third-party
 ||coindushopping.fr^$third-party
@@ -2368,6 +2370,7 @@ debugger:$popup
 ||mobsuccess.com^$third-party
 ||mobusi.com^$third-party
 ||mochiads.com^$third-party
+||modescrips.info^$third-party
 ||monarchads.com^$third-party
 ||monetiz.fr^$third-party
 ||monetize-me.com^$third-party
@@ -5436,6 +5439,11 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ! adhit.me
 |http://$subdocument,third-party,domain=adhit.me
 |https://$subdocument,third-party,domain=adhit.me
+! uskip.me
+@@||ajax.googleapis.com/ajax/libs/$script,domain=uskip.me
+@@||google.com/recaptcha/$subdocument,domain=uskip.me
+|http://$script,subdocument,third-party,domain=uskip.me
+|https://$script,subdocument,third-party,domain=uskip.me
 ! Auto short link scripts
 ||adhit.me^$script,third-party
 ||al.ly^$script,third-party
