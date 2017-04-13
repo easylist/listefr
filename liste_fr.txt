@@ -4085,6 +4085,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||ba.journaldesfemmes.com^
 ||babysurf.fr^*/bannieres/
 ||baise3x.com/ban/
+||bandeiracorp.biz/images/$third-party
 ||barredesurf.com/includes/images/bannieres/
 ||baseturf.com/bannieres/
 ||batman.blogautomobile.fr^
@@ -4367,6 +4368,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||hqq.tv/js/betterj/
 ||hqq.tv^*/license.
 ||href.li^$domain=youzapping.com
+||hubspot.com/cta/
 ||hurenportal.com/banner/
 ||i.alicdn.com/*/show-window/index.js
 ||iceroket.com^$subdocument
@@ -5431,6 +5433,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ! link.tl
 |http://$subdocument,third-party,domain=link.tl
 |https://$subdocument,third-party,domain=link.tl
+! adhit.me
+|http://$subdocument,third-party,domain=adhit.me
+|https://$subdocument,third-party,domain=adhit.me
 ! Auto short link scripts
 ||adhit.me^$script,third-party
 ||al.ly^$script,third-party
