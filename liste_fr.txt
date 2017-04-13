@@ -1028,6 +1028,7 @@
 /wbdds.
 /web/bannieres/*
 /webediads/*
+/wgAds.
 /widget.advertisement.
 /widget_ads/*
 /widgets-bazarchic-
@@ -10164,7 +10165,7 @@ lefigaro.fr##.pub-carrousel-mini
 playfrance.com##.pub-col3
 agevillage.com##.pub-fade
 millepertuis.eu##.pub-gauche-flottant
-1point2vue.com##.pub-header
+1point2vue.com,direct-radio.fr##.pub-header
 lefigaro.fr##.pub-icone
 toplien.fr##.pub-index-gauche
 bdgest.com,bedetheque.com##.pub-interne-top
@@ -11295,6 +11296,7 @@ _blockadblock_
 !
 leveldown.fr#@##adblock
 toplien.fr#@#.AdvertContainer
+direct-radio.fr#@#.adsbox
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
 !
 @@|http://bc.vc^$generichide
