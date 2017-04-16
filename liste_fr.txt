@@ -4046,6 +4046,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||amazonaws.com/purch-adops/
 ||amazonaws.com/static.contentza.com/
 ||amazonaws.com/waframedia*.
+||amazonaws.com^*-ccmbenchmark
 ||amazonaws.com^*/3x250-$subdocument
 ||amazonaws.com^*/publishers/$script
 ||ambed.io^*/img/partners/
@@ -4149,6 +4150,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||canalseduction.com/Bannieres/
 ||cashtravel.info/banners/
 ||cast4u.tv/fku2.php
+||ccmbg.com^$xmlhttprequest
 ||cdn.a9fast.com^*/misc/partner/
 ||cdn.m6web.fr/creatives/assets/
 ||cdn.speedvid.net^$popup
@@ -10948,7 +10950,7 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||platform.twitter.com^$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 |http://$script,third-party,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 |https://$script,third-party,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
-||ccm2.net^$image,domain=journaldesfemmes.com|journaldunet.com
+||ccm2.net^$image,domain=journaldesfemmes.com|journaldunet.com|linternaute.com
 ||i-cms.journaldesfemmes.com/image_cms/
 ||i-cms.journaldunet.com/image_cms/
 ||i-cms.linternaute.com/image_cms/
