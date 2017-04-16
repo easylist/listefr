@@ -10948,10 +10948,10 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||platform.twitter.com^$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 |http://$script,third-party,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 |https://$script,third-party,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+||ccm2.net^$image,domain=journaldesfemmes.com
 ||i-cms.journaldesfemmes.com/image_cms/
 ||i-cms.journaldunet.com/image_cms/
 ||i-cms.linternaute.com/image_cms/
-||journaldesfemmes.com^*=/
 !
 medisite.fr###block-gc-ad-bloc-centre-1 + * img
 planet.fr###block-sp-node-sp-node-videos-home + [class]
