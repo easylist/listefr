@@ -5396,6 +5396,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ! youpak.com
 |http://$third-party,xmlhttprequest,domain=youpak.com
 |https://$third-party,xmlhttprequest,domain=youpak.com
+! jheberg.net
+|http://$third-party,xmlhttprequest,domain=jheberg.net
+|https://$third-party,xmlhttprequest,domain=jheberg.net
 ! nowvideo
 @@||ajax.googleapis.com/ajax/libs/$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|divxstage.to|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.com|videoweed.es
 @@||zerocdn.to/dash/$third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|divxstage.to|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.com|videoweed.es
