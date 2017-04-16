@@ -10926,7 +10926,7 @@ macg.co##article > a[-abp-properties='*'] > img
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 ||xiti.com^$domain=lachainemeteo.com
 ! CCM Benchmark (ligatus)
-/:\/\/.*\.ccm2.net\/.*\/[a-zA-Z0-9]{50,}/$image
+/:\/\/.*\.ccm2.net\/.*\/[a-zA-Z0-9-]{50,}/$image
 @@||ajax.googleapis.com/ajax/libs/$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||ccmbg.com^*/asset/js?$script,domain=linternaute.com
 @@||ccmbg.com^*/js.php?$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
