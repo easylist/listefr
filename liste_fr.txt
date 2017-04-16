@@ -366,6 +366,7 @@
 /ads?p=
 /ads?req_id=
 /ads?spot_id=
+/ads?sz=
 /ads?type=
 /ads_250_
 /ads_90_728.
@@ -6620,6 +6621,8 @@ toutcash.com/images/bandeau-
 ||mrmondialisation.org/wp-content/uploads/*/banniere-
 ||mtvnimages.com/habillage/
 ||mubawab-media.com/habillagesPictures/
+||multiup.eu/js/compiled_js_7.js
+||multiup.org/js/compiled_js_7.js
 ||musculaction.com/img/245x90-
 ||muslimette-magazine.com/wp-content/uploads/*/125X125-
 ||muslimshop.fr/vers-integration.jpg
@@ -7204,7 +7207,6 @@ toutcash.com/images/bandeau-
 ||windmag.com/media/habillage/
 ||winds-up.com/images/pub/
 ||worldissmall.fr/*/uploads/partenaires/
-||www.multiup.org/js/compiled_js_7.js
 ||www.xstory-fr.com^$xmlhttprequest
 ||xavbox.com/ban/
 ||xboards.org/static/sponsors/
@@ -10520,7 +10522,7 @@ presse-algerie.net##a[href*="/?ad="]
 artdeseduire.com##a[href*="/?part=ads"]
 webactus.net##a[href*="/?utm_source="]
 sosvirus.net##a[href*="/affiliate-"] > img
-multiup.org##a[href*="/download-usenet/"]
+multiup.eu,multiup.org##a[href*="/download-usenet/"]
 papyfullstream.com,papystreaming-film.com##a[href*="/film-"]
 espritlib.com##a[href*="/goto_part.php?"]
 nouvelobs.com##a[href*="/les-bons-plans-shopping/"]
