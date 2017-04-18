@@ -10973,6 +10973,9 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||ccmbg.com^*/js/startSymfony?$script,domain=journaldunet.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||connect.facebook.net^$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||journaldunet.ooul.tv/contrib/fr-ccm/aab/journaldunet_plugin.js$script,domain=journaldunet.com
+@@||journaldunet.ooul.tv/nocache/fr-ccm/aab/journaldunet_config.js$script,domain=journaldunet.com
+@@||p.ccmbg.com/media/index.php?rid=$xmlhttprequest,domain=journaldunet.com
 @@||platform.twitter.com^$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 |http://$script,third-party,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 |https://$script,third-party,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
