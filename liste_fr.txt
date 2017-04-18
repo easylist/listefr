@@ -5122,16 +5122,17 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 |http://$object-subrequest,script,third-party,xmlhttprequest,domain=ultimedia.com
 |https://$object-subrequest,script,third-party,xmlhttprequest,domain=ultimedia.com
 ! videoplaza
-://*0.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.net|minutefacile.com|rtl.be
-://*2.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.net|minutefacile.com|rtl.be
-://*3.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.net|minutefacile.com|rtl.be
-://*4.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.net|minutefacile.com|rtl.be
-://*5.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.net|minutefacile.com|rtl.be
-://*6.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.net|minutefacile.com|rtl.be
-://*7.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.net|minutefacile.com|rtl.be
-://*8.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.net|minutefacile.com|rtl.be
-://*9.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.net|minutefacile.com|rtl.be
-://*e.*.damoh.*/|$domain=6play.fr|canalplus.fr|commentcamarche.net|minutefacile.com|rtl.be
+.damoh.*.*/*/|
+://*0.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
+://*2.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
+://*3.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
+://*4.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
+://*5.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
+://*6.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
+://*7.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
+://*8.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
+://*9.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
+://*e.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
 ! t411
 @@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ai
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.ai
