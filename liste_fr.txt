@@ -752,6 +752,7 @@
 /menu/ADS/*
 /miniads/*
 /mnf_*x*.gif
+/mobileadslide.
 /modalads.
 /modules.pub.js
 /money/ad.
@@ -8186,6 +8187,7 @@ toutcash.com/images/bandeau-
 ##.ads-box-inner
 ##.ads-box-outer
 ##.ads-center
+##.ads-cnt
 ##.ads-container
 ##.ads-container-1
 ##.ads-container-2
@@ -11350,6 +11352,7 @@ leveldown.fr#@##adblock
 toplien.fr#@#.AdvertContainer
 direct-radio.fr#@#.adsbox
 bricozone.fr,gamingroom.tv#@#.adsbygoogle
+trackmusik.fr#@#.afs_ads
 !
 @@|http://bc.vc^$generichide
 @@||4downfiles.org^$generichide
