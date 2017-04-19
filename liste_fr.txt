@@ -795,6 +795,7 @@
 /pave_PUB_
 /PBTopAds.
 /peelrotateur/*
+/player.*?adSetCode=
 /player_ad.
 /plugins/dfp/$script
 /plugins/vp_pub/*
@@ -4649,7 +4650,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||planete-hit.com/hit.php?
 ||planethoster.net/images/bannieres/$third-party
 ||planethoster.net/img/banners/$third-party
-||player.ooyala.com^*?adSetCode=
 ||pointscommuns.com/images/bannieres/$third-party
 ||pokeram.com/images/promo/
 ||pooki.fr/banner/
@@ -10999,11 +10999,15 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||connect.facebook.net^$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||journaldunet.ooul.tv/contrib/fr-ccm/aab/journaldunet_plugin.js$script,domain=journaldunet.com
 @@||journaldunet.ooul.tv/nocache/fr-ccm/aab/journaldunet_config.js$script,domain=journaldunet.com
+@@||linternaute.ooul.tv/contrib/fr-ccm/aab/linternaute_plugin.js|$script,domain=linternaute.com
+@@||linternaute.ooul.tv/nocache/fr-ccm/aab/linternaute_config.js|$script,domain=linternaute.com
 @@||platform.instagram.com^*/embeds.js$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||platform.twitter.com/js/tweet.$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||platform.twitter.com/widgets.js$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||platform.twitter.com^$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||s.ytimg.com/yts/jsbin/www-widgetapi-*/www-widgetapi.js$script,domain=linternaute.com
 @@||widgets.pinterest.com/v3/pidgets/pins/info/?pin_ids=$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||youtube.com/iframe_api$script,domain=linternaute.com
 |http://$script,third-party,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 |https://$script,third-party,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 ||ccm2.net^$image,domain=journaldesfemmes.com|journaldunet.com|linternaute.com
