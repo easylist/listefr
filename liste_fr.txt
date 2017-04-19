@@ -4173,7 +4173,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||canalseduction.com/Bannieres/
 ||cashtravel.info/banners/
 ||cast4u.tv/fku2.php
-||ccmbg.com^$xmlhttprequest
 ||cdn.a9fast.com^*/misc/partner/
 ||cdn.m6web.fr/creatives/assets/
 ||cdn.speedvid.net^$popup
@@ -10969,7 +10968,7 @@ macg.co##article > a[-abp-properties='*'] > img
 ! CCM Benchmark (ligatus)
 /:\/\/.*\.ccm2.net\/.*\/[a-zA-Z0-9-]{50,}/$image
 @@||ajax.googleapis.com/ajax/libs/$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
-@@||assets.pinterest.com/js/pinit$script,domain=linternaute.com
+@@||assets.pinterest.com/js/pinit$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||ccmbg.com^*/asset/js?$script,domain=linternaute.com
 @@||ccmbg.com^*/js.php?$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||ccmbg.com^*/js/app.bottom,$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com
@@ -10985,18 +10984,17 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||ccmbg.com^*/js/responsive?$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com
 @@||ccmbg.com^*/js/start?$script,domain=journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||ccmbg.com^*/js/startSymfony?$script,domain=journaldunet.com
-@@||cdn.syndication.twimg.com/tweets.json?$script,domain=journaldesfemmes.com
-@@||cdn.syndication.twimg.com/widgets/video?$script,domain=linternaute.com
+@@||cdn.syndication.twimg.com/tweets.json?$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||cdn.syndication.twimg.com/widgets/video?$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||connect.facebook.net^$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||journaldunet.ooul.tv/contrib/fr-ccm/aab/journaldunet_plugin.js$script,domain=journaldunet.com
 @@||journaldunet.ooul.tv/nocache/fr-ccm/aab/journaldunet_config.js$script,domain=journaldunet.com
-@@||p.ccmbg.com/media/index.php?rid=$xmlhttprequest,domain=journaldunet.com
-@@||platform.instagram.com^*/embeds.js$script,domain=journaldesfemmes.com|linternaute.com
-@@||platform.twitter.com/js/tweet.$script,domain=journaldesfemmes.com
-@@||platform.twitter.com/widgets.js$script,domain=journaldesfemmes.com
+@@||platform.instagram.com^*/embeds.js$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||platform.twitter.com/js/tweet.$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||platform.twitter.com/widgets.js$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||platform.twitter.com^$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
-@@||widgets.pinterest.com/v3/pidgets/pins/info/?pin_ids=$script,domain=linternaute.com
+@@||widgets.pinterest.com/v3/pidgets/pins/info/?pin_ids=$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 |http://$script,third-party,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 |https://$script,third-party,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 ||ccm2.net^$image,domain=journaldesfemmes.com|journaldunet.com|linternaute.com
