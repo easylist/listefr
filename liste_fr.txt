@@ -2976,6 +2976,7 @@ debugger:$popup
 ||ewgtanybkkch.com^$third-party
 ||gqnmautydwky.com^$third-party
 ||igawfxfnupeb.com^$third-party
+||ihriduffgkel.com^$third-party
 ||inmrjokdxmkh.com^$third-party
 ||ivkasohqerzl.com^$third-party
 ||iwmonrwpeeku.com^$third-party
@@ -3000,6 +3001,7 @@ debugger:$popup
 ||txwzdalmamma.com^$third-party
 ||ubxtoqsqusyx.com^$third-party
 ||ujqafhcsrhyz.com^$third-party
+||unztsvrjofqp.com^$third-party
 ||urpscavikbyv.com^$third-party
 ||uvffdmlqwmha.com^$third-party
 ||vbjvbjertwov.com^$third-party
@@ -3008,6 +3010,7 @@ debugger:$popup
 ||wrhpnrkdkbqi.com^$third-party
 ||xcukrfpchsxn.com^$third-party
 ||xuhktijdskah.com^$third-party
+||yqutkbvrgvar.com^$third-party
 ||yzlwuuzzehjh.com^$third-party
 ||zslembevfypr.com^$third-party
 !
@@ -3032,6 +3035,7 @@ debugger:$popup
 ||a35e6f8ef7a43f24c49.com^
 ||aa9be8ac5ce181b104.com^
 ||af413ab53fd5e529.com^
+||b4ed1ab4d5e79a2d1.com^
 ||be96a951a802534.com^
 ||c13b2beea116e.com^
 ||ca29ae96c40303ccfda.com^
@@ -5422,8 +5426,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 |http://$script,xmlhttprequest,domain=jeux-hentai.com
 |https://$script,xmlhttprequest,domain=jeux-hentai.com
 ! putstream.com
-|http://$script,third-party,xmlhttprequest,domain=putstream.com
-|https://$script,third-party,xmlhttprequest,domain=putstream.com
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=putstream.com
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=putstream.com
 ! wholecloud.net / auroravid.to
 @@||ajax.googleapis.com/ajax/libs/$script,domain=wholecloud.net
 @@||auroravid.to/html5/dash/popups-300x250-popunder.js$script,domain=auroravid.to
@@ -5533,7 +5537,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||super-virals.com^$subdocument,third-party
 ||uploadbank.com^$subdocument,third-party
 ! popup & popunder
-$popup,domain=adf.ly|allvid.ch|auroravid.to|ay.gy|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|getmytorrent.com|gorillavid.com|gorillavid.in|guadeloupe-paradise.fr|imgchili.net|j.gs|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|media1fire.com|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|powerwatch.pw|powvideo.xyz|q.gs|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamay.bz|streamplay.to|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|thevideobee.to|tout-sur-le-web.com|ultimedia.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidhos.com|vidshare.me|vidshare.us|vidto.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+$popup,domain=adf.ly|allvid.ch|auroravid.to|ay.gy|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|getmytorrent.com|gorillavid.com|gorillavid.in|guadeloupe-paradise.fr|imgchili.net|j.gs|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|media1fire.com|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|powerwatch.pw|powvideo.xyz|putstream.com|q.gs|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamay.bz|streamplay.to|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|thevideobee.to|tout-sur-le-web.com|ultimedia.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidhos.com|vidshare.me|vidshare.us|vidto.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 ! images hosting
 ||bluesattv.net/gif.gif
 ||hostingpics.net/pics/*468x60.
