@@ -638,6 +638,7 @@
 /doubleclick_dmm/*
 /drawpub2.
 /dynamicads.
+/e/cm?t=*&lt1=$subdocument
 /earn.*?zone=
 /ec_adalt.
 /ec_adalt/*
@@ -989,6 +990,7 @@
 /shopify_rolling_
 /shopping/?widget=
 /show.php?*&ad=
+/show/?block_id=*&r=$script
 /show_adv.
 /show_next_ads.
 /showads?
@@ -4625,6 +4627,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||ohlescoquins.com/promo/
 ||okpay.com/img/partners/$third-party
 ||on-veut-du-cul.com/promo/
+||onepunchltd.com/img/banners/
 ||onvillanuit.com^$domain=chartsinfrance.net
 ||ops.ccmbg.com^
 ||oranum.com^*/lang-popup-$subdocument
