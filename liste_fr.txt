@@ -3149,6 +3149,7 @@ debugger:$popup
 ||phox2ey.bid^$third-party
 ||ptarepjx.com^$third-party
 ||pweaatek.com^$third-party
+||pwzn9ze.com^$third-party
 ||px1alsry.com^$third-party
 ||quee4wa.top^$third-party
 ||quei1ai.top^$third-party
@@ -4622,7 +4623,6 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||pub.motion-twin.com^
 ||pub.sexytools.be^
 ||pub.vacanceo.com^
-||publicidees.com^$popup,domain=voirfilms.co
 ||pulsions-genereuses.com/ban/$third-party
 ||pure-warez.fr/button.php?
 ||pushtraffic.net^$popup,domain=ifile.ws
@@ -5069,10 +5069,10 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 |http://$script,third-party,domain=t411.ag|t411.ai|t411.am|t411.bz|t411.cl|t411.la|t411.lc|t411.li|t411.lt|t411.lv|t411.so|t411.tv
 |https://$script,third-party,domain=t411.ag|t411.ai|t411.am|t411.bz|t411.cl|t411.la|t411.lc|t411.li|t411.lt|t411.lv|t411.so|t411.tv
 ! voirfilms.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=voirfilms.co
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=voirfilms.co
-|http://$script,third-party,xmlhttprequest,domain=voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
-|https://$script,third-party,xmlhttprequest,domain=voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
+@@||ajax.googleapis.com/ajax/libs/$script,domain=voirfilms.biz
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=voirfilms.biz
+|http://$script,third-party,xmlhttprequest,domain=voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
+|https://$script,third-party,xmlhttprequest,domain=voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.net|voirfilms.org
 ! films-regarder.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=films-regarder.org
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=films-regarder.org
