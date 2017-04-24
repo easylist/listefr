@@ -2945,6 +2945,8 @@ debugger:$popup
 ||viperishly.com^$third-party
 ||zert.ovh^$third-party
 ! popads.net
+||oonenbygymsl.com^$third-party
+||qklhtphiphni.com^$third-party
 ||qwqqliynxufj.com^$third-party
 !
 ||004b17a0c349157de.com^
@@ -5445,9 +5447,9 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 |http://$subdocument,third-party,domain=getcpm.com
 |https://$subdocument,third-party,domain=getcpm.com
 ! gsurl.me
-@@||ajax.googleapis.com/ajax/libs/$script,domain=g5u.pw|gsurl.me
-|http://$script,third-party,xmlhttprequest,domain=g5u.pw|gsurl.me
-|https://$script,third-party,xmlhttprequest,domain=g5u.pw|gsurl.me
+@@||ajax.googleapis.com/ajax/libs/$script,domain=g5u.pw|gsurl.in|gsurl.me
+|http://$script,third-party,xmlhttprequest,domain=g5u.pw|gsurl.in|gsurl.me
+|https://$script,third-party,xmlhttprequest,domain=g5u.pw|gsurl.in|gsurl.me
 ! adf.ly
 @@||educing.info/popunder.gif|$image,domain=adf.ly|ay.gy|j.gs|q.gs
 @@||therse.info/popunder.gif|$image,domain=adf.ly|ay.gy|j.gs|q.gs
@@ -7285,6 +7287,7 @@ toutcash.com/images/bandeau-
 ||d17rlarvg2khuc.cloudfront.net^
 ||d19182vyfoustz.cloudfront.net^
 ||d1afet533lf7zs.cloudfront.net^
+||d1auwh1li83eb9.cloudfront.net^
 ||d1az0m14mjvs40.cloudfront.net^
 ||d1bevsqehy4npt.cloudfront.net^
 ||d1boik8k1ctool.cloudfront.net^
@@ -9352,7 +9355,7 @@ football.fr,sports.fr###hablinkzone
 annonces-dz.com###hb
 classement.pro###headbanner
 boursorama.com###header + #body > div:first-child > .visible-desktop
-g5u.pw,gsurl.me###header + #container
+g5u.pw,gsurl.in,gsurl.me###header + #container
 jam-mag.com###header-banner
 ezgif.com###header-infoblock
 mobiles-actus.com###header3
