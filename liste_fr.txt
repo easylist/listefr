@@ -3316,6 +3316,7 @@ debugger:$popup
 ||188.165.253.6^$popup,third-party
 ||19950501.com^$popup,third-party
 ||1yqbp.com^$popup,third-party
+||23.236.55.237^$popup,third-party
 ||23a.co^$popup,third-party
 ||25.115.187.96^$popup,third-party
 ||25.131.85.202^$popup,third-party
@@ -3839,6 +3840,7 @@ debugger:$popup
 ||sezonlukdizi.com^$popup,third-party
 ||shglegle.com^$popup,third-party
 ||shiah.ru^$popup,third-party
+||shipyards.xyz^$popup,third-party
 ||shopstockoff.com^$popup,third-party
 ||silvercdn.ryukyu^$popup,third-party
 ||slimcdn.com^$popup,third-party
@@ -5121,6 +5123,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ://*9.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
 ://*e.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
 ! t411
+.xyz^$popup,domain=t411.ai
 @@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ai
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.ai
 @@||code.jquery.com/jquery-$script,domain=t411.ai
