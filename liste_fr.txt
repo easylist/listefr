@@ -10967,8 +10967,10 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||ajax.googleapis.com/ajax/libs/$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||assets.pinterest.com/js/pinit$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||ccmbg.com/media/index.php?$script,domain=commentcamarche.net
-@@||ccmbg.com/widgetform/xhr_get_widget?$script,domain=journaldunet.com
-@@||ccmbg.com/widgetform/xhr_save_entry?$script,domain=journaldunet.com
+@@||ccmbg.com/widgetform/xhr_get_widget?$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||ccmbg.com/widgetform/xhr_save_entry?$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||ccmbg.com/widgetqp/xhr_get_widget?quizId=$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||ccmbg.com/widgetqp/xhr_save_progress?quizId=$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||ccmbg.com^*/asset/js?$script,domain=linternaute.com
 @@||ccmbg.com^*/js.php?$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||ccmbg.com^*/js/app.bottom,$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com
@@ -10987,7 +10989,8 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||ccmbg.com^*/js/skin?$script,domain=commentcamarche.net
 @@||ccmbg.com^*/js/start?$script,domain=journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||ccmbg.com^*/js/startSymfony?$script,domain=journaldunet.com
-@@||ccmbg.com^*/js/widgetform_fo|$domain=journaldunet.com
+@@||ccmbg.com^*/js/widgetform_fo$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+@@||ccmbg.com^*/js/widgetqp_fo$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||cdn.syndication.twimg.com/tweets.json?$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||cdn.syndication.twimg.com/widgets/video?$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
