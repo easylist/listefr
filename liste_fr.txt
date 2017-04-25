@@ -349,6 +349,7 @@
 /ads/bmedia.
 /ads/boost.
 /ads/criteo2_
+/ads/dui.
 /ads/extra.
 /ads/gif/*
 /ads/left/*
@@ -8141,6 +8142,8 @@ toutcash.com/images/bandeau-
 ##.ad-item__title
 ##.ad-largebanner
 ##.ad-leaderboard-mobile
+##.ad-leaderboard-top-desktop
+##.ad-leaderboard-top-tablet
 ##.ad-mark
 ##.ad-mention
 ##.ad-mpu-mobile
@@ -8531,6 +8534,7 @@ toutcash.com/images/bandeau-
 ##.modAd
 ##.modalPub
 ##.moduleAds728
+##.module_epg_publicite
 ##.mom-ads-wrap
 ##.mueveads
 ##.myAd
