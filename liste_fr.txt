@@ -2961,6 +2961,7 @@ debugger:$popup
 ||adfpkxvaqeyj.com^$third-party
 ||bkmtspywevsk.com^$third-party
 ||cstdfxkxbqbc.com^$third-party
+||dyjifezeyagm.com^$third-party
 ||ezemyudhkzvx.com^$third-party
 ||hbzzkwsuaooc.com^$third-party
 ||lfcnzhcnzded.com^$third-party
@@ -2969,6 +2970,7 @@ debugger:$popup
 ||ncspvnslmmbv.com^$third-party
 ||oonenbygymsl.com^$third-party
 ||qklhtphiphni.com^$third-party
+||qqbyfhlctzty.com^$third-party
 ||qwqqliynxufj.com^$third-party
 ||ruzttiecdedv.com^$third-party
 ||tlnoffpocjud.com^$third-party
@@ -5575,6 +5577,8 @@ $popup,domain=adf.ly|allvid.ch|auroravid.to|ay.gy|cloudtime.to|daclips.in|dailyu
 !
 !----------------------- Sites spécifiques -----------------------!
 !
+/nexp/dok3v=*/cloudflare/rocket.js$script,domain=onhax.me
+!
 egora.fr/sites/all/themes/*/pub.png
 toutcash.com/images/bandeau-
 |http://$third-party,domain=bigvoy.com
@@ -7351,6 +7355,7 @@ toutcash.com/images/bandeau-
 ||d1s5n6wuwgnxf4.cloudfront.net^
 ||d1sj3yrs7ojvv7.cloudfront.net^
 ||d1sqvj6uj0ght6.cloudfront.net^
+||d1u3772ihhjzwu.cloudfront.net^
 ||d1uydqzj7b9nt9.cloudfront.net^
 ||d1v6js7bjzmhoa.cloudfront.net^
 ||d1vguuq5efvsfq.cloudfront.net^
@@ -10535,6 +10540,7 @@ films-telecharger.eu##[data-hash]
 meteofrance.com##[href*=".xiti.com"] > img
 t411.ag,t411.am,t411.bz,t411.cl,t411.la,t411.lc,t411.lt,t411.lv,t411.so,t411.tv##[href^="/signup/"]
 booska-p.com##[href^="http://www.booska-p.com/re/"]
+onhax.me##[id*="-prom"]
 speedvid.net##[id][style*="z-index:"]
 turbo.fr##[id^="ABbypass"]
 egora.fr##[id^="block-gmsante_pub-"]
