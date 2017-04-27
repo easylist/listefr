@@ -193,6 +193,7 @@
 .xxx/imgban/
 .xxx/pop/$script
 .xxx/pu/$script
+.xyz/ads/
 /#ads|$subdocument
 /*300x250_pub.
 /*728x90_pub.
@@ -2678,6 +2679,7 @@ debugger:$popup
 ||sexyxxx.biz^$third-party
 ||sezonlukdizi.com^$third-party
 ||shabakti.com^$third-party
+||shanglinli.com^$third-party
 ||shareaholic.com^$third-party
 ||shink.in^$script,third-party
 ||shipboardserviceberrysiltstone.info^$third-party
@@ -5421,6 +5423,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 |http://$script,xmlhttprequest,domain=jeux-hentai.com
 |https://$script,xmlhttprequest,domain=jeux-hentai.com
 ! putstream.com
+@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=putstream.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=putstream.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=putstream.com
 ! wholecloud.net / auroravid.to
