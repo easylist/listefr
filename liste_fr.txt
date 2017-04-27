@@ -353,6 +353,7 @@
 /ads/criteo2_
 /ads/dui.
 /ads/extra.
+/ads/get_
 /ads/gif/*
 /ads/left/*
 /ads/mgid_
@@ -11321,6 +11322,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /adblock_blocked/*
 /adblockbait.js
 /adblockchecker.js
+/adblockTester.
 /ads_enabled_
 /fadb.min.js?
 /jquery.adi.
@@ -11336,6 +11338,7 @@ _blockadblock_
 ||ajax.googleapis.com^$domain=greys-anatomy-en-streaming.fr|greys-anatomy-streaming.eu|greys-anatomy-streaming.org
 !
 ||firstonetv.eu/js/app?
+||justgeek.fr^*/wp-content-uploads-
 ||larascasse.fr/forum/uploads/javascript_core/plugins_plugins.js
 ||photo.femmeactuelle.fr/js/jquery.min-
 ||photo.gala.fr/js/jquery.min-
