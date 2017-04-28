@@ -43,6 +43,7 @@
 &cwadformat=
 &direct=*&zoneid=
 &forward_affiliate=
+&id_site=*&ref=*&width=*&height=*&m_url=$subdocument
 &include_ads=
 &lr_adtype=
 &pdvId=
@@ -661,6 +662,7 @@
 /espace-pub-
 /exads-
 /exoclick300m.
+/fakeFBbar.
 /fakevideo/rotate.
 /fastclick300.
 /fastclick468.
@@ -2045,6 +2047,7 @@ debugger:$popup
 ||contextualyield.com^$third-party
 ||coolood.biz^$third-party
 ||coosc.info^$third-party
+||copiapop.net^$third-party
 ||copyop-ads.com^$third-party
 ||cougar-rencontre.net^$third-party
 ||cound.info^$third-party
@@ -2252,6 +2255,7 @@ debugger:$popup
 ||imprisonemblemhoosier.com^$third-party
 ||inclk.com^$third-party
 ||infeed.tv^$third-party
+||infidelemessenger.com^$third-party
 ||infobizyours.info^$third-party
 ||infojeu.com^$third-party
 ||initialcontroledge.info^$third-party
@@ -2919,6 +2923,7 @@ debugger:$popup
 ||ylx-2.com^$third-party
 ||ylx-3.com^$third-party
 ||ylx-4.com^$third-party
+||yongkang6.com^$third-party
 ||yospace.co.uk^$third-party
 ||yospace.com^$~object-subrequest,third-party
 ||yospace.net^$third-party
@@ -7199,6 +7204,7 @@ toutcash.com/images/bandeau-
 ||voxmakers.fr/partenaires/
 ||voyages-sncf.com/ext/editorial/videos/
 ||voyages-sncf.com/sites/default/files/*_background_odv_
+||voyeur-paris.com^$script
 ||voyeur-webs.com/promo/
 ||voyeurfrance.net/cara.html
 ||voyeurfrance.net^$popup,~third-party
