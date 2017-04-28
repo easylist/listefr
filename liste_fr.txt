@@ -630,6 +630,7 @@
 /dfp/dfp.
 /dfp_ad/*
 /dfp_server.
+/dfpSizes.js
 /dhtml/notification/*
 /dhtml/popup/*
 /diff_affich_ban.
@@ -752,6 +753,7 @@
 /livewebcam/?id_affilie=
 /load.php?*&size=
 /load.php?action=adsc&
+/loaddfp?
 /logos-pub/*
 /lp_fkplay/*
 /mailorama120600.
@@ -7761,6 +7763,7 @@ toutcash.com/images/bandeau-
 ###criteoDiv3
 ###current_side_ad
 ###custom-ad
+###desktopMessageAd
 ###dfp-banniere_haute
 ###dfp-habillage
 ###dfp-pave_bas
@@ -7856,6 +7859,7 @@ toutcash.com/images/bandeau-
 ###meaPubContainer
 ###middle-publicite
 ###milieu_pub
+###mobileMessageAd
 ###modp-300600
 ###module_publicite
 ###monetiz-pub
