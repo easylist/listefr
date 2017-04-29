@@ -5469,6 +5469,12 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ! viid.me
 |http://$subdocument,third-party,domain=viid.me
 |https://$subdocument,third-party,domain=viid.me
+! thevideo.me / vidup.me
+@@||cloudfront.net/popunder.gif|$xmlhttprequest,domain=thevideo.me
+@@||thevideo.me/js/jspc.js?ab|$script,domain=thevideo.me|vidup.me
+@@||vidup.me/adsense.js?$script,domain=vidup.me
+||thevideo.me^$subdocument,~third-party
+||vidup.me^$subdocument,~third-party
 ! adhy.pe
 |http://$script,subdocument,third-party,xmlhttprequest,domain=adhy.pe|ah.pe
 |https://$script,subdocument,third-party,xmlhttprequest,domain=adhy.pe|ah.pe
@@ -5545,7 +5551,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||super-virals.com^$subdocument,third-party
 ||uploadbank.com^$subdocument,third-party
 ! popup & popunder
-$popup,domain=adf.ly|allvid.ch|auroravid.to|ay.gy|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|getmytorrent.com|gorillavid.com|gorillavid.in|guadeloupe-paradise.fr|imgchili.net|j.gs|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|media1fire.com|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|powerwatch.pw|powvideo.xyz|putstream.com|q.gs|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamay.bz|streamplay.to|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|thevideobee.to|tout-sur-le-web.com|ultimedia.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidhos.com|vidshare.me|vidshare.us|vidto.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+$popup,domain=adf.ly|allvid.ch|auroravid.to|ay.gy|cloudtime.to|daclips.in|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|getmytorrent.com|gorillavid.com|gorillavid.in|guadeloupe-paradise.fr|imgchili.net|j.gs|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|media1fire.com|movpod.in|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|powerwatch.pw|powvideo.xyz|putstream.com|q.gs|rapidvideo.com|rapidvideo.ws|serie-streaming-vf.net|shrvid.com|speedvid.net|streamay.bz|streamplay.to|teramixer.com|the-walking-dead-stream.net|thevid.net|thevideo.me|thevideobee.to|tout-sur-le-web.com|ultimedia.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidhos.com|vidshare.me|vidshare.us|vidto.me|vidup.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 ! images hosting
 ||bluesattv.net/gif.gif
 ||hostingpics.net/pics/*468x60.
@@ -7070,7 +7076,6 @@ toutcash.com/images/bandeau-
 ||theadultcompany.biz/*/ff_siteunder/$popup
 ||thefrenchporn.com^$popup,~third-party
 ||thefrenchporn.com^*/disclaimer.js
-||thevideo.me^$subdocument,~third-party
 ||ti.bank.free.fr/images/jarrety
 ||ticketac.com/upload/banniere/
 ||tignes.net/data/habillages/
@@ -7197,7 +7202,6 @@ toutcash.com/images/bandeau-
 ||viamichelin.fr/*/img/partners/
 ||video-2-cul.com/javascript/functions.js
 ||videos-de-celebrites.com^$image,third-party
-||vidup.me^$subdocument,~third-party
 ||viepratique.fr/wp-content/uploads/sites/*/Bloc_partenaire_
 ||village-libertin.com/site_rencontre/ban/
 ||vinyculture.com/wp-content/uploads/*-banner-
@@ -11421,10 +11425,8 @@ _blockadblock_
 @@||stream4free.eu/images/*#$~image
 @@||teramixer.com/plugins/mediaplayer/assets/js/advertisement.js$script,domain=teramixer.com
 @@||textnow.com/messaging/assets/advertisements.js$script
-@@||thevideo.me/js/jspc.js?ab|$script,domain=thevideo.me|vidup.me
 @@||tune.pk/js/ads.js?cache=$script,domain=tune.pk
 @@||unjourunerecette.fr/css/publicite-ads.css
-@@||vidup.me/adsense.js?$script,domain=vidup.me
 @@||wakanim.tv^*/video/advertisement?idepisode=
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 ! youwatch.org / exashare.com / allvid.ch
