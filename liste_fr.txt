@@ -8956,6 +8956,7 @@ toutcash.com/images/bandeau-
 ##[data-type="ligatus-script"]
 ##[id*="-partners-adserver-"]
 ##[id*="/adunblock_"] > iframe
+##[id*="ScriptRootC"] > [id*="PreloadC"]
 ##[id*="ScrollDownAds"]
 ##[id*="_ads_id_"]
 ##[id*="_custom_ads-"]
