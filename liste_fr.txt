@@ -5379,8 +5379,8 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 @@||cdn.jsdelivr.net^$script,domain=vidlox.me
 @@||vidlox.me/bootstrap.js|$script,domain=vidlox.tv
 @@||vidlox.tv/js/$script,domain=vidlox.me
-|http://$script,subdocument,third-party,xmlhttprequest,domain=vidlox.me|vidlox.tv
-|https://$script,subdocument,third-party,xmlhttprequest,domain=vidlox.me|vidlox.tv
+|http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=vidlox.me|vidlox.tv
+|https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=vidlox.me|vidlox.tv
 ||vidlox.me/js/$xmlhttprequest
 ||vidlox.tv/js/$xmlhttprequest
 ! thevid.net
