@@ -4019,9 +4019,9 @@ debugger:$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
-$websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|auroravid.to|bitvid.sx|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|istreamin.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|primewire.ag|streamgaroo.com|t411.ai|thecountrycaller.com|videoweed.com|videoweed.es|videowood.tv|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net
+$websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|auroravid.to|bitvid.sx|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|istreamin.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|primewire.ag|streamgaroo.com|t411.al|thecountrycaller.com|videoweed.com|videoweed.es|videowood.tv|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net
 !
-|blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|auroravid.to|bitvid.sx|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|istreamin.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|primewire.ag|streamgaroo.com|t411.ai|thecountrycaller.com|videoweed.com|videoweed.es|videowood.tv|vidlox.me|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net
+|blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|auroravid.to|bitvid.sx|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|istreamin.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|primewire.ag|streamgaroo.com|t411.al|thecountrycaller.com|videoweed.com|videoweed.es|videowood.tv|vidlox.me|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net
 !
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=e-wok.tv|flashx.tv|letwatch.to|mystream.la
@@ -5187,12 +5187,12 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ://*9.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
 ://*e.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
 ! t411
-.xyz^$popup,domain=t411.ai
-@@||ajax.googleapis.com/ajax/libs/$script,domain=t411.ai
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.ai
-@@||code.jquery.com/jquery-$script,domain=t411.ai
-|http://$script,third-party,domain=t411.ag|t411.ai|t411.am|t411.bz|t411.cl|t411.la|t411.lc|t411.li|t411.lt|t411.lv|t411.so|t411.tv
-|https://$script,third-party,domain=t411.ag|t411.ai|t411.am|t411.bz|t411.cl|t411.la|t411.lc|t411.li|t411.lt|t411.lv|t411.so|t411.tv
+.xyz^$popup,domain=t411.al
+@@||ajax.googleapis.com/ajax/libs/$script,domain=t411.al
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.al
+@@||code.jquery.com/jquery-$script,domain=t411.al
+|http://$script,third-party,domain=t411.al|t411.am
+|https://$script,third-party,domain=t411.al|t411.am
 ! voirfilms.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=voirfilms.biz
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=voirfilms.biz
@@ -9674,9 +9674,9 @@ tomshardware.fr###rightcol_top
 tomshardware.fr###rightcol_top_anchor
 7sur7.be###rpVacature
 korben.info###samsarin_php_widget-12
-t411.ai###searchform + .notice + p + p > a
-t411.ai###searchform + .notice + p > a
-t411.ai###searchform + p + p + p + div[style]
+t411.al###searchform + .notice + p + p > a
+t411.al###searchform + .notice + p > a
+t411.al###searchform + p + p + p + div[style]
 slappyto.net###shadow
 zapiks.fr###shop
 aliceadsl.fr,laposte.net,portail.free.fr###shoppingBox
@@ -10010,7 +10010,7 @@ allocine.fr##.coltop
 tirage-gagnant.com##.compteBar
 pagesjaunes.fr##.containerPdsSitesPartenaires
 strastv.com##.container_pubh_02
-t411.ai##.content > .block + [class] + [style]
+t411.al##.content > .block + [class] + [style]
 quetelecharger.com##.content-bloc-pub
 cotemaison.fr,lexpress.fr##.content_inside_partner
 nintendo-master.com##.content_kelkoo_link
@@ -10021,7 +10021,7 @@ blumei-piano.com##.cyt-affi-wrapper
 allocine.fr##.d_table-cell.vam
 logitheque.com##.description + .telechargement
 cpasbientorrent.fr##.description > center > a
-t411.ai##.details a[id]
+t411.al##.details a[id]
 grosnews.com##.deuxcarres
 rtl.fr##.dfp-pave
 lemonde.fr##.dfp_slot
@@ -10473,7 +10473,7 @@ msn.com##.sponsorship
 msn.com##.startpage > div.refreshbody[style^="top:"]
 msn.com##.stripecontainer[data-section-id="stripe.msstore"]
 imobie.fr##.support_guide_download_upper
-t411.ai##.switcher + a
+t411.al##.switcher + a
 forum.sportytrader.com##.tableau_bleu
 tomsguide.fr##.tabletoff
 walfoot.be##.take-banner
@@ -10494,10 +10494,10 @@ lnc.nc,softonic.fr,undernews.fr##.topbanner
 allocine.fr##.topheader
 fan-de-cinema.com##.topmargin
 omgtorrent.me##.torrent-usenet
-t411.ai##.torrentDetails + .block + [class]
-t411.ai##.torrentDetails + script + .block + [class]
-t411.ai##.torrentDetails > [class] + [style]
-t411.ai##.torrentDetails > h2 + div + [class]
+t411.al##.torrentDetails + .block + [class]
+t411.al##.torrentDetails + script + .block + [class]
+t411.al##.torrentDetails > [class] + [style]
+t411.al##.torrentDetails > h2 + div + [class]
 ca-briepicardie.fr##.total-cover
 search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
@@ -10565,7 +10565,7 @@ amazon.fr##[class*="-sponsored-"]
 ccm.net,commentcamarche.net##[class*="_item--sponsor"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
 uploaded.net##[class*="pico-"]
-t411.ai##[class] + div > img + a
+t411.al##[class] + div > img + a
 heures.be##[class^="ad"]
 bestream.tv##[class^="adsRemove"]
 narkive.com##[class^="ads_"]
@@ -10582,7 +10582,8 @@ omgtorrent.me##[class^="toro"]
 jeu.fr##[data-fallback-type="image"]
 films-telecharger.eu##[data-hash]
 meteofrance.com##[href*=".xiti.com"] > img
-t411.ag,t411.am,t411.bz,t411.cl,t411.la,t411.lc,t411.lt,t411.lv,t411.so,t411.tv##[href^="/signup/"]
+t411.am##[href^="/login/"]
+t411.am##[href^="/signup/"]
 booska-p.com##[href^="http://www.booska-p.com/re/"]
 onhax.me##[id*="-prom"]
 speedvid.net##[id][style*="z-index:"]
@@ -10630,7 +10631,7 @@ telechargement-film.org##a[href*="-film-"]
 planete-series.info##a[href*=".php"] > img
 leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
 meilleurs-hebergeurs.com##a[href*="/-"] > img
-t411.ai##a[href*="//app.t411.ai/"]
+t411.al##a[href*="//app.t411.al/"]
 presse-algerie.net##a[href*="/?ad="]
 artdeseduire.com##a[href*="/?part=ads"]
 webactus.net##a[href*="/?utm_source="]
@@ -10723,7 +10724,7 @@ immigrer.com##a[href^="/p/bannieres/"]
 telemagazine.fr##a[href^="/produits_contextuels/"]
 agevillage.com##a[href^="/pub-"]
 confidentielles.com##a[href^="/rc_787_"]
-t411.ai##a[href^="/redirect.php"]
+t411.al##a[href^="/redirect.php"]
 jeuxvideo.com##a[href^="/sponso/"] img
 beaute-test.com##a[href^="/stat/clic.php?"]
 emule-island.ru##a[href^="/tutoriaux/usenext-dl.php?"]
@@ -10813,7 +10814,7 @@ mega-p2p.net##a[href^="vpn"]
 extreme-down.cc,extreme-down.in,zetorrento.fr,zetorrents.com##a[id]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
-t411.ai##a[onclick*="base64"]
+t411.al##a[onclick*="base64"]
 lien-torrent.com##a[onclick*="directlinks"]
 free-telechargement.com,libertyland.co,speedvid.net,wawacity.ec##a[onclick]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
@@ -10831,7 +10832,7 @@ lefigaro.fr##a[target="_blank"] > img[style="width: 463px; height: 170px;"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="100"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
 streamin.to##a[target="_blank"][style]
-t411.ai##article > .align-center > a
+t411.al##article > .align-center > a
 gamekult.com##article[style="background-color: rgba(0, 0, 0, 0.06);padding: 30px;;margin-bottom:20px"]:first-child
 tchatche.com##banner
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
@@ -10841,7 +10842,7 @@ lokan.fr##body:last-child > div#message
 igen.fr##br + div + div + div
 extratorrent.cc##br + table[style="font-size:14px;width:901px;font-family:Verdana"]
 get-my.link##center > a[href$=".php"]
-t411.ai##div > a[href*=" "]
+t411.al##div > a[href*=" "]
 forumpiscine.com##div#\31
 forumconstruire.com##div#\32
 domimmo.com##div#an-fin
@@ -10921,7 +10922,7 @@ echoroukonline.com##div[style^="display:inline-block;width:300px;height:250px;"]
 embed.nowvideo.sx##div[style^="height: 350px; width: 600px; z-index:"]
 tooply.com##div[style^="position:fixed; bottom:0px; left:50%; margin-left:-379px; width:728px; height:90px;"]
 geny.com,voyageforum.com##div[style^="width: 300px; height: 250px;"]
-t411.ai##div[style^="width: 468px;"]
+t411.al##div[style^="width: 468px;"]
 free-reseau.fr,hdfever.fr##div[style^="width: 728px; height: 90px;"]
 forum-des-oranges.fr##div[style^="width: 728px;"]
 algerie360.com##div[style^="width:100%; height:100px"]
@@ -10963,8 +10964,8 @@ faireunlien.com##img[width^="728height=90"]
 ici.tou.tv##li.bigBox
 sinfest.net##noscript a
 bonjourmadame.fr##object[width="728"][height="90"]
-t411.ai##p > a > b
-t411.ai##p[style="width: 400px; margin: 0 auto; color: darkorange"]
+t411.al##p > a > b
+t411.al##p[style="width: 400px; margin: 0 auto; color: darkorange"]
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
 kbk-tv.com##section#ref
 idowatch.net##style + [onclick]
