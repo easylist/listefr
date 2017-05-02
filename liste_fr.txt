@@ -603,6 +603,7 @@
 /code-float-ad.
 /col_droite_googleads2
 /config_dfp.js
+/content?promo_id=
 /core/ad2/*
 /core/ad3/*
 /cpv.php?$subdocument
@@ -1122,6 +1123,7 @@
 =/ligatus/
 =250x250&bn=
 =adunit/
+=ajaxGetAds&
 =banner_*goclick&
 =banniere&*=leaderboard&
 =dynamic_banner&
@@ -11478,6 +11480,7 @@ trackmusik.fr#@#.afs_ads
 @@||comptoir.co^$generichide
 @@||conserves.blogspot.ca^$generichide
 @@||coolgames.com^$generichide
+@@||dpfilms.net^$generichide
 @@||dpseries.net^$generichide
 @@||e-sushi.fr^$generichide
 @@||ebookdz.com^$generichide
