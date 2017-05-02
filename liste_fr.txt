@@ -3034,6 +3034,7 @@ debugger:$popup
 /:\/\/[a-z]+\.info\/.{400,460}/$subdocument,third-party
 ||charmstroy.info^$third-party
 ||paradition.com^$third-party
+||roughted.com^$third-party
 ||triction.info^$third-party
 ! admeasures.com
 ||04v70ab.com^$third-party
@@ -3250,6 +3251,7 @@ debugger:$popup
 ||pweaatek.com^$third-party
 ||pwzn9ze.com^$third-party
 ||px1alsry.com^$third-party
+||pyq6n.com^$third-party
 ||quee4wa.top^$third-party
 ||quei1ai.top^$third-party
 ||quoo4ae.top^$third-party
@@ -5621,7 +5623,7 @@ $popup,domain=adf.ly|allvid.ch|auroravid.to|ay.gy|cloudtime.to|daclips.in|dailyu
 !
 !----------------------- Sites spécifiques -----------------------!
 !
-/nexp/dok3v=*/cloudflare/rocket.js$script,domain=onhax.me
+/nexp/dok3v=*/cloudflare/rocket.js$script,domain=onhax.me|serie-vostfr.com
 !
 egora.fr/sites/all/themes/*/pub.png
 toutcash.com/images/bandeau-
@@ -7432,6 +7434,7 @@ toutcash.com/images/bandeau-
 ||d2nje72ms8ylvb.cloudfront.net^
 ||d2nn3xyicdpsrf.cloudfront.net^
 ||d2nrdy2pg3k168.cloudfront.net^
+||d2nz8k4xyoudsx.cloudfront.net^
 ||d2ov8u95yeeh5v.cloudfront.net^
 ||d2pppxxtaciku9.cloudfront.net^
 ||d2psf55e0gm6yv.cloudfront.net^
