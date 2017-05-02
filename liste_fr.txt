@@ -5545,6 +5545,7 @@ $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvid
 ||ally.sh^$script,third-party
 ||binbox.io^$script,third-party
 ||bit.gy^$script,third-party
+||bitly.com^$script,third-party
 ||croco.me^$script,third-party
 ||cut-urls.com^$script,third-party
 ||faltuwap.com^$script,third-party
@@ -10121,8 +10122,11 @@ dpstream.net##.itemNum_1
 dpstream.net##.itemNum_10
 dpstream.net##.itemNum_11
 dpstream.net##.itemNum_15
+dpstream.net##.itemNum_16
 dpstream.net##.itemNum_20
+dpstream.net##.itemNum_21
 dpstream.net##.itemNum_5
+dpstream.net##.itemNum_6
 viamichelin.be,viamichelin.ch,viamichelin.com,viamichelin.fr##.itinerary-index-advertising
 journaldesfemmes.com##.jLinkSponsored
 idf1.fr##.jcarousel
