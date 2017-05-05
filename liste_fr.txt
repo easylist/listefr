@@ -969,6 +969,7 @@
 /rekban.php
 /rekladv/*
 /reklamm.js
+/reklamy/*
 /rel/index.cfm?*&TAD=
 /renklam/*
 /request_ad.
@@ -5655,6 +5656,8 @@ toutcash.com/images/bandeau-
 ||1maxdegay.com^$subdocument,~third-party
 ||1parrainage.com/logos/habillage
 ||1solution1.com/wp-content/uploads/*/bann
+||3dnatives.com/wp-content/uploads/banniere_
+||3dnatives.com/wp-content/uploads/offre_
 ||7sur7.be/references/
 ||a.f1g.fr/iframes/
 ||a40ans.com/data/$image
@@ -8526,6 +8529,8 @@ toutcash.com/images/bandeau-
 ##.div_ads
 ##.div_pub_728_90
 ##.dossier-pub
+##.e3lan-post
+##.e3lan-top
 ##.encart-pub
 ##.encart_pub
 ##.entete-pub
@@ -8648,6 +8653,7 @@ toutcash.com/images/bandeau-
 ##.p-floating-ad-wrapper
 ##.p-with-floating-ad
 ##.padscreen
+##.pageLoadAdBox
 ##.panel-ads
 ##.panet-mars-adv-panel
 ##.partner-pub
@@ -10650,7 +10656,7 @@ opensubtitles.org##a[href$="=="][rel="nofollow"]
 torrent9.biz,torrent9.info,torrents9.org,torrents9.tv##a[href*=" "]
 sante-nutrition.org##a[href*="&pos="]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
-lesimprimantes3d.fr##a[href*="&utm_"]
+3dnatives.com,lesimprimantes3d.fr##a[href*="&utm_"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
 go4up.com,torrent9.biz,torrent9.info,torrents9.org,torrents9.tv##a[href*="+"]
 telechargement-film.org##a[href*="-film-"]
