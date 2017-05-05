@@ -805,6 +805,7 @@
 /partenaire_pub/*
 /partners-ad/*
 /partners-ads/*
+/partners-banners/*
 /partners.js?location=
 /partners.php?id=
 /partners/ads-
@@ -6523,6 +6524,7 @@ toutcash.com/images/bandeau-
 ||lesbienne.cc^$script
 ||lesechos.fr/pratique/
 ||lesechos.fr/promo-solutions/
+||lesimprimantes3d.fr/partenaires/
 ||lesmobiles.com/habillage/
 ||lesnumeriques.com/habillages/
 ||lesoirdalgerie.com/articles/*/dzauto.swf
@@ -8389,6 +8391,7 @@ toutcash.com/images/bandeau-
 ##.adunitfirst
 ##.adunitrd
 ##.aduns
+##.aduns2
 ##.adv--float
 ##.adv-header
 ##.adv300-topnews
@@ -9020,6 +9023,7 @@ toutcash.com/images/bandeau-
 ##[id^="ligatus_"]
 ##[id^="pub_dart_"]
 ##[onclick*="http://www.affbuzzads.com/affiliate/"]
+##[slot-id^="div-gpt-ad-"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
 ##a[href*=".ourtoolbar.com"]
 ##a[href*=".php?sp_promote="]
@@ -10646,6 +10650,7 @@ opensubtitles.org##a[href$="=="][rel="nofollow"]
 torrent9.biz,torrent9.info,torrents9.org,torrents9.tv##a[href*=" "]
 sante-nutrition.org##a[href*="&pos="]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
+lesimprimantes3d.fr##a[href*="&utm_"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
 go4up.com,torrent9.biz,torrent9.info,torrents9.org,torrents9.tv##a[href*="+"]
 telechargement-film.org##a[href*="-film-"]
