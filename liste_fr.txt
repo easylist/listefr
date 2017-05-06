@@ -3004,7 +3004,8 @@ debugger:$popup
 ||viperishly.com^$third-party
 ||zert.ovh^$third-party
 ! popads.net
-||exioptyxiyoo.com^$third-party
+||kvrozyibdkkt.com^$third-party
+||tcdikyjqdmsb.com^$third-party
 !
 ||004b17a0c349157de.com^
 ||00e20f955428d.com^
@@ -3013,10 +3014,14 @@ debugger:$popup
 ||0c47f8422d3f.com^
 ||166cd0ac1454aef5c0.com^
 ||2962f0b09b862.com^
+||2aa06b8b0760e0f85.com^
+||3381e74f70adfb59.com^
 ||37c934e71083e0c031.com^
 ||48d68bec12064b0012e.com^
 ||4ec397b849223140d.com^
 ||4f941a91590f2c1f0.com^
+||4fb0a3bf4a3d38.com^
+||5cf3af8aba4293a8.com^
 ||760d4b269ea7.com^
 ||7636ca6cb9fc.com^
 ||88157e3ba3f.com^
@@ -5495,6 +5500,9 @@ filmstreamingvf.ws
 @@||zerocdn.to^$xmlhttprequest,domain=auroravid.to|wholecloud.net
 |http://$script,third-party,domain=wholecloud.net
 |https://$script,third-party,domain=wholecloud.net
+! youtube-mp3.org
+|http://$script,third-party,xmlhttprequest,domain=youtube-mp3.org
+|https://$script,third-party,xmlhttprequest,domain=youtube-mp3.org
 ! youpak.com
 |http://$third-party,xmlhttprequest,domain=youpak.com
 |https://$third-party,xmlhttprequest,domain=youpak.com
