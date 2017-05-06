@@ -5569,6 +5569,11 @@ filmstreamingvf.ws
 @@||www.google.com/recaptcha/$subdocument,third-party,domain=al.ly|ally.sh
 |http://$script,subdocument,third-party,domain=al.ly|ally.sh
 |https://$script,subdocument,third-party,domain=al.ly|ally.sh
+! cpmlink.net
+@@||cpmlink.net^$generichide
+@@||google.com/recaptcha/$subdocument,domain=cpmlink.net
+|http://$subdocument,third-party,domain=cpmlink.net
+|https://$subdocument,third-party,domain=cpmlink.net
 ! shorte.st
 |http://$subdocument,domain=clkme.me|cllkme.com|jigbig.tk|newsfortrump.ga|skiip.me|skipp.io|wiid.me
 |https://$subdocument,domain=clkme.me|cllkme.com|jigbig.tk|newsfortrump.ga|skiip.me|skipp.io|wiid.me
@@ -5579,6 +5584,7 @@ filmstreamingvf.ws
 ||binbox.io^$script,third-party
 ||bit.gy^$script,third-party
 ||bitly.com^$script,third-party
+||cpmlink.net^$script,third-party
 ||croco.me^$script,third-party
 ||cut-urls.com^$script,third-party
 ||faltuwap.com^$script,third-party
@@ -9054,6 +9060,7 @@ toutcash.com/images/bandeau-
 ##a[href*="/clickhabillage/"][target="_blank"]
 ##a[href*="/goto.php?ads_id="]
 ##a[href*="/install-app?affid="]
+##a[href*="/p_tools/promo.php?"]
 ##a[href*="/redirect.php?title="]
 ##a[href*="/redirect?partenaire="]
 ##a[href*="/redirect?tid="]
