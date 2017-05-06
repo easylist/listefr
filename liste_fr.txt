@@ -5167,9 +5167,12 @@ $webrtc,domain=ddl-island.su|destructoid.com|emule-island.ru|extra.to|extratorre
 @@||c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=$xmlhttprequest,domain=femmeactuelle.fr
 @@||c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=$xmlhttprequest,domain=femmeactuelle.fr
 @@||creas.prismamediadigital.com/feminin/2014/carousel_application/femme_actuelle_$image,domain=femmeactuelle.fr
+@@||edge.api.brightcove.com/playback/v1/accounts/*/videos/$xmlhttprequest,domain=femmeactuelle.fr
 @@||players.brightcove.net^*_default/index.min.js$script,domain=femmeactuelle.fr
-|http://$media,third-party,domain=femmeactuelle.fr
-|https://$media,third-party,domain=femmeactuelle.fr
+@@||videos.prismamediadigital.com^*?videoId=$xmlhttprequest,domain=femmeactuelle.fr
+@@||vjs.zencdn.net/vttjs/0.12.3/vtt.min.js$script,domain=femmeactuelle.fr
+|http://$media,object,script,third-party,xmlhttprequest,domain=femmeactuelle.fr
+|https://$media,object,script,third-party,xmlhttprequest,domain=femmeactuelle.fr
 ! wat.tv
 @@||api.mytf1.tf1.fr^$object-subrequest,domain=wat.tv
 @@||hd1livhdsweblive-lh.akamaihd.net^$object-subrequest,domain=wat.tv
