@@ -5362,9 +5362,9 @@ filmstreamingvf.ws
 |http://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|official-film-illimite.net
 |https://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|official-film-illimite.net
 ! 2ddl
-@@||ajax.googleapis.com/ajax/libs/$script,domain=2ddl.la|2ddl.org|iiddl.com
-|http://$script,third-party,domain=2ddl.la|2ddl.org|iiddl.com|twoddl.tv
-|https://$script,third-party,domain=2ddl.la|2ddl.org|iiddl.com|twoddl.tv
+@@||ajax.googleapis.com/ajax/libs/$script,domain=best2ddl.net
+|http://$script,third-party,domain=2ddl.la|2ddl.org|best2ddl.net|iiddl.com|twoddl.tv
+|https://$script,third-party,domain=2ddl.la|2ddl.org|best2ddl.net|iiddl.com|twoddl.tv
 ! gamestorrents.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=gamestorrents.com
 |http://$script,third-party,xmlhttprequest,domain=gamestorrents.com
