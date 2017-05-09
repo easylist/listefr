@@ -379,6 +379,7 @@
 /ads?sz=
 /ads?type=
 /ads_250_
+/ads_60_
 /ads_90_728.
 /ads_block
 /ads_hao123.
@@ -1654,6 +1655,7 @@ debugger:$popup
 ||1stads.net^$third-party
 ||1x12.net^$third-party
 ||1yqbp.com^$third-party
+||213.206.98.70^$third-party
 ||221dst.com^$third-party
 ||2mdn.net^$object-subrequest,domain=dhnet.be|lalibre.be
 ||2town.net^$third-party
@@ -8526,6 +8528,7 @@ toutcash.com/images/bandeau-
 ##.card--row-ads
 ##.carre_pub
 ##.carrepub
+##.catAds
 ##.cazAd
 ##.co-ads
 ##.codeneric_ultimate_ads_manager_ad_wrapper
@@ -11276,9 +11279,7 @@ femmesplus.fr##section[id] > img
 @@||gareautheatre.com^*/image_resize.php?img=*/$image
 @@||gironde.fr/css/csspacker.jsp?css=$stylesheet
 @@||good-deals.lu/Content/Styles/AdFrame.css
-@@||google.com/ads/search/module/ads/*/search.js$domain=zoover.fr
 @@||google.com/adsense/$subdocument,domain=sedo.fr
-@@||google.com/adsense/search/ads.js$domain=zoover.fr
 @@||google.com/uds/$script,domain=rfm.fr|virginradio.fr
 @@||host3.adhese.be/tag/tagv1.js$script,domain=lavenir.net
 @@||hostinger.fr/banners/*/hostinger-$image,~third-party
