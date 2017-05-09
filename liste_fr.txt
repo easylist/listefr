@@ -378,6 +378,7 @@
 /ads?spot_id=
 /ads?sz=
 /ads?type=
+/ads_120_
 /ads_250_
 /ads_60_
 /ads_90_728.
@@ -7719,7 +7720,9 @@ toutcash.com/images/bandeau-
 ###adsHaut
 ###ads_1
 ###ads_2
+###ads_ban
 ###ads_block_vertical
+###ads_gigaban
 ###adsense-droite-001
 ###adsense-droite-002
 ###adsense-liste1
@@ -8370,10 +8373,13 @@ toutcash.com/images/bandeau-
 ##.adsPost
 ##.adsTitle
 ##.ads_actuly
+##.ads_ban
+##.ads_ban_top
 ##.ads_box_home_box
 ##.ads_buzz
 ##.ads_buzz_title
 ##.ads_frame
+##.ads_gigaban
 ##.ads_label
 ##.ads_listvideos
 ##.ads_partners
