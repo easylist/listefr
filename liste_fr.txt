@@ -361,6 +361,7 @@
 /ads/left/*
 /ads/mgid_
 /ads/pops/*
+/ads/top_
 /ads13.
 /ads14.
 /ads15.
@@ -11273,7 +11274,6 @@ femmesplus.fr##section[id] > img
 @@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||gameart.eu/medias/files/ad-top.$stylesheet
 @@||gareautheatre.com^*/image_resize.php?img=*/$image
-@@||geekdefrance.fr/wp-content/themes/interiorzine/ads/top_
 @@||gironde.fr/css/csspacker.jsp?css=$stylesheet
 @@||good-deals.lu/Content/Styles/AdFrame.css
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.fr
@@ -11410,7 +11410,6 @@ lechainonmanquant.com,love-hinax.com#@#.publicite
 maghrebspace.net#@#.publicite_gauche
 imdb.com#@#.publicity
 maghrebspace.net#@#.top-publicite
-geekdefrance.fr#@#.topads
 ta-meteo.fr#@#.topbanneradvertise
 compte.nextinpact.com#@#[-abp-properties='height: 250px;']
 wanimo.com#@#div[id^="div-gpt-ad-"]
