@@ -983,6 +983,7 @@
 /right_advertissment.
 /right_down_ads|
 /right_up_ads|
+/root/ads/*
 /rot46860.
 /rotaban/*$subdocument
 /rotation.*?idaff=
@@ -1802,6 +1803,7 @@ debugger:$popup
 ||ads1-adnow.com^$third-party
 ||ads2rtb.com^$third-party
 ||ads4stream.com^$third-party
+||adsache.com^$third-party
 ||adsb4track.com^$third-party
 ||adsb4trk.com^$third-party
 ||adsbtrack.com^$third-party
@@ -2164,6 +2166,7 @@ debugger:$popup
 ||edi7.lu^$third-party
 ||edintorni.net^$third-party
 ||edomz.com^$third-party
+||effective-ads.com^$third-party
 ||egogame.biz^$third-party
 ||egrana.com.br^$third-party
 ||elasticad.com^$third-party
@@ -5605,6 +5608,9 @@ filmstreamingvf.ws
 @@||google.com/recaptcha/$subdocument,domain=cpmlink.net
 |http://$subdocument,third-party,domain=cpmlink.net
 |https://$subdocument,third-party,domain=cpmlink.net
+! dz4link.com
+|http://$script,third-party,xmlhttprequest,domain=dz4link.com
+|https://$script,third-party,xmlhttprequest,domain=dz4link.com
 ! shorte.st
 |http://$subdocument,domain=clkme.me|cllkme.com|jigbig.tk|newsfortrump.ga|skiip.me|skipp.io|wiid.me
 |https://$subdocument,domain=clkme.me|cllkme.com|jigbig.tk|newsfortrump.ga|skiip.me|skipp.io|wiid.me
@@ -7494,6 +7500,7 @@ toutcash.com/images/bandeau-
 ||d2nn3xyicdpsrf.cloudfront.net^
 ||d2nrdy2pg3k168.cloudfront.net^
 ||d2nz8k4xyoudsx.cloudfront.net^
+||d2od2b2huvmzuj.cloudfront.net^
 ||d2ov8u95yeeh5v.cloudfront.net^
 ||d2pppxxtaciku9.cloudfront.net^
 ||d2psf55e0gm6yv.cloudfront.net^
