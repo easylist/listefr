@@ -5255,6 +5255,10 @@ $webrtc,domain=ddl-island.su|destructoid.com|emule-island.ru|extra.to|extratorre
 @@||vjs.zencdn.net/vttjs/0.12.3/vtt.min.js$script,domain=femmeactuelle.fr
 |http://$media,object,script,third-party,xmlhttprequest,domain=femmeactuelle.fr
 |https://$media,object,script,third-party,xmlhttprequest,domain=femmeactuelle.fr
+! tf1.fr
+/\/[a-z0-9]+\.[a-z0-9-]+\.[a-z]{2,}\/.{500,}/$object,third-party,xmlhttprequest,domain=tf1.fr
+|http://$media,third-party,domain=tf1.fr
+|https://$media,third-party,domain=tf1.fr
 ! wat.tv
 @@||api.mytf1.tf1.fr^$object-subrequest,domain=wat.tv
 @@||hd1livhdsweblive-lh.akamaihd.net^$object-subrequest,domain=wat.tv
@@ -12190,6 +12194,7 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 ||orangeblossomorchidfreethought.com^$third-party
 ||orderequisetalesendeshabille.info^$third-party
 ||ordersphenisciformesatmospherical.com^$third-party
+||orientlouis.com^$third-party
 ||originationrhonchus.me^$third-party
 ||outofhandscentedwattle.net^$third-party
 ||ouyaproxy.com^$third-party
