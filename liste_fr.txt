@@ -5357,7 +5357,10 @@ $webrtc,domain=ddl-island.su|destructoid.com|emule-island.ru|extra.to|extratorre
 |http://$script,third-party,xmlhttprequest,domain=streaming-kids.com
 |https://$script,third-party,xmlhttprequest,domain=streaming-kids.com
 ! protect-stream.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=protect-stream.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=protect-stream.com
+@@||content.jwplatform.com/libraries/$script,domain=protect-stream.com
+@@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=protect-stream.com
 |http://$script,third-party,xmlhttprequest,domain=protect-stream.com
 |https://$script,third-party,xmlhttprequest,domain=protect-stream.com
 ! telecharger-jeuxpc.com
