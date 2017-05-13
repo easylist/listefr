@@ -3114,6 +3114,7 @@ debugger:$popup
 ||f26f3cbe225289a0947.com^$third-party
 ||f5b44da3a1ab55.com^$third-party
 ||fb0c32d2f28c.com^$third-party
+||fbfd396918c60838.com^$third-party
 ||fdf96bba78a9249ca4e.com^$third-party
 ! iframe
 /:\/\/[a-z]+\.info\/.{400,460}/$subdocument,third-party
@@ -5596,8 +5597,8 @@ filmstreamingvf.ws
 |http://$third-party,xmlhttprequest,domain=jheberg.net
 |https://$third-party,xmlhttprequest,domain=jheberg.net
 ! gorillavid.in
-|http://$subdocument,third-party,domain=daclips.in|gorillavid.in|movpod.in
-|https://$subdocument,third-party,domain=daclips.in|gorillavid.in|movpod.in
+|http://$stylesheet,subdocument,third-party,domain=daclips.in|gorillavid.in|movpod.in
+|https://$stylesheet,subdocument,third-party,domain=daclips.in|gorillavid.in|movpod.in
 ! nowvideo
 @@||ajax.googleapis.com/ajax/libs/$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|divxstage.to|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.com|videoweed.es
 @@||zerocdn.to/dash/$third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|divxstage.to|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.com|videoweed.es
