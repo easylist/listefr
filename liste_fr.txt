@@ -3524,6 +3524,7 @@ debugger:$popup
 ||admetix.com^$popup,third-party
 ||adminlady.info^$popup,third-party
 ||admobitrack.com^$popup,third-party
+||adnetpro.com^$popup,third-party
 ||adnetw0rk.net^$popup,third-party
 ||adometric.com^$popup,third-party
 ||adorika.com^$popup,third-party
@@ -3762,6 +3763,7 @@ debugger:$popup
 ||humourgratuit.me^$popup,third-party
 ||hyperline88.com^$popup,third-party
 ||hyperpromote.com^$popup,third-party
+||hypertrackeraff.com^$popup,third-party
 ||i4track.net^$popup,third-party
 ||idhad.com^$popup,third-party
 ||illyx.com^$popup,third-party
@@ -4118,11 +4120,11 @@ debugger:$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
-$websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|auroravid.to|bitvid.sx|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|istreamin.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|primewire.ag|streamgaroo.com|t411.al|thecountrycaller.com|videoweed.com|videoweed.es|videowood.tv|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net
+$websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|auroravid.to|bitvid.sx|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dpstream.net|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|istreamin.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|primewire.ag|streamgaroo.com|t411.al|thecountrycaller.com|videoweed.com|videoweed.es|videowood.tv|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net
 !
-$webrtc,domain=ddl-island.su|destructoid.com|emule-island.ru|extra.to|extratorrentlive.com|extratorrentonline.com|eztv.tf|eztv.wf|eztv.yt|filmcomplet.tv|filmsvostfr.cc|full-film.me|full-serie.co|full-stream.biz|full-stream.nu|full-stream.su|greys-anatomy-streaming.eu|greys-anatomy-streaming.org|k-streaming.com|lucariostream.co|papy-streaming.org|papystreaming.org|planet-streaming.com|playerhd1.pw|playerhd2.pw|seriestreaming.net|stream-island.ru|stream-island.su|stream-watch.co|streamay.ws|streamdown.tv|streamfilmzzz.com|streaming-serie.me|streamingseries.info|streamzzz.online|t411.al|t411.am|telecharger-film-gratuit.fr|thevideobee.to|torrentz2.eu|uploadocean.com|uptostream.com|watchtvserieslive.org|zone-telechargement.tv
+$webrtc,domain=ddl-island.su|destructoid.com|dpstream.net|emule-island.ru|extra.to|extratorrentlive.com|extratorrentonline.com|eztv.tf|eztv.wf|eztv.yt|filmcomplet.tv|filmsvostfr.cc|full-film.me|full-serie.co|full-stream.biz|full-stream.nu|full-stream.su|greys-anatomy-streaming.eu|greys-anatomy-streaming.org|k-streaming.com|lucariostream.co|papy-streaming.org|papystreaming.org|planet-streaming.com|playerhd1.pw|playerhd2.pw|seriestreaming.net|stream-island.ru|stream-island.su|stream-watch.co|streamay.ws|streamdown.tv|streamfilmzzz.com|streaming-serie.me|streamingseries.info|streamzzz.online|t411.al|t411.am|telecharger-film-gratuit.fr|thevideobee.to|torrentz2.eu|uploadocean.com|uptostream.com|watchtvserieslive.org|zone-telechargement.tv
 !
-|blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|auroravid.to|bitvid.sx|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|istreamin.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|primewire.ag|streamdown.tv|streamgaroo.com|t411.al|thecountrycaller.com|videoweed.com|videoweed.es|videowood.tv|vidlox.me|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net
+|blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|auroravid.to|bitvid.sx|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dpstream.net|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|istreamin.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|primewire.ag|streamdown.tv|streamgaroo.com|t411.al|thecountrycaller.com|videoweed.com|videoweed.es|videowood.tv|vidlox.me|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net
 !
 |http://$subdocument,domain=a2r-media.com
 |http://$subdocument,third-party,domain=e-wok.tv|flashx.tv|letwatch.to|letwatch.us|mystream.la|vidgg.to|vidshare.me|vidshare.us
@@ -4563,6 +4565,7 @@ $webrtc,domain=ddl-island.su|destructoid.com|emule-island.ru|extra.to|extratorre
 ||inoutscripts.com/affiliate/
 ||inskin.hs.llnwd.net^
 ||instant-gaming.com/affgames/
+||iosfull.com/anizan/$popup
 ||iptv-eu.com/banner/
 ||iris.ma/themes/maroc/img/pub/
 ||ithreeweb.com/creationsiteweb.jpg
@@ -9312,6 +9315,7 @@ toutcash.com/images/bandeau-
 ##a[href^="https://admin.thrixxx.com/affiliates/"]
 ##a[href^="https://blockadz.com/?"]
 ##a[href^="https://chaturbate.com/affiliates/"]
+##a[href^="https://oxhax.com/"]
 ##a[href^="https://secure.securitetotale.com/"]
 ##a[href^="https://store.mspy.com/affiliate.php"] > img
 ##a[href^="https://www.g2a.com/r/"] > img
