@@ -100,6 +100,7 @@
 -ad728x90-
 -ads-300x250.
 -ads/ads.
+-ads/get?type=
 -adsmanager/
 -adv-2.
 -animated-ad.
@@ -345,6 +346,7 @@
 /ads/4.0/*
 /ads/468/60/*
 /ads/728/90/*
+/ads/?page=
 /ads/ad1.
 /ads/ad2.
 /Ads/ad_
@@ -4139,6 +4141,7 @@ $webrtc,domain=ddl-island.su|destructoid.com|dpstream.net|emule-island.ru|extra.
 ||11footballclub.com/equipe/
 ||11footballclub.com^*/indexcolonne.php?
 ||11footballclub.com^*/indexhomepage2.php*&domain=
+||123rfapis.com/crossdomain.xml
 ||1et2.org/sora/$image
 ||3.bp.blogspot.com/*/s1600/eL97xwC.gif
 ||380.bu2z.com^
@@ -7820,6 +7823,7 @@ toutcash.com/images/bandeau-
 ###adsense_haut
 ###adsense_pagination
 ###adsground
+###adsleft
 ###adspave
 ###adswap
 ###adtech-banner
