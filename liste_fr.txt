@@ -5590,9 +5590,6 @@ filmstreamingvf.ws
 @@||zerocdn.to^$xmlhttprequest,domain=auroravid.to|wholecloud.net
 |http://$script,third-party,domain=wholecloud.net
 |https://$script,third-party,domain=wholecloud.net
-! youtube-mp3.org
-|http://$script,third-party,xmlhttprequest,domain=youtube-mp3.org
-|https://$script,third-party,xmlhttprequest,domain=youtube-mp3.org
 ! youpak.com
 |http://$third-party,xmlhttprequest,domain=youpak.com
 |https://$third-party,xmlhttprequest,domain=youpak.com
