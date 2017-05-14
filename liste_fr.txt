@@ -5522,10 +5522,6 @@ filmstreamingvf.ws
 @@||escdn.co^$script,third-party,xmlhttprequest,domain=estream.to
 |http://$script,third-party,xmlhttprequest,domain=estream.to
 |https://$script,third-party,xmlhttprequest,domain=estream.to
-! vidto.me
-@@||ajax.googleapis.com/ajax/libs/$script,domain=vidto.me
-|http://$script,third-party,domain=vidto.me
-|https://$script,third-party,domain=vidto.me
 ! vidzcode.com
 |http://$script,third-party,domain=vidzcode.com
 |https://$script,third-party,domain=vidzcode.com
