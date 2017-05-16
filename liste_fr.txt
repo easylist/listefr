@@ -61,6 +61,7 @@
 &zoneid=*&direct=
 ,728x90&promo_
 ,popjs|
+-1000x150.$subdocument
 -120-600-
 -120-x-600-
 -120v600.
@@ -90,6 +91,7 @@
 -728-x-90-
 -728_90.
 -728v90.
+-728x150-$subdocument
 -730x90.
 -90x600-
 -90x728_
@@ -133,6 +135,8 @@
 .adserverpub.$domain=~adserverpub.com
 .AdTech&
 .adtech.
+.adv?*_id=
+.adv?id=
 .adxcore.
 .AmazonProducts.js
 .asp?adv=
@@ -1137,6 +1141,7 @@
 =/ads.js|
 =/ligatus/
 =250x250&bn=
+=600x100&
 =adunit/
 =ajaxGetAds&
 =banner_*goclick&
@@ -6814,7 +6819,10 @@ toutcash.com/images/bandeau-
 ||mitula.*/destacadosPisosSEM.
 ||mmzstatic.com/wp-content/uploads/*940$image
 ||mobile.matchendirect.fr/html_template/mobile/header_info.html
+||mobilealgerie.com/600_600.php
+||mobilealgerie.com/banniere_
 ||mobilealgerie.com/files/banners/
+||mobilealgerie.com/js/defilbanner_interieur.js
 ||mobiles-actus.com/img/integrations/$image
 ||modding.fr/images/ldlc.jpg
 ||modding.fr/images/matnet_f.jpg
@@ -8383,6 +8391,7 @@ toutcash.com/images/bandeau-
 ##.adDisplay
 ##.adFootBox
 ##.adFrameMobile
+##.adSide1
 ##.adSpace1
 ##.adSpace2
 ##.ad_970x90
