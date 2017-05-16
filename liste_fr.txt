@@ -5620,7 +5620,7 @@ filmstreamingvf.ws
 |http://$subdocument,third-party,domain=viid.me
 |https://$subdocument,third-party,domain=viid.me
 ! thevideo.me / vidup.me
-@@||cloudfront.net/popunder.gif|$xmlhttprequest,domain=thevideo.me
+@@||thevideo.me/js/jspc.js?ab$script,domain=thevideo.me
 @@||thevideo.me/js/jspc.js?ab|$script,domain=thevideo.me|vidup.me
 @@||vidup.me/adsense.js?$script,domain=vidup.me
 ||thevideo.me^$subdocument,~third-party
