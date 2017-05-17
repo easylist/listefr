@@ -270,6 +270,7 @@
 /ad-related.
 /ad-rotator.
 /ad-script.
+/ad-scroll.js
 /ad.ashx/*
 /ad.bon-plan-
 /ad.js?_=
@@ -708,6 +709,7 @@
 /get.cgi?*=banner
 /get_banniere.php?$subdocument
 /getadsor.
+/getDlAd?
 /getPromotedClassifiedAd.
 /getPub.php
 /gfx/bannieres/*
@@ -2160,6 +2162,7 @@ debugger:$popup
 ||download-pic.com^$third-party
 ||dreamstore.ch^$third-party
 ||ds1.nl^$third-party
+||duapps.com^$third-party
 ||duporno.biz^$third-party
 ||dustin5043.fr^$third-party
 ||dvd-explorer.com^$third-party
@@ -8527,6 +8530,7 @@ toutcash.com/images/bandeau-
 ##.adunitfirst
 ##.adunitrd
 ##.aduns
+##.aduns1
 ##.aduns2
 ##.adv--float
 ##.adv-header
