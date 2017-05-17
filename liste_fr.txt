@@ -1246,6 +1246,7 @@ _bannerad2-
 _bannerad2_
 _barre_pub/
 _bnrrotator_
+_board_ad.
 _code/*/goclick|
 _domain=ads.
 _emplacements.*=300x125
@@ -9168,6 +9169,7 @@ toutcash.com/images/bandeau-
 ##[id^="block-xiti_oas-"]
 ##[id^="codeneric_ad_widget-"]
 ##[id^="criteoDivPave"]
+##[id^="div-gpt-"] + [id^="ctr-"]
 ##[id^="ligatus-"]
 ##[id^="ligatus_"]
 ##[id^="pub_dart_"]
@@ -9243,6 +9245,7 @@ toutcash.com/images/bandeau-
 ##a[href^=".php/annonce/ads/"]
 ##a[href^="/rdh?"]
 ##a[href^="ads.php?id="]
+##a[href^="annonceur.php?id_banniere="]
 ##a[href^="http://3dxchat.com/?"]
 ##a[href^="http://aclick.adhoc1.net/"]
 ##a[href^="http://aclick.adhoc2.com/"]
@@ -10058,6 +10061,8 @@ madmoizelle.com##.article_banner
 madmoizelle.com##.article_pub
 buzzly.fr##.article_pubtop
 msn.com##.aside-ad
+paruvendu.fr##.auto2010_inter_CONT
+paruvendu.fr##.auto2010_noprint
 lindependant.fr##.auto300X250
 totonova.com##.avi
 buzzly.fr##.ayl-ad-article
