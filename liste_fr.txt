@@ -5691,6 +5691,10 @@ filmstreamingvf.ws
 ! shorte.st
 |http://$subdocument,domain=clkme.me|cllkme.com|jigbig.tk|newsfortrump.ga|skiip.me|skipp.io|wiid.me
 |https://$subdocument,domain=clkme.me|cllkme.com|jigbig.tk|newsfortrump.ga|skiip.me|skipp.io|wiid.me
+! coshurl.co
+@@||ads.hyperdebrid.net^$image,script,stylesheet,xmlhttprequest,domain=ads.hyperdebrid.net
+|http://$popup,script,third-party,xmlhttprequest,domain=ads.hyperdebrid.net|coshurl.co
+|https://$popup,script,third-party,xmlhttprequest,domain=ads.hyperdebrid.net|coshurl.co
 ! Auto short link scripts
 ||adhit.me^$script,third-party
 ||al.ly^$script,third-party
@@ -11640,6 +11644,7 @@ trackmusik.fr#@#.afs_ads
 @@|http://bc.vc^$generichide
 @@||4downfiles.org^$generichide
 @@||actu-zap.com^$generichide
+@@||ads.hyperdebrid.net^$generichide
 @@||al.ly^$generichide
 @@||alligatographe.blogspot.fr^$generichide
 @@||ally.sh^$generichide
@@ -11654,6 +11659,7 @@ trackmusik.fr#@#.afs_ads
 @@||comptoir.co^$generichide
 @@||conserves.blogspot.ca^$generichide
 @@||coolgames.com^$generichide
+@@||coshurl.co^$generichide
 @@||dpfilms.net^$generichide
 @@||dpseries.net^$generichide
 @@||e-sushi.fr^$generichide
