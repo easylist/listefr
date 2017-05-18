@@ -320,6 +320,7 @@
 /AdPortalWebService/*
 /adprof/*
 /adr.php
+/adRender.
 /adrequest/*
 /Ads*/banner_
 /ads-1-
@@ -2503,6 +2504,7 @@ debugger:$popup
 ||n1*adserv.com^$third-party
 ||n1.webedia.fr^$third-party
 ||n2*adserv.com^$third-party
+||n339adserv.com^$third-party
 ||naruto-gaiden.com^$third-party
 ||natchit.com^$third-party
 ||natcho2016.website^$third-party
@@ -3918,6 +3920,7 @@ debugger:$popup
 ||othip.info^$popup,third-party
 ||ouaitupeuxregarderenillimite.com^$popup,third-party
 ||ourinstance.info^$popup,third-party
+||oxhax.com^$popup,third-party
 ||papcontent.info^$popup,third-party
 ||paradition.com^$popup,third-party
 ||parserord.info^$popup,third-party
@@ -5457,8 +5460,8 @@ $webrtc,domain=ddl-island.su|destructoid.com|dpstream.net|emule-island.ru|extra.
 filmstreamingvf.ws
 |http://$script,third-party,xmlhttprequest,domain=film-streaming-vf.org|filmstreamingvf.ws
 ! filmstreamvk.net
-|http://$script,third-party,xmlhttprequest,domain=filmstreamvk.net
-|https://$script,third-party,xmlhttprequest,domain=filmstreamvk.net
+|http://$script,third-party,xmlhttprequest,domain=filmstreamvk.com|filmstreamvk.net|filmstreamvk.ws
+|https://$script,third-party,xmlhttprequest,domain=filmstreamvk.com|filmstreamvk.net|filmstreamvk.ws
 ! lucariostream.co
 |http://$script,xmlhttprequest,domain=lucariostream.co
 |https://$script,xmlhttprequest,domain=lucariostream.co
