@@ -433,6 +433,7 @@
 /adv/pads.
 /adv/partners/*
 /adv/show_
+/adv/z/?
 /Adv728.
 /adv_banner.
 /adv_forum-
@@ -1417,6 +1418,7 @@ _werbebanner_
 -banner.cib?$popup
 -panther&*&pubid=$popup
 -popunder.php?$popup
+./*&cid=*&pubid=$popup
 ./?&subid=$popup
 .adhoc1.$popup,third-party
 .adhoc2.$popup,third-party
@@ -1617,6 +1619,7 @@ debugger:$popup
 ||bid^*watch?key=$popup,third-party
 ||club^*?affid=*&utm_*&redirect=$popup
 ||club^*?zoneid=$popup
+||download./*&pubid=$popup
 ||gdn^*&campaign_id=$popup
 ||gdn^*&redid=$popup
 ||info^*==|$popup,third-party
@@ -1625,9 +1628,11 @@ debugger:$popup
 ||loan^*?zoneid=$popup
 ||me^*==|$popup,third-party
 ||online^*&campid=$popup
+||online^*&clickid=$popup
 ||online^*&pid=$popup
 ||online^*&PLACEMENT_ID=$popup
 ||online^*&PUBLISHER_ID=$popup
+||online^*&subid=$popup
 ||online^*&zone=$popup
 ||online^*&zoneid=$popup
 ||online^*?cid=$popup
@@ -1639,6 +1644,7 @@ debugger:$popup
 ||site^*?zoneid=$popup
 ||space^*&pubid=$popup
 ||stream^*?zoneid=$popup
+||trade^*?affid=$popup
 ||xyz^*&zone=$popup
 ||xyz^*&zoneid=$popup
 ||xyz^*==|$popup,third-party
@@ -4015,6 +4021,7 @@ debugger:$popup
 ||shiah.ru^$popup,third-party
 ||shipyards.xyz^$popup,third-party
 ||shopstockoff.com^$popup,third-party
+||signoredom.com^$popup,third-party
 ||silvercdn.ryukyu^$popup,third-party
 ||slimcdn.com^$popup,third-party
 ||slutroulette.com^$popup,third-party
@@ -7693,6 +7700,7 @@ toutcash.com/images/bandeau-
 ||dylasklmlxige.cloudfront.net^
 ||dymwsh1c2kslr.cloudfront.net^
 ||dzbx8qv1at614.cloudfront.net^
+||dzs55b7slwyx.cloudfront.net^
 !
 !------------------ Éléments génériques -----------------!
 !
