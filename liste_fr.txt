@@ -5520,10 +5520,10 @@ $webrtc,domain=cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.com|dpstream.net
 |http://$script,third-party,xmlhttprequest,domain=regarderfilmhd.com
 |https://$script,third-party,xmlhttprequest,domain=regarderfilmhd.com
 ! 2ddl
-2ddl.la,2ddl.org,best2ddl.net,iiddl.com##a[href^="javascript:"]
-@@||ajax.googleapis.com/ajax/libs/$script,domain=best2ddl.net
-|http://$script,third-party,domain=2ddl.la|2ddl.org|best2ddl.net|iiddl.com|twoddl.tv
-|https://$script,third-party,domain=2ddl.la|2ddl.org|best2ddl.net|iiddl.com|twoddl.tv
+2ddl.download,2ddl.la,2ddl.org,best2ddl.net,iiddl.com##a[href^="javascript:"]
+@@||ajax.googleapis.com/ajax/libs/$script,domain=2ddl.download|best2ddl.net
+|http://$script,third-party,domain=2ddl.download|2ddl.la|2ddl.org|best2ddl.net|iiddl.com|twoddl.tv
+|https://$script,third-party,domain=2ddl.download|2ddl.la|2ddl.org|best2ddl.net|iiddl.com|twoddl.tv
 ! gamestorrents.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=gamestorrents.com
 |http://$script,third-party,xmlhttprequest,domain=gamestorrents.com
