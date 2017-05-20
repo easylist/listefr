@@ -4721,7 +4721,6 @@ $webrtc,domain=cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.com|dpstream.net
 ||mb.indecentes-voisines.com^$popup
 ||media-fire.org^$popup
 ||media.easybib.com/images/gr_
-||mediabong.com^$domain=hitek.fr
 ||mediafire.com/file/*.exe|$subdocument
 ||mediapostcommunication.net^
 ||mediastay.net^*/js/offers-dyn.
@@ -5326,8 +5325,8 @@ $webrtc,domain=cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.com|dpstream.net
 |http://$object-subrequest,third-party,xmlhttprequest,domain=wat.tv
 ! mediabong.com
 ||ad.mediabong.com^
-||mediabong.com/campaign/
-||mediabong.com^*/loader.js
+||mediabong.*/campaign/
+||mediabong.*/loader.js
 ! ultimedia.com
 .ovh^$domain=ultimedia.com
 @@|http://*.digiteka.net/*,,/*?mdtk=$object-subrequest,third-party,domain=ultimedia.com
