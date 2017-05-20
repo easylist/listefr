@@ -1124,6 +1124,7 @@
 ://banners2.$third-party
 ://banners3.$third-party
 ://bannieres.
+://be.ads.
 ://cdn.ads.
 ://dc.ads.
 ://eacash.
@@ -2378,6 +2379,7 @@ debugger:$popup
 ||journaux-du-midi.com^$third-party
 ||jsadapi.com^$third-party
 ||justasingle.click^$third-party
+||justpremium.com^$third-party
 ||kadserver.com^$third-party
 ||kalqui.com^$third-party
 ||kappacdn.net^$third-party
@@ -5448,8 +5450,13 @@ $webrtc,domain=cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.com|dpstream.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=heures.be
 @@||maps.google.com^*/api/js$script,domain=heures.be
 @@||maps.googleapis.com/maps/api/js/$script,domain=heures.be
+heures.be###contentCntr + [id]
+heures.be###leftCntr > div + [class]
+heures.be##.day > [class]
 |http://$script,third-party,domain=heures.be
 |https://$script,third-party,domain=heures.be
+||heures.be/template/images/publ/
+||heures.be^*.gif
 ! japscan.com
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.com
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.com
