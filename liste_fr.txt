@@ -303,6 +303,7 @@
 /adcash/300.
 /adcash/728.
 /AdConfig.aspx
+/adCTNRender.
 /adengine2/*
 /adengine2_
 /adfever.
@@ -1587,6 +1588,7 @@ _werbebanner_
 =poplink&$popup
 =promo.*_ref=*_affid=$popup
 =pubdirecte&$popup
+?*.clksite.com$popup
 ?action=linkpub&$popup
 ?ad=*&affId=$popup
 ?adCampaign=$popup
@@ -3168,6 +3170,7 @@ debugger:$popup
 ||paradition.com^$third-party
 ||quierest.com^$third-party
 ||roughted.com^$third-party
+||signoredom.com^$third-party
 ||triction.info^$third-party
 ! admeasures.com
 ||04v70ab.com^$third-party
@@ -5511,6 +5514,9 @@ filmstreamingvf.ws
 @@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=completvf.com|filmzenstream.com|official-film-illimite.net
 |http://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|official-film-illimite.net
 |https://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|official-film-illimite.net
+! regarderfilmhd.com
+@@|http://$script,third-party,xmlhttprequest,domain=regarderfilmhd.com
+@@|https://$script,third-party,xmlhttprequest,domain=regarderfilmhd.com
 ! 2ddl
 2ddl.la,2ddl.org,best2ddl.net,iiddl.com##a[href^="javascript:"]
 @@||ajax.googleapis.com/ajax/libs/$script,domain=best2ddl.net
