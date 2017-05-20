@@ -1406,6 +1406,7 @@ _werbebanner_
 &lfapaff_id=$popup
 &noexitctapop=$popup
 &nsfw=&id_promo=$popup
+&oid=*&subid=*&pubid=$popup
 &pub_sub_id_$popup
 &pubid=*-panther&$popup
 &pubid=*.adult.*&$popup
@@ -2161,7 +2162,7 @@ debugger:$popup
 ||deliverydom.com^$third-party
 ||deliverymod.com^$third-party
 ||deltax.com^$third-party
-||detour.click^$script
+||detour.click^$third-party
 ||dfast.net^$third-party
 ||dfp.host^$third-party
 ||dfpnative.com^$third-party
@@ -2857,6 +2858,7 @@ debugger:$popup
 ||the-ufo.com^$third-party
 ||themoneytizer.com^$third-party
 ||thesplendidbabes.com^$third-party
+||thewhizmarketing.com^$third-party
 ||thfw1wuq.site^$third-party
 ||thisclick.network^$third-party
 ||thri.xxx^$third-party
@@ -4180,7 +4182,7 @@ debugger:$popup
 !
 $websocket,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dpstream.net|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|istreamin.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|primewire.ag|streamgaroo.com|t411.al|thecountrycaller.com|videoweed.com|videoweed.es|videowood.tv|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us
 !
-$webrtc,domain=cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.com|dpstream.net|emule-island.ru|extra.to|extratorrentlive.com|extratorrentonline.com|eztv.tf|eztv.wf|eztv.yt|filmcomplet.tv|filmsvostfr.cc|full-anime.com|full-film.me|full-serie.co|full-stream.biz|full-stream.nu|full-stream.su|greys-anatomy-streaming.eu|greys-anatomy-streaming.org|k-streaming.com|lucariostream.co|papy-streaming.org|papystreaming.org|planet-streaming.com|playerhd1.pw|playerhd2.pw|seriestreaming.net|stream-island.ru|stream-island.su|stream-watch.co|streamay.ws|streamdown.tv|streamfilmzzz.com|streaming-serie.me|streamingseries.info|streamzzz.online|t411.al|t411.am|telecharger-film-gratuit.fr|thevideobee.to|torrentz2.eu|uploadocean.com|uptostream.com|voirfilms.biz|watchtvserieslive.org|yts.ag|zone-telechargement.tv
+$webrtc,domain=cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.com|dpstream.net|emule-island.ru|extra.to|extratorrentlive.com|extratorrentonline.com|eztv.tf|eztv.wf|eztv.yt|filmcomplet.tv|filmsvostfr.cc|full-anime.com|full-film.me|full-serie.co|full-stream.biz|full-stream.nu|full-stream.su|greys-anatomy-streaming.eu|greys-anatomy-streaming.org|k-streaming.com|lucariostream.co|papy-streaming.org|papystreaming.org|planet-streaming.com|playerhd1.pw|playerhd2.pw|seriestreaming.net|stream-island.ru|stream-island.su|stream-watch.co|streamay.ws|streamdown.tv|streamfilmzzz.com|streaming-serie.me|streamingseries.info|streamzzz.online|t411.ac|t411.al|telecharger-film-gratuit.fr|thevideobee.to|torrentz2.eu|uploadocean.com|uptostream.com|voirfilms.biz|watchtvserieslive.org|yts.ag|zone-telechargement.tv
 !
 |blob:$domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dpstream.net|dragon-ball-super-streaming.com|films-regarder.com|films-regarder.org|films-regarder.xyz|firstrowus1.eu|fmovies.me|fmovies.se|freewarefiles.com|immunicity.world|istreamin.com|keepvid.com|kinotochka.net|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|primewire.ag|streamdown.tv|streamgaroo.com|t411.al|thecountrycaller.com|videoweed.com|videoweed.es|videowood.tv|vidlox.me|vidwatch3.me|viid.me|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us
 !
@@ -5367,8 +5369,8 @@ $webrtc,domain=cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.com|dpstream.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=t411.al
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.al
 @@||code.jquery.com/jquery-$script,domain=t411.al
-|http://$script,third-party,domain=t411.al|t411.am
-|https://$script,third-party,domain=t411.al|t411.am
+|http://$script,third-party,domain=t411.ac|t411.al|t411.am
+|https://$script,third-party,domain=t411.ac|t411.al|t411.am
 ! full-film.me
 @@||code.jquery.com^$script,domain=full-anime.com|full-film.me|full-serie.co
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=full-anime.com|full-film.me|full-serie.co
@@ -5779,7 +5781,7 @@ filmstreamingvf.ws
 ||super-virals.com^$subdocument,third-party
 ||uploadbank.com^$subdocument,third-party
 ! popup & popunder
-$popup,domain=adf.ly|allvid.ch|auroravid.to|ay.gy|cloudtime.to|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|full-anime.com|full-film.me|full-serie.co|getmytorrent.com|go.ad2upapp.com|gorillavid.com|guadeloupe-paradise.fr|imgchili.net|j.gs|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|media1fire.com|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|powvideo.xyz|putstream.com|q.gs|rapidvideo.com|rapidvideo.ws|shrvid.com|speedvid.net|streamay.ws|streamplay.to|teramixer.com|thevid.net|thevideo.me|thevideobee.to|torlock.com|tout-sur-le-web.com|ultimedia.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidgg.to|vidhos.com|vidshare.me|vidshare.us|vidto.me|vidup.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+$popup,domain=adf.ly|allvid.ch|auroravid.to|ay.gy|cloudtime.to|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|full-anime.com|full-film.me|full-serie.co|getmytorrent.com|go.ad2upapp.com|gorillavid.com|guadeloupe-paradise.fr|imgchili.net|j.gs|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|media1fire.com|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|powvideo.xyz|putstream.com|q.gs|rapidvideo.com|rapidvideo.ws|shrvid.com|speedvid.net|streamay.ws|streamplay.to|t411.ac|teramixer.com|thevid.net|thevideo.me|thevideobee.to|torlock.com|tout-sur-le-web.com|ultimedia.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidgg.to|vidhos.com|vidshare.me|vidshare.us|vidto.me|vidup.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 ! images hosting
 ||bluesattv.net/gif.gif
 ||hostingpics.net/pics/*468x60.
