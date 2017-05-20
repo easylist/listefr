@@ -5750,6 +5750,9 @@ filmstreamingvf.ws
 ! shrink-service.it
 |http://$subdocument,third-party,domain=shrink-service.it
 |httpS://$subdocument,third-party,domain=shrink-service.it
+! urlgone.com
+|http://$subdocument,third-party,domain=urlgone.com
+|httpS://$subdocument,third-party,domain=urlgone.com
 ! Auto short link scripts
 ||adhit.me^$script,third-party
 ||al.ly^$script,third-party
@@ -11084,6 +11087,7 @@ lokan.fr##body:last-child > div#message
 igen.fr##br + div + div + div
 extratorrent.cc##br + table[style="font-size:14px;width:901px;font-family:Verdana"]
 get-my.link##center > a[href$=".php"]
+urlgone.com##div > #blockInternal
 t411.al##div > a[href*=" "]
 forumpiscine.com##div#\31
 forumconstruire.com##div#\32
