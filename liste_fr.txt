@@ -313,6 +313,7 @@
 /adkompan.
 /admaxdsp/*
 /adoff.js?
+/adops_
 /adpj-result/*
 /adplexmedia.
 /adporn.
@@ -918,6 +919,7 @@
 /pub/pub-
 /pub/pub.gif
 /pub/pub_
+/pub/unibet/*
 /Pub200x250.
 /pub250.
 /pub300-250.
@@ -978,6 +980,7 @@
 /pubs/?format=728x90
 /pubs/dfp/*
 /pubs/habillage/*
+/purch-adops/*
 /query.*?aff=$subdocument
 /redirect/*?banner=
 /redirect/dl.
@@ -1824,6 +1827,7 @@ debugger:$popup
 ||adqia.com^$third-party
 ||adrecord.com^$third-party
 ||adrelayer.com^$third-party
+||adrequest.net^$third-party
 ||adrife.com^$third-party
 ||adrock.org^$third-party
 ||ads-in-games.com^$third-party
@@ -4259,7 +4263,6 @@ $webrtc,domain=cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.com|dpstream.net
 ||amazon.fr/exec/obidos/external-search?$subdocument,domain=annuaire-bleu.net
 ||amazon.fr^$popup,domain=fdesouche.com
 ||amazonaws.com/pubfig/
-||amazonaws.com/purch-adops/
 ||amazonaws.com/static.contentza.com/
 ||amazonaws.com/waframedia*.
 ||amazonaws.com^*-ccmbenchmark
@@ -5125,6 +5128,7 @@ $webrtc,domain=cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.com|dpstream.net
 ||visio-x.fr/x-video.php?$popup
 ||viteundevis.com/ads/
 ||viwii.net/banners/$third-party
+||voetbalkrant.com/pub/
 ||voiture-ligier.info/pub1.
 ||voiture-louer.info/pub.
 ||voiture-louer.info/pub1.
@@ -7443,6 +7447,7 @@ toutcash.com/images/bandeau-
 ||wabyle.com/data/sponsors/
 ||wads.ozap.com^
 ||wads.plurielles.fr^
+||walfoot.be/pub/
 ||wallpapergratuit.org/scripts.inc.js
 ||wamiz.fr/css/habillage/
 ||wamland.com^*.html$object,subdocument
