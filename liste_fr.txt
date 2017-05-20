@@ -5502,8 +5502,8 @@ $webrtc,domain=cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.com|dpstream.net
 |http://$script,third-party,xmlhttprequest,domain=viva-stream.org
 |https://$script,third-party,xmlhttprequest,domain=viva-stream.org
 ! film-streaming-vf.org
-filmstreamingvf.ws
 |http://$script,third-party,xmlhttprequest,domain=film-streaming-vf.org|filmstreamingvf.ws
+|https://$script,third-party,xmlhttprequest,domain=film-streaming-vf.org|filmstreamingvf.ws
 ! filmstreamvk.net
 |http://$script,third-party,xmlhttprequest,domain=filmstreamvk.com|filmstreamvk.net|filmstreamvk.ws
 |https://$script,third-party,xmlhttprequest,domain=filmstreamvk.com|filmstreamvk.net|filmstreamvk.ws
