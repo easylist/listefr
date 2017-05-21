@@ -4243,7 +4243,7 @@ $webrtc,domain=cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.com|dpstream.net
 ||ad.publicidees.com^
 ||ad.vacanceo.com^
 ||ad.zanox.com^
-||ad.zanox.com^$popup,domain=configspc.com|heures.be
+||ad.zanox.com^$popup,domain=configspc.com
 ||adf.ly^$popup,domain=ytubesave.com
 ||adjsla.daycorpltd12.netdna-cdn.com^
 ||ads.giponewing.com^
@@ -5223,7 +5223,6 @@ $webrtc,domain=cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.com|dpstream.net
 ||yubee.free.fr/admin/bannieres/
 ||z-o-o-m.eu/banner_images/$third-party
 ||z51.biz/IBinnewz.aspx
-||zalando.be^$popup,domain=heures.be
 ||zeusmangax.com/baniere/
 ||ziimtube.com^$popup,domain=pornytude.com
 ||zinc7.cc/images/banners/
@@ -5455,17 +5454,6 @@ $webrtc,domain=cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.com|dpstream.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=9xbuddy.com
 |http://$script,third-party,xmlhttprequest,domain=9xbuddy.com
 |https://$script,third-party,xmlhttprequest,domain=9xbuddy.com
-! heures.be
-@@||ajax.googleapis.com/ajax/libs/$script,domain=heures.be
-@@||maps.google.com^*/api/js$script,domain=heures.be
-@@||maps.googleapis.com/maps/api/js/$script,domain=heures.be
-heures.be###contentCntr + [id]
-heures.be###leftCntr > div + [class]
-heures.be##.day > [class]
-|http://$script,third-party,domain=heures.be
-|https://$script,third-party,domain=heures.be
-||heures.be/template/images/publ/
-||heures.be^*.gif
 ! japscan.com
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.com
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.com
@@ -6482,8 +6470,6 @@ toutcash.com/images/bandeau-
 ||hentaihaven.org/lube/
 ||herault-tribune.com^*/flash_pub_
 ||herault-tribune.com^*/rep_pub/
-||heures.be/includes/js/block
-||heures.be/template/images/promm/
 ||hibamusic.com/pub/
 ||hiqqu.xxx/static/n/
 ||histoires-de-sexe.net/graf/
@@ -10834,14 +10820,12 @@ amazon.fr##[class*="-sponsored-"]
 ccm.net,commentcamarche.net##[class*="_item--sponsor"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
 uploaded.net##[class*="pico-"]
-heures.be##[class^="ad"]
 bestream.tv##[class^="adsRemove"]
 narkive.com##[class^="ads_"]
 jeu.info##[class^="banniere-"]
 cpasbien-torrents.fr##[class^="fstory"] + center > a
 forumconstruire.com##[class^="habillage"]
 igen.fr,macg.co,orange.fr##[class^="lig_"]
-heures.be##[class^="prom"]
 ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
 guide-piscine.fr##[class^="regie_"]
 msn.com##[class^="stripecontaine"][data-section-id="stripe.store"]
@@ -10858,7 +10842,6 @@ turbo.fr##[id^="ABbypass"]
 egora.fr##[id^="block-gmsante_pub-"]
 comarketing-news.fr##[id^="comar-"]
 ecranlarge.com##[id^="criteo"]
-heures.be##[id^="float"]
 crichd.info##[id^="floatLayer"]
 commentcamarche.net,free.fr,journaldesfemmes.com,orange.fr##[id^="lig_"]
 leparticulier.fr##[id^="loca_service_simulateur_"]
@@ -11316,6 +11299,20 @@ macg.co##article > a[-abp-properties='*'] > img
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 ||fourchette-et-bikini.fr^$xmlhttprequest
 ||xiti.com^$domain=lachainemeteo.com
+! heures.be
+$popup,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
+.gif$image,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
+/template/images/prom/*$domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
+/template/images/publ/*$domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
+@@||ajax.googleapis.com/ajax/libs/$script,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
+@@||maps.google.com^$script,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
+@@||maps.googleapis.com^$script,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
+heures.be,hours.be,openingstijdengids.nl,openingsurengids.be###contentCntr + [id]
+heures.be,hours.be,openingstijdengids.nl,openingsurengids.be###leftCntr > div + [class]
+heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##.day > [class]
+heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##[class^="ad"]
+|http://$script,third-party,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
+|https://$script,third-party,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 ! CCM Benchmark (ligatus)
 /:\/\/.*\.ccm2.net\/.*\/[a-zA-Z0-9-]{50,}/$image
 @@||ajax.googleapis.com/ajax/libs/$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
