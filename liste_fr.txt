@@ -5611,11 +5611,9 @@ $webrtc,domain=cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.com|dpstream.net
 |http://$script,third-party,domain=thevid.net
 |https://$script,third-party,domain=thevid.net
 ! openload
-/assets/js/license.$domain=oload.tv|openload.co|streamango.com
-/assets/js/script.$domain=oload.tv|openload.co|streamango.com
-/yii.$domain=oload.tv|openload.co|streamango.com
 @@/popunder2.js$script,~third-party,domain=streamango.com
 @@|https://easylist.club/*.js|$script,domain=oload.tv|openload.co
+@@||openload.co/logpopup/first/first.js$script,domain=openload.co
 oload.tv,openload.co##.vjs-modal-dialog-content
 streamango.com###videooverlay
 ! direct-torrents.com
