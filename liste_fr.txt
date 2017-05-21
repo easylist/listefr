@@ -1623,6 +1623,7 @@ _werbebanner_
 ?zoneid=*&sz=$popup
 _300x250_*_adb$popup
 _728x90_*_adb$popup
+_ad_block_code?$popup
 _adb_300x250_$popup
 _adb_728x90_$popup
 _adtool&$popup
@@ -3106,6 +3107,7 @@ debugger:$popup
 ||4f941a91590f2c1f0.com^$third-party
 ||4fb0a3bf4a3d38.com^$third-party
 ||50258bd2b243b24df.com^$third-party
+||572840863ba33c70.com^$third-party
 ||59e6ea7248001c.com^$third-party
 ||5cf3af8aba4293a8.com^$third-party
 ||6008c0f75b8b5.com^$third-party
@@ -5513,8 +5515,8 @@ heures.be##.day > [class]
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=streamingeur.com
 |https://$script,third-party,domain=streamingeur.com
 ! viva-stream.org
-|http://$script,third-party,xmlhttprequest,domain=viva-stream.org
-|https://$script,third-party,xmlhttprequest,domain=viva-stream.org
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=viva-stream.org
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=viva-stream.org
 ! film-streaming-vf.org
 |http://$script,third-party,xmlhttprequest,domain=film-streaming-vf.org|filmstreamingvf.ws
 |https://$script,third-party,xmlhttprequest,domain=film-streaming-vf.org|filmstreamingvf.ws
@@ -7702,6 +7704,7 @@ toutcash.com/images/bandeau-
 ||d3ncat0syb6rim.cloudfront.net^
 ||d3oyytf0n6db9a.cloudfront.net^
 ||d3p27nzp3rc51k.cloudfront.net^
+||d3pob6t6w1ul0e.cloudfront.net^
 ||d3pphfzjkpjgfn.cloudfront.net^
 ||d3prygw1dnamj9.cloudfront.net^
 ||d3qk9u6c2k2cid.cloudfront.net^
