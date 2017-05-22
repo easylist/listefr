@@ -9377,6 +9377,7 @@ toutcash.com/images/bandeau-
 ##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
 ##a[href^="http://promo.vador.com/"]
 ##a[href^="http://propellerads.com/?rfd="]
+##a[href^="http://pussl7.com/"]
 ##a[href^="http://reallygoodlink.free3dadultgames.com/"]
 ##a[href^="http://redir.bebi.com/"]
 ##a[href^="http://refer.ccbill.com/cgi-bin/clicks.cgi?"]
@@ -9942,8 +9943,6 @@ tomshardware.fr###rightcol_top
 tomshardware.fr###rightcol_top_anchor
 7sur7.be###rpVacature
 korben.info###samsarin_php_widget-12
-t411.al###searchform + .notice + p + p > a
-t411.al###searchform + .notice + p > a
 slappyto.net###shadow
 zapiks.fr###shop
 aliceadsl.fr,laposte.net,portail.free.fr###shoppingBox
@@ -10292,7 +10291,6 @@ blumei-piano.com##.cyt-affi-wrapper
 allocine.fr##.d_table-cell.vam
 logitheque.com##.description + .telechargement
 cpasbientorrent.fr##.description > center > a
-t411.al##.details a[id]
 grosnews.com##.deuxcarres
 rtl.fr##.dfp-pave
 lemonde.fr##.dfp_slot
@@ -10745,7 +10743,6 @@ msn.com##.sponsorship
 msn.com##.startpage > div.refreshbody[style^="top:"]
 msn.com##.stripecontainer[data-section-id="stripe.msstore"]
 imobie.fr##.support_guide_download_upper
-t411.al##.switcher + a
 forum.sportytrader.com##.tableau_bleu
 tomsguide.fr##.tabletoff
 walfoot.be##.take-banner
@@ -10894,7 +10891,6 @@ telechargement-film.org##a[href*="-film-"]
 planete-series.info##a[href*=".php"] > img
 leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
 meilleurs-hebergeurs.com##a[href*="/-"] > img
-t411.al##a[href*="//app.t411.al/"]
 presse-algerie.net##a[href*="/?ad="]
 artdeseduire.com##a[href*="/?part=ads"]
 webactus.net##a[href*="/?utm_source="]
@@ -11102,7 +11098,6 @@ igen.fr##br + div + div + div
 extratorrent.cc##br + table[style="font-size:14px;width:901px;font-family:Verdana"]
 get-my.link##center > a[href$=".php"]
 urlgone.com##div > #blockInternal
-t411.al##div > a[href*=" "]
 forumpiscine.com##div#\31
 forumconstruire.com##div#\32
 domimmo.com##div#an-fin
@@ -11256,7 +11251,16 @@ mon-ordi.com##td[width="567"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 eztv-proxy.net,eztv.ag,eztv.tf,eztv.yt##tr > td[style="border: 3px solid #C70000;"] > [id]
-! goyavelab
+! t411
+t411.al###searchform + .notice + p + p > a
+t411.al###searchform + .notice + p > a
+t411.al##.details a[id]
+t411.al##.navigation + div > center > a
+t411.al##.switcher + a
+t411.al##.torrentDetails + div + div > center > a > img
+t411.al##a[href*="//app.t411.al/"]
+t411.al##article a[target="_self"]
+t411.al##div > a[href*=" "]
 !
 ! Éléments pour generichide
 streaming-sport.tv###pub-left
