@@ -4015,6 +4015,12 @@ debugger:$popup
 ||pulseonclick.com^$popup,third-party
 ||purlive.com^$popup,third-party
 ||pushplay.com^$popup,third-party
+||pussl10.com^$popup,third-party
+||pussl2.com^$popup,third-party
+||pussl3.com^$popup,third-party
+||pussl4.com^$popup,third-party
+||pussl5.com^$popup,third-party
+||pussl7.com^$popup,third-party
 ||pwdplz.com^$popup,third-party
 ||pwwysydh.com^$popup,third-party
 ||px9y26.com^$popup,third-party
@@ -5383,8 +5389,10 @@ $webrtc,domain=cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.com|dpstream.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=t411.al
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=t411.al
 @@||code.jquery.com/jquery-$script,domain=t411.al
-|http://$script,third-party,domain=t411.ac|t411.al|t411.am
-|https://$script,third-party,domain=t411.ac|t411.al|t411.am
+|about:$popup,domain=t411.al
+|http://$script,third-party,xmlhttprequest,domain=t411.ac|t411.al|t411.am
+|https://$script,third-party,xmlhttprequest,domain=t411.ac|t411.al|t411.am
+||t411.al/cdn-cgi/pe/bag2?*.addthis
 ! full-film.me
 @@||code.jquery.com^$script,domain=full-anime.com|full-film.me|full-serie.co
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=full-anime.com|full-film.me|full-serie.co
