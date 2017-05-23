@@ -278,6 +278,8 @@
 /ad/*_300250_
 /ad/ad3/*
 /ad/banners_
+/Ad/Index?
+/Ad/Oas?
 /ad/screen.
 /ad140x200-
 /ad140x200.
@@ -599,6 +601,7 @@
 /brightcoveAds.
 /bshow.php?dimension=$script,third-party
 /bshow.php?id=*&dimension=
+/bundles/Ad/*
 /cadre/160-$subdocument
 /cadre/728-$subdocument
 /campagne/redir/*
@@ -7773,6 +7776,7 @@ toutcash.com/images/bandeau-
 !------------------ Éléments génériques -----------------!
 !
 #.top_banner_ads
+###ADS_1
 ###AdBanner_1
 ###AdBanner_2
 ###AdSense_Header
@@ -9138,6 +9142,7 @@ toutcash.com/images/bandeau-
 ##.sam-pro-ad
 ##.scpe-pub
 ##.sd-ad-container
+##.sd-ad-wrapper
 ##.search_publicity_box
 ##.search_square_publicity
 ##.separepub
