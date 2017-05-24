@@ -4761,6 +4761,10 @@ $webrtc,domain=bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.co
 ||magikmobile.com/iframe_$third-party
 ||maigris.com^$popup
 ||maisonentravaux.fr^*/avoir-devis-travaux-gratuit.gif
+||maliwebnetcdn-*/wp-content/news/images/*banniere
+||maliwebnetcdn-*/wp-content/news/images/*habillage
+||maliwebnetcdn-*/wp-content/news/images/*pasta
+||maliwebnetcdn-*/wp-content/news/images/*pmu
 ||marche-forex.com/popup*.js
 ||mas-e.cds1.yospace.com^
 ||materiel.net^$popup,domain=configspc.com
@@ -6810,9 +6814,6 @@ toutcash.com/images/bandeau-
 ||maidenfrance.fr/images/banniere-
 ||mailorama.fr^*/wearing/habillage_
 ||maisonbrico.com/images/partenaires/
-||maliweb.net/wp-content/news/images/*banniere
-||maliweb.net/wp-content/news/images/*habillage
-||maliweb.net/wp-content/news/images/*pmu
 ||mameworld.info/net/pics/da.gif
 ||mamytwink.com^*/images/partenaires/
 ||manager-online.fr/images/sidebar/
@@ -8020,6 +8021,7 @@ toutcash.com/images/bandeau-
 ###bodyPanpub
 ###bonsplansprospect
 ###bottom-adv
+###bottom_ad_space
 ###bottom_pub
 ###box-izipub
 ###box-pub-1
@@ -8374,6 +8376,7 @@ toutcash.com/images/bandeau-
 ###rectSlotAd
 ###reklam300x250
 ###reklam300x600
+###reklamDiv
 ###reklam_mgid
 ###reklama2
 ###reklama3
@@ -11464,7 +11467,6 @@ femmesplus.fr##section[id] > img
 @@||costacroisieres.fr/B2C/SharedResources/js/popunder.js
 @@||cowcotland.com/scripjs.php?files=*,jquery.lazyload-ad-$script
 @@||cstatic.weborama.fr/js/advertiser/wbo_performance.js$domain=pmu.fr
-@@||d2q55mevlpufwx.cloudfront.net/wp-content/news/images/2012/02/mwlogo.jpg
 @@||dai.bfmtv.com/csm/live/*.m3u8?yo.po=$object-subrequest,domain=bfmtv.com
 @@||dai.bfmtv.com/csm/live/*/*.m3u8;jsessionid=*.cds1.yospace.com?yo.po=$object-subrequest,domain=bfmtv.com
 @@||data.panachetech.com^$object-subrequest,domain=gameone.net
