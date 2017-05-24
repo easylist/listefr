@@ -603,6 +603,7 @@
 /cadre/728-$subdocument
 /campagne/redir/*
 /campaigns/banner?
+/carasexe.html$subdocument
 /carrepubHome.
 /cash_ban/*
 /cd_infopop/*
@@ -726,7 +727,6 @@
 /grid/ads/*
 /header-ads.
 /header_ads|
-/hgap/init/?siteId=
 /homad-global-
 /ibd-ads/*
 /iframe468x60-
@@ -754,6 +754,7 @@
 /infopop-optimise.
 /infopop/*.php?
 /infopop/infopop.$script
+/init/?siteId=*&loc=
 /InjectPopunderAd.
 /inread_
 /inside_ad.
@@ -4662,6 +4663,7 @@ $webrtc,domain=bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.co
 ||iris.ma/themes/maroc/img/pub/
 ||ithreeweb.com/creationsiteweb.jpg
 ||jacquieetmichel-contact.com/?siteid=$popup
+||jacquieetmicheltv.net^$popup,domain=jacquieetmicheltv2.net
 ||jardindespieux.com/pub/
 ||jardisexe.com/ban/$third-party
 ||jejethesniper.free.fr/Forum/Partenariat.gif
