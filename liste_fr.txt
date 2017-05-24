@@ -661,6 +661,7 @@
 /dhtml/notification/*
 /dhtml/popup/*
 /diff_affich_ban.
+/disclaimer.$domain=blog2mature.com
 /display.php?ec=
 /display/?affid=
 /display/?method=$subdocument
@@ -880,6 +881,7 @@
 /promo/bannieres/*
 /promo/gif_banners/*
 /promos/banners/*$third-party
+/promotool_referrer.
 /promotools/rotation.
 /proxy_eds.php?
 /proxy_iframe.php?url=
@@ -6045,7 +6047,6 @@ toutcash.com/images/bandeau-
 ||blog-nouvelles-technologies.fr/wp-content/annonceurs/
 ||blog.lesoir.be/*/banniere_
 ||blog.lesoir.be/geeko/wp-content/uploads/sites/58/2015/12/IMU.jpg
-||blog2mature.com/273_210/
 ||blogsbd.fr/public/boulet-notes-t10.jpg
 ||blumei-piano.com/wp-content/themes/*/mylists.js
 ||boiteajeux.net/img/pub/
@@ -10303,7 +10304,6 @@ grosnews.com##.deuxcarres
 rtl.fr##.dfp-pave
 lemonde.fr##.dfp_slot
 dailymotion.com##.dm_widget_advert_iabrighttitle
-blog2mature.com##.download
 thepiratebay.org##.download + [style] > a[target="_blank"]
 torrent9.biz,torrent9.info,torrents9.org,torrents9.tv##.download-btn + [class]
 oujdacity.net,passion-net.fr##.ebuzzing_box
@@ -10430,7 +10430,6 @@ mappy.com##.leftHabillage
 laptopspirit.fr,prix-portables.fr##.lien_hab
 laptopspirit.fr,prix-portables.fr##.lien_habillage
 cine-media.fr##.lienbackground
-blog2mature.com##.liens
 foot01.com##.lig
 pagesjaunes.fr##.linkPushEmbauche
 frandroid.com##.link_htr
@@ -10808,7 +10807,6 @@ rtl.be##.w-content-details-ligatus
 journaldumusulman.fr,staractus.fr##.wallpaper-link
 slappyto.net##.webrox._300x250.centered
 msn.com##.widead
-blog2mature.com##.widget.widget_links
 frandroid.com##.widget.widget_text
 joueurdugrenier.fr##.widgetAmis
 joueurdugrenier.fr##.widgetVrac
