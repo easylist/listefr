@@ -661,7 +661,7 @@
 /dhtml/notification/*
 /dhtml/popup/*
 /diff_affich_ban.
-/disclaimer.$domain=blog2mature.com|leatube.com
+/disclaimer.$domain=blog2mature.com|leathumb.com|leatube.com|papy-porno.com|pornasiatix.com|pornxmovies.com|pornz.fr|secret-amateur.com|sexe2blog.com|sexotor.com|thefrenchporn.com|tube2sexe.com|videosallopass.com
 /display.php?ec=
 /display/?affid=
 /display/?method=$subdocument
@@ -7071,7 +7071,6 @@ toutcash.com/images/bandeau-
 ||pornodeblack.com/data/$image
 ||pornovore.fr/zbla/
 ||pornz.fr^$popup,~third-party
-||pornz.fr^*/disclaimer.js
 ||porsche-99x.info/pagedirect/*/pub/
 ||portail.free.fr/_/img/1000xx90-
 ||portaildusexe.com/ban/
@@ -7335,7 +7334,6 @@ toutcash.com/images/bandeau-
 ||tf1.fr/js/cobrandingPub/
 ||theadultcompany.biz/*/ff_siteunder/$popup
 ||thefrenchporn.com^$popup,~third-party
-||thefrenchporn.com^*/disclaimer.js
 ||ti.bank.free.fr/images/jarrety
 ||ticketac.com/upload/banniere/
 ||tignes.net/data/habillages/
@@ -11605,6 +11603,8 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 ! Guide anti-adblock pour les webmasters : https://easylist.to/2013/05/10/anti-adblock-guide-for-site-admins.html
 !
 &adbIsActive=
+&adblck=true
+&adBlockerActive=
 -adblock-bait.js
 .adblocker.adblocker/
 /ad-blocking-advisor/*
@@ -11612,6 +11612,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /adblock_blocked/*
 /adblockbait.js
 /adblockchecker.js
+/adblocker.blogads.
 /adblockTester.
 /ads_enabled_
 /fadb.min.js?
@@ -11622,6 +11623,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /sorry-adblocker/*$script
 /wp-adblock-dedect/*
 ?action=adblockvisitor$~third-party
+_action=adblock&
 _adblockdetector/
 _blockadblock_
 !
