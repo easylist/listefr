@@ -3057,6 +3057,7 @@ debugger:$popup
 ||yx-ads*.com^$third-party
 ||z-barre.com^$third-party
 ||z-cache.com^$third-party
+||zapcdn.space^$third-party
 ||zaperplop.info^$third-party
 ||zebestof.com^$third-party
 ||zeropub.net^$third-party
@@ -4634,9 +4635,6 @@ $webrtc,domain=bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.co
 ||hotel-intime.com/banieres/
 ||hotpix.fr/widget_js.
 ||howfun.org/welcome.php
-||hqq.tv/js/adb/adb.js
-||hqq.tv/js/betterj/
-||hqq.tv^*/license.
 ||href.li^$domain=youzapping.com
 ||hubspot.com/cta/
 ||hurenportal.com/banner/
@@ -5585,9 +5583,12 @@ $webrtc,domain=bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.co
 |http://$script,third-party,xmlhttprequest,domain=embedezcast.com
 |https://$script,third-party,xmlhttprequest,domain=embedezcast.com
 ! hqq.tv
-@@||api.peer5.com^$script,domain=hqq.tv
-|http://$script,third-party,domain=hqq.tv
-|https://$script,third-party,domain=hqq.tv
+@@||api.peer5.com^$script,domain=hqq.tv|hqq.watch
+|http://$script,third-party,domain=hqq.tv|hqq.watch
+|https://$script,third-party,domain=hqq.tv|hqq.watch
+||hqq.watch/js/adb/adb.js
+||hqq.watch/js/betterj/
+||hqq.watch^*/license.
 ! cloudy.ec
 @@||ajax.googleapis.com/ajax/libs/$script,domain=cloudy.ec
 |http://$script,third-party,domain=cloudy.ec
@@ -5817,7 +5818,7 @@ streamango.com###videooverlay
 ||super-virals.com^$subdocument,third-party
 ||uploadbank.com^$subdocument,third-party
 ! popup & popunder
-$popup,domain=adf.ly|allvid.ch|auroravid.to|ay.gy|cloudtime.to|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|full-anime.com|full-film.me|full-serie.co|getmytorrent.com|go.ad2upapp.com|gorillavid.com|guadeloupe-paradise.fr|imgchili.net|j.gs|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|media1fire.com|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|pelis24.tv|powvideo.net|powvideo.xyz|putstream.com|q.gs|rapidvideo.com|rapidvideo.ws|shrvid.com|speedvid.net|streamango.com|streamay.ws|streamplay.to|t411.ac|teramixer.com|thevid.net|thevideo.me|thevideobee.to|torlock.com|tout-sur-le-web.com|ultimedia.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidgg.to|vidhos.com|vidlox.me|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidup.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+$popup,domain=adf.ly|allvid.ch|auroravid.to|ay.gy|cloudtime.to|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|filmstreamvk.ws|full-anime.com|full-film.me|full-serie.co|getmytorrent.com|go.ad2upapp.com|gorillavid.com|guadeloupe-paradise.fr|imgchili.net|j.gs|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|media1fire.com|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|pelis24.tv|powvideo.net|powvideo.xyz|putstream.com|q.gs|rapidvideo.com|rapidvideo.ws|shrvid.com|speedvid.net|streamango.com|streamay.ws|streamplay.to|t411.ac|teramixer.com|thevid.net|thevideo.me|thevideobee.to|torlock.com|tout-sur-le-web.com|ultimedia.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidgg.to|vidhos.com|vidlox.me|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidup.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
 ! images hosting
 ||bluesattv.net/gif.gif
 ||hostingpics.net/pics/*468x60.
@@ -7722,6 +7723,7 @@ toutcash.com/images/bandeau-
 ||d3qyjzkrkuj7me.cloudfront.net^
 ||d3rm04c4p9a75q.cloudfront.net^
 ||d3rmeear8e0ybo.cloudfront.net^
+||d3t9nyds4ufoqz.cloudfront.net^
 ||d3tivku5hdr7jk.cloudfront.net^
 ||d3us2i0tqwa7m7.cloudfront.net^
 ||d3vt0rqt08ph1x.cloudfront.net^
@@ -9483,7 +9485,7 @@ bfmtv.com###Tpromo
 mypornmotion.com###VideoPub300x250
 mappy.com###a300x600
 xboxunlimited.fr###abos
-ahlaejaba.com,hqq.tv,radio.co.ma###ad
+ahlaejaba.com,hqq.tv,hqq.watch,radio.co.ma###ad
 annuaire-inverse-france.com,liveradio.fr###ad1
 reverso.net###adBlockBnr
 soufisme-fr.com###ad_forum_below_threadlist
@@ -10878,7 +10880,7 @@ amvtv.net##[style*="position: absolute; z-index: 99999"]
 xooit.com##[style*="z-index: 99999999; height: 92px; width: 100%;"]
 boursorama.com##[style="width: 1000px; margin: 0px auto; min-width: 0px; min-height: 90px; display: block;"]
 forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding:15px"]
-hqq.tv##[style^="width: 468px; height: 60px;"]
+hqq.tv,hqq.watch##[style^="width: 468px; height: 60px;"]
 zetorrente.fr,zetorrents.com##a > [style]
 lesoir.be##a > [width="300"][height="250"]
 jeddl.org##a > font
