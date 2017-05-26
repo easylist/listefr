@@ -1641,6 +1641,8 @@ _packcpm.$popup
 _pop.php?z=$popup
 _pornofolies_$popup
 _regie/clic.$popup
+! regex popups
+/\.com\/watch\?key\=([\da-f]{32}($))/$popup,third-party
 !
 data:*text*/*html*,$popup
 debugger:$popup
@@ -3669,6 +3671,7 @@ debugger:$popup
 ||badoink.com^$popup,third-party
 ||baiduccdn1.com^$popup,third-party
 ||baise-ce-soir.com^$popup,third-party
+||bbkiweeds.com^$popup,third-party
 ||bcvc.mobi^$popup,third-party
 ||beach-queen.net^$popup,third-party
 ||bee-tube.net^$popup,third-party
@@ -3747,6 +3750,7 @@ debugger:$popup
 ||cpaofferstat.com^$popup,third-party
 ||cpcfeed.com^$popup,third-party
 ||cpm.wargaming.net^$popup,third-party
+||cpm10.com^$popup,third-party
 ||cpmclick.com^$popup,third-party
 ||cpmofferconvert.com^$popup,third-party
 ||cptefr.com^$popup,third-party
@@ -4123,6 +4127,7 @@ debugger:$popup
 ||targead.com^$popup,third-party
 ||tcblpromo.com^$popup,third-party
 ||teracreative.com^$popup,third-party
+||terrabrs.com^$popup,third-party
 ||terrapops.com^$popup,third-party
 ||the-adult-company.com^$popup,third-party
 ||the-queen.net^$popup,third-party
