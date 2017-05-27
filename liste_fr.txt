@@ -2023,7 +2023,6 @@ debugger:$popup
 ||badibadou.eu^$third-party
 ||bakelitestationarityspouse.info^$third-party
 ||banstex.com^$third-party
-||bargetbook.com^$third-party
 ||baseandco.com^$third-party
 ||bayard-pub.com^$third-party
 ||baypops.com^$third-party
@@ -2034,7 +2033,6 @@ debugger:$popup
 ||beead.fr^$third-party
 ||best-deals-products.com^$third-party
 ||bestadbid.com^$third-party
-||bestarmour4u.link^$third-party
 ||bestcontentwork.top^$third-party
 ||bestfreecounterstat.com^$third-party
 ||betfredaffiliates.com^$third-party
@@ -2067,7 +2065,6 @@ debugger:$popup
 ||brlmoney.com^$third-party
 ||broadcast.pm^$third-party
 ||brombrombo.in^$third-party
-||budgement.info^$third-party
 ||buporez.com^$third-party
 ||buporez.xyz^$third-party
 ||bursttraffic.net^$third-party
@@ -2286,7 +2283,6 @@ debugger:$popup
 ||frtyi.com^$third-party
 ||fullon.tv^$third-party
 ||fullscreens.fr^$third-party
-||fungetbag.info^$third-party
 ||futureadlabs.com^$third-party
 ||gagner-une-console.com^$third-party
 ||gambling-france.com^$third-party
@@ -2317,13 +2313,10 @@ debugger:$popup
 ||gohillgo.com^$third-party
 ||goninjaspiel.com^$third-party
 ||goodaction.com^$third-party
-||goodbookbook.com^$third-party
 ||goracash.com^$third-party
 ||gravity4.com^$third-party
 ||greatchwall.com^$third-party
 ||greatregie.com^$third-party
-||greatwork.info^$third-party
-||grumbsun.info^$third-party
 ||gtburst.com^$third-party
 ||guestcash.com^$third-party
 ||guovdageaidnu.lol^$third-party
@@ -2367,7 +2360,6 @@ debugger:$popup
 ||inclk.com^$third-party
 ||infeed.tv^$third-party
 ||infidelemessenger.com^$third-party
-||infobizyours.info^$third-party
 ||infojeu.com^$third-party
 ||initialcontroledge.info^$third-party
 ||inpicture.tv^$third-party
@@ -2438,7 +2430,6 @@ debugger:$popup
 ||linkredirect.biz^$third-party
 ||linksprotection.com^$third-party
 ||linksynergy.com^$third-party
-||linqallgood.net^$third-party
 ||live18ans.com^$third-party
 ||livefreefunwith.me^$third-party
 ||liveparadise.com^$third-party
@@ -2510,7 +2501,6 @@ debugger:$popup
 ||mobusi.com^$third-party
 ||mobvista.com^$third-party
 ||mochiads.com^$third-party
-||modescrips.info^$third-party
 ||monarchads.com^$third-party
 ||monetiz.fr^$third-party
 ||monetize-me.com^$third-party
@@ -2615,7 +2605,6 @@ debugger:$popup
 ||or3f3xmk.xyz^$third-party
 ||orangepublicite.fr^$third-party
 ||ouaitupeuxregarderenillimite.com^$third-party
-||ourinstance.info^$third-party
 ||overlays.next-targeting.com^$third-party
 ||ovnet.fr^$third-party
 ||ovnet.net^$third-party
@@ -2788,7 +2777,6 @@ debugger:$popup
 ||scriptutils.net^$third-party
 ||sddan.com^$third-party
 ||sdk-ads.com^$third-party
-||see-work.info^$third-party
 ||seedtag.com^$third-party
 ||sefire.eu^$third-party
 ||sendmad.com^$third-party
@@ -2847,7 +2835,6 @@ debugger:$popup
 ||stream4stream.com^$third-party
 ||streaming-serie.xyz^$third-party
 ||streamvo.com^$third-party
-||streesusa.info^$third-party
 ||sublimemedia.fr^$third-party
 ||sublimeskinz.com^$third-party
 ||submitsupport.com^$third-party
@@ -3006,7 +2993,6 @@ debugger:$popup
 ||wheretogo.bid^$third-party
 ||whirlclick.com^$third-party
 ||white-eyes.com^$third-party
-||whonami.info^$third-party
 ||widespace.com^$third-party
 ||widgetbooster.com^$third-party
 ||wineuroptp.fr^$third-party
@@ -3018,7 +3004,6 @@ debugger:$popup
 ||woogames.me^$third-party
 ||work2media.com^$third-party
 ||worldclubtrack.com^$third-party
-||wortparser.info^$third-party
 ||wq4q0uln.club^$third-party
 ||wslinx.com^$third-party
 ||wydpt.com^$third-party
@@ -3197,13 +3182,28 @@ debugger:$popup
 ||fdf96bba78a9249ca4e.com^$third-party
 ! iframe
 /:\/\/[a-z]+\.info\/.{400,460}/$subdocument,third-party
+||bargetbook.com^$third-party
+||bestarmour4u.link^$third-party
 ||bowlingle.com^$third-party
+||budgement.info^$third-party
 ||charmstroy.info^$third-party
+||fungetbag.info^$third-party
+||goodbookbook.com^$third-party
+||greatwork.info^$third-party
+||grumbsun.info^$third-party
+||infobizyours.info^$third-party
+||linqallgood.net^$third-party
+||modescrips.info^$third-party
+||ourinstance.info^$third-party
 ||paradition.com^$third-party
 ||quierest.com^$third-party
 ||roughted.com^$third-party
+||see-work.info^$third-party
 ||signoredom.com^$third-party
+||streesusa.info^$third-party
 ||triction.info^$third-party
+||whonami.info^$third-party
+||wortparser.info^$third-party
 ! admeasures.com
 ||04v70ab.com^$third-party
 ||173js173.com^$third-party
@@ -3676,9 +3676,7 @@ debugger:$popup
 ||baise-ce-soir.com^$popup,third-party
 ||bbkiweeds.com^$popup,third-party
 ||bcvc.mobi^$popup,third-party
-||beach-queen.net^$popup,third-party
 ||bee-tube.net^$popup,third-party
-||bestarmour4u.net^$popup,third-party
 ||bestdealmedia.click^$popup,third-party
 ||bidtrk.com^$popup,third-party
 ||bidverdrd.com$popup,third-party
@@ -3686,8 +3684,6 @@ debugger:$popup
 ||bigbangempire.tv^$popup,third-party
 ||bigpicturepop.com^$popup,third-party
 ||bikinisgroup.com^$popup,third-party
-||birdminster.info^$popup,third-party
-||birdmobster.info^$popup,third-party
 ||bitadexchange.com^$popup,third-party
 ||bitload.me^$popup,third-party
 ||bleach.fr^$popup,third-party
@@ -3696,7 +3692,6 @@ debugger:$popup
 ||boeangranolith.bid^$popup,third-party
 ||booksuper.info^$popup,third-party
 ||boruto.fr^$popup,third-party
-||bowlingle.com^$popup,third-party
 ||brostraffic.com^$popup,third-party
 ||brucelead.com^$popup,third-party
 ||bstlnk.com^$popup,third-party
@@ -3735,9 +3730,6 @@ debugger:$popup
 ||companypolicyurl.com^$popup,third-party
 ||compazenad.com^$popup,third-party
 ||connectionpower.pw^$popup,third-party
-||consol-energy.net^$popup,third-party
-||console-bar.net^$popup,third-party
-||contentpap.info^$popup,third-party
 ||coolood.biz^$popup,third-party
 ||coosc.info^$popup,third-party
 ||copyop-ads.com^$popup,third-party
@@ -3774,12 +3766,10 @@ debugger:$popup
 ||ditwrite.com^$popup,third-party
 ||do-you-see.me^$popup,third-party
 ||dollario.com^$popup,third-party
-||download-epic4u.com^$popup,third-party
 ||download366.net^$popup,third-party
 ||downloadext.com^$popup,third-party
 ||downloadity.net^$popup,third-party
 ||downloadplayer1.com^$popup,third-party
-||downloatransfer.com^$popup,third-party
 ||dubshub.com^$popup,third-party
 ||dynsrvaba.com^$popup,third-party
 ||eacdn.com^$popup,third-party
@@ -3810,7 +3800,6 @@ debugger:$popup
 ||forcesdevente.ma^$popup,third-party
 ||frex.biz^$popup,third-party
 ||frtyo.com^$popup,third-party
-||funbagget.info^$popup,third-party
 ||fungoiddempseyimpasse.info^$popup,third-party
 ||funsafetab.com^$popup,third-party
 ||gamingaffbox.com^$popup,third-party
@@ -3819,8 +3808,6 @@ debugger:$popup
 ||gamingafftools.com^$popup,third-party
 ||gamingskin.com^$popup,third-party
 ||geniusdisplay.com^$popup,third-party
-||gernewt.info^$popup,third-party
-||gernu.info^$popup,third-party
 ||gestionpub.com^$popup,third-party
 ||get-my-ads.com^$popup,third-party
 ||getfile136.com^$popup,third-party
@@ -3841,7 +3828,6 @@ debugger:$popup
 ||gotositenow.com^$popup,third-party
 ||gowl.info^$popup,third-party
 ||goyavelab.com^$popup,third-party
-||greatwork.info^$popup,third-party
 ||guqu.info^$popup,third-party
 ||havenwrite.com^$popup,third-party
 ||hexaweb.net^$popup,third-party
@@ -3860,11 +3846,7 @@ debugger:$popup
 ||inclk.com^$popup,third-party
 ||india-zed.com^$popup,third-party
 ||infojeu.com^$popup,third-party
-||infoyours.info^$popup,third-party
 ||innovid.com^$popup,third-party
-||instanceour.info^$popup,third-party
-||instancetour.info^$popup,third-party
-||intervice.info^$popup,third-party
 ||ipsowrite.com^$popup,third-party
 ||irclick.net^$popup,third-party
 ||isanalyze.com^$popup,third-party
@@ -3912,7 +3894,6 @@ debugger:$popup
 ||meepwrite.com^$popup,third-party
 ||meetaffiliate.com^$popup,third-party
 ||mfpadv.com^$popup,third-party
-||minsterbird.info^$popup,third-party
 ||mistralads.com^$popup,third-party
 ||mmtracking.com^$popup,third-party
 ||mmtrkbb.com^$popup,third-party
@@ -3928,12 +3909,9 @@ debugger:$popup
 ||mobswift.com^$popup,third-party
 ||mobusi.com^$popup,third-party
 ||mobutrafsrcms.com^$popup,third-party
-||modescrip.info^$popup,third-party
-||modescrips.info^$popup,third-party
 ||monetizemytraffic.com^$popup,third-party
 ||monetizer.co^$popup,third-party
 ||moneymak3rstrack.com^$popup,third-party
-||monstersbird.info^$popup,third-party
 ||morevoluum.com^$popup,third-party
 ||motohem.com^$popup,third-party
 ||multiupload.com^$popup,third-party
@@ -3961,11 +3939,9 @@ debugger:$popup
 ||nbeatrk.com^$popup,third-party
 ||neigh.info^$popup,third-party
 ||never-break.com^$popup,third-party
-||newartspy.link^$popup,third-party
 ||newmediapln.net^$popup,third-party
 ||newstarads.com^$popup,third-party
 ||newtabtv.com^$popup,third-party
-||newtger.info^$popup,third-party
 ||nextlandingads.com^$popup,third-party
 ||no-hide.com^$popup,third-party
 ||npmpecd.com^$popup,third-party
@@ -3981,7 +3957,6 @@ debugger:$popup
 ||onclickpredictiv.com^$popup,third-party
 ||onclkds.com^$popup,third-party
 ||ondate.xyz^$popup,third-party
-||onderlea.info^$popup,third-party
 ||online-adnetwork.com^$popup,third-party
 ||only-stream.com^$popup,third-party
 ||onlygamesforme.com^$popup,third-party
@@ -3989,14 +3964,7 @@ debugger:$popup
 ||optmz.online^$popup,third-party
 ||othip.info^$popup,third-party
 ||ouaitupeuxregarderenillimite.com^$popup,third-party
-||ourinstance.info^$popup,third-party
 ||oxhax.com^$popup,third-party
-||papcontent.info^$popup,third-party
-||paradition.com^$popup,third-party
-||parserord.info^$popup,third-party
-||parsersword.info^$popup,third-party
-||parserward.info^$popup,third-party
-||parserwoad.info^$popup,third-party
 ||partagedefichiers.com^$popup,third-party
 ||pathere.info^$popup,third-party
 ||pdn-1.com^$popup,third-party
@@ -4006,7 +3974,6 @@ debugger:$popup
 ||performanceadexchange.com^$popup,third-party
 ||peritas247.info^$popup,third-party
 ||pertholin.com^$popup,third-party
-||planniver.com^$popup,third-party
 ||pleasewait.co^$popup,third-party
 ||plxnt.com^$popup,third-party
 ||popmycash.com^$popup,third-party
@@ -4048,7 +4015,6 @@ debugger:$popup
 ||pwwysydh.com^$popup,third-party
 ||px9y26.com^$popup,third-party
 ||quebec-bin.com^$popup,third-party
-||quierest.com^$popup,third-party
 ||rdsa2013.com^$popup,third-party
 ||rdsa2014.com^$popup,third-party
 ||reacheffect.com^$popup,third-party
@@ -4096,7 +4062,6 @@ debugger:$popup
 ||shipyards.xyz^$popup,third-party
 ||shopstockoff.com^$popup,third-party
 ||sierra-boa.com^$popup,third-party
-||signoredom.com^$popup,third-party
 ||silvercdn.ryukyu^$popup,third-party
 ||slimcdn.com^$popup,third-party
 ||slutroulette.com^$popup,third-party
@@ -4110,7 +4075,6 @@ debugger:$popup
 ||soutienaristophil.tk^$popup,third-party
 ||spaceshipads.com^$popup,third-party
 ||sporary.eu^$popup,third-party
-||sppcontent.info^$popup,third-party
 ||srvmd30s.com^$popup,third-party
 ||startnewtab.com^$popup,third-party
 ||stream4stream.com^$popup,third-party
@@ -4127,14 +4091,12 @@ debugger:$popup
 ||tag.regieci.com^$popup,third-party
 ||tag101.com^$popup,third-party
 ||tagnwin.com^$popup,third-party
-||takening.com^$popup,third-party
 ||targead.com^$popup,third-party
 ||tcblpromo.com^$popup,third-party
 ||teracreative.com^$popup,third-party
 ||terrabrs.com^$popup,third-party
 ||terrapops.com^$popup,third-party
 ||the-adult-company.com^$popup,third-party
-||the-queen.net^$popup,third-party
 ||theopenads.com^$popup,third-party
 ||thewhizltd.com^$popup,third-party
 ||thewhizmarketing.com^$popup,third-party
@@ -4175,7 +4137,6 @@ debugger:$popup
 ||url.rw^$popup,third-party
 ||urlcash.com^$popup,third-party
 ||vertoz.com^$popup,third-party
-||veteran-safe4u.com^$popup,third-party
 ||video1404.info^$popup,third-party
 ||videoroow.com^$popup,third-party
 ||vikings-streaming.fr^$popup,third-party
@@ -4209,8 +4170,6 @@ debugger:$popup
 ||yes-messenger.com^$popup,third-party
 ||yesmessenger.com^$popup,third-party
 ||yie4zooseif.info^$popup,third-party
-||yoursinfo.info^$popup,third-party
-||yoursinstance.info^$popup,third-party
 ||youwatchtab.com^$popup,third-party
 ||yoyadsdom.com^$popup,third-party
 ||yrdrtzmsmt.com^$popup,third-party
@@ -4222,6 +4181,51 @@ debugger:$popup
 ||zrada.site^$popup,third-party
 ||zwaar.net^$popup,third-party
 ||zwaar.org^$popup,third-party
+!
+||beach-queen.net^$popup,third-party
+||bestarmour4u.net^$popup,third-party
+||birdminster.info^$popup,third-party
+||birdmobster.info^$popup,third-party
+||bowlingle.com^$popup,third-party
+||consol-energy.net^$popup,third-party
+||console-bar.net^$popup,third-party
+||contentpap.info^$popup,third-party
+||download-epic4u.com^$popup,third-party
+||downloatransfer.com^$popup,third-party
+||educing.info^$popup,third-party
+||funbagget.info^$popup,third-party
+||gernewt.info^$popup,third-party
+||gernu.info^$popup,third-party
+||greatwork.info^$popup,third-party
+||infoyours.info^$popup,third-party
+||instanceour.info^$popup,third-party
+||instancetour.info^$popup,third-party
+||intervice.info^$popup,third-party
+||minsterbird.info^$popup,third-party
+||modescrip.info^$popup,third-party
+||modescrips.info^$popup,third-party
+||monstersbird.info^$popup,third-party
+||newartspy.link^$popup,third-party
+||newtger.info^$popup,third-party
+||onderlea.info^$popup,third-party
+||ourinstance.info^$popup,third-party
+||papcontent.info^$popup,third-party
+||paradition.com^$popup,third-party
+||parserord.info^$popup,third-party
+||parsersword.info^$popup,third-party
+||parserward.info^$popup,third-party
+||parserwoad.info^$popup,third-party
+||planniver.com^$popup,third-party
+||quierest.com^$popup,third-party
+||scripmode.info^$popup,third-party
+||signoredom.com^$popup,third-party
+||sppcontent.info^$popup,third-party
+||takening.com^$popup,third-party
+||the-queen.net^$popup,third-party
+||therse.info^$popup,third-party
+||veteran-safe4u.com^$popup,third-party
+||yoursinfo.info^$popup,third-party
+||yoursinstance.info^$popup,third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
