@@ -5595,6 +5595,8 @@ $webrtc,domain=bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.co
 |https://$script,third-party,xmlhttprequest,domain=embedezcast.com
 ! hqq.tv
 @@||api.peer5.com^$script,domain=hqq.tv|hqq.watch
+@@||c.vkcache.com/js/embed_st.js$script,domain=hqq.watch
+@@||c.vkcache.com/js/jquery_plugs/jquery-latest.min.js$script,domain=hqq.watch
 |http://$script,third-party,domain=hqq.tv|hqq.watch
 |https://$script,third-party,domain=hqq.tv|hqq.watch
 ||hqq.watch/js/adb/adb.js
