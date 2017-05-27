@@ -1465,6 +1465,7 @@ _werbebanner_
 /ad.*/aff_$popup
 /adcint/*$popup
 /adexchangelive.$popup
+/adplexmedia.$popup
 /adplexmedia/*$popup
 /ads.php$popup
 /ads/direct/*$popup
@@ -1564,7 +1565,9 @@ _werbebanner_
 /script/redirect.php?$popup
 /servePopunder.$popup
 /smart_ad/*$popup
+/splash.*?idzone=$popup
 /superlink?aff_id=$popup
+/syndication.*?idzone=$popup
 /t/?*&clickid=$popup
 /traffic.*&click_id=$popup
 /trk/|$popup
@@ -3926,6 +3929,7 @@ debugger:$popup
 ||mobusi.com^$popup,third-party
 ||mobutrafsrcms.com^$popup,third-party
 ||modescrip.info^$popup,third-party
+||modescrips.info^$popup,third-party
 ||monetizemytraffic.com^$popup,third-party
 ||monetizer.co^$popup,third-party
 ||moneymak3rstrack.com^$popup,third-party
@@ -5838,9 +5842,8 @@ streamango.com###videooverlay
 ||yourlink.in^$script,third-party
 ! linkbucks.com
 &utm_*=linkbucks$popup,subdocument
-/?utm_source=linkbucks.com&utm_medium=cpc&utm_term=rank+mee&utm_campaign=linkbucks.com
 ?utm_*=linkbucks$popup,subdocument
-|http://$subdocument,domain=abnouneuuxbozmt.net|aptclkzmoelfm.net|bhclvaqgxbpcd.net|bohjrmvzefy.net|brnopvwa.net|cedrofltell.net|cquixlgothzm.net|cvwgklzfu.net|esywoeuo.net|ezfbngpqcxnu.net|ffhogexfyplgm.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gheemuiwkrbof.net|gppezttuctpq.net|gpxibvwmjbo.net|ikqksgum.net|inesajjovx.net|iurmxkchajoxppg.net|kcmzydgk.net|kkssrjkyduydc.net|linkbucks.com|lnzpbkeijlkmfdr.net|lrlvmaeris.net|lskjpnkavksj.net|lzbsrxvkz.net|mcuzfdumqro.net|mkjuobtzd.net|mnjsowaj.net|neayknle.net|nistujwppzczgso.net|nsdxoecjx.net|nuzvlmynt.net|pipkdrzb.net|pqmwvnfyitjawsu.net|pzkopsvseileu.net|qdifkhrghxhbyw.net|rdzxxzabj.net|sa.ae|sipmnteinohts.net|sugjtdizgo.net|tbyauqjvluik.net|tditbdczodoowf.net|tiunleoecoolii.net|tmccbzsxu.net|ubqgcbmrqjdcqn.net|vdmduttihyxsx.net|vfbsjcwl.net|vvujlrldhpbou.net|wuhknlrnhcli.net|wxwqbpkr.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|zjslornrlnvbmom.net|ztevysowdzkkjw.net|zuemosjimenxnmy.net|zvpelwevlav.net|zypdvbupo.net
+|http://$subdocument,domain=abnouneuuxbozmt.net|aptclkzmoelfm.net|bhclvaqgxbpcd.net|bohjrmvzefy.net|brnopvwa.net|cedrofltell.net|cquixlgothzm.net|cvwgklzfu.net|esywoeuo.net|ewsavhyzg.net|ezfbngpqcxnu.net|ffhogexfyplgm.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gheemuiwkrbof.net|gppezttuctpq.net|gpxibvwmjbo.net|ikqksgum.net|inesajjovx.net|iurmxkchajoxppg.net|kcmzydgk.net|kkssrjkyduydc.net|linkbucks.com|lnzpbkeijlkmfdr.net|lrlvmaeris.net|lskjpnkavksj.net|lzbsrxvkz.net|mcuzfdumqro.net|mkjuobtzd.net|mnjsowaj.net|neayknle.net|nistujwppzczgso.net|nsdxoecjx.net|nuzvlmynt.net|pipkdrzb.net|pqmwvnfyitjawsu.net|pzkopsvseileu.net|qdifkhrghxhbyw.net|rdzxxzabj.net|sa.ae|sipmnteinohts.net|sugjtdizgo.net|tbyauqjvluik.net|tditbdczodoowf.net|tiunleoecoolii.net|tmccbzsxu.net|ubqgcbmrqjdcqn.net|vdmduttihyxsx.net|vfbsjcwl.net|vvujlrldhpbou.net|wuhknlrnhcli.net|wxwqbpkr.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|zjslornrlnvbmom.net|ztevysowdzkkjw.net|zuemosjimenxnmy.net|zvpelwevlav.net|zypdvbupo.net
 ||arabtise.com^$subdocument,third-party
 ||excoin.info^$subdocument,third-party
 ||fidelityhouse.eu^$subdocument,third-party
@@ -5851,7 +5854,7 @@ streamango.com###videooverlay
 ||super-virals.com^$subdocument,third-party
 ||uploadbank.com^$subdocument,third-party
 ! popup & popunder
-$popup,domain=adf.ly|allvid.ch|auroravid.to|ay.gy|cloudtime.to|dailyuploads.net|darkomplayer.com|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|filmstreamvk.ws|full-anime.com|full-film.me|full-serie.co|getmytorrent.com|go.ad2upapp.com|gorillavid.com|guadeloupe-paradise.fr|imgchili.net|j.gs|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|media1fire.com|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|pelis24.tv|powvideo.net|powvideo.xyz|putstream.com|q.gs|rapidvideo.com|rapidvideo.ws|shrvid.com|sokrostream.cc|speedvid.net|streamango.com|streamay.ws|streamplay.to|t411.ac|teramixer.com|thevid.net|thevideo.me|thevideobee.to|torlock.com|tout-sur-le-web.com|ultimedia.com|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidgg.to|vidhos.com|vidlox.me|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidup.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|wholecloud.net|xvidstage.com|yourporno.fr|zippyshare.com
+$popup,domain=adf.ly|allanalpass.com|allvid.ch|any.gs|auroravid.to|ay.gy|cash4files.com|cloudtime.to|dailyuploads.net|darkomplayer.com|drstickyfingers.com|dyo.gs|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|filesonthe.net|filmstreamvk.ws|freean.us|full-anime.com|full-film.me|full-serie.co|getmytorrent.com|go.ad2upapp.com|goneviral.com|gorillavid.com|guadeloupe-paradise.fr|hornywood.tv|imgchili.net|j.gs|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|linkbabes.com|linkbucks.com|media1fire.com|megaline.co|miniurls.co|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|pelis24.tv|poontown.net|powvideo.net|powvideo.xyz|putstream.com|q.gs|qqc.co|rapidvideo.com|rapidvideo.ws|seriousdeals.net|shrvid.com|sokrostream.cc|speedvid.net|streamango.com|streamay.ws|streamplay.to|t411.ac|teramixer.com|theseblogs.com|theseforums.com|thevid.net|thevideo.me|thevideobee.to|tinylinks.co|tnabucks.com|torlock.com|tout-sur-le-web.com|ultimedia.com|ultrafiles.net|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|urlbeat.net|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidgg.to|vidhos.com|vidlox.me|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidup.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|whackyvidz.com|wholecloud.net|xvidstage.com|yourporno.fr|yyv.co|zatnawqy.net|zippyshare.com|zytpirwai.net
 ! images hosting
 ||bluesattv.net/gif.gif
 ||hostingpics.net/pics/*468x60.
@@ -7586,7 +7589,6 @@ toutcash.com/images/bandeau-
 ||yts.ag/*.gif
 ||z-barre.com/fonction/aff*.php
 ||za-gay.org^*/exit_pop_up.js
-||zatnawqy.net^$popup,~third-party
 ||zdnet.fr/images/base/addv.gif
 ||zebest-3000.com/*.html
 ||zestreaming.com/ban.jpg
