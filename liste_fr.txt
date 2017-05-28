@@ -295,6 +295,7 @@
 /ad_trafic.
 /adaptvInfo.
 /adblock.php
+/adblock_banners/*
 /adblockbanner/*
 /adblockinsert.
 /adc-300-250-
@@ -5797,8 +5798,9 @@ streamango.com###videooverlay
 |http://$script,third-party,xmlhttprequest,domain=dz4link.com
 |https://$script,third-party,xmlhttprequest,domain=dz4link.com
 ! shorte.st
-|http://$subdocument,domain=clkme.me|cllkme.com|jigbig.tk|newsfortrump.ga|skiip.me|skipp.io|wiid.me
-|https://$subdocument,domain=clkme.me|cllkme.com|jigbig.tk|newsfortrump.ga|skiip.me|skipp.io|wiid.me
+$websocket,domain=clkme.me|cllkme.com|gestyy.com|jigbig.tk|newsfortrump.ga|skiip.me|skipp.io|wiid.me
+|http://$subdocument,domain=clkme.me|cllkme.com|gestyy.com|jigbig.tk|newsfortrump.ga|skiip.me|skipp.io|wiid.me
+|https://$subdocument,domain=clkme.me|cllkme.com|gestyy.com|jigbig.tk|newsfortrump.ga|skiip.me|skipp.io|wiid.me
 ! coshurl.co
 @@||ads.hyperdebrid.net^$image,script,stylesheet,xmlhttprequest,domain=ads.hyperdebrid.net
 |http://$popup,script,third-party,xmlhttprequest,domain=ads.hyperdebrid.net|coshurl.co
