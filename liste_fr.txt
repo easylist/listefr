@@ -369,6 +369,7 @@
 /ads/criteo2_
 /ads/dui.
 /ads/extra.
+/ads/feed/*
 /ads/get_
 /ads/gif/*
 /ads/left/*
@@ -1225,6 +1226,7 @@
 _120by600_
 _120x600banner.
 _250x300_
+_300_600.
 _300x250&
 _300x250/
 _300x250v1.
@@ -6880,7 +6882,6 @@ toutcash.com/images/bandeau-
 ||medialot.fr/wp-content/uploads/*/Logo-
 ||medialot.fr/wp-content/uploads/*/pub-
 ||medias.jds.fr/medias/direct/*/habillage_
-||medias.jds.fr/medias/direct/*_300_600.
 ||mediastay.net/delivery/
 ||mediscom.com/_medias_files/pub_files/
 ||mediscom.com/imagix/cv_annonceurs/
@@ -8457,6 +8458,7 @@ toutcash.com/images/bandeau-
 ##.AdsB
 ##.AdsC
 ##.AdsTop
+##.Ads_1
 ##.Ads_2
 ##.After-body-ads
 ##.ArticleContent-advertising
@@ -8661,6 +8663,7 @@ toutcash.com/images/bandeau-
 ##.aduns
 ##.aduns1
 ##.aduns2
+##.aduns3
 ##.adv--float
 ##.adv-header
 ##.adv300-topnews
