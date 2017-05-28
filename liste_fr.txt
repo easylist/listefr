@@ -315,6 +315,8 @@
 /adinit?
 /adj?auid=
 /adkompan.
+/adm_bmp.
+/admarvel_
 /admaxdsp/*
 /adoff.js?
 /adops_
@@ -1464,6 +1466,7 @@ _werbebanner_
 /__utm.gif$popup
 /a.php?mode=*&pgid=$popup
 /a4u_banner_.$popup
+/ad-maven-$popup
 /ad.*/aff_$popup
 /adcint/*$popup
 /adexchangelive.$popup
@@ -1492,6 +1495,7 @@ _werbebanner_
 /aff_ad?$popup
 /afu.php?id=&$popup
 /afu.php?zoneid=$popup
+/async.*&zoneid=$script,third-party
 /async_redirect?$popup
 /back?from=back&tracker=DEFAULT&token=$popup
 /banner_*&auto_click=$popup
@@ -3247,6 +3251,7 @@ debugger:$popup
 ||beyaek3.top^$third-party
 ||bg6s0.com^$third-party
 ||bi2n4.com^$third-party
+||bidgear.com^$third-party
 ||bjcvibh.com^$third-party
 ||bnutuin.com^$third-party
 ||btig3di.com^$third-party
@@ -3837,6 +3842,7 @@ debugger:$popup
 ||isanalyze.com^$popup,third-party
 ||istri.it^$popup,third-party
 ||istripper.com^$popup,third-party
+||jbjcv.com^$popup,third-party
 ||jetm-tech.net^$popup,third-party
 ||jeu-bleach.fr^$popup,third-party
 ||jeu-memontre.com^$popup,third-party
@@ -3950,6 +3956,7 @@ debugger:$popup
 ||othip.info^$popup,third-party
 ||ouaitupeuxregarderenillimite.com^$popup,third-party
 ||oxhax.com^$popup,third-party
+||paclitor.com^$popup,third-party
 ||partagedefichiers.com^$popup,third-party
 ||pathere.info^$popup,third-party
 ||pdn-1.com^$popup,third-party
@@ -5598,10 +5605,15 @@ $webrtc,domain=bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.co
 |https://$script,third-party,xmlhttprequest,domain=embedezcast.com
 ! hqq.tv
 @@||api.peer5.com^$script,domain=hqq.tv|hqq.watch
+@@||c.vkcache.com/js/device.js$script,domain=hqq.watch
+@@||c.vkcache.com/js/embed.js$script,domain=hqq.watch
 @@||c.vkcache.com/js/embed_st.js$script,domain=hqq.watch
+@@||c.vkcache.com/js/jquery.min.js$script,domain=hqq.watch
 @@||c.vkcache.com/js/jquery_plugs/jquery-latest.min.js$script,domain=hqq.watch
+@@||c.vkcache.com/js/video.$script,domain=hqq.watch
 |http://$script,third-party,domain=hqq.tv|hqq.watch
 |https://$script,third-party,domain=hqq.tv|hqq.watch
+||c.vkcache.com/js/betterj/
 ||hqq.watch/js/adb/adb.js
 ||hqq.watch/js/betterj/
 ||hqq.watch^*/license.
@@ -7667,6 +7679,7 @@ toutcash.com/images/bandeau-
 ||d1vp02a2w2d335.cloudfront.net^
 ||d1vwpe7grtcv9d.cloudfront.net^
 ||d1wjj8n9m51z7v.cloudfront.net^
+||d1zoiveqr7pf5b.cloudfront.net^
 ||d1zwpjtdh4bi8u.cloudfront.net^
 ||d20ct0j8bz6fs5.cloudfront.net^
 ||d20je219bs8hnq.cloudfront.net^
