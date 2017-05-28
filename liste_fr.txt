@@ -4424,6 +4424,7 @@ $webrtc,domain=bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.co
 ||cdn.speedvid.net^$popup
 ||cdn1.lp.saboom.com^
 ||cdn13.com^*/license.$script
+||cdn15.acloudimages.com^
 ||cdnpark.com/registrar/*/loader.js
 ||cdscdn.com^*/banniere_
 ||cdscdn.com^*/partenaires/
@@ -5415,6 +5416,7 @@ $webrtc,domain=bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.co
 |http://$script,third-party,xmlhttprequest,domain=t411.ac|t411.al
 |https://$script,third-party,xmlhttprequest,domain=t411.ac|t411.al
 ||t411.al/cdn-cgi/pe/bag2?*.addthis
+||t411.al/themes/blue/js/footer.js
 ! full-film.me
 @@||code.jquery.com^$script,domain=full-anime.com|full-film.me|full-serie.co
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=full-anime.com|full-film.me|full-serie.co
@@ -7635,6 +7637,7 @@ toutcash.com/images/bandeau-
 ||d14p8nzdvd75ly.cloudfront.net^
 ||d15cjcet1djbmv.cloudfront.net^
 ||d160mt023h8h3d.cloudfront.net^
+||d17ialcoirdn28.cloudfront.net^
 ||d17rlarvg2khuc.cloudfront.net^
 ||d19182vyfoustz.cloudfront.net^
 ||d1afet533lf7zs.cloudfront.net^
