@@ -143,6 +143,7 @@
 .asp?adv=
 .asp?affid=
 .aspx?adv=
+.bannerimage?aid=
 .campaignsFileLoaded$script
 .com.sa/ads/
 .com/adb.
@@ -795,6 +796,7 @@
 /lp_fkplay/*
 /mailorama120600.
 /makeBanner.js
+/MarketingResourceImages/*
 /markt/banner/*
 /media/300250.
 /media/72890.
@@ -2124,6 +2126,7 @@ debugger:$popup
 ||click2tap.com^$third-party
 ||clickbank.net^$third-party
 ||clickenabler.com^$third-party
+||clickfunnels.com^$third-party
 ||clickmena.com^$third-party
 ||clickpartoffon.xyz^$third-party
 ||clicksgear.com^$third-party
@@ -5004,6 +5007,8 @@ $webrtc,domain=bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|destructoid.co
 ||s3.amazonaws.com/mailcache.appinthestore.com/
 ||s3.amazonaws.com/smartdnsproxy-us/affiliate/
 ||s3.amazonaws.com^*/ads/
+||s3content.s3.amazonaws.com/imgemails/ban
+||s3content.s3.amazonaws.com/imgemails/cf
 ||salopes-du-jour.com/sexy.js
 ||sat-sharing.info/baners/
 ||scubastore.com^$popup,domain=sous-la-mer.com
@@ -9392,6 +9397,7 @@ toutcash.com/images/bandeau-
 ##a[href*="utm_medium=mega_banniere"] > img
 ##a[href*="weborama.fr/fcgi-bin/"]
 ##a[href*="xiti.com/go.ad?"]
+##a[href^=" http://fr.igraal.com/#parrain="] > img
 ##a[href^=".php/ads/"]
 ##a[href^=".php/annonce/ads/"]
 ##a[href^="/rdh?"]
