@@ -729,6 +729,7 @@
 /gfx/bannieres/*
 /goclick?ref=$script
 /grid/ads/*
+/hashcash.
 /header-ads.
 /header_ads|
 /homad-global-
@@ -1420,6 +1421,7 @@ _werbebanner_
 &cbiframe=$popup
 &click_to_display=$popup
 &clickverify=*&utm_$popup
+&id_publisher=*&id_$popup
 &id_rotation=$popup
 &lfapaff_id=$popup
 &noexitctapop=$popup
@@ -1622,6 +1624,7 @@ _werbebanner_
 ?clickid=*.adult.$popup
 ?exotracker=$popup
 ?floatpop=$popup
+?id_publisher=*&id_$popup
 ?id_rotation=$popup
 ?link=fakeplayer$popup
 ?MediaSegmentId=$popup
@@ -3899,6 +3902,7 @@ debugger:$popup
 ||mobswift.com^$popup,third-party
 ||mobusi.com^$popup,third-party
 ||mobutrafsrcms.com^$popup,third-party
+||modificans.com^$popup,third-party
 ||monetizemytraffic.com^$popup,third-party
 ||monetizer.co^$popup,third-party
 ||moneymak3rstrack.com^$popup,third-party
@@ -5853,6 +5857,7 @@ $websocket,domain=clkme.me|cllkme.com|gestyy.com|jigbig.tk|newsfortrump.ga|skiip
 ||protein.tn^$subdocument,third-party
 ||rankmee.com^$subdocument,third-party
 ||rements.com^$subdocument,third-party
+||shablol.com^$subdocument,third-party
 ||super-virals.com^$subdocument,third-party
 ||uploadbank.com^$subdocument,third-party
 ! popup & popunder
