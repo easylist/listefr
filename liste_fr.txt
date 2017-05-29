@@ -402,6 +402,7 @@
 /ads_60_
 /ads_90_728.
 /ads_block
+/ads_data_
 /ads_hao123.
 /ads_left.
 /ads_master.
@@ -712,6 +713,7 @@
 /fra/ads/*
 /frame_clic.*&aff=
 /frame_popup.
+/free/ads/*
 /frontend_loader.$script
 /frprn_ad.
 /full-page-script-short.
@@ -1063,6 +1065,7 @@
 /srv.php?size=300x250
 /srv.php?size=315x300
 /static/t/b.js
+/stocksad3.
 /supersonicads-
 /syndication/pub/*
 /Tag/go2?url=$subdocument
@@ -6801,6 +6804,7 @@ toutcash.com/images/bandeau-
 ||lesoirdalgerie.com/articles/*/dzauto.swf
 ||lespac.com/1/banners/
 ||lesparrains.fr/images/lesParrains.fr/offers/habillage_
+||letelegramme.fr/js/dfp_
 ||letempsdz.com/images/banners/
 ||letempsdz.com/images/stories/joomlart/banners/
 ||letopdusexe.net^
@@ -8356,6 +8360,13 @@ toutcash.com/images/bandeau-
 ###pub_container
 ###pub_contener_right
 ###pub_content
+###pub_dfp_banniere_basse
+###pub_dfp_banniere_haute
+###pub_dfp_banniere_middle
+###pub_dfp_droite_haute
+###pub_dfp_flash_trans
+###pub_dfp_habillage
+###pub_dfp_pre_home
 ###pub_droite
 ###pub_enbas
 ###pub_enbas1
@@ -8745,6 +8756,8 @@ toutcash.com/images/bandeau-
 ##.bireklam
 ##.bloc-ads
 ##.bloc-ads-container
+##.bloc-ligatus-300
+##.bloc-ligatus-500
 ##.bloc-pub
 ##.bloc-pub-side
 ##.blocPub
@@ -9762,7 +9775,7 @@ pagesjaunes.fr###goodDealsArea
 zero-complexe.com###google
 bdgest.com,bedetheque.com###hab_click
 bdgest.com,bedetheque.com###hab_click_side
-banques-en-ligne.fr,bd-sanctuary.com,bioalaune.com,c8.fr,canalplus.fr,cine-sanctuary.com,comics-sanctuary.com,ffeminin.com,gamer-network.fr,lequipement.fr,manga-sanctuary.com,nrj.fr###habillage
+banques-en-ligne.fr,bd-sanctuary.com,bioalaune.com,c8.fr,canalplus.fr,cine-sanctuary.com,comics-sanctuary.com,ffeminin.com,gamer-network.fr,lequipement.fr,letelegramme.fr,manga-sanctuary.com,nrj.fr###habillage
 leparking.fr###habillage-pub
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-right
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-top
