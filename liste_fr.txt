@@ -714,6 +714,7 @@
 /frame_clic.*&aff=
 /frame_popup.
 /free/ads/*
+/front_loar.js
 /frontend_loader.$script
 /frprn_ad.
 /full-page-script-short.
@@ -1444,6 +1445,7 @@ _werbebanner_
 &type=*&iframeDetected=$popup
 &url_annonceur=$popup
 &utm_$popup,domain=dailymotion.com
+&utm_*&alert=*&tid_$popup
 &utm_*=banner-ad&$popup
 &utm_medium=ads$popup
 &voluumdata=$popup
@@ -1698,6 +1700,7 @@ debugger:$popup
 ||space^*&pubid=$popup
 ||space^*?affid=$popup
 ||stream^*?zoneid=$popup
+||tech^*?affid=$popup
 ||trade^*?affid=$popup
 ||xyz^*&zone=$popup
 ||xyz^*&zoneid=$popup
@@ -3796,6 +3799,7 @@ debugger:$popup
 ||expertweb.xyz^$popup,third-party
 ||explodedigital.com^$popup,third-party
 ||extremesoundmedium.com^$popup,third-party
+||fastfixing.tech^$popup,third-party
 ||femme-cougar.tv^$popup,third-party
 ||femtoads.com^$popup,third-party
 ||fftrk.com^$popup,third-party
