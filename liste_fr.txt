@@ -2810,7 +2810,6 @@ debugger:$popup
 ||shabakti.com^$third-party
 ||shanglinli.com^$third-party
 ||shareaholic.com^$third-party
-||shink.in^$script,third-party
 ||shipboardserviceberrysiltstone.info^$third-party
 ||shoppingate.info^$third-party
 ||shoppytab.com^$third-party
@@ -5905,6 +5904,7 @@ $websocket,domain=clkme.me|cllkme.com|gestyy.com|jigbig.tk|newsfortrump.ga|skiip
 ||jumpbucks.com^$script,third-party
 ||link.tl^$script,third-party
 ||ouo.io^$script,third-party
+||shink.in^$script,third-party
 ||uskip.me^$script,third-party
 ||yourlink.in^$script,third-party
 ! linkbucks.com
@@ -11830,7 +11830,7 @@ _blockadblock_
 @@||scan-manga.fr^$stylesheet
 @@||securepubads.g.doubleclick.net/gampad/ads?$script,domain=7sur7.be
 @@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
-@@||shink.in/js/showads.js$script,domain=shink.in
+@@||shink.in/js/show_ads.js$script,domain=shink.in
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|itele.fr|larvf.com|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|portail.free.fr
 @@||static-v.com/lib/js/_source/blockadblock.js$script,domain=vtele.ca
