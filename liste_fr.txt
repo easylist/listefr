@@ -1209,6 +1209,7 @@
 ?clicktag=
 ?default_ad=
 ?id_promo=*&nsfw=
+?jsonKey=*partner%*onclick%
 ?mmzad=
 ?module=*&action=getPub
 ?oas_mode_pub=
@@ -2237,6 +2238,7 @@ debugger:$popup
 ||dvetech.fr^$third-party
 ||dynsrvaba.com^$third-party
 ||e-mailit.com^$third-party
+||e2ertt.com^$third-party
 ||easygetfreesoft4you.xyz^$third-party
 ||easyrencontre.com^$third-party
 ||ebuzing.com^$third-party
@@ -3098,6 +3100,7 @@ debugger:$popup
 ||00e20f955428d.com^$third-party
 ||0194c6fcbb3.com^$third-party
 ||04426f8b7ce9b069431.com^$third-party
+||0956228a2df97a.com^$third-party
 ||0a2e1434439ed3a7a2.com^$third-party
 ||0b577060a1a10.com^$third-party
 ||0c11cf900ec91e.com^$third-party
@@ -3139,11 +3142,14 @@ debugger:$popup
 ||63724eac2dd2226c.com^$third-party
 ||66e2f3129d997.com^$third-party
 ||688de7b3822de.com^$third-party
+||6ea56485aed0c.com^$third-party
+||71a30cae934e.com^$third-party
 ||71dfd978db603cea92a.com^$third-party
 ||743e6b34be13fb105e0.com^$third-party
 ||760d4b269ea7.com^$third-party
 ||7636ca6cb9fc.com^$third-party
 ||77d0f28ca582231.com^$third-party
+||7f19b1713b43f7db.com^$third-party
 ||8426e18d2eb0d5b94.com^$third-party
 ||86240336d5604d7.com^$third-party
 ||86402d8a7f2aa0.com^$third-party
@@ -3176,9 +3182,11 @@ debugger:$popup
 ||b9a861044f1.com^$third-party
 ||be96a951a802534.com^$third-party
 ||c1f9b35b00f.com^$third-party
+||c71a045530f0c1c8.com^$third-party
 ||c810b4e386a121f20.com^$third-party
 ||ca29ae96c40303ccfda.com^$third-party
 ||cb5864239d752.com^$third-party
+||ce69817852420b7fea.com^$third-party
 ||ce9c00f41ae8cdd.com^$third-party
 ||d0efb7d9aeb478d.com^$third-party
 ||d276dbe50af7e29d81.com^$third-party
@@ -4550,7 +4558,7 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
-||dailymotion.com^*autoplay=1$domain=anime301.com|anogaming.fr|bescherelletamere.fr|blagues-mobiles.com|buzzutopia.com|dailymotion.com|dragon-ball-super-streaming.com|hitek.fr|manga-fr.com|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|otakufr.com|pokemon-streaming.com|pokercast.tv|robindesdroits.me|sonyoutube.com|stream4free.pro|streaming-dragon-ball-super.com|tv-streaming-serie.xyz|youzapping.com
+||dailymotion.com^*autoplay=1$domain=anime301.com|anogaming.fr|bescherelletamere.fr|blagues-mobiles.com|buzzutopia.com|dailymotion.com|dragon-ball-super-streaming.com|hitek.fr|manga-fr.com|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|otakufr.com|pokemon-streaming.com|pokercast.tv|robindesdroits.me|sonyoutube.com|stream4free.pro|streaming-boruto.com|streaming-dragon-ball-super.com|tv-streaming-serie.xyz|youzapping.com
 ||dailymotion.com^*autoplay=true$domain=protect-iframe.com
 ||dailymotion.com^*mute=1$domain=captainmugiwara.over-blog.com
 ||damoh.schneevonmorgen.com^
@@ -5587,8 +5595,8 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 |http://$script,third-party,domain=dragon-ball-super-streaming.com
 |https://$script,third-party,domain=dragon-ball-super-streaming.com
 ! streaming-dragon-ball-super.com
-|http://$script,stylesheet,third-party,xmlhttprequest,domain=streaming-dragon-ball-super.com
-|https://$script,stylesheet,third-party,xmlhttprequest,domain=streaming-dragon-ball-super.com
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=streaming-boruto.com|streaming-dragon-ball-super.com
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=streaming-boruto.com|streaming-dragon-ball-super.com
 ! mavanime.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=mavanime.com
 |http://$script,third-party,domain=mavanime.com
@@ -5928,7 +5936,7 @@ $websocket,domain=clkme.me|cllkme.com|gestyy.com|jigbig.tk|newsfortrump.ga|skiip
 ||super-virals.com^$subdocument,third-party
 ||uploadbank.com^$subdocument,third-party
 ! popup & popunder
-$popup,domain=adf.ly|allanalpass.com|allvid.ch|any.gs|auroravid.to|ay.gy|cash4files.com|cloudtime.to|croco.site|dailyuploads.net|darkomplayer.com|drstickyfingers.com|dyo.gs|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|filescdn.com|filesonthe.net|filmstreamvk.ws|freean.us|full-anime.com|full-film.me|full-serie.co|getmytorrent.com|go.ad2upapp.com|goneviral.com|gorillavid.com|guadeloupe-paradise.fr|hornywood.tv|imgchili.net|j.gs|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|linkbabes.com|linkbucks.com|media1fire.com|megaline.co|miniurls.co|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|pelis24.tv|poontown.net|powvideo.net|powvideo.xyz|putstream.com|q.gs|qqc.co|rapidvideo.com|rapidvideo.ws|seriousdeals.net|shrvid.com|sokrostream.cc|speedvid.net|streamango.com|streamay.ws|streaming-dragon-ball-super.com|streamplay.to|t411.ac|teramixer.com|theseblogs.com|theseforums.com|thevid.net|thevideo.me|thevideobee.to|tinylinks.co|tnabucks.com|torlock.com|tout-sur-le-web.com|ultimedia.com|ultrafiles.net|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|urlbeat.net|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidgg.to|vidhos.com|vidlox.me|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidup.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|whackyvidz.com|wholecloud.net|xvidstage.com|yourporno.fr|yyv.co|zatnawqy.net|zippyshare.com|zytpirwai.net
+$popup,domain=adf.ly|allanalpass.com|allvid.ch|any.gs|auroravid.to|ay.gy|cash4files.com|cloudtime.to|croco.site|dailyuploads.net|darkomplayer.com|drstickyfingers.com|dyo.gs|e-wok.tv|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|filescdn.com|filesonthe.net|filmstreamvk.ws|freean.us|full-anime.com|full-film.me|full-serie.co|getmytorrent.com|go.ad2upapp.com|goneviral.com|gorillavid.com|guadeloupe-paradise.fr|hornywood.tv|imgchili.net|j.gs|jkanime.net|kickass.cd|kvid.org|letwatch.to|letwatch.us|linkbabes.com|linkbucks.com|media1fire.com|megaline.co|miniurls.co|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|openload.co|pelis24.tv|poontown.net|powvideo.net|powvideo.xyz|putstream.com|q.gs|qqc.co|rapidvideo.com|rapidvideo.ws|seriousdeals.net|shrvid.com|sokrostream.cc|speedvid.net|streamango.com|streamay.ws|streaming-boruto.com|streaming-dragon-ball-super.com|streamplay.to|t411.ac|teramixer.com|theseblogs.com|theseforums.com|thevid.net|thevideo.me|thevideobee.to|tinylinks.co|tnabucks.com|torlock.com|tout-sur-le-web.com|ultimedia.com|ultrafiles.net|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|urlbeat.net|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidgg.to|vidhos.com|vidlox.me|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidup.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|whackyvidz.com|wholecloud.net|xvidstage.com|yourporno.fr|yyv.co|zatnawqy.net|zippyshare.com|zytpirwai.net
 ! images hosting
 ||bluesattv.net/gif.gif
 ||hostingpics.net/pics/*468x60.
