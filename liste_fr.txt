@@ -5673,8 +5673,8 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 |http://$script,third-party,xmlhttprequest,domain=film-streaming-vf.org|filmstreamingvf.ws
 |https://$script,third-party,xmlhttprequest,domain=film-streaming-vf.org|filmstreamingvf.ws
 ! filmstreamvk.net
-|http://$script,third-party,xmlhttprequest,domain=filmstreamvk.com|filmstreamvk.net|filmstreamvk.ws
-|https://$script,third-party,xmlhttprequest,domain=filmstreamvk.com|filmstreamvk.net|filmstreamvk.ws
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=filmstreamvk.com|filmstreamvk.net|filmstreamvk.ws
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=filmstreamvk.com|filmstreamvk.net|filmstreamvk.ws
 ! lucariostream.co
 |http://$script,xmlhttprequest,domain=lucariostream.co
 |https://$script,xmlhttprequest,domain=lucariostream.co
