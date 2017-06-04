@@ -1055,6 +1055,7 @@
 /shopify_rolling_
 /shopping/?widget=
 /show.php?*&ad=
+/show.php?*&type=*&method=$script
 /show.php?z=*&code=
 /show/?block_id=*&r=$script
 /show_adv.
@@ -2785,6 +2786,7 @@ debugger:$popup
 ||rtrgt.com^$third-party
 ||rtrgt2.com^$third-party
 ||ruechaude.com^$third-party
+||rutrk.org^$third-party
 ||rvfrm2005.com^$third-party
 ||rvfrm2010.com^$third-party
 ||rw3xxb80.online^$third-party
@@ -3108,6 +3110,7 @@ debugger:$popup
 ||0956228a2df97a.com^$third-party
 ||0a2e1434439ed3a7a2.com^$third-party
 ||0b577060a1a10.com^$third-party
+||0b9d84d93f1b.com^$third-party
 ||0c11cf900ec91e.com^$third-party
 ||0c47f8422d3f.com^$third-party
 ||0d847862199.com^$third-party
@@ -3127,6 +3130,7 @@ debugger:$popup
 ||2962f0b09b862.com^$third-party
 ||2aa06b8b0760e0f85.com^$third-party
 ||2adc70d79081c250.com^$third-party
+||2bbb379103988619ef.com^$third-party
 ||2c3a97984f45.com^$third-party
 ||2f5a1f1fab21a56.com^$third-party
 ||32a79e2833309ebe.com^$third-party
@@ -3178,6 +3182,7 @@ debugger:$popup
 ||7aecd4ee5edfbb703be.com^$third-party
 ||7d6260236b547b31f.com^$third-party
 ||7f19b1713b43f7db.com^$third-party
+||7f8e91975bdc9c5f1c.com^$third-party
 ||823bc1a6cd3f1657.com^$third-party
 ||8426e18d2eb0d5b94.com^$third-party
 ||86240336d5604d7.com^$third-party
@@ -3191,6 +3196,7 @@ debugger:$popup
 ||9c40a04e9732e6a6.com^$third-party
 ||9cd76b4462bb.com^$third-party
 ||9e4a823c50b7.com^$third-party
+||9f4272342f817.com^$third-party
 ||a02d0adbca0.com^$third-party
 ||a1e8f64e7fc964.com^$third-party
 ||a258c3523a5c4a47bda.com^$third-party
@@ -3245,6 +3251,7 @@ debugger:$popup
 ||df63de4ef399b.com^$third-party
 ||e0663490cca0296f7.com^$third-party
 ||e0a42e1a21669b.com^$third-party
+||e331ff4e674c083.com^$third-party
 ||e4462a49a393.com^$third-party
 ||e521d17fa185a2.com^$third-party
 ||e6916adeb7e46a883.com^$third-party
@@ -3876,6 +3883,7 @@ debugger:$popup
 ||digiupload.com^$popup,third-party
 ||direction-x.com^$popup,third-party
 ||ditwrite.com^$popup,third-party
+||djummer.com^$popup,third-party
 ||do-you-see.me^$popup,third-party
 ||dollario.com^$popup,third-party
 ||download366.net^$popup,third-party
@@ -4115,7 +4123,6 @@ debugger:$popup
 ||prestoris.com^$popup,third-party
 ||profitforyou.info^$popup,third-party
 ||promo.voyance-web.fr^$popup,third-party
-||promotions.djummer.com^$popup,third-party
 ||promotools.biz^$popup,third-party
 ||ps4ux.com^$popup,third-party
 ||pt21na.com^$popup,third-party
@@ -5624,10 +5631,9 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
 ! vfstream.biz
-@@||ajax.googleapis.com/ajax/libs/$script,domain=vfstream.biz
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=vfstream.biz
-|http://$script,third-party,domain=vfstream.biz
-|https://$script,third-party,domain=vfstream.biz
+@@||ajax.googleapis.com/ajax/libs/$script,domain=frstreaming.info
+|http://$script,third-party,domain=frstreaming.biz|frstreaming.co|frstreaming.info|frstreaming.pro|frstreaming.top|vfstream.biz
+|https://$script,third-party,domain=frstreaming.biz|frstreaming.co|frstreaming.info|frstreaming.pro|frstreaming.top|vfstream.biz
 ! telecharger-film-gratuit.fr
 |http://$script,third-party,xmlhttprequest,domain=telecharger-film-gratuit.fr
 |https://$script,third-party,xmlhttprequest,domain=telecharger-film-gratuit.fr
@@ -11107,7 +11113,7 @@ meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[h
 go4up.com,torrent9.biz,torrent9.info,torrents9.org,torrents9.tv##a[href*="+"]
 telechargement-film.org##a[href*="-film-"]
 9divx.org,likeur.org##a[href*="-vip.html"]
-9divx.org,films-telecharger.eu,frtorrent.fr,jetelecharger1.fr,likeur.org,seriestreaming.net,streamingseries.info,telechargementz.tv,vfstream.biz##a[href*=".php"]
+9divx.org,films-telecharger.eu,frstreaming.info,frtorrent.fr,jetelecharger1.fr,likeur.org,seriestreaming.net,streamingseries.info,telechargementz.tv##a[href*=".php"]
 planete-series.info##a[href*=".php"] > img
 leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
 meilleurs-hebergeurs.com##a[href*="/-"] > img
