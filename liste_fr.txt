@@ -854,6 +854,7 @@
 /player.*?adSetCode=
 /player_ad.
 /plugins/dfp/$script
+/plugins/em_ad/*
 /plugins/vp_pub/*
 /plx_popup.js
 /pmd_gdfp-
@@ -7509,6 +7510,7 @@ toutcash.com/images/bandeau-
 ||teramixer.com/playerroll.html
 ||terre.tv/images/partenaires/
 ||terredauphinoise.fr/casiope/serveur/partage/
+||test-achats.be^*/images/skins/
 ||test.sexeanonyme.com^
 ||tetesaclaques.tv/public/images/promo_mini_300x127_canalplus_FR.jpg
 ||textograto.com/iframe1.php
@@ -10934,6 +10936,7 @@ quebeccoupongratuit.com##.size_728_90
 meilleureecoledefrance.com##.skin-left
 funradio.fr,lesinrocks.com,rtl.fr##.skin-link
 meilleureecoledefrance.com##.skin-right
+test-achats.be##.skin-wrapper
 picmix.com##.sky
 alvinet.com##.skyscraper
 jeuxjeuxjeux.fr##.skyscraper-container
