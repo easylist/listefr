@@ -808,6 +808,7 @@
 /menu/ADS/*
 /miniads/*
 /mnf_*x*.gif
+/mobilead300.
 /mobileadslide.
 /modalads.
 /modules.pub.js
@@ -6442,6 +6443,8 @@ toutcash.com/images/bandeau-
 ||easyrencontre.com/promo
 ||easyvols.org/leparisien/
 ||easyvols.org/liberation/
+||echoroukonline.com/sponsors/
+||echoroukonline.com/sponsors2015/
 ||economiematin.fr^*-ban-300x150.
 ||edcom.fr/images/habillage/
 ||edenflirt.co/pdv/*/?comfrom=*&cf2=$popup
@@ -8140,6 +8143,7 @@ toutcash.com/images/bandeau-
 ###advert01
 ###advert02
 ###advert_space
+###advertisement-3
 ###advideum
 ###advncdads-1
 ###advncdads-2
@@ -8316,6 +8320,7 @@ toutcash.com/images/bandeau-
 ###headerpub
 ###home-pub
 ###home_advertising_block
+###hp-pub-block-980x200
 ###hp_ad_most-played
 ###hp_ad_top-right
 ###idpublicitepave
@@ -8589,6 +8594,7 @@ toutcash.com/images/bandeau-
 ###roundPub
 ###sagreklam
 ###sbPubRegie
+###sg-pub-980x200
 ###shopper-widget-wrapper
 ###show_banner_bottom_leaderboard
 ###show_banner_leaderboard
@@ -8600,6 +8606,7 @@ toutcash.com/images/bandeau-
 ###slidepub
 ###solreklam
 ###spaceForPub
+###sponsor-block
 ###sponsoredResultitem
 ###squareadevertise
 ###squareadvertise
@@ -9143,6 +9150,7 @@ toutcash.com/images/bandeau-
 ##.pub-728x90
 ##.pub-730x90
 ##.pub-970x90
+##.pub-980x200
 ##.pub-Adtech
 ##.pub-ban
 ##.pub-banner
@@ -9423,6 +9431,7 @@ toutcash.com/images/bandeau-
 ##.tile_ad
 ##.titrePub
 ##.toast-ad
+##.top-ads-728-90
 ##.top-publicite
 ##.top-reklam-normal
 ##.topPub
@@ -10512,6 +10521,7 @@ allocine.fr##.coltop
 tirage-gagnant.com##.compteBar
 pagesjaunes.fr##.containerPdsSitesPartenaires
 strastv.com##.container_pubh_02
+aswak.echoroukonline.com##.content + .right
 quetelecharger.com##.content-bloc-pub
 cotemaison.fr,lexpress.fr##.content_inside_partner
 nintendo-master.com##.content_kelkoo_link
@@ -11360,6 +11370,7 @@ watchers.to##div[style$="cursor: pointer; top: 0px; left: 0px; position: fixed;"
 commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[style$="cursor: pointer; width: 32%;"]
 gboxes.com##div[style$="top: 0px; left: 0px; position: absolute; z-index: 999999; cursor: pointer;"]
 gamalive.com##div[style$="width:300px;height:250px;"]
+echoroukonline.com##div[style$="width:468px;"]
 ma-reduc.com##div[style*="/ads/"]
 impotsurlerevenu.org##div[style*="float:right;width:300px;"]
 superphysique.org##div[style*="text-align: center"][style*="width:250px"]
@@ -11404,6 +11415,7 @@ orangeinfo.fr##div[style="width:336px;height:280px;margin-bottom:20px;"]
 mortderire.info##div[style="width:728px; height:90px; margin:auto; margin-top:10px; text-align:center;"]
 video-buzz.eu##div[style="width:728px;height:90px;margin-left:auto;margin-right:auto;margin-bottom:15px;"]
 algerie360.com##div[style="width:970px; margin:0 auto; height:90px; text-align:center; clear:both; position:relative; padding:15px 0 0 "]
+aswak.echoroukonline.com##div[style="width:980px;height:200px;padding:2px 0px;"]
 solutions-logiciels.com##div[style^="border:1px solid black; width: 300px; height: 250px"]
 echoroukonline.com##div[style^="display:inline-block;width:300px;height:250px;"]
 embed.nowvideo.sx##div[style^="height: 350px; width: 600px; z-index:"]
@@ -11414,7 +11426,8 @@ forum-des-oranges.fr##div[style^="width: 728px;"]
 algerie360.com##div[style^="width:100%; height:100px"]
 copine-coquine.com##div[style^="width:300px;height:250px"]
 algerie360.com##div[style^="width:336px !important; height:280px !important;"]
-echoroukonline.com##div[style^="width:728px;height:90px;"]
+aswak.echoroukonline.com##div[style^="width:728px;height:90px;"]
+aswak.echoroukonline.com##div[style^="width:980px;height:200px;"]
 lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
@@ -11470,6 +11483,7 @@ radiofrance.fr##table[width="765"][height="100"]
 codeshttp.com##table[width="800"][height="100"]
 annonces-dz.com##table[width="800"][height="115"]
 codeshttp.com##table[width="800"][height="118"]
+aswak.echoroukonline.com##tbody > tr > .left
 algeriatenders.com##tbody > tr[style="height:92px;"]
 trancegoa.org##td > .fb-like-box + br + .texteentete.taille2
 films-regarder.com,films-regarder.org,films-regarder.xyz##td > [align="left"] + [align="right"]
