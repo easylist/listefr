@@ -1519,6 +1519,7 @@ _werbebanner_
 /banners?tid=$popup
 /banredir.cgi?$popup
 /bdv_rd.dbm?$popup
+/bonne.php?affaire=$popup
 /campaigns/click?$popup
 /click-cpa.$popup
 /click/*?affiliate=$popup
@@ -3811,6 +3812,7 @@ debugger:$popup
 ||blendernetworks.com^$popup,third-party
 ||bluemediappc.com^$popup,third-party
 ||boeangranolith.bid^$popup,third-party
+||bonnes-affaires.pro^$popup,third-party
 ||booksuper.info^$popup,third-party
 ||boruto.fr^$popup,third-party
 ||brostraffic.com^$popup,third-party
@@ -9815,6 +9817,7 @@ novaplanet.com###block_novadraganddrop_pub
 femmemag.re###block_regie_pub_bas_article
 cine-media.fr###bloctopad
 explorimmo.com###bob
+memoclic.com###bom_ban
 silicon.fr###boostToaster
 liligo.fr###bottom-banner-smart
 rugbyfederal.com###bottom_768x90
