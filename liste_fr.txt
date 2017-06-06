@@ -5533,9 +5533,7 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 |http://$media,object,script,third-party,xmlhttprequest,domain=femmeactuelle.fr
 |https://$media,object,script,third-party,xmlhttprequest,domain=femmeactuelle.fr
 ! tf1.fr
-/\/[a-z0-9]+\.[a-z0-9-]+\.[a-z]{2,}\/.{500,}/$object,third-party,xmlhttprequest,domain=tf1.fr
-|http://$media,third-party,domain=tf1.fr
-|https://$media,third-party,domain=tf1.fr
+/^((?!(^https?):\/\/www\.wat\.tv\/|(^)https:\/\/cdns\.gigya\.com\/|(^)https:\/\/ajax\.googleapis\.com\/|(^)https:\/\/widgets\.outbrain\.com\/|(^)https:\/\/connect\.facebook\.net\/|(^)https:\/\/platform\.instagram\.com\/|(^)https:\/\/platform\.twitter\.com\/|(^)https:\/\/e-cdns-files\.dzcdn\.net\/|(^)https:\/\/api\.deezer\.com\/).)*$/$media,object-subrequest,script,third-party,xmlhttprequest,domain=www.tf1.fr
 ! wat.tv
 @@||api.mytf1.tf1.fr^$object-subrequest,domain=wat.tv
 @@||hd1livhdsweblive-lh.akamaihd.net^$object-subrequest,domain=wat.tv
@@ -7441,7 +7439,6 @@ toutcash.com/images/bandeau-
 ||sky-animes.com/ban/partenaires/
 ||sky-animes.com/pubs/
 ||sky-animes.com/scripts/liens.php
-||slpubmedias.tf1.fr^
 ||snowsurf.com/media/habillage/
 ||societegenerale.fr^*/Habillage/
 ||sofoot.com/img/sofoot_partenaires/
@@ -12524,6 +12521,7 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 ||macadamianutdogma.org^$third-party
 ||macrocephalouspokerface.com^$third-party
 ||magistratedefenseintelligenceagency.net^$third-party
+||mainperman.com^$third-party
 ||malainsura.com^$third-party
 ||managesunflo.com^$third-party
 ||manjaimplor.com^$third-party
