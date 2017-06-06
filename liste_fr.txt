@@ -3302,17 +3302,21 @@ debugger:$popup
 ! iframe
 /:\/\/[a-z]+\.info\/.{400,460}/$subdocument,third-party
 ||bargetbook.com^$third-party
+||beershavartb.com^$third-party
 ||bestarmour4u.link^$third-party
 ||bowlingle.com^$third-party
 ||budgement.info^$third-party
 ||charmstroy.info^$third-party
+||contentpap.info^$third-party
 ||fungetbag.info^$third-party
 ||goodbookbook.com^$third-party
 ||greatwork.info^$third-party
 ||grumbsun.info^$third-party
 ||infobizyours.info^$third-party
+||leversions.info^$third-party
 ||linqallgood.net^$third-party
 ||modescrips.info^$third-party
+||oscarlosun.com^$third-party
 ||ourinstance.info^$third-party
 ||paradition.com^$third-party
 ||quierest.com^$third-party
@@ -3322,6 +3326,7 @@ debugger:$popup
 ||triction.info^$third-party
 ||whonami.info^$third-party
 ||wortparser.info^$third-party
+||yoursinfo.info^$third-party
 ! admeasures.com
 ||04v70ab.com^$third-party
 ||0azx1.com^$third-party
