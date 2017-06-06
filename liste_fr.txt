@@ -1657,6 +1657,7 @@ _werbebanner_
 ?voluumdata=$popup
 ?zoneid=$popup,domain=ddlfr.org
 ?zoneid=*&sz=$popup
+?zoneid=*/rel/index.cfm?$popup
 _300x250_*_adb$popup
 _728x90_*_adb$popup
 _ad_block_code?$popup
@@ -1671,6 +1672,7 @@ _packcpm.$popup
 _pop.php?z=$popup
 _pornofolies_$popup
 _regie/clic.$popup
+_zoneid=*/rel/index.cfm?$popup
 ! regex popups
 /\.com\/watch\?key\=([\da-f]{32}($))/$popup,third-party
 !
@@ -3773,6 +3775,7 @@ debugger:$popup
 ||adsawesome.com^$popup,third-party
 ||adschemist.com^$popup,third-party
 ||adschoom.com^$popup,third-party
+||adservebutler.com^$popup,third-party
 ||adserverpub.com^$popup,third-party
 ||adservingsolutionsinc.com^$popup,third-party
 ||adservme.com^$popup,third-party
@@ -3797,6 +3800,7 @@ debugger:$popup
 ||adxite-ads.com^$popup,third-party
 ||adxprts.com^$popup,third-party
 ||adyieldoptimizer.com^$popup,third-party
+||affforce.com^$popup,third-party
 ||affilanity.com^$popup,third-party
 ||affiliation-france.com^$popup,third-party
 ||affiliwix.com^$popup,third-party
@@ -3902,6 +3906,7 @@ debugger:$popup
 ||cpmclick.com^$popup,third-party
 ||cpmofferconvert.com^$popup,third-party
 ||cptefr.com^$popup,third-party
+||creativesrv.com^$popup,third-party
 ||cygnusadmedia.com^$popup,third-party
 ||cytochemistryrecitativewrasse.com^$popup,third-party
 ||danmeneldur.com^$popup,third-party
@@ -3924,6 +3929,7 @@ debugger:$popup
 ||downloadext.com^$popup,third-party
 ||downloadity.net^$popup,third-party
 ||downloadplayer1.com^$popup,third-party
+||dsplayme.com^$popup,third-party
 ||dubshub.com^$popup,third-party
 ||dynsrvaba.com^$popup,third-party
 ||eacdn.com^$popup,third-party
@@ -3954,6 +3960,7 @@ debugger:$popup
 ||fonderreaders.info^$popup,third-party
 ||forcesdevente.ma^$popup,third-party
 ||frex.biz^$popup,third-party
+||frstsrv.com^$popup,third-party
 ||frtyo.com^$popup,third-party
 ||fungoiddempseyimpasse.info^$popup,third-party
 ||funsafetab.com^$popup,third-party
@@ -4043,6 +4050,7 @@ debugger:$popup
 ||maxidivx.com^$popup,third-party
 ||maxonclick.com^$popup,third-party
 ||mbsuitmsmt.com^$popup,third-party
+||medeliveryou.com^$popup,third-party
 ||mediabuy.cloud^$popup,third-party
 ||mediasaleads.com^$popup,third-party
 ||mediavenus.biz^$popup,third-party
@@ -4206,6 +4214,8 @@ debugger:$popup
 ||scriptall.tk^$popup,third-party
 ||secure.securitetotale.com^$popup,third-party
 ||secure.securitetotale.fr^$popup,third-party
+||secureboom.net^$popup,third-party
+||selfsrver.com^$popup,third-party
 ||seminings.info^$popup,third-party
 ||sendmad.com^$popup,third-party
 ||sexclic.com^$popup,third-party
