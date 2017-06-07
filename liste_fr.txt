@@ -9527,6 +9527,8 @@ toutcash.com/images/bandeau-
 ##.zonepub
 ##[class*="proadszoneholder-"]
 ##[class^="trivago_widget_"]
+##[data-type="ad"][data-format]
+##[data-type="ad"][data-publisher]
 ##[data-type="ligatus-script"]
 ##[id*="-partners-adserver-"]
 ##[id*="/adunblock_"] > iframe
