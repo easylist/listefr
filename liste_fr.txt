@@ -4555,7 +4555,7 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 ||bit.ly$image,domain=teramixer.com
 ||bit.ly^$domain=nintendo-master.com
 ||bit.ly^$image,domain=korben.info|phonandroid.com
-||bit.ly^$popup,domain=telechargementz-streaming.com
+||bit.ly^$popup,domain=telechargementz-streaming.com|telechargementz.tv
 ||bitchvolley.com/ban/$third-party
 ||bitly.com/teraplayerplay$popup
 ||bitport.io/assets/banners/
@@ -5217,7 +5217,7 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 ||shopoon.fr/catalog/$third-party
 ||shopping.com/publisher/$third-party
 ||shoppingbox.leguide.com^
-||short-stuff.com^$popup,domain=telechargementz-streaming.com
+||short-stuff.com^$popup,domain=telechargementz-streaming.com|telechargementz.tv
 ||sikr.chimeratool.com^
 ||simabio.fr/widget_$third-party
 ||site.elkhabar.com^
@@ -7947,6 +7947,7 @@ toutcash.com/images/bandeau-
 ||d3d5har4hmweni.cloudfront.net^
 ||d3edizycpjjo07.cloudfront.net^
 ||d3f4u3khr0ycep.cloudfront.net^
+||d3fqhkmofpujs3.cloudfront.net^
 ||d3id4jppiyyek8.cloudfront.net^
 ||d3jnni91martf0.cloudfront.net^
 ||d3jw53rnbzs7gr.cloudfront.net^
@@ -11161,7 +11162,7 @@ jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
 narutoshippudenvf.com##a[class][target="_blank"]
 zone-telechargement.ru##a[href$=".html"]
-dl-protecte.com,free-telechargement.co,planet-streaming.com,streaming-telechargementz.net,telechargementz-streaming.com,telechargementz-streaming.net,telecharger-ebook-gratuit.net,telecharger-ebook-gratuit.org,zone-telechargement.ws##a[href$=".php"]
+dl-protecte.com,free-telechargement.co,planet-streaming.com,streaming-telechargementz.net,telechargementz-streaming.com,telechargementz-streaming.net,telechargementz.tv,telecharger-ebook-gratuit.net,telecharger-ebook-gratuit.org,zone-telechargement.ws##a[href$=".php"]
 telechargementz.tv##a[href$="/"] > img
 thebadbuzz.com##a[href$="/boost.php"]
 sites-torrent.com##a[href$="/seedbox"]
@@ -11285,7 +11286,7 @@ boursorama.com##a[href^="http://ads."]
 oujdacity.net##a[href^="http://ads.oujdacity.net/"]
 aidemu.fr##a[href^="http://aidemu.fr/pub/"]
 porno-mobile.ws##a[href^="http://anonym.to?"]
-films-regarder.co,films-regarder.com,films-regarder.org,films-regarder.xyz,telechargementz-streaming.com##a[href^="http://api.adlure.net/"]
+films-regarder.co,films-regarder.com,films-regarder.org,films-regarder.xyz,telechargementz-streaming.com,telechargementz.tv##a[href^="http://api.adlure.net/"]
 challenges.fr##a[href^="http://assurance-emprunteur.challenges.fr/"]
 dhnet.be##a[href^="http://bf1.be/"] > img
 bigbike-magazine.com,brain-magazine.fr,filmstreaming.la,grimper.com,igen.fr,kiteboarder-mag.com,macg.co,montagnes-magazine.com,mubawab.ma,nintendo-master.com,niveales.com,portail.free.fr,public.fr,skieur.com,skimagazine.fr,snowsurf.com,supmag.fr,trekmag.com,unleashed.fr,walking-dead-streaming.net,watchgeneration.fr,widermag.com,windmag.com##a[href^="http://bit.ly/"]
