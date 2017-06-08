@@ -9557,6 +9557,11 @@ toutcash.com/images/bandeau-
 ##[id^="ligatus-"]
 ##[id^="ligatus_"]
 ##[id^="pub_dart_"]
+##[onclick*="/rel/index.cfm?RST="]
+##[onclick*="/rel/index.cfm?TAD="]
+##[onclick*="FriendlyDuck.com/AF_"]
+##[onclick*="duckcash.eu/AF_"]
+##[onclick*="friendlyduck.com/AF_"]
 ##[onclick*="http://www.affbuzzads.com/affiliate/"]
 ##[slot-id^="div-gpt-ad-"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
@@ -9724,7 +9729,6 @@ toutcash.com/images/bandeau-
 ##a[href^="https://store.mspy.com/affiliate.php"] > img
 ##a[href^="https://www.g2a.com/r/"] > img
 ##a[onclick*="FriendlyDuck.com"]
-##a[onclick*="duckcash.eu/AF_"]
 ##a[onclick^="CustomWLAdServer."]
 ##a[target="_blank"][href*="/buy-vpn?"] > img
 ##div[id^="adsatlas-"]
