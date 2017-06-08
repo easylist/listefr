@@ -2241,8 +2241,6 @@ debugger:$popup
 ||downanddirty.xyz^$third-party
 ||download-pic.com^$third-party
 ||dreamstore.ch^$third-party
-||ds1.nl^$third-party
-||dt51.net^$third-party
 ||duapps.com^$third-party
 ||duporno.biz^$third-party
 ||dustin5043.fr^$third-party
@@ -3683,8 +3681,14 @@ debugger:$popup
 ||vasoelv.xyz^$third-party
 ||wpognfds.xyz^$third-party
 ||zrefmeee.xyz^$third-party
-! yavli.com
-!
+! daisycon.com
+/*/*/*/index.php?wi=*&ws=$image,third-party
+||ds1.nl^$third-party
+||dt51.net^$third-party
+||l1b.nl^$third-party
+||lt45.net^$third-party
+||newstat.net^$third-party
+||static-dscn.net^$third-party
 !
 !-------------------- Annonceurs popup --------------------!
 !
