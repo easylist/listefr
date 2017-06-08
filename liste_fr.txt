@@ -9033,8 +9033,14 @@ toutcash.com/images/bandeau-
 ##.div_pub_728_90
 ##.dossier-pub
 ##.e3lan
+##.e3lan-below_header
+##.e3lan-bottom
+##.e3lan-cell
 ##.e3lan-post
 ##.e3lan-top
+##.e3lan-widget-content
+##.e3lan300-250
+##.e3lan300-600
 ##.encart-pub
 ##.encart_pub
 ##.entete-pub
@@ -9526,6 +9532,7 @@ toutcash.com/images/bandeau-
 ##.zone_annonceurs
 ##.zonepub
 ##[class*="proadszoneholder-"]
+##[class^="ads300_600-widget-"]
 ##[class^="trivago_widget_"]
 ##[data-type="ad"][data-format]
 ##[data-type="ad"][data-publisher]
@@ -9536,6 +9543,8 @@ toutcash.com/images/bandeau-
 ##[id*="ScrollDownAds"]
 ##[id*="_ads_id_"]
 ##[id*="_custom_ads-"]
+##[id^="ads300_250-widget-"]
+##[id^="ads300_600-widget-"]
 ##[id^="ads_adnemo_"]
 ##[id^="block-xiti_oas-"]
 ##[id^="codeneric_ad_widget-"]
