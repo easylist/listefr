@@ -755,6 +755,7 @@
 /iframe_pub_
 /iframes/ads/*
 /IFrameStoreReciever.
+/image/ad.
 /images/*_ads/
 /images/adsMB/*
 /images/affiliates/*
@@ -4635,6 +4636,7 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 ||chp.org.tr^$domain=link.tl
 ||chromecrx.blogspot.co.il^
 ||chtiflouz.com/upload/ban/
+||cinenews.be/partners/
 ||classement.pro/button.php
 ||classistatic.com/*/banner/
 ||classistatic.com/*/homepage-banner/
@@ -5057,6 +5059,7 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 ||oranum.com^*/lang-popup-$subdocument
 ||otakumode.com/widget/$third-party
 ||ouo.io/images/*-ad.
+||out.be/partners/
 ||out.pladform.ru^
 ||over-blog-kiwi.com^*/*_ban-300x250.
 ||over-blog.net^*/js/OB.Disclaimer.js
@@ -5178,7 +5181,7 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 ||rencontre-ephemere.fr^$popup
 ||rencontres-gratuites-ville.com/images/banniere-
 ||rencontreshard.com^$subdocument
-||rendez-vous.be/scripts/Clients/
+||rendez-vous.be/scripts/$third-party
 ||restaurants.infcdn.net/img/$third-party
 ||rhcloud.com/*-affiliate-
 ||rhcloud.com^$domain=android-dz.com
@@ -6309,6 +6312,8 @@ toutcash.com/images/bandeau-
 ||blog-adulte.fr/sextoy.gif
 ||blog-nouvelles-technologies.fr/wp-content/annonceurs/
 ||blog.lesoir.be/*/banniere_
+||blog.lesoir.be/geeko/wp-content/uploads/sites/58/2015/06/im21bZ0
+||blog.lesoir.be/geeko/wp-content/uploads/sites/58/2015/06/N8-np_S
 ||blog.lesoir.be/geeko/wp-content/uploads/sites/58/2015/12/IMU.jpg
 ||blogsbd.fr/public/boulet-notes-t10.jpg
 ||blumei-piano.com/wp-content/themes/*/mylists.js
@@ -9097,6 +9102,9 @@ toutcash.com/images/bandeau-
 ##.google-ads-keylink
 ##.google_ad2
 ##.gptAd
+##.gr-ads
+##.gr-ads-imu
+##.gr-ads-imu-sticky
 ##.green-ad
 ##.gz_ads_title
 ##.h2-advert
@@ -9123,6 +9131,7 @@ toutcash.com/images/bandeau-
 ##.itemlist-block-pub
 ##.job_ads_container
 ##.jquery-adi
+##.js-ads-imu-sticky
 ##.js_DivPublicityLateral
 ##.jt-poublicidadContainer
 ##.kadmer-ad
@@ -10676,6 +10685,7 @@ gamekult.com##.gamerprices-tab
 voyages-sncf.com##.gondola-pub
 voyages-sncf.com##.gondola__video
 pagesjaunes.fr##.goodDealBlock
+lesoir.be##.gr-panel--entreprise
 lemondeinformatique.fr##.gradient-sponsor + .bloc-container
 star7arab.com##.grid[style="width: 770px; height: 69px;"]
 semageek.com##.h300
@@ -10842,6 +10852,7 @@ south-park-streaming.com##.p_728
 nautiljon.com##.pad
 lequotidiendumedecin.fr##.pane-ad
 lefigaro.fr##.pane-bloc-ad
+lesoir.be##.pane-bloc-partenaires
 monbestseller.com##.pane-mbspush
 priceminister.com##.panel_pub
 aujourdhui-en-france.fr,leparisien.fr##.parisien-section.pratique
@@ -11517,7 +11528,6 @@ copine-coquine.com##div[style^="width:300px;height:250px"]
 algerie360.com##div[style^="width:336px !important; height:280px !important;"]
 aswak.echoroukonline.com##div[style^="width:728px;height:90px;"]
 aswak.echoroukonline.com##div[style^="width:980px;height:200px;"]
-lesoir.be##form[action^="http://fr.rendez-vous.be/"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 igen.fr,macg.co##header + a[target="_blank"]
