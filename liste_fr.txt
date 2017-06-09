@@ -121,6 +121,8 @@
 -jquery.dfp.
 -net480x60.
 -popads_
+-popunder-ads.
+-popunders.
 -pub-300x250.
 -pub-ads/
 -reklama-300x300.
@@ -379,6 +381,7 @@
 /ads/left/*
 /ads/mgid_
 /ads/pops/*
+/ads/popups-
 /ads/rekleft.
 /ads/rekright.
 /ads/top_
@@ -2283,6 +2286,7 @@ debugger:$popup
 ||eurowebbiz.com^$third-party
 ||every.com^$third-party
 ||everybodyads.net^$third-party
+||ewingoset.info^$third-party
 ||ex-show.com^$third-party
 ||exarab.com^$third-party
 ||exchange.gouik.com^$third-party
@@ -5623,6 +5627,10 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 ! ddlfr.org
 |http://$script,third-party,xmlhttprequest,domain=ddlfr.org
 |https://$script,third-party,xmlhttprequest,domain=ddlfr.org
+! cocostreaming.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=cocostreaming.com
+|http://$script,third-party,domain=cocostreaming.com
+|httpd://$script,third-party,domain=cocostreaming.com
 ! cpasbien.cm
 |http://$script,third-party,domain=cpabien.xyz|cpasbien.cm|cpasbien.io
 |https://$script,third-party,domain=cpabien.xyz|cpasbien.cm|cpasbien.io
@@ -7859,6 +7867,7 @@ toutcash.com/images/bandeau-
 ||d1fttzrngno3h1.cloudfront.net^
 ||d1gp9nlx229wzz.cloudfront.net^
 ||d1hl7ya5ggieq0.cloudfront.net^
+||d1i2v9a8xom2hy.cloudfront.net^
 ||d1izbwxtc3f9ue.cloudfront.net^
 ||d1jq9nooxeft24.cloudfront.net^
 ||d1k0glcmk0b5rb.cloudfront.net^
