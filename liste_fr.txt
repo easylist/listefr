@@ -27,11 +27,13 @@
 &ad_path=
 &ad_sub=
 &ad_tags=
+&adBitrate=
 &adclickthrough=
 &adclickurl=
 &AdFormat=
 &adGapId=
 &adplace=
+&adPlayhead=
 &adroll_pix_id=
 &ads_size_id=
 &adsExpected=
@@ -201,6 +203,7 @@
 .showads.
 .sponsor.*?key=
 .swf?*=Ads.
+.vast.vpaid.$domain=cinenews.be
 .vod.ad_
 .wbdds.
 .xxx/imgban/
@@ -8784,6 +8787,7 @@ toutcash.com/images/bandeau-
 ##.ad_970x90
 ##.ad_header_728x90
 ##.ad_hidden
+##.ad_holder_text
 ##.ad_pause
 ##.ad_placholder
 ##.ad_sense
