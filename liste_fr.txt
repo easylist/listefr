@@ -542,6 +542,7 @@
 /banner/sponsor.
 /banner160.
 /banner160xx600.
+/banner2/*?sponsor=
 /banner300.
 /banner468-
 /banner720x90/*
@@ -9920,7 +9921,7 @@ meilleurmobile.com###bouyguestelecom
 moov.mg###box-link-left
 moov.mg###box-link-right
 previmeteo.com###box_4_pub
-laprovince.be###box_immovlan
+lameuse.be,laprovince.be###box_immovlan
 onlinetri.com###box_link_left
 onlinetri.com###box_link_right
 onlinetri.com###box_link_top
@@ -12199,6 +12200,7 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 ||nahuntaveradale.com^
 ||nimitzbushkill.com^
 ||norgerockingham.com^
+||oaklawnnonantum.com^
 ||obrienvillanova.com^
 ||penokeedutchtown.com^
 ||pontypriddcrick.com^
@@ -12227,7 +12229,7 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 ||wilberavenel.com^
 ||yelmcherryfield.com^
 !
-?ref=$script,domain=01net.com|clubic.com|cuisineaz.com|deco.fr|fourchette-et-bikini.fr|lequipe.fr|lesoir.be|letribunaldunet.fr|meteocity.com|radins.com|rtl.be|turbo.fr
+?ref=$script,domain=01net.com|clubic.com|cuisineaz.com|deco.fr|fourchette-et-bikini.fr|lameuse.be|lanouvellegazette.be|laprovince.be|lequipe.fr|lesoir.be|letribunaldunet.fr|meteocity.com|nordeclair.be|radins.com|rtl.be|turbo.fr
 !
 ! Adunblock
 ||adunblock.com^$popup,third-party
