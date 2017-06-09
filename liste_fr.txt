@@ -5308,6 +5308,7 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 ||torrent24h.net^$popup,third-party
 ||tour.reelvidz.com/movie_player_dps/$popup,third-party
 ||toutsurlesabdos.com/images/bannieres_$domain=europeplusnet.info
+||traceless.me/api/$third-party
 ||track.bcvc.mobi^
 ||track.bcvc.mobi^$popup
 ||track.bloglog.com^$third-party
@@ -5657,8 +5658,8 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 |https://$script,third-party,xmlhttprequest,domain=ddl-island.su|emule-island.ru|stream-island.ru|stream-island.su
 ! ex-down.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=extreme-protect.net
-|http://$script,stylesheet,third-party,xmlhttprequest,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.org|extreme-down.ws|extreme-protect.net|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
-|https://$script,stylesheet,third-party,xmlhttprequest,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.org|extreme-down.ws|extreme-protect.net|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.ws|extreme-protect.net|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.ws|extreme-protect.net|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
 ! streaming-kids.com
 |http://$script,third-party,xmlhttprequest,domain=streaming-kids.com
 |https://$script,third-party,xmlhttprequest,domain=streaming-kids.com
@@ -11375,7 +11376,7 @@ japan-expo.be##a[href^="pub-"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 dpstream.to,quedustream.com,streaming-series.to##a[href^="streaming-series"]
 mega-p2p.net##a[href^="vpn"]
-extreme-down.cc,extreme-down.in,zetorrento.fr,zetorrents.com##a[id]
+extreme-down.one,zetorrento.fr,zetorrents.com##a[id]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
 lien-torrent.com##a[onclick*="directlinks"]
