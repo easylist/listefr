@@ -199,6 +199,7 @@
 .pubdirecte.$domain=~pubdirecte.com
 .publicite.
 .showads.
+.sponsor.*?key=
 .swf?*=Ads.
 .vod.ad_
 .wbdds.
@@ -8213,6 +8214,7 @@ toutcash.com/images/bandeau-
 ###advert01
 ###advert02
 ###advert_space
+###advertisement-2
 ###advertisement-3
 ###advideum
 ###advncdads-1
@@ -11183,6 +11185,7 @@ leparticulier.fr##[id^="loca_service_simulateur_"]
 agate-france.com##[id^="pbad_"]
 dsih.fr##[id^="pub"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
+movietube.live##[id^="video"] a
 megatorrent.biz##[onclick="getVpn();"]
 amvtv.net##[style*="position: absolute; z-index: 99999"]
 xooit.com##[style*="z-index: 99999999; height: 92px; width: 100%;"]
@@ -11194,6 +11197,7 @@ lesoir.be##a > [width="300"][height="250"]
 jeddl.org##a > font
 basket-infos.com##a > img[alt^="Pub"]
 medialot.fr##a > img[height="250"]
+movietube.live##a > img[src$=".gif"]
 fourchette-et-bikini.fr##a > img[style="width: 660px; height: 190px;"]
 israelmagazine.co.il##a > img[width="238"]
 cowcotland.com##a#habiclic
