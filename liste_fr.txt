@@ -1451,6 +1451,7 @@ _werbebanner_
 &pubid=*-panther&$popup
 &pubid=*.adult.*&$popup
 &publisherid=$popup
+&pubref=*&utm_campaign=$popup
 &pubsite=$popup
 &redid=*&pop=$popup
 &runauction=$popup
@@ -2332,6 +2333,7 @@ debugger:$popup
 ||genhit.com^$third-party
 ||geniusdisplay.com^$third-party
 ||geniusinstaller.com^$third-party
+||gerasopa.com^$third-party
 ||gestion2web.com^$third-party
 ||getfile321.com^$third-party
 ||gethide.com^$third-party
@@ -4528,6 +4530,7 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 ||as-salat.fr/images/banners/
 ||asia-passion.fr/annuaire/ban/$third-party
 ||assurland.com/widgets/$third-party
+||astore.amazon.com^$subdocument,third-party
 ||astrill.com/bnrs/
 ||astroportail.com/images/pubastro4.gif
 ||asumi.shinobi.jp^
@@ -5194,6 +5197,7 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 ||scubastore.com^$popup,domain=sous-la-mer.com
 ||seargg.xyz^$popup
 ||securitetotale.com^$subdocument,third-party
+||senditcloud.com^$popup
 ||seo-autosurf.esy.es^*/upload/bannieres/
 ||seriefr.xyz^*?r=$popup
 ||series-en-streaming.tv^*?r=$popup
@@ -11195,6 +11199,7 @@ zone-telechargement.ru##a[href$=".html"]
 dl-protecte.com,free-telechargement.co,planet-streaming.com,streaming-telechargementz.net,telechargementz-streaming.com,telechargementz-streaming.net,telechargementz.tv,telecharger-ebook-gratuit.net,telecharger-ebook-gratuit.org,zone-telechargement.ws##a[href$=".php"]
 telechargementz.tv##a[href$="/"] > img
 thebadbuzz.com##a[href$="/boost.php"]
+zone-telechargement.ws##a[href$="/ddl/"]
 sites-torrent.com##a[href$="/seedbox"]
 opensubtitles.org##a[href$="=="][rel="nofollow"]
 torrent9.biz,torrent9.info,torrents9.org,torrents9.tv##a[href*=" "]
