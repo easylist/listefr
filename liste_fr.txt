@@ -5622,6 +5622,8 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 ||t411.al/themes/blue/js/footer.js
 ! full-film.me
 @@||code.jquery.com^$script,domain=full-anime.com|full-film.me|full-serie.co
+@@||disqus.com/embed.js$script,domain=full-anime.com|full-film.me|full-serie.co
+@@||disquscdn.com^$script,domain=full-anime.com|full-film.me|full-serie.co
 @@||fonts.googleapis.com/css?family=$stylesheet,domain=full-anime.com|full-film.me|full-serie.co
 @@||st.chatango.com/js/gz/emb.js$script,domain=full-anime.com|full-film.me|full-serie.co
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=full-anime.com|full-film.me|full-serie.co
