@@ -1526,6 +1526,7 @@ _werbebanner_
 /aff_ad?$popup
 /afu.php?id=&$popup
 /afu.php?zoneid=$popup
+/apu.php?zoneid=$popup
 /async.*&zoneid=$script,third-party
 /async_redirect?$popup
 /back?from=back&tracker=DEFAULT&token=$popup
@@ -1667,7 +1668,6 @@ _werbebanner_
 ?tid=*&red=$popup
 ?utm_*&clickverify=$popup
 ?voluumdata=$popup
-?zoneid=$popup,domain=ddlfr.org
 ?zoneid=*&sz=$popup
 ?zoneid=*/rel/index.cfm?$popup
 _300x250_*_adb$popup
@@ -5640,8 +5640,8 @@ $webrtc,domain=9divx.org|bypassed.gold|cpabien.cm|cpabien.xyz|ddl-island.su|dest
 |http://$script,third-party,xmlhttprequest,domain=regarder-film-gratuit.eu
 |https://$script,third-party,xmlhttprequest,domain=regarder-film-gratuit.eu
 ! ddlfr.org
-|http://$script,third-party,xmlhttprequest,domain=ddlfr.org
-|https://$script,third-party,xmlhttprequest,domain=ddlfr.org
+|http://$script,third-party,xmlhttprequest,domain=ddlfr.org|ddlfr.pw
+|https://$script,third-party,xmlhttprequest,domain=ddlfr.org|ddlfr.pw
 ! cocostreaming.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=cocostreaming.com
 |http://$script,third-party,domain=cocostreaming.com
