@@ -640,6 +640,7 @@
 /clients-ads.
 /cmpn_async.
 /code-float-ad.
+/code/adv/*
 /col_droite_googleads2
 /config_dfp.js
 /content?promo_id=
@@ -1595,6 +1596,8 @@ _werbebanner_
 /redirect?&tid=$popup
 /redirect?spot_id=$popup
 /redirect?tid=$popup
+/rel/index.cfm?RST=$popup
+/rel/index.cfm?TAD=$popup
 /renderBanner.do?$popup
 /retarget/*$popup
 /revive-adserver-$popup
@@ -3957,6 +3960,7 @@ debugger:$popup
 ||downloadplayer1.com^$popup,third-party
 ||dsplayme.com^$popup,third-party
 ||dubshub.com^$popup,third-party
+||duckssolutions.com^$popup,third-party
 ||dynsrvaba.com^$popup,third-party
 ||eacdn.com^$popup,third-party
 ||earth-111.com^$popup,third-party
@@ -4036,6 +4040,7 @@ debugger:$popup
 ||india-zed.com^$popup,third-party
 ||infojeu.com^$popup,third-party
 ||innovid.com^$popup,third-party
+||interria.net^$popup,third-party
 ||ipsowrite.com^$popup,third-party
 ||irclick.net^$popup,third-party
 ||isanalyze.com^$popup,third-party
@@ -11228,7 +11233,7 @@ meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[h
 go4up.com,torrent9.info,torrent9.top,torrents9.org,torrents9.tv##a[href*="+"]
 telechargement-film.org##a[href*="-film-"]
 9divx.org,likeur.org##a[href*="-vip.html"]
-9divx.org,films-telecharger.eu,frstreaming.info,frtorrent.fr,jetelecharger1.fr,likeur.org,seriestreaming.net,streamingseries.info,telechargementz.tv##a[href*=".php"]
+9divx.org,ebooks9.fr,films-telecharger.eu,frstreaming.info,frtorrent.fr,jetelecharger1.fr,likeur.org,seriestreaming.net,streamingseries.info,telechargementz.tv##a[href*=".php"]
 planete-series.info##a[href*=".php"] > img
 leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
 meilleurs-hebergeurs.com##a[href*="/-"] > img
