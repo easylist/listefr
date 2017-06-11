@@ -1345,6 +1345,8 @@ _Social-Advert-
 _waframedia_
 _werbebanner_
 ||com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com|~visuels.l214.com
+! regex
+/license.\d{1,5}.js$/$script,~third-party
 ! CDN filters
 /cdn-cgi/pe/bag2?*%2Fad_slideout.
 /cdn-cgi/pe/bag2?*%2Fads1.
@@ -5880,6 +5882,13 @@ $webrtc,domain=9divx.org|bypassed.gold|cocostreaming.com|cpabien.cm|cpabien.xyz|
 ! thevid.net
 |http://$script,third-party,domain=thevid.net
 |https://$script,third-party,domain=thevid.net
+! vidoza.net
+@@||ajax.googleapis.com/ajax/libs/$script,domain=vidoza.net
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=vidoza.net
+@@||vidoza.net/js/ads.js$script,domain=vidoza.net
+@@||vidoza.net/js/pop.js$script,domain=vidoza.net
+|http://$script,third-party,domain=vidoza.net
+|https://$script,third-party,domain=vidoza.net
 ! openload
 /assets/js/license.$domain=oload.tv|openload.co|protect-iframe.com|protect-video.com|streamango.com
 /assets/js/script.$domain=oload.tv|openload.co|protect-iframe.com|protect-video.com|streamango.com
