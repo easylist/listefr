@@ -5921,6 +5921,7 @@ oload.tv,streamango.com###videooverlay
 |http://$script,third-party,xmlhttprequest,domain=divxme.com
 |https://$script,third-party,xmlhttprequest,domain=divxme.com
 ! kvid.org
+@@||ajax.googleapis.com/ajax/libs/$script,domain=kvid.org
 |http://$script,subdocument,third-party,xmlhttprequest,domain=kvid.org
 |https://$script,subdocument,third-party,xmlhttprequest,domain=kvid.org
 ! free-telechargement.org
@@ -11442,6 +11443,7 @@ ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N',
 telechargementz.tv##a[rel="nofollow"]
 achat-bitcoins.com##a[rel="nofollow"] > img
 zetorrente.fr,zetorrents.com##a[rel]
+extreme-down.one##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
 4downfiles.org,buzzporn.net,footnamurois.com,jeddl.org,journaldu4x4.com,planet-streaming.com,seriezone.org,streaminghd.fr##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
