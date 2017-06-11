@@ -984,6 +984,7 @@
 /pubde2.
 /pubdirecte-pub.
 /pubdirecte_
+/pubfig.min.js
 /pubiframe/*
 /publ1c1te.
 /publi728.
@@ -6121,7 +6122,6 @@ $popup,domain=adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cl
 !
 /nexp/dok3v=*/cloudflare/rocket.js$script,domain=onhax.me|serie-vostfr.com
 !
-egora.fr/sites/all/themes/*/pub.png
 toutcash.com/images/bandeau-
 |http://$third-party,domain=bigvoy.com
 ||0zz0.com/e/$image
@@ -9182,6 +9182,7 @@ toutcash.com/images/bandeau-
 ##.mod-advertisement
 ##.modAd
 ##.modalPub
+##.module-pub
 ##.moduleAds728
 ##.module_epg_publicite
 ##.mom-ads-wrap
@@ -9854,7 +9855,6 @@ euro-2016-france.net###background-promo
 meilleurmobile.com###backgrounddiv
 deavita.fr###badHabbitsPopup
 argentmania.com,e-jeune.net###ban
-egora.fr###ban-gp
 manga-news.com###ban970250
 grandecran.fr###ban_big
 cdmail.fr###bandeau
@@ -10561,6 +10561,7 @@ public.fr##.bloc_rightcol_shopping
 lesechos.fr##.block-ailleursweb
 jeuxvideopc.com##.block-concours_en_cours
 jeuxvideo.fr##.block-divers-widget_shopping
+egora.fr##.block-egora-pub
 francetvsport.fr##.block-ftv-loading-of-mad
 laprovence.com##.block-gestion_block_gelp
 jeuxvideo.fr##.block-jeux-micromania_offre
@@ -11192,7 +11193,6 @@ booska-p.com##[href^="http://www.booska-p.com/re/"]
 onhax.me##[id*="-prom"]
 speedvid.net##[id][style*="z-index:"]
 turbo.fr##[id^="ABbypass"]
-egora.fr##[id^="block-gmsante_pub-"]
 comarketing-news.fr##[id^="comar-"]
 ecranlarge.com##[id^="criteo"]
 crichd.info##[id^="floatLayer"]
