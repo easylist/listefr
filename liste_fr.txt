@@ -237,6 +237,7 @@
 /300_250-2.
 /300_x_250
 /300by250two.
+/300toro.
 /300x250fr.
 /300x600.
 /300x600/*
@@ -248,6 +249,7 @@
 /468__60_
 /468by60two.
 /468px.php$subdocument
+/468toro.
 /468x60banner.
 /720x90.
 /720x90_dfp.
@@ -442,6 +444,7 @@
 /adsmanager.js
 /adsmouse.
 /adspage.
+/adstest.
 /adstrack/*
 /adsvrz-
 /adsw1.
@@ -5301,6 +5304,7 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 ||static.ccmbg.com/ops.ccmbg.com/
 ||static.fotolia.com/pics/*/banners/
 ||static.mntzm.com^
+||static.ox.pl/banners/
 ||static.poliris.com/zi/VgnAgences/
 ||static.s-sfr.fr/media/mire_$image
 ||static.shoptimate.com/js/partner.js
@@ -5704,6 +5708,10 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 ! streaming-kids.com
 |http://$script,third-party,xmlhttprequest,domain=streaming-kids.com
 |https://$script,third-party,xmlhttprequest,domain=streaming-kids.com
+! manga-streaming.fr
+|http://$script,third-party,domain=manga-streaming.fr
+|https://$script,third-party,domain=manga-streaming.fr
+||manga-streaming.fr^$subdocument,~third-party
 ! protect-stream.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=protect-stream.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=protect-stream.com
@@ -5851,9 +5859,11 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 |http://$script,third-party,domain=hqq.tv|hqq.watch
 |https://$script,third-party,domain=hqq.tv|hqq.watch
 ||c.vkcache.com/js/betterj/
+||hqq.tv/|
 ||hqq.watch/js/adb/adb.js
 ||hqq.watch/js/betterj/
 ||hqq.watch^*/license.
+||vkcache.com^$subdocument,domain=hqq.watch
 ! cloudy.ec
 @@||ajax.googleapis.com/ajax/libs/$script,domain=cloudy.ec
 |http://$script,third-party,domain=cloudy.ec
@@ -7125,6 +7135,7 @@ $popup,domain=adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cl
 ||manager-online.fr/images/sidebar/
 ||manga-news.com/public/banners/
 ||manga-sanctuary.com^*?url=
+||manga-streaming.fr/hentai.gif
 ||manifone.com/banner/
 ||mappy.com/*/files/campaigns/
 ||mappy.com/services/annoncesjaunes/
