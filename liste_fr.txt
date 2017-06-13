@@ -41,6 +41,7 @@
 &arabycash_
 &campaign_key=
 &cbrandom=
+&clickid=*&voluumdata=
 &cns_ads=
 &cns_ads_
 &cwadformat=
@@ -61,6 +62,7 @@
 &pubsite=
 &subpartenaire=
 &videoAdHtmlId=
+&voluumdata=*&zoneid=
 &zoneid=*&direct=
 ,728x90&promo_
 ,popjs|
@@ -4237,6 +4239,7 @@ debugger:$popup
 ||removeadsnow.info^$popup,third-party
 ||rencontresparis2015.com^$popup,third-party
 ||replacescript.in^$popup,third-party
+||respecials.com^$popup,third-party
 ||retargetads.net^$popup,third-party
 ||rev2pub.com^$popup,third-party
 ||revenuehits.com^$popup,third-party
@@ -4527,6 +4530,7 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 ||amazonaws.com/pubfig/
 ||amazonaws.com/static.contentza.com/
 ||amazonaws.com/waframedia*.
+||amazonaws.com^*&voluumdata=
 ||amazonaws.com^*-ccmbenchmark
 ||amazonaws.com^*/3x250-$subdocument
 ||amazonaws.com^*/publishers/$script
@@ -5224,6 +5228,7 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 ||scubastore.com^$popup,domain=sous-la-mer.com
 ||seargg.xyz^$popup
 ||securitetotale.com^$subdocument,third-party
+||sendit.cloud/images/banner/
 ||senditcloud.com^$popup
 ||seo-autosurf.esy.es^*/upload/bannieres/
 ||seriefr.xyz^*?r=$popup
@@ -7959,6 +7964,7 @@ $popup,domain=adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cl
 ||d28g1fhp6rn9w3.cloudfront.net^
 ||d28wlxclbkz49x.cloudfront.net^
 ||d29lpg037v41oq.cloudfront.net^
+||d2a945og79nayl.cloudfront.net^
 ||d2au4l2o128joe.cloudfront.net^
 ||d2b7n13v8adl6f.cloudfront.net^
 ||d2g4rjb98r20op.cloudfront.net^
@@ -8063,6 +8069,7 @@ $popup,domain=adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cl
 ||dhzws7l31cq8p.cloudfront.net^
 ||diqdel92t4na6.cloudfront.net^
 ||djsoo8p407d6p.cloudfront.net^
+||djtflbt20bdde.cloudfront.net^
 ||dk2mvwe4uw0z3.cloudfront.net^
 ||dk45agakx3yfl.cloudfront.net^
 ||dk7rftbivnkgr.cloudfront.net^
