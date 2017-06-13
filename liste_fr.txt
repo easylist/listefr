@@ -570,6 +570,8 @@
 /banners/*/adx.
 /banners/*?campaign_id=
 /banners/125x125.gif
+/banners/150x60.
+/banners/250X300.
 /banners/pub-
 /banners/show_flash.
 /banners?tid=
@@ -5301,6 +5303,7 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 ||static2.dmcdn.net/mc/skin_assets/*/body$image
 ||statstools.porn.fr^
 ||storefollow.com/?support=
+||streame.net^*/banners/$third-party
 ||streaming-de-films.net/telecharger-films-gratuits^$popup,domain=streaming-de-films.net
 ||streaming-football.org/widget
 ||streaming-hentai.org/images/$third-party
@@ -5823,6 +5826,9 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 ! filescdn.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=filescdn.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=filescdn.com
+! streame.net
+|http://$script,third-party,xmlhttprequest,domain=streame.net
+|https://$script,third-party,xmlhttprequest,domain=streame.net
 ! zony.tv
 |http://$script,third-party,xmlhttprequest,domain=zony.tv
 |https://$script,third-party,xmlhttprequest,domain=zony.tv
