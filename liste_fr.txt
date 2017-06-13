@@ -5972,6 +5972,8 @@ voodaith7e.com##div > [id^="player"] + div[id][style*="z-index:"]
 |http://$script,subdocument,third-party,xmlhttprequest,domain=voodaith7e.com|youwatch.org
 |https://$script,subdocument,third-party,xmlhttprequest,domain=voodaith7e.com|youwatch.org
 ||voodaith7e.com^*.html|$subdocument,~third-party
+! watchers.to (revolving redirection)
+||watchers.to^$subdocument,third-party
 ! nowvideo
 @@||ajax.googleapis.com/ajax/libs/$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|divxstage.to|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.com|videoweed.es
 @@||zerocdn.to/dash/$third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|divxstage.to|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.com|videoweed.es
@@ -11496,7 +11498,6 @@ pagesjaunes.fr##div[id^="push"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
 vakarm.net##div[onclick^="window.open('http://www.razerzone.com/"]
-watchers.to##div[style$="cursor: pointer; top: 0px; left: 0px; position: fixed;"]
 commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[style$="cursor: pointer; width: 32%;"]
 gboxes.com##div[style$="top: 0px; left: 0px; position: absolute; z-index: 999999; cursor: pointer;"]
 gamalive.com##div[style$="width:300px;height:250px;"]
