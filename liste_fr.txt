@@ -2602,6 +2602,7 @@ debugger:$popup
 ||n1.webedia.fr^$third-party
 ||n2*adserv.com^$third-party
 ||n339adserv.com^$third-party
+||namesakeoscilloscopemarquis.com^
 ||naruto-gaiden.com^$third-party
 ||natchit.com^$third-party
 ||natcho2016.website^$third-party
@@ -5788,9 +5789,9 @@ $webrtc,domain=9divx.org|bypassed.gold|cocostreaming.com|cpabien.cm|cpabien.xyz|
 |http://$script,third-party,xmlhttprequest,domain=regarderfilmhd.com
 |https://$script,third-party,xmlhttprequest,domain=regarderfilmhd.com
 ! libre-stream.com
-@@||bambergerkennanchitinous.com/.adframesrc.|$script,domain=libre-stream.com
-|http://$script,third-party,xmlhttprequest,domain=libre-stream.com
-|https://$script,third-party,xmlhttprequest,domain=libre-stream.com
+@@||bambergerkennanchitinous.com/.adframesrc.|$script,domain=libre-stream.com|ls-streaming.com
+|http://$script,third-party,xmlhttprequest,domain=libre-stream.com|ls-streaming.com
+|https://$script,third-party,xmlhttprequest,domain=libre-stream.com|ls-streaming.com
 ! 2ddl
 2ddl.download,2ddl.la,2ddl.org,best2ddl.net,iiddl.com##a[href^="javascript:"]
 @@||ajax.googleapis.com/ajax/libs/$script,domain=2ddl.download|best2ddl.net
@@ -9840,7 +9841,7 @@ courrierlaval.com,letraitdunion.com###add_top
 mistergoodmovies.net###addspace
 telechargerunevideo.com###adlbl
 clicanoo.re###adress_utiles
-ecogine.org,full-stream.nu,libre-stream.com,tendancehotellerie.fr###ads
+ecogine.org,full-stream.nu,libre-stream.com,ls-streaming.com,tendancehotellerie.fr###ads
 ustart.org###ads_tall
 algerie360.com###adssouspost
 nowvideo.eu###adv1
@@ -12120,6 +12121,7 @@ trackmusik.fr#@#.afs_ads
 @@||lethal-weapon-streaming.eu^$generichide
 @@||libre-stream.com^$generichide
 @@||likeup.fr^$generichide
+@@||ls-streaming.com^$generichide
 @@||macgames-download.com^$generichide
 @@||mariage-franco-marocain.net^$generichide
 @@||mobinozer.com^$generichide
