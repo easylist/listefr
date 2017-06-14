@@ -5283,7 +5283,6 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 ||skynet.be^*_leaderboard_
 ||sle.pagesjaunes.fr^
 ||sliceblog.com/img/pub/
-||slip.madmoizelle.com^
 ||sm-passion.net/ban/$third-party
 ||smartdnsproxy.com/affiliate/
 ||social.yoox.it/view.aspx?$third-party
@@ -9026,9 +9025,11 @@ $popup,domain=adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cl
 ##.antiadclass
 ##.app_google_ad_box
 ##.articleAd-banner
+##.article_pub
 ##.aside-pub-300
 ##.ast-block-adslot
 ##.avd_display_block
+##.avert__criteo
 ##.ban-728
 ##.ban_pub
 ##.bandeau_pub
@@ -10550,8 +10551,6 @@ igen.fr##.article a[class]
 igen.fr##.article div + [class]:last-child > img
 elhayatonline.net##.article-body + div[style*="width: 336px;"]
 lejournaldelamaison.fr,mariefrance.fr##.article-context-produit
-madmoizelle.com##.article_banner
-madmoizelle.com##.article_pub
 buzzly.fr##.article_pubtop
 msn.com##.aside-ad
 paruvendu.fr##.auto2010_inter_CONT
@@ -12058,7 +12057,7 @@ _blockadblock_
 @@.png#$image,domain=4downfiles.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|pxstream.tv|savefile.co|softmaroc.org|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
 @@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
-@@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|slip.madmoizelle.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
+@@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
 @@/advertisement.js$script,~third-party,domain=cap-public.fr|coco.fr|crash-aerien.aero|crash-aerien.news|e-wok.tv|fiki.faucetfly.com|quoverbis.com
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|silicon.fr
 @@||1max2sms.com/blogads.css
