@@ -451,6 +451,7 @@
 /adtube.js
 /adUnblock.
 /adv/*/banner/
+/adv/*?pid=
 /adv/*_468
 /adv/*_728
 /adv/adx.
@@ -628,6 +629,7 @@
 /cadre/728-$subdocument
 /campagne/redir/*
 /campaigns/banner?
+/CanvasAd.
 /carasexe.html$subdocument
 /carrepubHome.
 /cash_ban/*
@@ -2773,6 +2775,7 @@ debugger:$popup
 ||qiqiww.com^$third-party
 ||quaelead.com^$third-party
 ||quanta.lu^$third-party
+||quantum-advertising.com^$third-party
 ||qwerty1.co.pl^$third-party
 ||qwtbx.com^$third-party
 ||r867qq.net^$third-party
@@ -9570,6 +9573,7 @@ $popup,domain=adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cl
 ##.srcPub
 ##.srcPubZone
 ##.stackcommerce-widget
+##.stageAds
 ##.standard_adv_link
 ##.tab-reklam
 ##.tableAds
