@@ -4677,7 +4677,7 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 ||clicjeux.net/banniere.
 ||click-dz.com/img/$third-party
 ||click.alibaba.com^$subdocument
-||click.aliexpress.com^$popup
+||click.aliexpress.com^$popup,domain=~dealabs.com
 ||click.aliexpress.com^$subdocument
 ||click.besprod.com^$popup
 ||clickbiz.fr/upload/ban/
