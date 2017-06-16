@@ -5574,6 +5574,7 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 |http://$object-subrequest,script,third-party,xmlhttprequest,domain=ultimedia.com
 |https://$object-subrequest,script,third-party,xmlhttprequest,domain=ultimedia.com
 ! videoplaza
+.damoh.$media,~third-party
 .damoh.*.*/*/|
 ://*0.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
 ://*2.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
