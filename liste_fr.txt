@@ -5652,6 +5652,7 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 @@||ajax.googleapis.com/ajax/libs/$script,domain=ed-protect.org
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org|ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org|ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
+||extreme-down.one^$popup,~third-party
 ! streaming-kids.com
 |http://$script,third-party,xmlhttprequest,domain=streaming-kids.com
 |https://$script,third-party,xmlhttprequest,domain=streaming-kids.com
@@ -11578,6 +11579,7 @@ sinfest.net##noscript a
 bonjourmadame.fr##object[width="728"][height="90"]
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
 kbk-tv.com##section#ref
+extreme-down.one##span[style$="cursor: pointer;"]
 idowatch.net##style + [onclick]
 boursorama.com##style + div > .visible-desktop:first-child
 boursorama.com##sup.main[style="display: block;"]
