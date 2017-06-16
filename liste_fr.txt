@@ -544,6 +544,7 @@
 /banner/*/goclick/?
 /banner/*/sponsored?
 /banner/*?site_id=
+/banner/*?sponsor=
 /banner/*_affilie=
 /banner/*_sync.
 /banner/150x60.
@@ -8661,6 +8662,7 @@ $popup,domain=adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cl
 ###publicite_gauche
 ###publicite_header
 ###publicite_liste_bookmaker
+###publicite_orange
 ###publicite_right
 ###publicite_top
 ###publicite_txt
@@ -8980,6 +8982,7 @@ $popup,domain=adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cl
 ##.bandeau_pub
 ##.bandeau_pub_630
 ##.bandeau_pub_centre
+##.bandeau_pub_promo
 ##.banndar468x60
 ##.banner-leaderboard
 ##.banner_40X160
@@ -9278,6 +9281,8 @@ $popup,domain=adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cl
 ##.pub-ligatus-article
 ##.pub-megaban
 ##.pub-megabanner
+##.pub-oan-rectangle-bottom
+##.pub-oan-square-side
 ##.pub-partenaires
 ##.pub-pave
 ##.pub-promo
@@ -9582,6 +9587,7 @@ $popup,domain=adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cl
 ##.yourcolor-ads
 ##.zoneAds
 ##.zone_annonceurs
+##.zone_pub_orange
 ##.zonepub
 ##[class*="proadszoneholder-"]
 ##[class^="ads300_600-widget-"]
@@ -10841,6 +10847,7 @@ numerama.com##.module_sponsored
 lanutrition.fr##.moduletable-banner
 lanutrition.fr##.moduletable-pub2
 rtl.fr##.money-talks
+118712.fr##.mpl
 lemondeinformatique.fr##.mpu
 gamekult.com##.mpubas-wrapper
 agroligne.com##.nbs-flexisel-container
