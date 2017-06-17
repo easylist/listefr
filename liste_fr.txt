@@ -781,7 +781,9 @@
 /img-bandeau-pub/*
 /img/46860.
 /img/_ad/*
+/img/adv_
 /img/bnr728.
+/img/vda_
 /imgs/adv/*
 /in-ad_desktop/*
 /include/partenaires.
@@ -7459,9 +7461,7 @@ $popup,domain=adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cl
 ||rencontres.nc^*.html$object,subdocument
 ||republicain-lorrain.fr/images/pub/
 ||restoconnection.fr/wp-content/uploads/*_banner_
-||reverso.net/*/Static/IMG/adv_
 ||reverso.net^*/img/blockers/
-||reverso.net^*/img/vda_
 ||roulettechat.fr/dynjs/geoloc
 ||roulettechat.fr/js/adsacwm.js
 ||roulettechat.fr^*/facebook-api-pub/
@@ -8281,6 +8281,7 @@ $popup,domain=adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cl
 ###advncdads-2
 ###advncdads-3
 ###advpanel
+###advsection
 ###affinfospecialechalons
 ###after-adv
 ###after-dfp-products
@@ -8999,6 +9000,7 @@ $popup,domain=adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cl
 ##.advertisement-pub
 ##.advertising-box
 ##.advertising-box-full
+##.advhead
 ##.advimg46860
 ##.advimg72890
 ##.advn_zone
@@ -9888,7 +9890,6 @@ algerie360.com###adssouspost
 nowvideo.eu###adv1
 7sur7.be###adv_bg_clickurl
 cuisineaz.com###advi
-reverso.net###advsection
 telechargementgratuits.com###aff-france
 spi0n.com###aff_spion-7
 finalclap.com###aff_tuto_com
@@ -10496,7 +10497,6 @@ arabzik.org,fipradio.fr,francemusique.fr,jeu.fr,jeux.fr,lesoir.be,midilibre.fr##
 decitre.fr##.advertise
 lemoniteur.fr,sites-torrent.com,skipass.com,telerama.fr##.advertisement
 traildesforts.com##.advertising
-reverso.net##.advhead
 statistiks.fr##.adz
 aufeminin.com##.af-block-native
 permaculteurs.com##.aff
@@ -11247,6 +11247,7 @@ ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
 guide-piscine.fr##[class^="regie_"]
 msn.com##[class^="stripecontaine"][data-section-id="stripe.store"]
 omgtorrent.me##[class^="toro"]
+reverso.net##[class^="vda-"]
 jeu.fr##[data-fallback-type="image"]
 films-telecharger.eu##[data-hash]
 meteofrance.com##[href*=".xiti.com"] > img
