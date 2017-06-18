@@ -2685,6 +2685,7 @@ debugger:$popup
 ||oopt.fr^$third-party
 ||ooxad.com^$third-party
 ||opresat.ru^$third-party
+||opressity.com^$third-party
 ||orangepublicite.fr^$third-party
 ||ouaitupeuxregarderenillimite.com^$third-party
 ||overlays.next-targeting.com^$third-party
@@ -5680,6 +5681,9 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 @@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=torrent9.biz|torrent9.info|torrent9.top|torrents9.org
 |http://$popup,script,third-party,domain=cpabien.xyz|cpasbien.cm|cpasbien.io|torrent9.biz|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
 |https://$popup,script,third-party,domain=cpabien.xyz|cpasbien.cm|cpasbien.io|torrent9.biz|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
+! nextorrent.net
+|http://$script,third-party,xmlhttprequest,domain=nextorrent.net
+|https://$script,third-party,xmlhttprequest,domain=nextorrent.net
 ! proxyportal.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=bypassed.gold|immunicity.gold|unblocked.gold
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=bypassed.gold|immunicity.gold|unblocked.gold
@@ -8016,6 +8020,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||d2z0gqc8sv0l7p.cloudfront.net^
 ||d2zc7uilftxw71.cloudfront.net^
 ||d32r49xyei4vz6.cloudfront.net^
+||d32suzlk3an1bu.cloudfront.net^
 ||d32zx4lhje2crr.cloudfront.net^
 ||d33dsfwui17p31.cloudfront.net^
 ||d33z8jzg2xbwjp.cloudfront.net^
