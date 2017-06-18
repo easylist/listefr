@@ -5644,11 +5644,11 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 ||t411.al/cdn-cgi/pe/bag2?*.addthis
 ||t411.al/themes/blue/js/footer.js
 ! full-film.me
-@@||code.jquery.com^$script,domain=full-anime.com|full-film.me|full-serie.biz
-@@||disqus.com/embed.js$script,domain=full-anime.com|full-film.me|full-serie.biz
-@@||disquscdn.com^$script,domain=full-anime.com|full-film.me|full-serie.biz
-@@||fonts.googleapis.com/css?family=$stylesheet,domain=full-anime.com|full-film.me|full-serie.biz
-@@||st.chatango.com/js/gz/emb.js$script,domain=full-anime.com|full-film.me|full-serie.biz
+@@||code.jquery.com^$script,domain=full-serie.biz
+@@||disqus.com/embed.js$script,domain=full-serie.biz
+@@||disquscdn.com^$script,domain=full-serie.biz
+@@||fonts.googleapis.com/css?family=$stylesheet,domain=full-serie.biz
+@@||st.chatango.com/js/gz/emb.js$script,domain=full-serie.biz
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=full-anime.com|full-film.me|full-serie.biz|full-serie.co
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=full-anime.com|full-film.me|full-serie.biz|full-serie.co
 ! voirfilms.com
