@@ -1072,6 +1072,7 @@
 /script/Pub.php?id=
 /scriptPub.
 /scriptPub_
+/scripts-pub.
 /scripts/adv_
 /scripts/sweet/?js=*&$script,third-party
 /sdk-ads.
@@ -7346,7 +7347,8 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||ouedkniss.com/pubs/
 ||ouedkniss.com/swf/Interstitiel.swf
 ||ouedkniss.com^*/index_pub.js
-||ouestfrance-auto.com/tools/widget/?
+||ouest-france.fr/*ploads/banner/
+||ouestfrance-auto.com/widget/$third-party
 ||ouifm.fr^*/images/partners/
 ||oujdacity.net/kelkoo*.html
 ||outils-web.com/frm_menu_
@@ -8320,6 +8322,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ###annonce_pub_contenu
 ###annoncegoogle
 ###annoncepub
+###article-pub-content
 ###article_add468x60
 ###article_add_300x600
 ###article_add_980x200
@@ -8626,6 +8629,8 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ###pubMiddle
 ###pubPartenaires
 ###pubPave2
+###pubPosition1
+###pubPosition2
 ###pubTop
 ###pubVideo
 ###pub_1
@@ -8644,8 +8649,12 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ###pub_ban
 ###pub_bandeau
 ###pub_banner
+###pub_banniere_basse
+###pub_banniere_haute
+###pub_banniere_medium
 ###pub_bas
 ###pub_bottom
+###pub_brique
 ###pub_carre
 ###pub_carre_1
 ###pub_col_right
@@ -8677,6 +8686,9 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ###pub_left
 ###pub_megaban
 ###pub_pave
+###pub_pave2
+###pub_pave3
+###pub_pave4
 ###pub_pave_article
 ###pub_pave_bottom
 ###pub_pave_top
@@ -9654,6 +9666,8 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##.zonepub
 ##[class*="proadszoneholder-"]
 ##[class^="ads300_600-widget-"]
+##[class^="region-pub-bottom-"]
+##[class^="region-pub-position-"]
 ##[class^="trivago_widget_"]
 ##[data-type="ad"][data-format]
 ##[data-type="ad"][data-publisher]
@@ -10328,7 +10342,6 @@ tlm.fr###pubFloat
 telequebec.tv###pubIlotContainer
 gamer-network.fr###pubLarge
 degrouptest.com###pubLink
-ouest-france.fr###pubPosition1
 xoo.it###pubRdc
 tlm.fr###pubRight
 soundlightup.com###pubSidebar1
@@ -10340,7 +10353,6 @@ fansubresistance.in###pub_728x90_sous_solo
 tele.premiere.fr###pub_a2d_pave
 vo2.fr###pub_background
 entrecoquins.com###pub_boutique
-ouest-france.fr###pub_brique
 jeuxvideo.com###pub_carre1
 entrecoquins.com###pub_club
 millenium.org###pub_col_droite
@@ -10352,6 +10364,7 @@ lesmobiles.com###pub_middle_home
 algerie360.com###pub_rand300a
 algerie360.com###pub_rand300b
 entrecoquins.com###pub_tatoo
+ouest-france.fr###pub_wallpaper
 voyageforum.com###pubbetween
 paris-communiques.com,plateformemedia.com###publaterale
 troc-velo.com###publine
@@ -11009,7 +11022,7 @@ pornofrance.org##.promomenu
 meteosun.com##.promote_large
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
-abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,inovaovao.com,internetparsatellite.net,ktotv.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,logicielmac.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zupimages.net##.pub
+abrutis.com,ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forums-fec.be,franceinfo.fr,franceinter.fr,frandroid.com,inovaovao.com,internetparsatellite.net,ktotv.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,logicielmac.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,multixa.net,nintendo-master.com,nordeclair.be,orange.mu,ouest-france.fr,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,web-tricheur.net,yabiladi.com,yatahonga.com,zupimages.net##.pub
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
 playfrance.com##.pub-col3
@@ -12072,7 +12085,7 @@ _blockadblock_
 @@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=4downfiles.org|alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|macgames-download.com|the-night-of-streaming.eu
 @@.png#$image,domain=4downfiles.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|pxstream.tv|savefile.co|softmaroc.org|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
-@@/adblock.js$script,domain=jeuxvideo.com|ouest-france.fr|streaming-foot.me
+@@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|deco.fr|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|static.programme.tv|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
 @@/advertisement.js$script,~third-party,domain=cap-public.fr|coco.fr|crash-aerien.aero|crash-aerien.news|e-wok.tv|fiki.faucetfly.com|quoverbis.com
