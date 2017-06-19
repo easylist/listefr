@@ -1116,6 +1116,7 @@
 /smartrotator.*?referrer=
 /srv.php?size=300x250
 /srv.php?size=315x300
+/static/*/ads/
 /static/t/b.js
 /stocksad1.
 /stocksad3.
@@ -5571,6 +5572,7 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 ||zone.*.netdna-cdn.com^
 ||zp.programme.tv^
 ||zupimages.net/up/2/1780414445.gif
+||zupimages.net^$domain=jumia.com
 ! dailymotion.com
 ||dailymotion.com/cdn/$media,script
 ||dmcdn.net^$media
@@ -6961,6 +6963,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||journaldupirate.com/vpn4.png
 ||journalintime.com/static/pubs/
 ||juif.org/img/partners/
+||jumia.com/static/cms/*?downsize=
 ||juristatic.com/public/js/Composant/Wengo/notify.js?
 ||juristatic.com/public/js/lib/*_popup.js?
 ||k2nblog.com/?$xmlhttprequest
@@ -9259,6 +9262,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##.leftSideAds
 ##.left_middle_ad
 ##.left_top_ad
+##.leftaddsense
 ##.leftmenupub
 ##.lftBigAds
 ##.lien_commerciaux_bann
