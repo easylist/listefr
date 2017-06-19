@@ -359,6 +359,7 @@
 /ads-iframe-
 /ads-lootmarketllc.
 /ads-pebblemedia.
+/ads.*/banner/
 /ads.*/banners/*
 /ads.cgi?
 /ads/*-300x250.
@@ -4939,6 +4940,7 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 ||iceroket.com^$subdocument
 ||icpc.tv/banners/$domain=europeplusnet.info
 ||idem.com/medias/$third-party
+||igstatic.com/merchant/banner/
 ||ilbanat.com/images/pubilbanat.gif
 ||illiweb.com^*/banner/
 ||illiweb.com^*/partenaires/
@@ -9675,6 +9677,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##.zone_annonceurs
 ##.zone_pub_orange
 ##.zonepub
+##[class$="_banner-sponsor"]
 ##[class*="proadszoneholder-"]
 ##[class^="ads300_600-widget-"]
 ##[class^="region-pub-bottom-"]
@@ -10908,6 +10911,7 @@ vacheries.fr##.menu_droit_pub
 lesdebiles.com##.menu_droite_partenaire
 lesdebiles.com##.menu_droite_thumb:first-child
 kelkoo.fr##.merchandising-modules
+igraal.com##.merchant__banner-wrap
 codeposte.com##.mf-modal-iframe
 codeposte.com##.mf-move-to-parent
 soldesdunet.com##.mfp-bg
