@@ -5589,7 +5589,6 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 ||staticbhyravabhotl.red^$third-party
 ||wwwtatonnai.uk^$third-party
 ! femmeactuelle.fr
-/\/[a-z0-9]+\.[a-z0-9-]+\.[a-z]{2,}\/.{40,}/$image,media,object,script,third-party,xmlhttprequest,domain=femmeactuelle.fr
 @@||c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=$xmlhttprequest,domain=femmeactuelle.fr
 @@||c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=$xmlhttprequest,domain=femmeactuelle.fr
 @@||creas.prismamediadigital.com/feminin/2014/carousel_application/femme_actuelle_$image,domain=femmeactuelle.fr
@@ -5597,6 +5596,7 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 @@||players.brightcove.net^*_default/index.min.js$script,domain=femmeactuelle.fr
 @@||videos.prismamediadigital.com^*?videoId=$xmlhttprequest,domain=femmeactuelle.fr
 @@||vjs.zencdn.net/vttjs/0.12.3/vtt.min.js$script,domain=femmeactuelle.fr
+|blob:$domain=femmeactuelle.fr
 |http://$media,object,script,third-party,xmlhttprequest,domain=femmeactuelle.fr
 |https://$media,object,script,third-party,xmlhttprequest,domain=femmeactuelle.fr
 ! tf1.fr
