@@ -1221,6 +1221,7 @@
 ://pop.$script,subdocument,third-party,xmlhttprequest
 ://promo2.$third-party
 ://reclame.
+://regiepub.
 ://rotator.
 ://serve.*?random=
 ://soads.
@@ -1557,6 +1558,7 @@ _werbebanner_
 /adserver/iframe?$popup
 /adservingsolutionsinc/*$popup
 /adstract.$popup
+/adstream_$popup
 /adsys.$popup
 /adsys/*$popup
 /adult/*?zoneid=$popup
@@ -8938,6 +8940,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##.ads-728
 ##.ads-970-90
 ##.ads-970x60
+##.ads-aside
 ##.ads-books
 ##.ads-box-inner
 ##.ads-box-outer
