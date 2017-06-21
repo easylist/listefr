@@ -3412,6 +3412,7 @@ debugger:$popup
 ||fdf96bba78a9249ca4e.com^$third-party
 ! iframe
 /:\/\/[a-z]+\.info\/.{400,460}/$subdocument,third-party
+||artelled.com^$third-party
 ||bargetbook.com^$third-party
 ||beershavartb.com^$third-party
 ||bestarmour4u.link^$third-party
@@ -8051,6 +8052,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||d2q039yelpk33c.cloudfront.net^
 ||d2q55mevlpufwx.cloudfront.net^$image
 ||d2skqnrxz11esv.cloudfront.net^
+||d2w7avhumdk0s6.cloudfront.net^
 ||d2w88er3oa79h8.cloudfront.net^
 ||d2xcimzl9ytdi0.cloudfront.net^
 ||d2xsy1lxezptdm.cloudfront.net^
