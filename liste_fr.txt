@@ -6353,6 +6353,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||atlantico.fr/*-img/$xmlhttprequest
 ||ats.dz/img/partenaires/
 ||ats.dz/slider2.html
+||audiofanzine.com/ajax.php?module=classifieds&
 ||audioz.download/other/$script
 ||aufeminin.com/include/
 ||aufeminin.com^*%$subdocument,xmlhttprequest
@@ -10239,6 +10240,7 @@ confidentielles.com###hunt
 algerianmag.com,avis-express.com###icegram_messages_container
 agevillage.com###image_partenaire
 jeuxrouille.com###imgpub
+audiofanzine.com###index-contribs-classified
 equirodi.be###index_module_pub
 omgtorrent.me###infopop
 cpasbien-cm.fr###infosficher > br + #telecharger
@@ -11768,6 +11770,9 @@ mon-ordi.com##td[width="567"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 eztv-proxy.net,eztv.ag,eztv.tf,eztv.yt##tr > td[style="border: 3px solid #C70000;"] > [id]
+audiofanzine.com##ul[style^="width:128px;"]
+audiofanzine.com##ul[style^="width:298px;"]
+audiofanzine.com##ul[style^="width:718px;"]
 ! t411
 t411.al###searchform + .notice + p + p > a
 t411.al###searchform + .notice + p > a
