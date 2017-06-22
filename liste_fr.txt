@@ -5596,11 +5596,11 @@ $webrtc,domain=9divx.org|akoam.com|bypassed.gold|cocostreaming.com|cpabien.cm|cp
 ||nextwesst.xyz^
 ||nextwest.xyz^
 ! Webediads revolving adservers
-!$script,~third-party,domain=jeuxactu.com|allocine.fr|750g.com|chartsinfrance.net|jeuxvideo.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
-/acceptable.$domain=750g.com|allocine.fr|chartsinfrance.net|jeuxactu.com|jeuxvideo.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
-/autopromo.$domain=750g.com|allocine.fr|chartsinfrance.net|jeuxactu.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
+!$script,~third-party,domain=lestream.fr|jeuxactu.com|allocine.fr|750g.com|chartsinfrance.net|jeuxvideo.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
+/acceptable.$domain=750g.com|allocine.fr|chartsinfrance.net|jeuxactu.com|jeuxvideo.com|lestream.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
+/autopromo.$domain=750g.com|allocine.fr|chartsinfrance.net|jeuxactu.com|lestream.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 /autopromo.$~script,domain=jeuxvideo.com
-/autopromotion.$domain=750g.com|allocine.fr|chartsinfrance.net|jeuxactu.com|jeuxvideo.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
+/autopromotion.$domain=750g.com|allocine.fr|chartsinfrance.net|jeuxactu.com|jeuxvideo.com|lestream.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 !
 ||a-staticwebedia.com^$third-party
 ||annexere.top^$third-party
