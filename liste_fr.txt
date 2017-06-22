@@ -533,6 +533,7 @@
 /apu.php?id=
 /article/ads/*
 /async?*&tid=
+/autopromo.*/async|$domain=~jeuxvideo.com
 /autopromotion.*/async|
 /b/ads/*
 /b728x90a.
