@@ -1608,6 +1608,7 @@ _werbebanner_
 /display_content.php?id=$popup,third-party
 /earn.php?feed=$popup
 /feedclick?$popup
+/fp.rb?*&referrerUrl=$popup
 /fr/adcr/*$popup
 /gopartner.php?pid=$popup
 /iframePopUpLoader.$popup
@@ -4331,6 +4332,7 @@ debugger:$popup
 ||removeadsnow.info^$popup,third-party
 ||rencontresparis2015.com^$popup,third-party
 ||replacescript.in^$popup,third-party
+||reporo.net^$popup,third-party
 ||respecials.com^$popup,third-party
 ||retargetads.net^$popup,third-party
 ||rev2pub.com^$popup,third-party
@@ -4411,6 +4413,7 @@ debugger:$popup
 ||top2016games.com^$popup,third-party
 ||tororango.com^$popup,third-party
 ||torriderencontre.com^$popup,third-party
+||totifiquo.com^$popup,third-party
 ||track-*.link^*utm_$popup,third-party
 ||track2cash.com^$popup,third-party
 ||trackeoz.fr^$popup,third-party
