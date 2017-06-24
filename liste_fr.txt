@@ -263,6 +263,7 @@
 /728by90two.
 /728x090_
 /728x300-banner.
+/728x90FR.
 /728x90px.
 /728X90px_
 /790-90.
@@ -6239,6 +6240,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||abidjan.net/images/habillage/
 ||abidjan.net/inc/video_a_la_une/
 ||abidjanshow.com/wp-content/uploads/*/banner*.
+||abritel.fr^*/partner/
 ||absoluflash.com^*/jeux-ban/
 ||absoluflash.com^*/tube-pub-
 ||action-sociale.org/*/images/variation.png
@@ -9733,6 +9735,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##[class$="_banner-sponsor"]
 ##[class*="proadszoneholder-"]
 ##[class^="ads300_600-widget-"]
+##[class^="ads_inline_"]
 ##[class^="region-pub-bottom-"]
 ##[class^="region-pub-position-"]
 ##[class^="trivago_widget_"]
