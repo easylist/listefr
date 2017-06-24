@@ -5622,17 +5622,6 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 ||rotiqucdne.me.uk^$third-party
 ||staticbhyravabhotl.red^$third-party
 ||wwwtatonnai.uk^$third-party
-! femmeactuelle.fr
-@@||c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=$xmlhttprequest,domain=femmeactuelle.fr
-@@||c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=$xmlhttprequest,domain=femmeactuelle.fr
-@@||creas.prismamediadigital.com/feminin/2014/carousel_application/femme_actuelle_$image,domain=femmeactuelle.fr
-@@||edge.api.brightcove.com/playback/v1/accounts/*/videos/$xmlhttprequest,domain=femmeactuelle.fr
-@@||players.brightcove.net^*_default/index.min.js$script,domain=femmeactuelle.fr
-@@||videos.prismamediadigital.com^*?videoId=$xmlhttprequest,domain=femmeactuelle.fr
-@@||vjs.zencdn.net/vttjs/0.12.3/vtt.min.js$script,domain=femmeactuelle.fr
-|blob:$domain=femmeactuelle.fr
-|http://$media,object,script,third-party,xmlhttprequest,domain=femmeactuelle.fr
-|https://$media,object,script,third-party,xmlhttprequest,domain=femmeactuelle.fr
 ! tf1.fr
 /^((?!(^https?):\/\/www\.wat\.tv\/|(^)https:\/\/cdns\.gigya\.com\/|(^)https:\/\/ajax\.googleapis\.com\/|(^)https:\/\/widgets\.outbrain\.com\/|(^)https:\/\/connect\.facebook\.net\/|(^)https:\/\/platform\.instagram\.com\/|(^)https:\/\/platform\.twitter\.com\/|(^)https:\/\/e-cdns-files\.dzcdn\.net\/|(^)https:\/\/api\.deezer\.com\/).)*$/$media,object-subrequest,script,third-party,xmlhttprequest,domain=www.tf1.fr
 ! wat.tv
