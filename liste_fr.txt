@@ -2686,6 +2686,7 @@ debugger:$popup
 ||no-hide.com^$third-party
 ||noadirect.com^$third-party
 ||nols-pub.fr^$third-party
+||non.li^$third-party
 ||nosyezhe.com^$third-party
 ||noxaffiliates.com^$third-party
 ||nr-data.net^$third-party
@@ -5017,7 +5018,6 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 ||kuma-film.com/wp-content/*.gif
 ||kuma-film.com^$subdocument
 ||la-paysanne.com/ban/$third-party
-||lacentrale.fr^$domain=nouvelobs.com
 ||ladmedia.fr/includes/cobrand/*/habillage/
 ||ladmedia.fr^*/le-guide/
 ||lafranceapoil.com/tools/
@@ -7358,10 +7358,9 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||nintendo-master.com/img/background/
 ||niooz.fr^$subdocument
 ||niveales.com/media/habillage/
-||nouvelobs.com/file/zones/partners/
-||nouvelobs.com/tools/smart.php
 ||nouvelobs.com^*/iframe-boxes/
 ||nouvelobs.com^*/partenaria
+||nouvelobs.com^*/partners/
 ||novaplanet.com^*/widget/pub_pave_
 ||numeric.dz/IMG/swf/NUMERIC_KIA_MOTORSE_
 ||ocre-annuaire.net/bannieres/
@@ -7810,6 +7809,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||une-recette.com/include/$subdocument
 ||une-recette.com/include/*.php
 ||unionrunningworld.com/upload/bannieres/
+||uniprix.nouvelobs.com^
 ||universfreebox.com/IMG/$xmlhttprequest
 ||unleashed.fr/media/habillage/
 ||unlock-stream.com/js/disclamer.js
@@ -8875,6 +8875,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##._ads_ch
 ##._meltypub
 ##.a4u_banner_js
+##.ad--desk
 ##.ad--panorama
 ##.ad--row-ad--left
 ##.ad--row-ad--right
@@ -10582,7 +10583,6 @@ cotemaison.fr##.actu_pub
 lagazettedescommunes.com##.actus-case-pub
 lagazettedescommunes.com##.actus-home-right-pub
 courrierinternational.com,directvelo.com,dna.fr,e-sante.fr,fabriquer-des-meubles.fr,femmeactuelle.fr,freepik.com,gamer-network.fr,gizmodo.fr,journalmetro.com,lematin.ch,lequotidiendumedecin.fr,lopinion.fr,maps.google.fr,marques.expert,msn.com,p-nintendo.com,photo.fr,playerhd1.pw,soundlightup.com,tetu.com,tripadvisor.fr,ubergizmo.com,zapiks.fr##.ad
-nouvelobs.com##.ad--desk
 midilibre.fr,sudouest.fr##.ad-box
 turfomania.fr##.ad1
 vinyculture.com##.ad2
@@ -11466,6 +11466,7 @@ zetorrento.fr,zetorrents.com##a[href*="porno"]
 beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com,sports.fr##a[href*="smartadserver.com/call/cliccommand/"]
 torrent9.info,torrent9.top,torrents9.org,torrents9.tv##a[href*="torrent9.me/"]
 lucariostream.eu##a[href*="univers-saiyan.com/"]
+nouvelobs.com##a[href*="www.leguide.com/"]
 dpstream.to,quedustreaming.com,streaming-series.to##a[href*="xmediaserve"]
 dpstream.net,zetorrente.fr##a[href="#"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
