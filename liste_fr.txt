@@ -12185,7 +12185,6 @@ _blockadblock_
 @@||ad4.liverail.com/|$image,domain=leveldown.fr
 @@||adgear.com/session.js$domain=vtele.ca
 @@||adgear.com^*/adgear.js$domain=vtele.ca
-@@||ads.stickyadstv.com/www/delivery/swfIndex.php?$xmlhttprequest,domain=wakanim.tv
 @@||afreesms.now.im/adblocker.js$script,domain=afreesms.com
 @@||assets.over-blog-kiwi.com/b/blog/bundles/overblogblogblog/js/ads.js$script,domain=mariage-franco-marocain.net
 @@||audipassion.com^*/jsLoader.js?adType=foobar
@@ -12300,6 +12299,7 @@ trackmusik.fr#@#.afs_ads
 @@||uploads.to^$generichide
 @@||uploadx.link^$generichide
 @@||vtele.ca^$generichide
+@@||wakanim.tv^$generichide
 @@||xavierstuder.com^$generichide
 @@||zone-torrent.net^$generichide
 ! voyageforum.com (anti adblock)
