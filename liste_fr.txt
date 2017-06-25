@@ -3832,6 +3832,7 @@ debugger:$popup
 ||194.88.104.61^$popup,third-party
 ||19950501.com^$popup,third-party
 ||1yqbp.com^$popup,third-party
+||217.23.1.125^$popup,third-party
 ||23.236.55.237^$popup,third-party
 ||23a.co^$popup,third-party
 ||25.115.187.96^$popup,third-party
@@ -5713,11 +5714,11 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 |http://$popup,script,third-party,domain=zetorrento.fr|zetorrents.com
 |https://$popup,script,third-party,domain=zetorrento.fr|zetorrents.com
 ! torrent9.tv
-/cdn-cgi/pe/bag2?$domain=torrent9.biz|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
-@@||ajax.googleapis.com/ajax/libs/$script,domain=torrent9.biz|torrent9.info|torrent9.top|torrents9.org
-@@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=torrent9.biz|torrent9.info|torrent9.top|torrents9.org
-|http://$popup,script,third-party,domain=cpabien.xyz|cpasbien.cm|cpasbien.io|torrent9.biz|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
-|https://$popup,script,third-party,domain=cpabien.xyz|cpasbien.cm|cpasbien.io|torrent9.biz|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
+/cdn-cgi/pe/bag2?$domain=torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
+@@||ajax.googleapis.com/ajax/libs/$script,domain=torrent9.biz|torrent9.cc|torrent9.info|torrent9.top|torrents9.org
+@@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=torrent9.biz|torrent9.cc|torrent9.info|torrent9.top|torrents9.org
+|http://$popup,script,third-party,domain=cpabien.xyz|cpasbien.cm|cpasbien.io|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
+|https://$popup,script,third-party,domain=cpabien.xyz|cpasbien.cm|cpasbien.io|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
 ! nextorrent.net
 |http://$script,third-party,xmlhttprequest,domain=nextorrent.net
 |https://$script,third-party,xmlhttprequest,domain=nextorrent.net
@@ -10814,7 +10815,7 @@ rtl.fr##.dfp-pave
 lemonde.fr##.dfp_slot
 dailymotion.com##.dm_widget_advert_iabrighttitle
 thepiratebay.org##.download + [style] > a[target="_blank"]
-torrent9.info,torrent9.top,torrents9.org,torrents9.tv##.download-btn + [class]
+torrent9.cc,torrent9.info,torrent9.top,torrents9.org,torrents9.tv##.download-btn + [class]
 oujdacity.net,passion-net.fr##.ebuzzing_box
 tsa-algerie.com##.ekk-footer-ad-wrapper
 wp-infinity.com##.entry-featured
@@ -11405,12 +11406,12 @@ zone-telechargement.ws##a[href$="/ddl/"]
 zone-telechargement.ws##a[href$="/free/"]
 sites-torrent.com##a[href$="/seedbox"]
 opensubtitles.org##a[href$="=="][rel="nofollow"]
-torrent9.info,torrent9.top,torrents9.org,torrents9.tv##a[href*=" "]
+torrent9.cc,torrent9.info,torrent9.top,torrents9.org,torrents9.tv##a[href*=" "]
 sante-nutrition.org##a[href*="&pos="]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 3dnatives.com,lesimprimantes3d.fr##a[href*="&utm_"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
-go4up.com,torrent9.info,torrent9.top,torrents9.org,torrents9.tv##a[href*="+"]
+go4up.com,torrent9.cc,torrent9.info,torrent9.top,torrents9.org,torrents9.tv##a[href*="+"]
 telechargement-film.org##a[href*="-film-"]
 9divx.org,likeur.org##a[href*="-vip.html"]
 9divx.org,ebooks9.fr,films-telecharger.eu,frstreaming.info,frtorrent.fr,jetelecharger1.fr,likeur.org,seriestreaming.net,streamingseries.info,telechargementz.tv##a[href*=".php"]
@@ -11462,7 +11463,7 @@ forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 jemangejemincis.fr##a[href*="leadpages.co/"]
 zetorrento.fr,zetorrents.com##a[href*="porno"]
 beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com,sports.fr##a[href*="smartadserver.com/call/cliccommand/"]
-torrent9.info,torrent9.top,torrents9.org,torrents9.tv##a[href*="torrent9.me/"]
+torrent9.cc,torrent9.info,torrent9.top,torrents9.org,torrents9.tv##a[href*="torrent9.me/"]
 lucariostream.eu##a[href*="univers-saiyan.com/"]
 nouvelobs.com##a[href*="www.leguide.com/"]
 dpstream.to,quedustreaming.com,streaming-series.to##a[href*="xmediaserve"]
