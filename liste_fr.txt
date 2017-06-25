@@ -5721,8 +5721,8 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 |http://$popup,script,third-party,domain=cpabien.xyz|cpasbien.cm|cpasbien.io|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
 |https://$popup,script,third-party,domain=cpabien.xyz|cpasbien.cm|cpasbien.io|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
 ! nextorrent.net
-|http://$script,third-party,xmlhttprequest,domain=nextorrent.net
-|https://$script,third-party,xmlhttprequest,domain=nextorrent.net
+|http://$script,third-party,xmlhttprequest,domain=nextorrent.net|nextorrent.ws
+|https://$script,third-party,xmlhttprequest,domain=nextorrent.net|nextorrent.ws
 ! proxyportal.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=bypassed.gold|immunicity.gold|unblocked.gold
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=bypassed.gold|immunicity.gold|unblocked.gold
@@ -8097,6 +8097,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||d3avqv6zaxegeu.cloudfront.net^
 ||d3ciks47fhh9wv.cloudfront.net^
 ||d3cknv5e7a99jg.cloudfront.net^
+||d3cl7ldsgbm5qu.cloudfront.net^
 ||d3d5har4hmweni.cloudfront.net^
 ||d3edizycpjjo07.cloudfront.net^
 ||d3f4u3khr0ycep.cloudfront.net^
