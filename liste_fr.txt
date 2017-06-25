@@ -3358,6 +3358,7 @@ debugger:$popup
 ||ac2510b178ade.com^$third-party
 ||ae1a1e258b8b016.com^$third-party
 ||ae3482c74b1a99f.com^$third-party
+||aecb0e6fb98ec.com^$third-party
 ||af413ab53fd5e529.com^$third-party
 ||b142d1440666173b0.com^$third-party
 ||b1fb813dc806b7d.com^$third-party
@@ -5856,6 +5857,9 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=2ddl.download|best2ddl.net
 |http://$script,third-party,domain=2ddl.download|2ddl.la|2ddl.org|best2ddl.net|iiddl.com|twoddl.tv
 |https://$script,third-party,domain=2ddl.download|2ddl.la|2ddl.org|best2ddl.net|iiddl.com|twoddl.tv
+! mythewatchseries.com
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=mythewatchseries.com
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=mythewatchseries.com
 ! onlinevideoconverter.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,stylesheet,domain=onlinevideoconverter.com
 @@||maxcdn.bootstrapcdn.com/$stylesheet,domain=onlinevideoconverter.com
@@ -6176,7 +6180,7 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 ||super-virals.com^$subdocument,third-party
 ||uploadbank.com^$subdocument,third-party
 ! popup & popunder
-$popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cloudtime.to|croco.site|dailyuploads.net|darkomplayer.com|drstickyfingers.com|dyo.gs|e-wok.tv|easyvid.org|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|file-upload.com|filescdn.com|filesonthe.net|filmstreamvk.ws|freean.us|full-anime.com|full-film.me|full-serie.biz|full-serie.co|getmytorrent.com|go.ad2upapp.com|goneviral.com|gorillavid.com|guadeloupe-paradise.fr|hornywood.tv|imgchili.net|j.gs|jkanime.net|k-streaming.com|kickass.cd|kvid.org|le-streaming.com|letwatch.to|letwatch.us|linkbabes.com|linkbucks.com|media1fire.com|megaline.co|megawatch.net|miniurls.co|mystream.la|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|onlinevideoconverter.com|openload.co|papstream.com|pelis24.tv|poontown.net|powvideo.net|powvideo.xyz|putstream.com|q.gs|qqc.co|rapidvideo.com|rapidvideo.ws|seriousdeals.net|shrvid.com|sokrostream.cc|speedvid.net|streamango.com|streamay.ws|streamin.to|streaming-boruto.com|streaming-dragon-ball-super.com|streaming-hub.com|streamplay.to|t411.ae|teramixer.com|theseblogs.com|theseforums.com|thevid.net|thevideo.me|thevideobee.to|tinylinks.co|tnabucks.com|torlock.com|tout-sur-le-web.com|tvrush.eu|ultimedia.com|ultrafiles.net|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|urlbeat.net|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidgg.to|vidhos.com|vidlox.me|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidup.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|whackyvidz.com|wholecloud.net|xvidstage.com|yourporno.fr|yyv.co|zatnawqy.net|zippyshare.com|zytpirwai.net
+$popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cloudtime.to|croco.site|dailyuploads.net|darkomplayer.com|drstickyfingers.com|dyo.gs|e-wok.tv|easyvid.org|estream.to|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.works|extratorrentlive.com|extratorrentonline.com|eztv.ag|file-upload.com|filescdn.com|filesonthe.net|filmstreamvk.ws|freean.us|full-anime.com|full-film.me|full-serie.biz|full-serie.co|getmytorrent.com|go.ad2upapp.com|goneviral.com|gorillavid.com|guadeloupe-paradise.fr|hornywood.tv|imgchili.net|j.gs|jkanime.net|k-streaming.com|kickass.cd|kvid.org|le-streaming.com|letwatch.to|letwatch.us|linkbabes.com|linkbucks.com|media1fire.com|megaline.co|megawatch.net|miniurls.co|mystream.la|mythewatchseries.com|nitroflare.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|onlinevideoconverter.com|openload.co|papstream.com|pelis24.tv|poontown.net|powvideo.net|powvideo.xyz|putstream.com|q.gs|qqc.co|rapidvideo.com|rapidvideo.ws|seriousdeals.net|shrvid.com|sokrostream.cc|speedvid.net|streamango.com|streamay.ws|streamin.to|streaming-boruto.com|streaming-dragon-ball-super.com|streaming-hub.com|streamplay.to|t411.ae|teramixer.com|theseblogs.com|theseforums.com|thevid.net|thevideo.me|thevideobee.to|tinylinks.co|tnabucks.com|torlock.com|tout-sur-le-web.com|tvrush.eu|ultimedia.com|ultrafiles.net|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|urlbeat.net|userscloud.com|vid.ag|vidbom.com|vidbull.com|videowood.tv|vidgg.to|vidhos.com|vidlox.me|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidup.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|whackyvidz.com|wholecloud.net|xvidstage.com|yourporno.fr|yyv.co|zatnawqy.net|zippyshare.com|zytpirwai.net
 ! images hosting
 ||bluesattv.net/gif.gif
 ||hostingpics.net/pics/*468x60.
