@@ -5703,8 +5703,8 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 |http://$script,third-party,xmlhttprequest,domain=regarder-film-gratuit.eu
 |https://$script,third-party,xmlhttprequest,domain=regarder-film-gratuit.eu
 ! ddlfr.org
-|http://$script,third-party,xmlhttprequest,domain=ddlfr.org|ddlfr.pw
-|https://$script,third-party,xmlhttprequest,domain=ddlfr.org|ddlfr.pw
+|http://$script,third-party,xmlhttprequest,domain=ddlfr.org|ddlfr.pw|ddlfrench.org
+|https://$script,third-party,xmlhttprequest,domain=ddlfr.org|ddlfr.pw|ddlfrench.org
 ! cocostreaming.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=cocostreaming.com
 |http://$script,third-party,domain=cocostreaming.com
