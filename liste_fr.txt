@@ -264,6 +264,7 @@
 /728x090_
 /728x300-banner.
 /728x90FR.
+/728x90n-
 /728x90px.
 /728X90px_
 /790-90.
@@ -391,6 +392,7 @@
 /ads/bigbox?
 /ads/bmedia.
 /ads/boost.
+/ads/bottom_
 /ads/criteo2_
 /ads/dui.
 /ads/exo_
@@ -9843,6 +9845,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##a[href^="/rdh?"]
 ##a[href^="ads.php?id="]
 ##a[href^="annonceur.php?id_banniere="]
+##a[href^="http://178.175.132.130/"]
 ##a[href^="http://3dxchat.com/?"]
 ##a[href^="http://aclick.adhoc1.net/"]
 ##a[href^="http://aclick.adhoc2.com/"]
