@@ -10009,7 +10009,6 @@ nowvideo.eu###adv1
 7sur7.be###adv_bg_clickurl
 cuisineaz.com###advi
 telechargementgratuits.com###aff-france
-spi0n.com###aff_spion-7
 finalclap.com###aff_tuto_com
 dogzer.com###affichage_tag_58
 zikinf.com###album
@@ -11338,12 +11337,9 @@ msn.com##.widead
 frandroid.com##.widget.widget_text
 joueurdugrenier.fr##.widgetAmis
 joueurdugrenier.fr##.widgetVrac
-spi0n.com##.widget_aff_spion
 hinata-online-community.fr##.widget_affiliation_widget
 easytutoriel.com##.widget_amazonautolinks_widget
 spi0n.com##.widget_cnt
-spi0n.com##.widget_nq_laoding
-spi0n.com##.widget_nq_loading
 regimea.com##.widget_sp_image-image-link
 msn.com##.win10promo
 directmatin.fr##.wrap_evenement
@@ -11374,6 +11370,8 @@ guide-piscine.fr##[class^="regie_"]
 msn.com##[class^="stripecontaine"][data-section-id="stripe.store"]
 omgtorrent.me##[class^="toro"]
 reverso.net##[class^="vda-"]
+bestream.tv##[class^="widget_aff_"]
+bestream.tv##[class^="widget_nq_"]
 jeu.fr##[data-fallback-type="image"]
 films-telecharger.eu##[data-hash]
 meteofrance.com##[href*=".xiti.com"] > img
@@ -11381,6 +11379,7 @@ booska-p.com##[href^="http://www.booska-p.com/re/"]
 onhax.me##[id*="-prom"]
 speedvid.net##[id][style*="z-index:"]
 turbo.fr##[id^="ABbypass"]
+bestream.tv##[id^="aff_spion-"]
 comarketing-news.fr##[id^="comar-"]
 ecranlarge.com##[id^="criteo"]
 crichd.info##[id^="floatLayer"]
