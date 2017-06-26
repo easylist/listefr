@@ -747,6 +747,7 @@
 /EpubDelivery/*
 /espace-pub-
 /exads-
+/exo-loader/*
 /exoclick300m.
 /fakeFBbar.
 /fakevideo/rotate.
@@ -2428,6 +2429,7 @@ debugger:$popup
 ||goodaction.com^$third-party
 ||goracash.com^$third-party
 ||gravity4.com^$third-party
+||gravityrd-services.com^$third-party
 ||greatchwall.com^$third-party
 ||greatregie.com^$third-party
 ||gtburst.com^$third-party
@@ -4943,6 +4945,7 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 ||goo.gl^$popup,domain=algerie360.com|easybib.com|lnc.nc|openrunner.com|p0rno.org|seriezone.com|seriezone.org|trackandnews.fr|vkpass.com|za-gay.org
 ||googgl.me^$popup,domain=streamingfoot.direct
 ||gopro.com^$popup,domain=tignes.net
+||gotporn.com/delivery/
 ||gpstatic.com^*/banner/
 ||grillegagnante.com/bannieres/
 ||grmtas.com/pub/
@@ -8495,6 +8498,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ###encart_pub_image
 ###entete_pub
 ###exoad
+###external-floater-ad-wrap
 ###favoris_pub_ligatus
 ###fixe_plugin
 ###footer-ad-formation
@@ -9376,6 +9380,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##.pave_pub2
 ##.pjsleads
 ##.player-ad-overlay
+##.player-pub
 ##.playerpub
 ##.pmd_dfp_ad
 ##.pmdfp-placer
