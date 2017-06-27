@@ -107,6 +107,7 @@
 -ad300x250-
 -ad480x60-
 -ad728x90-
+-ad_750x150.
 -ads-300x250.
 -ads/ads.
 -ads/get?type=
@@ -6892,7 +6893,6 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||hdfever.fr/wp-content/uploads/*/soldes
 ||hentai-3x.com/images/out
 ||hentaibox.fr^$script
-||hentaifr.net/bg/
 ||hentaigratuit.org/delaypub.js
 ||hentaihaven.org/_
 ||hentaihaven.org/beta/
@@ -7985,8 +7985,10 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ! hentaifr.net
 @@||hentaifr.net/scripts/device.js|$script,domain=hentaifr.net
 @@||hentaifr.net/scripts/jquery.min.js|$script,domain=hentaifr.net
+||hentaifr.net/hfrS/
 ||hentaifr.net^$popup,~third-party
 ||hentaifr.net^$script
+||poster.gamesprite.me^$popup
 ! amazonaws.com
 ||amazonaws.com^$domain=1host.name|4downfiles.org|9divx.org|adf.ly|adkami.com|american-dad-streaming.com|american-horror-story-streaming.fr|anime-gate.com|anime-hunter.com|anime-sama.com|animefr.net|anyanime.com|arabseed.com|auratorrent.pl|ay.gy|bank-video.com|bdupload.info|beinsport-streaming.com|better-call-saul-streaming.com|brain-magazine.fr|breaking-bad-hd-streaming.com|buzzmonclick.com|cast4u.tv|cineiz.co|cineiz.org|cinemavf.ws|cinemay.com|clicknupload.link|cloudtime.to|club-anime.fr|coco-stream.com|crichd.com|crichd.info|croco.site|dailymotion.com|dailyuploads.net|despair-paradise.com|docteur-house-streaming.fr|dpfilms.net|dpseries.net|dpstream.to|dpstreaming.me|dpstreaming.watch|dpstreaming.xyz|dragonball-z.net|drfile.net|embedscr.com|embedscr.to|enstreaming.eu|enstreaming.tv|eztv-proxy.net|eztv.ag|eztv.tf|eztv.yt|fas.li|file-upload.com|file-upload.net|filecrypt.cc|filesupload.org|film-en-stream.tv|film-streaming.club|film-streamingvk.com|film-streamiz.net|filmcomplet.tv|filmenstreaminghd.com|filmstreaming1.com|filmstreamvf.cc|filmsvostfr.cc|filmuptobox.net|filmvf.cc|filmvf.ws|flowyourvideo.com|full-stream.biz|full-stream.nu|full-stream.su|full-stream.tv|full-stream1.net|full-streamingvf.com|fullmoviz.org|fullsharez.com|fullstreamvf.com|gorillavid.com|got-en-streaming.com|greys-anatomy-streaming.eu|greys-anatomy-streaming.org|griffin-tv.com|gum-gum-streaming.com|hashe.in|hdfilm-streaming.com|hdmyt.info|hinata-online-community.fr|hulkload.com|ianime.tv|immunicity.world|iptvsatlinks.blogspot.com.eg|istreamin.com|j.gs|katcr.co|la-space.ch|les-simpson-streaming.fr|letwatch.to|letwatch.us|libertyland.co|libertystream.net|likeur.org|link.tl|mamega.com|mamzouka.com|manga-fr.com|manga-vf.fr|mangas-anime.com|mangas-vostfr.pro|maquillage.com|mareplaytv.com|media1fire.com|mega-stream.fr|memoireetvie.com|mp3clan.com|mp4edge.com|myfullstream.com|mystream.la|neko-san.fr|noslocker.com|nowlive.club|officiel-streamingfr.over-blog.com|ohayo-anime.com|oload.tv|onepiece-vostfr.com|onhax.me|openload.co|otakufr.com|papy-streaming.org|papystreaming-film.com|papystreaming.com|papystreaming.net|papystreaming.org|pausefun.com|pausepeople.com|planet-streaming.com|planete-series.info|playerhd2.pw|protect-iframe.com|protect-video.com|pstreamingp.com|pxstream.tv|q.gs|quedustreaming.com|replay-documentaire.com|replay-streaming.com|robindesdroits.me|rstream.net|scanvf.net|scrubs-tv.net|serie-streaming-vf.org|serie-streaming-vf.tv|serie-streaming.tv|serie-streaming.watch|serie-streaminghd.com|serie-vostfr.com|series-cravings.li|series-en-streaming.tv|seriestreaming.net|shink.in|simpson-en-streaming.com|skstream.co|sky-animes.com|solidfiles.com|speedvid.net|stream-watch.co|streamango.com|streamay.ws|streambox.club|streamcomplet.com|streamcomplet.eu|streamdown.tv|streamenfrancais.com|streamfilmzzz.com|streamien.net|streaming-films-hd.com|streaming-films.tv|streaming-hub.com|streaming-serie.me|streaming-series.cx|streaming-series.to|streaming.re|streaming4iphone.in|streaminghd.fr|streamingk.com|streamingok.com|streamingseries.info|streamiz-films.com|streamiz-filmze.fr|streamiz-vk.fr|streamzzz.online|sznpaste.net|telechargementz.tv|telecharger-ebook-gratuit.org|the-big-bang-theory-streaming.net|total-sport.tv|trollvid.io|trollvid.net|tv-streaming-serie.xyz|tvlogy.to|ultrastream.pro|uploadocean.com|uploads.to|uplod.ws|vidbom.com|vidgg.to|vidshare.me|vidshare.us|vkstreamingfilm.biz|walking-dead-en-streaming.fr|walking-dead-streaming.net|watchtvserieslive.org|xvidstage.com|yourupload.com|youwatch-series.com|youwatchfilm.net|youwatchfilm.org|zone-series.cc|zone-telechargement.org|zone-telechargement.ru|zone-telechargement.tv|zone-telechargement.ws|zonetelechargement.org
 ! cloudfront.net
@@ -9161,6 +9163,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##.bloc-ads-container
 ##.bloc-ligatus-300
 ##.bloc-ligatus-500
+##.bloc-parution-ad
 ##.bloc-pub
 ##.bloc-pub-side
 ##.blocPub
@@ -10920,6 +10923,7 @@ lexpress.fr##.header_content_edito
 frandroid.com##.header_htr
 vakarm.net##.header_sponsors
 ouiounon.net##.headertitrelien[target="_blank"]
+hentaifr.net##.hfrS
 le-buzz.fr##.hide
 lafermeduweb.net##.homePub
 abrutis.com##.home_menu_container
