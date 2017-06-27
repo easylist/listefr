@@ -5025,6 +5025,7 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 ||jolstatic.fr/www/skins/
 ||jolstatic.fr/www/themes/*/habi
 ||jrphotographie.com/pub/
+||js.bulkhentai.com^
 ||js.stream-up.com/fonctions.min.js?
 ||junge-luder.com/Stripbunny/
 ||kaltura.com^*/a.mp4|$media
@@ -9910,6 +9911,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##a[href^="http://hits.epochstats.com/"]
 ##a[href^="http://hopinions.info/"]
 ##a[href^="http://jouthad.com/"]
+##a[href^="http://js.bulkhentai.com/"]
 ##a[href^="http://lifeselector.com/game/listGames?"]
 ##a[href^="http://lp.ilividnewtab.com/"]
 ##a[href^="http://m.mobilerevenu.com/idw/"]
@@ -9971,6 +9973,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##div[id^="adsatlas-"]
 ##div[id^="block-dfp-728-"]
 ##div[id^="crt-"][style*="width:"]
+##div[id^="div-adt-"]
 ##div[onclick*="/regiedeep.php?"]
 ##gwd-doubleclick
 ##iframe[name*="/adunblock_"]
