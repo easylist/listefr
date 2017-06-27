@@ -2912,6 +2912,7 @@ debugger:$popup
 ||sex-affiliation.com^$third-party
 ||sexclic.com^$third-party
 ||sexequalite.com^$third-party
+||sexpennyauctions.com^$third-party
 ||sextapes2stars.com^$third-party
 ||sexytraf.com^$third-party
 ||sexyxxx.biz^$third-party
@@ -6000,6 +6001,15 @@ oload.tv,streamango.com###videooverlay
 ! webchoc.com
 |http://$script,domain=sexefelin.com|tubixe.com|vidsexe.com|webchoc.com
 |https://$script,domain=sexefelin.com|tubixe.com|vidsexe.com|webchoc.com
+! cam4.com
+@@||xcdnpro.com/plugin/epay/js/epay-$script,domain=cam4.com
+@@||xcdnpro.com/web/js/bootstrap-$script,domain=cam4.com
+@@||xcdnpro.com/web/js/build/bundle_$script,domain=cam4.com
+@@||xcdnpro.com/web/js/cam4-$script,domain=cam4.com
+@@||xcdnpro.com/web/js/i18n/com_cam4/jsLang.$script,domain=cam4.com
+@@||xcdnpro.com/web/js/jquery/jquery.$script,domain=cam4.com
+|http://$script,third-party,domain=cam4.com|cam4.fr
+|https://$script,third-party,domain=cam4.com|cam4.fr
 ! speedvid.net
 @@||www.speedvid.net/dl?op=download_orig&id=*&r=$popup,~third-party,domain=speedvid.net
 |http://$script,subdocument,third-party,xmlhttprequest,domain=speedvid.net
