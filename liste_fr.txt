@@ -545,6 +545,7 @@
 /autopromotion.*/async|
 /b/ads/*
 /b728x90a.
+/back-adsens.
 /backend_loader.$script
 /ban/*/300x250
 /ban160.js
@@ -1139,6 +1140,7 @@
 /static/*/ads/
 /static/t/b.js
 /stocksad1.
+/stocksad2.
 /stocksad3.
 /supersonicads-
 /syndication/pub/*
@@ -7709,6 +7711,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||sync.ttlbd.net^
 ||synonymes.com/add-img/
 ||synonymes.com/js/capping-horos.js
+||synonymes.com/storpub/
 ||syskb.com/wp-content/uploads/*-ban.gif
 ||syskb.com^*/wordpress-notification-bar
 ||systemed.fr/popunder/$popup
@@ -8348,6 +8351,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ###ads_ban
 ###ads_block_vertical
 ###ads_gigaban
+###ads_search
 ###ads_search_bar
 ###adsence
 ###adsense-droite-001
