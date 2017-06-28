@@ -7495,7 +7495,9 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||porno-gratuit.ws/videos-gratuites.$popup
 ||porno.qtube.com^
 ||pornodeblack.com/data/$image
-||pornovore.fr/zbla/
+||pornovore.fr/droite/
+||pornovore.fr/zb
+||pornovore.fr^$popup,~third-party
 ||pornz.fr^$popup,~third-party
 ||porsche-99x.info/pagedirect/*/pub/
 ||portail.free.fr/_/img/1000xx90-
@@ -7680,7 +7682,6 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||static.lci.fr/assets/scripts/modules/ad.js
 ||static.neowebcar.com/app/nwc/pix/allianz-widget.jpg
 ||static.neowebcar.com/app/nwc/pix/cetelem-300.jpg
-||static.pornovore.fr/droite/
 ||static.rtl.fr/versions/www/*/css/skin.css
 ||static.rtl.fr^*/skin/$stylesheet
 ||static.rtl.fr^*/skin/promo/
@@ -10730,6 +10731,7 @@ zebulon.fr##.ban2
 e-jeune.net##.ban_carre_1366
 agroligne.com##.ban_holder
 largus.fr##.bandeau-annonce
+pornovore.fr##.bandeau-vertical
 01net.com##.bandeau_promos
 syskb.com##.bandeaupub
 cdmail.fr##.bandeauvert
@@ -10773,7 +10775,6 @@ nouvelobs.com##.bloc-partners
 aujourdhui-en-france.fr,leparisien.fr##.bloc-pratique
 logitheque.com##.bloc-pub-center-left
 aeroport.fr##.bloc-shopping
-pornovore.fr##.bloc-zbla-side
 aujourdhui-en-france.fr,leparisien.fr##.blocPartenaire
 narutoshippudenvf.com##.bloc_728c
 auto-utilitaire.com,mobilealgerie.com##.bloc_728x90_brd
