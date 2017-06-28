@@ -6711,7 +6711,6 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||esoxiste.com/wp-content/images/pub-
 ||espaceagro.com/frasp/
 ||espritlib.com/banniere/
-||estrepublicain.fr/fr/ajaxappli/emploi.html?
 ||estrepublicain.fr/images/pub/
 ||etr.fr/partner/
 ||eugenol.com/images/abcdentpro.jpg
@@ -8899,6 +8898,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##.ArticleContent-advertising
 ##.BannierePub
 ##.CDInfopopIframe
+##.GANO_adIookaz
 ##.GTRF_sponsoredLinks
 ##.MobAdsHeader
 ##.PostAd
@@ -9982,6 +9982,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##div[id^="block-dfp-728-"]
 ##div[id^="crt-"][style*="width:"]
 ##div[id^="div-adt-"]
+##div[id^="pub-dfp-"]
 ##div[onclick*="/regiedeep.php?"]
 ##gwd-doubleclick
 ##iframe[name*="/adunblock_"]
@@ -10601,7 +10602,6 @@ cityvox.fr###zoneConnexion + * + .RP
 laprovence.com###zonePub
 voila.fr##.ADS
 ivocommunication.com##.Ads
-dna.fr##.GANO_adIookaz
 genybet.fr##.GGFODTBDCS
 leprogres.fr##.GMEX_immo
 application-remuneratrice.com##.HB-Modal
@@ -10655,6 +10655,8 @@ hdfever.fr,homecinema-fr.com##.aliencable-link
 sitesavisiter.com##.alj
 sortir.eu##.annonce-container
 webrankinfo.com##.annonce-gris
+estrepublicain.fr##.annonceLoc
+estrepublicain.fr##.annonceOr
 montelimar-news.fr##.annonce_bloc
 montelimar-news.fr##.annonce_immo
 centre-presse.fr,lamontagne.fr,larep.fr,le-pays.fr,leberry.fr,lechorepublicain.fr,lejdc.fr,lepopulaire.fr,lyonne.fr##.annonce_prompteur
@@ -11694,7 +11696,6 @@ forumconstruire.com##div[id^="bloc_discussion_"] > :first-child + div
 fan2.fr,mcm.fr,melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,meltyxtrem.fr,virginradio.fr##div[id^="container_A2_"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr##div[id^="eShowPub"]
 audiofanzine.com##div[id^="lbr"]
-estrepublicain.fr##div[id^="pub-dfp-"]
 pagesjaunes.fr##div[id^="push"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
