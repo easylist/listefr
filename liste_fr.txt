@@ -9812,6 +9812,8 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##[class*="proadszoneholder-"]
 ##[class^="ads300_600-widget-"]
 ##[class^="ads_inline_"]
+##[class^="lig_campaign_"]
+##[class^="lig_wrapper_ad_"]
 ##[class^="region-pub-bottom-"]
 ##[class^="region-pub-position-"]
 ##[class^="trivago_widget_"]
@@ -9833,6 +9835,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##[id^="codeneric_ad_widget-"]
 ##[id^="criteoDivPave"]
 ##[id^="div-gpt-"] + [id^="ctr-"]
+##[id^="lig_wrapper_ad_"]
 ##[id^="ligatus-"]
 ##[id^="ligatus_"]
 ##[id^="pub_dart_"]
@@ -10009,6 +10012,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##a[href^="https://blockadz.com/?"]
 ##a[href^="https://chaturbate.com/affiliates/"]
 ##a[href^="https://oxhax.com/"]
+##a[href^="https://r.ligatus.com/"]
 ##a[href^="https://secure.securitetotale.com/"]
 ##a[href^="https://store.mspy.com/affiliate.php"] > img
 ##a[href^="https://traceless.me/lp/"]
@@ -10976,6 +10980,7 @@ lafermeduweb.net##.homePub
 abrutis.com##.home_menu_container
 lo.st##.home_partner_img
 lagence.fr##.hor_banners
+valeursactuelles.com##.horizons-va-sidebar
 meteosun.com##.hotelteaser
 vide-greniers.org##.iad
 cinemavf.ws,youwatchfilm.org##.iframe-vid
@@ -11102,6 +11107,7 @@ jolpress.com##.node-banner
 futura-sciences.com##.nomatch > ul > li[id^="post_"]
 msn.com##.non-empty-ad
 moteurs-regionaux.com##.normalCoupProjo
+valeursactuelles.com##.nos-partenaires
 generation-nt.com##.ntSponsored
 jumia.ma##.nyroModalBg
 118712.fr##.oan_ad
@@ -11397,6 +11403,7 @@ aujourdhui-en-france.fr##.venteprivee
 d8.tv##.video-preroll
 amateur2sexe.fr,pornovore.fr##.video-pub
 vidzi.tv##.vidzi_backscreen2
+valeursactuelles.com##.view-horizons-valeurs-actuelles
 geste.fr##.view-id-partenaires
 geste.fr##.view-partenaires
 bioalaune.com##.view-pub
