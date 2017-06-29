@@ -6803,6 +6803,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||forumconstruire.com/img/*/promoto/
 ||forumconstruire.com/img/pb_nf/
 ||forumconstruire.com/img/pubs/
+||forumconstruire.com/img/sicked/
 ||forumconstruire.com^*/click.php?$popup
 ||forumdz.com/pub/
 ||forzamotorsport.fr/img/pub/
@@ -10475,6 +10476,7 @@ logitheque.com###popupMsg
 soonnight.com###popup_connect
 sitedesmarques.com###posPub
 forumfr.com###post_id_pub
+forumconstruire.com###pre_element_bloc + .post_background_contener_table0
 turfomania.fr###prehome_contenu
 turfomania.fr###prehome_fond
 hellokids.com###preroll
@@ -10582,6 +10584,7 @@ jeuxvideo.com###sponsor_google
 cherchons.com###sponsoredContainer
 cherchons.com###sponsoredProducts
 esi.dz,sfr.fr###sponsors
+forumconstruire.com###st_ad
 europe-echecs.com###subheader_pub
 ruedesjoueurs.com###supersticiel
 portail.free.fr###surleweb
@@ -11514,6 +11517,7 @@ presse-algerie.net##a[href*="/?ad="]
 artdeseduire.com##a[href*="/?part="][target="_blank"]
 webactus.net##a[href*="/?utm_source="]
 sosvirus.net##a[href*="/affiliate-"] > img
+forumconstruire.com##a[href*="/click.php?"]
 multiup.eu,multiup.org##a[href*="/download-usenet/"]
 papyfullstream.com,papystreaming-film.com##a[href*="/film-"]
 espritlib.com##a[href*="/goto_part.php?"]
@@ -11653,7 +11657,6 @@ djelfa.info##a[href^="http://www.djelfa.info/ar/click/"]
 dzsat.org##a[href^="http://www.dzsat.org/forum/rbs_banner.php?"]
 gizmodo.fr##a[href^="http://www.ebuyclub.com/operations/gizmodo/entreeGizmodo.jsp?"]
 forumconstruire.com##a[href^="http://www.forumconstruire.com/torm3/click.php?"]
-forumpiscine.com##a[href^="http://www.forumpiscine.com/torm3/click.php?"]
 guide-piscine.fr##a[href^="http://www.guide-piscine.fr/scripts/gp_div_clic.php?"]
 9rayti.com##a[href^="http://www.ilycee.com/?utm_source="]
 kaamelott-streaming.tv##a[href^="http://www.kaamelott-streaming.tv/partenaire/"]
