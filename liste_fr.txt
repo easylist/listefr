@@ -6448,7 +6448,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||bdgest.com/prepub/
 ||beaute-test.com/img/habillages/
 ||beaute-test.com^$subdocument
-||beaute-test.com^*?$image
+||beaute-test.com^*.php?$image
 ||becompta.be/sites/default/files/banners/
 ||bedetheque.com/javascript/campagne?
 ||bejaiainfo.com/wp-content/uploads/*/thesource.gif
@@ -10856,6 +10856,7 @@ days-media.fr##.boxed[style^="width:300px; height:250px"]
 telerama.fr##.boxpub
 lepoint.fr##.branding
 voyageforum.com##.breadcrumb
+beaute-test.com##.bt__ad
 gamergen.com,generation-nt.com##.bup
 terrafemina.com##.c-product
 750g.com##.c-pwned-gg
