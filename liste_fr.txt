@@ -3440,6 +3440,7 @@ debugger:$popup
 ||fbfd396918c60838.com^$third-party
 ||fdf96bba78a9249ca4e.com^$third-party
 ! iframe
+/:\/\/[a-z]+\.com\/.{400,460}/$subdocument,third-party
 /:\/\/[a-z]+\.info\/.{400,460}/$subdocument,third-party
 ||artelled.com^$third-party
 ||bargetbook.com^$third-party
@@ -3449,6 +3450,7 @@ debugger:$popup
 ||budgement.info^$third-party
 ||charmstroy.info^$third-party
 ||contentpap.info^$third-party
+||evideorun.com^$third-party
 ||fungetbag.info^$third-party
 ||goodbookbook.com^$third-party
 ||greatwork.info^$third-party
@@ -6136,6 +6138,9 @@ voodaith7e.com##div > [id^="player"] + div[id][style*="z-index:"]
 @@||ajax.googleapis.com/ajax/libs/$script,domain=g5u.pw|gsurl.in|gsurl.me
 |http://$script,third-party,xmlhttprequest,domain=g5u.pw|gsurl.in|gsurl.me
 |https://$script,third-party,xmlhttprequest,domain=g5u.pw|gsurl.in|gsurl.me
+! adshort.co
+@@||google.com/recaptcha/$subdocument,domain=adshort.co
+|http://$script,subdocument,third-party,xmlhttprequest,domain=adshort.co
 ! adf.ly
 @@||redirect2719.ws/?$subdocument,domain=adf.ly|j.gs|q.gs
 ||cdn.adf.ly^$script,third-party,domain=~j.gs|~q.gs
@@ -8215,6 +8220,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||dnyjp3iys0r8o.cloudfront.net^
 ||do67etikr7pwz.cloudfront.net^
 ||dohs95d6tfj19.cloudfront.net^
+||dokzl8xhmt1x7.cloudfront.net^
 ||dpb3g4kqr8xz.cloudfront.net^
 ||dpiw925yvtpfq.cloudfront.net^
 ||dqhu0lvuvqh74.cloudfront.net^
@@ -12260,6 +12266,7 @@ _blockadblock_
 @@||ad4.liverail.com/|$image,domain=leveldown.fr
 @@||adgear.com/session.js$domain=vtele.ca
 @@||adgear.com^*/adgear.js$domain=vtele.ca
+@@||adshort.co/js/ads.js$script,~third-party
 @@||afreesms.now.im/adblocker.js$script,domain=afreesms.com
 @@||assets.over-blog-kiwi.com/b/blog/bundles/overblogblogblog/js/ads.js$script,domain=mariage-franco-marocain.net
 @@||audipassion.com^*/jsLoader.js?adType=foobar
