@@ -5977,6 +5977,12 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 @@||vjs.zencdn.net^*/video.js$script,domain=k-vid.net
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=k-vid.net
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=k-vid.net
+! k-vid.net
+@@||code.jquery.com^$script,domain=embed.komatv.com
+@@||k-vid.net/player/$script,stylesheet,domain=embed.komatv.com
+@@||vjs.zencdn.net^*/video.js$script,domain=embed.komatv.com
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=embed.komatv.com
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=embed.komatv.com
 ! vidhos.com
 @@||plugins.longtailvideo.com^$script,domain=vidhos.com
 |http://$script,third-party,xmlhttprequest,domain=vidhos.com
