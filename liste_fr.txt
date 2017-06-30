@@ -1075,6 +1075,7 @@
 /redirect/*?banner=
 /redirect/dl.
 /redirect?tid=$subdocument
+/regie.js
 /regie_pub/*
 /regiepub/*
 /rekban.php
@@ -6039,6 +6040,13 @@ oload.tv,streamango.com###videooverlay
 ! webchoc.com
 |http://$script,domain=sexefelin.com|tubixe.com|vidsexe.com|webchoc.com
 |https://$script,domain=sexefelin.com|tubixe.com|vidsexe.com|webchoc.com
+! xstory-fr.com
+@@||static.xstory-fr.com/script/$script,domain=xstory-fr.com
+@@||www.xstory-fr.com/ajax.php?$xmlhttprequest,domain=www.xstory-fr.com
+@@||www.xstory-fr.com/inscription.html|$xmlhttprequest,domain=www.xstory-fr.com
+@@||xstory-fr.com/us/ajax/model/$xmlhttprequest,domain=webcam2.xstory-fr.com
+@@||xstory-fr.com/us/popup/webcam/$xmlhttprequest,domain=webcam2.xstory-fr.com
+||xstory-fr.com^$popup,script,~third-party,xmlhttprequest
 ! cam4.com
 @@||xcdnpro.com/plugin/epay/js/epay-$script,domain=cam4.com
 @@||xcdnpro.com/web/js/bootstrap-$script,domain=cam4.com
@@ -7998,7 +8006,6 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||windmag.com/media/habillage/
 ||winds-up.com/images/pub/
 ||worldissmall.fr/*/uploads/partenaires/
-||www.xstory-fr.com^$xmlhttprequest
 ||xavbox.com/ban/
 ||xboards.org/static/sponsors/
 ||xboxunlimited.fr/images/testaxl.jpg
@@ -11842,7 +11849,7 @@ vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 igen.fr,macg.co##header + a[target="_blank"]
 hentaifr.net##iframe
 jeux-porno.net##iframe[src]
-aufeminin.com,hadoken-fansubs.fr,marmiton.org##iframe[style]
+aufeminin.com,hadoken-fansubs.fr,marmiton.org,xstory-fr.com##iframe[style]
 developpez.net,piratertelecharger.fr##iframe[width="300"][height="250"]
 developpez.net,piratertelecharger.fr##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
@@ -12181,8 +12188,6 @@ femmesplus.fr##section[id] > img
 @@||www.bluesteel.fr/affiliation/$~third-party
 @@||www.bouyguestelecom.fr^*/catalog/product/cache/*/image/300x600/$image,~third-party
 @@||www.consultant-adwords.com^$~third-party
-@@||www.xstory-fr.com/ajax.php?$xmlhttprequest,domain=www.xstory-fr.com
-@@||www.xstory-fr.com/inscription.html|$~third-party,xmlhttprequest
 ! iRaiser.eu
 @@||agir.plan-international.fr/adserver2/$~third-party
 @@||client.iraiser.eu/adserver/$~third-party
