@@ -6143,7 +6143,7 @@ voodaith7e.com##div > [id^="player"] + div[id][style*="z-index:"]
 ! thevideo.me / vidup.me
 @@||thevideo.me/js/jspc.js?ab|$script,domain=thevideo.me|vidup.me
 @@||vidup.me/adsense.js?$script,domain=vidup.me
-||thevideo.me^$subdocument,~third-party
+||thevideo.me^$subdocument,domain=thevideo.me|vidup.me
 ||vidup.me^$subdocument,~third-party
 ! adhy.pe
 |http://$script,subdocument,third-party,xmlhttprequest,domain=adhy.pe|ah.pe
