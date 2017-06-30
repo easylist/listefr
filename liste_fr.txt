@@ -8302,6 +8302,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ###PubPave
 ###PubTop
 ###PubliciteTop
+###RecipeInnerBottomAd
 ###RightAdDiv
 ###_div-ad-1
 ###_div-ad-2
@@ -11974,8 +11975,10 @@ macg.co##article > a[-abp-properties='*'] > img
 @@||players.brightcove.net/*_default/index.min.js?$script,third-party,domain=lachainemeteo.com
 @@||preprod-img.planet.fr/files/advagg_js/js_*.js$script,domain=femmesplus.fr
 @@||static.mediabong.com/scripts/mb.*.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
+|http://$script,domain=lesfoodies.com
 |http://$script,third-party,domain=aventure-apple.com|femmesplus.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|planet.fr|refurbgeneration.com
 |http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
+|https://$script,domain=lesfoodies.com
 |https://$script,third-party,domain=aventure-apple.com|femmesplus.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|planet.fr|refurbgeneration.com
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 ||fourchette-et-bikini.fr^$xmlhttprequest
@@ -12061,6 +12064,7 @@ igen.fr,macg.co,watchgeneration.fr##.bloc-accroches + h2 + br + [id]
 planet.fr##.block-content + div > img
 medisite.fr##.block-gc-ad + [id] > :first-child > img
 femmesplus.fr##.block-views + div > img
+lesfoodies.com##.container > [id] > img
 planet.fr##.even + section > img
 planet.fr##.odd > section > img
 medisite.fr##.region > [id] > img
@@ -12071,9 +12075,11 @@ planet.fr##.region-inner.clearfix > div > img
 femmesplus.fr,planet.fr##.region-sidebar-first [class] > img
 femmesplus.fr,planet.fr##.region-sidebar-first [id] > img
 planet.fr##.region-sidebar-first span > img
+lesfoodies.com##.sidebar_box img
 igen.fr,macg.co,watchgeneration.fr##[class] > img:last-child
 medisite.fr##[id] > a > img
 igen.fr,macg.co,watchgeneration.fr##[id] > img
+lesfoodies.com##[method="post"] + hr + [class] > img
 femmesplus.fr,planet.fr##aside > img
 femmesplus.fr##section[id] > img
 !
