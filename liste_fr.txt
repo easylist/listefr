@@ -67,7 +67,7 @@
 &voluumdata=*&zoneid=
 &zoneid=*&direct=
 ,728x90&promo_
-,popjs|
+,popjs|$domain=~thevideo.me
 -1000x150.$subdocument
 -120-600-
 -120-x-600-
@@ -6141,7 +6141,6 @@ voodaith7e.com##div > [id^="player"] + div[id][style*="z-index:"]
 |http://$subdocument,third-party,domain=viid.me
 |https://$subdocument,third-party,domain=viid.me
 ! thevideo.me / vidup.me
-@@||thevideo.me/js/jspc.js?ab$script,domain=thevideo.me
 @@||thevideo.me/js/jspc.js?ab|$script,domain=thevideo.me|vidup.me
 @@||vidup.me/adsense.js?$script,domain=vidup.me
 ||thevideo.me^$subdocument,~third-party
