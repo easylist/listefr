@@ -2196,6 +2196,7 @@ debugger:$popup
 ||brlmoney.com^$third-party
 ||broadcast.pm^$third-party
 ||brombrombo.in^$third-party
+||buckridge.link^$third-party
 ||buporez.com^$third-party
 ||buporez.xyz^$third-party
 ||bursttraffic.net^$third-party
@@ -2232,6 +2233,7 @@ debugger:$popup
 ||cdxnopt.com^$third-party
 ||cellflor.site^$third-party
 ||cemnjx.xyz^$third-party
+||cfasync.ga^$third-party
 ||cfgr1.com^$third-party
 ||chainwalladsoid.com^$third-party
 ||chainwalladsy.com^$third-party
@@ -5875,8 +5877,8 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=streamingeur.com
 |https://$script,third-party,domain=streamingeur.com
 ! viva-stream.org
-|http://$script,stylesheet,third-party,xmlhttprequest,domain=viva-stream.org
-|https://$script,stylesheet,third-party,xmlhttprequest,domain=viva-stream.org
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=viva-stream.co|viva-stream.org
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=viva-stream.co|viva-stream.org
 ! film-streaming-vf.org
 |http://$script,third-party,xmlhttprequest,domain=film-streaming-vf.org|filmstreamingvf.ws
 |https://$script,third-party,xmlhttprequest,domain=film-streaming-vf.org|filmstreamingvf.ws
