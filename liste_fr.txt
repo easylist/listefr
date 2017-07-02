@@ -5800,8 +5800,8 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 |http://$script,third-party,xmlhttprequest,domain=protect-stream.com
 |https://$script,third-party,xmlhttprequest,domain=protect-stream.com
 ! telecharger-jeuxpc.com
-|http://$script,third-party,xmlhttprequest,domain=macgames-download.com|telecharger-jeuxpc.com
-|https://$script,third-party,xmlhttprequest,domain=macgames-download.com|telecharger-jeuxpc.com
+|http://$script,third-party,xmlhttprequest,domain=macgames-download.com|pcgames-download.com|telecharger-jeuxpc.com
+|https://$script,third-party,xmlhttprequest,domain=macgames-download.com|pcgames-download.com|telecharger-jeuxpc.com
 ! zone-telechargement.ws
 |http://$script,xmlhttprequest,domain=zone-telechargement.ws
 |https://$script,xmlhttprequest,domain=zone-telechargement.ws
@@ -6263,6 +6263,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||i.imgur.com/5tS8GcN.png
 ||i.imgur.com/A4Kwg6k.png
 ||i.imgur.com/FinBqT8.jpg
+||i.imgur.com/kiJ9Xmc.png
 ||i.imgur.com/nUEuHxd.png
 ||i.imgur.com/PRdyOv3.gif
 ||i.imgur.com/qC2Tc51.png
