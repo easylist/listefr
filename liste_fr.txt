@@ -3452,8 +3452,6 @@ debugger:$popup
 ||fbfd396918c60838.com^
 ||fdf96bba78a9249ca4e.com^
 ! iframe
-/:\/\/[a-z]+\.com\/.{400,460}/$subdocument,third-party
-/:\/\/[a-z]+\.info\/.{400,460}/$subdocument,third-party
 ||artelled.com^$third-party
 ||bargetbook.com^$third-party
 ||beershavartb.com^$third-party
