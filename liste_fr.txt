@@ -400,7 +400,9 @@
 /ads/bmedia.
 /ads/boost.
 /ads/bottom_
+/ads/criteo/*
 /ads/criteo2_
+/ads/criteo3_
 /ads/dui.
 /ads/exo_
 /ads/extra.
@@ -8871,6 +8873,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ###pub_voyage
 ###pubbanner
 ###pubbas
+###pubbetween
 ###pubcarre
 ###pubcoldroite
 ###pubdetaillg
@@ -10274,7 +10277,6 @@ direct-torrents.com###derperd-ad
 lareclame.fr###dfp-top
 118218.fr###dfp_left
 datpiff.com###disqus_thread > div
-voyageforum.com###divArroundTableListx1
 videostep.com###divBrandVideo1
 videostep.com###divBrandVideo2
 kissanime.com###divFloatLeft
@@ -10426,7 +10428,6 @@ a40ans.com,sexecine.com,streaming-hardcore.com###liste-webcams
 millenium.org###logo_droite
 centreimmo.com###logos-partenaires
 laposte.net###lpn_pub_main
-voyageforum.com###mainposttravelsbox1
 hellokids.com###mask
 lafranceagricole.fr###materielOccasion
 driverscloud.com###mc_cadrebottompub
@@ -10573,7 +10574,6 @@ algerie360.com###pub_rand300a
 algerie360.com###pub_rand300b
 entrecoquins.com###pub_tatoo
 ouest-france.fr###pub_wallpaper
-voyageforum.com###pubbetween
 paris-communiques.com,plateformemedia.com###publaterale
 troc-velo.com###publine
 focus-numerique.com,japan-expo.be,lapresse.ca###pubs
@@ -10955,7 +10955,6 @@ oujdacity.net,passion-net.fr##.ebuzzing_box
 tsa-algerie.com##.ekk-footer-ad-wrapper
 wp-infinity.com##.entry-featured
 jemangejemincis.fr,vpntorrent.com##.entry-footer
-voyageforum.com##.error
 frandroid.com##.espace-sony-widget
 ruedesjoueurs.com##.esspo232x70
 ruedesjoueurs.com##.esspo736x110
@@ -11791,6 +11790,7 @@ e-monsite.com##div[data-role="sp"]
 e-monsite.com##div[data-role="sp2"]
 allocine.fr##div[data-w="clickCommand"]
 notebookcheck.biz##div[id] + div[class] > img:first-child
+voyageforum.com##div[id][style="width: 850px; height: 127px; overflow: hidden; vertical-align: top;"]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
 gratuitcul.com##div[id^="affidate_form_"]
 forumconstruire.com##div[id^="bloc_discussion_"] > :first-child + div
@@ -11855,7 +11855,7 @@ solutions-logiciels.com##div[style^="border:1px solid black; width: 300px; heigh
 echoroukonline.com##div[style^="display:inline-block;width:300px;height:250px;"]
 embed.nowvideo.sx##div[style^="height: 350px; width: 600px; z-index:"]
 tooply.com##div[style^="position:fixed; bottom:0px; left:50%; margin-left:-379px; width:728px; height:90px;"]
-geny.com,voyageforum.com##div[style^="width: 300px; height: 250px;"]
+geny.com##div[style^="width: 300px; height: 250px;"]
 free-reseau.fr,hdfever.fr##div[style^="width: 728px; height: 90px;"]
 forum-des-oranges.fr##div[style^="width: 728px;"]
 algerie360.com##div[style^="width:100%; height:100px"]
@@ -11910,7 +11910,6 @@ google.fr##table[style="border: 1px solid #369"]
 israel7.com##table[style="margin:0px0px10px15px;"]
 calculitineraires.fr##table[style="width:850px;text-align: center;margin:auto;"]
 codeposte.com##table[width="120"][height="500"]
-voyageforum.com##table[width="300"][height="125"][align="left"]
 virusphoto.com##table[width="300"][height="280"]
 societe.com##table[width="303"] > tbody > tr > td[valign="top"][height="260"]
 emule-island.ru##table[width="560"][height="90"][border="2"][bgcolor="#FFFFCC"]
@@ -12454,11 +12453,9 @@ trackmusik.fr#@#.afs_ads
 @@||xavierstuder.com^$generichide
 @@||zone-torrent.net^$generichide
 ! voyageforum.com (anti adblock)
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=voyageforum.com
-@@||voyageforum.com/images/advertisers/logos/$image,~third-party
 |http://$script,third-party,xmlhttprequest,domain=voyageforum.com
 |https://$script,third-party,xmlhttprequest,domain=voyageforum.com
-||voyageforum.com^$~third-party,xmlhttprequest
+||voyageforum.com^$xmlhttprequest
 ! telesatellite.com
 satelliweb.com,telesatellite.com##a[target="_blank"] > img
 satelliweb.com,telesatellite.com##a[target="_new"] > img
