@@ -4053,6 +4053,7 @@ debugger:$popup
 ||cometstar.net^$popup,third-party
 ||companypolicyurl.com^$popup,third-party
 ||compazenad.com^$popup,third-party
+||configs-pc.com^$popup,third-party
 ||connectionpower.pw^$popup,third-party
 ||coolood.biz^$popup,third-party
 ||coosc.info^$popup,third-party
@@ -5137,7 +5138,6 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 ||mangatown.com^*/banners/
 ||marche-forex.com/popup*.js
 ||mas-e.cds1.yospace.com^
-||materiel.net^$popup,domain=configspc.com
 ||maxannu.com/max468.
 ||maximobileshop.com/widget/$domain=iphonetweak.fr
 ||maximumwall.com/images/top_ban_
@@ -6609,8 +6609,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||confidentielles.com/bloquage_liens.js
 ||confidentielles.fr/dl/images/habillage/
 ||config-gamer.fr/images/banners/
-||configspc.com/pugo/pugo.php
-||configspc.com^*/flux*.php?
+||configspc.com^$popup,~third-party
 ||conseils-courseapied.com/images/boutique-marathon/
 ||conseils-courseapied.com/images/overstims/
 ||conseils-courseapied.com/images/partenaire/
