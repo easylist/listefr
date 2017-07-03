@@ -4734,7 +4734,7 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 ||bit.ly$image,domain=teramixer.com
 ||bit.ly^$domain=nintendo-master.com
 ||bit.ly^$image,domain=korben.info|phonandroid.com
-||bit.ly^$popup,domain=telechargementz-streaming.com|telechargementz.tv
+||bit.ly^$popup,domain=telechargementz.tv
 ||bitchvolley.com/ban/$third-party
 ||bitly.com/teraplayerplay$popup
 ||bitport.io/assets/banners/
@@ -5407,7 +5407,7 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 ||shopoon.fr/catalog/$third-party
 ||shopping.com/publisher/$third-party
 ||shoppingbox.leguide.com^
-||short-stuff.com^$popup,domain=telechargementz-streaming.com|telechargementz.tv
+||short-stuff.com^$popup,domain=telechargementz.tv
 ||sikr.chimeratool.com^
 ||simabio.fr/widget_$third-party
 ||site.elkhabar.com^
@@ -5426,7 +5426,6 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 ||socialporn.com/cx/$third-party
 ||soft-66.net/open.js
 ||soft-mining.net/images/banner_
-||soltanati.com^$popup,domain=zatnawqy.net
 ||solvemedia.com/acmedia/$image,media
 ||soonnight.com^*.html?width=
 ||sophielibertine.com/images/Banniere
@@ -5434,12 +5433,10 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 ||sousstube.net/pub/
 ||space-blogs.com/*/images/banners/
 ||speedgame.fr/logo.png$third-party
-||speedgame.fr^$popup,domain=southpark-stream.fr
 ||spilcloud.com/gameapi/*_banner_
 ||sponsorboost.com/banniere-rotative.
 ||sponsoweb.com/htdocs/templates/banners/
 ||ssl-images-amazon.com^$domain=fdesouche.com
-||ssl.gstatic.com^*.gif?$popup,third-party
 ||stagevu.com/video/$popup
 ||stars-passion.com/ban/$third-party
 ||static.ccmbg.com/ops.ccmbg.com/
@@ -11544,7 +11541,7 @@ jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
 narutoshippudenvf.com##a[class][target="_blank"]
 zone-telechargement.ru##a[href$=".html"]
-free-telechargement.co,planet-streaming.com,streaming-telechargementz.net,telechargementz-streaming.com,telechargementz-streaming.net,telechargementz.tv,telecharger-ebook-gratuit.net,telecharger-ebook-gratuit.org##a[href$=".php"]
+free-telechargement.co,planet-streaming.com,streaming-telechargementz.net,telechargementz-streaming.net,telechargementz.tv,telecharger-ebook-gratuit.net,telecharger-ebook-gratuit.org##a[href$=".php"]
 telechargementz.tv##a[href$="/"] > img
 thebadbuzz.com##a[href$="/boost.php"]
 sites-torrent.com##a[href$="/seedbox"]
@@ -11676,7 +11673,7 @@ boursorama.com##a[href^="http://ads."]
 oujdacity.net##a[href^="http://ads.oujdacity.net/"]
 aidemu.fr##a[href^="http://aidemu.fr/pub/"]
 porno-mobile.ws##a[href^="http://anonym.to?"]
-films-regarder.co,films-regarder.com,films-regarder.org,films-regarder.xyz,telechargementz-streaming.com,telechargementz.tv##a[href^="http://api.adlure.net/"]
+films-regarder.co,films-regarder.com,films-regarder.org,films-regarder.xyz,telechargementz.tv##a[href^="http://api.adlure.net/"]
 dhnet.be##a[href^="http://bf1.be/"] > img
 bigbike-magazine.com,brain-magazine.fr,filmstreaming.la,grimper.com,igen.fr,kiteboarder-mag.com,macg.co,montagnes-magazine.com,mubawab.ma,nintendo-master.com,niveales.com,portail.free.fr,public.fr,skieur.com,skimagazine.fr,snowsurf.com,supmag.fr,trekmag.com,unleashed.fr,walking-dead-streaming.net,watchgeneration.fr,widermag.com,windmag.com##a[href^="http://bit.ly/"]
 pubeco.fr,usbfix.net##a[href^="http://clic.reussissonsensemble.fr/"]
