@@ -4897,7 +4897,7 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 ||efficacitemaximale.com/wp-content/uploads/*/bann
 ||effiliation.com^$popup,domain=dzsat.org
 ||elles-mouillent.com/ban/$third-party
-||embed.ly^*www.amazon.*tag%
+||embed.ly^*.amazon.
 ||embedly.com^$domain=korben.info
 ||emp3s.ws/spon/$popup
 ||emploicom.com/application/views/docs/pub/
@@ -5014,6 +5014,8 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cocostreaming.com
 ||iceroket.com^$subdocument
 ||icpc.tv/banners/$domain=europeplusnet.info
 ||idem.com/medias/$third-party
+||iframe.ly^$domain=korben.info
+||iframe.ly^*%2Famzn.
 ||igstatic.com/merchant/banner/
 ||ilbanat.com/images/pubilbanat.gif
 ||illiweb.com^*/banner/
