@@ -1099,6 +1099,7 @@
 /rel/index.cfm?*&TAD=
 /renklam/*
 /request_ad.
+/richmedia.adv?
 /right_advertissment.
 /right_down_ads|
 /right_up_ads|
@@ -12274,6 +12275,8 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 _action=adblock&
 _adblockdetector/
 _blockadblock_
+!
+/http:\/\/[a-z]+\.com\/[a-z0-9]{125,165}$/$script,third-party,domain=jeux.fr
 !
 ||ajax.googleapis.com^$domain=greys-anatomy-streaming.eu|greys-anatomy-streaming.org
 !
