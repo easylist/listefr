@@ -1656,6 +1656,7 @@ _werbebanner_
 /pdv/track.$popup
 /pop.redirect.$popup
 /pop?dfp_id=$popup
+/pop_under.$popup
 /popads.$popup
 /popad|$popup
 /popclick/*$popup
@@ -6733,6 +6734,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||echoroukonline.com/sponsors/
 ||echoroukonline.com/sponsors2015/
 ||economiematin.fr^*-ban-300x150.
+||ecranlarge.com^*?u=
 ||edcom.fr/images/habillage/
 ||edenflirt.co/pdv/*/?comfrom=*&cf2=$popup
 ||editeurjavascript.com/bans/
@@ -9256,6 +9258,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##.bannergroup_bannierepub
 ##.banners-adv
 ##.barre_adsense
+##.bci-ad
 ##.before-side-nav-ad
 ##.bg-adsense
 ##.bg_ads300x250
@@ -11350,6 +11353,7 @@ igen.fr##.sidebar [id*="Y"]
 igen.fr##.sidebar [id*="Z"]
 igen.fr##.sidebar div img
 foot01.com##.sidebar img:first-child
+ecranlarge.com##.sidebar-banner
 wikiclic.com##.sidebar-promotion
 deavita.fr##.sidebar_banner
 clicbienetre.com##.sidebar_block
@@ -11492,7 +11496,6 @@ speedvid.net##[id][style*="z-index:"]
 turbo.fr##[id^="ABbypass"]
 bestream.tv##[id^="aff_spion-"]
 comarketing-news.fr##[id^="comar-"]
-ecranlarge.com##[id^="criteo"]
 mystream.la##[id^="dummyid"]
 crichd.info##[id^="floatLayer"]
 commentcamarche.net,free.fr,journaldesfemmes.com,orange.fr##[id^="lig_"]
