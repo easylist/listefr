@@ -113,6 +113,7 @@
 -ads/get?type=
 -adsmanager/
 -adv-2.
+-advertising/tmg-gpt.
 -affiliate-earn-
 -animated-ad.
 -ban.468.php
@@ -267,6 +268,7 @@
 /720x90_dfp.
 /728-90ban.
 /728-x-90-
+/728/*-affiliates-
 /728/90|$subdocument
 /72890.js
 /728by90two.
@@ -315,6 +317,7 @@
 /ad300ro.
 /ad4mat.
 /Ad4S_Popup/*
+/ad700mv.
 /ad_250250.
 /ad_fr.
 /ad_frames/*
@@ -348,8 +351,10 @@
 /adj?auid=
 /adkompan.
 /adm_bmp.
+/admantium.
 /admarvel_
 /admaxdsp/*
+/admtpop.
 /adoff.js?
 /adops_
 /adperf.
@@ -386,6 +391,7 @@
 /ads/*-300x250.
 /ads/*-habillage-
 /ads/*/300_
+/ads/*_ad_
 /ads/*_habillage_
 /ads/120/600/*
 /ads/2-728.
@@ -406,6 +412,7 @@
 /ads/bmedia.
 /ads/boost.
 /ads/bottom_
+/ads/country.
 /ads/criteo/*
 /ads/criteo2_
 /ads/criteo3_
@@ -415,12 +422,15 @@
 /ads/feed/*
 /ads/get_
 /ads/gif/*
+/ads/layered_
 /ads/left/*
+/ads/mgid.
 /ads/mgid_
 /ads/pops/*
 /ads/popups-
 /ads/rekleft.
 /ads/rekright.
+/ads/slider_
 /ads/top_
 /ads10.
 /ads13.
@@ -447,6 +457,7 @@
 /ads_block
 /ads_capping.
 /ads_data_
+/ads_fol_
 /ads_hao123.
 /ads_left.
 /ads_master.
@@ -478,6 +489,7 @@
 /adsmanager.js
 /adsmouse.
 /adspage.
+/adspaymedia.
 /adspirit.
 /adstest.
 /adstrack/*
@@ -551,6 +563,7 @@
 /api/ads_
 /api/syndicated/?$third-party
 /apu.php?id=
+/arabyads.
 /article/ads/*
 /async?*&tid=
 /autopromo.*/async|$domain=~jeuxvideo.com
@@ -693,6 +706,7 @@
 /click/*?pubid=
 /click?adv=
 /click_update.*?id_pub=
+/clickpartners.
 /clients-ads.
 /cmpn_async.
 /code-float-ad.
@@ -769,6 +783,7 @@
 /exads-
 /exo-loader/*
 /exoclick300m.
+/factorads.
 /fakeFBbar.
 /fakevideo/rotate.
 /fastclick300.
@@ -880,6 +895,7 @@
 /markt/banner/*
 /media/300250.
 /media/72890.
+/mediamondads.
 /meltyad/*
 /menu/ADS/*
 /miniads/*
@@ -1183,6 +1199,8 @@
 /upload/ad/*
 /upload/adv/*
 /uploads/*/ads.
+/v2/ads/*
+/v3/ads/*
 /vaxadserver.
 /vbs-ads.
 /videojs.adss.
@@ -1196,6 +1214,8 @@
 /wbdds.
 /web/bannieres/*
 /webediads/*
+/werbe-banner/*
+/werbe_banner.
 /werbebanner-ad.
 /wgAds.
 /widget.advertisement.
@@ -1204,6 +1224,7 @@
 /widgets-zoom-annonce-shopping.
 /widgets-zoom-mytravelchic.
 /wigetmedia.js
+/wmadv.
 /wp-content/*/bloc-partenaire-
 /wp-content/plugins/baw-bon-plan/*
 /wp-content/plugins/mts-wp-in-post-ads/*
@@ -1238,6 +1259,7 @@
 ://bannieres.
 ://be.ads.
 ://ca.ads.
+://cdn.ad.
 ://cdn.ads.
 ://dc.ads.
 ://dz.ads.
