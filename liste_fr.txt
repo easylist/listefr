@@ -3449,6 +3449,7 @@ debugger:$popup
 ||7a1908e529ee92.com^
 ||7a6421ee67fdb0f660.com^
 ||7aecd4ee5edfbb703be.com^
+||7b3c8a1d6cbbce5.com^
 ||7c48cf7965e9e91e682.site^
 ||7d6260236b547b31f.com^
 ||7db0b2a0ee95f557904.com^
@@ -3594,6 +3595,7 @@ debugger:$popup
 ||d12bc830b49ad18.webcam^
 ||d276dbe50af7e29d81.com^
 ||d27c2fc111e8e.party^
+||d2aizum1.party^
 ||d3e44a82c2df88.com^
 ||d4bc906745c64931.website^
 ||d50285bff60edbb406.com^
@@ -3624,6 +3626,7 @@ debugger:$popup
 ||e301e693eef041.men^
 ||e331ff4e674c083.com^
 ||e3f21da115f179a.bid^
+||e3kgk5su.win^
 ||e4462a49a393.com^
 ||e4f7c83a9952536.com^
 ||e521d17fa185a2.com^
@@ -3671,13 +3674,16 @@ debugger:$popup
 ||h7syblho.bid^
 ||justsweetgirls.com^
 ||mlvc4zzw.space^
+||onefontapi91283.com^
 ||opencdb84507.com^
 ||openfonts937443.com^
 ||ry0brv6w.science^
+||sdflxcvety.com^
 ||sn5wcs89.science^
 ||xgdjzug2.space^
 ||xlw5e582.date^
 ||xmr6v4yg.faith^
+||xvdjwsjj.review^
 ! iframe
 ||artelled.com^$third-party
 ||bargetbook.com^$third-party
@@ -6145,6 +6151,9 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cineiz.co|cineiz.
 @@||stackpathdns.com/assets/$script,stylesheet,domain=onlinevideoconverter.com
 |http://$script,stylesheet,third-party,domain=onlinevideoconverter.com
 |https://$script,stylesheet,third-party,domain=onlinevideoconverter.com
+! mp3red.me
+|http://$script,third-party,xmlhttprequest,domain=mp3red.me
+|https://$script,third-party,xmlhttprequest,domain=mp3red.me
 ! gamestorrents.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=gamestorrents.com
 |http://$script,third-party,xmlhttprequest,domain=gamestorrents.com
@@ -8397,6 +8406,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||d2w88er3oa79h8.cloudfront.net^
 ||d2xcimzl9ytdi0.cloudfront.net^
 ||d2xsy1lxezptdm.cloudfront.net^
+||d2xvc2nqkduarq.cloudfront.net^
 ||d2yjxa7gi6wm99.cloudfront.net^
 ||d2ymkpxi1rgldj.cloudfront.net^
 ||d2yyf02s9xqns0.cloudfront.net^
