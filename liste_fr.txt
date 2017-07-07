@@ -6272,10 +6272,10 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cineiz.co|cineiz.
 @@||ajax.googleapis.com/ajax/libs/$script,domain=datpiff.com
 |http://$script,third-party,xmlhttprequest,domain=datpiff.com
 |https://$script,third-party,xmlhttprequest,domain=datpiff.com
-! lectureduweb.fr (dblock-ads.com)
-@@||ajax.googleapis.com/ajax/libs/$script,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
-|http://$image,script,subdocument,third-party,xmlhttprequest,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
-|https://$image,script,subdocument,third-party,xmlhttprequest,domain=badside.fr|infosduweb.fr|lectureduweb.fr|lemagdunet.fr|lepetitlecteur.fr|lepetitmag.fr|lespetitesinfos.fr|lezapdunet.fr|lezapduweb.fr|lezapp.com|magicinfos.fr|monwebjournal.fr|thebadside.com|topinfos.fr|uneviesurleweb.fr
+! dblock-ads.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=lepetitlecteur.fr|lepetitmag.fr|thebadside.com
+|http://$image,script,subdocument,third-party,xmlhttprequest,domain=lepetitlecteur.fr|lepetitmag.fr|thebadside.com
+|https://$image,script,subdocument,third-party,xmlhttprequest,domain=lepetitlecteur.fr|lepetitmag.fr|thebadside.com
 ! rapidvideo.com
 |http://$script,third-party,xmlhttprequest,domain=rapidvideo.com
 |https://$script,third-party,xmlhttprequest,domain=rapidvideo.com
