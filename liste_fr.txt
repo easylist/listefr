@@ -6078,6 +6078,9 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cineiz.co|cineiz.
 ! streaming-dragon-ball-super.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=streaming-boruto.com|streaming-dragon-ball-super.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=streaming-boruto.com|streaming-dragon-ball-super.com
+! quebecwarez.com
+|http://$script,third-party,domain=quebecwarez.com
+|https://$script,third-party,domain=quebecwarez.com
 ! mavanime.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=mavanime.com
 |http://$script,third-party,domain=mavanime.com
