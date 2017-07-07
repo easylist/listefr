@@ -6045,10 +6045,6 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cineiz.co|cineiz.
 ! zone-telechargement.ws
 |http://$script,xmlhttprequest,domain=zone-telechargement.ws
 |https://$script,xmlhttprequest,domain=zone-telechargement.ws
-! lucariostream.eu
-|http://$script,third-party,xmlhttprequest,domain=lucariostream.eu
-|https://$script,third-party,xmlhttprequest,domain=lucariostream.eu
-||lucariostream.eu^$popup,~third-party
 ! 9xbuddy.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=9xbuddy.com
 |http://$script,third-party,xmlhttprequest,domain=9xbuddy.com
