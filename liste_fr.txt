@@ -6414,12 +6414,9 @@ oload.tv,streamango.com###videooverlay
 @@||xstory-fr.com/us/popup/webcam/$xmlhttprequest,domain=webcam2.xstory-fr.com
 ||xstory-fr.com^$popup,script,~third-party,xmlhttprequest
 ! cam4.com
-@@||xcdnpro.com/plugin/epay/js/epay-$script,domain=cam4.com
-@@||xcdnpro.com/web/js/bootstrap-$script,domain=cam4.com
-@@||xcdnpro.com/web/js/build/bundle_$script,domain=cam4.com
-@@||xcdnpro.com/web/js/cam4-$script,domain=cam4.com
-@@||xcdnpro.com/web/js/i18n/com_cam4/jsLang.$script,domain=cam4.com
-@@||xcdnpro.com/web/js/jquery/jquery.$script,domain=cam4.com
+@@||firebaseio.com/.lp?$script,domain=cam4.com|cam4.fr
+@@||xcdnpro.com/plugin/epay/$script,domain=cam4.com|cam4.fr
+@@||xcdnpro.com/web/js/$script,domain=cam4.com|cam4.fr
 |http://$script,third-party,domain=cam4.com|cam4.fr
 |https://$script,third-party,domain=cam4.com|cam4.fr
 ! speedvid.net
