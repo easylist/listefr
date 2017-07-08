@@ -6147,6 +6147,9 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cineiz.co|cineiz.
 ! streaming-kids.com
 |http://$script,third-party,xmlhttprequest,domain=streaming-kids.com
 |https://$script,third-party,xmlhttprequest,domain=streaming-kids.com
+! dbs-streaming.com
+|http://$script,third-party,domain=dbs-streaming.com
+|https://$script,third-party,domain=dbs-streaming.com
 ! manga-streaming.fr
 |http://$script,third-party,domain=manga-streaming.fr
 |https://$script,third-party,domain=manga-streaming.fr
