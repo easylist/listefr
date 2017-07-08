@@ -8078,7 +8078,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||starter.fm/blog/*/bg_$image
 ||starter.fm/images/*/bg_
 ||static.basket-infos.com/wp-content/uploads/Pub-
-||static.booska-p.com/images/ops/
+||static.booska-p.com/img/
 ||static.ccm2.net/*/img/appstv/
 ||static.lacentrale.fr/ressources/images/pages/home/spot_banner.jpg
 ||static.lci.fr/assets/scripts/modules/ad.js
@@ -11138,7 +11138,6 @@ paruvendu.fr##.auto2010_inter_CONT
 paruvendu.fr##.auto2010_noprint
 lindependant.fr##.auto300X250
 buzzly.fr##.ayl-ad-article
-booska-p.com##.bacck_fader
 nintendo-master.com##.back_content > a
 katibin.fr##.background-cover
 hdfever.fr##.background_clic
@@ -11818,6 +11817,7 @@ amazon.fr##[class*="-sponsored-"]
 ccm.net,commentcamarche.net##[class*="_item--sponsor"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
 uploaded.net##[class*="pico-"]
+booska-p.com##[class][style^="background"]
 bestream.tv##[class^="adsRemove"]
 narkive.com##[class^="ads_"]
 jeu.info##[class^="banniere-"]
@@ -11834,7 +11834,6 @@ bestream.tv##[class^="widget_nq_"]
 jeu.fr##[data-fallback-type="image"]
 films-telecharger.eu##[data-hash]
 meteofrance.com##[href*=".xiti.com"] > img
-booska-p.com##[href^="http://www.booska-p.com/re/"]
 onhax.me##[id*="-prom"]
 speedvid.net##[id][style*="z-index:"]
 turbo.fr##[id^="ABbypass"]
@@ -11898,6 +11897,7 @@ nouvelobs.com##a[href*="/les-bons-plans-shopping/"]
 20min.ch##a[href*="/paidpost/"]
 euro-2016-france.net##a[href*="/parier/"]
 20min.ch##a[href*="/postfinance_news/"]
+booska-p.com##a[href*="/re/"]
 centre-audition.com,easyzic.com,info-algerie.com##a[href*="/redirect."]
 20min.ch##a[href*="/sponsored/"]
 planete-series.info##a[href*="/telecharger-rapide"]
