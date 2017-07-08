@@ -6110,11 +6110,11 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cineiz.co|cineiz.
 |http://$popup,script,third-party,domain=zetorrento.fr|zetorrents.com
 |https://$popup,script,third-party,domain=zetorrento.fr|zetorrents.com
 ! torrent9.tv
-/cdn-cgi/pe/bag2?$domain=torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
-@@||ajax.googleapis.com/ajax/libs/$script,domain=torrent9.biz|torrent9.cc|torrent9.info|torrent9.top|torrents9.org
-@@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=torrent9.biz|torrent9.cc|torrent9.info|torrent9.top|torrents9.org
-|http://$popup,script,third-party,domain=cpabien.xyz|cpasbien.io|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
-|https://$popup,script,third-party,domain=cpabien.xyz|cpasbien.io|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
+/cdn-cgi/*$domain=cpabien.ch|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
+@@||ajax.googleapis.com/ajax/libs/$script,domain=cpabien.ch|torrent9.biz|torrent9.cc|torrent9.info|torrent9.top|torrents9.org
+@@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=cpabien.ch|torrent9.biz|torrent9.cc|torrent9.info|torrent9.top|torrents9.org
+|http://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.xyz|cpasbien.io|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
+|https://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.xyz|cpasbien.io|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
 ! nextorrent.net
 |http://$script,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.net|nextorrent.ws
 |https://$script,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.net|nextorrent.ws
