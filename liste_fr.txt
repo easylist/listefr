@@ -10061,6 +10061,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##.pubind1
 ##.pubind2
 ##.pubitem
+##.publSbar
 ##.publarge
 ##.publicidade-rodape
 ##.publicite
@@ -12334,6 +12335,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be###contentCntr + [id
 heures.be,hours.be,openingstijdengids.nl,openingsurengids.be###leftCntr > div + [class]
 heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##.day > [class]
 heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##[class^="ad"]
+heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 |http://$script,third-party,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 |https://$script,third-party,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 ! CCM Benchmark (ligatus)
