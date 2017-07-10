@@ -1444,7 +1444,7 @@ _werbebanner_
 ||click/banner/
 ||com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com|~visuels.l214.com
 ! regex
-/license.\d{1,5}.js$/$script,~third-party
+/license\.\d{1,5}\.js$/$script,~third-party
 ! CDN filters
 /cdn-cgi/pe/bag2?*%2Fad_slideout.
 /cdn-cgi/pe/bag2?*%2Fads1.
@@ -1798,7 +1798,7 @@ _pornofolies_$popup
 _regie/clic.$popup
 _zoneid=*/rel/index.cfm?$popup
 ! regex popups
-/\.com\/watch\?key\=([\da-f]{32}($))/$popup,third-party
+/\/watch\?key\=([\da-f]{32}($))/$popup,third-party
 !
 data:*text*/*html*,$popup
 debugger:$popup
