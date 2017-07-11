@@ -5207,7 +5207,7 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cineiz.co|cineiz.
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
-||dailymotion.com^*autoplay=1$domain=anime301.com|anogaming.fr|bescherelletamere.fr|blagues-mobiles.com|buzzutopia.com|dailymotion.com|dragon-ball-super-streaming.com|hitek.fr|manga-fr.com|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|mavanimes.com|otakufr.com|pokemon-streaming.com|pokercast.tv|robindesdroits.me|sonyoutube.com|stream4free.pro|streaming-boruto.com|streaming-dragon-ball-super.com|tv-streaming-serie.xyz|youzapping.com
+||dailymotion.com^*autoplay=1$domain=anime301.com|anogaming.fr|bescherelletamere.fr|blagues-mobiles.com|buzzutopia.com|dailymotion.com|dragon-ball-super-streaming.com|filmsvostfr.xyz|hitek.fr|manga-fr.com|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|mavanimes.com|otakufr.com|pokemon-streaming.com|pokercast.tv|robindesdroits.me|sonyoutube.com|stream4free.pro|streaming-boruto.com|streaming-dragon-ball-super.com|tv-streaming-serie.xyz|youzapping.com
 ||dailymotion.com^*autoplay=2$domain=manga-fr.com
 ||dailymotion.com^*autoplay=true$domain=manga-fr.com|protect-iframe.com
 ||dailymotion.com^*mute=1$domain=captainmugiwara.over-blog.com
@@ -7190,6 +7190,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||filmstreaming-hd.com^$subdocument
 ||filmstreaming1.com/templates/filmstreaming/images/468
 ||filmstreaming1.com/templates/filmstreaming/images/pub/
+||filmsvostfr.xyz/jscripts/global2.js
 ||filmzenstream.com/player.html
 ||fitshr.net/pg.php
 ||flam.me/*/divers/partners/
