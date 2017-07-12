@@ -3809,6 +3809,7 @@ debugger:$popup
 ||artelled.com^$third-party
 ||bargetbook.com^$third-party
 ||beershavartb.com^$third-party
+||besied.com^$third-party
 ||bestarmour4u.link^$third-party
 ||bowlingle.com^$third-party
 ||budgement.info^$third-party
@@ -6140,8 +6141,8 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cineiz.co|cineiz.
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.xyz|cpasbien.io|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.xyz|cpasbien.io|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
 ! nextorrent.net
-|http://$script,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.net|nextorrent.ws
-|https://$script,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.net|nextorrent.ws
+|http://$script,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.net|nextorrent.ws
+|https://$script,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.net|nextorrent.ws
 ! proxyportal.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=bypassed.gold|immunicity.gold|unblocked.gold
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=bypassed.gold|immunicity.gold|unblocked.gold
