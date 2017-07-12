@@ -6162,7 +6162,6 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cineiz.co|cineiz.
 ! ex-down.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=ed-protect.org
 @@||www.extreme-down.one/engine/classes/js/bbcodes.js$script
-@@||www.extreme-down.one/engine/classes/min/index.php$script
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org|ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org|ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
 ||extreme-down.one^$popup,script,~third-party
