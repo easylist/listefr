@@ -6500,11 +6500,11 @@ oload.tv,streamango.com###videooverlay
 !|http://$script,third-party,domain=megawatch.net
 !|https://$script,third-party,domain=megawatch.net
 ! youwatch.org
-$popup,domain=voodaith7e.com|youwatch.org
-voodaith7e.com##div > [id^="player"] + div[id][style*="z-index:"]
-|http://$script,subdocument,third-party,xmlhttprequest,domain=voodaith7e.com|youwatch.org
-|https://$script,subdocument,third-party,xmlhttprequest,domain=voodaith7e.com|youwatch.org
-||voodaith7e.com^*.html|$subdocument,~third-party
+$popup,domain=he2eini7ka.com|youwatch.org
+he2eini7ka.com##div > [id^="player"] + div[id][style*="z-index:"]
+|http://$script,subdocument,third-party,xmlhttprequest,domain=he2eini7ka.com|youwatch.org
+|https://$script,subdocument,third-party,xmlhttprequest,domain=he2eini7ka.com|youwatch.org
+||he2eini7ka.com^*.html|$subdocument,~third-party
 ! watchers.to (revolving redirection)
 ||watchers.to^$subdocument,third-party
 ! nowvideo
