@@ -294,6 +294,7 @@
 /acceptable.*/async|$domain=~millenium.org
 /accrochePub300.
 /acecAdServer.
+/Ad-*-300x250.
 /ad-360-280-
 /ad-ads.
 /ad-lib/*
@@ -4374,6 +4375,7 @@ debugger:$popup
 ||boruto.fr^$popup,third-party
 ||brostraffic.com^$popup,third-party
 ||brucelead.com^$popup,third-party
+||bruceleadx2.com^$popup,third-party
 ||bstlnk.com^$popup,third-party
 ||budbi.mobi^$popup,third-party
 ||buysellads.com^$popup,third-party
@@ -10334,6 +10336,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##a[href*="://aclick.adhoc4.net/"]
 ##a[href*="://adlipay.com/ref/"]
 ##a[href*="://adpv.com/?idpartner="]
+##a[href*="://adskeeper.co.uk/"]
 ##a[href*="://adsoptimal.com/?"]
 ##a[href*="://all2lnk.com/"]
 ##a[href*="://begloffic.info/"]
@@ -10389,6 +10392,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ##a[href^="http://affiliates.lifeselector.com/"]
 ##a[href^="http://afflight.postaffiliatepro.com/"]
 ##a[href^="http://always-parser.xyz/"]
+##a[href^="http://bruceleadx2.com/"]
 ##a[href^="http://centredecontrole.biz/ads/"]
 ##a[href^="http://click.union.ucweb.com/"]
 ##a[href^="http://clicks.totemcash.com/"]
