@@ -3714,6 +3714,7 @@ debugger:$popup
 ||bestarmour4u.link^$third-party
 ||bowlingle.com^$third-party
 ||budgement.info^$third-party
+||camkiiis.com^$third-party
 ||charmstroy.info^$third-party
 ||contentpap.info^$third-party
 ||evideorun.com^$third-party
@@ -6395,8 +6396,9 @@ oload.tv,streamango.com###videooverlay
 |http://$third-party,xmlhttprequest,domain=jheberg.net
 |https://$third-party,xmlhttprequest,domain=jheberg.net
 ! gorillavid.in
-|http://$popup,stylesheet,subdocument,third-party,domain=daclips.in|gorillavid.in|movpod.in
-|https://$popup,stylesheet,subdocument,third-party,domain=daclips.in|gorillavid.in|movpod.in
+@@||ajax.googleapis.com/ajax/libs/$script,domain=daclips.com|daclips.in|gorillavid.in|movpod.in
+|http://$popup,stylesheet,subdocument,third-party,domain=daclips.com|daclips.in|gorillavid.in|movpod.in
+|https://$popup,stylesheet,subdocument,third-party,domain=daclips.com|daclips.in|gorillavid.in|movpod.in
 ! easyvid.org
 |http://$script,third-party,domain=easyvid.org
 |https://$script,third-party,domain=easyvid.org
@@ -8391,6 +8393,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||d1o3ws1znr0uv8.cloudfront.net^
 ||d1pv6e37nco3b2.cloudfront.net^
 ||d1q247yvaifpkc.cloudfront.net^
+||d1qtf1avwa1wvl.cloudfront.net^
 ||d1rb5wwywwoqqm.cloudfront.net^
 ||d1re760tkiprs5.cloudfront.net^
 ||d1s5n6wuwgnxf4.cloudfront.net^
