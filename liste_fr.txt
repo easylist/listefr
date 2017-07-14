@@ -6285,6 +6285,9 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cineiz.co|cineiz.
 @@||plugins.longtailvideo.com^$script,domain=vidhos.com
 |http://$script,third-party,xmlhttprequest,domain=vidhos.com
 |https://$script,third-party,xmlhttprequest,domain=vidhos.com
+! vidabc.com
+|http://$script,third-party,xmlhttprequest,domain=vidabc.com
+|https://$script,third-party,xmlhttprequest,domain=vidabc.com
 ! estream.to
 @@||escdn.co^$script,third-party,xmlhttprequest,domain=estream.to
 |http://$script,third-party,xmlhttprequest,domain=estream.to
