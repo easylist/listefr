@@ -2173,6 +2173,7 @@ debugger:$popup
 ||arabyads.com^$third-party
 ||arabytracking.com^$third-party
 ||archiustube.com^$third-party
+||arrassley.info^$third-party
 ||aservtrack.com^$third-party
 ||asiatmessenger.com^$third-party
 ||atdmt.com^$third-party
@@ -4284,6 +4285,7 @@ debugger:$popup
 ||bonplan5.com^$popup,third-party
 ||booksuper.info^$popup,third-party
 ||boruto.fr^$popup,third-party
+||bridsun.com^$popup,third-party
 ||brostraffic.com^$popup,third-party
 ||brucelead.com^$popup,third-party
 ||bruceleadx2.com^$popup,third-party
@@ -6403,6 +6405,7 @@ oload.tv,streamango.com###videooverlay
 |https://$third-party,xmlhttprequest,domain=jheberg.net
 ! gorillavid.in
 @@||ajax.googleapis.com/ajax/libs/$script,domain=daclips.com|daclips.in|gorillavid.in|movpod.in
+@@||daclips.in^$stylesheet,domain=daclips.com
 |http://$popup,stylesheet,subdocument,third-party,domain=daclips.com|daclips.in|gorillavid.in|movpod.in
 |https://$popup,stylesheet,subdocument,third-party,domain=daclips.com|daclips.in|gorillavid.in|movpod.in
 ! easyvid.org
@@ -8384,6 +8387,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||d1fttzrngno3h1.cloudfront.net^
 ||d1gp9nlx229wzz.cloudfront.net^
 ||d1hl7ya5ggieq0.cloudfront.net^
+||d1hm0uxglt4t41.cloudfront.net^
 ||d1i2v9a8xom2hy.cloudfront.net^
 ||d1izbwxtc3f9ue.cloudfront.net^
 ||d1jq9nooxeft24.cloudfront.net^
