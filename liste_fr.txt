@@ -1255,6 +1255,7 @@
 ://adspaces.
 ://adss.
 ://adw.
+://adx.
 ://afflight.$third-party
 ://ar.ads.
 ://ban.$third-party
@@ -1986,6 +1987,7 @@ debugger:$popup
 ||adleadevent.com^$third-party
 ||adleave.com^$third-party
 ||adlike.net^$third-party
+||adlmerge.com^$third-party
 ||adlookr.com^$third-party
 ||adlovaltd.com^$third-party
 ||adlure.net^$third-party
@@ -2294,6 +2296,8 @@ debugger:$popup
 ||click2tap.com^$third-party
 ||clickbank.net^$third-party
 ||clickenabler.com^$third-party
+||clickioadv.com^$third-party
+||clickioglobal.com^$third-party
 ||clickmena.com^$third-party
 ||clickpartoffon.xyz^$third-party
 ||clicksgear.com^$third-party
@@ -12627,6 +12631,7 @@ _blockadblock_
 @@||peimg.fr/js/ads.js$script,domain=pubeco.fr
 @@||pla.folue.info/needes.js$script
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
+@@||s.clickiocdn.com/t/common_$script,domain=ville-ideale.fr
 @@||scan-manga.fr^$stylesheet
 @@||securepubads.g.doubleclick.net/gampad/ads?$script,domain=7sur7.be
 @@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
