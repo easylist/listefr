@@ -6050,8 +6050,8 @@ $webrtc,domain=123movies.net|9divx.org|akoam.com|bypassed.gold|cineiz.co|cineiz.
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.xyz|cpasbien.io|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.xyz|cpasbien.io|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
 ! nextorrent.net
-|http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.net|nextorrent.org|nextorrent.ws
-|https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.net|nextorrent.org|nextorrent.ws
+|http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.ws
+|https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.ws
 ! proxyportal.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=bypassed.gold|immunicity.gold|unblocked.gold
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=bypassed.gold|immunicity.gold|unblocked.gold
@@ -8462,6 +8462,7 @@ $popup,domain=35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|ca
 ||d2q039yelpk33c.cloudfront.net^
 ||d2q55mevlpufwx.cloudfront.net^$image
 ||d2skqnrxz11esv.cloudfront.net^
+||d2uzayf7r4rh08.cloudfront.net^
 ||d2w7avhumdk0s6.cloudfront.net^
 ||d2w88er3oa79h8.cloudfront.net^
 ||d2xcimzl9ytdi0.cloudfront.net^
