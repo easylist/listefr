@@ -53,6 +53,7 @@
 &include_ads=
 &lr_adtype=
 &pdvId=
+&pid=*&tid=*&status=*&v=
 &placement=*&ad=
 &playadw=
 &pop_under=
@@ -3715,6 +3716,7 @@ debugger:$popup
 ||wkvjkwbjkv.com^
 ||xgdjzug2.space^
 ! iframe
+/^https?:\/\/(?!disqus\.)([a-z]+)\.(com|info)\/([0-9a-zA-Z\+\/]){420,460}/$subdocument,third-party
 ||artelled.com^$third-party
 ||bargetbook.com^$third-party
 ||beershavartb.com^$third-party
@@ -3738,6 +3740,7 @@ debugger:$popup
 ||oscarlosun.com^$third-party
 ||ourinstance.info^$third-party
 ||paradition.com^$third-party
+||phalata.info^$third-party
 ||quierest.com^$third-party
 ||see-work.info^$third-party
 ||seegamese.com^$third-party
@@ -3748,6 +3751,7 @@ debugger:$popup
 ||streesusa.info^$third-party
 ||tinquet.com^$third-party
 ||triction.info^$third-party
+||uauthere.com^$third-party
 ||undousun.com^$third-party
 ||unformse.com^$third-party
 ||whonami.info^$third-party
