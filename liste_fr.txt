@@ -5130,7 +5130,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.es|letwatch.to|letwa
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
-||dailymotion.com^*autoplay=1$domain=anime301.com|anogaming.fr|bescherelletamere.fr|blagues-mobiles.com|buzzutopia.com|dailymotion.com|dragon-ball-super-streaming.com|filmsvostfr.xyz|hitek.fr|manga-fr.com|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|mavanimes.com|otakufr.com|pokemon-streaming.com|pokercast.tv|prison-break-hd-streaming.com|robindesdroits.me|sonyoutube.com|stream4free.pro|streaming-boruto.com|streaming-dragon-ball-super.com|tv-streaming-serie.xyz|youzapping.com
+||dailymotion.com^*autoplay=1$domain=anime301.com|anogaming.fr|bescherelletamere.fr|blagues-mobiles.com|buzzutopia.com|dailymotion.com|dragon-ball-super-streaming.com|filmsvostfr.xyz|hitek.fr|manga-fr.com|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|mavanimes.com|otakufr.com|pokemon-streaming.com|pokercast.eu|pokercast.tv|prison-break-hd-streaming.com|robindesdroits.me|sonyoutube.com|stream4free.pro|streaming-boruto.com|streaming-dragon-ball-super.com|tv-streaming-serie.xyz|youzapping.com
 ||dailymotion.com^*autoplay=2$domain=manga-fr.com
 ||dailymotion.com^*autoplay=true$domain=manga-fr.com|protect-iframe.com
 ||dailymotion.com^*mute=1$domain=captainmugiwara.over-blog.com
@@ -5558,6 +5558,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.es|letwatch.to|letwa
 ||planethoster.net/img/banners/$third-party
 ||pointscommuns.com/images/bannieres/$third-party
 ||pokeram.com/images/promo/
+||pokercast.eu^$subdocument,third-party
 ||pooki.fr/banner/
 ||porn.fr^*/site_id/$popup
 ||pornhub.com^*?utm_$popup
@@ -6180,6 +6181,9 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.es|letwatch.to|letwa
 @@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=completvf.com|filmzenstream.com|official-film-illimite.net
 |http://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|official-film-illimite.net
 |https://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|official-film-illimite.net
+! stream4free.eu
+|http://$script,third-party,xmlhttprequest,domain=stream4free.top
+|https://$script,third-party,xmlhttprequest,domain=stream4free.top
 ! sokrostream.cc
 @@||ajax.googleapis.com/ajax/libs/$script,domain=sokrostream.cc
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=sokrostream.cc
@@ -12598,7 +12602,7 @@ _blockadblock_
 !
 @@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=4downfiles.org|alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|macgames-download.com|the-night-of-streaming.eu
-@@.png#$image,domain=4downfiles.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|pxstream.tv|savefile.co|softmaroc.org|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
+@@.png#$image,domain=4downfiles.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|pxstream.tv|savefile.co|softmaroc.org|stream4free.top|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=bricozone.fr|cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
@@ -12660,7 +12664,6 @@ _blockadblock_
 @@||static.autoplus.fr/_js/ads/ad$script
 @@||static.les-horaires.fr/js/advert.js
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
-@@||stream4free.eu/images/*#$~image
 @@||teramixer.com/plugins/mediaplayer/assets/js/advertisement.js$script,domain=teramixer.com
 @@||textnow.com/messaging/assets/advertisements.js$script
 @@||tune.pk/js/ads.js?cache=$script,domain=tune.pk
@@ -12722,6 +12725,7 @@ trackmusik.fr#@#.afs_ads
 @@||softmaroc.org^$generichide
 @@||sos-lettre.fr^$generichide
 @@||sospc.name^$generichide
+@@||stream4free.top^$generichide
 @@||the-night-of-streaming.eu^$generichide
 @@||tout-debrid.net^$generichide
 @@||ultim-telechargementz.com^$generichide
