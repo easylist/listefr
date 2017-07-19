@@ -2358,6 +2358,7 @@ debugger:$popup
 ||data1rtb.com^$third-party
 ||datvantage.com^$third-party
 ||dblock-ads.com^$third-party
+||dc121677.com^$third-party
 ||ddblock.eu^$third-party
 ||dealdunjour.com^$third-party
 ||dekalee.fr^$third-party
@@ -4410,6 +4411,7 @@ debugger:$popup
 ||fonderreaders.info^$popup,third-party
 ||forcesdevente.ma^$popup,third-party
 ||frex.biz^$popup,third-party
+||frstlead.com^$popup,third-party
 ||frstsrv.com^$popup,third-party
 ||frtyo.com^$popup,third-party
 ||fungoiddempseyimpasse.info^$popup,third-party
@@ -5136,7 +5138,6 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.es|letwatch.to|letwa
 ||dailymotion.com^*mute=1$domain=captainmugiwara.over-blog.com
 ||damoh.schneevonmorgen.com^
 ||damtours.com/static/img/damtous_$third-party
-||dc121677.com^
 ||dealdog.net/advert.php$popup
 ||deals-du-web.com^
 ||debrid-ultim.blogg.org^$subdocument
@@ -12091,7 +12092,6 @@ coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
 vakarm.net##div[onclick^="window.open('http://www.razerzone.com/"]
 commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[style$="cursor: pointer; width: 32%;"]
-gboxes.com##div[style$="top: 0px; left: 0px; position: absolute; z-index: 999999; cursor: pointer;"]
 gamalive.com##div[style$="width:300px;height:250px;"]
 echoroukonline.com##div[style$="width:468px;"]
 ma-reduc.com##div[style*="/ads/"]
