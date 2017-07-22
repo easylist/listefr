@@ -12677,7 +12677,6 @@ _blockadblock_
 @@||peimg.fr/js/ads.js$script,domain=pubeco.fr
 @@||pla.folue.info/needes.js$script
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
-@@||s.clickiocdn.com/t/common_$script,domain=ville-ideale.fr
 @@||scan-manga.fr^$stylesheet
 @@||securepubads.g.doubleclick.net/gampad/ads?$script,domain=7sur7.be
 @@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
@@ -12761,6 +12760,10 @@ trackmusik.fr#@#.afs_ads
 @@||wakanim.tv^$generichide
 @@||xavierstuder.com^$generichide
 @@||zone-torrent.net^$generichide
+! ville-ideale.fr
+@@||maps.googleapis.com^$script,domain=ville-ideale.fr
+|http://$script,third-party,domain=ville-ideale.fr
+|https://$script,third-party,domain=ville-ideale.fr
 ! voyageforum.com (anti adblock)
 |http://$script,third-party,xmlhttprequest,domain=voyageforum.com
 |https://$script,third-party,xmlhttprequest,domain=voyageforum.com
