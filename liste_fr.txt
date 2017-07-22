@@ -5411,6 +5411,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||liligo.*/servlet/ads?
 ||liligo.*/wpartner/$~stylesheet
 ||lilosearch.org^*/wid/$third-party
+||linkeasy.org^$image,third-party
 ||links-protection.com/*.htm$subdocument
 ||linuxsat-support.com^*_banners/
 ||live.prismamediadigital.com^
@@ -7205,6 +7206,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to
 ||french-movies.net/btn_usenet.png
 ||frenchblurayfilms.com/wp-content/uploads/*-bouton-telecharger.png
 ||frenchweb.fr/wp-content/uploads/*/LOGO_OXALIDE_Plan-de-travail-
+||frmovies.me^$popup,~third-party
 ||fullsharez.com/rotation3/
 ||fullsharez.com/rotavert1/
 ||fullxmovies.com/catcheur-haut.php
@@ -10638,6 +10640,7 @@ ddl-island.su,emule-island.ru,stream-island.ru,stream-island.su###droite_haut
 ddl-island.su,emule-island.ru,stream-island.ru,stream-island.su###droite_milieu
 boulistenaute.com###dropin
 petitfute.com###dv_partenaire
+frmovies.me###embed-title
 webgirondins.com###encart-sky
 ladepeche.fr###encart_dernieres_annonces
 montelimar-news.fr###entreprises
@@ -11866,7 +11869,7 @@ meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[h
 go4up.com,torrent9.cc,torrent9.top,torrents9.org,torrents9.tv##a[href*="+"]
 telechargement-film.org##a[href*="-film-"]
 9divx.org,likeur.org##a[href*="-vip.html"]
-9divx.org,ebooks9.fr,films-telecharger.eu,francais-gratuite.fr,frstreaming.info,frtorrent.fr,jetelecharger1.fr,likeur.org,seriestreaming.net,streamingseries.info,telechargementz.tv,wawa-clubz.fr##a[href*=".php"]
+9divx.org,ebooks9.fr,films-telecharger.eu,francais-gratuite.fr,frmovies.me,frstreaming.info,frtorrent.fr,jetelecharger1.fr,likeur.org,seriestreaming.net,streamingseries.info,telechargementz.tv,wawa-clubz.fr##a[href*=".php"]
 planet-series.co,planete-series.info##a[href*=".php"] > img
 lien-torrent.com##a[href*=".php"][target="_blank"]
 moviz.net##a[href*=".php?let="]
