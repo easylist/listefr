@@ -4451,7 +4451,6 @@ debugger:$popup
 ||go2click.org^$popup,third-party
 ||go2me.tk^$popup,third-party
 ||goninjaspiel.com^$popup,third-party
-||goo.gl^$image,domain=teramixer.com
 ||googleframe.net^$popup,third-party
 ||gornewtab.com^$popup,third-party
 ||gotositenow.com^$popup,third-party
@@ -5032,7 +5031,6 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||betclick.com^*/banner.ashx?
 ||beurette-passion.com/ban/$third-party
 ||beurettes-faciles.com/promo/
-||bit.ly$image,domain=teramixer.com
 ||bit.ly^$domain=nintendo-master.com
 ||bit.ly^$image,domain=korben.info|phonandroid.com
 ||bit.ly^$popup,domain=telechargementz.tv
@@ -5785,7 +5783,6 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||teen-passion.net/annuaire/ban/$third-party
 ||telechargementgratuits.com/dm.php
 ||teliad.fr^*/banner/
-||teramixer.com/themes/cloudmix/img/pixel/
 ||terasexe.com/pubs/
 ||test-psycho.com/meetic.gif
 ||tinypic.com^$image,domain=mediafree.co|skymiga.com|timeload.net
@@ -6577,7 +6574,7 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 ||super-virals.com^$subdocument,third-party
 ||uploadbank.com^$subdocument,third-party
 ! popup & popunder
-$popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cineiz.co|cloudtime.to|croco.site|dailyuploads.net|darkomplayer.com|drstickyfingers.com|dyo.gs|e-wok.tv|easyvid.org|estream.to|etmirror.com|etproxy.com|eztv.ag|faststream.in|file-upload.com|filescdn.com|filesonthe.net|filmstreamvk.ws|freean.us|full-anime.com|full-film.me|full-serie.biz|full-serie.co|getmytorrent.com|go.ad2upapp.com|gomovies.co|gomovies.es|goneviral.com|gorillavid.com|guadeloupe-paradise.fr|hornywood.tv|imgchili.net|j.gs|jkanime.net|k-streaming.com|k-vid.net|kickass.cd|kvid.org|le-streaming.com|letwatch.to|letwatch.us|limetorrents.cc|linkbabes.com|linkbucks.com|media1fire.com|megaline.co|megawatch.net|miniurls.co|mystream.la|mythewatchseries.com|nitroflare.com|notsmutty.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|onlinevideoconverter.com|openload.co|opensubtitles.org|papstream.com|pelis24.tv|poontown.net|powvideo.net|powvideo.xyz|putstream.com|q.gs|qqc.co|rapidvideo.com|rapidvideo.cool|seriousdeals.net|shrvid.com|smutty.com|sokrostream.cc|speedvid.net|streamango.com|streamay.ws|streamin.to|streaming-boruto.com|streaming-dragon-ball-super.com|streaming-hub.com|streamplay.club|streamplay.to|suspents.info|t411.as|teramixer.com|theseblogs.com|theseforums.com|thevid.net|thevideo.me|thevideobee.to|tinylinks.co|tnabucks.com|torlock.com|torrentfunk.com|tout-sur-le-web.com|tvrush.eu|ultimedia.com|ultrafiles.net|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|urlbeat.net|userscloud.com|vid.ag|vidbom.com|videowood.tv|vidgg.to|vidhos.com|vidlox.me|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidup.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|whackyvidz.com|wholecloud.net|xvidstage.com|yourbittorrent.com|yourporno.fr|yyv.co|zatnawqy.net|zippyshare.com|zone-telechargement.ru|zytpirwai.net
+$popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to|ay.gy|cash4files.com|cineiz.co|cloudtime.to|croco.site|dailyuploads.net|darkomplayer.com|drstickyfingers.com|dyo.gs|e-wok.tv|easyvid.org|estream.to|etmirror.com|etproxy.com|eztv.ag|faststream.in|file-upload.com|filescdn.com|filesonthe.net|filmstreamvk.ws|freean.us|full-anime.com|full-film.me|full-serie.biz|full-serie.co|getmytorrent.com|go.ad2upapp.com|gomovies.co|gomovies.es|goneviral.com|gorillavid.com|guadeloupe-paradise.fr|hornywood.tv|imgchili.net|j.gs|jkanime.net|k-streaming.com|k-vid.net|kickass.cd|kvid.org|le-streaming.com|letwatch.to|letwatch.us|limetorrents.cc|linkbabes.com|linkbucks.com|media1fire.com|megaline.co|megawatch.net|miniurls.co|mystream.la|mythewatchseries.com|nitroflare.com|notsmutty.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.tv|onlinevideoconverter.com|openload.co|opensubtitles.org|papstream.com|pelis24.tv|poontown.net|powvideo.net|powvideo.xyz|putstream.com|q.gs|qqc.co|rapidvideo.com|rapidvideo.cool|seriousdeals.net|shrvid.com|smutty.com|sokrostream.cc|speedvid.net|streamango.com|streamay.ws|streamin.to|streaming-boruto.com|streaming-dragon-ball-super.com|streaming-hub.com|streamplay.club|streamplay.to|suspents.info|t411.as|theseblogs.com|theseforums.com|thevid.net|thevideo.me|thevideobee.to|tinylinks.co|tnabucks.com|torlock.com|torrentfunk.com|tout-sur-le-web.com|tvrush.eu|ultimedia.com|ultrafiles.net|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|urlbeat.net|userscloud.com|vid.ag|vidbom.com|videowood.tv|vidgg.to|vidhos.com|vidlox.me|vidlox.tv|vidshare.me|vidshare.us|vidto.me|vidup.me|vidwatch3.me|vidzi.tv|vimple.me|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo2.us|watchvideo5.us|watchvideo8.us|whackyvidz.com|wholecloud.net|xvidstage.com|yourbittorrent.com|yourporno.fr|yyv.co|zatnawqy.net|zippyshare.com|zone-telechargement.ru|zytpirwai.net
 ! images hosting
 ||bluesattv.net/gif.gif
 ||hostingpics.net/pics/*468x60.
@@ -6828,7 +6825,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to
 ||bioalaune.com/sites/default/files/add_600/
 ||bioalaune.com/sites/default/files/homeccdef2.jpg
 ||bioalaune.com/sites/default/files/mobile_habillage/
-||bit.ly^$domain=teramixer.com
 ||biteautop.com^$popup,subdocument,~third-party
 ||bittovore.com/popup.php$popup
 ||blague.info/pub/
@@ -8130,7 +8126,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to
 ||tendancehotellerie.fr/spip.php
 ||tendanceouest.com/*/lightbox-
 ||tennisactu.net/*/encarts_partenaires/
-||teramixer.com/playerroll.html
 ||terre.tv/images/partenaires/
 ||terredauphinoise.fr/casiope/serveur/partage/
 ||test-achats.be^*/images/skins/
@@ -10855,8 +10850,6 @@ charentelibre.fr,lindependant.fr###petitesAnnoncesBlock
 topanalyse.com###pid_f
 tayo.fr###pioubhaut
 allocine.fr###player-footer
-teramixer.com###player-next
-teramixer.com###player-prime
 cuisineactuelle.fr###pmd300x600
 terre.tv###point_part
 grazia.fr,regimea.com###popin
@@ -10872,7 +10865,6 @@ forumconstruire.com###pre_element_bloc + .post_background_contener_table0
 turfomania.fr###prehome_contenu
 turfomania.fr###prehome_fond
 hellokids.com###preroll
-teramixer.com###preroll-case-prime
 lequipement.fr###prixendirect_block
 egaliteetreconciliation.fr###produits_en_vente
 fluvore.com###prom
@@ -12686,7 +12678,6 @@ _blockadblock_
 @@||static.les-horaires.fr/js/advert.js
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
 @@||streamplay.*/js/pop$script,~third-party,domain=streamplay.club|streamplay.to
-@@||teramixer.com/plugins/mediaplayer/assets/js/advertisement.js$script,domain=teramixer.com
 @@||textnow.com/messaging/assets/advertisements.js$script
 @@||tune.pk/js/ads.js?cache=$script,domain=tune.pk
 @@||unjourunerecette.fr/css/publicite-ads.css
