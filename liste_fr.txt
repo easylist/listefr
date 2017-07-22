@@ -3266,6 +3266,7 @@ debugger:$popup
 ||yospace.net^$third-party
 ||you-hentai.com^$third-party
 ||youboranqs01.com^$third-party
+||youlamedia.com^$third-party
 ||youwatchtab.com^$third-party
 ||youzapping.com^$third-party
 ||yoyadsdom.com^$third-party
@@ -6604,10 +6605,13 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 ! linkbucks.com
 &utm_*=linkbucks$popup,subdocument
 ?utm_*=linkbucks$popup,subdocument
+@@||www.linkbucksmedia.com^$subdocument,third-party,domain=jzrputtbut.net
 |http://$subdocument,domain=abnouneuuxbozmt.net|aptclkzmoelfm.net|bhclvaqgxbpcd.net|bohjrmvzefy.net|brnopvwa.net|cedrofltell.net|cquixlgothzm.net|cvwgklzfu.net|esywoeuo.net|ewsavhyzg.net|ezfbngpqcxnu.net|ffhogexfyplgm.net|fnzolgxloxsrpf.net|frmrfhvwpi.net|gheemuiwkrbof.net|gppezttuctpq.net|gpxibvwmjbo.net|ikqksgum.net|inesajjovx.net|iurmxkchajoxppg.net|jzrputtbut.net|kcmzydgk.net|kkssrjkyduydc.net|linkbucks.com|lnzpbkeijlkmfdr.net|lrlvmaeris.net|lskjpnkavksj.net|lzbsrxvkz.net|mcuzfdumqro.net|mkjuobtzd.net|mnjsowaj.net|neayknle.net|nistujwppzczgso.net|nsdxoecjx.net|nuzvlmynt.net|pipkdrzb.net|pqmwvnfyitjawsu.net|pzkopsvseileu.net|qdifkhrghxhbyw.net|qmmgtkjtdfxauox.net|rdzxxzabj.net|sa.ae|sipmnteinohts.net|sugjtdizgo.net|tbyauqjvluik.net|tditbdczodoowf.net|tiunleoecoolii.net|tmccbzsxu.net|ubqgcbmrqjdcqn.net|vdmduttihyxsx.net|vfbsjcwl.net|vvujlrldhpbou.net|wuhknlrnhcli.net|wxwqbpkr.net|xtcatdozwiesxvx.net|yqvzrpxxwyk.net|zjslornrlnvbmom.net|ztevysowdzkkjw.net|zuemosjimenxnmy.net|zvpelwevlav.net|zypdvbupo.net
 ||arabtise.com^$subdocument,third-party
+||contemposho.blogspot.com^$subdocument,third-party
 ||excoin.info^$subdocument,third-party
 ||fidelityhouse.eu^$subdocument,third-party
+||jzrputtbut.net^*?name=
 ||linkbucks.com^$subdocument,third-party
 ||protein.tn^$subdocument,third-party
 ||rankmee.com^$subdocument,third-party
