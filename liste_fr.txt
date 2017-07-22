@@ -698,6 +698,7 @@
 /campaigns/banner?
 /CanvasAd.
 /carasexe.html$subdocument
+/carousel/*?site_id=*&niche=*&items=
 /carrepubHome.
 /cash_ban/*
 /cd_infopop/*
@@ -2278,6 +2279,7 @@ debugger:$popup
 ||camsympa.com^$third-party,domain=~camsympa.fr
 ||captchme.net^$third-party
 ||caradisiac-publicite.com^$third-party
+||caramec.com^$third-party
 ||carpediem.fr^$third-party
 ||cash-manager.biz^$third-party
 ||cashpage.net^$third-party
@@ -2418,6 +2420,7 @@ debugger:$popup
 ||dynsrvaba.com^$third-party
 ||e-mailit.com^$third-party
 ||e2ertt.com^$third-party
+||easy-rencontres.com^$third-party
 ||easygetfreesoft4you.xyz^$third-party
 ||easyrencontre.com^$third-party
 ||ebuzing.com^$third-party
@@ -2552,6 +2555,7 @@ debugger:$popup
 ||icipourtout.com^$third-party
 ||idhad.com^$third-party
 ||igadserver.net^$third-party
+||iicheewi.com^$third-party
 ||ijero.com^$third-party
 ||ikoo.com^$third-party
 ||il0ad.com^$third-party
