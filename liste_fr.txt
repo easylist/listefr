@@ -5056,6 +5056,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||boutique.aero/images/block_pub_
 ||box10.com^*?utm_source=$popup
 ||brainer.cc^*?PCTX=$popup
+||brfiles.com/static/pub/
 ||brocantelab.com/media/$third-party
 ||brsimg.com/pub/
 ||business-lounge.fr/public/widget-prod/
@@ -12629,13 +12630,12 @@ _blockadblock_
 @@.png#$image,domain=4downfiles.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|pxstream.tv|savefile.co|softmaroc.org|stream4free.top|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
-@@/advertisement.js$script,domain=cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|leveldown.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
-@@/advertisement.js$script,~third-party,domain=cap-public.fr|coco.fr|crash-aerien.aero|crash-aerien.news|e-wok.tv|fiki.faucetfly.com|programme.tv|quoverbis.com|rustica.fr
+@@/advertisement.js$script,domain=cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
+@@/advertisement.js$script,~third-party,domain=cap-public.fr|coco.fr|crash-aerien.aero|crash-aerien.news|e-wok.tv|fiki.faucetfly.com|leveldown.fr|programme.tv|quoverbis.com|rustica.fr
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|silicon.fr
 @@||1max2sms.com/blogads.css
 @@||a.f1g.fr/build/2/adsense.js$script
 @@||ad.advertstream.com/adjs_r.php?$script,domain=forum.virtualdjing.com
-@@||ad4.liverail.com/|$image,domain=leveldown.fr
 @@||adgear.com/session.js$domain=vtele.ca
 @@||adgear.com^*/adgear.js$domain=vtele.ca
 @@||adshort.co/js/ads.js$script,~third-party
@@ -12693,7 +12693,6 @@ _blockadblock_
 @@||wakanim.tv^*/video/advertisement?idepisode=
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 !
-leveldown.fr#@##adblock
 toplien.fr#@#.AdvertContainer
 direct-radio.fr,nrj-play.fr#@#.adsbox
 trackmusik.fr#@#.afs_ads
