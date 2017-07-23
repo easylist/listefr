@@ -6558,6 +6558,7 @@ he2eini7ka.com##div > [id^="player"] + div[id][style*="z-index:"]
 |https://$script,subdocument,third-party,domain=uskip.me
 ! al.ly
 @@||ajax.googleapis.com/ajax/libs/$script,domain=al.ly|ally.sh
+@@||ally.sh/static/js/jquery.min.js$script,domain=al.ly
 @@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=al.ly|ally.sh
 @@||www.google.com/recaptcha/$subdocument,third-party,domain=al.ly|ally.sh
 |http://$script,subdocument,third-party,domain=al.ly|ally.sh
