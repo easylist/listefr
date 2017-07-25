@@ -1497,6 +1497,7 @@ _werbebanner_
 /cdn-cgi/pe/bag2?*clksite.com
 /cdn-cgi/pe/bag2?*codeonclick.com
 /cdn-cgi/pe/bag2?*cpmstar.com
+/cdn-cgi/pe/bag2?*crickwrite.com
 /cdn-cgi/pe/bag2?*dynsrvaba.com
 /cdn-cgi/pe/bag2?*exdynsrv.com
 /cdn-cgi/pe/bag2?*exoclick.com
@@ -5436,7 +5437,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||lavoiximmo.com/ui/widgets/iframe?
 ||layout.mondocteur.fr^$third-party
 ||lbsoft.fr/bannieres/
-||lbstatic-a.akamaihd.net^
+||lbstatic-a.akamaihd.net/script/pub.js
 ||ldh.be/theme/*/bsf-bg.jpg
 ||ldh.be/theme/*/relooking-
 ||le-favori.com/images/pub/
@@ -10316,6 +10317,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to
 ##a[href*="/clickhabillage/"][target="_blank"]
 ##a[href*="/goto.php?ads_id="]
 ##a[href*="/install-app?affid="]
+##a[href*="/inter?implementation_id="]
 ##a[href*="/p_tools/promo.php?"]
 ##a[href*="/redirect.php?title="]
 ##a[href*="/redirect?partenaire="]
