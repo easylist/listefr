@@ -649,6 +649,7 @@
 /banners?tid=
 /banners_*?size=$subdocument
 /banniere.*/ref=
+/banniere.*?said=
 /banniere.*?type=
 /banniere.php?id=
 /banniere/proxy.php?
@@ -2065,6 +2066,7 @@ debugger:$popup
 ||adscoo.com^$third-party
 ||adsearch.pl^$third-party
 ||adsensecustomsearchads.com^$third-party
+||adserpub.com^$third-party
 ||adserver.pm^$third-party
 ||adserveradulte.com^$third-party
 ||adserverbanners.com^$third-party
