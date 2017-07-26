@@ -5125,6 +5125,8 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||camgasm.com/affiliates/
 ||camsympa.com/?tracker=$popup
 ||camtempel.com/banner/
+||canalflux.net/canalflux.php
+||canalflux.net/dailyvid.php
 ||canaljeuvideo.com/var/storage/habillages/
 ||canalseduction.com/Bannieres/
 ||cashtravel.info/banners/
@@ -5202,7 +5204,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
-||dailymotion.com^*autoplay=1$domain=anime301.com|animeresistance.com|anogaming.fr|bescherelletamere.fr|blagues-mobiles.com|buzzutopia.com|dailymotion.com|dragon-ball-super-streaming.com|filmsvostfr.xyz|hitek.fr|manga-fr.com|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|mavanimes.com|otakufr.com|pokemon-streaming.com|pokercast.eu|pokercast.tv|prison-break-hd-streaming.com|robindesdroits.me|sonyoutube.com|stream4free.pro|streaming-boruto.com|streaming-dragon-ball-super.com|tous-sports.tv|tv-streaming-serie.xyz|youzapping.com
+||dailymotion.com^*autoplay=1$domain=anime301.com|animeresistance.com|anogaming.fr|bescherelletamere.fr|blagues-mobiles.com|buzzutopia.com|dailymotion.com|filmsvostfr.xyz|hitek.fr|manga-fr.com|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|mavanimes.com|otakufr.com|pokemon-streaming.com|pokercast.eu|pokercast.tv|prison-break-hd-streaming.com|robindesdroits.me|sonyoutube.com|stream4free.pro|streaming-boruto.com|streaming-dragon-ball-super.com|tous-sports.tv|tv-streaming-serie.xyz|youzapping.com
 ||dailymotion.com^*autoplay=2$domain=manga-fr.com
 ||dailymotion.com^*autoplay=true$domain=manga-fr.com|protect-iframe.com
 ||dailymotion.com^*mute=1$domain=captainmugiwara.over-blog.com
@@ -6208,6 +6210,8 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=dragon-ball-super-streaming.com
 |http://$script,third-party,domain=dragon-ball-super-streaming.com
 |https://$script,third-party,domain=dragon-ball-super-streaming.com
+||canalflux.net^$domain=dragon-ball-super-streaming.com
+||dailymotion.com^$domain=dragon-ball-super-streaming.com
 ! streaming-dragon-ball-super.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=streaming-boruto.com|streaming-dragon-ball-super.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=streaming-boruto.com|streaming-dragon-ball-super.com
@@ -7079,6 +7083,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to
 ||dpstream.media/mz/*_luda_
 ||dpstream.media/mz/geart_best_
 ||dpstream.media/mz/vikings-
+||dragon-ball-super-streaming.com/wp-content/uploads/*.gif
 ||dsih.fr/pub/
 ||dvbxtreme.com/wp-content/uploads/2016/03/free-cccam.jpg
 ||dynamique-mag.com/files/pub/
@@ -10546,7 +10551,7 @@ courrierlaval.com###add_bottom
 courrierlaval.com,letraitdunion.com###add_top
 telechargerunevideo.com###adlbl
 clicanoo.re###adress_utiles
-ecogine.org,full-stream.nu,libre-stream.com,ls-streaming.com,tendancehotellerie.fr###ads
+canalflux.net,ecogine.org,full-stream.nu,libre-stream.com,ls-streaming.com,tendancehotellerie.fr###ads
 ustart.org###ads_tall
 algerie360.com###adssouspost
 7sur7.be###adv_bg_clickurl
@@ -11916,6 +11921,7 @@ zone-telechargement.ws##a > h1
 basket-infos.com##a > img[alt^="Pub"]
 medialot.fr##a > img[height="250"]
 movietube.live##a > img[src$=".gif"]
+dragon-ball-super-streaming.com##a > img[src*=".gif"]
 fourchette-et-bikini.fr##a > img[style="width: 660px; height: 190px;"]
 israelmagazine.co.il##a > img[width="238"]
 cowcotland.com##a#habiclic
@@ -11963,7 +11969,7 @@ rtl.be##a[href*="://ad.doubleclick.net/"]
 comment-supprimer.com,igen.fr,leparking.fr,macg.co,needsandmoods.com,refurbgeneration.com,sosiphone.com,watchgeneration.fr##a[href*="://ad.zanox.com/"]
 ddl-island.su,emule-island.ru,stream-island.ru,stream-island.su##a[href*="://ads."]
 internetparsatellite.net,lebonfap.com,letagparfait.com,pixhost.org,rockfile.eu,streaminghd.fr,telesatellite.com##a[href*="://bit.ly/"]
-abidjan.net,algerie360.com,dpstreaming.watch,extratorrents.ch,gum-gum-streaming.com,igen.fr,israelmagazine.co.il,journaldumusulman.fr,limetorrents.cc,lnc.nc,macg.co,orientation-chabab.com,proxylistpro.com,tendancehotellerie.fr,watchgeneration.fr##a[href*="://goo.gl/"]
+abidjan.net,algerie360.com,dpstreaming.watch,dragon-ball-super-streaming.com,extratorrents.ch,gum-gum-streaming.com,igen.fr,israelmagazine.co.il,journaldumusulman.fr,limetorrents.cc,lnc.nc,macg.co,orientation-chabab.com,proxylistpro.com,tendancehotellerie.fr,watchgeneration.fr##a[href*="://goo.gl/"]
 dpstream.net##a[href*="://plarium.com/"]
 amateur2sexe.fr,pornovore.fr##a[href*="://pqr."]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
