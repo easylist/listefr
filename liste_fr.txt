@@ -6499,7 +6499,11 @@ he2eini7ka.com##div > [id^="player"] + div[id][style*="z-index:"]
 |http://$script,subdocument,third-party,xmlhttprequest,domain=he2eini7ka.com|youwatch.org
 |https://$script,subdocument,third-party,xmlhttprequest,domain=he2eini7ka.com|youwatch.org
 ||he2eini7ka.com^*.html|$subdocument,~third-party
-! watchers.to (revolving redirection)
+! watchers.to
+@@||watchers.to/js/fuckadblock.js$script,domain=watchers.to
+@@||watchers.to^$generichide
+|http://$image,stylesheet,third-party,domain=watchers.to
+|https://$image,stylesheet,third-party,domain=watchers.to
 ||watchers.to^$subdocument,third-party
 ! nowvideo
 @@||ajax.googleapis.com/ajax/libs/$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|divxstage.to|likeupload.org|movshare.ag|movshare.net|movshare.to|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.com|videoweed.es
