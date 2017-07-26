@@ -3770,6 +3770,7 @@ debugger:$popup
 ||mixs3ml9.download^
 ||nzf7rqiv.download^
 ||openfonts47372.com^
+||propvideo.net^
 ||rcersu5g.party^
 ||rl771fhn.men^
 ||tepdfg5fhss.com^
@@ -6400,8 +6401,11 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 |http://$script,third-party,domain=vidoza.net
 |https://$script,third-party,domain=vidoza.net
 ! openload
+.vpaid.$domain=oload.tv|openload.co|streamango.com
 /assets/js/license.$domain=oload.tv|openload.co|protect-iframe.com|protect-video.com|streamango.com
 /assets/js/script.$domain=oload.tv|openload.co|protect-iframe.com|protect-video.com|streamango.com
+/tt1.$domain=oload.tv|openload.co|streamango.com
+/VPAIDFlash.$domain=oload.tv|openload.co|streamango.com
 /yii.$domain=oload.tv|openload.co|streamango.com
 @@/assets/js/license.adbl.js$script,~third-party,domain=streamango.com
 @@/assets/js/script.2535.js$script,~third-party,domain=openload.co
@@ -6411,8 +6415,8 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=oload.tv|openload.co|streamango.com
 oload.tv,openload.co##.vjs-modal-dialog-content
 oload.tv,streamango.com###videooverlay
-|http://$script,third-party,domain=oload.tv|openload.co|streamango.com
-|https://$script,third-party,domain=oload.tv|openload.co|streamango.com
+|http://$script,third-party,xmlhttprequest,domain=oload.tv|openload.co|streamango.com
+|https://$script,third-party,xmlhttprequest,domain=oload.tv|openload.co|streamango.com
 ! direct-torrents.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=direct-torrents.com
 @@||netdna.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=direct-torrents.com
