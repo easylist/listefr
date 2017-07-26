@@ -6502,7 +6502,10 @@ $popup,domain=he2eini7ka.com|youwatch.org
 he2eini7ka.com##div > [id^="player"] + div[id][style*="z-index:"]
 |http://$script,subdocument,third-party,xmlhttprequest,domain=he2eini7ka.com|youwatch.org
 |https://$script,subdocument,third-party,xmlhttprequest,domain=he2eini7ka.com|youwatch.org
+||allvid.ch^$subdocument,third-party
+||exashare.com^$subdocument,third-party
 ||he2eini7ka.com^*.html|$subdocument,~third-party
+||youwatch.org^$subdocument,third-party
 ! watchers.to
 @@||watchers.to/js/fuckadblock.js$script,domain=watchers.to
 @@||watchers.to^$generichide
