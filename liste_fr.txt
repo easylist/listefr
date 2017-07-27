@@ -931,6 +931,7 @@
 /networking/ref_
 /newcafv2.js
 /newpromo.
+/nginad.
 /npop.js|
 /nugg.ad.
 /nugg.add.
@@ -1950,6 +1951,7 @@ debugger:$popup
 ||99meta.com^$third-party
 ||9hwmwzl7.website^$third-party
 ||a2r-media.com^$third-party
+||a4yrtb.com^$third-party
 ||abporn.com^$third-party
 ||acads.net^$third-party
 ||acces-charme.com^$third-party
@@ -6423,6 +6425,11 @@ oload.tv,streamango.com###videooverlay
 ! webchoc.com
 |http://$script,domain=sexefelin.com|tubixe.com|vidsexe.com|webchoc.com
 |https://$script,domain=sexefelin.com|tubixe.com|vidsexe.com|webchoc.com
+! mrsexe.com
+@@||www.mrsexe.com/bower_components/jquery/dist/jquery.min.js$script,domain=mrsexe.com
+@@||www.mrsexe.com/inc/clic.php?video=$script,domain=mrsexe.com
+@@||www.mrsexe.com/jwplayer/jwplayer.$script,domain=mrsexe.com
+||mrsexe.com^$popup,script,~third-party
 ! cam4.com
 @@||firebaseio.com/.lp?$script,domain=cam4.com|cam4.fr
 @@||xcdnpro.com/plugin/epay/$script,domain=cam4.com|cam4.fr
@@ -7386,6 +7393,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to
 ||images.opt.be/pictos/logo_
 ||img.123cdn.ru/banner/
 ||img.123data.ru/banner/
+||img.mrsexe.com/dating-gratuit.gif
 ||img.uefa.com/imgml/comp/ucl/sponsor/
 ||immobilier.nc/images/part_
 ||immobilier.nc^*.html$object,subdocument
@@ -10484,9 +10492,11 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to
 ##a[href^="https://admin.thrixxx.com/affiliates/"]
 ##a[href^="https://blockadz.com/?"]
 ##a[href^="https://chaturbate.com/affiliates/"]
+##a[href^="https://ouicesoir.com/"]
 ##a[href^="https://oxhax.com/"]
 ##a[href^="https://r.ligatus.com/"]
 ##a[href^="https://secure.securitetotale.com/"]
+##a[href^="https://snapmrsexe.com/lp/"]
 ##a[href^="https://store.mspy.com/affiliate.php"] > img
 ##a[href^="https://traceless.me/lp/"]
 ##a[href^="https://www.g2a.com/r/"] > img
