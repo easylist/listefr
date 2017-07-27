@@ -1053,6 +1053,7 @@
 /pub/dfp/*
 /pub/ga_pub_$script
 /pub/habillage-
+/pub/iframe-$subdocument
 /pub/pop.
 /pub/pub-
 /pub/pub.gif
@@ -2720,6 +2721,7 @@ debugger:$popup
 ||mobiflyd.com^$third-party
 ||mobiflys.com^$third-party
 ||mobifoth.com^$third-party
+||mobilup.com^$third-party
 ||mobligo.com^$third-party
 ||mobsuccess.com^$third-party
 ||mobusi.com^$third-party
