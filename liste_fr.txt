@@ -1225,6 +1225,7 @@
 /v3/ads/*
 /vaxadserver.
 /vbs-ads.
+/videojs-ads/*
 /videojs.adss.
 /vpn160.gif
 /vpn468.gif
@@ -5922,6 +5923,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||visio-x.fr/x-video.php?$popup
 ||viteundevis.com/ads/
 ||viwii.net/banners/$third-party
+||vkcache.com^$subdocument,domain=hqq.watch
 ||voetbalkrant.com/pub/
 ||voiture-ligier.info/pub1.
 ||voiture-louer.info/pub.
@@ -6326,22 +6328,6 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ! opensubtitles.org
 |http://$subdocument,third-party,domain=opensubtitles.org
 |https://$subdocument,third-party,domain=opensubtitles.org
-! hqq.tv
-@@||api.peer5.com^$script,domain=hqq.tv|hqq.watch
-@@||c.vkcache.com/js/device.js$script,domain=hqq.watch
-@@||c.vkcache.com/js/embed.js$script,domain=hqq.watch
-@@||c.vkcache.com/js/embed_st.js$script,domain=hqq.watch
-@@||c.vkcache.com/js/jquery.min.js$script,domain=hqq.watch
-@@||c.vkcache.com/js/jquery_plugs/jquery-latest.min.js$script,domain=hqq.watch
-@@||c.vkcache.com/js/video.$script,domain=hqq.watch
-|http://$script,third-party,domain=hqq.tv|hqq.watch
-|https://$script,third-party,domain=hqq.tv|hqq.watch
-||c.vkcache.com/js/betterj/
-||hqq.tv/|
-||hqq.watch/js/adb/adb.js
-||hqq.watch/js/betterj/
-||hqq.watch^*/license.
-||vkcache.com^$subdocument,domain=hqq.watch
 ! cloudy.ec
 @@||ajax.googleapis.com/ajax/libs/$script,domain=cloudy.ec
 |http://$script,third-party,domain=cloudy.ec
@@ -7377,6 +7363,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to
 ||hotvideo.fr/popup.php$popup
 ||hotvideo.fr/pub/
 ||hotvideo.fr^*/banners/
+||hqq.watch/js/betterj/
+||hqq.watch^*/license.
 ||html.net/dm/recovery.js
 ||htmlforums.com^*/images/misc/banner
 ||humanite.fr/sites/default/files/field/image/banniere_
