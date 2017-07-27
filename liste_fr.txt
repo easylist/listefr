@@ -980,6 +980,7 @@
 /pop.php?id_
 /pop.php?user=
 /pop.php|$script
+/pop/license.$script
 /pop0.js|
 /pop_*&ref=
 /pop_ex.
@@ -8050,6 +8051,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to
 ||seriesstreaming.fr/images/partenaire_
 ||seriezone.com/ba/
 ||serre-editeur.fr/images/banners/
+||sexandtrash.com^$popup,script,~third-party
 ||sexe-clip.com/infopop/
 ||sexe-i.com^$script,third-party
 ||sexe2q.com^$script
@@ -10719,7 +10721,7 @@ easyvoyage.com###esv-pub-hp
 soldesdunet.com###etheme-popup
 muslimshop.fr###evenement
 moov.mg###extruderLeft1
-lesbienne.cc###fakeplayer
+lesbienne.cc,sexandtrash.com###fakeplayer
 israelmagazine.co.il###featgal
 famobi.com###fg-root
 forumfr.com###firstpost_ad
