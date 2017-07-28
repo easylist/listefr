@@ -944,6 +944,7 @@
 /openwindow.js?puurl=
 /origin-ads.
 /otherads/*
+/our_all_pjs_
 /p_tools/rotation.
 /p_under.
 /packcpm.
@@ -2229,6 +2230,7 @@ debugger:$popup
 ||backclick.net^$third-party
 ||badibadou.eu^$third-party
 ||bakelitestationarityspouse.info^$third-party
+||bangdom.com^$third-party
 ||banstex.com^$third-party
 ||baseandco.com^$third-party
 ||bayard-pub.com^$third-party
@@ -10368,6 +10370,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to
 ##[onclick*="http://www.affbuzzads.com/affiliate/"]
 ##[slot-id^="div-gpt-ad-"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
+##a[href*=".brucelead.com/"]
 ##a[href*=".ourtoolbar.com"]
 ##a[href*=".php?sp_promote="]
 ##a[href*=".voluumtrk.com/"]
