@@ -878,6 +878,7 @@
 /inread_
 /inside_ad.
 /interstitial-ads.
+/ipornia.*?Grupsnames=
 /iptvpub.
 /iptvpub2.
 /ipvanish-300x250.
@@ -2478,6 +2479,7 @@ debugger:$popup
 ||exarab.com^$third-party
 ||exchange.gouik.com^$third-party
 ||exhaustionlaurenbremsstrahlung.info^$third-party
+||exodentity.com^$third-party
 ||exosrv.com^$third-party
 ||expertweb.xyz^$third-party
 ||extensionfactory.com^$third-party
@@ -2533,6 +2535,7 @@ debugger:$popup
 ||giwcini.ru^$third-party
 ||glambucks.net^$third-party
 ||globalwolk.space^$third-party
+||gmyze.com^$third-party
 ||gob-gob-ul.com^$third-party
 ||gohillgo.com^$third-party
 ||goninjaspiel.com^$third-party
@@ -7671,6 +7674,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|any.gs|auroravid.to
 ||lien-torrent.com^$subdocument
 ||liens-de-telechargement.com/popmodal/
 ||lienscash.com/?ref=$subdocument
+||liensporno.com^$popup,script,~third-party
 ||lig.liberation.fr^
 ||likesgag.com/tags/
 ||liligo.*/compareSites/$popup
@@ -10782,7 +10786,7 @@ easyvoyage.com###esv-pub-hp
 soldesdunet.com###etheme-popup
 muslimshop.fr###evenement
 moov.mg###extruderLeft1
-lesbienne.cc,sexandtrash.com###fakeplayer
+lesbienne.cc,liensporno.com,sexandtrash.com###fakeplayer
 israelmagazine.co.il###featgal
 famobi.com###fg-root
 forumfr.com###firstpost_ad
