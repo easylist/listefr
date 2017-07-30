@@ -6258,6 +6258,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 |http://$script,third-party,xmlhttprequest,domain=macgames-download.com|pcgames-download.com|telecharger-jeuxpc.com
 |https://$script,third-party,xmlhttprequest,domain=macgames-download.com|pcgames-download.com|telecharger-jeuxpc.com
 ! zone-telechargement.ws
+@@||zone-telechargement.ws/engine/classes/min/index.php?$script
 |http://$script,xmlhttprequest,domain=zone-telechargement.ws
 |https://$script,xmlhttprequest,domain=zone-telechargement.ws
 ! 9xbuddy.com
