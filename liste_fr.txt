@@ -752,6 +752,7 @@
 /delivery/*?bannerid=
 /delivery/ajs.
 /delivery/ck.
+/delivery/directlink.
 /delivery/ifrm.
 /delivery/rta/*
 /delivery?*&ad=
@@ -2008,6 +2009,7 @@ debugger:$popup
 ||adefficiency.net^$third-party
 ||adexchangecloud.com^$third-party
 ||adexp.net^$third-party
+||adextrem.com^$third-party
 ||adfever.com^$third-party
 ||adg99.com^$third-party
 ||adgoi-1.net^$third-party
@@ -3216,6 +3218,7 @@ debugger:$popup
 ||videostep.com^$third-party
 ||visadd.com^$third-party
 ||visibay.com^$third-party
+||visio-x.fr^$third-party
 ||vkunlock3.eu^$third-party
 ||vmedia.tv^$third-party
 ||vo-publishing.be^$third-party
@@ -4571,6 +4574,7 @@ debugger:$popup
 ||frex.biz^$popup,third-party
 ||frstlead.com^$popup,third-party
 ||frstsrv.com^$popup,third-party
+||frtyi.com^$popup,third-party
 ||frtyo.com^$popup,third-party
 ||fungoiddempseyimpasse.info^$popup,third-party
 ||funsafetab.com^$popup,third-party
@@ -4933,6 +4937,7 @@ debugger:$popup
 ||videoroow.com^$popup,third-party
 ||vikings-streaming.fr^$popup,third-party
 ||viralcpm.com^$popup,third-party
+||visio-x.fr^$popup,third-party
 ||vixnixxer.com^$popup,third-party
 ||vkunlock3.eu^$popup,third-party
 ||voltads.com^$popup,third-party
@@ -6011,8 +6016,6 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||videos-pornographiques.com/promo/
 ||vidzi.tv/300e.html
 ||viewster.com^*utm_$popup
-||visio-x.fr/js/out.js
-||visio-x.fr/x-video.php?$popup
 ||viteundevis.com/ads/
 ||viwii.net/banners/$third-party
 ||vkcache.com^$subdocument,domain=hqq.watch
@@ -8431,8 +8434,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||virusphoto.com/bannieres/
 ||visiban.com/b.php?
 ||visiclic.fr/banniere/
-||visio-x.fr/disc.php
-||visio-x.fr/js/x1.js
 ||visual-pagerank.fr/pub/
 ||vitaminedz.com/images/general/pub-vitaminedz
 ||vivabuzz.com/site/images/pub_
