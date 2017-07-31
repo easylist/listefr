@@ -906,6 +906,7 @@
 /liens-commerciaux/*
 /link-converter.$script
 /linkshrink.js
+/livebanner.php?r=
 /livewebcam/*&id_affilie=
 /livewebcam/?id_affilie=
 /load.php?*&size=
@@ -1184,6 +1185,7 @@
 /setAds.
 /sex_ad.
 /sex_ads.
+/sfibanners.
 /shareaholic.js
 /shareaholic/*
 /shared/ad/*
@@ -2159,6 +2161,7 @@ debugger:$popup
 ||adxite-advertising.com^$third-party
 ||adxxx.com^$third-party
 ||adyieldoptimizer.com^$third-party
+||adzbuzz.com^$third-party
 ||adzmath.com^$third-party
 ||adzzone.com^$third-party
 ||afairweb.com^$third-party
@@ -2578,6 +2581,7 @@ debugger:$popup
 ||hyperline88.com^$third-party
 ||i-promotion.net^$third-party
 ||iaffiliates.com^$third-party
+||ibobanners.com^$third-party
 ||icileweb.com^$third-party
 ||icipourtout.com^$third-party
 ||idhad.com^$third-party
@@ -2667,6 +2671,7 @@ debugger:$popup
 ||linkredirect.biz^$third-party
 ||linksprotection.com^$third-party
 ||linksynergy.com^$third-party
+||listhoopla.com^$third-party
 ||live18ans.com^$third-party
 ||livefreefunwith.me^$third-party
 ||liveparadise.com^$third-party
@@ -5043,6 +5048,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||11footballclub.com^*/indexcolonne.php?
 ||11footballclub.com^*/indexhomepage2.php*&domain=
 ||123rfapis.com/crossdomain.xml
+||154pack.com^$image,third-party
 ||1et2.org/sora/$image
 ||3.bp.blogspot.com/*/s1600/eL97xwC.gif
 ||380.bu2z.com^
@@ -5051,6 +5057,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||46.105.45.146/fr/img/affil/
 ||46.105.62.117/vador/
 ||4j.com/images/banners/
+||50centfreedom.us^$image,third-party
 ||6fun.fr/api.php
 ||7cccam.com/banner/
 ||a.getgamers.eu^
@@ -5097,6 +5104,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||ajoutezvotrelien.com/visuel46.png
 ||akamaihd.net/*_vpaid.js
 ||akamaihd.net^$domain=dailymotion.com
+||alfafile.net/img/buttons/promo/
 ||algeriemobiles.com/pub/
 ||alibaba.com^*&aff_platform=$popup
 ||aliencable.com/images/$third-party
@@ -5149,6 +5157,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||arkea.com/banque/assurance/credit/upload/$image,third-party
 ||as-salat.fr/images/banners/
 ||asia-passion.fr/annuaire/ban/$third-party
+||asiapacificgasoil.com^*/banners/
 ||assurland.com/widgets/$third-party
 ||astore.amazon.com^$subdocument,third-party
 ||astrill.com/bnrs/
@@ -5211,6 +5220,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||brfiles.com/static/pub/
 ||brocantelab.com/media/$third-party
 ||brsimg.com/pub/
+||btcclicks.com/img/$third-party
 ||business-lounge.fr/public/widget-prod/
 ||buziol.pl^$popup
 ||buzzy9.com/video/$subdocument
@@ -5340,6 +5350,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||eamobile.com/*/dart_banner.
 ||eamobile.com/*/dart_skyscraper.
 ||easy-charme.com/pub/
+||easy5now.com/images/b/
 ||ebooks-logiciels.com/depassez-vos-limites/ban/
 ||ecchi.fr/banieres/
 ||echangedebannieres.fr/images/$third-party
@@ -5436,6 +5447,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||gopro.com^$popup,domain=tignes.net
 ||gotporn.com/delivery/
 ||gpstatic.com^*/banner/
+||grandrevshare.com/img/banners/$third-party
 ||grillegagnante.com/bannieres/
 ||grmtas.com/pub/
 ||grosnews.com/grosnews.php?
@@ -5600,6 +5612,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||mangatown.com^*/banners/
 ||marche-forex.com/popup*.js
 ||mas-e.cds1.yospace.com^
+||matebux.com/gallery/banners/$third-party
 ||maxannu.com/max468.
 ||maximobileshop.com/widget/$domain=iphonetweak.fr
 ||maximumwall.com/images/top_ban_
@@ -5651,10 +5664,13 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||msecnd.net/jeuxcom-carousel/
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
 ||mwzip.com/banner.
+||my24hourincome.com/img/banners/$third-party
 ||mydirtyhobby.de/?naff=$popup
 ||mydirtyhobby.de/track/$popup
 ||mynewblog.com/tracker.php?
 ||mynewsnet.ch^$subdocument
+||mypayingads.com/img/banners/$third-party
+||mypayingcryptoads.com/img/banners/$third-party
 ||myposeo.com^*250x250.swf?$third-party
 ||myxpass.com^*&affid=
 ||nakedteens.video^$subdocument
@@ -5671,6 +5687,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||nouslibertins.com^$image,third-party
 ||nouvelobs.s3-website-eu-west-1.amazonaws.com^
 ||noviya.free.fr/bannieres/
+||nowlifestyle.com/7minbanners/
 ||ntweb.org/stored/$third-party
 ||ntweb.org/uploads/$third-party
 ||nubiles.net^*/promo/
@@ -5711,6 +5728,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||paruvendu.fr^$subdocument,third-party
 ||passion-auto.me/pub.
 ||passion-auto.me/pub1.
+||pays4ever.com/bcode.php?
 ||pdv.juste-pour-un-soir.com^$popup
 ||peimg.fr/bannieres/
 ||peimg.fr^*/partenaire-
@@ -5876,6 +5894,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||short-stuff.com^$popup,domain=telechargementz.tv
 ||sikr.chimeratool.com^
 ||simabio.fr/widget_$third-party
+||simplyptp.com/images/banner
 ||site.elkhabar.com^
 ||siteground.com/img/banners/$third-party
 ||sixtyonemedia.com/?campaign=
@@ -5905,6 +5924,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||ssl-images-amazon.com^$domain=fdesouche.com
 ||stagevu.com/video/$popup
 ||stars-passion.com/ban/$third-party
+||state-of-the-art-mailer.com/rfredir.php
 ||static.ccmbg.com/ops.ccmbg.com/
 ||static.fotolia.com/pics/*/banners/
 ||static.mntzm.com^
@@ -5936,6 +5956,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||tadpu.com/wp-content/uploads/*/boxbox.png
 ||tagbox.fr/banner/
 ||tcweb-host.com/*/pub/
+||teambuildclub.com/images/$third-party
 ||techbeat.com/wp-content/custom-php/tbrecentposts3.php?
 ||technologiesaintjoseph.com/addon/script/*?integration=$third-party
 ||teen-passion.net/annuaire/ban/$third-party
@@ -5943,6 +5964,8 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||teliad.fr^*/banner/
 ||terasexe.com/pubs/
 ||test-psycho.com/meetic.gif
+||theadsteam.com/img/banners/$third-party
+||thetrafficincome.com/img/banners/$third-party
 ||tinypic.com^$image,domain=mediafree.co|skymiga.com|timeload.net
 ||tool.acces-vod.com^$popup
 ||tools.gigacu.com^
@@ -5962,6 +5985,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||track.bloglog.com^$third-party
 ||track.mdsmatch.com^
 ||trackuity.*/*/ticker/
+||trafficsummitads.com/img/banners/$third-party
 ||travelagency.travel/img/Partners/*/logo-
 ||trc.emv2.com^
 ||trend-corner.com/images/bannieres/
