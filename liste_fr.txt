@@ -1206,6 +1206,7 @@
 /smartad_
 /smartclick.js
 /smartrotator.*?referrer=
+/sp2popup.
 /srv.php?size=300x250
 /srv.php?size=315x300
 /static/*/ads/
@@ -1319,6 +1320,7 @@
 ://na.ads.
 ://partner.$third-party,domain=~lopinion.fr|~viator.com|~viatorcom.de|~viatorcom.fr|~viatorcom.nl|~viatorcom.no|~viatorcom.se
 ://pop.$script,subdocument,third-party,xmlhttprequest
+://promo.*?site_id=
 ://promo2.$third-party
 ://reclame.
 ://regiepub.
@@ -3284,6 +3286,7 @@ debugger:$popup
 ||xiepl.com^$third-party
 ||xl415.com^$third-party
 ||xmediaserve.com^$third-party
+||xn--ae-tja.ch^$third-party
 ||xpicw.top^$third-party
 ||xpu99tyg.lol^$third-party
 ||xsnap.me^$third-party
