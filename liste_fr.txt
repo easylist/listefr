@@ -2501,6 +2501,7 @@ debugger:$popup
 ||feelupdatingperfect.info^$third-party
 ||fellent.eu^$third-party
 ||fhserve.com^$third-party
+||findadvertise.com^$third-party
 ||findgoogl.com^$third-party
 ||firamayu.com^$third-party
 ||firstoffersfinder.com^$third-party
@@ -7575,6 +7576,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||jeux-sexe-gratuit.fr/images/banners/
 ||jeux.org/vda/
 ||jeuxetcompagnie.fr/wp-content/uploads/*/Habillage-
+||jeuxflash.com/jfS/
 ||jeuxvideo.com/ope/
 ||jeuxvideo.com/pics/web/eaplay4free_300x100.jpg
 ||jeuxvideo.com/pub/
@@ -10481,6 +10483,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href*="/adserver/iframe?"]
 ##a[href*="/adsrvmedia."]
 ##a[href*="/adstract."]
+##a[href*="/adv-mybankai."]
 ##a[href*="/afiliados.html?id="]
 ##a[href*="/afu.php?"]
 ##a[href*="/clickhabillage/"][target="_blank"]
@@ -10558,7 +10561,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href^="http://ads.affiliation-france.com/"]
 ##a[href^="http://ads.reflexcash.com/"]
 ##a[href^="http://ads.wui.fr/"]
-##a[href^="http://adv-mybankai."]
 ##a[href^="http://adv-mylegend."]
 ##a[href^="http://adv-myninja."]
 ##a[href^="http://adv-mypirate."]
