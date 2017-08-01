@@ -8493,6 +8493,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||wads.ozap.com^
 ||wads.plurielles.fr^
 ||walfoot.be/pub/
+||wallagain.cc/content/themes/mft/foo/
+||wallagain.cc^$popup,script,~third-party
 ||wallpapergratuit.org/scripts.inc.js
 ||wamiz.fr/css/habillage/
 ||wamland.com^*.html$object,subdocument
@@ -10633,6 +10635,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href^="http://www.questiondivine.com/?ctid="]
 ##a[href^="http://www.sexgangsters.com/?"]
 ##a[href^="http://www.tradeadexchange.com/"]
+##a[href^="http://www.vipromoffers.com/"]
 ##a[href^="http://www.xl415.com/"]
 ##a[href^="http://www.yourfilezone.com/"]
 ##a[href^="http://xch.smrtgs.com/"]
