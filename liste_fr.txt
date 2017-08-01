@@ -2333,6 +2333,7 @@ debugger:$popup
 ||chameleonx.net^$third-party
 ||charmix.com^$third-party
 ||chilican.com^$third-party
+||chocam.com^$~image,third-party
 ||churccivic.com^$third-party
 ||circulate.com^$third-party
 ||citenkomedia.com^$third-party
@@ -2480,7 +2481,7 @@ debugger:$popup
 ||etarg.ru^$third-party
 ||etoro.fr^$third-party
 ||euro-clic.com^$third-party
-||eurolive.com^$third-party
+||eurolive.com^$~image,third-party
 ||eurowebbiz.com^$third-party
 ||every.com^$third-party
 ||everybodyads.net^$third-party
@@ -2770,7 +2771,7 @@ debugger:$popup
 ||mygpuid.com^$third-party
 ||myimagetracking.com^$third-party
 ||myimgt.com^$third-party
-||mykocam.com^$third-party
+||mykocam.com^$~image,third-party
 ||mynativeplatform.com^$third-party
 ||myninja.club^$third-party
 ||myninja.info^$third-party
@@ -2945,7 +2946,7 @@ debugger:$popup
 ||pubwebnet.com^$third-party
 ||puls-dz.com^$third-party
 ||pureadexchange.com^$third-party
-||purlive.com^$third-party
+||purlive.com^$~image,third-party
 ||pushnative.com^$third-party
 ||putbid.net^$third-party
 ||puttme.gq^$third-party
@@ -3145,6 +3146,7 @@ debugger:$popup
 ||tnx.net^$third-party
 ||to0xy090.website^$third-party
 ||todaypk.online^$third-party
+||tonlive.com^$~image,third-party
 ||tools-affil2.com^$third-party
 ||toolsackie.info^$third-party
 ||tootrash.com^$third-party
@@ -4474,13 +4476,11 @@ debugger:$popup
 ||bwinpartypartners.com^$popup,third-party
 ||bxic0ho.com^$popup,third-party
 ||cacheicdn.com^$popup,third-party
-||camsympa.com^$popup,third-party
 ||carsquill.bid^$popup,third-party
 ||cash-duck.com^$popup,third-party
 ||cbshift.com^$popup,third-party
 ||cdnrl.com^$popup,third-party
 ||cduporno.fr^$popup,third-party
-||chocam.com^$popup,third-party
 ||cityads.com^$popup,third-party
 ||cityadspix.com^$popup,third-party
 ||clckads.com^$popup,third-party
@@ -4712,7 +4712,6 @@ debugger:$popup
 ||mybankai.net^$popup,third-party
 ||mycamptrack.com^$popup,third-party
 ||myfreesoftwarehub.com^$popup,third-party
-||mykocam.com^$popup,third-party
 ||myninja.club^$popup,third-party
 ||myninja.info^$popup,third-party
 ||myninja.mobi^$popup,third-party
@@ -4805,7 +4804,6 @@ debugger:$popup
 ||ptcong.com^$popup,third-party
 ||pub2srv.com^$popup,third-party
 ||pulseonclick.com^$popup,third-party
-||purlive.com^$popup,third-party
 ||pushplay.com^$popup,third-party
 ||pwdplz.com^$popup,third-party
 ||pwwysydh.com^$popup,third-party
@@ -4907,7 +4905,6 @@ debugger:$popup
 ||tmhgm.com^$popup,third-party
 ||tnkexchange.com^$popup,third-party
 ||todigroup.com^$popup,third-party
-||tonlive.com^$popup,third-party
 ||top2016games.com^$popup,third-party
 ||tororango.com^$popup,third-party
 ||torriderencontre.com^$popup,third-party
@@ -5234,7 +5231,6 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||cadremploi.fr/assets/widgets/$third-party
 ||call-of-passion.com/banner/
 ||camgasm.com/affiliates/
-||camsympa.com/?tracker=$popup
 ||camtempel.com/banner/
 ||canalflux.net/canalflux.php
 ||canalflux.net/dailyvid.php
