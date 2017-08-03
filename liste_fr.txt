@@ -1911,6 +1911,7 @@ debugger:$popup
 ||104.198.$script,third-party,xmlhttprequest
 ||104.238.188.$script,third-party
 ||104.238.189.$script,third-party
+||108.163.194.100^$third-party
 ||10nr6frq.cricket^$third-party
 ||130.211.$third-party
 ||146.148.85.61^$third-party
@@ -10666,6 +10667,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href^="https://store.mspy.com/affiliate.php"] > img
 ##a[href^="https://traceless.me/lp/"]
 ##a[href^="https://www.g2a.com/r/"] > img
+##a[onclick*="/adserver/iframe?"]
 ##a[onclick*="FriendlyDuck.com"]
 ##a[onclick^="CustomWLAdServer."]
 ##a[target="_blank"][href*="/buy-vpn?"] > img
@@ -12065,6 +12067,7 @@ forumconstruire.com##[class^="habillage"]
 igen.fr,macg.co,orange.fr##[class^="lig_"]
 voyageforum.com##[class^="offers"]
 ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
+fulltv.tv##[class^="publi"]
 guide-piscine.fr##[class^="regie_"]
 msn.com##[class^="stripecontaine"][data-section-id="stripe.store"]
 omgtorrent.me##[class^="toro"]
