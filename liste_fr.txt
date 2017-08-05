@@ -6345,9 +6345,9 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 |http://$script,third-party,xmlhttprequest,domain=animes-mangas-ddl.net
 |https://$script,third-party,xmlhttprequest,domain=animes-mangas-ddl.net
 ! vfstream.biz
-@@||ajax.googleapis.com/ajax/libs/$script,domain=frstreaming.info
-|http://$script,third-party,domain=frstreaming.biz|frstreaming.co|frstreaming.info|frstreaming.pro|frstreaming.top|vfstream.biz
-|https://$script,third-party,domain=frstreaming.biz|frstreaming.co|frstreaming.info|frstreaming.pro|frstreaming.top|vfstream.biz
+@@||ajax.googleapis.com/ajax/libs/$script,domain=frstreaming.co.uk
+|http://$script,third-party,domain=frstreaming.biz|frstreaming.co|frstreaming.co.uk|frstreaming.info|frstreaming.pro|frstreaming.top|vfstream.biz
+|https://$script,third-party,domain=frstreaming.biz|frstreaming.co|frstreaming.co.uk|frstreaming.info|frstreaming.pro|frstreaming.top|vfstream.biz
 ! telecharger-film-gratuit.fr
 |http://$script,third-party,xmlhttprequest,domain=telecharger-film-gratuit.fr
 |https://$script,third-party,xmlhttprequest,domain=telecharger-film-gratuit.fr
