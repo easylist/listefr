@@ -1379,6 +1379,7 @@
 ?Page=*&Width=160&
 ?Page=*&Width=300&
 ?Page=*&Width=468&
+?pid=*&adu=$subdocument
 ?promoTool=*&aff_sub=
 ?publisher-adserver=
 ?redir=*/click?
@@ -8483,6 +8484,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||vidshort.net/*.php
 ||vidshort.net/fr.js
 ||vidshort.net^$popup,script,~third-party
+||vidto.me/*/*/*/$script
 ||viepratique.fr/wp-content/uploads/sites/*/Bloc_partenaire_
 ||village-libertin.com/site_rencontre/ban/
 ||vinyculture.com/wp-content/uploads/*-banner-
@@ -12071,6 +12073,7 @@ amazon.fr##[class*="-sponsored-"]
 torrentz2.eu,torrentz2.me##[class*="Ads"]
 ccm.net,commentcamarche.net##[class*="_item--sponsor"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
+vidto.me##[class*="backscreen"]
 uploaded.net##[class*="pico-"]
 bestream.tv##[class^="adsRemove"]
 narkive.com##[class^="ads_"]
