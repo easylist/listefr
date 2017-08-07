@@ -317,6 +317,10 @@
 /ad.bon-plan-
 /ad.js?_=
 /AD.Loader-
+/ad/*/160/*
+/ad/*/300/*
+/ad/*/728/*
+/ad/*?amtarget=$subdocument
 /ad/*_300250_
 /ad/ad3/*
 /ad/banners_
@@ -7710,6 +7714,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||lefigaro.fr^*/bazarchic/
 ||legalis.net^*/swf/pub_
 ||legazdeschiste.fr/images/banner_
+||leguide.com^*/ad/
 ||lejournaldelemploi.dz/images/banners/
 ||lelogicielgratuit.com/media/js/popupGenerator.min.js
 ||lemaghrebdz.com/images/pub/
@@ -9870,6 +9875,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.block_ad_container
 ##.block_adtop
 ##.block_pub
+##.block_pub1
+##.block_pub2
 ##.block_small_pub
 ##.blocpub
 ##.blocpubbas
@@ -10338,6 +10345,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.removeAds
 ##.remove_ads
 ##.replaceDelayedAds
+##.right-advertising
 ##.rightPub
 ##.rightRailAdContainer
 ##.right_advertissment
