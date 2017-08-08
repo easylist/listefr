@@ -9222,6 +9222,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###header_pub_contenu
 ###headerpub
 ###home-pub
+###home-pushdownAd
 ###home_advertising_block
 ###hp-pub-block-980x200
 ###hp_ad_most-played
@@ -12895,6 +12896,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /jquery.adi.
 /kill-adblock/*
 /modules/mod_jpayday/*
+/pause-adblocker/*
 /setvisitadblocked|
 /sorry-adblocker/*$script
 /wp-adblock-dedect/*
