@@ -10713,6 +10713,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[onclick*="FriendlyDuck.com"]
 ##a[onclick^="CustomWLAdServer."]
 ##a[target="_blank"][href*="/buy-vpn?"] > img
+##div[class^="ad_200_"]
+##div[class^="ad_468_"]
 ##div[id$="textAdsBox"]
 ##div[id^="M"][id*="Composite"]
 ##div[id^="PostAd"]
