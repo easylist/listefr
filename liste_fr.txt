@@ -6604,6 +6604,7 @@ oload.tv,streamango.com###videooverlay
 @@||www.kvid.org/v2/poop/src/jquery.min.js$script,domain=kvid.org
 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=k-streaming.com|kvid.org|le-streaming.com
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=k-streaming.com|kvid.org|le-streaming.com
+||k-streaming.com/wp-content/cache/$script
 ||kvid.org^$script
 ||kvid.org^$subdocument,~third-party
 ! streamin.to
