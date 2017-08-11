@@ -1036,6 +1036,7 @@
 /proxy_iframe.php?url=
 /ptp/banners/*
 /pu/license.$script
+/pu/script.$script
 /pub-300-250-
 /pub-300x250.
 /pub-ads/*
@@ -6561,7 +6562,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 |https://$script,third-party,domain=vidoza.net
 ! openload
 /^https?:\/\/(tt1\.|yii\.)?(oload.tv|openload.co|streamango.com|protect-iframe.com|protect-video.com)\/(.*\/)?(script\.\d{3}\.|license\.|VPAIDFlash\.|(.*\.vpaid\.)|(r3\/))(.*)/$domain=oload.tv|openload.co|streamango.com
-@@/(\/ados.js|\/license\.adbl\.js|\/popunder1\.js|\/popunder2\.js|\/script.\d{4}\.js)$/$script,domain=oload.tv|openload.co|streamango.com
+@@/(\/ados.js|\/license\.adbl\.js|\/popunder1\.js|\/popunder2\.js|\/script.\d{4,5}\.js)$/$script,domain=oload.tv|openload.co|streamango.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=oload.tv|openload.co|streamango.com
 oload.tv,openload.co##.vjs-modal-dialog-content
 oload.tv,streamango.com###videooverlay
