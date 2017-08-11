@@ -52,6 +52,7 @@
 &id_site=*&ref=*&width=*&height=*&m_url=$subdocument
 &include_ads=
 &lr_adtype=
+&page_url=*&advertiser=
 &pdvId=
 &pid=*&tid=*&status=*&v=
 &placement=*&ad=
@@ -98,6 +99,7 @@
 -728-90c.
 -728-90d.
 -728-x-90-
+-728-x-90.
 -728_90.
 -728v90.
 -728x150-$subdocument
@@ -11666,6 +11668,7 @@ boursorama.com##.injected.block
 quebeccoupongratuit.com##.inner-pub
 zoomdici.fr##.innerArtAdd
 go4up.com##.innerLR > link + center > a > img
+tchatche.com##.inside-banner
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##.int-mb-fond
 bdgest.com,bedetheque.com##.interne-300x140
 youscribe.com##.interpage
@@ -11762,6 +11765,7 @@ rtl.fr##.money-talks
 118712.fr##.mpl
 lemondeinformatique.fr##.mpu
 gamekult.com##.mpubas-wrapper
+tchatche.com##.native-banner
 agroligne.com##.nbs-flexisel-container
 macg.co##.news + div + [class] > div + p + [class] > img
 directvelo.com##.news-banner
