@@ -6654,10 +6654,9 @@ he2eini7ka.com##div > [id^="player"] + div[id][style*="z-index:"]
 ||he2eini7ka.com^*.html|$subdocument,~third-party
 ||youwatch.org^$subdocument,third-party
 ! mystream.la
-@@||89.33.8.108^$image,domain=mystream.la
+@@||89.33.8.*.jpg|$image,domain=mystream.la
 |http://$image,ping,script,subdocument,third-party,xmlhttprequest,domain=mystream.la
 |https://$image,ping,script,subdocument,third-party,xmlhttprequest,domain=mystream.la
-||mystream.la^$subdocument,third-party
 ! watchers.to
 @@||watchers.to/js/fuckadblock.js$script,domain=watchers.to
 @@||watchers.to^$generichide
