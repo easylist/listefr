@@ -2219,6 +2219,7 @@ debugger:$popup
 ||alloclick.com^$third-party
 ||allovisiteur.com^$third-party
 ||alxsite.com^$third-party
+||anarchy99.info^$third-party
 ||annoncesante.ma^$third-party
 ||annoncessante.ma^$third-party
 ||anothing.info^$third-party
@@ -3102,6 +3103,7 @@ debugger:$popup
 ||sperse.com^$third-party
 ||sporary.eu^$third-party
 ||spykemediatrack.com^$third-party
+||ssl4all.cf^$third-party
 ||ssl4me.cf^$third-party
 ||ssl4me.ga^$third-party
 ||statisticresearch.com^$third-party
@@ -12558,6 +12560,7 @@ iphonesoft.fr##.pub
 iphonetweak.fr##.pub-img
 iphonesoft.fr,iphonetweak.fr##.trc-content-sponsored
 ! Filtres de propriété CSS pour Adblock Plus
+yggtorrent.com###torrent_id + * > br + center
 igen.fr##.article > div + [class] [id]:last-child[-abp-properties='background-image:*;']
 macg.co##.article > div > div > [class]:last-child[-abp-properties='background-image:*;']
 igen.fr##.article [-abp-properties='cursor: pointer;']
