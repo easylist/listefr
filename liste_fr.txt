@@ -1577,6 +1577,7 @@ _werbebanner_
 ||date^*/|$script,third-party,xmlhttprequest
 ||download^*/|$script,third-party,xmlhttprequest
 ||faith^*/|$script,third-party,xmlhttprequest
+||info/?tid=$script,third-party
 ||link^*/|$script,third-party,xmlhttprequest
 ||loan^*/|$script,third-party,xmlhttprequest
 ||lol^*/|$script,third-party,xmlhttprequest
@@ -2602,6 +2603,7 @@ debugger:$popup
 ||hprofits.com^$third-party
 ||hqcorn.com^$third-party
 ||hsoub.com^$third-party
+||humories.info^$third-party
 ||hyperline88.com^$third-party
 ||i-promotion.net^$third-party
 ||iaffiliates.com^$third-party
