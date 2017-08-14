@@ -8942,6 +8942,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###ad-inread-load
 ###ad-lb-bottom
 ###ad-ligatus-article-load
+###ad-mega-banner
 ###ad-megaban2-load
 ###ad-planetveo
 ###ad-rec-bet1
@@ -12068,6 +12069,7 @@ expat.com##.travel-insurance
 nextinpact.com##.trend-big + *
 portail.free.fr##.troiscent
 lemonde.fr##.tuto-pub
+lemonde.fr##.tuto-pub + [class$="_ad"]
 lefigaro.fr##.tvm-ads-pave
 lefigaro.fr##.tvm-boutique
 lefigaro.fr##.tvm-boutique-iframe
