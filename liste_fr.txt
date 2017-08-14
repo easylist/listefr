@@ -8258,7 +8258,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||sexparadisiac.net/out/
 ||sexparadisiac.net/static/vod/
 ||sexparadisiac.net^*/img/pub.
-||sfa.sport365.fr^
 ||sfr.fr//arrow/banner?
 ||sfr.fr/arrow/banner?
 ||sfr.fr/eTagP/msg.jsp?
@@ -12621,6 +12620,8 @@ lucariostream.eu##[-abp-properties='z-index: 999*;']
 macg.co##article > a[-abp-properties='*'] > img
 yggtorrent.com#?#tr > td > table > tbody > tr:-abp-has(a[href$="/go_vpn"])
 ! Ligatus
+$subdocument,~third-party,domain=sport365.fr
+/sfa.$domain=sport365.fr
 @@||admin.brightcove.com/js/api/SmartPlayerAPI.js$script,domain=lachainemeteo.com
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
 @@||player.mediabong.com^*/video.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
@@ -12628,9 +12629,9 @@ yggtorrent.com#?#tr > td > table > tbody > tr:-abp-has(a[href$="/go_vpn"])
 @@||players.brightcove.net/*_default/index.min.js?$script,third-party,domain=lachainemeteo.com
 @@||preprod-img.planet.fr/files/advagg_js/js_*.js$script,domain=femmesplus.fr
 @@||static.mediabong.com/scripts/mb.*.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
-|http://$script,third-party,domain=aventure-apple.com|femmesplus.fr|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|planet.fr|refurbgeneration.com
+|http://$script,third-party,domain=aventure-apple.com|femmesplus.fr|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|planet.fr|refurbgeneration.com|sport365.fr
 |http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
-|https://$script,third-party,domain=aventure-apple.com|femmesplus.fr|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|planet.fr|refurbgeneration.com
+|https://$script,third-party,domain=aventure-apple.com|femmesplus.fr|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|planet.fr|refurbgeneration.com|sport365.fr
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 ||fourchette-et-bikini.fr^$xmlhttprequest
 ||xiti.com^$domain=lachainemeteo.com
