@@ -12620,8 +12620,8 @@ lucariostream.eu##[-abp-properties='z-index: 999*;']
 macg.co##article > a[-abp-properties='*'] > img
 yggtorrent.com#?#tr > td > table > tbody > tr:-abp-has(a[href$="/go_vpn"])
 ! Ligatus
-$subdocument,~third-party,domain=mercato365.com|sport365.fr
-/sfa.$domain=mercato365.com|sport365.fr
+$subdocument,~third-party,domain=football365.fr|mercato365.com|sport365.fr
+/sfa.$domain=football365.fr|mercato365.com|sport365.fr
 @@||admin.brightcove.com/js/api/SmartPlayerAPI.js$script,domain=lachainemeteo.com
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
 @@||player.mediabong.com^*/video.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
