@@ -5514,7 +5514,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||hdfreaks.cc/wcf/images/banner/
 ||hdfree.tv/ad.
 ||hdvideos.porn/?id=$popup
-||hellobar.com^$domain=familyinblack.fr
+||hellobar.com^$domain=application-remuneratrice.com|familyinblack.fr
 ||hellocoton.fr/*/badges/$third-party
 ||hentai-tube.fr^*?$popup
 ||herocccam.com/herocccam.gif
@@ -5537,6 +5537,8 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||idem.com/medias/$third-party
 ||iframe.ly^$domain=korben.info
 ||iframe.ly^*%2Famzn.
+||igraal.com/parrainage/
+||igstatic.com/igfiles/front/banner/
 ||igstatic.com/merchant/banner/
 ||ilbanat.com/images/pubilbanat.gif
 ||illiweb.com^*/banner/
@@ -10547,6 +10549,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href*=".ad2up.com/"]
 ##a[href*=".brucelead.com/"]
 ##a[href*=".get-media.co/"]
+##a[href*=".igraal.com/#parrain="] > img
+##a[href*=".igraal.com/inscription?parrain="] > img
 ##a[href*=".onclasrv.com/"]
 ##a[href*=".ourtoolbar.com"]
 ##a[href*=".php?sp_promote="]
@@ -10627,7 +10631,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href*="utm_medium=mega_banniere"] > img
 ##a[href*="weborama.fr/fcgi-bin/"]
 ##a[href*="xiti.com/go.ad?"]
-##a[href^=" http://fr.igraal.com/#parrain="] > img
 ##a[href^=".php/ads/"]
 ##a[href^=".php/annonce/ads/"]
 ##a[href^="/rdh?"]
