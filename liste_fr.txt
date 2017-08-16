@@ -12394,6 +12394,7 @@ lalibre.be##a[href^="https://www.ipmstore.be/"] > img
 credit-agricole.fr##a[href^="https://www.onatousuncotefoot.fr/"]
 undernews.fr##a[href^="https://www.undernews.fr/redirect/"]
 braindamaged.fr##a[href^="index.php?adclick="]
+planet-series.co##a[href^="javascript:"]
 windsurfjournal.com##a[href^="link,"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 dpstream.to,quedustream.com,streaming-series.to##a[href^="streaming-series"]
@@ -12402,7 +12403,7 @@ extreme-down.one,zetorrento.fr,zetorrents.com##a[id]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
 lien-torrent.com##a[onclick*="directlinks"]
-dl-protecte.com,filerio.in,free-telechargement.co,libertyland.co,speedvid.net,wawacity.ec##a[onclick]
+dl-protecte.com,filerio.in,free-telechargement.co,libertyland.co,planet-series.co,speedvid.net,wawacity.ec##a[onclick]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
@@ -12973,7 +12974,7 @@ _blockadblock_
 !
 @@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=4downfiles.org|alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|macgames-download.com|the-night-of-streaming.eu
-@@.png#$image,domain=4downfiles.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|pxstream.tv|savefile.co|softmaroc.org|stream4free.top|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
+@@.png#$image,domain=4downfiles.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|planet-series.co|pxstream.tv|savefile.co|softmaroc.org|stream4free.top|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
@@ -13086,6 +13087,7 @@ trackmusik.fr#@#.afs_ads
 @@||papystreaming-film.com^$generichide
 @@||partage-facile.com^$generichide
 @@||pasteca.sh^$generichide
+@@||planet-series.co^$generichide
 @@||replay-documentaire.com^$generichide
 @@||savefile.co^$generichide
 @@||shrink-service.it^$generichide
