@@ -6776,6 +6776,7 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 |https://$subdocument,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortrump.ga|skiip.me|skipp.io|wiid.me
 ! coshurl.co
 @@||ads.hyperdebrid.net^$image,script,stylesheet,xmlhttprequest,domain=ads.hyperdebrid.net
+@@||coshurl.co/js/ads.js$script,domain=coshurl.co
 |http://$popup,script,third-party,xmlhttprequest,domain=ads.hyperdebrid.net|coshurl.co
 |https://$popup,script,third-party,xmlhttprequest,domain=ads.hyperdebrid.net|coshurl.co
 ! shrink-service.it
