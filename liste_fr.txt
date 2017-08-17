@@ -11311,8 +11311,6 @@ elmoudjahid.com###topads
 mac4ever.com###topappWidget
 algeriepatriotique.com###topbanner_wrapper
 as-salat.com,forumbismillah.com,freepik.com,streamxd.com###topbar
-yggtorrent.com###torrent_id + * > [style]
-yggtorrent.com###torrent_id + div > div + br + table + br + *
 playerhd1.pw###total_banner
 embed.tune.pk###tpkp-toolbar
 cbanque.com###trk_promoforum
@@ -12566,6 +12564,7 @@ depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
 miss34.com##td[style="height:99px; vertical-align:top; background:#ffffff"]
 people-looks.com##td[width="340"][height="265"][align="center"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
+yggtorrent.com##tr > [style]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 eztv-proxy.net,eztv.ag,eztv.tf,eztv.yt##tr > td[style="border: 3px solid #C70000;"] > [id]
 audiofanzine.com##ul[style^="width:128px;"]
@@ -12577,7 +12576,6 @@ iphonesoft.fr##.pub
 iphonetweak.fr##.pub-img
 iphonesoft.fr,iphonetweak.fr##.trc-content-sponsored
 ! Filtres de propriété CSS pour Adblock Plus
-yggtorrent.com###torrent_id + * > br + center
 igen.fr##.article > div + [class] [id]:last-child[-abp-properties='background-image:*;']
 macg.co##.article > div > div > [class]:last-child[-abp-properties='background-image:*;']
 igen.fr##.article [-abp-properties='cursor: pointer;']
@@ -12611,7 +12609,6 @@ igen.fr##[-abp-properties='width: 32*px;']
 uploads.to##[-abp-properties='z-index: *']
 lucariostream.eu##[-abp-properties='z-index: 999*;']
 macg.co##article > a[-abp-properties='*'] > img
-yggtorrent.com#?#tr > td > table > tbody > tr:-abp-has(a[href$="/go_vpn"])
 ! Ligatus
 $subdocument,~third-party,domain=football365.fr|mercato365.com|sport365.fr
 /sfa.$domain=football365.fr|mercato365.com|sport365.fr
