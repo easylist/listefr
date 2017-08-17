@@ -6303,9 +6303,6 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 @@||ajax.googleapis.com/ajax/libs/$script,domain=cocostreaming.com
 |http://$script,third-party,domain=cocostreaming.com
 |httpd://$script,third-party,domain=cocostreaming.com
-! zetorrents.com
-|http://$popup,script,third-party,domain=zetorrento.fr|zetorrents.com
-|https://$popup,script,third-party,domain=zetorrento.fr|zetorrents.com
 ! torrent9.tv
 /cdn-cgi/*$domain=cpabien.ch|cpabien.co|cpabien.tv|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
 @@||ajax.googleapis.com/ajax/libs/$script,domain=cpabien.ch|cpabien.co|cpabien.tv|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.top|torrents9.org
@@ -12128,7 +12125,6 @@ esoxiste.com##.xoxo a > img
 lapresse.ca##.xtra
 filmenstreaminghd.com##.yildiz-pageskin-link
 lepetiteconomiste.com##.zoom
-zetorrento.fr,zetorrents.com##A[href*="/AF_"]
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
 telesatellite.com##[class$="bg"] > [id]:first-child
@@ -12176,7 +12172,6 @@ xooit.com##[style*="z-index: 99999999; height: 92px; width: 100%;"]
 boursorama.com##[style="width: 1000px; margin: 0px auto; min-width: 0px; min-height: 90px; display: block;"]
 forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding:15px"]
 hqq.tv,hqq.watch##[style^="width: 468px; height: 60px;"]
-zetorrents.com##a > [style]
 lesoir.be##a > [width="300"][height="250"]
 jeddl.co##a > font
 zone-telechargement.ws##a > h1
@@ -12253,7 +12248,6 @@ fourchette-et-bikini.fr##a[href*="go2cloud.org/aff_c?"]
 dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-de-l-en-galerant-sur-le.html"]
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 jemangejemincis.fr##a[href*="leadpages.co/"]
-zetorrento.fr,zetorrents.com##a[href*="porno"]
 beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com,sports.fr##a[href*="smartadserver.com/call/cliccommand/"]
 torrent9.cc,torrent9.top,torrents9.org,torrents9.tv##a[href*="torrent9.me/"]
 lucariostream.eu##a[href*="univers-saiyan.com/"]
@@ -12388,7 +12382,7 @@ windsurfjournal.com##a[href^="link,"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 dpstream.to,quedustream.com,streaming-series.to##a[href^="streaming-series"]
 mega-p2p.net##a[href^="vpn"]
-extreme-down.one,zetorrento.fr,zetorrents.com##a[id]
+extreme-down.one##a[id]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
 lien-torrent.com##a[onclick*="directlinks"]
@@ -12398,7 +12392,7 @@ lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 telechargementz.tv##a[rel="nofollow"]
 achat-bitcoins.com##a[rel="nofollow"] > img
-zetorrente.fr,zetorrents.com##a[rel]
+zetorrente.fr##a[rel]
 extreme-down.one##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
 4downfiles.org,9divx.org,buzzporn.net,footnamurois.com,jeddl.co,journaldu4x4.com,planet-streaming.com,seriezone.org,streaminghd.fr##a[target="_blank"] > img
