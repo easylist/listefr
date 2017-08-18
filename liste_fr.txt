@@ -113,6 +113,7 @@
 -ad728x90-
 -ad_750x150.
 -adhese.
+-admarket-
 -ads-300x250.
 -ads-cdn.
 -ads/ads.
@@ -477,6 +478,7 @@
 /ads_250_
 /ads_60_
 /ads_90_728.
+/ads_banner/*
 /ads_block
 /ads_capping.
 /ads_data_
@@ -828,6 +830,7 @@
 /fod_ad_
 /fond_pub_
 /footerPartnerOffers.
+/formats/ads_
 /fr-ads.
 /fra/ads/*
 /frame_clic.*&aff=
@@ -8451,7 +8454,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||tribunejuive.info/wp-content/uploads/2012/12/wizo.jpg
 ||tribunejuive.info^*/module_pubs_
 ||tribunejuive.info^*/PubTribuneJuive.
-||trictrac.net/documents/formats/background_big/
+||trictrac.net/documents/formats/background_
 ||trictrac.net/documents/originals/
 ||trictrac.net^$subdocument
 ||trimag.fr^*/tx_macinabanners/
@@ -12418,6 +12421,7 @@ gamekult.com##article[style="background-color: rgba(0, 0, 0, 0.06);padding: 30px
 tchatche.com##banner
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 auto-utilitaire.com,mobilealgerie.com##body > a > img
+trictrac.net##body > div + .row.align-center.section
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 zone-telechargement.ws##br + a > img
