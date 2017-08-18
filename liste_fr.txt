@@ -204,6 +204,7 @@
 .php?*&bannerid*campaignid=
 .php?*&size=*&synergie=
 .php?*&synergie=*&size=
+.php?aid=pause_
 .php?banner=$subdocument
 .php?format=160x600
 .php?format=728x90
@@ -1679,6 +1680,7 @@ _werbebanner_
 /adcint/*$popup
 /adexchangelive.$popup
 /admac.$popup
+/adOk?*&uid=$popup
 /adplexmedia.$popup
 /adplexmedia/*$popup
 /ads.php$popup
@@ -3223,6 +3225,7 @@ debugger:$popup
 ||trck.eu^$third-party
 ||trck.me^$third-party
 ||tredman.com^$third-party
+||tremember.info^$third-party
 ||trumbo.site^$third-party
 ||ts-ads.info^$third-party
 ||tubicash.biz^$third-party
