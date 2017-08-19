@@ -1516,6 +1516,7 @@ _werbebanner_
 ||click/banner/
 ||com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com|~visuels.l214.com
 ! regex
+/\.com\/[a-zA-Z0-9\+\/]{64,}/$image,third-party,domain=torrentfunk.com
 /license\.\d{1,5}\.js$/$script,~third-party
 ! CDN filters
 /cdn-cgi/pe/bag2?*%2Fad_slideout.
@@ -2671,6 +2672,7 @@ debugger:$popup
 ||jeu-onepiece2.fr^$third-party
 ||jeubleach.fr^$third-party
 ||jixing8.com^$third-party
+||jobdjrurl.com^$third-party
 ||jointspellgot.com^$third-party
 ||jor1.net^$third-party
 ||journaux-du-midi.com^$third-party
@@ -4923,6 +4925,7 @@ debugger:$popup
 ||seminings.info^$popup,third-party
 ||sendmad.com^$popup,third-party
 ||serietrk.com^$popup,third-party
+||setksiw.com^$popup,third-party
 ||sexclic.com^$popup,third-party
 ||sextv2424.com^$popup,third-party
 ||sexyfreecamz.com^$popup,third-party
@@ -6330,6 +6333,10 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 @@||code.jquery.com^$script,domain=yggtorrent.com
 |http://$script,third-party,xmlhttprequest,domain=yggtorrent.com
 |https://$script,third-party,xmlhttprequest,domain=yggtorrent.com
+! torrentfunk.com
+|http://$ping,script,subdocument,third-party,xmlhttprequest,domain=torrentfunk.com
+|https://$ping,script,subdocument,third-party,xmlhttprequest,domain=torrentfunk.com
+||torrentfunk.com^$subdocument,~third-party
 ! proxyportal.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=bypassed.gold|immunicity.gold|unblocked.gold
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=bypassed.gold|immunicity.gold|unblocked.gold
@@ -8440,7 +8447,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||torrent411.io^*/banniere
 ||torrentfilmseriestreaming.com/wp-content/uploads/*/banniere-
 ||torrentfrançais.fr/wp-content/uploads/HMA
-||torrentfunk.com^$subdocument,~third-party
 ||toucharger.com/media/files/data/habillage/
 ||touslesprix.com/img_*/background/
 ||toutcash.com/images/bandeau-
@@ -12580,6 +12586,7 @@ codeshttp.com##table[width="800"][height="118"]
 aswak.echoroukonline.com##tbody > tr > .left
 algeriatenders.com##tbody > tr[style="height:92px;"]
 trancegoa.org##td > .fb-like-box + br + .texteentete.taille2
+torrentfunk.com##td > img[class^="z"]
 depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
 miss34.com##td[style="height:99px; vertical-align:top; background:#ffffff"]
 people-looks.com##td[width="340"][height="265"][align="center"]
