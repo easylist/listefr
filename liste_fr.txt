@@ -1516,6 +1516,7 @@ _werbebanner_
 ||click/banner/
 ||com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com|~visuels.l214.com
 ! regex
+/\.(accountant|bid|click|club|com|cricket|date|download|faith|link|loan|lol|men|online|party|racing|review|science|site|space|stream|top|trade|webcam|website|win|xyz|com)\/(([0-9]{2,9})(\.|\/)(css)?)$/$script,stylesheet,third-party,xmlhttprequest
 /\.com\/[a-zA-Z0-9\+\/]{64,}/$image,third-party,domain=flowyourvideo.com|mystream.la|torrentfunk.com
 /license\.\d{1,5}\.js$/$script,~third-party
 ! CDN filters
@@ -1581,33 +1582,7 @@ _werbebanner_
 /cdn-cgi/pe/bag2?*zwaar.org
 /cdn-cgi/pe/bag2?r*adplus.io
 !
-||accountant^*/|$script,third-party,xmlhttprequest
-||bid^*/|$script,third-party,xmlhttprequest
-||click^*/|$script,third-party,xmlhttprequest
-||club^*/|$script,third-party,xmlhttprequest
-||cricket^*/|$script,third-party,xmlhttprequest
-||date^*/|$script,third-party,xmlhttprequest
-||download^*/|$script,third-party,xmlhttprequest
-||faith^*/|$script,third-party,xmlhttprequest
 ||info/?tid=$script,third-party
-||link^*/|$script,third-party,xmlhttprequest
-||loan^*/|$script,third-party,xmlhttprequest
-||lol^*/|$script,third-party,xmlhttprequest
-||men^*/|$script,third-party,xmlhttprequest
-||online^*/|$script,third-party,xmlhttprequest
-||party^*/|$script,third-party,xmlhttprequest
-||racing^*/|$script,third-party,xmlhttprequest
-||review^*/|$script,third-party,xmlhttprequest
-||science^*/|$script,third-party,xmlhttprequest
-||site^*/|$script,third-party,xmlhttprequest
-||space^*/|$script,third-party,xmlhttprequest
-||stream^*/|$script,third-party,xmlhttprequest
-||systems^*/|$script,third-party,xmlhttprequest
-||top^*/|$script,third-party,xmlhttprequest
-||webcam^*/|$script,third-party,xmlhttprequest
-||website^*/|$script,third-party,xmlhttprequest
-||win^*/|$script,third-party,xmlhttprequest
-||xyz^*/|$script,third-party,xmlhttprequest
 ||xyz^*?pub=*&gateid=$script
 !
 !------------------------ Génériques popup -----------------------!
