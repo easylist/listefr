@@ -10488,6 +10488,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.topcenteradss
 ##.topleftad
 ##.toppubs
+##.tradingCenterAd
 ##.tuto-pub-ad-caption
 ##.txt-pub
 ##.upload-advert
@@ -12614,20 +12615,20 @@ uploads.to##[-abp-properties='z-index: *']
 lucariostream.eu##[-abp-properties='z-index: 999*;']
 macg.co##article > a[-abp-properties='*'] > img
 ! Ligatus
-$subdocument,~third-party,domain=football365.fr|mercato365.com|sport365.fr
-/sfa.$domain=football365.fr|mercato365.com|sport365.fr
+$subdocument,~third-party,domain=football365.fr|mercato365.com|rugby365.fr|sport365.fr
+/sfa.$domain=football365.fr|mercato365.com|rugby365.fr|sport365.fr
 @@||admin.brightcove.com/js/api/SmartPlayerAPI.js$script,domain=lachainemeteo.com
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
-@@||disqus.com/embed.js$script,domain=football365.fr|mercato365.com|sport365.fr
-@@||disquscdn.com^$script,domain=football365.fr|mercato365.com|sport365.fr
+@@||disqus.com/embed.js$script,domain=football365.fr|mercato365.com|rugby365.fr|sport365.fr
+@@||disquscdn.com^$script,domain=football365.fr|mercato365.com|rugby365.fr|sport365.fr
 @@||player.mediabong.com^*/video.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
 @@||player.qualifio.com/kit/qualp.2.min.js$script,domain=medisite.fr
 @@||players.brightcove.net/*_default/index.min.js?$script,third-party,domain=lachainemeteo.com
 @@||preprod-img.planet.fr/files/advagg_js/js_*.js$script,domain=femmesplus.fr
 @@||static.mediabong.com/scripts/mb.*.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
-|http://$script,third-party,domain=aventure-apple.com|femmesplus.fr|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|mercato365.com|planet.fr|refurbgeneration.com|sport365.fr
+|http://$script,third-party,domain=aventure-apple.com|femmesplus.fr|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|mercato365.com|planet.fr|refurbgeneration.com|rugby365.fr|sport365.fr
 |http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
-|https://$script,third-party,domain=aventure-apple.com|femmesplus.fr|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|mercato365.com|planet.fr|refurbgeneration.com|sport365.fr
+|https://$script,third-party,domain=aventure-apple.com|femmesplus.fr|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|mercato365.com|planet.fr|refurbgeneration.com|rugby365.fr|sport365.fr
 |https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
 ||fourchette-et-bikini.fr^$xmlhttprequest
 ||xiti.com^$domain=lachainemeteo.com
@@ -13169,6 +13170,7 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 ||markhamglascote.com^
 ||markletonheisson.com^
 ||maryneallynndyl.com^
+||mattawanpaden.com^
 ||mccaysvillesaxe.com^
 ||mcdadegoldston.com^
 ||mincopaia.com^
@@ -13210,7 +13212,7 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 ||wilberavenel.com^
 ||yelmcherryfield.com^
 !
-?ref=$script,domain=01net.com|clubic.com|cuisineactuelle.fr|cuisineaz.com|deco.fr|football365.fr|fourchette-et-bikini.fr|lameuse.be|lanouvellegazette.be|laprovince.be|lequipe.fr|lesoir.be|letribunaldunet.fr|meteocity.com|nordeclair.be|passeportsante.net|radins.com|rtl.be|sportetstyle.fr|turbo.fr
+?ref=$script,domain=01net.com|clubic.com|cuisineactuelle.fr|cuisineaz.com|deco.fr|football365.fr|fourchette-et-bikini.fr|lameuse.be|lanouvellegazette.be|laprovince.be|lequipe.fr|lesoir.be|letribunaldunet.fr|mercato365.com|meteocity.com|nordeclair.be|passeportsante.net|radins.com|rtl.be|rugby365.fr|sport365.fr|sportetstyle.fr|turbo.fr
 !
 ! Adunblock
 ||adunblock.com^$popup,third-party
