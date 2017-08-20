@@ -1164,6 +1164,7 @@
 /redirect/dl.
 /redirect?tid=$subdocument
 /regie.js
+/regie_pub.
 /regie_pub/*
 /regiepub/*
 /rekban.php
@@ -8241,7 +8242,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||securite.01net.com^
 ||seduireunhomme.fr/wp-content/uploads/*/Banner_
 ||seneweb.com/dynamic/modules/banners/
-||senioractu.com/photo/background-
 ||senscritique.com/img/*/desktop.jpg
 ||seriehentai.com^$popup,~third-party
 ||seriehentai.com^$script
@@ -10117,6 +10117,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.myAd
 ##.nativeads
 ##.newads
+##.nextread-advertisement
 ##.nipnadszone
 ##.node-publicite
 ##.nosub-side-ad
