@@ -989,6 +989,7 @@
 /partners/ads-
 /partners/rotator.
 /partnertag/iframe.
+/partnerzyapi.$third-party
 /path/ads/*
 /pave_PUB_
 /PBTopAds.
@@ -1999,6 +2000,7 @@ debugger:$popup
 ||ad-lead.com^$third-party
 ||ad-now.fr^$third-party
 ||ad-online.biz^$third-party
+||ad-rise.com^$third-party
 ||ad-score.com^$third-party
 ||ad.activaweb.fr^$third-party
 ||ad135m.com^$third-party
@@ -5104,6 +5106,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||123rfapis.com/crossdomain.xml
 ||154pack.com^$image,third-party
 ||1et2.org/sora/$image
+||1minuteweb.com^$subdocument,third-party
 ||3.bp.blogspot.com/*/s1600/eL97xwC.gif
 ||380.bu2z.com^
 ||380.hotpix.fr^
