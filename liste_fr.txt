@@ -6464,8 +6464,8 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 |http://$script,stylesheet,third-party,domain=onlinevideoconverter.com
 |https://$script,stylesheet,third-party,domain=onlinevideoconverter.com
 ! mp3red.me
-|http://$script,third-party,xmlhttprequest,domain=mp3red.me
-|https://$script,third-party,xmlhttprequest,domain=mp3red.me
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=mp3red.me
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=mp3red.me
 ! gamestorrents.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=gamestorrents.com
 |http://$script,third-party,xmlhttprequest,domain=gamestorrents.com
@@ -10613,6 +10613,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href*="://c.xsnap.me/"]
 ##a[href*="://duck-quack.com/"]
 ##a[href*="://goodclickads.com/"]
+##a[href*="://hilltopads.net/"]
 ##a[href*="://mobidea.com/?r="]
 ##a[href*="://ossicvr.com/"]
 ##a[href*="://popads.net/users/refer/"]
