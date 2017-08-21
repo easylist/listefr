@@ -5993,6 +5993,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||state-of-the-art-mailer.com/rfredir.php
 ||static.ccmbg.com/ops.ccmbg.com/
 ||static.fotolia.com/pics/*/banners/
+||static.keep2share.cc/images/i/
 ||static.mntzm.com^
 ||static.ox.pl/banners/
 ||static.poliris.com/zi/VgnAgences/
@@ -6156,6 +6157,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||wp.com/*/wp-content/uploads/*?resize=468%2C60
 ||wp.com/*/wp-content/uploads/*?resize=728%2C90
 ||wp.com/medialot.fr/wp-content/uploads/*?resize=300%2C38
+||wp.com/static.keep2share.cc/images/i/
 ||wtpn.twenga.com/publisher/$third-party
 ||ww1.vidzi.tv^
 ||x-flirt.co^$popup
@@ -6576,7 +6578,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 |http://$script,third-party,domain=vidoza.net
 |https://$script,third-party,domain=vidoza.net
 ! openload
-/^https?:\/\/(tt1\.|yii\.)?(oload.tv|openload.co|streamango.com|protect-iframe.com|protect-video.com)\/(.*\/)?(script\.\d{3}\.|license\.|VPAIDFlash\.|(.*\.vpaid\.)|(r3\/))(.*)/$domain=oload.tv|openload.co|streamango.com
+/^https?:\/\/(tt1\.|yii\.)?(oload.tv|openload.co|streamango.com|protect-iframe.com|protect-video.com)\/(.*\/)?(cdn-cgi\/|script\.\d{3}\.|license\.|VPAIDFlash\.|(.*\.vpaid\.)|(r3\/))(.*)/$domain=oload.tv|openload.co|streamango.com
 @@/(\/ados.js|\/license\.adbl\.js|\/popunder1\.js|\/popunder2\.js|\/script.\d{4,5}\.js)$/$script,domain=oload.tv|openload.co|streamango.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=oload.tv|openload.co|streamango.com
 oload.tv,openload.co##.vjs-modal-dialog-content
@@ -9852,6 +9854,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.advertising-box
 ##.advertising-box-full
 ##.advertising-item-bottom
+##.advertising-side
 ##.advhead
 ##.advimg46860
 ##.advimg72890
