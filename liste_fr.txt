@@ -6653,6 +6653,9 @@ oload.tv,streamango.com###videooverlay
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=putstream.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=putstream.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=putstream.com
+! streamcloud.eu
+|http://$xmlhttprequest,domain=streamcloud.eu
+|https://$xmlhttprequest,domain=streamcloud.eu
 ! wholecloud.net / auroravid.to
 @@/popups-300x250-$script,~third-party,domain=auroravid.to|wholecloud.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=auroravid.to
