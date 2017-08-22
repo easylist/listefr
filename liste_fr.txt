@@ -1209,6 +1209,7 @@
 /sdk-ads/*
 /search_caf.php?
 /secure-ads.
+/separatore-pub.
 /servepop.
 /servlet/effi.show?
 /setAds.
@@ -1498,6 +1499,7 @@ _jx.ads/
 _liens_sponsorises.
 _logic_on_ad.
 _lx.ads/
+_mobileAds|
 _nnads/$subdocument
 _pages_ad.
 _pop.php?z=
@@ -12977,7 +12979,7 @@ _blockadblock_
 !
 @@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=4downfiles.org|alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|macgames-download.com|the-night-of-streaming.eu
-@@.png#$image,domain=4downfiles.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|planet-series.co|pxstream.tv|savefile.co|softmaroc.org|stream4free.top|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
+@@.png#$image,domain=4downfiles.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|planet-series.co|pxstream.tv|radio-en-direct.fr|savefile.co|softmaroc.org|stream4free.top|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghrebspace.net|mega-exclue.com|s1.libe.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
@@ -13091,6 +13093,7 @@ trackmusik.fr#@#.afs_ads
 @@||partage-facile.com^$generichide
 @@||pasteca.sh^$generichide
 @@||planet-series.co^$generichide
+@@||radio-en-direct.fr^$generichide
 @@||replay-documentaire.com^$generichide
 @@||savefile.co^$generichide
 @@||shrink-service.it^$generichide
