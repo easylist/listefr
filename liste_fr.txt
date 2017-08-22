@@ -6316,6 +6316,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 |http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.ws
 |https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.ws
 ! yggtorrent.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=yggtorrent.com
 @@||cdn.wysibb.com^$script,domain=yggtorrent.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=yggtorrent.com
 @@||code.jquery.com^$script,domain=yggtorrent.com
