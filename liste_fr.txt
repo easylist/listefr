@@ -6665,6 +6665,7 @@ oload.tv,streamango.com###videooverlay
 @@||platform.twitter.com^$script,domain=audiofanzine.com
 |http://$script,third-party,xmlhttprequest,domain=audiofanzine.com
 |https://$script,third-party,xmlhttprequest,domain=audiofanzine.com
+||audiofanzine.com/ajax.php?module=classifieds&
 ! gorillavid.in
 @@||ajax.googleapis.com/ajax/libs/$script,domain=daclips.com|daclips.in|gorillavid.in|movpod.in
 @@||daclips.in^$stylesheet,domain=daclips.com
