@@ -6659,6 +6659,12 @@ oload.tv,streamango.com###videooverlay
 ! jheberg.net
 |http://$third-party,xmlhttprequest,domain=jheberg.net
 |https://$third-party,xmlhttprequest,domain=jheberg.net
+! audiofanzine.com
+@@||apis.google.com^$script,domain=audiofanzine.com
+@@||connect.facebook.net^$script,domain=audiofanzine.com
+@@||platform.twitter.com^$script,domain=audiofanzine.com
+|http://$script,third-party,xmlhttprequest,domain=audiofanzine.com
+|https://$script,third-party,xmlhttprequest,domain=audiofanzine.com
 ! gorillavid.in
 @@||ajax.googleapis.com/ajax/libs/$script,domain=daclips.com|daclips.in|gorillavid.in|movpod.in
 @@||daclips.in^$stylesheet,domain=daclips.com
@@ -7020,7 +7026,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||atlantico.fr/*-img/$xmlhttprequest
 ||ats.dz/img/partenaires/
 ||ats.dz/slider2.html
-||audiofanzine.com/ajax.php?module=classifieds&
 ||audioz.download/other/$script
 ||aufeminin.com/include/
 ||aufeminin.com^*%$subdocument,xmlhttprequest
@@ -11071,7 +11076,6 @@ algerianmag.com,avis-express.com###icegram_messages_container
 madstef.com###idkey1ban
 madstef.com###idkey2ban
 agevillage.com###image_partenaire
-audiofanzine.com###index-contribs-classified
 equirodi.be###index_module_pub
 omgtorrent.me###infopop
 cpasbien-cm.fr###infosficher > br + #telecharger
@@ -12258,7 +12262,7 @@ nouvelobs.com##a[href*="?partner="]
 challenges.fr,nouvelobs.com##a[href*="?partnerlinkid="]
 full-stream.su##a[href*="?txt="]
 jemangejemincis.fr##a[href*="?utm_campaign="]
-abcbourse.com,audiofanzine.com,meteofrance.com##a[href*="?utm_source="]
+abcbourse.com,meteofrance.com##a[href*="?utm_source="]
 deco-smart.com##a[href*="?utm_source=ds_shop"]
 jds.fr##a[href*="_clic.php?"]
 wawacity.ec##a[href*="adulte18"]
@@ -12456,7 +12460,6 @@ routard.com,sfr.fr##div[id^="A2dEmplacement"]
 forumconstruire.com##div[id^="bloc_discussion_"] > :first-child + div
 fan2.fr,mcm.fr,melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,meltyxtrem.fr,virginradio.fr##div[id^="container_A2_"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr##div[id^="eShowPub"]
-audiofanzine.com##div[id^="lbr"]
 pagesjaunes.fr##div[id^="push"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
@@ -12582,9 +12585,6 @@ people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 yggtorrent.com##tr > [colspan][style]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 eztv-proxy.net,eztv.ag,eztv.tf,eztv.yt##tr > td[style="border: 3px solid #C70000;"] > [id]
-audiofanzine.com##ul[style^="width:128px;"]
-audiofanzine.com##ul[style^="width:298px;"]
-audiofanzine.com##ul[style^="width:718px;"]
 ! Éléments pour generichide
 streaming-sport.tv###pub-left
 iphonesoft.fr##.pub
@@ -13165,6 +13165,7 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 ||grovesmannford.com^
 ||guindamiraloma.com^
 ||heflinsmithburg.com^
+||herrickharford.com^
 ||hillistersebree.com^
 ||hosmerhargill.com^
 ||hosted.adback.co^
@@ -13222,7 +13223,7 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 ||wilberavenel.com^
 ||yelmcherryfield.com^
 !
-?ref=$script,domain=01net.com|clubic.com|cuisineactuelle.fr|cuisineaz.com|deco.fr|football365.fr|fourchette-et-bikini.fr|lameuse.be|lanouvellegazette.be|laprovince.be|lequipe.fr|lesoir.be|letribunaldunet.fr|mercato365.com|meteocity.com|nordeclair.be|passeportsante.net|radins.com|rtl.be|rugby365.fr|sport365.fr|sportetstyle.fr|turbo.fr
+?ref=$script,domain=01net.com|audiofanzine.com|clubic.com|cuisineactuelle.fr|cuisineaz.com|deco.fr|football365.fr|fourchette-et-bikini.fr|lameuse.be|lanouvellegazette.be|laprovince.be|lequipe.fr|lesoir.be|letribunaldunet.fr|mercato365.com|meteocity.com|nordeclair.be|passeportsante.net|radins.com|rtl.be|rugby365.fr|sport365.fr|sportetstyle.fr|turbo.fr
 !
 ! Adunblock
 ||adunblock.com^$popup,third-party
