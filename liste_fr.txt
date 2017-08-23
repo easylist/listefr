@@ -730,7 +730,7 @@
 /cdn-ads-
 /cdn/affiliates/*
 /cdn/banners/*
-/cg/proxy.$domain=ecranlarge.com|manga-sanctuary.com
+/cg/proxy.$domain=ecranlarge.com
 /cgi-bin/affiliates/*
 /choixPubJS.
 /clash/ads/*
@@ -6384,6 +6384,11 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ! lirescan.net
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
+! manga-sanctuary.com
+@@||www.manga-sanctuary.com/include/$script,~third-party
+@@||www.manga-sanctuary.com/scripts/$script,~third-party
+@@||www.manga-sanctuary.com^*/assets/js/$script,~third-party
+||manga-sanctuary.com^$script,~third-party
 ! animes-mangas-ddl.net
 |http://$script,third-party,xmlhttprequest,domain=animes-mangas-ddl.net
 |https://$script,third-party,xmlhttprequest,domain=animes-mangas-ddl.net
