@@ -975,6 +975,8 @@
 /origin-ads.
 /otherads/*
 /our_all_pjs_
+/out?zoneid=
+/p?zoneid=
 /p_tools/rotation.
 /p_under.
 /packcpm.
@@ -1532,6 +1534,7 @@ _werbebanner_
 ! regex
 /\.(accountant|bid|click|club|com|cricket|date|download|faith|link|loan|lol|men|online|party|racing|review|science|site|space|stream|top|trade|webcam|website|win|xyz|com)\/(([0-9]{2,9})(\.|\/)(css)?)$/$script,stylesheet,third-party,xmlhttprequest
 /\.com\/[a-zA-Z0-9\+\/]{64,}/$image,third-party,domain=flowyourvideo.com|mystream.la|torrentfunk.com
+/\/[a-z]{1,3}\?zoneId\=\d{7}\-\d{7}$/$script
 /license\.\d{1,5}\.js$/$script,~third-party
 ! CDN filters
 /cdn-cgi/pe/bag2?*%2Fad_slideout.
@@ -2212,7 +2215,6 @@ debugger:$popup
 ||affiliwix.com^$third-party
 ||afflight.biz^$third-party
 ||affpx.com^$third-party
-||affroba.net^$third-party
 ||afftrack001.com^$third-party
 ||afgr1.com^$third-party
 ||afilio.com.br^$third-party
@@ -2579,7 +2581,6 @@ debugger:$popup
 ||globalwolk.space^$third-party
 ||gmyze.com^$third-party
 ||gob-gob-ul.com^$third-party
-||gohillgo.com^$third-party
 ||goninjaspiel.com^$third-party
 ||goodaction.com^$third-party
 ||goracash.com^$third-party
@@ -3913,10 +3914,60 @@ debugger:$popup
 ||xgdjzug2.space^
 ||xvdjwsjj.review^
 ||ymugm4x1pwehlaskticjrn9qz9t.com^
-!
+! hilltopads.net
+||adglob.asia^$third-party
+||affroba.net^$third-party
+||afvcugqaulh.co^$third-party
+||automoc.net^$third-party
+||baltchd.net^$third-party
+||blisldgsqk.com^$third-party
+||bravome.pro^$third-party
+||buonome.pro^$third-party
+||ckivxgxgqknk.com^$third-party
+||clifftopper.com^$third-party
+||coolandevencooler.com^$third-party
+||cpmgohigh.com^$third-party
+||cwkhyupiwzcjy.com^$third-party
+||deliverylizer.com^$third-party
+||dohillright.com^$third-party
+||donecooler.com^$third-party
+||explater.net^$third-party
+||fcrgzqkbtgu.co^$third-party
+||fielerac.net^$third-party
+||gohillgo.com^$third-party
+||goupandhigher.com^$third-party
+||graphli.net^$third-party
+||gxwoiiyfjiz.com^$third-party
+||hfedxxuvtjtqs.com^$third-party
+||hgjywrorlbn.com^$third-party
+||hlfjgurbaln.com^$third-party
+||hothta.com^$third-party
+||htalizer.com^$third-party
+||htamaster.com^$third-party
+||htmonster.com^$third-party
+||huccrlctmgifs.com^$third-party
+||lengthi.net^$third-party
+||motosal.net^$third-party
+||operatedelivery.com^$third-party
+||perfectome.pro^$third-party
+||personaleme.pro^$third-party
+||populatecpm.com^$third-party
 ||poterrupte.co^$third-party
+||qpernrqxjfto.com^$third-party
+||qqatllrijx.com^$third-party
+||recusticks.co^$third-party
+||reundcwkqvctq.com^$third-party
+||skyligh.co^$third-party
 ||sworatio.co^$third-party
+||temphilltop.com^$third-party
+||temphilltop.net^$third-party
 ||trobely.co^$third-party
+||unaiablmgsz.com^$third-party
+||whitud.co^$third-party
+||wicktrown.co^$third-party
+||xleebhxalb.com^$third-party
+||ywtjdckysve.com^$third-party
+||zbwttofskjnc.com^$third-party
 ! iframe
 /^https?:\/\/(?!disqus\.)([a-z]+)\.(com|info)\/([0-9a-zA-Z\+\/]){420,460}/$subdocument,third-party
 ||africal.info^$third-party
