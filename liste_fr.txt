@@ -6236,7 +6236,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||staticbhyravabhotl.red^$third-party
 ||wwwtatonnai.uk^$third-party
 ! tf1.fr
-/^((?!(^https?):\/\/www\.wat\.tv\/|(^)https:\/\/cdns\.gigya\.com\/|(^)https:\/\/ajax\.googleapis\.com\/|(^)https:\/\/widgets\.outbrain\.com\/|(^)https:\/\/connect\.facebook\.net\/|(^)https:\/\/platform\.instagram\.com\/|(^)https:\/\/platform\.twitter\.com\/|(^)https:\/\/e-cdns-files\.dzcdn\.net\/|(^)https:\/\/api\.deezer\.com\/).)*$/$media,object-subrequest,script,third-party,xmlhttprequest,domain=www.tf1.fr
+/^((?!(^)blob:https:\/\/www\.tf1\.fr\/|(^https?):\/\/www\.wat\.tv\/|(^)https:\/\/cdns\.gigya\.com\/|(^)https:\/\/ajax\.googleapis\.com\/|(^)https:\/\/widgets\.outbrain\.com\/|(^)https:\/\/connect\.facebook\.net\/|(^)https:\/\/platform\.instagram\.com\/|(^)https:\/\/platform\.twitter\.com\/|(^)https:\/\/e-cdns-files\.dzcdn\.net\/|(^)https:\/\/api\.deezer\.com\/).)*$/$media,object-subrequest,script,third-party,xmlhttprequest,domain=www.tf1.fr
 ! wat.tv
 @@||api.mytf1.tf1.fr^$object-subrequest,domain=wat.tv
 @@||hd1livhdsweblive-lh.akamaihd.net^$object-subrequest,domain=wat.tv
