@@ -1607,6 +1607,9 @@ _werbebanner_
 /cdn-cgi/pe/bag2?r*adplus.io
 /cdn-cgi/pe/bag2?r*crickwrite.com
 !
+||co^*?zoneId=
+||gdn^*&campaign_id=$third-party
+||gdn^*&impid=$third-party
 ||info/?tid=$script,third-party
 ||xyz^*?pub=*&gateid=$script
 !
@@ -1892,7 +1895,6 @@ debugger:$popup
 ||bid^*watch?key=$popup,third-party
 ||club^*?affid=*&utm_*&redirect=$popup
 ||club^*?zoneid=$popup
-||co^*?zoneId=
 ||download./*&pubid=$popup
 ||gdn^*&campaign_id=$popup
 ||gdn^*&redid=$popup
@@ -2538,6 +2540,7 @@ debugger:$popup
 ||ezpopups.com^$third-party
 ||f5biz.biz^$third-party
 ||faitdufric.com^$third-party
+||famouscertainchannel.com^$third-party
 ||fancybar.net^$third-party
 ||fas.li^$script,third-party
 ||feelupdatingperfect.info^$third-party
@@ -3373,6 +3376,7 @@ debugger:$popup
 ||zeroredirect1.com^$third-party
 ||zeybjsxy.com^$third-party
 ||zidor.info^$third-party
+||zmar.info^$third-party
 ||zwaar.net^$third-party
 ||zytpirwai.net^$third-party
 ! videoadex.com
