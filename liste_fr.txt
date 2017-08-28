@@ -2625,7 +2625,6 @@ debugger:$popup
 ||hprofits.com^$third-party
 ||hqcorn.com^$third-party
 ||hsoub.com^$third-party
-||htreatory.info^$third-party
 ||humories.info^$third-party
 ||hyperline88.com^$third-party
 ||i-promotion.net^$third-party
@@ -4003,6 +4002,7 @@ debugger:$popup
 ||citalise.com^$third-party
 ||consivenew.com^$third-party
 ||contentpap.info^$third-party
+||dalonely.com^$third-party
 ||evideorun.com^$third-party
 ||fungetbag.info^$third-party
 ||goodbookbook.com^$third-party
@@ -4044,6 +4044,9 @@ debugger:$popup
 ||whonami.info^$third-party
 ||wortparser.info^$third-party
 ||yoursinfo.info^$third-party
+! popunder
+||crisivelyt.info^$third-party
+||htreatory.info^$third-party
 ! admeasures.com
 /^https?:\/\/[a-z0-9]{5,14}\.(com|bid|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
 ||0azx1.com^$third-party
