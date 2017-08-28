@@ -9606,6 +9606,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###pubbas
 ###pubbetween
 ###pubcarre
+###pubcentrale
 ###pubcoldroite
 ###pubdetaillg
 ###pubdetaillg2
@@ -10069,6 +10070,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.column_in_pub
 ##.common-ad-styling
 ##.container-pubcarre
+##.container_pubcentrale
 ##.contenedorAds
 ##.conteneur_ligatus
 ##.conteneur_pub
@@ -11214,6 +11216,7 @@ lemonde.fr###lemonde-pub-web_partenariat
 grandecran.fr###les_pubs_locales
 orange.fr###lienComPart
 lfp.fr###lien_billeterie
+lachainemeteo.com###lig
 laprovence.com###lig_laprovence_smartbox
 degroupnews.com###link_pub
 journaldugeek.com###linkhabillage
@@ -12715,7 +12718,7 @@ femmesplus.fr,medisite.fr,planet.fr##[-abp-properties='background-image: *;']
 igen.fr,macg.co##[-abp-properties='background-image: url(*;']
 amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com##[-abp-properties='base64']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='content:*;']
-femmesplus.fr,igen.fr,medisite.fr,planet.fr##[-abp-properties='cursor: pointer;']
+femmesplus.fr,igen.fr,lachainemeteo.com,medisite.fr,planet.fr##[-abp-properties='cursor: pointer;']
 amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com,nextinpact.com,senscritique.com,seriehentai.com##[-abp-properties='data:']
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 nextinpact.com##[-abp-properties='height: 250px;']
