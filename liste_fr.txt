@@ -1897,6 +1897,7 @@ debugger:$popup
 ||club^*?zoneid=$popup
 ||download./*&pubid=$popup
 ||gdn^*&campaign_id=$popup
+||gdn^*&impid=$popup
 ||gdn^*&redid=$popup
 ||info^*==|$popup,third-party
 ||info^*watch?key=$popup,third-party
@@ -2261,7 +2262,6 @@ debugger:$popup
 ||arabyads.com^$third-party
 ||arabytracking.com^$third-party
 ||archiustube.com^$third-party
-||arrassley.info^$third-party
 ||articusun.info^$third-party
 ||aservtrack.com^$third-party
 ||asiatmessenger.com^$third-party
@@ -4007,6 +4007,7 @@ debugger:$popup
 ||evideorun.com^$third-party
 ||fungetbag.info^$third-party
 ||goodbookbook.com^$third-party
+||grailwayse.com^$third-party
 ||greatedo.com^$third-party
 ||greatwork.info^$third-party
 ||grumbsun.info^$third-party
@@ -4046,6 +4047,7 @@ debugger:$popup
 ||wortparser.info^$third-party
 ||yoursinfo.info^$third-party
 ! popunder
+||arrassley.info^$third-party
 ||crisivelyt.info^$third-party
 ||htreatory.info^$third-party
 ! admeasures.com
