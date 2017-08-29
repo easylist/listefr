@@ -5831,7 +5831,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||mottodistribution.com^*/placeholder/
 ||movietrailer.click^$subdocument
 ||mozoo.go2cloud.org^
-||msecnd.net/jeuxcom-carousel/
+||msecnd.net^$domain=jeux.com
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
 ||mwzip.com/banner.
 ||my24hourincome.com/img/banners/$third-party
@@ -9345,6 +9345,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###divPub
 ###divPublicityLateral
 ###div_banniere_pub
+###div_for_adnplay
 ###div_invideo_ad
 ###div_pub_google
 ###eShowPubTop
@@ -11119,7 +11120,6 @@ direct-torrents.com###derperd-ad
 datpiff.com###disqus_thread > div
 kissanime.com###divFloatLeft
 kissanime.com###divFloatRight
-jeux.com###div_for_adnplay
 lien-torrent.com###dllinks > script + a[href][target="_blank"]
 boursier.com###doc-partenaires
 images-et-cadres.com,images-et-cadres.fr###dogear
