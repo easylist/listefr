@@ -64,6 +64,7 @@
 &promo_sizes=
 &pub_redirect=
 &pubsite=
+&redir_tool=*&size=
 &subpartenaire=
 &tid=*&pid=*&status=*&v=
 &videoAdHtmlId=
@@ -310,6 +311,7 @@
 /a.php?mode=*&pgid=$script
 /a.php?t=*&pgid=*&rebill=
 /a4u_pu.js
+/a4u_pu_timer.js
 /acad.$script
 /acceptable.*/async|$domain=~millenium.org
 /accrochePub300.
@@ -602,6 +604,7 @@
 /apu.php?id=
 /arabyads.
 /article/ads/*
+/ashot.js
 /async?*&tid=
 /autopromo.*/async|$domain=~jeuxvideo.com
 /autopromotion.*/async|
@@ -1377,6 +1380,7 @@
 ://sync.adaptv.
 ://syndication.$third-party
 ://tn.ads.
+://tool.*/banner/
 ://vykingad.
 ;advId=
 ;pubId=*;placementId=
@@ -2014,6 +2018,7 @@ debugger:$popup
 ||abporn.com^$third-party
 ||acads.net^$third-party
 ||acces-charme.com^$third-party
+||acces-pills.com^$third-party
 ||accesporno.com^$third-party
 ||acdcads.com^$third-party
 ||acdcadz.com^$third-party
@@ -4986,6 +4991,7 @@ debugger:$popup
 ||replacescript.in^$popup,third-party
 ||reporo.net^$popup,third-party
 ||respecials.com^$popup,third-party
+||restoring.club^$popup,third-party
 ||retargetads.net^$popup,third-party
 ||rev2pub.com^$popup,third-party
 ||revenuehits.com^$popup,third-party
