@@ -6497,11 +6497,6 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ! lirescan.net
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
-! manga-sanctuary.com
-@@||www.manga-sanctuary.com/include/$script,~third-party
-@@||www.manga-sanctuary.com/scripts/$script,~third-party
-@@||www.manga-sanctuary.com^*/assets/js/$script,~third-party
-||manga-sanctuary.com^$script,~third-party
 ! animes-mangas-ddl.net
 |http://$script,third-party,xmlhttprequest,domain=animes-mangas-ddl.net
 |https://$script,third-party,xmlhttprequest,domain=animes-mangas-ddl.net
@@ -8008,6 +8003,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||mameworld.info/net/pics/da.gif
 ||mamytwink.com^*/images/partenaires/
 ||manager-online.fr/images/sidebar/
+||manga-sanctuary.com/cg/
 ||manga-streaming.fr/hentai.gif
 ||manifone.com/banner/
 ||mappy.com/*/files/campaigns/
