@@ -900,6 +900,7 @@
 /img/vda_
 /imgs/adv/*
 /in-ad_desktop/*
+/in_ad_new.
 /include/partenaires.
 /index.php/tag/iframe/*
 /infopop-optimise-
@@ -1705,6 +1706,7 @@ _werbebanner_
 /ads/pops/$popup
 /ads2.php$popup
 /ads?*=|$popup
+/ads?ad_$popup
 /ads?key=$popup
 /ads?spot_id=$popup
 /ads_$popup
@@ -1853,6 +1855,7 @@ _werbebanner_
 ?action=linkpub&$popup
 ?ad=*&affId=$popup
 ?ad=*&zone=$popup
+?ad_domain=$popup
 ?adCampaign=$popup
 ?adslotid=$popup
 ?adTagId=$popup
@@ -8423,6 +8426,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||sky-animes.com/pubs/
 ||sky-animes.com/scripts/liens.php
 ||slideplayer.*/*/*/|$image
+||smartorrent.net/lien-direct.png
 ||snowsurf.com/media/habillage/
 ||societe.com/cgi-bin/coalesce?
 ||societegenerale.fr^*/Habillage/
