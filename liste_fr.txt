@@ -4032,6 +4032,7 @@ debugger:$popup
 ||hospites.com^$third-party
 ||humption.com^$third-party
 ||infobizyours.info^$third-party
+||lanetool.info^$third-party
 ||leversions.info^$third-party
 ||linqallgood.net^$third-party
 ||litalise.com^$third-party
@@ -4068,6 +4069,7 @@ debugger:$popup
 ||crisivelyt.info^$third-party
 ||fexperies.info^$third-party
 ||htreatory.info^$third-party
+||mationse.info^$third-party
 ||upwritish.info^$third-party
 ! admeasures.com
 /^https?:\/\/[a-z0-9]{5,14}\.(com|bid|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
@@ -10763,6 +10765,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href*="/adclick."]
 ##a[href*="/ads.php?ref="]
 ##a[href*="/ads/ad_link."]
+##a[href*="/ads?key="]
 ##a[href*="/adserver/iframe?"]
 ##a[href*="/adsrvmedia."]
 ##a[href*="/adstract."]
@@ -10917,6 +10920,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href^="http://www.pubdirecte.com/script/"]
 ##a[href^="http://www.questiondivine.com/?ctid="]
 ##a[href^="http://www.sexgangsters.com/?"]
+##a[href^="http://www.shglegle.com/"]
 ##a[href^="http://www.tradeadexchange.com/"]
 ##a[href^="http://www.vipromoffers.com/"]
 ##a[href^="http://www.xl415.com/"]
