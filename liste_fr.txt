@@ -1415,6 +1415,7 @@
 ?adroll_adv_id=
 ?adSelector=
 ?adspot_
+?advert_type=
 ?advplaces=
 ?aff=*&roll=
 ?aff=*&size=
@@ -10109,6 +10110,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.bloc_pub_header
 ##.bloc_pub_left
 ##.bloc_rightcol_pub
+##.block-artwhere-ads
 ##.block-cPublicite
 ##.block-gc-ad
 ##.block-pub
@@ -10262,6 +10264,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.iklan
 ##.iklan1
 ##.iklan2
+##.in_up_ad-area
 ##.inpage-adspace
 ##.insert_pub_center
 ##.inside_adv_section
