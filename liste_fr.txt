@@ -7389,7 +7389,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||depechedekabylie.com/files.php?file=banners/
 ||depechedekabylie.com/files.php?file=pub/
 ||depechedekabylie.com/themes/ddk/img/pub_
-||dev8.batiactu.com^
 ||developpez.com/show_i.php
 ||developpez.com/template/offres.php?
 ||developpez.net/forums/anooffresdvp.php?
@@ -9791,6 +9790,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###wrapper_inread
 ###zone_pub
 ###zone_pub1
+###zone_pub2
 ##.ADS-cont
 ##.Ad--970x90
 ##.AdsA
@@ -10296,6 +10296,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.logo_pub
 ##.ltas_adspot
 ##.mailPubHeader
+##.map_fond_pub
 ##.marketing-container
 ##.masthead-overHeader
 ##.mb_video_syncad
@@ -11964,8 +11965,6 @@ caradisiac.com##.logosPartenaires
 cdiscount.com##.lpTradeRegie
 marmiton.org##.m_amazon_product_bloc
 planet-series.co##.maincont a > img
-maisonapart.com##.map_fond_pub
-maisonapart.com##.map_pdp_pub
 parlonspiscine.com##.margin_bottom[style="padding:5px;border:1px solid #8F8F8F;border-radius:5px 0px 5px 0px;box-shadow: 0px 0px 10px #000000;"]
 aujourdhui-en-france.fr,leparisien.fr##.marketingParisien
 driverscloud.com##.mcdescresumepub
@@ -12654,6 +12653,8 @@ msn.com##div[data-module-id*=".shopping."]
 e-monsite.com##div[data-role="sp"]
 e-monsite.com##div[data-role="sp2"]
 allocine.fr##div[data-w="clickCommand"]
+maisonapart.com##div[id*="-pub-"]
+maisonapart.com##div[id*="-publi-"]
 notebookcheck.biz##div[id] + div[class] > img:first-child
 voyageforum.com##div[id][style="width: 850px; height: 127px; overflow: hidden; vertical-align: top;"]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
