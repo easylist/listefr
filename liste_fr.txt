@@ -4085,6 +4085,7 @@ debugger:$popup
 ||fexperies.info^$third-party
 ||htreatory.info^$third-party
 ||mationse.info^$third-party
+||plaqueousi.info^$third-party
 ||upwritish.info^$third-party
 ! admeasures.com
 /^https?:\/\/[a-z0-9]{5,14}\.(com|bid|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
@@ -10969,6 +10970,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href^="http://yotefiles.com/"]
 ##a[href^="https://ad.apps.fm/"]
 ##a[href^="https://admin.thrixxx.com/affiliates/"]
+##a[href^="https://bestapppro.com/"]
 ##a[href^="https://blockadz.com/?"]
 ##a[href^="https://chaturbate.com/affiliates/"]
 ##a[href^="https://ouicesoir.com/"]
@@ -11844,7 +11846,7 @@ lemonde.fr##.dfp_slot
 dailymotion.com##.dm_widget_advert_iabrighttitle
 torrentz2.eu,torrentz2.me##.downlinks > div + h2 + dl > dt
 thepiratebay.org##.download + [style] > a[target="_blank"]
-torrent9.cc,torrent9.top,torrents9.org,torrents9.tv##.download-btn + [class]
+torrent9.cc,torrent9.top,torrents9.org,torrents9.tv##.download-btn + .download-btn + .download-btn > a
 oujdacity.net,passion-net.fr##.ebuzzing_box
 tsa-algerie.com##.ekk-footer-ad-wrapper
 batiactu.com##.emploi
