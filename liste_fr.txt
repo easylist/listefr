@@ -12910,14 +12910,17 @@ $subdocument,~third-party,domain=football365.fr|mercato365.com|rugby365.fr|sport
 $popup,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 .gif$image,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 /template/images/prom/*$domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
-/template/images/publ/*$domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
+/template/images/pub$domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 @@||ajax.googleapis.com/ajax/libs/$script,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 @@||maps.google.com^$script,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 @@||maps.googleapis.com^$script,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 heures.be,hours.be,openingstijdengids.nl,openingsurengids.be###contentCntr + [id]
 heures.be,hours.be,openingstijdengids.nl,openingsurengids.be###leftCntr > div + [class]
 heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##.day > [class]
+heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##.slide
 heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##[class^="ad"]
+heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##[class^="prom"]
+heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##[class^="pub"]
 heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 |http://$script,third-party,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 |https://$script,third-party,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
