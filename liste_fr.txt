@@ -1789,6 +1789,7 @@ _werbebanner_
 /popunderoncl.$popup
 /popupclick/*$popup
 /popuplp/btag/*$popup
+/promo.php?compte=*&idealsite=$popup
 /promoRedirect?$popup
 /promos/popeachclick/*$popup
 /proxy.php?*/site_id/*$popup
@@ -2431,6 +2432,7 @@ debugger:$popup
 ||comoclic.com^$third-party
 ||comoclic.net^$third-party
 ||compazenad.com^$third-party
+||compteurdevisite.com^$third-party
 ||conduit.com^$third-party
 ||confectionner.xyz^$third-party
 ||congruityheterocephalus.info^$third-party
@@ -2580,6 +2582,7 @@ debugger:$popup
 ||forevermelodicheidegger.info^$third-party
 ||foxserie.com^$script,third-party
 ||franecki.net^$third-party
+||freecounterstat.ovh^$third-party
 ||frtyi.com^$third-party
 ||fullon.tv^$third-party
 ||fullscreens.fr^$third-party
@@ -4488,6 +4491,7 @@ debugger:$popup
 ||138.68.82.192^$popup,third-party
 ||162.210.198.134^$popup,third-party
 ||162.243.87.218^$popup,third-party
+||164.132.171.89^$popup,third-party
 ||188.165.253.6^$popup,third-party
 ||194.88.104.61^$popup,third-party
 ||19950501.com^$popup,third-party
@@ -4510,6 +4514,7 @@ debugger:$popup
 ||46.101.101.204^$popup,third-party
 ||46.101.125.$popup,third-party
 ||46.101.139.152^$popup,third-party
+||5.39.67.191^$popup,third-party
 ||52.51.50.245^$popup,third-party
 ||54.200.58.62^$popup,third-party
 ||5b15a826.xyz^$popup,third-party
@@ -4521,6 +4526,7 @@ debugger:$popup
 ||85.170.167.205^$popup,third-party
 ||8mm.shiksha^$popup,third-party
 ||91.210.165.104^$popup,third-party
+||94.23.210.144^$popup,third-party
 ||99meta.com^$popup,third-party
 ||a2g-secure.com^$popup,third-party
 ||a2gw.com^$popup,third-party
