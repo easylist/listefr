@@ -1227,6 +1227,7 @@
 /scripts/sweet/?js=*&$script,third-party
 /sdk-ads.
 /sdk-ads/*
+/search?sponsor=$subdocument
 /search_caf.php?
 /secure-ads.
 /separatore-pub.
@@ -1787,6 +1788,7 @@ _werbebanner_
 /pops.regie.$popup
 /pops/*?ad=$popup
 /popunderoncl.$popup
+/popup?sponsor=$popup
 /popupclick/*$popup
 /popuplp/btag/*$popup
 /promo.php?compte=*&idealsite=$popup
