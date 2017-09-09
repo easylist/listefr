@@ -162,6 +162,7 @@
 .adtech.
 .adv?*_id=
 .adv?id=
+.advertica-
 .adxcore.
 .AmazonProducts.js
 .asp?adv=
@@ -558,6 +559,7 @@
 /adver_imgs/*
 /advert-serv.
 /advert/rota-
+/advertica-
 /advertisement?
 /advertiserv/*
 /advertiserv2/*
@@ -2214,6 +2216,7 @@ debugger:$popup
 ||adverteasy.fr^$third-party
 ||adverti.fr^$third-party
 ||adverti.io^$third-party
+||advertica-cdn.com^$third-party
 ||advertica.ae^$third-party
 ||advertine.com^$third-party
 ||advertizementserving.com^$third-party
@@ -3377,6 +3380,7 @@ debugger:$popup
 ||y86qs9ct.xyz^$third-party
 ||yban.fr^$third-party
 ||yku0xk97.site^$third-party
+||yllix.com^$third-party
 ||ylx-1.com^$third-party
 ||ylx-2.com^$third-party
 ||ylx-3.com^$third-party
@@ -4954,6 +4958,7 @@ debugger:$popup
 ||nextlandingads.com^$popup,third-party
 ||no-hide.com^$popup,third-party
 ||npmpecd.com^$popup,third-party
+||nurno.com^$popup,third-party
 ||occasic.com^$popup,third-party
 ||oclasrv.com^$popup,third-party
 ||offergo.net^$popup,third-party
@@ -10895,7 +10900,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href*="://www.ducksnetwork.com/"]
 ##a[href*="://www.duckssolutions.com/"]
 ##a[href*="://www.hentaiheroes.com/"]
-##a[href*="://yllix.com/publishers/"]
+##a[href*="://yllix.com/"]
 ##a[href*="=INSERT_RANDOM_NUMBER_HERE&"]
 ##a[href*="?ad_id="]
 ##a[href*="_728x90_bleach_adb"]
