@@ -12505,7 +12505,7 @@ movietube.live##a > img[src$=".gif"]
 dragon-ball-super-streaming.com,streaming-boruto.com,streaming-dragon-ball-super.com##a > img[src*=".gif"]
 fourchette-et-bikini.fr##a > img[style="width: 660px; height: 190px;"]
 israelmagazine.co.il##a > img[width="238"]
-zone-telechargement.ws##a > span
+zone-telechargement.ws##a > span > img
 cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
