@@ -5484,8 +5484,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||call-of-passion.com/banner/
 ||camgasm.com/affiliates/
 ||camtempel.com/banner/
-||canalflux.net/canalflux.php
-||canalflux.net/dailyvid.php
+||canalflux.net^$subdocument,third-party
 ||canaljeuvideo.com/var/storage/habillages/
 ||canalseduction.com/Bannieres/
 ||cashtravel.info/banners/
@@ -6212,6 +6211,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||streaminger.tv/ad*.
 ||streaminghd.fr/wp-content/uploads/$third-party
 ||sublinet.com/www/public/images/*/72890_$third-party
+||submanga.com/s/nnj.js
 ||suelaba.net^*/banners/
 ||surf-malin.net^*/upload/bannieres/
 ||surf-report-shop.com^$popup,domain=surf-report.com
@@ -6347,6 +6347,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||webstar-auto.com/iframe.php?$third-party
 ||webstars.fr/services/webstars.php?
 ||webutation.net/js/load_badge.js
+||webzer.org^$subdocument,third-party
 ||weedoit.fr/tracking/partenaire/$third-party
 ||westernunion.fr^*/Home.page?src=netAffiliation&$popup
 ||widget.achetezfacile.com^$third-party
@@ -6603,10 +6604,14 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 |https://$script,third-party,domain=pokemon-streaming.com
 ! dragon-ball-super-streaming.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
-|http://$script,stylesheet,third-party,xmlhttprequest,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
-|https://$script,stylesheet,third-party,xmlhttprequest,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
-||canalflux.net^$domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
-||dailymotion.com^$domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
+@@||openload.co/embed/$subdocument,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
+@@||rutube.ru/play/embed/$subdocument,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
+@@||sendvid.com/embed/$subdocument,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
+@@||stream.moe/embed2/$subdocument,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
+@@||tune.pk/player/embed_player.php?vid=$subdocument,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
+@@||www.iframe-secure.com/embed/$subdocument,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
+|http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
+|https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
 ! mavanime.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=mavanime.com
 |http://$script,third-party,domain=mavanime.com
