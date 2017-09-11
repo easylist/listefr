@@ -6508,11 +6508,11 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 |http://$script,third-party,domain=cocostreaming.com
 |httpd://$script,third-party,domain=cocostreaming.com
 ! torrent9.tv
-/cdn-cgi/*$domain=cpabien.ch|cpabien.co|cpabien.tv|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
-@@||ajax.googleapis.com/ajax/libs/$script,domain=cpabien.ch|cpabien.co|cpabien.tv|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.top|torrents9.org
-@@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=cpabien.ch|cpabien.co|cpabien.tv|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.top|torrents9.org
-|http://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.tv|cpabien.xyz|cpasbien.io|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
-|https://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.tv|cpabien.xyz|cpasbien.io|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
+/cdn-cgi/*$domain=cpabien.ch|cpabien.co|cpabien.tv|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.pe|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
+@@||ajax.googleapis.com/ajax/libs/$script,domain=cpabien.ch|cpabien.co|cpabien.tv|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.pe|torrent9.top|torrents9.org
+@@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=cpabien.ch|cpabien.co|cpabien.tv|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.pe|torrent9.top|torrents9.org
+|http://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.tv|cpabien.xyz|cpasbien.io|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.pe|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
+|https://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.tv|cpabien.xyz|cpasbien.io|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.pe|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.tv
 ! nextorrent.net
 |http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.ws
 |https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.ws
@@ -11928,7 +11928,7 @@ lemonde.fr##.dfp_slot
 dailymotion.com##.dm_widget_advert_iabrighttitle
 torrentz2.eu,torrentz2.me##.downlinks > div + h2 + dl > dt
 thepiratebay.org##.download + [style] > a[target="_blank"]
-torrent9.cc,torrent9.top,torrents9.org,torrents9.tv##.download-btn + .download-btn + .download-btn > a
+torrent9.cc,torrent9.pe,torrent9.top,torrents9.org,torrents9.tv##.download-btn + .download-btn + .download-btn > a
 oujdacity.net,passion-net.fr##.ebuzzing_box
 tsa-algerie.com##.ekk-footer-ad-wrapper
 batiactu.com##.emploi
@@ -12517,12 +12517,12 @@ telechargementz.tv##a[href$="/"] > img
 thebadbuzz.com##a[href$="/boost.php"]
 sites-torrent.com##a[href$="/seedbox"]
 opensubtitles.org##a[href$="=="][rel="nofollow"]
-torrent9.cc,torrent9.top,torrents9.org,torrents9.tv##a[href*=" "]
+torrent9.cc,torrent9.pe,torrent9.top,torrents9.org,torrents9.tv##a[href*=" "]
 sante-nutrition.org##a[href*="&pos="]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 3dnatives.com,lesimprimantes3d.fr##a[href*="&utm_"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
-go4up.com,torrent9.cc,torrent9.top,torrents9.org,torrents9.tv##a[href*="+"]
+go4up.com,torrent9.cc,torrent9.pe,torrent9.top,torrents9.org,torrents9.tv##a[href*="+"]
 telechargement-film.org##a[href*="-film-"]
 9divx.org,likeur.org##a[href*="-vip.html"]
 9divx.org,ebooks9.fr,films-telecharger.eu,francais-gratuite.fr,frmovies.me,frstreaming.info,frtorrent.fr,jetelecharger1.fr,likeur.org,planet-series.co,seriestreaming.net,streamingseries.info,telechargementz.tv,wawa-clubz.fr,wawacity.ec##a[href*=".php"]
@@ -12580,7 +12580,7 @@ dl-serie.com##a[href*="http://www.dl-serie.blogspot.com/2007/01/comment-gagner-d
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 jemangejemincis.fr##a[href*="leadpages.co/"]
 beaute-test.com,canalplus.fr,cotemaison.fr,magicmaman.com,sports.fr##a[href*="smartadserver.com/call/cliccommand/"]
-torrent9.cc,torrent9.top,torrents9.org,torrents9.tv##a[href*="torrent9.me/"]
+torrent9.cc,torrent9.pe,torrent9.top,torrents9.org,torrents9.tv##a[href*="torrent9.me/"]
 lucariostream.eu##a[href*="univers-saiyan.com/"]
 nouvelobs.com##a[href*="www.leguide.com/"]
 dpstream.to,quedustreaming.com,streaming-series.to##a[href*="xmediaserve"]
