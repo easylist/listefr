@@ -1332,6 +1332,7 @@
 /wp-totemtools/*
 /wpxtube/*
 /wtop_bannieres/*$third-party
+/xads/publisher_
 /xbanniere-pub-
 /XnewadsX/*
 /xpopunder/*
@@ -2576,6 +2577,7 @@ debugger:$popup
 ||faitdufric.com^$third-party
 ||famouscertainchannel.com^$third-party
 ||fancybar.net^$third-party
+||fanowebconsole.com^$third-party
 ||feelupdatingperfect.info^$third-party
 ||fellent.eu^$third-party
 ||fhserve.com^$third-party
@@ -5464,6 +5466,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||bourbonvoyages.fr^$subdocument,third-party
 ||bourgogne-restaurants.com/a_decouvrir_resto_$third-party
 ||boutique.aero/images/block_pub_
+||boutiqueattraction.fanowebconsole.com^
 ||box10.com^*?utm_source=$popup
 ||brainer.cc^*?PCTX=$popup
 ||brfiles.com/static/pub/
@@ -10803,6 +10806,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.wrap-pub
 ##.wrapper-header-ad-slot
 ##.wrapperPub
+##.xads-wrappe
 ##.xadv-invid
 ##.xadv-invid2
 ##.yourcolor-ads
