@@ -7149,6 +7149,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||afcdn.com^*/smart_recovery.js
 ||affaires-dz.com/images/banners/
 ||affination.com^*/banners/$third-party
+||africaguinee.com/nds/banners/
+||africaguinee.com/sites/default/files/banniere_
 ||africanmanager.com/oad/
 ||afrik-cuisine.com^*-partenaires.
 ||afromeet.com/img/ban_
@@ -10788,6 +10790,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.videoOverAd300snd
 ##.videoOverAdBig
 ##.videoOverAdSmall
+##.view-ads-sidebar-block
+##.view-id-ads_sidebar_block
 ##.vjs-onceux-ad-container
 ##.vud_ads
 ##.wads-script
@@ -11057,14 +11061,22 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[onclick*="FriendlyDuck.com"]
 ##a[onclick^="CustomWLAdServer."]
 ##a[target="_blank"][href*="/buy-vpn?"] > img
+##div[class*="view-ads-header-"]
+##div[class*="view-id-ads_header_"]
+##div[class*="view-id-ads_sidebar_"]
 ##div[class^="ad_200_"]
 ##div[class^="ad_468_"]
 ##div[id$="textAdsBox"]
+##div[id*="_div_ads_header_"]
+##div[id*="_main_ads_header_"]
+##div[id*="_section_ads_header_"]
 ##div[id^="M"][id*="Composite"]
 ##div[id^="PostAd"]
 ##div[id^="adsatlas-"]
 ##div[id^="betAds"]
 ##div[id^="block-dfp-728-"]
+##div[id^="block-views-ads-header-"]
+##div[id^="block-views-ads-sidebar-"]
 ##div[id^="crt-"][style*="width:"]
 ##div[id^="div-adt-"]
 ##div[id^="pub-dfp-"]
