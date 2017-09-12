@@ -2947,6 +2947,7 @@ debugger:$popup
 ||ovnet.fr^$third-party
 ||ovnet.net^$third-party
 ||oxiads.fr^$third-party
+||pafpaf.com^$third-party
 ||palfad.com^$third-party
 ||palocalworld.info^$third-party
 ||pandad.eu^$third-party
@@ -5000,6 +5001,7 @@ debugger:$popup
 ||ouaitupeuxregarderenillimite.com^$popup,third-party
 ||oxhax.com^$popup,third-party
 ||paclitor.com^$popup,third-party
+||pafpaf.com^$popup,third-party
 ||partagedefichiers.com^$popup,third-party
 ||pathere.info^$popup,third-party
 ||pdn-1.com^$popup,third-party
@@ -8310,8 +8312,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||oujdacity.net/kelkoo*.html
 ||outils-web.com/frm_menu_
 ||ovnis-direct.com/_media/img/medium/*banner-
-||pafpaf.com/pubs/
-||pafpaf.com/pubs/$popup
 ||pagesjaunes-dz.com/pub/
 ||pagesjaunes.fr/js/pj_ad.js
 ||pagesjaunes.fr^*pub#position=
@@ -9947,7 +9947,9 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.ad46860
 ##.ad728b
 ##.ad730
+##.ad730x90
 ##.ad970-wrapper
+##.adBlocTop
 ##.adBottom
 ##.adDisplay
 ##.adFootBox
@@ -11694,7 +11696,6 @@ courrierinternational.com,directvelo.com,dna.fr,e-sante.fr,fabriquer-des-meubles
 midilibre.fr,sudouest.fr##.ad-box
 turfomania.fr##.ad1
 vinyculture.com##.ad2
-pafpaf.com##.adBlocTop
 lastminute.com,t-algerie.com##.adContainer
 fusac.fr##.adblock
 msn.com##.adcontainer
