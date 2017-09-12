@@ -1098,6 +1098,7 @@
 /pub/*-300x250.
 /pub/*-300x600/*
 /pub/*/1000x90.
+/pub/*/120600.
 /pub/*/300_300_
 /pub/*/ad.
 /pub/*/ads.
@@ -2318,6 +2319,7 @@ debugger:$popup
 ||backclick.net^$third-party
 ||badibadou.eu^$third-party
 ||bakelitestationarityspouse.info^$third-party
+||banizi.com^$third-party
 ||banstex.com^$third-party
 ||baseandco.com^$third-party
 ||bayard-pub.com^$third-party
@@ -5635,6 +5637,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||eurosportbet.loa24.com^$domain=eurosport.fr
 ||evolucare.com/bannieres/
 ||exceluser.com/images/info/pub/
+||exchange.pbem.fr^
 ||exoner.com^$subdocument,third-party
 ||facebook.net/*/sdk.js$script,domain=lexpress.fr
 ||faireunlien.com/ful468.
@@ -5774,6 +5777,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||jememontre.com/images/banners/
 ||jeodrive.com^$popup,domain=jheberg.net
 ||jetm-tech.net^*/img/pub.
+||jeu-gratuit.net/images/bannieres/
 ||jeu-gratuit.net/mg/
 ||jeux-flash-gratis.com/pics/$domain=la-musique-rai.com
 ||jeux-flash.jeu-gratuit.net^$third-party
@@ -5984,6 +5988,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||paradise-barre.com/bannieres/
 ||paraisowebcam.com^$subdocument,third-party
 ||parlonspiscine.com/img/pubs/
+||partenaires.feerik.com^$third-party
 ||partner-ts.groupon.fr^
 ||partner.leguide.com^
 ||partners.cmptch.com^
