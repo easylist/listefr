@@ -4129,6 +4129,7 @@ debugger:$popup
 ||mationse.info^$third-party
 ||plaqueousi.info^$third-party
 ||upwritish.info^$third-party
+||vinfrase.info^$third-party
 ! admeasures.com
 /^https?:\/\/[a-z0-9]{5,14}\.(com|bid|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
 ||0azx1.com^$third-party
@@ -6490,8 +6491,8 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ! voirfilms.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=voirfilms.info
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=voirfilms.info
-|http://$script,third-party,xmlhttprequest,domain=voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.info|voirfilms.net|voirfilms.org|voirfilms.tv
-|https://$script,third-party,xmlhttprequest,domain=voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.info|voirfilms.net|voirfilms.org|voirfilms.tv
+|http://$image,ping,popup,script,third-party,xmlhttprequest,domain=voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.info|voirfilms.net|voirfilms.org|voirfilms.tv
+|https://$image,ping,popup,script,third-party,xmlhttprequest,domain=voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.info|voirfilms.net|voirfilms.org|voirfilms.tv
 ! filmsvostfr.xyz
 @@||ajax.googleapis.com/ajax/libs/$script,domain=filmsvostfr.xyz
 |http://$script,third-party,domain=filmsvostfr.xyz
@@ -9085,6 +9086,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||d3rmeear8e0ybo.cloudfront.net^
 ||d3t9nyds4ufoqz.cloudfront.net^
 ||d3tivku5hdr7jk.cloudfront.net^
+||d3u5zn5k9864p0.cloudfront.net^
 ||d3us2i0tqwa7m7.cloudfront.net^
 ||d3vt0rqt08ph1x.cloudfront.net^
 ||d42tbok7l2bg1.cloudfront.net^
