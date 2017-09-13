@@ -6526,13 +6526,6 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ! nextorrent.net
 |http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.ws
 |https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.ws
-! yggtorrent.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=yggtorrent.com
-@@||cdn.wysibb.com^$script,domain=yggtorrent.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=yggtorrent.com
-@@||code.jquery.com^$script,domain=yggtorrent.com
-|http://$script,third-party,xmlhttprequest,domain=yggtorrent.com
-|https://$script,third-party,xmlhttprequest,domain=yggtorrent.com
 ! torrentfunk.com
 |http://$ping,script,subdocument,third-party,xmlhttprequest,domain=torrentfunk.com
 |https://$ping,script,subdocument,third-party,xmlhttprequest,domain=torrentfunk.com
@@ -11642,7 +11635,6 @@ elmoudjahid.com###topads
 mac4ever.com###topappWidget
 algeriepatriotique.com###topbanner_wrapper
 as-salat.com,forumbismillah.com,freepik.com,streamxd.com###topbar
-yggtorrent.com###torrent_id + * [width] + td > a
 yggtorrent.com###torrent_id + * font
 playerhd1.pw###total_banner
 embed.tune.pk###tpkp-toolbar
@@ -12566,15 +12558,12 @@ ddl-island.su,emule-island.ru,stream-island.su##a[href*="/xxx/"]
 rtl.be##a[href*="://ad.doubleclick.net/"]
 comment-supprimer.com,igen.fr,leparking.fr,macg.co,needsandmoods.com,refurbgeneration.com,sosiphone.com,watchgeneration.fr##a[href*="://ad.zanox.com/"]
 ddl-island.su,emule-island.ru,stream-island.ru,stream-island.su##a[href*="://ads."]
-filmhdstream.net,internetparsatellite.net,lebonfap.com,letagparfait.com,pixhost.org,rockfile.eu,streaminghd.fr,telesatellite.com,yggtorrent.com##a[href*="://bit.ly/"]
+filmhdstream.net,internetparsatellite.net,lebonfap.com,letagparfait.com,pixhost.org,rockfile.eu,streaminghd.fr,telesatellite.com##a[href*="://bit.ly/"]
 clubic.com,cnetfrance.fr##a[href*="://click.linksynergy.com/"]
-abidjan.net,algerie-focus.com,algerie360.com,direct-torrents.com,dpstreaming.watch,dragon-ball-super-streaming.com,extratorrents.ch,gum-gum-streaming.com,igen.fr,israelmagazine.co.il,journaldumusulman.fr,limetorrents.cc,lnc.nc,macg.co,mangastreaming.fr,orientation-chabab.com,proxylistpro.com,streaming-boruto.com,streaming-dragon-ball-super.com,tendancehotellerie.fr,watchgeneration.fr,yggtorrent.com##a[href*="://goo.gl/"]
-yggtorrent.com##a[href*="://is.gd/"]
+abidjan.net,algerie-focus.com,algerie360.com,direct-torrents.com,dpstreaming.watch,dragon-ball-super-streaming.com,extratorrents.ch,gum-gum-streaming.com,igen.fr,israelmagazine.co.il,journaldumusulman.fr,limetorrents.cc,lnc.nc,macg.co,mangastreaming.fr,orientation-chabab.com,proxylistpro.com,streaming-boruto.com,streaming-dragon-ball-super.com,tendancehotellerie.fr,watchgeneration.fr##a[href*="://goo.gl/"]
 dpstream.net##a[href*="://plarium.com/"]
 amateur2sexe.fr,pornovore.fr##a[href*="://pqr."]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
-yggtorrent.com##a[href*="://tiny.cc/"]
-yggtorrent.com##a[href*="://tinyurl.com/"]
 jeuxetcompagnie.fr##a[href*="://www.ludeek.com/"] > img
 voyageforum.com##a[href*=";text_ad="]
 filmzenstream.com##a[href*="="]
@@ -12907,8 +12896,6 @@ depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
 miss34.com##td[style="height:99px; vertical-align:top; background:#ffffff"]
 people-looks.com##td[width="340"][height="265"][align="center"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
-yggtorrent.com##td[width] + * > a[class]
-yggtorrent.com##tr > [colspan][style]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 eztv-proxy.net,eztv.ag,eztv.tf,eztv.yt##tr > td[style="border: 3px solid #C70000;"] > [id]
 ! Éléments pour generichide
