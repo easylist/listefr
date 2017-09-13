@@ -1369,6 +1369,7 @@
 ://click.*/get_camp.
 ://crm4d.$third-party
 ://dc.ads.
+://delivery.*/b.php?
 ://dz.ads.
 ://eacash.
 ://eg.ads.
@@ -5951,6 +5952,7 @@ $subdocument,third-party,domain=e-wok.tv|flashx.tv|gomovies.co|gomovies.es|letwa
 ||netmediaeurope.fr/images/btn_
 ||netu.tv/*.php?*&title=
 ||netu.tv/152.html
+||new-game-apk.com/wp-content/uploads/*.gif
 ||njuko.com/oo/droite.html
 ||nolake.com^$popup,domain=animalcrossing-online.com
 ||noogle.fr/banner/
@@ -8499,6 +8501,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||sexe-clip.com/infopop/
 ||sexe-i.com^$script,third-party
 ||sexe2q.com^$script
+||sexeautop.com/js/tube.js
+||sexeautop.com^$popup,~third-party
 ||sexecine.com/data/$image
 ||sexecine.com/image.php?src=*://
 ||sexecine.com^$popup,~third-party
@@ -10898,6 +10902,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href*="/afiliados.html?id="]
 ##a[href*="/afu.php?"]
 ##a[href*="/buy?a_aid="]
+##a[href*="/click/?idadprint="]
 ##a[href*="/clickhabillage/"][target="_blank"]
 ##a[href*="/goto.php?ads_id="]
 ##a[href*="/install-app?affid="]
