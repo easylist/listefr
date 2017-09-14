@@ -49,6 +49,7 @@
 &cwadformat=
 &direct=*&zoneid=
 &forward_affiliate=
+&id_adv=
 &id_site=*&ref=*&width=*&height=*&m_url=$subdocument
 &include_ads=
 &lr_adtype=
@@ -169,7 +170,7 @@
 .asp?affid=
 .aspx?adv=
 .bannerimage?aid=
-.campaignsFileLoaded$script
+.campaignsFileLoaded|$script
 .cc/ad/
 .com.sa/ads/
 .com/adb.
@@ -1413,7 +1414,7 @@
 =banniere&*=leaderboard&
 =dynamic_banner&
 =GetAdHtml&
-=goto_adv&id_adv=
+=goto_adv&
 =iframe_pub&
 =INSERT_RANDOM_NUMBER_
 =publicite&
