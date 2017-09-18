@@ -1669,6 +1669,7 @@ _werbebanner_
 &noexitctapop=$popup
 &nsfw=&id_promo=$popup
 &oid=*&subid=*&pubid=$popup
+&pub_id=$popup
 &pub_sub_id_$popup
 &pubid=*-panther&$popup
 &pubid=*.adult.*&$popup
@@ -4086,6 +4087,7 @@ debugger:$popup
 ||dafford.info^$third-party
 ||dalonely.com^$third-party
 ||destrics.com^$third-party
+||diamongs.com^$third-party
 ||eagerse.com^$third-party
 ||evideorun.com^$third-party
 ||fungetbag.info^$third-party
@@ -4133,6 +4135,7 @@ debugger:$popup
 ||yoursinfo.info^$third-party
 ! popunder
 ||arrassley.info^$third-party
+||buckilyg.info^$third-party
 ||cecrating.info^$third-party
 ||crisivelyt.info^$third-party
 ||diamongs.info^$third-party
@@ -7096,6 +7099,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||hostpic.org^$domain=fdesouche.com
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/0UpfQtJ.png
+||i.imgur.com/2Azjukl.png
 ||i.imgur.com/5tS8GcN.png
 ||i.imgur.com/A4Kwg6k.png
 ||i.imgur.com/FinBqT8.jpg
@@ -9137,6 +9141,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||dah0wv79ikn14.cloudfront.net^
 ||dax3x3wqpt2q3.cloudfront.net^
 ||dbc6p9txq35qt.cloudfront.net^
+||dcjg1gv1px1h.cloudfront.net^
 ||dczj9zildizai.cloudfront.net^
 ||ddfnmo6ev4fd.cloudfront.net^
 ||de3hzpms0kfq9.cloudfront.net^
@@ -11840,7 +11845,7 @@ pornovore.fr##.bandeau-vertical
 syskb.com##.bandeaupub
 cdmail.fr##.bandeauvert
 orientation-chabab.com##.bann
-afrik-foot.com,afrik.com,afrikeco.com,canalplus.fr,glenatbd.com,gulli.fr,hdnumerique.com,kpopfm.fr,manga-news.com,medialot.fr,mesbagages.com,orientation-chabab.com,showx.tech,telquel.ma,textnow.com,trimag.fr,up02.net,up05.pro,ventsdouest.com,video-2-cul.com##.banner
+afrik-foot.com,afrik.com,afrikeco.com,canalplus.fr,french-stream.co,glenatbd.com,gulli.fr,hdnumerique.com,kpopfm.fr,manga-news.com,medialot.fr,mesbagages.com,orientation-chabab.com,showx.tech,telquel.ma,textnow.com,trimag.fr,up02.net,up05.pro,ventsdouest.com,video-2-cul.com##.banner
 batiactu.com##.banner-background
 golem13.fr##.banner-halfpage
 lareclame.fr##.banner-url
