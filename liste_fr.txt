@@ -12962,6 +12962,7 @@ $subdocument,~third-party,domain=football365.fr|mercato365.com|rugby365.fr|sport
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
 @@||disqus.com/embed.js$script,domain=football365.fr|mercato365.com|rugby365.fr|sport365.fr
 @@||disquscdn.com^$script,domain=football365.fr|mercato365.com|rugby365.fr|sport365.fr
+@@||platform.instagram.com^*/embeds.js$script,domain=femmesplus.fr
 @@||player.mediabong.com^*/video.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
 @@||player.qualifio.com/kit/qualp.2.min.js$script,domain=medisite.fr
 @@||players.brightcove.net/*_default/index.min.js?$script,third-party,domain=lachainemeteo.com
