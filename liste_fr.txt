@@ -5993,6 +5993,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||over-blog.net^*/js/OB.Disclaimer.js
 ||oxyka.com/er/od.php?
 ||oyant.com/images/banners/
+||p.mcdn.fr^
 ||p.porn.fr^
 ||p0rno.com/banners/
 ||packbarre.com/pub/
@@ -9417,7 +9418,13 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###block-gc-ad-bloc-centre-1
 ###block-gc-ad-bloc-centre-2
 ###block-gc-ad-bloc-centre-3
+###block-gc-ad-bloc-droite-1
+###block-gc-ad-bloc-droite-2
+###block-gc-ad-bloc-droite-3
+###block-gc-ad-dhtml
+###block-gc-ad-dhtml-mobile
 ###block-gc-ad-megaban-haut
+###block-gc-ad-pave-haut
 ###block-gc-ad-pave_bas
 ###block-gc-ad-pave_haut
 ###block-gc-ad-purl
@@ -13057,7 +13064,9 @@ medisite.fr###page > div > img
 igen.fr,macg.co,watchgeneration.fr##.bloc-accroches + h2 + br + [class]
 igen.fr,macg.co,watchgeneration.fr##.bloc-accroches + h2 + br + [id]
 planet.fr##.block-content + div > img
+femmesplus.fr##.block-fp-video-mediabong + * + * + *
 medisite.fr##.block-gc-ad + [id] > :first-child > img
+femmesplus.fr##.block-views + * + * + *
 femmesplus.fr##.block-views + div > img
 planet.fr##.even + section > img
 planet.fr##.odd > section > img
@@ -13065,6 +13074,7 @@ medisite.fr##.region > [id] > img
 medisite.fr##.region > a > img
 femmesplus.fr,medisite.fr##.region > div > img
 femmesplus.fr##.region-inner > div > img
+femmesplus.fr##.region-inner > section
 planet.fr##.region-inner.clearfix > div > img
 femmesplus.fr,planet.fr##.region-sidebar-first [class] > img
 femmesplus.fr,planet.fr##.region-sidebar-first [id] > img
