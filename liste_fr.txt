@@ -1574,7 +1574,7 @@ _werbebanner_
 ||com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com|~visuels.l214.com
 ! regex
 /\.(accountant|bid|click|club|com|cricket|date|download|faith|link|loan|lol|men|online|party|racing|review|science|site|space|stream|top|trade|webcam|website|win|xyz|com)\/(([0-9]{2,9})(\.|\/)(css)?)$/$script,stylesheet,third-party,xmlhttprequest
-/\.(com|info)\/[a-zA-Z0-9\+\/]{64,}/$image,ping,third-party,domain=adf.ly|ay.gy|babblecase.com|daclips.com|daclips.in|dl-protecte.com|dl-protecte.org|flashx.tv|flowyourvideo.com|gamecopyworld.click|gorillavid.in|j.gs|justmp4.com|kaitect.com|listentoyoutube.com|movpod.in|mystream.la|picocurl.com|pintient.com|q.gs|replaymod.com|security-links.com|torrentfunk.com|uptobox.com|uptostream.com|vidgg.to|vidtodo.com|watchvideo.us
+/\.(com|info)\/[a-zA-Z0-9\+\/]{64,}/$image,ping,third-party,domain=adf.ly|ay.gy|babblecase.com|daclips.com|daclips.in|dl-protecte.com|dl-protecte.org|filesupload.org|flashx.tv|flowyourvideo.com|gamecopyworld.click|gorillavid.in|j.gs|justmp4.com|kaitect.com|listentoyoutube.com|movpod.in|mystream.la|picocurl.com|pintient.com|q.gs|replaymod.com|security-links.com|torrentfunk.com|uptobox.com|uptostream.com|vidgg.to|vidtodo.com|watchvideo.us
 /\/[a-z]{1,3}\?zoneId\=\d{7}\-\d{7}$/$script
 /license\.\d{1,5}\.js$/$script,~third-party
 ! CDN filters
@@ -4099,6 +4099,7 @@ debugger:$popup
 ||greatedo.com^$third-party
 ||greatwork.info^$third-party
 ||grumbsun.info^$third-party
+||himselve.info^$third-party
 ||historem.com^$third-party
 ||historest.com^$third-party
 ||hospites.com^$third-party
@@ -4137,6 +4138,7 @@ debugger:$popup
 ||wortparser.info^$third-party
 ||yoursinfo.info^$third-party
 ! popunder
+||acrossiblel.info^$third-party
 ||arrassley.info^$third-party
 ||buckilyg.info^$third-party
 ||cecrating.info^$third-party
@@ -8989,6 +8991,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||d1hm0uxglt4t41.cloudfront.net^
 ||d1i2v9a8xom2hy.cloudfront.net^
 ||d1izbwxtc3f9ue.cloudfront.net^
+||d1jikhx1ssl81z.cloudfront.net^
 ||d1jq9nooxeft24.cloudfront.net^
 ||d1k0glcmk0b5rb.cloudfront.net^
 ||d1k29rhvz38kg5.cloudfront.net^
