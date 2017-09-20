@@ -2450,7 +2450,6 @@ debugger:$popup
 ||clksite.com^$third-party
 ||closestloyaltyand.xyz^$third-party
 ||cms-skin.com^$third-party
-||coin-hive.com^$third-party
 ||coindushopping.fr^$third-party
 ||cointraffic.io^$third-party
 ||coloredview.com^$third-party
@@ -4549,6 +4548,9 @@ debugger:$popup
 ||lt45.net^$third-party
 ||newstat.net^$third-party
 ||static-dscn.net^$third-party
+! Bitcoin mining without users consent
+||coin-hive.com^$third-party
+||jsecoin.com^$third-party
 !
 !-------------------- Annonceurs popup --------------------!
 !
