@@ -10778,6 +10778,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.top-banner-pub
 ##.top-publicite
 ##.top-reklam-normal
+##.topAdvertContainer
 ##.topPub
 ##.top_banner_ads
 ##.top_pub_google
@@ -13350,6 +13351,7 @@ _blockadblock_
 @@||tune.pk/js/ads.js?cache=$script,domain=tune.pk
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||wakanim.tv^*/video/advertisement?idepisode=
+@@||www.passetoncode.fr/ads.js$script,~third-party
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 @@||www.zonebourse.com/js/ads.js$script,~third-party
 !
