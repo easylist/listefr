@@ -8390,6 +8390,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||presse.fr/campub/
 ||prix-portables.fr/js/suo.js
 ||prix-portables.fr^*/habillage-
+||prix.pcastuces.com^
 ||progonline.com/bannieres/
 ||progonline.com/js/message_display.js
 ||projectfreetv.*?d=300x250
@@ -9289,6 +9290,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###adleftgame
 ###admid1
 ###admid2
+###admitad_div
 ###adpubhead
 ###ads-300x250
 ###ads-320x50-I1
@@ -13363,10 +13365,10 @@ _blockadblock_
 @@||nouvelle-fiat500.fr/ad-pub.js$script
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=4downfiles.org|alligatographe.blogspot.fr|cachemoi.com|cuisineactuelle.fr|dl-protecte.com|dl-protecte.org|forum.softmaroc.org|likeup.fr|ot-boutique.fr|protect-lien.com|quebeccoupongratuit.com|security-links.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=4downfiles.org|alligatographe.blogspot.fr|cachemoi.com|cuisineactuelle.fr|dl-protecte.com|dl-protecte.org|forum.softmaroc.org|likeup.fr|ot-boutique.fr|pcastuces.com|protect-lien.com|quebeccoupongratuit.com|security-links.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=4downfiles.org|alligatographe.blogspot.fr|cachemoi.com|cuisineactuelle.fr|dl-protecte.com|dl-protecte.org|forum.softmaroc.org|leetgamerz.net|likeup.fr|protect-lien.com|quebeccoupongratuit.com|security-links.com|slideplayer.fr|telephoneannuaire.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=qcm-concours.blogspot.fr
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|pcastuces.com|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
 @@||pagefair.com/static/adblock_detection/js/$script,third-party
 @@||partage-facile.com/*ad$script,xmlhttprequest
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=7sur7.be|f1i.com
