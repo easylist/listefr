@@ -7132,8 +7132,11 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||1maxdegay.com^$subdocument,~third-party
 ||1parrainage.com/logos/habillage
 ||1solution1.com/wp-content/uploads/*/bann
-||3dnatives.com/wp-content/uploads/banniere_
-||3dnatives.com/wp-content/uploads/offre_
+||3dnatives.com/wp-content/uploads/$script
+||3dnatives.com/wp-content/uploads/*promo
+||3dnatives.com/wp-content/uploads/600x500
+||3dnatives.com/wp-content/uploads/banniere
+||3dnatives.com/wp-content/uploads/offre
 ||7sur7.be/references/
 ||9divx.org^$popup,~third-party
 ||a.f1g.fr/iframes/
@@ -10313,6 +10316,9 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.divAdsBottom
 ##.div_ads
 ##.div_pub_728_90
+##.dnati-after-post-leaderboard
+##.dnati-milieu-article
+##.dnati-widget
 ##.dossier-pub
 ##.dp-ad-chrome
 ##.dp-ad-visible
