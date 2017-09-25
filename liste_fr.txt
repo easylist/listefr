@@ -4114,6 +4114,7 @@ debugger:$popup
 ||uauthere.com^$third-party
 ||underers.info^$third-party
 ||unformse.com^$third-party
+||unitaliant.com^$third-party
 ||wateranik.com^$third-party
 ||whonami.info^$third-party
 ||wortparser.info^$third-party
@@ -4131,6 +4132,7 @@ debugger:$popup
 ||leanoral.info^$third-party
 ||mationse.info^$third-party
 ||plaqueousi.info^$third-party
+||sovietname.info^$third-party
 ||upwritish.info^$third-party
 ||vinfrase.info^$third-party
 ! admeasures.com
@@ -6585,6 +6587,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 |https://$script,xmlhttprequest,domain=zone-telechargement.top|zone-telechargement.ws
 ! zone-telechargement.live
 @@||i.imgur.com^$image,domain=zone-telechargement.de|zone-telechargement.live
+@@||wp.com/zone-telechargement.de/wp-content/uploads/$image,domain=zone-telechargement.de
 |http://$third-party,domain=zone-telechargement.de|zone-telechargement.live
 |https://$third-party,domain=zone-telechargement.de|zone-telechargement.live
 ! 9xbuddy.com
