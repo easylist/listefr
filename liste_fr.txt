@@ -5582,7 +5582,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
-||dailymotion.com^$domain=manga-fr.com|mangastreaming.fr
+||dailymotion.com^$domain=manga-fr.com|manga-streaming.fr|mangastreaming.fr
 ||dailymotion.com^*autoplay=1$domain=adshorte.com|anime301.com|animeresistance.com|animes-mangas-ddl.net|anogaming.fr|bescherelletamere.fr|blagues-mobiles.com|buzzutopia.com|dailymotion.com|filmsvostfr.xyz|footstream.tv|gum-gum-streaming.com|hitek.fr|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|mavanimes.com|otakufr.com|pokemon-streaming.com|pokercast.eu|pokercast.tv|prison-break-hd-streaming.com|robindesdroits.me|sonyoutube.com|stream4free.pro|tous-sports.tv|tv-streaming-serie.xyz|youzapping.com
 ||dailymotion.com^*autoplay=true$domain=greysanatomystreaming.com|protect-iframe.com
 ||dailymotion.com^*mute=1$domain=captainmugiwara.over-blog.com
@@ -5750,7 +5750,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||hotel-intime.com/banieres/
 ||hotpix.fr/widget_js.
 ||howfun.org/welcome.php
-||href.li^$domain=footstream.tv|youzapping.com
+||href.li^$domain=footstream.tv|manga-streaming.fr|mangastreaming.fr|youzapping.com
 ||hubspot.com/cta/
 ||hurenportal.com/banner/
 ||i.alicdn.com/*/show-window/index.js
@@ -5894,6 +5894,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||maliwebnetcdn-*/wp-content/news/images/*habillage
 ||maliwebnetcdn-*/wp-content/news/images/*pasta
 ||maliwebnetcdn-*/wp-content/news/images/*pmu
+||manga-streaming.fr^$subdocument
 ||mangahome.com/store/banners/
 ||mangatown.com^*/banners/
 ||marche-forex.com/popup*.js
