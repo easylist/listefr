@@ -12561,7 +12561,6 @@ movietube.live##[id^="video"] a
 filecrypt.cc##[onclick] img
 filecrypt.cc##[onmouseup]
 amvtv.net##[style*="position: absolute; z-index: 99999"]
-xooit.com##[style*="z-index: 99999999; height: 92px; width: 100%;"]
 boursorama.com##[style="width: 1000px; margin: 0px auto; min-width: 0px; min-height: 90px; display: block;"]
 forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding:15px"]
 hqq.tv,hqq.watch##[style^="width: 468px; height: 60px;"]
@@ -12803,6 +12802,7 @@ tchatche.com##banner
 blog.you-test.ch,freeiptv.be##body > :nth-child(n) + style + div[id]:last-child
 auto-utilitaire.com,mobilealgerie.com##body > a > img
 trictrac.net##body > div + .row.align-center.section
+xooit.com,xooit.fr##body > div[id][style*="z-index: 99999999; height: 92px; width: 100%;"]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 zone-telechargement.ws##br + a > img
