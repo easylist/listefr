@@ -460,6 +460,7 @@
 /ads/exo_
 /ads/extra.
 /ads/feed/*
+/ads/genere_ban.
 /ads/get_
 /ads/gif/*
 /ads/layered_
@@ -1527,6 +1528,7 @@ _android_ads.
 _b468x60.
 _b728x90.
 _banner_46860.
+_banner_pub.
 _bannerad2-
 _bannerad2_
 _barre_pub/
@@ -3138,6 +3140,7 @@ debugger:$popup
 ||seprovider.com^$third-party
 ||septani.ru^$third-party
 ||serpzaer.com^$third-party
+||serveurmumble.com^$third-party
 ||setads.bid^$third-party
 ||sex-affiliation.com^$third-party
 ||sexclic.com^$third-party
@@ -5599,6 +5602,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||discutfree.com^$popup,domain=netvibes.com
 ||djezzy.dz^$popup,domain=ouedkniss.com
 ||dmcdn.net^*/Orange_PingPong/$subdocument
+||dnpanel.fr/images/PUB-
 ||domautcr.com/clicki/$popup
 ||dombeya.info^$subdocument
 ||doubleclick.net/apps/domainpark/$subdocument
