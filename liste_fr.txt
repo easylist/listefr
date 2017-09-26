@@ -9544,6 +9544,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###favoris_pub_ligatus
 ###firstpost_ad
 ###fixe_plugin
+###fixed-ads
 ###footer-ad-formation
 ###footer-advertising
 ###footer-pub
@@ -10105,6 +10106,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.ads-track
 ##.ads-tracking-lrec
 ##.ads-tracking-top
+##.ads-under-data
+##.ads-under-data__main
 ##.ads-video-zone
 ##.ads-video-zone-container
 ##.ads2
@@ -10215,6 +10218,11 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.antiadclass
 ##.app_google_ad_box
 ##.articleAd-banner
+##.article__ads
+##.article__ads-side
+##.article__article-ads
+##.article__article-mobile-ads
+##.article__mobile-ads
 ##.article_pub
 ##.aside-pub-300
 ##.ast-block-adslot
@@ -10324,6 +10332,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.deck--below-ads
 ##.deck--top-ads
 ##.delayedAdvertising
+##.desktop-ff-ads
+##.desktop-ff-ads__main
 ##.desktopbottomad
 ##.desktopbottomad1
 ##.desktopbottomad2
@@ -10445,6 +10455,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.lien_commerciaux_bann
 ##.lien_commerciaux_bann_texte
 ##.lien_sponso
+##.liens-sponsorises__external
 ##.liens_commerciaux
 ##.line-adv
 ##.link-background-advert
@@ -10465,6 +10476,9 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.megapub
 ##.midads
 ##.middle-publicite
+##.mobile-ads
+##.mobile-ads__close
+##.mobile-ads__main
 ##.mobile_adhesion
 ##.mobile_instream_ad
 ##.mod-ad-middle
@@ -10818,6 +10832,17 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.sponsor_leaderboard
 ##.sponsor_leaderboard-wrap
 ##.sponsored-amazon
+##.sponsored-by__highlighted
+##.sponsored-by__main
+##.sponsored-by__main-wrap
+##.sponsored-by__other
+##.sponsored-by__outer
+##.sponsored-fly
+##.sponsored-fly__brand
+##.sponsored-fly__close
+##.sponsored-fly__head
+##.sponsored-fly__head-outer
+##.sponsored-fly__open
 ##.sponsoredLinksContainer
 ##.sponsoredLinksInfo
 ##.sponsored_banner
@@ -12437,6 +12462,7 @@ findmysexfriend.com##.sponsoInside
 blogduwebdesign.com,europages.fr,shake.events##.sponsor
 yahoo.com##.sponsor-dd
 telquel.ma,trovit.fr##.sponsored
+tsa-algerie.com##.sponsored-by
 francetvsport.fr##.sponsored-container
 xstory-fr.com##.sponsorise
 skyyart.fr##.sponsors
