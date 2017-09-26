@@ -2659,6 +2659,8 @@ debugger:$popup
 ||hdpass.net^$third-party
 ||hebdotop.com^$third-party
 ||heberparis23.com^$third-party
+||hentai-heroes.com^$third-party
+||hentaiheroes.com^$third-party
 ||hereonline.online^$third-party
 ||hexaweb.net^$third-party
 ||hibamedia.com^$third-party
@@ -3299,6 +3301,7 @@ debugger:$popup
 ||tremember.info^$third-party
 ||trumbo.site^$third-party
 ||ts-ads.info^$third-party
+||tubeadvertising.eu^$third-party
 ||tubecorporate.com^$third-party
 ||tubicash.biz^$third-party
 ||tubicash.com^$third-party
@@ -4684,6 +4687,7 @@ debugger:$popup
 ||aservtrack.com^$popup,third-party
 ||ato.mx^$popup,third-party
 ||audify.io^$popup,third-party
+||awejmp.com^$popup,third-party
 ||azerty.solutions^$popup,third-party
 ||badoink.com^$popup,third-party
 ||baiduccdn1.com^$popup,third-party
@@ -5196,6 +5200,7 @@ debugger:$popup
 ||trully-sun.top^$popup,third-party
 ||trustedpubs.com^$popup,third-party
 ||ts-ads.info^$popup,third-party
+||tubeadvertising.eu^$popup
 ||twap2.com^$popup,third-party
 ||uencedrefortifica.bid^$popup,third-party
 ||unlockads.com^$popup,third-party
@@ -10527,6 +10532,10 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.pjsleads
 ##.player-ad-overlay
 ##.player-pub
+##.player-screen-ads
+##.player-screen-ads-item
+##.player-screen-ads-list
+##.player-screen-ads-wrapper
 ##.playerpub
 ##.pmd_dfp_ad
 ##.pmdfp-placer
@@ -11033,6 +11042,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href*="://www.anrdoezrs.net/"]
 ##a[href*="://www.ducksnetwork.com/"]
 ##a[href*="://www.duckssolutions.com/"]
+##a[href*="://www.hentai-heroes.com/"]
+##a[href*="://www.hentai-heroes.es/"]
 ##a[href*="://www.hentaiheroes.com/"]
 ##a[href*="://yllix.com/"]
 ##a[href*="=INSERT_RANDOM_NUMBER_HERE&"]
@@ -11467,6 +11478,7 @@ turfomania.fr###homeLesPartenaires
 manga-news.com###homePromoEd
 manageo.fr###homeSolutionsWrapper
 tsa-algerie.com###home_immo
+videopornoinceste.xxx###horizontal-banner
 lesoir.be###horoscope-promo
 touslesprix.com###hright
 confidentielles.com###hunt
