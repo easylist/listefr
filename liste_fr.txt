@@ -7064,6 +7064,7 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 ||ouo.io^$script,third-party
 ||shink.in^$script,third-party
 ||uskip.me^$script,third-party
+||xess.pro^$script,third-party
 ||yourlink.in^$script,third-party
 ! linkbucks.com
 &utm_*=linkbucks$popup,subdocument
@@ -8895,6 +8896,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||www.multiup.*/js/compiled_js_
 ||xavbox.com/ban/
 ||xboards.org/static/sponsors/
+||xess.pro/popup/
 ||xlporn.fr/getpub?
 ||xstarsnews.com/admin/gestion_bann/banniere.
 ||xstarsnews.com/banner-pub/
@@ -13463,6 +13465,7 @@ _blockadblock_
 @@||www.passetoncode.fr/ads.js$script,~third-party
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 @@||www.zonebourse.com/js/ads.js$script,~third-party
+@@||xess.pro/js/ads.js$script,domain=xess.pro
 !
 adf.ly,ay.gy,babblecase.com,gamecopyworld.click,j.gs,kaitect.com,picocurl.com,pintient.com,q.gs,replaymod.com#@##bottomAd
 adf.ly,ay.gy,babblecase.com,gamecopyworld.click,j.gs,kaitect.com,picocurl.com,pintient.com,q.gs,replaymod.com#@##bottomad
