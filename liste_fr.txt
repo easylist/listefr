@@ -7054,6 +7054,7 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 ||binbox.io^$script,third-party
 ||bit.gy^$script,third-party
 ||bitly.com^$script,third-party
+||coinlink.us^$script,third-party
 ||cpmlink.net^$script,third-party
 ||croco.me^$script,third-party
 ||cut-urls.com^$script,third-party
@@ -7457,6 +7458,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||codeposte.com/pub/
 ||codepromo.programme-tv.net/snippets/
 ||coingecko.com/assets/partners/
+||coinlink.us/ref/
 ||commitstrip.com^*/images/wejusthavetoeat/
 ||compteur-gratuit.fr/images/bandeau_
 ||compteur-gratuit.fr/pub_
@@ -13420,6 +13422,7 @@ _blockadblock_
 @@||badibadou.eu/*.js?auto=$script,third-party
 @@||c.ad6media.fr/l.js$domain=eternitygames.org|fan-de-cinema.com|fit.sh|programmes-cinema.com
 @@||cdscdn.com/Js/advertise.js$script
+@@||coinlink.us/js/ads.js$script,domain=coinlink.us
 @@||d.adxcore.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||doubleverify.com^$domain=kissanime.com
 @@||dramapassion.com^*/advertisement-$script,domain=dramapassion.com
