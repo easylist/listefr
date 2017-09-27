@@ -5592,7 +5592,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||d4.fr/img/af_$third-party
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
-||dailymotion.com^$domain=manga-fr.com|manga-streaming.fr|mangastreaming.fr|mysharelink.fr|one-piece-streaming.eu|pblv-scoop.tk
+||dailymotion.com^$domain=manga-fr.com|manga-streaming.fr|mysharelink.fr|one-piece-streaming.eu|pblv-scoop.tk
 ||dailymotion.com^*autoplay=1$domain=adshorte.com|anime301.com|animeresistance.com|animes-mangas-ddl.net|anogaming.fr|bescherelletamere.fr|blagues-mobiles.com|buzzutopia.com|dailymotion.com|filmsvostfr.xyz|footstream.tv|gum-gum-streaming.com|hitek.fr|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|mavanimes.com|otakufr.com|pokemon-streaming.com|pokercast.eu|pokercast.tv|prison-break-hd-streaming.com|robindesdroits.me|sonyoutube.com|stream4free.pro|tous-sports.tv|tv-streaming-serie.xyz|youzapping.com
 ||dailymotion.com^*autoplay=true$domain=greysanatomystreaming.com|protect-iframe.com
 ||dailymotion.com^*mute=1$domain=captainmugiwara.over-blog.com
@@ -5760,7 +5760,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||hotel-intime.com/banieres/
 ||hotpix.fr/widget_js.
 ||howfun.org/welcome.php
-||href.li^$domain=beinsport-streaming.com|footstream.tv|manga-streaming.fr|mangastreaming.fr|one-piece-streaming.eu|youzapping.com
+||href.li^$domain=beinsport-streaming.com|footstream.tv|manga-streaming.fr|one-piece-streaming.eu|youzapping.com
 ||hubspot.com/cta/
 ||hurenportal.com/banner/
 ||i.alicdn.com/*/show-window/index.js
@@ -6659,6 +6659,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
 ! mangastreaming.fr
 @@||ajax.googleapis.com/ajax/libs/$script,domain=mangastreaming.fr
+@@||protect-iframe.com/embed-$subdocument,third-party,domain=mangastreaming.fr
 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=mangastreaming.fr
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=mangastreaming.fr
 ! mavanime.com
