@@ -6744,9 +6744,6 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 @@||ajax.googleapis.com/ajax/libs/$script,domain=lepetitlecteur.fr|lepetitmag.fr|thebadside.com
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=lepetitlecteur.fr|lepetitmag.fr|thebadside.com
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=lepetitlecteur.fr|lepetitmag.fr|thebadside.com
-! rapidvideo.com
-|http://$script,third-party,xmlhttprequest,domain=rapidvideo.com
-|https://$script,third-party,xmlhttprequest,domain=rapidvideo.com
 ! arabloads.net
 |http://$script,third-party,domain=arabloads.net
 |https://$script,third-party,domain=arabloads.net
