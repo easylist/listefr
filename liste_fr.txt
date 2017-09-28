@@ -833,6 +833,7 @@
 /effinity/banniere-
 /ejs_slidein.js
 /email_catcher/track.
+/embed/*.php?partner=$subdocument
 /embed/ads/*
 /embed/partner/*
 /emplacement-pub/*
@@ -10513,6 +10514,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.mailPubHeader
 ##.map_fond_pub
 ##.marketing-container
+##.masonry__ad
 ##.masthead-overHeader
 ##.mb_video_syncad
 ##.mbanner-ad-wrapper
@@ -13423,6 +13425,7 @@ _blockadblock_
 ||justgeek.fr^*/wp-content-uploads-
 ||larascasse.fr/forum/uploads/javascript_core/plugins_plugins.js
 ||maisonbrico.com/theme/min/$script
+||observalgerie.com/wp-content/uploads/$script
 ||photo.femmeactuelle.fr/js/jquery.min-
 ||planete-astronomie.com/tl_files/structure/anti-adblock.js
 ||rustica.fr/assets/min/$script
