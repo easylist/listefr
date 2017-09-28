@@ -1399,6 +1399,7 @@
 ://msk.*/redir/
 ://na.ads.
 ://partner.$third-party,domain=~lopinion.fr|~viator.com|~viatorcom.de|~viatorcom.fr|~viatorcom.nl|~viatorcom.no|~viatorcom.se
+://play.*/red/?code=
 ://pop.$script,subdocument,third-party,xmlhttprequest
 ://promo.*?site_id=
 ://promo2.$third-party
@@ -4112,6 +4113,7 @@ debugger:$popup
 ||nbriskerry.com^$third-party
 ||oscarlosun.com^$third-party
 ||ourinstance.info^$third-party
+||overely.com^$third-party
 ||paradition.com^$third-party
 ||phalata.info^$third-party
 ||quierest.com^$third-party
@@ -4136,6 +4138,7 @@ debugger:$popup
 ||yoursinfo.info^$third-party
 ! popunder
 ||acrossiblel.info^$third-party
+||auctional.info^$third-party
 ||buckilyg.info^$third-party
 ||cecrating.info^$third-party
 ||crisivelyt.info^$third-party
@@ -7040,7 +7043,7 @@ he2eini7ka.com##div > [id^="player"] + div[id][style*="z-index:"]
 @@||google.com/recaptcha/$subdocument,domain=adshort.co
 |http://$script,subdocument,third-party,xmlhttprequest,domain=adshort.co
 ! adf.ly
-@@||redirect2719.ws/?$subdocument,domain=adf.ly|ay.gy|babblecase.com|download.replaymod.com|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|rd1.gamecopyworld.click
+@@||redirect2719.ws/?$subdocument,domain=adf.ly|ay.gy|babblecase.com|download.replaymod.com|go.awanpc.me|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|rd1.gamecopyworld.click
 ||cdn.adf.ly^$script,third-party,domain=~j.gs|~q.gs
 ||cdn.j.gs^$script,third-party,domain=~adf.ly|~q.gs
 ||cdn.q.gs^$script,third-party,domain=~adf.ly|~j.gs
@@ -13449,7 +13452,7 @@ _blockadblock_
 @@/advertisement.js$script,domain=cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghrebspace.net|mega-exclue.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
 @@/advertisement.js$script,~third-party,domain=cap-public.fr|coco.fr|crash-aerien.aero|crash-aerien.news|e-wok.tv|fiki.faucetfly.com|leveldown.fr|programme.tv|quoverbis.com|rustica.fr
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|silicon.fr
-@@/static/image/ad_top_bg2.png?$image,~third-party,domain=adf.ly|ay.gy|babblecase.com|gamecopyworld.click|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|replaymod.com
+@@/static/image/ad_top_bg2.png?$image,~third-party,domain=adf.ly|ay.gy|babblecase.com|gamecopyworld.click|go.awanpc.me|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|replaymod.com
 @@||1max2sms.com/blogads.css
 @@||a.f1g.fr/build/2/adsense.js$script
 @@||ad.advertstream.com/adjs_r.php?$script,domain=forum.virtualdjing.com
@@ -13461,7 +13464,7 @@ _blockadblock_
 @@||afreesms.now.im/adblocker.js$script,domain=afreesms.com
 @@||assets.over-blog-kiwi.com/b/blog/bundles/overblogblogblog/js/ads.js$script,domain=mariage-franco-marocain.net
 @@||audipassion.com^*/jsLoader.js?adType=foobar
-@@||ay.gy/static/js/advert.js$script,domain=adf.ly|ay.gy|babblecase.com|download.replaymod.com|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|rd1.gamecopyworld.click
+@@||ay.gy/static/js/advert.js$script,domain=adf.ly|ay.gy|babblecase.com|download.replaymod.com|go.awanpc.me|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|rd1.gamecopyworld.click
 @@||badibadou.eu/*.js?auto=$script,third-party
 @@||c.ad6media.fr/l.js$domain=eternitygames.org|fan-de-cinema.com|fit.sh|programmes-cinema.com
 @@||cdscdn.com/Js/advertise.js$script
