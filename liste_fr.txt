@@ -179,7 +179,6 @@
 .com/adpro.
 .com/bnrs/$subdocument
 .com/func.js|$script,~third-party
-.com/p?zoneId=*-$script,third-party
 .dz/ads/
 .dz/ads_
 .fr/*/ads/
@@ -1001,7 +1000,7 @@
 /our_all_pjs.
 /our_all_pjs_
 /out?zoneid=
-/p?zoneid=
+/p?zoneId=
 /p_tools/rotation.
 /p_under.
 /packcpm.
