@@ -4530,7 +4530,11 @@ debugger:$popup
 ||newstat.net^$third-party
 ||static-dscn.net^$third-party
 ! Mining
+/coinhive/*
+/miner-ui.js
+/xminer.min.js
 ||coin-hive.com^$third-party
+||coinhive.com^$third-party
 ||jsecoin.com^$third-party
 ||minemytraffic.com^$third-party
 !
