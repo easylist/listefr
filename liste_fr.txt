@@ -7011,10 +7011,11 @@ he2eini7ka.com##div > [id^="player"] + div[id][style*="z-index:"]
 ! viid.me
 |http://$subdocument,third-party,domain=viid.me
 |https://$subdocument,third-party,domain=viid.me
-! thevideo.me / vidup.me
+! thevideo.me / vidup.me / tvad.me
 @@||thevideo.me/js/jspc.js?ab|$script,domain=thevideo.me|vidup.me
 @@||tvad.me/js/adsense.js?$script,~third-party
 @@||vidup.me/adsense.js?$script,~third-party
+tvad.me##.vjs-overlay-no-background
 ||thevideo.me^$subdocument,domain=thevideo.me|vidup.me
 ||tvad.me^$subdocument,~third-party
 ||vidup.me^$subdocument,~third-party
