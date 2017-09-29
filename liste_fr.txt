@@ -1325,6 +1325,7 @@
 /wbdds.
 /web/bannieres/*
 /webediads/*
+/webmaster_iframe.
 /werbe-banner/*
 /werbe_banner.
 /werbebanner-ad.
@@ -1895,6 +1896,8 @@ _werbebanner_
 =poplink&$popup
 =promo.*_ref=*_affid=$popup
 =pubdirecte&$popup
+=tubeadvertising&$popup
+=tubeadvertisingCPA&$popup
 ?*.clksite.com$popup
 ?action=linkpub&$popup
 ?ad=*&affId=$popup
@@ -4678,6 +4681,7 @@ debugger:$popup
 ||advertsight.com^$popup,third-party
 ||advleniv.com^$popup,third-party
 ||advmaker.net^$popup,third-party
+||advserver.xyz^$popup,third-party
 ||adxcore.com^$popup,third-party
 ||adxfactory.com^$popup,third-party
 ||adxite-ads.com^$popup,third-party
@@ -5788,6 +5792,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||hurenportal.com/banner/
 ||i.alicdn.com/*/show-window/index.js
 ||iceroket.com^$subdocument
+||ichwuerde.com/images/b/
 ||icnsocial.com/open.js
 ||icpc.tv/banners/$domain=europeplusnet.info
 ||idem.com/medias/$third-party
@@ -6185,6 +6190,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||satking.de/images/banners/
 ||scubastore.com^$popup,domain=sous-la-mer.com
 ||seargg.xyz^$popup
+||seckinpartner.info^$image,third-party
 ||securitetotale.com^$subdocument,third-party
 ||sendit.cloud/images/banner/
 ||senditcloud.com^$popup
@@ -9365,6 +9371,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###ad728b
 ###adBoxFooter
 ###adContainerParent
+###adInPlayer
 ###adPopup
 ###adSupport
 ###adTOP
@@ -11094,6 +11101,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href*="://c.anytrx.com/"]
 ##a[href*="://c.tnkexchange.com/"]
 ##a[href*="://c.xsnap.me/"]
+##a[href*="://code.tubeadvertising.eu/"]
 ##a[href*="://duck-quack.com/"]
 ##a[href*="://goodclickads.com/"]
 ##a[href*="://hilltopads.net/"]
@@ -11102,6 +11110,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href*="://popads.net/users/refer/"]
 ##a[href*="://popcash.net/register/"]
 ##a[href*="://serietrk.me/"]
+##a[href*="://smart.tubeadvertising.eu/"]
 ##a[href*="://syndication."] > img
 ##a[href*="://toroadvertisingmedia.com/"]
 ##a[href*="://trustaffs.com/"]
@@ -11111,6 +11120,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href*="://www.hentai-heroes.com/"]
 ##a[href*="://www.hentai-heroes.es/"]
 ##a[href*="://www.hentaiheroes.com/"]
+##a[href*="://www.tubeadvertising.eu/?rf="]
 ##a[href*="://yllix.com/"]
 ##a[href*="=INSERT_RANDOM_NUMBER_HERE&"]
 ##a[href*="?ad_id="]
