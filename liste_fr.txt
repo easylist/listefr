@@ -13261,8 +13261,6 @@ femmesplus.fr##section[id] > img
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
 ! mais d'empêcher les possibles dysfonctionnements liés aux filtres bloquants présents ci-dessus.
 !
-@@:8080/hello?nocache=*-*-*-*-$third-party,xmlhttprequest,domain=beta.speedtest.net
-@@:8080/upload?nocache=*-*-*-*-$third-party,xmlhttprequest,domain=beta.speedtest.net
 @@|blob:$popup,domain=caf.fr|cerise-prim.fr
 @@|blob:https://hqq.watch/$script,domain=hqq.watch
 @@|http://ad4.fr^$~third-party
@@ -13373,6 +13371,13 @@ femmesplus.fr##section[id] > img
 @@||www.bouyguestelecom.fr^*/catalog/product/cache/*/image/300x600/$image,~third-party
 @@||www.consultant-adwords.com^$~third-party
 @@||www.omochasama.com/wp-content/uploads/*-120x240.$image,~third-party
+! speedtest.net
+@@/download?nocache=$third-party,xmlhttprequest,domain=beta.speedtest.net
+@@/hello?nocache=$third-party,xmlhttprequest,domain=beta.speedtest.net
+@@/ping?nocache=$third-party,xmlhttprequest,domain=beta.speedtest.net
+@@/upload?nocache=$third-party,xmlhttprequest,domain=beta.speedtest.net
+@@||speedtest.net/global-index/public/site.bundle.js$script,domain=speedtest.net
+@@||speedtest.net/global-index/public/vendor.bundle.js$script,domain=speedtest.net
 ! iRaiser.eu
 @@||agir.plan-international.fr/adserver2/$~third-party
 @@||client.iraiser.eu/adserver/$~third-party
