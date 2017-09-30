@@ -5062,6 +5062,9 @@ debugger:$popup
 ||pdn-1.com^$popup,third-party
 ||pdn-2.com^$popup,third-party
 ||pdn-3.com^$popup,third-party
+||pdn-4.com^$popup,third-party
+||pdn-5.com^$popup,third-party
+||pdn-6.com^$popup,third-party
 ||peremoga.xyz^$popup,third-party
 ||performanceadexchange.com^$popup,third-party
 ||peritas247.info^$popup,third-party
@@ -12726,6 +12729,7 @@ meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[h
 go4up.com,torrent9.cc,torrent9.pe,torrent9.top,torrents9.org,torrents9.tv##a[href*="+"]
 telechargement-film.org##a[href*="-film-"]
 9divx.org,likeur.org##a[href*="-vip.html"]
+zippyshare.com##a[href*=".inclk.com/"]
 9divx.org,ebooks9.fr,films-telecharger.eu,francais-gratuite.fr,frmovies.me,frstreaming.info,frtorrent.fr,jetelecharger1.fr,likeur.org,planet-series.co,seriestreaming.net,streamingseries.info,telechargementz.tv,wawa-clubz.fr,wawacity.ec##a[href*=".php"]
 lien-torrent.com##a[href*=".php"][target="_blank"]
 moviz.net##a[href*=".php?let="]
