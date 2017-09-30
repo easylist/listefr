@@ -768,7 +768,6 @@
 /cmpn_async.
 /code-float-ad.
 /code/adv/*
-/coinhive.$script
 /col_droite_googleads2
 /config_dfp.js
 /content?promo_id=
@@ -4553,9 +4552,10 @@ debugger:$popup
 ||newstat.net^$third-party
 ||static-dscn.net^$third-party
 ! Mining
+/coinhive.$script
 /coinhive/*
-/miner-ui.js
-/xminer.min.js
+/miner-ui.$script
+/xminer.min.
 ||coin-hive.com^$third-party
 ||coinhive.com^$third-party
 ||jsecoin.com^$third-party
