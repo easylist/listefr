@@ -13022,7 +13022,7 @@ aswak.echoroukonline.com##div[style^="width:980px;height:200px;"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 igen.fr,macg.co##header + a[target="_blank"]
-hentaifr.net##iframe
+beta.speedtest.net,hentaifr.net##iframe
 jeux-porno.net##iframe[src]
 aufeminin.com,marmiton.org,xstory-fr.com##iframe[style]
 developpez.net##iframe[width="300"][height="250"]
@@ -13244,6 +13244,8 @@ femmesplus.fr##section[id] > img
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
 ! mais d'empêcher les possibles dysfonctionnements liés aux filtres bloquants présents ci-dessus.
 !
+@@:8080/hello?nocache=*-*-*-*-$third-party,xmlhttprequest,domain=beta.speedtest.net
+@@:8080/upload?nocache=*-*-*-*-$third-party,xmlhttprequest,domain=beta.speedtest.net
 @@|blob:$popup,domain=caf.fr|cerise-prim.fr
 @@|blob:https://hqq.watch/$script,domain=hqq.watch
 @@|http://ad4.fr^$~third-party
@@ -13338,7 +13340,6 @@ femmesplus.fr##section[id] > img
 @@||sceno.fr/apps/1_static/ads/explain.png
 @@||serrurier-menuisier-31-ad2.fr^$~third-party
 @@||serrurier-menuisier-31-ad2.site-privilege.pagesjaunes.fr^$image,third-party
-@@||speedtest.sanpedrowifi.com^*?nocache=$xmlhttprequest,domain=beta.speedtest.net
 @@||static.adf.ly/static/image/$image,domain=adf.ly|ay.gy|j.gs|q.gs
 @@||static.caradisiac.com/img_site/autopromo/300x90_autopromo_depot_avis.png|$image
 @@||static.meilleur-mobile.com/images-product/logos-marchands/sprite_logosMarchands_120x60.png|$image
