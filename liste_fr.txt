@@ -5158,6 +5158,7 @@ debugger:$popup
 ||shiah.ru^$popup,third-party
 ||shipyards.xyz^$popup,third-party
 ||shopstockoff.com^$popup,third-party
+||siement.info^$popup,third-party
 ||sierra-boa.com^$popup,third-party
 ||silvercdn.ryukyu^$popup,third-party
 ||slimcdn.com^$popup,third-party
@@ -6763,6 +6764,10 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ! mp3red.me
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=mp3red.me
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=mp3red.me
+! telecharger-youtube-mp3.com
+@@||telecharger-youtube-mp3.com/application/core/server.php?timestamp=$xmlhttprequest
+@@||telecharger-youtube-mp3.com/application/static/lib/script.js
+||telecharger-youtube-mp3.com^$script,xmlhttprequest
 ! gamestorrents.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=gamestorrents.com
 |http://$script,third-party,xmlhttprequest,domain=gamestorrents.com
