@@ -171,6 +171,7 @@
 .asp?affid=
 .aspx?adv=
 .bannerimage?aid=
+.be/adv/
 .campaignsFileLoaded|$script
 .cc/ad/
 .com.sa/ads/
@@ -2486,6 +2487,7 @@ debugger:$popup
 ||cound.info^$third-party
 ||cpabuild.com^$third-party
 ||cpaofferstat.com^$third-party
+||cpmstar.com^$third-party
 ||cpmwizard.com^$third-party
 ||cptefr.com^$third-party
 ||cpxmasters.com^$third-party
@@ -9705,6 +9707,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###oPublicite
 ###om_ads-7
 ###overlay-advertising
+###overlayad
 ###pagelet_advertiser_panel
 ###pavePub
 ###pave_pub
