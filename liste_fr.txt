@@ -9588,6 +9588,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###colgauche_pub
 ###comment-ad
 ###commentad
+###container_pub
+###container_pub_left
 ###conteneurPub
 ###conteneur_pub
 ###content_left_pub
@@ -10774,6 +10776,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.pub_kelkoo
 ##.pub_leaderboard
 ##.pub_left
+##.pub_left_content
 ##.pub_middle
 ##.pub_mobile
 ##.pub_outer
@@ -10960,6 +10963,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.tableAds
 ##.tag-adverline
 ##.teaser-mpu
+##.text_pub
 ##.texte_ads
 ##.texte_ads_plug
 ##.texte_pub
@@ -11465,8 +11469,6 @@ orange.fr###commercial-links
 oujdacity.net###common-top-widget
 matchendirect.fr###comparateur
 geny.com###containerBanniere1mois
-asso-web.com###container_pub
-asso-web.com###container_pub_left
 caradisiac.com###conteneurPub
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr###conteneur_PROMO_Gauche
 guadeloupe-paradise.fr###content-shadow
@@ -12450,7 +12452,6 @@ supportduweb.com##.pub_contenu_cr
 renders-graphiques.fr##.pub_galerie
 aerobuzz.fr##.pub_image
 influencia.net##.pub_large
-asso-web.com##.pub_left_content
 space-blogs.net##.pub_ra
 jeuxvideopc.com##.pub_refonte
 paruvendu.fr##.pub_vignette
@@ -12579,7 +12580,6 @@ forum.sportytrader.com##.tableau_bleu
 tomsguide.fr##.tabletoff
 walfoot.be##.take-banner
 turbo.fr##.textPub
-asso-web.com##.text_pub
 lexpress.fr##.thematic_widget
 dpstream.net##.tickercontainer
 laposte.fr##.tile--flag--partner
