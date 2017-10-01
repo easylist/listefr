@@ -7009,10 +7009,12 @@ he2eini7ka.com##div > [id^="player"] + div[id][style*="z-index:"]
 ! protect-iframe.com
 @@||4shared.com/web/embed/$subdocument,domain=protect-iframe.com
 @@||cloudy.ec/embed.php?id=$subdocument,domain=protect-iframe.com
+@@||drive.google.com/file/d/*/preview$subdocument,domain=protect-iframe.com
 @@||embed.nowvideo.sx/embed/?v=$subdocument,domain=protect-iframe.com
 @@||estream.to/embed-$subdocument,domain=protect-iframe.com
 @@||hqq.tv/player/embed_player.php?vid=$subdocument,domain=protect-iframe.com
 @@||hqq.watch/player/embed_player.php?vid=$subdocument,domain=protect-iframe.com
+@@||mystream.la/external/$subdocument,domain=protect-iframe.com
 @@||ok.ru/videoembed/$subdocument,domain=protect-iframe.com
 @@||oload.tv/embed/$subdocument,domain=protect-iframe.com
 @@||openload.co/embed/$subdocument,domain=protect-iframe.com
@@ -7020,6 +7022,7 @@ he2eini7ka.com##div > [id^="player"] + div[id][style*="z-index:"]
 @@||rapidvideo.com/embed/$subdocument,domain=protect-iframe.com
 @@||rutube.ru/play/embed/$subdocument,domain=protect-iframe.com
 @@||sendvid.com/embed/$subdocument,domain=protect-iframe.com
+@@||speedvideo.net/embed-$subdocument,domain=protect-iframe.com
 @@||stream.moe/embed2/$subdocument,domain=protect-iframe.com
 @@||streamango.com/embed/$subdocument,domain=protect-iframe.com
 @@||streamcherry.com/embed/$subdocument,domain=protect-iframe.com
@@ -7029,8 +7032,10 @@ he2eini7ka.com##div > [id^="player"] + div[id][style*="z-index:"]
 @@||tvad.me/embed-$subdocument,domain=protect-iframe.com
 @@||uptostream.com/iframe/$subdocument,domain=protect-iframe.com
 @@||vidlox.tv/embed-$subdocument,domain=protect-iframe.com
+@@||vidoza.net/embed-$subdocument,domain=protect-iframe.com
 @@||vidtodo.com/embed-$subdocument,domain=protect-iframe.com
 @@||vidup.me/embed-$subdocument,domain=protect-iframe.com
+@@||vidzi.tv/embed-$subdocument,domain=protect-iframe.com
 @@||vshare.eu/embed-$subdocument,domain=protect-iframe.com
 @@||watchers.to/embed-$subdocument,domain=protect-iframe.com
 |http://$script,subdocument,third-party,xmlhttprequest,domain=piframe.tk|protect-iframe.com
