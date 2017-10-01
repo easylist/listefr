@@ -8887,8 +8887,9 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||vador.com^*/tc_pp_dhtml.
 ||vakarm.net/css/sprite_vkm_2.css
 ||vakarm.net/pub/
+||vakarm.net/statics/images/header/*_black.
 ||vakarm.net/statics/images/main/bg-
-||vakarm.net/statics/images/pub/
+||vakarm.net^*/pub/
 ||vazigo.fr/css/pub.css
 ||vazigo.fr/referencement/pub_frame.
 ||vbulletin-ressources.com/forum/planethoster/
@@ -10512,6 +10513,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.header-pub
 ##.headerPub
 ##.header_pub
+##.header_sponsors
 ##.header_top_ads
 ##.hide-pub-1000x90
 ##.hide-pub-300x250
@@ -11527,7 +11529,6 @@ lien-torrent.com###footerpb-application
 pornofrance.org###formulaire
 dramapassion.com###free_pub_head
 ca-sudrhonealpes.fr###fullscreen
-vakarm.net###g2promoblock
 developpez.com###gabarit_pub0
 developpez.com###gabarit_pub1
 mymanga.io###gaminga
@@ -12204,7 +12205,7 @@ geek-malin.fr##.header-widget-area
 equirodi.be##.header_adv
 lexpress.fr##.header_content_edito
 frandroid.com##.header_htr
-vakarm.net##.header_sponsors
+vakarm.net##.header_logo + div > table tr > td > a[target="_blank"]
 ouiounon.net##.headertitrelien[target="_blank"]
 hentaifr.net##.hfrS
 le-buzz.fr##.hide
@@ -12759,7 +12760,7 @@ ddl-island.su,emule-island.ru,stream-island.su##a[href*="/xxx/"]
 rtl.be##a[href*="://ad.doubleclick.net/"]
 comment-supprimer.com,igen.fr,leparking.fr,macg.co,needsandmoods.com,refurbgeneration.com,sosiphone.com,watchgeneration.fr##a[href*="://ad.zanox.com/"]
 ddl-island.su,emule-island.ru,stream-island.ru,stream-island.su##a[href*="://ads."]
-filmhdstream.net,internetparsatellite.net,lebonfap.com,letagparfait.com,pixhost.org,rockfile.eu,streaminghd.fr,telesatellite.com##a[href*="://bit.ly/"]
+filmhdstream.net,internetparsatellite.net,lebonfap.com,letagparfait.com,pixhost.org,rockfile.eu,streaminghd.fr,telesatellite.com,vakarm.net##a[href*="://bit.ly/"]
 clubic.com,cnetfrance.fr##a[href*="://click.linksynergy.com/"]
 abidjan.net,algerie-focus.com,algerie360.com,bc.vc,direct-torrents.com,dpstreaming.watch,dragon-ball-super-streaming.com,extratorrents.ch,gum-gum-streaming.com,igen.fr,israelmagazine.co.il,journaldumusulman.fr,limetorrents.cc,lnc.nc,macg.co,mangastreaming.fr,orientation-chabab.com,proxylistpro.com,streaming-boruto.com,streaming-dragon-ball-super.com,tendancehotellerie.fr,watchgeneration.fr##a[href*="://goo.gl/"]
 dpstream.net##a[href*="://plarium.com/"]
@@ -12892,7 +12893,6 @@ dzfoot.com,ma-dz.com##a[href^="http://www.medncom.com/regie/"]
 meetmuslima.net##a[href^="http://www.meetmuslima.net/go/"]
 jeuxvideo.fr##a[href^="http://www.micromania.fr/vente/rayon.php?"]
 bricozone.be##a[href^="http://www.perfectionhabitat.be/"] > img
-vakarm.net##a[href^="http://www.razerzone.com/"]
 topj.net##a[href^="http://www.rpjf.com/asp/lien.asp?"]
 lcouple2-2m.blogspot.com##a[href^="http://www.ta3arof.net/ads/"]
 lefigaro.fr##a[href^="http://www.ticketac.com/?utm_source="]
@@ -12973,6 +12973,7 @@ maisonapart.com##div[id*="-publi-"]
 notebookcheck.biz##div[id] + div[class] > img:first-child
 voyageforum.com##div[id][style="width: 850px; height: 127px; overflow: hidden; vertical-align: top;"]
 protect-iframe.com##div[id][style]
+vakarm.net##div[id][style][onclick]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
 forumconstruire.com##div[id^="bloc_discussion_"] > :first-child + div
 fan2.fr,mcm.fr,melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,meltyxtrem.fr,virginradio.fr##div[id^="container_A2_"]
@@ -12980,7 +12981,6 @@ france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.
 pagesjaunes.fr##div[id^="push"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
-vakarm.net##div[onclick^="window.open('http://www.razerzone.com/"]
 commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[style$="cursor: pointer; width: 32%;"]
 gamalive.com##div[style$="width:300px;height:250px;"]
 echoroukonline.com##div[style$="width:468px;"]
