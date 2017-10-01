@@ -6644,6 +6644,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ! protect-stream.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=protect-stream.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=protect-stream.com
+@@||code.jquery.com/jquery-$script,domain=protect-stream.com
 @@||content.jwplatform.com/libraries/$script,domain=protect-stream.com
 @@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=protect-stream.com
 |http://$script,third-party,xmlhttprequest,domain=protect-stream.com
