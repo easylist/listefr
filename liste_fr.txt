@@ -8542,6 +8542,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||pub.plan-dial.com^
 ||pub.tetu.com^
 ||pub.webxfrance.org^
+||pubfilm.me/player/
 ||publi.forum.ad^
 ||pubs.ouedkniss.com^
 ||pubster.twitch.tv^
@@ -8939,6 +8940,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||wallpapergratuit.org/scripts.inc.js
 ||wamiz.fr/css/habillage/
 ||wamland.com^*.html$object,subdocument
+||watch.pubfilm.me^$popup
 ||watchcartoononline.com/inc/siteskin/swf/*.swf
 ||wawa-mania.biz/pubs/
 ||wawacity.ec/img/bopcs/
@@ -12878,6 +12880,7 @@ needsandmoods.com##a[href^="http://sigma-beauty.7eer.net/"]
 sport.fr##a[href^="http://sport-kiff.com/"]
 tirage-gagnant.com##a[href^="http://tirage-gagnant.com/tirage/"] > img
 fdesouche.com##a[href^="http://vplan.com/"]
+pubfilm.me##a[href^="http://watch.pubfilm.me/"]
 futurama-stream.eu,t411streaming.com##a[href^="http://www.adcash.com/"]
 peuple-vert.fr,scally.typepad.com##a[href^="http://www.amazon.fr/"] > img
 alsacreations.com##a[href^="http://www.amazon.fr/gp/product/"]
@@ -12934,7 +12937,7 @@ zetorrente.fr##a[rel]
 extreme-down.one##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
 seedpeer.eu##a[target="_blank"]
-4downfiles.org,9divx.org,buzzporn.net,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,planet-streaming.com,seriezone.org,streaminghd.fr,youwatch-series.com##a[target="_blank"] > img
+4downfiles.org,9divx.org,buzzporn.net,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,planet-streaming.com,pubfilm.me,seriezone.org,streaminghd.fr,youwatch-series.com##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 lefigaro.fr##a[target="_blank"] > img[style="width: 463px; height: 170px;"]
