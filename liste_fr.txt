@@ -6693,7 +6693,9 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 |http://$script,third-party,domain=pokemon-streaming.com
 |https://$script,third-party,domain=pokemon-streaming.com
 ! dragon-ball-super-streaming.com
+@@||animedigitalnetwork.fr/video/$subdocument,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
+@@||iframe-secure.com/embed/$subdocument,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
 @@||openload.co/embed/$subdocument,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
 @@||rutube.ru/play/embed/$subdocument,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
 @@||sendvid.com/embed/$subdocument,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
