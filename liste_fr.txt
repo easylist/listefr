@@ -13250,6 +13250,7 @@ femmesplus.fr###block-system-main > div + div > img
 medisite.fr###block-system-main > div > img
 femmesplus.fr###columns div > span > img
 planet.fr###content > div > img
+femmesplus.fr###content [style]
 medisite.fr###main-content-header > [id^="logo_"]
 medisite.fr###navigation-content + * > * > img
 medisite.fr###page > div > img
@@ -13271,6 +13272,7 @@ planet.fr##.region-inner.clearfix > div > img
 femmesplus.fr,planet.fr##.region-sidebar-first [class] > img
 femmesplus.fr,planet.fr##.region-sidebar-first [id] > img
 planet.fr##.region-sidebar-first span > img
+femmesplus.fr##.sidebar [style]
 igen.fr,macg.co,watchgeneration.fr##[class] > img:last-child
 medisite.fr##[id] > a > img
 igen.fr,macg.co,watchgeneration.fr##[id] > img
