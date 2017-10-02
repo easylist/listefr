@@ -1151,6 +1151,7 @@
 /pub_315_250.
 /pub_428x90.
 /pub_72890_
+/pub_adblocker_
 /pub_affiche.
 /pub_col.
 /pub_delivery.
@@ -1541,6 +1542,7 @@ _alenty.js
 _android_ads.
 _b468x60.
 _b728x90.
+_ban-300x250.
 _banner_46860.
 _banner_pub.
 _bannerad2-
@@ -6056,7 +6058,6 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||ouo.io/images/*-ad.
 ||out.be/partners/
 ||out.pladform.ru^
-||over-blog-kiwi.com^*/*_ban-300x250.
 ||over-blog.net^*/js/OB.Disclaimer.js
 ||oxyka.com/er/od.php?
 ||oyant.com/images/banners/
@@ -13529,7 +13530,6 @@ _blockadblock_
 @@||adshort.co/js/ads.js$script,~third-party
 @@||adshorte.com/js/ads.js$script,~third-party
 @@||afreesms.now.im/adblocker.js$script,domain=afreesms.com
-@@||assets.over-blog-kiwi.com/b/blog/bundles/overblogblogblog/js/ads.js$script,domain=mariage-franco-marocain.net
 @@||audipassion.com^*/jsLoader.js?adType=foobar
 @@||ay.gy/static/js/advert.js$script,domain=adf.ly|ay.gy|babblecase.com|download.replaymod.com|go.awanpc.me|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|rd1.gamecopyworld.click
 @@||badibadou.eu/*.js?auto=$script,third-party
@@ -13633,7 +13633,6 @@ trackmusik.fr#@#.afs_ads
 @@||likeup.fr^$generichide
 @@||ls-streaming.com^$generichide
 @@||macgames-download.com^$generichide
-@@||mariage-franco-marocain.net^$generichide
 @@||mobinozer.com^$generichide
 @@||papystreaming-film.com^$generichide
 @@||partage-facile.com^$generichide
