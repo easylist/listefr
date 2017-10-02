@@ -701,6 +701,7 @@
 /banniere.*?said=
 /banniere.*?type=
 /banniere.php?id=
+/banniere.php?said=
 /banniere/proxy.php?
 /banniere/proxy2.php?
 /banniere300x250.
@@ -1051,7 +1052,9 @@
 /pop-ads.
 /pop-url/|$script
 /pop.packed.
+/pop.php?id=
 /pop.php?id_
+/pop.php?said=
 /pop.php?user=
 /pop.php|$script
 /pop/license.$script
@@ -1246,7 +1249,6 @@
 /sam-pro-free/*
 /sas-banner-
 /script.packed.
-/script/pop.php?id=
 /script/Pub.php?id=
 /scriptPub.
 /scriptPub_
