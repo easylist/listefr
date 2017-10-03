@@ -6666,7 +6666,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 |http://$script,third-party,xmlhttprequest,domain=macgames-download.com|pcgames-download.com|telecharger-jeuxpc.com
 |https://$script,third-party,xmlhttprequest,domain=macgames-download.com|pcgames-download.com|telecharger-jeuxpc.com
 ! zone-telechargement.ws
-@@/engine/classes/min/index.php?charset=$script,~third-party,domain=zone-telechargement.top|zone-telechargement.ws
+@@/engine/classes/min/index.php?charset=$script,~third-party,domain=zone-telechargement.ws
 |http://$script,xmlhttprequest,domain=zone-telechargement.top|zone-telechargement.ws
 |https://$script,xmlhttprequest,domain=zone-telechargement.top|zone-telechargement.ws
 ! zone-telechargement.live
