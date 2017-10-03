@@ -4571,7 +4571,7 @@ debugger:$popup
 ||newstat.net^$third-party
 ||static-dscn.net^$third-party
 ! Mining
-/coinhive.$script
+/coinhive.$script,domain=~coin-hive.com|~coinhive.com
 /coinhive/*
 /miner-ui.$script
 /xminer.min.
