@@ -6646,6 +6646,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ! dl-protecte.org
 |http://$script,subdocument,third-party,xmlhttprequest,domain=dl-protecte.com|dl-protecte.org|protect-lien.com|security-links.com
 |https://$script,subdocument,third-party,xmlhttprequest,domain=dl-protecte.com|dl-protecte.org|protect-lien.com|security-links.com
+||zone-telechargement.ws^$domain=protect-lien.com
 ! streaming-kids.com
 |http://$script,third-party,xmlhttprequest,domain=streaming-kids.com
 |https://$script,third-party,xmlhttprequest,domain=streaming-kids.com
@@ -12737,6 +12738,7 @@ lesoir.be##a > [width="300"][height="250"]
 piframe.tk,protect-iframe.com##a > div
 jeddl.co##a > font
 zone-telechargement.ws##a > h1
+protect-lien.com##a > img
 basket-infos.com##a > img[alt^="Pub"]
 medialot.fr##a > img[height="250"]
 movietube.live##a > img[src$=".gif"]
