@@ -1109,6 +1109,8 @@
 /pu/script.$script
 /pub-300-250-
 /pub-300x250.
+/pub-accueil-droite.
+/pub-accueil-gauche.
 /pub-ads/*
 /pub-bouygues/*
 /pub-collante.
@@ -1179,6 +1181,8 @@
 /pub_ver.
 /pub_vertical.
 /pub_verticale.
+/pubaccueildroite/*
+/pubaccueilgauche/*
 /pubAdv.
 /pubb.php
 /PubBasL.
@@ -8153,6 +8157,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||leparisien.fr^*/partenaires/
 ||leparking.fr/images/alter-
 ||leparking.fr/images/Habillage_
+||lepetiteconomiste.com^*/pub-
 ||lepetiteconomiste.com^*/swf_banniere_
 ||lepoint.fr/images/promo/
 ||lequipe.fr/*/js/popin$script
@@ -9700,6 +9705,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###game_leaderboard_container
 ###gbPub728bas
 ###general_subpub
+###google-ads-2
+###google-ads-3
 ###google-adsence-300-250
 ###google_adds
 ###google_adsencetxt
@@ -12069,6 +12076,7 @@ ebay.fr##.beta-placement
 iladit.com##.bg-pub-interne
 moov.mg##.bgTGC
 ennaharonline.com##.big-ad2
+lepetiteconomiste.com##.big-banner2
 des-amours.com##.big-button
 journaldemontreal.com##.bigbox-container
 tv5.ca##.bigbox-pub
@@ -12628,6 +12636,7 @@ msn.com##.sponsorship
 msn.com##.startpage > div.refreshbody[style^="top:"]
 msn.com##.stripecontainer[data-section-id="stripe.msstore"]
 imobie.fr##.support_guide_download_upper
+lepetiteconomiste.com##.sw-banner
 forum.sportytrader.com##.tableau_bleu
 tomsguide.fr##.tabletoff
 walfoot.be##.take-banner
