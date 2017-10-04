@@ -747,6 +747,8 @@
 /bnr?*=$script
 /bouton_pub.gif
 /brightcoveAds.
+/bsa-pro-scripteo/*
+/bsa-pro-upload/*
 /bshow.php?dimension=$script,third-party
 /bshow.php?id=*&dimension=
 /cadre/160-$subdocument
@@ -9611,6 +9613,17 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###box-pub-3
 ###box-pub-4
 ###box-pub-5
+###bsa-block-125--125
+###bsa-block-1920--1200
+###bsa-block-250--250
+###bsa-block-250--600
+###bsa-block-300--250
+###bsa-block-300--600
+###bsa-block-336--280
+###bsa-block-468--60
+###bsa-block-728--90
+###bsa-block-970--250
+###bsa-block-970--90
 ###cadre_infoads
 ###cadre_pub_bas
 ###captchmeCapsuleContent
@@ -10418,6 +10431,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.bottom-advertising
 ##.bottompub
 ##.breaking-ad
+##.bsaProContainer
 ##.bumpable-ima-ad-container
 ##.business-details-ads
 ##.buzz-ad-post
