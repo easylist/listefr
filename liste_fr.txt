@@ -3656,6 +3656,7 @@ debugger:$popup
 ||3fp43qvh.trade^
 ||4141d006e4f4dd17ab9.com^
 ||41ef19c0f0794e058c.com^
+||43137c93a82b0e81da.com^
 ||43ce1018f7c0cc.download^
 ||43d6f284d10bfbbb3.com^
 ||442c8891ec726f339.com^
@@ -6655,11 +6656,11 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 |https://$script,third-party,xmlhttprequest,domain=ddl-island.su|emule-island.ru|stream-island.ru|stream-island.su
 ! ex-down.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=ed-protect.org
-@@||www.extreme-down.one/engine/classes/js/bbcodes.js$script
-@@||www.extreme-down.one/engine/classes/min/index.php$script
-|http://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org|ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
-|https://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org|ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
-||extreme-down.one^$popup,script,~third-party
+@@||www.extreme-down.pro/engine/classes/js/bbcodes.js$script
+@@||www.extreme-down.pro/engine/classes/min/index.php$script
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org|ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.pro|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org|ex-down.co|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.info|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.pro|extreme-down.ws|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
+||extreme-down.pro^$popup,script,~third-party
 ! dl-protecte.org
 |http://$script,subdocument,third-party,xmlhttprequest,domain=dl-protecte.com|dl-protecte.org|protect-lien.com|security-links.com
 |https://$script,subdocument,third-party,xmlhttprequest,domain=dl-protecte.com|dl-protecte.org|protect-lien.com|security-links.com
@@ -12307,7 +12308,7 @@ youscribe.com##.interpage
 maison-travaux.fr##.intersticiel_block
 maison-travaux.fr##.intersticiel_unilin
 bienpublic.com,republicain-lorrain.fr##.iookaz
-ed-protect.org,extreme-down.one##.ip-warning
+ed-protect.org,extreme-down.one,extreme-down.pro##.ip-warning
 cuisineactuelle.fr##.item-ad-header
 jeuxvideo.com##.item-home-accroche-sponso
 largus.fr##.item-partenaire
@@ -12995,7 +12996,7 @@ windsurfjournal.com##a[href^="link,"]
 equirodi.be##a[href^="redirect/redirect/idbanner/"]
 dpstream.to,quedustream.com,streaming-series.to##a[href^="streaming-series"]
 mega-p2p.net##a[href^="vpn"]
-extreme-down.one##a[id]
+extreme-down.one,extreme-down.pro##a[id]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
 lien-torrent.com##a[onclick*="directlinks"]
@@ -13006,7 +13007,7 @@ ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N',
 telechargementz.tv##a[rel="nofollow"]
 achat-bitcoins.com##a[rel="nofollow"] > img
 zetorrente.fr##a[rel]
-extreme-down.one##a[style]
+extreme-down.one,extreme-down.pro##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
 seedpeer.eu##a[target="_blank"]
 4downfiles.org,9divx.org,buzzporn.net,dpstreaming.cx,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,planet-streaming.com,pubfilm.me,serie-streaming.watch,seriezone.org,streaminghd.fr,youwatch-series.com##a[target="_blank"] > img
@@ -13151,7 +13152,7 @@ sinfest.net##noscript a
 bonjourmadame.fr##object[width="728"][height="90"]
 linux62.org##p[style="width: 600px; padding: 10px; margin-left: auto; margin-right: auto; border: 1px solid #000055; overflow: hidden; background: white url('pub_htmlcss_snaky360_fond.png') no-repeat 50% 50%"]
 kbk-tv.com##section#ref
-extreme-down.one##span[style$="cursor: pointer;"]
+extreme-down.one,extreme-down.pro##span[style$="cursor: pointer;"]
 idowatch.net##style + [onclick]
 boursorama.com##style + div > .visible-desktop:first-child
 boursorama.com##sup.main[style="display: block;"]
