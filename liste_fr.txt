@@ -636,7 +636,6 @@
 /b/ads/*
 /b728x90a.
 /back-adsens.
-/backend_loader.$script
 /ban/*/300x250
 /ban160.js
 /ban300.js
@@ -880,8 +879,6 @@
 /frame_clic.*&aff=
 /frame_popup.
 /free/ads/*
-/front_loar.js
-/frontend_loader.$script
 /frprn_ad.
 /full-page-script-short.
 /games-ad.
@@ -1285,7 +1282,6 @@
 /sex_ad.
 /sex_ads.
 /sfibanners.
-/sfrontend_loader.$script
 /shareaholic.js
 /shareaholic/*
 /shared/ad/*
@@ -1581,7 +1577,6 @@ _emplacements.*=728x90
 _epmads.
 _event_pub.
 _flash_ad_
-_frontend_loader.$script
 _GIF_AD3_
 _iframe300x200.
 _iframe300x600.
@@ -1615,6 +1610,15 @@ _smartclick.js
 _Social-Advert-
 _waframedia_
 _werbebanner_
+! exads
+/backend_loader.$script
+/backend_loador.$script
+/frontend_loader.$script
+/frontend_loador.$script
+/sbackend_loader.$script
+/sfrontend_loader.$script
+_backend_loader.$script
+_frontend_loader.$script
 ! Siropu ads manager
 /data/Siropu/images/*
 /Siropu/AM/display.js
