@@ -66,6 +66,7 @@
 &promo_sizes=
 &pub_redirect=
 &pubsite=
+&r=*&zoneid=
 &redir_tool=*&size=
 &subpartenaire=
 &tid=*&pid=*&status=*&v=
@@ -1734,6 +1735,7 @@ _frontend_loader.$script
 &publisherid=$popup
 &pubref=*&utm_campaign=$popup
 &pubsite=$popup
+&r=*&zoneid=$popup
 &redid=*&pop=$popup
 &runauction=$popup
 &subAffId=$popup
@@ -6712,8 +6714,8 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 @@||ajax.googleapis.com/ajax/libs/$script,domain=ed-protect.org
 @@||www.extreme-down.pro/engine/classes/js/bbcodes.js$script
 @@||www.extreme-down.pro/engine/classes/min/index.php$script
-|http://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.pro|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
-|https://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.pro|extreme-streaming.com|extreme-streaming.net|extreme-up.com|series-vf.com
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.pro|extreme-streaming.com|extreme-streaming.net|extreme-up.com
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.pro|extreme-streaming.com|extreme-streaming.net|extreme-up.com
 ||extreme-down.pro^$popup,script,~third-party
 ! dl-protecte.org
 |http://$script,subdocument,third-party,xmlhttprequest,domain=dl-protecte.com|dl-protecte.org|protect-lien.com|security-links.com
