@@ -6999,6 +6999,11 @@ oload.info,oload.tv,streamango.com,streamcherry.com###videooverlay
 @@||ahcdn.com^$xmlhttprequest,domain=player.pornovore.fr
 |http://$script,third-party,xmlhttprequest,domain=pornovore.fr
 |https://$script,third-party,xmlhttprequest,domain=pornovore.fr
+! xxximagetpb.org
+@@||xxximagetpb.org/app/lib/chevereto.min.js$script,domain=xxximagetpb.org
+@@||xxximagetpb.org/lib/Peafowl/js/scripts.min.js$script,domain=xxximagetpb.org
+@@||xxximagetpb.org/lib/Peafowl/peafowl.min.js$script,domain=xxximagetpb.org
+||xxximagetpb.org^$script
 ! speedvid.net
 @@||www.speedvid.net/dl?op=download_orig&id=*&r=$popup,~third-party,domain=speedvid.net
 |http://$script,subdocument,third-party,xmlhttprequest,domain=speedvid.net
