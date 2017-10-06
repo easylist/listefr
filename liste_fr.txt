@@ -174,10 +174,12 @@
 .be/adv/
 .campaignsFileLoaded|$script
 .cc/ad/
+.click/banner/
 .com.sa/ads/
 .com/adb.
 .com/adj/
 .com/adpro.
+.com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com|~visuels.l214.com
 .com/bnrs/$subdocument
 .com/func.js|$script,~third-party
 .dz/ads/
@@ -1612,8 +1614,6 @@ _smartclick.js
 _Social-Advert-
 _waframedia_
 _werbebanner_
-||click/banner/
-||com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com|~visuels.l214.com
 ! regex
 /\.(accountant|bid|click|club|com|cricket|date|download|faith|link|loan|lol|men|online|party|racing|review|science|site|space|stream|top|trade|webcam|website|win|xyz|com)\/(([0-9]{2,9})(\.|\/)(css)?)$/$script,stylesheet,third-party,xmlhttprequest
 /\.(com|info)\/[a-zA-Z0-9\+\/]{64,}/$image,ping,third-party,domain=adf.ly|ay.gy|babblecase.com|beinsport-streaming.com|daclips.com|daclips.in|dl-protecte.com|dl-protecte.org|filesupload.org|flashx.tv|flowyourvideo.com|footstream.tv|gamecopyworld.click|gorillavid.in|j.gs|justmp4.com|kaitect.com|listentoyoutube.com|movpod.in|mystream.la|picocurl.com|pintient.com|protect-lien.com|q.gs|replaymod.com|security-links.com|streaming-football.org|thepiratebay.org|torrentfunk.com|toussports.info|uptobox.com|uptostream.com|vidgg.to|vidtodo.com|watchvideo.us
