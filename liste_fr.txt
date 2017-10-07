@@ -4692,14 +4692,23 @@ debugger:$popup
 ||newstat.net^$third-party
 ||static-dscn.net^$third-party
 ! Mining
-/coinhive.$script,domain=~coin-hive.com|~coinhive.com
-/coinhive/*
-/miner-ui.$script
-/xminer.min.
+/c-hive.js
+/coinhive.min.js
+/jsecoin.*/?
+/miner-ui.js
+/miner.min.js
+/projectpoi.min.js
+/xminer.js
+/xminer.min.js
+||cnhv.co^$third-party
 ||coin-hive.com^$third-party
 ||coinhive.com^$third-party
+||crypto-loot.com^$third-party
 ||jsecoin.com^$third-party
 ||minemytraffic.com^$third-party
+||miner.pr0gramm.com^$third-party
+||ppoi.org^$third-party
+||projectpoi.com^$third-party
 !
 !-------------------- Annonceurs popup --------------------!
 !
