@@ -129,6 +129,7 @@
 -affiliate-earn-
 -animated-ad.
 -ban.468.php
+-banner-125x125.
 -banner-300x250.
 -banner250-
 -banner300-
@@ -1008,6 +1009,7 @@
 /newcafv2.js
 /newpromo.
 /nginad.
+/no-banner-$image
 /npop.js|
 /nugg.ad.
 /nugg.add.
@@ -1142,6 +1144,7 @@
 /pub/728_top.
 /pub/ban_
 /pub/banniere/*
+/pub/banniere_
 /pub/bannieres/*
 /pub/dfp.
 /pub/dfp/*
@@ -8357,6 +8360,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||lkeria.com/media/publier-
 ||lkeria.com/redirect.$popup
 ||lnc.nc^*/habillage-lnc/
+||lnr-dz.com/pub/
 ||lobourse.com/pub/
 ||location-etudiant.fr/pubs/
 ||logicielmac.com^*/habillage/
