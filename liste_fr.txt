@@ -4713,6 +4713,7 @@ debugger:$popup
 /jsecoin.*/?
 /miner-ui.js
 /miner.min.js
+/miner?key=
 /projectpoi.min.js
 /xminer.js
 /xminer.min.js
@@ -4725,6 +4726,7 @@ debugger:$popup
 ||miner.pr0gramm.com^$third-party
 ||ppoi.org^$third-party
 ||projectpoi.com^$third-party
+||webmine.cz^$third-party
 !
 !-------------------- Annonceurs popup --------------------!
 !
