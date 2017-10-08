@@ -1733,6 +1733,7 @@ _frontend_loader.$script
 &id_rotation=$popup
 &lfapaff_id=$popup
 &noexitctapop=$popup
+&nopop=$popup
 &nsfw=&id_promo=$popup
 &oid=*&subid=*&pubid=$popup
 &pub_id=$popup
@@ -13732,6 +13733,7 @@ _blockadblock_
 @@||1max2sms.com/blogads.css
 @@||a.f1g.fr/build/2/adsense.js$script
 @@||ad.advertstream.com/adjs_r.php?$script,domain=forum.virtualdjing.com
+@@||adbilty.me/js/ads.js$script,domain=adbilty.me
 @@||adbull.me/js/ads.js$script,domain=adbull.me
 @@||adgear.com/session.js$domain=vtele.ca
 @@||adgear.com^*/adgear.js$domain=vtele.ca
