@@ -1914,6 +1914,8 @@ _frontend_loader.$script
 /trk/|$popup
 /unsub_aff.$popup
 /watch?*&uuid=*&refer=*&key=$popup
+/watch?*&zone_key=
+/watch?site_key=
 /www/go/*?zoneid=$popup
 /xdirect.*?$popup
 /xdirect/*$popup
@@ -3095,6 +3097,7 @@ debugger:$popup
 ||ppcadmedia.com^$third-party
 ||ppndr.xyz^$third-party
 ||pprx.work^$third-party
+||pqowedazx.bid^$third-party
 ||predictivadvertising.com^$third-party
 ||privetadblock.ru^$third-party
 ||proche2moi.com^$third-party
@@ -7236,6 +7239,8 @@ he2eini7ka.com##div > [id^="player"] + div[id][style*="z-index:"]
 @@||tvad.me/js/adsense.js?$script,~third-party
 @@||vidup.me/adsense.js?$script,~third-party
 tvad.me##.vjs-overlay-no-background
+|http://$script,third-party,xmlhttprequest,domain=thevideo.io
+|https://$script,third-party,xmlhttprequest,domain=thevideo.io
 ||thevideo.$subdocument,domain=thevideo.io|thevideo.me|vidup.me
 ||tvad.me^$subdocument,~third-party
 ||vidup.me^$subdocument,~third-party
