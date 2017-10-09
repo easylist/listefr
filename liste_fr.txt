@@ -7344,6 +7344,7 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 ||link.tl^$script,third-party
 ||ouo.io^$script,third-party
 ||shink.in^$script,third-party
+||shink.me^$script,third-party
 ||uskip.me^$script,third-party
 ||xess.pro^$script,third-party
 ||yourlink.in^$script,third-party
@@ -8835,7 +8836,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||sfr.fr/arrow/banner?
 ||sfr.fr/eTagP/msg.jsp?
 ||sfr.fr^*/framePub_
-||shink.in/img/downloadad.png
+||shink.*/img/downloadad.png
+||shink.*/js/creative.js
 ||shoppingbox.liberation.fr^
 ||signification-prenom.com/images/myprenom-site.gif
 ||signification-prenom.com/Images/voyance-par-telephone.gif
@@ -13792,7 +13794,7 @@ _blockadblock_
 @@||scan-manga.fr^$stylesheet
 @@||securepubads.g.doubleclick.net/gampad/ads?$script,domain=7sur7.be
 @@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
-@@||shink.in/js/adframe.js$script,domain=shink.in
+@@||shink.*/js/adframe.js$script,domain=shink.in|shink.me
 @@||smartadserver.com/call/pubj/$script,domain=alloclips.com|itele.fr|larvf.com|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|portail.free.fr
 @@||static-v.com/lib/js/_source/blockadblock.js$script,domain=vtele.ca
@@ -13868,6 +13870,7 @@ trackmusik.fr#@#.afs_ads
 @@||sat-universe.com^$generichide
 @@||savefile.co^$generichide
 @@||security-links.com^$generichide
+@@||shink.me^$generichide
 @@||shrink-service.it^$generichide
 @@||softmaroc.org^$generichide
 @@||sos-lettre.fr^$generichide
