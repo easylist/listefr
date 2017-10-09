@@ -6733,16 +6733,6 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ! videoplaza
 .damoh.$media,~third-party
 .damoh.*.*/*/|
-://*0.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
-://*2.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
-://*3.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
-://*4.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
-://*5.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
-://*6.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
-://*7.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
-://*8.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
-://*9.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
-://*e.*.damoh.*/|$domain=6play.fr|canalplus.fr|ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com|minutefacile.com|rtl.be
 ! full-film.me
 @@||code.jquery.com^$script,domain=full-serie.biz
 @@||disqus.com/embed.js$script,domain=full-serie.biz
