@@ -837,6 +837,7 @@
 /display_pub.
 /DisplayAdTargets.
 /displayItem?cbzid=
+/dist/pnr.js?
 /doubleclick_dmm/*
 /drawpub2.
 /dreamads/*
@@ -1441,6 +1442,7 @@
 ://promo2.$third-party
 ://reclame.
 ://regiepub.
+://report-ads-to.
 ://rotator.
 ://serve.*?random=
 ://soads.
@@ -3080,6 +3082,7 @@ debugger:$popup
 ||plurielmediacenter.com^$third-party
 ||plusservicepartners.com^$third-party
 ||plxnt.com^$third-party
+||pnsandbox.com^$third-party
 ||poala21.com^$third-party
 ||pocofh.com^$third-party
 ||poparb.com^$third-party
@@ -13796,6 +13799,7 @@ _blockadblock_
 @@||streamplay.*/js/pop$script,~third-party,domain=streamplay.club|streamplay.to
 @@||textnow.com/messaging/assets/advertisements.js$script
 @@||tune.pk/js/ads.js?cache=$script,domain=tune.pk
+@@||u2s.io/js/ads.js$script,domain=u2s.io
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||wakanim.tv^*/video/advertisement?idepisode=
 @@||www.passetoncode.fr/ads.js$script,~third-party
@@ -13869,6 +13873,7 @@ trackmusik.fr#@#.afs_ads
 @@||streaming-football.club^$generichide
 @@||the-night-of-streaming.eu^$generichide
 @@||tout-debrid.net^$generichide
+@@||u2s.io^$generichide
 @@||ultim-telechargementz.com^$generichide
 @@||uploads.to^$generichide
 @@||uploadx.link^$generichide
