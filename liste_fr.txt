@@ -1645,6 +1645,7 @@ _frontend_loader.$script
 /\/[a-z]{1,3}\?zoneId\=\d{7}\-\d{7}$/$script
 /license\.\d{1,5}\.js/$script
 !/script\.\d{1,3}\.js$/$script
+/\.canal-plus\.net\.s0\.frz\.io\/image\/[\d]{2}\/[\d]{1}\/[\d]{6}\.jpg/$image
 ! CDN filters
 /cdn-cgi/pe/bag2?*%2Fad_slideout.
 /cdn-cgi/pe/bag2?*%2Fads1.
@@ -1836,6 +1837,7 @@ _frontend_loader.$script
 /bdv_rd.dbm?$popup
 /bonne.php?affaire=$popup
 /campaigns/click?$popup
+/cc?imgid=$popup
 /click-cpa.$popup
 /click/*?affiliate=$popup
 /click/?idadprint=$popup
@@ -8489,7 +8491,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||media.peterhahn.fr/is/image/peterhahn/*_skyscraper_
 ||media.rtl.fr/online/image/*_skin-
 ||media.rtl.fr^*/image/*_habillage$image
-||media7.canal-plus.net.s0.frz.io/image/59/0/707590.jpg
 ||medialot.fr/wp-content/uploads/*/Logo-
 ||medialot.fr/wp-content/uploads/*/pub-
 ||medias.jds.fr/medias/direct/*/habillage_
