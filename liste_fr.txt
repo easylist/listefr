@@ -2126,6 +2126,7 @@ debugger:$popup
 ||8mm.shiksha^$third-party
 ||8utmmi.xyz^$third-party
 ||91.210.165.104^$third-party
+||95.211.211.158^$third-party
 ||99meta.com^$third-party
 ||9content.com^$third-party
 ||9hwmwzl7.website^$third-party
@@ -2316,6 +2317,7 @@ debugger:$popup
 ||advertica.ae^$third-party
 ||advertine.com^$third-party
 ||advertizementserving.com^$third-party
+||advertizingms.com^$third-party
 ||advertoly.com^$third-party
 ||advertsight.com^$third-party
 ||advertsponsor.com^$third-party
@@ -4213,6 +4215,7 @@ debugger:$popup
 /^https?:\/\/(?!disqus\.)([a-z]+)\.(com|info)\/([0-9a-zA-Z\+\/]){420,460}/$subdocument,third-party
 ||abourself.com^$third-party
 ||acivilege.com^$third-party
+||acknowing.com^$third-party
 ||actoriends.info^$third-party
 ||africal.info^$third-party
 ||anothinga.com^$third-party
@@ -4263,6 +4266,7 @@ debugger:$popup
 ||see-work.info^$third-party
 ||separists.com^$third-party
 ||severbak.com^$third-party
+||shahneman.info^$third-party
 ||shalleda.com^$third-party
 ||signoredom.com^$third-party
 ||streesusa.info^$third-party
@@ -4282,6 +4286,7 @@ debugger:$popup
 ! popunder
 ||acrossiblel.info^$third-party
 ||auctional.info^$third-party
+||breatik.info^$third-party
 ||buckilyg.info^$third-party
 ||cecrating.info^$third-party
 ||crisivelyt.info^$third-party
@@ -4934,6 +4939,7 @@ debugger:$popup
 ||booksuper.info^$popup,third-party
 ||boruto.fr^$popup,third-party
 ||bridsun.com^$popup,third-party
+||brightonclick.com^$popup,third-party
 ||brostraffic.com^$popup,third-party
 ||brucelead.com^$popup,third-party
 ||bruceleadx2.com^$popup,third-party
@@ -5630,6 +5636,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||altusmediagroupinc.go2cloud.org^$popup
 ||amateurdusexe.com^*/banniere/
 ||amateursvideos.net/banners/
+||amateurvoyeursite.com/images/misc/$third-party
 ||amazon.fr/exec/obidos/external-search?$subdocument,domain=annuaire-bleu.net
 ||amazon.fr^$popup,domain=fdesouche.com
 ||amazonaws.com/hbams/
@@ -5896,6 +5903,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||exceluser.com/images/info/pub/
 ||exchange.pbem.fr^
 ||exoner.com^$subdocument,third-party
+||extremeporn.info/images/misc/$third-party
 ||facebook.net/*/sdk.js$script,domain=lexpress.fr
 ||faireunlien.com/ful468.
 ||faireunlien.com/promo/
@@ -6290,6 +6298,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||porn.fr^*/site_id/$popup
 ||pornhub.com^*?utm_$popup
 ||pornme.pm/wrb/
+||pornoboard.org/images/misc/$third-party
 ||pornoparadies.org/banner/
 ||pornovore.fr^$popup,domain=amateur2sexe.fr
 ||pornspirit.com/logo-$third-party
