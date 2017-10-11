@@ -7737,6 +7737,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||centerblog.net/cadre-*?zoneid=$subdocument
 ||centerblog.net/your-private-proxy-
 ||centreimmo.com/contents/edition/lien/
+||centrifuge-lemag.fr/wp-content/uploads/*/pub_
 ||cergyvie.fr/wp-content/uploads/*/pub-
 ||cession-commerce.com/images/bandeaux/
 ||cession-commerce.com/images/pub_
@@ -12927,6 +12928,7 @@ ccm.net,commentcamarche.net##[class*="_item--sponsor"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
 vidto.me##[class*="backscreen"]
 uploaded.net##[class*="pico-"]
+centrifuge-lemag.fr##[class][style] > a#cb-bg-to
 bestream.tv##[class^="adsRemove"]
 narkive.com##[class^="ads_"]
 jeu.info##[class^="banniere-"]
@@ -12964,6 +12966,7 @@ jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 movietube.live##[id^="video"] a
 filecrypt.cc##[onclick] img
 filecrypt.cc##[onmouseup]
+centrifuge-lemag.fr##[role="banner"] > #cb-logo-box
 amvtv.net##[style*="position: absolute; z-index: 99999"]
 boursorama.com##[style="width: 1000px; margin: 0px auto; min-width: 0px; min-height: 90px; display: block;"]
 forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding:15px"]
