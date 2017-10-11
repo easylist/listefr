@@ -6746,8 +6746,6 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 @@||www.youtube.com/iframe_api|$script,domain=ultimedia.com
 |http://$object-subrequest,script,third-party,xmlhttprequest,domain=ultimedia.com
 |https://$object-subrequest,script,third-party,xmlhttprequest,domain=ultimedia.com
-! videoplaza
-.damoh.*.*/*/|
 ! full-film.me
 @@||code.jquery.com^$script,domain=full-serie.biz
 @@||disqus.com/embed.js$script,domain=full-serie.biz
