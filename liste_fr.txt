@@ -43,7 +43,6 @@
 &arabycash_
 &campaign_key=
 &cbrandom=
-&clickid=*&voluumdata=
 &cns_ads=
 &cns_ads_
 &cwadformat=
@@ -71,7 +70,7 @@
 &subpartenaire=
 &tid=*&pid=*&status=*&v=
 &videoAdHtmlId=
-&voluumdata=*&zoneid=
+&voluumdata=
 &zoneid=*&direct=
 ,728x90&promo_
 ,popjs|
@@ -1521,6 +1520,7 @@
 ?type=ad;
 ?ucozads^
 ?varpub=
+?voluumdata=
 ?w=468&h=60
 ?zoneid=*&ext=$third-party
 ?zoneid=*&placement=
@@ -3541,6 +3541,8 @@ debugger:$popup
 ||zononi.com^$third-party
 ||zwaar.net^$third-party
 ||zytpirwai.net^$third-party
+! voluumdata
+||com-directory.co^
 ! videoadex.com
 ||azzerr.ovh^$third-party
 ||bvvx.ovh^$third-party
@@ -5655,7 +5657,6 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||amazonaws.com/pubfig/
 ||amazonaws.com/static.contentza.com/
 ||amazonaws.com/waframedia*.
-||amazonaws.com^*&voluumdata=
 ||amazonaws.com^*-ccmbenchmark
 ||amazonaws.com^*/3x250-$subdocument
 ||amazonaws.com^*/publishers/$script
