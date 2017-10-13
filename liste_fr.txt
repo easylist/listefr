@@ -6900,6 +6900,8 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ! mangastreaming.fr
 @@||ajax.googleapis.com/ajax/libs/$script,domain=manga-streaming.fr|mangastreaming.fr
 @@||protect-iframe.com/embed-$subdocument,third-party,domain=manga-streaming.fr|mangastreaming.fr
+@@||protect-video.com/embed.php?id=$subdocument,domain=manga-streaming.fr|mangastreaming.fr
+@@||www.mangastreaming.fr/wp-$script,stylesheet,domain=manga-streaming.fr
 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr
 ||manga-streaming.fr^$subdocument
@@ -7090,8 +7092,8 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 |http://$script,third-party,domain=vidoza.net
 |https://$script,third-party,domain=vidoza.net
 ! openload
-/^https?:\/\/(tt1\.|yii\.)?(oload.tv|oload.info|openload.co|streamango.com|streamcherry.com|ifp.re|protect-iframe.com|protect-video.com)\/(.*\/)?(cdn-cgi\/|script\.\d{3}\.|license\.|VPAIDFlash\.|(.*\.vpaid\.)|(r3\/))(.*)/$domain=oload.info|oload.tv|openload.co|streamango.com
-/cdn-cgi/apps/head/*$script,domain=ifp.re|oload.info|oload.tv|openload.co|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
+/^https?:\/\/(tt1\.|yii\.)?(oload.tv|oload.info|openload.co|streamango.com|streamcherry.com|ifp.re|piframe.tk|protect-iframe.com|protect-video.com)\/(.*\/)?(cdn-cgi\/|script\.\d{3}\.|license\.|VPAIDFlash\.|(.*\.vpaid\.)|(r3\/))(.*)/$domain=oload.info|oload.tv|openload.co|streamango.com
+/cdn-cgi/apps/head/*$script,domain=ifp.re|oload.info|oload.tv|openload.co|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
 @@/(\/ados.js|\/license\.adbl\.js|\/popunder1\.js|\/popunder2\.js|\/script\.234\.js)$/$script,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
 oload.info,oload.tv,openload.co,streamcherry.com##.vjs-modal-dialog-content
