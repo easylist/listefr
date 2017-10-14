@@ -1988,7 +1988,7 @@ _frontend_loader.$script
 ?link=fakeplayer$popup
 ?MediaSegmentId=$popup
 ?noexitctapop=$popup
-?nopop=$popup
+?nopop=$popup,domain=~info.jumia.com
 ?partner=*&offer_id=$popup,third-party
 ?preview=*&pgid*&from_sz=$popup
 ?pub_id=$popup
