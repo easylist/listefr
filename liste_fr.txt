@@ -2517,6 +2517,7 @@ debugger:$popup
 ||cashpage.net^$third-party
 ||catraff.com^$third-party
 ||cavixoapp.com^$third-party
+||cbshift.com^$thid-party
 ||cbshift.com^$third-party
 ||cclpub.com^$third-party
 ||cdn.fail^$third-party
@@ -7183,6 +7184,13 @@ oload.info,oload.tv,streamango.com,streamcherry.com###videooverlay
 @@||xxximagetpb.org/lib/Peafowl/js/scripts.min.js$script,domain=xxximagetpb.org
 @@||xxximagetpb.org/lib/Peafowl/peafowl.min.js$script,domain=xxximagetpb.org
 ||xxximagetpb.org^$script
+! eroprofile.com
+@@||static.eroprofile.com^*/common.js$script,~third-party
+@@||static.eroprofile.com^*/jquery-$script,~third-party
+@@||static.eroprofile.com^*/jquery.$script,~third-party
+@@||static.eroprofile.com^*/json.js$script,~third-party
+@@||static.eroprofile.com^*/tools.js$script,~third-party
+||eroprofile.com^$script
 ! speedvid.net
 @@||www.speedvid.net/dl?op=download_orig&id=*&r=$popup,~third-party,domain=speedvid.net
 |http://$script,subdocument,third-party,xmlhttprequest,domain=speedvid.net
@@ -9949,6 +9957,9 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###div-gpt-ad-Rectangle
 ###div-gpt-ad-mainColumn_double
 ###divADV
+###divHomeAd1
+###divHomeAd2
+###divHomeAd3
 ###divPub
 ###divPublicityLateral
 ###div_banniere_pub
