@@ -6950,8 +6950,6 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
 ! mangastreaming.fr
 @@||ajax.googleapis.com/ajax/libs/$script,domain=manga-streaming.fr|mangastreaming.fr
-@@||ifp.re/$subdocument,domain=manga-streaming.fr|mangastreaming.fr
-@@||protect-iframe.com/embed-$subdocument,third-party,domain=manga-streaming.fr|mangastreaming.fr
 @@||protect-video.com/embed.php?id=$subdocument,domain=manga-streaming.fr|mangastreaming.fr
 @@||www.mangastreaming.fr/wp-$script,stylesheet,domain=manga-streaming.fr
 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr
@@ -7318,6 +7316,9 @@ he2eini7ka.com##div > [id^="player"] + div[id][style*="z-index:"]
 @@||watchers.to/embed-$subdocument,domain=ifp.re|protect-iframe.com
 |http://$script,subdocument,third-party,xmlhttprequest,domain=ifp.re|piframe.tk|protect-iframe.com
 |https://$script,subdocument,third-party,xmlhttprequest,domain=ifp.re|piframe.tk|protect-iframe.com
+||ifp.re^$subdocument,third-party
+||piframe.tk^$subdocument,third-party
+||protect-iframe.com^$subdocument,third-party
 ! raptu.com
 @@||bambergerkennanchitinous.com/.adframesrc.|$script,domain=raptu.com
 @@||raptu.com^$generichide
@@ -13963,7 +13964,6 @@ trackmusik.fr#@#.afs_ads
 @@||hashe.in^$generichide
 @@||hyperdebrid.net^$generichide
 @@||hyperserv.fr^$generichide
-@@||ifp.re^$generichide
 @@||iiv.pl^$generichide
 @@||iphonetweak.fr^$generichide
 @@||japan-shin.com^$generichide
@@ -13979,7 +13979,6 @@ trackmusik.fr#@#.afs_ads
 @@||partage-facile.com^$generichide
 @@||pasteca.sh^$generichide
 @@||planet-series.co^$generichide
-@@||protect-iframe.com^$generichide
 @@||protect-lien.com^$generichide
 @@||protect-zt.com^$generichide
 @@||radio-en-direct.fr^$generichide
