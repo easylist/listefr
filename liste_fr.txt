@@ -6968,8 +6968,8 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 @@||www.firstonetv.eu/embed/$subdocument,domain=beinsport-streaming.com|direct-foot.info|footstream.tv|streaming-football.org
 @@||www.hdmyt.info/channel.php?file=$script,domain=beinsport-streaming.com|direct-foot.info|footstream.tv|streaming-football.org
 @@||www.hdmyt.info/player.php?file=$subdocument,domain=beinsport-streaming.com|direct-foot.info|footstream.tv|streaming-football.org
-|http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=beinsport-streaming.com|direct-foot.info|footstream.tv|streaming-football.org
-|https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=beinsport-streaming.com|direct-foot.info|footstream.tv|streaming-football.org
+|http://$image,popup,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=beinsport-streaming.com|direct-foot.info|footstream.tv|streaming-football.org
+|https://$image,popup,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=beinsport-streaming.com|direct-foot.info|footstream.tv|streaming-football.org
 ||beinsport-streaming.com^$subdocument,third-party
 ||direct-foot.info^$subdocument,third-party
 ||footstream.tv^$subdocument,third-party
