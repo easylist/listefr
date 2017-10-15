@@ -184,6 +184,7 @@
 .com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com|~visuels.l214.com
 .com/bnrs/$subdocument
 .com/func.js|$script,~third-party
+.com/popup.js
 .dz/ads/
 .dz/ads_
 .fr/*/ads/
@@ -212,6 +213,7 @@
 .ma/ads_
 .me/adver/
 .mobi/ads/
+.net/popup.js
 .php/affiliate/
 .php?&zoneid=
 .php?*&bannerid*campaignid=
@@ -1102,7 +1104,14 @@
 /popup.php?*&pub=
 /popup.php?affil_id=
 /popup.php?user=
+/popup1.js
+/popup2.js
+/popup3.js
 /popup4.js
+/popup5.js
+/popup6.js
+/popup7.js
+/popup8.js
 /popupyous.js
 /porn_ad.
 /porn_ads.
