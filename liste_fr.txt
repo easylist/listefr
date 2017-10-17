@@ -9986,6 +9986,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###firstpost_ad
 ###fixe_plugin
 ###fixed-ads
+###floated-ad
 ###footer-ad-formation
 ###footer-advertising
 ###footer-pub
@@ -10420,6 +10421,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.ad-banner-leboat
 ##.ad-boxpursuit
 ##.ad-container
+##.ad-dfp-generic-content
 ##.ad-flow
 ##.ad-halfpage
 ##.ad-halfpage-desktop
@@ -10453,6 +10455,9 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.ad-tray-728
 ##.ad-unit-after-title
 ##.ad-visible
+##.ad-wrapper-middle
+##.ad-wrapper-right
+##.ad-wrapper-top
 ##.ad160b
 ##.ad300d
 ##.ad336b
@@ -10594,6 +10599,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.adsdisplay
 ##.adsense-article
 ##.adsense-bottom
+##.adsense-bottom-mob-tab
+##.adsense-bottom-normal
 ##.adsense-footer
 ##.adsense-sidebar
 ##.adsense300x600
@@ -10743,6 +10750,9 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.bn_ads
 ##.border-box-ad
 ##.border_ads
+##.bottom-ad-desktop
+##.bottom-ad-mob-tab
+##.bottom-ad-normal
 ##.bottom-advertising
 ##.bottompub
 ##.breaking-ad
@@ -11639,6 +11649,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##div[class*="view-ads-header-"]
 ##div[class*="view-id-ads_header_"]
 ##div[class*="view-id-ads_sidebar_"]
+##div[class^="ad-inside-post-"]
 ##div[class^="ad_200_"]
 ##div[class^="ad_468_"]
 ##div[id$="textAdsBox"]
