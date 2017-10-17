@@ -904,6 +904,7 @@
 /get.cgi?*=banner
 /get_banniere.php?$subdocument
 /getadsor.
+/getAdvancedPartnerDiv.
 /getDlAd?
 /getPromotedClassifiedAd.
 /getPub.php
@@ -8019,7 +8020,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||exerciceabdo.fr/wp-content/uploads/*/banner2.gif
 ||exerciceabdo.fr/wp-content/uploads/*/capsimax.png
 ||exerciceabdo.fr/wp-content/uploads/2014/07/the-vert.png
-||expat.com^*/getAdvancedPartnerDiv.php
 ||explorerlondres.com^*/hotelscom.gif
 ||extraitsmatures.com/data/$image
 ||extraitsmatures.com^*/pop.
@@ -9808,6 +9808,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###advFooter
 ###advHeader
 ###adv_big_blocked
+###advancedPartnerDiv
 ###advert-title
 ###advert01
 ###advert02
@@ -10529,6 +10530,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.ads-f-right
 ##.ads-foot
 ##.ads-group
+##.ads-header-728
 ##.ads-heads
 ##.ads-information
 ##.ads-inner-video-title
