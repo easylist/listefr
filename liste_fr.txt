@@ -7463,6 +7463,9 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 @@||google.com/recaptcha/$subdocument,domain=adshorte.com
 |http://$script,subdocument,third-party,domain=adshorte.com
 |https://$script,subdocument,third-party,domain=adshorte.com
+! streamingok.com
+|http://$script,third-party,xmlhttprequest,domain=streamingok.com
+|https://$script,third-party,xmlhttprequest,domain=streamingok.com
 ! Auto short link scripts
 ||adhit.me^$script,third-party
 ||adshorte.com^$script,third-party
@@ -13873,6 +13876,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /adblocker.blogads.
 /adblockTester.
 /ads_enabled_
+/check-blocker.js
 /fadb.min.js?
 /jquery.adi.
 /kill-adblock/*
