@@ -697,6 +697,7 @@
 /banner_campaign_
 /banner_display.
 /banner_ext.
+/banner_iframe.
 /banner_pub.
 /banner_show.
 /bannerad2300.
@@ -3359,6 +3360,7 @@ debugger:$popup
 ||sunrisema.link^$third-party
 ||supaads.com^$third-party
 ||superadsoffers.com^$third-party
+||superfastcdn.com^$third-party
 ||supersmsoffers.com^$third-party
 ||supravideos.com^$third-party
 ||surfaceprivee.com^$third-party
@@ -7100,7 +7102,6 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||telecharger-youtube-mp3.com^$script,xmlhttprequest
 ! convertinmp4.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=convertinmp4.com
-@@||velocecdn.com/script/$script,domain=convertinmp4.com
 |http://$script,third-party,domain=convertinmp4.com
 |https://$script,third-party,domain=convertinmp4.com
 ! gamestorrents.com
@@ -14039,6 +14040,7 @@ trackmusik.fr#@#.afs_ads
 @@||conserves.blogspot.ca^$generichide
 @@||coolgames.com^$generichide
 @@||coshurl.co^$generichide
+@@||cours-de-droit.net^$generichide
 @@||dl-protect.top^$generichide
 @@||dl-protecte.com^$generichide
 @@||dl-protecte.org^$generichide
