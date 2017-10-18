@@ -386,6 +386,8 @@
 /adblock_banners/*
 /adblockbanner/*
 /adblockinsert.
+/adboom.js
+/adboom.php
 /adc-300-250-
 /adc-336-280-
 /adc-728-90-
@@ -5326,6 +5328,7 @@ debugger:$popup
 ||nbeatrk.com^$popup,third-party
 ||neigh.info^$popup,third-party
 ||never-break.com^$popup,third-party
+||newfollow.info^$popup,third-party
 ||newmediapln.net^$popup,third-party
 ||newstarads.com^$popup,third-party
 ||newtabtv.com^$popup,third-party
