@@ -6823,6 +6823,10 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||wwwtatonnai.uk^$third-party
 ! tf1.fr
 /^((?!(^)blob:https:\/\/www\.tf1\.fr\/|(^https?):\/\/www\.wat\.tv\/|(^)https:\/\/cdns\.gigya\.com\/|(^)https:\/\/ajax\.googleapis\.com\/|(^)https:\/\/widgets\.outbrain\.com\/|(^)https:\/\/connect\.facebook\.net\/|(^)https:\/\/platform\.instagram\.com\/|(^)https:\/\/platform\.twitter\.com\/|(^)https:\/\/e-cdns-files\.dzcdn\.net\/|(^)https:\/\/api\.deezer\.com\/).)*$/$media,object-subrequest,script,third-party,xmlhttprequest,domain=www.tf1.fr
+! orange.fr
+@@||www.ultimedia.com/api/widget/getwidget/mdtk/*/zone/?url=$xmlhttprequest,domain=orange.fr
+|http://$third-party,xmlhttprequest,domain=orange.fr
+|https://$third-party,xmlhttprequest,domain=orange.fr
 ! wat.tv
 @@||api.mytf1.tf1.fr^$object-subrequest,domain=wat.tv
 @@||hd1livhdsweblive-lh.akamaihd.net^$object-subrequest,domain=wat.tv
@@ -14516,6 +14520,7 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 ||incaspread.com^$third-party
 ||indignantonstage.com^$third-party
 ||indistipp.com^$third-party
+||induearth.com^$third-party
 ||indulgeotoole.info^$third-party
 ||inexpressiveelfin.org^$third-party
 ||inflexionaggravating.info^$third-party
@@ -14524,6 +14529,7 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 ||intermittenceairconditioner.info^$third-party
 ||irishclin.com^$third-party
 ||irritatingorchidectomy.info^$third-party
+||ivantmich.com^$third-party
 ||jewryhear.info^$third-party
 ||jitterblackhawk.com^$third-party
 ||jobinterviewadjustment.info^$third-party
