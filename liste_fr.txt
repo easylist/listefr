@@ -842,6 +842,8 @@
 /dhtml/popup/*
 /diff_affich_ban.
 /disclaimer.$domain=blog2mature.com|leathumb.com|leatube.com|papy-porno.com|pornasiatix.com|pornxmovies.com|pornz.fr|secret-amateur.com|sexe2blog.com|sexotor.com|thefrenchporn.com|tube2sexe.com|videosallopass.com
+/disclaimer/*&aff=
+/disclaimerjs.*&aff=
 /display.php?ec=
 /display/?affid=
 /display/?method=$subdocument
@@ -1132,6 +1134,7 @@
 /promo/widget-*?ref=
 /promos/banners/*$third-party
 /promotool_referrer.
+/promotools.static.js
 /promotools/rotation.
 /proxy_eds.php?
 /proxy_iframe.php?url=
@@ -1660,6 +1663,7 @@ _werbebanner_
 /backend_loador.$script
 /frontend_loader.$script
 /frontend_loador.$script
+/pfr_loader.js
 /sbackend_loader.$script
 /sfrontend_loader.$script
 _backend_loader.$script
@@ -2619,6 +2623,7 @@ debugger:$popup
 ||dajusepe.com^$third-party
 ||danstonfion.com^$third-party
 ||data1rtb.com^$third-party
+||datingfactory.com^$third-party
 ||datvantage.com^$third-party
 ||dblock-ads.com^$third-party
 ||ddblock.eu^$third-party
@@ -5125,6 +5130,7 @@ debugger:$popup
 ||duckssolutions.com^$popup,third-party
 ||dynsrvaba.com^$popup,third-party
 ||eacdn.com^$popup,third-party
+||earn4ads.com^$popup,third-party
 ||earth-111.com^$popup,third-party
 ||eclkmpbn.com^$popup,third-party
 ||electroshaurmal.ru^$popup,third-party
@@ -7550,6 +7556,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||oi66.tinypic.com/hvs36e.jpg
 ||s33.postimg.org/s61jp5py7/in_1.png
 ||s4.postimg.org/3poytndbx/bnnar2.jpg
+||s5.postimg.org/rcnwde7qv/image.gif
 ||store1.up-00.com/2016-08/1471570071861.png
 ||store2.up-00.com/2016-08/1472649197061.png
 ||wapqu.com/img/dl.gif
