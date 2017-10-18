@@ -1331,6 +1331,7 @@
 /show_next_ads.
 /showads?
 /side-pub.
+/similarClickAds|
 /skynet_ads.
 /slide_banner/*
 /slidegirlad.
@@ -1339,6 +1340,7 @@
 /smartclick.js
 /smartrotator.*?referrer=
 /sp2popup.
+/square-ads.
 /src/adv_
 /srv.php?size=300x250
 /srv.php?size=315x300
@@ -8743,6 +8745,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||navis.ma/images_1/hcar.jpg
 ||neezzmail.com/js/box.js
 ||neomag.fr/e-pubs/
+||nestoria.fr/jsp/include/banners/
 ||netbeopen.com/clients/*/img/partners/
 ||netiris.fr/imgs/wengo/
 ||nikopik.com/wp-content/uploads/*/Pub-JeuxRouille.png
@@ -10879,6 +10882,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.espaces-partenaires-standard
 ##.expressAdBanner
 ##.facebook-twitter-ads-728-90
+##.fakeAd
 ##.fdw-ads
 ##.fig-ad
 ##.fig-ad-pave
@@ -12343,6 +12347,7 @@ statistiks.fr##.adz
 aufeminin.com##.af-block-native
 permaculteurs.com##.aff
 ed-protect.org##.affichier_lien > tbody > tr + tr[class]
+nestoria.fr##.afsDiv
 captainmugiwara.over-blog.com##.afterload
 detecteur.net##.alert-warning
 algerianmag.com##.alger-in
@@ -12555,6 +12560,7 @@ logitheque.com##.description + .telechargement
 cpasbientorrent.fr##.description > center > a
 grosnews.com##.deuxcarres
 rtl.fr##.dfp-pave
+nestoria.fr##.dfpDiv
 lemonde.fr##.dfp_slot
 dailymotion.com##.dm_widget_advert_iabrighttitle
 torrentz2.eu,torrentz2.me##.downlinks > div + h2 + dl > dt
