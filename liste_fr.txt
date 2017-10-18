@@ -678,6 +678,7 @@
 /banner/728
 /banner/ads-
 /banner/iframe?
+/banner/player?
 /banner/sas-
 /banner/sponsor.
 /banner160.
@@ -1478,6 +1479,7 @@
 ://pop.$script,subdocument,third-party,xmlhttprequest
 ://promo.*?site_id=
 ://promo2.$third-party
+://promoimage.
 ://reclame.
 ://regiepub.
 ://report-ads-to.
@@ -11651,6 +11653,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href^="http://t2lgo.com/"]
 ##a[href^="http://threate.info/"]
 ##a[href^="http://tool.acces-vod.com/"]
+##a[href^="http://wct.link/"]
 ##a[href^="http://witalfieldt.com/"]
 ##a[href^="http://www.affiliation-france.com/"]
 ##a[href^="http://www.allopass.com/"] > img
