@@ -13569,9 +13569,9 @@ dzgeek.com#?#li + .postbit:-abp-has(img[src$="/avatars/partenaire.png"])
 @@||preprod-img.planet.fr/files/advagg_js/js_*.js$script,domain=femmesplus.fr
 @@||static.mediabong.com/scripts/mb.*.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
 |http://$script,third-party,domain=aventure-apple.com|femmesplus.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|planet.fr|refurbgeneration.com
-|http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
+|http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se|watchgeneration.fr
 |https://$script,third-party,domain=aventure-apple.com|femmesplus.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|planet.fr|refurbgeneration.com
-|https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|watchgeneration.fr
+|https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se|watchgeneration.fr
 ||fourchette-et-bikini.fr^$xmlhttprequest
 ||xiti.com^$domain=lachainemeteo.com
 ! heures.be
@@ -13897,6 +13897,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /setvisitadblocked|
 /sorry-adblocker/*$script
 /wp-adblock-dedect/*
+=adBlockActive&
 ?action=adblockvisitor$~third-party
 _action=adblock&
 _adblockdetector/
@@ -13981,6 +13982,7 @@ _blockadblock_
 @@||static-v.com/lib/js/_source/blockadblock.js$script,domain=vtele.ca
 @@||static.autoplus.fr/_js/ads/ad$script
 @@||static.les-horaires.fr/js/advert.js
+@@||static.radio.de/images/broadcasts/*/ad_dir/*.png$image,domain=radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
 @@||streamplay.*/js/pop$script,~third-party,domain=streamplay.club|streamplay.to
 @@||textnow.com/messaging/assets/advertisements.js$script
