@@ -5727,7 +5727,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||algeriemobiles.com/pub/
 ||alibaba.com^*&aff_platform=$popup
 ||alicdn.com^$domain=adzeni.com
-||alicdn.com^*-300x250.$third-party
+||alicdn.com^*-300x250.$domain=~alibaba.com|~aliexpress.com
 ||aliencable.com/images/$third-party
 ||aliexpress.com^$popup,domain=dzsat.org
 ||aliexpress.com^*&aff_platform=$popup
