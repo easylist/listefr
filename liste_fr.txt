@@ -6876,6 +6876,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=voirfilms.info
 |http://$image,ping,popup,script,third-party,xmlhttprequest,domain=voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.info|voirfilms.net|voirfilms.org|voirfilms.tv
 |https://$image,ping,popup,script,third-party,xmlhttprequest,domain=voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.info|voirfilms.net|voirfilms.org|voirfilms.tv
+||voirfilms.info/jscripts/
 ! filmsvostfr.xyz
 @@||ajax.googleapis.com/ajax/libs/$script,domain=filmsvostfr.xyz
 |http://$script,third-party,domain=filmsvostfr.xyz
@@ -10121,6 +10122,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###nuggadcontentadIF
 ###oPublicite
 ###om_ads-7
+###overVideoAd
 ###overlay-advertising
 ###overlayad
 ###pagelet_advertiser_panel
