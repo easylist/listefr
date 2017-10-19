@@ -6071,7 +6071,8 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||go.freepik.com/redirect?$popup
 ||go.nordvpn.net^
 ||go.vidrock.co^
-||go2cloud.org/aff_c?offer_id=
+||go2cloud.org^$popup,domain=jeux-mmorpg.com
+||go2cloud.org^*?offer_id=
 ||goclecd.fr/wp-content/themes/reviewit/freekey/
 ||godaddy.com/getSeal?
 ||gold-barre.com/banner*.
@@ -8350,6 +8351,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||jeu.net/pub/
 ||jeux-gratuits.com/images/*/bandeau-
 ||jeux-hentai.com/bg/
+||jeux-mmorpg.com/habillage/
 ||jeux-porno.net^$script,~third-party
 ||jeux-sexe-gratuit.com/img/
 ||jeux-sexe-gratuit.fr/images/banners/
@@ -12431,6 +12433,7 @@ pornovore.fr##.bandeau-vertical
 01net.com##.bandeau_promos
 syskb.com##.bandeaupub
 cdmail.fr##.bandeauvert
+jeux-mmorpg.com##.baner
 orientation-chabab.com##.bann
 afrik-foot.com,afrik.com,afrikeco.com,canalplus.fr,french-stream.co,glenatbd.com,gulli.fr,hdnumerique.com,kpopfm.fr,manga-news.com,medialot.fr,mesbagages.com,orientation-chabab.com,showx.tech,telquel.ma,textnow.com,trimag.fr,up02.net,up05.pro,ventsdouest.com,video-2-cul.com##.banner
 batiactu.com##.banner-background
@@ -12857,7 +12860,7 @@ pornofrance.org##.promomenu
 meteosun.com##.promote_large
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
-ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,dictionnaire-synonymes.com,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forums-fec.be,forumsims3.com,franceinfo.fr,franceinter.fr,frandroid.com,inovaovao.com,internetparsatellite.net,ktotv.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,logicielmac.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,nintendo-master.com,nordeclair.be,orange.fr,orange.mu,ouest-france.fr,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,yabiladi.com,yatahonga.com,zupimages.net##.pub
+ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,dictionnaire-synonymes.com,elbotola.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forums-fec.be,forumsims3.com,franceinfo.fr,franceinter.fr,frandroid.com,inovaovao.com,internetparsatellite.net,jeux-mmorpg.com,ktotv.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,logicielmac.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,nintendo-master.com,nordeclair.be,orange.fr,orange.mu,ouest-france.fr,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,yabiladi.com,yatahonga.com,zupimages.net##.pub
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
 constructeurdemaison.net##.pub-content
