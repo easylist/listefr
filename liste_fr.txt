@@ -2848,6 +2848,7 @@ debugger:$popup
 ||irclick.net^$third-party
 ||iwadserver.com^$third-party
 ||jackhopes.com^$third-party
+||jacquieetmichel-contact.com^$third-party
 ||jazayr.net^$third-party
 ||jbam.info^$third-party
 ||jdoqocy.com^$third-party
@@ -5227,6 +5228,7 @@ debugger:$popup
 ||isanalyze.com^$popup,third-party
 ||istri.it^$popup,third-party
 ||istripper.com^$popup,third-party
+||jacquieetmichel-contact.com^$popup,third-party
 ||jetm-tech.net^$popup,third-party
 ||jeu-bleach.fr^$popup,third-party
 ||jeu-memontre.com^$popup,third-party
@@ -6145,7 +6147,6 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||iptv-eu.com/banner/
 ||iris.ma/themes/maroc/img/pub/
 ||ithreeweb.com/creationsiteweb.jpg
-||jacquieetmichel-contact.com/?siteid=$popup
 ||jacquieetmicheltv.net^$popup,domain=jacquieetmicheltv2.net
 ||jacquieetmicheltv2.net^$popup,domain=jacquieetmicheltv.net
 ||jardindespieux.com/pub/
@@ -8331,8 +8332,9 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||ivoprint.com/image/repository/creation-de-site-web-Algerie.jpg
 ||jackypc.com/bann*.swf
 ||jacquieetmicheltv.net/carasexe.
-||jacquieetmicheltv.net^$script
+||jacquieetmicheltv.net^$script,subdocument
 ||jacquieetmicheltv.net^*/thumbpubressources/
+||jacquieetmicheltv2.net^$script,subdocument
 ||jacquieetmicheltv2.net^*/thumbpubressources/
 ||jamsvu.fr/img/*_250x250.
 ||jasonsavard.com/js/jasonsavard.js
@@ -13803,6 +13805,7 @@ femmesplus.fr##section[id] > img
 @@||static.meilleur-mobile.com/images-product/logos-marchands/sprite_logosMarchands_120x60.png|$image
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||statics.jacquieetmicheltv.net/c/player-v2.$script,~third-party
+@@||statics.jacquieetmicheltv2.net/c/player-v2.$script,~third-party
 @@||stcwbd.com/ads/plugins/jwplayer/player.swf$domain=eurosport.fr|ozap.com|puretrend.com
 @@||uptobox.com/jquery-1.8.3.min.js$script,domain=uptostream.com
 @@||videos-pub.ftv-publicite.fr/media/$object-subrequest,domain=playerftp.videostream.fr
