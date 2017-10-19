@@ -830,6 +830,7 @@
 /delivery/directlink.
 /delivery/ifrm.
 /delivery/rta/*
+/delivery/www/
 /delivery?*&ad=
 /detect-acceptable/*
 /df/250x250.
@@ -1476,6 +1477,7 @@
 ://msk.*/redir/
 ://na.ads.
 ://partner.$third-party,domain=~lopinion.fr|~viator.com|~viatorcom.de|~viatorcom.fr|~viatorcom.nl|~viatorcom.no|~viatorcom.se
+://partners.$third-party
 ://play.*/red/?code=
 ://pop.$script,subdocument,third-party,xmlhttprequest
 ://promo.*?site_id=
@@ -11813,7 +11815,6 @@ kairn.com###bandeauTheme > .video
 priceminister.com###bandeau_premium
 blogger-au-bout-du-doigt.blogspot.com,boursier.com,htmlforums.com,lesaffaires.com,maliweb.net,nrj.fr,ultim-telechargementz.com###banner
 football.fr,sports.fr###banner-full
-welovetennis.fr###banner-top
 cpabien.xyz,cpasbien.io,hitradio.ma###banner2
 jeuxdelajungle.fr###bannerGameSkyscraperRight
 lil-life.com###bannerRightTop
@@ -13420,6 +13421,7 @@ allocine.fr##div[data-w="clickCommand"]
 net-iris.fr##div[id$="promo_container"]
 maisonapart.com##div[id*="-pub-"]
 maisonapart.com##div[id*="-publi-"]
+welovetennis.fr##div[id*="banner-top"]
 notebookcheck.biz##div[id] + div[class] > img:first-child
 voyageforum.com##div[id][style="width: 850px; height: 127px; overflow: hidden; vertical-align: top;"]
 vakarm.net##div[id][style][onclick]
