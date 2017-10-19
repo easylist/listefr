@@ -6837,6 +6837,9 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ! tf1.fr
 /^((?!(^)blob:https:\/\/www\.tf1\.fr\/|(^https?):\/\/www\.wat\.tv\/|(^)https:\/\/cdns\.gigya\.com\/|(^)https:\/\/ajax\.googleapis\.com\/|(^)https:\/\/widgets\.outbrain\.com\/|(^)https:\/\/connect\.facebook\.net\/|(^)https:\/\/platform\.instagram\.com\/|(^)https:\/\/platform\.twitter\.com\/|(^)https:\/\/e-cdns-files\.dzcdn\.net\/|(^)https:\/\/api\.deezer\.com\/).)*$/$media,object-subrequest,script,third-party,xmlhttprequest,domain=www.tf1.fr
 ! orange.fr
+@@||rp-live.woopic.com/client-live-webapp/live/targetUrl.json$xmlhttprequest,domain=orange.fr
+@@||rp-live.woopic.com/live-webapp/$xmlhttprequest,domain=orange.fr
+@@||rp-vodepc.woopic.com/vod-webapp/*/highlights$xmlhttprequest,domain=orange.fr
 @@||www.ultimedia.com/api/widget/getwidget/mdtk/*/zone/?url=$xmlhttprequest,domain=orange.fr
 |http://$third-party,xmlhttprequest,domain=orange.fr
 |https://$third-party,xmlhttprequest,domain=orange.fr
