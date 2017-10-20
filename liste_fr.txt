@@ -4825,6 +4825,7 @@ debugger:$popup
 ||newstat.net^$third-party
 ||static-dscn.net^$third-party
 ! Mining
+/authedmine.min.js
 /c-hive.js
 /coinhive.min.js
 /jsecoin.*/?
@@ -4837,6 +4838,7 @@ debugger:$popup
 /web/miner.js
 /xminer.js
 /xminer.min.js
+||authedmine.com^$third-party
 ||cnhv.co^$third-party
 ||coin-have.com^$third-party
 ||coin-hive.com^$third-party
