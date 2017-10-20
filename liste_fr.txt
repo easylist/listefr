@@ -6843,6 +6843,8 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ! orange.fr
 @@||rp-live.woopic.com/client-live-webapp/live/targetUrl.json$xmlhttprequest,domain=orange.fr
 @@||rp-live.woopic.com/live-webapp/$xmlhttprequest,domain=orange.fr
+@@||rp-tvod.woopic.com/catchup-webapp/catalog/tvod/search/kinds.json$xmlhttprequest,domain=orange.fr
+@@||rp-tvod.woopic.com/catchup-webapp/catalog/tvod/servicePlan.json$xmlhttprequest,domain=orange.fr
 @@||rp-vodepc.woopic.com/vod-webapp/*/highlights$xmlhttprequest,domain=orange.fr
 @@||www.ultimedia.com/api/widget/getwidget/mdtk/*/zone/?url=$xmlhttprequest,domain=orange.fr
 |http://$third-party,xmlhttprequest,domain=orange.fr
