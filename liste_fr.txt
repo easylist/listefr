@@ -11501,6 +11501,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##[onclick*="friendlyduck.com/AF_"]
 ##[onclick*="http://www.affbuzzads.com/affiliate/"]
 ##[slot-id^="div-gpt-ad-"]
+##a[href$="?id=300x250"][target="_blank"] > img
+##a[href$="?id=728x90"][target="_blank"] > img
 ##a[href*="%2Fapi%2Fmpup%2F"]
 ##a[href*=".ad2up.com/"]
 ##a[href*=".brucelead.com/"]
@@ -11519,6 +11521,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href*="/adServe/banners?"]
 ##a[href*="/adagency/"] > img
 ##a[href*="/adclick."]
+##a[href*="/adclick?"]
 ##a[href*="/ads.php?ref="]
 ##a[href*="/ads/ad_link."]
 ##a[href*="/ads?key="]
@@ -11593,6 +11596,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href*="friendlyduckaffiliates.com/"]
 ##a[href*="friendlyquacks.com/"]
 ##a[href*="https://relap.io/r?"]
+##a[href*="marketgid.com/"]
 ##a[href*="medncom.com/regie/"]
 ##a[href*="popads.net/users/refer/"]
 ##a[href*="qadserver.com"]
@@ -11601,10 +11605,12 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href*="smartadserver.com/h/cc?imgid="] > img
 ##a[href*="utm_medium=mega_banniere"] > img
 ##a[href*="weborama.fr/fcgi-bin/"]
+##a[href*="wow-partners.com/click.php"]
 ##a[href*="xiti.com/go.ad?"]
 ##a[href^=".php/ads/"]
 ##a[href^=".php/annonce/ads/"]
 ##a[href^="/rdh?"]
+##a[href^="://manage.hostvn.net/aff.php?"] > img
 ##a[href^="ads.php?id="]
 ##a[href^="annonceur.php?id_banniere="]
 ##a[href^="http://178.175.132.130/"]
@@ -11631,6 +11637,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href^="http://clicks.toteme.com/"]
 ##a[href^="http://downloadity.net/"]
 ##a[href^="http://downloadplayer.xyz/"]
+##a[href^="http://earn4ads.com/"]
 ##a[href^="http://earth-111.com/"]
 ##a[href^="http://fave.co/"]
 ##a[href^="http://filesbee.com/"]
@@ -11667,6 +11674,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##a[href^="http://sexgamedevil.com/?"]
 ##a[href^="http://share.payoneer-affiliates.com/"]
 ##a[href^="http://siement.info/"]
+##a[href^="http://streamsign.me/"]
 ##a[href^="http://styleapplicationzillion.com/"]
 ##a[href^="http://t2lgo.com/"]
 ##a[href^="http://threate.info/"]
