@@ -7006,9 +7006,8 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.pro|extreme-streaming.com|extreme-streaming.net|extreme-up.com
 ||extreme-down.pro^$popup,script,~third-party
 ! dl-protecte.org
-|http://$script,subdocument,third-party,xmlhttprequest,domain=dl-protecte.com|dl-protecte.org|protect-lien.com|protect-zt.com|security-links.com
-|https://$script,subdocument,third-party,xmlhttprequest,domain=dl-protecte.com|dl-protecte.org|protect-lien.com|protect-zt.com|security-links.com
-||zone-telechargement.ws^$domain=protect-lien.com|protect-zt.com
+|http://$image,script,subdocument,third-party,xmlhttprequest,domain=dl-protecte.com|dl-protecte.org|liens-telechargement.com|protect-lien.com|protect-zt.com|security-links.com
+|https://$image,script,subdocument,third-party,xmlhttprequest,domain=dl-protecte.com|dl-protecte.org|liens-telechargement.com|protect-lien.com|protect-zt.com|security-links.com
 ! streaming-kids.com
 |http://$script,third-party,xmlhttprequest,domain=streaming-kids.com
 |https://$script,third-party,xmlhttprequest,domain=streaming-kids.com
@@ -13450,14 +13449,14 @@ extreme-down.one,extreme-down.pro##a[id]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
 lien-torrent.com##a[onclick*="directlinks"]
-dl-protecte.com,dl-protecte.org,filerio.in,free-telechargement.co,ifp.re,libertyvf.com,planet-series.co,protect-iframe.com,protect-lien.com,protect-zt.com,speedvid.net,wawacity.ec##a[onclick]
+dl-protecte.com,dl-protecte.org,filerio.in,free-telechargement.co,ifp.re,libertyvf.com,liens-telechargement.com,planet-series.co,protect-iframe.com,protect-lien.com,protect-zt.com,speedvid.net,wawacity.ec##a[onclick]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 telechargementz.tv##a[rel="nofollow"]
 achat-bitcoins.com##a[rel="nofollow"] > img
 zetorrente.fr##a[rel]
-extreme-down.one,extreme-down.pro##a[style]
+dl-protecte.com,dl-protecte.org,extreme-down.one,extreme-down.pro,liens-telechargement.com,protect-lien.com,protect-zt.com,security-links.com##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
 seedpeer.eu##a[target="_blank"]
 4downfiles.org,9divx.org,buzzporn.net,dpstreaming.cx,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,manga-streaming.fr,mangastreaming.fr,planet-streaming.com,pubfilm.me,serie-streaming.watch,seriezone.org,streaminghd.fr,youwatch-series.com##a[target="_blank"] > img
@@ -14034,7 +14033,7 @@ _blockadblock_
 !
 @@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=4downfiles.org|alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|macgames-download.com|the-night-of-streaming.eu
-@@.png#$image,domain=4downfiles.org|dl-protecte.com|dl-protecte.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|mylink.st|planet-series.co|protect-lien.com|protect-zt.com|pxstream.tv|radio-en-direct.fr|savefile.co|security-links.com|softmaroc.org|stream4free.top|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
+@@.png#$image,domain=4downfiles.org|dl-protecte.com|dl-protecte.org|dpstream.cc|ebookdz.com|leetgamerz.net|liens-telechargement.com|likeup.fr|mylink.st|planet-series.co|protect-lien.com|protect-zt.com|pxstream.tv|radio-en-direct.fr|savefile.co|security-links.com|softmaroc.org|stream4free.top|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghrebspace.net|mega-exclue.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
@@ -14157,6 +14156,7 @@ trackmusik.fr#@#.afs_ads
 @@||lecrabeinfo.net^$generichide
 @@||lethal-weapon-streaming.eu^$generichide
 @@||libre-stream.com^$generichide
+@@||liens-telechargement.com^$generichide
 @@||likeup.fr^$generichide
 @@||ls-streaming.com^$generichide
 @@||macgames-download.com^$generichide
