@@ -7279,7 +7279,6 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 @@/(\/ados.js|\/license\.adbl\.js|\/popunder1\.js|\/popunder2\.js|\/script\.234\.js)$/$script,domain=oload.info|oload.stream|oload.tv|openload.co|streamango.com|streamcherry.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=oload.info|oload.stream|oload.tv|openload.co|streamango.com|streamcherry.com
 oload.info,oload.stream,oload.tv,openload.co,streamcherry.com##.vjs-modal-dialog-content
-oload.info,oload.stream,oload.tv,streamango.com,streamcherry.com###videooverlay
 |http://$script,third-party,xmlhttprequest,domain=oload.info|oload.stream|oload.tv|openload.co|streamango.com|streamcherry.com
 |https://$script,third-party,xmlhttprequest,domain=oload.info|oload.stream|oload.tv|openload.co|streamango.com|streamcherry.com
 ! direct-torrents.com
