@@ -5936,6 +5936,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||cdn.playwire.com^$domain=filehippo.com
 ||cdn.speedvid.net^$popup
 ||cdn1.lp.saboom.com^
+||cdn13.com^*/banners/
 ||cdn13.com^*/license.$script
 ||cdn15.acloudimages.com^
 ||cdnpark.com/registrar/*/loader.js
@@ -14092,6 +14093,7 @@ _blockadblock_
 @@||static1.spilcdn.com/vda/advert.js$script,third-party
 @@||streamplay.*/js/pop$script,~third-party,domain=streamplay.club|streamplay.to
 @@||textnow.com/messaging/assets/advertisements.js$script
+@@||tmearn.com/js/ads.js$script,~third-party
 @@||tune.pk/js/ads.js?cache=$script,domain=tune.pk
 @@||u2s.io/js/ads.js$script,domain=u2s.io
 @@||unjourunerecette.fr/css/publicite-ads.css
