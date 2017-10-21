@@ -6984,6 +6984,10 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ! t411.si
 |http://$script,third-party,xmlhttprequest,domain=t411.si
 |https://$script,third-party,xmlhttprequest,domain=t411.si
+||expressvpn.com^$popup,domain=t411.si
+||linkev.com^$popup,domain=t411.si
+||protect-your-privacy-now.com^$popup,domain=t411.si
+||t411.si^$popup,~third-party
 ! torrentfunk.com
 |http://$ping,script,subdocument,third-party,xmlhttprequest,domain=torrentfunk.com
 |https://$ping,script,subdocument,third-party,xmlhttprequest,domain=torrentfunk.com
@@ -13282,7 +13286,6 @@ nouvelobs.com##a[href*="/les-bons-plans-shopping/"]
 20min.ch##a[href*="/paidpost/"]
 euro-2016-france.net##a[href*="/parier/"]
 20min.ch##a[href*="/postfinance_news/"]
-t411.si##a[href*="/prote"]
 centre-audition.com,easyzic.com,info-algerie.com,univers-animer.com##a[href*="/redirect."]
 booska-p.com##a[href*="/rf/"][style]
 20min.ch##a[href*="/sponsored/"]
@@ -13628,6 +13631,11 @@ depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
 people-looks.com##td[width="340"][height="265"][align="center"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
+! t411.si
+t411.si##a[href*="/cachez"]
+t411.si##a[href*="/contour"]
+t411.si##a[href*="/dissi"]
+t411.si##a[href*="/prote"]
 ! Éléments pour generichide
 streaming-sport.tv###pub-left
 iphonesoft.fr##.pub
