@@ -491,6 +491,7 @@
 /ads/left/*
 /ads/mgid.
 /ads/mgid_
+/ads/mobiles/*
 /ads/pages/*
 /ads/pops/*
 /ads/popups-
@@ -6102,6 +6103,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||filerio.in/js/*.fancybox.
 ||files.nyaa.se/*.jpg
 ||files.prsmedia.fr^*/gmex/surfaceprivee/
+||files.wordpress.com^*/sponsor-
 ||fille-sensuelle.fr/annuaire/promo/$third-party
 ||filmeseseriesonline.org^$script,third-party
 ||films-2-boules.com/promo/$third-party
@@ -9797,6 +9799,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###PubliciteTop
 ###RecipeInnerBottomAd
 ###RightAdDiv
+###RightAds
 ###VideoPub300x250
 ###_div-ad-1
 ###_div-ad-2
@@ -10783,6 +10786,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.adv-here
 ##.adv-holder
 ##.adv-inner
+##.adv120x600
 ##.adv300-topnews
 ##.adv350200
 ##.advBackground
