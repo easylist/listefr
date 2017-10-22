@@ -13715,6 +13715,7 @@ macg.co##article > a[-abp-properties='*'] > img
 dzgeek.com#?#li + .postbit:-abp-has(img[src$="/avatars/partenaire.png"])
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(Sponsorisé))
 forumconstruire.com#?#div.post_classic:-abp-has(.post_classic_pseudo:-abp-contains(Autopromo))
+forumpiscine.com#?#div[id][class^="postbox_forum_"]:-abp-has(.forum_pseudo_contener:-abp-contains(Autopromo))
 t411.si#?#.isItemDesk:-abp-has(a:-abp-contains(HADOPI))
 t411.si#?#.isItemDesk:-abp-has(a:-abp-contains(VPN))
 t411.si#?#.tTorrentDL:-abp-contains(VPN)
