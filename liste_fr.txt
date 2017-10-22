@@ -7157,9 +7157,11 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=filmstreamz.net
 ! 2ddl
 2ddl.download,2ddl.la,2ddl.ooo,2ddl.org,2ddl.pro,best2ddl.net,ddl2.org,iiddl.com##a[href^="javascript:"]
+2ddl.download,2ddl.la,2ddl.ooo,2ddl.org,2ddl.pro,best2ddl.net,ddl2.org,iiddl.com##a[title][onclick]
 @@||ajax.googleapis.com/ajax/libs/$script,domain=ddl2.org
 |http://$script,third-party,domain=2ddl.download|2ddl.la|2ddl.ooo|2ddl.org|2ddl.pro|best2ddl.net|ddl2.org|iiddl.com|twoddl.tv
 |https://$script,third-party,domain=2ddl.download|2ddl.la|2ddl.ooo|2ddl.org|2ddl.pro|best2ddl.net|ddl2.org|iiddl.com|twoddl.tv
+||goo.gl^$popup,domain=2ddl.download|2ddl.la|2ddl.ooo|2ddl.org|2ddl.pro|best2ddl.net|ddl2.org|iiddl.com
 ! mythewatchseries.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=mythewatchseries.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=mythewatchseries.com
