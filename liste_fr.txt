@@ -8930,6 +8930,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ||pons.com/p/files/dict_images/widgets/
 ||pooki.fr/img/integrations/habillage
 ||pooki.fr/js/popup.
+||porn.com^$xmlhttprequest
 ||porn.fr/v3/index.php?
 ||porn0sexe.com/lfpv.
 ||porn0sexe.com/video-out-blocg.
@@ -10182,6 +10183,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ###insidepage_ads
 ###j_ads
 ###js-game-leaderboard-bottom
+###jw_video_popup
 ###kk-adsense-bottom
 ###libelle_pub
 ###liens_sponsorises
@@ -11149,6 +11151,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|allanalpass.com|alluc.ee|any.gs|aur
 ##.promo-google-300x600_new
 ##.promo-partenaire
 ##.pstAdLegend
+##.puFloatLine > #puFloatDiv
+##.puFloatLine > .puFloatDiv
 ##.pub-1000x90
 ##.pub-1000x90-bottom
 ##.pub-1000x90-top
