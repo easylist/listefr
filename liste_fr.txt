@@ -4328,6 +4328,7 @@ debugger:$popup
 ||bestarmour4u.link^$third-party
 ||bowlingle.com^$third-party
 ||briskerryv.com^$third-party
+||buckilyf.info^$third-party
 ||budgement.info^$third-party
 ||camkiiis.com^$third-party
 ||charmstroy.info^$third-party
@@ -4404,6 +4405,7 @@ debugger:$popup
 ||htreatory.info^$third-party
 ||leanoral.info^$third-party
 ||mationse.info^$third-party
+||moundere.info^$third-party
 ||movinces.info^$third-party
 ||plaqueousi.info^$third-party
 ||sovietname.info^$third-party
@@ -7001,8 +7003,8 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.tv|cpabien.xyz|cpasbien.io|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.pe|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.pe|torrents9.tv
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.tv|cpabien.xyz|cpasbien.io|mania-torrent.ws|torrent9.biz|torrent9.cc|torrent9.info|torrent9.me|torrent9.pe|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.pe|torrents9.tv
 ! nextorrent.net
-|http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.ws
-|https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.ws
+|http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.tv|nextorrent.ws
+|https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.tv|nextorrent.ws
 ! t411.si
 |http://$script,third-party,xmlhttprequest,domain=t411.si
 |https://$script,third-party,xmlhttprequest,domain=t411.si
