@@ -1034,6 +1034,7 @@
 /nadstive.
 /native-ad/*
 /native-ads-
+/native/feed/*/widget/*?b=$third-party
 /networking/ref_
 /newcafv2.js
 /newpromo.
@@ -2707,6 +2708,7 @@ debugger:$popup
 ||edintorni.net^$third-party
 ||edomz.com^$third-party
 ||effective-ads.com^$third-party
+||egnatius-ear.com^$third-party
 ||egogame.biz^$third-party
 ||egrana.com.br^$third-party
 ||elasticad.com^$third-party
@@ -3309,6 +3311,7 @@ debugger:$popup
 ||sepedaju.com^$third-party
 ||seprovider.com^$third-party
 ||septani.ru^$third-party
+||septimus-kyr.com^$third-party
 ||serpzaer.com^$third-party
 ||serveurmumble.com^$third-party
 ||setads.bid^$third-party
@@ -6454,6 +6457,9 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||oranum.com^*/lang-popup-$subdocument
 ||otakumode.com/widget/$third-party
 ||ouo.io/images/*-ad.
+||ouo.press/images/*-ad.
+||ouo.press/images/banners/
+||ouo.press/js/pop.
 ||out.be/partners/
 ||out.pladform.ru^
 ||over-blog.net^*/js/OB.Disclaimer.js
@@ -7582,6 +7588,12 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 @@||google.com/recaptcha/$subdocument,domain=adshorte.com
 |http://$script,subdocument,third-party,domain=adshorte.com
 |https://$script,subdocument,third-party,domain=adshorte.com
+! ouo.io
+@@||ajax.googleapis.com/ajax/libs/$script,domain=ouo.io|ouo.press
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=ouo.io|ouo.press
+@@||google.com/recaptcha/$subdocument,domain=ouo.io|ouo.press
+|http://$image,script,subdocument,third-party,xmlhttprequest,domain=ouo.io|ouo.press
+|https://$image,script,subdocument,third-party,xmlhttprequest,domain=ouo.io|ouo.press
 ! streamingok.com
 |http://$script,third-party,xmlhttprequest,domain=streamingok.com
 |https://$script,third-party,xmlhttprequest,domain=streamingok.com
@@ -7602,6 +7614,7 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 ||jumpbucks.com^$script,third-party
 ||link.tl^$script,third-party
 ||ouo.io^$script,third-party
+||ouo.press^$script,third-party
 ||shink.in^$script,third-party
 ||shink.me^$script,third-party
 ||uskip.me^$script,third-party
@@ -11674,6 +11687,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##a[href*="://hilltopads.net/"]
 ##a[href*="://mobidea.com/?r="]
 ##a[href*="://ossicvr.com/"]
+##a[href*="://ouo.io/ref/"]
+##a[href*="://ouo.press/ref/"]
 ##a[href*="://popads.net/users/refer/"]
 ##a[href*="://popcash.net/register/"]
 ##a[href*="://serietrk.me/"]
@@ -11763,7 +11778,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##a[href^="http://lp.ilividnewtab.com/"]
 ##a[href^="http://m.mobilerevenu.com/idw/"]
 ##a[href^="http://mytogolinks.com/?"]
-##a[href^="http://ouo.io/ref/"]
 ##a[href^="http://partner.global-espace.com/"]
 ##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
 ##a[href^="http://porno.pornocrados.com/"]
