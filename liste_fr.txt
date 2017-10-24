@@ -6349,6 +6349,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||linkeasy.org^$image,third-party
 ||links-protection.com/*.htm$subdocument
 ||linuxsat-support.com^*_banners/
+||live.lavoixdux.com^$popup,third-party
 ||live.prismamediadigital.com^
 ||livecareer.fr^$popup,domain=pole-emploi.fr
 ||livehost.fr^*/bannieres/
@@ -8572,6 +8573,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||launedalgerie.com/images/stories/U/wiko.jpg
 ||lavenir.net/extra/content/promobox/
 ||laverite.mg/images/Autodiffusion-
+||lavideodujourjetm.net^$script,subdocument
 ||lc2international.tv/contenus/images/nasuba-
 ||lc2international.tv/images/banners/
 ||lc2international.tv/video/pub-
@@ -13961,6 +13963,7 @@ femmesplus.fr##section[id] > img
 @@||images.pcastuces.com/adj/$image,domain=pcastuces.com
 @@||iphone4.fr/bannieres/header_icons.png
 @@||koifaire.com/upload/*/300x250-$image,~third-party
+@@||lavideodujourjetm.net^*/player-v2.$script,~third-party
 @@||leseditionsdelagare.com^*/image_resize.php?img=*/$image
 @@||lokalok.com*/advert/$image,script,~third-party,xmlhttprequest,domain=lokalok.com
 @@||m2radio.fr/include/player/flash.swf?$domain=~live.m2stream.fr
