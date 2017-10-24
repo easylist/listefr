@@ -507,6 +507,7 @@
 /ads15.
 /ads16.
 /ads17.
+/ads2a.
 /ads300m.
 /ads360/*
 /ads700.
@@ -1449,6 +1450,7 @@
 /zones?zone=$subdocument
 /~cdn/Ads/*
 300x250.gif|
+728x90.gif|
 ://acces.*/a.php?
 ://aclick.
 ://ad-start.
@@ -10697,6 +10699,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.addbygoogle
 ##.adds-block
 ##.adds-block-spacing
+##.adds-links
 ##.adf_marketingbanner
 ##.adf_mpu
 ##.adflex
@@ -10755,6 +10758,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.ads-sidebar-right
 ##.ads-small-banner
 ##.ads-sponsored-text
+##.ads-to-hide
 ##.ads-track
 ##.ads-tracking-lrec
 ##.ads-tracking-top
@@ -11076,6 +11080,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.head-pub
 ##.header-ad-slot
 ##.header-add-wrapper
+##.header-adds
 ##.header-pub
 ##.headerPub
 ##.header_pub
