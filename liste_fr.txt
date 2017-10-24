@@ -7345,7 +7345,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 |https://$script,third-party,domain=vidoza.net
 ! openload
 /^https?:\/\/(tt1\.|yii\.)?(oload.stream|oload.tv|oload.info|openload.co|streamango.com|streamcherry.com|ifp.re|piframe.tk|protect-iframe.com|protect-video.com)\/(.*\/)?(cdn-cgi\/|script\.\d{3,4}\.|license\.|VPAIDFlash\.|(.*\.vpaid\.)|(r3\/))(.*)/$domain=oload.info|oload.stream|oload.tv|openload.co|streamango.com
-/assets/js/script.$domain=oload.tv|openload.co|streamango.com
+/assets/js/script.$domain=ifp.re|oload.info|oload.stream|oload.tv|openload.co|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
 /cdn-cgi/apps/head/*$script,domain=ifp.re|oload.info|oload.stream|oload.tv|openload.co|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
 @@/(\/ados.js|\/license\.adbl\.js|\/popunder1\.js|\/popunder2\.js|\/script\.234\.js)$/$script,domain=oload.info|oload.stream|oload.tv|openload.co|streamango.com|streamcherry.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=oload.info|oload.stream|oload.tv|openload.co|streamango.com|streamcherry.com
