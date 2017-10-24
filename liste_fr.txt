@@ -912,6 +912,7 @@
 /games/ads.
 /gdfp.js?
 /gdfp_reload-
+/gen_regie.
 /generateAds.
 /gestionpub/*
 /get.cgi?*=banner
@@ -937,6 +938,7 @@
 /hma-vpn-promo.
 /homad-global-
 /homadConfigVideoplaza-
+/href-to-popup.
 /ibd-ads/*
 /ichhar/*
 /iframe468x60-
@@ -991,6 +993,7 @@
 /js/infopop_
 /js/marketing/marketing.js
 /js/pub.js
+/js/sda-
 /jwplayer/plugin/preroll.js
 /last_ads.
 /layered_ad.
@@ -1139,6 +1142,7 @@
 /promo.*/banner/*
 /promo.*?partnerId=
 /promo/*/display.
+/promo/*?id_affilie=
 /promo/bannieres/*
 /promo/gif_banners/*
 /promo/widget-*&refer_
@@ -1284,6 +1288,7 @@
 /regie_pub.
 /regie_pub/*
 /regiepub/*
+/regietrk.
 /rekban.php
 /rekladv/*
 /reklamm.js
@@ -1317,6 +1322,7 @@
 /scripts-pub.
 /scripts/adv_
 /scripts/sweet/?js=*&$script,third-party
+/sda-randomizer.
 /sdk-ads.
 /sdk-ads/*
 /search?sponsor=$subdocument
@@ -1551,6 +1557,7 @@
 ?Page=*&Width=300&
 ?Page=*&Width=468&
 ?pid=*&adu=$subdocument
+?popunder_
 ?promoTool=*&aff_sub=
 ?publisher-adserver=
 ?rand=*&blk=*&ref_
@@ -2001,6 +2008,7 @@ _frontend_loader.$script
 ://lp1.*&publisher=$popup
 ://pdv.$popup
 ://pop.$popup
+://pops.$popup
 ://rencontre.*&utm_*&utm_=$popup
 ://syndication.$popup,third-party
 ://trk.*&campaign=$popup
