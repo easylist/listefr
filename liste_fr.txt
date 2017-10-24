@@ -1560,6 +1560,7 @@
 ?Page=*&Width=468&
 ?pid=*&adu=$subdocument
 ?popunder_
+?promo=*&url=
 ?promoTool=*&aff_sub=
 ?publisher-adserver=
 ?rand=*&blk=*&ref_
@@ -3357,6 +3358,7 @@ debugger:$popup
 ||slutroulette.com^$third-party
 ||smart-dn.com^$third-party
 ||smartclickz.com^$third-party
+||smartmovies.net^$third-party
 ||smartname.com^$third-party
 ||smartstream.tv^$third-party
 ||smartxads.com^$third-party
@@ -10466,6 +10468,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###pubbetween
 ###pubcarre
 ###pubcentrale
+###pubcol2
 ###pubcoldroite
 ###pubdetaillg
 ###pubdetaillg2
