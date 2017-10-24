@@ -601,6 +601,7 @@
 /advertisingView?
 /adwizard/*
 /adx.js
+/adxplatino.
 /af-250x250.
 /af-300x250.
 /aff_*/banners/*
@@ -6042,6 +6043,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||crocastuce.fr/images/Boutons/
 ||croquettesbio.com/wp-content/uploads/*/skyscreeper-
 ||csm-e.cds1.yospace.com^
+||cyberbaiseuses.com^$subdocument
 ||cyberflirt.com/cx/
 ||cyonix.to^$subdocument
 ||d4.fr/img/af_$third-party
@@ -6348,6 +6350,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||location-vacances-bretagne.eu/location_
 ||logic-immo.be/embed/new-static-search.php5
 ||login.meexy.com^
+||lotebo.com^$script,third-party
 ||lownet.fr^$subdocument
 ||lprs1.fr^*/blocs-partenaires$third-party
 ||lrcdn.net^$domain=dailymotion.com
