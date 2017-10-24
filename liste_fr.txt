@@ -9439,6 +9439,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||voyeur-webs.com/promo/
 ||voyeurfrance.net/cara.html
 ||voyeurfrance.net^$popup,~third-party
+||voyeurfrance.net^$script,subdocument
 ||vpngratuit.fr^*/gpub.gif
 ||vulgarisation-informatique.com/upload/partenariat/
 ||vuplus.fr/img/cms/partenaire.jpg
@@ -13962,6 +13963,7 @@ femmesplus.fr##section[id] > img
 @@||images.newmedia.lu^*/adtech_video/
 @@||images.pcastuces.com/adj/$image,domain=pcastuces.com
 @@||iphone4.fr/bannieres/header_icons.png
+@@||jacquieetmichel.net^*/lazy-common.$script,domain=voyeurfrance.net
 @@||koifaire.com/upload/*/300x250-$image,~third-party
 @@||lavideodujourjetm.net^*/player-v2.$script,~third-party
 @@||leseditionsdelagare.com^*/image_resize.php?img=*/$image
@@ -14009,6 +14011,7 @@ femmesplus.fr##section[id] > img
 @@||videos-pub.ftv-publicite.fr/media/$object-subrequest,domain=playerftp.videostream.fr
 @@||videos-pub.ftv-publicite.fr/player/ad2play.js$domain=tv5mondeplus.com
 @@||vjs.zencdn.net^*/video$script,domain=flashx.tv|vshare.eu
+@@||voyeurfrance.net^*/player-v2.$script,~third-party
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 @@||wifeo.com/ads/promo/advertise-publicite.gif$image,domain=wifeo.com
 @@||www.bluesteel.fr/affiliation/$~third-party
