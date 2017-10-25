@@ -1691,10 +1691,13 @@ _werbebanner_
 ! exads
 .com/NB_bl.php
 .com/NB_fl.js
+/\.(com|fr|net|org|tv|xxx)\/floader\.js$/$script,~third-party
 /backend_loader.$script
 /backend_loador.$script
 /frontend_loader.$script
 /frontend_loador.$script
+/gofd_fl.js
+/milfs/floader.js
 /pfr_loader.js
 /sbackend_loader.$script
 /sfrontend_loader.$script
