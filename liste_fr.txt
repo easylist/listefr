@@ -1388,6 +1388,7 @@
 /TiscaliAds.
 /toastr.$domain=plancul-paris.net
 /tools-euads.
+/tools/*&format=*&rand=$subdocument
 /totemtools/*
 /travelAds.
 /ttn_adspaces
@@ -5528,6 +5529,7 @@ debugger:$popup
 ||possini.eu^$popup,third-party
 ||postaffiliatepro.com^$popup,third-party
 ||pourmajeurs.com^$popup,third-party
+||powa.fr^$popup,third-party
 ||ppixelm.com^$popup,third-party
 ||practively.com^$popup,third-party
 ||preated.com^$popup,third-party
@@ -6285,6 +6287,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||iris.ma/themes/maroc/img/pub/
 ||ithreeweb.com/creationsiteweb.jpg
 ||jacquieetmicheltv.net^$popup,domain=jacquieetmicheltv2.net
+||jacquieetmicheltv.net^*?ref=$popup
 ||jacquieetmicheltv2.net^$popup,domain=jacquieetmicheltv.net
 ||jardindespieux.com/pub/
 ||jardisexe.com/ban/$third-party
