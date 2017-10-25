@@ -8776,6 +8776,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||materiel.net/pct/skins/
 ||materiel.net/pub/
 ||materiel.net^*/catbanner/
+||mateur.tv/data/$image
 ||matin.mg/wp-content/uploads/*/matin_
 ||matter-du-sexe.com/infopop/
 ||mature-amateur.com^$script
@@ -10263,6 +10264,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###ima-ad-container
 ###imagePubPave
 ###inads
+###infopopup > a > img
 ###infosad
 ###innerpub
 ###insidepage_ads
@@ -11126,6 +11128,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.iklan1
 ##.iklan2
 ##.in_up_ad-area
+##.info_pop > a > img
 ##.inpage-adspace
 ##.insert_pub_center
 ##.inside_adv_section
@@ -11504,6 +11507,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.scpe-pub
 ##.sd-ad-container
 ##.sd-ad-wrapper
+##.sda-img-container
 ##.search_publicity_box
 ##.search_square_publicity
 ##.separepub
@@ -12502,6 +12506,7 @@ troc-velo.com###xpubpart
 yahoo.com###yad-billboard
 programme.tv###zeromask
 programme.tv###zeropop
+mateur.tv###zone-out-bis
 terredauphinoise.fr###zone-pub1
 cityvox.fr###zoneConnexion + * + .RP
 laprovence.com###zonePub
