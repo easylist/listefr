@@ -626,6 +626,7 @@
 /affiliateplus/banner/*
 /affiliates/*_banner.
 /affiliates/banners/*
+/affiliates/images/banners/*
 /affiliatesiamges/*
 /affiliation-mb.
 /affiliation_simple/*
@@ -11715,6 +11716,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##a[href*=".brucelead.com/"]
 ##a[href*=".get-media.co/"]
 ##a[href*=".igraal.com/#parrain="] > img
+##a[href*=".igraal.com/?parrain="] > img
 ##a[href*=".igraal.com/inscription?parrain="] > img
 ##a[href*=".inclk.com/"]
 ##a[href*=".onclasrv.com/"]
@@ -12580,7 +12582,7 @@ gmx.fr,lebonguide.com##.add
 allostreaming-fr.com##.addInfos + a
 vinyculture.com##.addLink
 lejsl.com##.addPic
-actustar.com,aujourdhui-en-france.fr,boursier.com,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,hentaihaven.org,hostinger.fr,htmlforums.com,jeune-independant.net,justmp4.com,k-vid.net,komatv.com,ldlc.com,leblogjeuvideo.be,leparisien.fr,lephpfacile.com,lequipe.fr,oujdacity.net,over-blog.com,porn0sexe.com,raje.fr,replay.fr,sortiesdvd.com,stars-portraits.com,streaming-video3x.com,televiseurs.net,tonmanga.com,universalis.fr,viamichelin.be,viamichelin.ch,viamichelin.com,viamichelin.fr,webstar-auto.com,webstar-electro.com##.ads
+actustar.com,antoineguilbert.fr,aujourdhui-en-france.fr,boursier.com,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,hentaihaven.org,hostinger.fr,htmlforums.com,jeune-independant.net,justmp4.com,k-vid.net,komatv.com,ldlc.com,leblogjeuvideo.be,leparisien.fr,lephpfacile.com,lequipe.fr,oujdacity.net,over-blog.com,porn0sexe.com,raje.fr,replay.fr,sortiesdvd.com,stars-portraits.com,streaming-video3x.com,televiseurs.net,tonmanga.com,universalis.fr,viamichelin.be,viamichelin.ch,viamichelin.com,viamichelin.fr,webstar-auto.com,webstar-electro.com##.ads
 cvya.dz##.ads-vert
 toilef1.com##.ads615x60Actu
 hooper.fr,pooki.fr##.adsense
