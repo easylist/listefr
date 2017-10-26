@@ -1048,6 +1048,7 @@
 /native-ads-
 /native/feed/*/widget/*?b=$third-party
 /networking/ref_
+/neverblock/*
 /newcafv2.js
 /newpromo.
 /nginad.
@@ -1092,6 +1093,7 @@
 /path/ads/*
 /pave_PUB_
 /PBTopAds.
+/pdv/popup_
 /peelrotateur/*
 /player.*?adSetCode=
 /player_ad.
@@ -1391,6 +1393,7 @@
 /thumb_banner_frame.
 /TiscaliAds.
 /toastr.$domain=plancul-paris.net
+/tool.popdhtml.
 /tools-euads.
 /tools/*&format=*&rand=$subdocument
 /totemtools/*
@@ -1472,6 +1475,7 @@
 ://adx.
 ://afflight.$third-party
 ://ar.ads.
+://ashot.$script
 ://ban.$third-party
 ://banners2.$third-party
 ://banners3.$third-party
