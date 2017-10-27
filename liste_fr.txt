@@ -7127,6 +7127,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ! dl-protecte.org
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=dl-protecte.com|dl-protecte.org|liens-telechargement.com|protect-lien.com|protect-zt.com|security-links.com
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=dl-protecte.com|dl-protecte.org|liens-telechargement.com|protect-lien.com|protect-zt.com|security-links.com
+||boncoin-annonce.com^$popup,domain=dl-protecte.com|dl-protecte.org|liens-telechargement.com|protect-lien.com|protect-zt.com|security-links.com
 ! streaming-kids.com
 |http://$script,third-party,xmlhttprequest,domain=streaming-kids.com
 |https://$script,third-party,xmlhttprequest,domain=streaming-kids.com
