@@ -917,6 +917,7 @@
 /free/ads/*
 /frprn_ad.
 /full-page-script-short.
+/full-page-script.js
 /games-ad.
 /games/ads.
 /gdfp.js?
@@ -6660,7 +6661,6 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||rackcdn.com^$domain=dailymotion.com
 ||rapidgator.net/images/fdmanager.png
 ||ratehub.ca/widgets/$third-party
-||rawgit.com/getcpm/js/master/full-page-script.js
 ||readersdigest.ca/*/images/promobrick_
 ||realnswag.fr^$popup,domain=rapghetto.com
 ||recettes.de/images/logos/$third-party
@@ -7713,6 +7713,7 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 ||binbox.io^$script,third-party
 ||bit.gy^$script,third-party
 ||bitly.com^$script,third-party
+||by6dk.com^$script,third-party
 ||coinlink.us^$script,third-party
 ||cpmlink.net^$script,third-party
 ||croco.me^$script,third-party
@@ -14318,6 +14319,7 @@ trackmusik.fr#@#.afs_ads
 @@||animes-mangas-ddl.com^$generichide
 @@||bleach-mx.net^$generichide
 @@||bleachmx.fr^$generichide
+@@||by6dk.com^$generichide
 @@||bytesloader.com^$generichide
 @@||cap-public.fr^$generichide
 @@||cheminots.net^$generichide
