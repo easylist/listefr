@@ -13281,7 +13281,6 @@ ca-briepicardie.fr##.total-cover
 search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
 yatahonga.com##.tpub
-t411.si##.trSeederBox
 forum-actif.net##.tradeDoubler
 expat.com##.travel-insurance
 nextinpact.com##.trend-big + *
@@ -13781,6 +13780,8 @@ people-looks.com##td[width="340"][height="265"][align="center"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ! t411.si
+t411.si##.isItemDesk:first-child
+t411.si##[class*="Seed"]
 t411.si##a[href*="achete"]
 t411.si##a[href*="adress"]
 t411.si##a[href*="cache"]
@@ -13792,6 +13793,7 @@ t411.si##a[href*="vpn"]
 t411.si##a[href^="acheter"]
 t411.si##span[title*="HADOPI"]
 t411.si##span[title*="VPN"]
+t411.si##td + td + td > [class][href^="/"]
 ! Éléments pour generichide
 streaming-sport.tv###pub-left
 iphonesoft.fr##.pub
