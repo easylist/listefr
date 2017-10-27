@@ -4963,16 +4963,22 @@ debugger:$popup
 ||newstat.net^$third-party
 ||static-dscn.net^$third-party
 ! Mining
+-monero-miner-$script
 /authedmine.min.js
+/bitcoin-plus-miner/*
 /c-hive.js
+/coin-hive-proxy-
 /coinhive.min.js
+/cryptonight-worker.
 /jsecoin.*/?
 /miner-ui.js
 /miner.full.js
 /miner.min.js
 /miner?key=
 /minera.js
+/minero-proxy-
 /projectpoi.min.js
+/scripts/miner.js
 /web/miner.js
 /xminer.js
 /xminer.min.js
@@ -4984,6 +4990,7 @@ debugger:$popup
 ||coinhive.com^$third-party
 ||crypto-loot.com^$third-party
 ||hashforcash.us^$third-party
+||inwemo.com^$third-party
 ||joyreactor.cc/v/$script
 ||jsecoin.com^$third-party
 ||kiwifarms.net/js/Jawsh/xmr/xmr.min.js
