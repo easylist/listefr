@@ -1397,6 +1397,7 @@
 /tool.popdhtml.
 /tools-euads.
 /tools/*&format=*&rand=$subdocument
+/tools/*?aff=*&url=$script
 /totemtools/*
 /travelAds.
 /ttn_adspaces
@@ -8280,6 +8281,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||exerciceabdo.fr/wp-content/uploads/*/banner2.gif
 ||exerciceabdo.fr/wp-content/uploads/*/capsimax.png
 ||exerciceabdo.fr/wp-content/uploads/2014/07/the-vert.png
+||exotrik.com^$popup,~third-party
 ||explorerlondres.com^*/hotelscom.gif
 ||extraitsmatures.com/data/$image
 ||extraitsmatures.com^*/pop.
