@@ -1425,6 +1425,7 @@
 /web/bannieres/*
 /webediads/*
 /webmaster_iframe.
+/webmasters/promo/*$third-party
 /werbe-banner/*
 /werbe_banner.
 /werbebanner-ad.
@@ -6691,6 +6692,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||s3content.s3.amazonaws.com/imgemails/ban
 ||s3content.s3.amazonaws.com/imgemails/cf
 ||salopes-du-jour.com/sexy.js
+||salopes-du-jour.com^$image,script,third-party
 ||sat-sharing.info/baners/
 ||satking.de/images/banners/
 ||scubastore.com^$popup,domain=sous-la-mer.com
@@ -9194,6 +9196,9 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||seriesstreaming.fr/images/partenaire_
 ||seriezone.com/ba/
 ||serre-editeur.fr/images/banners/
+||sexadonf.net/_images/ban_
+||sexadonf.net/web/hqlinks.gif
+||sexadonf.net^$image,third-party
 ||sexandtrash.com^$popup,script,~third-party
 ||sexe-clip.com/infopop/
 ||sexe-i.com^$script,third-party
