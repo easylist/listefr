@@ -1094,6 +1094,7 @@
 /path/ads/*
 /pave_PUB_
 /PBTopAds.
+/pdv.js
 /pdv/popup_
 /peelrotateur/*
 /player.*?adSetCode=
@@ -1959,6 +1960,7 @@ _frontend_loader.$script
 /partner/click/*$popup
 /partners/*=affiliate&$popup
 /partners/*=banner$popup
+/pdv/*?ida=$popup
 /pdv/track.$popup
 /pop.redirect.$popup
 /pop?dfp_id=$popup
@@ -5567,6 +5569,7 @@ debugger:$popup
 ||premiumz.co^$popup,third-party
 ||prestoris.com^$popup,third-party
 ||primusad.com^$popup,third-party
+||proche2moi.com^$popup,third-party
 ||profitforyou.info^$popup,third-party
 ||promo.voyance-web.fr^$popup,third-party
 ||promotools.biz^$popup,third-party
@@ -7404,13 +7407,14 @@ oload.info,oload.stream,oload.tv,openload.co,streamcherry.com##.vjs-modal-dialog
 |https://$script,domain=sexefelin.com|tubixe.com|vidsexe.com|webchoc.com
 ! jacquieetmichel.fr
 @@||desinhibition.com^*/player-v2.$script,~third-party
-@@||jacquieetmichel.net^*/lazy-common.$script,domain=vosfemmes.com|voyeurfrance.net
+@@||jacquieetmichel.net^*/lazy-common.$script,domain=jacquieetmichel.net|vosfemmes.com|voyeurfrance.net
 @@||jacquieetmicheltv.net^*/player-v2.$script,~third-party
 @@||jacquieetmicheltv2.net^*/player-v2.$script,~third-party
 @@||lavideodujourjetm.net^*/player-v2.$script,~third-party
 @@||tonpornodujour.com^*/player-v2.$script,~third-party
 @@||voyeurfrance.net^*/player-v2.$script,~third-party
 ||desinhibition.com^$script,subdocument
+||jacquieetmichel.net^$script,subdocument
 ||jacquieetmicheltv.net^$script,subdocument
 ||jacquieetmicheltv2.net^$script,subdocument
 ||lavideodujourjetm.net^$script,subdocument
