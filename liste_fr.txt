@@ -656,6 +656,7 @@
 /async?*&tid=
 /autopromo.*/async|$domain=~jeuxvideo.com
 /autopromotion.*/async|
+/ax/bnnr/*$script
 /b/ads/*
 /b2bad.
 /b728x90a.
@@ -1396,6 +1397,7 @@
 /Temp/Ads/*
 /textlink-ads.
 /thumb_banner_frame.
+/thumbbanner/helper.js
 /TiscaliAds.
 /toastr.$domain=plancul-paris.net
 /tool.infopop.
@@ -3307,6 +3309,7 @@ debugger:$popup
 ||relateev.com^$third-party
 ||remerciez.com^$third-party
 ||rencontreroulette.com^$third-party
+||rencontreshard.com^$third-party
 ||rentacorner.com^$third-party
 ||replacingobservedlose.info^$third-party
 ||retagapp.com^$third-party
