@@ -3323,6 +3323,7 @@ debugger:$popup
 ||rezo2pub.com^$third-party
 ||rf6oo9gq.online^$third-party
 ||rgbperf.com^$third-party
+||richaudience.com^$third-party
 ||ritogaga.com^$third-party
 ||roipub.com^$third-party
 ||rosseladvertising.be^$third-party
@@ -10941,6 +10942,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.adv120x600
 ##.adv300-topnews
 ##.adv350200
+##.adv728x90
 ##.advBackground
 ##.adv_big
 ##.adv_block
@@ -11051,6 +11053,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.bottom-ad-desktop
 ##.bottom-ad-mob-tab
 ##.bottom-ad-normal
+##.bottom-adv
 ##.bottom-advertising
 ##.bottompub
 ##.breaking-ad
@@ -11746,6 +11749,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##[onclick*="friendlyduck.com/AF_"]
 ##[onclick*="http://www.affbuzzads.com/affiliate/"]
 ##[slot-id^="div-gpt-ad-"]
+##a > #bg-ad
 ##a[href$="?id=300x250"][target="_blank"] > img
 ##a[href$="?id=728x90"][target="_blank"] > img
 ##a[href*="%2Fapi%2Fmpup%2F"]
@@ -11935,6 +11939,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##a[href^="http://tool.acces-vod.com/"]
 ##a[href^="http://wct.link/"]
 ##a[href^="http://witalfieldt.com/"]
+##a[href^="http://wlx-secure.com/"]
 ##a[href^="http://www.affiliation-france.com/"]
 ##a[href^="http://www.allopass.com/"] > img
 ##a[href^="http://www.apk-download-free.com/"]
