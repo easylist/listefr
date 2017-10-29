@@ -6879,7 +6879,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||tube-manga-hentai.com/tools/bannieres/
 ||tudou.com^$subdocument
 ||turk-dreamworld.com/images/sponsor/
-||tuto.com/banner/common/$third-party
+||tuto.com/banner/$third-party
 ||tutti.ch/*_banner_$third-party
 ||tv-live.fr/ban/
 ||tvsat-sklep.com/baner/
@@ -11930,6 +11930,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##a[href^="http://filesbee.com/"]
 ##a[href^="http://filesbride.com/"]
 ##a[href^="http://filesify.com/"]
+##a[href^="http://fr.tuto.com/?aff="] > img
 ##a[href^="http://freedowns.info/"]
 ##a[href^="http://frtyd.com/"]
 ##a[href^="http://gamingaffiliation.com/"]
