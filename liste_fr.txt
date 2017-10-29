@@ -1939,6 +1939,7 @@ _frontend_loader.$script
 /click?adv=^$popup
 /clickhabillage/$popup
 /close.*?tid=$popup
+/countClick.$popup
 /cpaclicks.$popup
 /cpmclick.$popup
 /default_ad/*$popup
@@ -2180,6 +2181,7 @@ debugger:$popup
 ||104.238.189.$script,third-party
 ||108.163.194.100^$third-party
 ||10nr6frq.cricket^$third-party
+||123prix.com^$third-party
 ||130.211.$third-party
 ||146.148.85.61^$third-party
 ||163.172.16.147^$third-party
@@ -2309,6 +2311,7 @@ debugger:$popup
 ||adleave.com^$third-party
 ||adlike.net^$third-party
 ||adlmerge.com^$third-party
+||adloadingnow.com^$third-party
 ||adlookr.com^$third-party
 ||adlovaltd.com^$third-party
 ||adlure.net^$third-party
@@ -3592,6 +3595,7 @@ debugger:$popup
 ||webauditoire.com^$third-party
 ||webconcours.fr^$third-party
 ||webmanager.biz^$third-party
+||webmasteroo.com^$third-party
 ||webtv-sexe.com^$third-party
 ||webzodes.com^$third-party
 ||wedoo.com^$third-party
@@ -5970,6 +5974,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||apk.miuor.com/footer.js
 ||apk.miuor.com/header.js
 ||appleboobs.com/images/banner/
+||applet.horlogeparlante.com^$script,third-party
 ||april.fr/#/?$third-party
 ||apycdn.com^*/banner/
 ||arkea.com/banque/assurance/credit/upload/$image,third-party
