@@ -1131,6 +1131,7 @@
 /popaaa/*$script
 /popcall.js
 /popcashnet.js
+/popdesktop.js
 /popox.js
 /pops/*&subid=
 /popun.*&random=
@@ -1178,6 +1179,8 @@
 /pu/license.$script
 /pu/script.$script
 /pub-300-250-
+/Pub-300250.
+/Pub-300250v3.
 /pub-300x250.
 /pub-accueil-droite.
 /pub-accueil-gauche.
@@ -7313,6 +7316,10 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 @@||telecharger-youtube-mp3.com/application/core/server.php?timestamp=$xmlhttprequest
 @@||telecharger-youtube-mp3.com/application/static/lib/script.js
 ||telecharger-youtube-mp3.com^$script,xmlhttprequest
+! youzik.com
+@@||suggestqueries.google.com/complete/search?$script,domain=youzik.com
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=youzik.com
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=youzik.com
 ! convertinmp4.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=convertinmp4.com
 |http://$script,third-party,domain=convertinmp4.com
@@ -12649,7 +12656,7 @@ la-musique-rai.com##.adsr p[style="background-color:#FFF; text-align:center;"]
 jeux.org##.adtitle
 fusac.fr,lebonfap.com,lefigaro.fr,letagparfait.com,rajacasablanca.com##.adv
 arabzik.org,fipradio.fr,francemusique.fr,jeu.fr,jeux.fr,lesoir.be,midilibre.fr##.advert
-decitre.fr##.advertise
+decitre.fr,youzik.com##.advertise
 lemoniteur.fr,sites-torrent.com,skipass.com,telerama.fr##.advertisement
 latribune.fr,traildesforts.com##.advertising
 statistiks.fr##.adz
@@ -13666,7 +13673,7 @@ lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 achat-bitcoins.com##a[rel="nofollow"] > img
 zetorrente.fr##a[rel]
-dl-protecte.com,dl-protecte.org,extreme-down.one,extreme-down.pro,liens-telechargement.com,protect-lien.com,protect-zt.com,protecte-link.com,security-links.com##a[style]
+dl-protecte.com,dl-protecte.org,extreme-down.one,extreme-down.pro,liens-telechargement.com,protect-lien.com,protect-zt.com,protecte-link.com,security-links.com,youzik.com##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
 seedpeer.eu##a[target="_blank"]
 4downfiles.org,9divx.org,buzzporn.net,dpstreaming.cx,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,manga-streaming.fr,mangastreaming.fr,planet-streaming.com,pubfilm.me,serie-streaming.watch,seriezone.org,streaminghd.fr,youwatch-series.com##a[target="_blank"] > img
