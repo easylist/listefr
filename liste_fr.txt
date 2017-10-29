@@ -1101,6 +1101,7 @@
 /pdv.js
 /pdv/popup_
 /peelrotateur/*
+/phantomPopunder.
 /player.*?adSetCode=
 /player_ad.
 /plugins/adKnowMore.
@@ -7728,6 +7729,7 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 ||coinlink.us^$script,third-party
 ||cpmlink.net^$script,third-party
 ||croco.me^$script,third-party
+||curs.io^$script,third-party
 ||cut-urls.com^$script,third-party
 ||faltuwap.com^$script,third-party
 ||fas.li^$script,third-party
@@ -14229,6 +14231,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 _action=adblock&
 _adblockdetector/
 _blockadblock_
+_token?adblock=
 !
 /http:\/\/[a-z]+\.com\/[a-z0-9]{125,165}$/$script,third-party,domain=jeux.fr
 !
@@ -14271,6 +14274,8 @@ _blockadblock_
 @@||c.ad6media.fr/l.js$domain=eternitygames.org|fan-de-cinema.com|fit.sh|programmes-cinema.com
 @@||cdscdn.com/Js/advertise.js$script
 @@||coinlink.us/js/ads.js$script,domain=coinlink.us
+@@||curs.io/js/ads.js$script,domain=curs.io
+@@||cut-urls.com/js/ads.js$script,domain=cut-urls.com
 @@||d.adxcore.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||doubleverify.com^$domain=kissanime.com
 @@||dramapassion.com^*/advertisement-$script,domain=dramapassion.com
@@ -14351,6 +14356,7 @@ trackmusik.fr#@#.afs_ads
 @@||coolgames.com^$generichide
 @@||coshurl.co^$generichide
 @@||cours-de-droit.net^$generichide
+@@||curs.io^$generichide
 @@||dl-protect.top^$generichide
 @@||dl-protecte.com^$generichide
 @@||dl-protecte.org^$generichide
