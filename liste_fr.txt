@@ -1401,6 +1401,7 @@
 /tags/xdirect/*
 /tc_promo_functions.
 /Temp/Ads/*
+/text_publi_01.
 /textlink-ads.
 /thumb_banner_frame.
 /thumbbanner/helper.js
@@ -8720,6 +8721,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||lecture-en-ligne.com/*/pubs.php
 ||ledemondujeu.com/pubcoin
 ||ledevoir.com/documents/image/pub/
+||ledgerwallet.com/images/promo/
 ||lefigaro.fr/assets-components/partenaires/
 ||lefigaro.fr/com/bazachic/
 ||lefigaro.fr/com/cadre-emploi/
@@ -11762,6 +11764,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##[id^="ad_holder_text_"]
 ##[id^="ads_adnemo_"]
 ##[id^="block-xiti_oas-"]
+##[id^="bunyad_ads_widget-"]
 ##[id^="codeneric_ad_widget-"]
 ##[id^="criteoDivPave"]
 ##[id^="div-gpt-"] + [id^="ctr-"]
