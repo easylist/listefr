@@ -2130,7 +2130,8 @@ debugger:$popup
 ||download^*?caid=$popup,third-party
 ||gdn^*&campaign_id=$popup
 ||gdn^*&impid=$popup
-||gdn^*&redid=$popup
+||gdn^*&redi=$popup,third-party
+||gdn^*=redi$popup,third-party
 ||info^*==|$popup,third-party
 ||info^*watch?key=$popup,third-party
 ||life^*?sub=$popup
