@@ -1166,6 +1166,7 @@
 /promo/*?id_affilie=
 /promo/bannieres/*
 /promo/gif_banners/*
+/promo/script_
 /promo/widget-*&refer_
 /promo/widget-*?ref=
 /promos/banners/*$third-party
@@ -2604,6 +2605,7 @@ debugger:$popup
 ||captchme.net^$third-party
 ||caradisiac-publicite.com^$third-party
 ||caramec.com^$third-party
+||carasexe.com^$third-party
 ||carpediem.fr^$third-party
 ||cash-manager.biz^$third-party
 ||cashinme.com^$third-party
@@ -11770,6 +11772,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##[id^="lig_wrapper_ad_"]
 ##[id^="ligatus-"]
 ##[id^="ligatus_"]
+##[id^="pub-carasexe-"]
 ##[id^="pub_728x90_"]
 ##[id^="pub_dart_"]
 ##[id^="sas_"][style*="width: 300px; height: 250px;"]
@@ -11990,6 +11993,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##a[href^="http://www.movie4all.co/"]
 ##a[href^="http://www.pubdirecte.com/script/"]
 ##a[href^="http://www.questiondivine.com/?ctid="]
+##a[href^="http://www.rabbitfinder.com/refer."]
 ##a[href^="http://www.sexgangsters.com/?"]
 ##a[href^="http://www.shglegle.com/"]
 ##a[href^="http://www.tradeadexchange.com/"]
