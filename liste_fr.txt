@@ -2074,6 +2074,7 @@ _frontend_loader.$script
 ?adCampaign=$popup
 ?adslotid=$popup
 ?adTagId=$popup
+?affiliateid=*&tr4ck=$popup
 ?aid=*&dclid=$popup
 ?auction_id=*&zoneid=$popup
 ?clickid=*.adult.$popup
@@ -2089,8 +2090,10 @@ _frontend_loader.$script
 ?preview=*&pgid*&from_sz=$popup
 ?pub_id=$popup
 ?runauction=$popup
+?siteid=*&tr4ck=$popup
 ?subid=*&clickid=$popup
 ?tid=*&red=$popup
+?tr4ck=ban-$popup
 ?utm_*&clickverify=$popup
 ?voluumdata=$popup
 ?xref=*&zoneid=$popup
