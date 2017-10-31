@@ -7235,6 +7235,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
 ! mangastreaming.fr
 @@||ajax.googleapis.com/ajax/libs/$script,domain=manga-streaming.fr|mangastreaming.fr
+@@||ifp.re/$subdocument,domain=mangastreaming.fr
 @@||protect-video.com/embed.php?id=$subdocument,domain=manga-streaming.fr|mangastreaming.fr
 @@||www.mangastreaming.fr/wp-$script,stylesheet,domain=manga-streaming.fr
 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr
