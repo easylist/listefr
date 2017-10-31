@@ -8471,6 +8471,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||gamer-network.fr/wp-content/*/g2a-
 ||gamer-network.fr/wp-content/uploads/*/banniere.
 ||gamereactor.dk/prerolls/
+||gamovideo.com^$subdocument,~third-party
 ||geek-malin.fr/pm-728.gif
 ||geekopolis.fr/images/habillage_$image
 ||generation-nt.com/img/habillages/
@@ -13460,6 +13461,7 @@ leparticulier.fr##[id^="loca_service_simulateur_"]
 voirfilms.info##[id^="mp3"]
 planet-series.co##[id^="news-id-"] a > [style]
 agate-france.com##[id^="pbad_"]
+gamovideo.com##[id^="pu-"][style]
 dsih.fr,mylink.st##[id^="pub"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 movietube.live##[id^="video"] a
