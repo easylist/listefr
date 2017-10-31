@@ -831,6 +831,7 @@
 /crakrevenue/*
 /Criteo.ADBLOK.
 /Criteo.Left.
+/crt_adb.js
 /cshoppingbox.
 /customdata/banner/*
 /custompopup.php?
@@ -7752,6 +7753,12 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 ! streamingok.com
 |http://$script,third-party,xmlhttprequest,domain=streamingok.com
 |https://$script,third-party,xmlhttprequest,domain=streamingok.com
+! ucoz.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=at.ua|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=at.ua|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua
+@@||fonts.googleapis.com/css?$stylesheet,domain=at.ua|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua
+|http://$script,stylesheet,third-party,domain=at.ua|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua
+|https://$script,stylesheet,third-party,domain=at.ua|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua
 ! Auto short link scripts
 ||adhit.me^$script,third-party
 ||adshorte.com^$script,third-party
