@@ -5013,6 +5013,7 @@ debugger:$popup
 /minera.js
 /minero-proxy-
 /projectpoi.min.js
+/safelinkconverter.js
 /scripts/miner.js
 /web/miner.js
 /xminer.js
@@ -5039,6 +5040,7 @@ debugger:$popup
 ||ppoi.org^$third-party
 ||projectpoi.com^$third-party
 ||reasedoper.pw^$third-party
+||safelinkconverter.com^$third-party
 ||webmine.cz^$third-party
 !
 !-------------------- Annonceurs popup --------------------!
