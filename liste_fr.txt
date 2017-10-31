@@ -7815,6 +7815,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||i.imgur.com/qC2Tc51.png
 ||i.imgur.com/SIdBuCi.png
 ||i.imgur.com/SmRC1lO.png
+||i.imgur.com/T1HRFty.png
 ||i.imgur.com/vi5hfSvl.jpg
 ||i.imgur.com/wCHgmpy.gif
 ||i.imgur.com/WI1faon.png
@@ -11796,6 +11797,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##a[href*=".ad2up.com/"]
 ##a[href*=".brucelead.com/"]
 ##a[href*=".get-media.co/"]
+##a[href*=".ichlnk.com/"]
 ##a[href*=".igraal.com/#parrain="] > img
 ##a[href*=".igraal.com/?parrain="] > img
 ##a[href*=".igraal.com/inscription?parrain="] > img
@@ -13035,6 +13037,7 @@ laptopspirit.fr,prix-portables.fr##.lien_hab
 laptopspirit.fr,prix-portables.fr##.lien_habillage
 cine-media.fr##.lienbackground
 foot01.com##.lig
+ultim-telechargementz.com##.line + .padding > [style] a > img
 pagesjaunes.fr##.linkPushEmbauche
 frandroid.com##.link_htr
 mavieencouleurs.fr##.list-brands-carousel
@@ -13692,7 +13695,7 @@ extreme-down.one,extreme-down.pro##a[id]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
 lien-torrent.com##a[onclick*="directlinks"]
-dl-protecte.com,dl-protecte.org,filerio.in,free-telechargement.co,ifp.re,libertyvf.com,liens-telechargement.com,planet-series.co,protect-iframe.com,protect-lien.com,protect-zt.com,protecte-link.com,speedvid.net,wawacity.ec##a[onclick]
+dl-protecte.com,dl-protecte.org,filerio.in,free-telechargement.co,ifp.re,libertyvf.com,liens-telechargement.com,planet-series.co,protect-iframe.com,protect-lien.com,protect-zt.com,protecte-link.com,speedvid.net,ultim-telechargementz.com,wawacity.ec##a[onclick]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
