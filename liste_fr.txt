@@ -2529,6 +2529,7 @@ debugger:$popup
 ||audify.io^$third-party
 ||avanis.fr^$third-party
 ||avenir-affiliation.fr^$third-party
+||awestatic.com^$third-party
 ||awm.trade^$third-party
 ||awms.ws^$third-party
 ||awsclic.com^$third-party
@@ -5694,6 +5695,7 @@ debugger:$popup
 ||smrtgs.com^$popup,third-party
 ||socialmanga.net^$popup,third-party
 ||socket-parser.work^$popup
+||sommons.co^$popup,third-party
 ||soosooka.com^$popup,third-party
 ||sopoto.co^$popup,third-party
 ||soutienaristophil.tk^$popup,third-party
@@ -5817,6 +5819,7 @@ debugger:$popup
 ||zrada.site^$popup,third-party
 ||zwaar.net^$popup,third-party
 ||zwaar.org^$popup,third-party
+||zxtrace.com^$popup,third-party
 !
 ||adexchangecloud.com^$popup,third-party
 ||adzs.com^$popup,third-party
@@ -6211,6 +6214,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||effiliation.com^$popup,domain=dzsat.org
 ||elles-mouillent.com/ban/$third-party
 ||embed.ly^*.amazon.
+||embed.tune.pk^$third-party
 ||embedly.com^$domain=korben.info
 ||emp3s.ws/spon/$popup
 ||emploicom.com/application/views/docs/pub/
@@ -6298,6 +6302,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||godaddy.com/getSeal?
 ||gold-barre.com/banner*.
 ||golden-blog-awards.fr/votePlugin.$third-party
+||goo.gl/QavS0C$popup
 ||goo.gl^$domain=anogaming.fr|arab.st|filmcomplet.tv|robindesdroits.me|thevid.net|uplod.ws|videomega.tv
 ||goo.gl^$popup,domain=algerie360.com|easybib.com|lnc.nc|openrunner.com|p0rno.org|seriezone.com|seriezone.org|trackandnews.fr|vkpass.com|za-gay.org
 ||googgl.me^$popup,domain=streamingfoot.direct
@@ -7244,6 +7249,11 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||manga-streaming.fr^*.gif
 ||mangastreaming.fr^$subdocument
 ||mangastreaming.fr^*.gif
+! panda-streaming.net
+@@||ajax.googleapis.com/ajax/libs/$script,domain=panda-streaming.net
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=panda-streaming.net
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=panda-streaming.net
+||panda-streaming.net^*.gif
 ! beinsport-streaming.com
 @@||www.firstonetv.eu/embed/$subdocument,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|footstream.tv|streaming-football.org|tous-sports.tv
 @@||www.hdmyt.info/channel.php?file=$script,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|footstream.tv|streaming-football.org|tous-sports.tv
@@ -7861,6 +7871,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||goo.gl/It3ADx
 ||goo.gl/MCGCru
 ||goo.gl/Of2a3a
+||goo.gl/QavS0C
 !
 ! kvid.org
 ||appcdn.xyz^
@@ -13719,7 +13730,7 @@ achat-bitcoins.com##a[rel="nofollow"] > img
 zetorrente.fr##a[rel]
 at.ua,ucoz.com,ucoz.net,ucoz.ru,ucoz.ua##a[rel][style*="z-index:"]
 imagecool.org##a[rel][style]
-dl-protecte.com,dl-protecte.org,extreme-down.one,extreme-down.pro,liens-telechargement.com,protect-lien.com,protect-zt.com,protecte-link.com,security-links.com,youzik.com##a[style]
+dl-protecte.com,dl-protecte.org,extreme-down.one,extreme-down.pro,liens-telechargement.com,panda-streaming.net,protect-lien.com,protect-zt.com,protecte-link.com,security-links.com,youzik.com##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
 seedpeer.eu##a[target="_blank"]
 4downfiles.org,9divx.org,buzzporn.net,dpstreaming.cx,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,manga-streaming.fr,mangastreaming.fr,planet-streaming.com,pubfilm.me,serie-streaming.watch,seriezone.org,streaminghd.fr,youwatch-series.com##a[target="_blank"] > img
