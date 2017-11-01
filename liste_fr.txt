@@ -6844,6 +6844,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||ssl-images-amazon.com^$domain=fdesouche.com
 ||stagevu.com/video/$popup
 ||stars-passion.com/ban/$third-party
+||starzplay.com/partners/$popup
 ||state-of-the-art-mailer.com/rfredir.php
 ||static.ccmbg.com/ops.ccmbg.com/
 ||static.fotolia.com/pics/*/banners/
@@ -7854,6 +7855,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||i.imgur.com/2758lJa.png
 ||i.imgur.com/2Azjukl.png
 ||i.imgur.com/5tS8GcN.png
+||i.imgur.com/7hsNsFq.png
 ||i.imgur.com/A4Kwg6k.png
 ||i.imgur.com/FinBqT8.jpg
 ||i.imgur.com/GuWFUeO.gif
@@ -7869,6 +7871,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||i.imgur.com/WI1faon.png
 ||i.imgur.com/wOzHfhU.gif
 ||i.imgur.com^$domain=nintendo-master.com|protect-stream.com
+||i0.wp.com/i.imgur.com/9CYbhdV.png
 ||i0.wp.com/nisturiale.fr/wp-content/uploads/2017/04/biunio.jpg
 ||i2.wp.com/nisturiale.fr/wp-content/uploads/2017/04/350x75.jpg
 ||i63.tinypic.com/x1m17b.jpg
@@ -11387,6 +11390,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.pave_pub2
 ##.pjsleads
 ##.player-ad-overlay
+##.player-adv
 ##.player-pub
 ##.player-screen-ads
 ##.player-screen-ads-item
@@ -14468,6 +14472,7 @@ trackmusik.fr#@#.afs_ads
 @@||flash-mail.xyz^$generichide
 @@||flyrelax.com^$generichide
 @@||hashe.in^$generichide
+@@||hentai-vostfr.net^$generichide
 @@||hyperdebrid.net^$generichide
 @@||hyperserv.fr^$generichide
 @@||iiv.pl^$generichide
