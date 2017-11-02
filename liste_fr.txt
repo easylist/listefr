@@ -651,7 +651,7 @@
 /anime/ads/*
 /anti-pub.
 /apester-javascript-sdk.
-/api/*?m=html&search_type=*&language=*&count=*&ranking=
+/api/*?m=html&search_type=*&language=*&count=
 /api/ads_
 /api/syndicated/?$third-party
 /apu.php?id=
@@ -1013,6 +1013,7 @@
 /js/marketing/marketing.js
 /js/pub.js
 /js/sda-
+/jsk?zoneid=
 /jwplayer/plugin/preroll.js
 /last_ads.
 /layered_ad.
@@ -2608,6 +2609,7 @@ debugger:$popup
 ||buzzoola.com^$third-party
 ||buzzvet.com^$third-party
 ||bvyvk.space^$third-party
+||bypass-sys.com^$third-party
 ||bzlwe.com^$third-party
 ||bzzvid.com^$third-party
 ||calexito.com^$third-party
