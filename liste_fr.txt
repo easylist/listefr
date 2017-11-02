@@ -358,6 +358,8 @@
 /ad/*/160/*
 /ad/*/300/*
 /ad/*/728/*
+/ad/*/iframe?
+/ad/*/pjs.js
 /ad/*?amtarget=$subdocument
 /ad/*_300250_
 /ad/ad3/*
@@ -458,6 +460,7 @@
 /ads/*-300x250.
 /ads/*-habillage-
 /ads/*/300_
+/ads/*/iframe?
 /ads/*_ad_
 /ads/*_habillage_
 /ads/120/600/*
@@ -648,6 +651,7 @@
 /anime/ads/*
 /anti-pub.
 /apester-javascript-sdk.
+/api/*?m=html&search_type=*&language=*&count=*&ranking=
 /api/ads_
 /api/syndicated/?$third-party
 /apu.php?id=
@@ -1054,6 +1058,7 @@
 /native-ad/*
 /native-ads-
 /native/feed/*/widget/*?b=$third-party
+/nendAdLoader.
 /networking/ref_
 /neverblock/*
 /newcafv2.js
@@ -2341,6 +2346,7 @@ debugger:$popup
 ||adnetw0rk.net^$third-party
 ||adnetworkus.com^$third-party
 ||adneutralads.com^$third-party
+||adnico.jp^$third-party
 ||adnimo.com^$third-party
 ||adnotbad.com^$third-party
 ||adnplay.com^$third-party
@@ -3134,6 +3140,7 @@ debugger:$popup
 ||neckermann.be^$third-party
 ||nefroto.net^$third-party
 ||nelads.com^$third-party
+||nend.net^$third-party
 ||neoadvertising.be^$third-party
 ||nepasmanquer.com^$third-party
 ||netclickstats.com^$third-party
