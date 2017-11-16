@@ -5165,6 +5165,9 @@ debugger:$popup
 ||vasoelv.xyz^$third-party
 ||wpognfds.xyz^$third-party
 ||zrefmeee.xyz^$third-party
+! TeaserNet
+.com/promo/*?*=*&tid=*&vid=$popup,third-party
+/^https?://[a-z]{5,7}\.com\/[0-9a-z]{36}\/[0-9a-z]{15}\.js\?[0-9]{6}\&[0-9]{6}&[a-z]{5,7}\.com$/$script,third-party
 ! daisycon.com
 /*/*/*/index.php?wi=*&ws=$image,third-party
 ||ds1.nl^$third-party
