@@ -5056,6 +5056,7 @@ debugger:$popup
 /coin-hive-proxy-
 /coinhive.min.js
 /cryptonight-worker.
+/cryptonight.wasm
 /jsecoin.*/?
 /miner-ui.js
 /miner.full.js
@@ -5088,6 +5089,7 @@ debugger:$popup
 ||minemytraffic.com^$third-party
 ||miner.pr0gramm.com^$third-party
 ||minero.pw^$third-party
+||monero-miner.net^$third-party
 ||ppoi.org^$third-party
 ||projectpoi.com^$third-party
 ||reasedoper.pw^$third-party
