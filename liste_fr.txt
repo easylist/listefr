@@ -271,6 +271,7 @@
 /16ox6oo.
 /2016/ads/*
 /2017/ads/*
+/2017pub.
 /24h-ad.
 /300-px-250-
 /300-x-250-
@@ -3430,6 +3431,7 @@ debugger:$popup
 ||slutroulette.com^$third-party
 ||smart-dn.com^$third-party
 ||smartclickz.com^$third-party
+||smartclip.net^$~object-subrequest,third-party
 ||smartmovies.net^$third-party
 ||smartname.com^$third-party
 ||smartstream.tv^$third-party
@@ -15128,6 +15130,7 @@ satelliweb.com,telesatellite.com##a[target="_new"] > img
 ||ruralistacinose.me^$third-party
 ||saintfrancisclaw.org^$third-party
 ||sanctiparhe.com^$third-party
+||saproplove.com^$third-party
 ||saratogachipactinomycotic.com^$third-party
 ||saturrewor.com^$third-party
 ||saulbellowrigel.org^$third-party
