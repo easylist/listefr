@@ -1985,6 +1985,7 @@ _frontend_loader.$script
 /partners/*=banner$popup
 /pdv/*?ida=$popup
 /pdv/track.$popup
+/pdv?id=$popup
 /pop.redirect.$popup
 /pop?dfp_id=$popup
 /pop_under.$popup
@@ -2059,6 +2060,7 @@ _frontend_loader.$script
 ://pdv.$popup
 ://pop.$popup
 ://pops.$popup
+://porno.*/ban-$popup
 ://rencontre.*&utm_*&utm_=$popup
 ://syndication.$popup,third-party
 ://trk.*&campaign=$popup
@@ -5278,6 +5280,7 @@ debugger:$popup
 ||8mm.shiksha^$popup,third-party
 ||91.210.165.104^$popup,third-party
 ||94.23.210.144^$popup,third-party
+||94.23.251.46^$popup,third-party
 ||99meta.com^$popup,third-party
 ||a2g-secure.com^$popup,third-party
 ||a2gw.com^$popup,third-party
@@ -5586,6 +5589,7 @@ debugger:$popup
 ||homyanus.com^$popup,third-party
 ||hopdream.com^$popup,third-party
 ||howtosimplified.com^$popup,third-party
+||hpmstr.com^$popup,third-party
 ||humourgratuit.me^$popup,third-party
 ||hyperline88.com^$popup,third-party
 ||hyperpromote.com^$popup,third-party
@@ -6758,6 +6762,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||oh-hyip.com/promo/
 ||ohlescoquins.com/promo/
 ||okpay.com/img/partners/$third-party
+||olp.snapdesexe.com^$popup
 ||on-veut-du-cul.com/promo/
 ||one-piece-streaming.eu^$subdocument
 ||onepunchltd.com/img/banners/
@@ -11938,6 +11943,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##[class^="lig_wrapper_ad_"]
 ##[class^="region-pub-bottom-"]
 ##[class^="region-pub-position-"]
+##[class^="thumb-pub-860"]
 ##[class^="trivago_widget_"]
 ##[data-type="ad"][data-format]
 ##[data-type="ad"][data-publisher]
@@ -12095,6 +12101,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##a[href^="ads.php?id="]
 ##a[href^="annonceur.php?id_banniere="]
 ##a[href^="http://178.175.132.130/"]
+##a[href^="http://188.165.178.248/"]
 ##a[href^="http://3dxchat.com/?"]
 ##a[href^="http://ad-online.biz/"]
 ##a[href^="http://adminlady.info/"]
