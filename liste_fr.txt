@@ -12012,7 +12012,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##a[href*="/goto.php?ads_id="]
 ##a[href*="/install-app?affid="]
 ##a[href*="/inter?implementation_id="]
-##a[href*="/out.php?purl="]
 ##a[href*="/p_tools/promo.php?"]
 ##a[href*="/redirect.php?title="]
 ##a[href*="/redirect?partenaire="]
@@ -12237,6 +12236,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##section[onclick*="/publicite-300-250/"]
 ##style + div[id*="ScriptRootC"]
 ##table > tbody > tr > td > a[href="http://www.pubdirecte.com"]
+!##a[href*="/out.php?purl="]
 ! xenForo
 ##.SamRotator > .SamLink
 ##.samBannerUnit .SamLink
