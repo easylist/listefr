@@ -50,6 +50,7 @@
 &direct=*&zoneid=
 &exo_cid=
 &forward_affiliate=
+&hasads=
 &id_adv=
 &id_site=*&ref=*&width=*&height=*&m_url=$subdocument
 &include_ads=
@@ -125,7 +126,9 @@
 -ads/ads.
 -ads/get?type=
 -adsmanager/
+-adv-1.
 -adv-2.
+-adv-3.
 -advertising/tmg-gpt.
 -affiliate-earn-
 -animated-ad.
@@ -150,6 +153,7 @@
 -popunder-
 -popunder-ads.
 -popunders.
+-promo/ad_
 -pub-300x250.
 -pub-ads/
 -reklama-300x300.
@@ -187,6 +191,7 @@
 .com/bnrs/$subdocument
 .com/func.js|$script,~third-party
 .com/popup.js
+.com/sponsors/
 .dz/ads/
 .dz/ads_
 .fr/*/ads/
@@ -223,6 +228,8 @@
 .php?*&synergie=*&size=
 .php?aid=pause_
 .php?banner=$subdocument
+.php?file=ads/
+.php?file=banner/
 .php?file=banners/
 .php?file=pub/
 .php?format=160x600
@@ -352,6 +359,8 @@
 /ad-rotator.
 /ad-script.
 /ad-scroll.js
+/ad.*/ads.
+/ad.*/delivery?
 /ad.ashx/*
 /ad.bon-plan-
 /ad.js?_=
@@ -359,6 +368,7 @@
 /ad/*/160/*
 /ad/*/300/*
 /ad/*/728/*
+/ad/*/animation_
 /ad/*/iframe?
 /ad/*/pjs.js
 /ad/*?amtarget=$subdocument
@@ -374,14 +384,18 @@
 /ad2/show.
 /ad300ro.
 /ad300x2502.
+/ad300x250w.
 /ad4mat.
 /Ad4S_Popup/*
 /ad700mv.
 /ad?mode=
 /ad_250250.
 /ad_300x250.
+/ad_bottom_
 /ad_fr.
 /ad_frames/*
+/ad_left_
+/ad_middle_
 /ad_placements/*
 /ad_result.
 /ad_trafic.
@@ -435,9 +449,11 @@
 /AdPortalService.
 /AdPortalWebService/*
 /adprof/*
+/adprop.
 /adr.php
 /adRender.
 /adrequest/*
+/adrulesets/*
 /Ads*/banner_
 /ads-1-
 /ads-2-
@@ -514,6 +530,7 @@
 /ads15.
 /ads16.
 /ads17.
+/ads1a.
 /ads2a.
 /ads300m.
 /ads360/*
@@ -575,8 +592,10 @@
 /adspaymedia.
 /adspirit.
 /AdsPub/*
+/adsrvmedia/*
 /adstest.
 /adstrack/*
+/adstract_
 /adsvrz-
 /adsw1.
 /adtechv2_
@@ -606,6 +625,7 @@
 /advert/rota-
 /advertica-$third-party
 /advertisement?
+/advertisements?
 /advertiserv/*
 /advertiserv2/*
 /AdvertisingBanners/*
@@ -666,6 +686,7 @@
 /b/ads/*
 /b2bad.
 /b728x90a.
+/b_right.$subdocument
 /back-adsens.
 /ban/*/300x250
 /ban160.js
@@ -683,6 +704,7 @@
 /baner/ads/*
 /banLight.*?ref=
 /bann468X60.
+/banner-ads
 /banner-ads.
 /Banner-Tag-
 /banner/*/goclick/?
@@ -719,8 +741,12 @@
 /banner_display.
 /banner_ext.
 /banner_iframe.
+/banner_left.$subdocument
+/banner_mainflash.$subdocument
 /banner_pub.
+/banner_right.$subdocument
 /banner_show.
+/banner_top.$subdocument
 /bannerad2300.
 /bannerad300.
 /bannercode-
@@ -825,6 +851,7 @@
 /code-float-ad.
 /code/adv/*
 /col_droite_googleads2
+/comment-ads.
 /config_dfp.js
 /content?promo_id=
 /coolads.
@@ -855,6 +882,7 @@
 /delivery/rta/*
 /delivery/www/
 /delivery?*&ad=
+/delivery?*&callback=
 /detect-acceptable/*
 /df/250x250.
 /dfp-adblock-
@@ -918,6 +946,7 @@
 /fod_ad_
 /fond_pub_
 /footerPartnerOffers.
+/foreignkey.adv?
 /formats/ads_
 /fr-ads.
 /fra/ads/*
@@ -974,17 +1003,21 @@
 /images/affiliates/*
 /images/sponsored?
 /images/sponsors/*
+/images/sponsorships/*
 /images_pub/pub_
 /img-bandeau-pub/*
+/img-samples/ads/*
 /img/46860.
 /img/_ad/*
 /img/adv_
 /img/bnr728.
+/img/sponsorships/*
 /img/vda_
 /imgs/adv/*
 /in-ad_desktop/*
 /in_ad_new.
 /include/partenaires.
+/includes/ads.
 /index.php/tag/iframe/*
 /infopop-optimise-
 /infopop-optimise.
@@ -1014,6 +1047,7 @@
 /js/marketing/marketing.js
 /js/pub.js
 /js/sda-
+/js_a_d_s.
 /jsk?zoneid=
 /jwplayer/plugin/preroll.js
 /last_ads.
@@ -1088,6 +1122,7 @@
 /packpopup.
 /pad_ban.
 /page_pub.
+/pagead/*?$subdocument
 /pagead/ads.
 /pagepub.
 /pages_ads.
@@ -1112,6 +1147,8 @@
 /peelrotateur/*
 /phantomPopunder.
 /player.*?adSetCode=
+/player/jw/ad.js
+/player/jw/ads.js
 /player_ad.
 /plugins/adKnowMore.
 /plugins/dfp/$script
@@ -1126,6 +1163,7 @@
 /pooads.
 /pop-ads.
 /pop-url/|$script
+/pop.js?ref=
 /pop.packed.
 /pop.php?id=
 /pop.php?id_
@@ -1421,6 +1459,7 @@
 /tools/*&format=*&rand=$subdocument
 /tools/*?aff=*&url=$script
 /totemtools/*
+/traffic/?target=
 /travelAds.
 /ttn_adspaces
 /twitter-ads.
@@ -1430,8 +1469,11 @@
 /upload/ad/*
 /upload/adv/*
 /uploads/*/ads.
+/userfiles/ads/*
+/userfiles/banners/*
 /v2/ads/*
 /v3/ads/*
+/vast.xml?key=
 /vaxadserver.
 /vbs-ads.
 /videojs-ads/*
@@ -1461,11 +1503,14 @@
 /wigetmedia.js
 /wish_list_product_$script
 /wmadv.
+/wordcoin-ad-
 /wp-content/*/bloc-partenaire-
 /wp-content/plugins/baw-bon-plan/*
 /wp-content/plugins/mts-wp-in-post-ads/*
 /wp-content/plugins/the-moneytizer/*
+/wp-content/plugins/wp-banners/*
 /wp-content/themes/*/ads/*
+/wp-content/uploads/wp-banners/*
 /wp-totemtools/*
 /wpxtube/*
 /wtop_bannieres/*$third-party
@@ -1478,6 +1523,7 @@
 /xpopunder/*
 /xyz?*=|$subdocument
 /xzy?*=|$subdocument
+/zone/ads.
 /zone?*&random=
 /zoneads/*
 /zones?zone=$subdocument
@@ -1488,6 +1534,7 @@
 ://aclick.
 ://ad-start.
 ://ad.*/uri/
+://ad./embed.
 ://adg.*/pub/
 ://adlik.
 ://adlik2.
@@ -1572,6 +1619,7 @@
 ?action=VIEWAD&
 ?ad_domain=
 ?ad_id=
+?ad_server_
 ?ADFassetID=
 ?adlink/
 ?adRef=
@@ -1648,6 +1696,7 @@ _ad4.
 _ad_agency_
 _ad_campaign_
 _ad_images_
+_ad_literature.
 _ad_unit.
 _ad_view_
 _adagency_
@@ -1703,6 +1752,7 @@ _nnads/$subdocument
 _pages_ad.
 _pop.php?z=
 _popAds.
+_program_ad.
 _pub_300x.
 _pub_728.
 _pub_col_
@@ -1720,6 +1770,7 @@ _sdk_ad_
 _smads_
 _smartclick.js
 _Social-Advert-
+_square_ads.
 _waframedia_
 _werbebanner_
 ! exads
