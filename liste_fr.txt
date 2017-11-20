@@ -1287,6 +1287,7 @@
 /pub_428x90.
 /pub_72890_
 /pub_adblocker_
+/pub_affichage_web/*
 /pub_affiche.
 /pub_col.
 /pub_delivery.
@@ -8738,7 +8739,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||francoischarron.com^*/dfp/
 ||francoischarron.com^*/placeholder/
 ||francoischarron.com^*/pubs/
-||frandroid.com^*/pub_affichage_web/
+||frandroid.com/wp-content/themes/*/habillage_
 ||free-reseau.fr/images/ban_
 ||free-strip-games.com/images/banners/
 ||free-strip-games.com/swf/
@@ -10357,6 +10358,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###adPopup
 ###adSupport
 ###adTOP
+###adTopsponsor
 ###ad_300_250_right
 ###ad_amz
 ###ad_global_below_navbar
@@ -13427,6 +13429,7 @@ football.fr##.oas-middle
 nouvelobs.com##.obs-pub
 galaxynote.fr##.offre
 aujourdhui-en-france.fr,leparisien.fr##.offresStage
+frandroid.com##.oopnative
 wamiz.com##.orange
 jumia.ma##.osh-partnership
 lefigaro.fr##.oto-blocvit
