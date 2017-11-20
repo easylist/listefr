@@ -1798,6 +1798,7 @@ _frontend_loader.$script
 ! regex
 /\.(accountant|bid|click|club|com|cricket|date|download|faith|link|loan|lol|men|online|party|racing|review|science|site|space|stream|top|trade|webcam|website|win|xyz)\/(([0-9]{2,9})(\.|\/)(css)?)$/$script,stylesheet,third-party,xmlhttprequest
 /\.(asia|co|com|net|pro)\/[0-9a-zA-Z]{64}$/$script,third-party
+/\.(com|fr|net|org)\/data\/[0-9a-f]{32}\/[0-9a-f]{32}\.(gif|jpg)$/$image
 /\.(com|info)\/[a-zA-Z0-9\+\/]{64,}/$image,ping,third-party,domain=adf.ly|ay.gy|babblecase.com|daclips.com|daclips.in|dl-protecte.com|dl-protecte.org|filesupload.org|flashx.tv|flowyourvideo.com|footstream.tv|gamecopyworld.click|gorillavid.in|j.gs|justmp4.com|kaitect.com|lavamovies.com|listentoyoutube.com|movpod.in|mystream.la|picocurl.com|pintient.com|protect-lien.com|protect-zt.com|q.gs|replaymod.com|security-links.com|torrentfunk.com|toussports.info|uptobox.com|uptostream.com|vidgg.to|vidtodo.com|watchvideo.us|zone-telechargement.de|zone-telechargement.live|zone-telechargement.zone
 /\.canal-plus\.net\.s0\.frz\.io\/image\/[\d]{2}\/[\d]{1}\/[\d]{6}\.jpg/$image
 /\.com\/[0-9a-z]{8}\.js#spot\=[0-9]{5}$/$script
@@ -1924,6 +1925,7 @@ _frontend_loader.$script
 &utm_*=cpm&$popup
 &utm_medium=ads$popup
 &voluumdata=$popup
+&xzoneid=$popup
 &ymid=ADSYS-$popup
 &zoneid=*&ad_$popup
 &zoneid=*&direct=$popup
@@ -3357,6 +3359,7 @@ debugger:$popup
 ||purlive.com^$~image,third-party
 ||pushnative.com^$third-party
 ||putbid.net^$third-party
+||putrr18.com^$third-party
 ||puttme.gq^$third-party
 ||pwonla.com^$third-party
 ||pwspace.com^$third-party
@@ -9659,6 +9662,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||streambox.club/jsfeed/
 ||streamcomplet.me/img/a/
 ||streamcomplet.me/popup/
+||streaming-amateur.net/data/$image
 ||streaming-boruto.com/wp-content/uploads/*.gif
 ||streaming-dragon-ball-super.com/wp-content/uploads/*.gif
 ||streaming-hardcore.com/data/$image
