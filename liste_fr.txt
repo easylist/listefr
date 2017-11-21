@@ -10275,6 +10275,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 !------------------ Éléments génériques -----------------!
 !
 ###ADS_1
+###ADSblock
 ###AdBanner_1
 ###AdBanner_2
 ###AdSense_Header
@@ -10291,6 +10292,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###EmplPubHaut
 ###HeadPub
 ###LeftAdDiv
+###LeftAds
+###MegaAd
 ###NFBannierePublicitaire
 ###Pub728x90
 ###PubBas
@@ -10364,15 +10367,20 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###ad4x125
 ###ad728b
 ###adBoxFooter
+###adComm
 ###adContainerParent
 ###adInPlayer
 ###adPopup
 ###adSupport
 ###adTOP
+###adTopBigsponsor
+###adTopprodukt
 ###adTopsponsor
 ###ad_300_250_right
 ###ad_amz
 ###ad_global_below_navbar
+###ad_image
+###ad_image_1
 ###ad_liste_bookmaker
 ###ad_marketingbanner_1_placeholder
 ###ad_megaban
@@ -10390,6 +10398,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###admid1
 ###admid2
 ###admitad_div
+###adpos2_1
+###adpos2_2
 ###adpubhead
 ###ads-300x250
 ###ads-320x50-I1
@@ -10458,6 +10468,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###advFooter
 ###advHeader
 ###adv_big_blocked
+###adv_player
 ###advancedPartnerDiv
 ###advert-title
 ###advert01
@@ -10465,6 +10476,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###advert_space
 ###advertisement-2
 ###advertisement-3
+###advertising2-postroll
+###advertising2-preroll
 ###advertsLeaderboard
 ###advideum
 ###advncdads-1
@@ -10667,6 +10680,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###haut_site_pub
 ###head-pub
 ###head_pub
+###header-promo
 ###header-pub
 ###header-pub-banner
 ###header-pub-top
@@ -10676,6 +10690,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###header_pub
 ###header_pub_contenu
 ###headerpub
+###hideAd
 ###home-pub
 ###home-pushdownAd
 ###home_advertising_block
@@ -10713,6 +10728,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###middle-publicite
 ###milieu_pub
 ###mobileMessageAd
+###mod-ad-msu-3
 ###modp-300600
 ###module_publicite
 ###monetiz-pub
@@ -11006,6 +11022,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###sp-entete-pour-la-pub
 ###spaceForPub
 ###sponsor-block
+###sponsor_sidebar
 ###sponsoredContainer
 ###sponsoredProducts
 ###sponsoredResultitem
@@ -11052,6 +11069,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.CDInfopopIframe
 ##.GANO_adIookaz
 ##.GTRF_sponsoredLinks
+##.MIXADVERT_NET
 ##.MobAdsHeader
 ##.PostAd
 ##.PubBox_300
@@ -11132,14 +11150,19 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.adSpace2
 ##.ad_970x90
 ##.ad__remove
+##.ad_div_box
+##.ad_div_box2
 ##.ad_header_728x90
 ##.ad_hidden
 ##.ad_holder_text
+##.ad_horizontal
 ##.ad_pause
 ##.ad_placholder
+##.ad_plus
 ##.ad_sense
 ##.ad_showblock
 ##.ad_smartphbig
+##.ad_title_mimic
 ##.ad_video
 ##.ad_visible
 ##.adavert-center
@@ -11152,6 +11175,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.adbvert
 ##.adbw__wrapper
 ##.adcarousel
+##.adcol
 ##.add-space
 ##.addblock
 ##.addbygoogle
@@ -11161,6 +11185,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.adf_marketingbanner
 ##.adf_mpu
 ##.adflex
+##.adg-rects
 ##.admag-block
 ##.admid2
 ##.ads--panorama
@@ -11288,6 +11313,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.adtest-color
 ##.adtitle728
 ##.adtxtlegend
+##.adunit-container
+##.adunit-title
 ##.adunit-top
 ##.aduns
 ##.aduns1
@@ -11300,12 +11327,16 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.adv-holder
 ##.adv-inner
 ##.adv120x600
+##.adv160x600
 ##.adv300-topnews
+##.adv300x600
 ##.adv350200
+##.adv468x60
 ##.adv728x90
 ##.advBackground
 ##.adv_big
 ##.adv_block
+##.adv_clickable
 ##.adv_cont
 ##.adv_pop
 ##.advert-header-wrapper
@@ -11316,13 +11347,16 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.advert-under-hedaer2
 ##.advert-under-hedaer2-left
 ##.advert-under-hedaer2-right
+##.advertMpu
 ##.advertStd
+##.advert_pos
 ##.advertisement-pub
 ##.advertising-box
 ##.advertising-box-full
 ##.advertising-item-bottom
 ##.advertising-side
 ##.advertsLeaderboard
+##.advertvertical
 ##.advhead
 ##.advimg46860
 ##.advimg72890
@@ -11330,6 +11364,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.ady90
 ##.adziner-adzone
 ##.af_bloc_partners
+##.after-post-ads
 ##.an-advert-banner
 ##.an-sponsored
 ##.annnonces_partenaires
@@ -11462,6 +11497,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.delayedAdvertising
 ##.desktop-ff-ads
 ##.desktop-ff-ads__main
+##.desktopAd
 ##.desktopbottomad
 ##.desktopbottomad1
 ##.desktopbottomad2
@@ -11527,6 +11563,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.go-offer-ads
 ##.go-offer-ads-links
 ##.google-ads-keylink
+##.googleAdTag
 ##.google_ad2
 ##.gptAd
 ##.gr-ads
@@ -11541,6 +11578,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.header-ad-slot
 ##.header-add-wrapper
 ##.header-adds
+##.header-promo
 ##.header-pub
 ##.headerPub
 ##.header_pub
@@ -11561,6 +11599,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.in_up_ad-area
 ##.info_pop > a > img
 ##.inpage-adspace
+##.insertPadList
 ##.insert_pub_center
 ##.inside_adv_section
 ##.ipsAdvertisement
@@ -11612,8 +11651,10 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.mobile-ads
 ##.mobile-ads__close
 ##.mobile-ads__main
+##.mobileAd
 ##.mobile_adhesion
 ##.mobile_instream_ad
+##.mobileadvert
 ##.mod-ad-middle
 ##.mod-ad-top
 ##.mod-ad-top-2
@@ -11646,8 +11687,13 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.ot_ads
 ##.outer_ads_left
 ##.outer_ads_right
+##.outside120SkyAd
+##.outside160SkyAd
+##.outside300SkyAd
 ##.p-floating-ad-wrapper
 ##.p-with-floating-ad
+##.padAdv
+##.padAdvx
 ##.padscreen
 ##.pageLoadAdBox
 ##.panel-ads
@@ -11920,6 +11966,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.reklama-box
 ##.reklamlink
 ##.release-mangas-pub
+##.remove-ads-component
 ##.removeAds
 ##.remove_ads
 ##.replaceDelayedAds
@@ -11978,6 +12025,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.special-banner
 ##.sponsor_leaderboard
 ##.sponsor_leaderboard-wrap
+##.sponsor_sidebar
 ##.sponsored-amazon
 ##.sponsored-by__highlighted
 ##.sponsored-by__main
@@ -12353,6 +12401,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##a[onclick*="FriendlyDuck.com"]
 ##a[onclick^="CustomWLAdServer."]
 ##a[target="_blank"][href*="/buy-vpn?"] > img
+##div[class*="300x250_advertisement_"]
 ##div[class*="view-ads-header-"]
 ##div[class*="view-id-ads_header_"]
 ##div[class*="view-id-ads_sidebar_"]
@@ -12366,15 +12415,18 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##div[id^="M"][id*="Composite"]
 ##div[id^="PostAd"]
 ##div[id^="adsatlas-"]
+##div[id^="adzerk-"]
 ##div[id^="betAds"]
 ##div[id^="block-dfp-728-"]
 ##div[id^="block-views-ads-header-"]
 ##div[id^="block-views-ads-sidebar-"]
 ##div[id^="crt-"][style*="width:"]
+##div[id^="dfp-ad-300x250_advertisement_"]
 ##div[id^="div-adt-"]
 ##div[id^="pub-dfp-"]
 ##div[id^="sqweb_ad_control-"]
 ##div[onclick*="/regiedeep.php?"]
+##div[onerror="fuck_adblock()"]
 ##gwd-doubleclick
 ##iframe[name*="/adunblock_"]
 ##script[src^="http://www.pubdirecte.com/script/"]
