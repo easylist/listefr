@@ -1428,6 +1428,7 @@
 /show.php?*&type=*&method=$script
 /show.php?z=*&code=
 /show/?block_id=*&r=$script
+/show?zone_id=
 /show_adv.
 /show_next_ads.
 /showads?
@@ -1968,6 +1969,7 @@ _frontend_loader.$script
 /__utm.gif$popup
 /a.php?mode=*&pgid=$popup
 /a4u_banner_.$popup
+/activedownload/?affl=$popup
 /ad-maven-$popup
 /ad.*/aff_$popup
 /adcint/*$popup
@@ -14721,6 +14723,7 @@ _blockadblock_
 @@||adshort.me/js/ads.js$script,~third-party
 @@||adshorte.com/js/ads.js$script,~third-party
 @@||afreesms.now.im/adblocker.js$script,domain=afreesms.com
+@@||arpa7com.com/js/ads.js$script,domain=arpa7com.com
 @@||audipassion.com^*/jsLoader.js?adType=foobar
 @@||ay.gy/static/js/advert.js$script,domain=adf.ly|ay.gy|babblecase.com|download.replaymod.com|go.awanpc.me|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|rd1.gamecopyworld.click
 @@||badibadou.eu/*.js?auto=$script,third-party
