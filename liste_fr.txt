@@ -2104,6 +2104,7 @@ _frontend_loader.$script
 /unsub_aff.$popup
 /watch?*&uuid=*&refer=*&key=$popup
 /watch?*&zone_key=
+/watch?key=*&refer=$popup
 /watch?site_key=
 /www/go/*?zoneid=$popup
 /xdirect.*?$popup
@@ -5742,6 +5743,7 @@ debugger:$popup
 ||havenwrite.com^$popup,third-party
 ||hexaweb.net^$popup,third-party
 ||hfkfh.com^$popup,third-party
+||hitcpm.com^$popup,third-party
 ||homyanus.com^$popup,third-party
 ||hopdream.com^$popup,third-party
 ||howtosimplified.com^$popup,third-party
@@ -10771,6 +10773,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###oPublicite
 ###om_ads-7
 ###overVideoAd
+###over_video_ad
 ###overlay-advertising
 ###overlayad
 ###pagelet_advertiser_panel
