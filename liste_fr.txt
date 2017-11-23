@@ -7488,6 +7488,13 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ! nextorrent.net
 |http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.tv|nextorrent.ws
 |https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.tv|nextorrent.ws
+! yggtorrent.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=yggtorrent.com
+@@||cdn.wysibb.com^$script,domain=yggtorrent.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=yggtorrent.com
+@@||code.jquery.com^$script,domain=yggtorrent.com
+|http://$script,third-party,xmlhttprequest,domain=yggtorrent.com
+|https://$script,third-party,xmlhttprequest,domain=yggtorrent.com
 ! torrentfunk.com
 |http://$ping,script,subdocument,third-party,xmlhttprequest,domain=torrentfunk.com
 |https://$ping,script,subdocument,third-party,xmlhttprequest,domain=torrentfunk.com
