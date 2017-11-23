@@ -804,7 +804,9 @@
 /banpub/*
 /bans_infopop/*
 /bansfakes_st.
+/barra-disksexo/*
 /bb728x90.
+/bcklad.
 /bens/vinos.js
 /bigbangads.
 /bimages/*&ad=
@@ -2694,6 +2696,7 @@ debugger:$popup
 ||bzzvid.com^$third-party
 ||calexito.com^$third-party
 ||cam4ads.com^$third-party
+||cameraprive.com^$third-party
 ||camplace.com^$third-party
 ||camsoda.com^$third-party
 ||camsympa.com^$third-party,domain=~camsympa.fr
@@ -11542,6 +11545,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.deck--below-ads
 ##.deck--top-ads
 ##.delayedAdvertising
+##.desktop-ads
 ##.desktop-ff-ads
 ##.desktop-ff-ads__main
 ##.desktopAd
@@ -11564,6 +11568,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.dossier-pub
 ##.dp-ad-chrome
 ##.dp-ad-visible
+##.drt-ad-url
 ##.drt-sponsor-block
 ##.drt-sponsor-data
 ##.e3lan
