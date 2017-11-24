@@ -6960,6 +6960,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||partners.neteventsmedia.be^$third-party
 ||partners.pmu.fr^
 ||partners.tremorhub.com^
+||party-*.now.sh^
 ||paruvendu.fr^$subdocument,third-party
 ||passion-auto.me/pub.
 ||passion-auto.me/pub1.
@@ -7591,16 +7592,15 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=dragon-ball-super-streaming.com|streaming-boruto.com|streaming-dragon-ball-super.com
 ! mangastreaming.fr
-@@||ajax.googleapis.com/ajax/libs/$script,domain=manga-streaming.fr|mangastreaming.fr
-@@||ifp.re/$subdocument,domain=mangastreaming.fr
-@@||protect-video.com/embed.php?id=$subdocument,domain=manga-streaming.fr|mangastreaming.fr
-@@||www.mangastreaming.fr/wp-$script,stylesheet,domain=manga-streaming.fr
-|http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr
-|https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr
-||manga-streaming.fr^$subdocument
-||manga-streaming.fr^*.gif
-||mangastreaming.fr^$subdocument
-||mangastreaming.fr^*.gif
+$subdocument,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
+.gif$image,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
+@@||ajax.googleapis.com/ajax/libs/$script,domain=mangastreaming.me
+@@||ifp.re/$subdocument,domain=mangastreaming.me
+@@||mp3free.pw/$subdocument,domain=mangastreaming.me
+@@||protect-video.com/embed.php?id=$subdocument,domain=mangastreaming.me
+@@||www.mangastreaming.fr/wp-$script,stylesheet,domain=mangastreaming.me
+|http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
+|https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
 ! panda-streaming.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=panda-streaming.net
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=panda-streaming.net
@@ -14140,7 +14140,7 @@ at.ua,ucoz.com,ucoz.net,ucoz.ru,ucoz.ua##a[rel][style*="z-index:"]
 imagecool.org##a[rel][style]
 dl-protecte.com,dl-protecte.org,dragon-ball-super-streaming.com,extreme-down.one,extreme-down.pro,liens-telechargement.com,panda-streaming.net,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,viva-stream.info,youzik.com##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
-seedpeer.eu##a[target="_blank"]
+manga-streaming.fr,mangastreaming.fr,mangastreaming.me,seedpeer.eu##a[target="_blank"]
 4downfiles.org,9divx.org,buzzporn.net,dpstreaming.cx,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,manga-streaming.fr,mangastreaming.fr,planet-streaming.com,pubfilm.me,serie-streaming.watch,seriezone.org,streaminghd.fr,youwatch-series.com##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
