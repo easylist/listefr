@@ -7802,8 +7802,8 @@ $subdocument,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
 |https://$script,third-party,domain=vidoza.net
 ! openload
 /^https?:\/\/(tt1\.|yii\.)?(oload.stream|oload.tv|oload.info|openload.co|streamango.com|streamcherry.com)\/(.*\/)?(cdn-cgi\/|script\.\d{3,4}\.|license\.|VPAIDFlash\.|(.*\.vpaid\.)|(r3\/))(.*)/$domain=ifp.re|oload.info|oload.stream|oload.tv|openload.co|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
-/assets/js/script.$domain=ifp.re|oload.info|oload.stream|oload.tv|openload.co|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
-/cdn-cgi/apps/head/*$script,domain=ifp.re|oload.info|oload.stream|oload.tv|openload.co|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
+/assets/js/script.$domain=ifp.re|mp3free.pw|oload.info|oload.stream|oload.tv|openload.co|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
+/cdn-cgi/apps/head/*$script,domain=ifp.re|mp3free.pw|oload.info|oload.stream|oload.tv|openload.co|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
 @@/(\/ados.js|\/license\.adbl\.js|\/popunder1\.js|\/popunder2\.js|\/script\.223\.js)$/$script,domain=oload.info|oload.stream|oload.tv|openload.co|streamango.com|streamcherry.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=oload.info|oload.stream|oload.tv|openload.co|streamango.com|streamcherry.com
 oload.info,oload.stream,oload.tv,openload.co,streamcherry.com##.vjs-modal-dialog-content
@@ -7946,43 +7946,44 @@ he2eini7ka.com##div > [id^="player"] + div[id][style*="z-index:"]
 |http://$popup,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|divxstage.to|likeupload.org|movshare.ag|movshare.net|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.com|videoweed.es
 |https://$popup,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|divxstage.to|likeupload.org|movshare.ag|movshare.net|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.com|videoweed.es
 ! protect-iframe.com
-.php|$subdocument,~third-party,domain=ifp.re|piframe.tk|protect-iframe.com
-@@||4shared.com/web/embed/$subdocument,domain=ifp.re|protect-iframe.com
-@@||cloudy.ec/embed.php?id=$subdocument,domain=ifp.re|protect-iframe.com
-@@||drive.google.com/file/d/*/preview$subdocument,domain=ifp.re|protect-iframe.com
-@@||embed.nowvideo.sx/embed/?v=$subdocument,domain=ifp.re|protect-iframe.com
-@@||estream.to/embed-$subdocument,domain=ifp.re|protect-iframe.com
-@@||hqq.tv/player/embed_player.php?vid=$subdocument,domain=ifp.re|protect-iframe.com
-@@||hqq.watch/player/embed_player.php?vid=$subdocument,domain=ifp.re|protect-iframe.com
-@@||mystream.la/external/$subdocument,domain=ifp.re|protect-iframe.com
-@@||ok.ru/videoembed/$subdocument,domain=ifp.re|protect-iframe.com
-@@||oload.info/embed/$subdocument,domain=ifp.re|protect-iframe.com
-@@||oload.stream/embed/$subdocument,domain=ifp.re|protect-iframe.com
-@@||openload.co/embed/$subdocument,domain=ifp.re|protect-iframe.com
-@@||rapidvideo.com/e/$subdocument,domain=ifp.re|protect-iframe.com
-@@||rapidvideo.com/embed/$subdocument,domain=ifp.re|protect-iframe.com
-@@||rutube.ru/play/embed/$subdocument,domain=ifp.re|protect-iframe.com
-@@||sendvid.com/embed/$subdocument,domain=ifp.re|protect-iframe.com
-@@||speedvideo.net/embed-$subdocument,domain=ifp.re|protect-iframe.com
-@@||stream.moe/embed2/$subdocument,domain=ifp.re|protect-iframe.com
-@@||streamango.com/embed/$subdocument,domain=ifp.re|protect-iframe.com
-@@||streamcherry.com/embed/$subdocument,domain=ifp.re|protect-iframe.com
-@@||streamin.to/embed-$subdocument,domain=ifp.re|protect-iframe.com
-@@||thevideo.io/embed-$subdocument,domain=ifp.re|protect-iframe.com
-@@||thevideo.me/embed-$subdocument,domain=ifp.re|protect-iframe.com
-@@||tune.pk/player/embed_player.php?vid=$subdocument,domain=ifp.re|protect-iframe.com
-@@||tvad.me/embed-$subdocument,domain=ifp.re|protect-iframe.com
-@@||uptostream.com/iframe/$subdocument,domain=ifp.re|protect-iframe.com
-@@||vidlox.tv/embed-$subdocument,domain=ifp.re|protect-iframe.com
-@@||vidoza.net/embed-$subdocument,domain=ifp.re|protect-iframe.com
-@@||vidtodo.com/embed-$subdocument,domain=ifp.re|protect-iframe.com
-@@||vidup.me/embed-$subdocument,domain=ifp.re|protect-iframe.com
-@@||vidzi.tv/embed-$subdocument,domain=ifp.re|protect-iframe.com
-@@||vshare.eu/embed-$subdocument,domain=ifp.re|protect-iframe.com
-@@||watchers.to/embed-$subdocument,domain=ifp.re|protect-iframe.com
-|http://$script,subdocument,third-party,xmlhttprequest,domain=ifp.re|piframe.tk|protect-iframe.com
-|https://$script,subdocument,third-party,xmlhttprequest,domain=ifp.re|piframe.tk|protect-iframe.com
+.php|$subdocument,~third-party,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||4shared.com/web/embed/$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||cloudy.ec/embed.php?id=$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||drive.google.com/file/d/*/preview$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||embed.nowvideo.sx/embed/?v=$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||estream.to/embed-$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||hqq.tv/player/embed_player.php?vid=$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||hqq.watch/player/embed_player.php?vid=$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||mystream.la/external/$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||ok.ru/videoembed/$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||oload.info/embed/$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||oload.stream/embed/$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||openload.co/embed/$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||rapidvideo.com/e/$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||rapidvideo.com/embed/$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||rutube.ru/play/embed/$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||sendvid.com/embed/$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||speedvideo.net/embed-$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||stream.moe/embed2/$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||streamango.com/embed/$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||streamcherry.com/embed/$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||streamin.to/embed-$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||thevideo.io/embed-$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||thevideo.me/embed-$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||tune.pk/player/embed_player.php?vid=$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||tvad.me/embed-$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||uptostream.com/iframe/$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||vidlox.tv/embed-$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||vidoza.net/embed-$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||vidtodo.com/embed-$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||vidup.me/embed-$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||vidzi.tv/embed-$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||vshare.eu/embed-$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+@@||watchers.to/embed-$subdocument,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+|http://$script,subdocument,third-party,xmlhttprequest,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
+|https://$script,subdocument,third-party,xmlhttprequest,domain=ifp.re|mp3free.pw|piframe.tk|protect-iframe.com
 ||ifp.re^$subdocument,third-party
+||mp3free.pw^$subdocument,third-party
 ||piframe.tk^$subdocument,third-party
 ||protect-iframe.com^$subdocument,third-party
 ! raptu.com
@@ -8152,7 +8153,7 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 ||uploadbank.com^$subdocument,third-party
 ||vyper.io^$subdocument,third-party
 ! popup & popunder
-$popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.com|alluc.ee|any.gs|auroravid.to|ay.gy|babblecase.com|cash4files.com|cineiz.co|cloudtime.to|croco.site|dailyuploads.cc|dailyuploads.net|darkomplayer.com|download.replaymod.com|dragon-ball-super-streaming.com|drstickyfingers.com|dyo.gs|e-wok.tv|easyvid.org|estream.to|etmirror.com|etproxy.com|eztv-proxy.net|eztv.ag|eztv.tf|eztv.wf|eztv.yt|faststream.in|file-upload.com|filescdn.com|filesonthe.net|filmstreamvk.biz|filmstreamvk.org|filmstreamvk.ws|filmstreamz.net|flashx.tv|flowyourvideo.com|footstream.tv|freean.us|full-anime.com|full-film.me|full-serie.biz|full-serie.co|go.ad2upapp.com|gomovies.co|gomovies.es|goneviral.com|gorillavid.com|guadeloupe-paradise.fr|hornywood.tv|ifp.re|imgchili.net|j.gs|jkanime.net|k-streaming.com|k-vid.net|kaitect.com|kickass.cd|kingvid.tv|kvid.org|lavamovies.com|le-streaming.com|letwatch.to|letwatch.us|limetorrents.cc|linkbabes.com|linkbucks.com|media1fire.com|megaline.co|megawatch.net|miniurls.co|monova.org|mystream.la|mythewatchseries.com|nitroflare.com|notsmutty.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.info|oload.stream|oload.tv|onlinevideoconverter.com|openload.co|opensubtitles.org|papstream.co|papstream.com|pelis24.tv|picocurl.com|piframe.tk|pintient.com|pixhost.org|poontown.net|pornovore.fr|powvideo.net|powvideo.xyz|protect-iframe.com|putstream.com|q.gs|qqc.co|rapidvideo.com|rapidvideo.cool|raptu.com|rd1.gamecopyworld.click|seriousdeals.net|shrvid.com|skstream.cc|skstream.co|skstream.ws|smutty.com|sokrostream.cc|sokrostream.ws|speedvid.net|streamango.com|streamay.ws|streamcherry.com|streamin.to|streaming-boruto.com|streaming-dragon-ball-super.com|streaming-hub.com|streamplay.club|streamplay.to|suspents.info|t411.as|t411.sh|theseblogs.com|theseforums.com|thevid.net|thevideo.io|thevideo.me|thevideobee.to|tinylinks.co|tnabucks.com|torlock.com|torrentfunk.com|tout-sur-le-web.com|tvad.me|tvrush.eu|ultimedia.com|ultrafiles.net|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|urlbeat.net|userscloud.com|vid.ag|vidabc.com|vidbom.com|videowood.tv|vidgg.to|vidhos.com|vidlox.me|vidlox.tv|vidoza.net|vidshare.me|vidshare.us|vidstreaming.io|vidto.me|vidtodo.com|vidup.me|vidwatch3.me|vidzi.tv|vimple.me|viva-stream.info|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo5.us|whackyvidz.com|wholecloud.net|xvidstage.com|yggtorrent.com|yourbittorrent.com|yourporno.fr|yyv.co|zatnawqy.net|zippyshare.com|zone-telechargement.de|zone-telechargement.live|zytpirwai.net
+$popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.com|alluc.ee|any.gs|auroravid.to|ay.gy|babblecase.com|cash4files.com|cineiz.co|cloudtime.to|croco.site|dailyuploads.cc|dailyuploads.net|darkomplayer.com|download.replaymod.com|dragon-ball-super-streaming.com|drstickyfingers.com|dyo.gs|e-wok.tv|easyvid.org|estream.to|etmirror.com|etproxy.com|eztv-proxy.net|eztv.ag|eztv.tf|eztv.wf|eztv.yt|faststream.in|file-upload.com|filescdn.com|filesonthe.net|filmstreamvk.biz|filmstreamvk.org|filmstreamvk.ws|filmstreamz.net|flashx.tv|flowyourvideo.com|footstream.tv|freean.us|full-anime.com|full-film.me|full-serie.biz|full-serie.co|go.ad2upapp.com|gomovies.co|gomovies.es|goneviral.com|gorillavid.com|guadeloupe-paradise.fr|hornywood.tv|ifp.re|imgchili.net|j.gs|jkanime.net|k-streaming.com|k-vid.net|kaitect.com|kickass.cd|kingvid.tv|kvid.org|lavamovies.com|le-streaming.com|letwatch.to|letwatch.us|limetorrents.cc|linkbabes.com|linkbucks.com|media1fire.com|megaline.co|megawatch.net|miniurls.co|monova.org|mp3free.pw|mystream.la|mythewatchseries.com|nitroflare.com|notsmutty.com|nowvideo.ag|nowvideo.co|nowvideo.li|oload.info|oload.stream|oload.tv|onlinevideoconverter.com|openload.co|opensubtitles.org|papstream.co|papstream.com|pelis24.tv|picocurl.com|piframe.tk|pintient.com|pixhost.org|poontown.net|pornovore.fr|powvideo.net|powvideo.xyz|protect-iframe.com|putstream.com|q.gs|qqc.co|rapidvideo.com|rapidvideo.cool|raptu.com|rd1.gamecopyworld.click|seriousdeals.net|shrvid.com|skstream.cc|skstream.co|skstream.ws|smutty.com|sokrostream.cc|sokrostream.ws|speedvid.net|streamango.com|streamay.ws|streamcherry.com|streamin.to|streaming-boruto.com|streaming-dragon-ball-super.com|streaming-hub.com|streamplay.club|streamplay.to|suspents.info|t411.as|t411.sh|theseblogs.com|theseforums.com|thevid.net|thevideo.io|thevideo.me|thevideobee.to|tinylinks.co|tnabucks.com|torlock.com|torrentfunk.com|tout-sur-le-web.com|tvad.me|tvrush.eu|ultimedia.com|ultrafiles.net|uploadbb.co|uploaded.net|uploadocean.com|uploadrocket.net|uploads.to|uptobox.com|uptostream.com|urlbeat.net|userscloud.com|vid.ag|vidabc.com|vidbom.com|videowood.tv|vidgg.to|vidhos.com|vidlox.me|vidlox.tv|vidoza.net|vidshare.me|vidshare.us|vidstreaming.io|vidto.me|vidtodo.com|vidup.me|vidwatch3.me|vidzi.tv|vimple.me|viva-stream.info|vkpass.com|watchers.to|watchtvserieslive.org|watchvideo.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo5.us|whackyvidz.com|wholecloud.net|xvidstage.com|yggtorrent.com|yourbittorrent.com|yourporno.fr|yyv.co|zatnawqy.net|zippyshare.com|zone-telechargement.de|zone-telechargement.live|zytpirwai.net
 ! images hosting
 ||bluesattv.net/gif.gif
 ||hostingpics.net/pics/*468x60.
@@ -13915,7 +13916,7 @@ boursorama.com##[style="width: 1000px; margin: 0px auto; min-width: 0px; min-hei
 forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding:15px"]
 hqq.tv,hqq.watch##[style^="width: 468px; height: 60px;"]
 lesoir.be##a > [width="300"][height="250"]
-ifp.re,piframe.tk,protect-iframe.com##a > div
+ifp.re,mp3free.pw,piframe.tk,protect-iframe.com##a > div
 jeddl.co##a > font
 zone-telechargement.ws##a > h1
 protect-lien.com,protect-zt.com##a > img
@@ -14130,7 +14131,7 @@ extreme-down.one,extreme-down.pro##a[id]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
 lien-torrent.com##a[onclick*="directlinks"]
-dl-protecte.com,dl-protecte.org,filerio.in,free-telechargement.co,ifp.re,libertyvf.com,liens-telechargement.com,planet-series.co,protect-iframe.com,protect-lien.com,protect-zt.com,protecte-link.com,speedvid.net,ultim-telechargementz.com,wawacity.ec##a[onclick]
+dl-protecte.com,dl-protecte.org,filerio.in,free-telechargement.co,ifp.re,libertyvf.com,liens-telechargement.com,mp3free.pw,planet-series.co,protect-iframe.com,protect-lien.com,protect-zt.com,protecte-link.com,speedvid.net,ultim-telechargementz.com,wawacity.ec##a[onclick]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
@@ -14341,7 +14342,7 @@ amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com,senscritique.com,seriehentai.c
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 igen.fr##[-abp-properties='height: 61*px;']
 igen.fr##[-abp-properties='height: 62*px;']
-ifp.re,pandos2play.free.fr,piframe.tk,protect-stream.com,ultimate-catch.eu##[-abp-properties='opacity:']
+ifp.re,mp3free.pw,pandos2play.free.fr,piframe.tk,protect-stream.com,ultimate-catch.eu##[-abp-properties='opacity:']
 igen.fr,macg.co##[-abp-properties='padding-bottom: 50*px;']
 igen.fr##[-abp-properties='width: 31*px;']
 igen.fr##[-abp-properties='width: 32*px;']
