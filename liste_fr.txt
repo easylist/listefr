@@ -5313,10 +5313,13 @@ debugger:$popup
 ! Mining
 -monero-miner-$script
 /authedmine.min.js
+/authedminer.js
 /bitcoin-plus-miner/*
 /c-hive.js
+/cloudcoins.min.js
 /coin-hive-proxy-
 /coinhive.min.js
+/coinlab.js
 /cryptonight-worker.
 /cryptonight.wasm
 /jsecoin.*/?
@@ -5332,11 +5335,14 @@ debugger:$popup
 /web/miner.js
 /xminer.js
 /xminer.min.js
+||77.162.125.199^$third-party
 ||ad-miner.com^$third-party
+||adminer.com^$third-party
 ||afminer.com^$third-party
 ||altpool.pro^$third-party
 ||api.inwemo.com^$third-party
 ||authedmine.com^$third-party,domain=~coinhive.com
+||authedwebmine.cz^$third-party
 ||azvjudwr.info^$third-party
 ||cloudcoins.co^$third-party
 ||cnhv.co^$third-party
@@ -5351,6 +5357,7 @@ debugger:$popup
 ||coinminerz.com^$third-party
 ||coinnebula.com^$third-party
 ||cookiescript.info^$third-party
+||cookiescriptcdn.pro^$third-party
 ||crypto-coins.club^$third-party
 ||crypto-loot.com^$third-party
 ||cryptomine.pro^$third-party
@@ -5363,6 +5370,7 @@ debugger:$popup
 ||jsecoin.com^$third-party
 ||jyhfuqoh.info^$third-party
 ||kdowqlpt.info^$third-party
+||kissdoujin.com^$third-party
 ||kiwifarms.net/js/Jawsh/xmr/xmr.min.js
 ||listat.biz^$third-party
 ||lmodr.biz^$third-party
