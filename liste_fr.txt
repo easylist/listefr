@@ -2067,6 +2067,7 @@ _frontend_loader.$script
 /pop?dfp_id=$popup
 /pop_under.$popup
 /popads.$popup
+/popads/*$popup
 /popad|$popup
 /popclick/*$popup
 /popOut.*?key=$popup
@@ -8713,6 +8714,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||fifa.com/images/layout/sponsors/
 ||fifostream.tv/video.html
 ||file-upload.net/include/$subdocument
+||filecrypt.cc/p.$popup
 ||filerio.in^$popup,~third-party
 ||files-save.com/noyaux/pub/
 ||files.macg.co/macgupload/
