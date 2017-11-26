@@ -7533,8 +7533,8 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 |http://$script,xmlhttprequest,domain=zone-telechargement.top|zone-telechargement.ws
 |https://$script,xmlhttprequest,domain=zone-telechargement.top|zone-telechargement.ws
 ! zone-telechargement.live
-|http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=zone-telechargement.de|zone-telechargement.live|zone-telechargement.zone
-|https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=zone-telechargement.de|zone-telechargement.live|zone-telechargement.zone
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=zone-telechargement.de|zone-telechargement.live|zone-telechargement.zone
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=zone-telechargement.de|zone-telechargement.live|zone-telechargement.zone
 ||zone-telechargement.zone/cdn-cgi/pe/bag2?
 ! 9xbuddy.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=9xbuddy.com
