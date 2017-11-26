@@ -12656,7 +12656,6 @@ direct-torrents.com###derperd-ad
 datpiff.com###disqus_thread > div
 kissanime.com###divFloatLeft
 kissanime.com###divFloatRight
-yggtorrent.com###dll_vpn
 lien-torrent.com###dllinks > script + a[href][target="_blank"]
 boursier.com###doc-partenaires
 images-et-cadres.com,images-et-cadres.fr###dogear
@@ -14342,6 +14341,8 @@ radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.p
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(inherit;)
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(pointer-events:)
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(position:)
+yggtorrent.com#?#a:-abp-contains(VPN)
+yggtorrent.com#?#a:-abp-contains(anony)
 ! Ligatus
 @@||admin.brightcove.com/js/api/SmartPlayerAPI.js$script,domain=lachainemeteo.com
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
