@@ -1368,6 +1368,7 @@
 /purch-adops/*
 /query.*?aff=$subdocument
 /re.clame/*
+/reader/ads/*
 /redir-ad-
 /redirect/*?banner=
 /redirect/dl.
@@ -14323,7 +14324,6 @@ amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com,senscritique.com,seriehentai.c
 igen.fr,macg.co,watchgeneration.fr##[-abp-properties='display: inherit;']
 igen.fr##[-abp-properties='height: 61*px;']
 igen.fr##[-abp-properties='height: 62*px;']
-ifp.re,mp3free.pw,pandos2play.free.fr,piframe.tk,protect-stream.com,ultimate-catch.eu##[-abp-properties='opacity:']
 igen.fr,macg.co##[-abp-properties='padding-bottom: 50*px;']
 igen.fr##[-abp-properties='width: 31*px;']
 igen.fr##[-abp-properties='width: 32*px;']
@@ -14336,6 +14336,7 @@ facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(Sponsoris
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-contains(Sponsorisé))
 forumconstruire.com#?#div.post_classic:-abp-has(.post_classic_pseudo:-abp-contains(Autopromo))
 forumpiscine.com#?#div[id][class^="postbox_forum_"]:-abp-has(.forum_pseudo_contener:-abp-contains(Autopromo))
+ifp.re,mp3free.pw,pandos2play.free.fr,piframe.tk,protect-stream.com,ultimate-catch.eu,soap-passion.com#?#:-abp-properties(opacity:)
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(!important;)
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(display:)
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(inherit;)
