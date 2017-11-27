@@ -7562,11 +7562,6 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ! telecharger-film-gratuit.fr
 |http://$script,third-party,xmlhttprequest,domain=telecharger-film-gratuit.fr
 |https://$script,third-party,xmlhttprequest,domain=telecharger-film-gratuit.fr
-! the-walking-dead-stream.biz
-@@||ajax.googleapis.com/ajax/libs/$script,domain=the-walking-dead-streaming.me
-@@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=the-walking-dead-streaming.me
-|http://$script,third-party,xmlhttprequest,domain=the-walking-dead-stream.biz|the-walking-dead-streaming.me
-|https://$script,third-party,xmlhttprequest,domain=the-walking-dead-stream.biz|the-walking-dead-streaming.me
 ! pokemon-streaming.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=pokemon-streaming.com
 |http://$script,third-party,domain=pokemon-streaming.com
