@@ -268,6 +268,7 @@
 /00300x00250-
 /00468x0060-
 /00728x0090-
+/00728x90-
 /120-x-600-
 /125x125_Ad1_
 /125x125_Ad2_
@@ -7169,9 +7170,11 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||starzplay.com/partners/$popup
 ||state-of-the-art-mailer.com/rfredir.php
 ||static.ccmbg.com/ops.ccmbg.com/
+||static.fileboom.me/images/i/$third-party
 ||static.fotolia.com/pics/*/banners/
 ||static.keep2share.cc/images/i/
 ||static.mntzm.com^
+||static.moneyplatform.biz/images/i/$third-party
 ||static.ox.pl/banners/
 ||static.poliris.com/zi/VgnAgences/
 ||static.radio.de^$subdocument
