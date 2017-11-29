@@ -1284,9 +1284,12 @@
 /pub/bannieres/*
 /pub/dfp.
 /pub/dfp/*
+/pub/djezzy/*
 /pub/ga_pub_$script
 /pub/habillage-
 /pub/iframe-$subdocument
+/pub/mobilis/*
+/pub/ooredoo/*
 /pub/pop.
 /pub/pub-
 /pub/pub.gif
@@ -8597,6 +8600,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||developpez.com/template/offres.php?
 ||developpez.net/forums/anooffresdvp.php?
 ||developpez.net/template/extra.php?
+||dia-algerie.com/amor/
+||dia-algerie.com/pub/
 ||dici.fr/sites/dici.fr/files/*/300x173xaxa-bertrand.jpg
 ||dici.fr/sites/dici.fr/files/*/300x173xchatelain.jpg
 ||dici.fr/sites/dici.fr/files/*/xsfac.jpg
@@ -12198,6 +12203,9 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##[id^="ad_block_"]
 ##[id^="ad_holder_text_"]
 ##[id^="ads_adnemo_"]
+##[id^="ads_djezzy"]
+##[id^="ads_mobilis"]
+##[id^="ads_ooredoo"]
 ##[id^="block-xiti_oas-"]
 ##[id^="bunyad_ads_widget-"]
 ##[id^="codeneric_ad_widget-"]
