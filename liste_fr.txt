@@ -10756,6 +10756,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###home-pub
 ###home-pushdownAd
 ###home_advertising_block
+###horizontal-pub
 ###hp-pub-block-980x200
 ###hp_ad_most-played
 ###hp_ad_top-right
@@ -11654,6 +11655,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.hnadszone
 ##.home_pub
 ##.hori-advert
+##.horizontal-pub
 ##.ibd-videos-paid-ad
 ##.iframe_pub
 ##.iklan
@@ -12129,8 +12131,10 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.toast-ad
 ##.top-ads-728-90
 ##.top-banner-pub
+##.top-horizontal-pub
 ##.top-publicite
 ##.top-reklam-normal
+##.top-side-pub
 ##.topAdvertContainer
 ##.topPub
 ##.top_banner_ads
