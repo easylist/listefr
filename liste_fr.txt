@@ -7610,18 +7610,26 @@ $subdocument,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me|panda
 @@||ajax.googleapis.com/ajax/libs/$script,domain=mangastreaming.me|panda-streaming.net
 @@||animedigitalnetwork.fr/embedded/$subdocument,domain=panda-streaming.net
 @@||drive.google.com/file/d/$subdocument,domain=panda-streaming.net
+@@||embed.tune.pk/play/*?autoplay=no$subdocument,domain=panda-streaming.net
 @@||ifp.re/$subdocument,domain=mangastreaming.me|panda-streaming.net
 @@||iframe-secure.com/embed/$subdocument,domain=panda-streaming.net
+@@||iframe-secured.com/embed/$subdocument,domain=panda-streaming.net
 @@||mp3free.pw/$subdocument,domain=mangastreaming.me|panda-streaming.net
 @@||ok.ru/videoembed/$subdocument,domain=panda-streaming.net
+@@||oload.stream/embed/$subdocument,domain=panda-streaming.net
 @@||openload.co/embed/$subdocument,domain=panda-streaming.net
 @@||protect-video.com/embed.php?id=$subdocument,domain=mangastreaming.me|panda-streaming.net
 @@||rutube.ru/play/embed/$subdocument,domain=panda-streaming.net
 @@||sendvid.com/embed/$subdocument,domain=panda-streaming.net
+@@||st.chatango.com/js/gz/emb.js$script,domain=panda-streaming.net
 @@||streamango.com/embed/$subdocument,domain=panda-streaming.net
 @@||tune.pk/player/embed_player.php?$subdocument,domain=panda-streaming.net
+@@||vidlox.tv/embed-$subdocument,domain=panda-streaming.net
 @@||www.crunchyroll.com^*&media_id=$subdocument,domain=panda-streaming.net
+@@||www.dailymotion.com/embed/video/*?logo=0$subdocument,domain=panda-streaming.net
 @@||www.mangastreaming.fr/wp-$script,stylesheet,domain=mangastreaming.me|panda-streaming.net
+@@||www.rapidvideo.com/embed/$subdocument,domain=panda-streaming.net
+@@||www.wakanim.tv/fr/v2/catalogue/embedded/$subdocument,domain=panda-streaming.net
 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me|panda-streaming.net
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me|panda-streaming.net
 ! beinsport-streaming.com
