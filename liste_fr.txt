@@ -5324,6 +5324,7 @@ debugger:$popup
 /authedmine.min.js
 /authedminer.js
 /bitcoin-plus-miner/*
+/browsermine.
 /c-hive.js
 /cloudcoins.min.js
 /coin-hive-proxy-
@@ -5354,6 +5355,7 @@ debugger:$popup
 ||authedmine.com^$third-party,domain=~coinhive.com
 ||authedwebmine.cz^$third-party
 ||azvjudwr.info^$third-party
+||browsermine.com^$third-party
 ||cloudcoins.co^$third-party
 ||cnhv.co^$third-party
 ||coin-have.com^$third-party
