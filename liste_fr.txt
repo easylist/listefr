@@ -2728,6 +2728,7 @@ debugger:$popup
 ||cdn.fail^$third-party
 ||cdn.nextperf.net^$third-party
 ||cdn.savage.nu^$third-party
+||cdn3.net^$third-party
 ||cdn7.space^$third-party
 ||cdn9now.com^$third-party
 ||cdntraffic.com^$third-party
@@ -3402,6 +3403,7 @@ debugger:$popup
 ||quaelead.com^$third-party
 ||quanta.lu^$third-party
 ||quantum-advertising.com^$third-party
+||qwertize.com^$third-party
 ||qwerty1.co.pl^$third-party
 ||qwtbx.com^$third-party
 ||r867qq.net^$third-party
@@ -12228,6 +12230,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##[class^="region-pub-position-"]
 ##[class^="thumb-pub-860"]
 ##[class^="trivago_widget_"]
+##[data-qwertize-zone]
 ##[data-type="ad"][data-format]
 ##[data-type="ad"][data-publisher]
 ##[data-type="ligatus-script"]
