@@ -669,6 +669,7 @@
 /affiliates/*_banner.
 /affiliates/banners/*
 /affiliates/images/banners/*
+/affiliates/media/banners/*
 /affiliatesiamges/*
 /affiliation-mb.
 /affiliation_simple/*
@@ -1366,6 +1367,7 @@
 /publisher_configurations.
 /pubs/*-300x250.
 /pubs/*-300x600-
+/pubs/*-habillage.$image
 /pubs/*/ban.
 /pubs/*_300x600-
 /pubs/160600/*
@@ -3404,6 +3406,7 @@ debugger:$popup
 ||quanta.lu^$third-party
 ||quantum-advertising.com^$third-party
 ||qwertize.com^$third-party
+||qwertize.link^$third-party
 ||qwerty1.co.pl^$third-party
 ||qwtbx.com^$third-party
 ||r867qq.net^$third-party
@@ -9212,6 +9215,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||lexpress.fr/pub/
 ||lexpressiondz.com/files/banners/
 ||lfp.fr/images/pub/
+||lhebdoduvendredi.com/pubs/
 ||libe.com/libepartnerships/
 ||libellules.ch/infomaniak-hosted-by-black-transparent.png
 ||liberte-algerie.com/data/pub/
