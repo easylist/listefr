@@ -721,6 +721,7 @@
 /bandito.php?$xmlhttprequest
 /baner/ads/*
 /banLight.*?ref=
+/bann120x600_
 /bann468X60.
 /banner-ads
 /banner-ads.
@@ -1779,6 +1780,7 @@ _epmads.
 _event_pub.
 _flash_ad_
 _GIF_AD3_
+_id=*&nads=
 _iframe300x200.
 _iframe300x600.
 _iframe728x90.
@@ -2216,6 +2218,7 @@ _adtool&$popup
 _adunits/$popup
 _domain=ads.$popup
 _fkplay/$popup
+_id=*&nads=$popup
 _lx.ads/$popup
 _packcpm.$popup
 _pop.php?z=$popup
@@ -6822,6 +6825,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||le-monde-remunere.fr/bouton-
 ||le1er.net/promo/
 ||lebaiseur.com/ban/$third-party
+||lecoindusexe.com^*.gif
 ||ledeclycx.com/images/ban_
 ||leduplex.com/teaser/$third-party
 ||leguide.com/*/partner/
@@ -7261,6 +7265,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||tool.acces-vod.com^$popup
 ||tools.gigacu.com^
 ||tools.indecentes-voisines.com^
+||tools.sexedenfer.com^
 ||tools.vpscash.nl^
 ||toomai.fr/lp/$subdocument
 ||toomai.fr/olp/$subdocument
