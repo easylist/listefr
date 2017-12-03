@@ -1958,6 +1958,7 @@ _frontend_loader.$script
 &runauction=$popup
 &subAffId=$popup
 &tid=*&ref=$popup
+&tr4ck=pop-$popup
 &type=*&iframeDetected=$popup
 &url_annonceur=$popup
 &utm_$popup,domain=dailymotion.com
@@ -2067,6 +2068,7 @@ _frontend_loader.$script
 /fr/adcr/*$popup
 /gopartner.php?pid=$popup
 /iframePopUpLoader.$popup
+/install.&clickid=$popup
 /jump/clk1.$popup
 /lp/*;pop|$popup
 /n*adserv.com$popup
@@ -2080,6 +2082,7 @@ _frontend_loader.$script
 /partner/click/*$popup
 /partners/*=affiliate&$popup
 /partners/*=banner$popup
+/pass?zoneId=$popup
 /pdv/*?ida=$popup
 /pdv/track.$popup
 /pdv?id=$popup
@@ -2135,7 +2138,7 @@ _frontend_loader.$script
 /watch?*&zone_key=
 /watch?key=*&refer=$popup
 /watch?site_key=
-/www/go/*?zoneid=$popup
+/www/*?zoneid=$popup
 /xdirect.*?$popup
 /xdirect/*$popup
 /xmladserver.$popup
@@ -2173,6 +2176,7 @@ _frontend_loader.$script
 =partenariat&utm_campaign=$popup
 =poplink&$popup
 =promo.*_ref=*_affid=$popup
+=promotools&*=redirect$popup
 =pubdirecte&$popup
 =tubeadvertising&$popup
 =tubeadvertisingCPA&$popup
@@ -2198,6 +2202,7 @@ _frontend_loader.$script
 ?partner=*&offer_id=$popup,third-party
 ?preview=*&pgid*&from_sz=$popup
 ?pub_id=$popup
+?pubsite=*&bannername=$popup
 ?runauction=$popup
 ?siteid=*&tr4ck=$popup
 ?subid=*&clickid=$popup
@@ -2267,6 +2272,7 @@ debugger:$popup
 ||online^*?zone=$popup
 ||online^*?zoneid=$popup
 ||site^*&zoneid=$popup
+||site^*?pubsite=$popup
 ||site^*?subid=$popup
 ||site^*?zoneid=$popup
 ||space/zone/$popup
