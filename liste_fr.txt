@@ -5602,6 +5602,7 @@ debugger:$popup
 ||audify.io^$popup,third-party
 ||awejmp.com^$popup,third-party
 ||azerty.solutions^$popup,third-party
+||back996.com^$popup,third-party
 ||badoink.com^$popup,third-party
 ||baiduccdn1.com^$popup,third-party
 ||baise-ce-soir.com^$popup,third-party
@@ -6732,6 +6733,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||howfun.org/welcome.php
 ||href.li^$domain=gum-gum-stream.com|one-piece-streaming.eu|toussports.info|youzapping.com
 ||hubspot.com/cta/
+||hubspot.com/ctas/
 ||hurenportal.com/banner/
 ||hydrus.cc^$script,third-party
 ||i.alicdn.com/*/show-window/index.js
@@ -8093,6 +8095,8 @@ tvad.me##.vjs-overlay-no-background
 |http://$subdocument,third-party,domain=link.tl
 |https://$subdocument,third-party,domain=link.tl
 ! adhit.me
+@@||adhit.me/js/ads.js$script,domain=adhit.me
+@@||google.com/recaptcha/$subdocument,domain=adhit.me
 |http://$subdocument,third-party,domain=adhit.me
 |https://$subdocument,third-party,domain=adhit.me
 ! uskip.me
