@@ -14802,9 +14802,6 @@ _action=adblock&
 _adblockdetector/
 _blockadblock_
 !
-/http:\/\/[a-z]+\.com\/[a-z0-9]{125,165}$/$script,third-party,domain=jeux.fr
-!
-!
 ||firstonetv.eu/js/app?
 ||justgeek.fr^*/wp-content-uploads-
 ||larascasse.fr/forum/uploads/javascript_core/plugins_plugins.js
@@ -14828,7 +14825,6 @@ _blockadblock_
 @@/static/image/ad_top_bg2.png?$image,~third-party,domain=adf.ly|ay.gy|babblecase.com|gamecopyworld.click|go.awanpc.me|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|replaymod.com
 @@||1max2sms.com/blogads.css
 @@||a.f1g.fr/build/2/adsense.js$script
-@@||ad.advertstream.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||adbilty.me/js/ads.js$script,domain=adbilty.me
 @@||adbull.me/js/ads.js$script,domain=adbull.me
 @@||adgear.com/session.js$domain=vtele.ca
@@ -14838,7 +14834,6 @@ _blockadblock_
 @@||adshorte.com/js/ads.js$script,~third-party
 @@||afreesms.now.im/adblocker.js$script,domain=afreesms.com
 @@||arpa7com.com/js/ads.js$script,domain=arpa7com.com
-@@||audipassion.com^*/jsLoader.js?adType=foobar
 @@||ay.gy/static/js/advert.js$script,domain=adf.ly|ay.gy|babblecase.com|download.replaymod.com|go.awanpc.me|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|rd1.gamecopyworld.click
 @@||badibadou.eu/*.js?auto=$script,third-party
 @@||c.ad6media.fr/l.js$domain=eternitygames.org|fan-de-cinema.com|fit.sh|programmes-cinema.com
@@ -14848,7 +14843,6 @@ _blockadblock_
 @@||cut-urls.com/js/ads.js$script,domain=cut-urls.com
 @@||d.adxcore.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||doubleverify.com^$domain=kissanime.com
-@@||dramapassion.com^*/advertisement-$script,domain=dramapassion.com
 @@||fas.li/js/adframe.js$script,domain=fas.li
 @@||foglio.basilic.io/ad/basilic.adsense.js
 @@||geek-malin.fr/wp-content/plugins/adziner/Front/Js/ads.min.js?
@@ -14856,10 +14850,8 @@ _blockadblock_
 @@||gowonda.com^$image,~third-party
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=h5.4j.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.cdn.famobi.com
-@@||iscoolcdn.com/versioned/prod/bundles/iscoolkitchen/adblock/advertisement.
 @@||lafansubresistance.biz^$script,domain=lafansubresistance.biz
 @@||laprovence.com/sites/all/themes/lpv4/js/ads.js
-@@||lesbriconautes.fr/wp-content/themes/mts_ad_sense/js/ads.js|$script
 @@||linkbucks.com/scripts/script-adv.js$script,third-party
 @@||manga-vf.fr/catalog/view/javascript/ads.js$script,domain=manga-vf.fr
 @@||mymanga.io/css/ads.css|$stylesheet
@@ -14870,22 +14862,14 @@ _blockadblock_
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=4downfiles.org|alligatographe.blogspot.fr|cachemoi.com|cuisineactuelle.fr|dl-protecte.com|dl-protecte.org|forum.softmaroc.org|leetgamerz.net|likeup.fr|protect-lien.com|protect-zt.com|quebeccoupongratuit.com|security-links.com|slideplayer.fr|telephoneannuaire.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=qcm-concours.blogspot.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|pcastuces.com|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
-@@||pagefair.com/static/adblock_detection/js/$script,third-party
-@@||partage-facile.com/*ad$script,xmlhttprequest
-@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=7sur7.be|f1i.com
-@@||peimg.fr/js/ads.js$script,domain=pubeco.fr
 @@||pla.folue.info/needes.js$script
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
-@@||scan-manga.fr^$stylesheet
-@@||securepubads.g.doubleclick.net/gampad/ads?$script,domain=7sur7.be
 @@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
 @@||shink.*/js/adframe.js$script,domain=shink.in|shink.me
-@@||smartadserver.com/call/pubj/$script,domain=alloclips.com|itele.fr|larvf.com|portail.free.fr
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|portail.free.fr
 @@||static-v.com/lib/js/_source/blockadblock.js$script,domain=vtele.ca
 @@||static.autoplus.fr/_js/ads/ad$script
 @@||static.les-horaires.fr/js/advert.js
-@@||static1.spilcdn.com/vda/advert.js$script,third-party
 @@||streamplay.*/js/pop$script,~third-party,domain=streamplay.club|streamplay.gdn|streamplay.to
 @@||textnow.com/messaging/assets/advertisements.js$script
 @@||tmearn.com/js/ads.js$script,~third-party
@@ -14897,12 +14881,6 @@ _blockadblock_
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 @@||www.zonebourse.com/js/ads.js$script,~third-party
 @@||xess.pro/js/ads.js$script,domain=xess.pro
-!
-adf.ly,ay.gy,babblecase.com,gamecopyworld.click,j.gs,kaitect.com,picocurl.com,pintient.com,q.gs,replaymod.com#@##bottomAd
-adf.ly,ay.gy,babblecase.com,gamecopyworld.click,j.gs,kaitect.com,picocurl.com,pintient.com,q.gs,replaymod.com#@##bottomad
-toplien.fr#@#.AdvertContainer
-direct-radio.fr,nrj-play.fr#@#.adsbox
-trackmusik.fr#@#.afs_ads
 !
 @@||4downfiles.org^$generichide
 @@||adbull.me^$generichide
@@ -14984,29 +14962,6 @@ trackmusik.fr#@#.afs_ads
 @@||wakanim.tv^$generichide
 @@||xavierstuder.com^$generichide
 @@||zone-torrent.net^$generichide
-! ville-ideale.fr
-@@||maps.googleapis.com^$script,domain=ville-ideale.fr
-|http://$script,third-party,domain=ville-ideale.fr
-|https://$script,third-party,domain=ville-ideale.fr
-! voyageforum.com (anti adblock)
-|http://$script,third-party,xmlhttprequest,domain=voyageforum.com
-|https://$script,third-party,xmlhttprequest,domain=voyageforum.com
-||voyageforum.com^$xmlhttprequest
-! telesatellite.com
-satelliweb.com,telesatellite.com##a[target="_blank"] > img
-satelliweb.com,telesatellite.com##a[target="_new"] > img
-|http://$image,popup,script,third-party,xmlhttprequest,domain=telesatellite.com
-|https://$image,popup,script,third-party,xmlhttprequest,domain=telesatellite.com
-! fdesouche.com
-@@.ico|$image,domain=fdesouche.com
-@@|http://*.ad$script,third-party,domain=fdesouche.com
-@@|http://*.ban$script,third-party,domain=fdesouche.com
-@@||disquscdn.com^$script,domain=fdesouche.com
-@@||fdesouche-1.disqus.com^$script,domain=fdesouche.com
-@@||fdesouche.com^$generichide
-|http://$script,third-party,domain=fdesouche.com
-|https://$script,third-party,domain=fdesouche.com
-||fdesouche.com/wp-includes/js/jquery/jquery.js
 ! adBack.co
 ||112038398dc590fd910f04439eba2dc2.ovh^
 ||49192d62ae75aadb31db945156e50aa9.ovh^
