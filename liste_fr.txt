@@ -533,6 +533,7 @@
 /ads/left/*
 /ads/mgid.
 /ads/mgid_
+/ads/overlay.
 /ads/pages/*
 /ads/pops/*
 /ads/popups-
@@ -8656,6 +8657,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||demotivateur.fr/images/hab*.jpg
 ||depechedekabylie.com/files.php?file=banners/
 ||depechedekabylie.com/themes/ddk/img/pub_
+||des-vieilles-salopes.com/promo/
 ||developpez.com/show_i.php
 ||developpez.com/template/offres.php?
 ||developpez.net/forums/anooffresdvp.php?
@@ -9449,6 +9451,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||mp4upload.com/popi.js
 ||mr-annonce.fr/images/pub/
 ||mrmondialisation.org/wp-content/uploads/*/banniere-
+||mstx.com/top/$popup
+||mstx.com/top/bans/
 ||mtvnimages.com/habillage/
 ||mubawab-media.com/habillagesPictures/
 ||musculaction.com/img/245x90-
@@ -9705,7 +9709,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||seriesstreaming.fr/images/partenaire_
 ||seriezone.com/ba/
 ||serre-editeur.fr/images/banners/
-||sexadonf.net/_images/ban_
+||sexadonf.net/_images/$image
 ||sexadonf.net/web/hqlinks.gif
 ||sexadonf.net^$image,third-party
 ||sexandtrash.com^$popup,script,~third-party
@@ -9803,6 +9807,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||streaming-hardcore.com/image.php?src=*://
 ||streaming-hardcore.com^$popup,~third-party
 ||streaming-serie.tv/get.php?$popup
+||streaming-xxx.org/data/$image
 ||streamingeur.com/480.html
 ||streamingfoot.direct/images/pub
 ||streamiz-films.com^$xmlhttprequest
