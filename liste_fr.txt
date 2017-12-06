@@ -7521,6 +7521,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 @@||disquscdn.com^$script,domain=full-serie.biz
 @@||fonts.googleapis.com/css?family=$stylesheet,domain=full-serie.biz
 @@||st.chatango.com/js/gz/emb.js$script,domain=full-serie.biz
+@@||st.chatango.com^*/id.html$subdocument,domain=full-serie.biz
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=full-anime.com|full-film.me|full-serie.biz|full-serie.co
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=full-anime.com|full-film.me|full-serie.biz|full-serie.co
 ! dpstream.net
@@ -7672,6 +7673,8 @@ $subdocument,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
 @@||ifp.re/$subdocument,domain=mangastreaming.me
 @@||mp3free.pw/$subdocument,domain=mangastreaming.me
 @@||protect-video.com/embed.php?id=$subdocument,domain=mangastreaming.me
+@@||st.chatango.com/js/gz/emb.js$script,domain=mangastreaming.me
+@@||st.chatango.com^*/id.html$subdocument,domain=mangastreaming.me
 @@||www.mangastreaming.fr/wp-$script,stylesheet,domain=mangastreaming.me
 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
