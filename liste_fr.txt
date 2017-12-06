@@ -3861,7 +3861,7 @@ debugger:$popup
 ! DM iframe
 ||direct-foot.co^
 ||marswars.tk^
-||pblv-scoop.cf^
+||pblv-scoop.cf^$~image
 ||pblv-scoop.tk^
 ! propellerads
 /^http?:\/\/[0-9a-z]{15,25}\.(com|bid|date|download|men|online|party|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[0-9]{1}\/[0-9]{7}\/\?var\=[0-9]{7}$/$popup,third-party
