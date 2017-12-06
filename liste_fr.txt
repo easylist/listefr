@@ -2230,6 +2230,7 @@ _fkplay/$popup
 _id=*&nads=$popup
 _lx.ads/$popup
 _packcpm.$popup
+_Page-Under_$popup,third-party
 _pop.php?z=$popup
 _pornofolies_$popup
 _regie/clic.$popup
@@ -3034,6 +3035,7 @@ debugger:$popup
 ||illyx.co^$third-party
 ||illyx.com^$third-party
 ||imediastreams.com^$third-party
+||imglnka.com^$third-party
 ||imgsynd.com^$third-party
 ||immojio.net^$third-party
 ||impactify.io^$third-party
@@ -3170,6 +3172,7 @@ debugger:$popup
 ||militarismreptilesoapsud.com^$third-party
 ||mirando.de^$third-party
 ||missaffiliate.com^$third-party
+||misslk.com^$third-party
 ||misstrends.com^$third-party
 ||misterbell.com^$third-party
 ||mixadvert.com^$third-party
@@ -7417,6 +7420,8 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||wp.com/bluehost-cdn.com/media/partner/images/
 ||wp.com/medialot.fr/wp-content/uploads/*?resize=300%2C38
 ||wp.com/static.keep2share.cc/images/i/
+||wp.com^*.imglnka.com/
+||wp.com^*.misslk.com/
 ||wtpn.twenga.com/publisher/$third-party
 ||ww1.vidzi.tv^
 ||ww2.vidzi.tv^
@@ -9073,6 +9078,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||jeux-mmorpg.com/habillage/
 ||jeux-porno.net^$script,~third-party
 ||jeux-sexe-gratuit.com/img/
+||jeux-sexe-gratuit.com^$media
 ||jeux-sexe-gratuit.fr/images/banners/
 ||jeux.org/vda/
 ||jeuxetcompagnie.fr/wp-content/uploads/*/Habillage-
