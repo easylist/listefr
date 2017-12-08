@@ -14523,9 +14523,8 @@ $subdocument,~third-party,domain=football365.fr|mercato365.com|rugby365.fr|sport
 @@||preprod-img.planet.fr/files/advagg_js/js_*.js$script,domain=femmesplus.fr
 @@||static.mediabong.com/scripts/mb.*.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
 |http://$script,third-party,domain=aventure-apple.com|femmesplus.fr|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|mercato365.com|planet.fr|refurbgeneration.com|rugby365.fr|sport365.fr
-|http://$script,third-party,xmlhttprequest,domain=football365.fr|igen.fr|macg.co|mercato365.com|radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se|rugby365.fr|sport365.fr|watchgeneration.fr
-|https://$script,third-party,domain=aventure-apple.com|femmesplus.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|planet.fr|refurbgeneration.com
-|https://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se|watchgeneration.fr
+|http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se|watchgeneration.fr
+|https://$script,third-party,domain=aventure-apple.com|femmesplus.fr|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|mercato365.com|planet.fr|refurbgeneration.com|rugby365.fr|sport365.fr
 ||fourchette-et-bikini.fr^$xmlhttprequest
 ||xiti.com^$domain=lachainemeteo.com
 ! heures.be
