@@ -5364,6 +5364,7 @@ debugger:$popup
 /authedmine.min.js
 /authedminer.js
 /bitcoin-plus-miner/*
+/bitcoincore/?ref=
 /browsermine.
 /c-hive.js
 /cloudcoins.min.js
@@ -5374,6 +5375,7 @@ debugger:$popup
 /cryptonight-worker.
 /cryptonight.wasm
 /jsecoin.*/?
+/mine/bitcoincore/*
 /miner-ui.js
 /miner.full.js
 /miner.min.js
@@ -5409,6 +5411,7 @@ debugger:$popup
 ||coinlab.biz^$third-party
 ||coinminerz.com^$third-party
 ||coinnebula.com^$third-party
+||coinpot.co^$third-party
 ||cookiescript.info^$third-party
 ||cookiescriptcdn.pro^$third-party
 ||crypto-coins.club^$third-party
