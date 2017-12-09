@@ -1736,6 +1736,7 @@ _468X60v2.
 _60x468_
 _728x90pxl_
 _728x90v2.
+_758x60.
 _866x120.
 _90x728_
 _970x250.
@@ -7618,6 +7619,9 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ! streaming-kids.com
 |http://$script,third-party,xmlhttprequest,domain=streaming-kids.com
 |https://$script,third-party,xmlhttprequest,domain=streaming-kids.com
+! ahlamtv.com
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=ahlamtv.com
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=ahlamtv.com
 ! protect-stream.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=protect-stream.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=protect-stream.com
@@ -14295,7 +14299,7 @@ achat-bitcoins.com##a[rel="nofollow"] > img
 zetorrente.fr##a[rel]
 at.ua,ucoz.com,ucoz.net,ucoz.ru,ucoz.ua##a[rel][style*="z-index:"]
 imagecool.org##a[rel][style]
-cloudy.ec,dailyuploads.cc,dailyuploads.net,dl-protecte.com,dl-protecte.org,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extreme-down.one,extreme-down.pro,itswatchseries.to,k-streaming.com,kimcartoon.me,liens-telechargement.com,mp3red.cc,onlinevideoconverter.com,primewire.ag,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,vidlox.me,vidlox.tv,viva-stream.info,youzik.com##a[style]
+ahlamtv.com,cloudy.ec,dailyuploads.cc,dailyuploads.net,dl-protecte.com,dl-protecte.org,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extreme-down.one,extreme-down.pro,itswatchseries.to,k-streaming.com,kimcartoon.me,liens-telechargement.com,mp3red.cc,onlinevideoconverter.com,primewire.ag,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,vidlox.me,vidlox.tv,viva-stream.info,youzik.com##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
 manga-streaming.fr,mangastreaming.fr,mangastreaming.me,seedpeer.eu##a[target="_blank"]
 4downfiles.org,9divx.org,buzzporn.net,dpstreaming.cx,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,manga-streaming.fr,mangastreaming.fr,planet-streaming.com,pubfilm.me,serie-streaming.watch,seriezone.org,streaminghd.fr,youwatch-series.com##a[target="_blank"] > img
