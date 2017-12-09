@@ -7707,9 +7707,9 @@ $subdocument,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
 ! beinsport-streaming.com
-@@||cricfree.sc/update/*.php$subdocument,domain=streaming-foot.xyz
-@@||st.chatango.com/js/gz/emb.js$script,domain=streaming-foot.xyz
-@@||st.chatango.com^*/id.html$subdocument,domain=streaming-foot.xyz
+@@||cricfree.sc/update/*.php$subdocument,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv
+@@||st.chatango.com/js/gz/emb.js$script,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv
+@@||st.chatango.com^*/id.html$subdocument,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv
 @@||www.firstonetv.eu/embed/$subdocument,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv
 @@||www.hdmyt.info/channel.php?file=$script,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv
 @@||www.hdmyt.info/player.php?file=$subdocument,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv
