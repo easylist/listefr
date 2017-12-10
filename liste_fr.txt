@@ -5396,6 +5396,8 @@ debugger:$popup
 /web/miner.js
 /xminer.js
 /xminer.min.js
+://*.space:8443/|$third-party,websocket
+://api.*.space/lib/native.wasm$third-party
 ||77.162.125.199^$third-party
 ||ad-miner.com^$third-party
 ||adminer.com^$third-party
