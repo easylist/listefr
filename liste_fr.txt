@@ -5396,6 +5396,7 @@ debugger:$popup
 /web/miner.js
 /xminer.js
 /xminer.min.js
+/XMR-monero.js
 ://*.space:8443/|$third-party,websocket
 ://api.*.space/lib/native.wasm$third-party
 ||77.162.125.199^$third-party
@@ -7718,6 +7719,7 @@ $subdocument,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
 @@||www.hdmyt.info/channel.php?file=$script,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv
 @@||www.hdmyt.info/player.php?file=$subdocument,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv
 @@||www.hdmyt.info/player.php?file=$subdocument,third-party,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv
+@@||www.streaming-foot.xyz/lecteur.php?id=$subdocument,third-party,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv
 |http://$image,popup,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv
 |https://$image,popup,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv
 ||beinsport-streaming.club^$subdocument,third-party
