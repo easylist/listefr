@@ -1131,6 +1131,7 @@
 /nginad.
 /nmads_caf_
 /no-banner-$image
+/noblock.js
 /npop.js|
 /nugg.ad.
 /nugg.add.
@@ -2748,6 +2749,7 @@ debugger:$popup
 ||cavixoapp.com^$third-party
 ||cbshift.com^$third-party
 ||cclpub.com^$third-party
+||cdmedia.win^$third-party
 ||cdn.fail^$third-party
 ||cdn.nextperf.net^$third-party
 ||cdn.savage.nu^$third-party
@@ -3282,6 +3284,7 @@ debugger:$popup
 ||no-adblock.com^$third-party
 ||no-hide.com^$third-party
 ||noadirect.com^$third-party
+||noblock.pro^$third-party
 ||nols-pub.fr^$third-party
 ||non.li^$third-party
 ||nosyezhe.com^$third-party
