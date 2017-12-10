@@ -111,6 +111,7 @@
 -728v90.
 -728x150-$subdocument
 -730x90.
+-866x120-$image
 -90x600-
 -90x728_
 -ad-bar/
@@ -12133,8 +12134,12 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.publicite_3
 ##.publicite_droite
 ##.publicite_gauche
+##.publicite_horizontale_well
+##.publicite_horizontale_wrapper
 ##.publicite_locale
+##.publicite_mobile_cache
 ##.publicite_r
+##.publicite_sidebar
 ##.publicite_sous_slider
 ##.publicite_text
 ##.publiciteac
