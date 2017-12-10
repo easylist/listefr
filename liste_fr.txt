@@ -14076,7 +14076,7 @@ voirfilms.ws##[id^="mp3"]
 planet-series.co##[id^="news-id-"] a > [style]
 agate-france.com##[id^="pbad_"]
 gamovideo.com##[id^="pu-"][style]
-dsih.fr,mylink.st##[id^="pub"]
+dsih.fr##[id^="pub"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 movietube.live##[id^="video"] a
 filecrypt.cc##[onclick] img
@@ -14902,7 +14902,7 @@ _blockadblock_
 !
 @@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=4downfiles.org|alligatographe.blogspot.fr|dpstream.cc|lethal-weapon-streaming.eu|macgames-download.com|the-night-of-streaming.eu
-@@.png#$image,domain=4downfiles.org|dl-protecte.com|dl-protecte.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|mylink.st|planet-series.co|protect-lien.com|protect-zt.com|protecte-link.com|pxstream.tv|radio-en-direct.fr|savefile.co|security-links.com|softmaroc.org|stream4free.top|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
+@@.png#$image,domain=4downfiles.org|dl-protecte.com|dl-protecte.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|planet-series.co|protect-lien.com|protect-zt.com|protecte-link.com|pxstream.tv|radio-en-direct.fr|savefile.co|security-links.com|softmaroc.org|stream4free.top|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghrebspace.net|mega-exclue.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
@@ -15016,7 +15016,6 @@ _blockadblock_
 @@||ls-streaming.com^$generichide
 @@||macgames-download.com^$generichide
 @@||mobinozer.com^$generichide
-@@||mylink.st^$generichide
 @@||onvasortir.com^$generichide
 @@||papystreaming-film.com^$generichide
 @@||partage-facile.com^$generichide
