@@ -1853,7 +1853,6 @@ _frontend_loader.$script
 /Siropu/AM/display.js
 /Siropu/AM/display.min.js
 ! regex
-/\.(accountant|bid|click|club|com|cricket|date|download|faith|link|loan|lol|men|online|party|racing|review|science|site|space|stream|top|trade|webcam|website|win|xyz)\/(([0-9]{2,9})(\.|\/)(css)?)$/$script,stylesheet,third-party,xmlhttprequest
 /\.(asia|co|com|net|pro)\/[0-9a-zA-Z]{64}$/$script,third-party
 /\.(com|fr|net|org)\/data\/[0-9a-f]{32}\/[0-9a-f]{32}\.(gif|jpg)$/$image
 /\.(com|info)\/[a-zA-Z0-9\+\/]{64,}/$image,ping,third-party,domain=adf.ly|ay.gy|babblecase.com|daclips.com|daclips.in|dl-protecte.com|dl-protecte.org|filesupload.org|flashx.tv|flowyourvideo.com|footstream.tv|gamecopyworld.click|gorillavid.in|j.gs|justmp4.com|kaitect.com|lavamovies.com|listentoyoutube.com|movpod.in|mystream.la|onmovies.to|picocurl.com|pintient.com|planet-streaming.com|protect-lien.com|protect-zt.com|q.gs|replaymod.com|security-links.com|torrentfunk.com|toussports.info|uptobox.com|uptostream.com|vidgg.to|vidtodo.com|voirfilms.ws|watchvideo.us|zone-telechargement.de|zone-telechargement.live|zone-telechargement.zone
@@ -3891,6 +3890,7 @@ debugger:$popup
 ||pblv-scoop.cf^$~image
 ||pblv-scoop.tk^
 ! propellerads
+/\.(accountant|bid|click|club|com|cricket|date|download|faith|link|loan|lol|men|online|party|racing|review|science|site|space|stream|top|trade|webcam|website|win|xyz)\/(([0-9]{5,9})(\.|\/)(css)?)$/$script,stylesheet,third-party,xmlhttprequest
 /^http?:\/\/[0-9a-z]{15,25}\.(com|bid|date|download|men|online|party|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[0-9]{1}\/[0-9]{7}\/\?var\=[0-9]{7}$/$popup,third-party
 ||0374adc8c6a6a56.com^
 ||05cef6f16f3.com^
@@ -3900,8 +3900,10 @@ debugger:$popup
 ||0e6fc55ed3d4c2c2ba0.com^
 ||0f67c4420bdb8.party^
 ||10b883b3d61d.com^
+||13895df59d98cc.com^
 ||153105c2f9564.com^
 ||165a7c15380874ef3.com^
+||17b1dbd9f3ae7db27cf.com^
 ||1b39966a8428e.com^
 ||1b6a637cbe7bb65ac.com^
 ||1f58098dd54.com^
@@ -3911,8 +3913,10 @@ debugger:$popup
 ||23edbe1ae011b2f5ded.stream^
 ||251865bf2eb57448fef.stream^
 ||261ba774e68271.men^
+||2726fecdfde157bdcd.com^
 ||274a717d311ac90f.com^
 ||307cc283bab2ffdec92.com^
+||30b9e3a7d7e2b.com^
 ||35d59588f15966.com^
 ||3761fcd24ef9281f5.com^
 ||38145f2301c27639ac.com^
@@ -3933,6 +3937,7 @@ debugger:$popup
 ||4748099b6a00.com^
 ||4a4acccf00bbdda8ec.com^
 ||4cef9398a237.com^
+||4f6b2af479d337cf.com^
 ||51f577c9999f.com^
 ||538b5d8f303be.com^
 ||5726303d87522d05.com^
@@ -3942,8 +3947,10 @@ debugger:$popup
 ||5e8bba5e95ec.com^
 ||6068a17eed25.com^
 ||615b68cc9c8528e.com^
+||61ea9a199472599ac2.com^
 ||65e750617ae8f0421.com^
 ||691123f5be2a669b.com^
+||69oxt4q05.com^
 ||6a0a6105bc7a9fa8e.com^
 ||6a40194bef976cc.com^
 ||7089e5b41f87.com^
@@ -3964,6 +3971,7 @@ debugger:$popup
 ||8ba5f165e5cc27.download^
 ||8cce6d834ab4e80c7.com^
 ||8ec04f85772327328.com^
+||924e60106cd9d0e.com^
 ||97ff623306ff4c26996.com^
 ||98595f9130f995eb.com^
 ||98f7e44eb463a1a.com^
@@ -3980,6 +3988,7 @@ debugger:$popup
 ||b06518c81a3b7fe75.com^
 ||b07f916388fc6e06847.com^
 ||b3ff2cfeb6f49e.com^
+||b45a0da7c44600e69.com^
 ||b6aa6257a22451c.com^
 ||b8cf0fd3179ef.com^
 ||b9ba73f1cd9b6.com^
@@ -3996,6 +4005,7 @@ debugger:$popup
 ||d9519d58f861cf.com^
 ||d9e732773718c3e2841.com^
 ||dfb79196408612f1.com^
+||e350570881272e.com^
 ||e9976b21f1b2775b.com^
 ||ed33d1ede6d19f68765.com^
 ||ee6a35c1eeee.com^
