@@ -4126,6 +4126,7 @@ debugger:$popup
 ||citalise.com^
 ||consivenew.com^
 ||contentpap.info^
+||credishe.com^
 ||crisivelyt.info^
 ||dafford.info^
 ||dalonely.com^
@@ -4159,6 +4160,7 @@ debugger:$popup
 ||humption.com^
 ||inadequal.com^
 ||infobizyours.info^
+||jerwested.info^
 ||jonathayes.com^
 ||joneself.com^
 ||judicians.com^
@@ -7647,6 +7649,10 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 @@||google.com/recaptcha/$subdocument,domain=adshorte.com
 |http://$script,subdocument,third-party,domain=adshorte.com
 |https://$script,subdocument,third-party,domain=adshorte.com
+! urle.co
+@@||google.com/recaptcha/$subdocument,domain=urle.co
+|http://$image,script,subdocument,third-party,xmlhttprequest,domain=urle.co
+|https://$image,script,subdocument,third-party,xmlhttprequest,domain=urle.co
 ! ouo.io
 @@||ajax.googleapis.com/ajax/libs/$script,domain=ouo.io|ouo.press
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=ouo.io|ouo.press
@@ -9816,6 +9822,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||d3oep4gb91kpuv.cloudfront.net^
 ||d3oyytf0n6db9a.cloudfront.net^
 ||d3p27nzp3rc51k.cloudfront.net^
+||d3p2b5qewrnsyv.cloudfront.net^
 ||d3pob6t6w1ul0e.cloudfront.net^
 ||d3pphfzjkpjgfn.cloudfront.net^
 ||d3prygw1dnamj9.cloudfront.net^
