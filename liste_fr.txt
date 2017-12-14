@@ -7135,8 +7135,8 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 |https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=dragon-ball-super-streaming.com|dragon-ball-super-streaming.org|streaming-boruto.com|streaming-dragon-ball-super.com
 ||dragon-ball-super-streaming.org^*.gif
 ! mangastreaming.fr
-$subdocument,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
-.gif$image,domain=hentai-streaming.eu|manga-streaming.fr|mangastreaming.fr|mangastreaming.me
+$subdocument,domain=mangastreaming.fr|mangastreaming.me
+.gif$image,domain=hentai-streaming.eu|mangastreaming.fr|mangastreaming.me
 @@||ajax.googleapis.com/ajax/libs/$script,domain=mangastreaming.me
 @@||ifp.re/$subdocument,domain=mangastreaming.me
 @@||mp3free.pw/$subdocument,domain=mangastreaming.me
@@ -7144,8 +7144,8 @@ $subdocument,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
 @@||st.chatango.com/js/gz/emb.js$script,domain=mangastreaming.me
 @@||st.chatango.com^*/id.html$subdocument,domain=mangastreaming.me
 @@||www.mangastreaming.fr/wp-$script,stylesheet,domain=mangastreaming.me
-|http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
-|https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=manga-streaming.fr|mangastreaming.fr|mangastreaming.me
+|http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=mangastreaming.fr|mangastreaming.me
+|https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=mangastreaming.fr|mangastreaming.me
 ! beinsport-streaming.com
 @@||cricfree.sc/update/*.php$subdocument,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv
 @@||st.chatango.com/js/gz/emb.js$script,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv
@@ -13583,7 +13583,7 @@ comment-supprimer.com,igen.fr,leparking.fr,macg.co,needsandmoods.com,refurbgener
 ddl-island.su,emule-island.ru,stream-island.ru,stream-island.su##a[href*="://ads."]
 filmhdstream.net,internetparsatellite.net,lebonfap.com,letagparfait.com,pixhost.org,rockfile.eu,streaminghd.fr,telesatellite.com,topito.com,vakarm.net##a[href*="://bit.ly/"]
 clubic.com,cnetfrance.fr##a[href*="://click.linksynergy.com/"]
-abidjan.net,algerie-focus.com,algerie360.com,bc.vc,direct-torrents.com,dpstreaming.cx,dpstreaming.watch,dpstreaming.yt,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extratorrents.ch,gum-gum-streaming.com,hentai-streaming.eu,igen.fr,israelmagazine.co.il,journaldumusulman.fr,limetorrents.cc,lnc.nc,macg.co,manga-streaming.fr,mangastreaming.fr,orientation-chabab.com,proxylistpro.com,streaming-boruto.com,streaming-dragon-ball-super.com,tendancehotellerie.fr,watchgeneration.fr##a[href*="://goo.gl/"]
+abidjan.net,algerie-focus.com,algerie360.com,bc.vc,direct-torrents.com,dpstreaming.cx,dpstreaming.watch,dpstreaming.yt,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extratorrents.ch,gum-gum-streaming.com,hentai-streaming.eu,igen.fr,israelmagazine.co.il,journaldumusulman.fr,limetorrents.cc,lnc.nc,macg.co,mangastreaming.fr,orientation-chabab.com,proxylistpro.com,streaming-boruto.com,streaming-dragon-ball-super.com,tendancehotellerie.fr,watchgeneration.fr##a[href*="://goo.gl/"]
 dpstream.net##a[href*="://plarium.com/"]
 amateur2sexe.fr,pornovore.fr##a[href*="://pqr."]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
@@ -13752,8 +13752,8 @@ at.ua,ucoz.com,ucoz.net,ucoz.ru,ucoz.ua##a[rel][style*="z-index:"]
 imagecool.org##a[rel][style]
 ahlamtv.com,cloudy.ec,dailyuploads.cc,dailyuploads.net,dl-protecte.com,dl-protecte.org,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extreme-down.one,extreme-down.pro,filmstreamz.net,itswatchseries.to,k-streaming.com,kimcartoon.me,liens-telechargement.com,mp3red.cc,primewire.ag,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,vidlox.me,vidlox.tv,viva-stream.info,watchseriesmovie.net,youzik.com##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
-manga-streaming.fr,mangastreaming.fr,mangastreaming.me,seedpeer.eu##a[target="_blank"]
-4downfiles.org,9divx.org,buzzporn.net,dpstreaming.cx,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,manga-streaming.fr,mangastreaming.fr,planet-streaming.com,pubfilm.me,serie-streaming.watch,seriezone.org,streaminghd.fr,youwatch-series.com##a[target="_blank"] > img
+mangastreaming.fr,mangastreaming.me,seedpeer.eu##a[target="_blank"]
+4downfiles.org,9divx.org,buzzporn.net,dpstreaming.cx,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,mangastreaming.fr,planet-streaming.com,pubfilm.me,serie-streaming.watch,seriezone.org,streaminghd.fr,youwatch-series.com##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 lefigaro.fr##a[target="_blank"] > img[style="width: 463px; height: 170px;"]
