@@ -7927,6 +7927,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||aps.dz/pub.php
 ||arabwebtv.com/arabwebtv.gif
 ||archaic.fr/wp-content/uploads/link-library-images/
+||archimag.com/sites/archimag.com/files/adds/
 ||ariase.com/css/themes/
 ||ariase.com^*/media/pub/
 ||as-salat.com/images/siwak.jpg
@@ -10700,6 +10701,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###zone_pub2
 ##.ADS-cont
 ##.Ad--970x90
+##.Adds-Encart
 ##.AdsA
 ##.AdsB
 ##.AdsC
@@ -11611,6 +11613,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.recipe-col-droite-ad
 ##.recipe-col-droite-ad-caption
 ##.red-ad
+##.region-before-content
 ##.reklam-gizle
 ##.reklam-side
 ##.reklam728x90
@@ -11786,6 +11789,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##[class^="region-pub-position-"]
 ##[class^="thumb-pub-860"]
 ##[class^="trivago_widget_"]
+##[class^="view-affichage-publicit"]
+##[class^="view-id-affichage_publicit"]
 ##[data-qwertize-zone]
 ##[data-type="ad"][data-format]
 ##[data-type="ad"][data-publisher]
