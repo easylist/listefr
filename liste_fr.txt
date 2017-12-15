@@ -195,6 +195,7 @@
 .com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com|~visuels.l214.com
 .com/bnrs/$subdocument
 .com/func.js|$script,~third-party
+.com/js/out.js
 .com/popup.js
 .com/sponsors/
 .dz/ads/
@@ -6258,6 +6259,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||jejethesniper.free.fr/Forum/Partenariat.gif
 ||jememontre.com/images/banners/
 ||jeodrive.com^$popup,domain=jheberg.net
+||jetm-tech.net^*/bannieres/
 ||jetm-tech.net^*/img/pub.
 ||jeu-gratuit.net/images/bannieres/
 ||jeu-gratuit.net/mg/
@@ -6392,6 +6394,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||mental-waves.com/bans/
 ||merci-facteur.com/design/promo/
 ||mes-dialogues.net^*/mes-dialogues-js.php?
+||mes-extraits-amateurs.com/_thumbs_
 ||mes-meilleurs-films.fr^$popup
 ||messageries-adp.com/editeurs/medias/*/bandeau/
 ||metaffiliation.com/emplacement.php
