@@ -959,6 +959,7 @@
 /epomads2.
 /EpubDelivery/*
 /espace-pub-
+/europixads.
 /event-adserver.
 /exads-
 /exo-loader/*
@@ -1254,6 +1255,8 @@
 /promotool_referrer.
 /promotools.static.js
 /promotools/rotation.
+/propads.
+/propads2.
 /proxy_eds.php?
 /proxy_iframe.php?url=
 /ptp/banners/*
@@ -3626,6 +3629,7 @@ debugger:$popup
 ||teads.fr^$third-party
 ||teads.net^$third-party
 ||telehan.xyz^$third-party
+||telllwrite.com^$third-party
 ||temp.uno^$third-party
 ||template-help.com^$third-party
 ||templatehelp.com^$third-party
@@ -11379,6 +11383,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.promo-google-300x600
 ##.promo-google-300x600_new
 ##.promo-partenaire
+##.propads
 ##.pstAdLegend
 ##.puFloatLine > #puFloatDiv
 ##.puFloatLine > .puFloatDiv
