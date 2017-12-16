@@ -7414,6 +7414,11 @@ oload.info,oload.stream,oload.tv,openload.co,streamcherry.com##.vjs-modal-dialog
 @@||static.eroprofile.com^*/json.js$script,~third-party
 @@||static.eroprofile.com^*/tools.js$script,~third-party
 ||eroprofile.com^$script
+! imgdone.com
+@@||img.imgdone.com/app/lib/chevereto.min.js$script,~third-party
+@@||img.imgdone.com/lib/Peafowl/js/scripts.min.js$script,~third-party
+@@||img.imgdone.com/lib/Peafowl/peafowl.min.js$script,~third-party
+||imgdone.com^$script
 ! speedvid.net
 @@||www.speedvid.net/dl?op=download_orig&id=*&r=$popup,~third-party,domain=speedvid.net
 |http://$script,subdocument,third-party,xmlhttprequest,domain=speedvid.net
