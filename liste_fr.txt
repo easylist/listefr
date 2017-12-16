@@ -1135,7 +1135,6 @@
 /nginad.
 /nmads_caf_
 /no-banner-$image
-/noblock.js
 /npop.js|
 /nugg.ad.
 /nugg.add.
@@ -3302,7 +3301,6 @@ debugger:$popup
 ||no-adblock.com^$third-party
 ||no-hide.com^$third-party
 ||noadirect.com^$third-party
-||noblock.pro^$third-party
 ||nols-pub.fr^$third-party
 ||non.li^$third-party
 ||nosyezhe.com^$third-party
@@ -4828,6 +4826,8 @@ debugger:$popup
 /cryptonight-worker.
 /cryptonight.wasm
 /jsecoin.*/?
+/lib/crlt.js
+/lib/crlt.js$script,third-party
 /mine/bitcoincore/*
 /miner-ui.js
 /miner.full.js
@@ -4835,6 +4835,7 @@ debugger:$popup
 /miner?key=
 /minera.js
 /minero-proxy-
+/noblock.js
 /projectpoi.min.js
 /safelinkconverter.js
 /scripts/miner.js
@@ -4872,6 +4873,7 @@ debugger:$popup
 ||cookiescriptcdn.pro^$third-party
 ||crypto-coins.club^$third-party
 ||crypto-loot.com^$third-party
+||cryptoloot.pro^$third-party
 ||cryptomine.pro^$third-party
 ||deepc.cc^$third-party
 ||gus.host^$third-party
@@ -4899,6 +4901,7 @@ debugger:$popup
 ||monero-miner.net^$third-party
 ||monerominer.rocks^$third-party
 ||moneroocean.stream^$third-party
+||noblock.pro^$third-party
 ||now.sh/*.wasm$third-party
 ||openkatalog.com^$subdocument
 ||papoto.com^$third-party
