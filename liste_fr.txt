@@ -4826,6 +4826,7 @@ debugger:$popup
 /coinhive-proxy-
 /coinhive.min.js
 /coinlab.js
+/cryptocpu.js
 /cryptonight-worker.
 /cryptonight.wasm
 /jsecoin.*/?
@@ -4877,6 +4878,7 @@ debugger:$popup
 ||crypto-loot.com^$third-party
 ||cryptoloot.pro^$third-party
 ||cryptomine.pro^$third-party
+||csgocpu.com^$third-party
 ||deepc.cc^$third-party
 ||gus.host^$third-party
 ||hashforcash.us^$third-party
