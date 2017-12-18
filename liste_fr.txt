@@ -1398,6 +1398,7 @@
 /redirect/*?banner=
 /redirect/dl.
 /redirect?tid=$subdocument
+/redirect_pub.
 /regie.js
 /regie_pub.
 /regie_pub/*
@@ -11908,6 +11909,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##a[href*="/redirect.php?title="]
 ##a[href*="/redirect?partenaire="]
 ##a[href*="/redirect?tid="]
+##a[href*="/redirect_pub.php?"]
 ##a[href*="/regiehab.php?"]
 ##a[href*="/rel/index.cfm?RST="]
 ##a[href*="/rel/index.cfm?TAD="]
@@ -13772,7 +13774,6 @@ bricozone.be##a[href^="http://www.perfectionhabitat.be/"] > img
 topj.net##a[href^="http://www.rpjf.com/asp/lien.asp?"]
 lcouple2-2m.blogspot.com##a[href^="http://www.ta3arof.net/ads/"]
 lefigaro.fr##a[href^="http://www.ticketac.com/?utm_source="]
-ticketac.com##a[href^="http://www.ticketac.com/redirect_pub.php?"]
 webfrance.com##a[href^="http://www.webfrance.com/go/"]
 free-proxy.fr##a[href^="https://account.cyberghostvpn.com?affiliate="]
 le-buzz.fr##a[href^="https://addons.mozilla.org/"]
@@ -14366,6 +14367,7 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /adblocker/modal.
 /adblockTester.
 /ads_enabled_
+/all-for-adsense/*
 /check-blocker.js
 /fadb.min.js?
 /jquery.adi.
