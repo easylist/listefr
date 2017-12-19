@@ -2108,6 +2108,7 @@ _frontend_loader.$script
 /out?zoneId=$popup
 /packcpm.$popup
 /packcpm.*?r=$popup
+/pageunder/*$popup
 /partner/click/*$popup
 /partners/*=affiliate&$popup
 /partners/*=banner$popup
@@ -2565,6 +2566,7 @@ debugger:$popup
 ||adstronic.net^$third-party
 ||adstune.com^$third-party
 ||adsupplyads.com^$third-party
+||adsupplyads.net^$third-party
 ||adsvidsdouble.com^$third-party
 ||adsvidss.com^$third-party
 ||adswinner.com^$third-party
@@ -3153,6 +3155,7 @@ debugger:$popup
 ||liveparadise.com^$third-party
 ||liversely.com^$third-party
 ||livewithbinaryoptions.com^$third-party
+||lnkrdr.com^$third-party
 ||loading-delivery2.com^$third-party
 ||loktrk.com^$third-party
 ||lookcpm.com^$third-party
@@ -5050,6 +5053,7 @@ debugger:$popup
 ||adskeeper.co.uk^$popup,third-party
 ||adsparkmedia.net^$popup,third-party
 ||adstract.com^$popup,third-party
+||adsupplyads.net^$popup,third-party
 ||adturtle.biz^$popup,third-party
 ||adult3dgames.com^$popup,third-party
 ||adventurefeeds.com^$popup,third-party
