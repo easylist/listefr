@@ -7330,9 +7330,9 @@ $subdocument,domain=mangastreaming.fr|mangastreaming.me
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=filmstreamz.net
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=filmstreamz.net
 ! 2ddl
+2ddl.download,2ddl.la,2ddl.ooo,2ddl.org,2ddl.pro,best2ddl.net,ddl2.org,iiddl.com,iiddl.net,twoddl.co,twoddl.tv##a[href^="javascript:"]
 2ddl.download,2ddl.la,2ddl.ooo,2ddl.org,2ddl.pro,best2ddl.net,ddl2.org,iiddl.com,iiddl.net,twoddl.co,twoddl.tv##a[title][onclick]
-@@||ajax.googleapis.com/ajax/libs/$script,domain=ddl2.org
-iiddl.net|2ddl.download,2ddl.la,2ddl.ooo,2ddl.org,2ddl.pro,best2ddl.net,ddl2.org,iiddl.com,twoddl.co,twoddl.tv##a[href^="javascript:"]
+@@||ajax.googleapis.com/ajax/libs/$script,domain=iiddl.net
 |http://$script,third-party,domain=2ddl.download|2ddl.la|2ddl.ooo|2ddl.org|2ddl.pro|best2ddl.net|ddl2.org|iiddl.com|iiddl.net|twoddl.co|twoddl.tv
 |https://$script,third-party,domain=2ddl.download|2ddl.la|2ddl.ooo|2ddl.org|2ddl.pro|best2ddl.net|ddl2.org|iiddl.com|iiddl.net|twoddl.co|twoddl.tv
 ||goo.gl^$popup,domain=2ddl.download|2ddl.la|2ddl.ooo|2ddl.org|2ddl.pro|best2ddl.net|ddl2.org|iiddl.com|iiddl.net|twoddl.co|twoddl.tv
