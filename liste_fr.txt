@@ -7376,6 +7376,7 @@ $subdocument,domain=mangastreaming.fr|mangastreaming.me
 |http://$script,third-party,domain=arabloads.net
 |https://$script,third-party,domain=arabloads.net
 ! up07.net
+/open*.js,domain=showx.tech|up02.net|up05.pro|up07.me|up08.net|up09.com
 |http://$image,popup,script,third-party,xmlhttprequest,domain=showx.tech|up02.net|up05.pro|up07.me|up08.net|up09.com
 |https://$image,popup,script,third-party,xmlhttprequest,domain=showx.tech|up02.net|up05.pro|up07.me|up08.net|up09.com
 ! filescdn.com
