@@ -2313,6 +2313,7 @@ debugger:$popup
 ||online^*?subid=$popup
 ||online^*?zone=$popup
 ||online^*?zoneid=$popup
+||science^*?sub_id_*&sub_id_$popup
 ||site^*&zoneid=$popup
 ||site^*?pubsite=$popup
 ||site^*?subid=$popup
@@ -4563,6 +4564,11 @@ debugger:$popup
 ||ot8chae.top^$third-party
 ||ouradse.com^$third-party
 ||ov2ochu.bid^$third-party
+||pascal1.science^$third-party
+||pascal2.science^$third-party
+||pascal3.science^$third-party
+||pascal4.science^$third-party
+||pascal5.science^$third-party
 ||pbterra.com^$third-party
 ||pe88fdjc.top^$third-party
 ||phafah4.bid^$third-party
@@ -5004,7 +5010,6 @@ debugger:$popup
 ||now.sh/*.wasm$third-party
 ||openkatalog.com^$subdocument
 ||papoto.com^$third-party
-||pascal3.science^$third-party
 ||podrltid.info^$third-party
 ||ppoi.org^$third-party
 ||projectpoi.com^$third-party
@@ -5252,6 +5257,7 @@ debugger:$popup
 ||clickanalyticssuite.com^$popup,third-party
 ||clickdomnew.com^$popup,third-party
 ||clickfordeal.click^$popup,third-party
+||clickpapa.io^$popup,third-party
 ||clickppcbuzz.com^$popup,third-party
 ||clickredirection.com^$popup,third-party
 ||clicks4ads.com^$popup,third-party
