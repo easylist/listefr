@@ -7472,14 +7472,6 @@ $subdocument,domain=mangastreaming.fr|mangastreaming.me
 ! thevid.net
 |http://$script,third-party,domain=thevid.net
 |https://$script,third-party,domain=thevid.net
-! vidoza.net
-@@||ajax.googleapis.com/ajax/libs/$script,domain=vidoza.net
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=vidoza.net
-@@||vidoza.net/js/ads.js$script,domain=vidoza.net
-@@||vidoza.net/js/pop.js$script,domain=vidoza.net
-|http://$script,third-party,domain=vidoza.net
-|https://$script,third-party,domain=vidoza.net
-||vidoza.net/js/sop/
 ! openload
 /^https?:\/\/(tt1\.|yii\.)?(oload.stream|oload.tv|oload.info|olpair.com|openload.co|streamango.com|streamcherry.com)\/(.*\/)?(cdn-cgi\/|script\.\d{3,4}\.|license\.|yii\.|VPAIDFlash\.|(.*\.vpaid\.)|(r3\/))(.*)/$domain=ifp.re|oload.info|oload.stream|oload.tv|olpair.com|openload.co|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
 /assets/js/script.$domain=ifp.re|mp3free.pw|oload.info|oload.stream|oload.tv|openload.co|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
@@ -9639,6 +9631,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||viamichelin.*/img/partners/
 ||video-2-cul.com/javascript/functions.js
 ||videos-de-celebrites.com^$image,third-party
+||vidoza.net/js/plugins/miniTip/
+||vidoza.net/js/sop/
 ||vidshort.net/*.php
 ||vidshort.net/fr.js
 ||vidshort.net^$popup,script,~third-party
