@@ -9334,7 +9334,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||satmag.fr/pub/
 ||saucissonsexe.com/wp-content/uploads/*.gif
 ||sbx.pagesjaunes.fr^
-||scan-fr.net/imagibl/
+||scan-fr.net^$subdocument
 ||scifi-movies.com/images/site/promo/
 ||scoopers.com/?o=$popup
 ||scoopnest.com/content_rb.php?
@@ -11969,6 +11969,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##[id^="pub_dart_"]
 ##[id^="sas_"][style*="width: 300px; height: 250px;"]
 ##[id^="sas_"][style*="width: 728px; height: 90px;"]
+##[id^="widget_pub-"]
 ##[onclick*="/rel/index.cfm?RST="]
 ##[onclick*="/rel/index.cfm?TAD="]
 ##[onclick*="FriendlyDuck.com/AF_"]
