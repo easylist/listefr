@@ -5486,6 +5486,7 @@ debugger:$popup
 ||meepwrite.com^$popup,third-party
 ||meetaffiliate.com^$popup,third-party
 ||mfpadv.com^$popup,third-party
+||mftracking.com^$popup,third-party
 ||mistralads.com^$popup,third-party
 ||mmtracking.com^$popup,third-party
 ||mmtrkbb.com^$popup,third-party
@@ -5977,6 +5978,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||amazon.fr/exec/obidos/external-search?$subdocument,domain=annuaire-bleu.net
 ||amazon.fr^$popup,domain=fdesouche.com
 ||amazonaws.com/hbams/
+||amazonaws.com/mftracker/
 ||amazonaws.com/pubfig/
 ||amazonaws.com/static.contentza.com/
 ||amazonaws.com/waframedia*.
