@@ -3214,6 +3214,7 @@ debugger:$popup
 ||maxidivx.com^$third-party
 ||maxprofitcontrol.com^$third-party
 ||maxrevenue1.com^$third-party
+||maxtargetad.com^$third-party
 ||mecacroquer.com^$third-party
 ||medi-8.net^$third-party
 ||media-clic.com^$third-party
@@ -3378,6 +3379,7 @@ debugger:$popup
 ||ooxad.com^$third-party
 ||opresat.ru^$third-party
 ||opressity.com^$third-party
+||optimaladbid.com^$third-party
 ||orangepublicite.fr^$third-party
 ||ouaitupeuxregarderenillimite.com^$third-party
 ||overlays.next-targeting.com^$third-party
@@ -3766,6 +3768,7 @@ debugger:$popup
 ||valemedia.net^$third-party
 ||varsloqt.name^$third-party
 ||vartoken.com^$third-party
+||vergevs.com^$third-party
 ||vertoz.com^$third-party
 ||vgsgaming.com^$third-party
 ||video-de-cu.com^$third-party
@@ -4145,6 +4148,7 @@ debugger:$popup
 ||zbwttofskjnc.com^$third-party
 ! iframe / popunder
 /^https?:\/\/(?!disqus\.)([a-z]+)\.(com|info)\/([0-9a-zA-Z\+\/]){420,460}/$subdocument,third-party
+||abarrange.info^
 ||abourself.com^
 ||acivilege.com^
 ||acknowing.com^
@@ -4260,6 +4264,7 @@ debugger:$popup
 ||sovietname.info^
 ||stodyew.info
 ||stodyew.info^
+||strapolan.com^
 ||streesusa.info^
 ||strucewe.info^
 ||testablisha.info^
@@ -5847,6 +5852,7 @@ debugger:$popup
 ||zwaar.org^$popup,third-party
 ||zxtrace.com^$popup,third-party
 !
+||178.175.132.130^$popup,third-party
 ||adexchangecloud.com^$popup,third-party
 ||adzs.com^$popup,third-party
 ||beach-queen.net^$popup,third-party
