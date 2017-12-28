@@ -3445,7 +3445,6 @@ debugger:$popup
 ||ppcadmedia.com^$third-party
 ||ppndr.xyz^$third-party
 ||pprx.work^$third-party
-||pqowedazx.bid^$third-party
 ||predictivadvertising.com^$third-party
 ||privetadblock.ru^$third-party
 ||proche2moi.com^$third-party
@@ -4950,6 +4949,7 @@ debugger:$popup
 !
 /^https?://[0-9a-z]+\.com\/watch\?([a-z]{2,3}=(([0-9a-z]{4,8}\-){4})[0-9a-z]{12}\&){2}$/$third-party,xmlhttprequest
 ||3l4r8d61yz.com^
+||pqowedazx.bid^
 ||pti40qv5si.com^
 ||vcfs6ip5h6.bid^
 ||vg02h8z1ul.me^
