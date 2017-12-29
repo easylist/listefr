@@ -458,6 +458,7 @@
 /admysports/*
 /adnow-
 /adoff.js?
+/adop_sdk2.
 /adops_
 /adpage_
 /adperf.
@@ -10578,6 +10579,10 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ###overlay-advertising
 ###overlayad
 ###pagelet_advertiser_panel
+###pave1_ad
+###pave2_ad
+###pave3_ad
+###pave4_ad
 ###pavePub
 ###pave_pub
 ###pavepub
@@ -11763,6 +11768,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ##.pubaudessunews
 ##.pubbigsize
 ##.pubbottomvideo
+##.pubcontainer
 ##.pubfond
 ##.pubimage
 ##.pubind1
@@ -12699,11 +12705,7 @@ cciaf.org###partner_content
 miroirsocial.com,netbeopen.com,slateafrique.com,wanimo.com###partners
 ijero.com###partners-wrapper
 equirodi.be###partnerslinks2
-oumma.com###pave1_ad
-oumma.com###pave2_ad
 windsurfjournal.com###pave300x250
-oumma.com###pave3_ad
-oumma.com###pave4_ad
 windsurfjournal.com###pave695x90
 exclusivomen.com,gentside.co.uk,gentside.com,gentside.com.br,gentside.de,maxisciences.com,ohmirevista.com,ohmymag.com,ohmymag.com.br,ohmymag.de,simplyvoyage.com###pave_bas
 exclusivomen.com,gentside.co.uk,gentside.com,gentside.com.br,gentside.de,lachainemeteo.com,maxisciences.com,ohmirevista.com,ohmymag.com,ohmymag.com.br,ohmymag.de,simplyvoyage.com###pave_haut
@@ -13464,7 +13466,6 @@ paruvendu.fr##.pub_vignette
 loisirados.com##.pub_vip_0
 internetparsatellite.net##.pubbas
 seriesaddict.fr##.pubbox
-oumma.com##.pubcontainer
 tasante.com##.pubcontent
 winds-up.com##.pubhaut
 orangeinfo.fr,scifi-universe.com##.pubheader
