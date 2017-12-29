@@ -1858,6 +1858,7 @@ _werbebanner_
 ! exads
 .com/NB_bl.php
 .com/NB_fl.js
+.com/plugin.php?js=1&s=$script,~third-party
 /\.(com|fr|net|org|tv|xxx)\/floader\.js$/$script,~third-party
 /abfiles/tools.js
 /backend_loader.$script
