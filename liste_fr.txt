@@ -14166,6 +14166,8 @@ igen.fr##[-abp-properties='width: 32*px;']
 uploads.to##[-abp-properties='z-index: *']
 lucariostream.eu##[-abp-properties='z-index: 999*;']
 macg.co##article > a[-abp-properties='*'] > img
+ccm.net#?#.ccm_list_catch__item:-abp-contains(Sponsored)
+commentcamarche.net#?#.ccm_list_catch__item:-abp-contains(Annonces)
 dzgeek.com#?#li + .postbit:-abp-has(img[src$="/avatars/partenaire.png"])
 extreme-down.pro#?#a:-abp-contains(usenet)
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(Sponsorisé))
