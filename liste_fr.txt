@@ -232,6 +232,7 @@
 .me/adver/
 .mobi/ads/
 .net/popup.js
+.org/ads.
 .php/affiliate/
 .php?&zoneid=
 .php?*&bannerid*campaignid=
@@ -6392,6 +6393,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||hurenportal.com/banner/
 ||hydrus.cc^$script,third-party
 ||i.alicdn.com/*/show-window/index.js
+||i.ebayimg.com$domain=trackitonline.org
 ||iceroket.com^$subdocument
 ||ichwuerde.com/images/b/
 ||icnsocial.com/open.js
@@ -6409,6 +6411,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||ilmepornohd.ro/i/banner/
 ||imagefacile.com^$image
 ||imageshack.com^$domain=adyou.me
+||img.fasttechcdn.com$domain=trackitonline.org
 ||img.grouponcdn.com/gpn/$image,third-party
 ||img.nuxit.com/banners/
 ||img6.bricozone.be/jquery-1.2.6.min.js
@@ -13265,6 +13268,7 @@ laptopspirit.fr,prix-portables.fr##.lien_hab
 laptopspirit.fr,prix-portables.fr##.lien_habillage
 cine-media.fr##.lienbackground
 foot01.com##.lig
+trackitonline.org##.liketable
 ultim-telechargementz.com##.line + .padding > [style] a > img
 pagesjaunes.fr##.linkPushEmbauche
 frandroid.com##.link_htr
