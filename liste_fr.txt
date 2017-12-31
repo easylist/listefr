@@ -1094,6 +1094,8 @@
 /js/marketing/marketing.js
 /js/pub.js
 /js/sda-
+/js/tc_loader.js
+/js/tc_pu.js
 /js_a_d_s.
 /jsk?zoneid=
 /jwplayer/plugin/preroll.js
@@ -1232,6 +1234,8 @@
 /popcall.js
 /popcashnet.js
 /popdesktop.js
+/popdhtml/*
+/popdhtml_
 /popox.js
 /pops/*&subid=
 /popun.*&random=
@@ -1551,6 +1555,7 @@
 /vbs-ads.
 /videojs-ads/*
 /videojs.adss.
+/virtuagirl-
 /votre_pub_
 /vpn160.gif
 /vpn468.gif
@@ -1837,6 +1842,8 @@ _nnads/$subdocument
 _pages_ad.
 _pop.php?z=
 _popAds.
+_popdhtml/
+_pp_dhtml.
 _program_ad.
 _pub_300x.
 _pub_728.
@@ -6926,7 +6933,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||static.s-sfr.fr/media/mire_$image
 ||static.shoptimate.com/js/partner.js
 ||static.twincdn.com^$script,third-party
-||static.vadorcdn.com/templates/plarge/banner/
+||static.vadorcdn.com^*/banner/
 ||static2.dmcdn.net/mc/skin_assets/*/body$image
 ||statstools.porn.fr^
 ||storefollow.com/?support=
@@ -9693,12 +9700,8 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||urbeez.com/habillage_$image
 ||urbeez.com/pub/
 ||userscloud.com/js/vendor/core/bootstrap.js
-||vador.com/popdhtml_
-||vador.com/show_popdhtml/
-||vador.com/showm_notification/
+||vador.com/showm_
 ||vador.com/templates/notification/
-||vador.com^*/popdhtml/
-||vador.com^*/tc_pp_dhtml.
 ||vakarm.net/css/sprite_vkm_2.css
 ||vakarm.net/pub/
 ||vakarm.net/statics/images/header/*_black.
