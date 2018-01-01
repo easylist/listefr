@@ -4793,9 +4793,6 @@ debugger:$popup
 ||wog1aeg.bid^$third-party
 ||wp6dgk5g.top^$third-party
 ||wqepoqpwo.bid^$third-party
-||ww1.vidzi.tv^
-||ww2.vidzi.tv^
-||ww3.vidzi.tv^
 ||wwznqib.com^$third-party
 ||x1sdwn8.com^$third-party
 ||x268dl0k.top^$third-party
@@ -4823,6 +4820,40 @@ debugger:$popup
 ||ziej6ai.bid^$third-party
 ||znjo3h2m.top^$third-party
 ||zooh1od.top^$third-party
+!
+||14e6e1ee3d7236d41431.date^
+||1cb70f6b7aab4c70819a.date^
+||2254731ac5f577f2c9d2.date^
+||2e91ddf5f5cc6dbfef88.date^
+||30dfa2c5b2c5ca53ee73.date^
+||896a8dfd194005e2adea.date^
+||a8f8152ea5c82b36c6aa.date^
+||alfasoft.date^
+||asdlk.stream^
+||b017925d1ff7bba3c109.date^
+||b4e12976c052bbd91c3e.date^
+||bingof.date^
+||c27c8283da6ada6253c4.date^
+||c712236afa001382be31.date^
+||ca8ed1fddb093e0e783f.date^
+||de1bb40b22463324e1df.date^
+||dfkjsd0.trade^
+||dfkljasod.fun^
+||ewiuw.faith^
+||f990b3094915500e821d.date^
+||funn.date^
+||golfsu.date^
+||goog.date^
+||iejka.download^
+||mailcom.date^
+||mailgen.date^
+||mikas.win^
+||poli12.bid^
+||sadji.cricket^
+||sadkasd.party^
+||scriptjs.date^
+||somdi.date^
+||yand.date^
 ! uponit.com
 ||ajkelra.com^
 ||akailoparzapi.com^
@@ -7051,7 +7082,6 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||videoplaza.tv/proxy/$popup
 ||videoplaza.tv/proxy/vpsupport.js
 ||videos-pornographiques.com/promo/
-||vidzi.tv/300e.html
 ||viewster.com^*utm_$popup
 ||vip-cccam.biz/banners/
 ||viteundevis.com/ads/
@@ -7573,6 +7603,16 @@ $subdocument,domain=mangastreaming.fr|mangastreaming.me
 ! thevid.net
 |http://$script,third-party,domain=thevid.net
 |https://$script,third-party,domain=thevid.net
+! vidzi.tv
+|http://$third-party,xmlhttprequest,domain=vidzi.tv
+|https://$third-party,xmlhttprequest,domain=vidzi.tv
+||sb.vidzi.tv^
+||vidzi.tv/300e.html
+||vidzi.tv/n30e.html
+||vidzi.tv/sb-
+||ww1.vidzi.tv^
+||ww2.vidzi.tv^
+||ww3.vidzi.tv^
 ! openload
 /^https?:\/\/(tt1\.|yii\.)?(oload.stream|oload.tv|oload.info|olpair.com|openload.co|streamango.com|streamcherry.com)\/(.*\/)?(cdn-cgi\/|script\.\d{3,4}\.|license\.|yii\.|VPAIDFlash\.|(.*\.vpaid\.)|(r3\/))(.*)/$domain=ifp.re|oload.info|oload.stream|oload.tv|olpair.com|openload.co|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
 /assets/js/script.$domain=ifp.re|mp3free.pw|oload.info|oload.stream|oload.tv|openload.co|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
