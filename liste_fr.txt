@@ -4997,6 +4997,7 @@ debugger:$popup
 /cryptocpu.js
 /cryptonight-worker.
 /cryptonight.wasm
+/deepMiner.js
 /jsecoin.*/?
 /lib/crlt.js$script,third-party
 /mine/bitcoincore/*
@@ -5049,6 +5050,7 @@ debugger:$popup
 ||cookiescriptcdn.pro^$third-party
 ||crypto-coins.club^$third-party
 ||crypto-loot.com^$third-party
+||cryptobara.com^$third-party
 ||cryptoloot.pro^$third-party
 ||cryptomine.pro^$third-party
 ||csgocpu.com^$third-party
@@ -5077,14 +5079,17 @@ debugger:$popup
 ||minecrunch.co^$third-party
 ||minemytraffic.com^$third-party
 ||miner.pr0gramm.com^$third-party
+||minergate.com^$third-party
 ||minero-proxy-*.sh^$third-party
 ||minero.pw^$third-party
 ||minexmr.com^$third-party
 ||minr.pw^$third-party
 ||mmpool.org^$third-party
+||moneone.ga^$third-party
 ||monero-miner.net^$third-party
 ||monerominer.rocks^$third-party
 ||moneroocean.stream^$third-party
+||monkeyminer.net^$third-party
 ||noblock.pro^$third-party
 ||now.sh/*.wasm$third-party
 ||nut.cc^$third-party
