@@ -1021,7 +1021,7 @@
 /gfx/bannieres/*
 /goclick?ref=$script
 /grid/ads/*
-/hashcash.
+/hashcash.$domain=~hashcash.io
 /hbams/hb_
 /hbams/lib/hb_
 /header-ads.
