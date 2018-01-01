@@ -2131,6 +2131,7 @@ _frontend_loader.$script
 /iframePopUpLoader.$popup
 /install.&clickid=$popup
 /jump/clk1.$popup
+/lib/*?id=*&adb=$popup
 /lp/*;pop|$popup
 /n*adserv.com$popup
 /null/*/Redirect.$popup,third-party
@@ -5831,6 +5832,7 @@ debugger:$popup
 ||trafficbee.com^$popup,third-party
 ||trafficmagnates.com^$popup,third-party
 ||trafficsel.com^$popup,third-party
+||trafficshop.com^$popup,third-party
 ||traffique.net^$popup,third-party
 ||translationbuddy.com^$popup,third-party
 ||travelaudience.com^$popup,third-party
@@ -8230,6 +8232,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||blumei-piano.com/wp-content/themes/*/mylists.js
 ||boiteajeux.net/img/pub/
 ||bonplanphoto.fr/wp-content/uploads/*/background-
+||bonporn.com/iframext/
 ||booska-p.com/images/*-habillage-
 ||booska-p.com/images/habi-
 ||booska-p.com/img/operations/
