@@ -1282,9 +1282,11 @@
 /proxy_iframe.php?url=
 /ptp/banners/*
 /pu-placer.js
+/pu/*?psid=
 /pu/?psid=*&utm_
 /pu/license.$script
 /pu/script.$script
+/pu?psid=
 /PUB%20Habillage%20Skins/*
 /pub-300-250-
 /Pub-300250.
@@ -3160,7 +3162,6 @@ debugger:$popup
 ||jor1.net^$third-party
 ||journaux-du-midi.com^$third-party
 ||jsadapi.com^$third-party
-||jsmjmp.com^$third-party
 ||justasingle.click^$third-party
 ||kadserver.com^$third-party
 ||kalqui.com^$third-party
