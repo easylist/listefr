@@ -2238,6 +2238,7 @@ _frontend_loader.$script
 ://xml.*/redirect?$popup
 ://xmlsearch.*/click?$popup
 =*&referrer=*embed-$popup
+=admaven-$popup
 =adplexmedia&$popup
 =partenariat&utm_campaign=$popup
 =poplink&$popup
@@ -7615,12 +7616,12 @@ $subdocument,domain=mangastreaming.fr|mangastreaming.me
 |http://$third-party,xmlhttprequest,domain=vidzi.tv
 |https://$third-party,xmlhttprequest,domain=vidzi.tv
 ||sb.vidzi.tv^
-||vidzi.tv/300e.html
-||vidzi.tv/n30e.html
 ||vidzi.tv/sb-
+||vidzi.tv^*.html$subdocument,~third-party
 ||ww1.vidzi.tv^
 ||ww2.vidzi.tv^
 ||ww3.vidzi.tv^
+||ww4.vidzi.tv^
 ! openload
 /^https?:\/\/(tt1\.|yii\.)?(oload.stream|oload.tv|oload.info|olpair.com|openload.co|streamango.com|streamcherry.com)\/(.*\/)?(cdn-cgi\/|script\.\d{3,4}\.|license\.|yii\.|VPAIDFlash\.|(.*\.vpaid\.)|(r3\/))(.*)/$domain=ifp.re|ifpx.xyz|oload.info|oload.stream|oload.tv|olpair.com|openload.co|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
 /assets/js/script.$domain=ifp.re|ifpx.xyz|mp3free.pw|oload.info|oload.stream|oload.tv|openload.co|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
