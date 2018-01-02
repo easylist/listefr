@@ -191,6 +191,7 @@
 .cc/ad/
 .click/banner/
 .com.sa/ads/
+.com/ad1/
 .com/adb.
 .com/adj/
 .com/adpro.
@@ -260,6 +261,7 @@
 .showads.
 .sponsor.*?key=
 .swf?*=Ads.
+.us/ad/*?
 .vast.vpaid.$domain=cinenews.be
 .vod.ad_
 .wbdds.
@@ -398,8 +400,11 @@
 /ad/ad3/*
 /ad/ads.
 /ad/banners_
+/ad/play1.
 /ad/screen.
 /ad/view.
+/ad/View3.
+/ad1/View.
 /ad140x200-
 /ad140x200.
 /ad140x60-
@@ -438,6 +443,7 @@
 /adcall/call?
 /adcash/300.
 /adcash/728.
+/adcla/*
 /AdConfig.aspx
 /adCTNRender.
 /adengine2/*
@@ -2063,6 +2069,7 @@ _frontend_loader.$script
 /activedownload/?affl=$popup
 /ad-maven-$popup
 /ad.*/aff_$popup
+/ad/popup/*$popup
 /adcint/*$popup
 /adexchangelive.$popup
 /admac.$popup
@@ -2169,6 +2176,7 @@ _frontend_loader.$script
 /promo.php?compte=*&idealsite=$popup
 /promoRedirect?$popup
 /promos/popeachclick/*$popup
+/propeller_$popup
 /proxy.php?*/site_id/*$popup
 /pu2redirector.$popup
 /puopen.php?$popup
