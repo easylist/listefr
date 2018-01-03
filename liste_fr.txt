@@ -5016,7 +5016,7 @@ debugger:$popup
 ||zrefmeee.xyz^$third-party
 ! TeaserNet
 .com/promo/*?*=*&tid=*&vid=$popup,third-party
-/^https?://[a-z]{5,7}\.com\/[0-9a-z]{36}\/[0-9a-z]{15}\.js\?[0-9]{6}\&[0-9]{6}&[a-z]{5,7}\.com$/$script,third-party
+/^https?:\/\/[a-z]{5,7}\.com\/[0-9a-z]{36}\/[0-9a-z]{15}\.js\?[0-9]{6}\&[0-9]{6}&[a-z]{5,7}\.com$/$script,third-party
 ! daisycon.com
 /*/*/*/index.php?wi=*&ws=$image,third-party
 ||ds1.nl^$third-party
@@ -5026,7 +5026,7 @@ debugger:$popup
 ||newstat.net^$third-party
 ||static-dscn.net^$third-party
 !
-/^https?://[0-9a-z]+\.com\/watch\?([a-z]{2,3}=(([0-9a-z]{4,8}\-){4})[0-9a-z]{12}\&){2}$/$third-party,xmlhttprequest
+/^https?:\/\/[0-9a-z]+\.com\/watch\?([a-z]{2,3}=(([0-9a-z]{4,8}\-){4})[0-9a-z]{12}\&){2}$/$third-party,xmlhttprequest
 ||3l4r8d61yz.com^
 ||pqowedazx.bid^
 ||pti40qv5si.com^
