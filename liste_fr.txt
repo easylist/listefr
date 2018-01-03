@@ -5073,6 +5073,7 @@ debugger:$popup
 /XMR-monero.js
 ://*.space:8443/|$third-party,websocket
 ://api.*.space/lib/native.wasm$third-party
+?proxy=wss://mine.
 ||1q2w3.me^
 ||77.162.125.199^$third-party
 ||ad-miner.com^$third-party
@@ -5134,6 +5135,7 @@ debugger:$popup
 ||lmodr.biz^$third-party
 ||mataharirama.xyz^$third-party
 ||megabanners.cf^$third-party
+||mine.torrent.pw^
 ||minecrunch.co^$third-party
 ||minemytraffic.com^$third-party
 ||miner.pr0gramm.com^$third-party
