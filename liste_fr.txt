@@ -714,6 +714,7 @@
 /api/*?m=html&search_type=*&language=*&count=
 /api/ads_
 /api/syndicated/?$third-party
+/apop/js/zone/*
 /apu.php?id=
 /arabyads.
 /article/ads/*
@@ -2689,6 +2690,7 @@ debugger:$popup
 ||afflight.biz^$third-party
 ||affpx.com^$third-party
 ||afftrack001.com^$third-party
+||afgr2.com^$third-party
 ||afilio.com.br^$third-party
 ||afromessenger.com^$third-party
 ||agisdayra.com^$third-party
@@ -9810,6 +9812,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||viamichelin.*/img/partners/
 ||video-2-cul.com/javascript/functions.js
 ||videos-de-celebrites.com^$image,third-party
+||videos-pornos.eu^$script
 ||vidoza.net/js/plugins/miniTip/
 ||vidoza.net/js/sop/
 ||vidshort.net^$popup,script,~third-party
