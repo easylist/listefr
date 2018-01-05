@@ -8001,12 +8001,12 @@ $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortru
 ||jumpbucks.com^$script,third-party
 ||link-download.in^$script,third-party
 ||link.tl^$script,third-party
+||lyon.kim^$script,third-party
 ||ouo.io^$script,third-party
 ||ouo.press^$script,third-party
 ||shink.in^$script,third-party
 ||shink.me^$script,third-party
 ||uskip.me^$script,third-party
-||xess.pro^$script,third-party
 ||yourlink.in^$script,third-party
 ! linkbucks.com
 &utm_*=linkbucks$popup,subdocument
@@ -9901,7 +9901,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||xavbox.com/ban/
 ||xboards.org/static/sponsors/
 ||xbooru.com/x.
-||xess.pro/popup/
 ||xlporn.fr/getpub?
 ||xstarsnews.com/admin/gestion_bann/banniere.
 ||xstarsnews.com/banner-pub/
@@ -14753,7 +14752,6 @@ _blockadblock_
 @@||www.passetoncode.fr/ads.js$script,~third-party
 @@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 @@||www.zonebourse.com/js/ads.js$script,~third-party
-@@||xess.pro/js/ads.js$script,domain=xess.pro
 !
 @@||4downfiles.org^$generichide
 @@||adbull.me^$generichide
