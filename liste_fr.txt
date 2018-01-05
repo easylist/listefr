@@ -2346,7 +2346,7 @@ debugger:$popup
 ||online^*&zone=$popup
 ||online^*&zoneid=$popup
 ||online^*?cid=$popup
-||online^*?subid=$popup$domain=~euromedicom.online|prime-journal.online
+||online^*?subid=$popup,domain=~euromedicom.online|prime-journal.online
 ||online^*?zone=$popup
 ||online^*?zoneid=$popup
 ||science^*?sub_id_*&sub_id_$popup
