@@ -981,6 +981,7 @@
 /epomads2.
 /EpubDelivery/*
 /espace-pub-
+/eureka_ban/*
 /event-adserver.
 /exads-
 /exo-loader/*
@@ -5184,6 +5185,7 @@ debugger:$popup
 ||trezor.io^$third-party
 ||usa.cc^$third-party
 ||webmine.cz^$third-party
+||whathyx.com^
 ||wty46.com^$third-party
 ||xbasfbno.info^$third-party
 !
@@ -8155,6 +8157,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||adf.ly/*.php$script
 ||adli.pw/campagnes/
 ||adlipay.com/webroot/referrals/
+||adn.porndig.com^
 ||adopteunmec.com^*/pave_partenaire_
 ||aeroport.fr/sites/default/files/*/pub-
 ||aeroport.fr/sites/default/files/users/*.gif
@@ -9827,6 +9830,7 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||video-2-cul.com/javascript/functions.js
 ||videos-de-celebrites.com^$image,third-party
 ||videos-pornos.eu^$script
+||videos.porndig.com/js/videojs.logobrand.js
 ||vidoza.net/js/plugins/miniTip/
 ||vidoza.net/js/sop/
 ||vidshort.net^$popup,script,~third-party
