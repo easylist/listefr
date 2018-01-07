@@ -14218,7 +14218,6 @@ aswak.echoroukonline.com##div[style^="width:980px;height:200px;"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 igen.fr,macg.co##header + a[target="_blank"]
-beta.speedtest.net##iframe
 jeux-porno.net##iframe[src]
 aufeminin.com,marmiton.org,xstory-fr.com##iframe[style]
 developpez.net##iframe[width="300"][height="250"]
@@ -14582,13 +14581,6 @@ femmesplus.fr##section[id] > img
 @@||secure-pay.us^*?$subdocument,domain=uptobox.com
 @@||uptobox.com/jquery-1.8.3.min.js$script,domain=uptostream.com
 @@||uptostream.com/biscuit.html?xfss=*&lang=$subdocument,domain=uptobox.com
-! speedtest.net
-@@/download?nocache=$third-party,xmlhttprequest,domain=beta.speedtest.net
-@@/hello?nocache=$third-party,xmlhttprequest,domain=beta.speedtest.net
-@@/ping?nocache=$third-party,xmlhttprequest,domain=beta.speedtest.net
-@@/upload?nocache=$third-party,xmlhttprequest,domain=beta.speedtest.net
-@@||speedtest.net/global-index/public/site.bundle.js$script,domain=speedtest.net
-@@||speedtest.net/global-index/public/vendor.bundle.js$script,domain=speedtest.net
 ! iRaiser.eu
 @@||agir.plan-international.fr/adserver2/$~third-party
 @@||client.iraiser.eu/adserver/$~third-party
