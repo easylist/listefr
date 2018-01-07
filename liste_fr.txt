@@ -1218,6 +1218,7 @@
 /player/jw/ad.js
 /player/jw/ads.js
 /player_ad.
+/player_sda.
 /plugins/adKnowMore.
 /plugins/dfp/$script
 /plugins/em_ad/*
@@ -4211,6 +4212,7 @@ debugger:$popup
 ||arancefy.com^
 ||artelled.com^
 ||auctional.info^
+||awidness.com^
 ||ayclinical.com^
 ||bargetbook.com^
 ||beershavartb.com^
@@ -7160,6 +7162,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||vplan.com^$popup,domain=fdesouche.com
 ||vpn-facile.net^$popup,domain=cachemoi.com
 ||vshare.eu/javascripts/script.
+||vshare.eu^$subdocument,~third-party
 ||vuplus-community.net/board/styles/BP-Black/xenforo/joiningbits5_vu.png
 ||vuplus-images.co.uk/mail/banner
 ||vuplus-support.org/custom_files/banner.gif
@@ -7651,6 +7654,13 @@ $subdocument,domain=mangastreaming.fr|mangastreaming.me
 ! vidzcode.com
 |http://$script,third-party,domain=vidzcode.com
 |https://$script,third-party,domain=vidzcode.com
+! allvid.ch
+|http://$script,third-party,xmlhttprequest,domain=allvid.ch
+|https://$script,third-party,xmlhttprequest,domain=allvid.ch
+! upvid.co
+|http://$script,subdocument,third-party,xmlhttprequest,domain=upvid.co
+|https://$script,subdocument,third-party,xmlhttprequest,domain=upvid.co
+||upvid.co^$subdocument
 ! vidlox.tv
 @@||api.peer5.com^$script,domain=vidlox.me
 @@||cdn.jsdelivr.net^$script,domain=vidlox.me
@@ -10737,6 +10747,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ###play-advert
 ###player-advvertising
 ###playerPub
+###player_sda
 ###pm300x250
 ###pm728x90
 ###pmFooterBody
