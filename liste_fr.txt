@@ -30,6 +30,7 @@
 &adBitrate=
 &adclickthrough=
 &adclickurl=
+&adCountIntervalHours=
 &AdFormat=
 &adGapId=
 &ADMode=
@@ -56,6 +57,7 @@
 &id_site=*&ref=*&width=*&height=*&m_url=$subdocument
 &include_ads=
 &lr_adtype=
+&maxAdCountsPerInterval=
 &page_url=*&advertiser=
 &pdvId=
 &pid=*&tid=*&status=*&v=
@@ -801,6 +803,7 @@
 /banners-ads/*
 /banners-pub/*
 /banners.htm?size=
+/banners.php?zone
 /banners/*-affiliates-
 /banners/*/adx.
 /banners/*?campaign_id=
@@ -1208,6 +1211,7 @@
 /PBTopAds.
 /pdv.js
 /pdv/popup_
+/peaceandlove.php?zone
 /peelrotateur/*
 /phantomPopunder.
 /player.*?adSetCode=
@@ -11585,6 +11589,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##.head-pub
 ##.header-add-wrapper
 ##.header-adds
+##.header-box-ads
 ##.header-promo
 ##.header-pub
 ##.headerPub
@@ -13147,7 +13152,7 @@ syskb.com##.bandeaupub
 cdmail.fr##.bandeauvert
 jeux-mmorpg.com##.baner
 orientation-chabab.com##.bann
-afrik-foot.com,afrik.com,afrikeco.com,french-stream.co,glenatbd.com,hdnumerique.com,kpopfm.fr,manga-news.com,medialot.fr,mesbagages.com,orientation-chabab.com,showx.tech,telquel.ma,textnow.com,trimag.fr,up02.net,up05.pro,ventsdouest.com,video-2-cul.com##.banner
+2conv.com,afrik-foot.com,afrik.com,afrikeco.com,french-stream.co,glenatbd.com,hdnumerique.com,kpopfm.fr,manga-news.com,medialot.fr,mesbagages.com,orientation-chabab.com,showx.tech,telquel.ma,textnow.com,trimag.fr,up02.net,up05.pro,ventsdouest.com,video-2-cul.com##.banner
 batiactu.com##.banner-background
 golem13.fr##.banner-halfpage
 lareclame.fr##.banner-url
