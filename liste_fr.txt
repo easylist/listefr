@@ -14589,6 +14589,7 @@ femmesplus.fr##section[id] > img
 @@||www.omochasama.com/wp-content/uploads/*-120x240.$image,~third-party
 ! uptobox.com / uptostream.com
 @@||api.dedipass.com^$script,subdocument,domain=uptobox.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=uptobox.com
 @@||payment.allopass.com^*?$subdocument,domain=uptobox.com
 @@||secure-pay.us^*?$subdocument,domain=uptobox.com
 @@||uptobox.com/jquery-1.8.3.min.js$script,domain=uptostream.com
