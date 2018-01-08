@@ -7704,6 +7704,9 @@ oload.info,oload.stream,oload.tv,openload.co,streamcherry.com##.vjs-modal-dialog
 |http://$script,third-party,xmlhttprequest,domain=direct-torrents.com
 |https://$script,third-party,xmlhttprequest,domain=direct-torrents.com
 ||derperd.com^$domain=direct-torrents.com
+! justporno.tv
+@@||justporno.tv/js/lazy.js$script,~third-party
+||justporno.tv^$script
 ! webchoc.com
 |http://$script,domain=sexefelin.com|tubixe.com|vidsexe.com|webchoc.com
 |https://$script,domain=sexefelin.com|tubixe.com|vidsexe.com|webchoc.com
@@ -8930,7 +8933,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||jumia.com/static/cms/*?downsize=
 ||juristatic.com/public/js/Composant/Wengo/notify.js?
 ||juristatic.com/public/js/lib/*_popup.js?
-||justporno.tv^$script
 ||k2nblog.com/?$xmlhttprequest
 ||kacemb.com/kdda/sponsors/
 ||kairn.com/*/pub.
