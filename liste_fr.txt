@@ -2346,7 +2346,7 @@ debugger:$popup
 ||gdn^*&impid=$popup
 ||gdn^*&redi=$popup,third-party
 ||gdn^*=redi$popup,third-party
-||info^*==|$popup,third-party
+||info^*==|$popup,third-party,domain=~blockchain.info
 ||info^*watch?key=$popup,third-party
 ||life^*?sub=$popup
 ||link^*?link=$popup,third-party
