@@ -661,6 +661,7 @@
 /adv_forum-
 /adv_js.
 /adv_pi.
+/advcash.$domain=~advcash.com
 /adver_imgs/*
 /advert-serv.
 /advert/rota-
@@ -2800,6 +2801,7 @@ debugger:$popup
 ||billy.mobi^$third-party
 ||bitadspool.com^$third-party
 ||bitadv.co^$third-party
+||bitraffic.com^$third-party
 ||bizhentai.com^$third-party
 ||biznolimit.com^$third-party
 ||blast4you.com^$third-party
@@ -12178,6 +12180,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##.zone_pub_orange
 ##.zonepub
 ##[class$="_banner-sponsor"]
+##[class*="_ad-container"]
 ##[class*="proadszoneholder-"]
 ##[class^="ads300_600-widget-"]
 ##[class^="ads_inline_"]
@@ -13307,6 +13310,7 @@ mediadico.com##.cold-bloc-video-generique
 winds-up.com##.colpub
 seasons.fr##.colsEditoMainMS
 allocine.fr##.coltop
+bitcoincours.com##.column-left-inner
 20minutes.fr##.communication
 g5u.pw,gsurl.in,gsurl.me##.container
 pagesjaunes.fr##.containerPdsSitesPartenaires
