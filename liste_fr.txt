@@ -7688,10 +7688,6 @@ $subdocument,domain=mangastreaming.fr|mangastreaming.me
 ! allvid.ch
 |http://$script,third-party,xmlhttprequest,domain=allvid.ch
 |https://$script,third-party,xmlhttprequest,domain=allvid.ch
-! upvid.co
-|http://$script,subdocument,third-party,xmlhttprequest,domain=upvid.co
-|https://$script,subdocument,third-party,xmlhttprequest,domain=upvid.co
-||upvid.co^$subdocument
 ! vidlox.tv
 @@||api.peer5.com^$script,domain=vidlox.me
 @@||cdn.jsdelivr.net^$script,domain=vidlox.me
