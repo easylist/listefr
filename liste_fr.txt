@@ -1504,6 +1504,7 @@
 /show/?block_id=*&r=$script
 /show?zone_id=
 /show_adv.
+/show_i.php?b=$subdocument,third-party
 /show_next_ads.
 /showads?
 /side-pub.
@@ -4213,6 +4214,7 @@ debugger:$popup
 ||acroscow.com^
 ||acrossiblel.info^
 ||actoriends.info^
+||addenly.info^
 ||africal.info^
 ||ahumant.com^
 ||alfredean.com^
@@ -4322,6 +4324,7 @@ debugger:$popup
 ||preligions.com^
 ||qdistand.com^
 ||quierest.com^
+||recallen.info^
 ||recentuale.com^
 ||reportantu.info^
 ||requencey.info^
@@ -5216,6 +5219,7 @@ debugger:$popup
 ||safelinkconverter.com^$third-party
 ||sbhmn-miner.com^$third-party
 ||secumine.net^$third-party
+||sparnove.com^$third-party
 ||static-cnt.bid^$third-party
 ||statistic.date^$third-party
 ||supportxmr.com^$third-party
