@@ -2384,6 +2384,7 @@ debugger:$popup
 ||support^*?zoneid=$popup
 ||tech^*?affid=$popup
 ||trade^*?affid=$popup
+||xyz^*&site=*&ad=$popup
 ||xyz^*&zone=$popup
 ||xyz^*&zoneid=$popup
 ||xyz^*==|$popup,third-party
@@ -4373,6 +4374,7 @@ debugger:$popup
 ||wondence.info^
 ||worthod.info^
 ||wortparser.info^
+||wrigginger.info^
 ||wrinkworks.com^
 ||yoursinfo.info^
 ! admeasures.com
@@ -5137,6 +5139,7 @@ debugger:$popup
 ||adminer.com^$third-party
 ||afminer.com^$third-party
 ||altpool.pro^$third-party
+||analytics.blue^$third-party
 ||api.inwemo.com^$third-party
 ||authedmine.com^$third-party,domain=~coinhive.com
 ||authedwebmine.cz^$third-party
@@ -5839,6 +5842,7 @@ debugger:$popup
 ||reacheffect.com^$popup,third-party
 ||readerfonder.info^$popup,third-party
 ||readersfonder.info^$popup,third-party
+||red-direct-n.com^$popup,third-party
 ||redichat.com^$popup,third-party
 ||redirectingat.com^$popup,third-party
 ||redirects.us^$popup,third-party
@@ -5848,6 +5852,7 @@ debugger:$popup
 ||redpeepers.com^$popup,third-party
 ||redstick.online^$popup,third-party
 ||reflexcash.com^$popup,third-party
+||refparer.xyz^$popup,third-party
 ||refresh-tool.website^$popup,third-party
 ||regie3digital.com^$popup,third-party
 ||relateev.com^$popup,third-party
@@ -12288,6 +12293,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##a[href*="/redirect.php?title="]
 ##a[href*="/redirect?partenaire="]
 ##a[href*="/redirect?tid="]
+##a[href*="/redirect_bet.php?link="]
 ##a[href*="/redirect_pub.php?"]
 ##a[href*="/regiehab.php?"]
 ##a[href*="/rel/index.cfm?RST="]
