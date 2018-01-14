@@ -5103,10 +5103,13 @@ debugger:$popup
 ||skurki.info^
 ! Mining
 -monero-miner-$script
+.trade^$third-party,websocket
+.webcam^$third-party,websocket
 /authedmine.min.js
 /authedminer.js
 /bitcoin-plus-miner/*
 /bitcoincore/?ref=
+/bootstrap.wasm$third-party
 /browsermine.js
 /c-hive.js
 /cloudcoins.min.js
@@ -5139,6 +5142,7 @@ debugger:$popup
 ://api.*.space/lib/native.wasm$third-party
 ?proxy=wss://mine.
 ||1q2w3.me^
+||64uq73u7ug.webcam^$third-party
 ||77.162.125.199^$third-party
 ||ad-miner.com^$third-party
 ||adminer.com^$third-party
@@ -5232,12 +5236,15 @@ debugger:$popup
 ||safelinkconverter.com^$third-party
 ||sbhmn-miner.com^$third-party
 ||secumine.net^$third-party
+||smectapop12.pl^$third-party
 ||sparnove.com^$third-party
 ||static-cnt.bid^$third-party
 ||statistic.date^$third-party
 ||supportxmr.com^$third-party
+||tazm9p7tso.trade^$third-party
 ||tidafors.xyz^$third-party
 ||trezor.io^$third-party
+||ue696vbd9l.bid^$third-party
 ||usa.cc^$third-party
 ||webmine.cz^$third-party
 ||whathyx.com^
