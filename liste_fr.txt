@@ -796,6 +796,7 @@
 /banner_mainflash.$subdocument
 /banner_pub.
 /banner_right.$subdocument
+/banner_script/show.
 /banner_show.
 /banner_top.$subdocument
 /bannerad2300.
@@ -1505,7 +1506,7 @@
 /show/?block_id=*&r=$script
 /show?zone_id=
 /show_adv.
-/show_i.php?b=$subdocument,third-party
+/show_i.php?b=$subdocument
 /show_next_ads.
 /showads?
 /side-pub.
@@ -2267,6 +2268,7 @@ _frontend_loader.$script
 =admaven-$popup
 =adplexmedia&$popup
 =partenariat&utm_campaign=$popup
+=popads&$popup
 =poplink&$popup
 =promo.*_ref=*_affid=$popup
 =promotools&*=redirect$popup
@@ -3788,6 +3790,7 @@ debugger:$popup
 ||traffdaq.com^$third-party
 ||traffe.eu^$third-party
 ||traffic-media.co.uk^$third-party
+||traffic2bitcoin.com^$third-party
 ||trafficfabrik.com^$third-party
 ||trafficmagnates.com^$third-party
 ||trafficrevmaster.com^$third-party
@@ -3813,6 +3816,7 @@ debugger:$popup
 ||twodrive.su^$third-party
 ||tworismo.com^$third-party
 ||txlpzpihveg.net^$third-party
+||uclick.in^$third-party
 ||ultrafiles.co^$third-party
 ||unicefworld12.ovh^$third-party
 ||unit-sense.net^$third-party
@@ -4214,6 +4218,7 @@ debugger:$popup
 ||abourself.com^
 ||acivilege.com^
 ||acknowing.com^
+||acknowings.info^
 ||acorporary.info^
 ||acroscow.com^
 ||acrossiblel.info^
@@ -6115,6 +6120,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||123rfapis.com/crossdomain.xml
 ||154pack.com^$image,third-party
 ||1et2.org/sora/$image
+||1ink.cc/banners/
 ||1minuteweb.com^$subdocument,third-party
 ||3.bp.blogspot.com/*/s1600/eL97xwC.gif
 ||380.bu2z.com^
@@ -6272,6 +6278,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||bitchvolley.com/ban/$third-party
 ||bitly.com/teraplayerplay$popup
 ||bitport.io/assets/banners/
+||bitvideo.club/promo/
 ||blablaland.com/pubosaure/
 ||blc-concept.fr^*/upload/bannieres/
 ||block.mediavenus.biz^
@@ -6802,6 +6809,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.tv|gomovies.co|gomovie
 ||njuko.com/oo/droite.html
 ||nolake.com^$popup,domain=animalcrossing-online.com
 ||noogle.fr/banner/
+||noticrypto.website^$image,third-party
 ||nouslibertins.com^$image,third-party
 ||nouvelobs.s3-website-eu-west-1.amazonaws.com^
 ||noviya.free.fr/bannieres/
