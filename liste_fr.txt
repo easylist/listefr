@@ -7382,9 +7382,14 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.to|flashx.tv|gomovies.
 @@||cdn.jsdelivr.net^$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||code.jquery.com^$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
+@@||estream.to/embed-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
+@@||flashx.tv/embed-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||netdna.bootstrapcdn.com^$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
+@@||openload.co/embed/$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||speedvid.net/embed-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||speedvid.net/sn-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
+@@||streamango.com/embed/$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
+@@||vidoza.net/embed-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 |http://$image,ping,script,subdocument,third-party,xmlhttprequest,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 |https://$image,ping,script,subdocument,third-party,xmlhttprequest,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 ! filmsvostfr.cc
