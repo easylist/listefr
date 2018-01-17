@@ -7601,11 +7601,11 @@ $subdocument,domain=mangastreaming.fr|mangastreaming.me
 |http://$script,xmlhttprequest,domain=lucariostream.co
 |https://$script,xmlhttprequest,domain=lucariostream.co
 ! filmzenstream.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=completvf.com|filmzenstream.com|official-film-illimite.net
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=completvf.com|filmzenstream.com|official-film-illimite.net
-@@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=completvf.com|filmzenstream.com|official-film-illimite.net
-|http://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|official-film-illimite.net
-|https://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|official-film-illimite.net
+@@||ajax.googleapis.com/ajax/libs/$script,domain=completvf.com|filmzenstream.com|filmzenstream.tv|official-film-illimite.net
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=completvf.com|filmzenstream.com|filmzenstream.tv|official-film-illimite.net
+@@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=completvf.com|filmzenstream.com|filmzenstream.tv|official-film-illimite.net
+|http://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|filmzenstream.tv|official-film-illimite.net
+|https://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|filmzenstream.tv|official-film-illimite.net
 ! stream4free.eu
 |http://$script,third-party,xmlhttprequest,domain=stream4free.top
 |https://$script,third-party,xmlhttprequest,domain=stream4free.top
@@ -8734,7 +8734,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||filmstreaming-hd.com^$subdocument
 ||filmstreaming1.co/templates/filmstreaming/images/468
 ||filmstreaming1.co/templates/filmstreaming/images/pub/
-||filmzenstream.com/player.html
 ||finbuzzactu.files.wordpress.com/*/180x150
 ||finbuzzactu.files.wordpress.com/*/240x400
 ||finbuzzactu.files.wordpress.com/*/250x250
@@ -14051,7 +14050,6 @@ amateur2sexe.fr,pornovore.fr##a[href*="://pqr."]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
 jeuxetcompagnie.fr##a[href*="://www.ludeek.com/"] > img
 voyageforum.com##a[href*=";text_ad="]
-filmzenstream.com##a[href*="="]
 mistergooddeal.com##a[href*="=H_pub_"]
 challenges.fr##a[href*="=partenariat&"]
 demo-gk.goyavelab.com##a[href*="?"]
