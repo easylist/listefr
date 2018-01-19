@@ -4320,6 +4320,7 @@ debugger:$popup
 ||linqallgood.net^
 ||litalise.com^
 ||lundered.info^
+||mannela.info^
 ||mationse.info^
 ||messard.com^
 ||messardu.com^
@@ -4383,6 +4384,7 @@ debugger:$popup
 ||versatisfy.com^
 ||vinfrase.info^
 ||wateranik.com^
+||whistorica.info^
 ||whonami.info^
 ||wirefined.com^
 ||womente.info^
@@ -6770,6 +6772,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.to|flashx.tv|gomovies.
 ||maximumwall.com/images/top_ban_
 ||mayakado.net/parrainage/
 ||mb.indecentes-voisines.com^$popup
+||mdhcdn.com^*/banner_
 ||media-fire.org^$popup
 ||media.easybib.com/images/gr_
 ||mediafire.com/file/*.exe|$subdocument
@@ -12269,6 +12272,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##[class*="proadszoneholder-"]
 ##[class^="ads300_600-widget-"]
 ##[class^="ads_inline_"]
+##[class^="jw-ad-block"]
 ##[class^="lig_campaign_"]
 ##[class^="lig_wrapper_ad_"]
 ##[class^="region-pub-bottom-"]
