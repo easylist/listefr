@@ -14648,7 +14648,7 @@ femmesplus.fr##section[id] > img
 @@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
 @@||ebayrtm.com/rtm?RtmCmd&a=json&p=$script,domain=www.befr.ebay.be
 @@||ebayrtm.com/rtm?RtmPreviewContent&$subdocument,domain=www.befr.ebay.be
-@@||euromedicom.online/index.php?option=com_acymailing&*&mailid=$popup
+@@||euromedicom.online^*=com_acymailing&*&mailid=$popup
 @@||fatherandsons.fr^*/opecom/affiliation/
 @@||francesurfinfo.com/affiliation/
 @@||francetelevisions.fr^*/publicite/silverlight.php?
@@ -14685,7 +14685,7 @@ femmesplus.fr##section[id] > img
 @@||partners.doctolib.fr^$subdocument,third-party
 @@||planet-casio.com/images/ad/$image,~third-party
 @@||premiere.fr/inextenso/uploads/300x150_$image,domain=premiere.fr
-@@||prime-journal.online/index.php?option=com_acymailing&*&mailid=$popup
+@@||prime-journal.online^*=com_acymailing&*&mailid=$popup
 @@||quefaire.be/annonces/imgads/$image
 @@||reseauforum.org/*/modules/ad/serve.php?$domain=reseauforum.org
 @@||restoconnection.fr/wp-content/uploads/2014/12/publicite-$domain=restoconnection.fr
