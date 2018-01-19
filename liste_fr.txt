@@ -8077,11 +8077,6 @@ tvad.me##.vjs-overlay-no-background
 $websocket,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortrump.ga|skiip.me|skipp.io|wiid.me
 |http://$subdocument,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortrump.ga|skiip.me|skipp.io|wiid.me
 |https://$subdocument,domain=clkme.me|cllkme.com|destyy.com|gestyy.com|jigbig.tk|newsfortrump.ga|skiip.me|skipp.io|wiid.me
-! coshurl.co
-@@||ads.hyperdebrid.net^$image,script,stylesheet,xmlhttprequest,domain=ads.hyperdebrid.net
-@@||coshurl.co/js/ads.js$script,domain=coshurl.co
-|http://$popup,script,third-party,xmlhttprequest,domain=ads.hyperdebrid.net|coshurl.co
-|https://$popup,script,third-party,xmlhttprequest,domain=ads.hyperdebrid.net|coshurl.co
 ! shrink-service.it
 |http://$subdocument,third-party,domain=shrink-service.it
 |httpS://$subdocument,third-party,domain=shrink-service.it
@@ -14917,7 +14912,6 @@ _blockadblock_
 @@||comptoir.co^$generichide
 @@||conserves.blogspot.ca^$generichide
 @@||coolgames.com^$generichide
-@@||coshurl.co^$generichide
 @@||cours-de-droit.net^$generichide
 @@||curs.io^$generichide
 @@||dl-protect.top^$generichide
@@ -14933,7 +14927,6 @@ _blockadblock_
 @@||flyrelax.com^$generichide
 @@||hashe.in^$generichide
 @@||hentai-vostfr.net^$generichide
-@@||hyperdebrid.net^$generichide
 @@||hyperserv.fr^$generichide
 @@||iiv.pl^$generichide
 @@||iphonetweak.fr^$generichide
