@@ -11214,6 +11214,8 @@ hentaifr.net##a[id^="ga-skin-"]
 ###roundPub
 ###sagreklam
 ###sbPubRegie
+###section-ad
+###section-ad2
 ###sg-pub-980x200
 ###shopper-widget-wrapper
 ###shopper_adsense
@@ -14504,6 +14506,8 @@ iphonetweak.fr##.pub-img
 iphonesoft.fr,iphonetweak.fr##.trc-content-sponsored
 uptobox.com,uptostream.com##a[href^="https://partner.zenmate.com/"]
 ! Filtres de propriété CSS pour Adblock Plus
+radio.fr###section-popular-stations + *
+radio.fr###section-popular-stations > *
 igen.fr##.article > div + [class] [id]:last-child[-abp-properties='background-image:*;']
 macg.co##.article > div > div > [class]:last-child[-abp-properties='background-image:*;']
 igen.fr##.article [-abp-properties='cursor: pointer;']
@@ -14546,8 +14550,9 @@ radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.p
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(inherit;)
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(pointer-events:)
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(position:)
-radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#div[id][style]:-abp-contains(Anzeige)
-radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#div[id][style]:-abp-has(img)
+radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#[class][style]:-abp-contains(Anzeige)
+radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#[id][style]:-abp-contains(Anzeige)
+radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#[id][style]:-abp-has(img)
 ! facebook.com
 facebook.com#?#.userContentWrapper:-abp-contains(Sponsorisé)
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(Sponsorisé))
