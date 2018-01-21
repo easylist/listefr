@@ -7582,6 +7582,9 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.to|flashx.tv|gomovies.
 ! ahlamtv.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=ahlamtv.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=ahlamtv.com
+! animedigitalnetwork.fr
+|http://$script,third-party,domain=animedigitalnetwork.fr
+|https://$script,third-party,domain=animedigitalnetwork.fr
 ! protect-stream.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=protect-stream.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=protect-stream.com
