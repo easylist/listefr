@@ -7540,8 +7540,8 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.to|flashx.tv|gomovies.
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|cpabien.xyz|cpasbien.io|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.info|torrent9.me|torrent9.pe|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.pe|torrents9.tv
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|cpabien.xyz|cpasbien.io|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.info|torrent9.me|torrent9.pe|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.pe|torrents9.tv
 ! nextorrent.net
-|http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.tv|nextorrent.ws|oxtorrent.com
-|https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pw|nextorrent.tv|nextorrent.ws|oxtorrent.com
+|http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pro|nextorrent.pw|nextorrent.tv|nextorrent.ws|oxtorrent.com
+|https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pro|nextorrent.pw|nextorrent.tv|nextorrent.ws|oxtorrent.com
 ! torrentfunk.com
 |http://$ping,script,subdocument,third-party,xmlhttprequest,domain=torrentfunk.com
 |https://$ping,script,subdocument,third-party,xmlhttprequest,domain=torrentfunk.com
@@ -12520,6 +12520,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##a[href*="regie.medncom.com/"]
 ##a[href*="smartadserver.com/call/cliccommand/"] > img
 ##a[href*="smartadserver.com/h/cc?imgid="] > img
+##a[href*="trafficlord.net/"]
 ##a[href*="utm_medium=mega_banniere"] > img
 ##a[href*="weborama.fr/fcgi-bin/"]
 ##a[href*="wow-partners.com/click.php"]
@@ -14325,7 +14326,7 @@ achat-bitcoins.com##a[rel="nofollow"] > img
 zetorrente.fr##a[rel]
 at.ua,ucoz.com,ucoz.net,ucoz.ru,ucoz.ua##a[rel][style*="z-index:"]
 imagecool.org##a[rel][style]
-ahlamtv.com,cloudy.ec,dailyuploads.cc,dailyuploads.net,dl-protecte.com,dl-protecte.org,dragon-ball-super-stream.com,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extreme-down.one,extreme-down.pro,filmstreamz.net,flashx.to,flashx.tv,itswatchseries.to,k-streaming.com,kimcartoon.me,liens-telechargement.com,mp3red.cc,primewire.ag,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,streaming-france.com,vidlox.me,vidlox.tv,viva-stream.info,watchseriesmovie.net,xrares.com,youzik.com##a[style]
+ahlamtv.com,cloudy.ec,dailyuploads.cc,dailyuploads.net,dl-protecte.com,dl-protecte.org,dragon-ball-super-stream.com,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extreme-down.one,extreme-down.pro,filmstreamz.net,flashx.to,flashx.tv,itswatchseries.to,k-streaming.com,kimcartoon.me,liens-telechargement.com,mp3red.cc,nextorrent.pro,primewire.ag,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,streaming-france.com,vidlox.me,vidlox.tv,viva-stream.info,watchseriesmovie.net,xrares.com,youzik.com##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
 mangastreaming.fr,mangastreaming.me,seedpeer.eu##a[target="_blank"]
 4downfiles.org,9divx.org,buzzporn.net,dpstreaming.cx,finobuzz.com,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,mangastreaming.fr,planet-streaming.com,pubfilm.me,serie-streaming.watch,seriezone.org,streaminghd.fr,youwatch-series.com##a[target="_blank"] > img
