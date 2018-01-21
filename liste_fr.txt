@@ -1436,6 +1436,7 @@
 /pubs/?format=728x90
 /pubs/dfp/*
 /pubs/habillage/*
+/pubs_portail/*
 /pulicense.js
 /purch-adops/*
 /query.*?aff=$subdocument
@@ -8913,7 +8914,6 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||free-strip-games.com/swf/
 ||free.fr/images/ouahpub.gif
 ||free.fr/modules/shopping/
-||free.fr/pubs_portail/
 ||free.fr/webmails/pub/
 ||free.fr^*/display_shopping_
 ||free.fr^*/trousse/shopping/
@@ -14078,6 +14078,7 @@ speedvid.net##[id][style*="z-index:"]
 turbo.fr##[id^="ABbypass"]
 bestream.tv##[id^="aff_spion-"]
 comarketing-news.fr##[id^="comar-"]
+free.fr##[id^="dfp_banner"]
 3dnatives.com##[id^="dnati-"]
 mystream.la##[id^="dummyid"]
 crichd.info,liguendirect.com,protect-video.com,sport-team.org,streaming-foot.me##[id^="floatLayer"]
