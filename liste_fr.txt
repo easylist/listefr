@@ -11353,6 +11353,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##.ad-theme-content
 ##.ad-title-megaban
 ##.ad-title-pave
+##.ad-toppage
 ##.ad-tray-728
 ##.ad-unit-after-title
 ##.ad-visible
@@ -11722,6 +11723,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##.conteneur_pub_vertical
 ##.content-ad-bloc
 ##.content-pub-top
+##.criteo-ban
 ##.ctn_ads_twins
 ##.cubes-ads
 ##.custom-advert-banner-frame
@@ -12397,6 +12399,8 @@ hentaifr.net##a[id^="ga-skin-"]
 ##[id^="bunyad_ads_widget-"]
 ##[id^="codeneric_ad_widget-"]
 ##[id^="criteoDivPave"]
+##[id^="dfp_ban_"]
+##[id^="dfp_banner"]
 ##[id^="div-gpt-"] + [id^="ctr-"]
 ##[id^="lig_wrapper_ad_"]
 ##[id^="ligatus-"]
@@ -12684,6 +12688,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##div[id^="block-dfp-728-"]
 ##div[id^="block-views-ads-header-"]
 ##div[id^="block-views-ads-sidebar-"]
+##div[id^="crt-"][data-criteo-id]
 ##div[id^="crt-"][style*="width:"]
 ##div[id^="div-adt-"]
 ##div[id^="pub-dfp-"]
@@ -14090,7 +14095,6 @@ speedvid.net##[id][style*="z-index:"]
 turbo.fr##[id^="ABbypass"]
 bestream.tv##[id^="aff_spion-"]
 comarketing-news.fr##[id^="comar-"]
-free.fr##[id^="dfp_banner"]
 3dnatives.com##[id^="dnati-"]
 mystream.la##[id^="dummyid"]
 crichd.info,liguendirect.com,protect-video.com,sport-team.org,streaming-foot.me##[id^="floatLayer"]
