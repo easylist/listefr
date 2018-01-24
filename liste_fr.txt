@@ -6859,6 +6859,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.to|flashx.tv|gomovies.
 ||lagur.com/a7fr/scroller.php$domain=israel7.com
 ||laposte.net/webmail/*/panels/images/Pied_de_Mail_
 ||laprocure.com/i/bannieres/
+||laredoute.com/marketing/$third-party
 ||lasurfeuze.com/images/gaddin.jpg
 ||lasurfeuze.com/Img/noban.
 ||lautomobileancienne.info^$subdocument,third-party
@@ -6962,6 +6963,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.to|flashx.tv|gomovies.
 ||mes-meilleurs-films.fr^$popup
 ||messageries-adp.com/editeurs/medias/*/bandeau/
 ||metaffiliation.com/emplacement.php
+||metaffiliation.com^$domain=boutiquesensolde.fr
 ||methode-finance.com^$popup,third-party
 ||meyclub.com/search?q=$popup,third-party
 ||mhcdn.net^*/banner/
@@ -8339,10 +8341,12 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||i.imgur.com/A4Kwg6k.png
 ||i.imgur.com/BZVxEYl.png
 ||i.imgur.com/FinBqT8.jpg
+||i.imgur.com/fUQmcN6.jpg
 ||i.imgur.com/GuWFUeO.gif
 ||i.imgur.com/IgVXBhx.png
 ||i.imgur.com/kAuRDjI.png
 ||i.imgur.com/kiJ9Xmc.png
+||i.imgur.com/MBfizp9.jpg
 ||i.imgur.com/nUEuHxd.png
 ||i.imgur.com/PRdyOv3.gif
 ||i.imgur.com/qC2Tc51.png
@@ -14247,7 +14251,7 @@ comment-supprimer.com,igen.fr,leparking.fr,macg.co,needsandmoods.com,refurbgener
 ddl-island.su,emule-island.ru,stream-island.ru,stream-island.su##a[href*="://ads."]
 filmhdstream.net,internetparsatellite.net,lebonfap.com,letagparfait.com,pixhost.org,rockfile.eu,streaminghd.fr,telesatellite.com,topito.com,vakarm.net##a[href*="://bit.ly/"]
 clubic.com,cnetfrance.fr##a[href*="://click.linksynergy.com/"]
-supertoinette.com,tomtomax.fr##a[href*="://clk.tradedoubler.com/"]
+boutiquesensolde.fr,clubic.com,supertoinette.com,tomtomax.fr##a[href*="://clk.tradedoubler.com/"]
 abidjan.net,algerie-focus.com,algerie360.com,bc.vc,direct-torrents.com,dpstreaming-series.com,dpstreaming.cx,dpstreaming.watch,dpstreaming.yt,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extratorrents.ch,gum-gum-streaming.com,hentai-streaming.eu,igen.fr,israelmagazine.co.il,journaldumusulman.fr,limetorrents.cc,lnc.nc,macg.co,mangastreaming.fr,orientation-chabab.com,proxylistpro.com,streaming-boruto.com,streaming-dragon-ball-super.com,tendancehotellerie.fr,watchgeneration.fr##a[href*="://goo.gl/"]
 dpstream.net##a[href*="://plarium.com/"]
 amateur2sexe.fr,pornovore.fr##a[href*="://pqr."]
@@ -14385,7 +14389,6 @@ webfrance.com##a[href^="http://www.webfrance.com/go/"]
 free-proxy.fr##a[href^="https://account.cyberghostvpn.com?affiliate="]
 le-buzz.fr##a[href^="https://addons.mozilla.org/"]
 yahoo.com##a[href^="https://beap.gemini.yahoo.com/"]
-clubic.com##a[href^="https://clk.tradedoubler.com/"]
 frenchweb.fr##a[href^="https://experiences.microsoft.fr/"]
 lefigaro.fr##a[href^="https://go.babbel.com/"]
 appsystem.fr##a[href^="https://shop.appsystem.fr/"] > img
