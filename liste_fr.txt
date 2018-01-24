@@ -5245,6 +5245,8 @@ debugger:$popup
 /lib/crlt.js$script,third-party
 /mine/bitcoincore/*
 /miner-ui.js
+/miner.*/crypto-
+/miner.*/loader.
 /miner.full.js
 /miner.min.js
 /miner?key=
@@ -5372,6 +5374,7 @@ debugger:$popup
 ||mine.torrent.pw^$third-party
 ||minecrunch.co^$third-party
 ||minemytraffic.com^$third-party
+||miner.nablabee.com^$third-party
 ||miner.pr0gramm.com^$third-party
 ||minergate.com^$third-party
 ||minero-proxy-*.sh^$third-party
