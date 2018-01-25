@@ -619,6 +619,7 @@
 /adserverimages/*
 /adservermn/*
 /adserwer.
+/adSettings?
 /adsext/*
 /adsf300.
 /adsleft.
@@ -11044,6 +11045,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ###pmFooterBody
 ###pmFooterMain
 ###pmHeaderMain
+###pmd300x600
 ###popup_pub
 ###post_id_pub
 ###posterAdContainer
@@ -13188,7 +13190,6 @@ topanalyse.com###pid_f
 tayo.fr###pioubhaut
 cinemavf.bz,cinemavf.net,cinemavf.tv,cinemavf.ws,youwatchfilm.co###player > .iframe-vid
 allocine.fr###player-footer
-cuisineactuelle.fr###pmd300x600
 terre.tv###point_part
 grazia.fr,regimea.com###popin
 regimea.com###popin-overlay
@@ -13703,7 +13704,6 @@ maison-travaux.fr##.intersticiel_block
 maison-travaux.fr##.intersticiel_unilin
 bienpublic.com,republicain-lorrain.fr##.iookaz
 ed-protect.org,extreme-down.one,extreme-down.pro##.ip-warning
-cuisineactuelle.fr##.item-ad-header
 jeuxvideo.com##.item-home-accroche-sponso
 largus.fr##.item-partenaire
 dpstream.net##.itemNum_1
@@ -14441,6 +14441,7 @@ zone-telechargement.ws##br + a > img
 igen.fr##br + div + div + div
 zone-telechargement.ws##center > a
 get-my.link##center > a[href$=".php"]
+cuisineactuelle.fr
 urlgone.com##div > #blockInternal
 forumpiscine.com##div#\31
 forumconstruire.com##div#\32
@@ -15063,8 +15064,8 @@ _blockadblock_
 @@||nouvelle-fiat500.fr/ad-pub.js$script
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=4downfiles.org|al.ly|ally.sh|cachemoi.com|cuisineactuelle.fr|dl-protecte.com|dl-protecte.org|forum.softmaroc.org|likeup.fr|ot-boutique.fr|pcastuces.com|protect-lien.com|protect-zt.com|quebeccoupongratuit.com|security-links.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=4downfiles.org|al.ly|ally.sh|cachemoi.com|cuisineactuelle.fr|dl-protecte.com|dl-protecte.org|forum.softmaroc.org|leetgamerz.net|likeup.fr|protect-lien.com|protect-zt.com|qcm-concours.blogspot.fr|quebeccoupongratuit.com|security-links.com|slideplayer.fr|telephoneannuaire.fr
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=4downfiles.org|al.ly|ally.sh|cachemoi.com|dl-protecte.com|dl-protecte.org|forum.softmaroc.org|likeup.fr|ot-boutique.fr|pcastuces.com|protect-lien.com|protect-zt.com|quebeccoupongratuit.com|security-links.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=4downfiles.org|al.ly|ally.sh|cachemoi.com|dl-protecte.com|dl-protecte.org|forum.softmaroc.org|leetgamerz.net|likeup.fr|protect-lien.com|protect-zt.com|qcm-concours.blogspot.fr|quebeccoupongratuit.com|security-links.com|slideplayer.fr|telephoneannuaire.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|pcastuces.com|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
 @@||pla.folue.info/needes.js$script
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
@@ -15230,6 +15231,7 @@ _blockadblock_
 ||minoacloverdale.com^
 ||mukwonagoacampo.com^
 ||munfordwickatunk.com^
+||murraysvilledonnelsville.com^
 ||muscadineoakville.com^
 ||nahuntaveradale.com^
 ||nimitzbushkill.com^
