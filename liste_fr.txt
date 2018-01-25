@@ -5249,6 +5249,7 @@ debugger:$popup
 /cryptonight-worker.
 /cryptonight.wasm
 /deepMiner.js
+/deepMiner.min.js
 /jsecoin.*/?
 /lib/crlt.js$script,third-party
 /mine/bitcoincore/*
@@ -5374,6 +5375,7 @@ debugger:$popup
 ||kiwifarms.net/js/Jawsh/xmr/xmr.min.js
 ||listat.biz^$third-party
 ||lmodr.biz^$third-party
+||m.anyfiles.ovh^
 ||mataharirama.xyz^$third-party
 ||megabanners.cf^$third-party
 ||mercy.ga^$third-party
