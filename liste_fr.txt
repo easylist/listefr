@@ -7676,9 +7676,9 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.to|flashx.tv|gomovies.
 |http://$script,third-party,xmlhttprequest,domain=macgames-download.com|pcgames-download.com|telecharger-jeuxpc.com
 |https://$script,third-party,xmlhttprequest,domain=macgames-download.com|pcgames-download.com|telecharger-jeuxpc.com
 ! zone-telechargement.ws
-@@/engine/classes/min/index.php?charset=$script,~third-party,domain=zone-telechargement.ws
-|http://$script,xmlhttprequest,domain=zone-telechargement.top|zone-telechargement.ws
-|https://$script,xmlhttprequest,domain=zone-telechargement.top|zone-telechargement.ws
+@@/engine/classes/min/index.php?charset=$script,~third-party,domain=zone-telechargement1.com|zone-telechargement1.top
+|http://$script,xmlhttprequest,domain=zone-telechargement.top|zone-telechargement.ws|zone-telechargement1.com|zone-telechargement1.top
+|https://$script,xmlhttprequest,domain=zone-telechargement.top|zone-telechargement.ws|zone-telechargement1.com|zone-telechargement1.top
 ! zone-telechargement.live
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=zone-telechargement.de|zone-telechargement.link|zone-telechargement.live|zone-telechargement.zone
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=zone-telechargement.de|zone-telechargement.link|zone-telechargement.live|zone-telechargement.zone
@@ -14206,7 +14206,7 @@ hqq.tv,hqq.watch##[style^="width: 468px; height: 60px;"]
 lesoir.be##a > [width="300"][height="250"]
 chgdh.xyz,ckgjsq.xyz,cpxkf.xyz,ifp.re,ifpx.xyz,mp3free.pw,piframe.tk,protect-iframe.com,prtsh.xyz##a > div
 jeddl.co##a > font
-zone-telechargement.ws##a > h1
+zone-telechargement1.com,zone-telechargement1.top##a > h1
 protect-lien.com,protect-zt.com##a > img
 basket-infos.com##a > img[alt^="Pub"]
 medialot.fr##a > img[height="250"]
@@ -14215,7 +14215,7 @@ dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,streaming-boruto
 launedalgerie.com##a > img[src^="/images/stories/U"]
 fourchette-et-bikini.fr##a > img[style="width: 660px; height: 190px;"]
 israelmagazine.co.il##a > img[width="238"]
-zone-telechargement.ws##a > span > img
+zone-telechargement1.com,zone-telechargement1.top##a > span > img
 cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
@@ -14448,9 +14448,9 @@ trictrac.net##body > div + .row.align-center.section
 1freebb.com,babaorum.info,bboard.it,bestforum4u.com,bestforumforyou.com,bestoof.com,bestthread.com,bigboardlive.com,bigforum4you.com,boardforyou.com,cforum.info,clicforum.com,clicforum.fr,coolforum.info,discuforum.info,discussionforyou.com,ebboard.com,fansforum.info,forum-box.com,forumdesfans.com,forumforever.com,forumserv.com,forumuslim.com,hereboard.com,hotforum4u.com,hotforumonline.com,leforum.cc,leforum.eu,leforum.tv,level52.com,lolforum.com,lolforum.info,majz.com,myforumlive.com,newforumlive.com,ogameteam.com,phpboard1.com,positiforum.info,quickforum.info,smileforum.info,soforums.com,theforumcity.com,topbboard.com,urtopic.com,vraiforum.com,webrpg.info,xoo.it,xooit.be,xooit.biz,xooit.cc,xooit.co.uk,xooit.com,xooit.eu,xooit.fr,xooit.info,xooit.org,xooit.org.uk,xooit.tv##body > div[id][style*="z-index: 99999999; height: 92px; width: 100%;"]
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
-zone-telechargement.ws##br + a > img
+zone-telechargement1.com,zone-telechargement1.top##br + a > img
 igen.fr##br + div + div + div
-zone-telechargement.ws##center > a
+zone-telechargement1.com,zone-telechargement1.top##center > a
 get-my.link##center > a[href$=".php"]
 cuisineactuelle.fr
 urlgone.com##div > #blockInternal
