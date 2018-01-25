@@ -77,6 +77,7 @@
 &voluumdata=
 &zoneid=*&direct=
 ,728x90&promo_
+,ad_medium2&
 ,popjs|
 -1000x150.$subdocument
 -120-600-
@@ -1718,6 +1719,7 @@
 =/ligatus/
 =250x250&bn=
 =600x100&
+=ad_leaderboard,
 =adunit/
 =ajaxGetAds&
 =banner_*goclick&
@@ -5515,6 +5517,7 @@ debugger:$popup
 ||achat-visiteurs.com^$popup,third-party
 ||active8ads.com^$popup,third-party
 ||activerevenue.com^$popup,third-party
+||actu-quotidien.net^$popup,third-party
 ||ad-center.com^$popup,third-party
 ||ad-online.biz^$popup,third-party
 ||ad-sys.com^$popup,third-party
@@ -6740,7 +6743,7 @@ $subdocument,third-party,domain=adbull.me|e-wok.tv|flashx.to|flashx.tv|gomovies.
 ||golden-blog-awards.fr/votePlugin.$third-party
 ||goo.gl/QavS0C$popup
 ||goo.gl^$domain=anogaming.fr|arab.st|filmcomplet.tv|gum-gum-stream.com|hdmyt.info|robindesdroits.me|thevid.net|uplod.ws|videomega.tv
-||goo.gl^$popup,domain=algerie360.com|easybib.com|lnc.nc|openrunner.com|p0rno.org|seriezone.com|seriezone.org|trackandnews.fr|vkpass.com|za-gay.org
+||goo.gl^$popup,domain=algerie360.com|easybib.com|jeux.com|lnc.nc|openrunner.com|p0rno.org|seriezone.com|seriezone.org|trackandnews.fr|vkpass.com|za-gay.org
 ||googgl.me^$popup,domain=streamingfoot.direct
 ||gopro.com^$popup,domain=tignes.net
 ||gotporn.com/delivery/
@@ -9182,6 +9185,9 @@ $popup,domain=0zz0.com|35.184.169.188|adf.ly|adshort.co|adshort.me|allanalpass.c
 ||jeux-sexe-gratuit.com/img/
 ||jeux-sexe-gratuit.com^$media
 ||jeux-sexe-gratuit.fr/images/banners/
+||jeux.com/img/autopromo/*_hab.
+||jeux.com/img/autopromo/aterno/
+||jeux.com^*.html?ref=
 ||jeux.org/vda/
 ||jeuxetcompagnie.fr/wp-content/uploads/*/Habillage-
 ||jeuxflash.com/jfS/
@@ -11398,10 +11404,12 @@ hentaifr.net##a[id^="ga-skin-"]
 ##.ad-banner-leboat
 ##.ad-boxpursuit
 ##.ad-container
+##.ad-container-pave
 ##.ad-dfp-generic-content
 ##.ad-flow
 ##.ad-halfpage
 ##.ad-halfpage-desktop
+##.ad-image-megaban
 ##.ad-item-990
 ##.ad-item-f
 ##.ad-item-sd
@@ -14186,6 +14194,7 @@ dsih.fr##[id^="pub"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 movietube.live##[id^="video"] a
 filecrypt.cc##[onclick] img
+jeux.com##[onclick][id]
 filecrypt.cc##[onmouseup]
 centrifuge-lemag.fr##[role="banner"] > #cb-logo-box
 amvtv.net##[style*="position: absolute; z-index: 99999"]
@@ -14255,7 +14264,7 @@ ddl-island.su,emule-island.ru,stream-island.ru,stream-island.su##a[href*="://ads
 filmhdstream.net,internetparsatellite.net,lebonfap.com,letagparfait.com,pixhost.org,rockfile.eu,streaminghd.fr,telesatellite.com,topito.com,vakarm.net##a[href*="://bit.ly/"]
 clubic.com,cnetfrance.fr##a[href*="://click.linksynergy.com/"]
 boutiquesensolde.fr,clubic.com,supertoinette.com,tomtomax.fr##a[href*="://clk.tradedoubler.com/"]
-abidjan.net,algerie-focus.com,algerie360.com,bc.vc,direct-torrents.com,dpstreaming-series.com,dpstreaming.cx,dpstreaming.watch,dpstreaming.yt,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extratorrents.ch,gum-gum-streaming.com,hentai-streaming.eu,igen.fr,israelmagazine.co.il,journaldumusulman.fr,limetorrents.cc,lnc.nc,macg.co,mangastreaming.fr,orientation-chabab.com,proxylistpro.com,streaming-boruto.com,streaming-dragon-ball-super.com,tendancehotellerie.fr,watchgeneration.fr##a[href*="://goo.gl/"]
+abidjan.net,algerie-focus.com,algerie360.com,bc.vc,direct-torrents.com,dpstreaming-series.com,dpstreaming.cx,dpstreaming.watch,dpstreaming.yt,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extratorrents.ch,gum-gum-streaming.com,hentai-streaming.eu,igen.fr,israelmagazine.co.il,jeux.com,journaldumusulman.fr,limetorrents.cc,lnc.nc,macg.co,mangastreaming.fr,orientation-chabab.com,proxylistpro.com,streaming-boruto.com,streaming-dragon-ball-super.com,tendancehotellerie.fr,watchgeneration.fr##a[href*="://goo.gl/"]
 dpstream.net##a[href*="://plarium.com/"]
 amateur2sexe.fr,pornovore.fr##a[href*="://pqr."]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
