@@ -1853,6 +1853,7 @@ _barre_pub/
 _bnrrotator_
 _board_ad.
 _code/*/goclick|
+_dfp_conf.js
 _domain=ads.
 _emplacements.*=300x125
 _emplacements.*=300x250
@@ -11915,6 +11916,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##.insert_pub_center
 ##.inside_adv_section
 ##.ipsAdvertisement_large
+##.item-ad-header
 ##.item-izipub
 ##.item-pubb-728
 ##.itemlist-block-pub
@@ -12270,6 +12272,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##.pubwrapper
 ##.purple-ad
 ##.quickads_table
+##.ratio-ad-header
 ##.rd-widget-ads
 ##.recipe-col-droite-ad
 ##.recipe-col-droite-ad-caption
@@ -13730,7 +13733,7 @@ faclic.com##.lbx_content
 faclic.com##.lbx_overlay
 alvinet.com,hotmixradio.fr,jeu.fr,marques.expert,meteovista.be,radiox.com,rtbf.be##.leaderboard
 mappy.com##.leftHabillage
-20minutes.fr,lemonde.fr##.leguide
+20minutes.fr,femmeactuelle.fr,lemonde.fr##.leguide
 actualitte.com##.lienExterne
 laptopspirit.fr,prix-portables.fr##.lien_hab
 laptopspirit.fr,prix-portables.fr##.lien_habillage
