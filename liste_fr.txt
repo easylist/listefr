@@ -445,6 +445,7 @@
 /adcash/728.
 /AdConfig.aspx
 /adCTNRender.
+/addblock.js
 /adengine2/*
 /adengine2_
 /adfever.
@@ -1086,6 +1087,7 @@
 /in_ad_new.
 /inclick.js
 /include/partenaires.
+/includes/adds/*
 /includes/ads.
 /incontext_ads.
 /index.php/tag/iframe/*
@@ -1921,6 +1923,7 @@ digitalocean.gif|
 /frond_der.js
 /frontend_loader.$script
 /frontend_loador.$script
+/frontendz_loader.
 /gofd_fl.js
 /milfs/floader.js
 /neve/fro_lo.
@@ -2167,6 +2170,7 @@ _frontend_loader.$script
 /display/clicks/*$popup
 /display_content.php?id=$popup,third-party
 /earn.php?feed=$popup
+/enter.php?*&id=*cmp=$popup
 /feedclick?$popup
 /fp.rb?*&referrerUrl=$popup
 /fr/adcr/*$popup
@@ -2239,6 +2243,7 @@ _frontend_loader.$script
 /superlink?aff_id=$popup
 /syndication.*?idzone=$popup
 /t/?*&clickid=$popup
+/tour-web/*&tour=*&utm_$popup
 /traffic.*&click_id=$popup
 /trk/|$popup
 /unsub_aff.$popup
@@ -3022,6 +3027,7 @@ debugger:$popup
 ||dvetech.fr^$third-party
 ||dynsrvaba.com^$third-party
 ||e-mailit.com^$third-party
+||earnco.in^$third-party
 ||easy-rencontres.com^$third-party
 ||easygetfreesoft4you.xyz^$third-party
 ||easyrencontre.com^$third-party
@@ -5916,6 +5922,7 @@ debugger:$popup
 ||medncom.com^$popup,third-party
 ||meepwrite.com^$popup,third-party
 ||meetaffiliate.com^$popup,third-party
+||mellowads.com^$popup,third-party
 ||mfpadv.com^$popup,third-party
 ||mftracking.com^$popup,third-party
 ||mistralads.com^$popup,third-party
@@ -6019,6 +6026,7 @@ debugger:$popup
 ||piz7ohhujogi.com^$popup,third-party
 ||pleasewait.co^$popup,third-party
 ||plxnt.com^$popup,third-party
+||poinary-haries.com^$popup,third-party
 ||pompetegain.com^$popup,third-party
 ||popmycash.com^$popup,third-party
 ||poprevenue.com^$popup,third-party
@@ -6054,6 +6062,7 @@ debugger:$popup
 ||pub2srv.com^$popup,third-party
 ||pulseonclick.com^$popup,third-party
 ||pushplay.com^$popup,third-party
+||pvrtx.net^$popup,third-party
 ||pwdplz.com^$popup,third-party
 ||pwwysydh.com^$popup,third-party
 ||px9y26.com^$popup,third-party
@@ -12695,6 +12704,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##a[href^="http://mytogolinks.com/?"]
 ##a[href^="http://partner.global-espace.com/"]
 ##a[href^="http://plateforme.flinteractive.fr/affiliation/lead/clic?"]
+##a[href^="http://poinary-haries.com/"]
 ##a[href^="http://porno.pornocrados.com/"]
 ##a[href^="http://promo.vador.com/"]
 ##a[href^="http://propellerads.com/?rfd="]
