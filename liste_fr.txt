@@ -1033,6 +1033,8 @@
 /gestionpub/*
 /get.cgi?*=banner
 /get_banniere.php?$subdocument
+/getAdCode&
+/getAdCode.
 /getadsor.
 /getAdvancedPartnerDiv.
 /getDlAd?
@@ -1722,8 +1724,12 @@
 ;pubId=*;placementId=
 =/ads.js|
 =/ligatus/
-=250x250&bn=
+=120x600&
+=250x250&
+=300x600&
+=336x280&
 =600x100&
+=970x90&
 =ad_leaderboard,
 =adunit/
 =ajaxGetAds&
