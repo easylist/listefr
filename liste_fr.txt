@@ -5133,8 +5133,10 @@ debugger:$popup
 .faith^$third-party,websocket
 .fun^$third-party,websocket
 .ga^$third-party,websocket
+.gq^$third-party,websocket
 .men^$third-party,websocket
 .ml^$third-party,websocket
+.ovh^$third-party,websocket
 .party^$third-party,websocket
 .pro^$third-party,websocket
 .racing^$third-party,websocket
@@ -5150,6 +5152,8 @@ debugger:$popup
 .win^$third-party,websocket
 .xyz^$third-party,websocket
 .zone^$third-party,websocket
+/ajcm-inject.
+/ajcryptominer/*
 /authedmine.min.js
 /authedminer.js
 /bitcoin-plus-miner/*
@@ -5215,6 +5219,7 @@ debugger:$popup
 ||ad-miner.com^$third-party
 ||adminer.com^$third-party
 ||afminer.com^$third-party
+||ajplugins.com^$third-party
 ||aleinvest.xyz^$third-party
 ||alemoney.xyz^$third-party
 ||altpool.pro^$third-party
@@ -5234,6 +5239,7 @@ debugger:$popup
 ||bjorksta.men^$third-party
 ||bowithow.com^$third-party
 ||browsermine.com^$third-party
+||byebye.ml^$third-party
 ||c0i8h8ac7e.bid^$third-party
 ||candid.zone^$third-party
 ||cdnfile.xyz^$third-party
