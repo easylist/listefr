@@ -5255,6 +5255,7 @@ debugger:$popup
 /coinhive-proxy-
 /coinhive.min.js
 /coinlab.js
+/crypto-webminer.com.$domain=~crypto-webminer.com
 /cryptocpu.js
 /cryptonight-worker.
 /cryptonight.wasm
@@ -5285,6 +5286,7 @@ debugger:$popup
 /XMR-monero.js
 ://*.space:8443/|$third-party,websocket
 ://api.*.space/lib/native.wasm$third-party
+?proxy=*?pool=
 ?proxy=wss://mine.
 ||1beb2a44.space^$third-party
 ||1q2w3.fun^$third-party
@@ -5348,10 +5350,13 @@ debugger:$popup
 ||cookiescriptcdn.pro^$third-party
 ||crypto-coins.club^$third-party
 ||crypto-loot.com^$third-party
+||crypto-webminer.com^$third-party
 ||cryptobara.com^$third-party
 ||cryptoloot.pro^$third-party
 ||cryptomine.pro^$third-party
 ||cryptonoter.com^$third-party
+||cryweb.github.io^
+||crywebber.github.io^
 ||csgocpu.com^$third-party
 ||deepc.cc^$third-party
 ||dle-news.pw^$third-party
@@ -5361,6 +5366,7 @@ debugger:$popup
 ||flare-analytics.com^$third-party
 ||flu.cc^$third-party
 ||g-content.bid^$third-party
+||github.io^*?proxy=ws:$third-party
 ||goredirect.party^$third-party
 ||gridiogrid.com^$third-party
 ||gus.host^$third-party
