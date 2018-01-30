@@ -5142,7 +5142,11 @@ debugger:$popup
 ||vatname.info^
 ||zharezhi.info^
 ! Mining
+-coin-hive.js
+-coin-hive/
 -monero-miner-$script
+-monero-miner.$domain=~wp-monero-miner.com
+-monero-miner/
 .accountant^$third-party,websocket
 .bid^$third-party,websocket
 .cf^$third-party,websocket
