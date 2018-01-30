@@ -795,6 +795,7 @@
 /banner?sid=
 /banner_*?size=$subdocument
 /banner_160x60.
+/banner_ads3.
 /banner_ads?
 /banner_adv.
 /banner_adv2.
@@ -14994,6 +14995,7 @@ _adblockdetector/
 _blockadblock_
 !
 ||firstonetv.eu/js/app?
+||icalendrier.fr/js/abp.js
 ||justgeek.fr^*/wp-content-uploads-
 ||larascasse.fr/forum/uploads/javascript_core/plugins_plugins.js
 ||maisonbrico.com/theme/min/$script
