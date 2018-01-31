@@ -5464,6 +5464,7 @@ debugger:$popup
 ||46.101.101.204^$popup,third-party
 ||46.101.125.$popup,third-party
 ||46.101.139.152^$popup,third-party
+||5.135.12.64^$popup,third-party
 ||5.39.67.191^$popup,third-party
 ||52.51.50.245^$popup,third-party
 ||54.200.58.62^$popup,third-party
@@ -5528,6 +5529,7 @@ debugger:$popup
 ||adpeace.one^$popup,third-party
 ||adpile.net^$popup,third-party
 ||adquantix.com^$popup,third-party
+||adrianomoretti.com^$popup,third-party
 ||ads-in-games.com^$popup,third-party
 ||ads2rtb.com^$popup,third-party
 ||adsawesome.com^$popup,third-party
@@ -5970,6 +5972,7 @@ debugger:$popup
 ||paclitor.com^$popup,third-party
 ||pafpaf.com^$popup,third-party
 ||pafutos.com^$popup,third-party
+||panection.co^$popup,third-party
 ||partagedefichiers.com^$popup,third-party
 ||pathere.info^$popup,third-party
 ||pdn-1.com^$popup,third-party
@@ -5984,6 +5987,7 @@ debugger:$popup
 ||performanceadexchange.com^$popup,third-party
 ||peritas247.info^$popup,third-party
 ||pertholin.com^$popup,third-party
+||pipeschannels.com^$popup,third-party
 ||piz7ohhujogi.com^$popup,third-party
 ||pleasewait.co^$popup,third-party
 ||plxnt.com^$popup,third-party
@@ -6211,6 +6215,7 @@ debugger:$popup
 ||xmediaserve.com^$popup,third-party
 ||xmladserver.com^$popup,third-party
 ||xttaff.com^$popup,third-party
+||xxlargepop.com^$popup,third-party
 ||xxltraffic.biz^$popup,third-party
 ||yes-messenger.com^$popup,third-party
 ||yesmessenger.com^$popup,third-party
@@ -6702,6 +6707,7 @@ $subdocument,third-party,domain=1ink.cc|adbull.me|e-wok.tv|flashx.to|flashx.tv|g
 ||generation-nt.com/img/ovh/
 ||gerardmerinfo.fr/pub/
 ||getcpm.com/devpoint.png
+||getsl.me^$script,third-party
 ||getsurl.com^$script,third-party
 ||ggc.ninja^$subdocument
 ||gifsauce.com/widgets?
@@ -8184,9 +8190,9 @@ tvad.me##.vjs-overlay-no-background
 |http://$subdocument,third-party,domain=getcpm.com
 |https://$subdocument,third-party,domain=getcpm.com
 ! gsurl.me
-@@||ajax.googleapis.com/ajax/libs/$script,domain=g5u.pw|gsurl.in|gsurl.me
-|http://$script,third-party,xmlhttprequest,domain=g5u.pw|gsurl.in|gsurl.me
-|https://$script,third-party,xmlhttprequest,domain=g5u.pw|gsurl.in|gsurl.me
+@@||ajax.googleapis.com/ajax/libs/$script,domain=g5u.pw|getsl.me|gsurl.in|gsurl.me
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=g5u.pw|getsl.me|gsurl.in|gsurl.me
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=g5u.pw|getsl.me|gsurl.in|gsurl.me
 ! adshort.co
 @@||google.com/recaptcha/$subdocument,domain=adshort.co|adshort.me
 |http://$script,subdocument,third-party,xmlhttprequest,domain=adshort.co|adshort.me
@@ -13591,7 +13597,7 @@ seasons.fr##.colsEditoMainMS
 allocine.fr##.coltop
 bitcoincours.com##.column-left-inner
 20minutes.fr##.communication
-g5u.pw,gsurl.in,gsurl.me##.container
+g5u.pw,getsl.me,gsurl.in,gsurl.me##.container
 pagesjaunes.fr##.containerPdsSitesPartenaires
 strastv.com##.container_pubh_02
 largus.fr##.conteneur-sas
@@ -14425,7 +14431,7 @@ achat-bitcoins.com##a[rel="nofollow"] > img
 zetorrente.fr##a[rel]
 at.ua,ucoz.com,ucoz.net,ucoz.ru,ucoz.ua##a[rel][style*="z-index:"]
 imagecool.org##a[rel][style]
-ahlamtv.com,arabloads.net,cloudy.ec,dailyuploads.cc,dailyuploads.net,dl-protecte.com,dl-protecte.org,dragon-ball-super-stream.com,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extreme-down.one,extreme-down.pro,filmstreamz.net,flashx.to,flashx.tv,gnula.nu,itswatchseries.to,k-streaming.com,kimcartoon.me,liens-telechargement.com,mp3red.cc,nextorrent.pro,pefilme.net,primewire.ag,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,streaming-france.com,vidlox.me,vidlox.tv,viva-stream.info,watchseriesmovie.net,xrares.com,youzik.com##a[style]
+ahlamtv.com,arabloads.net,cloudy.ec,dailyuploads.cc,dailyuploads.net,dl-protecte.com,dl-protecte.org,dragon-ball-super-stream.com,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extreme-down.one,extreme-down.pro,filmstreamz.net,flashx.to,flashx.tv,g5u.pw,getsl.me,getsurl.com,gnula.nu,gsurl.in,gsurl.me,itswatchseries.to,k-streaming.com,kimcartoon.me,liens-telechargement.com,mp3red.cc,nextorrent.pro,pefilme.net,primewire.ag,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,streaming-france.com,vidlox.me,vidlox.tv,viva-stream.info,watchseriesmovie.net,xrares.com,youzik.com##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
 mangastreaming.fr,mangastreaming.me,seedpeer.eu##a[target="_blank"]
 4downfiles.org,9divx.org,buzzporn.net,dpstreaming.cx,finobuzz.com,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,mangastreaming.fr,planet-streaming.com,pubfilm.me,serie-streaming.watch,seriezone.org,streaminghd.fr,youwatch-series.com##a[target="_blank"] > img
