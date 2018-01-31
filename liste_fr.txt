@@ -4225,7 +4225,8 @@ debugger:$popup
 ||xvika.com^
 ||zbwttofskjnc.com^
 ! iframe / popunder
-/^https?:\/\/(?!disqus\.)([a-z]+)\.(com|info)\/([0-9a-zA-Z\+\/]){420,460}/$subdocument,third-party
+/^http:\/\/([a-z]+){5,12}\.info\/([0-9a-zA-Z\+\/]){138,140}/$image,third-party
+/^http?:\/\/(?!disqus\.)([a-z]+)\.(com|info)\/([0-9a-zA-Z\+\/]){400,460}/$subdocument,third-party
 ||abarrange.info^
 ||abourself.com^
 ||achiname.info^
@@ -4347,6 +4348,7 @@ debugger:$popup
 ||ourinstance.info^
 ||overely.com^
 ||paintainu.info^
+||parabled.info^
 ||paradition.com^
 ||particulum.com^
 ||partlepool.com^
@@ -13577,6 +13579,7 @@ lejsl.com##.campaignImage
 lacentrale.fr##.caradisiac
 tomsguide.fr##.carousel-multi-css-side
 psychologies.com##.carrousel_partenaires
+frandroid.com##.category-bons-plans
 phonandroid.com##.category-publicite
 girlsgogames.fr##.categoryBanner
 android-dz.com##.cb-sidebar-widget
@@ -13626,7 +13629,6 @@ tsa-algerie.com##.ekk-footer-ad-wrapper
 batiactu.com##.emploi
 wp-infinity.com##.entry-featured
 jemangejemincis.fr,vpntorrent.com##.entry-footer
-frandroid.com##.espace-sony-widget
 ruedesjoueurs.com##.esspo232x70
 ruedesjoueurs.com##.esspo736x110
 easyvoyage.com##.esv-pub-300-250
@@ -13687,7 +13689,6 @@ medialot.fr##.header-sub
 geek-malin.fr##.header-widget-area
 equirodi.be##.header_adv
 lexpress.fr##.header_content_edito
-frandroid.com##.header_htr
 vakarm.net##.header_logo + div > table tr > td > a[target="_blank"]
 ouiounon.net##.headertitrelien[target="_blank"]
 le-buzz.fr##.hide
@@ -13750,7 +13751,6 @@ foot01.com##.lig
 trackitonline.org,trackitonline.ru##.liketable
 ultim-telechargementz.com##.line + .padding > [style] a > img
 pagesjaunes.fr##.linkPushEmbauche
-frandroid.com##.link_htr
 mavieencouleurs.fr##.list-brands-carousel
 lequipement.fr##.listepartenairecomplete
 msn.com##.logo > a[target="_blank"] > img[width="300"]
@@ -13824,7 +13824,7 @@ football.fr##.oas-middle
 nouvelobs.com##.obs-pub
 galaxynote.fr##.offre
 aujourdhui-en-france.fr,leparisien.fr##.offresStage
-frandroid.com,numerama.com##.oopnative
+numerama.com##.oopnative
 wamiz.com##.orange
 jumia.ma##.osh-partnership
 lefigaro.fr##.oto-blocvit
@@ -13892,7 +13892,6 @@ boursorama.com##.promo + .visible-desktop[style$="display: block;"]
 challenges.fr,nouvelobs.com##.promo-bottom-art
 meteomedia.com##.promo-box
 01net.com##.promo-extend-pub
-frandroid.com##.promo-sony
 orange.fr##.promo_sur_etage
 pornojeune.net##.promo_texte2
 msn.com##.promobanner
@@ -13980,7 +13979,6 @@ jds.fr##.regie_20
 archimag.com##.region-before-content
 igen.fr,macg.co,watchgeneration.fr##.region-pubheader
 jeux-e.com##.rek_ban
-frandroid.com##.relatedviatopic
 dhnet.be,lalibre.be##.relookingHtml
 omgtorrent.me##.rencontres
 kelkoo.fr##.results-lrec
@@ -14126,7 +14124,6 @@ rtl.be##.w-content-details-ligatus
 journaldumusulman.fr##.wallpaper-link
 pornovore.fr##.webcams
 slappyto.net##.webrox._300x250.centered
-frandroid.com##.widget.widget_text
 joueurdugrenier.fr##.widgetAmis
 joueurdugrenier.fr##.widgetVrac
 hinata-online-community.fr##.widget_affiliation_widget
@@ -14648,6 +14645,7 @@ extreme-down.pro#?#a:-abp-contains(usenet)
 femmesplus.fr,igen.fr,medisite.fr#?#:-abp-properties(cursor: pointer;)
 forumconstruire.com#?#div.post_classic:-abp-has(.post_classic_pseudo:-abp-contains(Autopromo))
 forumpiscine.com#?#div[id][class^="postbox_forum_"]:-abp-has(.forum_pseudo_contener:-abp-contains(Autopromo))
+frandroid.com#?#.post-preview:-abp-has(.sponsoring-brand-link)
 ifp.re,ifpx.xyz,mp3free.pw,pandos2play.free.fr,piframe.tk,protect-stream.com,ultimate-catch.eu,soap-passion.com#?#:-abp-properties(opacity:)
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(!important;)
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(cursor:)
