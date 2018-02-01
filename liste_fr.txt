@@ -244,6 +244,7 @@
 .php?*&bannerid*campaignid=
 .php?*&size=*&synergie=
 .php?*&synergie=*&size=
+.php?ads&
 .php?aid=pause_
 .php?banner=$subdocument
 .php?file=ads/
@@ -1849,6 +1850,7 @@ _ad_literature.
 _ad_unit.
 _ad_view_
 _adagency_
+_adb&*&partnerId=
 _adcitrik_
 _adclick_$subdocument
 _adpath_$subdocument
