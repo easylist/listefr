@@ -2649,6 +2649,7 @@ debugger:$popup
 ||adscoo.com^$third-party
 ||adsearch.pl^$third-party
 ||adsensecustomsearchads.com^$third-party
+||adsenseguard.com^$third-party
 ||adserpub.com^$third-party
 ||adserver.pm^$third-party
 ||adserveradulte.com^$third-party
@@ -5242,7 +5243,6 @@ debugger:$popup
 ?proxy=wss://$script,websocket
 ||1beb2a44.space^$third-party
 ||1q2w3.fun^$third-party
-||1q2w3.me^
 ||1q2w3.me^$third-party
 ||300ca0d0.space^$third-party
 ||310ca263.space^$third-party
@@ -5265,6 +5265,7 @@ debugger:$popup
 ||alemoney.xyz^$third-party
 ||altpool.pro^$third-party
 ||analytics.blue^$third-party
+||andlache.com^$third-party
 ||api.inwemo.com^$third-party
 ||aqqgli3vle.bid^$third-party
 ||authedmine.com^$third-party,domain=~coinhive.com
@@ -5280,6 +5281,7 @@ debugger:$popup
 ||bjorksta.men^$third-party
 ||bowithow.com^$third-party
 ||browsermine.com^$third-party
+||butcalve.com^$third-party
 ||byebye.ml^$third-party
 ||c0i8h8ac7e.bid^$third-party
 ||candid.zone^$third-party
@@ -5319,6 +5321,7 @@ debugger:$popup
 ||devphp.org.ua^$third-party
 ||dle-news.pw^$third-party
 ||dovinate.top^$third-party
+||evengparme.com^$third-party
 ||fastcast.nz^$third-party
 ||fge9vbrzwt.bid^$third-party
 ||flare-analytics.com^$third-party
@@ -5326,11 +5329,12 @@ debugger:$popup
 ||g-content.bid^$third-party
 ||github.io^*?proxy=ws:$third-party
 ||goredirect.party^$third-party
-||gridiogrid.com^
+||gridiogrid.com^$third-party
 ||gus.host^$third-party
 ||hallaert.online^$third-party
 ||hashforcash.us^$third-party
 ||hashing.win^$third-party
+||hatcalter.com^$third-party
 ||hegrinhar.com^$third-party
 ||hemnes.win^$third-party
 ||hive.tubetitties.com^
@@ -5340,7 +5344,7 @@ debugger:$popup
 ||hodling.science^$third-party
 ||host.d-ns.ga^$third-party
 ||igg.biz^$third-party
-||igrid.org^
+||igrid.org^$third-party
 ||ingorob.com^$third-party
 ||inwemo.com^$third-party
 ||joyreactor.cc/v/$script
@@ -5351,12 +5355,14 @@ debugger:$popup
 ||jsecoin.com^$third-party
 ||jyhfuqoh.info^$third-party
 ||kdowqlpt.info^$third-party
+||kedtise.com^$third-party
 ||kinoprofi.org^$third-party
 ||kiwifarms.net/js/Jawsh/xmr/xmr.min.js
+||ledinund.com^$third-party
 ||listat.biz^$third-party
 ||lmodr.biz^$third-party
 ||m.anyfiles.ovh^
-||mataharirama.xyz^
+||mataharirama.xyz^$third-party
 ||megabanners.cf^$third-party
 ||mercy.ga^$third-party
 ||mine.nahnoji.cz^
@@ -5381,11 +5387,12 @@ debugger:$popup
 ||morningdigit.com^$third-party
 ||mutuza.win^$third-party
 ||nahnoji.cz^$third-party
+||nathetsof.com^$third-party
 ||nfwebminer.com^$third-party
 ||noblock.pro^$third-party
 ||now.sh/*.wasm$third-party
 ||nut.cc^$third-party
-||ogrid.org^
+||ogrid.org^$third-party
 ||okeyletsgo.ml^$third-party
 ||onlinereserchstatistics.online^$third-party
 ||openkatalog.com^$subdocument
@@ -5395,7 +5402,7 @@ debugger:$popup
 ||podrltid.info^$third-party
 ||ppoi.org^$third-party
 ||projectpoi.com^$third-party
-||reasedoper.pw^
+||reasedoper.pw^$third-party
 ||refunevent.com^$third-party
 ||rencohep.com^$third-party
 ||renhertfo.com^$third-party
@@ -5413,7 +5420,7 @@ debugger:$popup
 ||smectapop12.pl^$third-party
 ||sparechange.io^$third-party
 ||sparnove.com^$third-party
-||stat0808.info^
+||stat0808.info^$third-party
 ||static-cnt.bid^$third-party
 ||statistic.date^$third-party
 ||subloader.cf^$third-party
@@ -5429,6 +5436,7 @@ debugger:$popup
 ||usa.cc^$third-party
 ||vcfs6ip5h6.bid^$third-party
 ||veritrol.com^$third-party
+||verresof.com^$third-party
 ||vzhjnorkudcxbiy.com^
 ||webassembly.stream^$third-party
 ||webmine.cz^$third-party
@@ -5436,7 +5444,8 @@ debugger:$popup
 ||webminepool.com^$third-party
 ||webminepool.tk^$third-party
 ||webxmr.com^$third-party
-||whathyx.com^
+||whathyx.com^$third-party
+||witthethim.com^$third-party
 ||wsp.marketgid.com^$third-party
 ||wty46.com^$third-party
 ||xbasfbno.info^$third-party
