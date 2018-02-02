@@ -2047,6 +2047,7 @@ _frontend_loader.$script
 ||gdn^*&campaign_id=$third-party
 ||gdn^*&impid=$third-party
 ||info/?tid=$script,third-party
+||space/?tid=
 ||xyz^*?pub=*&gateid=$script
 !
 !------------------------ Génériques popup -----------------------!
@@ -3928,6 +3929,7 @@ debugger:$popup
 ||webauditoire.com^$third-party
 ||webcamdate.fr^$third-party
 ||webconcours.fr^$third-party
+||webma.space^$third-party
 ||webmanager.biz^$third-party
 ||webmasteroo.com^$third-party
 ||webtv-sexe.com^$third-party
@@ -14462,7 +14464,7 @@ achat-bitcoins.com##a[rel="nofollow"] > img
 zetorrente.fr##a[rel]
 at.ua,ucoz.com,ucoz.net,ucoz.ru,ucoz.ua##a[rel][style*="z-index:"]
 imagecool.org##a[rel][style]
-ahlamtv.com,arabloads.net,cloudy.ec,dailyuploads.cc,dailyuploads.net,dl-protecte.com,dl-protecte.org,dragon-ball-super-stream.com,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extreme-down.one,extreme-down.pro,filmstreamz.net,flashx.to,flashx.tv,g5u.pw,getsl.me,getsurl.com,gnula.nu,gsurl.in,gsurl.me,gum-gum-stream.com,itswatchseries.to,k-streaming.com,kimcartoon.me,liens-telechargement.com,mp3red.cc,nextorrent.pro,pefilme.net,primewire.ag,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,streaming-france.com,vidlox.me,vidlox.tv,viva-stream.info,watchseriesmovie.net,xrares.com,youzik.com##a[style]
+1nowvideo.com,3nowvideo.com,5nowvideo.com,6nowvideo.com,ahlamtv.com,arabloads.net,auroravid.to,bitvid.sx,cloudtime.to,cloudy.ec,dailyuploads.cc,dailyuploads.net,dl-protecte.com,dl-protecte.org,dragon-ball-super-stream.com,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extreme-down.one,extreme-down.pro,filmstreamz.net,flashx.to,flashx.tv,g5u.pw,getsl.me,getsurl.com,gnula.nu,gsurl.in,gsurl.me,gum-gum-stream.com,itswatchseries.to,k-streaming.com,kimcartoon.me,liens-telechargement.com,mp3red.cc,nextorrent.pro,nowvideo.ag,nowvideo.co,nowvideo.cz,nowvideo.ec,nowvideo.li,nowvideo.sx,nowvideo.to,pefilme.net,primewire.ag,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,streaming-france.com,vidlox.me,vidlox.tv,viva-stream.info,watchseriesmovie.net,wholecloud.net,xrares.com,youzik.com##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
 mangastreaming.fr,mangastreaming.me,seedpeer.eu##a[target="_blank"]
 4downfiles.org,9divx.org,buzzporn.net,dpstreaming.cx,finobuzz.com,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,mangastreaming.fr,planet-streaming.com,pubfilm.me,serie-streaming.watch,seriezone.org,streaminghd.fr,youwatch-series.com##a[target="_blank"] > img
@@ -15086,7 +15088,6 @@ _blockadblock_
 @@||arpa7com.com/js/ads.js$script,domain=arpa7com.com
 @@||ay.gy/static/js/advert.js$script,domain=adf.ly|ay.gy|babblecase.com|download.replaymod.com|go.awanpc.me|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|rd1.gamecopyworld.click
 @@||badibadou.eu/*.js?auto=$script,third-party
-@@||c.ad6media.fr/l.js$domain=eternitygames.org|fan-de-cinema.com|fit.sh|programmes-cinema.com
 @@||cdscdn.com/Js/advertise.js$script
 @@||coinlink.us/js/ads.js$script,domain=coinlink.us
 @@||curs.io/js/ads.js$script,domain=curs.io
@@ -15104,7 +15105,6 @@ _blockadblock_
 @@||laprovence.com/sites/all/themes/lpv4/js/ads.js
 @@||linkbucks.com/scripts/script-adv.js$script,third-party
 @@||manga-vf.fr/catalog/view/javascript/ads.js$script,domain=manga-vf.fr
-@@||mymanga.io/css/ads.css|$stylesheet
 @@||nouvelle-fiat500.fr/ad-pub.js$script
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
@@ -15113,7 +15113,6 @@ _blockadblock_
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|pcastuces.com|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
 @@||pla.folue.info/needes.js$script
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
-@@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
 @@||shink.*/js/adframe.js$script,domain=shink.in|shink.me
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|portail.free.fr
 @@||static-v.com/lib/js/_source/blockadblock.js$script,domain=vtele.ca
