@@ -1965,7 +1965,7 @@ _frontend_loader.$script
 ! regex
 /\.(asia|co|com|net|pro)\/[0-9a-zA-Z]{64}$/$script,third-party
 /\.(com|fr|net|org)\/data\/[0-9a-f]{32}\/[0-9a-f]{32}\.(gif|jpg)$/$image
-/\.(com|info)\/[a-zA-Z0-9\+\/]{64,}/$image,ping,third-party,domain=adf.ly|ay.gy|babblecase.com|daclips.com|daclips.in|dl-protecte.com|dl-protecte.org|filesupload.org|flashx.to|flashx.tv|flowyourvideo.com|footstream.tv|gamecopyworld.click|gorillavid.in|j.gs|justmp4.com|kaitect.com|lavamovies.com|listentoyoutube.com|movpod.in|mystream.la|onmovies.to|opensubtitles.org|picocurl.com|pintient.com|planet-streaming.com|powvideo.net|protect-lien.com|protect-zt.com|q.gs|replaymod.com|security-links.com|torrentfunk.com|toussports.info|uptobox.com|uptostream.com|vidgg.to|vidto.me|vidtod.com|vidtod.me|vidtodo.com|voirfilms.ws|watchvideo.us|zone-telechargement.de|zone-telechargement.link|zone-telechargement.live|zone-telechargement.zone
+/\.(com|info)\/[a-zA-Z0-9\+\/]{64,}/$image,ping,third-party,domain=adf.ly|ay.gy|babblecase.com|daclips.com|daclips.in|dl-protect1.com|dl-protecte.com|dl-protecte.org|filesupload.org|flashx.to|flashx.tv|flowyourvideo.com|footstream.tv|gamecopyworld.click|gorillavid.in|j.gs|justmp4.com|kaitect.com|lavamovies.com|listentoyoutube.com|movpod.in|mystream.la|onmovies.to|opensubtitles.org|picocurl.com|pintient.com|planet-streaming.com|powvideo.net|protect-lien.com|protect-zt.com|q.gs|replaymod.com|security-links.com|torrentfunk.com|toussports.info|uptobox.com|uptostream.com|vidgg.to|vidto.me|vidtod.com|vidtod.me|vidtodo.com|voirfilms.ws|watchvideo.us|zone-telechargement.de|zone-telechargement.link|zone-telechargement.live|zone-telechargement.zone
 /\.canal-plus\.net\.s0\.frz\.io\/image\/[\d]{2}\/[\d]{1}\/[\d]{6}\.jpg/$image
 /\.com\/[0-9a-z]{8}\.js#spot\=[0-9]{5}$/$script
 /\/[a-z]{1,3}\?zoneId\=\d{7}\-\d{7}$/$script
@@ -7679,10 +7679,10 @@ $subdocument,third-party,domain=1ink.cc|adbull.me|e-wok.tv|flashx.to|flashx.tv|g
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org|ex-down.com|ex-down.net|ex-down.org|exdown.net|exdown.org|extreme-down.cc|extreme-down.co|extreme-down.in|extreme-down.me|extreme-down.one|extreme-down.org|extreme-down.pro|extreme-streaming.com|extreme-streaming.net|extreme-up.com
 ||extreme-down.pro^$popup,script,~third-party
 ! dl-protecte.org
-@@||ajax.googleapis.com/ajax/libs/$script,domain=dl-protecte.com|dl-protecte.org|liens-telechargement.com|protect-lien.com|protect-zt.com|security-links.com
-|http://$image,script,subdocument,third-party,xmlhttprequest,domain=dl-protecte.com|dl-protecte.org|liens-telechargement.com|protect-lien.com|protect-zt.com|security-links.com
-|https://$image,script,subdocument,third-party,xmlhttprequest,domain=dl-protecte.com|dl-protecte.org|liens-telechargement.com|protect-lien.com|protect-zt.com|security-links.com
-||boncoin-annonce.com^$popup,domain=dl-protecte.com|dl-protecte.org|liens-telechargement.com|protect-lien.com|protect-zt.com|protecte-link.com|security-links.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=dl-protect1.com|dl-protecte.com|dl-protecte.org|liens-telechargement.com|protect-lien.com|protect-zt.com|security-links.com
+|http://$image,script,subdocument,third-party,xmlhttprequest,domain=dl-protect1.com|dl-protecte.com|dl-protecte.org|liens-telechargement.com|protect-lien.com|protect-zt.com|security-links.com
+|https://$image,script,subdocument,third-party,xmlhttprequest,domain=dl-protect1.com|dl-protecte.com|dl-protecte.org|liens-telechargement.com|protect-lien.com|protect-zt.com|security-links.com
+||boncoin-annonce.com^$popup,domain=dl-protect1.com|dl-protecte.com|dl-protecte.org|liens-telechargement.com|protect-lien.com|protect-zt.com|protecte-link.com|security-links.com
 ! streaming-kids.com
 |http://$script,third-party,xmlhttprequest,domain=streaming-kids.com
 |https://$script,third-party,xmlhttprequest,domain=streaming-kids.com
@@ -14465,7 +14465,7 @@ extreme-down.one,extreme-down.pro##a[id]
 aol.fr##a[name="om_quicknav_quick-nav-amazon_global"]
 degrouptest.com##a[onclick*="/resultspage/"]
 lien-torrent.com##a[onclick*="directlinks"]
-chgdh.xyz,ckgjsq.xyz,cpxkf.xyz,dl-protecte.com,dl-protecte.org,filerio.in,free-telechargement.co,ifp.re,ifpx.xyz,libertyvf.com,liens-telechargement.com,mp3free.pw,planet-series.co,protect-iframe.com,protect-lien.com,protect-zt.com,protecte-link.com,prtsh.xyz,speedvid.net,ultim-telechargementz.com,wawacity.ec##a[onclick]
+chgdh.xyz,ckgjsq.xyz,cpxkf.xyz,dl-protect1.com,dl-protecte.com,dl-protecte.org,filerio.in,free-telechargement.co,ifp.re,ifpx.xyz,libertyvf.com,liens-telechargement.com,mp3free.pw,planet-series.co,protect-iframe.com,protect-lien.com,protect-zt.com,protecte-link.com,prtsh.xyz,speedvid.net,ultim-telechargementz.com,wawacity.ec##a[onclick]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
@@ -14473,7 +14473,7 @@ achat-bitcoins.com##a[rel="nofollow"] > img
 zetorrente.fr##a[rel]
 at.ua,ucoz.com,ucoz.net,ucoz.ru,ucoz.ua##a[rel][style*="z-index:"]
 imagecool.org##a[rel][style]
-1nowvideo.com,3nowvideo.com,5nowvideo.com,6nowvideo.com,ahlamtv.com,arabloads.net,auroravid.to,bitvid.sx,cloudtime.to,cloudy.ec,dailyuploads.cc,dailyuploads.net,dl-protecte.com,dl-protecte.org,dragon-ball-super-stream.com,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extreme-down.one,extreme-down.pro,filmstreamz.net,flashx.to,flashx.tv,g5u.pw,getsl.me,getsurl.com,gnula.nu,gsurl.in,gsurl.me,gum-gum-stream.com,itswatchseries.to,k-streaming.com,kimcartoon.me,liens-telechargement.com,mp3red.cc,nextorrent.pro,nowvideo.ag,nowvideo.co,nowvideo.cz,nowvideo.ec,nowvideo.li,nowvideo.sx,nowvideo.to,pefilme.net,primewire.ag,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,streaming-france.com,vidlox.me,vidlox.tv,viva-stream.info,watchseriesmovie.net,wholecloud.net,xrares.com,youzik.com##a[style]
+1nowvideo.com,3nowvideo.com,5nowvideo.com,6nowvideo.com,ahlamtv.com,arabloads.net,auroravid.to,bitvid.sx,cloudtime.to,cloudy.ec,dailyuploads.cc,dailyuploads.net,dl-protect1.com,dl-protecte.com,dl-protecte.org,dragon-ball-super-stream.com,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extreme-down.one,extreme-down.pro,filmstreamz.net,flashx.to,flashx.tv,g5u.pw,getsl.me,getsurl.com,gnula.nu,gsurl.in,gsurl.me,gum-gum-stream.com,itswatchseries.to,k-streaming.com,kimcartoon.me,liens-telechargement.com,mp3red.cc,nextorrent.pro,nowvideo.ag,nowvideo.co,nowvideo.cz,nowvideo.ec,nowvideo.li,nowvideo.sx,nowvideo.to,pefilme.net,primewire.ag,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,streaming-france.com,vidlox.me,vidlox.tv,viva-stream.info,watchseriesmovie.net,wholecloud.net,xrares.com,youzik.com##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
 mangastreaming.fr,mangastreaming.me,seedpeer.eu##a[target="_blank"]
 4downfiles.org,9divx.org,buzzporn.net,dpstreaming.cx,finobuzz.com,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,mangastreaming.fr,planet-streaming.com,pubfilm.me,serie-streaming.watch,seriezone.org,streaminghd.fr,streaminghd.watch,youwatch-series.com##a[target="_blank"] > img
@@ -15077,7 +15077,7 @@ _blockadblock_
 !
 @@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=4downfiles.org|dpstream.cc|lethal-weapon-streaming.eu|macgames-download.com|the-night-of-streaming.eu
-@@.png#$image,domain=4downfiles.org|dl-protecte.com|dl-protecte.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|planet-series.co|protect-lien.com|protect-zt.com|protecte-link.com|pxstream.tv|radio-en-direct.fr|savefile.co|security-links.com|softmaroc.org|stream4free.top|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
+@@.png#$image,domain=4downfiles.org|dl-protect1.com|dl-protecte.com|dl-protecte.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|planet-series.co|protect-lien.com|protect-zt.com|protecte-link.com|pxstream.tv|radio-en-direct.fr|savefile.co|security-links.com|softmaroc.org|stream4free.top|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
 @@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
 @@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
 @@/advertisement.js$script,domain=cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghrebspace.net|mega-exclue.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
@@ -15117,8 +15117,8 @@ _blockadblock_
 @@||nouvelle-fiat500.fr/ad-pub.js$script
 @@||pagead2.googlesyndication.com/pagead/$image,domain=annuaire-bleu.net
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=universal-soundbank.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=4downfiles.org|al.ly|ally.sh|cachemoi.com|dl-protecte.com|dl-protecte.org|forum.softmaroc.org|likeup.fr|ot-boutique.fr|pcastuces.com|protect-lien.com|protect-zt.com|quebeccoupongratuit.com|security-links.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=4downfiles.org|al.ly|ally.sh|cachemoi.com|dl-protecte.com|dl-protecte.org|forum.softmaroc.org|leetgamerz.net|likeup.fr|protect-lien.com|protect-zt.com|qcm-concours.blogspot.fr|quebeccoupongratuit.com|security-links.com|slideplayer.fr|telephoneannuaire.fr
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=4downfiles.org|al.ly|ally.sh|cachemoi.com|dl-protect1.com|dl-protecte.com|dl-protecte.org|forum.softmaroc.org|likeup.fr|ot-boutique.fr|pcastuces.com|protect-lien.com|protect-zt.com|quebeccoupongratuit.com|security-links.com|slideplayer.fr|sos-lettre.fr|telephoneannuaire.fr
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=4downfiles.org|al.ly|ally.sh|cachemoi.com|dl-protect1.com|dl-protecte.com|dl-protecte.org|forum.softmaroc.org|leetgamerz.net|likeup.fr|protect-lien.com|protect-zt.com|qcm-concours.blogspot.fr|quebeccoupongratuit.com|security-links.com|slideplayer.fr|telephoneannuaire.fr
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|pcastuces.com|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
 @@||pla.folue.info/needes.js$script
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
@@ -15160,6 +15160,7 @@ _blockadblock_
 @@||cours-de-droit.net^$generichide
 @@||curs.io^$generichide
 @@||dl-protect.top^$generichide
+@@||dl-protect1.com^$generichide
 @@||dl-protecte.com^$generichide
 @@||dl-protecte.org^$generichide
 @@||dpfilms.net^$generichide
