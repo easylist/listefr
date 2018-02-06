@@ -7048,7 +7048,7 @@ $subdocument,third-party,domain=1ink.cc|adbull.me|e-wok.tv|flashx.to|flashx.tv|g
 ||mottodistribution.com^*/placeholder/
 ||movietrailer.click^$subdocument
 ||mozoo.go2cloud.org^
-||msecnd.net^$domain=jeux.com
+||msecnd.net^*.gif$domain=jeux.com
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
 ||mwzip.com/banner.
 ||my.aliexpress.com^$third-party
@@ -9251,9 +9251,6 @@ $popup,domain=0zz0.com|35.184.169.188|adca.st|adf.ly|adshort.co|adshort.me|allan
 ||jeux-sexe-gratuit.com/img/
 ||jeux-sexe-gratuit.com^$media
 ||jeux-sexe-gratuit.fr/images/banners/
-||jeux.com/img/autopromo/*_hab.
-||jeux.com/img/autopromo/aterno/
-||jeux.com^*.html?ref=
 ||jeux.org/vda/
 ||jeuxetcompagnie.fr/wp-content/uploads/*/Habillage-
 ||jeuxflash.com/jfS/
@@ -14275,7 +14272,6 @@ dsih.fr##[id^="pub"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 movietube.live##[id^="video"] a
 filecrypt.cc##[onclick] img
-jeux.com##[onclick][id]
 filecrypt.cc##[onmouseup]
 centrifuge-lemag.fr##[role="banner"] > #cb-logo-box
 amvtv.net##[style*="position: absolute; z-index: 99999"]
