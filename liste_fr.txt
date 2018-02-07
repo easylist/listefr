@@ -40,6 +40,7 @@
 &ads_name=
 &ads_size_id=
 &adsExpected=
+&aduid=
 &adv_sub=
 &advertiser=*&campaign=
 &arabycash_
@@ -1869,6 +1870,7 @@ _ads_view/
 _adsens_
 _adsfullsite&
 _adstyle.
+_adunit=
 _adv.js
 _advertising_img.
 _affiliate.$subdocument
@@ -2569,6 +2571,7 @@ debugger:$popup
 ||adclerks.com^$third-party
 ||adclick.lt^$third-party
 ||adconda.com^$third-party
+||adconity.com^$third-party
 ||adconnect.fr^$third-party
 ||adcpm.com^$third-party
 ||addserving.com^$third-party
