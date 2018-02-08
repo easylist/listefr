@@ -2217,6 +2217,7 @@ _frontend_loader.$script
 /jump/clk1.$popup
 /lib/*?id=*&adb=$popup
 /lp/*;pop|$popup
+/myAdd?id=$popup
 /n*adserv.com$popup
 /null/*/Redirect.$popup,third-party
 /offer?*&placement=$popup
@@ -6321,6 +6322,7 @@ debugger:$popup
 ||zeroredirect11.com^$popup,third-party
 ||zeroredirect8.com^$popup,third-party
 ||zidor.info^$popup,third-party
+||zindas.info^$popup,third-party
 ||zrada.site^$popup,third-party
 ||zwaar.net^$popup,third-party
 ||zwaar.org^$popup,third-party
@@ -12655,6 +12657,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##a[href*="/goto.php?ads_id="]
 ##a[href*="/install-app?affid="]
 ##a[href*="/inter?implementation_id="]
+##a[href*="/myAdd?id="]
 ##a[href*="/p_tools/promo.php?"]
 ##a[href*="/redirect.php?title="]
 ##a[href*="/redirect?partenaire="]
