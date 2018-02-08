@@ -1565,6 +1565,7 @@
 /srv.php?size=315x300
 /static/*/ads/
 /static/t/b.js
+/stickyads|
 /stocksad1.
 /stocksad2.
 /stocksad3.
@@ -3958,6 +3959,7 @@ debugger:$popup
 ||widgetbooster.com^$third-party
 ||wineuroptp.fr^$third-party
 ||wisefacts.net^$third-party
+||witalfieldt.com^$third-party
 ||wizenedjogger.info^$third-party
 ||wkecrte5.link^$third-party
 ||wm.artcomix.com^$third-party
@@ -4382,6 +4384,7 @@ debugger:$popup
 ||litalise.com^
 ||lundered.info^
 ||mannela.info^
+||marisingly.com^
 ||mationse.info^
 ||messard.com^
 ||messardu.com^
@@ -4461,6 +4464,7 @@ debugger:$popup
 ||wortparser.info^
 ||wrigginger.info^
 ||wrinkworks.com^
+||writtery.info^
 ||yoursinfo.info^
 ! admeasures.com
 /^https?:\/\/[a-z0-9]{5,14}\.(com|bid|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
@@ -5515,6 +5519,7 @@ debugger:$popup
 ||104.238.189.$popup,third-party
 ||107.191.46.37^$popup,third-party
 ||108.61.209.24^$popup,third-party
+||109.206.180.190^$popup,third-party
 ||109.234.38.$popup,third-party
 ||109.236.83.$popup,third-party
 ||123prix.com^$popup,third-party
@@ -6165,6 +6170,7 @@ debugger:$popup
 ||selfsrver.com^$popup,third-party
 ||seminings.info^$popup,third-party
 ||sendmad.com^$popup,third-party
+||seodollars.com^$popup,third-party
 ||serietrk.com^$popup,third-party
 ||setksiw.com^$popup,third-party
 ||sexclic.com^$popup,third-party
@@ -7026,6 +7032,7 @@ $subdocument,third-party,domain=1ink.cc|adbull.me|e-wok.tv|flashx.to|flashx.tv|g
 ||mediastay.net^*/offers.php?
 ||medieval-war.com/banniere.jpg
 ||mega-p2p.net^$image,third-party
+||megapeliculas.net^$subdocument,third-party
 ||megatopsites.com/index.html?$third-party
 ||megauplinks.com/images/120x600mega.png
 ||meilleur-top.com^*/images/banners/
@@ -10370,6 +10377,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ||d14p8nzdvd75ly.cloudfront.net^
 ||d15cjcet1djbmv.cloudfront.net^
 ||d160mt023h8h3d.cloudfront.net^
+||d162nnmwf9bggr.cloudfront.net
 ||d16dqaga5j0fjm.cloudfront.net^
 ||d17ialcoirdn28.cloudfront.net^
 ||d17rlarvg2khuc.cloudfront.net^
