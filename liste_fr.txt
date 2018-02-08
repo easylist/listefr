@@ -5245,8 +5245,11 @@ debugger:$popup
 /cn.wasm$third-party
 /coin-hive-proxy-
 /coinhive-proxy-
+/coinhive.js
 /coinhive.min.js
 /coinlab.js
+/crypto-js.js
+/crypto-js.min.js
 /crypto-webminer.$domain=~crypto-webminer.com
 /cryptocpu.js
 /cryptonight-worker.
@@ -5393,6 +5396,7 @@ debugger:$popup
 ||host.d-ns.ga^$third-party
 ||igg.biz^$third-party
 ||igrid.org^$third-party
+||igrid.pw^$third-party
 ||ingorob.com^$third-party
 ||inwemo.com^$third-party
 ||joyreactor.cc/v/$script
@@ -5435,6 +5439,7 @@ debugger:$popup
 ||monkeyminer.net^$third-party
 ||morningdigit.com^$third-party
 ||mutuza.win^$third-party
+||nablabee.com^$third-party
 ||nahnoji.cz^$third-party
 ||nathetsof.com^$third-party
 ||nfwebminer.com^$third-party
