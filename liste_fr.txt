@@ -2407,7 +2407,9 @@ debugger:$popup
 ||club^*?zoneid=$popup
 ||download./*&pubid=$popup
 ||download^*&caid=$popup,third-party
+||download^*&cid=$popup,third-party
 ||download^*?caid=$popup,third-party
+||download^*?cid=$popup,third-party
 ||gdn^*&campaign_id=$popup
 ||gdn^*&impid=$popup
 ||gdn^*&redi=$popup,third-party
@@ -2446,7 +2448,11 @@ debugger:$popup
 ||support^*&zoneid=$popup
 ||support^*?zoneid=$popup
 ||tech^*?affid=$popup
+||trade^*&caid=$popup,third-party
+||trade^*&cid=$popup,third-party
 ||trade^*?affid=$popup
+||trade^*?caid=$popup,third-party
+||trade^*?cid=$popup,third-party
 ||xyz^*&site=*&ad=$popup
 ||xyz^*&zone=$popup
 ||xyz^*&zoneid=$popup
