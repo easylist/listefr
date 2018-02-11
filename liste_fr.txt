@@ -138,6 +138,7 @@
 -advertising/tmg-gpt.
 -affiliate-earn-
 -animated-ad.
+-aoa-functions.
 -ban.468.php
 -banner-125x125.
 -banner-300x250.
@@ -390,6 +391,7 @@
 /ad-market/*
 /ad-netc-
 /ad-networks/*
+/ad-overlay-
 /ad-related.
 /ad-rotator.
 /ad-script.
@@ -742,6 +744,7 @@
 /andreamedia.js
 /anime/ads/*
 /anti-pub.
+/aoa-functions.
 /apester-javascript-sdk.
 /api/*?m=html&search_type=*&language=*&count=
 /api/ads_
@@ -5761,6 +5764,7 @@ debugger:$popup
 ||bwinpartypartners.com^$popup,third-party
 ||bxic0ho.com^$popup,third-party
 ||cacheicdn.com^$popup,third-party
+||calcch.com^$popup,third-party
 ||carsquill.bid^$popup,third-party
 ||casebrio.com^$popup,third-party
 ||cash-duck.com^$popup,third-party
@@ -11827,6 +11831,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##.annonce_pub_contenu
 ##.annonces_google
 ##.antiadclass
+##.aoa_overlay
 ##.app_google_ad_box
 ##.articleAd-banner
 ##.article__ads
