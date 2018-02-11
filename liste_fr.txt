@@ -141,6 +141,7 @@
 -ban.468.php
 -banner-125x125.
 -banner-300x250.
+-Banner-Ad_
 -banner250-
 -banner300-
 -banner728.
@@ -6173,6 +6174,7 @@ debugger:$popup
 ||retargetads.net^$popup,third-party
 ||rev2pub.com^$popup,third-party
 ||revenuehits.com^$popup,third-party
+||revimedia.com^$popup,third-party
 ||revnuehub.com^$popup,third-party
 ||revsharecash.com^$popup,third-party
 ||rliqvcw.xyz^$popup,third-party
@@ -6708,7 +6710,7 @@ $subdocument,third-party,domain=1ink.cc|adbull.me|e-wok.tv|flashx.to|flashx.tv|g
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
 ||dailymotion.com^$domain=captainmugiwara.fr|dragon-ball-super-stream.com|greysanatomystreaming.com|manga-fr.com|mysharelink.fr|one-piece-streaming.eu|toussports.info
 ||dailymotion.com^*&mute=$domain=monjardinmamaison.fr
-||dailymotion.com^*autoplay=1$domain=anime301.com|animeresistance.com|animes-mangas-ddl.net|anogaming.fr|bescherelletamere.fr|blagues-mobiles.com|buzzutopia.com|dailymotion.com|gum-gum-stream.com|gum-gum-streaming.com|hitek.fr|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|mavanimes.com|mcetv.fr|otakufr.com|pokemon-streaming.com|pokercast.eu|pokercast.tv|prison-break-hd-streaming.com|robindesdroits.me|sonyoutube.com|stream4free.pro|tous-sports.tv|tv-streaming-serie.xyz|youzapping.com
+||dailymotion.com^*autoplay=1$domain=anime301.com|animeresistance.com|animes-mangas-ddl.net|anogaming.fr|bescherelletamere.fr|blagues-mobiles.com|buzzutopia.com|dailymotion.com|gum-gum-stream.com|gum-gum-streaming.com|hitek.fr|mangas-ddl-free.over-blog.com|mangaxd.com|mavanime.com|mavanimes.com|mcetv.fr|otakufr.com|pokemon-streaming.com|pokercast.eu|pokercast.tv|prison-break-hd-streaming.com|robindesdroits.me|sonyoutube.com|stream4free.pro|tfarjo.com|tous-sports.tv|tv-streaming-serie.xyz|youzapping.com
 ||damoh.schneevonmorgen.com^
 ||damtours.com/static/img/damtous_$third-party
 ||dealdog.net/advert.php$popup
@@ -14324,7 +14326,6 @@ jeu.fr##[data-fallback-type="image"]
 films-telecharger.eu##[data-hash]
 meteofrance.com##[href*=".xiti.com"] > img
 onhax.me##[id*="-prom"]
-tfarjo.com##[id][onclick]
 speedvid.net##[id][style*="z-index:"]
 turbo.fr##[id^="ABbypass"]
 bestream.tv##[id^="aff_spion-"]
@@ -14576,7 +14577,7 @@ achat-bitcoins.com##a[rel="nofollow"] > img
 zetorrente.fr##a[rel]
 at.ua,ucoz.com,ucoz.net,ucoz.ru,ucoz.ua##a[rel][style*="z-index:"]
 imagecool.org##a[rel][style]
-1nowvideo.com,3nowvideo.com,5nowvideo.com,6nowvideo.com,ahlamtv.com,arabloads.net,auroravid.to,bitvid.sx,cloudtime.to,cloudy.ec,dailyuploads.cc,dailyuploads.net,dl-protect1.com,dl-protecte.com,dl-protecte.org,dragon-ball-super-stream.com,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extreme-down.one,extreme-down.pro,fileone.tv,filmstreamz.net,flashx.to,flashx.tv,g5u.pw,getsl.me,getsurl.com,gnula.nu,gsurl.in,gsurl.me,gum-gum-stream.com,itswatchseries.to,k-streaming.com,kimcartoon.me,liens-telechargement.com,mp3red.cc,nextorrent.pro,nowvideo.ag,nowvideo.co,nowvideo.cz,nowvideo.ec,nowvideo.li,nowvideo.sx,nowvideo.to,pefilme.net,playerfs.com,primewire.ag,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,streaming-france.com,vidlox.me,vidlox.tv,viva-stream.info,watchseriesmovie.net,wholecloud.net,xrares.com,youzik.com,zone-telechargements.com##a[style]
+1nowvideo.com,3nowvideo.com,5nowvideo.com,6nowvideo.com,ahlamtv.com,arabloads.net,auroravid.to,bitvid.sx,cloudtime.to,cloudy.ec,dailyuploads.cc,dailyuploads.net,dl-protect1.com,dl-protecte.com,dl-protecte.org,dragon-ball-super-stream.com,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extreme-down.one,extreme-down.pro,fileone.tv,filmstreamz.net,flashx.to,flashx.tv,g5u.pw,getsl.me,getsurl.com,gnula.nu,gsurl.in,gsurl.me,gum-gum-stream.com,itswatchseries.to,k-streaming.com,kimcartoon.me,liens-telechargement.com,mp3red.cc,nextorrent.pro,nowvideo.ag,nowvideo.co,nowvideo.cz,nowvideo.ec,nowvideo.li,nowvideo.sx,nowvideo.to,pefilme.net,playerfs.com,primewire.ag,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,streaming-france.com,tfarjo.com,vidlox.me,vidlox.tv,viva-stream.info,watchseriesmovie.net,wholecloud.net,xrares.com,youzik.com,zone-telechargements.com##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
 mangastreaming.fr,mangastreaming.me,seedpeer.eu##a[target="_blank"]
 4downfiles.org,9divx.org,buzzporn.net,dpstreaming.cx,finobuzz.com,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,mangastreaming.fr,planet-streaming.com,pubfilm.me,serie-streaming.watch,seriezone.org,streaminghd.fr,streaminghd.watch,youwatch-series.com##a[target="_blank"] > img
@@ -14632,6 +14633,7 @@ fan2.fr,mcm.fr,melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr##div[id^="eShowPub"]
 pagesjaunes.fr##div[id^="push"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
+tfarjo.com##div[onclick]
 android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
 commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[style$="cursor: pointer; width: 32%;"]
 gamalive.com##div[style$="width:300px;height:250px;"]
@@ -14664,6 +14666,7 @@ lafermeduweb.net##div[style="overflow: hidden; width: 336px; height: 280px; marg
 auto-utilitaire.com##div[style="position:relative;width:728px;height:90px;"]
 groupon.fr##div[style="width: 445px; margin: 8px auto; text-align: center; background-color: #fff; border: 1px solid #e4e4e4;"]
 bricozone.be##div[style="width: 728px; height: 90px; overflow: hidden;"]
+tfarjo.com##div[style="width:100%;max-width:468px;height:60px;border:none;"]
 h-suki.com##div[style="width:1020px;\a margin-left: auto; text-align:center;\a margin-right: auto; height: 100px;"]
 forum.webxfrance.org##div[style="width:1230px; height: 110px; background-color: #eff1f1"]
 cinemay.com##div[style="width:160px; height:600px; background-color:#ffffff; float:right;"]
