@@ -3385,6 +3385,7 @@ debugger:$popup
 ||misstrends.com^$third-party
 ||misterbell.com^$third-party
 ||mixadvert.com^$third-party
+||mloevnfunwwcqdusypu.com^$third-party
 ||mm387.com^$third-party
 ||mn1nm.com^$third-party
 ||mobads4app.com^$third-party
@@ -8183,9 +8184,6 @@ oload.info,oload.stream,oload.tv,openload.co,streamcherry.com##.vjs-modal-dialog
 ! jeux-hentai.com
 |http://$script,xmlhttprequest,domain=jeux-hentai.com
 |https://$script,xmlhttprequest,domain=jeux-hentai.com
-! flyordie.com
-|http://$script,third-party,xmlhttprequest,domain=flyordie.com
-|https://$script,third-party,xmlhttprequest,domain=flyordie.com
 ! putstream.com
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=putstream.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=putstream.com
@@ -13129,7 +13127,6 @@ guadeloupe-paradise.fr###content-shadow
 millenium.org###content_pub
 spi0n.com###content_top
 abcbourse.com###ctl00_btmmaster_xforex
-flyordie.com###dasb
 edcom.fr###decouvrirActu
 direct-torrents.com###derperd-ad
 118218.fr###dfp_left
