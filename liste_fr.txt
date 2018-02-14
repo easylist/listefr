@@ -248,6 +248,7 @@
 .php?*&size=*&synergie=
 .php?*&synergie=*&size=
 .php?ads&
+.php?aid=*_ban=
 .php?aid=pause_
 .php?banner=$subdocument
 .php?file=ads/
@@ -758,6 +759,7 @@
 /autopromo.*/async|$domain=~jeuxvideo.com
 /autopromotion.*/async|
 /ax/bnnr/*$script
+/b.n.php?aid=
 /b/ads/*
 /b2bad.
 /b728x90a.
@@ -1026,6 +1028,7 @@
 /exoclick300m.
 /extads.
 /ezban.
+/f.php?aid=AID
 /factorads.
 /fakeFBbar.
 /fakevideo/rotate.
