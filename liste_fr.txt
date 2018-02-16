@@ -8022,7 +8022,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,direct
 |http://$script,third-party,xmlhttprequest,domain=regarderfilmhd.com
 |https://$script,third-party,xmlhttprequest,domain=regarderfilmhd.com
 ! libre-stream.com
-@@||bambergerkennanchitinous.com/.adframesrc.|$script,domain=libre-stream.com|ls-streaming.com
 |http://$script,third-party,xmlhttprequest,domain=libre-stream.com|ls-streaming.com
 |https://$script,third-party,xmlhttprequest,domain=libre-stream.com|ls-streaming.com
 ! filmstreamz.net
@@ -12158,6 +12157,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##.in_up_ad-area
 ##.info_pop > a > img
 ##.inpage-adspace
+##.inplayer_banners
 ##.insertPadList
 ##.insert_pub_center
 ##.inside_adv_section
