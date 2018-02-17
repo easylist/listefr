@@ -582,6 +582,7 @@
 /ads/sticky_
 /ads/top_
 /ads/v1/*
+/ads/zones/*
 /ads13.
 /ads14.
 /ads15.
@@ -2720,6 +2721,7 @@ debugger:$popup
 ||adspoper.com^$third-party
 ||adspot.ch^$third-party
 ||adspredictiv.com^$third-party
+||adspsp.com^$third-party
 ||adsptp.com^$third-party
 ||adsregieonline.com^$third-party
 ||adsrevenue.com^$third-party
