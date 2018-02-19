@@ -1094,6 +1094,7 @@
 /gfx/banners/*
 /gfx/banners_
 /gfx/bannieres/*
+/gif/sponsor_
 /goclick?ref=$script
 /grid/ads/*
 /hashcash.$domain=~hashcash.io
@@ -10238,6 +10239,7 @@ $popup,domain=0zz0.com|35.184.169.188|adca.st|adf.ly|adshort.co|adshort.im|adsho
 ||telesatellite.com/images/scdfnjukia.gif
 ||telesatellite.com/images/telesat-
 ||tendancehotellerie.fr/img/gif/
+||tendancehotellerie.fr/img/jpg/
 ||tendancehotellerie.fr/spip.php
 ||tendanceouest.com/*/lightbox-
 ||tennisactu.net/*/encarts_partenaires/
@@ -15344,7 +15346,6 @@ _blockadblock_
 @@||textnow.com/messaging/assets/advertisements.js$script
 @@||unjourunerecette.fr/css/publicite-ads.css
 @@||wakanim.tv^*/video/advertisement?idepisode=
-@@||www.tendancehotellerie.fr/css/ads.css|$stylesheet
 !
 @@||4downfiles.org^$generichide
 @@||adbull.me^$generichide
