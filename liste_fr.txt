@@ -4548,6 +4548,7 @@ debugger:$popup
 ! admeasures.com
 /^https?:\/\/[a-z0-9]{5,14}\.(com|bid|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
 /cdn-cgi\/pe\/bag2\?(.*)\.(com|bid|top|club)(%2F)([a-z0-9]{2}(%2F)){3}[a-f0-9]{32}\.js/$~third-party,xmlhttprequest
+?*&refer=*&key=*&scrWidth=*&scrHeight=$popup
 ||080jxrab.top^$third-party
 ||0azx1.com^$third-party
 ||0gctp5ht.top^$third-party
@@ -4769,6 +4770,7 @@ debugger:$popup
 ||isanalyze.com^$third-party
 ||ishahguv.com^$third-party
 ||isho1xu.top^$third-party
+||itcfnfi.com^$third-party
 ||iwzqn5.top^$third-party
 ||j94kp2o.com^$third-party
 ||jbjcv.com^$third-party
@@ -4970,6 +4972,7 @@ debugger:$popup
 ||tae1ohp.bid^$third-party
 ||talk2none.com^$third-party
 ||talk4anyone.com^$third-party
+||talk4none.com^$third-party
 ||thahpe3w.com^$third-party
 ||theh7ah.top^$third-party
 ||theih1w.top^$third-party
