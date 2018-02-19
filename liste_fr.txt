@@ -2264,6 +2264,7 @@ _frontend_loader.$script
 /iframePopUpLoader.$popup
 /install.&clickid=$popup
 /jump/clk1.$popup
+/jump/next.php?r=$popup
 /lib/*?id=*&adb=$popup
 /lp/*;pop|$popup
 /myAdd?id=$popup
@@ -10179,6 +10180,7 @@ $popup,domain=0zz0.com|35.184.169.188|adca.st|adf.ly|adshort.co|adshort.im|adsho
 ||streaming-amateur.net/data/$image
 ||streaming-boruto.com/wp-content/uploads/*.gif
 ||streaming-dragon-ball-super.com/wp-content/uploads/*.gif
+||streaming-hard.org^$popup,~third-party
 ||streaming-hardcore.com/data/$image
 ||streaming-hardcore.com/image.php?src=*://
 ||streaming-hardcore.com^$popup,~third-party
@@ -12865,6 +12867,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##a[href*="://popads.net/users/refer/"]
 ##a[href*="://popcash.net/register/"]
 ##a[href*="://serietrk.me/"]
+##a[href*="://signup.teensanalyzed.com/track/"]
 ##a[href*="://smart.tubeadvertising.eu/"]
 ##a[href*="://syndication."] > img
 ##a[href*="://t.eroges.com"]
