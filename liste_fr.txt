@@ -7520,6 +7520,7 @@ $subdocument,third-party,domain=1ink.cc|adbull.me|bc.vc|e-wok.tv|flashx.to|flash
 ||technologiesaintjoseph.com/addon/script/*?integration=$third-party
 ||teen-passion.net/annuaire/ban/$third-party
 ||teenskitten.com^$media,script
+||telechargement.vip^$popup
 ||telechargementgratuits.com/dm.php
 ||teliad.fr^*/banner/
 ||terasexe.com/pubs/
@@ -14509,13 +14510,13 @@ free-reseau.fr##a[href*="&tag=freereseaufr-"]
 3dnatives.com,lesimprimantes3d.fr##a[href*="&utm_"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
 go4up.com,torrent9.bz,torrent9.cc,torrent9.pe,torrent9.red,torrent9.top,torrents9.org,torrents9.pe,torrents9.tv##a[href*="+"]
-telechargement-film.org##a[href*="-film-"]
 9divx.org,likeur.org##a[href*="-vip.html"]
 papystreaming-hd.com,papystreaming-hd.org##a[href*=".amazonaws.com/"]
 zippyshare.com##a[href*=".inclk.com/"]
 9divx.org,ebooks9.fr,films-telecharger.eu,francais-gratuite.fr,frmovies.me,frstreaming.info,frtorrent.fr,jetelecharger1.fr,likeur.org,planet-series.co,plus-belle-la-vie-episode-en-avance.biz,seriestreaming.net,streamingseries.info,telechargerzoneu.fr,wawa-clubz.fr,wawacity.ec##a[href*=".php"]
 lien-torrent.com##a[href*=".php"][target="_blank"]
 moviz.net##a[href*=".php?let="]
+telechargement-film.org##a[href*=".vip/"]
 leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
 meilleurs-hebergeurs.com##a[href*="/-"] > img
 presse-algerie.net##a[href*="/?ad="]
@@ -14862,6 +14863,7 @@ bonjourmadame.fr##object[width="728"][height="90"]
 onlinevideoconverter.com##script + a[style]
 kbk-tv.com##section#ref
 extreme-down.one,extreme-down.pro##span[style$="cursor: pointer;"]
+telechargement-film.org,telechargement.vip##strong[style]
 idowatch.net##style + [onclick]
 boursorama.com##style + div > .visible-desktop:first-child
 boursorama.com##sup.main[style="display: block;"]
