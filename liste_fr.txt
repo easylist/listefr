@@ -1421,6 +1421,7 @@
 /pub/djezzy/*
 /pub/fond.
 /pub/ga_pub_$script
+/pub/hab-$image
 /pub/habillage-
 /pub/iframe-$subdocument
 /pub/mobilis/*
@@ -13334,6 +13335,7 @@ gameblog.fr###gb_home_sponsor
 gameblog.fr###gb_megaban
 pagesjaunes.fr###goodDealsArea
 zero-complexe.com###google
+dsih.fr###hab
 bdgest.com,bedetheque.com###hab_click
 bdgest.com,bedetheque.com###hab_click_side
 banques-en-ligne.fr,bd-sanctuary.com,bioalaune.com,c8.fr,cine-sanctuary.com,comics-sanctuary.com,ffeminin.com,gamer-network.fr,lequipement.fr,letelegramme.fr,manga-sanctuary.com,nrj.fr###habillage
@@ -14493,7 +14495,6 @@ voirfilms.ws##[id^="mp3"]
 planet-series.co##[id^="news-id-"] a > [style]
 agate-france.com##[id^="pbad_"]
 gamovideo.com##[id^="pu-"][style]
-dsih.fr##[id^="pub"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 movietube.live##[id^="video"] a
 filecrypt.cc##[onclick] img
@@ -14785,6 +14786,7 @@ routard.com,sfr.fr##div[id^="A2dEmplacement"]
 forumconstruire.com##div[id^="bloc_discussion_"] > :first-child + div
 fan2.fr,mcm.fr,melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,meltyxtrem.fr,virginradio.fr##div[id^="container_A2_"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr##div[id^="eShowPub"]
+dsih.fr##div[id^="pub"]
 pagesjaunes.fr##div[id^="push"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 tfarjo.com##div[onclick]
