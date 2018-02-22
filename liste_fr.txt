@@ -275,8 +275,14 @@
 .publicite.
 .pw/ads/
 .ru/ads.
+.ru/banner/$third-party
 .ru/banners/$third-party
+.ru/i/banner/$third-party
+.ru/i/banners/$third-party
+.ru/s/images/banner/$third-party
 .ru/s/images/banners/$third-party
+.ru/uploads/banner/
+.ru/uploads/banners/
 .showads.
 .sponsor.*?key=
 .swf?*=Ads.
@@ -9409,8 +9415,6 @@ $popup,domain=0zz0.com|35.184.169.188|adca.st|adf.ly|adshort.co|adshort.im|adsho
 ||images.fan-de-cinema.com/habillage/
 ||images.forum.ad/imatges/*.gif
 ||images.opt.be/pictos/logo_
-||img.123cdn.ru/banner/
-||img.123data.ru/banner/
 ||img.mrsexe.com/dating-gratuit.gif
 ||img.uefa.com/imgml/comp/ucl/sponsor/
 ||imgpeak.com/img/
