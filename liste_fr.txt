@@ -5301,12 +5301,16 @@ debugger:$popup
 ||newstat.net^$third-party
 ||static-dscn.net^$third-party
 !
-/^https?:\/\/[0-9a-z]+\.com\/watch\?([a-z]{2,3}=(([0-9a-z]{4,8}\-){4})[0-9a-z]{12}\&){2}$/$third-party,xmlhttprequest
+/^https?:\/\/[0-9a-z]+\.(bid|com|me)\/app\.js\?_=([a-z0-9]{8}-([a-z0-9]{4}-){3}[a-z0-9]{12})$/$script,third-party,xmlhttprequest
+/^https?:\/\/[0-9a-z]+\.(bid|com|me)\/watch\?([a-z]{2,3}=(([0-9a-z]{4,8}\-){4})[0-9a-z]{12}\&){2}$/$third-party,xmlhttprequest
 ||3l4r8d61yz.com^
+||7mu36somt5.com^
+||ek8k5dst5c.com^
 ||pqowedazx.bid^
 ||pti40qv5si.com^
 ||vcfs6ip5h6.bid^
 ||vg02h8z1ul.me^
+||vqcdjedt9q.com^
 ||zgdfz6h7po.me^
 !
 ||askarer.info^
