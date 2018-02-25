@@ -4396,7 +4396,7 @@ debugger:$popup
 ||xvika.com^
 ||zbwttofskjnc.com^
 ! iframe / popunder
-/^http:\/\/([a-z]+){5,12}\.info\/([0-9a-zA-Z\+\/]){138,140}/$image,third-party
+/^http:\/\/[a-z]{5,12}\.info\/([0-9a-zA-Z\+\/]){138,140}/$image,third-party
 /^http?:\/\/(?!disqus\.)([a-z]+)\.(com|info)\/([0-9a-zA-Z\+\/]){400,460}/$subdocument,third-party
 ||abarrange.info^
 ||abourself.com^
