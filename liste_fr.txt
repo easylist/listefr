@@ -2426,6 +2426,7 @@ _frontend_loader.$script
 ?floatpop=$popup
 ?id_publisher=*&id_$popup
 ?id_rotation=$popup
+?key=*&plWidth=*&plHeight=$popup
 ?key=*&zoneid=$popup
 ?link=fakeplayer$popup
 ?MediaSegmentId=$popup
@@ -5742,6 +5743,7 @@ debugger:$popup
 ||badoink.com^$popup,third-party
 ||baiduccdn1.com^$popup,third-party
 ||baise-ce-soir.com^$popup,third-party
+||barvaz.me^$popup,third-party
 ||bcvc.mobi^$popup,third-party
 ||be-yi.com^$popup,third-party
 ||bee-tube.net^$popup,third-party
@@ -6077,6 +6079,7 @@ debugger:$popup
 ||newfollow.info^$popup,third-party
 ||newmediapln.net^$popup,third-party
 ||newtabtv.com^$popup,third-party
+||newton1.club^$popup,third-party
 ||nextlandingads.com^$popup,third-party
 ||no-hide.com^$popup,third-party
 ||npmpecd.com^$popup,third-party
@@ -6390,6 +6393,7 @@ debugger:$popup
 ||consol-energy.net^$popup,third-party
 ||console-bar.net^$popup,third-party
 ||contentpap.info^$popup,third-party
+||cowledges.com^$popup,third-party
 ||download-cool-i-apps.com^$popup,third-party
 ||download-epic4u.com^$popup,third-party
 ||downloatransfer.com^$popup,third-party
