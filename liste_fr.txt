@@ -568,7 +568,6 @@
 /Ads/ad_
 /ads/banner02.
 /ads/banner03.
-/ads/banner?
 /ads/bigbox?
 /ads/bmedia.
 /ads/boost.
@@ -585,7 +584,6 @@
 /ads/genere_ban.
 /ads/get_
 /ads/gif/*
-/ads/header.
 /ads/layered_
 /ads/left/*
 /ads/mgid.
@@ -2222,7 +2220,6 @@ _frontend_loader.$script
 /adplexmedia.$popup
 /adplexmedia/*$popup
 /ads.php$popup
-/ads/click?$popup
 /ads/direct/*$popup
 /ads/out.$popup
 /ads/pops/$popup
@@ -5936,7 +5933,6 @@ debugger:$popup
 ||gotositenow.com^$popup,third-party
 ||gowl.info^$popup,third-party
 ||goyavelab.com^$popup,third-party
-||grand-ads.com^$popup,third-party
 ||grifanme.com^$popup,third-party
 ||grtyi.com^$popup,third-party
 ||guqu.info^$popup,third-party
@@ -6048,7 +6044,6 @@ debugger:$popup
 ||monetizemytraffic.com^$popup,third-party
 ||monetizer.co^$popup,third-party
 ||moneymak3rstrack.com^$popup,third-party
-||moon-ads.com^$popup,third-party
 ||morevoluum.com^$popup,third-party
 ||motohem.com^$popup,third-party
 ||multiupload.com^$popup,third-party
