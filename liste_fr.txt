@@ -2465,6 +2465,7 @@ _Page-Under_$popup,third-party
 _pop.php?z=$popup
 _pornofolies_$popup
 _regie/clic.$popup
+_uri/*?parametr=$popup
 _zoneid=*/rel/index.cfm?$popup
 ! regex popups
 /\.cloudfront\.net\/[a-z]{4,6}\.[a-z]{3,4}\?u\=\-?[0-9]{15,22}\&[a-z]{1}\=[0-9a-z]{32}/$popup
@@ -4480,6 +4481,7 @@ debugger:$popup
 ||fisolately.info^
 ||forecount.info^
 ||formaticul.com^
+||fridric.com^
 ||fridrici.info^
 ||fungetbag.info^
 ||generaed.info^
@@ -4538,6 +4540,7 @@ debugger:$popup
 ||possinglese.info^
 ||preligions.com^
 ||prostomers.com^
+||provalist.info^
 ||qdistand.com^
 ||quaves.info^
 ||quierest.com^
@@ -7759,11 +7762,11 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 |http://$script,third-party,domain=cocostreaming.com
 |httpd://$script,third-party,domain=cocostreaming.com
 ! torrent9.tv
-/cdn-cgi/*$domain=cpabien.ch|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.info|torrent9.me|torrent9.pe|torrent9.red|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.pe|torrents9.tv
-@@||ajax.googleapis.com/ajax/libs/$script,domain=cpabien.ch|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.info|torrent9.pe|torrent9.red|torrent9.top|torrents9.org|torrents9.pe
-@@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=cpabien.ch|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.info|torrent9.pe|torrent9.red|torrent9.top|torrents9.org|torrents9.pe
-|http://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|cpabien.xyz|cpasbien.io|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.info|torrent9.me|torrent9.pe|torrent9.red|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.pe|torrents9.tv
-|https://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|cpabien.xyz|cpasbien.io|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.info|torrent9.me|torrent9.pe|torrent9.red|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.pe|torrents9.tv
+/cdn-cgi/*$domain=cpabien.ch|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|cpasbien.pro|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.info|torrent9.me|torrent9.pe|torrent9.red|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.pe|torrents9.tv
+@@||ajax.googleapis.com/ajax/libs/$script,domain=cpabien.ch|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|cpasbien.pro|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.info|torrent9.pe|torrent9.red|torrent9.top|torrents9.org|torrents9.pe
+@@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=cpabien.ch|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|cpasbien.pro|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.info|torrent9.pe|torrent9.red|torrent9.top|torrents9.org|torrents9.pe
+|http://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|cpabien.xyz|cpasbien.io|cpasbien.pro|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.info|torrent9.me|torrent9.pe|torrent9.red|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.pe|torrents9.tv
+|https://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|cpabien.xyz|cpasbien.io|cpasbien.pro|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.info|torrent9.me|torrent9.pe|torrent9.red|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.pe|torrents9.tv
 ! nextorrent.net
 |http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pro|nextorrent.pw|nextorrent.tv|nextorrent.ws|oxtorrent.com
 |https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pro|nextorrent.pw|nextorrent.tv|nextorrent.ws|oxtorrent.com
@@ -12730,6 +12733,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##a[href*=".php?sp_promote="]
 ##a[href*=".pub2srv.com/"]
 ##a[href*=".smrtgs.com/"]
+##a[href*=".ufinkln.com/"]
 ##a[href*=".voluumtrk.com/"]
 ##a[href*=".xxcdn.pw/"]
 ##a[href*="//afftrack001.com/"]
