@@ -8333,7 +8333,7 @@ oload.info,oload.stream,oload.tv,olpair.com,openload.co,streamango.com,streamche
 |http://$subdocument,third-party,domain=viid.me
 |https://$subdocument,third-party,domain=viid.me
 ! thevideo.me / thevideo.us / vidup.me / tvad.me
-@@||/js/adsense.js?$script,~third-party,domain=thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tvad.me|vidup.me
+@@/js/adsense.js?$script,~third-party,domain=thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tvad.me|vidup.me
 @@||thevideo.*/js/jspc.js?ab|$script,domain=thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|vidup.me
 |http://$script,third-party,xmlhttprequest,domain=thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|vidup.me
 |https://$script,third-party,xmlhttprequest,domain=thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|vidup.me
