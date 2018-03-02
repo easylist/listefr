@@ -5057,6 +5057,7 @@ debugger:$popup
 ||uvee1qu.top^$third-party
 ||uw994cp.com^$third-party
 ||uxoh9fe.top^$third-party
+||uymkdz9s.com^third-party
 ||uzvoj.com^$third-party
 ||v3rjvtt.com^$third-party
 ||v47z13vg.top^$third-party
@@ -8352,8 +8353,8 @@ oload.info,oload.stream,oload.tv,olpair.com,openload.co,streamango.com,streamche
 |http://$popup,script,subdocument,third-party,domain=allmyvideos.net
 |https://$popup,script,subdocument,third-party,domain=allmyvideos.net
 ! 1fichier.com
-|http://$third-party,xmlhttprequest,domain=1fichier.com
-|https://$third-party,xmlhttprequest,domain=1fichier.com
+|http://$script,third-party,xmlhttprequest,domain=1fichier.com
+|https://$script,third-party,xmlhttprequest,domain=1fichier.com
 ! urlst.me
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=urlst.me
 |http://$script,third-party,domain=urlst.me
