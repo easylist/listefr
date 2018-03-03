@@ -963,6 +963,7 @@
 /comment-ads.
 /config_dfp.js
 /content?promo_id=
+/contents/other/player/*$media,~third-party
 /coolads.
 /core/ad2/*
 /core/ad3/*
@@ -1552,6 +1553,7 @@
 /rotcol/img_col.
 /rsense-ad.
 /rsense_ad.
+/rulespop.js
 /sales/*_leaderboard_
 /sam-pro-free/*
 /sas-banner-
@@ -2430,6 +2432,7 @@ _frontend_loader.$script
 ?MediaSegmentId=$popup
 ?noexitctapop=$popup
 ?nopop=$popup,domain=~info.jumia.com
+?pageName=*=marketing&$popup
 ?partner=*&offer_id=$popup,third-party
 ?popunder=$popup
 ?preview=*&pgid*&from_sz=$popup
@@ -3726,6 +3729,7 @@ debugger:$popup
 ||quaelead.com^$third-party
 ||quanta.lu^$third-party
 ||quantum-advertising.com^$third-party
+||querylead.com^$third-party
 ||qwertize.link^$third-party
 ||qwerty1.co.pl^$third-party
 ||qwtbx.com^$third-party
@@ -5751,6 +5755,7 @@ debugger:$popup
 ||alitems.com^$popup,third-party
 ||all2lnk.com^$popup,third-party
 ||allyourmobi.com^$popup,third-party
+||alosafada.com^$popup,third-party
 ||altadefinizone.click^$popup,third-party
 ||altarisoluzione.online^$popup,third-party
 ||amd2016.com^$popup,third-party
@@ -6015,6 +6020,7 @@ debugger:$popup
 ||jolic2.com^$popup,third-party
 ||jouthad.com^$popup,third-party
 ||jsadapi.com^$popup,third-party
+||jsmptjmp.com^$popup,third-party
 ||justgetitfaster.com^$popup,third-party
 ||kastafor.com^$popup,third-party
 ||katuhus.com^$popup,third-party
@@ -6470,7 +6476,7 @@ debugger:$popup
 !
 $websocket,domain=10nowvideo.com|11nowvideo.com|123movies.net|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2ddl.download|2ddl.io|2ddl.la|2ddl.ooo|2ddl.org|2ddl.pro|2nowvideo.com|300mbfilms.co|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|best2ddl.net|bitvid.sx|bmovies.to|bypassed.gold|bypassed.st|cloudtime.to|datpiff.com|ddl2.org|dekoder.ws|direct-foot.info|divxstage.to|dp-stream.com|dpstream.net|dragon-ball-super-streaming.com|estream.to|extratorrent.cd|fileone.tv|flashx.sx|flashx.to|flashx.tv|fmovies.me|fmovies.se|foot-live.info|footstream.tv|freewarefiles.com|game-of-thrones-hd-streaming.com|gofile.io|gum-gum-stream.com|hq-porns.com|iiddl.com|iiddl.net|immunicity.gold|immunicity.st|immunicity.world|istreamin.com|itswatchseries.to|japscan.com|jkanime.net|keepvid.com|kinogo.club|kinokrad.co|kinotochka.net|kshowonline.com|lavamovies.com|lewd.ninja|likeupload.org|love-drama.pl|lucariostream.eu|movie4k.is|movshare.ag|movshare.net|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|oload.info|oload.stream|oload.tv|olpair.com|openload.co|papstream.co|papstream.com|papstream.net|pblv-plusbellelavie.fr|powvideo.net|primewire.ag|proxyportal.me|putlocker.io|shrink-service.it|skyback.ru|sokrostream.biz|sokrostream.cc|sokrostream.tv|sokrostream.ws|stream-foot.tv|streamango.com|streamcherry.com|streamfoot.co|streamgaroo.com|streaming-boruto.com|streaming-dragon-ball-super.com|streaming-foot.club|streaming-foot.xyz|streaming-football.eu|streaming-football.org|szukajka.tv|tddl.tv|thecountrycaller.com|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tous-sports.tv|twoddl.co|twoddl.tv|unblockall.org|unblocked.bid|unblocked.gold|unblocked.lol|unblocked.st|unlockproj.cricket|vidbom.com|videoweed.com|videoweed.es|videowood.tv|vidfile.net|vidgg.to|vidoza.net|vidto.me|vidtod.com|vidtod.me|vidtodo.com|vidup.me|vidwatch3.me|viid.me|watchvideo.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo5.us
 !
-$webrtc,domain=123movies.net|1fichier.com|9divx.org|akoam.com|beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|bypassed.gold|bypassed.st|cineiz.co|cineiz.org|cocostreaming.com|convertinmp4.com|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|cpabien.xyz|datpiff.com|ddl-island.su|destructoid.com|direct-foot.info|dpstream.net|egy.best|egybest.site|emule-island.ru|entervideo.net|extratorrent.cd|eztv.tf|eztv.wf|eztv.yt|fileone.tv|filmcomplet.tv|filmsvostfr.cc|filmsvostfr.ws|filmsvostfr.xyz|filmvf.biz|filmvf.cc|filmvf.tv|filmvf.ws|flashx.sx|flashx.to|flashx.tv|foot-live.info|footstream.tv|full-anime.com|full-film.me|full-serie.biz|full-serie.co|full-stream.biz|full-stream.nu|full-stream.su|game-of-thrones-hd-streaming.com|go4up.com|greys-anatomy-streaming.eu|greys-anatomy-streaming.org|greysanatomystreaming.com|hentai-streaming.eu|immunicity.gold|immunicity.st|itswatchseries.to|japscan.com|jkanime.net|k-streaming.com|kingvid.tv|kshowonline.com|kvid.org|latelete.tv|lavamovies.com|le-streaming.com|likeur.org|lucariostream.co|oload.info|oload.stream|oload.tv|olpair.com|openload.co|opensubtitles.org|papstream.net|papy-streaming.org|papystreaming-hd.com|papystreaming-hd.org|papystreaming.org|planet-streaming.com|playerhd1.pw|playerhd2.pw|prison-break-hd-streaming.com|proxyportal.me|putlocker.io|rapidvideo.com|regarder-film-gratuit.eu|seriestreaming.net|skstream.biz|skstream.cc|skstream.co|skstream.ws|sokrostream.biz|sokrostream.cc|sokrostream.tv|sokrostream.ws|stream-foot.tv|stream-island.ru|stream-island.su|stream-watch.co|streamango.com|streamay.ws|streamcherry.com|streamdown.cc|streamdown.tv|streamfilmzzz.com|streamfoot.co|streaming-foot.club|streaming-foot.xyz|streaming-football.eu|streaming-football.org|streaming-france.com|streaming-serie.me|streamingseries.info|streamzzz.online|telecharger-film-gratuit.fr|terafilez.com|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|thevideobee.to|torrentz2.eu|torrentz2.me|tous-sports.tv|toussports.info|unblockall.org|unblocked.bid|unblocked.gold|unblocked.lol|unblocked.st|unlockproj.cricket|uploadfiles.eu|uploadocean.com|uptostream.com|vidbom.com|vidlox.me|vidlox.tv|vidup.me|vidzi.si|voirfilms.biz|voirfilms.info|voirfilms.tv|voirfilms.ws|watchers.to|watchtvserieslive.org|yify-torrent.org|yts.ag|yts.am|yts.gs|zone-telechargement.ru|zone-telechargement.su|zone-telechargement.tv|zonetelechargement.org|zonetelechargement.su
+$webrtc,domain=123movies.net|1fichier.com|9divx.org|akoam.com|beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|bypassed.gold|bypassed.st|cineiz.co|cineiz.org|cocostreaming.com|convertinmp4.com|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|cpabien.xyz|datpiff.com|ddl-island.su|destructoid.com|direct-foot.info|dpstream.net|egy.best|egybest.site|emule-island.ru|entervideo.net|extratorrent.cd|eztv.tf|eztv.wf|eztv.yt|fileone.tv|filmcomplet.tv|filmsvostfr.cc|filmsvostfr.ws|filmsvostfr.xyz|filmvf.biz|filmvf.cc|filmvf.tv|filmvf.ws|flashx.sx|flashx.to|flashx.tv|foot-live.info|footstream.tv|full-anime.com|full-film.me|full-serie.biz|full-serie.co|full-stream.biz|full-stream.nu|full-stream.su|game-of-thrones-hd-streaming.com|go4up.com|greys-anatomy-streaming.eu|greys-anatomy-streaming.org|greysanatomystreaming.com|hentai-streaming.eu|immunicity.gold|immunicity.st|itswatchseries.to|japscan.com|jkanime.net|k-streaming.com|kingvid.tv|kshowonline.com|kvid.org|latelete.tv|lavamovies.com|le-streaming.com|likeur.org|lucariostream.co|nowvideo.sx|oload.info|oload.stream|oload.tv|olpair.com|openload.co|opensubtitles.org|papstream.net|papy-streaming.org|papystreaming-hd.com|papystreaming-hd.org|papystreaming.org|planet-streaming.com|playerhd1.pw|playerhd2.pw|prison-break-hd-streaming.com|proxyportal.me|putlocker.io|rapidvideo.com|regarder-film-gratuit.eu|seriestreaming.net|skstream.biz|skstream.cc|skstream.co|skstream.ws|sokrostream.biz|sokrostream.cc|sokrostream.tv|sokrostream.ws|stream-foot.tv|stream-island.ru|stream-island.su|stream-watch.co|streamango.com|streamay.ws|streamcherry.com|streamdown.cc|streamdown.tv|streamfilmzzz.com|streamfoot.co|streaming-foot.club|streaming-foot.xyz|streaming-football.eu|streaming-football.org|streaming-france.com|streaming-serie.me|streamingseries.info|streamzzz.online|telecharger-film-gratuit.fr|terafilez.com|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|thevideobee.to|torrentz2.eu|torrentz2.me|tous-sports.tv|toussports.info|unblockall.org|unblocked.bid|unblocked.gold|unblocked.lol|unblocked.st|unlockproj.cricket|uploadfiles.eu|uploadocean.com|uptostream.com|vidbom.com|vidlox.me|vidlox.tv|vidup.me|vidzi.si|voirfilms.biz|voirfilms.info|voirfilms.tv|voirfilms.ws|watchers.to|watchtvserieslive.org|wholecloud.net|yify-torrent.org|yts.ag|yts.am|yts.gs|zone-telechargement.ru|zone-telechargement.su|zone-telechargement.tv|zonetelechargement.org|zonetelechargement.su
 !
 |blob:$domain=10nowvideo.com|11nowvideo.com|123movies.net|12nowvideo.com|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|bmovies.to|bypassed.gold|bypassed.st|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dpstream.net|dragon-ball-super-streaming.com|extratorrent.cd|fmovies.me|fmovies.se|freewarefiles.com|immunicity.gold|immunicity.st|immunicity.world|istreamin.com|japscan.com|keepvid.com|kinogo.club|kinotochka.net|kshowonline.com|lavamovies.com|likeupload.org|lucariostream.eu|movshare.ag|movshare.net|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|oload.info|oload.stream|oload.tv|primewire.ag|proxyportal.me|putlocker.io|seasonvar.ru|sokrostream.biz|sokrostream.cc|sokrostream.tv|sokrostream.ws|streamango.com|streamdown.cc|streamdown.tv|streamgaroo.com|streaming-boruto.com|streaming-dragon-ball-super.com|thecountrycaller.com|unblockall.org|unblocked.bid|unblocked.gold|unblocked.lol|unblocked.st|unlockproj.cricket|videoweed.com|videoweed.es|videowood.tv|vidgg.to|vidlox.me|vidlox.tv|vidwatch3.me|viid.me|watchvideo.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo5.us
 !
@@ -12791,6 +12797,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##a[href*="/inter?implementation_id="]
 ##a[href*="/myAdd?id="]
 ##a[href*="/p_tools/promo.php?"]
+##a[href*="/publieditorial/"]
 ##a[href*="/redirect.php?title="]
 ##a[href*="/redirect?partenaire="]
 ##a[href*="/redirect?tid="]
