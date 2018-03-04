@@ -3375,6 +3375,7 @@ debugger:$popup
 ||jor1.net^$third-party
 ||journaux-du-midi.com^$third-party
 ||jsadapi.com^$third-party
+||jsmptjmp.com^$third-party
 ||justasingle.click^$third-party
 ||kadserver.com^$third-party
 ||kalqui.com^$third-party
@@ -6032,7 +6033,6 @@ debugger:$popup
 ||jolic2.com^$popup,third-party
 ||jouthad.com^$popup,third-party
 ||jsadapi.com^$popup,third-party
-||jsmptjmp.com^$popup,third-party
 ||justgetitfaster.com^$popup,third-party
 ||kastafor.com^$popup,third-party
 ||katuhus.com^$popup,third-party
@@ -12785,6 +12785,9 @@ hentaifr.net##a[id^="ga-skin-"]
 ##a[href*=".voluumtrk.com/"]
 ##a[href*=".xxcdn.pw/"]
 ##a[href*="//afftrack001.com/"]
+##a[href*="//jsmentry.com/"]
+##a[href*="//jsmjmp.com/"]
+##a[href*="//jsmptjmp.com/"]
 ##a[href*="/?a_aid="]
 ##a[href*="/a/display.php?"]
 ##a[href*="/adagency/"] > img
