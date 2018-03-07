@@ -6770,6 +6770,7 @@ http://images.futbolbase.us/peponi2.html
 ||cyonix.to^$subdocument
 ||d4.fr/img/$third-party
 ||d4.fr/img/af_$third-party
+||d836pbl.club/imgs/N_IMG_
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
 ||dailymotion.com^$domain=01streamingvf.com|captainmugiwara.fr|dragon-ball-super-stream.com|greysanatomystreaming.com|manga-fr.com|mysharelink.fr|one-piece-streaming.eu
@@ -12754,6 +12755,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##a[href*="%2Fapi%2Fmpup%2F"]
 ##a[href*=".ad2up.com/"]
 ##a[href*=".adbooth.com/"]
+##a[href*=".adsbtrk.com/"]
 ##a[href*=".brucelead.com/"]
 ##a[href*=".get-media.co/"]
 ##a[href*=".ichlnk.com/"]
@@ -12830,6 +12832,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##a[href*="://click.a-ads.com/"]
 ##a[href*="://code.tubeadvertising.eu/"]
 ##a[href*="://duck-quack.com/"]
+##a[href*="://eroges.com/"]
 ##a[href*="://go.nordvpn.net/aff_"] > img
 ##a[href*="://goodclickads.com/"]
 ##a[href*="://hilltopads.net/"]
@@ -13087,10 +13090,6 @@ zonebourse.com###Middle2_id
 installations-home-cinema.eu###Partenaire
 bfmtv.com###Tpromo
 mappy.com###a300x600
-japscan.com###a_d_1
-japscan.com###a_d_2
-japscan.com###a_d_3
-japscan.com###a_d_4
 ahlaejaba.com,hqq.tv,hqq.watch,net-iris.fr,orange.fr,radio.co.ma###ad
 annuaire-inverse-france.com,ecouter-en-direct.com,liveradio.fr###ad1
 ecouter-en-direct.com###ad2
@@ -13209,6 +13208,7 @@ onlinetri.com###box_link_left
 onlinetri.com###box_link_right
 onlinetri.com###box_link_top
 algerie360.com###boxes
+japscan.com###boy
 conseils-courseapied.com###cadre-vignette-carnet
 soonnight.com###cadre_partenaire
 piwee.net###campain_bg
@@ -14746,6 +14746,7 @@ notebookcheck.biz##div[id] + div[class] > img:first-child
 voyageforum.com##div[id][style="width: 850px; height: 127px; overflow: hidden; vertical-align: top;"]
 vakarm.net##div[id][style][onclick]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
+japscan.com##div[id^="a_d_"]
 forumconstruire.com##div[id^="bloc_discussion_"] > :first-child + div
 fan2.fr,mcm.fr,melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,meltyxtrem.fr,virginradio.fr##div[id^="container_A2_"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr##div[id^="eShowPub"]
