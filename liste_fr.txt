@@ -152,6 +152,7 @@
 -banner728.
 -banner_600x100.
 -banners/ads_
+-Block-ads-
 -cgi/ads/
 -Content-ads-
 -dfp_controller.
@@ -7019,6 +7020,7 @@ http://images.futbolbase.us/peponi2.html
 ||jeux-web.com/pub/
 ||jobaproximite.com/external-search
 ||jobat.be/ticker/$subdocument,third-party
+||jobtransport.com^$subdocument,third-party
 ||jobup.ch/*?server=$third-party
 ||jokconcept.net/images/jok-concept-annuaire-referencement.gif
 ||jolstatic.fr/www/modules/pub/
@@ -13725,6 +13727,7 @@ hdfever.fr,homecinema-fr.com##.aliencable-link
 sitesavisiter.com##.alj
 quellecompagnie.com##.amazon
 idees-de-genie.fr##.amazon_pub
+tourhebdo.com##.annemp
 madagascar-tribune.com##.annonce
 sortir.eu##.annonce-container
 webrankinfo.com##.annonce-gris
