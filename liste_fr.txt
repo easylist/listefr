@@ -5481,8 +5481,8 @@ debugger:$popup
 ||freecontent.win^$third-party
 ||freshrefresher.com^$third-party
 ||g-content.bid^$third-party
-||github.io^$third-party,websocket,domain=~github.com
-||github.io^$third-party,xmlhttprequest,domain=~github.com
+||github.io^$third-party,websocket,domain=~github.com|~tumblr.com
+||github.io^$third-party,xmlhttprequest,domain=~github.com|~tumblr.com
 ||github.io^*?proxy=ws:$third-party
 ||goredirect.party^$third-party
 ||gridiogrid.com^$third-party
