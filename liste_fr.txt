@@ -5247,9 +5247,14 @@ debugger:$popup
 ||somdi.date^
 ||yand.date^
 ! uponit.com
-||acrabakasaka.com^
-||banomago.com^
-||kurlikburlik.com^
+|wss://a.*.com/wsm|$third-party,websocket
+||melahorgani.com^
+||pukrazopchatka.com^
+||rodirola.com^
+||tokaripupsi.com^
+||tollibolli.com^
+||trasholita.com^
+||zozolilla.com^
 ! toroadvertising.com
 ||asadismn.xyz^$third-party
 ||asjdfasas.xyz^$third-party
