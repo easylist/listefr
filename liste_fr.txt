@@ -5914,6 +5914,7 @@ debugger:$popup
 ||cometstar.net^$popup,third-party
 ||companypolicyurl.com^$popup,third-party
 ||compazenad.com^$popup,third-party
+||conceau.co^$popup,third-party
 ||configs-pc.com^$popup,third-party
 ||connectionpower.pw^$popup,third-party
 ||coolood.biz^$popup,third-party
@@ -8060,8 +8061,8 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,direct
 |http://$script,third-party,xmlhttprequest,domain=film-streaming-vf.org|filmstreamingvf.ws
 |https://$script,third-party,xmlhttprequest,domain=film-streaming-vf.org|filmstreamingvf.ws
 ! filmstreamvk.net
-|http://$script,stylesheet,third-party,xmlhttprequest,domain=filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.net|filmstreamvk.org|filmstreamvk.ws
-|https://$script,stylesheet,third-party,xmlhttprequest,domain=filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.net|filmstreamvk.org|filmstreamvk.ws
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.ws
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.ws
 ! lucariostream.co
 |http://$script,xmlhttprequest,domain=lucariostream.co
 |https://$script,xmlhttprequest,domain=lucariostream.co
