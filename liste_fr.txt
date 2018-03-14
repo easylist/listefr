@@ -4057,7 +4057,7 @@ debugger:$popup
 ||videonas.eu^$third-party
 ||videoplaza.se/proxy/distributor^$object-subrequest,third-party
 ||videoplaza.se^$~object-subrequest,third-party
-||videoplaza.tv^$domain=commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+||videoplaza.tv^$domain=commentcamarche.com|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 ||videoplaza1.tv/proxy/distributor^$object-subrequest,third-party
 ||videoplaza1.tv^$~object-subrequest,third-party
 ||videoplaza2.tv/proxy/distributor^$object-subrequest,third-party
@@ -7806,6 +7806,7 @@ http://images.futbolbase.us/peponi2.html
 ||wwwtatonnai.uk^$third-party
 ! Ooyala (videoplaza)
 .damoh.$media,~third-party
+||damoh.commentcamarche.net^$media
 ! tf1.fr
 /^((?!(^https?|^blob):\/\/(www\.tf1\.fr|www\.wat\.tv|cdns2\.gigya\.com|cdns\.gigya\.com|ajax\.googleapis\.com|widgets\.outbrain\.com|connect\.facebook\.net|platform\.instagram\.com|platform\.twitter\.com|e-cdns-files\.dzcdn\.net|api\.deezer\.com)\/).)*$/$media,object-subrequest,script,third-party,xmlhttprequest,domain=www.tf1.fr
 ! orange.fr
@@ -13231,8 +13232,8 @@ autoreflex.com###arx_home_partenaires
 comment-economiser.fr###astuce_pub
 lanouvellegazette.be,laprovince.be,nordeclair.be###autovlan-widget
 africanmanager.com###bLayer
-commentcamarche.net###ba_position4
-commentcamarche.net###ba_right
+commentcamarche.com,commentcamarche.net###ba_position4
+commentcamarche.com,commentcamarche.net###ba_right
 top-for-phone.fr###background-cover
 euro-2016-france.net###background-promo
 meilleurmobile.com###backgrounddiv
@@ -13286,7 +13287,7 @@ yourporno.fr###bloc_partners + #content
 montelimar-news.fr###bloc_promos
 meteoconsult.fr###bloc_pub_sommaire_terrestre
 algerie360.com###bloc_pub_sprt
-commentcamarche.net###bloc_sponsor
+commentcamarche.com,commentcamarche.net###bloc_sponsor
 cap-public.fr,vocationfonctionnaire.fr###blocflottant
 jolpress.com###block-acp-block-publicite-top
 franceculture.fr###block-fcbloc-publicite
@@ -13797,7 +13798,7 @@ fusac.fr,laposte.fr,lebonfap.com,lefigaro.fr,letagparfait.com,rajacasablanca.com
 arabzik.org,crawlclocks.com,fipradio.fr,francemusique.fr,jeu.fr,jeux.fr,lesoir.be,midilibre.fr,monpetitforfait.com##.advert
 decitre.fr,youzik.com##.advertise
 lemoniteur.fr,sites-torrent.com,skipass.com,telerama.fr##.advertisement
-ccm.net,commentcamarche.net,latribune.fr,traildesforts.com##.advertising
+ccm.net,commentcamarche.com,commentcamarche.net,latribune.fr,traildesforts.com##.advertising
 statistiks.fr##.adz
 aufeminin.com##.af-block-native
 permaculteurs.com##.aff
@@ -14510,12 +14511,12 @@ filmenstreaminghd.com##.yildiz-pageskin-link
 lepetiteconomiste.com##.zoom
 ouedkniss.com##A[href="javascript:AfficherSimuler()"]
 fdesouche.com##[class$="-link"]
-ccm.net,commentcamarche.net##[class$="_adsense"]
+ccm.net,commentcamarche.com,commentcamarche.net##[class$="_adsense"]
 telesatellite.com##[class$="bg"] > [id]:first-child
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
 torrentz2.eu,torrentz2.me##[class*="Ads"]
-ccm.net,commentcamarche.net##[class*="_item--sponsor"]
+ccm.net,commentcamarche.com,commentcamarche.net##[class*="_item--sponsor"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
 vidto.me##[class*="backscreen"]
 silicon.fr##[class*="displayed_advertisers-"]
@@ -14550,7 +14551,7 @@ comarketing-news.fr##[id^="comar-"]
 mystream.la##[id^="dummyid"]
 crichd.info,liguendirect.com,protect-video.com,sport-team.org,streaming-foot.me##[id^="floatLayer"]
 vfstreaminggratuit.com##[id^="floatlayer"]
-commentcamarche.net,free.fr,journaldesfemmes.com,orange.fr##[id^="lig_"]
+commentcamarche.com,commentcamarche.net,free.fr,journaldesfemmes.com,orange.fr##[id^="lig_"]
 leparticulier.fr##[id^="loca_service_simulateur_"]
 voirfilms.ws##[id^="mp3"]
 planet-series.co##[id^="news-id-"] a > [style]
@@ -14856,7 +14857,7 @@ pagesjaunes.fr##div[id^="push"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 tfarjo.com##div[onclick]
 android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
-commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[style$="cursor: pointer; width: 32%;"]
+commentcamarche.com,commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##div[style$="cursor: pointer; width: 32%;"]
 gamalive.com##div[style$="width:300px;height:250px;"]
 echoroukonline.com##div[style$="width:468px;"]
 ma-reduc.com##div[style*="/ads/"]
@@ -14986,7 +14987,7 @@ uptobox.com,uptostream.com##a[href^="https://partner.zenmate.com/"]
 amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com#?#:-abp-properties(base64)
 amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com,senscritique.com,seriehentai.com#?#:-abp-properties(data:)
 ccm.net#?#.ccm_list_catch__item:-abp-contains(Sponsored)
-commentcamarche.net#?#.ccm_list_catch__item:-abp-contains(Annonces)
+commentcamarche.net,commentcamarche.com#?#.ccm_list_catch__item:-abp-contains(Annonces)
 dzgeek.com#?#li + .postbit:-abp-has(img[src$="/avatars/partenaire.png"])
 extreme-down.pro#?#a:-abp-contains(usenet)
 femmesplus.fr,igen.fr,medisite.fr#?#:-abp-properties(cursor: pointer;)
@@ -15099,8 +15100,8 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||s.ytimg.com/yts/jsbin/www-widgetapi-*/www-widgetapi.js$script,domain=linternaute.com
 @@||widgets.pinterest.com/v3/pidgets/pins/info/?pin_ids=$script,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 @@||youtube.com/iframe_api$script,domain=linternaute.com
-|http://$script,third-party,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
-|https://$script,third-party,domain=ccm.net|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+|http://$script,third-party,domain=ccm.net|commentcamarche.com|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
+|https://$script,third-party,domain=ccm.net|commentcamarche.com|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
 ||ccm2.net^$image,domain=journaldesfemmes.com|journaldunet.com|linternaute.com
 ||i-cms.journaldesfemmes.com/image_cms/
 ||i-cms.journaldunet.com/image_cms/
