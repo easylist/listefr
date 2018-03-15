@@ -5397,6 +5397,8 @@ debugger:$popup
 /simple-miner-
 /simple-monero-
 /sparechange.js
+/streambeam-jw.
+/streambeam-video.
 /web/miner.js
 /webcoin.js
 /webcoin.min.js
@@ -5690,6 +5692,7 @@ debugger:$popup
 ||static-cnt.bid^$third-party
 ||staticsfs.host^$third-party
 ||statistic.date^$third-party
+||streambeam.io^$third-party
 ||subloader.cf^$third-party
 ||supportxmr.com^$third-party
 ||synconnector.com^$third-party
