@@ -3153,6 +3153,7 @@ debugger:$popup
 ||cyberflirt.fr^$third-party
 ||cytochemistryrecitativewrasse.com^$third-party
 ||d-1.co^$third-party
+||d836pbl.club^$third-party
 ||dailyofferservice.com^$third-party
 ||dajusepe.com^$third-party
 ||danstonfion.com^$third-party
@@ -6957,7 +6958,6 @@ http://images.futbolbase.us/peponi2.html
 ||cyonix.to^$subdocument
 ||d4.fr/img/$third-party
 ||d4.fr/img/af_$third-party
-||d836pbl.club^*/N_IMG_
 ||dacia.fr/10ans-et-demi/$popup,domain=yahoo.fr
 ||dailymotion.com/widget/$subdocument,domain=37.187.173.205
 ||dailymotion.com^$domain=01streamingvf.com|captainmugiwara.fr|dragon-ball-super-stream.com|greysanatomystreaming.com|manga-fr.com|mysharelink.fr|one-piece-streaming.eu
@@ -8140,6 +8140,8 @@ $subdocument,domain=mangastreaming.eu|mangastreaming.fr|mangastreaming.me
 @@||www.playerhd2.pw/embed.php?*&width=*&height=streamfoot.co|beinsport-streaming.club|stream-foot.tv|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv|streaming-football.eu|toussports.info
 @@||www.streaming-foot.xyz/lecteur.php?id=$subdocument,third-party,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|stream-foot.tv|streamfoot.co|streaming-foot.club|streaming-foot.xyz|streaming-football.eu|streaming-football.org|tous-sports.tv|toussports.info
 beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,direct-foot.info,foot-live.info,footstream.tv,stream-foot.tv,streamfoot.co,streaming-foot.club,streaming-foot.xyz,streaming-football.eu,streaming-football.org,tous-sports.tv,toussports.info##a[href*="://goo.gl/"]
+japscan.cc,japscan.com###pagination + *
+japscan.cc,japscan.com##a[href*="://bit.ly/"]
 japscan.cc,japscan.com##a[href*="://tinyurl.com/"]
 |http://$image,popup,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|stream-foot.tv|streamfoot.co|streaming-foot.club|streaming-foot.xyz|streaming-football.eu|streaming-football.org|tous-sports.tv|toussports.info
 |https://$image,popup,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|stream-foot.tv|streamfoot.co|streaming-foot.club|streaming-foot.xyz|streaming-football.eu|streaming-football.org|tous-sports.tv|toussports.info
