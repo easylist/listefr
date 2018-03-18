@@ -5733,6 +5733,27 @@ debugger:$popup
 ||ywtjdckysve.com^$third-party
 ||zlx.com.br^$third-party
 !
+||1bcde.com^$third-party
+||babyboomboomads.com^$third-party
+||broomboxmain.com^$third-party
+||comegarage.com^$third-party
+||downloadgot.com^$third-party
+||evenexcite.com^$third-party
+||glxfls.com^$third-party
+||gmyvids.com^$third-party
+||injuredcandy.com^$third-party
+||jackettrain.com^$third-party
+||letsdoarbitrage.com^$third-party
+||mobdisc.net^$third-party
+||mobdisc.org^$third-party
+||mobsoftffree.xyz^$third-party
+||pushmobilenews.com^$third-party
+||safelyawake.com^$third-party
+||smashseek.com^$third-party
+||speedlinkdown.com^$third-party
+||strainemergency.com^$third-party
+||theirsvendor.com^$third-party
+!
 !-------------------- Annonceurs popup --------------------!
 !
 ||104.154.237.$popup,third-party
@@ -6355,6 +6376,7 @@ debugger:$popup
 ||ptcong.com^$popup,third-party
 ||pub2srv.com^$popup,third-party
 ||pulseonclick.com^$popup,third-party
+||pushmobilenews.com^$popup,third-party
 ||pushplay.com^$popup,third-party
 ||pvrtx.net^$popup,third-party
 ||pwdplz.com^$popup,third-party
@@ -8245,6 +8267,9 @@ japscan.cc,japscan.com##a[href*="://tinyurl.com/"]
 @@||netdna.bootstrapcdn.com/bootstrap/$script,domain=uploads.to
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=uploads.to
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=uploads.to
+! macupload.net
+|http://$script,third-party,xmlhttprequest,domain=macupload.net
+|https://$script,third-party,xmlhttprequest,domain=macupload.net
 ! filescdn.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=filescdn.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=filescdn.com
