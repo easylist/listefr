@@ -8140,9 +8140,6 @@ $subdocument,domain=mangastreaming.eu|mangastreaming.fr|mangastreaming.me
 @@||www.playerhd2.pw/embed.php?*&width=*&height=streamfoot.co|beinsport-streaming.club|stream-foot.tv|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|streaming-foot.club|streaming-foot.xyz|streaming-football.org|tous-sports.tv|streaming-football.eu|toussports.info
 @@||www.streaming-foot.xyz/lecteur.php?id=$subdocument,third-party,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|stream-foot.tv|streamfoot.co|streaming-foot.club|streaming-foot.xyz|streaming-football.eu|streaming-football.org|tous-sports.tv|toussports.info
 beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,direct-foot.info,foot-live.info,footstream.tv,stream-foot.tv,streamfoot.co,streaming-foot.club,streaming-foot.xyz,streaming-football.eu,streaming-football.org,tous-sports.tv,toussports.info##a[href*="://goo.gl/"]
-japscan.cc,japscan.com###pagination + *
-japscan.cc,japscan.com##a[href*="://bit.ly/"]
-japscan.cc,japscan.com##a[href*="://tinyurl.com/"]
 |http://$image,popup,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|stream-foot.tv|streamfoot.co|streaming-foot.club|streaming-foot.xyz|streaming-football.eu|streaming-football.org|tous-sports.tv|toussports.info
 |https://$image,popup,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=beinsport-streaming.club|beinsport-streaming.com|beinsport-streaming.info|direct-foot.info|foot-live.info|footstream.tv|stream-foot.tv|streamfoot.co|streaming-foot.club|streaming-foot.xyz|streaming-football.eu|streaming-football.org|tous-sports.tv|toussports.info
 ||beinsport-streaming.club^$subdocument,third-party
@@ -13651,6 +13648,7 @@ cdiscount.com###paFooterPubPartner
 lebonfap.com###page-sexcam--roomlist
 ouedkniss.com###page_interstitiel
 blogspot.com###pageflip
+japscan.cc,japscan.com###pagination + *
 lemonde.fr###panneau-programme-emploi
 saucissonsexe.com###paragraphe
 aujourdhui-en-france.fr,leparisien.fr###parisien-partenaires
@@ -14734,13 +14732,14 @@ ddl-island.su,emule-island.ru,stream-island.su##a[href*="/xxx/"]
 rtl.be##a[href*="://ad.doubleclick.net/"]
 comment-supprimer.com,igen.fr,leparking.fr,macg.co,needsandmoods.com,refurbgeneration.com,sosiphone.com,watchgeneration.fr##a[href*="://ad.zanox.com/"]
 ddl-island.su,emule-island.ru,stream-island.ru,stream-island.su##a[href*="://ads."]
-cnetfrance.fr,filmhdstream.net,internetparsatellite.net,lebonfap.com,letagparfait.com,pixhost.org,rockfile.eu,streaminghd.fr,streaminghd.watch,telesatellite.com,topito.com,vakarm.net##a[href*="://bit.ly/"]
+cnetfrance.fr,filmhdstream.net,internetparsatellite.net,japscan.cc,japscan.com,lebonfap.com,letagparfait.com,pixhost.org,rockfile.eu,streaminghd.fr,streaminghd.watch,telesatellite.com,topito.com,vakarm.net##a[href*="://bit.ly/"]
 clubic.com,cnetfrance.fr##a[href*="://click.linksynergy.com/"]
 boutiquesensolde.fr,clubic.com,supertoinette.com,tomtomax.fr##a[href*="://clk.tradedoubler.com/"]
 abidjan.net,algerie-focus.com,algerie360.com,bc.vc,direct-torrents.com,dpstreaming-series.com,dpstreaming.cx,dpstreaming.watch,dpstreaming.yt,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extratorrents.ch,gum-gum-streaming.com,hentai-streaming.eu,igen.fr,israelmagazine.co.il,jeux.com,journaldumusulman.fr,limetorrents.cc,lnc.nc,macg.co,mangastreaming.eu,mangastreaming.fr,orientation-chabab.com,proxylistpro.com,streaming-boruto.com,streaming-dragon-ball-super.com,tendancehotellerie.fr,watchgeneration.fr##a[href*="://goo.gl/"]
 dpstream.net##a[href*="://plarium.com/"]
 amateur2sexe.fr,pornovore.fr##a[href*="://pqr."]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
+japscan.cc,japscan.com##a[href*="://tinyurl.com/"]
 jeuxetcompagnie.fr##a[href*="://www.ludeek.com/"] > img
 voyageforum.com##a[href*=";text_ad="]
 mistergooddeal.com##a[href*="=H_pub_"]
