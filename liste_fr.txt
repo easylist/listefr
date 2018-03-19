@@ -5706,7 +5706,7 @@ debugger:$popup
 ||staticsfs.host^$third-party
 ||statistic.date^$third-party
 ||streambeam.io^$third-party
-||streamplay.to^*.wasm$xmlhttprequest
+||streamplay.*.wasm$xmlhttprequest
 ||subloader.cf^$third-party
 ||supportxmr.com^$third-party
 ||synconnector.com^$third-party
