@@ -5371,7 +5371,9 @@ debugger:$popup
 -monero-miner-
 -monero-miner.$domain=~wp-monero-miner.com
 -monero-miner/
-.spacepools.
+.aspx?poolid=
+.cfm?poolid=
+.spacepools.*:
 /ajcm-inject.
 /ajcryptominer/*
 /authedmine.min.js
@@ -5438,7 +5440,9 @@ debugger:$popup
 =ws://*?pools=
 =wss://*?pool=
 =wss://*?pools=
+?*.spacepools.
 ?proxy=*?pool=
+?proxy=*?pools=
 ?proxy=ws://$script,websocket
 ?proxy=wss://$script,websocket
 ||1beb2a44.space^$third-party
@@ -5716,6 +5720,7 @@ debugger:$popup
 ||siteverification.online^$third-party
 ||siteverification.site^$third-party
 ||smectapop12.pl^$third-party
+||spacepools.org^$third-party
 ||sparechange.io^$third-party
 ||sparnove.com^$third-party
 ||stat0808.info^$third-party
