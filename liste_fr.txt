@@ -13427,7 +13427,6 @@ igen.fr,macg.co,watchgeneration.fr###block-gsphere-refurb
 lemouv.fr###block-lemouv_bloc-pub_ftv_right
 lemouv.fr,mouv.fr###block-lemouv_bloc-pub_ftv_top
 macg.co###block-quicktabs-bon-plans-macg-
-medisite.fr###block-sp-regimes-sp-regimes
 manga-news.com###block-up
 voyages-sncf.com###block-vsct_vsca-megabanner
 franceinfo.fr###block-zerobloc-pub-ftv-carre
@@ -15127,8 +15126,6 @@ ccm.net#?#.ccm_list_catch__item:-abp-contains(Sponsored)
 commentcamarche.net,commentcamarche.com#?#.ccm_list_catch__item:-abp-contains(Annonces)
 dzgeek.com#?#li + .postbit:-abp-has(img[src$="/avatars/partenaire.png"])
 extreme-down.pro#?#a:-abp-contains(usenet)
-femmesplus.fr,igen.fr,medisite.fr#?#:-abp-properties(cursor: pointer;)
-femmesplus.fr,medisite.fr,planet.fr#?#:-abp-properties(background-image: *;)
 forumconstruire.com#?#div.post_classic:-abp-has(.post_classic_pseudo:-abp-contains(Autopromo))
 forumpiscine.com#?#div[id][class^="postbox_forum_"]:-abp-has(.forum_pseudo_contener:-abp-contains(Autopromo))
 frandroid.com#?#.post-preview:-abp-has(.sponsoring-brand-link)
@@ -15139,6 +15136,7 @@ igen.fr#?#.article a:-abp-properties(display: block;)
 igen.fr#?#.region-sidebar a:-abp-properties(*)
 igen.fr#?#.sidebar :-abp-properties(cursor: pointer;)
 igen.fr#?#.view-content :-abp-properties(background-image:*;)
+igen.fr#?#:-abp-properties(cursor: pointer;)
 igen.fr,macg.co#?#.article span:-abp-properties(background-image: *;)
 igen.fr,macg.co#?#.article span:-abp-properties(padding-top: *px;)
 igen.fr,macg.co#?#:-abp-properties(background-image: url(*;)
@@ -15167,15 +15165,10 @@ $subdocument,~third-party,domain=football365.fr|igen.fr|macg.co|mercato365.com|r
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
 @@||disqus.com/embed.js$script,domain=football365.fr|mercato365.com|rugby365.fr|sport365.fr
 @@||disquscdn.com^$script,domain=football365.fr|mercato365.com|rugby365.fr|sport365.fr
-@@||platform.instagram.com^*/embeds.js$script,domain=femmesplus.fr
-@@||player.mediabong.com^*/video.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
-@@||player.qualifio.com/kit/qualp.2.min.js$script,domain=medisite.fr
 @@||players.brightcove.net/*_default/index.min.js$script,third-party,domain=lachainemeteo.com
-@@||preprod-img.planet.fr/files/advagg_js/js_*.js$script,domain=femmesplus.fr
-@@||static.mediabong.com/scripts/mb.*.js$script,domain=femmesplus.fr|medisite.fr|planet.fr
-|http://$script,third-party,domain=aventure-apple.com|femmesplus.fr|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|mercato365.com|planet.fr|refurbgeneration.com|rugby365.fr|sport365.fr
+|http://$script,third-party,domain=aventure-apple.com|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|mercato365.com|refurbgeneration.com|rugby365.fr|sport365.fr
 |http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se|watchgeneration.fr
-|https://$script,third-party,domain=aventure-apple.com|femmesplus.fr|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|medisite.fr|mercato365.com|planet.fr|refurbgeneration.com|rugby365.fr|sport365.fr
+|https://$script,third-party,domain=aventure-apple.com|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|mercato365.com|refurbgeneration.com|rugby365.fr|sport365.fr
 ||fourchette-et-bikini.fr^$xmlhttprequest
 ||xiti.com^$domain=lachainemeteo.com
 ! heures.be
@@ -15244,46 +15237,10 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 ||i-cms.journaldunet.com/image_cms/
 ||i-cms.linternaute.com/image_cms/
 !
-medisite.fr###block-gc-ad-bloc-centre-1 + * img
-planet.fr###block-sp-node-sp-node-videos-home + [class]
-planet.fr###block-sp-node-sp-node-videos-home + span > img
-planet.fr###block-system-main + * img
-femmesplus.fr###block-system-main + div + * img
-femmesplus.fr###block-system-main + div > img
-femmesplus.fr,planet.fr###block-system-main + span > img
-medisite.fr###block-system-main > [id] > img
-femmesplus.fr###block-system-main > div + div > img
-medisite.fr###block-system-main > div > img
-femmesplus.fr###columns div > span > img
-planet.fr###content > div > img
-femmesplus.fr,planet.fr###content [style]
-medisite.fr###main-content-header > [id^="logo_"]
-medisite.fr###navigation-content + * > * > img
-medisite.fr###page > div > img
 igen.fr,macg.co,watchgeneration.fr##.bloc-accroches + h2 + br + [class]
 igen.fr,macg.co,watchgeneration.fr##.bloc-accroches + h2 + br + [id]
-planet.fr##.block-content + div > img
-femmesplus.fr##.block-fp-video-mediabong + * + * + *
-medisite.fr##.block-gc-ad + [id] > :first-child > img
-femmesplus.fr##.block-views + * + * + *
-femmesplus.fr##.block-views + div > img
-planet.fr##.even + section > img
-planet.fr##.odd > section > img
-medisite.fr##.region > [id] > img
-medisite.fr##.region > a > img
-femmesplus.fr,medisite.fr##.region > div > img
-femmesplus.fr##.region-inner > div > img
-femmesplus.fr##.region-inner > section
-planet.fr##.region-inner.clearfix > div > img
-femmesplus.fr,planet.fr##.region-sidebar-first [class] > img
-femmesplus.fr,planet.fr##.region-sidebar-first [id] > img
-planet.fr##.region-sidebar-first span > img
-femmesplus.fr,planet.fr##.sidebar [style]
 igen.fr,macg.co,watchgeneration.fr##[class] > img:last-child
-medisite.fr##[id] > a > img
 igen.fr,macg.co,watchgeneration.fr##[id] > img
-femmesplus.fr,planet.fr##aside > img
-femmesplus.fr##section[id] > img
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
