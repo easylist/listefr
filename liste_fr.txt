@@ -4476,6 +4476,7 @@ debugger:$popup
 ||artelled.com^
 ||artpurch.info^
 ||auctional.info^
+||austery.info^
 ||awidness.com^
 ||ayclinical.com^
 ||bargetbook.com^
@@ -4498,6 +4499,7 @@ debugger:$popup
 ||capacitly.com^
 ||castinct.info^
 ||cecrating.info^
+||certakes.com^
 ||chardneave.info^
 ||charmstroy.info^
 ||choolslot.info^
@@ -4674,6 +4676,7 @@ debugger:$popup
 ||whitectione.info^
 ||whonami.info^
 ||wirefined.com^
+||withingol.info^
 ||womente.info^
 ||wondence.info^
 ||worthod.info^
@@ -8553,6 +8556,7 @@ fruitstreams.com,fruitadblock.net|oload.info,oload.stream,oload.tv,olpair.com,op
 ! mystream.la
 |http://$ping,script,subdocument,third-party,xmlhttprequest,domain=mystream.la
 |https://$ping,script,subdocument,third-party,xmlhttprequest,domain=mystream.la
+||mystream.la^$third-party
 ! flowyourvideo.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=flowyourvideo.com
 @@||code.jquery.com^$script,domain=flowyourvideo.com
