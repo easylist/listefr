@@ -2193,7 +2193,7 @@ _frontend_loader.$script
 &pubid=*-panther&$popup
 &pubid=*.adult.*&$popup
 &publisherid=$popup
-&pubref=*&utm_campaign=$popup
+&pubref=*&utm_$popup
 &pubsite=$popup
 &r=*&zoneid=$popup
 &redid=*&pop=$popup
@@ -2426,6 +2426,7 @@ _frontend_loader.$script
 ://xml.*/click?$popup
 ://xml.*/redirect?$popup
 ://xmlsearch.*/click?$popup
+;pubref=*;utm_$popup
 =*&referrer=*embed-$popup
 =admaven-$popup
 =adplexmedia&$popup
