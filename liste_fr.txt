@@ -12769,6 +12769,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##.recipe-col-droite-ad
 ##.recipe-col-droite-ad-caption
 ##.red-ad
+##.region-pubheader
 ##.reklam-gizle
 ##.reklam-side
 ##.reklam728x90
@@ -13423,10 +13424,8 @@ commentcamarche.com,commentcamarche.net###bloc_sponsor
 cap-public.fr,vocationfonctionnaire.fr###blocflottant
 jolpress.com###block-acp-block-publicite-top
 franceculture.fr###block-fcbloc-publicite
-igen.fr,macg.co,watchgeneration.fr###block-gsphere-refurb
 lemouv.fr###block-lemouv_bloc-pub_ftv_right
 lemouv.fr,mouv.fr###block-lemouv_bloc-pub_ftv_top
-macg.co###block-quicktabs-bon-plans-macg-
 manga-news.com###block-up
 voyages-sncf.com###block-vsct_vsca-megabanner
 franceinfo.fr###block-zerobloc-pub-ftv-carre
@@ -13959,11 +13958,6 @@ voyageforum.com##.annoncer_sur
 toplien.fr##.annuinv-index-gauche
 neowebcar.com##.argus-logo
 lepoint.fr##.art-small > .lpc
-igen.fr##.article > [class] > [id] img:last-child
-macg.co##.article > div > a
-igen.fr,macg.co##.article a > img
-igen.fr##.article a[class]
-igen.fr##.article div + [class]:last-child > img
 elhayatonline.net##.article-body + div[style*="width: 336px;"]
 lejournaldelamaison.fr,mariefrance.fr##.article-context-produit
 jeune-independant.net##.articleText > .large_rectangle
@@ -14319,7 +14313,6 @@ lemondeinformatique.fr##.mpu
 gamekult.com##.mpubas-wrapper
 tchatche.com##.native-banner
 agroligne.com##.nbs-flexisel-container
-macg.co##.news + div + [class] > div + p + [class] > img
 directvelo.com##.news-banner
 ad4.fr##.nicebtn
 gameblog.fr##.noPremium
@@ -14414,7 +14407,7 @@ pornofrance.org##.promomenu
 meteosun.com##.promote_large
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
-ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,dictionnaire-synonymes.com,elbotola.com,elheddaf.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forums-fec.be,forumsims3.com,franceinfo.fr,franceinter.fr,frandroid.com,inovaovao.com,internetparsatellite.net,jeux-mmorpg.com,ktotv.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,logicielmac.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,nintendo-master.com,nordeclair.be,orange.fr,orange.mu,ouest-france.fr,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,remede.org,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,yabiladi.com,yatahonga.com,zupimages.net##.pub
+ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,dictionnaire-synonymes.com,elbotola.com,elheddaf.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forums-fec.be,forumsims3.com,franceinfo.fr,franceinter.fr,frandroid.com,igen.fr,inovaovao.com,internetparsatellite.net,jeux-mmorpg.com,ktotv.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,logicielmac.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,nintendo-master.com,nordeclair.be,orange.fr,orange.mu,ouest-france.fr,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,remede.org,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,watchgeneration.fr,yabiladi.com,yatahonga.com,zupimages.net##.pub
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
 constructeurdemaison.net##.pub-content
@@ -14493,7 +14486,6 @@ cdiscount.com##.regBloc
 omgtorrent.me##.regarder-le-torrent
 jds.fr##.regie_20
 archimag.com##.region-before-content
-igen.fr,macg.co,watchgeneration.fr##.region-pubheader
 jeux-e.com##.rek_ban
 dhnet.be,lalibre.be##.relookingHtml
 omgtorrent.me##.rencontres
@@ -14524,7 +14516,6 @@ streamay.ws##.showitonplayer
 korben.info##.side a[href*="://bit.ly/"]
 gmx.fr##.sideadd
 voyage-economique.fr##.sideaff-container
-igen.fr##.sidebar div img
 foot01.com##.sidebar img:first-child
 ecranlarge.com##.sidebar-banner
 wikiclic.com##.sidebar-promotion
@@ -14663,7 +14654,7 @@ narkive.com,tourte.org##[class^="ads_"]
 jeu.info##[class^="banniere-"]
 sofoot.com##[class^="bloc-partenaires"]
 forumconstruire.com##[class^="habillage"]
-igen.fr,macg.co,orange.fr##[class^="lig_"]
+igen.fr,macg.co,orange.fr,watchgeneration.fr##[class^="lig_"]
 filesupload.org##[class^="modal"]
 voyageforum.com##[class^="offers"]
 ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
@@ -14755,6 +14746,7 @@ nouvelobs.com##a[href*="/les-bons-plans-shopping/"]
 euro-2016-france.net##a[href*="/parier/"]
 ebooks-gratuit.com##a[href*="/partenaire.php"]
 20min.ch##a[href*="/postfinance_news/"]
+igen.fr,macg.co,watchgeneration.fr##a[href*="/publicite/"]
 centre-audition.com,easyzic.com,info-algerie.com,univers-animer.com##a[href*="/redirect."]
 booska-p.com##a[href*="/rf/"][style]
 20min.ch##a[href*="/sponsored/"]
@@ -14820,7 +14812,7 @@ coco.fr##a[href="http://www.joker.net"]
 shinymen.com##a[href="http://www.karouikaroui.com/fr/outdoor/"]
 leparking.fr##a[href="http://www.ligloo.fr"]
 tadpu.com##a[href^="//fr.ulule.com/insidezecube/?utm_campaign="]
-igen.fr,macg.co##a[href^="/ad-"]
+igen.fr,macg.co,watchgeneration.fr##a[href^="/ad-"]
 yts.am##a[href^="/ad/"]
 avocat.fr,jeunesfooteux.com,ladepeche.pf,ophtalmo.tv,rewmi.com,senioractu.com,zinfos974.com##a[href^="/ads/"]
 tahiti-infos.com##a[href^="/ads/"] > .image
@@ -14839,7 +14831,6 @@ immigrer.com##a[href^="/p/bannieres/"]
 telemagazine.fr##a[href^="/produits_contextuels/"]
 yts.am##a[href^="/prv/"]
 agevillage.com##a[href^="/pub-"]
-macg.co##a[href^="/publicite/"]
 confidentielles.com##a[href^="/rc_787_"]
 viva-stream.info##a[href^="/redirr"]
 chine.in##a[href^="/regie/link.php?"]
@@ -14894,7 +14885,6 @@ cowcotland.com##a[href^="http://www.ldlc.com#aff"] > img
 les-terrains.com##a[href^="http://www.les-terrains.com/open-link.php?id="]
 dhnet.be,lalibre.be##a[href^="http://www.livepartners.be/affiliate/"]
 lyonmag.com##a[href^="http://www.lyonmag.com/home/habillage/"]
-igen.fr##a[href^="http://www.macg.co/publicite/"]
 meetmuslima.net##a[href^="http://www.meetmuslima.net/go/"]
 jeuxvideo.fr##a[href^="http://www.micromania.fr/vente/rayon.php?"]
 bricozone.be##a[href^="http://www.perfectionhabitat.be/"] > img
@@ -14952,7 +14942,6 @@ trictrac.net##body > div + .row.align-center.section
 blog.you-test.ch##body > noscript > style + div[id]:last-child
 lokan.fr##body:last-child > div#message
 zone-telechargement1.com,zone-telechargement1.top##br + a > img
-igen.fr##br + div + div + div
 zone-telechargement1.com,zone-telechargement1.top##center > a
 get-my.link##center > a[href$=".php"]
 urlgone.com##div > #blockInternal
@@ -15051,7 +15040,6 @@ aswak.echoroukonline.com##div[style^="width:728px;height:90px;"]
 aswak.echoroukonline.com##div[style^="width:980px;height:200px;"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
-igen.fr,macg.co##header + a[target="_blank"]
 jeux-porno.net##iframe[src]
 aufeminin.com,marmiton.org,xstory-fr.com##iframe[style]
 developpez.net##iframe[width="300"][height="250"]
@@ -15131,18 +15119,7 @@ forumpiscine.com#?#div[id][class^="postbox_forum_"]:-abp-has(.forum_pseudo_conte
 frandroid.com#?#.post-preview:-abp-has(.sponsoring-brand-link)
 frandroid.com#?#.post-preview:-abp-has(a:-abp-contains(Sponsorisé))
 ifp.re,ifpx.xyz,ifrp.xyz,mp3free.pw,pandos2play.free.fr,piframe.tk,protect-stream.com,ultimate-catch.eu,soap-passion.com#?#:-abp-properties(opacity:)
-igen.fr#?#.article a:-abp-properties(background-image: *;)
-igen.fr#?#.article a:-abp-properties(display: block;)
-igen.fr#?#.region-sidebar a:-abp-properties(*)
-igen.fr#?#.sidebar :-abp-properties(cursor: pointer;)
-igen.fr#?#.view-content :-abp-properties(background-image:*;)
-igen.fr#?#:-abp-properties(cursor: pointer;)
-igen.fr,macg.co#?#.article span:-abp-properties(background-image: *;)
-igen.fr,macg.co#?#.article span:-abp-properties(padding-top: *px;)
-igen.fr,macg.co#?#:-abp-properties(background-image: url(*;)
-igen.fr,macg.co,watchgeneration.fr#?#:-abp-properties(display: inherit;)
 lucariostream.eu#?#:-abp-properties(z-index: 999*;)
-macg.co#?#.article div a:-abp-properties(background-image: *;)
 pblv-plusbellelavie.fr#?#div[style^="display: block !important;"]
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(!important;)
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(cursor:)
@@ -15159,7 +15136,7 @@ facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(Sponsoris
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-contains(Sponsorisé))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-properties(content: "Sponsorisé"))
 ! Ligatus
-$subdocument,~third-party,domain=football365.fr|igen.fr|macg.co|mercato365.com|rugby365.fr|sport365.fr|watchgeneration.fr
+$subdocument,~third-party,domain=football365.fr|mercato365.com|rugby365.fr|sport365.fr
 /sfa.$domain=football365.fr|mercato365.com|rugby365.fr|sport365.fr
 @@||admin.brightcove.com/js/api/SmartPlayerAPI.js$script,domain=lachainemeteo.com
 @@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
@@ -15167,7 +15144,7 @@ $subdocument,~third-party,domain=football365.fr|igen.fr|macg.co|mercato365.com|r
 @@||disquscdn.com^$script,domain=football365.fr|mercato365.com|rugby365.fr|sport365.fr
 @@||players.brightcove.net/*_default/index.min.js$script,third-party,domain=lachainemeteo.com
 |http://$script,third-party,domain=aventure-apple.com|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|mercato365.com|refurbgeneration.com|rugby365.fr|sport365.fr
-|http://$script,third-party,xmlhttprequest,domain=igen.fr|macg.co|radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se|watchgeneration.fr
+|http://$script,third-party,xmlhttprequest,domain=radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se
 |https://$script,third-party,domain=aventure-apple.com|football365.fr|ioccasion.fr|lachainemeteo.com|macgeneration.com|mercato365.com|refurbgeneration.com|rugby365.fr|sport365.fr
 ||fourchette-et-bikini.fr^$xmlhttprequest
 ||xiti.com^$domain=lachainemeteo.com
@@ -15236,11 +15213,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 ||i-cms.journaldesfemmes.com/image_cms/
 ||i-cms.journaldunet.com/image_cms/
 ||i-cms.linternaute.com/image_cms/
-!
-igen.fr,macg.co,watchgeneration.fr##.bloc-accroches + h2 + br + [class]
-igen.fr,macg.co,watchgeneration.fr##.bloc-accroches + h2 + br + [id]
-igen.fr,macg.co,watchgeneration.fr##[class] > img:last-child
-igen.fr,macg.co,watchgeneration.fr##[id] > img
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
