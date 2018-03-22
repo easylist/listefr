@@ -11414,6 +11414,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ###dfp-pave_milieu
 ###dfp_banniere_bas
 ###dfp_banniere_haute
+###dfp_leaderboard
 ###displayedPub
 ###div-ads
 ###div-gpt-ad-Banniere_Haute
@@ -11532,6 +11533,8 @@ hentaifr.net##a[id^="ga-skin-"]
 ###monetiz-pub
 ###msgNoPub
 ###my-adsLDRB
+###native_ad
+###native_ad2
 ###news-droite-publicite
 ###news_pub_centre
 ###nuggadcontentadIF
@@ -11637,6 +11640,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ###pub300x120
 ###pub300x250
 ###pub468x15
+###pub468x60_droite
 ###pub468x60_gauche
 ###pub468x60_match
 ###pub728
@@ -12013,6 +12017,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##.adf_mpu
 ##.adflex
 ##.adg-rects
+##.adholder2
 ##.admag-block
 ##.admid2
 ##.ads--panorama
@@ -12441,6 +12446,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##.iklan
 ##.iklan1
 ##.iklan2
+##.in_stream_banner
 ##.in_up_ad-area
 ##.info_pop > a > img
 ##.inpage-adspace
@@ -12449,6 +12455,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##.insert_pub_center
 ##.inside_adv_section
 ##.ipsAdvertisement_large
+##.is-ad-visible
 ##.item-ad-header
 ##.item-izipub
 ##.item-pubb-728
@@ -12515,6 +12522,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##.mom-ads-wrap
 ##.mueveads
 ##.myAd
+##.native_ad2
 ##.nativeads
 ##.newads
 ##.nextread-advertisement
@@ -12814,6 +12822,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##.recipe-col-droite-ad
 ##.recipe-col-droite-ad-caption
 ##.red-ad
+##.red-adv
 ##.region-pubheader
 ##.reklam-gizle
 ##.reklam-side
@@ -13315,6 +13324,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##a[onclick*="FriendlyDuck.com"]
 ##a[onclick^="CustomWLAdServer."]
 ##a[target="_blank"][href*="/buy-vpn?"] > img
+##div[class$="-adlabel"]
 ##div[class*="300x250_advertisement_"]
 ##div[class*="view-ads-header-"]
 ##div[class*="view-id-ads_header_"]
