@@ -2321,9 +2321,9 @@ _frontend_loader.$script
 /fr/adcr/*$popup
 /gopartner.php?pid=$popup
 /iframePopUpLoader.$popup
-/install.&clickid=$popup
 /install.*&clickid=$popup
 /install.*&subid=$popup
+/install.*?pid=$popup
 /jump/clk1.$popup
 /jump/next.php?r=$popup
 /lib/*?id=*&adb=$popup
