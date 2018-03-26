@@ -186,8 +186,9 @@
 .adfarm1.
 .ads.embed.
 .ads/banner/
-.ads4-
-.ads5-
+.ads6-
+.ads7-
+.ads8-
 .adscroller.
 .adsearch.
 .adserverpub.$domain=~adserverpub.com
@@ -304,7 +305,6 @@
 /*300x250_pub.
 /*728x90_pub.
 /*=adjs,
-//st-n.*/js/a.js
 //ylx-aff.$third-party
 /00120x00600-
 /00125x00125-
@@ -510,7 +510,6 @@
 /admicro.
 /admtpop.
 /admysports/*
-/adnow-
 /adoff.js?
 /adop.js
 /adop_sdk2.
@@ -1266,7 +1265,6 @@
 /myads.
 /nadstive.
 /native-ad/*
-/native-ads-
 /native/feed/*/widget/*?b=$third-party
 /nendAdLoader.
 /networking/ref_
@@ -4252,18 +4250,7 @@ debugger:$popup
 ||statcounterfree.com^$third-party
 ||webcontadores.com^$third-party
 ! adnow
-||ads1-adnow.com^$third-party
-||ads2-adnow.com^$third-party
-||ads3-adnow.com^$third-party
-||ads5-adnow.com^$third-party
-||adxxx.me^$third-party
-||adxxx.org^$third-party
-||daitrff.info^
-||laydcilck.com^$third-party
-||pay-click.ru^$third-party
-||pc1ads.com^$third-party
-||pc2ads.com^$third-party
-||popclck.net^$third-party
+//st-n.*/js/a.js
 ! Yavli
 ||3dfrsdwde.com^$third-party
 ||fairad.co^$third-party
