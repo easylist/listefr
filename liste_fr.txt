@@ -591,6 +591,10 @@
 /ads/exo_
 /ads/extra.
 /ads/feed/*
+/ads/footer1.
+/ads/footer2.
+/ads/footer3.
+/ads/footer4.
 /ads/genere_ban.
 /ads/get_
 /ads/gif/*
@@ -7192,6 +7196,7 @@ http://images.futbolbase.us/peponi2.html
 ||free.fr/images/bannieres/
 ||frenchfriendfinder.com^$domain=choualbox.com
 ||frequence-tv.com/images/frpub.gif
+||fuckandcdn.com^*/ads/
 ||full-wallpaper.com/wallpaperday.js$third-party
 ||fullqurandownload.com^$popup
 ||fullqurandownload.com^$subdocument
