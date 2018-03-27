@@ -4471,7 +4471,7 @@ debugger:$popup
 ||wanaldster.com^
 ||xvika.com^
 ||zbwttofskjnc.com^
-! iframe / popunder
+! Ad-Maven
 /^http:\/\/[a-z]{5,12}\.info\/([0-9a-zA-Z\+\/]){138,140}/$image,third-party
 /^http?:\/\/(?!disqus\.)([a-z]+)\.(com|info)\/([0-9a-zA-Z\+\/]){400,460}/$subdocument,third-party
 ||abarrange.info^
@@ -4660,6 +4660,7 @@ debugger:$popup
 ||relandons.info^
 ||reportantu.info^
 ||requencey.info^
+||responsin.info^
 ||see-work.info^
 ||seningel.info^
 ||sentifiest.com^
@@ -4703,9 +4704,11 @@ debugger:$popup
 ||underfule.com^
 ||unformse.com^
 ||unitaliant.com^
+||unlithere.info^
 ||unsop.com^
 ||upwritish.info^
 ||uspostly.info^
+||utilistom.info
 ||veningew.info^
 ||versatisfy.com^
 ||vinfrase.info^
