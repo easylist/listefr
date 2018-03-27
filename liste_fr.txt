@@ -965,6 +965,7 @@
 /choixPubJS.
 /clash/ads/*
 /clash/banner-
+/clic.php?promoid=
 /click/*$subdocument
 /click/*&trafficsource_id=
 /click/*/subaccount|
@@ -10103,7 +10104,10 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|adca.st|adf.ly|adshort.co|adshor
 ||mondissimo.com^*/bannerdisplay.asp?
 ||money.delamusique.net^
 ||monpetitforfait.com/wp-content/uploads/*/ban
+||monpetitforfait.com/wp-content/uploads/*/byoubn
 ||monpetitforfait.com/wp-content/uploads/*/hab
+||monpetitforfait.com/wp-content/uploads/*/hbb
+||monpetitforfait.com^$popup,~third-party
 ||monpornofrancais.com/mpf-
 ||montagnes-magazine.com/media/HABILLAGE/
 ||montelimar-news.fr/annonces/
@@ -11566,6 +11570,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ###header_pub_contenu
 ###headerpub
 ###hideAd
+###home-advert
 ###home-pub
 ###home-pushdownAd
 ###home_advertising_block
@@ -14723,6 +14728,7 @@ allocine.fr##.topheader
 fan-de-cinema.com##.topmargin
 omgtorrent.me##.torrent-usenet
 ca-briepicardie.fr##.total-cover
+monpetitforfait.com##.tpa
 search.ke.voila.fr##.tpl_slpartner_container_bottom
 search.ke.voila.fr##.tpl_slpartner_container_top
 yatahonga.com##.tpub
@@ -14768,6 +14774,7 @@ joueurdugrenier.fr##.widgetVrac
 hinata-online-community.fr##.widget_affiliation_widget
 easytutoriel.com##.widget_amazonautolinks_widget
 spi0n.com##.widget_cnt
+monpetitforfait.com##.widget_custom_html
 regimea.com##.widget_sp_image-image-link
 msn.com##.win10promo
 directmatin.fr##.wrap_evenement
