@@ -8639,7 +8639,6 @@ fruitstreams.com,fruitadblock.net|oload.info,oload.stream,oload.tv,olpair.com,ol
 ! mystream.la
 |http://$ping,script,subdocument,third-party,xmlhttprequest,domain=mystream.la
 |https://$ping,script,subdocument,third-party,xmlhttprequest,domain=mystream.la
-!||mystream.la^$third-party
 ! flowyourvideo.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=flowyourvideo.com
 @@||code.jquery.com^$script,domain=flowyourvideo.com
