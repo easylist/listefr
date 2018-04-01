@@ -472,6 +472,7 @@
 /ad_result.
 /ad_trafic.
 /adaptvInfo.
+/adb.php?tag=
 /adbet-
 /adbetnet.
 /adbkicker.
@@ -646,6 +647,7 @@
 /ads_banner/*
 /ads_block
 /ads_capping.
+/ads_data/*
 /ads_data_
 /ads_fol_
 /ads_hao123.
@@ -3178,6 +3180,7 @@ debugger:$popup
 ||cpxmasters.com^$third-party
 ||crm4d.com^$third-party
 ||crvtrk.com^$third-party
+||cryptoads.space^$third-party
 ||ctnet4.space^$third-party
 ||ctnet5.space^$third-party
 ||ctnet6.space^$third-party
@@ -13437,6 +13440,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ##a[href^="http://www.allopass.com/"] > img
 ##a[href^="http://www.apk-download-free.com/"]
 ##a[href^="http://www.ba-click.com/?ref="]
+##a[href^="http://www.cryptoads.space/ad.php?"]
 ##a[href^="http://www.downloadplayer2.com/"]
 ##a[href^="http://www.easyflirt-partners.biz"]
 ##a[href^="http://www.espace-plus.net/"]
