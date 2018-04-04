@@ -982,6 +982,7 @@
 /click_update.*?id_pub=
 /clickpartners.
 /clients-ads.
+/clixsense_
 /cmpn_async.
 /code-float-ad.
 /code/adv/*
@@ -1349,6 +1350,7 @@
 /plugins/ms-ad-indicator.
 /plugins/ms-ad-knowmore.
 /plugins/vp_pub/*
+/plus728.
 /plx_popup.js
 /pmd_gdfp-
 /pme_ads.
@@ -7200,6 +7202,7 @@ http://images.futbolbase.us/peponi2.html
 ||crocastuce.fr/images/Boutons/
 ||croquettesbio.com/wp-content/uploads/*/skyscreeper-
 ||csm-e.cds1.yospace.com^
+||csstatic.com/banners/
 ||cyberbaiseuses.com^$subdocument
 ||cyberflirt.com/cx/
 ||cyonix.to^$subdocument
@@ -7516,6 +7519,7 @@ http://images.futbolbase.us/peponi2.html
 ||lilosearch.org^*/wid/$third-party
 ||linkeasy.org^$image,third-party
 ||links-protection.com/*.htm$subdocument
+||linkshrink.net/content/img/$third-party
 ||linux-tv.com/ac240x400.gif
 ||linuxsat-support.com/images/world_of_satellite.gif
 ||linuxsat-support.com^*_banners/
@@ -8085,6 +8089,7 @@ http://images.futbolbase.us/peponi2.html
 ||wp.com/*/wp-content/uploads/*?resize=468%2C60
 ||wp.com/*/wp-content/uploads/*?resize=728%2C90
 ||wp.com/bluehost-cdn.com/media/partner/images/
+||wp.com/csstatic.com/banners/
 ||wp.com/medialot.fr/wp-content/uploads/*?resize=300%2C38
 ||wp.com/static.keep2share.cc/images/i/
 ||wp.com^*.imglnka.com/
@@ -15342,7 +15347,7 @@ echangegagnant.com,espace-francophone.com,genhit.com,israelmagazine.co.il,space-
 israelmagazine.co.il##img[width="600"][height="90"]
 qcm-concours.blogspot.fr##img[width="716"][height="100"]
 forum.soirnet.fr##img[width="720"][height="100"]
-francoischarron.com,jeu.fr,maliweb.net,undernews.fr##img[width="728"][height="90"]
+autosurfs.fr,francoischarron.com,jeu.fr,maliweb.net,undernews.fr##img[width="728"][height="90"]
 undernews.fr##img[width][height][alt$="VPN"]
 faireunlien.com##img[width^="728height=90"]
 ici.tou.tv##li.bigBox
