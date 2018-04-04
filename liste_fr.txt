@@ -1084,6 +1084,7 @@
 /eureka_ban/*
 /event-adserver.
 /exads-
+/exit_pop_up.
 /exo-loader/*
 /exoclick300m.
 /extads.
@@ -6896,6 +6897,9 @@ debugger:$popup
 ||yolirate.com^$popup,third-party
 ||yoursinfo.info^$popup,third-party
 ||yoursinstance.info^$popup,third-party
+! camsympa.com
+||camsympa.com/?tracker=$popup
+||eurolive.com/?module=$popup
 !
 &*35.188.59.75$popup
 ?*35.188.59.75$popup
@@ -10935,7 +10939,6 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|adca.st|adf.ly|adshort.co|adshor
 ||youwatch-series.com^$popup,~third-party
 ||yts.am/*.gif
 ||z-barre.com/fonction/aff*.php
-||za-gay.org^*/exit_pop_up.js
 ||zdnet.fr/images/base/addv.gif
 ||zebest-3000.com/*.html
 ||zestreaming.com/ban.jpg
