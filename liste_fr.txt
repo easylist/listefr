@@ -2096,7 +2096,6 @@ digitalocean.gif|
 /zbackend_loader.$script
 _backend_loader.$script
 _frontend_loader.$script
-||ws/exa/$script
 ! Siropu ads manager
 /data/Siropu/images/*
 /Siropu/AM/display.js
@@ -2199,6 +2198,7 @@ _frontend_loader.$script
 ||ru^*&vid=*&stream_id=*&title=$script,third-party
 ||space/?tid=
 ||space^*?wkey=
+||ws/exa/$script
 ||xyz^*?pub=*&gateid=$script
 !
 !------------------------ Génériques popup -----------------------!
