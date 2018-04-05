@@ -2012,6 +2012,7 @@ _bnrrotator_
 _board_ad.
 _code/*/goclick|
 _dfp_conf.js
+_display_ad_
 _domain=ads.
 _emplacements.*=300x125
 _emplacements.*=300x250
@@ -9523,6 +9524,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|adca.st|adf.ly|adshort.co|adshor
 ||echoroukonline.com/sponsors/
 ||echoroukonline.com/sponsors2015/
 ||economiematin.fr^*-ban-300x150.
+||edcom.fr/images/gaml/
 ||edcom.fr/images/habillage/
 ||edenflirt.co/pdv/*/?comfrom=*&cf2=$popup
 ||editeurjavascript.com/bans/
@@ -15254,6 +15256,7 @@ msn.com##div[data-aop^="stripe.shopping"]
 msn.com##div[data-module-id*=".shopping."]
 e-monsite.com##div[data-role="sp"]
 e-monsite.com##div[data-role="sp2"]
+edcom.fr##div[data-target]
 allocine.fr##div[data-w="clickCommand"]
 net-iris.fr##div[id$="promo_container"]
 maisonapart.com##div[id*="-pub-"]
