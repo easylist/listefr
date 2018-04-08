@@ -1412,6 +1412,7 @@
 /promo/script_
 /promo/widget-*&refer_
 /promo/widget-*?ref=
+/promobox/ads/*
 /promos/banners/*$third-party
 /promotool_referrer.
 /promotools.static.js
@@ -1618,6 +1619,8 @@
 /search_caf.php?
 /secure-ads.
 /separatore-pub.
+/serve?*&w=468&h=60
+/serve?*&w=728&h=90
 /servepop.
 /servlet/effi.show?
 /setAds.
@@ -6992,6 +6995,7 @@ http://images.futbolbase.us/peponi2.html
 ||ajoutezvotrelien.com/visuel46.png
 ||akamaihd.net/*_vpaid.js
 ||akamaihd.net^$domain=dailymotion.com|youtube.com
+||akamaized.net^*/dfp-$script
 ||alfafile.net/img/buttons/promo/
 ||algeriemobiles.com/pub/
 ||alibaba.com^*&aff_platform=$popup
