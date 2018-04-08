@@ -2228,6 +2228,7 @@ _frontend_loader.$script
 &nopop=$popup
 &nsfw=&id_promo=$popup
 &oid=*&subid=*&pubid=$popup
+&pid=*&redid=$popup
 &pub_id=$popup
 &pub_sub_id_$popup
 &pubid=*&pubid2=$popup
@@ -2261,6 +2262,7 @@ _frontend_loader.$script
 -popunder.php?$popup
 ./*&cid=*&pubid=$popup
 ./?&subid=$popup
+.a2b?MediaSegmentId=$popup
 .adhoc1.$popup,third-party
 .adhoc2.$popup,third-party
 .adhoc4.$popup,third-party
@@ -2580,7 +2582,6 @@ debugger:$popup
 ||loan^*&zoneid=$popup
 ||loan^*?zoneid=$popup
 ||me^*==|$popup,third-party
-||online/?*&pid=*&redid=$popup
 ||online^*&campid=$popup
 ||online^*&clickid=$popup
 ||online^*&pid=$popup
@@ -2609,6 +2610,9 @@ debugger:$popup
 ||support^*&zoneid=$popup
 ||support^*?zoneid=$popup
 ||tech^*?affid=$popup
+||today^*&noalert=$popup
+||today^*&noaudio=$popup
+||today^*&nopop=$popup
 ||trade^*&caid=$popup,third-party
 ||trade^*&cid=$popup,third-party
 ||trade^*?affid=$popup
@@ -6024,6 +6028,7 @@ debugger:$popup
 ||188.165.253.6^$popup,third-party
 ||194.88.104.61^$popup,third-party
 ||19950501.com^$popup,third-party
+||1elllwrite.com^$popup,third-party
 ||1yqbp.com^$popup,third-party
 ||217.23.1.125^$popup,third-party
 ||23.236.55.237^$popup,third-party
@@ -6341,6 +6346,7 @@ debugger:$popup
 ||exasharetab.com^$popup,third-party
 ||exhaustionlaurenbremsstrahlung.info^$popup,third-party
 ||exosrv.com^$popup,third-party
+||expert-portal.today^$popup,third-party
 ||expertweb.xyz^$popup,third-party
 ||explodedigital.com^$popup,third-party
 ||extremesoundmedium.com^$popup,third-party
