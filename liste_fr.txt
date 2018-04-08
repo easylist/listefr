@@ -8859,6 +8859,7 @@ $websocket,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|ifp.re|ifpx.xyz|ifrp.xyz|mp3fre
 @@||plugins.longtailvideo.com^$domain=vidto.me|vidtod.me|vidtudu.com
 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=vidto.me|vidtod.me|vidtodo.com|vidtudu.com
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=vidto.me|vidtod.me|vidtodo.com|vidtudu.com
+||video.videos.vidto.me^
 ||vidto.me/*/*/*/$script
 ! adhy.pe
 |http://$script,subdocument,third-party,xmlhttprequest,domain=adhy.pe|ah.pe
