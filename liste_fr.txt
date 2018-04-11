@@ -1039,7 +1039,7 @@
 /dhtml/notification/*
 /dhtml/popup/*
 /diff_affich_ban.
-/disclaimer.$domain=blog2mature.com|leathumb.com|leatube.com|papy-porno.com|pornasiatix.com|pornxmovies.com|pornz.fr|secret-amateur.com|sexe2blog.com|sexotor.com|thefrenchporn.com|tube2sexe.com|videosallopass.com
+/disclaimer.$domain=blog2mature.com|hentai-tube.fr|leathumb.com|leatube.com|papy-porno.com|pornasiatix.com|pornxmovies.com|pornz.fr|secret-amateur.com|sexe2blog.com|sexotor.com|thefrenchporn.com|tube2sexe.com|videosallopass.com
 /disclaimer/*&aff=
 /disclaimerjs.*&aff=
 /display.php?ec=
@@ -2248,6 +2248,7 @@ _frontend_loader.$script
 &subid=*&pubid=$popup,third-party
 &tid=*&ref=$popup
 &tr4ck=pop-$popup
+&tracker=disclaimer_$popup
 &type=*&iframeDetected=$popup
 &url_annonceur=$popup
 &utm_$popup,domain=dailymotion.com
@@ -6692,6 +6693,7 @@ debugger:$popup
 ||popundertotal.com^$popup,third-party
 ||pormurop.me^$popup,third-party
 ||porncrash.com^$popup,third-party
+||pornocaptain.com^$popup,third-party
 ||pornravage.com^$popup,third-party
 ||pornstreet.com^$popup,third-party
 ||possini.eu^$popup,third-party
@@ -6809,6 +6811,7 @@ debugger:$popup
 ||spklmis.com^$popup,third-party
 ||sporary.eu^$popup,third-party
 ||srvmd30s.com^$popup,third-party
+||ss-n-30.com^$popup,third-party
 ||startnewtab.com^$popup,third-party
 ||starzplay.com^$popup,third-party
 ||steepto.com^$popup,third-party
@@ -7476,7 +7479,6 @@ http://images.futbolbase.us/peponi2.html
 ||hdvideos.porn/?id=$popup
 ||hellobar.com^$domain=application-remuneratrice.com|familyinblack.fr
 ||hellocoton.fr/*/badges/$third-party
-||hentai-tube.fr^*?$popup
 ||herocccam.com/herocccam.gif
 ||hipub.hiwit.org^
 ||hit-amateur.com/ban/$third-party
@@ -7931,6 +7933,8 @@ http://images.futbolbase.us/peponi2.html
 ||salopes-du-jour.com^$image,script,third-party
 ||sat-sharing.info/baners/
 ||satking.de/images/banners/
+||script.hentaicdn.com/cdn/*/core/js/arf-
+||script.hentaicdn.com/cdn/*/js/script.
 ||scubastore.com^$popup,domain=sous-la-mer.com
 ||searchtrade.com/images/banners/
 ||seargg.xyz^$popup
