@@ -8374,7 +8374,7 @@ http://images.futbolbase.us/peponi2.html
 ! cocostreaming.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=cocostreaming.com
 |http://$script,third-party,domain=cocostreaming.com
-|httpd://$script,third-party,domain=cocostreaming.com
+|https://$script,third-party,domain=cocostreaming.com
 ! univers-animer.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=univers-animez.net
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=univers-animez.net
