@@ -2194,6 +2194,7 @@ _frontend_loader.$script
 ||gdn^*&impid=$third-party
 ||info/?tid=$script,third-party
 ||men^*.php?z=$third-party
+||ovh/web-clients/bootloaders/*/bootloader.js
 ||pro^*=/$script,third-party
 ||pro^*?zoneId=
 ||rocks^*.php?z=$third-party
@@ -3691,6 +3692,7 @@ debugger:$popup
 ||nols-pub.fr^$third-party
 ||non.li^$third-party
 ||nosyezhe.com^$third-party
+||notificads.com^$third-party
 ||noxaffiliates.com^$third-party
 ||nr-data.net^$third-party
 ||nsfxaffiliates.com^$third-party
@@ -5664,6 +5666,15 @@ debugger:$popup
 ||xoredi.com^
 ||xxlargepop.com^
 ||yoredi.com^
+! contentza.com
+||ahtarzr.ovh^
+||czxzpabxb.ovh^
+||ejxmyng.ovh^
+||lzmlwmp.ovh^
+||msdhydaxm.ovh^
+||ovhnnz.ovh^
+||zvpuoitt.ovh^
+||zyerwgu.ovh^
 ! Mining
 -coin-hive.js
 -coin-hive/
@@ -8363,6 +8374,11 @@ http://images.futbolbase.us/peponi2.html
 @@||ajax.googleapis.com/ajax/libs/$script,domain=cocostreaming.com
 |http://$script,third-party,domain=cocostreaming.com
 |httpd://$script,third-party,domain=cocostreaming.com
+! univers-animez.net
+@@||ajax.googleapis.com/ajax/libs/$script,domain=univers-animez.net
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=univers-animez.net
+|http://$script,third-party,domain=univers-animez.net
+|httpd://$script,third-party,domain=univers-animez.net
 ! torrent9.tv
 /cdn-cgi/*$domain=cpabien.ch|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|cpasbien.pro|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.info|torrent9.me|torrent9.pe|torrent9.red|torrent9.top|torrent9.tv|torrent9.ws|torrents9.org|torrents9.pe|torrents9.tv
 @@||ajax.googleapis.com/ajax/libs/$script,domain=cpabien.ch|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|cpasbien.pro|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.info|torrent9.pe|torrent9.red|torrent9.top|torrents9.org|torrents9.pe
