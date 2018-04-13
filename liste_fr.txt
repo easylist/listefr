@@ -2468,7 +2468,7 @@ _frontend_loader.$script
 ://goto.*/watch?$popup
 ://lp1.*&publisher=$popup
 ://pdv.$popup
-://pop.$popup
+://pop.$popup,domain=~pop.work
 ://pops.$popup
 ://porno.*/ban-$popup
 ://rencontre.*&utm_*&utm_=$popup
