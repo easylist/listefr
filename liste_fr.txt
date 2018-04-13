@@ -2194,7 +2194,6 @@ _frontend_loader.$script
 ||gdn^*&impid=$third-party
 ||info/?tid=$script,third-party
 ||men^*.php?z=$third-party
-||ovh/web-clients/bootloaders/*/bootloader.js
 ||pro^*=/$script,third-party
 ||pro^*?zoneId=
 ||rocks^*.php?z=$third-party
@@ -3183,7 +3182,6 @@ debugger:$popup
 ||confectionner.xyz^$third-party
 ||congruityheterocephalus.info^$third-party
 ||connexionsafe.com^$third-party
-||contentza.com^$third-party
 ||contextualyield.com^$third-party
 ||coolood.biz^$third-party
 ||coosc.info^$third-party
@@ -3632,7 +3630,6 @@ debugger:$popup
 ||myimagetracking.com^$third-party
 ||myimgt.com^$third-party
 ||mykocam.com^$~image,third-party
-||mynativeplatform.com^$third-party
 ||myninja.club^$third-party
 ||myninja.info^$third-party
 ||myninja.mobi^$third-party
@@ -5667,11 +5664,16 @@ debugger:$popup
 ||xxlargepop.com^
 ||yoredi.com^
 ! contentza.com
+/web-clients.*/web-clients/bootloaders/*/bootloader.js
 ||ahtarzr.ovh^
+||amazonaws.com/static.contentza.com/widgets-v2.js
+||amazonaws.com/static.contentza.com/widgets.js
+||contentza.com^$third-party
 ||czxzpabxb.ovh^
 ||ejxmyng.ovh^
 ||lzmlwmp.ovh^
 ||msdhydaxm.ovh^
+||mynativeplatform.com^
 ||ovhnnz.ovh^
 ||zvpuoitt.ovh^
 ||zyerwgu.ovh^
@@ -7127,7 +7129,6 @@ http://images.futbolbase.us/peponi2.html
 ||amazonaws.com/hbams/
 ||amazonaws.com/mftracker/
 ||amazonaws.com/pubfig/
-||amazonaws.com/static.contentza.com/
 ||amazonaws.com/waframedia*.
 ||amazonaws.com^*-ccmbenchmark
 ||amazonaws.com^*/3x250-$subdocument
