@@ -1643,6 +1643,7 @@
 /show_adv.
 /show_i.php?b=$subdocument
 /show_next_ads.
+/show_std.php?
 /showads?
 /side-pub.
 /sidebar-ad.
@@ -4085,6 +4086,7 @@ debugger:$popup
 ||traffdaq.com^$third-party
 ||traffe.eu^$third-party
 ||trafficfabrik.com^$third-party
+||trafficforce.com^$thid-party
 ||trafficmagnates.com^$third-party
 ||trafficrevmaster.com^$third-party
 ||trafficsan.com^$third-party
@@ -8480,9 +8482,8 @@ japscan.cc,japscan.com##div[id^="a_d_"]
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.cc|japscan.com
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.cc|japscan.com
 ||blue15cdn.net^$third-party
-||cdn.japscan.cc/img/add/
-||cdn.japscan.com/img/add/
 ||d836pbl.club^$third-party
+||japscan.cc^*?$image
 ! lirescan.net
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
