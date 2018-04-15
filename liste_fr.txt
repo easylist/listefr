@@ -8468,8 +8468,19 @@ http://images.futbolbase.us/peponi2.html
 |http://$script,third-party,xmlhttprequest,domain=pblv-plusbellelavie.fr
 |https://$script,third-party,xmlhttprequest,domain=pblv-plusbellelavie.fr
 ! japscan.com
+japscan.cc,japscan.com###boy
+japscan.cc,japscan.com###pagination + *
+japscan.cc,japscan.com###pagination + * + *
+japscan.cc,japscan.com##a[href*=".php"]
+japscan.cc,japscan.com##a[href*="://bit.ly/"]
+japscan.cc,japscan.com##a[href*="://tinyurl.com/"]
+japscan.cc,japscan.com##div[id^="a_d_"]
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.cc|japscan.com
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.cc|japscan.com
+||blue15cdn.net^$third-party
+||cdn.japscan.cc/img/add/
+||cdn.japscan.com/img/add/
+||d836pbl.club^$third-party
 ! lirescan.net
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
@@ -9522,8 +9533,6 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ||cdn.betacie.com^*/autopromo/
 ||cdn.bvoltaire.fr/media/2016/06/flexi-pierre-bv.gif
 ||cdn.flvto.biz/js/*_popup_
-||cdn.japscan.cc/img/add/
-||cdn.japscan.com/img/add/
 ||cduporno.fr/disc.js
 ||cduporno.fr/themes/netleixtube/js/popupplayer.js
 ||centerblog.net/buyproxies-
@@ -13935,7 +13944,6 @@ onlinetri.com###box_link_left
 onlinetri.com###box_link_right
 onlinetri.com###box_link_top
 algerie360.com###boxes
-japscan.cc,japscan.com###boy
 conseils-courseapied.com###cadre-vignette-carnet
 soonnight.com###cadre_partenaire
 piwee.net###campain_bg
@@ -14159,7 +14167,6 @@ cdiscount.com###paFooterPubPartner
 lebonfap.com###page-sexcam--roomlist
 ouedkniss.com###page_interstitiel
 blogspot.com###pageflip
-japscan.cc,japscan.com###pagination + *
 lemonde.fr###panneau-programme-emploi
 saucissonsexe.com###paragraphe
 aujourdhui-en-france.fr,leparisien.fr###parisien-partenaires
@@ -15239,14 +15246,13 @@ ddl-island.su,emule-island.ru,stream-island.su##a[href*="/xxx/"]
 rtl.be##a[href*="://ad.doubleclick.net/"]
 comment-supprimer.com,igen.fr,leparking.fr,macg.co,needsandmoods.com,refurbgeneration.com,sosiphone.com,watchgeneration.fr##a[href*="://ad.zanox.com/"]
 ddl-island.su,emule-island.ru,stream-island.ru,stream-island.su##a[href*="://ads."]
-cnetfrance.fr,filmhdstream.net,internetparsatellite.net,japscan.cc,japscan.com,lebonfap.com,letagparfait.com,pixhost.org,rockfile.eu,streaminghd.fr,streaminghd.watch,telesatellite.com,topito.com,vakarm.net##a[href*="://bit.ly/"]
+cnetfrance.fr,filmhdstream.net,internetparsatellite.net,lebonfap.com,letagparfait.com,pixhost.org,rockfile.eu,streaminghd.fr,streaminghd.watch,telesatellite.com,topito.com,vakarm.net##a[href*="://bit.ly/"]
 clubic.com,cnetfrance.fr##a[href*="://click.linksynergy.com/"]
 boutiquesensolde.fr,clubic.com,supertoinette.com,tomtomax.fr##a[href*="://clk.tradedoubler.com/"]
 abidjan.net,algerie-focus.com,algerie360.com,bc.vc,direct-torrents.com,dpstreaming-series.com,dpstreaming.cx,dpstreaming.watch,dpstreaming.yt,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,extratorrents.ch,gum-gum-streaming.com,hentai-streaming.eu,igen.fr,israelmagazine.co.il,jeux.com,journaldumusulman.fr,limetorrents.cc,lnc.nc,macg.co,mangastreaming.eu,mangastreaming.fr,orientation-chabab.com,proxylistpro.com,streaming-boruto.com,streaming-dragon-ball-super.com,tendancehotellerie.fr,watchgeneration.fr##a[href*="://goo.gl/"]
 dpstream.net##a[href*="://plarium.com/"]
 amateur2sexe.fr,pornovore.fr##a[href*="://pqr."]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
-japscan.cc,japscan.com##a[href*="://tinyurl.com/"]
 jeuxetcompagnie.fr##a[href*="://www.ludeek.com/"] > img
 voyageforum.com##a[href*=";text_ad="]
 mistergooddeal.com##a[href*="=H_pub_"]
@@ -15457,7 +15463,6 @@ notebookcheck.biz##div[id] + div[class] > img:first-child
 voyageforum.com##div[id][style="width: 850px; height: 127px; overflow: hidden; vertical-align: top;"]
 vakarm.net##div[id][style][onclick]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
-japscan.cc,japscan.com##div[id^="a_d_"]
 forumconstruire.com##div[id^="bloc_discussion_"] > :first-child + div
 fan2.fr,mcm.fr,melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,meltyxtrem.fr,virginradio.fr##div[id^="container_A2_"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr##div[id^="eShowPub"]
