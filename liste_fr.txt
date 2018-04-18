@@ -2236,6 +2236,7 @@ _frontend_loader.$script
 &oid=*&subid=*&pubid=$popup
 &pid=*&redid=$popup
 &pub_id=$popup
+&pub_source=$popup
 &pub_sub_id_$popup
 &pubid=*&pubid2=$popup
 &pubid=*-panther&$popup
@@ -11608,6 +11609,7 @@ hentaifr.net##a[id^="ga-skin-"]
 ###ads_combo1
 ###ads_combo2
 ###ads_gigaban
+###ads_last
 ###ads_search
 ###ads_search_bar
 ###adsence
