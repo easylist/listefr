@@ -10284,8 +10284,12 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ||madeinfoot.com/pub/
 ||madstef.com^*/images/pubs/
 ||mag-gratuits.com/uploaded.jpg
+||maghrebemergent.com/bannie
 ||maghrebemergent.com/images/banners/
+||maghrebemergent.com/images/logosmarques/
+||maghrebemergent.info/bannie
 ||maghrebemergent.info/images/banners/
+||maghrebemergent.info/images/logosmarques/
 ||maghrebex.com/_medias_files/pub_files/
 ||maghrebspace.net/image/*/download32.jpg
 ||maghrebstar.com/images/MSPUB.gif
@@ -15240,6 +15244,7 @@ presse-algerie.net##a[href*="/?ad="]
 artdeseduire.com##a[href*="/?part="][target="_blank"]
 webactus.net##a[href*="/?utm_source="]
 sosvirus.net##a[href*="/affiliate-"] > img
+maghrebemergent.com,maghrebemergent.info##a[href*="/banners/click/"]
 forumconstruire.com##a[href*="/click.php?"]
 multiup.eu,multiup.org##a[href*="/download-usenet/"]
 papyfullstream.com,papystreaming-film.com##a[href*="/film-"]
