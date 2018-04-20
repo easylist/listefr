@@ -8497,20 +8497,13 @@ http://images.futbolbase.us/peponi2.html
 |http://$script,third-party,xmlhttprequest,domain=pblv-plusbellelavie.fr
 |https://$script,third-party,xmlhttprequest,domain=pblv-plusbellelavie.fr
 ! japscan.com
-japscan.cc,japscan.com###boy
-japscan.cc,japscan.com###pagination + *
-japscan.cc,japscan.com###pagination + * + *
-japscan.cc,japscan.com##a[href*=".php"]
-japscan.cc,japscan.com##a[href*="://bit.ly/"]
-japscan.cc,japscan.com##a[href*="://tinyurl.com/"]
-japscan.cc,japscan.com##a[href*="?"]
+japscan.cc,japscan.com###nacspaj
 japscan.cc,japscan.com##div[id^="a_d_"]
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.cc|japscan.com
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.cc|japscan.com
 ||blue15cdn.net^$third-party
+||c.japscan.cc^$image
 ||d836pbl.club^$third-party
-||japscan.*/sda/
-||japscan.cc^*?$image
 ! lirescan.net
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
