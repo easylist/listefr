@@ -8445,6 +8445,7 @@ http://images.futbolbase.us/peponi2.html
 ! nextorrent.net
 |http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.bz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pro|nextorrent.pw|nextorrent.site|nextorrent.tv|nextorrent.ws|oxtorrent.com
 |https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.biz|nextorrent.bz|nextorrent.cc|nextorrent.ch|nextorrent.com|nextorrent.cx|nextorrent.net|nextorrent.org|nextorrent.pro|nextorrent.pw|nextorrent.site|nextorrent.tv|nextorrent.ws|oxtorrent.com
+||nextorrent.*.php$popup
 ||nextorrent.site/Voir-en-Streaming.png
 ! torrentfunk.com
 |http://$ping,script,subdocument,third-party,xmlhttprequest,domain=torrentfunk.com
