@@ -7090,8 +7090,8 @@ debugger:$popup
 ||yoursinfo.info^$popup,third-party
 ||yoursinstance.info^$popup,third-party
 ! camsympa.com
-||camsympa.com/?tracker=$popup
-||eurolive.com/?module=$popup
+||camsympa.com/?tracker=$popup,third-party
+||eurolive.com/?module=$popup,third-party
 !
 &*35.188.59.75$popup
 ?*35.188.59.75$popup
