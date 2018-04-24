@@ -2206,6 +2206,7 @@ _frontend_loader.$script
 ||gdn^*&impid=$third-party
 ||info/?tid=$script,third-party
 ||men^*.php?z=$third-party
+||porn/func.js
 ||pro^*=/$script,third-party
 ||pro^*?zoneId=
 ||rocks^*.php?z=$third-party
@@ -2214,6 +2215,7 @@ _frontend_loader.$script
 ||space/?tid=
 ||space^*?wkey=
 ||ws/exa/$script
+||xxx/func.js
 ||xyz^*?pub=*&gateid=$script
 !
 !------------------------ Génériques popup -----------------------!
@@ -7205,6 +7207,8 @@ http://images.futbolbase.us/peponi2.html
 ||amateurdusexe.com^*/banniere/
 ||amateursvideos.net/banners/
 ||amateurvoyeursite.com/images/misc/$third-party
+||amatrys.com/images/cougar.jpg
+||amatrys.com/images/sexhotel.png
 ||amazon.fr/exec/obidos/external-search?$subdocument,domain=annuaire-bleu.net
 ||amazon.fr^$popup,domain=fdesouche.com
 ||amazonaws.com/hbams/
@@ -13833,6 +13837,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##a[href^="http://www.gaddin.com/index.php?sponsor"] > img
 ##a[href^="http://www.gamingaffiliation.com/"]
 ##a[href^="http://www.hayleyssecrets.com/"]
+##a[href^="http://www.jacquieetmichel-contact.com/?siteid="] > img
 ##a[href^="http://www.leguide.com/lettre/"]
 ##a[href^="http://www.marketdot.net/"]
 ##a[href^="http://www.masterads.info/"]
