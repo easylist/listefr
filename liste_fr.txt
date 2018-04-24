@@ -1047,6 +1047,7 @@
 /dhtml/popup/*
 /diff_affich_ban.
 /disclaimer.$domain=blog2mature.com|hentai-tube.fr|leathumb.com|leatube.com|papy-porno.com|porc.com|pornasiatix.com|pornxmovies.com|pornz.fr|secret-amateur.com|sexe2blog.com|sexotor.com|thefrenchporn.com|tube2sexe.com|videosallopass.com
+/disclaimer.*?aff=
 /disclaimer/*&aff=
 /disclaimerjs.*&aff=
 /display.php?ec=
@@ -1212,6 +1213,7 @@
 /iStripper-
 /istripper.swf
 /it/adv/*
+/ivdisclaimer.*?aff=
 /iwadserver.
 /javascript/ads_
 /jp_display.
@@ -3997,6 +3999,7 @@ debugger:$popup
 ||smrtgsrtbsourceads.net
 ||smrtrdrct.top^$third-party
 ||snake-leads.com^$third-party
+||snap-affairs.com^$popup,third-party
 ||socialmanga.net^$third-party
 ||socike.com^$third-party
 ||sodoor.co^$third-party
@@ -7630,6 +7633,7 @@ http://images.futbolbase.us/peponi2.html
 ||img6.bricozone.be/jquery-1.2.6.min.js
 ||imgsynergy.com/product_creatives/
 ||indecentes-voisines.com/bans/
+||indecentes-voisines.com/promo/
 ||indecentes-voisines.com/pub.
 ||infojobs.com.br/banner.aspx?
 ||inoutscripts.com/affiliate/
@@ -8176,6 +8180,7 @@ http://images.futbolbase.us/peponi2.html
 ||tools.indecentes-voisines.com^
 ||tools.sexedenfer.com^
 ||tools.vpscash.nl^
+||toolspro.indecentes-voisines.com^
 ||toomai.fr/lp/$subdocument
 ||toomai.fr/olp/$subdocument
 ||tooplay.com/midroll?session_id=
