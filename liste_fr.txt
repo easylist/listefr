@@ -4555,8 +4555,8 @@ debugger:$popup
 ||xvika.com^
 ||zbwttofskjnc.com^
 ! Ad-Maven
-/^http:\/\/[a-z]{5,12}\.(info|online)\/([0-9a-zA-Z\+\/]){138,140}/$image,third-party
-/^http?:\/\/(?!disqus\.)([a-z]+)\.(com|info|online)\/([0-9a-zA-Z\+\/]){400,460}/$subdocument,third-party
+/^http:\/\/[a-z]{5,12}\.(info|online|space)\/([0-9a-zA-Z\+\/]){138,140}/$image,third-party
+/^http?:\/\/(?!disqus\.)([a-z]+)\.(com|info|online|space)\/([0-9a-zA-Z\+\/]){400,460}/$subdocument,third-party
 ||abarrange.info^
 ||abourself.com^
 ||aceleration.info^
@@ -4660,6 +4660,7 @@ debugger:$popup
 ||factivityw.info^
 ||fcertakes.com^
 ||fexperies.info^
+||filternal.space^
 ||findepended.com^
 ||fisolately.info^
 ||flirteenew.info^
@@ -4694,6 +4695,7 @@ debugger:$popup
 ||humption.com^
 ||inadequal.com^
 ||infobizyours.info^
+||interedy.info^
 ||jerwested.info^
 ||jonathayes.com^
 ||joneself.com^
@@ -8564,8 +8566,8 @@ http://images.futbolbase.us/peponi2.html
 ! japscan.com
 japscan.cc,japscan.com###nacspaj
 japscan.cc,japscan.com##div[id^="a_d_"]
-|http://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.cc|japscan.com
-|https://$popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.cc|japscan.com
+|http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.cc|japscan.com
+|https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.cc|japscan.com
 ||blue15cdn.net^$third-party
 ||c.japscan.cc^$image
 ||d836pbl.club^$third-party
