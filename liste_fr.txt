@@ -4354,8 +4354,8 @@ debugger:$popup
 ||pblv-scoop.tk^
 ! propellerads
 /\.(accountant|bid|click|club|com|cricket|date|download|faith|link|loan|lol|men|online|party|racing|review|science|site|space|stream|top|trade|webcam|website|win|xyz)\/(([0-9]{5,9})(\.|\/)(css)?)$/$script,stylesheet,third-party,xmlhttprequest
-/^http?:\/\/[0-9a-z]{15,25}\.(com|bid|date|download|men|online|party|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[0-9]{1}\/[0-9]{7}\/\?var\=[0-9]{7}$/$popup,third-party
 /^https?:\/\/[0-9a-z\-]+\.com\/[0-9]{7}\.html\?q$/$popup,third-party
+/^https?:\/\/[0-9a-z]{15,25}\.(com|bid|date|download|men|online|party|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[0-9]{1}\/[0-9]{7}\/\?var\=[0-9]{7}$/$popup,third-party
 ||0026645142c89aeb1.com^
 ||00ae8b5a9c1d597.com^
 ||017e689c749.com^
@@ -4704,7 +4704,7 @@ debugger:$popup
 ||zbwttofskjnc.com^
 ! Ad-Maven
 /^http:\/\/[a-z]{5,12}\.(info|online|space)\/([0-9a-zA-Z\+\/]){138,140}/$image,third-party
-/^http?:\/\/(?!disqus\.)([a-z]+)\.(com|info|online|space)\/([0-9a-zA-Z\+\/]){400,460}/$subdocument,third-party
+/^https?:\/\/(?!disqus\.)([a-z]+)\.(com|info|online|space)\/([0-9a-zA-Z\+\/]){400,460}/$subdocument,third-party
 ||abarrange.info^
 ||abourself.com^
 ||aceleration.info^
