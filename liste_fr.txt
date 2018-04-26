@@ -1582,6 +1582,7 @@
 /redirect/dl.
 /redirect?tid=$subdocument
 /redirect_pub.
+/regie.*/pub/
 /regie.js
 /regie_pub.
 /regie_pub/*
@@ -3723,6 +3724,7 @@ debugger:$popup
 ||nyyed.com^$third-party
 ||obhodsb.com^$third-party
 ||obozrevatelcom.info^$third-party
+||octea.com^$third-party
 ||octomarket.com^$third-party
 ||oftrau54.com^$third-party
 ||ohmyad.co^$third-party
