@@ -1674,6 +1674,7 @@
 /smartrotator.*?referrer=
 /sni-ads.
 /sp2popup.
+/sponsors/banner_
 /square-ads.
 /src/adv_
 /srv.php?size=300x250
@@ -5855,10 +5856,11 @@ debugger:$popup
 ||xoredi.com^
 ||xxlargepop.com^
 ||yoredi.com^
-!
+! BT
 ||bxkblkok.com^
 ||cwxiazwt.com^
 ||ecdglplsmzxcergaqx.com^
+||elyrvxljunilzq.com^
 ||hsnoamgzlksidfliivb.com^
 ||kmnjdcrcfhu.com^
 ||lmsxuo.com^
@@ -12619,6 +12621,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##.ad-halfpage-desktop
 ##.ad-hidden-mob
 ##.ad-hidden-tab
+##.ad-imag
 ##.ad-image-megaban
 ##.ad-item-990
 ##.ad-item-f
