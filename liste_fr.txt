@@ -2686,6 +2686,7 @@ debugger:$popup
 ||1yqbp.com^$third-party
 ||213.206.98.70^$third-party
 ||221dst.com^$third-party
+||27684.club^$third-party
 ||2leep.link^$third-party
 ||2mdn.net^$object-subrequest,domain=dhnet.be|lalibre.be
 ||2town.net^$third-party
@@ -8890,6 +8891,11 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,direct
 @@||stackpathdns.com/assets/$script,stylesheet,domain=onlinevideoconverter.com
 |http://$script,stylesheet,third-party,domain=onlinevideoconverter.com
 |https://$script,stylesheet,third-party,domain=onlinevideoconverter.com
+! realtimetv.me
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=realtimetv.me
+@@||sts.seelive.me/player/$script,domain=realtimetv.me
+|http://$script,third-party,domain=realtimetv.me
+|https://$script,third-party,domain=realtimetv.me
 ! mp3red.me
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=mp3red.cc|mp3red.me
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=mp3red.cc|mp3red.me
@@ -13602,6 +13608,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##.skin_outer_ad
 ##.skyscraper-ad-1
 ##.skyscraper-ad-2
+##.smartadtags_300250
 ##.smiliar_ads
 ##.snippet-publisher
 ##.soar-media-global
