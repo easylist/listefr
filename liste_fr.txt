@@ -8593,9 +8593,6 @@ http://images.futbolbase.us/peponi2.html
 ! dpstream.net
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=dpstream.net
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=dpstream.net
-! lenouveaudetective.com
-|http://$script,third-party,domain=lenouveaudetective.com
-|https://$script,third-party,domain=lenouveaudetective.com
 ! voirfilms.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=voirfilms.ws
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=voirfilms.ws
