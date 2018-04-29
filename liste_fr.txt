@@ -58,6 +58,8 @@
 &id_adv=
 &id_site=*&ref=*&width=*&height=*&m_url=$subdocument
 &include_ads=
+&iteratorId=*&clientKey=
+&iteratorId=*&zone=
 &lr_adtype=
 &maxAdCountsPerInterval=
 &page_url=*&advertiser=
@@ -2433,6 +2435,7 @@ _frontend_loader.$script
 /propeller_$popup
 /proxy.php?*/site_id/*$popup
 /pu2redirector.$popup
+/pub2/redirect.$popup
 /puopen.php?$popup
 /random.php$popup
 /reactads.$popup
@@ -3651,6 +3654,7 @@ debugger:$popup
 ||mumbai-invest.email^$third-party
 ||musclerku.com^$third-party
 ||mxttrf.com^$third-party
+||mybad.fr^$third-party
 ||mybankai.net^$third-party
 ||mybestsky.com^$third-party
 ||mycadads.info^$third-party
@@ -3689,6 +3693,7 @@ debugger:$popup
 ||naruto-gaiden.com^$third-party
 ||natchit.com^$third-party
 ||natcho2016.website^$third-party
+||nativeads.com^$third-party
 ||natoms.com^$third-party
 ||naughtymessenger.com^$third-party
 ||navitrades.com^$third-party
@@ -5884,7 +5889,7 @@ debugger:$popup
 ||xnkmmbfpyokevaxsjtky.com^
 ||ygfbto.com^
 ! contentza.com
-/web-clients.*/web-clients/bootloaders/*/bootloader.js
+/web-clients/bootloaders/*/bootloader.js
 ||ahtarzr.ovh^
 ||amazonaws.com/static.contentza.com/widgets-v2.js
 ||amazonaws.com/static.contentza.com/widgets.js
@@ -6872,6 +6877,7 @@ debugger:$popup
 ||mumbai-invest.email^$popup,third-party
 ||mxpopad.com^$popup,third-party
 ||mxttrf.com^$popup,third-party
+||mybad.fr^$popup,third-party
 ||mybankai.net^$popup,third-party
 ||mycamptrack.com^$popup,third-party
 ||myfreesoftwarehub.com^$popup,third-party
@@ -6890,6 +6896,8 @@ debugger:$popup
 ||natchit.com^$popup,third-party
 ||natcho2016.website^$popup,third-party
 ||native.com^$popup,third-party
+||nativeads.com^$popup,third-party
+||nativexml.com^$popup,third-party
 ||nbeatrk.com^$popup,third-party
 ||neigh.info^$popup,third-party
 ||never-break.com^$popup,third-party
@@ -11441,6 +11449,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ||d145tbca0156xf.cloudfront.net^
 ||d14nx4uiqzwnqt.cloudfront.net^
 ||d14p8nzdvd75ly.cloudfront.net^
+||d158nafix8anfs.cloudfront.net^
 ||d15cjcet1djbmv.cloudfront.net^
 ||d160mt023h8h3d.cloudfront.net^
 ||d162nnmwf9bggr.cloudfront.net^
@@ -11584,6 +11593,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ||d33dsfwui17p31.cloudfront.net^
 ||d33z8jzg2xbwjp.cloudfront.net^
 ||d34cznyf2woj3o.cloudfront.net^
+||d34tnov8neex5n.cloudfront.net^
 ||d3591q3cwzbtxd.cloudfront.net^
 ||d35gxjm3e9wg7v.cloudfront.net^
 ||d35r45qhjmgs3g.cloudfront.net^
