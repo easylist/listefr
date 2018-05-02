@@ -4737,8 +4737,8 @@ debugger:$popup
 ||xvika.com^
 ||zbwttofskjnc.com^
 ! Ad-Maven
-/^http:\/\/[a-z]{5,12}\.(info|online|space)\/([0-9a-zA-Z\+\/]){138,140}/$image,third-party
-/^https?:\/\/(?!disqus\.)([a-z]+)\.(com|info|online|space)\/([0-9a-zA-Z\+\/]){400,460}/$subdocument,third-party
+/^http:\/\/[a-z]{5,12}\.(info|online|space|top)\/([0-9a-zA-Z\+\/]){138,140}/$image,third-party
+/^https?:\/\/(?!disqus\.)([a-z]+)\.(com|info|online|space|top)\/([0-9a-zA-Z\+\/]){400,460}/$subdocument,third-party
 ||abarrange.info^
 ||abourself.com^
 ||aceleration.info^
@@ -4898,6 +4898,7 @@ debugger:$popup
 ||marisingly.com^
 ||mationse.info^
 ||mavexercial.info^
+||medware.top^
 ||messard.com^
 ||messardu.com^
 ||methinkinge.com^
@@ -5000,6 +5001,7 @@ debugger:$popup
 ||wateranik.com^
 ||webcompon.info^
 ||westmente.info^
+||wherestion.com^
 ||whistorica.info^
 ||whitection.com^
 ||whitectione.info^
