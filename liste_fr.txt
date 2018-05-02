@@ -346,6 +346,7 @@
 /24h-ad.
 /300-px-250-
 /300-x-250-
+/300-x-250.
 /300/250|$subdocument
 /300250.js
 /300250_2.
@@ -382,6 +383,7 @@
 /720x90_dfp.
 /728-90ban.
 /728-x-90-
+/728-x-90.
 /728/*-affiliates-
 /728/90|$subdocument
 /72890.js
@@ -401,6 +403,8 @@
 /750x60/*$script,subdocument
 /782x90.
 /790-90.
+/900-x-250-
+/900-x-250.
 /970x90.
 /980x90_$image
 /?cdlad=
@@ -1463,6 +1467,7 @@
 /pub-accueil-droite.
 /pub-accueil-gauche.
 /pub-ads/*
+/pub-app-mobile2.
 /pub-bouygues/*
 /pub-collante.
 /pub-colonne-droite/*
@@ -9639,6 +9644,11 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ||algerieclic.com/images/bandeau/
 ||algerieclic.com/images/baniere_principale/
 ||algerieclic.com/images/lateral/
+||algeriepatriotique.com/wp-content/uploads/*-partenaires.
+||algeriepatriotique.com/wp-content/uploads/*-patriotique-
+||algeriepatriotique.com/wp-content/uploads/*/banner-
+||algeriepatriotique.com/wp-content/uploads/2018/03/lotopluslaki.png
+||algeriepatriotique.com/wp-content/uploads/2018/04/Hadra-fr.jpg
 ||algerlablanche.com/pub/
 ||aliceadsl.fr/modules/shopping.
 ||aliexpress.com/p4pforlist.html?
@@ -15016,7 +15026,7 @@ gratuit-xxx.com##.footerboost
 torrent-9.fr##.fstory-in li > a
 mistergooddeal.com##.ftr_partners
 mistergooddeal.com##.ftr_pub
-israelmagazine.co.il##.g-dyn
+algeriepatriotique.com,israelmagazine.co.il##.g-dyn
 abidjanshow.com##.g1-ad
 abidjanshow.com##.g1-banner
 nautiljon.com##.gad
@@ -15554,6 +15564,7 @@ zone-telechargement1.com,zone-telechargement1.top##a > span > img
 cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
+algeriepatriotique.com##a[class][data-track][href]
 narutoshippudenvf.com##a[class][target="_blank"]
 dpstreaming.cc##a[href$=".html"]
 cpasbiens.net,free-telechargement.co,planet-streaming.com,streaming-telechargementz.net,telechargementz-streaming.net,telecharger-ebook-gratuit.net,telecharger-ebook-gratuit.org##a[href$=".php"]
