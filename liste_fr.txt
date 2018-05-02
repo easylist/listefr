@@ -4736,7 +4736,7 @@ debugger:$popup
 ||wanaldster.com^
 ||xvika.com^
 ||zbwttofskjnc.com^
-! Ad-Maven
+! admaven
 /^http:\/\/[a-z]{5,12}\.(info|online|space|top)\/([0-9a-zA-Z\+\/]){138,140}/$image,third-party
 /^https?:\/\/(?!disqus\.)([a-z]+)\.(com|info|online|space|top)\/([0-9a-zA-Z\+\/]){400,460}/$subdocument,third-party
 ||abarrange.info^
