@@ -922,7 +922,10 @@
 /banner-ads.
 /banner-publi-lateral.
 /Banner-Tag-
+/banner.*?a_id=
+/banner.ashx?
 /banner.control.
+/banner.html?
 /banner.outer.
 /banner/*/goclick/?
 /banner/*/sponsored?
