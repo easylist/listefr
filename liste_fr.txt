@@ -4827,8 +4827,8 @@ debugger:$popup
 ||xvika.com^
 ||zbwttofskjnc.com^
 ! admaven
-/^http:\/\/[a-z]{5,12}\.(info|online|space|top)\/([0-9a-zA-Z\+\/]){138,140}/$image,third-party
-/^https?:\/\/(?!disqus\.)([a-z]+)\.(com|info|online|space|top)\/([0-9a-zA-Z\+\/]){400,460}/$subdocument,third-party
+/^http:\/\/[a-z]{5,12}\.(club|info|online|space|top)\/([0-9a-zA-Z\+\/]){138,140}/$image,third-party
+/^https?:\/\/(?!disqus\.)([a-z]+)\.(club|com|info|online|space|top)\/([0-9a-zA-Z\+\/]){400,460}/$subdocument,third-party
 ||abarrange.info^
 ||abourself.com^
 ||aceleration.info^
@@ -4881,6 +4881,7 @@ debugger:$popup
 ||cecrating.info^
 ||cellorun.info^
 ||centracts.com^
+||certaken.com^
 ||certakes.com^
 ||chanicut.com^
 ||chardneave.info^
@@ -5048,6 +5049,7 @@ debugger:$popup
 ||sovietname.info^
 ||spondenced.com^
 ||sprincipal.com^
+||squite.club^
 ||stampshire.info^
 ||stodyew.info
 ||stodyew.info^
