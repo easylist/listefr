@@ -704,6 +704,7 @@
 /ads/top_
 /ads/v1/*
 /ads/vip1.
+/ads/vul2.
 /ads/zones/*
 /ads13.
 /ads14.
@@ -1034,6 +1035,7 @@
 /bnr.php?*&pub=
 /bnr.php?section=
 /bnr/300/*
+/bnr/468.
 /bnr/468/*
 /bnr/720/*
 /bnr/?wkey=
@@ -2322,6 +2324,7 @@ _frontend_loader.$script
 ||rocks^*.php?z=$third-party
 ||ru/dbp/pre/*/*?$script,third-party
 ||ru^*&vid=*&stream_id=*&title=$script,third-party
+||ru^?pid=*&rid=$third-party
 ||space/?tid=
 ||space^*?wkey=
 ||ws/exa/$script
@@ -2976,6 +2979,7 @@ debugger:$popup
 ||adserveradulte.com^$third-party
 ||adserverbanners.com^$third-party
 ||adservingstd.com^$third-party
+||adservone.com^$third-party
 ||adservr.net^$third-party
 ||adsflow.net^$third-party
 ||adsfogz.net^$third-party
