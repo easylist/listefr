@@ -6366,7 +6366,7 @@ debugger:$popup
 ||gasolina.ml^$third-party
 ||giml.ml^$third-party
 ||github.io^$third-party,websocket,domain=~github.com|~tumblr.com
-||github.io^$third-party,xmlhttprequest,domain=~github.com|~tumblr.com
+||github.io^$third-party,xmlhttprequest,domain=~facebook.com|~github.com|~tumblr.com
 ||github.io^*?proxy=ws:$third-party
 ||googleanalytcs.com^$third-party
 ||goredirect.party^$third-party
