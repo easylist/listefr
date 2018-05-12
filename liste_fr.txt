@@ -9432,7 +9432,7 @@ openload.io,fruitstreams.com,fruitadblock.net|oload.info,oload.stream,oload.tv,o
 !|http://$script,third-party,domain=megawatch.net
 !|https://$script,third-party,domain=megawatch.net
 ! mystream.la
-@@|http://89.33.8.*/i/*.jpg|$image,domain=mystream.la
+@@||mystream.to/i/*.jpg|$image,domain=mystream.la
 |http://$image,ping,script,subdocument,third-party,xmlhttprequest,domain=mystream.la
 |https://$image,ping,script,subdocument,third-party,xmlhttprequest,domain=mystream.la
 ! tusfiles.net
