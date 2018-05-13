@@ -9450,6 +9450,9 @@ openload.io,fruitstreams.com,fruitadblock.net|oload.info,oload.stream,oload.tv,o
 ! jheberg.net
 |http://$third-party,xmlhttprequest,domain=jheberg.net
 |https://$third-party,xmlhttprequest,domain=jheberg.net
+! natationpourtous.com
+|http://$script,third-party,domain=natationpourtous.com
+|https://$script,third-party,domain=natationpourtous.com
 ! audiofanzine.com
 @@||apis.google.com^$script,domain=audiofanzine.com
 @@||connect.facebook.net^$script,domain=audiofanzine.com
