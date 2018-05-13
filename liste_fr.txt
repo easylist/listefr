@@ -1009,6 +1009,7 @@
 /banniere/proxy2.php?
 /banniere300x250.
 /banniere300x250bas.
+/banniere468x60_
 /banniere728x90.
 /banniere728x90_
 /banniere728x90home.
@@ -1615,6 +1616,7 @@
 /pub_affiche.
 /pub_col.
 /pub_delivery.
+/pub_frame.
 /pub_header.
 /pub_horizontale.
 /pub_html5/*
@@ -11592,8 +11594,6 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ||vakarm.net/statics/images/header/*_black.
 ||vakarm.net/statics/images/main/bg-
 ||vakarm.net^*/pub/
-||vazigo.fr/css/pub.css
-||vazigo.fr/referencement/pub_frame.
 ||vbulletin-ressources.com/forum/planethoster/
 ||velotaf.com/_themes/velotaf/habillage/
 ||ventsdouest.com/images/banners/
@@ -12633,8 +12633,10 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ###pub-widget
 ###pub-widget2
 ###pub01
+###pub120x600
 ###pub160
 ###pub160x320
+###pub160x600
 ###pub250
 ###pub300
 ###pub300250
@@ -12643,9 +12645,13 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ###pub300x120
 ###pub300x250
 ###pub468x15
+###pub468x60
+###pub468x60_centree
 ###pub468x60_droite
 ###pub468x60_gauche
 ###pub468x60_match
+###pub468x60_text
+###pub468x60_text2
 ###pub728
 ###pub728bas
 ###pub728caracpub
