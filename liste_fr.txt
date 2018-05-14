@@ -149,6 +149,7 @@
 -920x180.gif
 -970-x-90-
 -ad-bar/
+-ad-cloud.
 -ad160x600.
 -ad300x250-
 -ad480x60-
@@ -475,6 +476,7 @@
 /Ad-*-300x250.
 /ad-360-280-
 /ad-ads.
+/ad-footer.
 /ad-hover.
 /ad-lib/*
 /ad-market/*
@@ -782,6 +784,7 @@
 /adSettings?
 /adsext/*
 /adsf300.
+/adsfactor_
 /adsleft.
 /adslider.
 /AdsManagementScript.
@@ -798,6 +801,8 @@
 /adstest.
 /adstrack/*
 /adstract_
+/adsview.
+/adsview/*
 /adsvrz-
 /adsw1.
 /adtechv2_
@@ -1256,6 +1261,7 @@
 /homad-global-
 /homadConfigVideoplaza-
 /href-to-popup.
+/html5/ads/*
 /iab/banner|
 /ibd-ads/*
 /ichhar/*
@@ -1290,8 +1296,10 @@
 /imgs/adv/*
 /in-ad_desktop/*
 /in_ad_new.
+/ina_ad_
 /inclick.js
 /include/partenaires.
+/include/popup.
 /includes/adds/*
 /includes/ads.
 /incontext_ads.
@@ -1497,8 +1505,8 @@
 /popunderclic.
 /popundersc/*
 /popup.*&ads=
-/popup.php?*&pub=
-/popup.php?affil_id=
+/popup.*&pub=
+/popup.*?affil_id=
 /popup.php?user=
 /popup1.js
 /popup4.js
