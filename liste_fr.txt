@@ -12048,6 +12048,9 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ###AdBanner_1
 ###AdBanner_2
 ###AdSense_Header
+###AdsenseHAdBox
+###AdsenseHAdBox2
+###AdsenseHAdBox3
 ###AdvertisingBL
 ###Block_Pub_Right
 ###DFP-banniere_basse
@@ -12059,6 +12062,8 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ###EmplPubDroite
 ###EmplPubGauche
 ###EmplPubHaut
+###HAdSubBox
+###HAdSubText
 ###HeadPub
 ###LeftAdDiv
 ###LeftAds
@@ -12165,6 +12170,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ###ad_middle_page
 ###ad_mpu_1_placeholder
 ###ad_placement_workopolis
+###ad_player
 ###ad_rotation_match
 ###ad_smartphbig
 ###ad_video
@@ -12180,6 +12186,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ###admid1
 ###admid2
 ###admitad_div
+###adnFloatbl
 ###adpos2_1
 ###adpos2_2
 ###adpubhead
@@ -12892,6 +12899,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ###tower_pub
 ###tube_ad_wrap
 ###vHeader-pub
+###video-side-adv
 ###videoOverAd
 ###videoOverAd300snd
 ###videoadv
@@ -13033,6 +13041,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##.ad_visible
 ##.adavert-center
 ##.adbanner600active
+##.adbit-display-ad
 ##.adbloc
 ##.adblock-spot
 ##.adblock1
@@ -13150,8 +13159,10 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##.adsTitle
 ##.ads_160_600
 ##.ads_160_600_sidebar
+##.ads_160x600
 ##.ads_300_250
 ##.ads_728_90
+##.ads_960x90
 ##.ads_actuly
 ##.ads_ban
 ##.ads_ban_top
@@ -13171,11 +13182,16 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##.ads_table
 ##.ads_vert
 ##.adsbanner
+##.adsblockpop
 ##.adsbygoogle_desktop
 ##.adsbygoogle_h_250
 ##.adsbygoogle_wrap
 ##.adsbyskyline
+##.adsderecha
 ##.adsdisplay
+##.adsense-ad-centered
+##.adsense-ad-left
+##.adsense-ad-right
 ##.adsense-article
 ##.adsense-bottom
 ##.adsense-bottom-mob-tab
@@ -13419,6 +13435,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##.dossier-pub
 ##.dp-ad-chrome
 ##.dp-ad-visible
+##.drop-down-advert
 ##.drt-ad-url
 ##.drt-sponsor-block
 ##.drt-sponsor-data
@@ -13479,6 +13496,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##.gr-ads-imu-sticky
 ##.green-ad
 ##.gtm-pub
+##.gutter-ads-container
 ##.gz_ads_title
 ##.h2-advert
 ##.head-advrtsmnt
@@ -13500,6 +13518,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##.home_pub
 ##.hori-advert
 ##.horizontal-pub
+##.howtoads
 ##.ibd-videos-paid-ad
 ##.iframe_pub
 ##.iklan
@@ -13529,6 +13548,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##.labelPub
 ##.large-ad-center
 ##.large-ad-center-close
+##.large-left-ad
 ##.lbl-ad
 ##.leaderboard728
 ##.leftSideAds
@@ -13733,6 +13753,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##.pub728b
 ##.pub728c
 ##.pub728x90
+##.pub950
 ##.pub970x90
 ##.pub980x90
 ##.pubBannersContainer
@@ -14420,9 +14441,12 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##div[class^="ad-inside-post-"]
 ##div[class^="ad_200_"]
 ##div[class^="ad_468_"]
+##div[class^="adsInfo_"]
+##div[class^="cards__card_ad-"]
 ##div[class^="div-gpt-ad"]
 ##div[class^="homepage-square-ad"]
 ##div[class^="pub_tag_"]
+##div[data-adspace-id]
 ##div[id$="textAdsBox"]
 ##div[id*="300x250_advertisement_"]
 ##div[id*="_div_ads_header_"]
