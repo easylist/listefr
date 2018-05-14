@@ -12420,6 +12420,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ###dfp-pave_milieu
 ###dfp_banniere_bas
 ###dfp_banniere_haute
+###dfp_inread
 ###dfp_leaderboard
 ###dfp_left
 ###dfp_right
@@ -14452,6 +14453,9 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##div[id*="_div_ads_header_"]
 ##div[id*="_main_ads_header_"]
 ##div[id*="_section_ads_header_"]
+##div[id="dfp_banner-basse"]
+##div[id="dfp_banner-haute"]
+##div[id="dfp_droite-ga"]
 ##div[id^="M"][id*="Composite"]
 ##div[id^="PostAd"]
 ##div[id^="adsatlas-"]
