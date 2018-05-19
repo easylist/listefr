@@ -2532,6 +2532,8 @@ _frontend_loader.$script
 /install.*&clickid=$popup
 /install.*&subid=$popup
 /install.*?pid=$popup
+/itab/*&pid=$popup
+/itab/*?cid=$popup
 /jump/clk1.$popup
 /jump/next.php?r=$popup
 /lib/*?id=*&adb=$popup
@@ -7755,7 +7757,6 @@ debugger:$popup
 ||url.rw^$popup,third-party
 ||urlcash.com^$popup,third-party
 ||vdtrack.com^$popup,third-party
-||verblife-2.co^$popup,third-party
 ||vertoz.com^$popup,third-party
 ||video1404.info^$popup,third-party
 ||videoroow.com^$popup,third-party
