@@ -11947,6 +11947,8 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ||wamland.com^*.html$object,subdocument
 ||watch.pubfilm.me^$popup
 ||watchcartoononline.com/inc/siteskin/swf/*.swf
+||watchfomny.tv/menu/$popup
+||watchfomny.tv/pop/$popup
 ||wawa-mania.biz/pubs/
 ||wawacity.ec/img/bopcs/
 ||web2.$subdocument,domain=0calc.com|0calc.es|0calc.fr|0calc.in|0calc.ru|0rechner.de
@@ -16359,6 +16361,7 @@ needsandmoods.com##a[href^="http://sigma-beauty.7eer.net/"]
 sport.fr##a[href^="http://sport-kiff.com/"]
 fdesouche.com##a[href^="http://vplan.com/"]
 pubfilm.me##a[href^="http://watch.pubfilm.me/"]
+watchfomny.tv##a[href^="http://watchfomny.tv/Pop/"]
 futurama-stream.eu,t411streaming.com##a[href^="http://www.adcash.com/"]
 peuple-vert.fr,scally.typepad.com##a[href^="http://www.amazon.fr/"] > img
 alsacreations.com##a[href^="http://www.amazon.fr/gp/product/"]
