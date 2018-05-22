@@ -4832,7 +4832,6 @@ debugger:$popup
 ||rf6oo9gq.online^
 ||rw3xxb80.online^
 ||s7jrg2eb.club^
-||s85n4btydl.online^
 ||stickredgr.online^
 ||tqeobp89axcn.com^
 ||usoqmr8m.club^
@@ -4912,6 +4911,9 @@ debugger:$popup
 ||wanaldster.com^
 ||xvika.com^
 ||zbwttofskjnc.com^
+! MJPops
+/^https?:\/\/[0-9a-z]{5,25}\.(com|bid|date|download|men|online|party|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[a-z]\/[0-9a-f]{32}\.js\?id=[0-9]{6}$/$script,third-party
+||s85n4btydl.online^
 ! admaven
 /^http:\/\/[a-z]{5,12}\.(club|info|online|space|top)\/([0-9a-zA-Z\+\/]){138,140}/$image,third-party
 /^https?:\/\/(?!disqus\.)([a-z]+)\.(club|com|info|online|space|top)\/([0-9a-zA-Z\+\/]){400,460}/$subdocument,third-party
