@@ -9636,6 +9636,8 @@ thevid.net##.cban
 |http://$script,subdocument,third-party,domain=thevid.net
 |https://$script,subdocument,third-party,domain=thevid.net
 ! vidzi.tv
+@@||static.vidzi.*/static/ads.js?$script,domain=vidzi.si|vidzi.tv
+@@||vidzi.tv/hls2/$xmlhttprequest,domain=vidzi.si|vidzi.tv
 |http://$third-party,xmlhttprequest,domain=vidzi.si|vidzi.tv
 |https://$third-party,xmlhttprequest,domain=vidzi.si|vidzi.tv
 ||sb.vidzi.
