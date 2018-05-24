@@ -780,6 +780,9 @@
 /adspaymedia.
 /adspirit.
 /adsplus.
+/adspromo-
+/adspromo.
+/adspromo/*
 /AdsPub/*
 /adss.htm
 /adstest.
@@ -11991,6 +11994,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ###adsground
 ###adsleft
 ###adspave
+###adspromo
 ###adswap
 ###adtech-banner
 ###adtech-banner_bottom
@@ -12903,6 +12907,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##.adsFirst
 ##.adsHome
 ##.adsPost
+##.adsPromo
 ##.adsSecond
 ##.adsTitle
 ##.ads_160_600
@@ -12967,6 +12972,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##.adspopup
 ##.adspopupfilm
 ##.adspopupserie
+##.adspromo
 ##.adsquare
 ##.adsunits
 ##.adtechMobile
