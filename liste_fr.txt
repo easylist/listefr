@@ -13842,6 +13842,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##.videoOverAdSmall
 ##.video_reklama
 ##.videocontrols-ads
+##.vjs-ima3-ad-container
 ##.vjs-onceux-ad-container
 ##.vud_ads
 ##.wads-script
@@ -14081,6 +14082,7 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##a[href^="http://4kmoviesclub.co/"]
 ##a[href^="http://acces.direction-x.com/a.php?"] > img
 ##a[href^="http://ad-online.biz/"]
+##a[href^="http://ad.prismamediadigital.com/"]
 ##a[href^="http://adgup.com/"]
 ##a[href^="http://adminlady.info/"]
 ##a[href^="http://adprovider."]
@@ -14227,6 +14229,8 @@ $popup,domain=0zz0.com|35.184.169.188|3movs.com|abcast.net|adca.st|adf.ly|adshor
 ##div[class^="pub_tag_"]
 ##div[data-adspace-id]
 ##div[data-iab-tag]
+##div[data-pmdfp-display]
+##div[data-pmdfp-format]
 ##div[id$="textAdsBox"]
 ##div[id*="300x250_advertisement_"]
 ##div[id*="_div_ads_header_"]
@@ -15327,6 +15331,8 @@ lemonde.fr##.poops
 e-wok.tv##.pop_parent
 zebrascrossing.net##.post--0
 gamergen.com##.post-google
+businessinsider.fr##.post-push
+businessinsider.fr##.post-push-intel
 1001cocktails.com##.post.bg2 + * + .post.bg2
 strastv.com##.post_pub
 leparking-moto.fr,leparking.fr##.premium
@@ -15453,6 +15459,7 @@ voyage-economique.fr##.sideaff-container
 foot01.com##.sidebar img:first-child
 ecranlarge.com##.sidebar-banner
 wikiclic.com##.sidebar-promotion
+businessinsider.fr##.sidebar-push
 deavita.fr##.sidebar_banner
 clicbienetre.com##.sidebar_block
 francemobiles.com##.simpleoFlashBanner
@@ -16501,6 +16508,7 @@ _blockadblock_
 ||brocktonshippensburg.com^
 ||brookletlidderdale.com^
 ||burnettsvilletaunton.com^
+||businessinsider-fr.businessinsider.fr^
 ||clarissaedwardsport.com^
 ||claxtonpeterstown.com^
 ||cosbyminden.com^
