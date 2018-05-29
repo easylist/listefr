@@ -9018,6 +9018,9 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,direct
 @@||netdna.bootstrapcdn.com/bootstrap/$script,domain=uploads.to
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=uploads.to
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=uploads.to
+! fembed.com
+|http://$script,third-party,domain=fembed.com
+|https://$script,third-party,domain=fembed.com
 ! macupload.net
 |http://$script,third-party,xmlhttprequest,domain=macupload.net
 |https://$script,third-party,xmlhttprequest,domain=macupload.net
@@ -13232,6 +13235,7 @@ $popup,domain=0zz0.com|35.184.169.188|35.184.188.211|3movs.com|abcast.net|adca.s
 ##.expressAdBanner
 ##.facebook-twitter-ads-728-90
 ##.fakeAd
+##.fake_embed_ad_close
 ##.fdw-ads
 ##.fig-ad
 ##.fig-ad-pave
@@ -14134,6 +14138,7 @@ $popup,domain=0zz0.com|35.184.169.188|35.184.188.211|3movs.com|abcast.net|adca.s
 ##a[href^="http://lifeselector.com/game/listGames?"]
 ##a[href^="http://lp.ilividnewtab.com/"]
 ##a[href^="http://m.mobilerevenu.com/idw/"]
+##a[href^="http://mediadownloads.tk/"]
 ##a[href^="http://mytogolinks.com/?"]
 ##a[href^="http://nfbusty.com/tube/featured?"]
 ##a[href^="http://partner.global-espace.com/"]
