@@ -1541,6 +1541,7 @@
 /proxy_iframe.php?url=
 /ptp/banners/*
 /pu-placer.js
+/pu.*?type=pu&
 /pu/*?psid=
 /pu/license.$script
 /pu/script.$script
@@ -2345,6 +2346,7 @@ _frontend_loader.$script
 ||gdn^*&impid=$third-party
 ||info/?tid=$script,third-party
 ||men^*.php?z=$third-party
+||online^*?type=pu&
 ||porn/func.js
 ||pro^*=/$script,third-party
 ||pro^*?zoneId=
@@ -3851,6 +3853,7 @@ debugger:$popup
 ||onhitads.net^$third-party
 ||onlinesupaads.com^$third-party
 ||onlinevenditatio.space^$third-party
+||onlivestreams.online^$third-party
 ||oopt.fr^$third-party
 ||ooxad.com^$third-party
 ||openx.pm^$third-party
@@ -6383,6 +6386,8 @@ debugger:$popup
 ||veritrol.com^$third-party
 ||verresof.com^$third-party
 ||video.streaming.estream.to^
+||videoplayer2.xyz^$third-party
+||vidzi.tv/bootstrap.
 ||vzhjnorkudcxbiy.com^$third-party
 ||wasm24.ru^$third-party
 ||webassembly.stream^$third-party
