@@ -8856,6 +8856,7 @@ japscan.cc,japscan.com##div[id^="a_d_"]
 |https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=japscan.cc|japscan.com
 ||blue15cdn.net^$third-party
 ||c.japscan.cc^$image
+||japscan.cc^$csp=script-src 'none'
 ! lirescan.net
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=lirescan.net
