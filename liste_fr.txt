@@ -1570,6 +1570,7 @@
 /promobox/ads/*
 /promoredirect?key=
 /promos/banners/*$third-party
+/promos/iframe/*&cmp=
 /promotool_referrer.
 /promotools.static.js
 /promotools/popup/*
@@ -3321,6 +3322,7 @@ debugger:$popup
 ||cam4ads.com^$third-party
 ||camplace.com^$third-party
 ||camsoda.com^$third-party
+||camsoda1.com^$third-party
 ||camsympa.com^$third-party,domain=~camsympa.fr
 ||captchme.net^$third-party
 ||caradisiac-publicite.com^$third-party
@@ -4202,6 +4204,7 @@ debugger:$popup
 ||stream4stream.com^$third-party
 ||streaming-serie.xyz^$third-party
 ||streamvo.com^$third-party
+||stripcdn.com^$third-party
 ||sublimemedia.fr^$third-party
 ||sublimeskinz.com^$third-party
 ||submitsupport.com^$third-party
@@ -6780,6 +6783,7 @@ debugger:$popup
 ||bwinpartypartners.com^$popup,third-party
 ||bxic0ho.com^$popup,third-party
 ||cacheicdn.com^$popup,third-party
+||camsoda.com^$popup,third-party
 ||carsquill.bid^$popup,third-party
 ||casebrio.com^$popup,third-party
 ||cash-duck.com^$popup,third-party
@@ -7327,6 +7331,7 @@ debugger:$popup
 ||steepto.com^$popup,third-party
 ||stream4stream.com^$popup,third-party
 ||streaming-serie.xyz^$popup,third-party
+||stripchat.com^$popup,third-party
 ||strongboxes.xyz^$popup,third-party
 ||stuntoffer.com^$popup,third-party
 ||supprene.com^$popup,third-party
@@ -8115,6 +8120,8 @@ http://images.futbolbase.us/peponi2.html
 ||livecareer.fr^$popup,domain=pole-emploi.fr
 ||livehost.fr^*/bannieres/
 ||livejasmin.com/pu/$popup
+||livejasmin.com^$?psid=$popup
+||livejasmin.com^&utm_$popup
 ||livementor.com/widget-livementor?$third-party
 ||localbitcoins.com/affiliate-
 ||locamax.fr^*?popup=$popup
