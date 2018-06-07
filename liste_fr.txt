@@ -1240,6 +1240,7 @@
 /forward?key=$subdocument
 /fr-ads.
 /fra/ads/*
+/frame/ad?
 /frame_clic.*&aff=
 /frame_popup.
 /free/ads/*
@@ -6102,6 +6103,7 @@ debugger:$popup
 /minera.js
 /minero-proxy-
 /minescripts.js
+/mining.js
 /noblock.js
 /processor.js
 /projectpoi.js
@@ -8385,6 +8387,7 @@ http://images.futbolbase.us/peponi2.html
 ||quickdomainfwd.com^$subdocument
 ||rabbitfinder.com/uploads/banners/
 ||rackcdn.com^$domain=dailymotion.com
+||raincaptcha.com^*/frame/click?
 ||rapidgator.net/images/fdmanager.png
 ||ratehub.ca/widgets/$third-party
 ||readersdigest.ca/*/images/promobrick_
