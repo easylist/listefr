@@ -19,6 +19,7 @@
 &468&60&
 &728&90&
 &ad.preroll=
+&ad.trans.
 &ad=*&bid=*&bn=
 &ad_block=
 &ad_count=
@@ -310,6 +311,9 @@
 .php?*&size=*&synergie=
 .php?*&sub_zoneid=
 .php?*&synergie=*&size=
+.php?*/300250$script
+.php?*/46860$script
+.php?*/72890$script
 .php?*=adSlot
 .php?ads&
 .php?aid=*_ban=
@@ -6680,6 +6684,7 @@ debugger:$popup
 ||adskeeper.co.uk^$popup,third-party
 ||adsmena.com^$popup,third-party
 ||adsparkmedia.net^$popup,third-party
+||adsrv.me^$popup,third-party
 ||adsstars.com^$popup,third-party
 ||adstract.com^$popup,third-party
 ||adsupplyads.net^$popup,third-party
@@ -8829,6 +8834,7 @@ http://images.futbolbase.us/peponi2.html
 |http://$image,ping,popup,script,third-party,xmlhttprequest,domain=voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.info|voirfilms.net|voirfilms.org|voirfilms.tv|voirfilms.ws
 |https://$image,ping,popup,script,third-party,xmlhttprequest,domain=voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.info|voirfilms.net|voirfilms.org|voirfilms.tv|voirfilms.ws
 ||voirfilms.ws/jscripts/
+||voirfilms.ws^*.php$script
 ! series-en-streaming.tv
 @@||ajax.googleapis.com/ajax/libs/$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||cdn.jsdelivr.net^$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
