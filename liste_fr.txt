@@ -1398,6 +1398,7 @@
 /load.php?*&size=
 /load.php?action=adsc&
 /loaddfp?
+/loaded?b=*&time=
 /logos-pub/*
 /logpopup/*
 /lp_fkplay/*
@@ -2398,6 +2399,7 @@ _frontend_loader.$script
 ||bid^*&zone_key=
 ||bid^*?site_key=
 ||club^*.php?z=$third-party
+||club^*=.js$third-party
 ||co^*?zoneId=
 ||com/ntfc.php?p=*&r=$script,third-party
 ||gdn^*&campaign_id=$third-party
@@ -9083,6 +9085,10 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,direct
 ! streamzentier.com
 |http://$script,third-party,domain=streamzentier.com
 |https://$script,third-party,domain=streamzentier.com
+! streamingvf1.com
+@@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=streamingvf1.com
+|http://$script,third-party,domain=streamingvf1.com
+|https://$script,third-party,domain=streamingvf1.com
 ! filmstreamvk.net
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.ws
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.ws
@@ -14141,6 +14147,7 @@ $popup,domain=0zz0.com|35.184.169.188|35.184.188.211|3movs.com|abcast.net|adca.s
 ##a[href*=".adhoc4.net/"]
 ##a[href*=".adsbtrk.com/"]
 ##a[href*=".brucelead.com/"]
+##a[href*=".club/clk?b="]
 ##a[href*=".egresspath.com"]
 ##a[href*=".get-media.co/"]
 ##a[href*=".hop.clickbank.net"] > img
