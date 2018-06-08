@@ -1621,6 +1621,7 @@
 /pub/728.
 /pub/728_2.
 /pub/728_top.
+/pub/88x31.
 /pub/ban_
 /pub/banniere/*
 /pub/banniere_
@@ -7673,6 +7674,7 @@ http://images.futbolbase.us/peponi2.html
 ||bit.ly^$domain=nintendo-master.com
 ||bit.ly^$image,domain=korben.info|phonandroid.com
 ||bitchvolley.com/ban/$third-party
+||bite.ws^$image,third-party
 ||bitly.com/teraplayerplay$popup
 ||bitport.io/assets/banners/
 ||bitvideo.club/promo/
@@ -8575,6 +8577,7 @@ http://images.futbolbase.us/peponi2.html
 ||toomai.fr/olp/$subdocument
 ||tooplay.com/midroll?session_id=
 ||tooplay.com/preroll?session_id=
+||topfion.com^$image,third-party
 ||topsites.re^$script,third-party
 ||torah-box.com/upl/ban/
 ||torrent24h.net^$popup,third-party
@@ -11460,7 +11463,7 @@ $popup,domain=0zz0.com|35.184.169.188|35.184.188.211|3movs.com|abcast.net|adca.s
 ||trucsweb.com^*/ban_$image
 ||tubave.com/redirect.$popup
 ||tube-teen.fr/tools/
-||tube-teen.fr^$popup,script,~third-party
+||tube-teen.fr^$popup,script
 ||tube-x-matures.com/catcher/
 ||tubeanal.fr^*/images/banniere_
 ||tubixe.com/site/images/*.gif
