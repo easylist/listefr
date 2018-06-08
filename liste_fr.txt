@@ -11343,6 +11343,8 @@ $popup,domain=0zz0.com|35.184.169.188|35.184.188.211|3movs.com|abcast.net|adca.s
 ||streaming-hardcore.com/image.php?src=*://
 ||streaming-hardcore.com^$popup,~third-party
 ||streaming-serie.tv/get.php?$popup
+||streaming-x.org/data/$image
+||streaming-x.org^$script
 ||streaming-xxx.org/data/$image
 ||streamingeur.com/480.html
 ||streamingfoot.direct/images/pub
