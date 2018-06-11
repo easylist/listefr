@@ -396,6 +396,7 @@
 /2017/ads/*
 /2017pub.
 /24h-ad.
+/300&250.
 /300-px-250-
 /300-x-250-
 /300-x-250.
@@ -2458,6 +2459,7 @@ _frontend_loader.$script
 &click_to_display=$popup
 &clickverify=*&utm_$popup
 &exo_cid=$popup
+&exotracker=$popup
 &id_publisher=*&id_$popup
 &id_rotation=$popup
 &lfapaff_id=$popup
@@ -2470,6 +2472,7 @@ _frontend_loader.$script
 &pub_id=$popup
 &pub_source=$popup
 &pub_sub_id_$popup
+&pubfeed=*&subid=$popup
 &pubid=*&pubid2=$popup
 &pubid=*-panther&$popup
 &pubid=*.adult.*&$popup
