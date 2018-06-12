@@ -9045,10 +9045,6 @@ japscan.cc,japscan.com##div[id^="a_d_"]
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=pokemon-streaming.com
 |http://$script,third-party,domain=pokemon-streaming.com
 |https://$script,third-party,domain=pokemon-streaming.com
-! kimcartoon.me
-@@||vjs.zencdn.net^$script,stylesheet,domain=kimcartoon.me
-|http://$script,stylesheet,third-party,xmlhttprequest,domain=kimcartoon.me
-|https://$script,stylesheet,third-party,xmlhttprequest,domain=kimcartoon.me
 ! dragon-ball-super-streaming.com
 @@||animedigitalnetwork.fr/video/$subdocument,domain=dragon-ball-super-streaming.com|dragon-ball-super-streaming.org|streaming-boruto.com|streaming-dragon-ball-super.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=dragon-ball-super-streaming.com|dragon-ball-super-streaming.org|streaming-boruto.com|streaming-dragon-ball-super.com
@@ -10893,7 +10889,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ||manageo.fr/espaces-sponsorises/loadEspacesSponsorises.html
 ||manager-online.fr/images/sidebar/
 ||manga-sanctuary.com/cg/
-||mangareader.net^$script
 ||manifone.com/banner/
 ||mappy.com/*/files/campaigns/
 ||mappy.com/services/annoncesjaunes/
@@ -10957,7 +10952,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ||meilleurs-masters.com/images/habillage/
 ||meilleurs-masters.com/intertitiel/
 ||meilleurstreaminggratuit.com/cgi-bin/snippet.cgi?
-||memecenter.com^$script
 ||memoireetvie.com^$subdocument
 ||mensuelautomobile.com/files/banners/
 ||mensup.fr/*/pub/
@@ -16392,7 +16386,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 |http://$script,third-party,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 |https://$script,third-party,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 ! bebi script
-/^https?:\/\/([0-9a-z\-]+\.)?(9anime|kimcartoon|memecenter|readcomiconline|watchcartoononline)\.[a-z]{2,4}\/(?!(Content|Scripts|Uploads|assets|static|thumbs|wp-content|wp-includes))(.*)/$image,script,~third-party
+/^https?:\/\/([0-9a-z\-]+\.)?(9anime|animenova|animeplus|animetoon|animewow|goodanime|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|assets|combined|content|cover|static|thumbs|wp-content|wp-includes))(.*)/$image,script,~third-party
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
