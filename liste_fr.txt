@@ -2911,6 +2911,7 @@ debugger:$popup
 ||108.163.194.100^$third-party
 ||123prix.com^$third-party
 ||130.211.$third-party
+||138.197.81.16^$third-party
 ||145.239.218.240^$third-party
 ||146.148.85.61^$third-party
 ||163.172.16.147^$third-party
@@ -13482,6 +13483,8 @@ $popup,domain=0zz0.com|35.184.169.188|35.184.188.211|3movs.com|abcast.net|adca.s
 ##.entry-pub
 ##.espace-partenaire-premium
 ##.espaces-partenaires-standard
+##.exo-native-widget-header
+##.exo-native-widget-outer-container
 ##.expressAdBanner
 ##.facebook-twitter-ads-728-90
 ##.fakeAd
@@ -14461,6 +14464,7 @@ $popup,domain=0zz0.com|35.184.169.188|35.184.188.211|3movs.com|abcast.net|adca.s
 ##a[href^="https://ouicesoir.com/"]
 ##a[href^="https://oxhax.com/"]
 ##a[href^="https://partner.zenmate.com/"]
+##a[href^="https://plarium.com/"]
 ##a[href^="https://r.ligatus.com/"]
 ##a[href^="https://secure.securitetotale.com/"]
 ##a[href^="https://snapmrsexe.com/lp/"]
@@ -14468,6 +14472,7 @@ $popup,domain=0zz0.com|35.184.169.188|35.184.188.211|3movs.com|abcast.net|adca.s
 ##a[href^="https://traceless.me/lp/"]
 ##a[href^="https://www.awin1.com/cread.php?"]
 ##a[href^="https://www.bebi.com"]
+##a[href^="https://www.exoclick.com"]
 ##a[href^="https://www.g2a.com/r/"] > img
 ##a[href^="https://www.le-vpn.com/clients/aff.php?"]
 ##a[href^="https://www.nutaku.net/signup/landing/"]
