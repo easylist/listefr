@@ -1965,6 +1965,7 @@
 /xenforo/banner/*
 /XnewadsX/*
 /xpopunder/*
+/xpopup.
 /xyz?*=|$subdocument
 /xzy?*=|$subdocument
 /z728.html
@@ -12129,6 +12130,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ###ad-desktop-footer
 ###ad-desktop-pop
 ###ad-desktop-skin
+###ad-gate-2017
 ###ad-habillage
 ###ad-habillage-flash
 ###ad-habillage-load
@@ -13063,6 +13065,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ##.ad_showblock
 ##.ad_smartphbig
 ##.ad_title_mimic
+##.ad_vertical
 ##.ad_video
 ##.ad_visible
 ##.adavert-center
@@ -13091,6 +13094,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ##.adholder2
 ##.admag-block
 ##.admid2
+##.ado-holder
 ##.ads--panorama
 ##.ads-300-300
 ##.ads-300-600
@@ -13295,6 +13299,9 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ##.advertising-box-full
 ##.advertising-item-bottom
 ##.advertising-side
+##.advertisingLeft
+##.advertisingRight
+##.advertisingTop
 ##.advertsLeaderboard
 ##.advertvertical
 ##.advhead
@@ -13334,6 +13341,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ##.bandeau_pub_centre
 ##.bandeau_pub_promo
 ##.banndar468x60
+##.banner-adsense-holder
 ##.banner-leaderboard
 ##.banner_40X160
 ##.bannergroup_bannierepub
@@ -14483,6 +14491,9 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ##a[onclick*="FriendlyDuck.com"]
 ##a[onclick^="CustomWLAdServer."]
 ##a[target="_blank"][href*="/buy-vpn?"] > img
+##div[ad-channel]
+##div[ad-position]
+##div[adonis-marker]
 ##div[class$="-adlabel"]
 ##div[class*="300x250_advertisement_"]
 ##div[class*="view-ads-header-"]
