@@ -12087,6 +12087,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 !
 !------------------ Éléments génériques -----------------!
 !
+#.adtimes
 ###ADS_1
 ###ADSblock
 ###AdBannerBT
@@ -12130,6 +12131,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ###RightAdDiv
 ###RightAds
 ###VideoPub300x250
+###Videoads
 ###_div-ad-1
 ###_div-ad-2
 ###_div-ad-3
@@ -12587,6 +12589,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ###mb_moving_container
 ###mb_video_sponso
 ###mb_video_syncad_bottom
+###md-media-overlay-ad
 ###meaPubContainer
 ###middle-publicite
 ###milieu_pub
@@ -13332,6 +13335,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ##.advertsLeaderboard
 ##.advertvertical
 ##.advhead
+##.advid
 ##.advimg46860
 ##.advimg72890
 ##.adwords_bottom
@@ -13429,6 +13433,9 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ##.box-advertisement-top
 ##.box-centered-ads
 ##.box-pubb
+##.boxAdLeft
+##.boxAdRight
+##.boxAdTop
 ##.breaking-ad
 ##.bumpable-ima-ad-container
 ##.business-details-ads
@@ -13520,6 +13527,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ##.entry-pub
 ##.espace-partenaire-premium
 ##.espaces-partenaires-standard
+##.esv-pub-300-250
 ##.expressAdBanner
 ##.facebook-twitter-ads-728-90
 ##.fakeAd
@@ -14548,6 +14556,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ##div[id^="M"][id*="Composite"]
 ##div[id^="PostAd"]
 ##div[id^="adsatlas-"]
+##div[id^="adtrue_tag"]
 ##div[id^="adzerk-"]
 ##div[id^="amzn-assoc-ad"]
 ##div[id^="amzn-native-ad"]
@@ -14568,6 +14577,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ##iframe[name*="/adunblock_"]
 ##script[src^="http://www.pubdirecte.com/script/"]
 ##section[onclick*="/publicite-300-250/"]
+##span[data-sponsor]
 ##table > tbody > tr > td > a[href="http://www.pubdirecte.com"]
 !##a[href*="/out.php?purl="]
 ! xenForo
