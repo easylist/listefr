@@ -1060,6 +1060,7 @@
 /bcklad.
 /bdv_rd.dbm?
 /bens/vinos.js
+/bg_ads.
 /bigbangads.
 /bimages/*&ad=
 /BlankAD_
@@ -9799,6 +9800,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ||i83.servimg.com/u/f83/09/00/46/81/alg_ba10.jpg
 ||image.prntscr.com/image/-Y15yLq6QJOZjhiNH9kr-A.gif
 ||image.prntscr.com/image/2841f1d729ee472c8fc565a0544b4985.png
+||image.prntscr.com/image/DEcb2ApWSOmwkz4nA1Lixw.gif
 ||image.prntscr.com/image/fd789e6681ec432d88b6c2d368fefd89.png
 ||img11.hostingpics.net/pics/517373PubSFR.jpg
 ||img11.hostingpics.net/pics/790237bannx.gif
@@ -16271,7 +16273,6 @@ rmc.fr##div[style="width:320px; height:280px; background:#000000; margin-top:20p
 orangeinfo.fr##div[style="width:336px;height:280px;margin-bottom:20px;"]
 video-buzz.eu##div[style="width:728px;height:90px;margin-left:auto;margin-right:auto;margin-bottom:15px;"]
 algerie360.com##div[style="width:970px; margin:0 auto; height:90px; text-align:center; clear:both; position:relative; padding:15px 0 0 "]
-01streamingvf.com,01streamingvf.ws,filmsstreaming.club,tfarjo.ws##div[style]
 winamax.fr##div[style^="cursor: pointer; background:"]
 echoroukonline.com##div[style^="display:inline-block;width:300px;height:250px;"]
 embed.nowvideo.sx##div[style^="height: 350px; width: 600px; z-index:"]
@@ -16672,8 +16673,8 @@ _blockadblock_
 @@.gif#$image,domain=sos-lettre.fr
 @@.jpg#$image,domain=4downfiles.org|dpstream.cc|lethal-weapon-streaming.eu|macgames-download.com|the-night-of-streaming.eu
 @@.png#$image,domain=4downfiles.org|dl-protect1.com|dl-protecte.com|dl-protecte.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|planet-series.co|protect-lien.com|protect-zt.com|protecte-link.com|pxstream.tv|radio-en-direct.fr|savefile.co|security-links.com|softmaroc.org|stream4free.top|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
-@@/adblock.js$script,domain=jeuxvideo.com|streaming-foot.me
-@@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
+@@/adblock.js$script,~third-party,domain=jdubuzz.com|jeuxvideo.com|journaldugamer.com|journaldugeek.com|pixelistes.com|streaming-foot.me
+@@/adframe.js$script,~third-party,domain=01streamingvf.ws|fas.li|shink.in|shink.me|tfarjo.ws
 @@/ads.js$script,~third-party,domain=adbilty.me|adbull.me|adshort.co|adshort.im|adshort.me|adshorte.com|akorto.xyz|coinlink.co|coinlink.us|cuon.io|curs.io|cut-urls.com|cutly.win|cutwi.in|danpod.work|eues.io|euon.io|faucy.win|igram.im|kimo-link.com|linkkawy.com|lkky.co|manga-vf.fr|passetoncode.fr|short.pe|short2win.com|shortenow.com|tmearn.com|tune.pk|u2s.io|zonebourse.com|zype.xyz
 @@/advertisement.js$script,domain=cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghrebspace.net|mega-exclue.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
 @@/advertisement.js$script,~third-party,domain=cap-public.fr|coco.fr|crash-aerien.aero|crash-aerien.news|e-wok.tv|fiki.faucetfly.com|leveldown.fr|programme.tv|quoverbis.com
@@ -16684,11 +16685,9 @@ _blockadblock_
 @@||adgear.com/session.js$domain=vtele.ca
 @@||adgear.com^*/adgear.js$domain=vtele.ca
 @@||ay.gy/static/js/advert.js$script,domain=adf.ly|ay.gy|babblecase.com|download.replaymod.com|go.awanpc.me|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|rd1.gamecopyworld.click
-@@||badibadou.eu/*.js?auto=$script,third-party
 @@||cdscdn.com/Js/advertise.js$script
 @@||d.adxcore.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||doubleverify.com^$domain=kissanime.com
-@@||fas.li/js/adframe.js$script,domain=fas.li
 @@||foglio.basilic.io/ad/basilic.adsense.js
 @@||geek-malin.fr/wp-content/plugins/adziner/Front/Js/ads.min.js?
 @@||gorin.multiup.org/pop.js|$script,domain=filesupload.org
@@ -16706,7 +16705,6 @@ _blockadblock_
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ot-boutique.fr|pcastuces.com|sos-lettre.fr|traductionjeux.com|universal-soundbank.com|zeperfs.com
 @@||pla.folue.info/needes.js$script
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
-@@||shink.*/js/adframe.js$script,domain=shink.in|shink.me
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|portail.free.fr
 @@||solvemedia.com^$script,domain=u2s.io
 @@||static-v.com/lib/js/_source/blockadblock.js$script,domain=vtele.ca
