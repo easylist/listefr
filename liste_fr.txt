@@ -224,6 +224,7 @@
 -pub-300-
 -pub-300x250.
 -pub-ads/
+-pub/prod/$third-party
 -reklama-300x300.
 -viceads.
 -viewability.
@@ -12542,6 +12543,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ###header-pub
 ###header-pub-banner
 ###header-pub-top
+###headerAd
 ###headerPub
 ###header_728x90_ad
 ###header_bloc2_pub
@@ -13112,6 +13114,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ##.adf_mpu
 ##.adflex
 ##.adg-rects
+##.adgear-container
 ##.adholder2
 ##.admag-block
 ##.admid2
