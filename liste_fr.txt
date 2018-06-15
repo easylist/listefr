@@ -16682,8 +16682,6 @@ _blockadblock_
 @@/static/image/ad_top_bg2.png?$image,~third-party,domain=adf.ly|ay.gy|babblecase.com|gamecopyworld.click|go.awanpc.me|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|replaymod.com
 @@||1max2sms.com/blogads.css
 @@||a.f1g.fr/build/2/adsense.js$script
-@@||adgear.com/session.js$domain=vtele.ca
-@@||adgear.com^*/adgear.js$domain=vtele.ca
 @@||ay.gy/static/js/advert.js$script,domain=adf.ly|ay.gy|babblecase.com|download.replaymod.com|go.awanpc.me|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|rd1.gamecopyworld.click
 @@||cdscdn.com/Js/advertise.js$script
 @@||d.adxcore.com/adjs_r.php?$script,domain=forum.virtualdjing.com
@@ -16707,7 +16705,6 @@ _blockadblock_
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
 @@||smartadserver.com/def/def/showdef.asp$script,domain=alloclips.com|portail.free.fr
 @@||solvemedia.com^$script,domain=u2s.io
-@@||static-v.com/lib/js/_source/blockadblock.js$script,domain=vtele.ca
 @@||static.les-horaires.fr/js/advert.js
 @@||streamplay.top/js/ads-1.js|$script,~third-party
 @@||textnow.com/messaging/assets/advertisements.js$script
@@ -16789,7 +16786,6 @@ _blockadblock_
 @@||uploads.to^$generichide
 @@||uploadx.link^$generichide
 @@||urbeez.com^$generichide
-@@||vtele.ca^$generichide
 @@||wakanim.tv^$generichide
 @@||xavierstuder.com^$generichide
 @@||zone-torrent.net^$generichide
