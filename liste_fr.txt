@@ -1401,6 +1401,7 @@
 /leftbanner_embed.
 /lgads.
 /lgpub.
+/lib/*&adl=$subdocument
 /license.packed.$script
 /liens-commerciaux/*
 /ligadis.$script
@@ -2078,6 +2079,7 @@
 =banner_*goclick&
 =banniere&*=leaderboard&
 =dynamic_banner&
+=eureka_
 =GetAdHtml&
 =goto_adv&
 =iframe_pub&
@@ -2630,7 +2632,6 @@ _frontend_loader.$script
 /itab/*?cid=$popup
 /jump/clk1.$popup
 /jump/next.php?$popup
-/lib/*?id=*&adb=$popup
 /lp/*;pop|$popup
 /mobile-ad/*$popup
 /movie_player/trend?$popup,third-party
