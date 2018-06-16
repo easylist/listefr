@@ -9220,6 +9220,7 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,direct
 @@||stackpathdns.com/assets/$script,stylesheet,domain=onlinevideoconverter.com
 |http://$script,stylesheet,third-party,domain=onlinevideoconverter.com
 |https://$script,stylesheet,third-party,domain=onlinevideoconverter.com
+||onlinevideoconverter.com^$script
 ! realtimetv.me
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=realtimetv.me
 @@||sts.seelive.me/player/$script,domain=realtimetv.me
