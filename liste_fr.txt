@@ -1697,6 +1697,7 @@
 /pub_iframe_
 /pub_json_
 /pub_liens.
+/pub_pave_
 /pub_smart.
 /pub_smart_
 /pub_title.
@@ -11114,7 +11115,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ||nouvelobs.com/les-bons-plans-shopping/
 ||nouvelobs.com^*/iframe-boxes/
 ||nouvelobs.com^*/partenaria
-||novaplanet.com^*/widget/pub_pave_
 ||numerama.com/content/themes/*habillage_
 ||numeric.dz/IMG/swf/NUMERIC_KIA_MOTORSE_
 ||ocre-annuaire.net/bannieres/
@@ -14105,6 +14105,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ##.sol-reklam-120x600
 ##.span_pub_normal
 ##.special-banner
+##.sponsor-inread
 ##.sponsor_leaderboard
 ##.sponsor_leaderboard-wrap
 ##.sponsor_sidebar
@@ -14740,7 +14741,6 @@ manga-news.com###block-up
 voyages-sncf.com###block-vsct_vsca-megabanner
 franceinfo.fr###block-zerobloc-pub-ftv-carre
 bricoleurdudimanche.com###block_a_decouvrir
-novaplanet.com###block_novadraganddrop_pub
 uptobox.com,uptostream.com###blocked
 explorimmo.com###bob
 soudure.fr###bodytopbanner
@@ -15854,6 +15854,9 @@ jeuxvideo.com##.sponso
 findmysexfriend.com##.sponsoInside
 blogduwebdesign.com,europages.fr,shake.events##.sponsor
 yahoo.com##.sponsor-dd
+novaplanet.com##.sponsor-home
+novaplanet.com##.sponsor-home-square
+novaplanet.com##.sponsor-top
 telquel.ma,trovit.fr##.sponsored
 tsa-algerie.com##.sponsored-by
 francetvsport.fr##.sponsored-container
@@ -16559,8 +16562,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||naruto-one.com/images/bannieres/$domain=otaku-attitude.net
 @@||netavenir.com^$domain=zap-tele.com
 @@||notre-planete.info/medias/pub_300x250.png
-@@||novaplanet.com/RealMedia/ads/adstream_nx.ads/www.novaplanet.com/radionova/player/
-@@||novaplanet.com/sites/all/themes/nova/plugins/smartbanner/jquery.smartbanner.js
 @@||partner.skiset.com/*/motor/*?sid=$subdocument,third-party
 @@||partner.skiset.com/js/partnerIntegration.js$script
 @@||partners.doctolib.fr/doctors/detect_partner_profile?$script,third-party,domain=aphp.fr
