@@ -8991,9 +8991,13 @@ http://images.futbolbase.us/peponi2.html
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.cm|cpabien.co|cpabien.cx|cpabien.la|cpabien.tv|cpabien.xyz|cpasbien.io|cpasbien.pro|cpasbiens.cc|cpasbiens.net|gktorrent.net|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.me|torrent9.pe|torrent9.top|torrent9.tv|torrent9.ws|torrents9.cc|torrents9.org|torrents9.pe|torrents9.tv
 ! nextorrent
 @@||ajax.googleapis.com/ajax/libs/$script,domain=nextorrent.tv
-|http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.cx|nextorrent.org|nextorrent.pro|nextorrent.site|nextorrent.tv
-|https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.cx|nextorrent.org|nextorrent.pro|nextorrent.site|nextorrent.tv
+|http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.cx|nextorrent.org|nextorrent.pro|nextorrent.tv
+|https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.cx|nextorrent.org|nextorrent.pro|nextorrent.tv
 ||nextorrent.*.php$popup
+! youmoviz.org
+@@||ajax.googleapis.com/ajax/libs/$script,domain=nextorrent.site|youmoviz.org
+|http://$popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.site|youmoviz.org
+|https://$popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.site|youmoviz.org
 ||nextorrent.site/Voir-en-Streaming.png
 ! torrentfunk.com
 |http://$ping,script,subdocument,third-party,xmlhttprequest,domain=torrentfunk.com
@@ -14281,6 +14285,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ##a[href*=".igraal.com/inscription?parrain="] > img
 ##a[href*=".intab.fun/"]
 ##a[href*=".intab.xyz/"]
+##a[href*=".kfiopkln.com/"]
 ##a[href*=".oopt.fr"]
 ##a[href*=".ourtoolbar.com"]
 ##a[href*=".php?sp_promote="]
@@ -14401,6 +14406,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|35.184.169.188|35.184.
 ##a[href*="weborama.fr/fcgi-bin/"]
 ##a[href*="wow-partners.com/click.php"]
 ##a[href*="xiti.com/go.ad?"]
+##a[href="#tab-ad"]
 ##a[href="http://smarturl.it/warshipsint"]
 ##a[href^=".bcvc.mobi/"]
 ##a[href^=".php/ads/"]
@@ -16089,7 +16095,6 @@ dpstream.to,quedustreaming.com,streaming-series.to,zone-telechargement.cc##a[hre
 dpstream.net##a[href="#"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 lemonde.fr##a[href="#panneau-programme-emploi"]
-k-streaming.xyz,wawa-mania.tv##a[href="#tab-ad"]
 corobizar.com##a[href="/g2a-link/"]
 macg.co##a[href="/macg-skross"]
 pmu.fr##a[href="/mon-pmu/easypari"]
@@ -16222,7 +16227,7 @@ achat-bitcoins.com##a[rel="nofollow"] > img
 zetorrente.fr##a[rel]
 at.ua,ucoz.com,ucoz.net,ucoz.ru,ucoz.ua##a[rel][style*="z-index:"]
 imagecool.org##a[rel][style]
-1337x.st,1337x.to,1nowvideo.com,3nowvideo.com,5nowvideo.com,6nowvideo.com,9anime.is,a-o.ninja,ahlamtv.com,arabloads.net,auroravid.to,bitvid.sx,bmovies.to,cloudtime.to,cloudy.ec,coinfaucet.io,dailyuploads.cc,dailyuploads.net,dl-protect1.com,dl-protecte.com,dl-protecte.org,downace.com,dragon-ball-super-stream.com,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,estream.to,extreme-down.im,extreme-down.one,extreme-down.pro,fastplay.to,filebebo.com,fileone.tv,filmstreamz.net,flashx.sx,flashx.to,flashx.tv,flashx.ws,flvto.biz,fmovies.is,fmovies.se,fmovies.to,freecardano.com,freenem.com,g5u.pw,getsl.me,getsurl.com,gnula.nu,gsurl.in,gsurl.me,gum-gum-stream.com,hentaigo.com,igg-games.com,indishare.me,itswatchseries.to,k-streaming.com,kimcartoon.me,libertyvf.com,libertyvf.net,liens-telechargement.com,m4ufree.com,m4ufree.tv,mp3-youtube.download,mp3red.cc,mp4upload.com,nextorrent.pro,nextorrent.site,nowvideo.ag,nowvideo.co,nowvideo.cz,nowvideo.ec,nowvideo.li,nowvideo.sx,nowvideo.to,openloadmovies.tv,otakustream.tv,pefilme.net,playerfs.com,pornspark.com,primewire.ag,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,seriesblanco.com,short.pe,streaming-france.com,streamzt.com,telecharger-videos-youtube.com,tfarjo.com,vidgg.to,vidlox.me,vidlox.tv,vidoza.net,vidstreaming.io,vidzi.si,vidzi.tv,viva-stream.info,watch-series.co,watch-series.io,watch-series.ru,watchseriesmovie.net,wholecloud.net,x1337x.eu,x1337x.ws,xrares.com,youzik.com,yts.am,zone-telechargement.pw,zone-telechargement.top,zone-telechargement.ws,zone-telechargement1.com,zone-telechargement1.top,zone-telechargements.com##a[style]
+1337x.st,1337x.to,1nowvideo.com,3nowvideo.com,5nowvideo.com,6nowvideo.com,9anime.is,a-o.ninja,ahlamtv.com,arabloads.net,auroravid.to,bitvid.sx,bmovies.to,cloudtime.to,cloudy.ec,coinfaucet.io,dailyuploads.cc,dailyuploads.net,dl-protect1.com,dl-protecte.com,dl-protecte.org,downace.com,dragon-ball-super-stream.com,dragon-ball-super-streaming.com,dragon-ball-super-streaming.org,estream.to,extreme-down.im,extreme-down.one,extreme-down.pro,fastplay.to,filebebo.com,fileone.tv,filmstreamz.net,flashx.sx,flashx.to,flashx.tv,flashx.ws,flvto.biz,fmovies.is,fmovies.se,fmovies.to,freecardano.com,freenem.com,g5u.pw,getsl.me,getsurl.com,gnula.nu,gsurl.in,gsurl.me,gum-gum-stream.com,hentaigo.com,igg-games.com,indishare.me,itswatchseries.to,k-streaming.com,kimcartoon.me,libertyvf.com,libertyvf.net,liens-telechargement.com,m4ufree.com,m4ufree.tv,mp3-youtube.download,mp3red.cc,mp4upload.com,nextorrent.pro,nextorrent.site,nowvideo.ag,nowvideo.co,nowvideo.cz,nowvideo.ec,nowvideo.li,nowvideo.sx,nowvideo.to,openloadmovies.tv,otakustream.tv,pefilme.net,playerfs.com,pornspark.com,primewire.ag,protect-lien.com,protect-zt.com,protecte-link.com,rapidvideo.com,security-links.com,seriesblanco.com,short.pe,streaming-france.com,streamzt.com,telecharger-videos-youtube.com,tfarjo.com,vidgg.to,vidlox.me,vidlox.tv,vidoza.net,vidstreaming.io,vidzi.si,vidzi.tv,viva-stream.info,watch-series.co,watch-series.io,watch-series.ru,watchseriesmovie.net,wholecloud.net,x1337x.eu,x1337x.ws,xrares.com,youmoviz.org,youzik.com,yts.am,zone-telechargement.pw,zone-telechargement.top,zone-telechargement.ws,zone-telechargement1.com,zone-telechargement1.top,zone-telechargements.com##a[style]
 media1fire.com,shrink-service.it##a[style][onclick]
 mangastreaming.eu,mangastreaming.fr,mangastreaming.me,seedpeer.eu##a[target="_blank"]
 4downfiles.org,9divx.org,buzzporn.net,dpstreaming.cx,finobuzz.com,footnamurois.com,fullstream.cx,jeddl.co,journaldu4x4.com,mangastreaming.eu,mangastreaming.fr,planet-streaming.com,pubfilm.me,serie-streaming.watch,seriezone.org,streaminghd.fr,streaminghd.watch,youwatch-series.com##a[target="_blank"] > img
