@@ -3402,6 +3402,7 @@ debugger:$popup
 ||cdn3.net^$third-party
 ||cdn7.space^$third-party
 ||cdn9now.com^$third-party
+||cdnproviders.net^$third-party
 ||cdntraffic.com^$third-party
 ||cdxndirect.com^$third-party
 ||cdxndirectopt.com^$third-party
@@ -3623,6 +3624,8 @@ debugger:$popup
 ||franecki.net^$third-party
 ||frtyi.com^$third-party
 ||frtyj.com^$third-party
+||fruitablock.com^$third-party
+||fruitablock.net^$third-party
 ||fullon.tv^$third-party
 ||fullscreens.fr^$third-party
 ||funsafetabsearch.com^$third-party
@@ -4437,6 +4440,7 @@ debugger:$popup
 ||webma.space^$third-party
 ||webmanager.biz^$third-party
 ||webmasteroo.com^$third-party
+||webmasterspub.com^$third-party
 ||webtv-sexe.com^$third-party
 ||webzodes.com^$third-party
 ||wedoo.com^$third-party
@@ -6894,6 +6898,7 @@ debugger:$popup
 ||casebrio.com^$popup,third-party
 ||cash-duck.com^$popup,third-party
 ||cbshift.com^$popup,third-party
+||cdnproviders.net^$popup,third-party
 ||cdnrl.com^$popup,third-party
 ||cduporno.fr^$popup,third-party
 ||cgmission.com^$popup,third-party
@@ -7534,6 +7539,7 @@ debugger:$popup
 ||wafmedia2.com^$popup,third-party
 ||wct.link^$popup,third-party
 ||web-affiliation.com^$popup,third-party
+||webmasterspub.com^$popup,third-party
 ||weborama.fr^$popup,third-party
 ||webprod.cybertesteurs.com^$popup,third-party,domain=~iss.net
 ||wellmov.com^$popup,third-party
@@ -9370,8 +9376,8 @@ thevid.net##.cban
 ||ww45.vidzi.
 ! openload
 /cdn-cgi/apps/head/*$script,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|fruitadblock.net|fruitstreams.com|ifp.re|ifpx.xyz|ifrp.xyz|mp3free.pw|oload.download|oload.info|oload.site|oload.stream|oload.tv|oload.win|openload.co|openload.io|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
-@@/\/(script\.\d{3,4}\.js)$/$script,domain=fruitadblock.net|fruitstreams.com|oload.download|oload.info|oload.site|oload.stream|oload.tv|oload.win|olpair.com|openload.co|openload.io|streamango.com|streamcherry.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=fruitadblock.net|fruitstreams.com|oload.download|oload.info|oload.site|oload.stream|oload.tv|oload.win|openload.co|openload.io|streamango.com|streamcherry.com
+@@/\/(script\.\d{3,4}\.js)$/$script,domain=fruitstreams.com|oload.download|oload.info|oload.site|oload.stream|oload.tv|oload.win|olpair.com|openload.co|openload.io|streamango.com|streamcherry.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=fruitstreams.com|oload.download|oload.info|oload.site|oload.stream|oload.tv|oload.win|openload.co|openload.io|streamango.com|streamcherry.com
 @@||thumb.oloadcdn.net/subtitle/*.vtt$xmlhttprequest,domain=fruitadblock.net|fruitstreams.com|oload.download|oload.info|oload.site|oload.stream|oload.tv|oload.win|olpair.com|openload.co|openload.io|streamango.com|streamcherry.com
 fruitadblock.net,fruitstreams.com,oload.download,oload.info,oload.site,oload.stream,oload.tv,oload.win,olpair.com,openload.co,openload.io,streamango.com,streamcherry.com#@#.adsbox
 |http://$script,third-party,xmlhttprequest,domain=fruitadblock.net|fruitstreams.com|oload.info|oload.site|oload.stream|oload.tv|oload.download,oload.win|openload.co|openload.io|streamango.com|streamcherry.com
