@@ -269,6 +269,7 @@
 .com/adj/
 .com/adpro.
 .com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com|~visuels.l214.com
+.com/bnr/
 .com/bnrs/$subdocument
 .com/func.js|$script,~third-party
 .com/js/out.js
@@ -363,6 +364,7 @@
 .xxx/imgban/
 .xxx/pop/$script
 .xxx/pu/$script
+.xxx/uploads/banners/
 .xyz/ads/
 .xyz/js/ads/
 /#ads|$subdocument
@@ -1407,6 +1409,7 @@
 /lgads.
 /lgpub.
 /lib/*&adl=$subdocument
+/lib/*&adr=$subdocument
 /license.packed.$script
 /liens-commerciaux/*
 /ligadis.$script
@@ -1465,6 +1468,7 @@
 /nginad.
 /nmads_caf_
 /no-banner-$image
+/notify.php?key=$script,third-party
 /novaonads.
 /npop.js|
 /ntfc.php?p=
@@ -1608,6 +1612,7 @@
 /promotools/popup/*
 /promotools/rotation.
 /propads.
+/provider-banners/*
 /proxy_eds.php?
 /proxy_iframe.php?url=
 /ptp/banners/*
@@ -2127,6 +2132,7 @@
 ?default_ad=
 ?div_id=*&idzone=
 ?id_promo=*&nsfw=
+?iframe&ag_custom_domain=$subdocument
 ?jsonKey=*partner%*onclick%
 ?mmzad=
 ?module=*&action=getPub
@@ -2460,6 +2466,7 @@ _frontend_loader.$script
 ||ru^*&vid=*&stream_id=*&title=$script,third-party
 ||ru^?pid=*&rid=$third-party
 ||space/?tid=
+||space^*=.js$third-party
 ||space^*?wkey=
 ||ws/exa/$script
 ||xxx/func.js
@@ -3639,6 +3646,7 @@ debugger:$popup
 ||futureadlabs.com^$third-party
 ||gagner-une-console.com^$third-party
 ||gambling-france.com^$third-party
+||gamescarousel.com^$third-party
 ||gamingaffbox.com^$third-party
 ||gamingaffiliation.com^$third-party
 ||gamingaffmb.com^$third-party
@@ -4263,6 +4271,7 @@ debugger:$popup
 ||socike.com^$third-party
 ||sodoor.co^$third-party
 ||softmaster4you.xyz^$third-party
+||sombes.com^$third-party
 ||spaceshipads.com^$third-party
 ||spb2011.com^$third-party
 ||speednetwork6.com^$third-party
@@ -7528,6 +7537,7 @@ debugger:$popup
 ||trully-sun.top^$popup,third-party
 ||trustedpubs.com^$popup,third-party
 ||ts-ads.info^$popup,third-party
+||ttdaz.xyz^$popup
 ||tubeadvertising.eu^$popup,third-party
 ||twap2.com^$popup,third-party
 ||uaadi.com^$popup,third-party
@@ -7970,6 +7980,7 @@ http://images.futbolbase.us/peponi2.html
 ||ea.numericable.fr^
 ||eamobile.com/*/dart_banner.
 ||eamobile.com/*/dart_skyscraper.
+||earncsgo.com^$subdocument,third-party
 ||easy-charme.com/pub/
 ||easy5now.com/images/b/
 ||ebooks-logiciels.com/depassez-vos-limites/ban/
@@ -13015,6 +13026,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###toppubbutton
 ###tower_pub
 ###tube_ad_wrap
+###user18div
 ###vHeader-pub
 ###video-side-adv
 ###videoOverAd
@@ -13447,6 +13459,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.bg-adsense
 ##.bg_ads300x250
 ##.big-leaderboard
+##.big-rekl-holder
 ##.bigadbvert
 ##.bigadvert
 ##.bireklam
@@ -14383,6 +14396,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##a[href*="/rotation_pdv.php?"]
 ##a[href*="/telechargement-rapide.php?"]
 ##a[href*="/tracking_campaign.php?"]
+##a[href*="/www/delivery/"]
 ##a[href*="://3wr110.xyz/"]
 ##a[href*="://adlipay.com/ref/"]
 ##a[href*="://adpv.com/?idpartner="]
@@ -14585,6 +14599,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##a[href^="http://yotefiles.com/"]
 ##a[href^="https://ad.apps.fm/"]
 ##a[href^="https://admin.thrixxx.com/affiliates/"]
+##a[href^="https://ads.ad4game.com/"]
 ##a[href^="https://ads.regie24h00.com"]
 ##a[href^="https://adsrv4k.com/"]
 ##a[href^="https://bestapppro.com/"]
