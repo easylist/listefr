@@ -10981,7 +10981,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||maghrebemergent.info/images/banners/
 ||maghrebemergent.info/images/logosmarques/
 ||maghrebex.com/_medias_files/pub_files/
-||maghrebspace.net/image/*/download32.jpg
 ||maghrebstar.com/images/MSPUB.gif
 ||maidenfrance.fr/images/banniere-
 ||mailorama.fr^*/wearing/habillage_
@@ -14065,6 +14064,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.publicite_468x60
 ##.publicite_5
 ##.publicite_droite
+##.publicite_droite_600
 ##.publicite_gauche
 ##.publicite_horizontale_well
 ##.publicite_horizontale_wrapper
@@ -15842,7 +15842,6 @@ lemondeinformatique.fr##.publi-info
 jeuxvideo.com##.publi_info
 jeuxvideo.com##.publi_info + ul
 e-sante.fr##.public-info
-maghrebspace.net##.publicite_droite_600
 aussitot.fr##.pubmidtext
 algerie-focus.com##.pubpub
 buzzly.fr##.pubright
@@ -16718,6 +16717,7 @@ fichier.net#@##contentAd
 futura-sciences.com#@##header-pub
 www.facebook.com#@##pagelet_advertiser_panel
 whatpub.com#@##pub-footer
+maghreb.space#@##pub-haut-adblock
 chantefrance.com#@##pub300x250
 chantefrance.com#@##pub728x90
 visitvar.fr#@##pubDroite
@@ -16754,8 +16754,6 @@ cifraclub.com.br#@#.pub_header
 whatpub.com#@#.pub_left
 bsv.admin.ch#@#.pub_outer
 lechainonmanquant.com,love-hinax.com#@#.publicite
-maghrebspace.net#@#.publicite_gauche
-maghrebspace.net#@#.top-publicite
 ta-meteo.fr#@#.topbanneradvertise
 techtinker.blogspot.fr#@#.vertical-ads
 cnetfrance.fr,lesnumeriques.com#@#a[href^="http://tracking.publicidees.com/clic.php?"]
@@ -16817,7 +16815,7 @@ _blockadblock_
 @@/adblock.js$script,~third-party,domain=anilinkz.to|jdubuzz.com|jeuxvideo.com|journaldugamer.com|journaldugeek.com|pixelistes.com|streaming-foot.me
 @@/adframe.js$script,~third-party,domain=01streamingvf.ws|fas.li|shink.in|shink.me|tfarjo.ws
 @@/ads.js$script,~third-party,domain=adbilty.me|adbull.me|adshort.co|adshort.im|adshort.me|adshorte.com|akorto.xyz|coinlink.co|coinlink.us|cuon.io|curs.io|cut-urls.com|cutly.win|cutwi.in|danpod.work|eues.io|euon.io|faucy.win|igram.im|kimo-link.com|linkkawy.com|lkky.co|manga-vf.fr|passetoncode.fr|short.pe|short2win.com|shortenow.com|tmearn.com|tune.pk|u2s.io|zonebourse.com|zype.xyz
-@@/advertisement.js$script,domain=cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghrebspace.net|mega-exclue.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
+@@/advertisement.js$script,domain=cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghreb.space|mega-exclue.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
 @@/advertisement.js$script,~third-party,domain=cap-public.fr|coco.fr|crash-aerien.aero|crash-aerien.news|e-wok.tv|fiki.faucetfly.com|leveldown.fr|programme.tv|quoverbis.com
 @@/advertising.js$script,domain=itespresso.fr|lagrosseradio.com|silicon.fr
 @@/static/image/ad_top_bg2.png?$image,~third-party,domain=adf.ly|ay.gy|babblecase.com|gamecopyworld.click|go.awanpc.me|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|replaymod.com
