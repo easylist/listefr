@@ -1772,6 +1772,7 @@
 /redirect?tid=$subdocument
 /redirect?uid=$subdocument
 /redirect_pub.
+/refresh_pub.js
 /regie.*/pub/*
 /regie.js
 /regie_pub.
@@ -11727,7 +11728,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||viepratique.fr/wp-content/uploads/sites/*/Bloc_partenaire_
 ||village-libertin.com/site_rencontre/ban/
 ||vinyculture.com/wp-content/uploads/*-banner-
-||virtualdjing.com/include/js/refresh_pub.js?
 ||virusphoto.com/bannieres/
 ||visiban.com/b.php?
 ||visiclic.fr/banniere/
@@ -14068,6 +14068,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.publicite_gauche
 ##.publicite_horizontale_well
 ##.publicite_horizontale_wrapper
+##.publicite_l
 ##.publicite_locale
 ##.publicite_mobile
 ##.publicite_mobile_300x250
@@ -16824,7 +16825,6 @@ _blockadblock_
 @@||a.f1g.fr/build/2/adsense.js$script
 @@||ay.gy/static/js/advert.js$script,domain=adf.ly|ay.gy|babblecase.com|download.replaymod.com|go.awanpc.me|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|rd1.gamecopyworld.click
 @@||cdscdn.com/Js/advertise.js$script
-@@||d.adxcore.com/adjs_r.php?$script,domain=forum.virtualdjing.com
 @@||foglio.basilic.io/ad/basilic.adsense.js
 @@||geek-malin.fr/wp-content/plugins/adziner/Front/Js/ads.min.js?
 @@||gorin.multiup.org/pop.js|$script,domain=filesupload.org
