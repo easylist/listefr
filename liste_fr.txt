@@ -944,6 +944,7 @@
 /b728x90a.
 /b_right.$subdocument
 /back-adsens.
+/backend/*.php?*&ref=
 /ban-520x20.
 /ban-pub-
 /ban/*/300x250
@@ -2462,6 +2463,7 @@ _frontend_loader.$script
 ||porn/func.js
 ||pro^*=/$script,third-party
 ||pro^*?zoneId=
+||pw/sw.js
 ||rocks^*.php?z=$third-party
 ||ru/dbp/pre/*/*?$script,third-party
 ||ru^*&vid=*&stream_id=*&title=$script,third-party
@@ -2563,6 +2565,7 @@ _frontend_loader.$script
 /?a_bid=$popup
 /?ad=*aclick.$popup
 /?id=*&langue=*&buying=$popup,domain=~eurolive.site
+/?token=*&q=$popup
 /__utm.gif$popup
 /a.php?mode=*&pgid=$popup
 /a4u_banner_.$popup
@@ -2652,6 +2655,7 @@ _frontend_loader.$script
 /itab/*?cid=$popup
 /jump/clk1.$popup
 /jump/next.php?$popup
+/look.*/offer?prod=$popup
 /lp/*;pop|$popup
 /mobile-ad/*$popup
 /movie_player/trend?$popup,third-party
@@ -5099,6 +5103,7 @@ debugger:$popup
 ||litalise.com^
 ||lundered.info^
 ||mannela.info^
+||mappealist.club^
 ||marisingly.com^
 ||mationse.info^
 ||mavexercial.info^
@@ -5138,6 +5143,7 @@ debugger:$popup
 ||qregation.info^
 ||quaves.info^
 ||quierest.com^
+||rapistory.info^
 ||reaster.info^
 ||recallen.info^
 ||recentuale.com^
