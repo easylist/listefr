@@ -5847,6 +5847,7 @@ debugger:$popup
 ||sloi1.com^
 ||sophang8.com^
 ||sprm4xcn.top^
+||ssa.1337x.to^
 ||ssiapawz.com^
 ||ssl2anyone2.com^
 ||ssl2anyone3.com^
@@ -5931,6 +5932,7 @@ debugger:$popup
 ||wog1aeg.bid^
 ||wp6dgk5g.top^
 ||wqepoqpwo.bid^
+||www2.gorillavid.in^
 ||wwznqib.com^
 ||x1sdwn8.com^
 ||x268dl0k.top^
@@ -9428,6 +9430,7 @@ thevid.net##.cban
 ||ww3.vidzi.
 ||ww4.vidzi.
 ||ww45.vidzi.
+||ww46.vidzi.
 ! openload
 /cdn-cgi/apps/head/*$script,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|fruitadblock.net|fruitstreams.com|ifp.re|ifpx.xyz|ifrp.xyz|mp3free.pw|oload.download|oload.info|oload.site|oload.stream|oload.tv|oload.win|openload.co|openload.io|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
 @@/\/(script\.\d{3,4}\.js)$/$script,domain=fruitstreams.com|oload.download|oload.info|oload.site|oload.stream|oload.tv|oload.win|olpair.com|openload.co|openload.io|streamango.com|streamcherry.com
@@ -9642,8 +9645,10 @@ $websocket,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|ifp.re|ifpx.xyz|ifrp.xyz|mp3fre
 @@||plugins.longtailvideo.com^$domain=vidto.me|vidtod.me|vidtudu.com
 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=vidto.me|vidtod.me|vidtodo.com|vidtudu.com
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=vidto.me|vidtod.me|vidtodo.com|vidtudu.com
-||video.videos.vidto.me^
-||vidto.me/*/*/*/$script
+||playe.vidto.
+||static2.vidto.$script
+||video.videos.vidto.
+||vidto.*/*/*/*/$script
 ! adhy.pe
 |http://$script,subdocument,third-party,xmlhttprequest,domain=adhy.pe|ah.pe
 |https://$script,subdocument,third-party,xmlhttprequest,domain=adhy.pe|ah.pe
