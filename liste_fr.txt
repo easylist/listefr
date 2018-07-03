@@ -3439,6 +3439,7 @@ debugger:$popup
 ||chainwalladsoid.com^$third-party
 ||chameleonx.net^$third-party
 ||charmix.com^$third-party
+||charmour.club^$third-party
 ||chilican.com^$third-party
 ||chocam.com^$~image,third-party
 ||chupa.mobi^$third-party
@@ -3446,6 +3447,7 @@ debugger:$popup
 ||citenkomedia.com^$third-party
 ||cityads.com^$third-party
 ||ck-cdn.com^$third-party
+||cklad.xyz^$third-party
 ||clcktrax.com^$third-party
 ||clic-diffusion.com^$third-party
 ||clic.ws^$third-party
@@ -9745,6 +9747,11 @@ ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,ges
 @@||google.com/recaptcha/$subdocument,domain=urle.co
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=urle.co
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=urle.co
+! shink.in
+@@||ajax.googleapis.com/ajax/libs/$script,domain=shink.in|shink.me|shon.xyz
+@@||google.com/recaptcha/$subdocument,domain=shink.in|shink.me|shon.xyz
+|http://$script,subdocument,third-party,domain=shink.in|shink.me|shon.xyz
+|https://$script,subdocument,third-party,domain=shink.in|shink.me|shon.xyz
 ! short.pe
 @@||api.solvemedia.com/papi/$script,domain=short.pe
 |http://$script,third-party,domain=short.pe
@@ -9808,6 +9815,7 @@ ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,ges
 ||safelinku.com^$script,third-party
 ||shink.in^$script,third-party
 ||shink.me^$script,third-party
+||shon.xyz^$script,third-party
 ||uskip.me^$script,third-party
 ||yourlink.in^$script,third-party
 ||zype.xyz^$script,third-party
