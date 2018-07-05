@@ -1833,6 +1833,8 @@
 /search_caf.php?
 /secure-ads.
 /separatore-pub.
+/serve?*&w=160&h=600
+/serve?*&w=300&h=250
 /serve?*&w=468&h=60
 /serve?*&w=728&h=90
 /servepop.
@@ -4319,6 +4321,7 @@ debugger:$popup
 ||supaads.com^$third-party
 ||superadsoffers.com^$third-party
 ||supersmsoffers.com^$third-party
+||superwebs.pro^$third-party
 ||supravideos.com^$third-party
 ||surfaceprivee.com^$third-party
 ||surfactif.fr^$third-party
