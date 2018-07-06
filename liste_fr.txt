@@ -1038,6 +1038,7 @@
 /banners/*-affiliates-
 /banners/*/adx.
 /banners/*?campaign_id=
+/banners/*?rnd=
 /banners/*_ads_
 /banners/120x240.
 /banners/125x125.gif
@@ -1921,6 +1922,7 @@
 /tools/*&format=*&rand=$subdocument
 /tools/*?aff=*&url=$script
 /totemtools/*
+/trackads.
 /traffic/?target=
 /travelAds.
 /ttn_adspaces
@@ -11074,6 +11076,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||mcetv.fr^*/ban-partenaires-
 ||mcetv.fr^*/habillage-
 ||med-it.com/ban/
+||med.tn/uploads/banners/
 ||media-ext.wanarun.net^
 ||media.freepik.com/sponsor/
 ||media.funradio.fr/online/image/*_skin-vip$image
