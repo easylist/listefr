@@ -9534,8 +9534,9 @@ fruitadblock.net,fruitstreams.com,oload.download,oload.info,oload.site,oload.str
 |http://$script,third-party,domain=coinmarketcap.com
 |https://$script,third-party,domain=coinmarketcap.com
 ! audiofanzine.com
-/^https?:\/\/([a-z]+\.)?audiofanzine.com\/[0-9a-zA-Z/+=]{50,}/$image,~third-party
+/^https?:\/\/([a-z]+\.)?audiofanzine.com\/[0-9a-zA-Z/+=]{50,}/$image,script,~third-party
 @@||audiofanzine.com/ajax.php?module=*&method=$~third-party,xmlhttprequest
+@@||mp.audiofanzine.com/ajax/login/audiofanzineconnect/$xmlhttprequest
 ||audiofanzine.com^$xmlhttprequest
 ! streamin.to
 @@||code.jquery.com/jquery-$script,domain=streamin.to
