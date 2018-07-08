@@ -9053,6 +9053,10 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|centrum-dramy
 |http://$script,subdocument,third-party,xmlhttprequest,domain=ultim-telechargementz.com
 |https://$script,subdocument,third-party,xmlhttprequest,domain=ultim-telechargementz.com
 ||ultim-telechargementz.com/images/play.png
+! gnula.nu
+@@||ajax.googleapis.com/ajax/libs/$script,domain=gnula.nu
+|http://$script,stylesheet,third-party,domain=gnula.nu
+|https://$script,stylesheet,third-party,domain=gnula.nu
 ! papstream.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=papstream.co|papstream.com|papstream.net
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=papstream.co|papstream.com|papstream.net
