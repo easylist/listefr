@@ -585,7 +585,7 @@
 /adaptvInfo.
 /adb.php?tag=
 /adbet-
-/adbetnet.
+/adbetnet.$domain=~adbetnet.com
 /adbkicker.
 /adblock.php
 /adblock_banners/*
@@ -3075,6 +3075,7 @@ debugger:$popup
 ||adalso.com^$third-party
 ||adaraby.com^$third-party
 ||adback.co^$third-party
+||adbetnet.com^$third-party
 ||adbox.lt^$third-party
 ||adcapt.com^$third-party
 ||adcitrik.com^$third-party
