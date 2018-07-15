@@ -9509,6 +9509,14 @@ fruitadblock.net,fruitstreams.com,oload.download,oload.info,oload.site,oload.str
 @@||www.mrsexe.com/inc/clic.php?video=$script,domain=mrsexe.com
 @@||www.mrsexe.com/jwplayer/jwplayer.$script,domain=mrsexe.com
 ||mrsexe.com^$popup,script,~third-party
+! frprn.com
+@@||frprn.com/js/assets.js$script
+@@||frprn.com/js/jquery.min.js$script
+@@||frprn.com/js/KernelTeamVideoSharing$script
+@@||frprn.com/js/main.js$script
+@@||frprn.com/js/photoswipe$script
+@@||frprn.com/jwplayer7/jwplayer.js$script
+||frprn.com^$script
 ! cam4.com
 @@||firebaseio.com/.lp?$script,domain=cam4.com|cam4.fr
 @@||xcdnpro.com/plugin/epay/$script,domain=cam4.com|cam4.fr
