@@ -9245,6 +9245,9 @@ japscan.cc,japscan.com##div[id^="a_d_"]
 ! animes-mangas-ddl.net
 |http://$script,third-party,xmlhttprequest,domain=animes-mangas-ddl.net
 |https://$script,third-party,xmlhttprequest,domain=animes-mangas-ddl.net
+! yalla-shoot.com
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=yalla-shoot.com
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=yalla-shoot.com
 ! vfstream.biz
 @@||ajax.googleapis.com/ajax/libs/$script,domain=frstreaming.co.uk
 |http://$script,third-party,domain=frstreaming.biz|frstreaming.co|frstreaming.co.uk|frstreaming.info|frstreaming.pro|frstreaming.top|vfstream.biz
