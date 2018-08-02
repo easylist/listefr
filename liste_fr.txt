@@ -6722,24 +6722,47 @@ debugger:$popup
 ||zlx.com.br^$third-party
 ! https://forums.lanik.us/viewtopic.php?f=62&t=36727
 ||1bcde.com^
+||1ccbt.com^
 ||afgmyvid.com^
 ||amadagasca.com^
 ||babyboomboomads.com^
+||bestforexplmdb.com^
 ||broomboxmain.com^
+||cashinme.com^
+||challengedeprave.com^
+||clickpartoffon.xyz^
+||comegarage.com^
 ||curriculture.com^
 ||decademical.com^
 ||downloadgot.com^
 ||evenexcite.com^
 ||fairnessels.com^
 ||forexplmdb.com^
+||forterradirect.com^
+||g1341551423.com^
+||g2247755016.com^
+||g2281971609.com^
+||g2438896021.com^
+||g2440001011.com^
+||g2526721279.com^
+||g2546417787.com^
+||g2921554487.com^
+||g3369554495.com^
+||g344530742.com^
+||g3938452447.com^
 ||glxfls.com^
 ||gmyvids.com^
+||injuredcandy.com^
+||intangibleconcordant.com^
 ||jackettrain.com^
 ||letsdoarbitrage.com^
+||linkforyoud.com^
+||lyoniaancony.com^
 ||makemyvids.com^
 ||mobdisc.net^
 ||mobdisc.org^
 ||mobsoftffree.xyz^
+||moveadrenaline.com^
 ||mutualvehemence.com^
 ||naganoadigei.com^
 ||nererut.com^
@@ -6747,13 +6770,16 @@ debugger:$popup
 ||ortonch.com^
 ||outlookabsorb.com^
 ||pndelfast.com^
+||pnewspages.com^
 ||pushmenews.com^
 ||pushmobilenews.com^
 ||pyraming.com^
 ||renaissanto.com^
 ||retiremely.com^
 ||ridingintractable.com^
+||rtbvideobox.com^
 ||safelyawake.com^
+||septembership.com^
 ||smashseek.com^
 ||speedlinkdown.com^
 ||strainemergency.com^
@@ -9445,6 +9471,10 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ! macupload.net
 |http://$script,third-party,xmlhttprequest,domain=macupload.net
 |https://$script,third-party,xmlhttprequest,domain=macupload.net
+! downloadhub.cc
+@@||ajax.googleapis.com/ajax/libs/$script,domain=downloadhub.cc
+|http://$script,third-party,xmlhttprequest,domain=downloadhub.cc
+|https://$script,third-party,xmlhttprequest,domain=downloadhub.cc
 ! filescdn.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=filescdn.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=filescdn.com
@@ -9976,6 +10006,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||hostingpics.net/pics/*ban.png
 ||hostpic.net/uploads/1/833/uttmr7ghxlcemjea.png
 ||hostpic.org^$domain=fdesouche.com
+||https://imgshare.info/images/2018/07/21/4FFURwf.png
 ||i.imgur.com/0mKekma.jpg
 ||i.imgur.com/0UpfQtJ.png
 ||i.imgur.com/2758lJa.png
@@ -13846,6 +13877,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.h2-advert
 ##.head-advrtsmnt
 ##.head-pub
+##.header-adcode
 ##.header-add-wrapper
 ##.header-adds
 ##.header-box-ads
@@ -16301,7 +16333,7 @@ go4up.com,omgtorrent.bz,torrent9.bz,torrent9.cc,torrent9.ec,torrent9.pe,torrent9
 papystreaming-hd.com,papystreaming-hd.org##a[href*=".amazonaws.com/"]
 jeddl.co,jeddl.info##a[href*=".html"]
 cpasbien9.net,cpasbiens.net##a[href*=".html"] > img
-9divx.org,cpasbien9.net,cpasbiens.net,ebooks9.fr,films-telecharger.eu,francais-gratuite.fr,frmovies.me,frstreaming.info,frtorrent.fr,jeddl.co,jeddl.info,jetelecharger1.fr,k-streaming.site,likeur.org,planet-series.co,plus-belle-la-vie-episode-en-avance.biz,seriestreaming.net,streamingseries.info,telechargerzoneu.fr,wawa-clubz.fr,wawacity.ec##a[href*=".php"]
+9divx.org,cpasbien9.net,cpasbiens.net,downloadhub.cc,ebooks9.fr,films-telecharger.eu,francais-gratuite.fr,frmovies.me,frstreaming.info,frtorrent.fr,jeddl.co,jeddl.info,jetelecharger1.fr,k-streaming.site,likeur.org,planet-series.co,plus-belle-la-vie-episode-en-avance.biz,seriestreaming.net,streamingseries.info,telechargerzoneu.fr,wawa-clubz.fr,wawacity.ec##a[href*=".php"]
 lien-torrent.com##a[href*=".php"][target="_blank"]
 moviz.net##a[href*=".php?let="]
 telechargement-film.org##a[href*=".vip/"]
