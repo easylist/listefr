@@ -9898,6 +9898,7 @@ ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,ges
 |https://$script,third-party,domain=admew.com
 ! adyou.me
 @@||ajax.googleapis.com/ajax/libs/$script,domain=adyou.me
+@@||google.com/recaptcha/$subdocument,domain=adyou.me
 |http://$script,third-party,domain=adyou.me
 |https://$script,third-party,domain=adyou.me
 ! ucoz.com
@@ -17046,6 +17047,7 @@ _blockadblock_
 @@||adbull.me^$generichide
 @@||adpop.cc^$generichide
 @@||adpop.me^$generichide
+@@||adyou.me^$generichide
 @@||adzeni.com^$generichide
 @@||al.ly^$generichide
 @@||ally.sh^$generichide
