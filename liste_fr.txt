@@ -9103,8 +9103,11 @@ $xmlhttprequest,domain=adfreetv.ch|alltube.pl|alltube.tv|centrum-dramy.pl|colleg
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=full-anime.com|full-film.me|full-serie.biz|full-serie.co|full-serie.info|full-serie.ws|full-stream.io|full-stream.nu|full-stream.su|planet-streaming.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=full-anime.com|full-film.me|full-serie.biz|full-serie.co|full-serie.info|full-serie.ws|full-stream.io|full-stream.nu|full-stream.su|planet-streaming.com
 ! dpstream.net
+@@||dpstream.net/extl/js/Malooka.js$script
+@@||dpstream.net^*/jquery$script
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=dpstream.net
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=dpstream.net
+||dpstream.net^$script
 ! streamay.com
 |http://$script,third-party,domain=streamay.com|streamay.la|streamay.ws
 |https://$script,third-party,domain=streamay.com|streamay.la|streamay.ws
@@ -13991,6 +13994,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.module_epg_publicite_level0
 ##.module_sponsored
 ##.mom-ads-wrap
+##.movie_728_90
 ##.mueveads
 ##.myAd
 ##.native_ad2
