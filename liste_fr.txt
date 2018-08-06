@@ -9938,11 +9938,6 @@ ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,ges
 ! admew.com
 |http://$script,third-party,domain=admew.com
 |https://$script,third-party,domain=admew.com
-! adyou.me
-@@||ajax.googleapis.com/ajax/libs/$script,domain=adyou.me
-@@||google.com/recaptcha/$subdocument,domain=adyou.me
-|http://$script,third-party,domain=adyou.me
-|https://$script,third-party,domain=adyou.me
 ! ucoz.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=at.ua|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=at.ua|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua
