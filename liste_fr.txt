@@ -9177,10 +9177,10 @@ $xmlhttprequest,domain=adfreetv.ch|alltube.pl|alltube.tv|centrum-dramy.pl|colleg
 |http://$script,third-party,domain=opus.re
 |https://$script,third-party,domain=opus.re
 ! univers-animer.net
-@@||ajax.googleapis.com/ajax/libs/$script,domain=univers-animez.net
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=univers-animez.net
-|http://$script,third-party,domain=univers-animer.net|univers-animers.net|univers-animez.net
-|httpd://$script,third-party,domain=univers-animer.net|univers-animers.net|univers-animez.net
+@@||ajax.googleapis.com/ajax/libs/$script,domain=univers-animeiz.net
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=univers-animeiz.net
+|http://$script,third-party,domain=univers-animeiz.net|univers-animer.net|univers-animers.net|univers-animez.net
+|httpd://$script,third-party,domain=univers-animeiz.net|univers-animer.net|univers-animers.net|univers-animez.net
 ! torrent9.tv
 /cdn-cgi/*$domain=cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpasbien.pro|cpasbien9.net|cpasbiens.cc|cpasbiens.net|gktorrent.netcpabien.ch|gktorrent.org|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.me|torrent9.pe|torrent9.top|torrent9.tv|torrent9.ws|torrents9.cc|torrents9.org|torrents9.pe|torrents9.tv|www.t9.pe
 /default/*$script,domain=cpabien.io|cpasbiens.cc|gktorrent.net|gktorrent.org
