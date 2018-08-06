@@ -9173,6 +9173,9 @@ $xmlhttprequest,domain=adfreetv.ch|alltube.pl|alltube.tv|centrum-dramy.pl|colleg
 @@||ajax.googleapis.com/ajax/libs/$script,domain=cocostreaming.com
 |http://$script,third-party,domain=cocostreaming.com
 |https://$script,third-party,domain=cocostreaming.com
+! opus.re
+|http://$script,third-party,domain=opus.re
+|https://$script,third-party,domain=opus.re
 ! univers-animer.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=univers-animez.net
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=univers-animez.net
