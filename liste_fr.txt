@@ -12481,12 +12481,17 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###ad-iframe
 ###ad-inread
 ###ad-inread-load
+###ad-interstitial
 ###ad-lb-bottom
+###ad-lb-top
 ###ad-ligatus-article-load
 ###ad-mega-banner
 ###ad-megaban2-load
+###ad-mpu-middle
+###ad-mpu-middle2
 ###ad-nav-tab
 ###ad-outstream
+###ad-parallax
 ###ad-planetveo
 ###ad-rec-bet1
 ###ad-rec-bet1-load
@@ -13875,6 +13880,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.e3lan-widget-content
 ##.e3lan300-250
 ##.e3lan300-600
+##.ed__tn__n--ad
 ##.encart-pub
 ##.encart_pub
 ##.entete-pub
@@ -15797,6 +15803,7 @@ mavanimes.co##.dmp_Player
 torrent9.bz,torrent9.cc,torrent9.ec,torrent9.pe,torrent9.top,torrents9.cc,torrents9.org,torrents9.pe,torrents9.tv,www.t9.pe##.download-btn + .download-btn + .download-btn > a
 oujdacity.net,passion-net.fr##.ebuzzing_box
 echoroukonline.com##.ech-live__ads
+gamekult.com##.ed__news-h--native
 tsa-algerie.com##.ekk-footer-ad-wrapper
 batiactu.com##.emploi
 wp-infinity.com##.entry-featured
@@ -16626,6 +16633,7 @@ net-iris.fr##div[class$="promo-container"]
 booska-p.com##div[class][style^="background"]
 webstar-electro.com##div[class^="banner"]
 maison-et-domotique.com##div[class^="deals"]
+gamekult.com##div[class^="gk__ads"]
 la-tendinite.fr##div[class^="snp-"]
 algeriepatriotique.com##div[class^="spu-"]
 msn.com##div[data-aop="stripe.autos.ad_ad"]
