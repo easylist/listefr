@@ -2682,6 +2682,7 @@ _frontend_loader.$script
 /close.*?tid=$popup
 /countClick.$popup
 /cpaclicks.$popup
+/cpm/*?subid_$popup
 /cpmclick.$popup
 /default_ad/*$popup
 /delivery/ck.$popup
@@ -7525,6 +7526,7 @@ debugger:$popup
 ||pulseonclick.com^$popup,third-party
 ||pushmobilenews.com^$popup,third-party
 ||pushplay.com^$popup,third-party
+||pushtrust.com^$popup,third-party
 ||pvrtx.net^$popup,third-party
 ||pwdplz.com^$popup,third-party
 ||pwwysydh.com^$popup,third-party
@@ -9844,6 +9846,7 @@ $websocket,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|ifp.re|ifpx.xyz|ifrp.xyz|mp3fre
 ||video.videos.vidto.
 ||vidto.*/*/*/*/$script
 ! adhy.pe
+@@||google.com/recaptcha/$subdocument,domain=adhy.pe|ah.pe
 |http://$script,subdocument,third-party,xmlhttprequest,domain=adhy.pe|ah.pe
 |https://$script,subdocument,third-party,xmlhttprequest,domain=adhy.pe|ah.pe
 ! allmyvideos.net
