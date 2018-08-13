@@ -8884,7 +8884,6 @@ $xmlhttprequest,domain=adfreetv.ch|alltube.pl|alltube.tv|centrum-dramy.pl|colleg
 ||technologiesaintjoseph.com/addon/script/*?integration=$third-party
 ||teen-passion.net/annuaire/ban/$third-party
 ||teenskitten.com^$media,script
-||telechargement.vip^$popup
 ||telechargementgratuits.com^*.php
 ||teliad.fr^*/banner/
 ||terasexe.com/pubs/
@@ -11803,7 +11802,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||team-iphone.fr/phpbbtip/images/pub/
 ||techlatesnews.com/?camp=$popup
 ||technikart.com/images/banners/
-||telechargement-film.org^$popup,~third-party
 ||telechargementgratuits.com/hexa.png
 ||telechargementgratuits.com/hop-300x250.png
 ||telechargerunevideo.com/fr/js/aal.js
@@ -16304,7 +16302,6 @@ valeursactuelles.com##.view-horizons-valeurs-actuelles
 geste.fr##.view-id-partenaires
 geste.fr##.view-partenaires
 bioalaune.com##.view-pub
-telechargement-film.org##.vip-buttons
 tvad.me##.vjs-overlay-no-background
 omgtorrent.bz##.vpn_table
 elmoudjahid.com##.vpub
@@ -16415,12 +16412,12 @@ meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[h
 go4up.com,omgtorrent.bz,torrent9.bz,torrent9.cc,torrent9.ec,torrent9.pe,torrent9.top,torrents9.cc,torrents9.org,torrents9.pe,torrents9.tv,www.t9.pe##a[href*="+"]
 9divx.org,likeur.org##a[href*="-vip.html"]
 papystreaming-hd.com,papystreaming-hd.org##a[href*=".amazonaws.com/"]
+film-telechargement.org,telechargement-film.org,telechargement.vip##a[href*=".club/"]
 jeddl.co,jeddl.info##a[href*=".html"]
 cpasbien9.net,cpasbiens.net,lecpasbien.com##a[href*=".html"] > img
 9divx.org,cpasbien9.net,cpasbiens.net,downloadhub.cc,ebooks9.fr,films-telecharger.eu,francais-gratuite.fr,frmovies.me,frstreaming.info,frtorrent.fr,jeddl.co,jeddl.info,jetelecharger1.fr,k-streaming.online,k-streaming.site,lecpasbien.com,likeur.org,planet-series.co,plus-belle-la-vie-episode-en-avance.biz,seriestreaming.net,streamingseries.info,telechargerzoneu.fr,wawa-clubz.fr,wawacity.ec##a[href*=".php"]
 lien-torrent.com##a[href*=".php"][target="_blank"]
 moviz.net##a[href*=".php?let="]
-telechargement-film.org##a[href*=".vip/"]
 leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
 meilleurs-hebergeurs.com##a[href*="/-"] > img
 cdiscount.com,lemonde.fr,sosiphone.com##a[href*="//clk.tradedoubler.com/click?"]
@@ -16647,6 +16644,7 @@ gamopat-forum.com##div#wrapper > div#right img[src*="/11/03/61/79/"]
 finansemble.fr##div.div_description_v2[style="max-width:750px;"]
 loractu.fr##div.landing
 net-iris.fr##div[class$="promo-container"]
+film-telechargement.org,telechargement-film.org,telechargement.vip##div[class*="vip"]
 booska-p.com##div[class][style^="background"]
 webstar-electro.com##div[class^="banner"]
 maison-et-domotique.com##div[class^="deals"]
@@ -16769,7 +16767,7 @@ bonjourmadame.fr##object[width="728"][height="90"]
 kbk-tv.com##section#ref
 dealabs.com##section[data-track*="widget_pirates_carousel"]
 extreme-d0wn.com##span[style$="cursor: pointer;"]
-telechargement-film.org,telechargement.vip##strong[style]
+film-telechargement.org,telechargement-film.org,telechargement.vip##strong[style]
 idowatch.net##style + [onclick]
 boursorama.com##style + div > .visible-desktop:first-child
 boursorama.com##sup.main[style="display: block;"]
