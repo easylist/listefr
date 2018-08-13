@@ -9225,8 +9225,8 @@ $xmlhttprequest,domain=adfreetv.ch|alltube.pl|alltube.tv|centrum-dramy.pl|colleg
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpabien.xyz|cpasbien.io|cpasbien.pro|cpasbien9.net|cpasbiens.cc|cpasbiens.net|gktorrent.net|gktorrent.org|lecpasbien.com|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.me|torrent9.pe|torrent9.top|torrent9.tv|torrent9.ws|torrents9.cc|torrents9.org|torrents9.pe|torrents9.tv|www.t9.pe
 ! nextorrent
 @@||ajax.googleapis.com/ajax/libs/$script,domain=nextorrent.tv
-|http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.cx|nextorrent.org|nextorrent.pro|nextorrent.tv
-|https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.cx|nextorrent.org|nextorrent.pro|nextorrent.tv
+|http://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.org|nextorrent.pro|nextorrent.tv
+|https://$image,popup,script,subdocument,third-party,xmlhttprequest,domain=nextorrent.org|nextorrent.pro|nextorrent.tv
 ||nextorrent.*.php$popup
 ! youmoviz.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=nextorrent.site|youmoviz.org
