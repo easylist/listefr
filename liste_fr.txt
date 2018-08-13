@@ -9215,6 +9215,8 @@ $xmlhttprequest,domain=adfreetv.ch|alltube.pl|alltube.tv|centrum-dramy.pl|colleg
 |http://$script,third-party,domain=univers-animeiz.net|univers-animer.net|univers-animers.net|univers-animez.net
 |httpd://$script,third-party,domain=univers-animeiz.net|univers-animer.net|univers-animers.net|univers-animez.net
 ! torrent9.tv
+.gif$domain=cpasbien.top|cpasbien9.net|cpasbiens.net
+.png$domain=cpasbien.top|cpasbien9.net|cpasbiens.net
 /cdn-cgi/*$domain=cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpasbien.pro|cpasbien9.net|cpasbiens.cc|cpasbiens.net|gktorrent.netcpabien.ch|gktorrent.org|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.me|torrent9.pe|torrent9.top|torrent9.tv|torrent9.ws|torrents9.cc|torrents9.org|torrents9.pe|torrents9.tv|www.t9.pe
 /default/*$script,domain=cpabien.io|cpasbiens.cc|gktorrent.net|gktorrent.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=cpabien.ch|cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpasbien.pro|cpasbien9.net|cpasbiens.cc|cpasbiens.net|gktorrent.net|gktorrent.org|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.pe|torrent9.top|torrents9.cc|torrents9.org|torrents9.pe|www.t9.pe
@@ -10505,11 +10507,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||coran-francais.com/img/*.gif
 ||courrierlaval.com/images/wallpaper/
 ||cowcotland.com/images/habillage/$image
-||cpasbien.top/*.gif
-||cpasbien9.net/*.gif
-||cpasbien9.net/*.png
-||cpasbiens.net/*.gif
-||cpasbiens.net/*.png
 ||cpmaffiliation.com/logo.php
 ||crack-wifi.com/forum/img/banniere-
 ||creadunet.com^*/overall_header_iframe.html
@@ -16406,6 +16403,7 @@ algeriepatriotique.com##a[class][data-track][href]
 narutoshippudenvf.com##a[class][target="_blank"]
 dpstreaming.cc##a[href$=".html"]
 free-telechargement.co,k-streaming.xyz,planet-streaming.com,streaming-telechargementz.net,telechargementz-streaming.net,telecharger-ebook-gratuit.net,telecharger-ebook-gratuit.org##a[href$=".php"]
+cpasbien9.net,cpasbiens.net##a[href$="/"]
 thebadbuzz.com##a[href$="/boost.php"]
 sites-torrent.com##a[href$="/seedbox"]
 opensubtitles.org##a[href$="=="][rel="nofollow"]
