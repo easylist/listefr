@@ -1338,6 +1338,7 @@
 /gfx/bannieres_
 /gif/sponsor_
 /goclick?ref=$script
+/grafik/ads/*
 /grid/ads/*
 /hashcash.$domain=~hashcash.io
 /hbams/hb_
@@ -16980,7 +16981,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||rockman.fr/Ads/$image
 @@||s1.lemde.fr/medias/web/*/js/lmd/core/advert/sync.js
 @@||s3.amazonaws.com/homad-global-configs.schneevonmorgen.com/hd-main.js?cache=$script,domain=welt.de
-@@||sceno.fr/apps/1_static/ads/explain.png
 @@||serrurier-menuisier-31-ad2.fr^$~third-party
 @@||serrurier-menuisier-31-ad2.site-privilege.pagesjaunes.fr^$image,third-party
 @@||static.adf.ly/static/image/$image,domain=adf.ly|ay.gy|j.gs|q.gs
