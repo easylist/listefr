@@ -1507,6 +1507,7 @@
 /nanalab.js
 /native-ad/*
 /native/feed/*/widget/*?b=$third-party
+/neads.
 /nendAdLoader.
 /networking/ref_
 /newcafv2.js
@@ -12632,6 +12633,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###ads_banner_right
 ###ads_banner_right2
 ###ads_block_vertical
+###ads_combo
 ###ads_combo1
 ###ads_combo2
 ###ads_gigaban
@@ -13738,6 +13740,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.antiadclass
 ##.aoa_overlay
 ##.app_google_ad_box
+##.article-engagement-nead
 ##.articleAd-banner
 ##.article__ads
 ##.article__ads-side
@@ -14077,6 +14080,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.myAd
 ##.native_ad2
 ##.nativeads
+##.nead-card
 ##.newads
 ##.nextread-advertisement
 ##.nf-aside-ads
