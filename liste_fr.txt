@@ -4576,9 +4576,6 @@ debugger:$popup
 ||wineuroptp.fr^$third-party
 ||wisefacts.net^$third-party
 ||wizenedjogger.info^$third-party
-||wlscripts.fr^$third-party
-||wlscripts.net^$third-party
-||wlscripts.org^$third-party
 ||wm.artcomix.com^$third-party
 ||wonderlandads.com^$third-party
 ||woogames.me^$third-party
@@ -9050,6 +9047,7 @@ $xmlhttprequest,domain=adfreetv.ch|alltube.pl|alltube.tv|centrum-dramy.pl|colleg
 ||widgets.stackcommerce.com^
 ||widgetvillage.com/ministore/$third-party
 ||windows.net/autopromo/
+||wlscripts.*/script$third-party
 ||worldssl.net^$subdocument,third-party
 ||wp.com/*.alicdn.com/
 ||wp.com/*/wp-content/uploads/*?resize=468%2C60
