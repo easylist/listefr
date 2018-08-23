@@ -9712,6 +9712,7 @@ fruitadblock.net,fruitstreams.com,oload.download,oload.info,oload.site,oload.str
 @@||www.speedvid.*/dl?op=download_orig&id=*&r=$popup,~third-party,domain=speedvid.co|speedvid.net
 |http://$script,subdocument,third-party,xmlhttprequest,domain=speedvid.co|speedvid.net
 |https://$script,subdocument,third-party,xmlhttprequest,domain=speedvid.co|speedvid.net
+||speedvid.*/cdn/js/dwo.js
 ! divxme.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=divxme.com
 |http://$script,third-party,xmlhttprequest,domain=divxme.com
