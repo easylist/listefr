@@ -9966,6 +9966,11 @@ $websocket,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|ifp.re|ifpx.xyz|ifrp.xyz|mp3fre
 |http://$script,subdocument,third-party,xmlhttprequest,domain=2shrink.com|shorter.link
 |https://$script,subdocument,third-party,xmlhttprequest,domain=2shrink.com|shorter.link
 ||2shrink.com/sw.js
+! cll.press
+@@||google.com/recaptcha/$subdocument,domain=cll.press
+|http://$script,subdocument,third-party,xmlhttprequest,domain=cll.press
+|https://$script,subdocument,third-party,xmlhttprequest,domain=cll.press
+||cll.press/sw.js
 ! adhit.me
 @@||adhit.me/js/ads.js$script,domain=adhit.me
 @@||google.com/recaptcha/$subdocument,domain=adhit.me
@@ -12432,6 +12437,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||demkc32bq01ah.cloudfront.net^
 ||deoi3kwqhv0d5.cloudfront.net^
 ||dercaktgexxus.cloudfront.net^
+||desgao1zt7irn.cloudfront.net^
 ||det8214mmc717.cloudfront.net^
 ||detnsuoxy81x.cloudfront.net^
 ||df0pmigc8xs70.cloudfront.net^
