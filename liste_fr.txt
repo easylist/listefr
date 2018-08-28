@@ -5058,6 +5058,26 @@ debugger:$popup
 ||overreare.co^
 ||rationalan.pro^
 ||seceive.pro^
+!
+||appearch.info^
+||baconaces.pro^
+||countante.info^
+||dentially.info^
+||favourity.pro^
+||greatene.com^
+||hathick.info^
+||kaseine.info^
+||khomuto.info^
+||legistrike.pro^
+||masture.mobi^
+||newsrouach.pro^
+||policester.info^
+||proporing.info^
+||smothere.pro^
+||solvement.mobi^
+||stalluva.pro^
+||ursorsee.pro^
+!
 ! MJPops
 /^https?:\/\/[0-9a-z]{5,25}\.(com|bid|date|download|men|online|party|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[a-z]\/[0-9a-f]{32}\.js\?id=[0-9]{6}$/$script,third-party
 ||s85n4btydl.online^
@@ -9931,6 +9951,11 @@ $websocket,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|ifp.re|ifpx.xyz|ifrp.xyz|mp3fre
 ! link.tl
 |http://$subdocument,third-party,domain=link.tl
 |https://$subdocument,third-party,domain=link.tl
+! shorter.link
+@@||google.com/recaptcha/$subdocument,domain=2shrink.com|shorter.link
+|http://$script,subdocument,third-party,xmlhttprequest,domain=2shrink.com|shorter.link
+|https://$script,subdocument,third-party,xmlhttprequest,domain=2shrink.com|shorter.link
+||2shrink.com/sw.js
 ! adhit.me
 @@||adhit.me/js/ads.js$script,domain=adhit.me
 @@||google.com/recaptcha/$subdocument,domain=adhit.me
@@ -17194,7 +17219,7 @@ _blockadblock_
 @@.png#$image,domain=4downfiles.org|dl-protect1.com|dl-protecte.com|dl-protecte.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|planet-series.co|protect-lien.com|protect-zt.com|protecte-link.com|pxstream.tv|radio-en-direct.fr|savefile.co|security-links.com|stream4free.top|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
 @@/adblock.js$script,~third-party,domain=anilinkz.to|jdubuzz.com|jeuxvideo.com|journaldugamer.com|journaldugeek.com|pixelistes.com|streaming-foot.me
 @@/adframe.js$script,~third-party,domain=01streamingvf.ws|fas.li|shink.in|shink.me|tfarjo.ws
-@@/ads.js$script,~third-party,domain=adbilty.me|adbull.me|adshort.co|adshort.im|adshort.me|adshorte.com|akorto.xyz|coinlink.co|coinlink.us|cuon.io|curs.io|cut-urls.com|cutly.win|cutwi.in|danpod.work|eues.io|euon.io|faucy.win|igram.im|kimo-link.com|linkkawy.com|lkky.co|manga-vf.fr|passetoncode.fr|short.pe|short2win.com|shortenow.com|tmearn.com|tune.pk|u2s.io|zonebourse.com|zype.xyz
+@@/ads.js$script,~third-party,domain=2shrink.com|adbilty.me|adbull.me|adshort.co|adshort.im|adshort.me|adshorte.com|akorto.xyz|coinlink.co|coinlink.us|cuon.io|curs.io|cut-urls.com|cutly.win|cutwi.in|danpod.work|eues.io|euon.io|faucy.win|igram.im|kimo-link.com|linkkawy.com|lkky.co|manga-vf.fr|passetoncode.fr|short.pe|short2win.com|shortenow.com|tmearn.com|tune.pk|u2s.io|zonebourse.com|zype.xyz
 @@/advertisement.js$script,domain=cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghreb.space|mega-exclue.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
 @@/advertisement.js$script,~third-party,domain=cap-public.fr|coco.fr|crash-aerien.aero|crash-aerien.news|e-wok.tv|fiki.faucetfly.com|leveldown.fr|quoverbis.com
 @@/advertising.js$script,~third-party,domain=animedigitalnetwork.fr
