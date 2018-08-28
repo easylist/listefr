@@ -2516,6 +2516,7 @@ _frontend_loader.$script
 ||club^*=.js$third-party
 ||co^*?zoneId=
 ||com/ntfc.php?p=*&r=$script,third-party
+||com/sw.js?*%$script,~third-party
 ||gdn^$script,third-party,xmlhttprequest
 ||gdn^*&campaign_id=$third-party
 ||gdn^*&impid=$third-party
@@ -2527,6 +2528,7 @@ _frontend_loader.$script
 ||online/js/*=.js$third-party
 ||online^*&w=*&h=*&blank=
 ||online^*?type=pu&
+||org/sw.js?*%$script,~third-party
 ||porn/func.js
 ||pro^*=/$script,third-party
 ||pro^*?zoneId=
@@ -5058,7 +5060,7 @@ debugger:$popup
 ||overreare.co^
 ||rationalan.pro^
 ||seceive.pro^
-!
+! /sw.js
 ||appearch.info^
 ||baconaces.pro^
 ||countante.info^
@@ -5073,9 +5075,11 @@ debugger:$popup
 ||newsrouach.pro^
 ||policester.info^
 ||proporing.info^
+||rupstration.club^
 ||smothere.pro^
 ||solvement.mobi^
 ||stalluva.pro^
+||trothko.com^
 ||ursorsee.pro^
 !
 ! MJPops
@@ -9575,6 +9579,11 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 @@||ajax.googleapis.com/ajax/libs/$script,domain=downloadhub.cc
 |http://$script,third-party,xmlhttprequest,domain=downloadhub.cc
 |https://$script,third-party,xmlhttprequest,domain=downloadhub.cc
+! upload4earn.org
+@@||google.com/recaptcha/$subdocument,domain=upload4earn.org
+|http://$script,subdocument,third-party,xmlhttprequest,domain=upload4earn.org
+|https://$script,subdocument,third-party,xmlhttprequest,domain=upload4earn.org
+||upload4earn.org/sw.js
 ! filescdn.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=filescdn.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=filescdn.com
