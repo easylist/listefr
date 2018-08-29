@@ -17189,7 +17189,7 @@ bsv.admin.ch#@#.pub_outer
 lechainonmanquant.com,love-hinax.com#@#.publicite
 ta-meteo.fr#@#.topbanneradvertise
 techtinker.blogspot.fr#@#.vertical-ads
-cnetfrance.fr,lesnumeriques.com#@#a[href^="http://tracking.publicidees.com/clic.php?"]
+cnetfrance.fr,lesnumeriques.com#@#a[href*="//tracking.publicidees.com/clic.php?"]
 cnetfrance.fr,lesnumeriques.com#@#a[href^="https://www.awin1.com/cread.php?"]
 wanimo.com#@#div[id^="div-gpt-ad-"]
 !
