@@ -968,7 +968,7 @@
 /assets/adn-
 /assets/padb-
 /async?*&tid=
-/autopromo.*/async|$domain=~jeuxvideo.com
+/autopromo.*/async|
 /autopromotion.*/async|
 /ax/bnnr/*$script
 /b.n.php?aid=
@@ -13448,6 +13448,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###wrapper-pub
 ###wrapper_inread
 ###yandex_ad
+###zone-sponso
 ###zone_pub
 ###zone_pub1
 ###zone_pub2
@@ -15690,6 +15691,7 @@ igen.fr,macg.co,watchgeneration.fr###unepromo
 verif.com###verif_pub_adsense_commander
 verif.com###verif_pub_pave
 verif.com###verif_pub_vignette
+jeuxvideo.com###video-footer
 01net.com###videoplaza
 mon-autosurf.fr###vip
 europages.fr###vipBox
