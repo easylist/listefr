@@ -522,6 +522,7 @@
 /acceptable.*/async|$domain=~millenium.org
 /accrochePub300.
 /acecAdServer.
+/ad(300x250)/*
 /Ad-*-300x250.
 /ad-360-280-
 /ad-ads.
@@ -9581,6 +9582,10 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 @@||ajax.googleapis.com/ajax/libs/$script,domain=gamestorrents.com
 |http://$script,third-party,xmlhttprequest,domain=gamestorrents.com
 |https://$script,third-party,xmlhttprequest,domain=gamestorrents.com
+! downloadpirate.com
+|http://$image,script,subdocument,third-party,xmlhttprequest,domain=downloadpirate.com
+|https://$image,script,subdocument,third-party,xmlhttprequest,domain=downloadpirate.com
+||downloadpirate.com/sw.js
 ! datpiff.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=datpiff.com
 |http://$script,third-party,xmlhttprequest,domain=datpiff.com
