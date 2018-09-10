@@ -2849,6 +2849,7 @@ _frontend_loader.$script
 ://pops.$popup
 ://porno.*/ban-$popup
 ://pu.*/click/$popup
+://push.*/?go=$popup
 ://rencontre.*&utm_*&utm_=$popup
 ://syndication.$popup,third-party
 ://trk.*&campaign=$popup
@@ -3983,6 +3984,7 @@ debugger:$popup
 ||mobiflyd.com^$third-party
 ||mobiflys.com^$third-party
 ||mobifoth.com^$third-party
+||mobileoffers-h-download.com^$third-party
 ||mobilup.com^$third-party
 ||mobligo.com^$third-party
 ||mobsuccess.com^$third-party
@@ -7341,6 +7343,7 @@ debugger:$popup
 ||hfkfh.com^$popup,third-party
 ||hgfp-84.com^$popup,third-party
 ||hh-btr.com^$popup,third-party
+||hibids10.com^$popup,third-party
 ||hipercontas.com.br^$popup,third-party
 ||homyanus.com^$popup,third-party
 ||hopdream.com^$popup,third-party
@@ -7579,6 +7582,7 @@ debugger:$popup
 ||popunderclick.com^$popup,third-party
 ||popunderjs.club^$popup,third-party
 ||popundertotal.com^$popup,third-party
+||porlandzor.com^$popup,third-party
 ||pormurop.me^$popup,third-party
 ||porncrash.com^$popup,third-party
 ||pornocaptain.com^$popup,third-party
