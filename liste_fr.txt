@@ -8416,7 +8416,6 @@ $stylesheet,third-party,domain=kissanime.ru
 ||illiweb.com^*/partenaires/
 ||ilmepornohd.ro/i/banner/
 ||imagefacile.com^$image
-||imageshack.com^$domain=adyou.co|adyou.me
 ||img.fasttechcdn.com$domain=trackitonline.org|trackitonline.ru
 ||img.grouponcdn.com/gpn/$image,third-party
 ||img.nuxit.com/banners/
@@ -17060,7 +17059,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||advertising.wellpack.fr/sites_annexes/optout/$~third-party
 @@||adworks.fr^$~third-party
 @@||affiliation.leboncontact.fr/template/Affiliation/$~third-party
-@@||ajax.googleapis.com/ajax/libs/$script,domain=adyou.co|adyou.me
 @@||aka-cdn-ns.adtech.de/dt/common/DAC.js$script,domain=nrj.fr
 @@||ami2.com/resources/img/mysite/publicites/$image,~third-party
 @@||archives-numerisees.ain.fr^*/httpd/ad
@@ -17097,7 +17095,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||gareautheatre.com^*/image_resize.php?img=*/$image
 @@||gironde.fr/css/csspacker.jsp?css=$stylesheet
-@@||google.com/recaptcha/$domain=adyou.co|adyou.me
 @@||google.com/recaptcha/$subdocument,domain=fas.li|likn.xyz|streamplay.top
 @@||gpsfront.aliexpress.com/queryGpsProductAjax.do?*&imageSize=$script,~third-party
 @@||host3.adhese.be/tag/tagv1.js$script,domain=lavenir.net
