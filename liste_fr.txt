@@ -2725,7 +2725,6 @@ _frontend_loader.$script
 /install.*&subid=$popup
 /install.*?pid=$popup
 /itab/*&cid=$popup
-/itab/*&pid=$popup
 /itab/*?cid=$popup
 /jump/clk1.$popup
 /jump/next.php?$popup
