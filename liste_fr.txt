@@ -5309,6 +5309,7 @@ debugger:$popup
 ||sophistors.com^
 ||southening.info^
 ||sovietname.info^
+||spendentaly.info^
 ||sprincipal.com^
 ||squite.club^
 ||stalluva.pro^
@@ -10104,6 +10105,9 @@ ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,ges
 ! admew.com
 |http://$script,third-party,domain=admew.com
 |https://$script,third-party,domain=admew.com
+! dwindly.io
+|http://$image,script,subdocument,third-party,xmlhttprequest,domain=dwindly.io
+|https://$image,script,subdocument,third-party,xmlhttprequest,domain=dwindly.io
 ! ucoz.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=at.ua|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=at.ua|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua
