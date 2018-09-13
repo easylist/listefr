@@ -13531,6 +13531,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.actu_pub_pave1
 ##.actu_pub_pave2
 ##.actu_pub_pave3
+##.actualite__mobile-ads
 ##.ad--desk
 ##.ad--high-banner
 ##.ad--row-ad--left
@@ -13663,6 +13664,9 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.ads-970x60
 ##.ads-aside
 ##.ads-big
+##.ads-bloc
+##.ads-bloc__content
+##.ads-bloc__label
 ##.ads-block-rightside
 ##.ads-books
 ##.ads-box-inner
@@ -13785,6 +13789,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.adsense-bottom-mob-tab
 ##.adsense-bottom-normal
 ##.adsense-footer
+##.adsense-native-related
 ##.adsense-sidebar
 ##.adsense300x600
 ##.adsense_300
@@ -14165,6 +14170,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.js_DivPublicityLateral
 ##.jt-poublicidadContainer
 ##.kadmer-ad
+##.la-une__mobile-ads
 ##.label-pub-span
 ##.labelPub
 ##.label_advertising
@@ -15169,6 +15175,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##div[id^="crt-"][style*="width:"]
 ##div[id^="div-adt-"]
 ##div[id^="divsda-"]
+##div[id^="ezoic-pub-ad"]
 ##div[id^="ipc-advert"]
 ##div[id^="pub-dfp-"]
 ##div[id^="sqweb_ad_control-"]
@@ -16089,6 +16096,7 @@ meteosun.com##.hotelteaser
 vide-greniers.org##.iad
 lexpress.fr##.immo
 pagesblanches.be,rtbf.be##.imu
+tsa-algerie.com##.in-ooredoo
 megaupload-download.net##.infoblock
 boursorama.com##.injected.block
 quebeccoupongratuit.com##.inner-pub
@@ -16194,6 +16202,7 @@ gamekult.com##.mpubas-wrapper
 tchatche.com##.native-banner
 agroligne.com##.nbs-flexisel-container
 directvelo.com##.news-banner
+tsa-algerie.com##.newsfeed__ooredoo
 ad4.fr##.nicebtn
 gameblog.fr##.noPremium
 echoroukonline.com##.no_design
