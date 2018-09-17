@@ -657,6 +657,7 @@
 /adporn.
 /AdPortalService.
 /AdPortalWebService/*
+/adpower.
 /adprof/*
 /adprop.
 /adr.php
@@ -858,6 +859,7 @@
 /adsquare-
 /adss.htm
 /adssdk-
+/adsservedby.
 /adstest.
 /adstrack/*
 /adstract_
@@ -1887,6 +1889,7 @@
 /serve?*&w=728&h=90
 /serve?inline=*&ab=
 /serve?inline=*&w=*&h=
+/servedby.$script
 /servepop.
 /servlet/effi.show?
 /set_popup.
@@ -3333,6 +3336,7 @@ debugger:$popup
 ||adyieldoptimizer.com^$third-party
 ||adzbux.com^$third-party
 ||adzbuzz.com^$third-party
+||adzerg.com^$third-party
 ||adzmath.com^$third-party
 ||adzzone.com^$third-party
 ||afairweb.com^$third-party
@@ -3399,6 +3403,7 @@ debugger:$popup
 ||appupdate.center^$third-party
 ||apyoth.com^$third-party
 ||apypxl.com^$third-party
+||aquaplatform.com^$third-party
 ||ar-ads.com^$third-party
 ||ar-ads.net^$third-party
 ||arab-ads.com^$third-party
@@ -4148,6 +4153,7 @@ debugger:$popup
 ||pdanew.com^$third-party
 ||pee-puu-see.com^$third-party
 ||pelicansource.com^$third-party
+||peoplesearchads.com^$third-party
 ||pepsia.com^$third-party
 ||perabetads.com^$third-party
 ||peretasker.xyz^$third-party
@@ -4222,6 +4228,7 @@ debugger:$popup
 ||pubinteractive.ca^$third-party
 ||publicideas.com^$third-party
 ||publike.fr^$third-party
+||publy.net^$third-party
 ||puboclic.com^$third-party
 ||pubovore.com^$third-party
 ||pubvantage.com^$third-party
@@ -4298,6 +4305,7 @@ debugger:$popup
 ||rgbperf.com^$third-party
 ||richaudience.com^$third-party
 ||ritogaga.com^$third-party
+||rlnads.net^$third-party
 ||roipub.com^$third-party
 ||roofsing.com^$third-party
 ||rosseladvertising.be^$third-party
