@@ -116,6 +116,7 @@
 -160-x-600.
 -160_600.
 -160x296.
+-240x90-
 -250x250.gif
 -300-250a.
 -300-250b.
@@ -517,6 +518,7 @@
 /aabv*.php?*/*
 /aads728.
 /ab_im_desktop_b.
+/ab_locations/*$script
 /abd?rand=
 /acad.$script
 /acceptable.*/async|$domain=~millenium.org
@@ -590,6 +592,7 @@
 /ad_bottom_
 /ad_fr.
 /ad_frames/*
+/ad_locations.
 /ad_middle_
 /ad_placements/*
 /ad_player/*
@@ -11310,6 +11313,8 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||lesnumeriques.com/habillages/
 ||lesoirdalgerie.com/articles/*/dzauto.swf
 ||lespac.com/1/banners/
+||lespagesmaghreb.com/campaigns/
+||lespagesmaghreb.com/images/epartenariat.png
 ||lesparrains.fr/images/lesParrains.fr/offers/habillage_
 ||letelegramme.fr/js/dfp_
 ||letempsdz.com/images/banners/
@@ -12726,6 +12731,13 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###ad_image
 ###ad_image_1
 ###ad_liste_bookmaker
+###ad_location_bottom
+###ad_location_bottom_right
+###ad_location_sidebar_1
+###ad_location_sidebar_2
+###ad_location_sidebar_3
+###ad_location_top_left
+###ad_location_top_right
 ###ad_marketingbanner_1_placeholder
 ###ad_medium2
 ###ad_megaban
@@ -12942,6 +12954,8 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###bodyPanpub
 ###bonsplansprospect
 ###bottom-adv
+###bottom-pub
+###bottom-right-pub
 ###bottom_ad_space
 ###bottom_pub
 ###box-izipub
@@ -13474,6 +13488,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###teaserPub
 ###thePubDiv2
 ###titre-publicite
+###top-left-pub
 ###topAdContainer728
 ###topAdscenter
 ###top_pub
@@ -13632,6 +13647,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.ad_hidden
 ##.ad_holder_text
 ##.ad_horizontal
+##.ad_location
 ##.ad_pause
 ##.ad_placholder
 ##.ad_sense
@@ -14370,6 +14386,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.pub-promo
 ##.pub-rectangle-php
 ##.pub-right
+##.pub-rotate-bottom
 ##.pub-sidebar1
 ##.pub-sidebar2
 ##.pub-single-top
