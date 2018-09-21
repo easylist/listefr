@@ -2284,6 +2284,7 @@ _866x120.
 _90x728_
 _970-x-90_
 _970x250.
+_ad.html?utm_
 _ad160x600.
 _ad_agency_
 _ad_campaign_
@@ -2395,6 +2396,8 @@ _smads_
 _smartclick.js
 _Social-Advert-
 _square_ads.
+_strip_ad.
+_strip_ad/
 _waframedia_
 _werbebanner_
 digitalocean.gif|
@@ -3125,6 +3128,7 @@ debugger:$popup
 ||acces-charme.com^$third-party
 ||acces-pills.com^$third-party
 ||accesporno.com^$third-party
+||accio.ai^$third-party
 ||acdcads.com^$third-party
 ||acdcadz.com^$third-party
 ||acdnpro.com^$third-party
@@ -8061,6 +8065,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||amatrys.com/images/sexhotel.png
 ||amazon.fr/exec/*/external-search?$subdocument,third-party
 ||amazon.fr^$popup,domain=fdesouche.com
+||amazonaws.com/accio-lib/accip_script.js
 ||amazonaws.com/hbams/
 ||amazonaws.com/mftracker/
 ||amazonaws.com/pubfig/
@@ -12345,6 +12350,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||d1czd1q73kbu32.cloudfront.net^
 ||d1dli2tyorled9.cloudfront.net^
 ||d1dqwj4dc78lwy.cloudfront.net^
+||d1e12he7ynr8zq.cloudfront.net^
 ||d1ejnc60jkzff4.cloudfront.net^
 ||d1ewpr7kbabyrj.cloudfront.net^
 ||d1eyk8qbbvsiyg.cloudfront.net^
@@ -13921,6 +13927,8 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.adv_clickable
 ##.adv_cont
 ##.adv_pop
+##.adv_text
+##.adv_text2
 ##.advert-header-wrapper
 ##.advert-left-slider
 ##.advert-out-left
