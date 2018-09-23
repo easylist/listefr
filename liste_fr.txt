@@ -10162,9 +10162,10 @@ $websocket,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|ifp.re|ifpx.xyz|ifrp.xyz|mp3fre
 |http://$script,subdocument,third-party,domain=2giga.link
 |https://$script,subdocument,third-party,domain=2giga.link
 ! cpmlink.net
-@@||cpmlink.net^$generichide
-|http://$subdocument,third-party,domain=cpmlink.net
-|https://$subdocument,third-party,domain=cpmlink.net
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=cpmlink.net
+|http://$script,subdocument,third-party,domain=cpmlink.net
+|https://$script,subdocument,third-party,domain=cpmlink.net
+||cpmlink.net/assets/js/demo.js
 ! dz4link.com
 |http://$script,third-party,xmlhttprequest,domain=dz4link.com
 |https://$script,third-party,xmlhttprequest,domain=dz4link.com
@@ -17519,6 +17520,7 @@ _blockadblock_
 @@||conserves.blogspot.ca^$generichide
 @@||coolgames.com^$generichide
 @@||cours-de-droit.net^$generichide
+@@||cpmlink.net^$generichide
 @@||curs.io^$generichide
 @@||dl-protect.top^$generichide
 @@||dl-protect1.com^$generichide
