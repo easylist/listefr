@@ -8380,7 +8380,6 @@ $stylesheet,third-party,domain=kissanime.ru
 ||elite-auto.fr/api/visuel/essai/$third-party
 ||elles-mouillent.com/ban/$third-party
 ||embed.ly^*.amazon.
-||embed.tune.pk^$third-party
 ||embedly.com^$domain=korben.info
 ||emp3s.ws/spon/$popup
 ||emploicom.com/application/views/docs/pub/
@@ -9139,6 +9138,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||tube-manga-hentai.com/promo/a.php?
 ||tube-manga-hentai.com/tools/bannieres/
 ||tudou.com^$subdocument
+||tune.pk^*?source=$popup,domain=embed.tune.pk
 ||turk-dreamworld.com/images/sponsor/
 ||tuto.com/banner/$third-party
 ||tutti.ch/*_banner_$third-party
