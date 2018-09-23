@@ -2542,7 +2542,7 @@ _frontend_loader.$script
 ||co^*?zoneId=
 ||com/js/*=.js?r=
 ||com/ntfc.php?p=*&r=$script,third-party
-||com/sw.js?*%$other,script,~third-party
+||com/sw.js?$other,script,~third-party
 ||gdn^$script,third-party,xmlhttprequest
 ||gdn^*&campaign_id=$third-party
 ||gdn^*&impid=$third-party
@@ -2554,7 +2554,7 @@ _frontend_loader.$script
 ||online/js/*=.js$third-party
 ||online^*&w=*&h=*&blank=
 ||online^*?type=pu&
-||org/sw.js?*%$other,script,~third-party
+||org/sw.js?$other,script,~third-party
 ||porn/func.js
 ||pro^*=/$script,third-party
 ||pro^*?zoneId=
