@@ -9370,14 +9370,12 @@ $stylesheet,third-party,domain=kissanime.ru
 |http://$script,third-party,domain=streamay.com|streamay.la|streamay.ws
 |https://$script,third-party,domain=streamay.com|streamay.la|streamay.ws
 ! voirfilms.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=voirfilm.ws|voirfilms.ws
 |http://$image,ping,popup,script,third-party,xmlhttprequest,domain=voirfilm.ws|voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.info|voirfilms.net|voirfilms.org|voirfilms.tv|voirfilms.ws
 |https://$image,ping,popup,script,third-party,xmlhttprequest,domain=voirfilm.ws|voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.info|voirfilms.net|voirfilms.org|voirfilms.tv|voirfilms.ws
 ||voirfilm.ws/jscripts/
 ||voirfilms.ws/jscripts/
 ! series-en-streaming.tv
 @@||cdn.jsdelivr.net^$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||code.jquery.com^$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||flashx.tv/embed-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||netdna.bootstrapcdn.com^$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
@@ -9426,7 +9424,6 @@ $stylesheet,third-party,domain=kissanime.ru
 |http://$script,third-party,domain=opus.re
 |https://$script,third-party,domain=opus.re
 ! univers-animer.net
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=univers-animeiz.net
 |http://$script,third-party,domain=univers-animeiz.net|univers-animer.net|univers-animers.net|univers-animez.net
 |httpd://$script,third-party,domain=univers-animeiz.net|univers-animer.net|univers-animers.net|univers-animez.net
 ! torrent9.tv
@@ -9455,12 +9452,10 @@ $stylesheet,third-party,domain=kissanime.ru
 /^https?:\/\/(www\.)?dyncdn\.me\/static\/20\/js\/(?!(behavior2|comments2|rating2|scrollspy|jquery))(.*)/$script,domain=rarbg.com|rarbg.is|rarbg.to|rarbgaccess.org|rarbggo.org|rarbgmirror.com|rarbgmirror.org|rarbgmirror.xyz|rarbgproxy.org|rarbgprx.org|rarbgunblock.com
 |https://$script,~third-party,domain=rarbg.bypassed.org|rarbg.com|rarbg.is|rarbg.to|rarbg.unblocked.kim|rarbgaccess.org|rarbggo.org|rarbgmirror.com|rarbgmirror.org|rarbgmirror.xyz|rarbgproxy.com|rarbgproxy.org|rarbgprx.org|rarbgunblock.com
 ! proxyportal.org
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=bypassed.gold|bypassed.st|immunicity.gold|immunicity.st|proxyportal.me|unblockall.org|unblocked.bid|unblocked.gold|unblocked.lol|unblocked.st
 @@||code.jquery.com^$script,domain=bypassed.gold|bypassed.st|immunicity.gold|immunicity.st|proxyportal.me|unblockall.org|unblocked.bid|unblocked.gold|unblocked.lol|unblocked.st
 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=bypassed.gold|bypassed.st|immunicity.gold|immunicity.st|proxyportal.me|unblockall.org|unblocked.bid|unblocked.gold|unblocked.lol|unblocked.st
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=bypassed.gold|bypassed.st|immunicity.gold|immunicity.st|proxyportal.me|unblockall.org|unblocked.bid|unblocked.gold|unblocked.lol|unblocked.st
 ! skytorrents.lol
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=skytorrents.lol
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=skytorrents.lol
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=skytorrents.lol
 ! emule-island
@@ -9489,7 +9484,6 @@ $stylesheet,third-party,domain=kissanime.ru
 |http://$script,third-party,domain=animedigitalnetwork.fr
 |https://$script,third-party,domain=animedigitalnetwork.fr
 ! protect-stream.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=protect-stream.com
 @@||code.jquery.com/jquery-$script,domain=protect-stream.com
 @@||content.jwplatform.com/libraries/$script,domain=protect-stream.com
 @@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=protect-stream.com
@@ -9539,12 +9533,10 @@ japscan.cc,japscan.com##div[id^="a_d_"]
 |http://$script,third-party,xmlhttprequest,domain=telecharger-film-gratuit.fr
 |https://$script,third-party,xmlhttprequest,domain=telecharger-film-gratuit.fr
 ! pokemon-streaming.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=pokemon-streaming.com
 |http://$script,third-party,domain=pokemon-streaming.com
 |https://$script,third-party,domain=pokemon-streaming.com
 ! dragon-ball-super-streaming.com
 @@||animedigitalnetwork.fr/video/$subdocument,domain=dragon-ball-super-streaming.com|dragon-ball-super-streaming.org|streaming-boruto.com|streaming-dragon-ball-super.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=dragon-ball-super-streaming.com|dragon-ball-super-streaming.org|streaming-boruto.com|streaming-dragon-ball-super.com
 @@||iframe-secure.com/embed/$subdocument,domain=dragon-ball-super-streaming.com|dragon-ball-super-streaming.org|streaming-boruto.com|streaming-dragon-ball-super.com
 @@||openload.co/embed/$subdocument,domain=dragon-ball-super-streaming.com|dragon-ball-super-streaming.org|streaming-boruto.com|streaming-dragon-ball-super.com
 @@||rutube.ru/play/embed/$subdocument,domain=dragon-ball-super-streaming.com|dragon-ball-super-streaming.org|streaming-boruto.com|streaming-dragon-ball-super.com
@@ -9596,7 +9588,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ||tous-sports.tv^$subdocument,third-party
 ||toussports.info^$subdocument,third-party
 ! mavanime.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=mavanime.com
 |http://$script,third-party,domain=mavanime.com
 |https://$script,third-party,domain=mavanime.com
 ! gaara-fr.com
@@ -9613,7 +9604,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 |https://$script,xmlhttprequest,domain=sound-park.fr
 ||sound-park.fr^$popup,~third-party
 ! streamingeur.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=streamingeur.com
 |https://$script,third-party,domain=streamingeur.com
 ! viva-stream.org
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=viva-stream.co|viva-stream.info|viva-stream.org
@@ -9638,7 +9628,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmstreamvk.ws|filmstreamvk1.net
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmstreamvk.ws|filmstreamvk1.net
 ! filmzenstream.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=completvf.com|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|official-film-illimite.cc|official-film-illimite.net
 @@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=completvf.com|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|official-film-illimite.cc|official-film-illimite.net
 |http://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|official-film-illimite.cc|official-film-illimite.net
 |https://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|official-film-illimite.cc|official-film-illimite.net
@@ -9674,7 +9663,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=mythewatchseries.com|watchseriesmovie.net
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=mythewatchseries.com|watchseriesmovie.net
 ! realtimetv.me
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=realtimetv.me
 @@||sts.seelive.me/player/$script,domain=realtimetv.me
 |http://$script,third-party,domain=realtimetv.me
 |https://$script,third-party,domain=realtimetv.me
@@ -9690,7 +9678,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=youzik.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=youzik.com
 ! convertinmp4.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=convertinmp4.com
 |http://$script,third-party,domain=convertinmp4.com
 |https://$script,third-party,domain=convertinmp4.com
 ! gamestorrents.com
@@ -9746,7 +9733,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 |https://$script,third-party,xmlhttprequest,domain=streame.net
 ! byter.tv
 @@||biter.tv/js/jwplayer/jwplayer.js$script,domain=biter.tv|byter.tv
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=biter.tv|byter.tv
 |http://$script,third-party,xmlhttprequest,domain=biter.tv|byter.tv
 |https://$script,third-party,xmlhttprequest,domain=biter.tv|byter.tv
 ! zony.tv
@@ -9838,7 +9824,6 @@ thevid.net##.cban
 ! openload
 /cdn-cgi/apps/head/*$script,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|fruitadblock.net|fruitstreams.com|ifp.re|ifpx.xyz|ifrp.xyz|mp3free.pw|oload.download|oload.info|oload.site|oload.stream|oload.tv|oload.win|openload.co|openload.io|piframe.tk|protect-iframe.com|protect-video.com|streamango.com|streamcherry.com
 @@/\/(script\.\d{3,4}\.js)$/$script,domain=fruitstreams.com|oload.download|oload.info|oload.site|oload.stream|oload.tv|oload.win|olpair.com|openload.co|openload.io|streamango.com|streamcherry.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=fruitstreams.com|oload.download|oload.info|oload.site|oload.stream|oload.tv|oload.win|openload.co|openload.io|streamango.com|streamcherry.com
 @@||thumb.oloadcdn.net/subtitle/*.vtt$xmlhttprequest,domain=fruitadblock.net|fruitstreams.com|oload.download|oload.info|oload.site|oload.stream|oload.tv|oload.win|olpair.com|openload.co|openload.io|streamango.com|streamcherry.com
 fruitadblock.net,fruitstreams.com,oload.download,oload.info,oload.site,oload.stream,oload.tv,oload.win,olpair.com,openload.co,openload.io,streamango.com,streamcherry.com#@#.adsbox
 |http://$script,third-party,xmlhttprequest,domain=fruitadblock.net|fruitstreams.com|oload.info|oload.site|oload.stream|oload.tv|oload.download,oload.win|openload.co|openload.io|streamango.com|streamcherry.com
@@ -10063,7 +10048,6 @@ $websocket,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|ifp.re|ifpx.xyz|ifrp.xyz|mp3fre
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=1fichier.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=1fichier.com
 ! urlst.me
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=urlst.me
 |http://$script,third-party,domain=urlst.me
 |https://$script,third-party,domain=urlst.me
 ! getcpm.com
@@ -10119,7 +10103,6 @@ $websocket,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|ifp.re|ifpx.xyz|ifrp.xyz|mp3fre
 |http://$script,subdocument,third-party,domain=2giga.link
 |https://$script,subdocument,third-party,domain=2giga.link
 ! cpmlink.net
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=cpmlink.net
 |http://$script,subdocument,third-party,domain=cpmlink.net
 |https://$script,subdocument,third-party,domain=cpmlink.net
 ||cpmlink.net/assets/js/demo.js
@@ -10158,7 +10141,6 @@ ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,ges
 |http://$script,subdocument,third-party,domain=akorto.xyz
 |https://$script,subdocument,third-party,domain=akorto.xyz
 ! ouo.io
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=ouo.io|ouo.press
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=ouo.io|ouo.press
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=ouo.io|ouo.press
 ! streamingok.com
@@ -10177,7 +10159,6 @@ ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,ges
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=dwindly.io
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=dwindly.io
 ! ucoz.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=at.ua|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua
 @@||fonts.googleapis.com/css?$stylesheet,domain=at.ua|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua
 |http://$script,stylesheet,third-party,domain=at.ua|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua
 |https://$script,stylesheet,third-party,domain=at.ua|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua
@@ -17309,6 +17290,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||prehome.solidarites.org/adserver2/$~third-party
 ! Liste blanche pour corriger le blocage strict
 @@||ajax.googleapis.com/ajax/libs/$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2ddl.ws|2giga.link|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|9xbuddy.com|9xlinks.net|al.ly|ally.sh|at.ua|auroravid.to|biter.tv|bitvid.sx|bypassed.gold|bypassed.st|byter.tv|cineiz.co|cloudtime.to|cloudy.ec|cocostreaming.co|completvf.com|cpabien.ch|cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpasbien.pro|cpasbien9.net|cpasbiens.cc|cpasbiens.net|daclips.com|daclips.in|datpiff.com|ddl-island.su|direct-torrents.com|divxme.com|divxstage.to|dl-protect1.com|dl-protecte.com|dl-protecte.org|downloadhub.cc|ed-protect.org|emule-island.ru|filmsvostfr.ws|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|flowyourvideo.com|frstreaming.co.uk|full-stream.ws|g5u.pw|gamestorrents.com|getsl.me|gktorrent.net|gktorrent.org|gnula.nu|gorillavid.in|gsurl.in|gsurl.me|heures.be|hours.be|immunicity.gold|immunicity.st|lecpasbien.com|lepetitlecteur.fr|lepetitmag.fr|liens-telechargement.com|likeupload.org|mangastreaming.eu|mania-torrent.ws|movpod.in|movshare.ag|movshare.net|nextorrent.site|nextorrent.tv|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|official-film-illimite.cc|official-film-illimite.net|openingstijdengids.nl|openingsurengids.be|ouo.io|ouo.press|pblv-plusbellelavie.fr|protect-lien.com|protect-stream.com|protect-zt.com|proxyportal.me|putstream.com|security-links.com|seriefr.eu|seriefr.xyz|series-en-streaming.tv|shink.in|shink.me|shon.xyz|simpson-en-streaming.com|sokrostream.cx|stream-island.ru|stream-island.su|streamingeur.com|thebadside.com|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.pe|torrent9.top|torrents9.cc|torrents9.org|torrents9.pe|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua|ultim-telechargementz.com|unblockall.org|unblocked.bid|unblocked.gold|unblocked.lol|unblocked.st|univers-animeiz.net|uppit.com|uskip.me|videoweed.com|videoweed.es|vidto.me|vidto.se|vidtod.me|vidtudu.com|voirfilm.ws|voirfilms.ws|www.t9.pe|youmoviz.org
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=at.ua|biter.tv|bypassed.gold|bypassed.st|byter.tv|completvf.com|convertinmp4.com|cpmlink.net|dragon-ball-super-streaming.com|dragon-ball-super-streaming.org|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|fruitstreams.com|full-stream.ws|immunicity.gold|immunicity.st|mavanime.com|official-film-illimite.cc|official-film-illimite.net|oload.download|oload.info|oload.site|oload.stream|oload.tv|oload.win|openload.co|openload.io|ouo.io|ouo.press|pokemon-streaming.com|protect-stream.com|proxyportal.me|realtimetv.me|seriefr.eu|seriefr.xyz|series-en-streaming.tv|skytorrents.lol|streamango.com|streamcherry.com|streaming-boruto.com|streaming-dragon-ball-super.com|streamingeur.com|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua|unblockall.org|unblocked.bid|unblocked.gold|unblocked.lol|unblocked.st|univers-animeiz.net|urlst.me|voirfilm.ws|voirfilms.ws
 @@||www.google.com/recaptcha/$subdocument
 !
 !----------------------- Exceptions d'éléments -----------------------!
