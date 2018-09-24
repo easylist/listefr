@@ -9375,7 +9375,6 @@ $stylesheet,third-party,domain=kissanime.ru
 ||voirfilm.ws/jscripts/
 ||voirfilms.ws/jscripts/
 ! series-en-streaming.tv
-@@||cdn.jsdelivr.net^$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||code.jquery.com^$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||flashx.tv/embed-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||netdna.bootstrapcdn.com^$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
@@ -9753,7 +9752,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 |http://$script,third-party,xmlhttprequest,domain=t7melat.org
 |https://$script,third-party,xmlhttprequest,domain=t7melat.org
 ! extratorrent.cd
-@@||cdn.jsdelivr.net^$script,domain=extratorrent.cd
 @@||code.jquery.com^$script,domain=extratorrent.cd
 |http://$script,third-party,domain=extratorrent.cd
 |https://$script,third-party,domain=extratorrent.cd
@@ -9788,7 +9786,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 |https://$script,third-party,xmlhttprequest,domain=allvid.ch
 ! vidlox.tv
 @@||api.peer5.com^$script,domain=vidlox.me|vidlox.tv
-@@||cdn.jsdelivr.net^$script,domain=vidlox.me|vidlox.tv
 @@||cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/$script,domain=vidlox.me|vidlox.tv
 @@||dnjs.cloudflare.com/ajax/libs/$script,domain=vidlox.me|vidlox.tv
 @@||maxcdn.bootstrapcdn.com/bootstrap/$script,stylesheet,domain=vidlox.me|vidlox.tv
@@ -17290,6 +17287,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||prehome.solidarites.org/adserver2/$~third-party
 ! Liste blanche pour corriger le blocage strict
 @@||ajax.googleapis.com/ajax/libs/$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2ddl.ws|2giga.link|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|9xbuddy.com|9xlinks.net|al.ly|ally.sh|at.ua|auroravid.to|biter.tv|bitvid.sx|bypassed.gold|bypassed.st|byter.tv|cineiz.co|cloudtime.to|cloudy.ec|cocostreaming.co|completvf.com|cpabien.ch|cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpasbien.pro|cpasbien9.net|cpasbiens.cc|cpasbiens.net|daclips.com|daclips.in|datpiff.com|ddl-island.su|direct-torrents.com|divxme.com|divxstage.to|dl-protect1.com|dl-protecte.com|dl-protecte.org|downloadhub.cc|ed-protect.org|emule-island.ru|filmsvostfr.ws|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|flowyourvideo.com|frstreaming.co.uk|full-stream.ws|g5u.pw|gamestorrents.com|getsl.me|gktorrent.net|gktorrent.org|gnula.nu|gorillavid.in|gsurl.in|gsurl.me|heures.be|hours.be|immunicity.gold|immunicity.st|lecpasbien.com|lepetitlecteur.fr|lepetitmag.fr|liens-telechargement.com|likeupload.org|mangastreaming.eu|mania-torrent.ws|movpod.in|movshare.ag|movshare.net|nextorrent.site|nextorrent.tv|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|official-film-illimite.cc|official-film-illimite.net|openingstijdengids.nl|openingsurengids.be|ouo.io|ouo.press|pblv-plusbellelavie.fr|protect-lien.com|protect-stream.com|protect-zt.com|proxyportal.me|putstream.com|security-links.com|seriefr.eu|seriefr.xyz|series-en-streaming.tv|shink.in|shink.me|shon.xyz|simpson-en-streaming.com|sokrostream.cx|stream-island.ru|stream-island.su|streamingeur.com|thebadside.com|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.pe|torrent9.top|torrents9.cc|torrents9.org|torrents9.pe|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua|ultim-telechargementz.com|unblockall.org|unblocked.bid|unblocked.gold|unblocked.lol|unblocked.st|univers-animeiz.net|uppit.com|uskip.me|videoweed.com|videoweed.es|vidto.me|vidto.se|vidtod.me|vidtudu.com|voirfilm.ws|voirfilms.ws|www.t9.pe|youmoviz.org
+@@||cdn.jsdelivr.net^$script,domain=extratorrent.cd|full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv|vidlox.me|vidlox.tv
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=at.ua|biter.tv|bypassed.gold|bypassed.st|byter.tv|completvf.com|convertinmp4.com|cpmlink.net|dragon-ball-super-streaming.com|dragon-ball-super-streaming.org|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|fruitstreams.com|full-stream.ws|immunicity.gold|immunicity.st|mavanime.com|official-film-illimite.cc|official-film-illimite.net|oload.download|oload.info|oload.site|oload.stream|oload.tv|oload.win|openload.co|openload.io|ouo.io|ouo.press|pokemon-streaming.com|protect-stream.com|proxyportal.me|realtimetv.me|seriefr.eu|seriefr.xyz|series-en-streaming.tv|skytorrents.lol|streamango.com|streamcherry.com|streaming-boruto.com|streaming-dragon-ball-super.com|streamingeur.com|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua|unblockall.org|unblocked.bid|unblocked.gold|unblocked.lol|unblocked.st|univers-animeiz.net|urlst.me|voirfilm.ws|voirfilms.ws
 @@||www.google.com/recaptcha/$subdocument
 !
