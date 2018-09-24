@@ -9375,7 +9375,6 @@ $stylesheet,third-party,domain=kissanime.ru
 ||voirfilms.ws/jscripts/
 ! series-en-streaming.tv
 @@||flashx.tv/embed-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
-@@||netdna.bootstrapcdn.com^$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||openload.co/embed/$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||speedvid.co/embed-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||speedvid.co/sn-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
@@ -9385,7 +9384,6 @@ $stylesheet,third-party,domain=kissanime.ru
 |https://$image,ping,script,subdocument,third-party,xmlhttprequest,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 ! simpson-en-streaming.com
 .club^$domain=simpson-en-streaming.com
-@@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=simpson-en-streaming.com
 |http://$script,third-party,domain=simpson-en-streaming.com
 |https://$script,third-party,domain=simpson-en-streaming.com
 ! filmsvostfr.cc
@@ -9428,7 +9426,6 @@ $stylesheet,third-party,domain=kissanime.ru
 .png$domain=cpasbien.top|cpasbien9.net|cpasbiens.net|cpasbienss.net|lecpasbien.com
 /cdn-cgi/*$domain=cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpasbien.pro|cpasbien9.net|cpasbiens.cc|cpasbiens.net|gktorrent.netcpabien.ch|gktorrent.org|lecpasbien.com|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.me|torrent9.pe|torrent9.top|torrent9.tv|torrent9.ws|torrents9.cc|torrents9.org|torrents9.pe|torrents9.tv|www.t9.pe
 /default/*$script,domain=cpabien.io|cpasbiens.cc|gktorrent.net|gktorrent.org
-@@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=cpabien.ch|cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpasbien.pro|cpasbien9.net|cpasbiens.cc|cpasbiens.net|gktorrent.net|gktorrent.org|lecpasbien.com|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.pe|torrent9.top|torrents9.cc|torrents9.org|torrents9.pe|www.t9.pe
 |http://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpabien.xyz|cpasbien.io|cpasbien.pro|cpasbien9.net|cpasbiens.cc|cpasbiens.net|gktorrent.net|gktorrent.org|lecpasbien.com|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.me|torrent9.pe|torrent9.top|torrent9.tv|torrent9.ws|torrents9.cc|torrents9.org|torrents9.pe|torrents9.tv|www.t9.pe
 |https://$popup,script,subdocument,third-party,xmlhttprequest,domain=cpabien.ch|cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpabien.xyz|cpasbien.io|cpasbien.pro|cpasbien9.net|cpasbiens.cc|cpasbiens.net|gktorrent.net|gktorrent.org|lecpasbien.com|mania-torrent.ws|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.me|torrent9.pe|torrent9.top|torrent9.tv|torrent9.ws|torrents9.cc|torrents9.org|torrents9.pe|torrents9.tv|www.t9.pe
 ! nextorrent
@@ -9480,7 +9477,6 @@ $stylesheet,third-party,domain=kissanime.ru
 |https://$script,third-party,domain=animedigitalnetwork.fr
 ! protect-stream.com
 @@||content.jwplatform.com/libraries/$script,domain=protect-stream.com
-@@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=protect-stream.com
 |http://$script,third-party,xmlhttprequest,domain=protect-stream.com
 |https://$script,third-party,xmlhttprequest,domain=protect-stream.com
 ! telecharger-jeuxpc.com
@@ -9615,14 +9611,12 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 |http://$script,third-party,xmlhttprequest,domain=ebookdz.com
 |https://$script,third-party,xmlhttprequest,domain=ebookdz.com
 ! streamingvf1.com
-@@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=streamingvf1.com
 |http://$script,third-party,domain=streamingvf1.com
 |https://$script,third-party,domain=streamingvf1.com
 ! filmstreamvk.net
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmstreamvk.ws|filmstreamvk1.net
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmstreamvk.ws|filmstreamvk1.net
 ! filmzenstream.com
-@@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=completvf.com|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|official-film-illimite.cc|official-film-illimite.net
 |http://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|official-film-illimite.cc|official-film-illimite.net
 |https://$script,third-party,xmlhttprequest,domain=completvf.com|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|official-film-illimite.cc|official-film-illimite.net
 ! stream4free.eu
@@ -9699,7 +9693,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 |http://$image,popup,script,third-party,xmlhttprequest,domain=showx.tech|up02.net|up05.pro|up07.me|up08.net|up09.com
 |https://$image,popup,script,third-party,xmlhttprequest,domain=showx.tech|up02.net|up05.pro|up07.me|up08.net|up09.com
 ! uploads.to
-@@||netdna.bootstrapcdn.com/bootstrap/$script,domain=uploads.to
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=uploads.to
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=uploads.to
 ! uppit.com
@@ -9781,7 +9774,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 @@||api.peer5.com^$script,domain=vidlox.me|vidlox.tv
 @@||cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/$script,domain=vidlox.me|vidlox.tv
 @@||dnjs.cloudflare.com/ajax/libs/$script,domain=vidlox.me|vidlox.tv
-@@||maxcdn.bootstrapcdn.com/bootstrap/$script,stylesheet,domain=vidlox.me|vidlox.tv
 @@||vidlox.me/bootstrap.js|$script,domain=vidlox.tv
 @@||vidlox.me^$stylesheet,domain=vidlox.tv
 @@||vidlox.tv/hls/$xmlhttprequest,domain=vidlox.me
@@ -9822,7 +9814,6 @@ fruitadblock.net,fruitstreams.com,oload.download,oload.info,oload.site,oload.str
 |http://$script,third-party,domain=whostreams.net
 |https://$script,third-party,domain=whostreams.net
 ! direct-torrents.com
-@@||netdna.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=direct-torrents.com
 |http://$script,third-party,xmlhttprequest,domain=direct-torrents.com
 |https://$script,third-party,xmlhttprequest,domain=direct-torrents.com
 ||derperd.com^$domain=direct-torrents.com
@@ -10081,11 +10072,9 @@ $websocket,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|ifp.re|ifpx.xyz|ifrp.xyz|mp3fre
 |https://$script,subdocument,third-party,domain=uskip.me
 ! al.ly
 @@||ally.sh/static/js/jquery.min.js$script,domain=al.ly
-@@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=al.ly|ally.sh
 |http://$script,subdocument,third-party,domain=al.ly|ally.sh
 |https://$script,subdocument,third-party,domain=al.ly|ally.sh
 ! 2giga.link
-@@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=2giga.link
 @@||vjs.zencdn.net^$script,domain=2giga.link
 |http://$script,subdocument,third-party,domain=2giga.link
 |https://$script,subdocument,third-party,domain=2giga.link
@@ -17255,7 +17244,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||api.dedipass.com^$script,subdocument,domain=uptobox.com
 @@||blueimp.github.io^$script,domain=uptobox.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=uptostream.com
-@@||maxcdn.bootstrapcdn.com^$script,domain=uptobox.com|uptostream.com
 @@||payment.allopass.com^*?$subdocument,domain=uptobox.com
 @@||secure-pay.us^*?$subdocument,domain=uptobox.com
 @@||uptobox.com/jquery-1.8.3.min.js$script,domain=uptostream.com
@@ -17280,6 +17268,8 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||cdn.jsdelivr.net^$script,domain=extratorrent.cd|full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv|vidlox.me|vidlox.tv
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=at.ua|biter.tv|bypassed.gold|bypassed.st|byter.tv|completvf.com|convertinmp4.com|cpmlink.net|dragon-ball-super-streaming.com|dragon-ball-super-streaming.org|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|fruitstreams.com|full-stream.ws|immunicity.gold|immunicity.st|mavanime.com|official-film-illimite.cc|official-film-illimite.net|oload.download|oload.info|oload.site|oload.stream|oload.tv|oload.win|openload.co|openload.io|ouo.io|ouo.press|pokemon-streaming.com|protect-stream.com|proxyportal.me|realtimetv.me|seriefr.eu|seriefr.xyz|series-en-streaming.tv|skytorrents.lol|streamango.com|streamcherry.com|streaming-boruto.com|streaming-dragon-ball-super.com|streamingeur.com|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua|unblockall.org|unblocked.bid|unblocked.gold|unblocked.lol|unblocked.st|univers-animeiz.net|urlst.me|voirfilm.ws|voirfilms.ws
 @@||code.jquery.com^$script,domain=2giga.link|bypassed.gold|bypassed.st|embed.komatv.com|extratorrent.cd|flowyourvideo.com|full-anime.com|full-film.me|full-serie.co|full-serie.ws|full-stream.io|full-stream.nu|full-stream.su|full-stream.ws|immunicity.gold|immunicity.st|planet-streaming.com|protect-stream.com|proxyportal.me|seriefr.eu|seriefr.xyz|series-en-streaming.tv|streamin.to|torrentfunk.com|unblockall.org|unblocked.bid|unblocked.gold|unblocked.lol|unblocked.st
+@@||maxcdn.bootstrapcdn.com/bootstrap/$script,domain=2giga.link|al.ly|ally.sh|completvf.com|cpabien.ch|cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpasbien.pro|cpasbien9.net|cpasbiens.cc|cpasbiens.net|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|gktorrent.net|gktorrent.org|lecpasbien.com|mania-torrent.ws|official-film-illimite.cc|official-film-illimite.net|protect-stream.com|simpson-en-streaming.com|streamingvf1.com|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.pe|torrent9.top|torrents9.cc|torrents9.org|torrents9.pe|uptobox.com|uptostream.com|vidlox.me|vidlox.tv|www.t9.pe
+@@||netdna.bootstrapcdn.com/bootstrap/$script,domain=direct-torrents.com|full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv|uploads.to
 @@||www.google.com/recaptcha/$subdocument
 !
 !----------------------- Exceptions d'éléments -----------------------!
