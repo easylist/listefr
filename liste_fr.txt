@@ -2422,6 +2422,7 @@ digitalocean.gif|
 /backend_loader.$script
 /backend_loador.$script
 /bk_lder.php
+/ex_loader.js
 /exa/fron_
 /frond_der.js
 /frontend_loader.$script
@@ -12217,6 +12218,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ! CSP filters
 ||filmzenstream.online^$csp=frame-src 'self'
 ||japscan.cc^$csp=script-src 'none'
+||porndoe.com^$csp=img-src 'none' http: https:
 ||rapidvideo.com^$csp=script-src 'self'
 ! amazonaws.com
 /^https?:\/\/s3\.amazonaws\.com\/[0-9a-f]{50,65}\/((secure\.js|[0-9a-f]{10}))$/$script,xmlhttprequest
@@ -15972,6 +15974,7 @@ android-dz.com##.cb-sidebar-widget
 grosbill.com##.cda-iab
 akelys.com##.cellulePUB
 neowebcar.com##.cetelem
+porndoe.com##.channel-link
 dhnet.be,lalibre.be##.cinebelSmall
 yahoo.com##.classickick
 test-mobile.fr##.clickleft
@@ -16196,6 +16199,7 @@ gamekult.com##.mpubas-wrapper
 tchatche.com##.native-banner
 agroligne.com##.nbs-flexisel-container
 directvelo.com##.news-banner
+porndoe.com##.news-ticker-wrap
 tsa-algerie.com##.newsfeed__ooredoo
 ad4.fr##.nicebtn
 gameblog.fr##.noPremium
