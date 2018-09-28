@@ -1651,6 +1651,8 @@
 /previews/ads/*
 /pro_ad.
 /produs125x125.$third-party
+/promo-banner.$third-party
+/promo-banners/*$third-party
 /promo.*/ads/*
 /promo.*/banner/*
 /promo.*?partnerId=
@@ -3591,6 +3593,7 @@ debugger:$popup
 ||clicnscores.ma^$third-party
 ||cliipa.com^$third-party
 ||clintads.com^$third-party
+||clixco.in^$third-party
 ||clk100.com^$third-party
 ||clkcdn.com^$third-party
 ||clkmon.com^$third-party
