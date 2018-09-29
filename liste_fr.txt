@@ -2460,9 +2460,9 @@ _frontend_loader.$script
 /\.canal-plus\.net\.s0\.frz\.io\/image\/[\d]{2}\/[\d]{1}\/[\d]{6}\.jpg/$image
 /\.com\/[0-9a-z]{8}\.js#spot\=[0-9]{5}$/$script
 /\/[a-z]{1,3}\?zoneId\=\d{7}\-\d{7}$/$script
-/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|ovh|party|pro|pw|racing|review|rocks|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~myinterview.com|~webtorrent.io
-/^(http|https|ws|wss):\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|ovh|party|pro|pw|racing|review|rocks|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)\.\/(.*)/$script,third-party,websocket,xmlhttprequest
-/^https?:\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|ovh|party|pro|pw|racing|review|rocks|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)\/(.*)/$script,third-party
+/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|ovh|party|pro|pw|racing|review|rocks|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~myinterview.com|~webtorrent.io
+/^(http|https|ws|wss):\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|ovh|party|pro|pw|racing|review|rocks|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)\.\/(.*)/$script,third-party,websocket,xmlhttprequest
+/^https?:\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|ovh|party|pro|pw|racing|review|rocks|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)\/(.*)/$script,third-party
 /license\.\d{1,5}\.js/$script
 /script\.\d{1,4}\.js$/$script
 ! CDN filters
@@ -4797,7 +4797,7 @@ debugger:$popup
 ||pblv-scoop.cf^$~image,third-party
 ||pblv-scoop.tk^
 ! propellerads
-/^https?:\/\/[0-9a-z\-]+\.(com|bid|date|download|men|online|party|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[0-9]{1}\/[0-9]{7}\/\?var\=[0-9]{7}$/$popup,third-party
+/^https?:\/\/[0-9a-z\-]+\.(com|bid|date|download|men|network|online|party|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[0-9]{1}\/[0-9]{7}\/\?var\=[0-9]{7}$/$popup,third-party
 /^https?:\/\/[0-9a-z\-]+\.com\/[0-9]\/[0-9]{7}$/$popup,third-party
 /^https?:\/\/[0-9a-z\-]+\.com\/[0-9]{7}\.html\?q$/$popup,third-party
 ||0026645142c89aeb1.com^
@@ -5143,7 +5143,7 @@ debugger:$popup
 ||rationalan.pro^
 ||seceive.pro^
 ! MJPops
-/^https?:\/\/[0-9a-z]{5,25}\.(com|bid|date|download|men|online|party|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[a-z]\/[0-9a-f]{32}\.js\?id=[0-9]{6}$/$script,third-party
+/^https?:\/\/[0-9a-z]{5,25}\.(com|bid|date|download|men|network|online|party|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[a-z]\/[0-9a-f]{32}\.js\?id=[0-9]{6}$/$script,third-party
 ||s85n4btydl.online^
 ! admaven
 /^https?:\/\/(?!disqus\.)([a-z]+)\.(club|com|info|online|space|top)\/([0-9a-zA-Z\+\/]){400,460}/$subdocument,third-party,xmlhttprequest
@@ -6686,15 +6686,15 @@ debugger:$popup
 ||flophous.cf^$third-party
 ||flowplayer.space^
 ||flu.cc^$third-party
-||freecontent.bid^$third-party
-||freecontent.date^$third-party
-||freecontent.faith^$third-party
-||freecontent.loan^$third-party
-||freecontent.party^$third-party
-||freecontent.racing^$third-party
-||freecontent.science^$third-party
-||freecontent.trade^$third-party
-||freecontent.win^$third-party
+||freecontent.bid
+||freecontent.date
+||freecontent.faith
+||freecontent.loan
+||freecontent.party
+||freecontent.racing
+||freecontent.science
+||freecontent.trade
+||freecontent.win
 ||freshrefresher.com^$third-party
 ||g-content.bid^$third-party
 ||gasolina.ml^$third-party
@@ -6728,13 +6728,13 @@ debugger:$popup
 ||hodling.party^$third-party
 ||hodling.science^$third-party
 ||host.d-ns.ga^$third-party
-||hostingcloud.accountant^$third-party
-||hostingcloud.bid^$third-party
-||hostingcloud.date^$third-party
-||hostingcloud.download^$third-party
-||hostingcloud.faith^$third-party
-||hostingcloud.loan^$third-party
-||hostingcloud.science^$third-party
+||hostingcloud.accountant
+||hostingcloud.bid
+||hostingcloud.date
+||hostingcloud.download
+||hostingcloud.faith
+||hostingcloud.loan
+||hostingcloud.science
 ||httpp.gdn^
 ||hydesolo.tk^$third-party
 ||igg.biz^$third-party
@@ -6759,17 +6759,17 @@ debugger:$popup
 ||jsccnn.com^$third-party
 ||jscdndel.com^$third-party
 ||jsecoin.com^$third-party
-||jshosting.bid^$third-party
-||jshosting.date^$third-party
-||jshosting.download^$third-party
-||jshosting.loan^$third-party
-||jshosting.party^$third-party
-||jshosting.racing^$third-party
-||jshosting.review^$third-party
-||jshosting.stream^$third-party
-||jshosting.trade^$third-party
-||jshosting.win^$third-party
-||junopink.ml^$third-party
+||jshosting.bid
+||jshosting.date
+||jshosting.download
+||jshosting.loan
+||jshosting.party
+||jshosting.racing
+||jshosting.review
+||jshosting.stream
+||jshosting.trade
+||jshosting.win
+||junopink.ml
 ||jurty.ml^
 ||jurtym.cf^
 ||jyhfuqoh.info^$third-party
@@ -6946,6 +6946,7 @@ debugger:$popup
 ||wasm.stream
 ||wasm24.ru^$third-party
 ||webassembly.stream
+||webchain.network
 ||webmine.cz^$third-party
 ||webmine.pro^$third-party
 ||webminepool.com^$third-party
@@ -9726,6 +9727,9 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ! streame.net
 |http://$script,third-party,xmlhttprequest,domain=streame.net
 |https://$script,third-party,xmlhttprequest,domain=streame.net
+! wstream.video
+|http://$script,third-party,domain=wstream.video
+|https://$script,third-party,domain=wstream.video
 ! byter.tv
 @@||biter.tv/js/jwplayer/jwplayer.js$script,domain=biter.tv|byter.tv
 |http://$script,third-party,xmlhttprequest,domain=biter.tv|byter.tv
