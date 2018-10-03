@@ -5741,6 +5741,7 @@ debugger:$popup
 ||epi0tzwi.com^
 ||epyrscuok.top^
 ||erufu7p.bid^
+||estcontentdelivery.info^
 ||eukmzfq.com^
 ||ewwdqba.com^
 ||ex71ahm.com^
@@ -5845,6 +5846,7 @@ debugger:$popup
 ||ihfm4ngx.top^
 ||ikoh6ie.top^
 ||ikwauek.com^
+||iloating.info^
 ||ilxhsgd.com^
 ||im2ss2ss.top^
 ||ip91wku2.com^
@@ -9514,8 +9516,8 @@ $stylesheet,third-party,domain=kissanime.ru
 |https://$script,third-party,xmlhttprequest,domain=macgames-download.com|pcgames-download.com|telecharger-jeuxpc.com
 ! zone-telechargement.ws
 @@/engine/classes/min/index.php?charset=$script,~third-party,domain=zone-telechargement1.org
-|http://$script,xmlhttprequest,domain=dl-protect.top|streamzt.com|zone-telechargement.pw|zone-telechargement.shop|zone-telechargement.top|zone-telechargement.world|zone-telechargement.ws|zone-telechargement1.com|zone-telechargement1.org|zone-telechargement1.top|zone-telechargement1.ws|zone-telechargement2.net
-|https://$script,xmlhttprequest,domain=dl-protect.top|streamzt.com|zone-telechargement.pw|zone-telechargement.shop|zone-telechargement.top|zone-telechargement.world|zone-telechargement.ws|zone-telechargement1.com|zone-telechargement1.org|zone-telechargement1.top|zone-telechargement1.ws|zone-telechargement2.net
+|http://$script,subdocument,xmlhttprequest,domain=dl-protect.top|streamzt.com|zone-telechargement.pw|zone-telechargement.shop|zone-telechargement.top|zone-telechargement.world|zone-telechargement.ws|zone-telechargement1.com|zone-telechargement1.org|zone-telechargement1.top|zone-telechargement1.ws|zone-telechargement2.net
+|https://$script,subdocument,xmlhttprequest,domain=dl-protect.top|streamzt.com|zone-telechargement.pw|zone-telechargement.shop|zone-telechargement.top|zone-telechargement.world|zone-telechargement.ws|zone-telechargement1.com|zone-telechargement1.org|zone-telechargement1.top|zone-telechargement1.ws|zone-telechargement2.net
 ! zone-telechargement.live
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=zone-telechargement.de|zone-telechargement.link|zone-telechargement.live|zone-telechargement.zone|zone-telechargement1.live|zone-telechargement1.zone
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=zone-telechargement.de|zone-telechargement.link|zone-telechargement.live|zone-telechargement.zone|zone-telechargement1.live|zone-telechargement1.zone
