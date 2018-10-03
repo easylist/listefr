@@ -8331,7 +8331,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||clicjeux.net/banniere.
 ||click-dz.com/img/$third-party
 ||click.alibaba.com^$subdocument
-||click.aliexpress.com^$popup,domain=~dealabs.com
+||click.aliexpress.com^$popup,domain=~aliexpress.com|~dealabs.com
 ||click.besprod.com^$popup
 ||clickbiz.fr/upload/ban/
 ||clickmylink.fr/bannieres/
