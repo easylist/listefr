@@ -9760,9 +9760,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ! streame.net
 |http://$script,third-party,xmlhttprequest,domain=streame.net
 |https://$script,third-party,xmlhttprequest,domain=streame.net
-! wstream.video
-|http://$script,third-party,domain=wstream.video
-|https://$script,third-party,domain=wstream.video
 ! byter.tv
 @@||biter.tv/js/jwplayer/jwplayer.js$script,domain=biter.tv|byter.tv
 |http://$script,third-party,xmlhttprequest,domain=biter.tv|byter.tv
