@@ -4831,6 +4831,7 @@ debugger:$popup
 ||118aa629a7968e75e.com^
 ||12648afd00d93.com^
 ||13895df59d98cc.com^
+||1431f15e2fe8ba0f1f2.com^
 ||153105c2f9564.com^
 ||165a7c15380874ef3.com^
 ||17105392a65.com^
@@ -4911,6 +4912,7 @@ debugger:$popup
 ||538b5d8f303be.com^
 ||5726303d87522d05.com^
 ||58b14921719ec.com^
+||58b291f917728a2.com^
 ||58bc692be74.com^
 ||5a1864d2f3213f61d.com^
 ||5ad954477413bdb77f.com^
@@ -5022,6 +5024,7 @@ debugger:$popup
 ||b9c73b037e8c27df5.com^
 ||ba199b90c3376f.com^
 ||baa2e174884c9c0460e.com^
+||bae093b2b20fde784.com^
 ||bb47d806f644cb2.com^
 ||bfe4e6d364be199.com^
 ||blukavsup.online^
@@ -5091,6 +5094,7 @@ debugger:$popup
 ||gleechood.com^
 ||guovdageaidnu.lol^
 ||h5yhthgdhsfgd.com^
+||hashalre.uk^
 ||hereonline.online^
 ||hyphenion.com^
 ||iz682noju02ye5.com^
@@ -5100,6 +5104,7 @@ debugger:$popup
 ||kautokeino.lol^
 ||kpc4jpbm.date^
 ||m73lae5cpmgrv38.com^
+||preferrain.com^
 ||preonesetro.com^
 ||promoltd.online^
 ||ptikeegno.com^
@@ -10168,6 +10173,9 @@ ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,ges
 ! short2win.com
 |http://$subdocument,third-party,domain=short2win.com|short2win.net
 |https://$subdocument,third-party,domain=short2win.com|short2win.net
+! era.ac
+|http://$script,subdocument,third-party,xmlhttprequest,domain=era.ac|ewa.ac
+|https://$script,subdocument,third-party,xmlhttprequest,domain=era.ac|ewa.ac
 ! admew.com
 |http://$script,third-party,domain=admew.com
 |https://$script,third-party,domain=admew.com
@@ -17299,7 +17307,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||petitions.wwf.fr/adserver2/$~third-party
 @@||prehome.solidarites.org/adserver2/$~third-party
 ! Liste blanche pour corriger le blocage strict
-@@||ajax.googleapis.com/ajax/libs/$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2ddl.ws|2giga.link|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|9xbuddy.com|9xlinks.net|al.ly|ally.sh|at.ua|auroravid.to|biter.tv|bitvid.sx|bypassed.gold|bypassed.st|byter.tv|cineiz.co|cloudtime.to|cloudy.ec|cocostreaming.co|completvf.com|cpabien.ch|cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpasbien.pro|cpasbien9.net|cpasbiens.cc|cpasbiens.net|daclips.com|daclips.in|datpiff.com|ddl-island.su|direct-torrents.com|divxme.com|divxstage.to|dl-protect1.com|dl-protecte.com|dl-protecte.org|downloadhub.cc|ed-protect.org|emule-island.ru|filmsvostfr.ws|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|flowyourvideo.com|frstreaming.co.uk|full-stream.ws|g5u.pw|gamestorrents.com|getsl.me|gktorrent.net|gktorrent.org|gnula.nu|gorillavid.in|gsurl.in|gsurl.me|heures.be|hours.be|immunicity.gold|immunicity.st|lecpasbien.com|lepetitlecteur.fr|lepetitmag.fr|liens-telechargement.com|likeupload.org|mangastreaming.eu|mania-torrent.ws|movpod.in|movshare.ag|movshare.net|nextorrent.site|nextorrent.tv|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|official-film-illimite.cc|official-film-illimite.net|openingstijdengids.nl|openingsurengids.be|ouo.io|ouo.press|pblv-plusbellelavie.fr|protect-lien.com|protect-stream.com|protect-zt.com|proxyportal.me|putstream.com|security-links.com|seriefr.eu|seriefr.xyz|series-en-streaming.tv|shink.in|shink.me|shon.xyz|simpson-en-streaming.com|sokrostream.cx|stream-island.ru|stream-island.su|streamingeur.com|thebadside.com|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.pe|torrent9.ph|torrent9.top|torrents9.cc|torrents9.org|torrents9.pe|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua|ultim-telechargementz.com|unblockall.org|unblocker.gdn|univers-animeiz.net|uppit.com|uskip.me|videoweed.com|videoweed.es|vidto.me|vidto.se|vidtod.me|vidtudu.com|voirfilm.ws|voirfilms.ws|www.t9.pe|youmoviz.org
+@@||ajax.googleapis.com/ajax/libs/$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2ddl.ws|2giga.link|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|9xbuddy.com|9xlinks.net|al.ly|ally.sh|at.ua|auroravid.to|biter.tv|bitvid.sx|bypassed.gold|bypassed.st|byter.tv|cineiz.co|cloudtime.to|cloudy.ec|cocostreaming.co|completvf.com|cpabien.ch|cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpasbien.pro|cpasbien9.net|cpasbiens.cc|cpasbiens.net|daclips.com|daclips.in|datpiff.com|ddl-island.su|direct-torrents.com|divxme.com|divxstage.to|dl-protect1.com|dl-protecte.com|dl-protecte.org|downloadhub.cc|ed-protect.org|emule-island.ru|ewa.ac|filmsvostfr.ws|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|flowyourvideo.com|frstreaming.co.uk|full-stream.ws|g5u.pw|gamestorrents.com|getsl.me|gktorrent.net|gktorrent.org|gnula.nu|gorillavid.in|gsurl.in|gsurl.me|heures.be|hours.be|immunicity.gold|immunicity.st|lecpasbien.com|lepetitlecteur.fr|lepetitmag.fr|liens-telechargement.com|likeupload.org|mangastreaming.eu|mania-torrent.ws|movpod.in|movshare.ag|movshare.net|nextorrent.site|nextorrent.tv|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|official-film-illimite.cc|official-film-illimite.net|openingstijdengids.nl|openingsurengids.be|ouo.io|ouo.press|pblv-plusbellelavie.fr|protect-lien.com|protect-stream.com|protect-zt.com|proxyportal.me|putstream.com|security-links.com|seriefr.eu|seriefr.xyz|series-en-streaming.tv|shink.in|shink.me|shon.xyz|simpson-en-streaming.com|sokrostream.cx|stream-island.ru|stream-island.su|streamingeur.com|thebadside.com|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.pe|torrent9.ph|torrent9.top|torrents9.cc|torrents9.org|torrents9.pe|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua|ultim-telechargementz.com|unblockall.org|unblocker.gdn|univers-animeiz.net|uppit.com|uskip.me|videoweed.com|videoweed.es|vidto.me|vidto.se|vidtod.me|vidtudu.com|voirfilm.ws|voirfilms.ws|www.t9.pe|youmoviz.org
 @@||api.peer5.com^$script,domain=vidlox.me|vidlox.tv
 @@||api.solvemedia.com/papi/$script,domain=short.pe
 @@||bootstrapcdn.com/bootstrap/$script,domain=2giga.link|al.ly|ally.sh|completvf.com|cpabien.ch|cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpasbien.pro|cpasbien9.net|cpasbiens.cc|cpasbiens.net|direct-torrents.com|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|full-stream.ws|gktorrent.net|gktorrent.org|lecpasbien.com|mania-torrent.ws|official-film-illimite.cc|official-film-illimite.net|protect-stream.com|seriefr.eu|seriefr.xyz|series-en-streaming.tv|simpson-en-streaming.com|streamingvf1.com|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.pe|torrent9.ph|torrent9.top|torrents9.cc|torrents9.org|torrents9.pe|uploads.to|uptobox.com|uptostream.com|vidlox.me|vidlox.tv|www.t9.pe
