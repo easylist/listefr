@@ -2296,6 +2296,7 @@ _468x60&
 _468X60v2.
 _480x250.
 _60x468_
+_648x60_
 _725_90.
 _728-x-90_
 _728x90pxl_
@@ -10798,8 +10799,9 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||e-tchat.net^*/partenaire/
 ||easyrencontre.com/promo
 ||echangedebannieres.fr/images/echange
-||echangedeclics.com/files/banners/
+||echangedeclics.com/files/ban
 ||echangedeclics.fr/echange.js
+||echangedeclics.fr/files/ban
 ||echangedeclics.fr/images/echange
 ||echangedeclics.fr/images/enligne.gif
 ||echoroukonline.com/sponsors2015/
@@ -12258,6 +12260,8 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||worldissmall.fr/*/uploads/partenaires/
 ||wp.com/www.algerie-focus.com/*/banner-
 ||wp.com/www.algerie-focus.com/wp-content/uploads/2017/05/Sans-titre-12.jpg
+||wp.com/www.echangedeclics.*/$image,script,domain=~echangedeclics.com|~echangedeclics.fr
+||wp.com/www.echangedeclics.*/files/ban
 ||x-lesbienne.com/data/$image
 ||x-lesbienne.com^$script
 ||x1337x.*/js/script
