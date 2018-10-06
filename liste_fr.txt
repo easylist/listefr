@@ -2613,6 +2613,7 @@ _frontend_loader.$script
 &exotracker=$popup
 &id_publisher=*&id_$popup
 &id_rotation=$popup
+&ip=*&zoneid=$popup
 &lfapaff_id=$popup
 &noexitctapop=$popup
 &nopop=$popup
@@ -2930,6 +2931,7 @@ _frontend_loader.$script
 ?affiliateid=*&tr4ck=$popup
 ?aid=*&dclid=$popup
 ?auction_id=*&zoneid=$popup
+?campid=*&zoneid=$popup
 ?cid=*&offer=pop&$popup
 ?cid=*&popeye=$popup
 ?clickid=*.adult.$popup
