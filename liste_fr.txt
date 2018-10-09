@@ -2629,8 +2629,10 @@ _frontend_loader.$script
 &pubid=*-panther&$popup
 &pubid=*.adult.*&$popup
 &publisherid=$popup
+&pubpoint=*&subid=$popup
 &pubref=*&utm_$popup,domain=~yaoota.com
 &pubsite=$popup
+&pubzone=*&subid=$popup
 &r=*&zoneid=$popup
 &redid=*&pop=$popup
 &rf=*&zoneid=$popup
@@ -7392,6 +7394,7 @@ debugger:$popup
 ||clk1013.com^$popup,third-party
 ||clksite.com^$popup,third-party
 ||clktrcking.com^$popup,third-party
+||clofferap.com^$popup
 ||clotraiam.website^$popup,third-party
 ||codeonclick.com^$popup,third-party
 ||coloredview.com^$popup,third-party
@@ -7577,6 +7580,7 @@ debugger:$popup
 ||immojio.net^$popup,third-party
 ||india-zed.com^$popup,third-party
 ||infojeu.com^$popup,third-party
+||informereng.com^$popup,third-party
 ||infoyours.info^$popup,third-party
 ||innovid.com^$popup,third-party
 ||instanceour.info^$popup,third-party
