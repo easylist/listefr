@@ -135,6 +135,7 @@
 -320px-250px.
 -320x480.
 -336x280.
+-466x208-
 -468-x-60-
 -468-x-60.
 -468v60.
@@ -951,6 +952,7 @@
 /affiliatesiamges/*
 /affiliation-mb.
 /affiliation_simple/*
+/affiliationbanner.
 /affiliationbanner/*
 /affilist-$third-party
 /affilitybanners.
@@ -11147,9 +11149,11 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||img.mrsexe.com/dating-gratuit.gif
 ||img.uefa.com/imgml/comp/ucl/sponsor/
 ||imgpeak.com/img/
+||immobilier.nc/images/cpi.jpg
 ||immobilier.nc/images/part_
+||immobilier.nc/medias_pubs/
 ||immobilier.nc^*.html$object,subdocument
-||immobilier.nc^*/MEDIAS_AGENCES/
+||immobilier.nc^*/medias_agences/
 ||impimg.free.fr/pubs/
 ||info-algerie.com/media/Polo-Sedan.jpg
 ||informatruc.com/ejs_
@@ -13401,6 +13405,8 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###pub_banniere_haute
 ###pub_banniere_medium
 ###pub_bas
+###pub_bas_droit
+###pub_bas_gauche
 ###pub_bottom
 ###pub_brique
 ###pub_carre
@@ -13457,6 +13463,8 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###pub_soonight
 ###pub_square
 ###pub_top
+###pub_top_droit
+###pub_top_gauche
 ###pub_ventre
 ###pub_voyage
 ###pubbanner
@@ -15537,8 +15545,11 @@ gameblog.fr###gb_megaban
 pagesjaunes.fr###goodDealsArea
 zero-complexe.com###google
 dsih.fr###hab
+immobilier.nc###hab_center
 bdgest.com,bedetheque.com###hab_click
 bdgest.com,bedetheque.com###hab_click_side
+immobilier.nc###hab_left
+immobilier.nc###hab_right
 banques-en-ligne.fr,bd-sanctuary.com,bioalaune.com,c8.fr,cine-sanctuary.com,comics-sanctuary.com,ffeminin.com,gamer-network.fr,lequipement.fr,letelegramme.fr,manga-sanctuary.com,nrj.fr###habillage
 leparking.fr###habillage-pub
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-right
@@ -15629,6 +15640,8 @@ ouedkniss.com###list-last-stores
 omgtorrent.bz,omgtorrent.cz###liste-des-fichiers
 a40ans.com,sexecine.com,streaming-hardcore.com###liste-webcams
 millenium.org###logo_droite
+nautisme.nc###logodroit
+nautisme.nc###logogauche
 centreimmo.com###logos-partenaires
 laposte.net###lpn_pub_main
 hellokids.com###mask
@@ -17069,6 +17082,7 @@ vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 jeux-porno.net##iframe[src]
 xstory-fr.com##iframe[style]
+nautisme.nc##iframe[style][data-src]
 developpez.net##iframe[width="300"][height="250"]
 developpez.net##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
