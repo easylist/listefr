@@ -9832,6 +9832,7 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ! fembed.com
 |http://$script,third-party,domain=fembed.com
 |https://$script,third-party,domain=fembed.com
+||fembed.com/revenue
 ! macupload.net
 |http://$script,third-party,xmlhttprequest,domain=macupload.net
 |https://$script,third-party,xmlhttprequest,domain=macupload.net
