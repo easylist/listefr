@@ -3800,6 +3800,7 @@ debugger:$popup
 ||expertweb.xyz^$third-party
 ||explorads.com^$third-party
 ||explorads^$third-party
+||expressusenet.site^$third-party
 ||extensionfactory.com^$third-party
 ||ezpopups.com^$third-party
 ||f5biz.biz^$third-party
@@ -7587,6 +7588,7 @@ debugger:$popup
 ||forcesdevente.ma^$popup,third-party
 ||formulawire.com^$popup,third-party
 ||freeadult.games^$popup,third-party
+||freeusenet.website^$popup,third-party
 ||frex.biz^$popup,third-party
 ||frstlead.com^$popup,third-party
 ||frstsrv.com^$popup,third-party
@@ -16816,7 +16818,9 @@ gamovideo.com##[id^="pu-"][style]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 movietube.live##[id^="video"] a
 filecrypt.cc##[onclick] img
+filecrypt.cc##[onmousedown]
 filecrypt.cc##[onmouseup]
+filecrypt.cc##[onsubmit]
 centrifuge-lemag.fr##[role="banner"] > #cb-logo-box
 amvtv.net##[style*="position: absolute; z-index: 99999"]
 boursorama.com##[style="width: 1000px; margin: 0px auto; min-width: 0px; min-height: 90px; display: block;"]
@@ -17131,6 +17135,7 @@ couverturefacebook.fr##div[style*="width:450px; height:670px;"]
 maxifoot.fr##div[style*="width:468px;"]
 livehost.fr##div[style*="width:728px"]
 tikiwin.com##div[style*="width:728px; height:90px;"]
+filecrypt.cc##div[style*="z-index:"]
 redlist-ultimate.be##div[style="display:none;"] + .block
 bloggif.com##div[style="float:left; text-align:center; margin-bottom:10px; width:370px; height:280px;"]
 photofunky.net##div[style="float:left; width:100%; clear:both; margin-bottom:10px; text-align:center; height:90px;"]
