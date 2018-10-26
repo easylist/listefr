@@ -8388,6 +8388,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||bitchvolley.com/ban/$third-party
 ||bite.ws^$image,third-party
 ||bitly.com/teraplayerplay$popup
+||bitly.com^$image,domain=korben.info
 ||bitport.io/assets/banners/
 ||bitvideo.club/promo/
 ||blablaland.com/pubosaure/
@@ -17114,6 +17115,7 @@ notebookcheck.biz##div[id] + div[class] > img:first-child
 akvideo.stream,vakarm.net##div[id][onclick][style]
 voyageforum.com##div[id][style="width: 850px; height: 127px; overflow: hidden; vertical-align: top;"]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
+korben.info##div[id^="alderaan-"]
 forumconstruire.com##div[id^="bloc_discussion_"] > :first-child + div
 fan2.fr,mcm.fr,melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,meltyxtrem.fr,virginradio.fr##div[id^="container_A2_"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr##div[id^="eShowPub"]
@@ -17252,6 +17254,7 @@ onvasortir.com,urbeez.com###pub_leaderboard
 iphonesoft.fr##.pub
 iphonetweak.fr##.pub-img
 iphonesoft.fr,iphonetweak.fr##.trc-content-sponsored
+korben.info#?#.alderaan-sous-article:-abp-has(span:-abp-contains(publicité))
 ! Filtres de propriété CSS pour Adblock Plus
 amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com#?#:-abp-properties(base64)
 amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com,senscritique.com,seriehentai.com#?#:-abp-properties(data:)
