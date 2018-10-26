@@ -9583,10 +9583,6 @@ $stylesheet,third-party,domain=kissanime.ru
 ! cineiz.org
 |http://$script,third-party,xmlhttprequest,domain=cineiz.co|cineiz.org
 |https://$script,third-party,xmlhttprequest,domain=cineiz.co|cineiz.org
-! ultim-telechargementz.com
-|http://$script,subdocument,third-party,xmlhttprequest,domain=ultim-telechargementz.com
-|https://$script,subdocument,third-party,xmlhttprequest,domain=ultim-telechargementz.com
-||ultim-telechargementz.com/images/play.png
 ! gnula.nu
 |http://$script,stylesheet,third-party,domain=gnula.nu
 |https://$script,stylesheet,third-party,domain=gnula.nu
@@ -15498,7 +15494,7 @@ cdmail.fr###bandeau
 les-terrains.com###bandeauBas
 kairn.com###bandeauTheme > .video
 priceminister.com###bandeau_premium
-blogger-au-bout-du-doigt.blogspot.com,boursier.com,embedtvseries.com,htmlforums.com,lesaffaires.com,maliweb.net,nrj.fr,ultim-telechargementz.com###banner
+blogger-au-bout-du-doigt.blogspot.com,boursier.com,embedtvseries.com,htmlforums.com,lesaffaires.com,maliweb.net,nrj.fr###banner
 football.fr,sports.fr###banner-full
 cpabien.cm,cpabien.io,cpabien.xyz,cpasbien.io,cpasbien9.net,cpasbiens.cc,gktorrent.net,gktorrent.org,hitradio.ma,lecpasbien.com###banner2
 jeuxdelajungle.fr###bannerGameSkyscraperRight
@@ -16387,7 +16383,6 @@ laptopspirit.fr,prix-portables.fr##.lien_habillage
 cine-media.fr##.lienbackground
 foot01.com##.lig
 trackitonline.org,trackitonline.ru##.liketable
-ultim-telechargementz.com##.line + .padding > [style] a > img
 pagesjaunes.fr##.linkPushEmbauche
 mavieencouleurs.fr##.list-brands-carousel
 lequipement.fr##.listepartenairecomplete
@@ -17059,7 +17054,7 @@ extreme-d0wn.com##a[id]
 savefrom.net##a[id][href][target][style]
 degrouptest.com##a[onclick*="/resultspage/"]
 lien-torrent.com##a[onclick*="directlinks"]
-chgdh.xyz,ckgjsq.xyz,cpxkf.xyz,dl-protect1.com,dl-protecte.com,dl-protecte.org,filerio.in,free-telechargement.co,ifp.re,ifpx.xyz,ifrp.xyz,libertyvf.com,libertyvf.net,liens-telechargement.com,mp3free.pw,planet-series.co,protect-iframe.com,protect-lien.com,protect-zt.com,protecte-link.com,prtsh.xyz,speedvid.co,speedvid.net,ultim-telechargementz.com,wawacity.ec##a[onclick]
+chgdh.xyz,ckgjsq.xyz,cpxkf.xyz,dl-protect1.com,dl-protecte.com,dl-protecte.org,filerio.in,free-telechargement.co,ifp.re,ifpx.xyz,ifrp.xyz,libertyvf.com,libertyvf.net,liens-telechargement.com,mp3free.pw,planet-series.co,protect-iframe.com,protect-lien.com,protect-zt.com,protecte-link.com,prtsh.xyz,speedvid.co,speedvid.net,wawacity.ec##a[onclick]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
 lenouveleconomiste.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage',"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
@@ -17475,7 +17470,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||petitions.wwf.fr/adserver2/$~third-party
 @@||prehome.solidarites.org/adserver2/$~third-party
 ! Liste blanche pour corriger le blocage strict
-@@||ajax.googleapis.com/ajax/libs/$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2ddl.ws|2giga.link|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9anime.to|9nowvideo.com|9xbuddy.com|9xlinks.net|al.ly|ally.sh|at.ua|auroravid.to|biter.tv|bitvid.sx|bypassed.gold|bypassed.st|byter.tv|cineiz.co|cloudtime.to|cloudy.ec|cocostreaming.co|completvf.com|cpabien.ch|cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpasbien.pro|cpasbien9.net|cpasbiens.cc|daclips.com|daclips.in|datpiff.com|ddl-island.su|direct-torrents.com|divxme.com|divxstage.to|dl-protect1.com|dl-protecte.com|dl-protecte.org|downloadhub.cc|ed-protect.org|emule-island.ru|ewa.ac|filmsvostfr.ws|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|flowyourvideo.com|frstreaming.co.uk|full-stream.ws|g5u.pw|gamestorrents.com|getsl.me|gktorrent.net|gktorrent.org|gnula.nu|gorillavid.in|gsurl.in|gsurl.me|heures.be|hours.be|immunicity.gold|immunicity.st|lecpasbien.com|lepetitlecteur.fr|lepetitmag.fr|liens-telechargement.com|likeupload.org|mangastreaming.eu|mania-torrent.ws|movpod.in|movshare.ag|movshare.net|nextorrent.site|nextorrent.tv|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|official-film-illimite.cc|official-film-illimite.net|openingstijdengids.nl|openingsurengids.be|ouo.io|ouo.press|protect-lien.com|protect-stream.com|protect-zt.com|proxyportal.me|putstream.com|security-links.com|seriefr.eu|seriefr.xyz|series-en-streaming.tv|shink.in|shink.me|shon.xyz|simpson-en-streaming.com|sokrostream.cx|stream-island.ru|stream-island.su|streamingeur.com|thebadside.com|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.pe|torrent9.ph|torrent9.top|torrents9.cc|torrents9.org|torrents9.pe|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua|ultim-telechargementz.com|unblockall.org|unblocker.gdn|univers-animeiz.net|uppit.com|uskip.me|videoweed.com|videoweed.es|vidto.me|vidto.se|vidtod.me|vidtudu.com|voirfilm.ws|voirfilms.ws|www.t9.pe|youmoviz.org
+@@||ajax.googleapis.com/ajax/libs/$script,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2ddl.ws|2giga.link|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9anime.to|9nowvideo.com|9xbuddy.com|9xlinks.net|al.ly|ally.sh|at.ua|auroravid.to|biter.tv|bitvid.sx|bypassed.gold|bypassed.st|byter.tv|cineiz.co|cloudtime.to|cloudy.ec|cocostreaming.co|completvf.com|cpabien.ch|cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpasbien.pro|cpasbien9.net|cpasbiens.cc|daclips.com|daclips.in|datpiff.com|ddl-island.su|direct-torrents.com|divxme.com|divxstage.to|dl-protect1.com|dl-protecte.com|dl-protecte.org|downloadhub.cc|ed-protect.org|emule-island.ru|ewa.ac|filmsvostfr.ws|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|flowyourvideo.com|frstreaming.co.uk|full-stream.ws|g5u.pw|gamestorrents.com|getsl.me|gktorrent.net|gktorrent.org|gnula.nu|gorillavid.in|gsurl.in|gsurl.me|heures.be|hours.be|immunicity.gold|immunicity.st|lecpasbien.com|lepetitlecteur.fr|lepetitmag.fr|liens-telechargement.com|likeupload.org|mangastreaming.eu|mania-torrent.ws|movpod.in|movshare.ag|movshare.net|nextorrent.site|nextorrent.tv|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|official-film-illimite.cc|official-film-illimite.net|openingstijdengids.nl|openingsurengids.be|ouo.io|ouo.press|protect-lien.com|protect-stream.com|protect-zt.com|proxyportal.me|putstream.com|security-links.com|seriefr.eu|seriefr.xyz|series-en-streaming.tv|shink.in|shink.me|shon.xyz|simpson-en-streaming.com|sokrostream.cx|stream-island.ru|stream-island.su|streamingeur.com|thebadside.com|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.pe|torrent9.ph|torrent9.top|torrents9.cc|torrents9.org|torrents9.pe|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua|unblockall.org|unblocker.gdn|univers-animeiz.net|uppit.com|uskip.me|videoweed.com|videoweed.es|vidto.me|vidto.se|vidtod.me|vidtudu.com|voirfilm.ws|voirfilms.ws|www.t9.pe|youmoviz.org
 @@||api.peer5.com^$script,domain=vidlox.me|vidlox.tv
 @@||api.solvemedia.com/papi/$script,domain=short.pe
 @@||bootstrapcdn.com/bootstrap/$script,domain=2giga.link|al.ly|ally.sh|completvf.com|cpabien.ch|cpabien.cm|cpabien.co|cpabien.cx|cpabien.io|cpabien.la|cpabien.tv|cpasbien.pro|cpasbien9.net|cpasbiens.cc|direct-torrents.com|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|full-stream.ws|gktorrent.net|gktorrent.org|lecpasbien.com|mania-torrent.ws|official-film-illimite.cc|official-film-illimite.net|protect-stream.com|seriefr.eu|seriefr.xyz|series-en-streaming.tv|simpson-en-streaming.com|streamingvf1.com|torrent9.biz|torrent9.bz|torrent9.cc|torrent9.ec|torrent9.info|torrent9.pe|torrent9.ph|torrent9.top|torrents9.cc|torrents9.org|torrents9.pe|uploads.to|uptobox.com|uptostream.com|vidlox.me|vidlox.tv|www.t9.pe
@@ -17714,7 +17709,6 @@ _blockadblock_
 @@||the-night-of-streaming.eu^$generichide
 @@||tout-debrid.net^$generichide
 @@||u2s.io^$generichide
-@@||ultim-telechargementz.com^$generichide
 @@||uploads.to^$generichide
 @@||uploadx.link^$generichide
 @@||urbeez.com^$generichide
