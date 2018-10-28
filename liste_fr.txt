@@ -9639,8 +9639,8 @@ $stylesheet,third-party,domain=kissanime.ru
 ! torrentfunk.com
 |http://$ping,script,subdocument,third-party,xmlhttprequest,domain=torrentfunk.com
 |https://$ping,script,subdocument,third-party,xmlhttprequest,domain=torrentfunk.com
-||torrentfunk.com/sw.js
-||torrentfunk.com^$subdocument,~third-party
+||torrentfunk.com/sw
+||torrentfunk.com^$subdocument
 ! rarbg.com
 /^https?:\/\/(www\.)?(dyncdn\.me|totalstatic\.com)\/static\/20\/js\/(?!(behavior2|comments2|rating2|scrollspy|jquery))(.*)/$script,domain=rarbg.com|rarbg.is|rarbg.to|rarbgaccess.org|rarbggo.org|rarbgmirror.com|rarbgmirror.org|rarbgmirror.xyz|rarbgproxy.org|rarbgprx.org|rarbgunblock.com
 |https://$script,~third-party,domain=rarbg.bypassed.org|rarbg.com|rarbg.is|rarbg.to|rarbgaccess.org|rarbggo.org|rarbgmirror.com|rarbgmirror.org|rarbgmirror.xyz|rarbgproxy.com|rarbgproxy.org|rarbgprx.org|rarbgunblock.com
@@ -16813,9 +16813,9 @@ guide-piscine.fr##[class^="regie_"]
 msn.com##[class^="stripecontaine"][data-section-id="stripe.store"]
 omgtorrent.bz,omgtorrent.cz##[class^="toro"]
 reverso.net##[class^="vda-"]
+torrentfunk.com##[class^="w"]
 bestream.tv##[class^="widget_aff_"]
 bestream.tv##[class^="widget_nq_"]
-torrentfunk.com##[class^="wrn"]
 jeu.fr##[data-fallback-type="image"]
 films-telecharger.eu##[data-hash]
 meteofrance.com##[href*=".xiti.com"] > img
