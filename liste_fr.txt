@@ -2032,6 +2032,7 @@
 /uponit.js
 /userfiles/ads/*
 /userfiles/banners/*
+/userlist?site_id=*&orientation=$third-party
 /v2/ads/*
 /v3/ads/*
 /vast.xml?key=
@@ -3584,6 +3585,7 @@ debugger:$popup
 ||caradisiac-publicite.com^$third-party
 ||caramec.com^$third-party
 ||carasexe.com^$third-party
+||carasexe.info^$third-party
 ||carpediem.fr^$third-party
 ||cash-manager.biz^$third-party
 ||cashpage.net^$third-party
@@ -8408,6 +8410,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||block.s*vesta.com^$script
 ||blogspot.com/*.gif$domain=mega-telechargement.com
 ||bon-reduc.com/pub/
+||bongacams.com/?bcs=$popup
 ||bonnedegaine.fr/wp-content/uploads/$image,third-party
 ||bookiblog.com/iframe*.
 ||booking.com/static/img/*_banners_
@@ -12029,7 +12032,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||sexeautop.com^$popup,~third-party
 ||sexecine.com/data/$image
 ||sexecine.com/image.php?src=*://
-||sexecine.com^$popup,~third-party
+||sexecine.com^$script
 ||sexefelin.com/images/*.gif
 ||sexeoptimal.com^
 ||sexgratuit.tv/tp/
@@ -15278,6 +15281,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##a[href^="http://lifeselector.com/game/listGames?"]
 ##a[href^="http://lp.ilividnewtab.com/"]
 ##a[href^="http://m.mobilerevenu.com/idw/"]
+##a[href^="http://media.r18.com/"]
 ##a[href^="http://mediadownloads.tk/"]
 ##a[href^="http://mytogolinks.com/?"]
 ##a[href^="http://nfbusty.com/tube/featured?"]
@@ -15352,6 +15356,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##a[href^="https://join.yanks.com/"]
 ##a[href^="https://jsecoin.com/o/?"]
 ##a[href^="https://media.r18.com/"]
+##a[href^="https://network.nutaku.net/"]
 ##a[href^="https://online-xxxmovies.com/?"]
 ##a[href^="https://ouicesoir.com/"]
 ##a[href^="https://oxhax.com/"]
