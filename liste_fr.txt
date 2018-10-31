@@ -914,6 +914,7 @@
 /adv_pi.
 /advcash.$domain=~advcash.com
 /adver_imgs/*
+/adver_link.
 /advert-serv.
 /advert/rota-
 /advertica-$third-party
@@ -15446,6 +15447,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##div[onclick*="/regiedeep.php?"]
 ##div[onerror="fuck_adblock()"]
 ##gwd-doubleclick
+##iframe[id^="ylt"][style][sandbox][width][height]
 ##iframe[name*="/adunblock_"]
 ##ins[data-ad-position]
 ##script[src^="http://www.pubdirecte.com/script/"]
@@ -16347,6 +16349,7 @@ envertetcontretous.fr##.halfpage
 avis-express.com##.header-banner
 medialot.fr##.header-sub
 geek-malin.fr##.header-widget-area
+peuple-vert.fr##.header__banner
 equirodi.be##.header_adv
 lexpress.fr##.header_content_edito
 vakarm.net##.header_logo + div > table tr > td > a[target="_blank"]
