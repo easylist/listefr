@@ -4280,6 +4280,7 @@ debugger:$popup
 ||play-asia.com^$third-party
 ||play4k.co^$third-party
 ||playglad.com^$third-party
+||plufdsb.com^$third-party
 ||pluginnetwork.net^$third-party
 ||plurielmediacenter.com^$third-party
 ||plusservicepartners.com^$third-party
@@ -7703,6 +7704,7 @@ debugger:$popup
 ||ipnyx.com^$popup,third-party
 ||ipsowrite.com^$popup,third-party
 ||irclick.net^$popup,third-party
+||irtyc.com^$popup,third-party
 ||isanalyze.com^$popup,third-party
 ||istri.it^$popup,third-party
 ||istric.com^$popup,third-party
@@ -7906,6 +7908,7 @@ debugger:$popup
 ||planniver.com^$popup,third-party
 ||play4k.co^$popup,third-party
 ||pleasewait.co^$popup,third-party
+||plufdsb.com^$popup,third-party
 ||plxnt.com^$popup,third-party
 ||poinary-haries.com^$popup,third-party
 ||pompetegain.com^$popup,third-party
@@ -10521,6 +10524,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||3dnatives.com/wp-content/uploads/offre
 ||3movs.com/ai/
 ||4top.in^$subdocument,~third-party
+||4tube.com/nyordo.js
 ||7sur7.be/references/
 ||9divx.org^$popup,~third-party
 ||a.f1g.fr/iframes/
@@ -15105,11 +15109,13 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##a[href*=".igraal.com/inscription?parrain="] > img
 ##a[href*=".intab.fun/"]
 ##a[href*=".intab.xyz/"]
+##a[href*=".irtyc.com/"]
 ##a[href*=".kfiopkln.com/"]
 ##a[href*=".morbitempus.com/"]
 ##a[href*=".oopt.fr"]
 ##a[href*=".ourtoolbar.com"]
 ##a[href*=".php?sp_promote="]
+##a[href*=".plufdsb.com/"
 ##a[href*=".pub2srv.com/"]
 ##a[href*=".rktch.com/"]
 ##a[href*=".shglegle.com/"]
