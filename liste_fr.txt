@@ -1354,6 +1354,7 @@
 /gestionpub/*
 /get.cgi?*=banner
 /get?*&ab=*&ref=$script,third-party,xmlhttprequest
+/get?pvt=*&ab=*&ref=
 /get_banniere.php?$subdocument
 /get_links_*&zone=
 /getAdCode&
@@ -10154,6 +10155,13 @@ thevid.net##.cban
 ! flowyourvideo.com
 |http://$ping,script,subdocument,third-party,xmlhttprequest,domain=flowyourvideo.com
 |https://$ping,script,subdocument,third-party,xmlhttprequest,domain=flowyourvideo.com
+! hdvid.tv
+$webrtc,websocket,domain=hdvid.life|hdvid.tv|hdvid.xyz|onvid.club|onvid.xyz
+/sw.js$domain=hdvid.life|hdvid.tv|hdvid.xyz|onvid.club|onvid.xyz
+|http://$script,subdocument,third-party,xmlhttprequest,domain=hdvid.life|hdvid.tv|hdvid.xyz|onvid.club|onvid.xyz
+|https://$script,subdocument,third-party,xmlhttprequest,domain=hdvid.life|hdvid.tv|hdvid.xyz|onvid.club|onvid.xyz
+||kalo.onvid.club^
+||kalo.onvid.xyz^
 ! nowvideo
 |http://$popup,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|divxstage.to|likeupload.org|movshare.ag|movshare.net|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.com|videoweed.es
 |https://$popup,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=10nowvideo.com|11nowvideo.com|12nowvideo.com|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|divxstage.to|likeupload.org|movshare.ag|movshare.net|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|videoweed.com|videoweed.es
