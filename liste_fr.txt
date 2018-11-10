@@ -17404,20 +17404,8 @@ facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-properti
 ||facebook.com/tr?id=$image
 ||facebook.net^*/fbevents.js$third-party
 ! Ligatus
-@@||admin.brightcove.com/js/api/SmartPlayerAPI.js$script,domain=lachainemeteo.com
-@@||admin.brightcove.com/js/BrightcoveExperiences.js$script,domain=lachainemeteo.com
-@@||players.brightcove.net/*_default/index.min.js$script,third-party,domain=lachainemeteo.com
-|http://$script,third-party,domain=aventure-apple.com|ioccasion.fr|lachainemeteo.com|macgeneration.com|refurbgeneration.com
 |http://$script,third-party,xmlhttprequest,domain=radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se
-|https://$script,third-party,domain=aventure-apple.com|ioccasion.fr|lachainemeteo.com|macgeneration.com|refurbgeneration.com
-||m.mcdn.fr/files/images/eiche/$image,domain=medisite.fr
-||m.mcdn.fr/files/images/heebrh/$image,domain=medisite.fr
-||m.mcdn.fr/files/images/indeed/$image,domain=medisite.fr
-||m.mcdn.fr/files/images/kgldmk/$image,domain=medisite.fr
-||m.mcdn.fr/files/images/mpowyd/$image,domain=medisite.fr
-||m.mcdn.fr/files/images/ubjvnp/$image,domain=medisite.fr
-||m.mcdn.fr^$subdocument
-||xiti.com^$domain=lachainemeteo.com
+|https://$script,third-party,xmlhttprequest,domain=radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se
 ! heures.be
 heures.be,hours.be,openingstijdengids.nl,openingsurengids.be###contentCntr + [id]
 heures.be,hours.be,openingstijdengids.nl,openingsurengids.be###leftCntr > div + [class]
