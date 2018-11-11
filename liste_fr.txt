@@ -2611,6 +2611,7 @@ _frontend_loader.$script
 ||porn/func.js
 ||pro^*=/$script,third-party
 ||pro^*?zoneId=
+||pw/?*&keyword=*_referrer=
 ||pw/sw.js
 ||rocks^*.php?z=$third-party
 ||ru/dbp/pre/*/*?$script,third-party
@@ -2733,6 +2734,7 @@ _frontend_loader.$script
 /ad.*/aff_$popup
 /ad/clk.$popup
 /ad/popup/*$popup
+/adblocker_detected.$popup
 /adcint/*$popup
 /adexchangelive.$popup
 /admac.$popup
@@ -5181,6 +5183,7 @@ debugger:$popup
 ||ff54d65dff71eb00.com^
 ||ffcbcbdb9448d11d502.site^
 ||fodstyj9.website^
+||getbonusnow3.com^
 ||glargoun.uk^
 ||gleechood.com^
 ||grafzen.com^
@@ -5195,6 +5198,7 @@ debugger:$popup
 ||kautokeino.lol^
 ||kpc4jpbm.date^
 ||loorooch.link^
+||mixology.pw^
 ||mobibiobi.com^
 ||oalrivax.top^
 ||orgalso.com^
