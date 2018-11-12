@@ -2595,7 +2595,7 @@ _frontend_loader.$script
 ||co^*?zoneId=
 ||com/js/*=.js?r=
 ||com/ntfc.php?p=*&r=$script,third-party
-||com/sw.js?$other,script,~third-party
+||com/sw.js?$other,script,~third-party,domain=~gearbest.com
 ||gdn^$script,third-party,xmlhttprequest
 ||gdn^*&campaign_id=$third-party
 ||gdn^*&impid=$third-party
