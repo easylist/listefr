@@ -13067,6 +13067,8 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###ads-728x90-I2
 ###ads-970x60-I1
 ###ads-980x
+###ads-content-bottom
+###ads-left
 ###ads-loader
 ###ads-marge-1
 ###ads-marge-2
@@ -13340,6 +13342,8 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###exoad
 ###external-floater-ad-wrap
 ###favoris_pub_ligatus
+###fecharads1-fx
+###fecharads2-fx
 ###firstpost_ad
 ###fixe_plugin
 ###fixed-ads
@@ -13835,6 +13839,8 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.Ads_1
 ##.Ads_2
 ##.After-body-ads
+##.AgAdCarousel_Container
+##.AgAdCarousel_LightBox
 ##.AlertPub
 ##.AlertPubInside
 ##.ArticleContent-advertising
@@ -13854,6 +13860,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.Sidebar-ad--300x600
 ##.Top-Ad
 ##.Video_Reklam
+##.WallPaperAd
 ##._ads_ch
 ##._meltypub
 ##.a4u_banner_js
@@ -13917,6 +13924,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.ad-theme-content
 ##.ad-title-megaban
 ##.ad-title-pave
+##.ad-top-offset
 ##.ad-toppage
 ##.ad-tray-728
 ##.ad-uber
@@ -13942,10 +13950,17 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.adSide1
 ##.adSpace1
 ##.adSpace2
+##.adSystem_ads
 ##.ad_970x90
+##.ad__content
+##.ad__contents
 ##.ad__remove
 ##.ad_column_wrapper
 ##.ad_content_wrapper
+##.ad_global_apos_noticias_capa
+##.ad_global_below_navbar
+##.ad_global_header
+##.ad_global_sidebar
 ##.ad_header_728x90
 ##.ad_hidden
 ##.ad_holder_text
@@ -14036,6 +14051,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.ads-entry
 ##.ads-f-left
 ##.ads-f-right
+##.ads-first
 ##.ads-fixed
 ##.ads-foot
 ##.ads-group
@@ -14312,6 +14328,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.bottom-ad-normal
 ##.bottom-adv
 ##.bottom-advertising
+##.bottom_ad_con
 ##.bottompub
 ##.box-advertisement-bottom
 ##.box-advertisement-top
@@ -14472,6 +14489,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.headerPub
 ##.header__leaderboard-ad
 ##.header_ad_3
+##.header_link_ads
 ##.header_pub
 ##.header_sponsors
 ##.header_top_ads
@@ -14587,6 +14605,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.node-publicite
 ##.nosub-side-ad
 ##.nosub-side-ad-pos
+##.null-ad
 ##.oas-ad-160-600
 ##.oas-ad-728-90
 ##.oas-ads-box
@@ -15020,6 +15039,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.stackcommerce-widget
 ##.stageAds
 ##.standard_adv_link
+##.sticky-ads
 ##.stm-ad-player
 ##.subimageAd
 ##.tab-reklam
@@ -15084,6 +15104,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.widget_om_ads
 ##.widget_publicite
 ##.widgetpub
+##.with-ad-top
 ##.wppasrotate
 ##.wrap-pub
 ##.wrapper-header-ad-slot
@@ -15499,6 +15520,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##div[class^="ad_200_"]
 ##div[class^="ad_468_"]
 ##div[class^="adsInfo_"]
+##div[class^="ads__ad_container"]
 ##div[class^="cards__card_ad-"]
 ##div[class^="div-gpt-ad"]
 ##div[class^="homepage-square-ad"]
@@ -15510,6 +15532,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##div[data-ligatus-container]
 ##div[data-pmdfp-display]
 ##div[data-pmdfp-format]
+##div[data-refadmob]
 ##div[data-sticky-ads]
 ##div[id$="textAdsBox"]
 ##div[id*="300x250_advertisement_"]
@@ -15536,6 +15559,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##div[id^="ipc-advert"]
 ##div[id^="pub-dfp-"]
 ##div[id^="sqweb_ad_control-"]
+##div[id^="yandex_ad"]
 ##div[onclick*="/regiedeep.php?"]
 ##div[onerror="fuck_adblock()"]
 ##gwd-doubleclick
