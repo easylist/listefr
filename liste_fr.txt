@@ -15191,6 +15191,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##a[href*=".adhoc4.com/"]
 ##a[href*=".adhoc4.net/"]
 ##a[href*=".adsbtrk.com/"]
+##a[href*=".adynsrvazg.com/"]
 ##a[href*=".an0n.bid/"]
 ##a[href*=".brucelead.com/"]
 ##a[href*=".chokoladsrv.net/"]
@@ -15558,6 +15559,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##div[id^="crt-"][style*="width:"]
 ##div[id^="div-adt-"]
 ##div[id^="divsda-"]
+##div[id^="exoNativeWidget"]
 ##div[id^="ezoic-pub-ad"]
 ##div[id^="ipc-advert"]
 ##div[id^="pub-dfp-"]
@@ -17469,6 +17471,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 ||kimcartoon.ac/scripts/$script
 ||kimcartoon.me/scripts/$script
 ||readcomiconline.to/thumbs/$script
+||readcomiconline.to/wp-includes/kimplayer.js
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
