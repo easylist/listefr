@@ -10030,6 +10030,9 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ! allvid.ch
 |http://$script,third-party,xmlhttprequest,domain=allvid.ch
 |https://$script,third-party,xmlhttprequest,domain=allvid.ch
+! vidshare.tv
+|http://$script,third-party,domain=vidshare.tv
+|https://$script,third-party,domain=vidshare.tv
 ! xdrive.cc
 |http://$script,stylesheet,third-party,domain=xdrive.cc
 |https://$script,stylesheet,third-party,domain=xdrive.cc
