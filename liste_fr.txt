@@ -462,6 +462,7 @@
 /468x60x4.
 /600-160-
 /600x60_
+/690x60.gif
 /720x90.
 /720x90_dfp.
 /728-90ban.
@@ -501,6 +502,8 @@
 /900x90_
 /920_ad_
 /920x90-
+/953x50.gif
+/953x60.gif
 /970-x-90-
 /970-x-90.
 /970x90.
@@ -603,6 +606,7 @@
 /ad_bottom_
 /ad_fr.
 /ad_frames/*
+/ad_js/*
 /ad_locations.
 /ad_middle_
 /ad_placements/*
@@ -891,6 +895,7 @@
 /adtube.
 /adUnblock.
 /adv.html
+/adv/*/1000x500_
 /adv/*/banner/*
 /adv/*?pid=
 /adv/*_468
@@ -11862,7 +11867,9 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||netiris.fr/imgs/wengo/
 ||nikopik.com/wp-content/uploads/*/Pub-JeuxRouille.png
 ||nikozen.fr/wasnap_
+||nintendo-master.com/fichiers/kelkoo_covers/
 ||nintendo-master.com/img/background/
+||nintendo-master.com/img/default/fullsize_
 ||niooz.fr^$subdocument
 ||niveales.com/media/habillage/
 ||notretemps.com/images/annonceurs/
@@ -13376,6 +13383,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###footerpubs
 ###for_ad
 ###fuck-adb-enabled
+###fullScreenAdBg
 ###game_leaderboard_container
 ###gbPub728bas
 ###general_subpub
@@ -16254,7 +16262,7 @@ paruvendu.fr##.auto2010_noprint
 lindependant.fr##.auto300X250
 reezocar.com##.autopromo-container
 buzzly.fr##.ayl-ad-article
-nintendo-master.com##.back_content > a
+nintendo-master.com##.back_content
 animedigitalnetwork.fr##.background-click
 bonplanphoto.fr,katibin.fr##.background-cover
 hdfever.fr##.background_clic
