@@ -1879,6 +1879,8 @@
 /r18/banner/*
 /r18728x90_
 /re.clame/*
+/reactAds-
+/reactAds.
 /reader/ads/*
 /redir-ad-
 /redirect/*?banner=
@@ -4647,6 +4649,7 @@ debugger:$popup
 ||tpcserve.com^$third-party
 ||tpctrust.com^$third-party
 ||tpedaech2017.fr^$third-party
+||tpmedia-reactads.com^$third-party
 ||tr553.com^$third-party
 ||track136.com^$third-party
 ||track2cash.com^$third-party
@@ -7752,6 +7755,7 @@ debugger:$popup
 ||howtosimplified.com^$popup,third-party
 ||hpmstr.com^$popup,third-party
 ||hrtya.com^$popup,third-party
+||hrtye.com^$popup,third-party
 ||humourgratuit.me^$popup,third-party
 ||hyperline88.com^$popup,third-party
 ||hyperpromote.com^$popup,third-party
@@ -13471,6 +13475,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###innerpub
 ###insidepage_ads
 ###j_ads
+###jasmine-ad-wrapper
 ###js-game-leaderboard-bottom
 ###jw_video_popup
 ###keep-ads
@@ -15250,12 +15255,14 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##a[href*=".egresspath.com"]
 ##a[href*=".get-media.co/"]
 ##a[href*=".hop.clickbank.net"] > img
+##a[href*=".hrtye.com/"]
 ##a[href*=".igraal.com/#parrain="] > img
 ##a[href*=".igraal.com/?parrain="] > img
 ##a[href*=".igraal.com/inscription?parrain="] > img
 ##a[href*=".intab.fun/"]
 ##a[href*=".intab.xyz/"]
 ##a[href*=".irtyc.com/"]
+##a[href*=".irtyf.com/"]
 ##a[href*=".kfiopkln.com/"]
 ##a[href*=".morbitempus.com/"]
 ##a[href*=".oopt.fr"]
