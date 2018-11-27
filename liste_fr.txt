@@ -10067,6 +10067,9 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ! uploads.to
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=uploads.to
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=uploads.to
+! 9xupload.me
+|http://$script,third-party,xmlhttprequest,domain=9xupload.me
+|https://$script,third-party,xmlhttprequest,domain=9xupload.me
 ! uppit.com
 @@||static.uppcdn.com^$image,script,domain=uppit.com
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=uppit.com
