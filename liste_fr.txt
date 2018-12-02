@@ -17586,15 +17586,6 @@ ifp.re,ifpx.xyz,ifrp.xyz,mp3free.pw,pandos2play.free.fr,piframe.tk,protect-strea
 pornhub.com,tube8.com,tube8.es,tube8.fr,xtube.com,xvideos.com,youjizz.com,youporn.com,youporngay.com#?#:-abp-properties(base64)
 pornhub.com,tube8.com,tube8.es,tube8.fr,xtube.com,xvideos.com,youjizz.com,youporn.com,youporngay.com#?#:-abp-properties(data:)
 pornhub.com,tube8.com,tube8.es,tube8.fr,xtube.com,xvideos.com,youjizz.com,youporn.com,youporngay.com#?#:-abp-properties(image/)
-radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(!important;)
-radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(cursor:)
-radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(display:)
-radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(inherit;)
-radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(pointer-events:)
-radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#:-abp-properties(position:)
-radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#[class][style]:-abp-contains(Anzeige)
-radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#[id][style]:-abp-contains(Anzeige)
-radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#?#[id][style]:-abp-has(img)
 businessinsider.fr#?##related-post-:-abp-has(a[href*="/contenu-sponsorise"])
 ! facebook.com
 facebook.com#?#.userContentWrapper:-abp-contains(Sponsorisé)
@@ -17604,9 +17595,6 @@ facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-properti
 ||facebook.com/fr/u.php?
 ||facebook.com/tr?id=$image
 ||facebook.net^*/fbevents.js$third-party
-! Ligatus
-|http://$script,third-party,xmlhttprequest,domain=radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se
-|https://$script,third-party,xmlhttprequest,domain=radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se
 ! heures.be
 heures.be,hours.be,openingstijdengids.nl,openingsurengids.be###contentCntr + [id]
 heures.be,hours.be,openingstijdengids.nl,openingsurengids.be###leftCntr > div + [class]
