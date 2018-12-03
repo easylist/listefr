@@ -10422,6 +10422,7 @@ $websocket,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|ifp.re|ifpx.xyz|ifrp.xyz|mp3fre
 ||vidup.me^$subdocument,~third-party
 ||vidup.tv^$subdocument,~third-party
 ! vidto.me
+@@||vidtodo.com/css/$stylesheet,domain=vidstodo.me|vidto.me|vidto.se|vidtod.me|vidtudu.com
 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=vidstodo.me|vidto.me|vidto.se|vidtod.me|vidtodo.com|vidtudu.com
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=vidstodo.me|vidto.me|vidto.se|vidtod.me|vidtodo.com|vidtudu.com
 ||playe.vidto.
