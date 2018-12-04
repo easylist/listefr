@@ -10352,6 +10352,7 @@ thevid.net##.cban
 !|https://$script,third-party,domain=megawatch.net
 ! mystream.la
 @@||mystream.io/i/$image,domain=msembed.net|mystream.to
+@@||statics.msedge.network/embed.js$script,domain=embed.mystream.to
 @@||statics.mystream.to/embed.js$script,domain=msembed.net|mystream.io|mystream.to
 |http://$image,ping,script,subdocument,third-party,xmlhttprequest,domain=msembed.net|mystream.io|mystream.to
 |https://$image,ping,script,subdocument,third-party,xmlhttprequest,domain=msembed.net|mystream.io|mystream.to
