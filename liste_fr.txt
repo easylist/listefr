@@ -5208,6 +5208,7 @@ debugger:$popup
 ||fc9033ae4bac99b6e.com^
 ||fd84e9a464aec4387a.com^
 ||fe1025d555adb.com^
+||ferreddo.com^
 ||ff54d65dff71eb00.com^
 ||ffcbcbdb9448d11d502.site^
 ||fodstyj9.website^
@@ -5228,6 +5229,7 @@ debugger:$popup
 ||karasjok.lol^
 ||kautokeino.lol^
 ||kpc4jpbm.date^
+||loaphizu.com^
 ||loorooch.link^
 ||lovacmar.click^
 ||lzrikate.com^
@@ -5235,6 +5237,7 @@ debugger:$popup
 ||mobibiobi.com^
 ||oalrivax.top^
 ||orgalso.com^
+||otefauks.link^
 ||paujoawa.top^
 ||peltaush.click^
 ||pephirda.link^
@@ -8635,7 +8638,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||block.s*vesta.com^$script
 ||blogspot.com/*.gif$domain=mega-telechargement.com
 ||bon-reduc.com/pub/
-||boncoin-annonce.com/template/images/$third-paerty
+||boncoin-annonce.com/template/images/$third-party
 ||bongacams.com/?bcs=$popup
 ||bonnedegaine.fr/wp-content/uploads/$image,third-party
 ||bookiblog.com/iframe*.
@@ -8991,7 +8994,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||intelhits.com/promo/
 ||iosfull.com/anizan/$popup
 ||iptv-eu.com/banner/
-||iptv-iron.pro/uploads/$third-paerty
+||iptv-iron.pro/uploads/$third-party
 ||iris.ma/themes/maroc/img/pub/
 ||isafe.pro/img/$third-party
 ||ithreeweb.com/creationsiteweb.jpg
@@ -9926,8 +9929,10 @@ $stylesheet,third-party,domain=kissanime.ru
 ||zone-telechargement.*/cdn-cgi/pe/bag2?
 ||zone-telechargement1.*/cdn-cgi/pe/bag2?
 ! zone-telechargements.com
-|http://$script,stylesheet,third-party,xmlhttprequest,domain=annuaire-telechargement.com|zone-protect.com|zone-telechargements.com|zone-telechargements.ws
-|https://$script,stylesheet,third-party,xmlhttprequest,domain=annuaire-telechargement.com|zone-protect.com|zone-telechargements.com|zone-telechargements.ws
+@@||picup.co/di/$image,domain=annuaire-telechargement.com|zone-telechargements.com|zone-telechargements.ws
+@@||zone-image.com/uploads/$image,domain=annuaire-telechargement.com|zone-telechargements.com|zone-telechargements.ws
+|http://$image,script,stylesheet,third-party,xmlhttprequest,domain=annuaire-telechargement.com|zone-protect.com|zone-telechargements.com|zone-telechargements.ws
+|https://$image,script,stylesheet,third-party,xmlhttprequest,domain=annuaire-telechargement.com|zone-protect.com|zone-telechargements.com|zone-telechargements.ws
 ! wawacity.ec
 |http://$script,third-party,xmlhttprequest,domain=wawacity.ec
 |https://$script,third-party,xmlhttprequest,domain=wawacity.ec
@@ -17407,6 +17412,7 @@ yahoo.com##a[href^="https://beap.gemini.yahoo.com/"]
 frenchweb.fr##a[href^="https://experiences.microsoft.fr/"]
 lefigaro.fr##a[href^="https://go.babbel.com/"]
 appsystem.fr##a[href^="https://shop.appsystem.fr/"] > img
+annuaire-telechargement.com##a[href^="https://spyoff.com/"]
 dpstreaming.me##a[href^="https://wishopp.com/"]
 ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
 fdesouche.com##a[href^="https://www.amazon.fr/"]
