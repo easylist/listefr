@@ -8497,7 +8497,7 @@ $stylesheet,third-party,domain=kissanime.ru
 !
 .php$script,domain=filmcomplet.la|filmcomplet.tv|filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.io|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmstreamvk.top|filmstreamvk.ws|filmstreamvk1.net|filmsvf.org|filmvf.biz|filmvf.cc|filmvf.co|filmvf.tv|filmvf.ws|hdmoza.com|imgdrive.net|imgskull.com|planet-streaming.com|voirfilm.ws|voirfilms.ws
 /cdn-cgi/apps/head/*$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
-/sw.js$script,domain=1337x.st|1337x.to|x1337x.eu|x1337x.se|x1337x.ws
+/sw.js$script,domain=1337x.st|1337x.to|2shrink.com|adshorte.in|cll.press|downloadpirate.com|filescdn.net|hdvid.life|hdvid.tv|hdvid.xyz|intoupload.net|licensekey.net|onvid.club|onvid.online|onvid.pw|onvid.xyz|papstream.xyz|patchsoftwares.com|swatchseries.to|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|thevideo.website|upload4earn.org|vev.io|vidlox.me|vidlox.tv|vidup.io|vidup.me|vidup.tv|vosbooks.tv|x1337x.eu|x1337x.se|x1337x.ws|zippyshare.com
 /widgets.stackcommerce.com/*
 ||000webhost.com/migrate?$third-party
 ||1.bp.blogspot.com/-AEd6bgkmnCw/*/s1600/recrutement-freemobilesurf.jpg
@@ -9138,7 +9138,6 @@ $stylesheet,third-party,domain=kissanime.ru
 ||lh3.googleusercontent.com/$image,domain=forum.gsmhosting.com
 ||librarything.fr/jswidget.php?
 ||librateam.net/tds/$popup
-||licensekey.net/sw.js
 ||lien.lu^$popup,third-party
 ||liens-de-telechargement.com/data/img/site/ban_
 ||lightonline.fr/public/images/bans/
@@ -9330,7 +9329,6 @@ $stylesheet,third-party,domain=kissanime.ru
 ||paruvendu.fr^$subdocument,third-party
 ||passion-auto.me/pub.
 ||passion-auto.me/pub1.
-||patchsoftwares.com/sw.js
 ||pays4ever.com/bcode.php?
 ||pdv.juste-pour-un-soir.com^$popup
 ||peimg.fr/bannieres/
@@ -9584,7 +9582,6 @@ $stylesheet,third-party,domain=kissanime.ru
 ||surf7.net/files/images/banners/
 ||surfaddict.fr^*/images/surfaddict_
 ||surfeurdor.free.fr^
-||swatchseries.to/sw.js
 ||t.vptbn.com^$popup
 ||t5hkmjkmhfae.com^
 ||tac2.xcams.com/livecams/$third-party
@@ -9892,7 +9889,6 @@ $stylesheet,third-party,domain=kissanime.ru
 ! papstream.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=papstream.co|papstream.com|papstream.net|papstream.xyz
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=papstream.co|papstream.com|papstream.net|papstream.xyz
-||papstream.xyz/sw.js
 ! regarder-film-gratuit.eu
 |http://$script,third-party,xmlhttprequest,domain=regarder-film-gratuit.eu
 |https://$script,third-party,xmlhttprequest,domain=regarder-film-gratuit.eu
@@ -10165,11 +10161,9 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ! downloadpirate.com
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=downloadpirate.com
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=downloadpirate.com
-||downloadpirate.com/sw.js
 ! intoupload.net
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=intoupload.net
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=intoupload.net
-||intoupload.net/sw.js
 ! datpiff.com
 |http://$script,third-party,xmlhttprequest,domain=datpiff.com
 |https://$script,third-party,xmlhttprequest,domain=datpiff.com
@@ -10189,7 +10183,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ! filescdn.net
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=filescdn.net
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=filescdn.net
-||filescdn.net/sw.js
 ! file-upload.com
 |http://$script,third-party,xmlhttprequest,domain=file-upload.com
 |https://$script,third-party,xmlhttprequest,domain=file-upload.com
@@ -10213,7 +10206,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ! upload4earn.org
 |http://$script,subdocument,third-party,xmlhttprequest,domain=upload4earn.org
 |https://$script,subdocument,third-party,xmlhttprequest,domain=upload4earn.org
-||upload4earn.org/sw.js
 ! filescdn.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=filescdn.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=filescdn.com
@@ -10286,7 +10278,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=vidlox.me|vidlox.tv
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=vidlox.me|vidlox.tv
 ||vidlox.*/js/$xmlhttprequest
-||vidlox.*/sw.js
 ||vidlox.*/video/
 ! thevid.net
 thevid.net##.cban
@@ -10461,7 +10452,6 @@ thevid.net##.cban
 |https://$ping,script,subdocument,third-party,xmlhttprequest,domain=flowyourvideo.com
 ! hdvid.tv
 $webrtc,websocket,domain=hdvid.life|hdvid.tv|hdvid.xyz|onvid.club|onvid.online|onvid.pw|onvid.xyz
-/sw.js$domain=hdvid.life|hdvid.tv|hdvid.xyz|onvid.club|onvid.online|onvid.pw|onvid.xyz
 |http://$script,subdocument,third-party,xmlhttprequest,domain=hdvid.life|hdvid.tv|hdvid.xyz|onvid.club|onvid.online|onvid.pw|onvid.xyz
 |https://$script,subdocument,third-party,xmlhttprequest,domain=hdvid.life|hdvid.tv|hdvid.xyz|onvid.club|onvid.online|onvid.pw|onvid.xyz
 ||easy.onvid.pw^
@@ -10519,9 +10509,7 @@ $websocket,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|ifp.re|ifpx.xyz|ifrp.xyz|mp3fre
 |http://$script,subdocument,third-party,xmlhttprequest,domain=thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|thevideo.website|vev.io|vidup.io|vidup.me|vidup.tv
 |https://$script,subdocument,third-party,xmlhttprequest,domain=thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|thevideo.website|vev.io|vidup.io|vidup.me|vidup.tv
 ||thevideo.$subdocument,domain=thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|thevideo.website|vev.io|vidup.io|vidup.me|vidup.tv
-||vev.io/sw.js
 ||vev.io^$subdocument,~third-party
-||vidup.*/sw.js
 ||vidup.io^$subdocument,~third-party
 ||vidup.me^$subdocument,~third-party
 ||vidup.tv^$subdocument,~third-party
@@ -10573,11 +10561,9 @@ $websocket,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|ifp.re|ifpx.xyz|ifrp.xyz|mp3fre
 ! shorter.link
 |http://$script,subdocument,third-party,xmlhttprequest,domain=2shrink.com|shorter.link
 |https://$script,subdocument,third-party,xmlhttprequest,domain=2shrink.com|shorter.link
-||2shrink.com/sw.js
 ! cll.press
 |http://$script,subdocument,third-party,xmlhttprequest,domain=cll.press
 |https://$script,subdocument,third-party,xmlhttprequest,domain=cll.press
-||cll.press/sw.js
 ! adhit.me
 @@||adhit.me/js/ads.js$script,domain=adhit.me
 |http://$subdocument,third-party,domain=adhit.me
@@ -10619,7 +10605,6 @@ ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,ges
 ! adshorte.com
 |http://$script,subdocument,third-party,domain=adshorte.in
 |https://$script,subdocument,third-party,domain=adshorte.in
-||adshorte.in/sw.js
 ! urle.co
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=urle.co
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=urle.co
@@ -12695,7 +12680,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||vm.newupbusiness2.pw^
 ||vocable.fr/images/banners/bannieres/
 ||voidspace.org.uk/images/banners/
-||vosbooks.tv/sw.js
 ||vosfemmes.com^$script,subdocument
 ||votrepromo.com/pub-
 ||voxmakers.fr/partenaires/
@@ -12793,7 +12777,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||zestreaming.com/ban.jpg
 ||zikinf.com/_services/noab.php?
 ||zinfos974.com/docs/images/bandeau_
-||zippyshare.com/sw.js
 ||zone-numerique.com/pub/
 ||zone-telechargement.cc^$subdocument
 ||zone911.com/images/banners/
