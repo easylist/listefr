@@ -2647,6 +2647,7 @@ _frontend_loader.$script
 ||space^*?wkey=
 ||store/sw.js?$other,script,~third-party
 ||support/system_domain.js
+||tv/js/*=.js
 ||ws/exa/$script
 ||xxx/func.js
 ||xxx^*/banner-
@@ -9804,6 +9805,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||z51.biz/IBinnewz.aspx
 ||zdnet.com/mds/recommendation/
 ||zeusmangax.com/baniere/
+||zfemj.player.limpi.tv^
 ||ziimtube.com^$popup,domain=pornytude.com
 ||zinc7.cc/images/banners/
 ||zone-hot.com/thumblink.php?
