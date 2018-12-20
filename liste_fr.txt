@@ -10311,10 +10311,6 @@ thevid.net##.cban
 ||thevid.net/style/medio/
 ! vidzi.tv
 @@||static.vidzi.*/static/ads.js?$script,domain=vidzi.online|vidzi.si|vidzi.tv
-@@||static.vidzi.tv/jwplayer-$script,domain=vidzi.online|vidzi.si|vidzi.tv
-@@||vidzi.tv/hls2/$xmlhttprequest,domain=vidzi.online|vidzi.si|vidzi.tv
-|http://$third-party,xmlhttprequest,domain=vidzi.online|vidzi.si|vidzi.tv
-|https://$third-party,xmlhttprequest,domain=vidzi.online|vidzi.si|vidzi.tv
 ||sb.vidzi.
 ||vidzi.*.html$subdocument,~third-party
 ||vidzi.*/sb-
