@@ -214,7 +214,6 @@
 -bonus-Ad-
 -cgi/ads/
 -Content-ads-
--contrib-ads.
 -dfp_controller.
 -display-ads_
 -dx/adv_
@@ -361,7 +360,6 @@
 .pub.preroll/
 .pubdirecte.$domain=~pubdirecte.com
 .publicite.
-.pw/ads/
 .ru/ads.
 .ru/banner/$third-party
 .ru/banners/$third-party
@@ -382,7 +380,6 @@
 .xxx/pop/$script
 .xxx/pu/$script
 .xxx/uploads/banners/
-.xyz/ads/
 .xyz/js/ads/
 .zone^*?af_sub=
 /#ads|$subdocument
@@ -553,7 +550,6 @@
 /ad-rotator.
 /ad-script.
 /ad-scroll.js
-/ad-sidebar-
 /ad-sidebar.
 /ad.*&placement=
 /ad.*/ads.
@@ -619,7 +615,6 @@
 /adagioui-
 /adaptvInfo.
 /adb.php?tag=
-/adbet-
 /adbetnet.$domain=~adbetnet.com
 /adbkicker.
 /adblock.php
@@ -700,7 +695,6 @@
 /ads-ad-
 /ads-bubble.
 /ads-by.
-/ads-cch-
 /ads-ext.
 /ads-follow.
 /ads-google-adsense.
@@ -846,7 +840,6 @@
 /ads_video.
 /AdSale/*
 /adsatlas_
-/adsbyadsn.
 /adsbygoogle-
 /adsbypfmnt.
 /adsbyskyline.
@@ -897,7 +890,7 @@
 /adtictac.
 /adtube.
 /adUnblock.
-/adv.html
+/adv.htm
 /adv/*/1000x500_
 /adv/*/banner/*
 /adv/*?pid=
@@ -1003,7 +996,6 @@
 /assets/abpe-
 /assets/adf-
 /assets/adn-
-/assets/ads.
 /assets/padb-
 /async?*&tid=
 /atlads1/*
@@ -1271,7 +1263,6 @@
 /dfp-leaderboard.
 /dfp-rectangle.
 /dfp-skyscraper.
-/dfp.min.js
 /dfp/config/*
 /dfp/dfp.
 /dfp_ad/*
@@ -1624,7 +1615,6 @@
 /pdv/popup_
 /peaceandlove.php?zone
 /peelrotateur/*
-/persadpub/*
 /phantomPopunder.
 /phpbb_ads/*
 /player.*?adSetCode=
@@ -13390,7 +13380,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###ads_block_vertical
 ###ads_combo
 ###ads_combo1
-###ads_combo2
 ###ads_gigaban
 ###ads_last
 ###ads_search
@@ -13680,7 +13669,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###header-pub
 ###header-pub-banner
 ###header-pub-top
-###headerAd
 ###headerPub
 ###header_728x90_ad
 ###header_bloc2_pub
@@ -14026,7 +14014,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###pubsidebar
 ###pubtop
 ###quads-ad1
-###quads-ad1_widget
+###quads-ad2_widget
 ###quads-ad3
 ###quads-ad3_widget
 ###quads-ad4_widget
@@ -14102,7 +14090,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###tube_ad_wrap
 ###user18div
 ###vHeader-pub
-###video-side-adv
 ###videoOverAd
 ###videoOverAd300snd
 ###videoad
@@ -14112,10 +14099,8 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ###wb_Adtext2
 ###widget-pub-2
 ###widget-pub-3
-###windowads
 ###wrapper-pub
 ###wrapper_inread
-###yandex_ad
 ###zone-sponso
 ###zone_pub
 ###zone_pub1
@@ -14184,7 +14169,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.ad-banner-leboat
 ##.ad-boxpursuit
 ##.ad-container
-##.ad-container-pave
 ##.ad-dfp-generic-content
 ##.ad-flow
 ##.ad-halfpage
@@ -14230,7 +14214,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.ad-website
 ##.ad-wrapper-middle
 ##.ad-wrapper-right
-##.ad-wrapper-top
 ##.ad160b
 ##.ad300d
 ##.ad336b
@@ -14243,7 +14226,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.adBottom
 ##.adDisplay
 ##.adFootBox
-##.adFrameMobile
 ##.adSide1
 ##.adSpace1
 ##.adSpace2
@@ -14256,14 +14238,11 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.ad_content_wrapper
 ##.ad_global_apos_noticias_capa
 ##.ad_global_below_navbar
-##.ad_global_header
 ##.ad_global_sidebar
 ##.ad_header_728x90
 ##.ad_hidden
 ##.ad_holder_text
-##.ad_horizontal
 ##.ad_location
-##.ad_panorama_extra
 ##.ad_pause
 ##.ad_placholder
 ##.ad_sense
@@ -14296,7 +14275,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.adf_marketingbanner
 ##.adf_mpu
 ##.adflex
-##.adg-rects
 ##.adgear-container
 ##.admag-block
 ##.admid2
@@ -14437,7 +14415,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.adsense-ad-centered
 ##.adsense-ad-left
 ##.adsense-ad-right
-##.adsense-article
 ##.adsense-bottom
 ##.adsense-bottom-mob-tab
 ##.adsense-bottom-normal
@@ -14458,7 +14435,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.adshare_firstpost
 ##.adshare_lastpost
 ##.adsholder
-##.adskeeperWrap
 ##.adslot_bot_728x90
 ##.adslot_top_300x250
 ##.adsmovie
@@ -14470,7 +14446,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.adspromo
 ##.adsquare
 ##.adsunits
-##.adtechMobile
 ##.adtest-color
 ##.adtimes
 ##.adtitle728
@@ -14483,12 +14458,9 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.adv--float
 ##.adv-237
 ##.adv-center
-##.adv-header
 ##.adv-here
 ##.adv-holder
 ##.adv-inner
-##.adv-phone
-##.adv-phone-hp
 ##.adv120x600
 ##.adv160_600
 ##.adv160x600
@@ -14514,7 +14486,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.advert-under-hedaer2
 ##.advert-under-hedaer2-left
 ##.advert-under-hedaer2-right
-##.advertMpu
 ##.advertStd
 ##.advert_pos
 ##.advertisement-pub
@@ -14578,7 +14549,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.bg-adsense
 ##.bg_ads300x250
 ##.big-leaderboard
-##.big-rekl-holder
 ##.bigadbvert
 ##.bigadvert
 ##.bireklam
@@ -14621,12 +14591,10 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.block_small_pub
 ##.blocpub
 ##.blocpubbas
-##.bn_ads
 ##.border-box-ad
 ##.border_ads
 ##.bottom-ad-mob-tab
 ##.bottom-ad-normal
-##.bottom-adv
 ##.bottom-advertising
 ##.bottom_ad_con
 ##.bottompub
@@ -14814,7 +14782,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.in_stream_banner
 ##.in_up_ad-area
 ##.info_pop > a > img
-##.inline-panorama-ad
 ##.inpage-adspace
 ##.inplayer_banners
 ##.insertPadList
@@ -14829,7 +14796,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.item-pubb-728
 ##.itemlist-block-pub
 ##.job_ads_container
-##.jquery-adi
 ##.js-ads-imu-sticky
 ##.js_DivPublicityLateral
 ##.jt-poublicidadContainer
@@ -14940,7 +14906,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.paywall-widget-mosaic-ads
 ##.paywallAds
 ##.pjsleads
-##.player-ads2
 ##.player-adv
 ##.player-adx-block
 ##.player-pub
@@ -15230,7 +15195,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.pubwrapper
 ##.purple-ad
 ##.quads-ad1
-##.quads-ad1_widget
 ##.quads-ad2_widget
 ##.quads-ad3
 ##.quads-ad3_widget
@@ -15308,7 +15272,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.site-pub-top
 ##.skin_outer_ad
 ##.skyscraper-ad-2
-##.smartadtags_300250
 ##.smiliar_ads
 ##.snippet-publisher
 ##.soar-media-global
@@ -15352,7 +15315,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.tableAds
 ##.tag-adverline
 ##.tag-sponsored-content
-##.td-adspot-title
 ##.teaser-mpu
 ##.text_pub
 ##.texte_ads
@@ -15508,7 +15470,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##a[href*=".igraal.com/#parrain="] > img
 ##a[href*=".igraal.com/?parrain="] > img
 ##a[href*=".igraal.com/inscription?parrain="] > img
-##a[href*=".intab.fun/"]
 ##a[href*=".intab.xyz/"]
 ##a[href*=".irtyc.com/"]
 ##a[href*=".irtyf.com/"]
@@ -15789,7 +15750,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##a[href^="https://1xbet.sn/fr/?bf="] > img
 ##a[href^="https://ad.apps.fm/"]
 ##a[href^="https://admin.thrixxx.com/affiliates/"]
-##a[href^="https://ads.ad4game.com/"]
 ##a[href^="https://ads.regie24h00.com"]
 ##a[href^="https://adsrv4k.com/"]
 ##a[href^="https://bestapppro.com/"]
@@ -15877,7 +15837,6 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##div[id^="ipc-advert"]
 ##div[id^="pub-dfp-"]
 ##div[id^="sqweb_ad_control-"]
-##div[id^="yandex_ad"]
 ##div[onclick*="/regiedeep.php?"]
 ##div[onerror="fuck_adblock()"]
 ##gwd-doubleclick
@@ -18009,7 +17968,6 @@ wanimo.com#@#div[id^="div-gpt-ad-"]
 /deadblocker/*
 /fadb.min.js?
 /iptvantiad.
-/jquery.adi.
 /kill-adblock/*
 /modules/mod_jpayday/*
 /noadblock.
