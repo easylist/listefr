@@ -8977,7 +8977,6 @@ $stylesheet,third-party,domain=kissanime.ru
 ||geekyalgeria.com/wp-content/uploads/*-600x400-
 ||generation-nt.com/img/ovh/
 ||gerardmerinfo.fr/pub/
-||getcpm.com/devpoint.png
 ||getsl.me^$script,third-party
 ||getsurl.com^$script,third-party
 ||ggc.ninja^$subdocument
@@ -10559,9 +10558,6 @@ $websocket,domain=chgdh.xyz|ckgjsq.xyz|cpxkf.xyz|ifp.re|ifpx.xyz|ifrp.xyz|mp3fre
 ! urlst.me
 |http://$script,third-party,domain=urlst.me
 |https://$script,third-party,domain=urlst.me
-! getcpm.com
-|http://$subdocument,third-party,domain=getcpm.com
-|https://$subdocument,third-party,domain=getcpm.com
 ! gsurl.me
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=g5u.pw|getsl.me|gsurl.in|gsurl.me
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=g5u.pw|getsl.me|gsurl.in|gsurl.me
