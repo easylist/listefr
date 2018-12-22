@@ -1618,6 +1618,7 @@
 /peaceandlove.php?zone
 /peelrotateur/*
 /phantomPopunder.
+/phpadclick.
 /phpbb_ads/*
 /player.*?adSetCode=
 /player/jw/ad.js
@@ -2038,6 +2039,7 @@
 /totemtools/*
 /trackads.
 /traffic/?target=
+/trafic468.
 /travelAds.
 /ttn_adspaces
 /twitter-ads.
@@ -2740,6 +2742,7 @@ _frontend_loader.$script
 .loading-delivery2.$popup
 .php?a_aid=*&$popup
 .php?sp_promote=$popup
+.phpadclick.$popup
 .popunder.$popup
 .promorewards.$popup
 .superpromo.$popup
@@ -8716,6 +8719,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||annonce-et-promotion.com/images_site/
 ||annonces-automobile.com^$script,third-party
 ||annuaire-autosurf.com/banniere.gif
+||annuaire-autosurf.com^$image,third-party
 ||annuaire-energie-renouvelable.org/cssimg/site/$third-party
 ||annuaire-energie-renouvelable.org/logos/*-banner-
 ||annuaire-fille-sexy.com/ban/$third-party
@@ -11011,6 +11015,8 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||all-musculation.com^*/pub-fond/
 ||alldebrid.fr/lib/images/pub_
 ||allmetsat.com/data/pub/
+||alloref.com/images/cdp
+||alloref.com/images/maxdetrafic.gif
 ||allstream.fr/images/partenaires/
 ||alluc.ee^*/exo/
 ||alsacreations.com/pub/
