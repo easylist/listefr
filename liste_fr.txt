@@ -1001,6 +1001,7 @@
 /atlads1/*
 /autopromo.*/async|
 /autopromotion.*/async|
+/av/ads/*
 /ax/bnnr/*$script
 /b-1-468-$image
 /b.n.php?aid=
@@ -15434,6 +15435,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##[id^="sas_"][style*="width: 728px; height: 90px;"]
 ##[id^="show_ads_"]
 ##[id^="widget_pub-"]
+##[onclick*="//adserver.adtech.de/"]
 ##[onclick*="/rel/index.cfm?RST="]
 ##[onclick*="/rel/index.cfm?TAD="]
 ##[onclick*="FriendlyDuck.com/AF_"]
@@ -17558,7 +17560,6 @@ dsih.fr##div[id^="pub"]
 pagesjaunes.fr##div[id^="push"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 tfarjo.com##div[onclick]
-android-france.fr##div[onclick^="location.href='http://adserver.adtech.de/?adlink|"]
 gamalive.com##div[style$="width:300px;height:250px;"]
 echoroukonline.com##div[style$="width:468px;"]
 ma-reduc.com##div[style*="/ads/"]
