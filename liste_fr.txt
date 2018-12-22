@@ -2150,6 +2150,7 @@
 ://adlik2.
 ://adn.*/zone/
 ://ads-js.
+://ads-v-darwin.
 ://adsadmin.
 ://adscdn.
 ://adspaces.
@@ -8508,7 +8509,7 @@ $webrtc,domain=01torrent.net|123movies.net|123telugu.com|1337x.st|1337x.to|1fich
 !
 |blob:$domain=10nowvideo.com|11nowvideo.com|123movies.net|12nowvideo.com|1337x.st|1337x.to|13nowvideo.com|14nowvideo.com|1nowvideo.com|2nowvideo.com|3nowvideo.com|5nowvideo.com|6nowvideo.com|7nowvideo.com|8nowvideo.com|9nowvideo.com|bitvid.sx|bmovies.to|bypassed.gold|bypassed.in|bypassed.st|cloudtime.to|datpiff.com|divxstage.to|dp-stream.com|dpstream.net|dragon-ball-super-streaming.com|extratorrent.cd|fmovies.me|fmovies.se|freewarefiles.com|fruitadblock.net|fruithosts.net|fruitstreams.com|immunicity.gold|immunicity.st|immunicity.world|istreamin.com|japscan.cc|japscan.com|keepvid.com|kinogo.club|kinotochka.net|kshowonline.com|lavamovies.com|likeupload.org|movies123.ac|movies123.xyz|movshare.ag|movshare.net|mrunlock.icu|novamov.ag|novamov.com|nowdownload.ag|nowdownload.at|nowdownload.co|nowdownload.ec|nowdownload.eu|nowdownload.sc|nowdownload.to|nowvideo.ag|nowvideo.co|nowvideo.cz|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to|oload.cc|oload.fun|oload.info|oload.stream|oload.tv|primewire.ag|proxyportal.me|putlocker.io|seasonvar.ru|sokrostream.biz|sokrostream.cc|sokrostream.cx|sokrostream.tv|sokrostream.ws|streamango.com|streamdown.cc|streamdown.tv|streamgaroo.com|streaming-boruto.com|streaming-dragon-ball-super.com|thecountrycaller.com|unblockall.org|unblocked.bid|unblocked.gdn|unblocked.gold|unblocked.lol|unblocked.ms|unblocked.st|unblocked.wtf|unlockproj.cricket|videoweed.com|videoweed.es|videowood.tv|vidgg.to|vidwatch3.me|watchvideo.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|watchvideo5.us|x1337x.eu|x1337x.ws
 !
-$subdocument,third-party,domain=123telugu.com|1ink.cc|adbull.me|akvideo.stream|alltube.pl|alltube.tv|bc.vc|cut-link-earn.com|e-wok.tv|fas.li|gomovies.co|gomovies.es|likn.xyz|mon-horoscope-du-jour.com|multiup.eu|multiup.org|netiap.com|pss.pw|szukajka.tv|uii.io|vidcloud.co|vidgg.to|ya3ale.com
+$subdocument,third-party,domain=123telugu.com|1ink.cc|akvideo.stream|alltube.pl|alltube.tv|bc.vc|cut-link-earn.com|e-wok.tv|fas.li|gomovies.co|gomovies.es|likn.xyz|mon-horoscope-du-jour.com|multiup.eu|multiup.org|netiap.com|pss.pw|szukajka.tv|uii.io|vidcloud.co|vidgg.to|ya3ale.com
 !
 $xmlhttprequest,domain=adfreetv.ch|alltube.pl|alltube.tv|centrum-dramy.pl|collegehumor.com|ddmix.net|dekoder.ws|mycoolmoviez.mobi|nowvideo.sx|sorteosrd.com|streambeam.io|szukajka.tv|tainies.online|vidfile.net|vidgg.to|wholecloud.net
 !
@@ -10746,6 +10747,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||i.imgur.com/fUQmcN6.jpg
 ||i.imgur.com/GFNBdwT.png
 ||i.imgur.com/GuWFUeO.gif
+||i.imgur.com/gYmYWAn.png
 ||i.imgur.com/hlQy8be.png
 ||i.imgur.com/IgVXBhx.png
 ||i.imgur.com/jisFpHG.jpg
@@ -10864,6 +10866,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||ad.jeune-independant.net^
 ||ad.oujdacity.net^
 ||ad.referencement.01net.com^
+||adbull.*/js/prb.js
 ||adli.pw/campagnes/
 ||adlipay.com/webroot/referrals/
 ||adn.porndig.com^
@@ -17986,7 +17989,7 @@ _blockadblock_
 @@.png#$image,domain=4downfiles.org|dl-protect1.com|dl-protecte.com|dl-protecte.org|dpstream.cc|ebookdz.com|leetgamerz.net|likeup.fr|planet-series.co|protect-lien.com|protect-zt.com|protecte-link.com|pxstream.tv|radio-en-direct.fr|savefile.co|security-links.com|stream4free.top|tout-debrid.net|tout-gratuit.be|up-4ever.com|zone-torrent.net
 @@/adblock.js$script,~third-party,domain=anilinkz.to|jdubuzz.com|jeuxvideo.com|journaldugamer.com|pixelistes.com|streaming-foot.me
 @@/adframe.js$script,~third-party,domain=01streamingvf.ws|fas.li|shink.in|shink.me|tfarjo.ws
-@@/ads.js$script,~third-party,domain=2shrink.com|adbilty.me|adbull.me|adshort.co|adshort.im|adshort.me|adshorte.in|akorto.xyz|clik.pw|coinlink.co|coinlink.us|cuon.io|curs.io|cut-urls.com|cutly.win|cutwi.in|danpod.work|eues.io|euon.io|faucy.win|igram.im|kimo-link.com|linkkawy.com|lkky.co|manga-vf.fr|passetoncode.fr|psl.pw|short.pe|short2win.com|shortenow.com|szs.pw|tune.pk|u2s.io|zonebourse.com|zype.xyz
+@@/ads.js$script,~third-party,domain=2shrink.com|adbilty.me|adshort.co|adshort.im|adshort.me|adshorte.in|akorto.xyz|clik.pw|coinlink.co|coinlink.us|cuon.io|curs.io|cut-urls.com|cutly.win|cutwi.in|danpod.work|eues.io|euon.io|faucy.win|igram.im|kimo-link.com|linkkawy.com|lkky.co|manga-vf.fr|passetoncode.fr|psl.pw|short.pe|short2win.com|shortenow.com|szs.pw|tune.pk|u2s.io|zonebourse.com|zype.xyz
 @@/advertisement.js$script,domain=cdnfiles.e-wok.tv|chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghreb.space|mega-exclue.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
 @@/advertisement.js$script,~third-party,domain=cap-public.fr|coco.fr|crash-aerien.aero|crash-aerien.news|e-wok.tv|fiki.faucetfly.com|leveldown.fr|quoverbis.com
 @@/advertising.js$script,~third-party,domain=animedigitalnetwork.fr
@@ -18018,7 +18021,6 @@ _blockadblock_
 @@||wakanim.tv^*/video/advertisement?idepisode=
 !
 @@||4downfiles.org^$generichide
-@@||adbull.me^$generichide
 @@||adpop.cc^$generichide
 @@||adpop.me^$generichide
 @@||adyou.co^$generichide
