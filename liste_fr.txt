@@ -2052,6 +2052,7 @@
 /uploads/*/ads-
 /uploads/*/ads.
 /uponit.js
+/urlreplacer-fc.
 /userfiles/ads/*
 /userfiles/banners/*
 /userlist?site_id=*&orientation=$third-party
@@ -3912,6 +3913,7 @@ debugger:$popup
 ||gamingafftools.com^$third-party,domain=~gamesprite.me|~ggcorp.me
 ||gamingskin.com^$third-party
 ||gateads.co^$third-party
+||gbnet.link^$third-party
 ||gdfspfg.com^$third-party
 ||genhit.com^$third-party
 ||geniusinstaller.com^$third-party
@@ -7986,6 +7988,7 @@ debugger:$popup
 ||gamingafftools.com^$popup,third-party
 ||gamingskin.com^$popup,third-party
 ||garlanca.com^$popup,third-party
+||gbnet.link^$popup,third-party
 ||geniusdisplay.com^$popup,third-party
 ||gernewt.info^$popup,third-party
 ||gernu.info^$popup,third-party
