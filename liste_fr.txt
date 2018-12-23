@@ -4406,7 +4406,6 @@ debugger:$popup
 ||push-notifications.top^$third-party
 ||pushazer.com^$third-party
 ||pushno.com^$third-party
-||pushwhy.com^$third-party
 ||putbid.net^$third-party
 ||puttme.gq^$third-party
 ||pvrtx.net^$third-party
@@ -5083,6 +5082,7 @@ debugger:$popup
 ||7089e5b41f87.com^
 ||713d79e3192eb21c.com^
 ||71aa8ed2ff1c8f.com^
+||73c6c063b238097.com^
 ||7437b300fa98b98.com^
 ||74aade2b0516e48a.website^
 ||74d382def7b08.com^
@@ -5192,6 +5192,7 @@ debugger:$popup
 ||ceehimur.uk^
 ||cef9c80977e050.com^
 ||cf26d627adf5.com^
+||constintptr.com^
 ||coostuni.com^
 ||culsauwou.com^
 ||d02e96f2b572b933dd4.com^
@@ -5261,6 +5262,7 @@ debugger:$popup
 ||h5yhthgdhsfgd.com^
 ||hashalre.uk^
 ||hereonline.online^
+||herowebads.com^
 ||hyphenion.com^
 ||iz682noju02ye5.com^
 ||jaizouji.com^
@@ -5270,6 +5272,7 @@ debugger:$popup
 ||kpc4jpbm.date^
 ||loaphizu.com^
 ||loorooch.link^
+||loralana.com^
 ||lovacmar.click^
 ||lzrikate.com^
 ||mixology.pw^
@@ -5292,9 +5295,18 @@ debugger:$popup
 ||preonesetro.com^
 ||promoltd.online^
 ||ptikeegno.com^
+||pushame.com^
 ||pushamir.com^
+||pushbaddy.com^
+||pushbasic.com^
+||pushdusk.com^
+||pushengage.im^
+||pusherism.com^
+||pushimer.com^
 ||pushno.com^
+||pushwhy.com^
 ||pvkpt9wk.trade^
+||ravaynore.com^
 ||rd1wc5gi.party^
 ||redorange.website^
 ||redouwhy.link^
@@ -5303,6 +5315,8 @@ debugger:$popup
 ||rw3xxb80.online^
 ||s7jrg2eb.club^
 ||shaiptuk.net^
+||shifoagn.uk^
+||sinwebads.com^
 ||soujoobafoo.com^
 ||stickredgr.online^
 ||stoordep.com^
@@ -5323,17 +5337,6 @@ debugger:$popup
 ||yku0xk97.site^
 ||yupidd.com^
 ||z6naousb.com^
-!
-||constintptr.com^
-||herowebads.com^
-||loralana.com^
-||pushame.com^
-||pushbaddy.com^
-||pushbasic.com^
-||pushdusk.com^
-||pushimer.com^
-||ravaynore.com^
-||sinwebads.com^
 ! hilltopads.net
 ||allownotification.com^
 ||allownotifications.com^
@@ -9990,6 +9993,9 @@ $stylesheet,third-party,domain=kissanime.ru
 |http://$script,third-party,domain=filmsvostfr.cc|filmsvostfr.ws|filmsvostfr.xyz
 |https://$script,third-party,domain=filmsvostfr.cc|filmsvostfr.ws|filmsvostfr.xyz
 ||filmsvostfr.ws/jscripts/
+! filmesonlinegratis.com
+|http://$script,third-party,xmlhttprequest,domain=filmesonlinegratis.com
+|https://$script,third-party,xmlhttprequest,domain=filmesonlinegratis.com
 ! filmvf.ws
 |http://$script,third-party,domain=filmsvf.org|filmvf.biz|filmvf.cc|filmvf.co|filmvf.tv|filmvf.ws
 |https://$script,third-party,domain=filmsvf.org|filmvf.biz|filmvf.cc|filmvf.co|filmvf.tv|filmvf.ws
