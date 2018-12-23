@@ -10403,7 +10403,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ||vidlox.*/js/$xmlhttprequest
 ||vidlox.*/video/
 ! thevid.net
-thevid.net##.cban
 |http://$script,subdocument,third-party,domain=thevid.net
 |https://$script,subdocument,third-party,domain=thevid.net
 ||thevid.net/style/medio/
