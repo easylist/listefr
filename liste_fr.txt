@@ -10375,6 +10375,9 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ! desiupload.in
 |http://$script,third-party,domain=desiupload.in
 |https://$script,third-party,domain=desiupload.in
+! indishare.me
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=indishare.me
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=indishare.me
 ! streame.net
 |http://$script,third-party,xmlhttprequest,domain=streame.net
 |https://$script,third-party,xmlhttprequest,domain=streame.net
