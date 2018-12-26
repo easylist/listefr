@@ -10017,8 +10017,8 @@ $stylesheet,third-party,domain=kissanime.ru
 ! series-en-streaming.tv
 @@||flashx.tv/embed-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||openload.co/embed/$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
-@@||speedvid.co/embed-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
-@@||speedvid.co/sn-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
+@@||speedvid.net/embed-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
+@@||speedvid.net/sn-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||streamango.com/embed/$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 @@||vidoza.net/embed-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 |http://$image,ping,script,subdocument,third-party,xmlhttprequest,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
