@@ -1208,6 +1208,7 @@
 /click/*?pubid=
 /click?adv=
 /click_update.*?id_pub=
+/clickads.
 /clickpartners.
 /clientprofiler/adb
 /clients-ads.
@@ -11719,6 +11720,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||homecine-compare.com/images/main/*/pub.png
 ||homecinema-fr.com/iframe-header-300x600-
 ||homecinema-fr.com/images/
+||homecinema-fr.com/pubs/
 ||hottux.fr^$script
 ||hotvideo.fr/popup.php$popup
 ||hotvideo.fr/pub/
@@ -16887,6 +16889,7 @@ tube8.fr##.gridBanner
 star7arab.com##.grid[style="width: 770px; height: 69px;"]
 semageek.com##.h300
 zonebourse.com##.hPubRight2
+homecinema-fr.com##.hab_link
 cbanque.com,clubpronostics.com,logicielmac.com,logitheque.com,made-in-algeria.com,made-in-tunisia.net,maghrebex.com,mediscom.com,navis.ma,toucharger.com##.habillage
 senscritique.com##.habillage-banner
 le2minutes.com,senscritique.com##.habillage-left
