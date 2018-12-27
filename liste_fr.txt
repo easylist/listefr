@@ -9506,6 +9506,8 @@ $stylesheet,third-party,domain=kissanime.ru
 ||planethoster.net/img/banners/$third-party
 ||playit1.flashx.
 ||playit4.flashx.
+||pmcdn.priceminister.com/rakuten-static-deliver/*/module/pm_monet_offers.js
+||pmcdn.priceminister.com/rakuten-static-deliver/*/module/radsServer.js
 ||pmu.fr/content/*/offre-$third-party
 ||pointscommuns.com/images/bannieres/$third-party
 ||pokeram.com/images/promo/
@@ -14362,6 +14364,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.adBottom
 ##.adDisplay
 ##.adFootBox
+##.adHeading
 ##.adSide1
 ##.adSpace1
 ##.adSpace2
@@ -15450,6 +15453,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##.standard_adv_link
 ##.sticky-ads
 ##.stm-ad-player
+##.structure_wrapper-ad
 ##.subimageAd
 ##.tab-reklam
 ##.tableAds
@@ -15953,6 +15957,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ##div[data-ligatus-container]
 ##div[data-pmdfp-display]
 ##div[data-pmdfp-format]
+##div[data-rads-tracking]
 ##div[data-refadmob]
 ##div[data-sticky-ads]
 ##div[id$="textAdsBox"]
@@ -16905,6 +16910,7 @@ lagence.fr##.hor_banners
 valeursactuelles.com##.horizons-va-sidebar
 clubpronostics.com##.horizontal-banner
 meteosun.com##.hotelteaser
+rakuten.com##.hp--categories-populaires--pub
 vide-greniers.org##.iad
 lexpress.fr##.immo
 pagesblanches.be,rtbf.be##.imu
@@ -17032,6 +17038,7 @@ jumia.ma##.nyroModalBg
 eurosport.fr##.oas
 football.fr##.oas-middle
 nouvelobs.com##.obs-pub
+rakuten.com##.offersKelkoo
 galaxynote.fr##.offre
 aujourdhui-en-france.fr,leparisien.fr##.offresStage
 numerama.com##.oopnative
@@ -17173,6 +17180,7 @@ orangeinfo.fr##.pubside
 jeuxflash.com##.pull-left
 femmeactuelle.fr##.push-partenaire
 nouvelobs.com##.r89-partenariats--vertical
+rakuten.com##.rads
 souk.ma##.rbanner-wrap
 annuaire-inverse-france.com##.rborderpurple
 lien-torrent.com##.rcol
