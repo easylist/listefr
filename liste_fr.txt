@@ -243,6 +243,7 @@
 -votre-publicite.
 -webAds-
 .468.60.gif
+.ad.intl.
 .ad/banner/
 .ad4link.
 .ad4mat.$domain=~ad4mat.com
@@ -1945,6 +1946,7 @@
 /sdaAmi.min.
 /sdk-ads.
 /sdk-ads/*
+/sdkconfig.ad.
 /search?sponsor=$subdocument
 /search_caf.php?
 /secure-ads.
@@ -9121,6 +9123,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||gifsauce.com/widgets?
 ||gigaflat.com/affiliate/$third-party
 ||gigaflat.com^$subdocument
+||gizblog.it/wp-content/uploads/$third-party
 ||globeusd.org/popk.php
 ||go.freepik.com/redirect?$popup
 ||go.nordvpn.net^
@@ -11682,6 +11685,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|35.184.16
 ||gigacu.com/jquery.js
 ||gigatopsexe.com/550x100.gif
 ||givemefile.fr/images/banners/
+||gizchina.it/wp-content/uploads/*-banner.
 ||glenatbd.com/images/banners/
 ||glenatbd.com/images/skins/
 ||glenatmanga.com/upload/habillage/
