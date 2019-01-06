@@ -22,6 +22,8 @@
 &ad.preroll=
 &ad.trans.
 &ad=*&bid=*&bn=
+&ad_*&idzone=
+&ad_*&zone=
 &ad_block=
 &ad_count=
 &ad_domain=
@@ -246,6 +248,7 @@
 .468.60.gif
 .ad.intl.
 .ad/banner/
+.ad2.*?id=
 .ad4link.
 .ad4mat.$domain=~ad4mat.com
 .ad6.
@@ -280,6 +283,7 @@
 .com/adb.
 .com/adj/
 .com/adpro.
+.com/adv.js
 .com/bannieres/$image,object,subdocument,domain=~dse-ecologie.com|~visuels.l214.com
 .com/bnr/
 .com/bnrs/$subdocument
@@ -317,6 +321,7 @@
 .loading-delivery2.
 .ma/ads/
 .ma/ads_
+.me/adv.js
 .me/adver/
 .mk/ads/
 .mobi/ads/
@@ -1037,6 +1042,7 @@
 /bandito.php?$xmlhttprequest
 /banener_pub.
 /baner/ads/*
+/banger.js?cb=
 /banks-ads.
 /banLight.*?ref=
 /bann120x600_
@@ -1050,6 +1056,8 @@
 /banner.control.
 /banner.html?
 /banner.outer.
+/banner/*/300x250
+/banner/*/728x90
 /banner/*/goclick/?
 /banner/*/sponsored?
 /banner/*?site_id=
@@ -1078,7 +1086,9 @@
 /banner?sid=
 /banner_*?size=$subdocument
 /banner_160x60.
+/banner_300x250
 /banner_600x60_
+/banner_728x90
 /banner_ads2.
 /banner_ads3.
 /banner_ads?
@@ -1315,6 +1325,7 @@
 /ec_adalt_
 /ec_connectorDelivery.
 /edb.php?*&size=
+/edmonton.webp?
 /effiliation/*
 /effinity/banniere-
 /ejs_slidein.js
@@ -1335,6 +1346,7 @@
 /exoclick300m.
 /extads.
 /ezban.
+/ezmtdata|
 /f.php?aid=AID
 /factorads.
 /fakeFBbar.
@@ -1683,6 +1695,7 @@
 /popunderclic.
 /popunderjs.
 /popundersc/*
+/popup-display-pub.
 /popup.*&ads=
 /popup.*&pub=
 /popup.*?affil_id=
@@ -2237,6 +2250,7 @@
 ://syndication.$third-party
 ://tn.ads.
 ://tool.*/banner/
+://tools.*/a/c.php?$third-party
 ://tools.*/ban/
 ://vykingad.
 ://xads.
@@ -2273,6 +2287,7 @@
 =videoAd&
 =WebAdsLinks&
 =xadv-invid&
+?*.popcash.
 ?160&600&
 ?300&250&
 ?468&60&
@@ -2330,6 +2345,7 @@
 ?style=300x250-
 ?style=468x60-
 ?style=720x90-
+?tag_id=*&sw_url=
 ?target=_blank&mouseover=
 ?tgt=*&zoneid=
 ?tour=*&campaign=$third-party
@@ -2870,6 +2886,11 @@ _frontend_loader.$script
 /itab/*?cid=$popup
 /jump/clk1.$popup
 /jump/next.php?$popup
+/landing/*&ad2=$popup
+/landing/*&ad3=$popup
+/landing/*&ad4=$popup
+/landing/*&ad=$popup
+/later-ads-$popup
 /look.*/offer?prod=$popup
 /lp/*;pop|$popup
 /mobile-ad/*$popup
@@ -3284,6 +3305,7 @@ debugger:$popup
 ||ad-score.com^$third-party
 ||ad.activaweb.fr^$third-party
 ||ad135m.com^$third-party
+||ad2.club^$third-party
 ||ad2perf.com^$third-party
 ||ad2prm.com^$third-party
 ||ad2upapp.com^$third-party
@@ -3905,6 +3927,7 @@ debugger:$popup
 ||ezpopups.com^$third-party
 ||ezstatic.com^$third-party
 ||f5biz.biz^$third-party
+||faacliltate.com^$third-party
 ||faitdufric.com^$third-party
 ||famouscertainchannel.com^$third-party
 ||fancybar.net^$third-party
@@ -7841,6 +7864,7 @@ debugger:$popup
 ||baiduccdn1.com^$popup,third-party
 ||baise-ce-soir.com^$popup,third-party
 ||balancer.club^$popup,third-party
+||baoxianssl.com^$popup,third-party
 ||barvaz.me^$popup,third-party
 ||bcvc.mobi^$popup,third-party
 ||be-yi.com^$popup,third-party
@@ -10976,6 +11000,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|1filmz.cc
 ||img4.hostingpics.net/pics/592497Untitled1.jpg
 ||oi66.tinypic.com/hvs36e.jpg
 ||s.ynet.me/assets/images/website/vpns.jpg
+||s22.postimg.cc/4rx4wp30h/extreme.png
 ||s33.postimg.org/s61jp5py7/in_1.png
 ||s4.postimg.org/3poytndbx/bnnar2.jpg
 ||s5.postimg.org/rcnwde7qv/image.gif
