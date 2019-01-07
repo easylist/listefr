@@ -5454,6 +5454,7 @@ debugger:$popup
 ||finimbratedle.com^
 ||fleconomnipuer.com^
 ||foreinate.com^
+||garrogy.info^
 ||hicaptivided.com^
 ||hilltopads.net^
 ||hothta.com^
@@ -10209,8 +10210,8 @@ $stylesheet,third-party,domain=kissanime.ru
 |http://$image,script,stylesheet,third-party,xmlhttprequest,domain=annuaire-telechargement.com|zone-protect.com|zone-telechargements.com|zone-telechargements.ws
 |https://$image,script,stylesheet,third-party,xmlhttprequest,domain=annuaire-telechargement.com|zone-protect.com|zone-telechargements.com|zone-telechargements.ws
 ! wawacity.ec
-|http://$script,third-party,xmlhttprequest,domain=wawacity.ec
-|https://$script,third-party,xmlhttprequest,domain=wawacity.ec
+|http://$script,third-party,xmlhttprequest,domain=wawacity.ec|wlnk.ec
+|https://$script,third-party,xmlhttprequest,domain=wawacity.ec|wlnk.ec
 ! 9xbuddy.com
 |http://$script,third-party,xmlhttprequest,domain=9xbuddy.com
 |https://$script,third-party,xmlhttprequest,domain=9xbuddy.com
@@ -17655,6 +17656,7 @@ marianne.net##a[href^="/blogsecretdefense/ads/"]
 aujourdhui-en-france.fr,leparisien.fr##a[href^="/bons-plans/"]
 skitour.fr##a[href^="/campagnes/clic.php?"]
 agroligne.com,zone911.com##a[href^="/component/banners/"]
+wlnk.ec##a[href^="/download?"]
 theboystelecharger.net##a[href^="/file.php"]
 ensnaredbyabook.com##a[href^="/file.php?name="]
 turfomania.fr##a[href^="/go/go.php?"]
