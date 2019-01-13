@@ -10266,9 +10266,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ! gamestorrents.com
 |http://$script,third-party,xmlhttprequest,domain=gamestorrents.com
 |https://$script,third-party,xmlhttprequest,domain=gamestorrents.com
-! intoupload.net
-|http://$image,script,subdocument,third-party,xmlhttprequest,domain=intoupload.net
-|https://$image,script,subdocument,third-party,xmlhttprequest,domain=intoupload.net
 ! datpiff.com
 |http://$script,third-party,xmlhttprequest,domain=datpiff.com
 |https://$script,third-party,xmlhttprequest,domain=datpiff.com
