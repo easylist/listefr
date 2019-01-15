@@ -17831,6 +17831,9 @@ facebook.com#?#.userContentWrapper:-abp-contains(Sponsorisé)
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(Sponsorisé))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-contains(Sponsorisé))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-properties(content: "Sponsorisé"))
+frandroid.com#?#.container_native_home-list:-abp-has(.aligot-icon)
+frandroid.com#?#.home_bloc_zh:-abp-has(.aligot-icon)
+frandroid.com#?#.post-preview:-abp-has(.aligot-icon)
 ||facebook.com/fr/u.php?
 ||facebook.com/tr?id=$image
 ||facebook.net^*/fbevents.js$third-party
