@@ -17816,6 +17816,9 @@ commentcamarche.com,commentcamarche.net#?#.ccm_list_catch__item:-abp-contains(An
 dzgeek.com#?#li + .postbit:-abp-has(img[src$="/avatars/partenaire.png"])
 forumconstruire.com#?#div.post_classic:-abp-has(.post_classic_pseudo:-abp-contains(Autopromo))
 forumpiscine.com#?#div[id][class^="postbox_forum_"]:-abp-has(.forum_pseudo_contener:-abp-contains(Autopromo))
+frandroid.com#?#.container_native_home-list:-abp-has(.aligot-icon)
+frandroid.com#?#.home_bloc_zh:-abp-has(.aligot-icon)
+frandroid.com#?#.post-preview:-abp-has(.aligot-icon)
 ici-londres.com#?#.articles_list_item:-abp-has(.category:-abp-contains(Sponsorisé))
 ifp.re,ifpx.xyz,ifrp.xyz,mp3free.pw,pandos2play.free.fr,piframe.tk,protect-stream.com,soap-passion.com,ultimate-catch.eu#?#:-abp-properties(opacity:)
 journaldugeek.com#?#.entry__item:-abp-has(.entry__img-container--sponso)
@@ -17831,9 +17834,6 @@ facebook.com#?#.userContentWrapper:-abp-contains(Sponsorisé)
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(Sponsorisé))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-contains(Sponsorisé))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-properties(content: "Sponsorisé"))
-frandroid.com#?#.container_native_home-list:-abp-has(.aligot-icon)
-frandroid.com#?#.home_bloc_zh:-abp-has(.aligot-icon)
-frandroid.com#?#.post-preview:-abp-has(.aligot-icon)
 ||facebook.com/fr/u.php?
 ||facebook.com/tr?id=$image
 ||facebook.net^*/fbevents.js$third-party
