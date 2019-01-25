@@ -9879,9 +9879,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ! viva-stream.org
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=viva-stream.co|viva-stream.info|viva-stream.org
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=viva-stream.co|viva-stream.info|viva-stream.org
-! film-streaming-vf.org
-|http://$script,third-party,xmlhttprequest,domain=film-streaming-vf.org|filmstreamingvf.ws
-|https://$script,third-party,xmlhttprequest,domain=film-streaming-vf.org|filmstreamingvf.ws
 ! streamzentier.com
 |http://$script,third-party,domain=streamzentier.com
 |https://$script,third-party,domain=streamzentier.com
