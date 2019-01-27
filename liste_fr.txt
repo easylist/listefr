@@ -1187,6 +1187,7 @@
 /bnr468.
 /bnr?*=$script
 /bnrs/yn_bnr.
+/bodyclick.php?id=
 /bonga/*_banner.$subdocument
 /bouton_pub.
 /brand-ads-
@@ -2560,6 +2561,10 @@ digitalocean.gif|
 /zbackend_loader.$script
 _backend_loader.$script
 _frontend_loader.$script
+! nsfw
+%22banner%*%22idzone%
+%22request_id%*%22idzone%
+%22zones%*%22popunder%
 ! Siropu ads manager
 /data/Siropu/images/*
 /Siropu/AM/display.js
@@ -3947,6 +3952,7 @@ debugger:$popup
 ||frtyj.com^$third-party
 ||fruitablock.com^$third-party
 ||fruitablock.net^$third-party
+||fuckedbyme.com^$third-party
 ||fullon.tv^$third-party
 ||fullscreens.fr^$third-party
 ||funsafetabsearch.com^$third-party
