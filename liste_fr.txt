@@ -284,6 +284,7 @@
 .campaignsFileLoaded|$script
 .cc/ad/
 .click/banner/
+.co/ads-
 .com.sa/ads/
 .com/adb.
 .com/adj/
@@ -715,6 +716,7 @@
 /ads-mopub|
 /ads-pebblemedia.
 /ads-random/*
+/ads-service/*
 /ads.*/banner/*
 /ads.*/banners/*
 /ads.*/go.
@@ -11473,6 +11475,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|1filmz.cc
 ||geo.fr/extension/geo/design/geo/images/planetride.gif
 ||geoflotte.com/temp/part/
 ||gerardmerinfo.fr/fondpub/
+||gerardmerinfo.fr/wp-content/banners/
 ||gigacu.com/jquery.js
 ||gigatopsexe.com/550x100.gif
 ||givemefile.fr/images/banners/
