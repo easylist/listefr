@@ -11689,6 +11689,8 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|1filmz.cc
 ||lafranceapoil.com^*.php$script
 ||lakroa.mg/images/pub/
 ||lamanchelibre.fr/habillage/
+||lamanchelibre.fr/images/*-banniere-
+||lamanchelibre.fr/images/teaser_phr_web.jpg
 ||lamule.eu/wp-content/uploads/12-1024x546.jpg
 ||lanation-arabe.dz/*/flash/pub
 ||lanationdj.com/wp-content/uploads/*/output_$image
@@ -14484,6 +14486,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|1filmz.cc
 ##.banner_40X160
 ##.bannergroup_bannierepub
 ##.banners-adv
+##.banniere_pub
 ##.barre_adsense
 ##.before-side-nav-ad
 ##.bg-adsense
