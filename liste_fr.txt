@@ -4974,12 +4974,17 @@ debugger:$popup
 /^https?:\/\/[0-9a-z\-]+\.com\/[0-9]{1}\/[0-9]{7}$/$popup,third-party
 /^https?:\/\/[0-9a-z\-]+\.com\/[0-9]{7}\.html\?q$/$popup,third-party
 ||3b26cbed75120f.com^
+||52b7d78514f3cb9d.com^
+||bf3c1229dc6f28b2.com^
 ||blukavsup.online^
 ||ceetoaho.com^
 ||ceptavou.net^
+||dompegho.net^
 ||eeritsog.com^
+||f754f81e3b6.com^
 ||furocmay.com^
 ||gabsanso.net^
+||glothouw.link^
 ||grainsox.net^
 ||harsonsy.com^
 ||hartookr.link^
@@ -5000,6 +5005,7 @@ debugger:$popup
 ||mixology.pw^
 ||mobibiobi.com^
 ||nepsauss.net^
+||nigrebud.net^
 ||oagudsey.uk^
 ||oalrivax.top^
 ||orgalso.com^
@@ -9866,6 +9872,9 @@ $stylesheet,third-party,domain=kissanime.ru
 @@||suggestqueries.google.com/complete/search?$script,domain=9xbuddy.app|9xbuddy.com|9xbuddy.org|offmp3.app|offmp3.com
 |http://$script,third-party,xmlhttprequest,domain=9xbuddy.app|9xbuddy.com|9xbuddy.org|offmp3.app|offmp3.com|peggo.tv
 |https://$script,third-party,xmlhttprequest,domain=9xbuddy.app|9xbuddy.com|9xbuddy.org|offmp3.app|offmp3.com|peggo.tv
+! free-mp3-download.net
+|http://$script,third-party,xmlhttprequest,domain=free-mp3-download.net
+|https://$script,third-party,xmlhttprequest,domain=free-mp3-download.net
 ! japscan.com
 |http://$script,subdocument,third-party,xmlhttprequest,domain=japscan.cc|japscan.com|japscan.to
 |https://$script,subdocument,third-party,xmlhttprequest,domain=japscan.cc|japscan.com|japscan.to
