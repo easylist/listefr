@@ -14098,6 +14098,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|1filmz.cc
 ##.adsense_300
 ##.adsense__loading
 ##.adsense_blog
+##.adsense_wrapper
 ##.adsensetop
 ##.adsensetopleft
 ##.adsensetopright
@@ -15062,6 +15063,7 @@ $popup,domain=01streamingvf.com|01streamingvf.ws|0zz0.com|1fichier.com|1filmz.cc
 ##.wrap-pub
 ##.wrapper-header-ad-slot
 ##.wrapperPub
+##.ww_ads_banner_wrapper
 ##.xads-wrappe
 ##.xadv-invid
 ##.xadv-invid2
@@ -17400,6 +17402,7 @@ korben.info#?#.alderaan-sous-article:-abp-has(span:-abp-contains(publicité))
 lemonde.fr#?#.area--ops:-abp-has(p:-abp-contains(Contenus partenaires))
 numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
 businessinsider.fr#?##related-post-:-abp-has(a[href*="/contenu-sponsorise"])
+starbike.com#?#.post.has-profile:-abp-has(.postbody:-abp-has(.adsbygoogle))
 tsa-algerie.com#?#.jwpv-desktop:-abp-contains(Publicité)
 ! facebook.com
 facebook.com#?#.userContentWrapper:-abp-contains(Sponsorisé)
