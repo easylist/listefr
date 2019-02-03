@@ -9622,10 +9622,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 @@||static.uppcdn.com^$image,script,domain=uppit.com
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=uppit.com
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=uppit.com
-! fembed.com
-|http://$script,third-party,domain=fembed.com
-|https://$script,third-party,domain=fembed.com
-||fembed.com/revenue
 ! macupload.net
 |http://$script,third-party,xmlhttprequest,domain=macupload.net
 |https://$script,third-party,xmlhttprequest,domain=macupload.net
