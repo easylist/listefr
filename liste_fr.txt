@@ -1319,6 +1319,7 @@
 /doubleclick_dmm/*
 /drawpub2.
 /dreamads/*
+/dub-dub-iad/*
 /dynamicads.
 /e/cm?t=*&lt1=$subdocument
 /eaCtrl.js
@@ -7846,7 +7847,6 @@ $stylesheet,third-party,domain=kissanime.ru
 ||ajoutezvotrelien.com/visuel46.png
 ||akacdn.ru/assets/min/random/
 ||akamaihd.net/*_vpaid.js
-||akamaihd.net/dub-dub-iad/$domain=amazon.fr
 ||akamaihd.net^$domain=dailymotion.com|youtube.com
 ||akamaized.net^*/dfp-$script
 ||alfafile.net/img/buttons/promo/
@@ -15533,7 +15533,6 @@ agroligne.com###myModal
 api.solvemedia.com###myVideo
 salon-du-mobilier.com###mynewfooter
 zizi-top.fr###myvideo
-amazon.fr###nav-swmslot
 p-nintendo.com###network > ul > .jm
 vacanceo.com###new_travelbloc
 judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
@@ -16936,7 +16935,6 @@ cinemay.com##div[style="width:160px; height:600px; background-color:#ffffff; flo
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr##div[style="width:300px; height:250px;margin:10px; margin: 0 auto; padding:15px 0; clear:both;"]
 koreus.com,picasion.com##div[style="width:300px;height:250px;"]
 video-buzz.eu##div[style="width:300px;height:250px;margin-bottom:15px;margin-left:auto;margin-right:auto;"]
-amazon.fr##div[style="width:300px;height:280px;"]
 vacanceo.com##div[style="width:310px;height:270px;"]
 rmc.fr##div[style="width:320px; height:280px; background:#000000; margin-top:20px; overflow:hidden;"]
 orangeinfo.fr##div[style="width:336px;height:280px;margin-bottom:20px;"]
