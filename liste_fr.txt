@@ -17213,8 +17213,8 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||plugins.longtailvideo.com^$script,domain=vidhos.com|vidstodo.me|vidto.me|vidto.se|vidtod.me|vidtudu.com
 @@||releases.flowplayer.org^*/flowplayer.$script,domain=flowyourvideo.com
 @@||s.ytimg.com/yts/jsbin/$domain=peggo.tv
-@@||st.chatango.com/js/gz/emb.js$script,domain=full-anime.com|full-film.me|full-serie.co|full-serie.ws|full-stream.io|full-stream.nu|full-stream.su|mangastreaming.eu|planet-streaming.com
-@@||st.chatango.com^*/id.html$subdocument,domain=full-anime.com|full-film.me|full-serie.co|full-serie.ws|full-stream.io|full-stream.nu|full-stream.su|mangastreaming.eu|planet-streaming.com
+@@||st.chatango.com/js/gz/emb.js$script,domain=full-anime.com|full-film.me|full-serie.co|full-serie.ws|full-stream.io|full-stream.nu|full-stream.su|mangastreaming.eu|planet-streaming.com|vivanime.com
+@@||st.chatango.com^*/id.html$subdocument,domain=full-anime.com|full-film.me|full-serie.co|full-serie.ws|full-stream.io|full-stream.nu|full-stream.su|mangastreaming.eu|planet-streaming.com|vivanime.com
 @@||suggestqueries.google.com/complete/search?$script,domain=youzik.com
 @@||vjs.zencdn.net^$script,domain=2giga.link|daclips.com|daclips.in|embed.komatv.com|gorillavid.in|k-vid.net|movpod.in
 @@||www.google.com/recaptcha/$subdocument
