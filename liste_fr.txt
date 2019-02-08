@@ -2868,7 +2868,6 @@ _frontend_loader.$script
 /click?*=ad&$popup
 /click?adv=^$popup
 /clickhabillage/*$popup
-/clk.*/click?$popup,domain=~lesnumeriques.com
 /clk.*?adv=$popup
 /close.*?tid=$popup
 /countClick.$popup
