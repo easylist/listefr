@@ -5017,6 +5017,7 @@ debugger:$popup
 ||70fa9b55f717e1eee.com^
 ||74da0fffc981.com^
 ||764d5e2f9a6e.com^
+||7937584337b8.com^
 ||7a7493dae33b5fc9.com^
 ||7cfdc154fb4e8.com^
 ||7ead97755e7c3b8.com^
@@ -5048,6 +5049,7 @@ debugger:$popup
 ||d9219da37af3cfe9cd7.com^
 ||dompegho.net^
 ||e09f3e4ceda.com^
+||e13085e58935e6.com^
 ||e85440ec98f04725.com^
 ||ee312a01eb2ebce.com^
 ||eebseech.link^
@@ -5107,6 +5109,7 @@ debugger:$popup
 ||phalrait.com^
 ||phastoag.com^
 ||pheeftie.link^
+||pheegoab.click^
 ||phenver.com^
 ||phichaus.top^
 ||phoxechy.net^
@@ -5117,6 +5120,7 @@ debugger:$popup
 ||preonesetro.com^
 ||promoltd.online^
 ||psourdat.com^
+||psughooy.com^
 ||ptikeegno.com^
 ||ptocmaux.com^
 ||ptouckoo.net^
@@ -6832,6 +6836,7 @@ debugger:$popup
 ||2date.club^$popup
 ||2youtds.biz^$popup,third-party
 ||34.250.229.112^$popup,third-party
+||35.225.234.73^$popup,third-party
 ||37.187.248.215^$popup,third-party
 ||37.46.192.170^$popup,third-party
 ||380tl.com^$popup,third-party
@@ -9184,8 +9189,8 @@ $stylesheet,third-party,domain=kissanime.ru
 |http://$script,third-party,domain=streamay.com|streamay.la|streamay.ws
 |https://$script,third-party,domain=streamay.com|streamay.la|streamay.ws
 ! voirfilms.com
-|http://$image,ping,popup,script,third-party,xmlhttprequest,domain=voirfilm.ws|voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.info|voirfilms.net|voirfilms.one|voirfilms.org|voirfilms.tv|voirfilms.ws
-|https://$image,ping,popup,script,third-party,xmlhttprequest,domain=voirfilm.ws|voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.info|voirfilms.net|voirfilms.one|voirfilms.org|voirfilms.tv|voirfilms.ws
+|http://$image,ping,popup,script,stylesheet,third-party,xmlhttprequest,domain=voirfilm.ws|voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.info|voirfilms.net|voirfilms.one|voirfilms.org|voirfilms.tv|voirfilms.ws
+|https://$image,ping,popup,script,stylesheet,third-party,xmlhttprequest,domain=voirfilm.ws|voirfilms.biz|voirfilms.co|voirfilms.com|voirfilms.in|voirfilms.info|voirfilms.net|voirfilms.one|voirfilms.org|voirfilms.tv|voirfilms.ws
 ||voirfilm.ws/jscripts/
 ||voirfilms.ws/jscripts/
 ||voirfilms.ws/themes/$popup
