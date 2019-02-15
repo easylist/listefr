@@ -12104,7 +12104,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1fich
 ||vidoza.net/js/pus/
 ||vidoza.net/js/sop/
 ||vidshort.net^$popup,script,~third-party
-||viedemerde.fr/reboil/
+||viedemerde.fr^*+$script,xmlhttprequest
 ||viepratique.fr/wp-content/uploads/sites/*/Bloc_partenaire_
 ||village-libertin.com/site_rencontre/ban/
 ||vinyculture.com/wp-content/uploads/*-banner-
