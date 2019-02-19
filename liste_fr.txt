@@ -2127,6 +2127,7 @@
 /watch?*&zone_key=
 /watch?site_key=
 /wbdds.
+/web-clients/bootloaders/*/bootloader.js
 /web/bannieres/*
 /Web_Ad.
 /Web_Ad_
@@ -3788,6 +3789,7 @@ debugger:$popup
 ||confectionner.xyz^$third-party
 ||congruityheterocephalus.info^$third-party
 ||connexionsafe.com^$third-party
+||contentza.com^$third-party
 ||contextualyield.com^$third-party
 ||coolood.biz^$third-party
 ||coosc.info^$third-party
@@ -6382,12 +6384,9 @@ debugger:$popup
 ||virtuagirl.com^$third-party
 ||virtuagirlhd.com^$third-party
 ||virtuaguyhd.com^$third-party
-! BT contentza.com
-/web-clients/bootloaders/*/bootloader.js
+! AdThrive adblock ads
 ||ahtarzr.ovh^
-||amazonaws.com/static.contentza.com/widgets
 ||blhjbepkhmuunbjxmidaq.com^
-||contentza.com^$third-party
 ||cwxiazwt.com^
 ||czxzpabxb.ovh^
 ||ejxmyng.ovh^
@@ -6395,7 +6394,6 @@ debugger:$popup
 ||fgudqqluv.com^
 ||gbiqlm.com^
 ||ggohobe.com^
-||gqaedlfouz.com^
 ||kfzedelhjtyw.com^
 ||ksbnmsxnskx.com^
 ||lbjuhtxkx.com^
@@ -6405,14 +6403,11 @@ debugger:$popup
 ||mynativeplatform.com^
 ||ovcmqf.com^
 ||ovhnnz.ovh^
-||pczacsi.com^
 ||qxqvdkvhdn.com^
 ||soyzsnaivas.com^
-||uipzqtjdxpyby.com^
 ||uzwcfbi.com^
 ||wlfolwilg.com^
 ||wsdib.com^
-||xmcotqxyqarzt.com^
 ||ytvracu.com^
 ||zvpuoitt.ovh^
 ||zyerwgu.ovh^
@@ -8109,6 +8104,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||amazonaws.com/hbams/
 ||amazonaws.com/mftracker/
 ||amazonaws.com/pubfig/
+||amazonaws.com/static.contentza.com/widgets
 ||amazonaws.com/waframedia*.
 ||amazonaws.com^*-ccmbenchmark
 ||amazonaws.com^*/3x250-$subdocument
