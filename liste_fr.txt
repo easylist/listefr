@@ -715,6 +715,7 @@
 /ads-google-adsense.
 /ads-iframe-
 /ads-img/*
+/ads-loading.
 /ads-lootmarketllc.
 /ads-mopub|
 /ads-pebblemedia.
@@ -1401,6 +1402,7 @@
 /getDlAd?
 /getPromotedClassifiedAd.
 /getPub.php
+/getSplashScreenAds|
 /gfx/adv/*
 /gfx/banner/*
 /gfx/banner_
@@ -11472,8 +11474,6 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1fich
 ||maghrebstar.com/images/MSPUB.gif
 ||maidenfrance.fr/images/banniere-
 ||mailorama.fr^*/wearing/habillage_
-||maisonbrico.com/forum-bricolage/images/
-||maisonbrico.com/images/partenaires/
 ||mameworld.info/net/pics/da.gif
 ||mamytwink.com^*/images/partenaires/
 ||manageo.fr/espaces-sponsorises/loadEspacesSponsorises.html
@@ -17551,7 +17551,6 @@ _blockadblock_
 ||icalendrier.fr/js/abp.js
 ||justgeek.fr^*/wp-content-uploads-
 ||larascasse.fr/forum/uploads/javascript_core/plugins_plugins.js
-||maisonbrico.com/theme/min/$script
 ||observalgerie.com/wp-content/uploads/$script
 ||planete-astronomie.com/tl_files/structure/anti-adblock.js
 ||static.tacdn.com/*/src/ta/common/behavior/abAppeal-*.js
