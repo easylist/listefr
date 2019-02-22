@@ -8095,6 +8095,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||aliencable.com/images/$third-party
 ||aliexpress.com^$popup,domain=dzsat.org
 ||aliexpress.com^*&aff_platform=$popup,third-party,domain=~alibaba.com
+||allkeyshop.com/widgets/$third-party
 ||allo-heberge.com/interface/bannieres/
 ||allo-nom.com/interface/bannieres/
 ||allodiagnostic.com/partenariat/$third-party
@@ -11215,6 +11216,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1fich
 ||jemontremontorse.com/images/banners/
 ||jeu.info/casino/
 ||jeu.net/pub/
+||jeu.video/bg/bg-
 ||jeux-gratuits.com/images/*/bandeau-
 ||jeux-hentai.com/bg/
 ||jeux-mmorpg.com/habillage/
@@ -15771,6 +15773,7 @@ aujourdhui-en-france.fr,leparisien.fr###meteo-immo
 liligo.fr###midbanner
 20min.ch###min_billboard
 lessentiel.lu###min_rectangle
+jeu.video###mobile_clic
 e-sushi.fr###modal
 le-buzz.fr###modal_chrome
 aujourdhui-en-france.fr,leparisien.fr###moteur-billetterie
@@ -16149,6 +16152,7 @@ boulette.fr,envertetcontretous.fr##.banpub
 soonnight.com##.bas_colonne
 ebay.fr##.beta-placement
 iladit.com##.bg-pub-interne
+jeu.video##.bgClick
 moov.mg##.bgTGC
 ennaharonline.com##.big-ad2
 lepetiteconomiste.com##.big-banner2
