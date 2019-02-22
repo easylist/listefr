@@ -2578,6 +2578,10 @@ digitalocean.gif|
 /zbackend_loader.$script
 _backend_loader.$script
 _frontend_loader.$script
+! omsnative
+/get/?token=*&schema=*&service=*&scriptid=$script,third-party
+/get/?url=*&ab=*&c=*&w=*&v=&scriptid=$script,third-party
+/nativendo.js?c=*&w=$script,third-party
 ! nsfw
 %22banner%*%22idzone%
 %22request_id%*%22idzone%
