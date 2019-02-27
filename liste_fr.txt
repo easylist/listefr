@@ -9754,9 +9754,9 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 |http://$image,script,stylesheet,third-party,domain=arabloads.net
 |https://$image,script,stylesheet,third-party,domain=arabloads.net
 ! up07.net
-/open*.js,domain=showx.tech|up02.net|up05.pro|up07.me|up08.net|up09.com
-|http://$image,popup,script,third-party,xmlhttprequest,domain=showx.tech|up02.net|up05.pro|up07.me|up08.net|up09.com
-|https://$image,popup,script,third-party,xmlhttprequest,domain=showx.tech|up02.net|up05.pro|up07.me|up08.net|up09.com
+/open*.js,domain=up07.me|up08.net|up09.com
+|http://$image,popup,script,third-party,xmlhttprequest,domain=up07.me|up08.net|up09.com
+|https://$image,popup,script,third-party,xmlhttprequest,domain=up07.me|up08.net|up09.com
 ! uploads.to
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=uploads.to
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=uploads.to
@@ -16175,7 +16175,7 @@ syskb.com##.bandeaupub
 cdmail.fr##.bandeauvert
 iphone4.fr,jeux-mmorpg.com##.baner
 bismirabbika.com,coran-francais.com,orientation-chabab.com##.bann
-2conv.com,admew.com,afrik-foot.com,afrik.com,afrikeco.com,btdb.to,flvto.biz,french-stream.co,glenatbd.com,hdnumerique.com,journaldugeek.com,kpopfm.fr,manga-news.com,medialot.fr,mesbagages.com,orientation-chabab.com,showx.tech,telquel.ma,textnow.com,trimag.fr,up02.net,up05.pro,ventsdouest.com,video-2-cul.com##.banner
+2conv.com,admew.com,afrik-foot.com,afrik.com,afrikeco.com,btdb.to,flvto.biz,french-stream.co,glenatbd.com,hdnumerique.com,journaldugeek.com,kpopfm.fr,manga-news.com,medialot.fr,mesbagages.com,orientation-chabab.com,telquel.ma,textnow.com,trimag.fr,ventsdouest.com,video-2-cul.com##.banner
 batiactu.com##.banner-background
 golem13.fr##.banner-halfpage
 lareclame.fr##.banner-url
