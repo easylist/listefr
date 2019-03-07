@@ -9635,9 +9635,6 @@ $stylesheet,third-party,domain=kissanime.ru
 @@||suggestqueries.google.com/complete/search?$script,domain=9xbuddy.app|9xbuddy.com|9xbuddy.org|offmp3.app|offmp3.com
 |http://$script,third-party,xmlhttprequest,domain=9xbuddy.app|9xbuddy.com|9xbuddy.org|offmp3.app|offmp3.com|peggo.tv
 |https://$script,third-party,xmlhttprequest,domain=9xbuddy.app|9xbuddy.com|9xbuddy.org|offmp3.app|offmp3.com|peggo.tv
-! free-mp3-download.net
-|http://$script,third-party,xmlhttprequest,domain=free-mp3-download.net
-|https://$script,third-party,xmlhttprequest,domain=free-mp3-download.net
 ! force-download.fr
 |http://$script,third-party,xmlhttprequest,domain=force-download.com|force-download.es|force-download.fr|force-download.net
 |https://$script,third-party,xmlhttprequest,domain=force-download.com|force-download.es|force-download.fr|force-download.net
