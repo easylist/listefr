@@ -16847,7 +16847,6 @@ lnc.nc,softonic.fr,undernews.fr##.topbanner
 allocine.fr##.topheader
 fan-de-cinema.com##.topmargin
 instinct-voyageur.fr##.topsky
-omgtorrent.bz,omgtorrent.cz##.torrent-usenet
 ca-briepicardie.fr##.total-cover
 monpetitforfait.com##.tpa
 search.ke.voila.fr##.tpl_slpartner_container_bottom
@@ -16919,6 +16918,8 @@ ccm.net,commentcamarche.com,commentcamarche.net##[class*="_item--sponsor"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
 silicon.fr##[class*="displayed_advertisers-"]
 uploaded.net##[class*="pico-"]
+omgtorrent.bz,omgtorrent.cz##[class*="usenet"]
+omgtorrent.bz,omgtorrent.cz##[class*="vpn"]
 winamax.fr##[class][onclick]
 centrifuge-lemag.fr##[class][style] > a#cb-bg-to
 narkive.com,tourte.org##[class^="ads_"]
@@ -17233,7 +17234,6 @@ maison-et-domotique.com##div[class^="deals"]
 gamekult.com##div[class^="gk__ads"]
 la-tendinite.fr##div[class^="snp-"]
 algeriepatriotique.com##div[class^="spu-"]
-omgtorrent.bz,omgtorrent.cz##div[class^="vpn"]
 msn.com##div[data-aop="stripe.autos.ad_ad"]
 msn.com##div[data-aop="stripe.health.ad_ad"]
 msn.com##div[data-aop^="stripe.shopping"]
