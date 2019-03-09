@@ -9967,9 +9967,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ! allvid.ch
 |http://$script,third-party,xmlhttprequest,domain=allvid.ch
 |https://$script,third-party,xmlhttprequest,domain=allvid.ch
-! streamvid.co
-|http://$script,third-party,xmlhttprequest,domain=streamvid.co
-|https://$script,third-party,xmlhttprequest,domain=streamvid.co
 ! vidshare.tv
 |http://$script,third-party,domain=vidshare.tv
 |https://$script,third-party,domain=vidshare.tv
