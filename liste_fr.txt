@@ -5269,6 +5269,7 @@ debugger:$popup
 ||uj9ikv3z3jl4.com^
 ||vaigowoa.com^
 ||vidsizee.com^
+||voastauz.net^
 ||vutsoabs.net^
 ||w4qnw4uw.cricket^
 ||wanukree.net^
@@ -5298,7 +5299,7 @@ debugger:$popup
 ||459517eb349739b.com^
 ||551f044b1a3f4ef.com^
 !
-/^https?:\/\/[a-z]{6,9}\.pw\/[0-9a-zA-Z]{12,14}\/[0-9]{4}$/$script,third-party
+/^https?:\/\/[a-z]{6,9}\.(pw|xyz)\/[0-9a-zA-Z]{12,14}\/[0-9]{4}$/$script,third-party
 ||beiren.xyz^
 ||daecan.xyz^
 ||daethana.pw^
