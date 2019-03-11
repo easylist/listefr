@@ -168,6 +168,7 @@
 -90x600-
 -90x728_
 -920x180.gif
+-960x80.
 -970-x-90-
 -970x250.
 -970x250_
@@ -830,6 +831,7 @@
 /ads?p=
 /ads?req_
 /ads?spot_
+/ads?spot_id=
 /ads?sz=
 /ads?type=
 /ads_120_
@@ -2201,6 +2203,7 @@
 ://aclick.
 ://ad-start.
 ://ad.*&sid=
+://ad.*/ad/*.gif
 ://ad.*/embed.
 ://ad.*/uri/
 ://ad.*?pid=
@@ -14015,6 +14018,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1fich
 ##.adbloc
 ##.adblock-spot
 ##.adblock1
+##.adbox-inner
 ##.adbox180px
 ##.adbox200px
 ##.adbox3
@@ -15562,6 +15566,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1fich
 ##a[href^="https://shop.spyoff.com/signup/mb?packageId="] > img
 ##a[href^="https://snapmrsexe.com/lp/"]
 ##a[href^="https://store.mspy.com/affiliate.php"] > img
+##a[href^="https://tpmr.com/r/"]
 ##a[href^="https://traceless.me/lp/"]
 ##a[href^="https://tubexxxone.com/?"]
 ##a[href^="https://uploadgig.com/premium/index/"] > img
