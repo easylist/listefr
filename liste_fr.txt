@@ -11882,6 +11882,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ||mymanga.io/ga/
 ||myzen.tv/images/banners/
 ||myzen.tv/images/OmmStudio.jpg
+||narcity.com/assets/$script
 ||natoms.com/js/partner/
 ||nautisme.nc/pubs/
 ||nautisme.nc^*.html$object,subdocument
@@ -17507,6 +17508,7 @@ iphonesoft.fr##.pub
 iphonetweak.fr##.pub-img
 iphonesoft.fr,iphonetweak.fr##.trc-content-sponsored
 ! Filtres de propriété CSS pour Adblock Plus
+narcity.com##.article-thumbnail:-abp-has(.sponsored-mention)
 amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com#?#:-abp-properties(base64)
 amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com,senscritique.com,seriehentai.com#?#:-abp-properties(data:)
 businessinsider.fr#?#.post-nonfeatured:-abp-has(.title-studio:-abp-contains(Contenu Sponsorisé))
