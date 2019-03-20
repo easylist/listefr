@@ -374,6 +374,7 @@
 .png|$script
 .popundersc.js
 .productads.
+.propellerads.
 .pub-ban-
 .pub.preroll/
 .pubdirecte.$domain=~pubdirecte.com
@@ -15252,6 +15253,8 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##[slot-id^="div-gpt-ad-"]
 ##a > #bg-ad
 ##a[class^="adsbutt_"]
+##a[hre^="https://ad.propellerads.com/"]
+##a[hre^="https://publishers.propellerads.com/#/"]
 ##a[href$="?id=300x250"][target="_blank"] > img
 ##a[href$="?id=728x90"][target="_blank"] > img
 ##a[href*="%2Fapi%2Fmpup%2F"]
