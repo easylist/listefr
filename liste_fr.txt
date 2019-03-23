@@ -251,6 +251,7 @@
 -pub-ads/
 -pub/prod/$third-party
 -reklama-300x300.
+-sponsor-bar.js
 -viceads.
 -viewability.
 -votre-publicite.
@@ -369,6 +370,7 @@
 .php?format=160x600
 .php?format=728x90
 .php?id=*&ref=$script,third-party
+.php?idb_=*&idc_=$subdocument
 .php?img_adv=
 .php?sponsor=
 .png|$script
@@ -552,6 +554,7 @@
 /ab_im_desktop_b.
 /ab_locations/*$script
 /abd?rand=
+/abroad-adv.
 /acad.$script
 /acceptable.*/async|$domain=~millenium.org
 /accrochePub300.
@@ -2228,6 +2231,7 @@
 ://ar.ads.
 ://ashot.$script
 ://ban.$third-party
+://banner-gateway.$third-party
 ://banners2.$third-party
 ://banners3.$third-party
 ://bannieres.
@@ -13107,6 +13111,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ###admid2
 ###admitad_div
 ###adnFloatbl
+###adn_layerad
 ###adpos2_1
 ###adpos2_2
 ###adpubhead
@@ -13189,6 +13194,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ###adv_big_blocked
 ###adv_player
 ###advancedPartnerDiv
+###adversitise
 ###advert-title
 ###advert01
 ###advert02
