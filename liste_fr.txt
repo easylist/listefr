@@ -10228,9 +10228,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ! playtv.to
 |http://$script,stylesheet,third-party,domain=playtv.to
 |https://$script,stylesheet,third-party,domain=playtv.to
-! youpak.com
-|http://$third-party,xmlhttprequest,domain=youpak.com
-|https://$third-party,xmlhttprequest,domain=youpak.com
 ! jheberg.net
 |http://$third-party,xmlhttprequest,domain=jheberg.net
 |https://$third-party,xmlhttprequest,domain=jheberg.net
