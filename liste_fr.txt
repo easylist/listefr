@@ -9684,7 +9684,7 @@ $stylesheet,third-party,domain=kissanime.ru
 .damoh.$media,~third-party
 ||damoh.commentcamarche.net^$media
 ! tf1.fr
-/^((?!(^https?|^blob):\/\/(ajax\.googleapis\.com|ak-tf1-das-liv-ssl\.akamaized\.net|api\.deezer\.com|cdns\.gigya\.com|cdns2\.gigya\.com|connect\.facebook\.net|e-cdns-files\.dzcdn\.net|firestore\.googleapis\.com|odb\.outbrain\.com|platform\.instagram\.com|platform\.twitter\.com|storage\.outbrain\.com|tf1\.idalgo-hosting\.com|widgets\.outbrain\.com|ws\.facil-iti\.com|www\.tf1\.fr|www\.wat\.tv)\/).)*$/$media,object-subrequest,script,third-party,xmlhttprequest,domain=tf1.fr
+/^((?!(^https?|^blob):\/\/(ajax\.googleapis\.com|ak-tf1-das-liv-ssl\.akamaized\.net|api\.deezer\.com|api\.s10d\.io|cdns\.gigya\.com|cdns2\.gigya\.com|connect\.facebook\.net|e-cdns-files\.dzcdn\.net|firestore\.googleapis\.com|odb\.outbrain\.com|platform\.instagram\.com|platform\.twitter\.com|storage\.outbrain\.com|tf1\.idalgo-hosting\.com|vjs\.zencdn\.net|widgets\.outbrain\.com|ws\.facil-iti\.com|www\.tf1\.fr|www\.wat\.tv)\/).)*$/$media,object-subrequest,script,third-party,xmlhttprequest,domain=tf1.fr
 ! orange.fr
 /^((?!(^https?):\/\/(([0-9a-z\-\.]+)\.maps\.cit\.api\.here\.com|([a-z\-]+)\.woopic\.com|api\.usabilla\.com|cps\.purpledrm\.com|embed\.playbuzz\.com|mcd\.playbuzz\.com|services\.arcgisonline\.com|static\.arcgis\.com|vodew-mss2\.cdn2\.orange-business\.com|www\.ultimedia\.com)\/).)*$/$third-party,xmlhttprequest,domain=orange.fr
 ! wat.tv
