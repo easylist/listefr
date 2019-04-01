@@ -5059,6 +5059,8 @@ debugger:$popup
 ||pblv-scoop.cf^$~image,third-party
 ||pblv-scoop.tk^
 ! propellerads
+/^https:\/\/[0-9a-z]{7,15}\.(com|net)\/custom\?tid\=[0-9a-f]{8}-([0-9a-f]{4}\-){3}[0-9a-f]{12}$/$script,third-party,xmlhttprequest
+/^https:\/\/[0-9a-z]{7,15}\.(com|net)\/index\.css\?[0-9a-zA-Z]{64,}\=$/$stylesheet,third-party
 /^https?:\/\/[0-9a-z\-]+\.(click|com|cricket|bid|date|download|link|men|network|online|party|racing|review|site|space|stream|top|trade|uk|webcam|website|win|xyz)\/[0-9]{1}\/[0-9]{7}\/\?var\=[0-9]{7}$/$popup,third-party
 /^https?:\/\/[0-9a-z\-]+\.com\/[0-9]{1}\/[0-9]{7}$/$popup,third-party
 /^https?:\/\/[0-9a-z\-]+\.com\/[0-9]{5,8}\.html\?q$/$popup,third-party
@@ -5189,6 +5191,7 @@ debugger:$popup
 ||gloobsie.com^
 ||glothouw.link^
 ||gluchair.net^
+||gobeerta.net^
 ||grainsox.net^
 ||graucoay.net^
 ||grimpils.com^
@@ -5202,6 +5205,7 @@ debugger:$popup
 ||ihosetch.com^
 ||imwinnerkur.com^
 ||ithoahie.com^
+||ivastoor.com^
 ||iz682noju02ye5.com^
 ||jaizouji.com^
 ||jeeshapi.net^
