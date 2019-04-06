@@ -4725,6 +4725,7 @@ debugger:$popup
 ||ssl4us.tk^$third-party
 ||statisticresearch.com^$third-party
 ||statsforads.com^$third-party
+||staubsefoo.com^$third-party
 ||stickyads.tv^$third-party
 ||stigads.com^$third-party
 ||storetail.io^$third-party
@@ -5145,6 +5146,7 @@ debugger:$popup
 ||d300c7cd7d0747f5e21.com^
 ||d9219da37af3cfe9cd7.com^
 ||d941a64431b4cd04253.com^
+||daigleeb.net^
 ||dalita.org^
 ||dalseeds.net^
 ||demetsik.com^
@@ -5366,6 +5368,7 @@ debugger:$popup
 ||z6naousb.com^
 ||zaicouwy.net^
 ||zoapsith.com^
+||zordough.com^
 ||zostofou.link^
 ! runative.com
 ||14257518e297edf3d2a1.com^
@@ -9761,12 +9764,13 @@ $stylesheet,third-party,domain=kissanime.ru
 |http://$script,third-party,xmlhttprequest,domain=pelisplus.online
 |https://$script,third-party,xmlhttprequest,domain=pelisplus.online
 ! extreme-down
+$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=extreme-d0wn.com|extreme-d0wn.net|extreme-down.in|extreme-down.one|extreme-down.pro|extreme-download.club|extreme-download.me
+@@||tsawry.com/images/$image,domain=extreme-d0wn.com|extreme-d0wn.net|extreme-down.in|extreme-down.one|extreme-down.pro|extreme-download.club|extreme-download.me
+@@||tsawry.net/images/$image,domain=extreme-d0wn.com|extreme-d0wn.net|extreme-down.in|extreme-down.one|extreme-down.pro|extreme-download.club|extreme-download.me
 @@||www.extreme-d0wn.net/engine/classes/js/bbcodes.js$script
 @@||www.extreme-d0wn.net/engine/classes/min/index.php$script
-|http://$script,stylesheet,third-party,xmlhttprequest,domain=extreme-d0wn.com|extreme-d0wn.net|extreme-down.in|extreme-down.one|extreme-down.pro|extreme-download.club|extreme-download.me
-|https://$script,stylesheet,third-party,xmlhttprequest,domain=extreme-d0wn.com|extreme-d0wn.net|extreme-down.in|extreme-down.one|extreme-down.pro|extreme-download.club|extreme-download.me
 ||extreme-d0wn.net^$popup,script,~third-party
-||tsawry.com^$popup,domain=extreme-d0wn.com|extreme-d0wn.net|extreme-down.in|extreme-down.one|extreme-down.pro|extreme-download.club|extreme-download.me
+||tsawry.$popup,domain=extreme-d0wn.com|extreme-d0wn.net|extreme-down.in|extreme-down.one|extreme-down.pro|extreme-download.club|extreme-download.me
 ! Protect link & iframe sites
 |http://$image,script,stylesheet,third-party,xmlhttprequest,domain=dl-protect.top|dl-protect1.com|ed-protect.org|ifp.re|liens-telechargement.com|plink.re|protect-iframe.com|protect-lien.com|protect-link.biz|protect-stream.com|security-links.com|zone-protect.com
 |https://$image,script,stylesheet,third-party,xmlhttprequest,domain=dl-protect.top|dl-protect1.com|ed-protect.org|ifp.re|liens-telechargement.com|plink.re|protect-iframe.com|protect-lien.com|protect-link.biz|protect-stream.com|security-links.com|zone-protect.com
