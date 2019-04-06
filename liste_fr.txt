@@ -2823,6 +2823,7 @@ _frontend_loader.$script
 &ymid=ADSYS-$popup
 &zone=*&banner=$popup
 &zone=*&clickid=$popup
+&zoneid=*&banner=$popup
 &zoneid=*&direct=$popup
 &zoneid=*&visitor_id=$popup
 +Popunder+$popup
