@@ -9996,9 +9996,6 @@ beinsport-streaming.club,beinsport-streaming.com,beinsport-streaming.info,bismir
 ! uploads.to
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=uploads.to
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=uploads.to
-! uploadfiles.pw
-|http://$script,stylesheet,third-party,domain=uploadfiles.pw
-|https://$script,stylesheet,third-party,domain=uploadfiles.pw
 ! uploadmp4.com
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=uploadmp4.com
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=uploadmp4.com
