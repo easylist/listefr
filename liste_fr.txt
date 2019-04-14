@@ -3660,7 +3660,7 @@ debugger:$popup
 ||awms.ws^$third-party
 ||awsclic.com^$third-party
 ||azerty.solutions^$third-party
-||azurewebsites.net^$third-party
+||azurewebsites.net^
 ||backclick.net^$third-party
 ||badibadou.eu^$third-party
 ||bakelitestationarityspouse.info^$third-party
@@ -4381,6 +4381,7 @@ debugger:$popup
 ||oftrau54.com^$third-party
 ||ohmyad.co^$third-party
 ||onads.dk^$third-party
+||onclasrv.net^$third-party
 ||onclickrev.com^$third-party
 ||onclicktop.com^$third-party
 ||oneadserver.com^$third-party
@@ -6924,6 +6925,7 @@ debugger:$popup
 ||thersprens.com^
 ||tidafors.xyz^$third-party
 ||tokyodrift.ga^$third-party
+||toponclick.com^$third-part
 ||traviilo.com^$third-party
 ||trezor.io^$third-party
 ||tubetitties.com^$third-party
@@ -7546,6 +7548,7 @@ debugger:$popup
 ||mobisla.com^$popup,third-party
 ||mobrevflwms.com^$popup,third-party
 ||mobswift.com^$popup,third-party
+||mobtrks.com^$popup
 ||mobusi.com^$popup,third-party
 ||mobutrafsrcms.com^$popup,third-party
 ||modato.ru^$popup,third-party
@@ -7604,6 +7607,7 @@ debugger:$popup
 ||npmpecd.com^$popup,third-party
 ||nurno.com^$popup,third-party
 ||occasic.com^$popup,third-party
+||oclasrv.com^$popup
 ||oclasrv.com^$popup,third-party
 ||offergo.net^$popup,third-party
 ||offpageads.com^$popup,third-party
@@ -7614,6 +7618,7 @@ debugger:$popup
 ||oklm.space^$popup,third-party
 ||olmeramarketing.com^$popup,third-party
 ||onclasrv.com^$popup,third-party
+||onclasrv.net^$popup
 ||onclickprediction.com^$popup,third-party
 ||onclickpredictiv.com^$popup,third-party
 ||onclickpulse.com^$popup,third-party
@@ -7837,6 +7842,7 @@ debugger:$popup
 ||teracreative.com^$popup,third-party
 ||terrabrs.com^$popup,third-party
 ||terrapops.com^$popup,third-party
+||tharbadir.com^$popup
 ||the-adult-company.com^$popup,third-party
 ||the-queen.net^$popup,third-party
 ||thegoodcaster.com^$popup
@@ -7852,6 +7858,7 @@ debugger:$popup
 ||tmhgm.com^$popup,third-party
 ||todigroup.com^$popup,third-party
 ||top2016games.com^$popup,third-party
+||toponclick.com^$popup
 ||topqualitylink.com^$popup,third-party
 ||toptanfirsati.com^$popup,third-party
 ||tororango.com^$popup,third-party
@@ -15063,6 +15070,9 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##a[href*=".xxcdn.pw/"]
 ##a[href*="//ads.ad-center.com/"]
 ##a[href*="//afftrack001.com/"]
+##a[href*="//go.mobtrks.com/"]
+##a[href*="//go.oclasrv.com/"]
+##a[href*="//go.onclasrv.net/"]
 ##a[href*="//jsmentry.com/"]
 ##a[href*="//jsmjmp.com/"]
 ##a[href*="//jsmptjmp.com/"]
