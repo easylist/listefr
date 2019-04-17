@@ -757,7 +757,6 @@
 /ads/300/250/*
 /ads/300x
 /ads/4.
-/ads/4.0/*
 /ads/468/60/*
 /ads/468x
 /ads/728/90/*
@@ -765,7 +764,6 @@
 /ads/920-
 /ads/920.
 /ads/970x
-/ads/970x250.
 /ads/?pubid=
 /ads/?subid=
 /ads/ad1.
@@ -799,7 +797,6 @@
 /ads/layered_
 /ads/left/*
 /ads/lz_
-/ads/lz_loader.
 /ads/mgid.
 /ads/mgid_
 /ads/new/*
@@ -843,7 +840,6 @@
 /ads?p=
 /ads?req_
 /ads?spot_
-/ads?spot_id=
 /ads?sz=
 /ads?type=
 /ads_120_
@@ -2254,7 +2250,6 @@
 ://ca.ads.
 ://cdn.ad.
 ://cdn.ads.
-://cdn77-fs.ads
 ://click.*/get_camp.
 ://clk.*/click?
 ://creative.*/widgets/*&campaignId=*&creativeId=$third-party
@@ -2465,7 +2460,6 @@ _adagency_
 _adb&*&partnerId=
 _adcitrik_
 _AdClick_
-_adclick_$subdocument
 _adco_
 _adcommon.
 _adpath_$subdocument
@@ -2940,7 +2934,6 @@ _frontend_loader.$script
 /fr/adcr/*$popup
 /ga-audiences?*&pid=$popup,third-party
 /gopartner.php?pid=$popup
-/gtd/?token=*&q=%20$popup
 /gtm.js?*&pid=$popup,third-party
 /iframePopUpLoader.$popup
 /imp/*/?scontext_r=$popup
@@ -15071,7 +15064,6 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##a[href*=".igraal.com/inscription?parrain="] > img
 ##a[href*=".intab.xyz/"]
 ##a[href*=".irtyf.com"]
-##a[href*=".irtyf.com/"]
 ##a[href*=".kfiopkln.com/"]
 ##a[href*=".leadzupc.com/"]
 ##a[href*=".m4adata.com/"]
@@ -15335,7 +15327,6 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##a[href^="http://www.hibids10.com/"]
 ##a[href^="http://www.jacquieetmichel-contact.com/?siteid="] > img
 ##a[href^="http://www.leguide.com/lettre/"]
-##a[href^="http://www.linkredirect.biz/"]
 ##a[href^="http://www.marketdot.net/"]
 ##a[href^="http://www.masterads.info/"]
 ##a[href^="http://www.mediaprogramasdlmdelivery.com/"]
@@ -15474,7 +15465,6 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##section[onclick*="/publicite-300-250/"]
 ##span[data-sponsor]
 ##table > tbody > tr > td > a[href="http://www.pubdirecte.com"]
-!##a[href*="/out.php?purl="]
 ! xenForo
 ##.SamRotator > .SamLink
 ##.samBannerUnit .SamLink
