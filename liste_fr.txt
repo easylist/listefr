@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: znXQl1Zq0Cbq6UUIbKe80w
-! Version: 201904231622
+! Checksum: LtTUf2G1JPUeRAGi1gZXqg
+! Version: 201904231833
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -7937,6 +7937,7 @@ debugger:$popup
 ||trustedpubs.com^$popup,third-party
 ||ts-ads.info^$popup,third-party
 ||tubeadvertising.eu^$popup,third-party
+||tubecorporate.com^$popup,third-party
 ||twap2.com^$popup,third-party
 ||uaadi.com^$popup,third-party
 ||uencedrefortifica.bid^$popup,third-party
@@ -11786,6 +11787,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ||pons.com/p/files/dict_images/widgets/
 ||pooki.fr/img/integrations/habillage
 ||pooki.fr/js/popup.
+||porn.com^$xmlhttprequest
 ||porn.fr/v3/index.php?
 ||porn0sexe.com/lfpv.
 ||porn0sexe.com/video-out-blocg.
