@@ -1605,6 +1605,7 @@
 /mosaique/track.php?
 /mpop.js
 /mwpopunder.
+/myadcash.
 /myadproxy_
 /myads.
 /n2ad_iframe.
@@ -2867,6 +2868,7 @@ _frontend_loader.$script
 /ad/clk.$popup
 /ad/popup/*$popup
 /adbetnetadmin.$popup
+/adcash.$popup
 /adcint/*$popup
 /adexchangelive.$popup
 /admac.$popup
@@ -2923,6 +2925,7 @@ _frontend_loader.$script
 /cpaclicks.$popup
 /cpanel/redirect.php?ad=$popup
 /cpmclick.$popup
+/cpmstar.$popup
 /dating-*&cid=$popup
 /default_ad/*$popup
 /delivery.*.php?ad=$popup
@@ -7332,6 +7335,7 @@ debugger:$popup
 ||cytochemistryrecitativewrasse.com^$popup,third-party
 ||danmeneldur.com^$popup,third-party
 ||danstonfion.com^$popup,third-party
+||dataprovider.biz^$popup,third-party
 ||dblock-ads.com^$popup,third-party
 ||dealdunjour.com^$popup,third-party
 ||dealitright.click^$popup,third-party
