@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: vjSYMCD00W5B4wKnb+2XEQ
-! Version: 201904241808
+! Checksum: xnlPaOvqzc7zjhuEsCp+QQ
+! Version: 201904241920
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -5347,20 +5347,33 @@ debugger:$popup
 ||9b51b7efc6d2a.com^
 ||a8a9455e53fbc75bc995.com^
 ||ae7c783736eb2ff.com^
+||g383912402.com^
+||g4058683381.com^
 !
-/^https?:\/\/[a-z]{6,9}\.(pw|xyz)\/[0-9a-zA-Z]{12,16}\/[0-9]{4,6}$/$script,third-party
+/^https?:\/\/[a-z]{6,9}\.(online|pw|xyz)\/[0-9a-zA-Z]{12,16}\/[0-9]{4,6}$/$script,third-party
 ||aenan.pw^
+||aepetor.pw^
 ||bileth.pw^
+||craydark.pw^
 ||daeven.xyz^
+||dorbanise.pw^
 ||exebid.ru^
+||fardan.pw^
 ||iarfina.pw^
+||klubityd.online^
+||littitte.online^
+||mirafaren.pw^
+||morydark.pw^
 ||presdithas.pw^
 ||qiroris.pw^
 ||sylmyar.pw^
 ||sylwenys.pw^
+||umekian.pw^
 ||uriren.pw^
 ||vagwyn.pw^
+||wynrieth.pw^
 ||zinphyra.com^
+||zinrora.pw^
 ! hilltopads.net
 ||allownotification.com^
 ||allownotifications.com^
@@ -15115,6 +15128,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##a[href*=".xxcdn.pw/"]
 ##a[href*="//ads.ad-center.com/"]
 ##a[href*="//afftrack001.com/"]
+##a[href*="//ghoto-12.win/"]
 ##a[href*="//go.mobtrks.com/"]
 ##a[href*="//go.oclasrv.com/"]
 ##a[href*="//go.onclasrv.net/"]
