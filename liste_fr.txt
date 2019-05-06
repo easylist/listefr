@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: W1KhbUw+PWsQAMdBZol/jw
-! Version: 201905062132
+! Checksum: 9/c7j83iWOh86w3PTzw1jg
+! Version: 201905062139
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -94,6 +94,7 @@
 &uuid=*&refer=*&key=
 &videoAdHtmlId=
 &voluumdata=
+&zone=*&adsparam=
 &zoneid=*&abl=
 &zoneid=*&ext=
 &zoneId=*&tracking=
@@ -305,8 +306,11 @@
 .com/popup.js
 .com/script/compatibility.js$third-party
 .com/sponsors/
+.de/ads?
+.de/ads_
 .dz/ads/
 .dz/ads_
+.es/anuncios/
 .fr/*/ads/$domain=~lemde.fr
 .fr/_adv/
 .fr/ads-
@@ -750,6 +754,7 @@
 /ads/*/iframe?
 /ads/*_ad_
 /ads/*_habillage_
+/ads/*x60-$image
 /ads/120/600/*
 /ads/160x
 /ads/2-728.
@@ -774,6 +779,7 @@
 /ads/ada.
 /ads/adb.
 /ads/add.
+/ads/ban-
 /ads/banner02.
 /ads/banner03.
 /ads/bigbox?
@@ -1014,6 +1020,7 @@
 /andreamedia.js
 /anime/ads/*
 /anti-pub.
+/anuncios/banner_
 /aoa-functions.
 /api.*/ads?
 /api/*?m=html&search_type=*&language=*&count=
@@ -1365,6 +1372,7 @@
 /emplacement-pub/*
 /entree_pub.
 /entrega/?zona=
+/epespad.
 /epomads2.
 /EpubDelivery/*
 /ero-pop.
@@ -1372,6 +1380,7 @@
 /espaces-sponsorises/*
 /eureka.js
 /event-adserver.
+/exbannerf/*
 /exit_pop_up.
 /exoclick300m.
 /extads.
@@ -1385,6 +1394,7 @@
 /fastclick468.
 /fera/ads/*
 /ffadp/init/?
+/files-adsurge/*
 /fillerAds/*
 /fod_ad_
 /fond_pub_
@@ -1415,6 +1425,7 @@
 /get/*?zoneid=
 /get?*&ab=*&ref=$script,third-party,xmlhttprequest
 /get?pvt=*&ab=*&ref=
+/get_affiliate_
 /get_banniere.php?$subdocument
 /get_links_*&zone=
 /getAdCode&
@@ -1975,6 +1986,7 @@
 /rekban.php
 /rekladv/*
 /reklamm.js
+/reklamstore.js
 /reklamy/*
 /rel/index.cfm?*&TAD=
 /reloadads.
@@ -1992,6 +2004,7 @@
 /rotaban/*$subdocument
 /rotation.*?idaff=
 /rotation/hits?$subdocument
+/rotator.ad$script
 /rotator.php?zone=$script
 /rotban/*$script
 /rotbas/img_bas.
@@ -2229,7 +2242,9 @@
 ://ad-start.
 ://ad.*&sid=
 ://ad.*/ad/*.gif
+://ad.*/adx/
 ://ad.*/embed.
+://ad.*/native.
 ://ad.*/uri/
 ://ad.*?pid=
 ://adg.*/pub/
