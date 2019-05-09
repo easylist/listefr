@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ARtRkcPOqksyRmTUizC0HA
-! Version: 201905072157
+! Checksum: /2+Z971+EwLR/pAEZNWG7g
+! Version: 201905091741
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12288,7 +12288,6 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ||uniprix.nouvelobs.com^
 ||unleashed.fr/media/habillage/
 ||unsimpleclic.com/wp-includes/js/wp-embed.min.js
-||uploadbank.com/images/bluedownload.png
 ||uploaded.net/img/as/
 ||uploaded.net/js2/*blo
 ||uploaded.net/video/
@@ -12458,7 +12457,6 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ||pblv-plusbellelavie.fr^$csp=script-src 'self' 'unsafe-inline' apis.google.com www.ultimedia.com
 ||porndoe.com^$csp=img-src 'none' http: https:
 ||porndoe.com^$csp=media-src 'none' http: https:
-||uploadbank.com^$csp=script-src 'self' 'unsafe-inline' hcaptcha.com *.hcaptcha.com
 ||yourporno.fr^$csp=script-src 'self'
 ! Filtres de réécriture de ressources internes pour Adblock Plus
 ||tf1.fr/assets/js/build/lib/ad$rewrite=abp-resource:blank-js,domain=tf1.fr
