@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ywe5V31R6428S0/wgMQJ/A
-! Version: 201905091841
+! Checksum: rZYqoOOgo2BMBbQjYmK2ew
+! Version: 201905092009
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -311,7 +311,7 @@
 .dz/ads/
 .dz/ads_
 .es/anuncios/
-.fr/*/ads/$domain=~lemde.fr
+.fr/*/ads/$domain=~lemde.fr|~yoopies.fr
 .fr/_adv/
 .fr/ads-
 .fr/ads/
