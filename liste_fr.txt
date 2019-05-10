@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Ab7EevGRKB3uPmzyGFOWYw
-! Version: 201905101345
+! Checksum: fdjGgdLFWkvsyJ3LUmMa0A
+! Version: 201905101406
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -9825,6 +9825,9 @@ $subdocument,domain=mangastreaming.eu|mangastreaming.fr|mangastreaming.me
 ! uploadrar.com
 |http://$script,stylesheet,third-party,domain=uploadrar.com
 |https://$script,stylesheet,third-party,domain=uploadrar.com
+! yourmod.cloud
+|http://$script,third-party,domain=yourmod.cloud
+|https://$script,third-party,domain=yourmod.cloud
 ! vidsource.me
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=vidsource.me|vidsrc.me
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=vidsource.me|vidsrc.me
