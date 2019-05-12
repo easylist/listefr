@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: X2d0Ev9/bYY/SCP7jEH67A
-! Version: 201905112202
+! Checksum: Oa3z3ewT8Xdq834q7x3CzQ
+! Version: 201905120240
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12370,6 +12370,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ||torrentfilmseriestreaming.com/wp-content/uploads/*/banniere-
 ||torrentz2.*.php|$xmlhttprequest
 ||toucharger.com/media/files/data/habillage/
+||tourmag.com/mymodule/$subdocument
 ||touslesprix.com/img_*/background/
 ||toutcash.com/images/bandeau-
 ||touteladomotique.com/pub/
@@ -17560,6 +17561,8 @@ starbike.com#?#.post.has-profile:-abp-has(.postbody:-abp-has(.adsbygoogle))
 t9.pe,torrent09.uno,torrent9.bz,torrent9.cat,torrent9.cc,torrent9.ec,torrent9.nz,torrent9.pe,torrent9.ph,torrent9.top,torrent9.uno,torrents9.cc,torrents9.org,torrents9.pe,torrents9.tv#?#a:-abp-contains(/ANONYME|Anonyme|Usenet|VPN|Vpn/)
 t9.pe,torrent09.uno,torrent9.bz,torrent9.cat,torrent9.cc,torrent9.ec,torrent9.nz,torrent9.pe,torrent9.ph,torrent9.top,torrent9.uno,torrents9.cc,torrents9.org,torrents9.pe,torrents9.tv#?#div[style]:-abp-contains(/ANONYME|Anonyme|Usenet|VPN|Vpn/)
 t9.pe,torrent09.uno,torrent9.bz,torrent9.cat,torrent9.cc,torrent9.ec,torrent9.nz,torrent9.pe,torrent9.ph,torrent9.top,torrent9.uno,torrents9.cc,torrents9.org,torrents9.pe,torrents9.tv#?#table[style]:-abp-contains(/ANONYME|Anonyme|Usenet|VPN|Vpn/)
+tourmag.com#?#.wm-module:-abp-contains(Contenu sponsorisé)
+tourmag.com#?#.wm-module:-abp-has(a[href^="https://www.hoteletlodgepro.biz/"])
 tsa-algerie.com#?#.jwpv-desktop:-abp-contains(Publicité)
 ! facebook.com
 facebook.com#?#.userContentWrapper:-abp-contains(Sponsorisé)
