@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: NjoaKJXw1nVUwRchjbiisg
-! Version: 201905120947
+! Checksum: wOWbY2vMeJDxk/ECcdBOHQ
+! Version: 201905140714
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -5557,8 +5557,6 @@ debugger:$popup
 ||9b51b7efc6d2a.com^
 ||a8a9455e53fbc75bc995.com^
 ||ae7c783736eb2ff.com^
-||g383912402.com^
-||g4058683381.com^
 !
 /^https?:\/\/[a-z]{6,9}\.(online|pw|xyz)\/[0-9a-zA-Z]{12,16}\/[0-9]{4,6}$/$script,third-party
 ||aenan.pw^
@@ -5933,6 +5931,7 @@ debugger:$popup
 ||129ji7ymdw.com^
 ||172ipkuobc.com^
 ||19bk5lo5q2.com^
+||1bcde.com^
 ||1paj4kmp.top^
 ||1wkvvts8is.com^
 ||1wvw2jgkca.com^
@@ -6313,6 +6312,7 @@ debugger:$popup
 ||rgvqcsxqge.com^
 ||rhfgjld.com^
 ||rhnw4h506h.com^
+||ridingintractable.com^
 ||rkdtt0hez7.com^
 ||rmawm7mw.top^
 ||rrtcfwmvhs.com^
@@ -8041,6 +8041,7 @@ debugger:$popup
 ||revenuehits.com^$popup,third-party
 ||revnuehub.com^$popup,third-party
 ||revsharecash.com^$popup,third-party
+||ridingintractable.com^$popup
 ||rliqvcw.xyz^$popup,third-party
 ||rometroit.com^$popup,third-party
 ||rotorrents.com^$popup,third-party
@@ -15368,6 +15369,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##a[href*="//jsmjmp.com/"]
 ##a[href*="//jsmptjmp.com/"]
 ##a[href*="//licantrum.com/"]
+##a[href*="//ridingintractable.com/"]
 ##a[href*="//toroadvertisingmedia.com/"]
 ##a[href*="//tracking.publicidees.com/clic.php?"] > img
 ##a[href*="//www.awin1.com/cread.php?"] > img
