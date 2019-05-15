@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: jvXyELtgSGs+6SEWSXyIWg
-! Version: 201905150442
+! Checksum: NzJOiduWQ2zsT5UbN2p3HA
+! Version: 201905150614
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -6309,6 +6309,7 @@ debugger:$popup
 ||qy1bx9an4j.com^
 ||r66at6sf.com^
 ||r8mxl.top^
+||retiremely.com^
 ||rgvqcsxqge.com^
 ||rhfgjld.com^
 ||rhnw4h506h.com^
@@ -8036,6 +8037,7 @@ debugger:$popup
 ||respecials.com^$popup,third-party
 ||restoring.club^$popup,third-party
 ||retargetads.net^$popup,third-party
+||retiremely.com^$popup
 ||rev2pub.com^$popup,third-party
 ||revdepo.com^$popup,third-party
 ||revenuehits.com^$popup,third-party
@@ -15654,6 +15656,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##a[href^="https://platform.jsecoin.com/?"]
 ##a[href^="https://r.ligatus.com/"]
 ##a[href^="https://recommendedforyou.xyz/"]
+##a[href^="https://retiremely.com/"]
 ##a[href^="https://secure.securitetotale.com/"]
 ##a[href^="https://shop.spyoff.com/signup/mb?packageId="] > img
 ##a[href^="https://snapmrsexe.com/lp/"]
