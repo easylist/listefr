@@ -3033,6 +3033,7 @@ _frontend_loader.$script
 /pub2/redirect.$popup
 /publicidad.$popup
 /puopen.php?$popup
+/r?token=*&q=$popup
 /random.php$popup
 /reactads.$popup
 /redir/*.php?r=$popup
@@ -3931,6 +3932,7 @@ debugger:$popup
 ||dm.gg^$third-party
 ||do-you-see.me^$third-party
 ||dolead.com^$third-party
+||doomna.com^$third-party
 ||doragonborusupa.com^$third-party
 ||dorcelcash.com^$third-party
 ||double6affiliation.com^$third-party
@@ -4062,6 +4064,7 @@ debugger:$popup
 ||geniusinstaller.com^$third-party
 ||gerasopa.com^$third-party
 ||gestion2web.com^$third-party
+||getalinkandshare.com^
 ||getfile321.com^$third-party
 ||getfree-vpn.com^$third-party
 ||gethide.com^$third-party
@@ -7291,6 +7294,7 @@ debugger:$popup
 ||2youtds.biz^$popup,third-party
 ||34.250.229.112^$popup,third-party
 ||35.225.234.73^$popup,third-party
+||360installer.com^$popup
 ||37.187.248.215^$popup,third-party
 ||37.46.192.170^$popup,third-party
 ||380tl.com^$popup,third-party
@@ -7674,6 +7678,7 @@ debugger:$popup
 ||gestionpub.com^$popup,third-party
 ||get-media.co^$popup,third-party
 ||get-my-ads.com^$popup,third-party
+||getalinkandshare.com^$popup
 ||getfile136.com^$popup,third-party
 ||getgamers.eu^$popup,third-party
 ||gethide.com^$popup,third-party
@@ -8301,7 +8306,7 @@ $stylesheet,third-party,domain=kissanime.ru
 !
 .php$script,domain=filmcomplet.la|filmcomplet.tv|filmstreamvf.com|filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.io|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmstreamvk.top|filmstreamvk.ws|filmstreamvk1.net|hdmoza.com|imgdrive.net|imgskull.com|planet-streaming.com|voirfilms.mx
 /cdn-cgi/apps/head/*$script,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
-/sw.js$domain=1337x.st|1337x.to|2giga.link|2shrink.com|9anime.to|9xbuddy.app|9xbuddy.com|9xbuddy.org|adshorte.in|adsrt.me|animemangaddl.com|arabseed.com|arabseed.tv|bagas31.info|bits.yt|blogginggyanbox.com|cartoonhd.co|chrt.pw|clicknupload.org|clicksfly.com|cll.press|cloudvideo.tv|cpabien.link|cut1.cf|dailyuploads.net|desiupload.in|dl-protect.top|downloadhub.cc|downloadhub.to|downloadhub.trade|downloadhub.wiki|downloadpirate.com|enfermeriahoy.com|filescdn.net|filmeonline.biz|gifsis.com|gomovies.film|gomovies.pl|gomovies.sc|gomovieshub.io|gostream.nu|gostreams.net|govtsmartjob.com|hdvid.life|hdvid.tv|hdvid.xyz|intoupload.net|islyce.com|islyce.gq|japscan.cc|japscan.com|japscan.to|keeplinks.co|licensekey.net|megaurl.in|moviescrush.co|multiup.eu|multiup.org|mycoolmoviez.com|mycoolmoviez.mobi|newskart.xyz|offmp3.app|offmp3.com|oko.sh|onvid.club|onvid.fun|onvid.host|onvid.icu|onvid.online|onvid.pw|onvid.xyz|openloadmovies.net|openloadmovies.review|ovid.icu|ovid.live|ovid.pro|ovid.pw|ovid.site|ovid.space|ovid.world|papstream.xyz|patchsoftwares.com|psl.pw|putlocker.ninja|short.pe|stream2watch.org|swatchseries.to|szs.pw|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tntendirect.com|uii.io|upload.ac|upload4earn.org|uploadbyte.com|uploadproper.com|uploadproper.net|urlty.in|vev.io|vidhd.club|vidhd.fun|vidhd.host|vidhd.online|vidhd.pro|vidhd.pw|vidhd.space|vidhd.world|vidlox.me|vidlox.tv|vidoza.co|vidoza.net|vidup.io|vidup.me|vidup.tv|viralnow.xyz|voirfilms.mx|vosbooks.tv|w4proxy.pw|world4ufree.com.co|world4ufree.fun|x1337x.eu|x1337x.se|x1337x.ws|yesmoviesapp.info|zippyshare.com
+/sw.js$domain=1337x.st|1337x.to|2giga.link|2shrink.com|9anime.to|9xbuddy.app|9xbuddy.com|9xbuddy.org|adshorte.in|adsrt.me|animemangaddl.com|arabseed.com|arabseed.tv|bagas31.info|bits.yt|blogginggyanbox.com|cartoonhd.co|chrt.pw|clicknupload.org|clicksfly.com|cll.press|cloudvideo.tv|cpabien.link|cut1.cf|dailyuploads.net|desiupload.in|dl-protect.top|downloadhub.cc|downloadhub.to|downloadhub.trade|downloadhub.wiki|downloadpirate.com|enfermeriahoy.com|filescdn.net|filmeonline.biz|gifsis.com|gomovies.film|gomovies.pl|gomovies.sc|gomovieshub.io|gostream.nu|gostreams.net|govtsmartjob.com|hdvid.life|hdvid.tv|hdvid.xyz|intoupload.net|islyce.com|islyce.gq|japscan.cc|japscan.com|japscan.to|keeplinks.co|licensekey.net|megaurl.in|moviescrush.co|multiup.eu|multiup.org|mycoolmoviez.com|mycoolmoviez.mobi|newskart.xyz|offmp3.app|offmp3.com|oko.sh|onvid.club|onvid.fun|onvid.host|onvid.icu|onvid.online|onvid.pw|onvid.xyz|openloadmovies.net|openloadmovies.review|ovid.icu|ovid.live|ovid.pro|ovid.pw|ovid.site|ovid.space|ovid.world|papstream.xyz|patchsoftwares.com|psl.pw|putlocker.ninja|sadeempc.com|short.pe|stream2watch.org|swatchseries.to|szs.pw|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tntendirect.com|uii.io|upload.ac|upload4earn.org|uploadbyte.com|uploadproper.com|uploadproper.net|urlty.in|vev.io|vidhd.club|vidhd.fun|vidhd.host|vidhd.online|vidhd.pro|vidhd.pw|vidhd.space|vidhd.world|vidlox.me|vidlox.tv|vidoza.co|vidoza.net|vidup.io|vidup.me|vidup.tv|viralnow.xyz|voirfilms.mx|vosbooks.tv|w4proxy.pw|world4ufree.com.co|world4ufree.fun|x1337x.eu|x1337x.se|x1337x.ws|yesmoviesapp.info|zippyshare.com
 /widgets.stackcommerce.com/*
 ||000webhost.com/migrate?$third-party
 ||10-81.s.cdn15.com/cr/38440/
@@ -11047,6 +11052,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ||douniamusic.com/images/dzsoog.gif
 ||douniamusic.com/include/pub-
 ||douniamusic.com/InterDouniaMusic.swf
+||douploads.com/sw
 ||dpstream.media/mz/*_luda_
 ||dpstream.media/mz/geart_best_
 ||dpstream.media/mz/vikings-
