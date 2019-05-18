@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: s1jf027BKwatU6wuh482mQ
-! Version: 201905180509
+! Checksum: MxwIv4pl66k93ZyLYX2xRw
+! Version: 201905181005
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2490,6 +2490,7 @@ _AdClick_
 _adco_
 _adcommon.
 _adpath_$subdocument
+_adplib.
 _ads.php$script,subdocument
 _ads/*?downsize=
 _ads2-
@@ -12383,6 +12384,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ||top-for-phone.fr/visuels/
 ||topachat.com/images/configo_*compos-
 ||topanalyse.com/pub/
+||topito.com/wp-content/*/scripts-head.min.js
 ||topjetm.net^*/img/pub.
 ||topliste-fr.com/filmsdivx.gif
 ||torrent1.com/pubs/
