@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: HDzA/HyJLhhAUvK5tKBqQA
-! Version: 201905190226
+! Checksum: 0pWrXo3VQ8/UfcnrsuSiHA
+! Version: 201905190236
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -11001,6 +11001,8 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ||credits-on-line.info/pub/
 ||cresus.dz/media/widgetkit/bandeau-
 ||cresus.dz/media/widgetkit/banner-
+||cresus.dz/media/widgetkit/banniere-
+||cresus.dz/media/widgetkit/pub-
 ||critique-livre.fr/wp-content/themes/default/images/stock.png
 ||csconstantine.com^*/fb-like-pop.js
 ||ctqui.com/pub/
@@ -17050,6 +17052,7 @@ lefigaro.fr##.tvm-reagir__pub
 ziimtube.com##.ui-dialog
 juritravail.com##.ui-pnotify
 ziimtube.com##.ui-widget-overlay
+cresus.dz##.uk-slideshow[style="height: 718px;"]
 cpasbien.top,cpasbiens.co,cpasbienss.com,cpasbienss.net##.ul-ffilm a
 jeuxetcompagnie.fr##.umbg-overlay-link
 pixhost.org##.under-image
