@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: PJgvylxCv0TW9KBlt/3Alg
-! Version: 201905202121
+! Checksum: C4z3Ahq1+FLPYsD3fBXbtA
+! Version: 201905210358
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -166,6 +166,7 @@
 -728x150-$subdocument
 -730x90.
 -768x90-
+-782x90.
 -800x100-
 -866x120-$image
 -900-x-250-
@@ -1858,6 +1859,7 @@
 /pub/habillage-
 /pub/iframe-$subdocument
 /pub/mobilis/*
+/pub/ooredoo-
 /pub/ooredoo/*
 /pub/pop.
 /pub/pub-
@@ -13457,6 +13459,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ###div_for_adnplay
 ###div_invideo_ad
 ###div_pub_google
+###dst_pub_728
 ###eShowPubTop
 ###ebuyclub-ad
 ###ecsc-ad-wrapper
