@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ZDEiF0uIfwj6GcAn1trsew
-! Version: 201905210808
+! Checksum: W+/uO0vSSxWm7BQoOPgOkw
+! Version: 201905210945
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1735,6 +1735,7 @@
 /pop_ex.
 /pop_redirect/*
 /popaaa/*$script
+/popadsnet.
 /popcall.js
 /popcashnet.js
 /popchaturbaterevshare.
@@ -15421,6 +15422,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##a[href*="/adstract."]
 ##a[href*="/adv-mybankai."]
 ##a[href*="/adver_link.php?"] > img
+##a[href*="/advertisesimple.info/"]
 ##a[href*="/aff_c?offer_id="] > img
 ##a[href*="/afiliados.html?id="]
 ##a[href*="/afu.php?"]
