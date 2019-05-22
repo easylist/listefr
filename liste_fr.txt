@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: x2SEAcvLw2kyoe+w3d30TA
-! Version: 201905220632
+! Checksum: f7WVCaUpnXfYmdjL89xz5w
+! Version: 201905222201
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -676,6 +676,7 @@
 /adforce.
 /adform.
 /adformat.
+/adfusion/ads/*
 /adhesion_ad.
 /adhosting.
 /adimage-
@@ -8795,6 +8796,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||funnel-me.com^$subdocument
 ||funradio.fr/partenaires/
 ||fused.com/images/banners/
+||fusion.localpoint.ch/widgets/$third-party
 ||g2a.com/*?addid=$popup
 ||g2a.com/r/$popup
 ||g2a.com/r/user-$subdocument,third-party
@@ -13598,6 +13600,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ###pave_pub
 ###pavepub
 ###photos_ad300
+###pie_pub_google
 ###play-advert
 ###player-advvertising
 ###playerPub
