@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: nI0p5q9vYCEVrtemxowyyg
-! Version: 201905220600
+! Checksum: ePirabewcClTLtd2PLUuWQ
+! Version: 201905220623
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -8499,6 +8499,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||avefront.akamaized.net/extra/static/images/partners/
 ||awhoer.net^*/vpn_
 ||awin1.com/awclick.php?
+||awin1.com^$popup,domain=configspc.com
 ||azurewebsites.net/widget/
 ||b.photobucket.com^
 ||ba.commentcamarche.net^
@@ -8716,7 +8717,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||edi-static.fr/Images/Pubs/
 ||education.ti.com^$domain=ti.bank.free.fr
 ||efficacitemaximale.com/wp-content/uploads/*/bann
-||effiliation.com^$popup,domain=dzsat.org
+||effiliation.com^$popup,domain=configspc.com|dzsat.org
 ||electrodz.com/wp-content/uploads/*/pub-
 ||elite-auto.fr/api/visuel/essai/$third-party
 ||elixx.me/images/footy.jpg
@@ -8759,7 +8760,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||fapmd.com/widgets/populars/$third-party
 ||faucetgol.win/coinbox/template/js/jquery.min.js
 ||faucetgol.win^$subdocument,third-party
-||fave.co^$popup,domain=dzsat.org
+||fave.co^$popup,domain=configspc.com|dzsat.org
 ||fbcdn.net^$domain=dailymotion.com
 ||fcdn.webme.com^$third-party
 ||feelingsurf.fr/images/banner_
