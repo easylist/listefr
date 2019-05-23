@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kgRKWV5EdxS9tFb2bKO8yQ
-! Version: 201905230349
+! Checksum: 4c7OCSnuuTnS/bgOqfi2jw
+! Version: 201905230448
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -16098,7 +16098,6 @@ freenews.fr###insidepic_widget
 loisirados.com###intersticiel
 conseils-courseapied.com###ja-banner
 lavenir.net###jobat_content
-cheznous.fr###js-alerte-popup
 lemonde.fr###js_deroule_ope
 juritravail.com###jt-footerContainer
 virginradio.fr###la-promo-showskin-a
@@ -17525,7 +17524,7 @@ gamalive.com##div[style*="width:160px;height:600px;"]
 couverturefacebook.fr##div[style*="width:450px; height:670px;"]
 maxifoot.fr##div[style*="width:468px;"]
 livehost.fr##div[style*="width:728px"]
-tikiwin.com##div[style*="width:728px; height:90px;"]
+cheznous.fr,tikiwin.com##div[style*="width:728px; height:90px;"]
 filecrypt.cc,sblive.online,stream365.pro,vip7stream.pw##div[style*="z-index:"]
 redlist-ultimate.be##div[style="display:none;"] + .block
 bloggif.com##div[style="float:left; text-align:center; margin-bottom:10px; width:370px; height:280px;"]
