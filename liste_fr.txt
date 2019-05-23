@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 4c7OCSnuuTnS/bgOqfi2jw
-! Version: 201905230448
+! Checksum: rHlb/+BIJwOyQQdhN/IP5Q
+! Version: 201905230510
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -13203,7 +13203,6 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ###ad_native_show
 ###ad_native_tv
 ###ad_placement_workopolis
-###ad_player
 ###ad_rect_sub
 ###ad_rotation_match
 ###ad_smartphbig
@@ -13479,6 +13478,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ###dfp-pave_milieu
 ###dfp_banniere_bas
 ###dfp_banniere_haute
+###dfp_droite-ga
 ###dfp_inread
 ###dfp_leaderboard
 ###dfp_left
@@ -15355,7 +15355,6 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##[id^="adswidget3-quick-adsense"]
 ##[id^="adswidget4-quick-adsense"]
 ##[id^="block-xiti_oas-"]
-##[id^="bunyad_ads_widget-"]
 ##[id^="codeneric_ad_widget-"]
 ##[id^="criteoDivPave"]
 ##[id^="dfp_ban_"]
@@ -15443,7 +15442,6 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##a[href*="//jsmjmp.com/"]
 ##a[href*="//jsmptjmp.com/"]
 ##a[href*="//licantrum.com/"]
-##a[href*="//ridingintractable.com/"]
 ##a[href*="//toroadvertisingmedia.com/"]
 ##a[href*="//tracking.publicidees.com/clic.php?"] > img
 ##a[href*="//www.awin1.com/cread.php?"] > img
@@ -15726,7 +15724,6 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##a[href^="https://platform.jsecoin.com/?"]
 ##a[href^="https://r.ligatus.com/"]
 ##a[href^="https://recommendedforyou.xyz/"]
-##a[href^="https://retiremely.com/"]
 ##a[href^="https://secure.securitetotale.com/"]
 ##a[href^="https://shop.spyoff.com/signup/mb?packageId="] > img
 ##a[href^="https://snapmrsexe.com/lp/"]
@@ -15790,7 +15787,6 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##div[id*="_div_ads_header_"]
 ##div[id*="_main_ads_header_"]
 ##div[id*="_section_ads_header_"]
-##div[id="dfp_droite-ga"]
 ##div[id^="M"][id*="Composite"]
 ##div[id^="PostAd"]
 ##div[id^="adsatlas-"]
@@ -15803,7 +15799,6 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##div[id^="block-views-ads-header-"]
 ##div[id^="block-views-ads-sidebar-"]
 ##div[id^="crt-"][data-criteo-id]
-##div[id^="crt-"][style*="width:"]
 ##div[id^="div-adt-"]
 ##div[id^="divsda-"]
 ##div[id^="exoNativeWidget"]
