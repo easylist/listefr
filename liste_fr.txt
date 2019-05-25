@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ubeN6OTgwoI1pvtWN2sb8w
-! Version: 201905250711
+! Checksum: 8dCQ8gVwyVAPkTwbx13Dlg
+! Version: 201905251011
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -15852,6 +15852,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##a[href^="https://traceless.me/lp/"]
 ##a[href^="https://tubexxxone.com/?"]
 ##a[href^="https://uploadgig.com/premium/index/"] > img
+##a[href^="https://windscribe.com/?affid="] > img
 ##a[href^="https://www.echangedebannieres.fr/click.php?"]
 ##a[href^="https://www.echangedebannieres.fr/index.php?id="]
 ##a[href^="https://www.eurodns.com/?utm_source="] > img
