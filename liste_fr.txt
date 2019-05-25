@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 8dCQ8gVwyVAPkTwbx13Dlg
-! Version: 201905251011
+! Checksum: lFcyaj/4YF9UzjwSxC1LRw
+! Version: 201905251040
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17759,6 +17759,7 @@ frandroid.com#?#.container_native_home-list:-abp-has(.aligot-icon)
 frandroid.com#?#.home_bloc_zh:-abp-has(.aligot-icon)
 frandroid.com#?#.post-preview:-abp-has(.aligot-icon)
 frandroid.com#?#.post-preview:-abp-has(.aligot-icon-inline)
+frandroid.com#?#div[id^="i"][class^="i"]:-abp-has(.aligot-icon)
 ici-londres.com#?#.articles_list_item:-abp-has(.category:-abp-contains(Sponsorisé))
 journaldugeek.com#?#.entry__item:-abp-has(.entry__img-container--sponso)
 korben.info#?#.alderaan-sous-article:-abp-has(span:-abp-contains(publicité))
