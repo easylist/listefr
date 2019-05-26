@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 8w2Va+CyR755UO4oPxsJ9A
-! Version: 201905260354
+! Checksum: 0J8Vhk7veDQ09LBKDuekkQ
+! Version: 201905260530
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -8792,6 +8792,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||cdn.ev.mu/js/optim/gg_cc/ev/boot.js$domain=~easyviaggio.com|~easyviajar.com|~easyvols.fr|~easyvoyage.co.uk|~easyvoyage.com|~easyvoyage.de
 ||cdn.m6web.fr/creatives/assets/
 ||cdn.maxcdn.info/a/
+||cdn.mgig.fr^*_1800x900.
 ||cdn.nkstatic.com/images/*-skins.
 ||cdn.playwire.com^$domain=filehippo.com
 ||cdn.speedvid.$popup
@@ -17374,6 +17375,7 @@ regimea.com##.widget_sp_image-image-link
 msn.com##.win10promo
 directmatin.fr##.wrap_evenement
 directmatin.fr##.wrap_pub_300_250
+macg.co##.wrapper > a
 papergeek.fr,phonandroid.com##.wrapper-banner
 nextinpact.com##.wrapper_pub_sidebar > [class]:first-child
 flaghit.com##.xd_footer
