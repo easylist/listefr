@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: y/bmQEg3DL6j2uKF30lkNw
-! Version: 201905281753
+! Checksum: jcz4cdsRYF4AW8ePG33ZmQ
+! Version: 201905281811
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -956,6 +956,7 @@
 /adv/*_468
 /adv/*_728
 /adv/adx.
+/adv/banner2/*
 /adv/banners/*
 /adv/pads.
 /adv/partners/*
@@ -1162,6 +1163,8 @@
 /banner_top.$subdocument
 /bannerad2300.
 /bannerad300.
+/bannerad4.
+/bannerad5.
 /bannercode-
 /bannerinf.js
 /bannerinf?lg=
@@ -1986,6 +1989,7 @@
 /pubs/dfp/*
 /pubs/habillage/*
 /pubs_portail/*
+/pubsky.php
 /pubvw.
 /pulicense.js
 /pup.php?*&pub=
@@ -12875,6 +12879,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ||xboards.org/static/sponsors/
 ||xbooru.com/x.
 ||xlporn.fr/getpub?
+||xn--mto-bmab.fr/include/$subdocument
 ||xstarsnews.com/admin/gestion_bann/banniere.
 ||xstarsnews.com/banner-pub/
 ||xxxity.com/*.php$script
