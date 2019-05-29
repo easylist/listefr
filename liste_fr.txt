@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: KeaqRUP8Rt3v4hfFzEY2dQ
-! Version: 201905290139
+! Checksum: rgdTRXMJbifd+8wMGyzq0A
+! Version: 201905292301
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -214,6 +214,7 @@
 -aoa-functions.
 -apstag-ads/
 -async-ads.
+-async/*,adb=
 -ban.468.php
 -banner-125x125.
 -banner-300.
@@ -895,6 +896,7 @@
 /ads_server/*
 /ads_top.
 /ads_video.
+/adsafe-vast.
 /AdSale/*
 /adsanity.
 /adsatlas_
@@ -2013,6 +2015,7 @@
 /redirect?tid=$subdocument
 /redirect?uid=$subdocument
 /redirect_pub.
+/redirector.*_ads
 /ref-336.
 /ref-728.
 /referral_banners/*
@@ -4142,6 +4145,7 @@ debugger:$popup
 ||greatregie.com^$third-party
 ||gtburst.com^$third-party
 ||guestcash.com^$third-party
+||gvt1.com^$third-party
 ||hascosafety.com^$third-party
 ||hatchord.com^$third-party
 ||hchupin.xyz^$third-party
@@ -12131,6 +12135,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ||mode.wamland.nc^*.html$object,subdocument
 ||mon-compte.org/img*compte
 ||mon-compte.org/img*connecte
+||mon.allocine.fr^
 ||monaco.mc/pages/getbandeau.jsp?
 ||monbestseller.com/sites/default/files/pushs/
 ||monbestseller.com/sites/default/files/styles/push/
@@ -13068,6 +13073,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ||d2i54aseqwhx68.cloudfront.net^
 ||d2is3w689nunba.cloudfront.net^
 ||d2izezc8ujpkba.cloudfront.net^
+||d2k4es4l94a3cv.cloudfront.net^
 ||d2k8yz7zlc0yyi.cloudfront.net^
 ||d2kbaqwa2nt57l.cloudfront.net^
 ||d2kz60b0gq4lg.cloudfront.net^
