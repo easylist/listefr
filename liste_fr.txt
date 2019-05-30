@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: v+oOQsjFfUJdgWrjrGpTnA
-! Version: 201905300214
+! Checksum: ezdQGCfyUbgFO0/zcP6lqQ
+! Version: 201905300313
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -16074,6 +16074,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##div[onerror="fuck_adblock()"]
 ##form[action^="http://163.172.219.174/"]
 ##gwd-doubleclick
+##hidden-horizontal-pub
 ##iframe[id^="ylt"][style][sandbox][width][height]
 ##iframe[name*="/adunblock_"]
 ##ins[data-ad-position]
@@ -17743,6 +17744,7 @@ pyrenees-team.com##div#link
 gamopat-forum.com##div#wrapper > div#right img[src*="/11/03/61/79/"]
 finansemble.fr##div.div_description_v2[style="max-width:750px;"]
 loractu.fr##div.landing
+kozikaza.com##div[class$="item--ad"]
 net-iris.fr##div[class$="promo-container"]
 film-telechargement.org,telechargement-film.org,telechargement.vip##div[class*="vip"]
 booska-p.com##div[class][style^="background"]
