@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: zXYk023Oh99hKCa+aXzo5w
-! Version: 201905300814
+! Checksum: VDW6Ijye0OmXLyZiLtQDRw
+! Version: 201905300831
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -10031,8 +10031,8 @@ $stylesheet,third-party,domain=kissanime.ru
 ||torrentfunk.com/sw
 ||torrentfunk.com^$subdocument
 ! proxyportal.org
-|http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=alstreams.org|bypassed.gold|bypassed.in|bypassed.st|bypassed.ws|bypassed.wtf|immunicity.gold|immunicity.st|mrunlock.icu|proxyportal.eu|proxyportal.me|unblockall.org|unblocked.app|unblocked.bid|unblocked.gdn|unblocked.gold|unblocked.lol|unblocked.ms|unblocked.st|unblocked.wtf|unblockproject.xyz
-|https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=alstreams.org|bypassed.gold|bypassed.in|bypassed.st|bypassed.ws|bypassed.wtf|immunicity.gold|immunicity.st|mrunlock.icu|proxyportal.eu|proxyportal.me|unblockall.org|unblocked.app|unblocked.bid|unblocked.gdn|unblocked.gold|unblocked.lol|unblocked.ms|unblocked.st|unblocked.wtf|unblockproject.xyz
+|http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=alstreams.org|bypassed.gold|bypassed.in|bypassed.life|bypassed.ooo|bypassed.st|bypassed.top|bypassed.ws|bypassed.wtf|bypassed.xyz|bypassed.zone|fuispunlockx0r.fun|fux0r.fun|fux0r.fyi|fux0r.icu|fux0r.ooo|fux0r.top|fux0r.xyz|immunicity.gold|immunicity.st|ispunlock.ooo|ispunlock.top|ispunlock.xyz|mrunlock.icu|proxyportal.eu|proxyportal.me|tpb.fyi|tpb.icu|tpb.top|tpb.wtf|tpb.xyz|unblockall.org|unblocked.app|unblocked.bid|unblocked.gdn|unblocked.gold|unblocked.lol|unblocked.ms|unblocked.st|unblocked.wtf|unblockproject.xyz
+|https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=alstreams.org|bypassed.gold|bypassed.in|bypassed.life|bypassed.ooo|bypassed.st|bypassed.top|bypassed.ws|bypassed.wtf|bypassed.xyz|bypassed.zone|fuispunlockx0r.fun|fux0r.fun|fux0r.fyi|fux0r.icu|fux0r.ooo|fux0r.top|fux0r.xyz|immunicity.gold|immunicity.st|ispunlock.ooo|ispunlock.top|ispunlock.xyz|mrunlock.icu|proxyportal.eu|proxyportal.me|tpb.fyi|tpb.icu|tpb.top|tpb.wtf|tpb.xyz|unblockall.org|unblocked.app|unblocked.bid|unblocked.gdn|unblocked.gold|unblocked.lol|unblocked.ms|unblocked.st|unblocked.wtf|unblockproject.xyz
 ! skytorrents.lol
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=skytorrents.lol
 |https://$image,script,subdocument,third-party,xmlhttprequest,domain=skytorrents.lol
@@ -10791,6 +10791,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ||i.imgur.com/qC2Tc51.png
 ||i.imgur.com/qnMnMxB.jpg
 ||i.imgur.com/QUr0jZA.gif
+||i.imgur.com/sfBhycz.jpg
 ||i.imgur.com/SIdBuCi.png
 ||i.imgur.com/SmRC1lO.png
 ||i.imgur.com/T1HRFty.png
@@ -18080,8 +18081,8 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||cdn.fluidplayer.com^*/current/fluidplayer.min.js$script,domain=babesxworld.com
 @@||cdn.jsdelivr.net^$script,domain=extratorrent.si|full-stream.ws|nowvideo.club|nowvideo.pw|seriefr.eu|seriefr.xyz|series-en-streaming.tv|tellerium.com|vidlox.me|vidlox.tv
 @@||cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/$script,domain=vidlox.me|vidlox.tv
-@@||cloudflare.com/ajax/libs/$script,stylesheet,domain=alstreams.org|at.ua|babesxworld.com|biter.tv|bypassed.gold|bypassed.in|bypassed.st|bypassed.ws|bypassed.wtf|byter.tv|cmovie.me|completvf.com|convertinmp4.com|cpmlink.net|file-up.org|file-upload.com|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|full-stream.ws|immunicity.gold|immunicity.st|japscan.to|jetanime.co|mrunlock.icu|msembed.net|mstream.net|msyembed.net|mysembed.net|mystream.to|official-film-illimite.cc|official-film-illimite.net|ouo.io|ouo.press|pokemon-streaming.com|protect-stream.com|proxyportal.eu|proxyportal.me|realtimetv.me|seriefr.eu|seriefr.xyz|series-en-streaming.tv|skytorrents.lol|streamingeur.com|tellerium.com|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua|unblockall.org|unblocked.app|unblocked.gdn|unblocked.ms|unblockproject.xyz|univers-animeiz.net|uploadmp4.com|urlst.me|vidlox.me|vidlox.tv|vidsource.me|vidsrc.me|voirfilms.link|zone-telechargements.com
-@@||code.jquery.com^$script,domain=2giga.link|alstreams.org|babesxworld.com|bypassed.gold|bypassed.in|bypassed.st|bypassed.ws|bypassed.wtf|cocogals.com|embed.komatv.com|extratorrent.si|flowyourvideo.com|full-anime.com|full-film.me|full-serie.co|full-serie.ws|full-stream.io|full-stream.nu|full-stream.su|full-stream.ws|immunicity.gold|immunicity.st|japscan.to|mrunlock.icu|planet-streaming.com|protect-stream.com|proxyportal.eu|proxyportal.me|seriefr.eu|seriefr.xyz|series-en-streaming.tv|tntendirect.com|torrentfunk.com|unblockall.org|unblocked.app|unblocked.gdn|unblocked.ms|unblockproject.xyz
+@@||cloudflare.com/ajax/libs/$script,stylesheet,domain=2giga.link|alstreams.org|at.ua|babesxworld.com|biter.tv|bypassed.gold|bypassed.in|bypassed.life|bypassed.ooo|bypassed.st|bypassed.top|bypassed.ws|bypassed.wtf|bypassed.xyz|bypassed.zone|byter.tv|cmovie.me|completvf.com|convertinmp4.com|cpmlink.net|file-up.org|file-upload.com|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|fuispunlockx0r.fun|full-stream.ws|fux0r.fun|fux0r.fyi|fux0r.icu|fux0r.ooo|fux0r.top|fux0r.xyz|immunicity.gold|immunicity.st|ispunlock.ooo|ispunlock.top|ispunlock.xyz|japscan.to|jetanime.co|mrunlock.icu|msembed.net|mstream.net|msyembed.net|mysembed.net|mystream.to|official-film-illimite.cc|official-film-illimite.net|ouo.io|ouo.press|pokemon-streaming.com|protect-stream.com|proxyportal.eu|proxyportal.me|realtimetv.me|seriefr.eu|seriefr.xyz|series-en-streaming.tv|skytorrents.lol|streamingeur.com|tellerium.com|tpb.fyi|tpb.icu|tpb.top|tpb.wtf|tpb.xyz|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua|unblockall.org|unblocked.app|unblocked.gdn|unblocked.ms|unblockproject.xyz|univers-animeiz.net|uploadmp4.com|urlst.me|vidlox.me|vidlox.tv|vidsource.me|vidsrc.me|voirfilms.link|zone-telechargements.com
+@@||code.jquery.com^$script,domain=2giga.link|alstreams.org|babesxworld.com|bypassed.gold|bypassed.in|bypassed.life|bypassed.ooo|bypassed.st|bypassed.top|bypassed.ws|bypassed.wtf|bypassed.xyz|bypassed.zone|cocogals.com|embed.komatv.com|extratorrent.si|flowyourvideo.com|fuispunlockx0r.fun|full-anime.com|full-film.me|full-serie.co|full-serie.ws|full-stream.io|full-stream.nu|full-stream.su|full-stream.ws|fux0r.fun|fux0r.fyi|fux0r.icu|fux0r.ooo|fux0r.top|fux0r.xyz|immunicity.gold|immunicity.st|ispunlock.ooo|ispunlock.top|ispunlock.xyz|japscan.to|mrunlock.icu|planet-streaming.com|protect-stream.com|proxyportal.eu|proxyportal.me|seriefr.eu|seriefr.xyz|series-en-streaming.tv|tntendirect.com|torrentfunk.com|tpb.fyi|tpb.icu|tpb.top|tpb.wtf|tpb.xyz|unblockall.org|unblocked.app|unblocked.gdn|unblocked.ms|unblockproject.xyz
 @@||connect.facebook.net^*/sdk.js$script,domain=force-download.com|force-download.es|force-download.fr|force-download.net
 @@||content.jwplatform.com/libraries/$script,domain=protect-stream.com
 @@||disqus.com/embed.js$script,domain=cocostreaming.com|full-anime.com|full-film.me|full-serie.co|full-serie.ws|full-stream.io|full-stream.nu|full-stream.su|planet-streaming.com
