@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: VDW6Ijye0OmXLyZiLtQDRw
-! Version: 201905300831
+! Checksum: BXBKL7ysxknkLoOs2m4Uvw
+! Version: 201905300832
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -9973,10 +9973,6 @@ $stylesheet,third-party,domain=kissanime.ru
 @@||vidoza.net/embed-$subdocument,third-party,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 |http://$image,ping,script,subdocument,third-party,xmlhttprequest,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
 |https://$image,ping,script,subdocument,third-party,xmlhttprequest,domain=full-stream.ws|seriefr.eu|seriefr.xyz|series-en-streaming.tv
-! simpson-en-streaming.com
-.club^$domain=simpson-en-streaming.com
-|http://$script,third-party,domain=simpson-en-streaming.com
-|https://$script,third-party,domain=simpson-en-streaming.com
 ! filmsvostfr.cc
 |http://$script,third-party,domain=filmsvostfr.cc|filmsvostfr.io|filmsvostfr.ws|filmsvostfr.xyz
 |https://$script,third-party,domain=filmsvostfr.cc|filmsvostfr.io|filmsvostfr.ws|filmsvostfr.xyz
@@ -18074,10 +18070,10 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||www.les-terrains.com/images/chargement_en_cours.gif|$image,~third-party
 @@||www.omochasama.com/wp-content/uploads/*-120x240.$image,~third-party
 ! Liste blanche pour corriger le blocage strict
-@@||ajax.googleapis.com/ajax/libs/$script,domain=2giga.link|9anime.to|9xbuddy.app|9xbuddy.com|9xbuddy.org|9xlinks.net|animever.net|at.ua|biter.tv|bypassed.gold|bypassed.in|bypassed.st|byter.tv|cineiz.co|cineiz.io|cloudy.ec|cocostreaming.co|completvf.com|cpabien.ch|cpabien.co|cpabien.link|cpabien.pl|cpasbien.vg|cpasbien9.net|daclips.com|daclips.in|datpiff.com|ddl-island.su|direct-torrents.com|divxme.com|dl-protect1.com|downloadhub.cc|downloadhub.to|downloadhub.trade|downloadhub.wiki|ed-protect.org|emule-island.ru|ewa.ac|filmsvostfr.io|filmsvostfr.ws|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|flowyourvideo.com|frstreaming.co.uk|full-stream.ws|g5u.pw|gamestorrents.com|getsl.me|gktorrent.cx|gnula.nu|gorillavid.in|gsurl.in|gsurl.me|gum-gum-stream.eu|gum-gum-stream.fr|gum-gum-stream.tv|gum-gum-streaming.com|heures.be|hours.be|immunicity.gold|immunicity.st|japscan.to|jetanime.co|lecpasbien.com|lepetitlecteur.fr|lepetitmag.fr|liens-telechargement.com|mangastreaming.eu|movpod.in|nextorrent.site|nowvideo.club|nowvideo.pw|official-film-illimite.cc|official-film-illimite.net|offmp3.app|offmp3.com|openingstijdengids.nl|openingsurengids.be|ouo.io|ouo.press|protect-stream.com|proxyportal.me|putstream.com|revivelink.com|security-links.com|seriefr.eu|seriefr.xyz|series-en-streaming.tv|shink.in|shink.me|shon.xyz|simpson-en-streaming.com|sokrostream.cx|stream-island.su|streamelite.net|streamingeur.com|t9.pe|thebadside.com|torrent09.uno|torrent9.biz|torrent9.cat|torrent9.nz|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua|unblockall.org|unblocker.gdn|univers-animeiz.net|uppit.com|uskip.me|vidsource.me|vidsrc.me|vidstodo.me|vidto.me|vidto.se|vidtod.me|vidtudu.com|voirfilms.link|wawacity.ec|youmoviz.org
+@@||ajax.googleapis.com/ajax/libs/$script,domain=2giga.link|9anime.to|9xbuddy.app|9xbuddy.com|9xbuddy.org|9xlinks.net|animever.net|at.ua|biter.tv|bypassed.gold|bypassed.in|bypassed.st|byter.tv|cineiz.co|cineiz.io|cloudy.ec|cocostreaming.co|completvf.com|cpabien.ch|cpabien.co|cpabien.link|cpabien.pl|cpasbien.vg|cpasbien9.net|daclips.com|daclips.in|datpiff.com|ddl-island.su|direct-torrents.com|divxme.com|dl-protect1.com|downloadhub.cc|downloadhub.to|downloadhub.trade|downloadhub.wiki|ed-protect.org|emule-island.ru|ewa.ac|filmsvostfr.io|filmsvostfr.ws|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|flowyourvideo.com|frstreaming.co.uk|full-stream.ws|g5u.pw|gamestorrents.com|getsl.me|gktorrent.cx|gnula.nu|gorillavid.in|gsurl.in|gsurl.me|gum-gum-stream.eu|gum-gum-stream.fr|gum-gum-stream.tv|gum-gum-streaming.com|heures.be|hours.be|immunicity.gold|immunicity.st|japscan.to|jetanime.co|lecpasbien.com|lepetitlecteur.fr|lepetitmag.fr|liens-telechargement.com|mangastreaming.eu|movpod.in|nextorrent.site|nowvideo.club|nowvideo.pw|official-film-illimite.cc|official-film-illimite.net|offmp3.app|offmp3.com|openingstijdengids.nl|openingsurengids.be|ouo.io|ouo.press|protect-stream.com|proxyportal.me|putstream.com|revivelink.com|security-links.com|seriefr.eu|seriefr.xyz|series-en-streaming.tv|shink.in|shink.me|shon.xyz|sokrostream.cx|stream-island.su|streamelite.net|streamingeur.com|t9.pe|thebadside.com|torrent09.uno|torrent9.biz|torrent9.cat|torrent9.nz|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua|unblockall.org|unblocker.gdn|univers-animeiz.net|uppit.com|uskip.me|vidsource.me|vidsrc.me|vidstodo.me|vidto.me|vidto.se|vidtod.me|vidtudu.com|voirfilms.link|wawacity.ec|youmoviz.org
 @@||api-secure.solvemedia.com/papi/$image,script,domain=clik.pw
 @@||api.peer5.com^$script,domain=vidlox.me|vidlox.tv
-@@||bootstrapcdn.com/bootstrap/$script,stylesheet,domain=2giga.link|completvf.com|cpabien.ch|cpabien.co|cpabien.link|cpabien.pl|cpasbien.vg|cpasbien9.net|direct-torrents.com|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|full-stream.ws|gktorrent.cx|jetanime.co|lecpasbien.com|official-film-illimite.cc|official-film-illimite.net|protect-stream.com|seriefr.eu|seriefr.xyz|series-en-streaming.tv|simpson-en-streaming.com|streamingvf1.com|t9.pe|torrent09.uno|torrent9.biz|torrent9.cat|torrent9.nz|uploadrar.com|uploads.to|vidlox.me|vidlox.tv
+@@||bootstrapcdn.com/bootstrap/$script,stylesheet,domain=2giga.link|completvf.com|cpabien.ch|cpabien.co|cpabien.link|cpabien.pl|cpasbien.vg|cpasbien9.net|direct-torrents.com|filmzenstream.com|filmzenstream.me|filmzenstream.to|filmzenstream.tv|full-stream.ws|gktorrent.cx|jetanime.co|lecpasbien.com|official-film-illimite.cc|official-film-illimite.net|protect-stream.com|seriefr.eu|seriefr.xyz|series-en-streaming.tv|streamingvf1.com|t9.pe|torrent09.uno|torrent9.biz|torrent9.cat|torrent9.nz|uploadrar.com|uploads.to|vidlox.me|vidlox.tv
 @@||cdn.fluidplayer.com^*/current/fluidplayer.min.js$script,domain=babesxworld.com
 @@||cdn.jsdelivr.net^$script,domain=extratorrent.si|full-stream.ws|nowvideo.club|nowvideo.pw|seriefr.eu|seriefr.xyz|series-en-streaming.tv|tellerium.com|vidlox.me|vidlox.tv
 @@||cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/$script,domain=vidlox.me|vidlox.tv
