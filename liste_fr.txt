@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 6f6CsXB6tKm4D/wejMw0MQ
-! Version: 201905311412
+! Checksum: u4juZw1KL+edRQq8LMlKzg
+! Version: 201905311417
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -14919,6 +14919,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##.header_pub
 ##.header_sponsors
 ##.header_top_ads
+##.hidden-horizontal-pub
 ##.hide-pub-1000x90
 ##.hide-pub-300x250
 ##.hideStartAdZone
@@ -16076,7 +16077,6 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##div[onerror="fuck_adblock()"]
 ##form[action^="http://163.172.219.174/"]
 ##gwd-doubleclick
-##hidden-horizontal-pub
 ##iframe[id^="ylt"][style][sandbox][width][height]
 ##iframe[name*="/adunblock_"]
 ##ins[data-ad-position]
