@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: BXBKL7ysxknkLoOs2m4Uvw
-! Version: 201905300832
+! Checksum: 6f6CsXB6tKm4D/wejMw0MQ
+! Version: 201905311412
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2541,6 +2541,7 @@ _adpath_$subdocument
 _adplib.
 _ads.php$script,subdocument
 _ads/*?downsize=
+_ads/banner/
 _ads2-
 _ads4stream_
 _ads860x120.
@@ -8833,6 +8834,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||century21.fr^$subdocument,third-party
 ||cex.io/rb/$third-party
 ||chaturbate.com^*/?track=$subdocument,third-party
+||checkout.hidemyass.com/images/merchant/$third-party
 ||chimeratool.com/banner/
 ||choubijoux.com/image/banniere-$third-party
 ||chp.org.tr^$domain=link.tl
@@ -9588,6 +9590,8 @@ $stylesheet,third-party,domain=kissanime.ru
 ||searchtrade.com/images/banners/
 ||seargg.xyz^$popup
 ||seckinpartner.info^$image,third-party
+||secure.2checkout.com/images/merchant/$third-party
+||secure.avangate.com/images/merchant/$third-party
 ||securitetotale.com^$subdocument,third-party
 ||senditcloud.com^$popup
 ||seo-autosurf.esy.es^*/upload/bannieres/
@@ -15956,6 +15960,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##a[href^="https://bestapppro.com/"]
 ##a[href^="https://bj1110.online/"]
 ##a[href^="https://blockadz.com/?"]
+##a[href^="https://checkout.hidemyass.com/affiliate.php?"] > img
 ##a[href^="https://downloadplayer.xyz/"]
 ##a[href^="https://fileslicious.tf/"]
 ##a[href^="https://go.alvexo.com/"]
