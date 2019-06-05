@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Ht20qQ7ijQthpIDDhWi+Tw
-! Version: 201906042115
+! Checksum: gqA9kzev0idIfE305DtSEQ
+! Version: 201906051137
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2813,7 +2813,7 @@ _frontend_loader.$script
 ||pro/func.js
 ||pro^*/pop/js/
 ||pro^*=/$script,third-party
-||pro^*?zoneId=
+||pro^*?zoneId=$third-party
 ||pw/?*&keyword=*_referrer=
 ||pw/sw.js
 ||rocks^*.php?z=$third-party
