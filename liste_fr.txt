@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: /U3U6TZvnNUaq9gT+PUgAA
-! Version: 201906061325
+! Checksum: 5kNsDzVecLANUugC8PNfcw
+! Version: 201906061330
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1070,6 +1070,7 @@
 /assets/adf-
 /assets/adn-
 /assets/padb-
+/assets/pop.js
 /async?*&tid=
 /asynch/*/Tag.$script,third-party,xmlhttprequest
 /atlads1/*
@@ -1789,6 +1790,7 @@
 /popunder03-
 /popunder03.
 /popunder1000.
+/popunder1000.js
 /popunder3.
 /popunder6.
 /popunderclic.
@@ -2929,6 +2931,7 @@ _frontend_loader.$script
 .popunder.$popup
 .promorewards.$popup
 .superpromo.$popup
+.toroadvertising.$popup
 /*qertewrt.com$popup
 /?*&a_aid=*&$popup
 /?a_bid=$popup
@@ -8062,6 +8065,7 @@ debugger:$popup
 ||looksmartppc.com^$popup,third-party
 ||loudads.net^$popup,third-party
 ||lovelinebabydesign.com^$popup,third-party
+||lpg02.com^$popup
 ||m4adata.com^$popup
 ||madamecam.com^$popup,third-party
 ||makeitunder.com^$popup,third-party
@@ -8415,6 +8419,7 @@ debugger:$popup
 ||toponclick.com^$popup
 ||topqualitylink.com^$popup,third-party
 ||toptanfirsati.com^$popup,third-party
+||toroadvertising.com^$popup,third-party
 ||tororango.com^$popup,third-party
 ||torriderencontre.com^$popup,third-party
 ||totifiquo.com^$popup,third-party
