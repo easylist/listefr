@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: d2gvpFF21/1WGqE+DgEsbA
-! Version: 201906060105
+! Checksum: E+uUE5tzx08MoeYgeoCPYA
+! Version: 201906061316
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17921,7 +17921,7 @@ frandroid.com#?#div[id^="i"][class^="i"]:-abp-has(.aligot-icon)
 ici-londres.com#?#.articles_list_item:-abp-has(.category:-abp-contains(Sponsorisé))
 journaldugeek.com#?#.entry__item:-abp-has(.entry__img-container--sponso)
 korben.info#?#.alderaan-sous-article:-abp-has(span:-abp-contains(publicité))
-korben.info#?#article.type-post:-abp-has(header:-abp-has(a[href^="http://bit.ly/"]))
+korben.info#?#div > hr + article.type-post:-abp-has(header:-abp-has(a[href^="http://bit.ly/"]))
 lemonde.fr#?#.area--ops:-abp-has(p:-abp-contains(Contenus partenaires))
 multiup.eu,multiup.org#?#.alert:-abp-contains(VPN)
 numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
