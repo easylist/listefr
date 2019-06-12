@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: jGicrNGFvbEKllfQ8Hr3Gw
-! Version: 201906121111
+! Checksum: JAym11/TVPWwnqEDuzzYWg
+! Version: 201906121857
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17917,6 +17917,7 @@ iphonetweak.fr##.pub-img
 iphonesoft.fr,iphonetweak.fr##.trc-content-sponsored
 ! Filtres de propriété CSS pour Adblock Plus
 narcity.com##.article-thumbnail:-abp-has(.sponsored-mention)
+allocine.fr#?#.video-card:-abp-has(.label-sponso)
 amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com#?#:-abp-properties(base64)
 amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com,senscritique.com,seriehentai.com#?#:-abp-properties(data:)
 annuaire-telechargement.com,zone-telechargement.to,zone-telechargement1.world#?#a:-abp-contains(/ANONYME|Usenet/)
