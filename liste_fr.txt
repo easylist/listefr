@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: tYJV8eNA3DNbBXrvbOTNgA
-! Version: 201906130103
+! Checksum: RArpn7ukYM7Yr7OjYAVJ+g
+! Version: 201906131846
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -11025,6 +11025,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ||angelina-jolie-nue.com/data/$image
 ||angelina-jolie-nue.com^$script
 ||anilinkz.$popup,~third-party
+||anime-vf.fr/image/actu-player.png
 ||animefight.com^*/partenaires/
 ||animeka.com/_img/cache/partner/
 ||animes-streaming.net/images/ruedufric.png
@@ -17715,6 +17716,7 @@ qwant.com##a[href^="https://www.bing.com/aclk?"]
 maison-et-domotique.com##a[href^="https://www.bons-plans-elise.fr/"]
 footpy.fr##a[href^="https://www.facebook.com/adhocperformances/?"]
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
+anime-vf.fr##a[href^="https://www.newsly24.com/"]
 credit-agricole.fr##a[href^="https://www.onatousuncotefoot.fr/"]
 streaminggratuitvf.com##a[href^="https://www.rapidequiz.com/"]
 undernews.fr##a[href^="https://www.undernews.fr/redirect/"]
