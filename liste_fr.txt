@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 9oDNxpfX+jCv33RLDCmGCw
-! Version: 201906122247
+! Checksum: 5lzFHYKlc+rdlyuiD2kQeg
+! Version: 201906130036
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -9981,7 +9981,7 @@ $stylesheet,third-party,domain=kissanime.ru
 .damoh.$media,~third-party
 ||damoh.commentcamarche.net^$media
 ! tf1.fr
-/^((?!(^https?|^blob):\/\/((ajax|firestore)\.googleapis\.com|(odb|storage|widgets)\.outbrain\.com|(staticxx|www)\.facebook\.com|ak-tf1-das-liv-ssl\.akamaized\.net|api\.(deezer\.com|s10d\.io)|cdn\.streamroot\.io|cdns2\.gigya\.com|cdns\.gigya\.com|connect\.facebook\.net|e-cdns-files\.dzcdn\.net|platform\.(instagram\.com|twitter\.com)|players\.edgesuite\.net|tf1\.idalgo-hosting\.com|vjs\.zencdn\.net|ws\.facil-iti\.com|www\.(tf1\.fr|wat\.tv))\/).)*$/$media,object-subrequest,script,third-party,xmlhttprequest,domain=tf1.fr|wat.tv
+/^((?!(^https?|^blob):\/\/((ajax|firestore)\.googleapis\.com|(odb|storage|widgets)\.outbrain\.com|(staticxx|www)\.facebook\.com|ak-tf1-das-liv-ssl\.akamaized\.net|api\.(deezer\.com|s10d\.io)|cdn\.streamroot\.io|cdns2\.gigya\.com|cdns\.eu1\.gigya\.com|cdns\.gigya\.com|connect\.facebook\.net|e-cdns-files\.dzcdn\.net|platform\.(instagram\.com|twitter\.com)|players\.edgesuite\.net|tf1-das-live\.secure\.footprint\.net|tf1\.idalgo-hosting\.com|vjs\.zencdn\.net|ws\.facil-iti\.com|www\.(tf1\.fr|wat\.tv))\/).)*$/$media,object-subrequest,script,third-party,xmlhttprequest,domain=tf1.fr|wat.tv
 ! orange.fr
 /^((?!(^https?):\/\/(([0-9a-z\-\.]+)\.maps\.cit\.api\.here\.com|([a-z\-]+)\.woopic\.com|api\.usabilla\.com|cps\.purpledrm\.com|embed\.playbuzz\.com|mcd\.playbuzz\.com|services\.arcgisonline\.com|static\.arcgis\.com|vodew-mss2\.cdn2\.orange-business\.com|www\.ultimedia\.com)\/).)*$/$third-party,xmlhttprequest,domain=orange.fr
 ! full-film.me
@@ -12958,6 +12958,8 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ||porndoe.com^$csp=media-src 'none' http: https:
 ||yourporno.fr^$csp=script-src 'self'
 ! Filtres de réécriture de ressources internes pour Adblock Plus
+||delivery.tf1.fr/pub$media,rewrite=abp-resource:blank-mp3,domain=tf1.fr
+||dnl-adv-ssl.tf1.fr^$media,rewrite=abp-resource:blank-mp3,domain=tf1.fr
 ||tf1.fr/assets/js/build/lib/ad$rewrite=abp-resource:blank-js,domain=tf1.fr
 ! amazonaws.com
 /^https?:\/\/s3\.amazonaws\.com\/[0-9a-f]{50,65}\/((secure\.js|[0-9a-f]{10}))$/$script,xmlhttprequest
