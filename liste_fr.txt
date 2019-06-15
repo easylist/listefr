@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: UYQDCkdFpoFFJlWab85kIA
-! Version: 201906142334
+! Checksum: ArPNJIZxO5CuH52ksiWeTA
+! Version: 201906150338
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2149,6 +2149,7 @@
 /smartclick.js
 /smartrotator.*?referrer=
 /sp2popup.
+/spaceadd.gif
 /sponsored_positions?
 /sponsors/banner_
 /square-ads.
@@ -14084,6 +14085,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ###pub_dfp_habillage
 ###pub_dfp_pre_home
 ###pub_droite
+###pub_droite_2
 ###pub_enbas
 ###pub_enbas1
 ###pub_entete
@@ -17281,7 +17283,6 @@ lemondeinformatique.fr##.publi-info
 24heures.ch##.publiBox
 jeuxvideo.com##.publi_info
 jeuxvideo.com##.publi_info + ul
-e-sante.fr##.public-info
 aussitot.fr##.pubmidtext
 algerie-focus.com##.pubpub
 buzzly.fr##.pubright
@@ -18050,7 +18051,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||donnemoilinfo.com/tuto/Ad-Remover/img/Ad-remover$image
 @@||dqndusk8a84ol.cloudfront.net/cache/js/*.js|$script,domain=worldsurfleague.com
 @@||dzautos.com/swf/prix_du_neuf.swf
-@@||e-sante.fr/sites/all/themes/esante/images/ad-49x72.jpg
 @@||ebayrtm.com/rtm?RtmCmd&a=json&p=$script,domain=www.befr.ebay.be
 @@||ebayrtm.com/rtm?RtmPreviewContent&$subdocument,domain=www.befr.ebay.be
 @@||euromedicom.online^*=com_acymailing&*&mailid=$popup
