@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: l58o1d3T3Bi60ZgfUwaJ9Q
-! Version: 201906162105
+! Checksum: cMqiLBizV8xGcEMZ7YT5gg
+! Version: 201906162117
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -10165,6 +10165,9 @@ $subdocument,domain=mangastreaming.fr
 .gif$image,domain=mangastreaming.fr
 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=mangastreaming.fr
 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=mangastreaming.fr
+! voiranime.com
+|http://$image,script,stylesheet,third-party,xmlhttprequest,domain=voiranime.com
+|https://$image,script,stylesheet,third-party,xmlhttprequest,domain=voiranime.com
 ! mavanime.com
 |http://$script,third-party,domain=mavanime.com|vivanime.com
 |https://$script,third-party,domain=mavanime.com|vivanime.com
@@ -18130,7 +18133,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||content.jwplatform.com/libraries/$script,domain=protect-stream.com
 @@||disqus.com/embed.js$script,domain=cocostreaming.com|full-anime.com|full-film.me|full-serie.co|full-serie.ws|full-stream.io|full-stream.nu|full-stream.su|planet-streaming.com
 @@||disquscdn.com^$script,domain=cocostreaming.com|full-anime.com|full-film.me|full-serie.co|full-serie.ws|full-stream.io|full-stream.nu|full-stream.su|planet-streaming.com
-@@||fonts.googleapis.com^$stylesheet,domain=at.ua|extreme-d0wn.net|extreme-download.club|extreme-download.me|full-anime.com|full-film.me|full-serie.co|full-serie.ws|full-stream.io|full-stream.nu|full-stream.su|jetanime.co|planet-streaming.com|tntendirect.com|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua
+@@||fonts.googleapis.com^$stylesheet,domain=at.ua|extreme-d0wn.net|extreme-download.club|extreme-download.me|full-anime.com|full-film.me|full-serie.co|full-serie.ws|full-stream.io|full-stream.nu|full-stream.su|jetanime.co|planet-streaming.com|tntendirect.com|ucoz.com|ucoz.net|ucoz.ru|ucoz.ua|voiranime.com
 @@||maps.google.com^$script,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 @@||maps.googleapis.com^$script,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 @@||plugins.longtailvideo.com^$script,domain=vidhos.com|vidstodo.me|vidto.me|vidto.se|vidtod.me|vidtudu.com
