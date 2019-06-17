@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 3+2sHIKKpAfAQPPSuHccVQ
-! Version: 201906171414
+! Checksum: XzMIrgsd265NMCVJs075sQ
+! Version: 201906171843
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4646,7 +4646,6 @@ debugger:$popup
 ||pwieu.com^$third-party
 ||pwonla.com^$third-party
 ||pwspace.com^$third-party
-||pxlad.io^$third-party
 ||pxltgr.com^$third-party
 ||pxt-networks.com^$third-party
 ||qads1.pw^$third-party
@@ -8650,6 +8649,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||ad.net-c.com^
 ||ad.prismamediadigital.com^
 ||ad.publicidees.com^
+||ad.pxlad.io^
 ||ad.vacanceo.com^
 ||ad.zanox.com^
 ||ad.zanox.com^$popup,domain=configspc.com
