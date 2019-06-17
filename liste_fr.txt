@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: XxVLrrzcXVTXqF4o4cLN3Q
-! Version: 201906171924
+! Checksum: VFZBhC1Y6y6kRa7lEMXmAQ
+! Version: 201906171956
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -16137,6 +16137,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##div[id^="nativeAds_"]
 ##div[id^="pub-dfp-"]
 ##div[id^="sqweb_ad_control-"]
+##div[id^="traffective-ad-"]
 ##div[onclick*="/regiedeep.php?"]
 ##div[onclick^="MyAdvertisements."]
 ##div[onerror="fuck_adblock()"]
