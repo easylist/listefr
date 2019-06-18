@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: yM1s/89x1d2F1xffD6m8Mg
-! Version: 201906171957
+! Checksum: SdtGK7CBi/EK4UpP3TzUcw
+! Version: 201906180138
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1766,6 +1766,7 @@
 /plx_popup.js
 /pmd_gdfp-
 /pme_ads.
+/poki-ads.
 /polyad.
 /pooads.
 /pop-ads.
@@ -9074,6 +9075,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||full-wallpaper.com/wallpaperday.js$third-party
 ||fullqurandownload.com^$popup
 ||fullqurandownload.com^$subdocument
+||fun.wormania.io^
 ||funnel-me.com^$subdocument
 ||funradio.fr/partenaires/
 ||fused.com/images/banners/
@@ -16722,7 +16724,6 @@ terredauphinoise.fr###zone-pub1
 cityvox.fr###zoneConnexion + * + .RP
 118712.fr,voila.fr##.ADS
 ivocommunication.com,ivoprint.com##.Ads
-jeuxjeuxjeux.fr##.Ah
 genybet.fr##.GGFODTBDCS
 leprogres.fr##.GMEX_immo
 application-remuneratrice.com##.HB-Modal
@@ -18191,7 +18192,7 @@ visitvar.fr#@##pubDroite
 di.com.pl#@##pub_content
 di.com.pl#@##pub_right
 openedition.org#@##publicite
-jeuxjeuxjeux.fr,vente-a-domicile.fr#@#.ad-left
+vente-a-domicile.fr#@#.ad-left
 20minutes.fr#@#.ad-placeholder
 rue-hardware.com,rue-montgallet.com#@#.adText
 pointvente.fr#@#.ad_line
