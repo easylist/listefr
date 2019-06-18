@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7+I5iPxD9zeZEvtERTlxOQ
-! Version: 201906180244
+! Checksum: FbfzgVs5xh7vi718GU1eYQ
+! Version: 201906180254
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17819,6 +17819,7 @@ kozikaza.com##div[class$="item--ad"]
 net-iris.fr##div[class$="promo-container"]
 film-telechargement.org,telechargement-film.org,telechargement.vip##div[class*="vip"]
 booska-p.com##div[class][style^="background"]
+dailymotion.com##div[class^="DiscoveryVideoSection__adCell"]
 webstar-electro.com##div[class^="banner"]
 maison-et-domotique.com##div[class^="deals"]
 gamekult.com##div[class^="gk__ads"]
