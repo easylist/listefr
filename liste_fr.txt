@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: oXIOuZYJPDc4TO70EMlGEw
-! Version: 201906180230
+! Checksum: 7+I5iPxD9zeZEvtERTlxOQ
+! Version: 201906180244
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -3812,6 +3812,7 @@ debugger:$popup
 ||bigbangempire.tv^$third-party
 ||bigbolz.com^$third-party
 ||bigour.net^$third-party
+||bigpipes.co^$third-party
 ||biguiproxy.com^$third-party
 ||bikinisgroup.com^$third-party
 ||billy.mobi^$third-party
@@ -15109,6 +15110,9 @@ $popup,domain=01streamingvf.co|01streamingvf.com|01streamingvf.ws|0zz0.com|1155x
 ##.oas-ads-box
 ##.oas-ads-box-in
 ##.oas-ads-buy
+##.oboxads
+##.oboxads-ad-widget
+##.oboxads-outstream
 ##.ocultar-ad
 ##.of-ad-container
 ##.openx-billboard
