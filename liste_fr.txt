@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: icK372wErEO0ZCKBGXjx1Q
-! Version: 201906281842
+! Checksum: pQoC3JkzbM7QvoZi5RYDyg
+! Version: 201906281900
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2279,6 +2279,7 @@
 /wp-content/*/bloc-partenaire-
 /wp-content/banners/*$third-party
 /wp-content/plugins/baw-bon-plan/*
+/wp-content/plugins/mm-kelkoo/*
 /wp-content/plugins/mts-wp-in-post-ads/*
 /wp-content/plugins/the-moneytizer/*
 /wp-content/plugins/wp-banners/*
@@ -11152,6 +11153,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|0zz0.com|1155xmv.com|1fichier.c
 ||cdn.bvoltaire.fr/media/2016/06/flexi-pierre-bv.gif
 ||cdn.flvto.biz/js/*_popup_
 ||cdn.wpformation.com/wp-content/uploads/*/wpserveur-banner
+||cdna.meilleurmobile.com/$subdocument
 ||cduporno.fr/disc.js
 ||cduporno.fr/themes/netleixtube/js/popupplayer.js
 ||celebjihad.com/images/*.gif
@@ -12032,6 +12034,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|0zz0.com|1155xmv.com|1fichier.c
 ||meilleures-licences.com/*/int-mb/
 ||meilleures-licences.com/images/habillage/
 ||meilleures-licences.com/intertitiel/
+||meilleurmobile.com/scripts/home-mea.js
 ||meilleurmobile.com/scripts/var_xml_backgrounds.js
 ||meilleurmobile.com^*background$script
 ||meilleurs-masters.com/*/int-mb/
@@ -14610,6 +14613,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|0zz0.com|1155xmv.com|1fichier.c
 ##.advertisingLeft
 ##.advertisingRight
 ##.advertisingTop
+##.advertising_wrapper
 ##.advertsLeaderboard
 ##.advhead
 ##.advid
@@ -15669,6 +15673,7 @@ $popup,domain=01streamingvf.co|01streamingvf.com|0zz0.com|1155xmv.com|1fichier.c
 ##a[href*="//jsmjmp.com/"]
 ##a[href*="//jsmptjmp.com/"]
 ##a[href*="//licantrum.com/"]
+##a[href*="//nrg.red-by-sfr.fr/dynclick/"] > img
 ##a[href*="//toroadvertisingmedia.com/"]
 ##a[href*="//tracking.publicidees.com/clic.php?"] > img
 ##a[href*="//www.awin1.com/cread.php?"] > img
@@ -16322,6 +16327,9 @@ turfomania.fr###homeLesPartenaires
 manga-news.com###homePromoEd
 manageo.fr###homeSolutionsWrapper
 tsa-algerie.com###home_immo
+meilleurmobile.com###home_mea_1
+meilleurmobile.com###home_mea_2
+meilleurmobile.com###home_mea_3
 videopornoinceste.xxx###horizontal-banner
 lesoir.be###horoscope-promo
 touslesprix.com###hright
