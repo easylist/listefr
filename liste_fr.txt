@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: pQoC3JkzbM7QvoZi5RYDyg
-! Version: 201906281900
+! Checksum: knc4/5C5jJw9XkcRrbS+Dg
+! Version: 201906281901
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1664,6 +1664,7 @@
 /mf.sethabillage.js
 /miniads/*
 /missaffiliate/*
+/mm-ad-widget-
 /mnf_*x*.gif
 /mobile-ad/*
 /mobilead.
@@ -2279,6 +2280,7 @@
 /wp-content/*/bloc-partenaire-
 /wp-content/banners/*$third-party
 /wp-content/plugins/baw-bon-plan/*
+/wp-content/plugins/mm-ad-widget/*
 /wp-content/plugins/mm-kelkoo/*
 /wp-content/plugins/mts-wp-in-post-ads/*
 /wp-content/plugins/the-moneytizer/*
@@ -8909,6 +8911,7 @@ $stylesheet,third-party,domain=kissanime.ru
 ||cdn13.com^*/banners/
 ||cdn13.com^*/license.$script
 ||cdn15.acloudimages.com^
+||cdna.meilleurmobile.com/$third-party
 ||cdnaz.win/300x100/
 ||cdnpark.com/registrar/*/loader.js
 ||cdscdn.com^*/banniere_
