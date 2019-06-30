@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 68pOeDgwu64+8dCtpYZYhQ
-! Version: 201906300306
+! Checksum: PzwFqGQJxH5wazMqUpAY5g
+! Version: 201906300329
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2531,6 +2531,7 @@ _120by600_
 _120x600banner.
 _160-x-600_
 _250x300_
+_300%20x%20250$image
 _300-x-250_
 _300_600.
 _300x250&
@@ -10026,6 +10027,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||youcloud.tv/adl?
 ||youporn.com^*?utm_$popup
 ||yourupload.com/m$script
+||youtube.com/watch?v=P6F-r7RldD4$third-party,domain=~alsalamalgeria.com
 ||youtube.com^*autoplay=1$domain=esoxiste.com|hitek.fr|mon-compte.org|pokemon-streaming.com|soltanati.com|youzapping.com
 ||youtube2mp3.cc/p.php$popup
 ||ypncdn.com/static/partner/
@@ -10761,6 +10763,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||echangedeclics.fr/images/enligne.gif
 ||echoroukonline.com/sponsors2015/
 ||eclypsia.com^*/siteskin/$popup
+||eco-algeria.com/sites/default/files/*-banner-
+||eco-algeria.com/sites/default/files/pub_
 ||economiematin.fr^*-ban-300x150.
 ||edcom.fr/images/gaml/
 ||edcom.fr/images/habillage/
@@ -14342,6 +14346,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##.fake_embed_ad_close
 ##.fake_player
 ##.fdw-ads
+##.field-name-pub-dar-essalam
 ##.field-name-publicit-ligatus-zone-contenu
 ##.fig-ad
 ##.fig-ad-pave
@@ -15419,6 +15424,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##a[href^="http://www.apk-download-free.com/"]
 ##a[href^="http://www.ba-click.com/?ref="]
 ##a[href^="http://www.cryptoads.space/ad.php?"]
+##a[href^="http://www.djezzy.dz/particuliers/offres/djezzy-special-1/?utm_"] > img
 ##a[href^="http://www.downloadplayer2.com/"]
 ##a[href^="http://www.easyflirt-partners.biz"]
 ##a[href^="http://www.espace-plus.net/"]
