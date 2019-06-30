@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: xlxm1fr3vHnfnZdSYB64Nw
-! Version: 201906300343
+! Checksum: 2aGNpmkETBu5Vz8yMOPLQw
+! Version: 201906300403
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -697,6 +697,8 @@
 /adforce.
 /adform.
 /adformat.
+/adfuel-
+/adfuel/*
 /adfusion/ads/*
 /adhesion_ad.
 /adhosting.
@@ -13848,6 +13850,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##.adBottom
 ##.adDisplay
 ##.adFootBox
+##.adFuel-label
 ##.adHeading
 ##.adSide1
 ##.adSpace1
@@ -15531,6 +15534,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##div[class^="directadvert"]
 ##div[class^="div-gpt-ad"]
 ##div[class^="homepage-square-ad"]
+##div[class^="hp-ad-rect-"]
 ##div[class^="mn-container-adsby"]
 ##div[class^="pub_tag_"]
 ##div[class^="quickads_"]
@@ -15555,6 +15559,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##div[id*="_section_ads_header_"]
 ##div[id^="M"][id*="Composite"]
 ##div[id^="PostAd"]
+##div[id^="ad_head_celtra_"]
+##div[id^="ad_rect_"]
 ##div[id^="adsatlas-"]
 ##div[id^="adtrue_tag"]
 ##div[id^="adzerk-"]
@@ -15574,6 +15580,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##div[id^="nativeAds_"]
 ##div[id^="pub-dfp-"]
 ##div[id^="sqweb_ad_control-"]
+##div[id^="sticky_ad_"]
 ##div[id^="traffective-ad-"]
 ##div[onclick*="/regiedeep.php?"]
 ##div[onclick^="MyAdvertisements."]
