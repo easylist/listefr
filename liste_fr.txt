@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: DA4mFehdzS2NR/k5op5qEQ
-! Version: 201907051707
+! Checksum: TOgfgO1ocw+ghNw4I/3Vhw
+! Version: 201907071240
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12463,6 +12463,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ! Filtres de réécriture de ressources internes pour Adblock Plus
 ||delivery.tf1.fr/pub$media,rewrite=abp-resource:blank-mp3,domain=tf1.fr
 ||dnl-adv-ssl.tf1.fr^$media,rewrite=abp-resource:blank-mp3,domain=tf1.fr
+||loadshare.org/custom/$media,$rewrite=abp-resource:blank-mp3,domain=01fmovies.com
 ||tf1.fr/assets/js/build/lib/ad$rewrite=abp-resource:blank-js,domain=tf1.fr
 ! amazonaws.com
 /^https?:\/\/s3\.amazonaws\.com\/[0-9a-f]{50,65}\/((secure\.js|[0-9a-f]{10}))$/$script,xmlhttprequest
