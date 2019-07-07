@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: bLxfHyHLy9RwYvY4gnCp1g
-! Version: 201907071537
+! Checksum: SeS5+v2d2r0GPkJq9pfT+Q
+! Version: 201907071603
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17484,6 +17484,7 @@ torrent09.uno,torrent9.is#?#div[style]:-abp-contains(/ANONYME|Anonyme|Usenet|VPN
 tourmag.com#?#.wm-module:-abp-contains(Contenu sponsorisé)
 tourmag.com#?#.wm-module:-abp-has(a[href^="https://www.hoteletlodgepro.biz/"])
 tsa-algerie.com#?#.jwpv-desktop:-abp-contains(Publicité)
+twitter.com#?#[data-testid="tweet"]:-abp-contains(Sponsorisé)
 ! facebook.com
 facebook.com#?#.userContentWrapper:-abp-contains(Sponsorisé)
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(Sponsorisé))
