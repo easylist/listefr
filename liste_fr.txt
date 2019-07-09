@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ozW+N679J3x4zr8NKspYkw
-! Version: 201907091056
+! Checksum: BI2aJfGSN+xV0w5MdY600A
+! Version: 201907091105
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12470,6 +12470,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||pblv-plusbellelavie.fr^$csp=script-src 'self' 'unsafe-inline' apis.google.com www.ultimedia.com
 ||porndoe.com^$csp=img-src 'none' http: https:
 ||porndoe.com^$csp=media-src 'none' http: https:
+||streamingqc.com^$csp=script-src 'self' 'unsafe-inline' *.google.com *.gstatic.com *.wp.com
 ||yourporno.fr^$csp=script-src 'self'
 ! Filtres de réécriture de ressources internes pour Adblock Plus
 ||delivery.tf1.fr/pub$media,rewrite=abp-resource:blank-mp3,domain=tf1.fr
