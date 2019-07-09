@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: UjQnXCd5bxqsj61F4y7Hqg
-! Version: 201907080346
+! Checksum: ozW+N679J3x4zr8NKspYkw
+! Version: 201907091056
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -8575,6 +8575,7 @@ debugger:$popup
 ||url.rw^$popup,third-party
 ||urlcash.com^$popup,third-party
 ||usbmodmenu.com^$popup,third-party
+||utndln.com^$popup,third-party
 ||veteran-safe4u.com^$popup,third-party
 ||video-hi.site^$popup,third-party
 ||video-hi.xyz^$popup,third-party
@@ -15239,6 +15240,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##a[href*=".tkbo.com"]
 ##a[href*=".traffic.club"]
 ##a[href*=".ufinkln.com/"]
+##a[href*=".utndln.com/"]
 ##a[href*=".voluumtrk.com/"]
 ##a[href*=".xxcdn.pw/"]
 ##a[href*="//ads.ad-center.com/"]
@@ -17073,7 +17075,7 @@ torrent09.uno,torrent9.cz,torrent9.is,torrent9.lol,torrent999.com##a[href*="+"]
 papystreaming-hd.com,papystreaming-hd.org##a[href*=".amazonaws.com/"]
 film-telechargement.org,telechargement-film.org,telechargement.vip##a[href*=".club/"]
 cpasbien9.net,cpasbiens.to,cpasbienss.com,cpasbienss.net,je-ddl.com##a[href*=".html"] > img
-1337x.st,1337x.to,9divx.org,cpasbien9.net,cpasbiens.to,cpasbienss.com,cpasbienss.net,dpstreaming.fun,dpstreaming.pro,dpstreaming.to,films-telecharger.eu,filmstreaming-hd.com,frstreaming.info,frtorrent.fr,fullsharez.com,je-ddl.com,planet-series.co,plus-belle-la-vie-episode-en-avance.biz,protect-stream.com,streaming-films-hd.com,streaming-films.tv,telechargerzoneu.fr,wawacity.co,x1337x.eu,x1337x.se,x1337x.ws,zone-telechargement.cc##a[href*=".php"]
+1337x.st,1337x.to,9divx.org,cpasbien9.net,cpasbiens.to,cpasbienss.com,cpasbienss.net,dpstreaming.fun,dpstreaming.pro,dpstreaming.to,films-telecharger.eu,filmstreaming-hd.com,frstreaming.info,frtorrent.fr,fullsharez.com,je-ddl.com,planet-series.co,plus-belle-la-vie-episode-en-avance.biz,protect-stream.com,streaming-films-hd.com,streaming-films.tv,telechargerzoneu.fr,voir-films-series.com,wawacity.co,x1337x.eu,x1337x.se,x1337x.ws,zone-telechargement.cc##a[href*=".php"]
 lien-torrent.com##a[href*=".php"][target="_blank"]
 moviz.net##a[href*=".php?let="]
 leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
