@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 5iv35QcL0iW00BqzsBj6Ag
-! Version: 201907121034
+! Checksum: zN1buZfbdcdpr0laBNShaw
+! Version: 201907121100
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -9448,7 +9448,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||maxannu.com/img/cdp250.
 ||maxannu.com/max468.
 ||maxannu.com/promo/
-||maximobileshop.com/widget/$domain=iphonetweak.fr
+||maximobileshop.com/widget/
 ||maximumwall.com/images/top_ban_
 ||mayakado.net/parrainage/
 ||mb.indecentes-voisines.com^$popup
@@ -15088,6 +15088,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##.tp-ad--full-browser
 ##.tp-ad__container
 ##.tradingCenterAd
+##.trc-content-sponsored
 ##.tuto-pub-ad-caption
 ##.txt-ads-center
 ##.txt-pub
@@ -17466,7 +17467,6 @@ ifp.re,pfiramz.biz,pframe.eu,piframe.eu,plink.re,prframe.eu,protect-iframe.com,s
 onvasortir.com,urbeez.com###pub_leaderboard
 iphonesoft.fr##.pub
 iphonetweak.fr##.pub-img
-iphonesoft.fr,iphonetweak.fr##.trc-content-sponsored
 ! Filtres de propriété CSS pour Adblock Plus
 narcity.com##.article-thumbnail:-abp-has(.sponsored-mention)
 allocine.fr#?#.video-card:-abp-has(.label-sponso)
@@ -17869,7 +17869,6 @@ _blockadblock_
 @@||flyrelax.com^$generichide
 @@||hyperserv.fr^$generichide
 @@||iiv.pl^$generichide
-@@||iphonetweak.fr^$generichide
 @@||japan-shin.com^$generichide
 @@||japan-shin.info^$generichide
 @@||lecrabeinfo.net^$generichide
