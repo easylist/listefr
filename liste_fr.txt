@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kUYBNptZqVptB1PZBD+4Bg
-! Version: 201907141130
+! Checksum: xsODbIkfP1Z67FUywPf2Vw
+! Version: 201907141524
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4212,6 +4212,7 @@ debugger:$popup
 ||goodaction.com^$third-party
 ||googleapi.club^$third-party
 ||goracash.com^$third-party
+||graciamediaweb.com^$third-party
 ||greatchwall.com^$third-party
 ||greatregie.com^$third-party
 ||gtburst.com^$third-party
@@ -8759,6 +8760,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||ad.apps.fm^$popup
 ||ad.ccmbg.com^
 ||ad.genybet.fr^
+||ad.graciamediaweb.com^
 ||ad.munion.in^
 ||ad.net-c.com^
 ||ad.prismamediadigital.com^
@@ -11096,6 +11098,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||goziga.com^*/banhead_
 ||goziga.com^*/goziga_underflv.gif
 ||gratostel.com/images/*/bandeau_
+||gratuiciel.com/media/*-pub-
+||gratuiciel.com/media/*/habillage/
 ||gratuiciel.com/media/pubs/
 ||gratuit-xxx.com^$subdocument,~third-party
 ||gratuit-xxx.com^*/boost_
@@ -11470,6 +11474,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||logicielmac.com^*/zpub/
 ||logicielmac.com^/pubs/
 ||logitheque.com/media/*-pub-
+||logitheque.com/media/*/habillage/
 ||logitheque.com/media/pubs/
 ||loractu.fr/uploads/ad/background/
 ||lotusnoir.info^*/images/pub/*_bandeau
@@ -14274,6 +14279,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##.bloc-pub
 ##.bloc-pub-side
 ##.bloc-pub2
+##.bloc-small-choisir-pub-google
 ##.blocPub
 ##.bloc_pub_250
 ##.bloc_pub_250_s_marge
@@ -15775,9 +15781,9 @@ neurozinzin.com###bigAdd
 tetesaclaques.tv###bigBox
 save.ca###bigboxgate
 footballclubdemarseille.fr###bloc-direct-pub
-logitheque.com###bloc-droit-haut-250-250
-logitheque.com###bloc-droite-bas-250-250
-logitheque.com###bloc-milieu-300-250
+gratuiciel.com,logitheque.com###bloc-droit-haut-250-250
+gratuiciel.com,logitheque.com###bloc-droite-bas-250-250
+gratuiciel.com,logitheque.com###bloc-milieu-300-250
 graphistesonline.com###bloc-partenaires
 aujourdhui-en-france.fr,leparisien.fr###blocMarketing
 mail.voila.fr,orange.fr###blocServices
@@ -16074,7 +16080,6 @@ terre.tv###point_part
 grazia.fr,regimea.com###popin
 regimea.com###popin-overlay
 clicbienetre.com###popup
-logitheque.com###popupMsg
 soonnight.com###popup_connect
 sitedesmarques.com###posPub
 forumconstruire.com###pre_element_bloc + .post_background_contener_table0
@@ -16391,7 +16396,7 @@ boursorama.com##.bloc-liens-partenaires
 nouvelobs.com##.bloc-partenaires
 nouvelobs.com##.bloc-partners
 aujourdhui-en-france.fr,leparisien.fr##.bloc-pratique
-logitheque.com##.bloc-pub-center-left
+gratuiciel.com,logitheque.com##.bloc-pub-center-left
 aeroport.fr##.bloc-shopping
 aujourdhui-en-france.fr,leparisien.fr##.blocPartenaire
 auto-utilitaire.com,mobilealgerie.com##.bloc_728x90_brd
@@ -16548,7 +16553,7 @@ star7arab.com##.grid[style="width: 770px; height: 69px;"]
 semageek.com##.h300
 zonebourse.com##.hPubRight2
 homecinema-fr.com##.hab_link
-cbanque.com,clubpronostics.com,logicielmac.com,logitheque.com,made-in-algeria.com,made-in-tunisia.net,maghrebex.com,mediscom.com,toucharger.com##.habillage
+cbanque.com,clubpronostics.com,gratuiciel.com,logicielmac.com,logitheque.com,made-in-algeria.com,made-in-tunisia.net,maghrebex.com,mediscom.com,toucharger.com##.habillage
 senscritique.com##.habillage-banner
 le2minutes.com,senscritique.com##.habillage-left
 le2minutes.com,senscritique.com##.habillage-right
