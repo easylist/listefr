@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7KPnXl4c4wSjzgg7YhV41A
-! Version: 201907182155
+! Checksum: ZrdY6KxBOPvV7T4xi/HLPA
+! Version: 201907191839
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -3442,7 +3442,7 @@ debugger:$popup
 ||27684.club^$third-party
 ||27823.club^$third-party
 ||2leep.link^$third-party
-||2mdn.net^$object-subrequest,domain=dhnet.be|lalibre.be|tripadvisor.fr
+||2mdn.net^$object,domain=dhnet.be|lalibre.be|tripadvisor.fr
 ||2town.net^$third-party
 ||301ads.com^$third-party
 ||31.7.60.66^$third-party
@@ -4842,7 +4842,7 @@ debugger:$popup
 ||slutroulette.com^$third-party
 ||smart-dn.com^$third-party
 ||smartclickz.com^$third-party
-||smartclip.net^$~object-subrequest,third-party
+||smartclip.net^$~object,third-party
 ||smartmovies.net^$third-party
 ||smartname.com^$third-party
 ||smartstream.tv^$third-party
@@ -5033,15 +5033,15 @@ debugger:$popup
 ||vgsgaming.com^$third-party
 ||video-de-cu.com^$third-party
 ||videonas.eu^$third-party
-||videoplaza.se/proxy/distributor^$object-subrequest,third-party
-||videoplaza.se^$~object-subrequest,third-party
+||videoplaza.se/proxy/distributor^$object,third-party
+||videoplaza.se^$~object,third-party
 ||videoplaza.tv^$domain=commentcamarche.com|commentcamarche.net|journaldesfemmes.com|journaldunet.com|linternaute.com
-||videoplaza1.tv/proxy/distributor^$object-subrequest,third-party
-||videoplaza1.tv^$~object-subrequest,third-party
-||videoplaza2.tv/proxy/distributor^$object-subrequest,third-party
-||videoplaza2.tv^$~object-subrequest,third-party
-||videoplaza3.tv/proxy/distributor^$object-subrequest,third-party
-||videoplaza3.tv^$~object-subrequest,third-party
+||videoplaza1.tv/proxy/distributor^$object,third-party
+||videoplaza1.tv^$~object,third-party
+||videoplaza2.tv/proxy/distributor^$object,third-party
+||videoplaza2.tv^$~object,third-party
+||videoplaza3.tv/proxy/distributor^$object,third-party
+||videoplaza3.tv^$~object,third-party
 ||videoroow.com^$third-party
 ||videos-x.me^$third-party
 ||videostep.com^$third-party
@@ -5134,7 +5134,7 @@ debugger:$popup
 ||yeyajipp.com^$third-party
 ||yongkang6.com^$third-party
 ||yospace.co.uk^$third-party
-||yospace.com^$~object-subrequest,third-party
+||yospace.com^$~object,third-party
 ||yospace.net^$third-party
 ||you-hentai.com^$third-party
 ||youwatch.org^$third-party
@@ -10014,8 +10014,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||votrepromo.com/promo/$third-party
 ||voyage-langue.com/widget/
 ||voyantissime.com^$popup,domain=ovnis-direct.com
-||vp.videoplaza.tv/creatives/assets/$object-subrequest,third-party
-||vp.videoplaza1.tv/creatives/assets/$object-subrequest,third-party
+||vp.videoplaza.tv/creatives/assets/$object,third-party
+||vp.videoplaza1.tv/creatives/assets/$object,third-party
 ||vplan.com^$popup,domain=fdesouche.com
 ||vpn-facile.net^$popup,domain=cachemoi.com
 ||vpn.express^$subdocument,third-party
@@ -10146,7 +10146,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 .damoh.$media,~third-party
 ||damoh.commentcamarche.net^$media
 ! tf1.fr
-/^((?!(^https?|^blob):\/\/((ajax|firestore)\.googleapis\.com|(odb|storage|widgets)\.outbrain\.com|(staticxx|www)\.facebook\.com|ak-tf1-das-liv-ssl\.akamaized\.net|api\.(deezer\.com|s10d\.io)|cdn\.streamroot\.io|cdns2\.gigya\.com|cdns\.eu1\.gigya\.com|cdns\.gigya\.com|connect\.facebook\.net|e-cdns-files\.dzcdn\.net|platform\.(instagram\.com|twitter\.com)|players\.edgesuite\.net|tf1-das-live\.secure\.footprint\.net|tf1\.idalgo-hosting\.com|vjs\.zencdn\.net|ws\.facil-iti\.com|www\.(tf1\.fr|wat\.tv))\/).)*$/$media,object-subrequest,script,third-party,xmlhttprequest,domain=tf1.fr|wat.tv
+/^((?!(^https?|^blob):\/\/((ajax|firestore)\.googleapis\.com|(odb|storage|widgets)\.outbrain\.com|(staticxx|www)\.facebook\.com|ak-tf1-das-liv-ssl\.akamaized\.net|api\.(deezer\.com|s10d\.io)|cdn\.streamroot\.io|cdns2\.gigya\.com|cdns\.eu1\.gigya\.com|cdns\.gigya\.com|connect\.facebook\.net|e-cdns-files\.dzcdn\.net|platform\.(instagram\.com|twitter\.com)|players\.edgesuite\.net|tf1-das-live\.secure\.footprint\.net|tf1\.idalgo-hosting\.com|vjs\.zencdn\.net|ws\.facil-iti\.com|www\.(tf1\.fr|wat\.tv))\/).)*$/$media,object,script,third-party,xmlhttprequest,domain=tf1.fr|wat.tv
 ! orange.fr
 /^((?!(^https?):\/\/(([0-9a-z\-\.]+)\.maps\.cit\.api\.here\.com|([a-z\-]+)\.woopic\.com|api\.usabilla\.com|cps\.purpledrm\.com|embed\.playbuzz\.com|mcd\.playbuzz\.com|services\.arcgisonline\.com|static\.arcgis\.com|vodew-mss2\.cdn2\.orange-business\.com|www\.ultimedia\.com)\/).)*$/$third-party,xmlhttprequest,domain=orange.fr
 ! jacquieetmichel.fr
@@ -17563,7 +17563,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||ad-exchange.fr^$~third-party
 @@||ad.doubleclick.net/ddm/trackclk/*tracking.lengow.com$popup,domain=123comparer.fr
 @@||adimages.ch^$~third-party
-@@||admedia.rtl.fr/online/sound/$object-subrequest,domain=rtl.fr
+@@||admedia.rtl.fr/online/sound/$object,domain=rtl.fr
 @@||adserve.atedra.com/js/$script,domain=pourquoipas.ca
 @@||adserve.atedra.com/serve.php?z=$script,domain=pourquoipas.ca|vilaingeek.ca
 @@||adserve.atedra.com/vast/$domain=pourquoipas.ca
@@ -17593,9 +17593,9 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||compagniedelagare.com^*/image_resize.php?img=*/$image
 @@||cowcotland.com/scripjs.php?files=*,jquery.lazyload-ad-$script
 @@||cstatic.weborama.fr/js/advertiser/wbo_performance.js$domain=pmu.fr
-@@||dai.bfmtv.com/csm/live/*.m3u8?yo.po=$object-subrequest,domain=bfmtv.com
-@@||dai.bfmtv.com/csm/live/*/*.m3u8;jsessionid=*.cds1.yospace.com?yo.po=$object-subrequest,domain=bfmtv.com
-@@||data.panachetech.com^$object-subrequest,domain=gameone.net
+@@||dai.bfmtv.com/csm/live/*.m3u8?yo.po=$object,domain=bfmtv.com
+@@||dai.bfmtv.com/csm/live/*/*.m3u8;jsessionid=*.cds1.yospace.com?yo.po=$object,domain=bfmtv.com
+@@||data.panachetech.com^$object,domain=gameone.net
 @@||degrouptest.com/images/pub-colonne-droite/$image,third-party
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/Ad-Remover/img/Ad-remover$image
@@ -17659,7 +17659,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||tags.smilewanted.com/formats/infeed/jeux-gratuits.com|$xmlhttprequest,domain=jeux-gratuits.com
 @@||tra.scds.pmdstatic.net/advertising-core-libs/1.2.0/prebid.js$script,domain=www.programme-tv.net
 @@||v.fwmrm.net/ad/g/1?caid=*&vpaid=on|$xmlhttprequest,domain=mycanal.fr
-@@||videos-pub.ftv-publicite.fr/media/$object-subrequest,domain=playerftp.videostream.fr
+@@||videos-pub.ftv-publicite.fr/media/$object,domain=playerftp.videostream.fr
 @@||videos-pub.ftv-publicite.fr/player/ad2play.js$domain=tv5mondeplus.com
 @@||vjs.zencdn.net^*/video$script,domain=vshare.eu
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
