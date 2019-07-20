@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 0KB5aqypcz3zgdDiJYe2dA
-! Version: 201907200951
+! Checksum: Ri+fXgR5s/46wixGFd8gYg
+! Version: 201907201008
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -5444,6 +5444,7 @@ debugger:$popup
 ||glaimtug.com^
 ||glargoun.uk^
 ||glauptan.net^
+||glauvoob.com^
 ||gleechood.com^
 ||gleedaik.net^
 ||glodrips.com^
@@ -5881,7 +5882,7 @@ debugger:$popup
 ||s85n4btydl.online^
 ! admaven
 /^https?:\/\/(?!disqus\.)([a-z]+)\.(click|club|com|info|online|pro|space|top)\/([0-9a-zA-Z\+\/]){400,460}/$subdocument,third-party,xmlhttprequest
-/^https?:\/\/[0-9a-z\-\.]+\.[a-z]{2,7}\/sw\.js\?[0-9a-zA-Z_&%]{32,}/$other,script,~third-party,xmlhttprequest
+/^https?:\/\/[0-9a-z\-\.]+\.[a-z]{2,7}\/sw\d?\.js\?[0-9a-zA-Z_&%]{32,}/$other,script,~third-party,xmlhttprequest
 /^https?:\/\/[0-9a-z]{5,18}\.(click|club|info|one|online|pro|space|top)\/([0-9a-zA-Z\.\+\/%]){130,180}/$image,other,script,third-party
 /^https?:\/\/pixel\.[a-z]+\.(club|info|pro)\/$/$script,third-party,xmlhttprequest
 ||abarrange.info^
