@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: dYM9vwDvf5wqpdeVFNv+Pw
-! Version: 201907211641
+! Checksum: 2PF95uCJ1ikL9Lx7s4eBIA
+! Version: 201907211644
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17644,7 +17644,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||prime-journal.online^*=com_acymailing&*&mailid=$popup
 @@||publicwww.com/images/labels.2/$image,~third-party
 @@||quefaire.be/annonces/imgads/$image
-@@||rapidvideo.com/assets/js/video-js-6.2.0.js$script,~third-party
 @@||reseauforum.org/*/modules/ad/serve.php?$domain=reseauforum.org
 @@||restoconnection.fr/wp-content/uploads/2014/12/publicite-$domain=restoconnection.fr
 @@||rockman.fr/Ads/$image
