@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: skGmiopNeALSCdw+iNWhPw
-! Version: 201907272058
+! Checksum: jkDDjyfrpkGNzG+DhHnsCw
+! Version: 201907272115
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -9594,6 +9594,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||oppo.com^$popup,domain=android-dz.com
 ||ops.ccmbg.com^
 ||oranum.com^*/lang-popup-$subdocument
+||otakufr.net/wp-content/uploads/$third-party
 ||otakumode.com/widget/$third-party
 ||ouo.io/images/*-ad.
 ||ouo.press/images/*-ad.
@@ -16544,6 +16545,7 @@ ruedesjoueurs.com##.esspo736x110
 easyvoyage.com##.esv-pub-300-250
 manga-news.com##.external-link
 maddyness.com##.extra-block
+animes9.com##.featured-news
 humanite.fr##.field-name-bloc-pub-1ere-sidebar-contenu-3
 humanite.fr##.field-name-pub-sidebar-first-content
 lefigaro.fr##.fig-adgps
