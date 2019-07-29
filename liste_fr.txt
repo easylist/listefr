@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: lIR5XUzAFmczNDkrCRJViA
-! Version: 201907291746
+! Checksum: W+dSBqpzm2+2eUI/0+dLVg
+! Version: 201907291831
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12160,9 +12160,12 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||telemb.tv^*/image/banners/
 ||telemb.tv^*/image/videos/*.mp4
 ||telephoneannuaire.fr/resources/amz*.jpg
+||telesatellite.com/images/ab-bis-module-offert.jpg
 ||telesatellite.com/images/bg_
 ||telesatellite.com/images/scdfnjukia.gif
 ||telesatellite.com/images/telesat-
+||telesatellite.com/images/telesat_rmcsport.jpg
+||telesatellite.com/images/ts-rmc-sport.jpg
 ||tendancehotellerie.fr/img/gif/
 ||tendancehotellerie.fr/img/jpg/
 ||tendancehotellerie.fr/spip.php
@@ -16378,6 +16381,7 @@ paruvendu.fr##.auto2010_inter_CONT
 paruvendu.fr##.auto2010_noprint
 lindependant.fr##.auto300X250
 reezocar.com##.autopromo-container
+telesatellite.com##.aws_block + table
 buzzly.fr##.ayl-ad-article
 nintendo-master.com##.back_content
 animedigitalnetwork.fr##.background-click
