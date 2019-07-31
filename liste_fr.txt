@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: tWgYDnt2PE1qiobRheGcwA
-! Version: 201907311415
+! Checksum: 7eNbR5vRBVMqop6xa3yzWA
+! Version: 201907311459
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18120,6 +18120,7 @@ _blockadblock_
 ! Adyoulike
 $script,~third-party,domain=laprovence.com|supertoinette.com|viedemerde.fr|www.lephoceen.fr
 @@||jel.laprovence.com/statics/js/abonnement.min.js$script,~third-party
+@@||jel.laprovence.com/statics/js/kiosque.min.js$script,~third-party
 @@||static.lephoceen.net/js/main.min.js$script,~third-party
 @@||www.forums.supertoinette.com/assets/javascript/core-84afed7903.min.js$script,~third-party
 @@||www.forums.supertoinette.com/assets/javascript/jquery.min.js$script,~third-party
