@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: QPJoRBh6u9Gs9qxFyoUZrw
-! Version: 201907311320
+! Checksum: BgTVRtg8NIVTnucBOlmtDQ
+! Version: 201907311336
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -13940,6 +13940,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##.ad-native-adsense-for-search-2
 ##.ad-ops
 ##.ad-page_top
+##.ad-position-2
+##.ad-position-especial
 ##.ad-provider-yahoo
 ##.ad-right-600
 ##.ad-right-img
@@ -17582,6 +17584,7 @@ tourmag.com#?#.wm-module:-abp-contains(Contenu sponsorisé)
 tourmag.com#?#.wm-module:-abp-has(a[href^="https://www.hoteletlodgepro.biz/"])
 tsa-algerie.com#?#.jwpv-desktop:-abp-contains(Publicité)
 twitter.com#?#[data-testid="tweet"]:-abp-contains(Sponsorisé)
+yaencontre.com#?#.one-col:-abp-has(.adunitContainer)
 ! facebook.com
 facebook.com#?#.userContentWrapper:-abp-contains(Sponsorisé)
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(Sponsorisé))
