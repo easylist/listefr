@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7eNbR5vRBVMqop6xa3yzWA
-! Version: 201907311459
+! Checksum: +39ofIAKGDoE2zWhhoKfZA
+! Version: 201907311636
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17342,6 +17342,7 @@ ibidule.fr##a[href^="https://www.1and1.fr/?kwk="] > img
 fdesouche.com##a[href^="https://www.amazon.fr/"]
 qwant.com##a[href^="https://www.bing.com/aclick?"]
 qwant.com##a[href^="https://www.bing.com/aclk?"]
+capital.fr##a[href^="https://www.bod.fr/capital.html?"]
 maison-et-domotique.com##a[href^="https://www.bons-plans-elise.fr/"]
 footpy.fr##a[href^="https://www.facebook.com/adhocperformances/?"]
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
