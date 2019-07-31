@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 0GiSs95bbRDB0NAxAqAADA
-! Version: 201907291846
+! Checksum: QPJoRBh6u9Gs9qxFyoUZrw
+! Version: 201907311320
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12944,6 +12944,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ###ad-habillage-load
 ###ad-home1
 ###ad-iframe
+###ad-inline-block
 ###ad-inread
 ###ad-inread-load
 ###ad-interstitial
@@ -12973,6 +12974,9 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ###ad-top-main
 ###ad-top-main-2
 ###ad-top-network
+###ad-unit-search-right-bottom
+###ad-unit-search-right-top
+###ad-unit-search-top
 ###ad-zone-3
 ###ad-zone-4
 ###ad125
@@ -13915,6 +13919,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##.ad-image-megaban
 ##.ad-info
 ##.ad-info-wrap
+##.ad-inline-block
 ##.ad-item-990
 ##.ad-item-f
 ##.ad-item-sd
@@ -13930,6 +13935,9 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##.ad-mention
 ##.ad-mpu-mobile
 ##.ad-mpu-plus-bottom
+##.ad-native
+##.ad-native-adsense-for-search-1
+##.ad-native-adsense-for-search-2
 ##.ad-ops
 ##.ad-page_top
 ##.ad-provider-yahoo
@@ -13949,6 +13957,10 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##.ad-uber
 ##.ad-unit-after-title
 ##.ad-visible
+##.ad-wall-3-wrapper
+##.ad-wall-4
+##.ad-wall-bottom
+##.ad-wall-top
 ##.ad-website
 ##.ad-wrapper-middle
 ##.ad-wrapper-right
@@ -14538,6 +14550,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##.hmads_1x1
 ##.hmads_300x250
 ##.hnadszone
+##.home-ad-region-2
+##.home-ad-section
 ##.home_pub
 ##.hori-advert
 ##.horizontal-pub
