@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: BgTVRtg8NIVTnucBOlmtDQ
-! Version: 201907311336
+! Checksum: nMf0yv8hIlFf0TpYISTP4g
+! Version: 201907311342
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -11046,6 +11046,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||francoischarron.com^*/pubs/
 ||frandroid.com/wp-content/themes/*habillage_
 ||frandroid.com/wp-content/themes/humanoid-redesign/assets/images/oneplus6t_countdown.jpg
+||frandroid.com/wp-content/themes/humanoid-redesign/assets/images/red-sfr/sidebar-img-22.png
 ||free-proxy.cz/i/HMA/
 ||free-reseau.fr/images/ban_
 ||free-strip-games.com/images/banners/
@@ -17565,6 +17566,7 @@ frandroid.com#?#.container_native_home-list:-abp-has(.aligot-icon)
 frandroid.com#?#.home_bloc_zh:-abp-has(.aligot-icon)
 frandroid.com#?#.post-preview:-abp-has(.aligot-icon)
 frandroid.com#?#.post-preview:-abp-has(.aligot-icon-inline)
+frandroid.com#?#a:-abp-has(.aligot-icon-inline)
 frandroid.com#?#div[id^="i"][class^="i"]:-abp-has(.aligot-icon)
 ici-londres.com#?#.articles_list_item:-abp-has(.category:-abp-contains(Sponsorisé))
 journaldugeek.com#?#.entry__item:-abp-has(.entry__img-container--sponso)
