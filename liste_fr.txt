@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: evZzFwyq+Xnm8t/Xe5O2ow
-! Version: 201908011633
+! Checksum: 3J3YU6HlReurpxZXSbAqUg
+! Version: 201908011644
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2443,6 +2443,7 @@
 =ad_leaderboard,
 =adblock_
 =adunit/
+=advertising-core-
 =ajaxGetAds&
 =assignAds&
 =banner_*goclick&
@@ -10136,7 +10137,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||zinc7.cc/images/banners/
 ||zone-hot.com/thumblink.php?
 ||zone.*.netdna-cdn.com^
-||zp.programme.tv^
 ||zupimages.net/up/2/1780414445.gif
 ||zupimages.net^$domain=jumia.com
 ! dailymotion.com
@@ -16316,8 +16316,6 @@ qassa.fr###wrapper > div > a[class][style]
 casatv.ca###wrapperbanner
 troc-velo.com###xpubpart
 yahoo.com###yad-billboard
-programme.tv###zeromask
-programme.tv###zeropop
 mateur.tv###zone-out-bis
 terredauphinoise.fr###zone-pub1
 cityvox.fr###zoneConnexion + * + .RP
