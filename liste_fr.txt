@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ymlGcvMANMCvA1/bAjI3ng
-! Version: 201908011627
+! Checksum: evZzFwyq+Xnm8t/Xe5O2ow
+! Version: 201908011633
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -14057,6 +14057,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##.ads-970-90
 ##.ads-970x60
 ##.ads-aside
+##.ads-banniereBasse
+##.ads-banniereHaute
 ##.ads-big
 ##.ads-bloc
 ##.ads-bloc__content
@@ -14110,6 +14112,9 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##.ads-mobile
 ##.ads-mobile__wrap
 ##.ads-pave
+##.ads-paveBas
+##.ads-paveBas2
+##.ads-paveHaut
 ##.ads-player
 ##.ads-player-02
 ##.ads-plug-js
@@ -14412,6 +14417,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##.common-ad-styling
 ##.container-ad
 ##.container-pubcarre
+##.containerAds
 ##.container_pubcentrale
 ##.contenedorAds
 ##.conteneur_ligatus
@@ -14572,6 +14578,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##.in_stream_banner
 ##.in_up_ad-area
 ##.info_pop > a > img
+##.innerAds
 ##.inpage-adspace
 ##.inplayer_banners
 ##.insertPadList
@@ -17647,7 +17654,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||bannieres.telethon.fr/compteurs/$image,subdocument
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
-@@||c.amazon-adsystem.com/aax2/apstag.js$script,domain=lachainemeteo.com|www.programme-tv.net
+@@||c.amazon-adsystem.com/aax2/apstag.js$script,domain=lachainemeteo.com
 @@||cdn.adswizz.com/adswizz/js/SynchroClient2.js$script,domain=nrj.fr
 @@||cdn.ay.gy/static/image/$image,~third-party
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
@@ -17721,7 +17728,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||stcwbd.com/ads/plugins/jwplayer/player.swf$domain=eurosport.fr|ozap.com|puretrend.com
 @@||syndication.twitter.com/tweets.json?*&ids=*&lang=*&suppress_response_codes=$script
 @@||tags.smilewanted.com/formats/infeed/jeux-gratuits.com|$xmlhttprequest,domain=jeux-gratuits.com
-@@||tra.scds.pmdstatic.net/advertising-core-libs/1.2.0/prebid.js$script,domain=www.programme-tv.net
 @@||v.fwmrm.net/ad/g/1?caid=*&vpaid=on|$xmlhttprequest,domain=mycanal.fr
 @@||videos-pub.ftv-publicite.fr/media/$object,domain=playerftp.videostream.fr
 @@||videos-pub.ftv-publicite.fr/player/ad2play.js$domain=tv5mondeplus.com
