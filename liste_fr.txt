@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: OKCLXKdl8xdL+jspawiJ7g
-! Version: 201908011657
+! Checksum: hku9MzOHH6/t5muCQzTRGw
+! Version: 201908012004
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -11335,7 +11335,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||lacanausurfinfo.com/admin/images/pubs/
 ||lacanausurfinfo.com/ressources/pub/
 ||lacasadeel.net/banners/
-||lachainemeteo.com/js/xtcore.js
 ||ladmedia.fr/var/public/storage/images/teasers/
 ||lafermeduweb.net/images/promote/
 ||lafranceapoil.com^*.php$script
@@ -17652,7 +17651,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||bannieres.telethon.fr/compteurs/$image,subdocument
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
-@@||c.amazon-adsystem.com/aax2/apstag.js$script,domain=lachainemeteo.com
 @@||cdn.adswizz.com/adswizz/js/SynchroClient2.js$script,domain=nrj.fr
 @@||cdn.ay.gy/static/image/$image,~third-party
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
