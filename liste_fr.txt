@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: J1YDq2qbY8aSPhGmfRuykA
-! Version: 201907311821
+! Checksum: ymlGcvMANMCvA1/bAjI3ng
+! Version: 201908011627
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -193,6 +193,7 @@
 -ad480x60-
 -ad728x90-
 -ad_750x150.
+-ad_ads.
 -adhese.
 -adikteev.
 -admarket-
@@ -1113,6 +1114,7 @@
 /ban728.js
 /ban728x901.
 /ban728x902.
+/ban_pub_
 /banads/*
 /bancode.php?id=
 /bandeau-pub-
@@ -1714,6 +1716,7 @@
 /noticead/*
 /notify.php?key=$script,third-party
 /novaonads.
+/npawAdAdapter.
 /npop.js|
 /ntfc.php?p=
 /nugg.ad.
@@ -5143,6 +5146,7 @@ debugger:$popup
 ||yospace.com^$~object,third-party
 ||yospace.net^$third-party
 ||you-hentai.com^$third-party
+||youborafds01.com^$third-party
 ||youwatch.org^$third-party
 ||youwatchtab.com^$third-party
 ||youzapping.com^$third-party
@@ -5164,6 +5168,7 @@ debugger:$popup
 ||zmctrack.net^$third-party
 ||zononi.com^$third-party
 ||zwaar.net^$third-party
+||zxcvads.com^$third-party
 ||zytpirwai.net^$third-party
 ! Tag adservers
 !
