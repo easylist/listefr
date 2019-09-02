@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: DeqocNvxgyHySwqijGZRDw
-! Version: 201909021933
+! Checksum: nSaLmU3Q/1vL0FmOY7TblA
+! Version: 201909022029
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17687,6 +17687,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||vjs.zencdn.net^*/video$script,domain=vshare.eu
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 @@||wifeo.com/ads/promo/advertise-publicite.gif$image,domain=wifeo.com
+@@||wikimonde.com/list_authors.php?$~third-party,xmlhttprequest
 @@||www.bluesteel.fr/affiliation/$~third-party
 @@||www.bna.dz/media/djmediatools/cache/300x250-$image,~third-party
 @@||www.bouyguestelecom.fr^*/catalog/product/cache/*/image/300x600/$image,~third-party
