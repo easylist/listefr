@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: IIPqOjYkAr6IBqsu5nyi9A
-! Version: 201909040615
+! Checksum: Nnhqhiv3qCmvBQ5a1MJwNA
+! Version: 201909040625
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1083,6 +1083,7 @@
 /aradpardaz_
 /arriveesPmu_
 /article/ads/*
+/as/go/dl.js$~third-party
 /ashot.js
 /assets/abpe-
 /assets/adf-
@@ -17929,8 +17930,6 @@ _blockadblock_
 @@||flyrelax.com^$generichide
 @@||hyperserv.fr^$generichide
 @@||iiv.pl^$generichide
-@@||japan-shin.com^$generichide
-@@||japan-shin.info^$generichide
 @@||lecrabeinfo.net^$generichide
 @@||lethal-weapon-streaming.eu^$generichide
 @@||likeup.fr^$generichide
