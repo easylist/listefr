@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: xP0GLR1sNSh3E7xF54Sh1Q
-! Version: 201909051856
+! Checksum: ZVSMRfulO+lf8JqmerXg/w
+! Version: 201909051914
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -8142,6 +8142,7 @@ debugger:$popup
 ||juicyads.rocks^$popup,third-party
 ||jumpers.mobi^$popup,third-party
 ||justgetitfaster.com^$popup,third-party
+||justredirect25.com^$popup,third-party
 ||kastafor.com^$popup,third-party
 ||katuhus.com^$popup,third-party
 ||kds.media^$popup,third-party
@@ -9565,6 +9566,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||nuit-torride.com/ban/
 ||nyu-nyu.com/banieres/
 ||ochze.com^$subdocument,third-party
+||of.downpit.com^$popup
 ||offer.alibaba.com^$subdocument
 ||offer.alibaba.com^*&pid=$popup,third-party,domain=~aliexpress.com
 ||offer.aliexpress.com^$subdocument
