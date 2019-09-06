@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: CZ+F/msUkvGKUWsPNtBRKw
-! Version: 201909062043
+! Checksum: STWzUozjB2uCR4tlteaLQQ
+! Version: 201909062054
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -10692,6 +10692,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||cdn.betacie.com^*/autopromo/
 ||cdn.bvoltaire.fr/media/2016/06/flexi-pierre-bv.gif
 ||cdn.flvto.biz/js/*_popup_
+||cdn.tirage-gagnant.com/js/popup.js
 ||cdn.wpformation.com/wp-content/uploads/*/wpserveur-banner
 ||cdna.meilleurmobile.com/$subdocument
 ||cduporno.fr/disc.js
@@ -15819,6 +15820,7 @@ infobebes.com###banner_container
 gamesplanet.com###banner_data
 lacanausurfinfo.com###banner_footer
 jeuxvideo.com###banner_jv
+tirage-gagnant.com###banner_promo
 nticweb.com###banners
 aliceadsl.fr###bannershop
 cowcotland.com###bannertop
@@ -16949,6 +16951,7 @@ wikiclic.com##.sidebar-promotion
 businessinsider.fr##.sidebar-push
 deavita.fr##.sidebar_banner
 clicbienetre.com##.sidebar_block
+tirage-gagnant.com##.sidebarclick
 francemobiles.com##.simpleoFlashBanner
 quebeccoupongratuit.com##.size_300_250
 quebeccoupongratuit.com##.size_300_600
