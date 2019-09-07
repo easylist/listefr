@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: STWzUozjB2uCR4tlteaLQQ
-! Version: 201909062054
+! Checksum: tJBHSvfJLSaLHi7km66hfQ
+! Version: 201909071618
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12136,6 +12136,9 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||tahiti-infos.com/photo/habillage_
 ||tahiti-infos.com/photo/heiva_pol_
 ||tahiti-infos.com/photo/page_
+||tayo.fr/images/igraaal.gif
+||tayo.fr/images/igrakl-en-bas.jpg
+||tayo.fr/images/igrKalMid.jpg
 ||tchat-tarot.com/?partner=$popup
 ||tchatche.com/123m?
 ||tcho.fr/assets/img/home_pub.
@@ -13693,6 +13696,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ###pubbetween
 ###pubcarre
 ###pubcentrale
+###pubchageapresmiddle
+###pubchargeapres
 ###pubcol2
 ###pubcoldroite
 ###pubdetaillg
@@ -16134,7 +16139,6 @@ comptoir-info.com###pb_sb
 comptoir-info.com###pb_sq
 charentelibre.fr,lindependant.fr###petitesAnnoncesBlock
 topanalyse.com###pid_f
-tayo.fr###pioubhaut
 xxxity.com###playerOverlay
 terre.tv###point_part
 grazia.fr,regimea.com###popin
@@ -16810,7 +16814,6 @@ seriesaddict.fr##.pbl728x90
 macg.co##.pbs
 ouedkniss.com##.pcare160
 supprimer-spyware.com##.phone_support_banner
-tayo.fr##.pioub
 pagesjaunes.fr##.place-reservee
 tendanceaumasculin.fr##.placeholder
 youzik.com##.playVideoLink
@@ -17441,6 +17444,7 @@ couverturefacebook.fr##div[style*="width:450px; height:670px;"]
 maxifoot.fr##div[style*="width:468px;"]
 livehost.fr##div[style*="width:728px"]
 cheznous.fr,tikiwin.com##div[style*="width:728px; height:90px;"]
+tayo.fr##div[style*="width:728px;"]
 filecrypt.cc,sblive.online,stream365.pro,vip7stream.pw##div[style*="z-index:"]
 redlist-ultimate.be##div[style="display:none;"] + .block
 bloggif.com##div[style="float:left; text-align:center; margin-bottom:10px; width:370px; height:280px;"]
