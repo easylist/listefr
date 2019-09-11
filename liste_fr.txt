@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: i1A5LPxaLToBAknygmUqLQ
-! Version: 201909101935
+! Checksum: AeeyyVdqpPlP28mKmtP01w
+! Version: 201909111304
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1423,6 +1423,7 @@
 /eaCtrl.js
 /earn.*?zone=
 /eas/ads/*
+/ebam/ads.
 /ec_adalt.
 /ec_adalt/*
 /ec_adalt_
@@ -4548,6 +4549,7 @@ debugger:$popup
 ||nuggad.net^$third-party
 ||num-link.ru^$third-party
 ||nvane.com^$third-party
+||nxnjumxdfzm.com^$third-party
 ||nyyed.com^$third-party
 ||obhodsb.com^$third-party
 ||obozrevatelcom.info^$third-party
@@ -11084,6 +11086,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||gamalive.com/img/pub-
 ||game-guide.fr/*/images/pub/
 ||gameblog.fr/images/promo/
+||gameblog.fr/scripts/ebam/
 ||gameblog.fr/skins/$image
 ||gamekult.com/ajax-info/partner-
 ||gamekult.com/i/partenaires/
