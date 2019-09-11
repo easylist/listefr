@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: QYDAvu6BaUMKoxseHuwAOA
-! Version: 201909111402
+! Checksum: N/LhIJ2tW5m/RIuVpkeskg
+! Version: 201909111420
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17607,9 +17607,11 @@ twitter.com#?#[data-testid="tweet"]:-abp-contains(Sponsorisé)
 yaencontre.com#?#.one-col:-abp-has(.adunitContainer)
 ! facebook.com
 facebook.com#?#.userContentWrapper:-abp-contains(Sponsorisé)
+facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(Nebulus))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(Sponsorisé))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-contains(Sponsorisé))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-properties(content: "Sponsorisé"))
+facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(span:-abp-contains(/Post suggéré|Vidéo suggéré/))
 ||facebook.com/fr/u.php?
 ||facebook.com/tr?id=$image
 ||facebook.net^*/fbevents.js$third-party
