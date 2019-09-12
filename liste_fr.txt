@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: qTmnbA9XZ+1ejt2yFVShjQ
-! Version: 201909122043
+! Checksum: CYHJ1yLYV2ENREMbBeN4ag
+! Version: 201909122054
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17636,6 +17636,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@|http://ad4.fr^$~third-party
 @@||123comparer.fr/photoProd/*00px/*-120x60-$image,domain=123comparer.fr
 @@||123comparer.fr/photoProd/*00px/*-300-x-250-$image,domain=123comparer.fr
+@@||127.0.0.1:4001/isrunning?unique=$script,domain=papystreaming.com
 @@||action.metaffiliation.com/trk.php?mclic=$popup,domain=123comparer.fr
 @@||ad-exchange.fr^$~third-party
 @@||ad.doubleclick.net/ddm/trackclk/*tracking.lengow.com$popup,domain=123comparer.fr
