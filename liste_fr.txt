@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: S4PG8EkdbWO+/qHBWe0X+A
-! Version: 201909122127
+! Checksum: 8ndhpODUSSSdcxVNLZUF5g
+! Version: 201909131848
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -3067,6 +3067,7 @@ _frontend_loader.$script
 /cpanel/redirect.php?ad=$popup
 /cpmclick.$popup
 /cpmstar.$popup
+/cradver.*&$popup
 /dating-*&cid=$popup
 /default_ad/*$popup
 /delivery.*.php?ad=$popup
