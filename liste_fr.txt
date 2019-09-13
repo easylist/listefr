@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 8ndhpODUSSSdcxVNLZUF5g
-! Version: 201909131848
+! Checksum: Oefyf/nysgasWpHrz2mZFg
+! Version: 201909131849
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -15682,6 +15682,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##a[onclick*="FriendlyDuck.com"]
 ##a[onclick^="CustomWLAdServer."]
 ##a[target="_blank"][href*="/buy-vpn?"] > img
+##data-ad-position
 ##data-pub-appnexus
 ##div[ad-channel]
 ##div[ad-position]
@@ -16964,6 +16965,7 @@ lejournaldelamaison.fr,mariefrance.fr##.shoopingbox_products
 programme-tv.net##.shopping
 portail.free.fr##.shopping_carrousel_produit
 korben.info##.side a[href*="://bit.ly/"]
+jeuxvideo.com##.sideStore
 gmx.fr##.sideadd
 voyage-economique.fr##.sideaff-container
 foot01.com##.sidebar img:first-child
