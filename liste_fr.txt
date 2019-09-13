@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: PDqohLUZkRotmQATwMM+8Q
-! Version: 201909131854
+! Checksum: VCqZ1Xv00Q0SKF4QVneVSQ
+! Version: 201909131903
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17776,6 +17776,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||firebaseio.com/.lp?$script,domain=cam4.com|cam4.fr
 @@||fonts.googleapis.com/css?$stylesheet,domain=animecomplet.net|extreme-down.xyz|extreme-download.club|extreme-download.me|filmstreamvf.com|filmstreamz.net|full-anime.com|full-serie.com|full-serie.net|full-stream.co|full-stream.su|g5u.pw|getsl.me|getsurl.com|gslink.co|gsurl.in|gsurl.me|jetanime.to|ls-streaming.com|mavanimes.co|planet-streaming.net|protect-mylinks.com|sonyoutube.com|stream4free.live|tntendirect.com|unblockproject.info|vidto.se|viva-stream.net|voiranime.com
 @@||full-serie.com/code.jquery.com/jquery-migrate-1.2.1.js$script,domain=full-anime.com
+@@||full-serie.com^$script,stylesheet,domain=full-serie.net
 @@||googleusercontent.com/docs/securesc/$xmlhttprequest,domain=hdsto.me
 @@||gslink.co/wp-$image,script,stylesheet,domain=g5u.pw|getsl.me|gsurl.in|gsurl.me
 @@||indifiles.com/cgi-bin/upload.cgi?$xmlhttprequest,domain=bdupload.asia
