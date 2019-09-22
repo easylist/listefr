@@ -9020,8 +9020,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||clicjeux.net/banniere.
 ||click-dz.com/img/$third-party
 ||click.alibaba.com^$subdocument
-||click.aliexpress.com^$popup,domain=~aliexpress.com|~dealabs.com
 ||click.aliexpress.com^$subdocument
+||click.aliexpress.com^*&$popup,domain=~aliexpress.com|~dealabs.com
 ||click.besprod.com^$popup
 ||clickbiz.fr/upload/ban/
 ||clickmylink.fr/bannieres/
