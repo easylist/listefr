@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: UEZ4tUx3c7Son4lAuPq95A
-! Version: 201909221354
+! Checksum: qj7r7koZ6u7Btg2TXvPEKg
+! Version: 201909221531
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2190,6 +2190,7 @@
 /static/*/ads/
 /static/t/b.js
 /staticAdsSRA.
+/sticky-ads-
 /stickyads|
 /stocksad1.
 /stocksad2.
@@ -11303,6 +11304,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||jumia.*/static/cms/*?downsize=
 ||juristatic.com/public/js/Composant/Wengo/notify.js?
 ||juristatic.com/public/js/lib/*_popup.js?
+||justgeek.fr/img/widgets/$image
 ||k2nblog.com/?$xmlhttprequest
 ||kacemb.com/kdda/sponsors/
 ||kairn.com/*/pub.
