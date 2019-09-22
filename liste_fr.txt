@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: VRSZTLr3q53AHtc7duB9+g
-! Version: 201909221702
+! Checksum: +0EDxoUP/8DXR09q62Ilug
+! Version: 201909221816
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17930,7 +17930,7 @@ _blockadblock_
 ||static.tacdn.com/*/src/ta/common/behavior/abAppeal-*.js
 !
 @@.gif#$image,domain=sos-lettre.fr
-@@.jpg#$image,domain=4downfiles.org|lethal-weapon-streaming.eu|macgames-download.com|the-night-of-streaming.eu
+@@.jpg#$image,domain=4downfiles.org|macgames-download.com|the-night-of-streaming.eu
 @@.png#$image,domain=4downfiles.org|leetgamerz.net|likeup.fr|radio-en-direct.fr|savefile.co|stream4free.live|tout-debrid.net|tout-gratuit.be|up-4ever.com
 @@/adblock.js$script,~third-party,domain=anilinkz.to|jdubuzz.com|jeuxvideo.com|journaldugamer.com|pixelistes.com|streaming-foot.me
 @@/ads.js$script,~third-party,domain=adbilty.me|adhit.me|adpop.me|adshort.co|adshort.im|adshort.me|ah.pe|coinlink.co|coinlink.us|cuon.io|curs.io|cut-urls.com|cutly.win|cutwi.in|danpod.work|eues.io|euon.io|igram.im|kimo-link.com|linkkawy.com|lkky.co|manga-vf.fr|passetoncode.fr|shortenow.com|tune.pk|u2s.io|zonebourse.com|zype.xyz
@@ -17982,7 +17982,6 @@ _blockadblock_
 @@||hyperserv.fr^$generichide
 @@||iiv.pl^$generichide
 @@||lecrabeinfo.net^$generichide
-@@||lethal-weapon-streaming.eu^$generichide
 @@||likeup.fr^$generichide
 @@||macgames-download.com^$generichide
 @@||mobinozer.com^$generichide
