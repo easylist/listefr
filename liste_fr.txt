@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: xw/q39y+CQ8292GO0UPclw
-! Version: 201909241749
+! Checksum: jJ9DMmXoP1XBq5f97lcknA
+! Version: 201909242032
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -7010,6 +7010,9 @@ debugger:$popup
 ||smpbhfiwr.com^
 ||uaadi.com^
 ||vornz.com^
+! getPublica
+||qlwgkw.com^
+||rdqgllmny.com^
 ! AdThrive adblock ads
 ||ahtarzr.ovh^
 ||blhjbepkhmuunbjxmidaq.com^
@@ -11548,6 +11551,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||maghrebstar.com/images/MSPUB.gif
 ||maidenfrance.fr/images/banniere-
 ||mailorama.fr^*/wearing/habillage_
+||maison-travaux.fr/wp-content/uploads/*/bouton-300x160.
 ||mameworld.info/net/pics/da.gif
 ||mamytwink.com^*/images/partenaires/
 ||manager-online.fr/images/sidebar/
