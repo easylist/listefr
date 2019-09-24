@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: lr2wwddOfAJHT5BF4gYDnQ
-! Version: 201909241656
+! Checksum: /kH19aVUWkfIXoJtXQgJ/w
+! Version: 201909241732
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -10577,6 +10577,13 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||aviss.fr/wp-content/uploads/*/pubH.jpg
 ||awbarre.com/includes/rotateurs/
 ||b4.solarporn.net^
+||ballad-et-vous.fr/wp-content/uploads/*-carr%$image
+||ballad-et-vous.fr/wp-content/uploads/*-carre%$image
+||ballad-et-vous.fr/wp-content/uploads/*-pub.
+||ballad-et-vous.fr/wp-content/uploads/*/avogadro-argis-isolation-thermique-ballad-et-vous.jpg
+||ballad-et-vous.fr/wp-content/uploads/*/bandeau-$image
+||ballad-et-vous.fr/wp-content/uploads/*/berger-jardin-octobre-
+||ballad-et-vous.fr/wp-content/uploads/*/pub-
 ||banquepopulaire.fr^*/habillages/
 ||banques-en-ligne.fr/img/hb-
 ||banques-en-ligne.fr^*/habillage.
@@ -17090,6 +17097,8 @@ rtl.be##.w-content-details-ligatus
 journaldumusulman.fr##.wallpaper-link
 youporn.com##.watchTextBox
 slappyto.net##.webrox._300x250.centered
+ballad-et-vous.fr##.widget > img[width^="300"][height="250"]
+ballad-et-vous.fr##.widget > img[width^="300"][height="600"]
 rtl.fr##.widget-leguide
 joueurdugrenier.fr##.widgetAmis
 joueurdugrenier.fr##.widgetVrac
@@ -17176,6 +17185,9 @@ movietube.live##a > img[src$=".gif"]
 launedalgerie.com##a > img[src^="/images/stories/U"]
 fourchette-et-bikini.fr##a > img[style="width: 660px; height: 190px;"]
 israelmagazine.co.il##a > img[width="238"]
+ballad-et-vous.fr##a > img[width^="30"][height="250"]
+ballad-et-vous.fr##a > img[width^="300"][height="500"]
+ballad-et-vous.fr##a > img[width^="728"][height="90"]
 zone-telechargement1.com,zone-telechargement1.top##a > span > img
 cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
