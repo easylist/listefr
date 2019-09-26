@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: M8jee33+G3MWydb3zIzkZA
-! Version: 201909260059
+! Checksum: lcsFypD+iYLme7Zmzrpd9A
+! Version: 201909260110
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12301,6 +12301,9 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||undernews.fr/*/NDH_2k15.gif
 ||undernews.fr/wp-content/uploads/*-ban.gif
 ||undernews.fr/wp-content/uploads/*_head.gif
+||undernews.fr/wp-content/uploads/2016/06/bitdefender_23.gif
+||undernews.fr/wp-content/uploads/2018/04/cyberghost-vpn_inPost.png
+||undernews.fr/wp-content/uploads/2019/06/cyberghost_inpost.jpg
 ||une-recette.com/include/$subdocument
 ||une-recette.com/include/*.php
 ||unionrunningworld.com/upload/bannieres/
@@ -17555,7 +17558,7 @@ avis-express.com##img[width="280"][height="425"]
 algerie-eco.com,francoischarron.com,israelmagazine.co.il,jeu.fr,leatube.com,maliweb.net,soonnight.com,undernews.fr##img[width="300"][height="250"]
 algerie-eco.com##img[width="300"][height="500"]
 supplychainmagazine.fr##img[width="468"]
-comparatif-vpn.fr,echangedeclics.fr,echangegagnant.com,espace-francophone.com,genhit.com,israelmagazine.co.il,space-blogs.net##img[width="468"][height="60"]
+comparatif-vpn.fr,echangedeclics.fr,echangegagnant.com,espace-francophone.com,genhit.com,israelmagazine.co.il,space-blogs.net,undernews.fr##img[width="468"][height="60"]
 israelmagazine.co.il##img[width="600"][height="90"]
 forum.soirnet.fr##img[width="720"][height="100"]
 algerie-eco.com,autosurfs.fr,francoischarron.com,jeu.fr,maliweb.net,mediacritik.com,undernews.fr##img[width="728"][height="90"]
@@ -17957,7 +17960,7 @@ _blockadblock_
 @@.png#$image,domain=4downfiles.org|leetgamerz.net|likeup.fr|radio-en-direct.fr|savefile.co|stream4free.live|tout-debrid.net|tout-gratuit.be|up-4ever.com
 @@/adblock.js$script,~third-party,domain=anilinkz.to|jdubuzz.com|jeuxvideo.com|journaldugamer.com|pixelistes.com|streaming-foot.me
 @@/ads.js$script,~third-party,domain=adbilty.me|adhit.me|adpop.me|adshort.co|adshort.im|adshort.me|ah.pe|coinlink.co|coinlink.us|cuon.io|curs.io|cut-urls.com|cutly.win|cutwi.in|danpod.work|eues.io|euon.io|igram.im|kimo-link.com|linkkawy.com|lkky.co|manga-vf.fr|passetoncode.fr|shortenow.com|tune.pk|u2s.io|zonebourse.com|zype.xyz
-@@/advertisement.js$script,domain=chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghreb.space|mega-exclue.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|undernews.fr|videozix.com|zonebourse.com
+@@/advertisement.js$script,domain=chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghreb.space|mega-exclue.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|videozix.com|zonebourse.com
 @@/advertisement.js$script,~third-party,domain=cap-public.fr|coco.fr|crash-aerien.aero|crash-aerien.news|leveldown.fr|quoverbis.com
 @@/advertising.js$script,~third-party,domain=animedigitalnetwork.fr
 @@/static/image/ad_top_bg2.png?$image,~third-party,domain=adf.ly|ay.gy|babblecase.com|briskgram.net|gamecopyworld.click|go.awanpc.me|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|replaymod.com|uclaut.net
