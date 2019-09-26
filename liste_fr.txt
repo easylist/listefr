@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: lDczEapd46zQujfyrAejkQ
-! Version: 201909260128
+! Checksum: GweUBUVN9THX4AGzlpffSg
+! Version: 201909260132
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -16486,6 +16486,7 @@ moov.mg##.bgTGC
 ennaharonline.com##.big-ad2
 lepetiteconomiste.com##.big-banner2
 des-amours.com##.big-button
+iphonesoft.fr,iphonetweak.fr##.bigPub
 journaldemontreal.com##.bigbox-container
 tv5.ca##.bigbox-pub
 korben.info##.bigwrap-univers
@@ -16893,7 +16894,7 @@ meteosun.com##.promote_large
 tf1.fr##.promoted_image
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
-ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,dictionnaire-synonymes.com,docteurclic.com,elbotola.com,elheddaf.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forumsims3.com,franceinfo.fr,franceinter.fr,ici.tou.tv,igen.fr,inovaovao.com,internetparsatellite.net,jeux-mmorpg.com,ktotv.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,logicielmac.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,nintendo-master.com,nordeclair.be,orange.fr,orange.mu,ouest-france.fr,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,remede.org,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,watchgeneration.fr,yabiladi.com,yatahonga.com,zupimages.net##.pub
+ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agevillage.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,dictionnaire-synonymes.com,docteurclic.com,elbotola.com,elheddaf.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forumsims3.com,franceinfo.fr,franceinter.fr,ici.tou.tv,igen.fr,inovaovao.com,internetparsatellite.net,iphonesoft.fr,iphonetweak.fr,jeux-mmorpg.com,ktotv.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,logicielmac.com,macg.co,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,nintendo-master.com,nordeclair.be,orange.fr,orange.mu,ouest-france.fr,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,remede.org,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,watchgeneration.fr,yabiladi.com,yatahonga.com,zupimages.net##.pub
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
 constructeurdemaison.net##.pub-content
@@ -16902,6 +16903,7 @@ millepertuis.eu##.pub-gauche-flottant
 1point2vue.com,direct-radio.fr##.pub-header
 challenges.fr,sciencesetavenir.fr##.pub-home
 lefigaro.fr##.pub-icone
+iphonetweak.fr##.pub-img
 toplien.fr##.pub-index-gauche
 bdgest.com,bedetheque.com##.pub-interne-top
 lematin.ma##.pub-medium
@@ -17595,9 +17597,6 @@ ifp.re,pfiramz.biz,pframe.eu,piframe.eu,plink.re,prframe.eu,protect-iframe.com,s
 ##iframe[style="border: 0; width: 970px; height: 110px;"]
 ! Éléments pour generichide
 onvasortir.com,urbeez.com###pub_leaderboard
-iphonesoft.fr##.bigPub
-iphonesoft.fr##.pub
-iphonetweak.fr##.pub-img
 ! Filtres de propriété CSS pour Adblock Plus
 narcity.com##.article-thumbnail:-abp-has(.sponsored-mention)
 allocine.fr#?#.video-card:-abp-has(.label-sponso)
