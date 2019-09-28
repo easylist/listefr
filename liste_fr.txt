@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: usl4Fn6wHYdiz1HDH+z5sw
-! Version: 201909281041
+! Checksum: 02UfQGjF9lyj7bwiojiPxg
+! Version: 201909281048
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -810,7 +810,6 @@
 /ads/?subid=
 /ads/ad1.
 /ads/ad2.
-/Ads/ad_
 /ads/ada.
 /ads/adb.
 /ads/add.
@@ -1287,7 +1286,6 @@
 /brand-ads-
 /brightcoveAds.
 /brinpopup.
-/brokenAd.
 /bsa-pro-scripteo/*
 /bshow.php?dimension=$script,third-party
 /bshow.php?id=*&dimension=
@@ -1792,7 +1790,6 @@
 /plx_popup.js
 /pmd_gdfp-
 /pme_ads.
-/poki-ads.
 /polyad.
 /pooads.
 /pop-ads.
@@ -2157,7 +2154,6 @@
 /show.php?*&w=728&h=90&
 /show.php?z=*&code=
 /show/?block_id=*&r=$script
-/show?zone_id=
 /show_adv.
 /show_i.php?b=$subdocument
 /show_next_ads.
@@ -2190,7 +2186,6 @@
 /static/*/ads/
 /static/t/b.js
 /staticAdsSRA.
-/sticky-ads-
 /stickyads|
 /stocksad1.
 /stocksad2.
@@ -2339,7 +2334,6 @@
 /zone?pub=*&zone_id=
 /zoneads/*
 /zones?zone=$subdocument
-/~cdn/Ads/*
 300x250.gif|
 336x280.gif|
 ://a.*/redirect/?spot_id=
