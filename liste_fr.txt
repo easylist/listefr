@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7UsPDjTv5psg4zZ/5pvUjg
-! Version: 201909271151
+! Checksum: a8MhXfQNnyc/glhHV56vxA
+! Version: 201909280327
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -13933,6 +13933,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##.actu_pub_pave3
 ##.actualite__mobile-ads
 ##.ad--article
+##.ad--content
 ##.ad--desk
 ##.ad--high-banner
 ##.ad--row-ad--left
@@ -14671,6 +14672,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##.map_fond_pub
 ##.marketing-container
 ##.masthead-overHeader
+##.matador_dfp_channel_ad_widget
 ##.mb_video_syncad
 ##.mbanner-ad-wrapper
 ##.mdmAd-inner
