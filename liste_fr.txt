@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: nJEYhWJ37T+UHiUS1a5EAQ
-! Version: 201910091354
+! Checksum: cqAFqG4UQ6gMSNfu7WssmA
+! Version: 201910091403
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -8925,6 +8925,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||awhoer.net^*/vpn_
 ||awin1.com/awclick.php?
 ||awin1.com^$popup,domain=configspc.com
+||azureedge.net/img/*habillage$third-party
 ||azurewebsites.net/widget/
 ||b.photobucket.com^
 ||ba.commentcamarche.net^
@@ -16555,6 +16556,7 @@ francetvsport.fr##.block-ftv-loading-of-mad
 d8.tv##.block-mozaic-pub
 latribune.fr##.block-partner
 lemonde.fr##.block-partners
+20minutes.fr##.blockLinkSkin-communication
 laposte.net##.blockShopping
 maison-travaux.fr##.blockUI
 vakarm.net##.block_news_main_pub
@@ -16583,6 +16585,7 @@ omgtorrent.bz,omgtorrent.cz##.btn-regarder-torrent
 dl-android.com##.btnDownload
 gamergen.com,generation-nt.com##.bup
 cpasbiens.net##.button
+20minutes.fr##.c-20-minutes-ad-bar-custom
 terrafemina.com##.c-product
 750g.com##.c-pwned-gg
 metronews.fr##.campaign-push-wrapper
