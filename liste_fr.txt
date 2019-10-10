@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Ys98HnrcwPlyU6eWT1OTiQ
-! Version: 201910102012
+! Checksum: XiAFu/OgLMV5HolN6os68w
+! Version: 201910102038
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1406,6 +1406,7 @@
 /display/?affid=
 /display/?method=$subdocument
 /display/ads.
+/display/ads?
 /display/items.*&
 /display_pub.
 /DisplayAdTargets.
@@ -2184,6 +2185,7 @@
 /srv.php?size=300x250
 /srv.php?size=315x300
 /static-ads.
+/static.ads-
 /static/*/ads/
 /static/t/b.js
 /staticAdsSRA.
@@ -2426,6 +2428,7 @@
 ://tool.*/banner/
 ://tools.*/a/c.php?$third-party
 ://tools.*/ban/
+://video-ads.
 ://vykingad.
 ://xads.
 ://xml.*/redirect?
