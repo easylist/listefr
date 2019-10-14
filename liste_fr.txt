@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: UJr6eylDiAMSFLLChdwqrw
-! Version: 201910132046
+! Checksum: Q+End4CJMGanmHUkRimuIg
+! Version: 201910141944
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4028,7 +4028,6 @@ debugger:$popup
 ||cubicleoffers.com^$third-party
 ||cufcw.com^$third-party
 ||cupidontrade.com^$third-party
-||cupinteractive.com^$third-party
 ||cursoafiliadopro.com.br^$third-party
 ||cyberflirt.fr^$third-party
 ||cytochemistryrecitativewrasse.com^$third-party
@@ -9105,6 +9104,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||csm-e.cds1.yospace.com^
 ||csstatic.com/banners/
 ||ctrip.com/?TypeID=$third-party
+||cupinteractive.com^*/campagne/
 ||cyberbaiseuses.com^$subdocument
 ||cyberflirt.com/cx/
 ||cyonix.to^$subdocument
