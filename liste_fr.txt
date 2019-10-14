@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Q+End4CJMGanmHUkRimuIg
-! Version: 201910141944
+! Checksum: +vx0QGzx48DrqlG6ZHSrqQ
+! Version: 201910142040
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -29,6 +29,7 @@
 &ad_image_
 &ad_layer_
 &ad_path=
+&ad_pos=
 &ad_tags=
 &ad_unit_
 &adBitrate=
@@ -186,6 +187,7 @@
 -ad-cloud.
 -ad-management.
 -ad-mobile.
+-ad-test-cdn.
 -ad160x600.
 -ad300x250-
 -ad480x60-
@@ -670,6 +672,8 @@
 /ad_placements/*
 /ad_player/*
 /ad_result.
+/ad_smallflow/*
+/ad_smallflow_
 /ad_trafic.
 /ad_w_intersitial.
 /adagioui-
@@ -1502,6 +1506,7 @@
 /get_links_*&zone=
 /getAdCode&
 /getAdCode.
+/getadmanageconf?
 /getadsor.
 /getAdvancedPartnerDiv.
 /getDlAd?
@@ -2589,9 +2594,11 @@ _ad-server.
 _ad.html?utm_
 _ad160x600.
 _ad_agency_
+_ad_anim|
 _ad_campaign_
 _ad_images_
 _ad_literature.
+_ad_mid|
 _ad_unit.
 _ad_view_
 _ad_viewable_
@@ -2612,6 +2619,8 @@ _ads860x120.
 _ads_*?pubId=
 _ads_2018.
 _ads_728.
+_ads_banner&
+_ads_banner/
 _ads_banner_
 _ads_desktop.
 _ads_one_
@@ -2672,6 +2681,7 @@ _liens_sponsorises.
 _logic_on_ad.
 _lx.ads/
 _mobileAds|
+_money_ad&
 _nnads/$subdocument
 _pages_ad.
 _pop.php?z=
