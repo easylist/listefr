@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: lv+J8H5caLC0D46paRaLTA
-! Version: 201910172001
+! Checksum: Mwk5yCIzH+w8F+Ohyc2x9g
+! Version: 201910172326
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4965,6 +4965,7 @@ debugger:$popup
 ||thri.xxx^$third-party
 ||throughdfp.com^$third-party
 ||tidido.com^$third-party
+||tipser.com^$third-party
 ||tipslz.com^$third-party
 ||tiredduck.com^$third-party
 ||tiz-et.ru^$third-party
@@ -13468,6 +13469,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ###google_csa_box_RHS
 ###gpt-ad-300x250-300x600-bottom
 ###gpt-ad-728x90-970x66-bottom
+###gpt-ad-habillage
+###gpt-ad-inread
 ###gpt-leaderboard-top
 ###grid-pub
 ###haut_site_pub
@@ -15836,6 +15839,9 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##div[id^="divsda-"]
 ##div[id^="exoNativeWidget"]
 ##div[id^="ezoic-pub-ad"]
+##div[id^="gpt-ad-banner"]
+##div[id^="gpt-ad-masthead"]
+##div[id^="gpt-ad-mpu"]
 ##div[id^="ipc-advert"]
 ##div[id^="meloAd-"]
 ##div[id^="nativeAds_"]
