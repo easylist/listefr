@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Mwk5yCIzH+w8F+Ohyc2x9g
-! Version: 201910172326
+! Checksum: U2g9ZR3lEnCQ2CsBCv8Ccw
+! Version: 201910180051
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -556,6 +556,7 @@
 /920x90-
 /953x50.gif
 /953x60.gif
+/960-120.gif
 /970-x-90-
 /970-x-90.
 /970x90.
@@ -2601,6 +2602,7 @@ _ad_campaign_
 _ad_images_
 _ad_literature.
 _ad_mid|
+_ad_top|
 _ad_unit.
 _ad_view_
 _ad_viewable_
@@ -11184,6 +11186,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||glenatbd.com/images/banners/
 ||glenatbd.com/images/skins/
 ||glenatmanga.com/upload/habillage/
+||goal.*/uploads/promotion/
 ||goal.com^$subdocument,~third-party
 ||goldenboys.fr/images/klops-promo-goldenboys-180x180-v5.jpg
 ||goldenmoustache.com/wp-content/uploads/*/300x250
