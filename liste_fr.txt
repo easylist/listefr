@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kJOJxMqV7ib1TTAg0Xp2AA
-! Version: 201910191655
+! Checksum: xfSfN1vCwlxBe0lCV7ku7w
+! Version: 201910191732
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -9785,6 +9785,10 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||quelconstructeur.com*/tock/
 ||quellavelinge.com^$popup,domain=trefle.com
 ||quickdomainfwd.com^$subdocument
+||quotes.gb.net/images/*/250/
+||quotes.gb.net/images/*/468/
+||quotes.gb.net/images/*/728/
+||quotes.gb.net/images/*/900/
 ||rabbitfinder.com/uploads/banners/
 ||rackcdn.com^$domain=dailymotion.com
 ||raincaptcha.com^*/frame/click?
