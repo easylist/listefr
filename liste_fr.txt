@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: OqY3l2/oTJs5E5BzpU2cJA
-! Version: 201910191915
+! Checksum: CRd8KJX6JJGq4nkBzT0vCw
+! Version: 201910191945
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4932,7 +4932,7 @@ debugger:$popup
 ||swingers-match.com^$third-party
 ||sx77.net^$third-party
 ||sydtrack.me^$third-party
-||systeme.io^$third-party
+||systeme.io^$~image,third-party
 ||t4b.tv^$third-party
 ||t4btv.com^$third-party
 ||tag101.com^$third-party
@@ -15805,6 +15805,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##div[class*="view-ads-header-"]
 ##div[class*="view-id-ads_header_"]
 ##div[class*="view-id-ads_sidebar_"]
+##div[class^="AffiliateBadgeUi-"]
 ##div[class^="ad-inside-post-"]
 ##div[class^="ad_200_"]
 ##div[class^="ad_468_"]
