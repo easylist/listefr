@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Q3kwGyxFP7GXOTesaItO9A
-! Version: 201910202313
+! Checksum: nuXVozDY+vKoO54tn5Sn0Q
+! Version: 201910202329
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1526,6 +1526,7 @@
 /gfx/bannieres_
 /gif/sponsor_
 /goclick?ref=$script
+/googleadmanager-
 /grafik/ads/*
 /grid/ads/*
 /hashcash.$domain=~hashcash.io
@@ -1774,6 +1775,7 @@
 /partners/ads-
 /partners/rotator.
 /partners/sidebar.$subdocument
+/partners/tipser.$script
 /partnertag/iframe.
 /partnerzyapi.$third-party
 /path/ads/*
