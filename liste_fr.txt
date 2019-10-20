@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: nuXVozDY+vKoO54tn5Sn0Q
-! Version: 201910202329
+! Checksum: Ex7tVRSNZ2pZgoWE3FXnfw
+! Version: 201910202339
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1690,6 +1690,7 @@
 /medias/ads/*
 /meltyad/*
 /menu/ADS/*
+/mf.pub.prod.js
 /mf.sethabillage.js
 /miniads/*
 /missaffiliate/*
@@ -7061,6 +7062,7 @@ debugger:$popup
 ||uaadi.com^
 ||vornz.com^
 ! getPublica
+||arskwmlh.com^
 ||eacetvqr.com^
 ||isbnwq.com^
 ||qlwgkw.com^
