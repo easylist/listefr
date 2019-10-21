@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7jRgxxplz3pngwtvKN73Jw
-! Version: 201910211957
+! Checksum: MFL4EKuwUbEklGHdS02i7w
+! Version: 201910212033
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -7615,7 +7615,7 @@ debugger:$popup
 ||sleeptimer.org/playerc.js
 ||smectapop12.pl^$third-party
 ||soodatmish.com^
-||sourcecode.pro^
+||sourcecode.pro^$third-party
 ||spacepools.org^$third-party
 ||sparechange.io^$third-party
 ||sparnove.com^$third-party
