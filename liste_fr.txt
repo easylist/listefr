@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: joIsauN4iqREpSCjt5yajg
-! Version: 201910311733
+! Checksum: PWHmKkSZNesHgXlMVg9ngA
+! Version: 201911011758
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17713,7 +17713,8 @@ ifp.re,pfiramz.biz,pframe.eu,piframe.eu,plink.re,prframe.eu,protect-iframe.com,s
 onvasortir.com,urbeez.com###pub_leaderboard
 ! Filtres de propriété CSS pour Adblock Plus
 narcity.com##.article-thumbnail:-abp-has(.sponsored-mention)
-allocine.fr#?#.video-card:-abp-has(.label-sponso)
+allocine.fr#?#.news-card:-abp-contains(Sponsorisé)
+allocine.fr#?#.video-card:-abp-has([class*="sponso"])
 amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com#?#:-abp-properties(base64)
 amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com,senscritique.com,seriehentai.com#?#:-abp-properties(data:)
 annuaire-telechargement.com,extreme-down.xyz,torrent09.uno,torrent9.cz,torrent9.is,torrent9.sx,zone-telechargement.to,zone-telechargement1.world#?#a:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
