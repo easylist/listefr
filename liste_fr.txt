@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Q4MR5kB1hvzzL8/HB/OH0Q
-! Version: 201911101139
+! Checksum: YgUMaP1ahP4Mn6CfUnvnBQ
+! Version: 201911121436
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -851,6 +851,7 @@
 /ads/kits/*
 /ads/layered_
 /ads/left/*
+/ads/lodown_
 /ads/lz_
 /ads/mgid.
 /ads/mgid_
@@ -2622,6 +2623,8 @@ _adco_
 _adcommon.
 _adpath_$subdocument
 _adplib.
+_adrotate-
+_AdRotate3-
 _ads.php$script,subdocument
 _ads/*?downsize=
 _ads/banner/
