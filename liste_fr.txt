@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Rdxk2ezHGo1Kd4SVGH+Xhw
-! Version: 201911171601
+! Checksum: GiuH2yiWITPbAhCgumGCSQ
+! Version: 201911171616
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -10947,6 +10947,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ||cdn.flvto.biz/js/*_popup_
 ||cdn.tirage-gagnant.com/js/popup.js
 ||cdn.wpformation.com/wp-content/uploads/*/wpserveur-banner
+||cdn3.opnminded.com/wp-content/uploads/2019/07/CJS2019_06_Crea_OpenMinded_Site_2106_Def.jpg
 ||cdna.meilleurmobile.com/$subdocument
 ||cduporno.fr/disc.js
 ||cduporno.fr/themes/netleixtube/js/popupplayer.js
@@ -15942,6 +15943,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amateurdusexe.com|co
 ##a[href^="https://join.yanks.com/"]
 ##a[href^="https://jsecoin.com/o/?"]
 ##a[href^="https://lovaskin.eu/?aff="] > div
+##a[href^="https://lp.swaven.com/"]
 ##a[href^="https://media.r18.com/"]
 ##a[href^="https://network.nutaku.net/"]
 ##a[href^="https://onclickads.net/"]
@@ -16705,6 +16707,7 @@ batiactu.com,montelimar-news.fr##.annonce_immo
 centre-presse.fr,lamontagne.fr,larep.fr,le-pays.fr,leberry.fr,lechorepublicain.fr,lejdc.fr,lepopulaire.fr,lyonne.fr##.annonce_prompteur
 voyageforum.com##.annoncer_sur
 toplien.fr##.annuinv-index-gauche
+opnminded.com##.apnmndd-single
 linternaute.com##.app_amazon_content
 journaldunet.com,linternaute.com##.app_aside--content_commerce
 neowebcar.com##.argus-logo
