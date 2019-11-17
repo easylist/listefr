@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: GiuH2yiWITPbAhCgumGCSQ
-! Version: 201911171616
+! Checksum: S7hBMCe4SZJrrUJVBP1Prg
+! Version: 201911171648
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -16956,7 +16956,6 @@ equirodi.be##.header_adv
 lexpress.fr##.header_content_edito
 vakarm.net##.header_logo + div > table tr > td > a[target="_blank"]
 ouiounon.net##.headertitrelien[target="_blank"]
-paruvendu.fr##.himm16-partenairessidebox
 lafermeduweb.net##.homePub
 lo.st##.home_partner_img
 lagence.fr##.hor_banners
@@ -17136,6 +17135,7 @@ fourchette-et-bikini.fr##.pavePub
 grands-reportages.com,montagnes-magazine.com##.pavepub
 footballclubdemarseille.fr##.pb-sidebar-article
 envertetcontretous.fr##.pb300
+paruvendu.fr##.pb_inter_CONT
 seriesaddict.fr##.pbl728x90
 macg.co##.pbs
 ouedkniss.com##.pcare160
@@ -17725,6 +17725,7 @@ finansemble.fr##div.div_description_v2[style="max-width:750px;"]
 loractu.fr##div.landing
 kozikaza.com##div[class$="item--ad"]
 net-iris.fr##div[class$="promo-container"]
+paruvendu.fr##div[class*="partenairessidebox"]
 film-telechargement.org,telechargement-film.org,telechargement.vip##div[class*="vip"]
 booska-p.com##div[class][style^="background"]
 wikimonde.com##div[class^="am_"]
@@ -17910,6 +17911,7 @@ macommune.info#?#.box_article:-abp-has(.is-text-publi-infos)
 macommune.info#?#.widget_article:-abp-has(.title_widget:-abp-contains(/PUBLI INFO|Publi-info/))
 numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
 pandos2play.free.fr,soap-passion.com,ultimate-catch.eu#?#:-abp-properties(opacity:)
+paruvendu.fr#?#.lazyload_bloc:-abp-has([class*="sponsorise"])
 businessinsider.fr#?##related-post-:-abp-has(a[href*="/contenu-sponsorise"])
 starbike.com#?#.post.has-profile:-abp-has(.postbody:-abp-has(.adsbygoogle))
 t9.vc,torrent09.uno,torrent9.ai,torrent9.cz,torrent9.is,torrent9.sx#?#div[style]:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
