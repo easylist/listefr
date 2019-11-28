@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: GtwRM1/nM9z8QhwZDBfWqA
-! Version: 201911282003
+! Checksum: MNM87vainKPkyH5i+r3Wsw
+! Version: 201911282105
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2943,6 +2943,7 @@ _frontend_loader.$script
 %26referrer%*%26cmp%$popup
 %3dadblock_pop%$popup
 &_r=*.adult.&$popup
+&ad*&affiliateId=$popup
 &ad_*&rotation_$popup
 &ad_domain=$popup
 &ad_id=$popup
@@ -3082,6 +3083,7 @@ _frontend_loader.$script
 /adv_clk_redirect.$popup
 /adv_show?$popup
 /advertisers/?utm_$popup
+/affiliates/*&ad$popup
 /afu.php?id=&$popup
 /afu.php?zoneid=$popup
 /api/reverse?$popup,third-party
@@ -3201,6 +3203,7 @@ _frontend_loader.$script
 /pu/?*&site=$popup
 /pu/?*&utm_$popup
 /pu/?*?utm_$popup
+/pu/?psid=$popup
 /pu2redirector.$popup
 /pub2/redirect.$popup
 /publicidad.$popup
@@ -8214,6 +8217,7 @@ debugger:$popup
 ||cptefr.com^$popup,third-party
 ||creativesrv.com^$popup,third-party
 ||creofive.com^$popup,third-party
+||crptgate.com^$popup
 ||cygnusadmedia.com^$popup,third-party
 ||cytochemistryrecitativewrasse.com^$popup,third-party
 ||danmeneldur.com^$popup,third-party
@@ -14152,6 +14156,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###top-left-pub
 ###topAdContainer728
 ###topAdscenter
+###top_player_adv
 ###top_pub
 ###top_side_pub
 ###topleftad
