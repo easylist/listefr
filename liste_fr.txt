@@ -989,6 +989,7 @@
 /adtictac.
 /adtube.
 /adUnblock.
+/adv-out/?
 /adv.htm
 /adv.search.
 /adv/*/1000x500_
@@ -1082,6 +1083,7 @@
 /afilyads1.
 /afterclick.js
 /afu.php?id=
+/alipromo.replace.js
 /altad.
 /amazon-product-in-a-post-plugin/*
 /amazonaffiliate-
@@ -1233,9 +1235,18 @@
 /banners/*?rnd=
 /banners/*_ads_
 /banners/120x240.
+/banners/120x48/*
 /banners/125x125.gif
 /banners/150x60.
+/banners/200x200/*
+/banners/200x48/*
+/banners/200x600/*
+/banners/200x80/*
 /banners/250X300.
+/banners/800x60/*
+/banners/ad-
+/banners/ads-
+/banners/ads_
 /banners/affiliates/*
 /banners/fr.ad.
 /banners/pub-
@@ -2085,6 +2096,7 @@
 /quickads/*
 /r18/banner/*
 /r18728x90_
+/rbs_banner_sender.
 /re.clame/*
 /reactAds-
 /reactAds.
@@ -2133,6 +2145,7 @@
 /rotation/hits?$subdocument
 /rotator.ad$script
 /rotator.php?zone=$script
+/rotator/banner/*$subdocument
 /rotban/*$script
 /rotbas/img_bas.
 /rotcol/img_col.
@@ -3840,6 +3853,7 @@ debugger:$popup
 ||anymad.com^$third-party
 ||anytrx.com^$third-party
 ||aoifziubfiuzbf.com^$third-party
+||appintop.com^$third-party
 ||apploading.mobi^$third-party
 ||apps2you.org^$third-party
 ||apps4.space^$third-party
@@ -15655,6 +15669,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[hre^="http://adtrack01.com/"]
 ##a[hre^="https://ad.propellerads.com/"]
 ##a[hre^="https://publishers.propellerads.com/#/"]
+##a[hre^="https://www.ucoz.net/?pguid="]
 ##a[href$="?id=300x250"][target="_blank"] > img
 ##a[href$="?id=728x90"][target="_blank"] > img
 ##a[href*="%2Fapi%2Fmpup%2F"]
