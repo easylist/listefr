@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: YsaccYo2/1r6aY0v3U4WvQ
-! Version: 201912030107
+! Checksum: NV4r+jxtjTo7Un3AIG74SQ
+! Version: 201912030126
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18003,6 +18003,7 @@ amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com,senscritique.com,seriehentai.c
 annuaire-telechargement.com,extreme-down.xyz,t9.vc,torrent09.uno,torrent9.ai,torrent9.cz,torrent9.is,torrent9.so,torrent9.sx,zone-telechargement.net,zone-telechargement.to,zone-telechargement1.world#?#a:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
 businessinsider.fr#?#.post-nonfeatured:-abp-has(.title-studio:-abp-contains(Contenu Sponsorisé))
 ccm.net#?#.ccm_list_catch__item:-abp-contains(Sponsored)
+cnetfrance.fr#?#.riverPost:-abp-has(.tag-desktop:-abp-contains(Publicité))
 commentcamarche.com,commentcamarche.net#?#.ccm_list_catch__item:-abp-contains(Annonces)
 discordbots.org#?#.bot-card:-abp-has(.lib:-abp-contains(Promoted))
 discordbots.org#?#.bot-card:-abp-has(.lib:-abp-has(img))
