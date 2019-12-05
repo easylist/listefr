@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: yueXzMgmiaUz34O4TX+0VA
-! Version: 201912051207
+! Checksum: Fu64wDHNORP01JMG7Ra+cw
+! Version: 201912051234
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17989,6 +17989,7 @@ youporn.com##video[autoplay][loop]
 onvasortir.com,urbeez.com###pub_leaderboard
 ! Filtres de propriété CSS pour Adblock Plus
 narcity.com##.article-thumbnail:-abp-has(.sponsored-mention)
+20min.ch#?#.clusterTop:-abp-has(.teaser:-abp-has(h3:-abp-contains(Paid Post)))
 allocine.fr#?#.news-card:-abp-contains(Sponsorisé)
 allocine.fr#?#.video-card-trailer:-abp-has([class*="sponso"])
 allocine.fr#?#.video-card:-abp-has([class*="sponso"])
