@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: GriNvoiln8AG0os2aRVujw
-! Version: 201912070749
+! Checksum: MmJnzPuETt7JC6U8BConmw
+! Version: 201912070800
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2205,6 +2205,7 @@
 /sidebar-ad.
 /sidebar/partner-$image
 /similarClickAds|
+/simple/ads.js
 /site/istripper/*
 /siteMarketingbanner/*
 /skipad.
@@ -4144,6 +4145,7 @@ debugger:$popup
 ||downanddirty.xyz^$third-party
 ||download-pic.com^$third-party
 ||dreamstore.ch^$third-party
+||drim.space^$third-party
 ||duapps.com^$third-party
 ||duporno.biz^$third-party
 ||dustin5043.fr^$third-party
