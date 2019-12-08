@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: w+hHFtDSCoflj5nnCNnAOw
-! Version: 201912080149
+! Checksum: ZLeJB8DgFUyF5HEUVFzOkg
+! Version: 201912081939
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -837,6 +837,7 @@
 /ads/click/*
 /ads/core.
 /ads/country.
+/ads/cpmstar_
 /ads/criteo/*
 /ads/criteo2_
 /ads/criteo3_
@@ -1815,6 +1816,7 @@
 /peaceandlove.php?zone
 /peelrotateur/*
 /phantomPopunder.
+/phpad-pub-
 /phpadclick.
 /phpbb_ads/*
 /player.*?adSetCode=
@@ -13304,6 +13306,9 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###ad-before-comment
 ###ad-before-content
 ###ad-bg-transparent
+###ad-box300x250
+###ad-box300x250_2
+###ad-container-adaptive
 ###ad-container-adaptive-2
 ###ad-container-zone-1
 ###ad-container-zone-2
@@ -13335,6 +13340,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###ad-mpu-middle2
 ###ad-nav-tab
 ###ad-outstream
+###ad-panel_1
+###ad-panel_2
 ###ad-parallax
 ###ad-planetveo
 ###ad-rec-bet1
@@ -13348,10 +13355,12 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###ad-rectangle1-load
 ###ad-rectangle2-load
 ###ad-rectangle3-load
+###ad-sitebranding
 ###ad-sticky-container
 ###ad-top-main
 ###ad-top-main-2
 ###ad-top-network
+###ad-watermark
 ###ad-zone-3
 ###ad-zone-4
 ###ad125
@@ -14369,10 +14378,12 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.ad-uber
 ##.ad-unit-after-title
 ##.ad-visible
+##.ad-watermark
 ##.ad-website
 ##.ad-wrapper-middle
 ##.ad-wrapper-right
 ##.ad.billboard
+##.ad.half_page
 ##.ad160b
 ##.ad300d
 ##.ad336b
@@ -14563,6 +14574,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.ads_300_250
 ##.ads_728_90
 ##.ads_960x90
+##.ads__horizontal
 ##.ads__timer
 ##.ads_actuly
 ##.ads_ban
@@ -16157,6 +16169,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##div[id*="_section_ads_header_"]
 ##div[id^="M"][id*="Composite"]
 ##div[id^="PostAd"]
+##div[id^="ad-artspons_"]
 ##div[id^="adsatlas-"]
 ##div[id^="adtrue_tag"]
 ##div[id^="adzerk-"]
