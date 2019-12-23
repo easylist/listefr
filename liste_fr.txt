@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Q8HjFa8gs/4FXPiqYmJsTg
-! Version: 201912230048
+! Checksum: Lw90tkuEaH2C7o6jN93U+Q
+! Version: 201912230104
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -9555,7 +9555,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||gizblog.it/wp-content/uploads/$third-party
 ||globeusd.org/popk.php
 ||go.freepik.com/redirect?$popup
-||go.nordvpn.net^
+||go.nordvpn.net^$third-party
 ||go.vidrock.co^
 ||go2cloud.org^$popup,domain=jeux-mmorpg.com
 ||go2cloud.org^*?offer_id=
@@ -16074,7 +16074,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href^="https://downloadplayer.xyz/"]
 ##a[href^="https://fileslicious.tf/"]
 ##a[href^="https://go.alvexo.com/"]
-##a[href^="https://go.nordvpn.net/"]
 ##a[href^="https://gofetishsex.com/?"]
 ##a[href^="https://hide.me/promotion/best-vpn-torrents/?friend="] > img
 ##a[href^="https://join-adf.ly/"] > img
