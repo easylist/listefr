@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Lw90tkuEaH2C7o6jN93U+Q
-! Version: 201912230104
+! Checksum: DUIIKdwJMwo/CUvdPrmOkg
+! Version: 201912230328
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -16213,6 +16213,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ! xenForo
 ##.SamRotator > .SamLink
 ##.samBannerUnit .SamLink
+##.samBannerUnit .samItem
 ##div > [class][data-pos] > .SamLink
 !
 !----------------------- Éléments -----------------------!
