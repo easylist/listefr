@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Q6bsZHp+2gq3KU+Okb3ygg
-! Version: 201912241948
+! Checksum: nQqy/IK/E73g40ULHpMSpw
+! Version: 201912242001
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1179,6 +1179,7 @@
 /banner/ads-
 /banner/ads.js
 /banner/bottom?
+/banner/ebay/*
 /banner/iframe?
 /banner/middle?
 /banner/player?
@@ -1459,6 +1460,7 @@
 /earn.*?zone=
 /eas/ads/*
 /ebam/ads.
+/ebayads/*
 /ec_adalt.
 /ec_adalt/*
 /ec_adalt_
@@ -18064,6 +18066,7 @@ commentcamarche.com,commentcamarche.net#?#.ccm_list_catch__item:-abp-contains(An
 discordbots.org#?#.bot-card:-abp-has(.lib:-abp-contains(Promoted))
 discordbots.org#?#.bot-card:-abp-has(.lib:-abp-has(img))
 dzgeek.com#?#li + .postbit:-abp-has(img[src$="/avatars/partenaire.png"])
+etsy.com#?#.wt-list-unstyled:-abp-has(.ad-iindicator)
 forumconstruire.com#?#div.post_classic:-abp-has(.post_classic_pseudo:-abp-contains(Autopromo))
 forumpiscine.com#?#div[id][class^="postbox_forum_"]:-abp-has(.forum_pseudo_contener:-abp-contains(Autopromo))
 frandroid.com#?#.container_native_home-list:-abp-has(.aligot-icon)
