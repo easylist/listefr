@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: EOPY92dQvd35QKjFKp11RQ
-! Version: 201912250220
+! Checksum: ajK2KsyZ8mGLPFOsiJib+Q
+! Version: 201912250521
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -10496,7 +10496,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 .damoh.$media,~third-party
 ||damoh.commentcamarche.net^$media
 ! tf1.fr
-/^((?!(^https?|^blob):\/\/((ajax|firestore)\.googleapis\.com|(odb|storage|widgets)\.outbrain\.com|(staticxx|www)\.facebook\.com|ak-tf1-das-liv-ssl\.akamaized\.net|api\.(deezer\.com|s10d\.io)|cdn\.streamroot\.io|cdns2\.gigya\.com|cdns\.eu1\.gigya\.com|cdns\.gigya\.com|connect\.facebook\.net|e-cdns-files\.dzcdn\.net|platform\.(instagram\.com|twitter\.com)|players\.edgesuite\.net|tf1-das-live\.secure\.footprint\.net|tf1\.idalgo-hosting\.com|vjs\.zencdn\.net|ws\.facil-iti\.com|www\.(tf1\.fr|wat\.tv))\/).)*$/$media,object,script,third-party,xmlhttprequest,domain=tf1.fr|wat.tv
+/^((?!(^https?|^blob):\/\/((ajax|firestore)\.googleapis\.com|(odb|storage|widgets)\.outbrain\.com|(staticxx|www)\.facebook\.com|ak-tf1-das-liv-ssl\.akamaized\.net|api\.(deezer\.com|s10d\.io)|cdn\.streamroot\.io|cdns2\.gigya\.com|cdns\.eu1\.gigya\.com|cdns\.gigya\.com|connect\.facebook\.net|e-cdns-files\.dzcdn\.net|platform\.(instagram\.com|twitter\.com)|players\.edgesuite\.net|([0-9a-z\.\-]+)\.footprint\.net|tf1\.idalgo-hosting\.com|vjs\.zencdn\.net|ws\.facil-iti\.com|www\.(tf1\.fr|wat\.tv))\/).)*$/$media,object,script,third-party,xmlhttprequest,domain=tf1.fr|wat.tv
 ! orange.fr
 /^((?!(^https?):\/\/(([0-9a-z\-\.]+)\.maps\.cit\.api\.here\.com|([a-z\-]+)\.woopic\.com|api\.usabilla\.com|cps\.purpledrm\.com|embed\.playbuzz\.com|mcd\.playbuzz\.com|services\.arcgisonline\.com|static\.(arcgis\.com|doyoudreamup\.com)|vodew-mss2\.cdn2\.orange-business\.com|www\.ultimedia\.com)\/).)*$/$third-party,xmlhttprequest,domain=orange.fr
 ! jacquieetmichel.fr
