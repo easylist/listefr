@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 5AbgjiVY2u5SwW5WziCEmQ
-! Version: 201912300052
+! Checksum: oLu3h+5voUavpjOTSxmoKA
+! Version: 201912300142
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -16104,6 +16104,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href^="https://join-adf.ly/"] > img
 ##a[href^="https://join.yanks.com/"]
 ##a[href^="https://jsecoin.com/o/?"]
+##a[href^="https://lecrocodeal.com/"] > .crocodeal-deal
+##a[href^="https://lecrocodeal.com/"] > .wrapper-72890
 ##a[href^="https://lovaskin.eu/?aff="] > div
 ##a[href^="https://lp.swaven.com/"]
 ##a[href^="https://media.r18.com/"]
