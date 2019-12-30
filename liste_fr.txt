@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: OwM4aYmmEbUtpFWBNDu6ZQ
-! Version: 201912250723
+! Checksum: fevo5iNa6AVWNz0kCrtBPA
+! Version: 201912300012
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2128,6 +2128,7 @@
 /reklamstore.js
 /reklamy/*
 /rel/index.cfm?*&TAD=
+/relativeAdsScript.
 /reloadads.
 /renklam/*
 /repository/banners/*$third-party
@@ -2654,6 +2655,7 @@ _adco_
 _adcommon.
 _adpath_$subdocument
 _adplib.
+_adreaper/
 _adrotate-
 _AdRotate3-
 _ads.php$script,subdocument
@@ -6056,6 +6058,7 @@ debugger:$popup
 ||dexessee.com^
 ||diamongs.com^
 ||differenth.com^
+||distoryrussion.info^
 ||divoreful.com^
 ||docsconvert.club^
 ||doctoconve.club^
@@ -6238,6 +6241,7 @@ debugger:$popup
 ||veningew.info^
 ||vetermsu.info^
 ||viatepigan.com^
+||volvejudgetneig.info^
 ||webcompon.info^
 ||webgekeniuos.com^
 ||wheelches.info^
@@ -10731,6 +10735,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||3dnatives.com/wp-content/uploads/bann
 ||3dnatives.com/wp-content/uploads/offre
 ||3dnatives.com/wp-content/uploads/webinaire_hp_18122019_mediumrec.jpg
+||4shared.com/web/amscript/
 ||4top.in^$subdocument,~third-party
 ||4tube.com/nyordo.js
 ||7sur7.be/references/
@@ -15484,6 +15489,12 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.reclame
 ##.red-ad
 ##.region-pubheader
+##.rekl-left
+##.rekl-right
+##.rekl-top
+##.rekl_left
+##.rekl_right
+##.rekl_top
 ##.reklaama-casino2
 ##.reklam-gizle
 ##.reklam-side
