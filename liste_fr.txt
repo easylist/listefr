@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: fevo5iNa6AVWNz0kCrtBPA
-! Version: 201912300012
+! Checksum: 5AbgjiVY2u5SwW5WziCEmQ
+! Version: 201912300052
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18076,6 +18076,7 @@ youporn.com##video[autoplay][loop]
 onvasortir.com,urbeez.com###pub_leaderboard
 ! Filtres de propriété CSS pour Adblock Plus
 narcity.com##.article-thumbnail:-abp-has(.sponsored-mention)
+1fr1.net,3oloum.com,7olm.org,ahladalil.com,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,forum-gratuit.net,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumalgerie.net,forumpro.fr,forums-actifs.com,gid3an.com,jordanforum.net,lebonforum.com,own0.com,passionmilitaria.com,superforum.fr,syriaforums.net,yoo7.com#?#.post:-abp-has(.postprofile:-abp-contains(Contenu sponsorisé))
 20min.ch#?#.clusterTop:-abp-has(.teaser:-abp-has(h3:-abp-contains(Paid Post)))
 allocine.fr#?#.news-card:-abp-contains(Sponsorisé)
 allocine.fr#?#.video-card-trailer:-abp-has([class*="sponso"])
