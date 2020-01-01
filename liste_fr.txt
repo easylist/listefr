@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: p6MG0ld5IsYLbk3NFbxH8g
-! Version: 202001011843
+! Checksum: NoEKiAmxzaMMHhtEUQhDKA
+! Version: 202001011849
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4048,6 +4048,7 @@ debugger:$popup
 ||clickioadv*.com^$third-party
 ||clickioadv.com^$third-party
 ||clickiocdn*.com^$third-party
+||clickiocdn.com^$third-party
 ||clickioglobal.com^$third-party
 ||clickmena.com^$third-party
 ||clickscloud.net^$third-party
