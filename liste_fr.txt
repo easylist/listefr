@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7b2z8zx5WgBPBY3kngVQHg
-! Version: 202001011854
+! Checksum: bHIJIlsdnC2dtK3vJ3tKWA
+! Version: 202001020100
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2465,6 +2465,7 @@
 ://reclame.
 ://regiepub.
 ://report-ads-to.
+://res.ads.
 ://rotator.
 ://sc.*/infopop.
 ://sc.*/infopop2.
@@ -12473,6 +12474,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||static.weemove.com/pub/
 ||static.wii-info.fr/js/outils.js
 ||static2.vidto.$script
+||statique.lamarseillaise.fr/images/actulegales.jpg
+||statique.lamarseillaise.fr/images/francemarches.jpg
 ||statique.lnc.nc/_slider/promo.nc/
 ||stefgagnant.com^*ban
 ||strasbourg-tramway.fr/ban_
