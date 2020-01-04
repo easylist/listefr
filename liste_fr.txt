@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: WNefZE/sNjvUCyyjcNDpRg
-! Version: 202001040136
+! Checksum: jB3Fu6OYFdsSZA/l4yXP0A
+! Version: 202001040141
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -11330,6 +11330,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||explorerlondres.com^*/hotelscom.gif
 ||extreme-down.xyz/uploads/telecha
 ||extreme-down.xyz/xvideo.js
+||extreme-download.xyz/uploads/telecha
 ||extreme-download.xyz/xvideo.js
 ||f-secure.com/static/general/img/banner/
 ||f1i.com/wp-content/themes/*/site/pics/hype/
@@ -18104,7 +18105,7 @@ allocine.fr#?#.video-card-trailer:-abp-has([class*="sponso"])
 allocine.fr#?#.video-card:-abp-has([class*="sponso"])
 amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com#?#:-abp-properties(base64)
 amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com,senscritique.com,seriehentai.com#?#:-abp-properties(data:)
-annuaire-telechargement.com,extreme-down.xyz,t9.vc,torrent09.uno,torrent9.ai,torrent9.cz,torrent9.is,torrent9.so,torrent9.sx,zone-telechargement.net,zone-telechargement.to,zone-telechargement1.world#?#a:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
+annuaire-telechargement.com,extreme-down.xyz,extreme-download.xyz,t9.vc,torrent09.uno,torrent9.ai,torrent9.cz,torrent9.is,torrent9.so,torrent9.sx,zone-telechargement.net,zone-telechargement.to,zone-telechargement1.world#?#a:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
 businessinsider.fr#?#.post-nonfeatured:-abp-has(.title-studio:-abp-contains(Contenu Sponsorisé))
 ccm.net#?#.ccm_list_catch__item:-abp-contains(Sponsored)
 cnetfrance.fr#?#.riverPost:-abp-has(.tag-desktop:-abp-contains(Publicité))
