@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: IhFjX8PWKXVZXedLDJZSFA
-! Version: 202001031802
+! Checksum: 9RYhiV3xDytf13OYGPV52Q
+! Version: 202001040029
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1024,6 +1024,7 @@
 /advert-serv.
 /advert/rota-
 /advertica-$third-party
+/advertise2.
 /advertisement?
 /advertiserv/*
 /advertiserv2/*
@@ -11918,6 +11919,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||maidenfrance.fr/images/banniere-
 ||mailorama.fr^*/wearing/habillage_
 ||maison-travaux.fr/wp-content/uploads/*/bouton-300x160.
+||maison-travaux.fr/wp-content/uploads/sites/8/2019/06/bouton.jpg
+||maison-travaux.fr/wp-content/uploads/sites/8/2019/10/300x160-1.jpg
 ||mameworld.info/net/pics/da.gif
 ||mamytwink.com^*/images/partenaires/
 ||manager-online.fr/images/sidebar/
