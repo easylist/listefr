@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +ZtzrlYqQONx/Qs45MbJWA
-! Version: 202001061913
+! Checksum: 9xkkxN1KPp3qQ9gHwAWcPw
+! Version: 202001061931
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -835,7 +835,6 @@
 /ads/boost.
 /ads/bottom_
 /ads/click/*
-/ads/core.
 /ads/country.
 /ads/cpmstar_
 /ads/criteo/*
@@ -1018,7 +1017,6 @@
 /adv_js.
 /adv_pi.
 /advcash.$domain=~advcash.com
-/adver_img/*
 /adver_imgs/*
 /adver_link.
 /advert-serv.
@@ -2660,7 +2658,6 @@ _adcommon.
 _adpath_$subdocument
 _adplib.
 _adreaper/
-_adrotate-
 _AdRotate3-
 _ads.php$script,subdocument
 _ads/*?downsize=
