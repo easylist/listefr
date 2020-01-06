@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Db85Onvd4mtdrFUxYYMttA
-! Version: 202001061948
+! Checksum: +YBLudiDGoDjuOTRbFcAjQ
+! Version: 202001062003
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12600,6 +12600,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||torrentfilmseriestreaming.com/wp-content/uploads/*/banniere-
 ||torrentz2.*.php|$xmlhttprequest
 ||toucharger.com/media/files/data/habillage/
+||touchdownactu.com/wp-content/uploads/*_unibet_ban_
 ||tourmag.com/mymodule/$subdocument
 ||touslesprix.com/img_*/background/
 ||toutcash.com/images/bandeau-
@@ -15832,6 +15833,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href*="//jsmjmp.com/"]
 ##a[href*="//jsmptjmp.com/"]
 ##a[href*="//licantrum.com/"]
+##a[href*="//media.unibet.fr/redirect.aspx?pid="] > img
 ##a[href*="//nrg.red-by-sfr.fr/dynclick/"] > img
 ##a[href*="//toroadvertisingmedia.com/"]
 ##a[href*="//tracking.publicidees.com/clic.php?"] > img
@@ -16589,8 +16591,8 @@ le-buzz.fr###modal_chrome
 aujourdhui-en-france.fr,leparisien.fr###moteur-billetterie
 zdnet.fr###mpuBottom
 zdnet.fr###mpuTop
-presse-citron.net###mvp-leader-wrap
-presse-citron.net###mvp-wallpaper
+presse-citron.net,touchdownactu.com###mvp-leader-wrap
+presse-citron.net,touchdownactu.com###mvp-wallpaper
 api.solvemedia.com###myContent
 agroligne.com###myModal
 api.solvemedia.com###myVideo
