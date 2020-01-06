@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: DYrS3Az7Sb9tTd76g5cbSg
-! Version: 202001061904
+! Checksum: k3n5Gvp+AlXNdnJDAU0B8w
+! Version: 202001061906
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18144,6 +18144,7 @@ pandos2play.free.fr,soap-passion.com,ultimate-catch.eu#?#:-abp-properties(opacit
 paruvendu.fr#?#.lazyload_bloc:-abp-has([class*="sponsorise"])
 rakuten.com#?#[data-productid]:-abp-has(a[href^="/offer?action="])
 businessinsider.fr#?##related-post-:-abp-has(a[href*="/contenu-sponsorise"])
+sketchucation.com#?#.post:-abp-has(.postprofile:-abp-has(strong:-abp-contains(Ad Machine)))
 starbike.com#?#.post.has-profile:-abp-has(.postbody:-abp-has(.adsbygoogle))
 t9.vc,torrent09.uno,torrent9.ai,torrent9.cz,torrent9.is,torrent9.so,torrent9.sx#?#div[style]:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
 t9.vc,torrent09.uno,torrent9.ai,torrent9.cz,torrent9.is,torrent9.so,torrent9.sx#?#table[style]:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
