@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: NMNT6d/9mU7qLyFb3pq3lA
-! Version: 202001072305
+! Checksum: Gn1TIVwua71ou+zAni2Dhg
+! Version: 202001072328
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -5997,6 +5997,28 @@ debugger:$popup
 ||stoomeddert.info^
 ||trourted.pro^
 ||wiresurequezer.pro^
+!
+||aidalbark.site^
+||aimairasp.club^
+||aircotbad.club^
+||allaptair.club^
+||allashail.club^
+||aniaimamp.club^
+||apearmare.site^
+||apeassape.com^
+||aptalebow.site^
+||arcartall.club^
+||armaimapt.club^
+||armbadare.site^
+||artampbob.site^
+||ashbowany.site^
+||askarmalb.club^
+||askcoobaa.club^
+||beebuyart.club^
+||boaarkcam.com^
+||boxantany.com^
+||chiartbar.com^
+||cowbagant.club^
 ! MJPops
 /^https?:\/\/[0-9a-z]{5,25}\.(click|com|bid|date|download|men|network|online|party|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[a-z]\/[0-9a-f]{32}\.js\?id=[0-9]{6}$/$script,third-party
 ||s85n4btydl.online^
