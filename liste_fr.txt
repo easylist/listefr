@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Gn1TIVwua71ou+zAni2Dhg
-! Version: 202001072328
+! Checksum: /MpKHNO0PVX2eoV12fN0Aw
+! Version: 202001072340
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2233,6 +2233,7 @@
 /src/adv_
 /srv.php?size=300x250
 /srv.php?size=315x300
+/static-adrum.
 /static-ads.
 /static.ads-
 /static/*/ads/
@@ -2481,6 +2482,7 @@
 ://tools.*/ban/
 ://video-ads.
 ://vykingad.
+://wwwad.
 ://xads.
 ://xml.*/redirect?
 ;advId=
