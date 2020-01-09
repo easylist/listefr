@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: boB+cmC7OP531MdIT/MBpA
-! Version: 202001081939
+! Checksum: 8XIG/VO1pxYZD8BuT/zP5Q
+! Version: 202001092315
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1024,6 +1024,7 @@
 /advert/rota-
 /advertica-$third-party
 /advertise2.
+/advertise250.
 /advertisement?
 /advertiserv/*
 /advertiserv2/*
@@ -12275,8 +12276,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||pp.free.fr^
 ||prelude.me/public/pub/
 ||premium.sexu.com^$script
-||presse-citron.net/wordpress_prod/wp-content/uploads/*/habillage-
-||presse-citron.net/wordpress_prod/wp-content/uploads/2018/10/red-top.jpg
+||presse-citron.net/wordpress_prod/wp-content/*/habillage
 ||presse.fr/campub/
 ||prix-portables.fr/js/suo.js
 ||prix-portables.fr^*/habillage-
