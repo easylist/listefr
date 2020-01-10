@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: MIoPuLQNB7qzGsZ+P1vOLg
-! Version: 202001092336
+! Checksum: 7kkg9zfrWhoma0mfBvqUOw
+! Version: 202001100000
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -9052,6 +9052,7 @@ debugger:$popup
 ||eurolive.com/?module=$popup,third-party
 ||madamecam.com^$popup
 ||starsx.fr^$popup
+||telechargementdirect.net^$popup
 !
 %*130.211.222.44$popup
 %*35.184.188.211$popup
