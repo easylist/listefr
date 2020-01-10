@@ -3207,6 +3207,7 @@ _frontend_loader.$script
 /pop.redirect.$popup
 /pop2.php?*&subid=$popup
 /pop?dfp_id=$popup
+/pop_redirect.php$popup
 /pop_under.$popup
 /popads-$popup
 /popads.$popup
@@ -4393,6 +4394,7 @@ debugger:$popup
 ||iyfsearch.com^$third-party
 ||jackhopes.com^$third-party
 ||jacquieetmichel-contact.com^$third-party
+||jacquieetmichel-contacts.com^$third-party
 ||jazayr.net^$third-party
 ||jbam.info^$third-party
 ||jdoqocy.com^$third-party
@@ -8493,6 +8495,7 @@ debugger:$popup
 ||istric.com^$popup,third-party
 ||itrks.com^$popup,third-party
 ||jacquieetmichel-contact.com^$popup,third-party
+||jacquieetmichel-contacts.com^$popup,third-party
 ||jdoqocy.com^$popup,third-party
 ||jetm-tech.net^$popup,third-party
 ||jeu-bleach.fr^$popup,third-party
@@ -8734,6 +8737,7 @@ debugger:$popup
 ||pornstreet.com^$popup,third-party
 ||possini.eu^$popup,third-party
 ||postaffiliatepro.com^$popup,third-party
+||pourbaiser.com^$popup
 ||pourmajeurs.com^$popup,third-party
 ||powa.fr^$popup,third-party
 ||poweredbyliquidfire.com^$popup,third-party
@@ -16114,6 +16118,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href^="http://www.hayleyssecrets.com/"]
 ##a[href^="http://www.hibids10.com/"]
 ##a[href^="http://www.jacquieetmichel-contact.com/?siteid="] > img
+##a[href^="http://www.jacquieetmichel-contacts.com/?siteid="] > img
 ##a[href^="http://www.leguide.com/lettre/"]
 ##a[href^="http://www.marketdot.net/"]
 ##a[href^="http://www.masterads.info/"]
