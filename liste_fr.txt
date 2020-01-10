@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: qNLooNuU6CvqAjFwJnNRFg
-! Version: 202001100007
+! Checksum: vgd822hQ+PNqBc8pX5j6Ww
+! Version: 202001100024
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -3321,6 +3321,8 @@ _frontend_loader.$script
 ://signup.*&sub_id=*&utm_$popup,third-party
 ://syndication.$popup,third-party
 ://tour.*?id=*&type=$popup,third-party
+://tours.*&aid=*&clickid=$popup,third-party
+://tours.*&sid=*&clickid=$popup,third-party
 ://trk.*&campaign=$popup
 ://trk.*?zone=$popup
 ://xml-feed.*/go.$popup
