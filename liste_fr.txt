@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7qHbiVNyDNY21KnltJQLag
-! Version: 202001122212
+! Checksum: dOeTyGwq18zKCUQYjzyzyg
+! Version: 202001122249
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4441,6 +4441,7 @@ debugger:$popup
 ||koqtrn1b.site^$third-party
 ||kreaffiliation.com^$third-party
 ||ksplayer.com^$third-party
+||kyoads.com^$third-party
 ||laborates.com^$third-party
 ||lafrancebdsm.com^$third-party
 ||las4srv.com^$third-party
@@ -9517,7 +9518,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||emp3s.ws/spon/$popup
 ||emploicom.com/application/views/docs/pub/
 ||emploicom.com/baniere.
-||emploipartner.com/moteur_partner/
+||emploipartner.com^*-partner/$third-party
+||emploipartner.com^*_partner/$third-party
 ||emptyloop.com/unlocker/welcome.htm$popup,domain=emptyloop.com
 ||emule-island.co/bup/
 ||emule-island.co/images/pub/
@@ -14679,6 +14681,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.adsbygoogle_desktop
 ##.adsbygoogle_h_250
 ##.adsbygoogle_wrap
+##.adsbykyo
 ##.adsbyskyline
 ##.adsderecha
 ##.adsdisplay
