@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: sT6iyd/Zov1PM6J/Y7nFvQ
-! Version: 202001121148
+! Checksum: 7qHbiVNyDNY21KnltJQLag
+! Version: 202001122212
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1261,6 +1261,7 @@
 /banners_*?size=$subdocument
 /banners_campaigns/*
 /BannersImages/skin-
+/banniere-pub-
 /banniere.*/ref=
 /banniere.*?said=
 /banniere.*?type=
