@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: KYtPwqHozikKCI89DUnxcg
-! Version: 202001130229
+! Checksum: IFe5LuKp/K+HKri4sY2pBQ
+! Version: 202001130230
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18182,6 +18182,7 @@ lemonde.fr#?#.area--ops:-abp-has(p:-abp-contains(Contenus partenaires))
 lemonde.fr#?#.bd__bloc:-abp-has(.bd__header:-abp-contains(Barnebys.fr))
 macommune.info#?#.box_article:-abp-has(.is-text-publi-infos)
 macommune.info#?#.widget_article:-abp-has(.title_widget:-abp-contains(/PUBLI INFO|Publi-info/))
+maison-islam.com#?#aside:-abp-has(.widget-title:-abp-contains(Publicité))
 numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
 pandos2play.free.fr,soap-passion.com,ultimate-catch.eu#?#:-abp-properties(opacity:)
 paruvendu.fr#?#.lazyload_bloc:-abp-has([class*="sponsorise"])
