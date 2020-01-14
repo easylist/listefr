@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: w+Oi8xASobaEyA9HgkbD0w
-! Version: 202001141955
+! Checksum: oYR0j/9grqRjoRDv6A4U8A
+! Version: 202001142320
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -677,6 +677,7 @@
 /ad_frames/*
 /ad_js/*
 /ad_locations.
+/ad_locations_
 /ad_middle_
 /ad_placements/*
 /ad_player/*
@@ -11910,8 +11911,10 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||lesnumeriques.com/habillages/
 ||lesoirdalgerie.com/articles/*/dzauto.swf
 ||lespac.com/1/banners/
+||lespagesmaghreb.com/assets/fransabank_pharma-
 ||lespagesmaghreb.com/campaigns/
-||lespagesmaghreb.com/images/epartenariat.png
+||lespagesmaghreb.com/gollums/0000/8222/legrand.gif
+||lespagesmaghreb.com/particles/$subdocument
 ||lesparrains.fr/images/lesParrains.fr/offers/habillage_
 ||letelegramme.fr/js/dfp_
 ||letempsdz.com/images/banners/
