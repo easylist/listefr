@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: I7QiKLOFmqAsW18zFGQLMg
-! Version: 202001132016
+! Checksum: w+Oi8xASobaEyA9HgkbD0w
+! Version: 202001141955
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -8197,6 +8197,7 @@ debugger:$popup
 ||bestarmour4u.net^$popup,third-party
 ||bestdealmedia.click^$popup,third-party
 ||bestpprofile.com^$popup,third-party
+||betanews.me^$popup
 ||bidtrk.com^$popup,third-party
 ||bidverdrd.com$popup,third-party
 ||big-bang-empire.com^$popup,third-party
@@ -8454,6 +8455,7 @@ debugger:$popup
 ||grtyi.com^$popup,third-party
 ||guqu.info^$popup,third-party
 ||havenwrite.com^$popup,third-party
+||hertchilchart.ga^$popup
 ||heto.gdn^$popup,third-party
 ||hexaweb.net^$popup,third-party
 ||hfkfh.com^$popup,third-party
@@ -8588,6 +8590,7 @@ debugger:$popup
 ||mmtrkvk.com^$popup,third-party
 ||mmtrkyv.com^$popup,third-party
 ||mmtro.com^$popup,third-party
+||mobappcenter2.com^$popup
 ||mobile-10.com^$popup,third-party
 ||mobileoffers-*-download.com^$popup
 ||mobimediatraf.com^$popup,third-party
@@ -16061,6 +16064,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href^="://manage.hostvn.net/aff.php?"] > img
 ##a[href^="ads.php?id="]
 ##a[href^="annonceur.php?id_banniere="]
+##a[href^="href="http://choualbox.xyz/"]
 ##a[href^="http://142.91.159.218/"]
 ##a[href^="http://178.175.132.130/"]
 ##a[href^="http://188.165.178.248/"]
@@ -16114,6 +16118,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href^="http://go.wwwdg.net/"]
 ##a[href^="http://go2me.tk/"]
 ##a[href^="http://goodbeautyjob.com/"]
+##a[href^="http://hertchilchart.ga/"]
 ##a[href^="http://hh-btr.com/"]
 ##a[href^="http://hits.epochstats.com/"]
 ##a[href^="http://hopinions.info/"]
@@ -16971,6 +16976,7 @@ hdfever.fr,homecinema-fr.com##.aliencable-link
 sitesavisiter.com##.alj
 leparking-moto.fr##.alter
 portail.free.fr,quellecompagnie.com##.amazon
+omgtorrent.cz##.amazon-affichage
 idees-de-genie.fr##.amazon_pub
 tourhebdo.com##.annemp
 madagascar-tribune.com##.annonce
