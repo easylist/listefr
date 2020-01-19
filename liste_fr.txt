@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: tl2+X/gAFR3mD07fNmPhcg
-! Version: 202001192003
+! Checksum: Ux4LLj87R9xUISaR0xbBeA
+! Version: 202001192004
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18577,7 +18577,7 @@ _blockadblock_
 @@.jpg#$image,domain=4downfiles.org|macgames-download.com|the-night-of-streaming.eu
 @@.png#$image,domain=4downfiles.org|leetgamerz.net|likeup.fr|radio-en-direct.fr|savefile.co|stream4free.live|tout-debrid.net|tout-gratuit.be|up-4ever.com
 @@/adblock.js$script,~third-party,domain=anilinkz.to|jdubuzz.com|jeuxvideo.com|journaldugamer.com|pixelistes.com|streaming-foot.me
-@@/ads.js$script,~third-party,domain=adbilty.me|adhit.me|adpop.me|adshort.co|adshort.im|adshort.me|ah.pe|coinlink.co|coinlink.us|cuon.io|curs.io|cut-urls.com|cutly.win|cutwi.in|danpod.work|eues.io|euon.io|igram.im|kimo-link.com|linkkawy.com|lkky.co|manga-vf.fr|passetoncode.fr|shortenow.com|tune.pk|u2s.io|zonebourse.com|zype.xyz
+@@/ads.js$script,~third-party,domain=adbilty.me|adhit.me|adpop.me|adshort.co|adshort.im|adshort.me|ah.pe|coinlink.co|coinlink.us|cuon.io|curs.io|cut-urls.com|cutly.win|cutwi.in|danpod.work|eues.io|euon.io|igram.im|kimo-link.com|linkkawy.com|lkky.co|manga-vf.fr|passetoncode.fr|shortenow.com|tune.pk|zonebourse.com|zype.xyz
 @@/advertisement.js$script,domain=chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghreb.space|mega-exclue.com|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|videozix.com|zonebourse.com
 @@/advertisement.js$script,~third-party,domain=cap-public.fr|coco.fr|crash-aerien.aero|crash-aerien.news|leveldown.fr|quoverbis.com
 @@/advertising.js$script,~third-party,domain=animedigitalnetwork.fr
@@ -18634,7 +18634,6 @@ _blockadblock_
 @@||sospc.name^$generichide
 @@||the-night-of-streaming.eu^$generichide
 @@||tout-debrid.net^$generichide
-@@||u2s.io^$generichide
 @@||uploadx.link^$generichide
 @@||urbeez.com^$generichide
 @@||xavierstuder.com^$generichide
