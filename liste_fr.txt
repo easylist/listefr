@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: qwntLYRfPbSQt76A6fjVmw
-! Version: 202001191616
+! Checksum: SO9xfeTumFYYHHkkx4JfCQ
+! Version: 202001191700
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -889,7 +889,6 @@
 /ads16.
 /ads17.
 /ads1a.
-/ads2018/*
 /ads2a.
 /ads300m.
 /ads360/*
@@ -1057,7 +1056,6 @@
 /affich_pub_
 /affichban.
 /affiliate-butler-
-/affiliate-portal-
 /affiliate.*/banner
 /affiliate.js
 /affiliate.min.js
@@ -4762,6 +4760,7 @@ debugger:$popup
 ||prember.com^$third-party
 ||privetadblock.ru^$third-party
 ||proche2moi.com^$third-party
+||projectagoraservices.com^$third-party
 ||projectagoratech.com^$third-party
 ||promo-earn.com^$third-party
 ||promo.alienbiz.com^$third-party
@@ -9847,6 +9846,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||lprs1.fr^*/blocs-partenaires$third-party
 ||lrcdn.net^$domain=dailymotion.com
 ||lusttempel.net/banner/
+||lyonkim.net/popup-
 ||m.oipeirates.online^
 ||m6web.fr^*_6play_pub_$media
 ||macao-lotto.com^$image,third-party
@@ -11560,7 +11560,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||goldenmoustache.com/wp-content/uploads/*/300x250
 ||gonzai.com/wp-content/uploads/*/gonzai-renault.$image
 ||goole.fr/images/pub.jpg
-||gounlimited.to/olehkwmxtnhn.js
 ||goziga.com/ban/
 ||goziga.com^*/banangela.gif
 ||goziga.com^*/banhead_
@@ -14923,7 +14922,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.block_small_pub
 ##.blocpub
 ##.blocpubbas
-##.bloque_ads
 ##.border-box-ad
 ##.border_ads
 ##.bottom-ad-mob-tab
@@ -14961,8 +14959,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.catAds
 ##.category__mobile-ads
 ##.cazAd
-##.cerrar_bloque_ads
-##.cerrar_bloque_ads2
 ##.closeStartAdZone
 ##.co-ads
 ##.col-advert
@@ -16203,7 +16199,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href^="https://ad.apps.fm/"]
 ##a[href^="https://admin.thrixxx.com/affiliates/"]
 ##a[href^="https://ads.regie24h00.com"]
-##a[href^="https://adsrv4k.com/"]
 ##a[href^="https://app.monetizze.com.br/"]
 ##a[href^="https://badoinkvr.com/?"]
 ##a[href^="https://bestapppro.com/"]
@@ -18369,7 +18364,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||planet-casio.com/images/ad/$image,~third-party
 @@||premiere.fr/inextenso/uploads/300x150_$image,domain=premiere.fr
 @@||prime-journal.online^*=com_acymailing&*&mailid=$popup
-@@||publicwww.com/images/labels.2/$image,~third-party
+@@||publicwww.com/images/labels.$image,~third-party
 @@||quefaire.be/annonces/imgads/$image
 @@||reseauforum.org/*/modules/ad/serve.php?$domain=reseauforum.org
 @@||restoconnection.fr/wp-content/uploads/2014/12/publicite-$domain=restoconnection.fr
