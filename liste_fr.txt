@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ow6nWmi/1bidy6wQAI/KZA
-! Version: 202001192033
+! Checksum: MmRimOR+DLm0eivOezMMtg
+! Version: 202001200138
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4709,6 +4709,7 @@ debugger:$popup
 ||paygladplayer.com^$third-party
 ||payreadydistinctive.xyz^$third-party
 ||pdanew.com^$third-party
+||pdifr.com^$third-party
 ||pee-puu-see.com^$third-party
 ||pelicansource.com^$third-party
 ||peoplesearchads.com^$third-party
@@ -8357,6 +8358,7 @@ debugger:$popup
 ||downloatransfer.com^$popup,third-party
 ||dpstream.site^$popup
 ||draughs.info^$popup,third-party
+||dropcatch.com^$popup,third-party
 ||dsplayme.com^$popup,third-party
 ||dubshub.com^$popup,third-party
 ||duckssolutions.com^$popup,third-party
@@ -8767,6 +8769,7 @@ debugger:$popup
 ||ptcong.com^$popup,third-party
 ||pub2srv.com^$popup,third-party
 ||push-time.com^$popup
+||pushlinck.com^$popup,third-party
 ||pushplay.com^$popup,third-party
 ||pushtrust.com^$popup,third-party
 ||pvrtx.net^$popup,third-party
