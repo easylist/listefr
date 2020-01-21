@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: tJ2oST/ZkDGb+tLkcKUoOw
-! Version: 202001211933
+! Checksum: SUP6kfkM1AEaAe/fCTlRYw
+! Version: 202001212002
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -11602,7 +11602,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||gum-gum-streaming.*/wp-content/uploads/*.gif
 ||hackforums.net/uploads/mam/$image
 ||halalbook.fr/IMG/gif/
-||handroit.com/Annonceur/
+||handroit.com/annonceur/
+||handroit.com/upl/slideshows/
 ||hdfever.fr/wp-content/uploads/*/banni
 ||hdfever.fr/wp-content/uploads/*/habillage
 ||hdfever.fr/wp-content/uploads/*/soldes
@@ -17040,6 +17041,7 @@ agroligne.com##.ban_holder
 largus.fr##.bandeau-annonce
 pornovore.fr##.bandeau-vertical
 les-terrains.com##.bandeauTrouve
+handroit.com##.bandeau_header
 01net.com##.bandeau_promos
 syskb.com##.bandeaupub
 cdmail.fr##.bandeauvert
