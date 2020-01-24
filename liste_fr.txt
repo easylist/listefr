@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: iNwU+HG71pwT/MpZVCeCSQ
-! Version: 202001240204
+! Checksum: RCnQ6gvtMFQdzuStwVs9PQ
+! Version: 202001240303
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -8255,6 +8255,7 @@ debugger:$popup
 ||ceehimur.uk^$popup,third-party
 ||cgmission.com^$popup,third-party
 ||check2push.com^$popup,third-party
+||chillplaza.nl^$popup
 ||chokoladsrv.net^$popup,third-party
 ||cineactu.co^$popup
 ||cityads.com^$popup,third-party
@@ -10781,6 +10782,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||100pour100sexe.com/pop.
 ||1337x.*/js/script
 ||1an2kdo.com/pics/pub/
+||1baiser.com/image/$third-party
 ||1divx.co/*-film-$popup,~third-party
 ||1divx.co/images/ban*.jpg
 ||1fichier.fr/pub2/
@@ -17264,6 +17266,7 @@ turfomania.fr##.habillageLien
 cbanque.com##.habpage
 yggtorrent.ch,yggtorrent.gg,yggtorrent.is,yggtorrent.pe,yggtorrent.site,yggtorrent.to,yggtorrent.ws,yggtorrents.gg##.hadopi
 envertetcontretous.fr##.halfpage
+quotisexe.com##.happy-inside-player
 frandroid.com##.hb__ad
 avis-express.com##.header-banner
 medialot.fr##.header-sub
