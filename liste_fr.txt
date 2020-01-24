@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: i4ps+fp/sUsteS3N+PO/Dw
-! Version: 202001242330
+! Checksum: mwivjtIAnIKX3cDJzSZrew
+! Version: 202001242344
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4809,6 +4809,7 @@ debugger:$popup
 ||purlive.com^$~image,third-party
 ||push-notifications.top^$third-party
 ||pushazer.com^$third-party
+||pushmejs.com^$third-party
 ||putbid.net^$third-party
 ||puttme.gq^$third-party
 ||pvrtx.net^$third-party
@@ -12470,7 +12471,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||satmag.fr/pub/
 ||saucissonsexe.com/wp-content/uploads/*.gif
 ||sbx.pagesjaunes.fr^
-||scan-fr.net^$subdocument
 ||scifi-movies.com/images/site/promo/
 ||scoopers.com/?o=$popup
 ||scoopnest.com/content_rb.php?
