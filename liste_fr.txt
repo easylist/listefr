@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7anaNKifQNC/yFLV2soWTA
-! Version: 202001261627
+! Checksum: FIpGtcCNb6d5KtjVcjmVRQ
+! Version: 202001261636
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4222,6 +4222,7 @@ debugger:$popup
 ||emoteev.io^$third-party
 ||enmediadonner.pl^$third-party
 ||enrgg.com^$third-party
+||epushclick.com^$third-party
 ||eravage.com^$third-party
 ||eroticmatriculatebarnett.info^$third-party
 ||esoterweb.com^$third-party
@@ -9312,6 +9313,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||barredesurf.com/includes/images/bannieres/
 ||baseturf.com/bannieres/
 ||batman.blogautomobile.fr^
+||bcrncdn.com/promotions/
 ||be.com/wp-content/uploads/$third-party
 ||beaverscripts.com^$popup,third-party
 ||belle-salope.fr/ban/$third-party
