@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: cT8lsWFVkjO1/AaT3Kgt1A
-! Version: 202001261546
+! Checksum: nN1ABQxxgaP6au+l5ghtAQ
+! Version: 202001261610
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -16892,6 +16892,8 @@ brain-magazine.fr###t_logo_pub
 dinogaia.com###tableau_info
 google.fr###tadsb
 omgtorrent.bz,omgtorrent.cz###telechargement
+zataz.com###text-25
+zataz.com###text-26
 psthc.fr###thc_amz_content
 quick-tutoriel.com###the-post .warning
 phpsources.org###titre_librairie
@@ -17190,6 +17192,7 @@ boredpanda.com##.cover-banner
 ma-reduc.com##.covering
 games.softgames.de##.cpi-banner-description-content
 egaliteetreconciliation.fr##.cpt-wrap
+zataz.com##.csa-popup
 blumei-piano.com##.cyt-affi-wrapper
 begeek.fr##.deals-container-widget
 logitheque.com##.description + .telechargement
@@ -17580,7 +17583,6 @@ dhnet.be,lalibre.be##.relookingHtml
 kelkoo.fr##.results-lrec
 premsgo.fr##.results-sidebar
 sante-dz.com##.revenue-wrapper
-zataz.com##.right > .sidebar-wrapper a[target="_blank"] > img
 goldenboys.fr##.right-minipub
 tube8.fr##.rightColBanner
 mappy.com##.rightHabillage
