@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 2g5dXsJT8UuyJTZtUO2M7w
-! Version: 202001261705
+! Checksum: PgpCaI9NN97PznbOOpcuCQ
+! Version: 202001261721
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -13594,6 +13594,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###ads-980x
 ###ads-container-1
 ###ads-content-bottom
+###ads-content-top
 ###ads-left
 ###ads-loader
 ###ads-marge-1
@@ -16491,6 +16492,7 @@ graphistesonline.com###bloc-partenaires
 aujourdhui-en-france.fr,leparisien.fr###blocMarketing
 mail.voila.fr,orange.fr###blocServices
 maisonbrico.com###blocSponsor
+ouest-france.fr###bloc_annonces_immo
 batiactu.com###bloc_partenaire
 yourporno.fr###bloc_partners + #content
 montelimar-news.fr###bloc_promos
