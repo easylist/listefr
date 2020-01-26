@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: FIpGtcCNb6d5KtjVcjmVRQ
-! Version: 202001261636
+! Checksum: DsD8qOuKW1N9k0gBP+FJog
+! Version: 202001261641
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -470,6 +470,7 @@
 /160x600v1.
 /160x600x.
 /16ox6oo.
+/182x600/*
 /200x300.gif
 /2016/ads/*
 /2017/ads/*
@@ -2790,6 +2791,7 @@ digitalocean.gif|
 .com/NB_fl.js
 .com/plugin.php?js=1&s=$script,~third-party
 /\.(com|fr|net|org|tv|xxx)\/floader\.js$/$script,~third-party
+/ab_fl.js
 /abfiles/tools.js
 /adman_ai/*
 /backend/*.php?url=
