@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: g82iNTXip8GOuLevY/2JwQ
-! Version: 202001261946
+! Checksum: t3eSNdJq3u4C47/vc0kMdQ
+! Version: 202001262004
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4352,7 +4352,7 @@ debugger:$popup
 ||holyclock.com^$third-party
 ||hopdream.com^$third-party
 ||horyzon-clics.com^$third-party
-||hot-3d-girls.com^$third-paty
+||hot-3d-girls.com^$third-party
 ||hotads.mobi^$third-party
 ||hotclicks.com.br^$third-party
 ||hqcorn.com^$third-party
@@ -14411,7 +14411,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###zone_pub
 ###zone_pub1
 ###zone_pub2
-##.##.ad-pave
 ##.ADS-cont
 ##.Ad--970x90
 ##.Ad160
@@ -14519,6 +14518,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.ad-mpu-plus-bottom
 ##.ad-ops
 ##.ad-page_top
+##.ad-pave
 ##.ad-position-2
 ##.ad-provider-yahoo
 ##.ad-right-600
