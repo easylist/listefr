@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 4OnGWkKdQsBz0hzkmQw1+g
-! Version: 202001272021
+! Checksum: 7ZnGdwug1x1qoIWHF9y8jQ
+! Version: 202001272030
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -265,6 +265,7 @@
 -pub-300x250.
 -pub-ads/
 -pub/prod/$third-party
+-regiepub/
 -reklama-300x300.
 -sponsor-bar.js
 -templates-ads_
@@ -15641,6 +15642,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.pubtexte
 ##.pubwrapper
 ##.purple-ad
+##.push-service-pub
 ##.quads-ad1
 ##.quads-ad2_widget
 ##.quads-ad3
@@ -15653,6 +15655,9 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.recipe-col-droite-ad-caption
 ##.reclame
 ##.red-ad
+##.regiePub
+##.regiePub2
+##.regiePub728
 ##.region-pubheader
 ##.reklaama-casino2
 ##.reklam-gizle
@@ -17111,6 +17116,7 @@ algeriatenders.com##.banniereCarre
 une-recette.com##.bannierebas
 boulette.fr,envertetcontretous.fr##.banpub
 soonnight.com##.bas_colonne
+laposte.fr##.basic-pub
 ebay.fr##.beta-placement
 iladit.com##.bg-pub-interne
 jeu.video##.bgClick
@@ -17458,6 +17464,7 @@ lameuse.be##.outbrain_jobsregions
 planeterenault.com##.p300
 nautiljon.com##.pad
 intermarche.com##.page-background
+laposte.fr##.page-pub
 paruvendu.fr##.pagin_pub
 lequotidiendumedecin.fr##.pane-ad
 lefigaro.fr##.pane-bloc-ad
