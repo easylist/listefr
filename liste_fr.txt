@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: GkECiNO0YfKiQ5bRfdsP/Q
-! Version: 202001272055
+! Checksum: K6BL+sfl3kocgpa7O8qw8w
+! Version: 202001281321
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -9437,8 +9437,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||clicjeux.net/bann/
 ||clicjeux.net/banniere.
 ||click-dz.com/img/$third-party
-||click.alibaba.com^$subdocument
-||click.aliexpress.com^$subdocument
 ||click.aliexpress.com^*&$popup,domain=~aliexpress.com|~dealabs.com
 ||click.besprod.com^$popup
 ||clickbiz.fr/upload/ban/
@@ -9638,7 +9636,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||gamingadult.biz/?$popup
 ||gardena-house.fr/affilies.js
 ||gateway.eravage.com/hit.php?$popup
-||gearbest.com^*?lkid=$third-party
 ||gearbest.com^*?utm_$popup,third-party
 ||geekyalgeria.com/wp-content/uploads/*-600x400-
 ||generation-nt.com/img/ovh/
