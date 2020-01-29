@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: sIIrfofLn8byaVl0r1Us9g
-! Version: 202001290234
+! Checksum: 9VVzLerCXDOzVb3I9ZFI+A
+! Version: 202001290250
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -10875,6 +10875,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||alalettre.com/pics/pecho.png
 ||algeriatenders.com/pub/
 ||algerie-eco.com/wp-content/uploads/$media
+||algerie-eco.com/wp-content/uploads/*-banner.
 ||algerie-eco.com/wp-content/uploads/*-banniere-
 ||algerie-eco.com/wp-content/uploads/*/*-728.
 ||algerie-eco.com/wp-content/uploads/*/alg-eco-
@@ -14953,6 +14954,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.bloc_pub_header
 ##.bloc_pub_left
 ##.bloc_rightcol_pub
+##.blocactucatpub
 ##.block-artwhere-ads
 ##.block-cPublicite
 ##.block-gc-ad
