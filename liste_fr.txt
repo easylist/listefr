@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ttiBjZEDi3ClRnuI4dMQ/A
-! Version: 202001292319
+! Checksum: orSOQrfjyefB43Xpcnp77A
+! Version: 202001292341
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -13073,6 +13073,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||d1kl9s3ss3mgzt.cloudfront.net^
 ||d1ledzqk4xkhp4.cloudfront.net^
 ||d1liph191ya3ob.cloudfront.net/assets/banners/
+||d1lxz4vuik53pc.cloudfront.net^
 ||d1mgg0px9mqxbp.cloudfront.net^
 ||d1mgu8uq9tc68.cloudfront.net^
 ||d1mob6w0cdx3a7.cloudfront.net^
@@ -13347,6 +13348,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 !------------------ Éléments génériques -----------------!
 !
 ###AD720x90
+###ADPlaceholder
 ###ADS_1
 ###ADSblock
 ###AdBannerBT
@@ -16976,6 +16978,7 @@ leparking-moto.fr##.alter
 portail.free.fr,quellecompagnie.com##.amazon
 omgtorrent.cz##.amazon-affichage
 idees-de-genie.fr##.amazon_pub
+amazon.fr##.amzn-safe-frame-container
 tourhebdo.com##.annemp
 madagascar-tribune.com##.annonce
 sortir.eu##.annonce-container
