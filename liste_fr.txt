@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: G2HyD+hZfZRZlYuqY5MulA
-! Version: 202001300413
+! Checksum: H80LFclPzslM7Yf23noo/w
+! Version: 202001300438
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1578,6 +1578,7 @@
 /href-to-popup.
 /html5/ads/*
 /i54eads.
+/iab-vendors.
 /iab/banner|
 /iadbn?
 /ibd-ads/*
@@ -11584,6 +11585,11 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||guide-fitness.fr/images/Investir123.gif
 ||guide-hebergeur.fr/img/lwssuper
 ||guide-hebergeur.fr/pub/
+||guinee7.com/wp-content/uploads/*-460x68-
+||guinee7.com/wp-content/uploads/*-800x120-
+||guinee7.com/wp-content/uploads/*/baniere-
+||guinee7.com/wp-content/uploads/*/banni%c3%a8re-
+||guinee7.com/wp-content/uploads/*/banniere-
 ||gum-gum-stream.*/wp-content/uploads/*.gif
 ||gum-gum-streaming.*/extension.js
 ||gum-gum-streaming.*/pub.js
@@ -18150,19 +18156,21 @@ jpost.com##img[src^="blob:"]
 zataz.com##img[style$="width: 300px; height: 250px;"]
 filecrypt.co##img[style^="display:"]
 gulfup.co##img[width="100"][height="35"]
-mediaguinee.org##img[width="1080"][height="301"]
-mediaguinee.org##img[width="1080"][height="398"]
+guinee7.com##img[width="1015"][height="221"]
+guinee7.com,mediaguinee.org##img[width="1080"][height="301"]
+guinee7.com,mediaguinee.org##img[width="1080"][height="398"]
 supplychainmagazine.fr##img[width="120"][height="240"]
 journaldu4x4.com##img[width="120"][height="600"]
 bricozone.be##img[width="120"][height="75"]
 ajoutezvotresite.com,bricozone.be,jeu.fr##img[width="160"][height="600"]
-mediaguinee.org##img[width="1667"][height="250"]
+guinee7.com,mediaguinee.org##img[width="1667"][height="250"]
 uploadocean.com##img[width="250"][height="300"]
 avis-express.com##img[width="280"][height="425"]
 algerie-eco.com,francoischarron.com,israelmagazine.co.il,jeu.fr,leatube.com,maliweb.net,soonnight.com,undernews.fr##img[width="300"][height="250"]
 mediaguinee.org##img[width="300"][height="300"]
 algerie-eco.com##img[width="300"][height="500"]
-mediaguinee.org##img[width="460"][height="60"]
+guinee7.com##img[width="300"][height="600"]
+guinee7.com,mediaguinee.org##img[width="460"][height="60"]
 supplychainmagazine.fr##img[width="468"]
 comparatif-vpn.fr,echangedeclics.fr,echangegagnant.com,espace-francophone.com,genhit.com,israelmagazine.co.il,space-blogs.net,undernews.fr##img[width="468"][height="60"]
 mediaguinee.org##img[width="600"][height="62"]
@@ -18175,6 +18183,7 @@ algerie-eco.com,autosurfs.fr,francoischarron.com,jeu.fr,maliweb.net,mediacritik.
 mediaguinee.org##img[width="740"][height="161"]
 mediaguinee.org##img[width="740"][height="185"]
 mediaguinee.org##img[width="800"][height="150"]
+guinee7.com##img[width="958"][height="142"]
 undernews.fr##img[width][height][alt$="VPN"]
 faireunlien.com##img[width^="728height=90"]
 ici.tou.tv##li.bigBox
