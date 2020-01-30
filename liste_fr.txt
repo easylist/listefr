@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 4bTUihVXU+9aT37tov6YFw
-! Version: 202001300003
+! Checksum: XQq2TYkprM6S9mxUBB3MkQ
+! Version: 202001300032
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2536,6 +2536,7 @@
 ?ad_domain=
 ?ad_id=
 ?ad_server_
+?ad_sub=
 ?ADFassetID=
 ?adlink/
 ?adnet=
@@ -3178,6 +3179,7 @@ _frontend_loader.$script
 /jump/clk1.$popup
 /jump/next.php?$popup
 /landing.*?ad_id=$popup
+/landing.*banner$popup
 /landing/*&ad2=$popup
 /landing/*&ad3=$popup
 /landing/*&ad4=$popup
@@ -9094,7 +9096,7 @@ $popup,third-party,domain=agence-webside.fr|allmyvideos.net|avametrie.fr|ceesty.
 $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurdusexe.com|amatrys.com|configspc.com|cutwi.in|exotrik.com|extreme-d0wn.net|extreme-down.xyz|filerio.in|gareauxcoquines.com|liensporno.com|machinasexe.com|magdistribution.fr|mrsexe.com|mustvideos.com|plan-sex.net|plancul-gratuit.fr|porno-2luxe.com|pornz.fr|rabbitfinder.com|seriehentai.com|sexandtrash.com|sexeautop.com|sillonsdeculture.fr|streaming-hard.org|strip-webcam.com|superchataigne2017.fr|thefrenchporn.com|torrent9.tv|torrent9.uno|torrent9.ws|torrents9.cc|torrents9.org|torrents9.tv|touzai-sekai.fr|up07.me|up08.net|up09.com|vidshort.net|viid.me|voirfilms.biz|voirfilms.com|voirfilms.link|voirfilms.mx|voirfilms.one|voirfilms.org|voirfilms.tv|voirfilms.ws|wallagain.cc|wiid.me|youwatch-series.com
 !
 .php$script,domain=activetect.net|adf.ly|android-zone.org|anime-loads.org|atabencot.net|atomcurve.com|atominik.com|auto-login-xxx.com|awanpc.me|ay.gy|babblecase.com|baymaleti.net|bdcraft.net|bitigee.com|bluenik.com|brightvar.bid|briskgram.net|casualient.com|cinebo.net|clearload.bid|coginator.com|cogismith.com|cracksurl.com|filmcomplet.biz|filmcomplet.la|filmcomplet.tv|filmstreamvf.com|filmstreamvk.me|gamecopyworld.click|gamecopyworld.eu|hdmoza.com|imgdrive.net|imgskull.com|j.gs|kaitect.com|kializer.com|kibuilder.com|kimechanic.com|larati.net|microify.com|mmoity.com|openvideo.net|picocurl.com|picons.eu|pintient.com|planet-streaming.com|planet-streaming.net|q.gs|quainator.com|quamiller.com|queuecosm.bid|replaymod.com|restorecosm.bid|riffhold.com|sapixmedia.com|simizer.com|skamaker.com|skamason.com|swiftviz.net|thouth.net|threadsphere.bid|tinyium.com|twineer.com|underclassblog.com|viahold.com|vializer.com|viwright.com|voirfilms.ws|xterca.net|yabuilder.com|yamechanic.com|yoalizer.com|yobuilder.com|yoineer.com|yoitect.com|zipansion.com|zo.ee
-/license.$domain=thevideobee.to
+/license.$domain=thevideobee.to|tootx.com
 /open*.js,domain=up07.me|up08.net|up09.com
 /service-worker.$domain=ddl-island.co|emule-island.co|stream-island.co
 /storage/c.js$domain=247tpb.club|bayboat.link|bea247.in|blueunblocked.club|ikwilthepiratebaytpb.rocks|indiabea.com|piratebea.top|pirateprox.tel|proxtpb.art|proxy247.art|tpbproxydl.link|tpbtpb.xyz|unblocktheship.org|yellowbay.one
@@ -10744,7 +10746,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||0dt.net/js/script-
 ||0zz0.com/e/$image
 ||1001jeux.fr/bfb/
-||100pour100sexe.com/pop.
+||100pour100sexe.com^$script
 ||1337x.*/js/script
 ||1an2kdo.com/pics/pub/
 ||1baiser.com/image/$third-party
@@ -12662,6 +12664,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||toolslib.net/assets/custom/img/4d5/
 ||toolslib.net/assets/img/placeholders/
 ||toomai.fr/img/banner/
+||tootx.com/js/scriptpop.js
 ||top-for-phone.fr/visuels/
 ||topachat.com/images/configo_*compos-
 ||topanalyse.com/pub/
