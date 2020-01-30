@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: SGip/VPpTJnhNPDzpcTlkw
-! Version: 202001300322
+! Checksum: QzM4cFBQNM7oOt/LH7q0FQ
+! Version: 202001300325
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1726,6 +1726,7 @@
 /medias/ads/*
 /meltyad/*
 /menu/ADS/*
+/mf.banniere.prod.js
 /mf.pub.prod.js
 /mf.sethabillage.js
 /miniads/*
@@ -11010,6 +11011,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||best-fr.com/images/le1er.gif
 ||beurette-soumise.gahyoo.com^$popup
 ||bfmtv.com/csm/
+||bibamagazine.fr/extension/mfstandard/design/standard/javascript/lib/reload/mf.
 ||bienpublic.com/images/pub/
 ||bigbike-magazine.com/media/HABILLAGE/
 ||binnews.biz/_images/pub/
@@ -14559,6 +14561,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.adbox200px
 ##.adbox3
 ##.adbox300px
+##.adbttm_left_label
 ##.adbusync
 ##.adbvert
 ##.adbw__wrapper
