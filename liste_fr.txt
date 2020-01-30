@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: H80LFclPzslM7Yf23noo/w
-! Version: 202001300438
+! Checksum: SbwAQnWVb2ufuCU4XPAVEw
+! Version: 202001302058
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18489,6 +18489,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||www.vidsource.me/v/$subdocument,domain=vidsrc.me
 @@||xcdnpro.com/plugin/epay/$script,domain=cam4.com|cam4.fr
 @@||xcdnpro.com/web/js/$script,domain=cam4.com|cam4.fr
+@@||xcdnpro.com/web/v2/app/js/$script,domain=cam4.com|cam4.fr
 @@||zerocdn.to^$xmlhttprequest,domain=nowvideo.club
 ! reCAPTCHA + Google Drive Player
 @@||gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js$script
