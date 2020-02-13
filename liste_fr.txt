@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: PJvp4XXptDkTh5bDGi8JLA
-! Version: 202002120154
+! Checksum: nCa/owz0AgTtEJAYYaBRfQ
+! Version: 202002130058
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4462,6 +4462,7 @@ debugger:$popup
 ||leb961.com^$third-party
 ||lebanonreaders.com^$third-party
 ||lenteroi.xyz^$third-party
+||libertystmedia.com^$third-party
 ||librateam.net^$third-party
 ||lien-amateur.org^$third-party
 ||lifeselector.com^$third-party
@@ -8538,6 +8539,7 @@ debugger:$popup
 ||lenzmx.com^$popup
 ||lestaigames.com^$popup,third-party
 ||letsupdateourdomain.com^$popup,third-party
+||libertystmedia.com^$popup,third-party
 ||licantrum.com^$popup,third-party
 ||linkbax.com^$popup,third-party
 ||linkf.org^$popup,third-party
@@ -16298,7 +16300,10 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##div[class*="view-ads-header-"]
 ##div[class*="view-id-ads_header_"]
 ##div[class*="view-id-ads_sidebar_"]
+##div[class^="AdEmbeded__AddWrapper"]
 ##div[class^="AffiliateBadgeUi-"]
+##div[class^="Directory__footerAds"]
+##div[class^="SponsoredAds"]
 ##div[class^="ad-inside-post-"]
 ##div[class^="ad_200_"]
 ##div[class^="ad_468_"]
