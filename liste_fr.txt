@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: k37WTyKyMEMm36F208TjBw
-! Version: 202002171712
+! Checksum: cj5nRFEbnMFH9NhLO4Uxvg
+! Version: 202002171721
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -15773,6 +15773,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.texte_ads
 ##.texte_ads_plug
 ##.texte_pub
+##.threadSponsor
 ##.thumb_player_pub
 ##.timeline-media--ad
 ##.titrePub
@@ -17984,7 +17985,6 @@ pubeco.fr,usbfix.net##a[href^="http://clic.reussissonsensemble.fr/"]
 algeriephilatelie.net##a[href^="http://clic.reussissonsensemble.fr/click.asp?"]
 premiere.fr##a[href^="http://clkde.tradedoubler.com/click?"]
 lefigaro.fr##a[href^="http://cplussur.lefigaro.fr/"]
-footpy.fr##a[href^="http://cryosud-toulouse.com/"]
 only-iphone.fr##a[href^="http://fr.copytrans.net/copytranscontacts.php?utm_source="]
 argentmania.com##a[href^="http://fr.scratchmania.com/?brandId="]
 cdclicks.com##a[href^="http://fr.vegasmaster.com/"]
@@ -18004,14 +18004,12 @@ watchfomny.tv##a[href^="http://watchfomny.tv/Pop/"]
 futurama-stream.eu,t411streaming.com##a[href^="http://www.adcash.com/"]
 peuple-vert.fr,scally.typepad.com##a[href^="http://www.amazon.fr/"] > img
 alsacreations.com##a[href^="http://www.amazon.fr/gp/product/"]
-footpy.fr##a[href^="http://www.au-temps-des-fleurs.com/"]
 usbfix.net##a[href^="http://www.bitdefender.fr/media/"]
 trouvetamusique.com##a[href^="http://www.cheapkidsnh.com/"]
 djelfa.info##a[href^="http://www.djelfa.info/ar/click/"]
 dzsat.org##a[href^="http://www.dzsat.org/forum/rbs_banner.php?"]
 guide-piscine.fr##a[href^="http://www.guide-piscine.fr/scripts/gp_div_clic.php?"]
 9rayti.com##a[href^="http://www.ilycee.com/?utm_source="]
-footpy.fr##a[href^="http://www.imexia.fr/"]
 cowcotland.com##a[href^="http://www.ldlc.com#aff"] > img
 dhnet.be,lalibre.be##a[href^="http://www.livepartners.be/affiliate/"]
 lyonmag.com##a[href^="http://www.lyonmag.com/home/habillage/"]
@@ -18019,7 +18017,6 @@ meetmuslima.net##a[href^="http://www.meetmuslima.net/go/"]
 bricozone.be##a[href^="http://www.perfectionhabitat.be/"] > img
 topj.net##a[href^="http://www.rpjf.com/asp/lien.asp?"]
 lefigaro.fr##a[href^="http://www.ticketac.com/?utm_source="]
-footpy.fr##a[href^="http://www.vdb-automobiles.com/"]
 webfrance.com##a[href^="http://www.webfrance.com/go/"]
 free-proxy.fr##a[href^="https://account.cyberghostvpn.com?affiliate="]
 lemonde.fr##a[href^="https://analytics.barnebys.sh/?"]
@@ -18036,7 +18033,6 @@ qwant.com##a[href^="https://www.bing.com/aclick?"]
 qwant.com##a[href^="https://www.bing.com/aclk?"]
 capital.fr##a[href^="https://www.bod.fr/capital.html?"]
 maison-et-domotique.com##a[href^="https://www.bons-plans-elise.fr/"]
-footpy.fr##a[href^="https://www.facebook.com/adhocperformances/?"]
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
 anime-vf.fr##a[href^="https://www.newsly24.com/"]
 credit-agricole.fr##a[href^="https://www.onatousuncotefoot.fr/"]
@@ -18066,6 +18062,8 @@ prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 lefigaro.fr##a[target="_blank"] > img[style="width: 463px; height: 170px;"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="100"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
+footpy.fr##a[target^="_blank"] > [style="width:303px"]
+footpy.fr##a[target^="_blank"] > [style="width:584px"]
 gamergen.com,generation-nt.com##article .product
 tchatche.com##banner
 auto-utilitaire.com,mobilealgerie.com##body > a > img
