@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: W3Xmqa9uMZFlpfHbvirywQ
-! Version: 202002251751
+! Checksum: 54EL8+Jams6s+TKvAWpeDA
+! Version: 202002260313
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2189,6 +2189,7 @@
 /secure-ads.
 /seller_shop.$third-party
 /separatore-pub.
+/serv.*/delivery/*
 /serve?*&w=160&h=600
 /serve?*&w=300&h=250
 /serve?*&w=468&h=60
@@ -3158,6 +3159,7 @@ _frontend_loader.$script
 /delivery.*.php?ad=$popup
 /delivery/ck.$popup
 /delivery/directlink.$popup
+/delivery/popclic.$popup
 /direct.php?said=$popup
 /direct/?cid=$popup
 /directclick/?$popup
@@ -8320,6 +8322,7 @@ debugger:$popup
 ||cld3r.com^$popup,third-party
 ||clddt.com^$popup,third-party
 ||click-cpa.net^$popup,third-party
+||clickadilla.com^$popup,third-party
 ||clickadu.com^$popup,third-party
 ||clickanalyticssuite.com^$popup,third-party
 ||clickdevmod.com^$popup
@@ -9431,6 +9434,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||canaljeuvideo.com/var/storage/habillages/
 ||canalseduction.com/Bannieres/
 ||cashtravel.info/banners/
+||ccbill.com/cgi-bin/clicks.cgi?$popup,third-party
 ||cccamlifetime.com/images/banner/
 ||cdn.*/static/js/amvn.js
 ||cdn.a9fast.com^*/misc/partner/
@@ -9540,6 +9544,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||devisprox.com/ld.js
 ||dhtml.pornravage.com^
 ||dibujos.net/images/banners/
+||ding.pl/embed,$third-party
 ||dir-fr.com/banners/
 ||disco-sexe.com/ban/$third-party
 ||discutfree.com^$popup,domain=netvibes.com
@@ -16315,6 +16320,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href^="https://bj1110.online/"]
 ##a[href^="https://blockadz.com/?"]
 ##a[href^="https://checkout.hidemyass.com/affiliate.php?"] > img
+##a[href^="https://clickadilla.com/?"]
 ##a[href^="https://downloadplayer.xyz/"]
 ##a[href^="https://fileslicious.tf/"]
 ##a[href^="https://go.alvexo.com/"]
