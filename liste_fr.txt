@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: qzqS72iIW0u5jr2/4IOMnw
-! Version: 202002261856
+! Checksum: /3WpZx8PZKV3s11bqS/cFw
+! Version: 202002270048
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4045,6 +4045,7 @@ debugger:$popup
 ||cdn3.net^$third-party
 ||cdn7.space^$third-party
 ||cdn9now.com^$third-party
+||cdndownload.club^
 ||cdntraffic.com^$third-party
 ||cdxndirect.com^$third-party
 ||cdxndirectopt.com^$third-party
@@ -8306,6 +8307,7 @@ debugger:$popup
 ||cbshift.com^$popup,third-party
 ||cdaz.icu^$popup,third-party
 ||cdn77.org^$popup,third-party
+||cdndownload.club.com^$popup
 ||cdnproviders.net^$popup,third-party
 ||cdnrl.com^$popup,third-party
 ||cduporno.fr^$popup,third-party
@@ -8451,6 +8453,7 @@ debugger:$popup
 ||extremesoundmedium.com^$popup,third-party
 ||fantasticoffers.club^$popup,third-party
 ||fastfixing.tech^$popup,third-party
+||feboni.info^$popup
 ||felafk.com^$popup,third-party
 ||femme-cougar.tv^$popup,third-party
 ||femtoads.com^$popup,third-party
