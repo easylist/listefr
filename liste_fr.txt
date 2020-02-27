@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AJpLUFhoaEfBMHsOpVFang
-! Version: 202002270054
+! Checksum: Kgsz83fNDsO/f6keCRytmw
+! Version: 202002270124
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18158,6 +18158,8 @@ finansemble.fr##div.div_description_v2[style="max-width:750px;"]
 loractu.fr##div.landing
 kozikaza.com##div[class$="item--ad"]
 net-iris.fr##div[class$="promo-container"]
+lefigaro.fr##div[class*="mad__partenaire__"]
+lefigaro.fr##div[class*="mad__pub__"]
 paruvendu.fr##div[class*="partenairessidebox"]
 film-telechargement.org,telechargement-film.org,telechargement.vip##div[class*="vip"]
 booska-p.com##div[class][style^="background"]
