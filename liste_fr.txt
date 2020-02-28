@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: yR5WltBRL4pmul+dejn6vA
-! Version: 202002280310
+! Checksum: cFm0k1VXmBu0b4KHCrnRRg
+! Version: 202002280318
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17988,6 +17988,7 @@ adca.st##a[href*="/jump/next.php?"]
 nouvelobs.com##a[href*="/leguide-shopping."]
 nouvelobs.com##a[href*="/les-bons-plans-shopping/"]
 annuaire-telechargement.com,zone-annuaire.com,zone-telechargement.net##a[href*="/lienusnet."]
+chine.in##a[href*="/link.php?"]
 3dnatives.com,elwatan.com,journaldu4x4.com##a[href*="/linkout/"]
 20min.ch##a[href*="/paidpost/"]
 euro-2016-france.net##a[href*="/parier/"]
@@ -18066,7 +18067,6 @@ telemagazine.fr##a[href^="/produits_contextuels/"]
 agevillage.com##a[href^="/pub-"]
 confidentielles.com##a[href^="/rc_787_"]
 edcom.fr##a[href^="/regie"]
-chine.in##a[href^="/regie/link.php?"]
 jeuxvideo.com##a[href^="/sponso/"] img
 beaute-test.com##a[href^="/stat/clic.php?"]
 kerix.net##a[href^="LienExterne.asp?"]
@@ -18292,7 +18292,7 @@ medialot.fr##img[height="38"][width="300"]
 forum-windows.com##img[height="60"][width="650"]
 forum-windows.com##img[height="600"][width="160"]
 dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
-banquepopulaire.fr,fullsharez.com,maison-et-domotique.com,pfiramz.biz,piframe.eu,prfr.re,prifr.eu,protect-iframe.com,smed79pauvretache.eu,smed79pisseuse.eu,smed79tocard.eu##img[src*="base64"]
+banquepopulaire.fr,chine.in,fullsharez.com,maison-et-domotique.com,pfiramz.biz,piframe.eu,prfr.re,prifr.eu,protect-iframe.com,smed79pauvretache.eu,smed79pisseuse.eu,smed79tocard.eu##img[src*="base64"]
 jpost.com##img[src^="blob:"]
 zataz.com##img[style$="width: 300px; height: 250px;"]
 filecrypt.co##img[style^="display:"]
