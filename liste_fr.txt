@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: sgIXDu+PO+XZTRYi4psbAA
-! Version: 202002280258
+! Checksum: yR5WltBRL4pmul+dejn6vA
+! Version: 202002280310
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -11377,6 +11377,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||edcom.fr/images/gaml/
 ||edcom.fr/images/habillage/
 ||edcom.fr/images/jbl.png
+||edcom.fr/img/skins/
 ||edenflirt.co/pdv/*/?comfrom=*&cf2=$popup
 ||editeurjavascript.com/bans/
 ||editeurjavascript.com/bans2/
@@ -16840,6 +16841,7 @@ lessentiel.lu###min_rectangle
 jeu.video###mobile_clic
 e-sushi.fr###modal
 le-buzz.fr###modal_chrome
+edcom.fr###modals-container
 aujourdhui-en-france.fr,leparisien.fr###moteur-billetterie
 zdnet.fr###mpuBottom
 zdnet.fr###mpuTop
@@ -18063,6 +18065,7 @@ immigrer.com##a[href^="/p/bannieres/"]
 telemagazine.fr##a[href^="/produits_contextuels/"]
 agevillage.com##a[href^="/pub-"]
 confidentielles.com##a[href^="/rc_787_"]
+edcom.fr##a[href^="/regie"]
 chine.in##a[href^="/regie/link.php?"]
 jeuxvideo.com##a[href^="/sponso/"] img
 beaute-test.com##a[href^="/stat/clic.php?"]
