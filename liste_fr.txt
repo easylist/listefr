@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 0YUFOIDBdSgETx7Ga86pPA
-! Version: 202002270147
+! Checksum: ipHpMPOLBRIerocrngd6GQ
+! Version: 202002280227
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -13851,6 +13851,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###bloctopad
 ###bodyGoogleAnnounces
 ###bodyPanpub
+###bonga-bottom-banner
 ###bonsplansprospect
 ###bottom-adv
 ###bottom-pub
@@ -14424,6 +14425,10 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###slidepub
 ###small-banner-ad
 ###small-banner-bottom-ad
+###snippet--ads_bottom
+###snippet--ads_menu
+###snippet--ads_mobile
+###snippet--ads_sides
 ###solreklam
 ###sp-entete-pour-la-pub
 ###spaceForPub
@@ -15379,6 +15384,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.p-with-floating-ad
 ##.padAdv
 ##.padscreen
+##.page-cover--ads
 ##.pageLoadAdBox
 ##.pane-st-dfp-ads
 ##.panel-ads
@@ -15839,6 +15845,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.stm-ad-player
 ##.structure_wrapper-ad
 ##.subimageAd
+##.suggested-content--ads
 ##.tab-reklam
 ##.tableAds
 ##.tag-adverline
@@ -16044,6 +16051,9 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href*=".xxcdn.pw/"]
 ##a[href*="//ads.ad-center.com/"]
 ##a[href*="//afftrack001.com/"]
+##a[href*="//bongacams.com/track?"] > img
+##a[href*="//bongacams2.com/track?"] > img
+##a[href*="//bongacams5.com/track?"] > img
 ##a[href*="//ghoto-12.win/"]
 ##a[href*="//go.mobtrks.com/"]
 ##a[href*="//go.oclasrv.com/"]
@@ -16054,6 +16064,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href*="//licantrum.com/"]
 ##a[href*="//media.unibet.fr/redirect.aspx?pid="] > img
 ##a[href*="//nrg.red-by-sfr.fr/dynclick/"] > img
+##a[href*="//promo-bc.com/track?"] > img
 ##a[href*="//toroadvertisingmedia.com/"]
 ##a[href*="//tracking.publicidees.com/clic.php?"] > img
 ##a[href*="//www.awin1.com/cread.php?"] > img
