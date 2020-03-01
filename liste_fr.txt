@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: BzbKvsnMf/vwg4lsmGxNPA
-! Version: 202003011602
+! Checksum: uNKLZsTjqX2usWKThPXS6g
+! Version: 202003011606
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1541,7 +1541,6 @@
 /get/*?zoneid=
 /get?*&ab=*&ref=$script,third-party,xmlhttprequest
 /get?pvt=*&ab=*&ref=
-/get_ads|
 /get_affiliate_
 /get_banniere.php?$subdocument
 /get_links_*&zone=
