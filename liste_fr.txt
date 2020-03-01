@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: aJhYdWVYl6LTqoZuFbVKVA
-! Version: 202003011654
+! Checksum: lzkH8QizEofpEaBccVNB6w
+! Version: 202003011701
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4386,6 +4386,8 @@ debugger:$popup
 ||ibobanners.com^$third-party
 ||icileweb.com^$third-party
 ||icipourtout.com^$third-party
+||idevaffiliate.com^$third-party
+||idevdirect.com^$third-party
 ||idhad.com^$third-party
 ||igadserver.net^$third-party
 ||ijero.com^$third-party
@@ -5124,6 +5126,7 @@ debugger:$popup
 ||trafficmagnates.com^$third-party
 ||trafficoffernetwork.com^$third-party
 ||trafficrevmaster.com^$third-party
+||trafficroots.com^$third-party
 ||trafficxbiz.com^$third-party
 ||trafic-booster.biz^$third-party
 ||traficmax.com^$third-party
