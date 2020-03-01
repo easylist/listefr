@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: eDt/rzkB8fHdiZvL88lhRg
-! Version: 202003011743
+! Checksum: WzxVSmJcqMTPq3KYk53QYA
+! Version: 202003011755
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -7339,10 +7339,11 @@ debugger:$popup
 !
 ||5081.site^
 ||kirkir.xyz^
-!
+! clcknads
 /^https?:\/\/[a-zA-Z0-9\-]{10,18}\.pro\/v(1|2)\/a\/pop\/js\/[0-9]{5}$/$script,third-party
 ||0gw7e6s3wrao9y3q.pro^
 ||1b9cvfi0nwxqelxu.pro^
+||1zlyetcck7klyuy9.pro
 ||1zlyetcck7klyuy9.pro^
 ||27vckaccbto7p761.pro^
 ||327d49j2xt0nsr6o.pro^
@@ -7355,14 +7356,46 @@ debugger:$popup
 ||8weoaapw0hfvy6nz.pro^
 ||a4eq4qvdh9x30d24.pro^
 ||acrmbjkk6qc5utby.pro^
+||afshanthough.pro^
+||aileenvideos.pro^
+||alahnavideos.pro^
+||alcidebrought.pro^
+||aloissentence.pro^
+||amavirgin.pro^
 ||arda0hylt58g4wg0.pro^
+||audriasite.pro^
+||bradymadura.pro^
+||briggbrought.pro^
 ||bxgjpocfz1g1jiwb.pro^
+||caligula.pro^
+||charalli.pro^
 ||clrpdhptoddatj49.pro^
+||coltagainst.pro^
+||cosimocaseros.pro^
+||cosimolaugh.pro^
+||cosimotable.pro^
+||daunteegyptian.pro^
+||daviedmamas.pro^
+||dddomainccc.com^
+||dejionsite.pro^
+||emmettperson.pro^
+||esaiasegyptian.pro^
+||evalynbrought.pro^^
 ||gedmhqqipuz6wfon.pro^
+||gormancarry.pro^
 ||gwa8i3rrf9mwozpi.pro^
+||halleyperson.pro^
+||henasentence.pro^
 ||iy8yhpmgrcpwkcvh.pro^
+||joannamadura.pro^
+||larrenworld.pro^
 ||libraclick.pro^
+||marisappear.pro^
+||noamiscience.pro^
 ||oqn2ujcvgki0fgqy.pro^
+||simicaseros.pro^
+||tekelapossible.pro^
+||twillamadura.pro^
 ||vfl81ea28aztw7y3.pro^
 ||vknrfwwxhxaxupqp.pro^
 ||xbc8fsvo5w75wwx8.pro^
@@ -7476,27 +7509,6 @@ debugger:$popup
 ||jload01.info^
 ||lodddd01.info^
 ||rifat01.info^
-! clcknads
-||0gw7e6s3wrao9y3q.pro^
-||1b9cvfi0nwxqelxu.pro^
-||1zlyetcck7klyuy9.pro^
-||27vckaccbto7p761.pro^
-||327d49j2xt0nsr6o.pro^
-||4jpf0karrejn6yla.pro^
-||4y3vbu5bxql6177n.pro^
-||568vovhs6ekbupjo.pro^
-||6eez7ouig7gwguf6.pro^
-||6snjvxkawrtolv2x.pro^
-||8a8cq8c8yyqjs2xr.pro^
-||8weoaapw0hfvy6nz.pro^
-||alahnavideos.pro^
-||joannamadura.pro^
-||larrenworld.pro^
-||marisappear.pro^
-||noamiscience.pro^
-||simicaseros.pro^
-||tekelapossible.pro^
-||twillamadura.pro^
 ! Mining
 -coin-hive.js
 -coin-hive/
