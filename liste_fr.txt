@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gAhckcjv1uHf/fr1YJ0ZBQ
-! Version: 202003101421
+! Checksum: 1g/eYJJodwYSjeG+qFFkZA
+! Version: 202003101427
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12437,6 +12437,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||permispratique.com/ads/$popup
 ||permispratique.com/photo/*_habillage_
 ||pervify.com/*/sponsors/
+||petit-bulletin.fr/multimedia/fond/
 ||petit-bulletin.fr^*/habillage
 ||petite-annonce-gratuite.com/encarts/bannieres/
 ||petitfute.com/img/partenaire/
@@ -18207,7 +18208,7 @@ savefrom.net##a[id][href][target][style]
 degrouptest.com##a[onclick*="/resultspage/"]
 lien-torrent.com##a[onclick*="directlinks"]
 dl-protect1.com,filerio.in,free-telechargement.co,ifp.re,libertyvf.co,liens-telechargement.com,pfiramz.biz,pframe.eu,piframe.eu,planet-series.world,plink.re,prfr.re,prframe.eu,prifr.eu,protect-iframe.com,smed79pauvretache.eu,smed79pisseuse.eu,smed79tocard.eu,torrents.io,wawacity.co##a[onclick]
-petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent', 'Habillage"]
+petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent'"]
 1fr1.net,3oloum.com,7olm.org,ahladalil.com,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,forum-gratuit.net,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumalgerie.net,forumpro.fr,forums-actifs.com,gid3an.com,jordanforum.net,lebonforum.com,own0.com,passionmilitaria.com,superforum.fr,syriaforums.net,yoo7.com##a[onclick^="this.href=atob"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 achat-bitcoins.com##a[rel="nofollow"] > img
