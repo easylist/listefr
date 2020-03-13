@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: CJKVO/MsnCmKONXtlqZ13Q
-! Version: 202003101500
+! Checksum: h+KmwGEVaDRPHYaP4FAO+Q
+! Version: 202003131729
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -11442,7 +11442,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||editeurjavascript.com/bans/
 ||editeurjavascript.com/bans2/
 ||editions-humanis.com/Pubs/
-||edmi.nextinpact.com^
 ||educastream.com/IMG/Image/*-cligno.gif
 ||educastream.com/upload/popin/
 ||eftharbia.com/img/atlas_bann.jpg
@@ -13107,6 +13106,12 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
+! nextinpact.com
+||cdn5.nextinpact.com^
+||edmi.nextinpact.com^
+||pam.nextinpact.com^
+||poum.nextinpact.com^
+||zam.nextinpact.com^
 ! omgtorrent
 @@||www.omgtorrent.cz/assets/js/scripts.js$script,~third-party
 @@||www.omgtorrent.cz/assets/js/vendors.js$script,~third-party
