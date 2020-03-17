@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: P+AY013keccUGcTUmEQCPQ
-! Version: 202003170122
+! Checksum: JLO7Fes+gLjTiEUvO5w9cQ
+! Version: 202003170132
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -3823,6 +3823,7 @@ debugger:$popup
 ||advanet.xyz^$third-party
 ||advanpromo.com^$third-party
 ||advantagz.com^$third-party
+||adverdata.net^$third-party
 ||adverkeyz.com^$third-party
 ||adverline.com^$third-party
 ||adverteasy.fr^$third-party
@@ -5164,6 +5165,7 @@ debugger:$popup
 ||txlpzpihveg.net^$third-party
 ||uaadi.com^$third-party
 ||ublock.pw^$third-party
+||ulclick.ru^$third-party
 ||ultrafiles.co^$third-party
 ||unicefworld12.ovh^$third-party
 ||unit-sense.net^$third-party
@@ -9667,8 +9669,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||emploipartner.com^*-partner/$third-party
 ||emploipartner.com^*_partner/$third-party
 ||emptyloop.com/unlocker/welcome.htm$popup,domain=emptyloop.com
-||emule-island.co/bup/
-||emule-island.co/images/pub/
 ||enligne.biz^$image,third-party
 ||enligne.com^$image,third-party
 ||enucip.spacefoot.com^
@@ -11488,6 +11488,9 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||emploitic.com/images/banner/
 ||emploitic.com/images/banners/
 ||emu-fr.net^*/img_partenariat/
+||emule-island.co/bup/
+||emule-island.co/images/pub/
+||emule-island.co/pop/
 ||emule-island.co/pub/
 ||emule-island.co/xxx/$popup
 ||emule-island.co/yoo.php
