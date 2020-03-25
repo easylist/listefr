@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: vL3uQ6bykBgfm7qE8roU0w
-! Version: 202003250631
+! Checksum: vx/+Cx5UO/4ebG9T/CVqPg
+! Version: 202003250637
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18152,7 +18152,7 @@ prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 lefigaro.fr##a[target="_blank"] > img[style="width: 463px; height: 170px;"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="100"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
-4k-streaming.com##a[target="_parent"]
+4k-stream.net,4k-streaming.com##a[target="_parent"]
 footpy.fr##a[target^="_blank"] > [style="width:303px"]
 footpy.fr##a[target^="_blank"] > [style="width:584px"]
 gamergen.com,generation-nt.com##article .product
@@ -18207,7 +18207,7 @@ akvideo.stream,vakarm.net##div[id][onclick][style]
 voyageforum.com##div[id][style="display: block; width: 850px; margin-top: -9px; height: 285px;"]
 voyageforum.com##div[id][style="width: 850px; height: 127px; overflow: hidden; vertical-align: top;"]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
-4k-streaming.com##div[id^="ads"]
+4k-stream.net,4k-streaming.com##div[id^="ads"]
 korben.info##div[id^="alderaan-"]
 forumconstruire.com##div[id^="bloc_discussion_"] > :first-child + div
 fan2.fr,mcm.fr,melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,meltyxtrem.fr,virginradio.fr##div[id^="container_A2_"]
