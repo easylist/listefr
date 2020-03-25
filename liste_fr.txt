@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Nr8ZxBKOgKJOfD9LEAzUUw
-! Version: 202003250543
+! Checksum: bEFxVP4mO6wUVDp5CmOXSw
+! Version: 202003250544
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2208,6 +2208,7 @@
 /sex_ad.
 /sex_ads.
 /sfibanners.
+/SGPMPopup.
 /shareaholic.js
 /shareaholic/*
 /shared/ad/*
@@ -4782,6 +4783,7 @@ debugger:$popup
 ||poprevenue.com^$third-party
 ||popudom.xyz^$third-party
 ||popunderjs.club^$third-party
+||popupmaker.com^$third-party
 ||popvertising.com^$third-party
 ||popvertizer.com^$third-party
 ||popzila.com^$third-party
@@ -5470,6 +5472,7 @@ debugger:$popup
 ||98d4b353b20a2b586cd.com^
 ||9a505e446b3cbc49ba0.com^
 ||9d683ea679bc03ff.com^
+||9eb10b7a3d04a.com^
 ||a0a28d3c97a4e566.com^
 ||a15c5009bcbe272.com^
 ||a22f0d8201ade09fa3.com^
