@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: z5fW4qX9D6FAPRF4Xx7dwg
-! Version: 202003271932
+! Checksum: 6HK2Qt/zjTKb4N3crCA51Q
+! Version: 202003280146
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -14564,6 +14564,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.ad-block-inside
 ##.ad-bottom-text
 ##.ad-boxpursuit
+##.ad-click
 ##.ad-container
 ##.ad-corner-top-250
 ##.ad-dfp
@@ -16701,6 +16702,7 @@ maxifoot.fr###ep728
 conseils-courseapied.com###equipement
 cuisineetvinsdefrance.com###eshop300
 ville-ideale.com###esspub
+loractu.fr###estate-widget
 easyvoyage.com###esv-pub-hp
 muslimshop.fr###evenement
 moov.mg###extruderLeft1
@@ -17634,7 +17636,7 @@ meteosun.com##.promote_large
 tf1.fr##.promoted_image
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
-ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,dictionnaire-synonymes.com,docteurclic.com,elbotola.com,elheddaf.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forumsims3.com,franceinfo.fr,franceinter.fr,gratuiciel.com,ici.tou.tv,igen.fr,inovaovao.com,internetparsatellite.net,iphonesoft.fr,iphonetweak.fr,jeux-mmorpg.com,ktotv.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,logicielmac.com,logitheque.com,macg.co,macommune.info,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,nextinpact.com,nintendo-master.com,nordeclair.be,orange.fr,orange.mu,ouest-france.fr,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,remede.org,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,vipsg.fr,watchgeneration.fr,yabiladi.com,yatahonga.com,zupimages.net##.pub
+ados.fr,adsptp.com,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,dictionnaire-synonymes.com,docteurclic.com,elbotola.com,elheddaf.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forumsims3.com,franceinfo.fr,franceinter.fr,gratuiciel.com,ici.tou.tv,igen.fr,inovaovao.com,internetparsatellite.net,iphonesoft.fr,iphonetweak.fr,jeux-mmorpg.com,ktotv.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,logicielmac.com,logitheque.com,loractu.fr,macg.co,macommune.info,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,mini-games.fr,montelimar-news.fr,nextinpact.com,nintendo-master.com,nordeclair.be,orange.fr,orange.mu,ouest-france.fr,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,remede.org,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,vipsg.fr,watchgeneration.fr,yabiladi.com,yatahonga.com,zupimages.net##.pub
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
 constructeurdemaison.net##.pub-content
@@ -18176,7 +18178,6 @@ annuaire-horaire.fr##div#aq
 pyrenees-team.com##div#link
 gamopat-forum.com##div#wrapper > div#right img[src*="/11/03/61/79/"]
 finansemble.fr##div.div_description_v2[style="max-width:750px;"]
-loractu.fr##div.landing
 kozikaza.com##div[class$="item--ad"]
 net-iris.fr##div[class$="promo-container"]
 lefigaro.fr##div[class*="mad__partenaire__"]
