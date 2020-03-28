@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: sLYHadw/bckq6A03uD3/pQ
-! Version: 202003280332
+! Checksum: gdDUSNBojFWm6ZvD0Dxdwg
+! Version: 202003280337
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -16084,6 +16084,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href*="//media.unibet.fr/redirect.aspx?pid="] > img
 ##a[href*="//nrg.red-by-sfr.fr/dynclick/"] > img
 ##a[href*="//repochuwra.xyz/"]
+##a[href*="//stakiwrisl.xyz/"]
 ##a[href*="//toroadvertisingmedia.com/"]
 ##a[href*="//tracking.publicidees.com/clic.php?"] > img
 ##a[href*="//www.awin1.com/cread.php?"] > img
@@ -17899,6 +17900,7 @@ narkive.com,tourte.org##[class^="ads_"]
 4k-stream.net,4k-streaming.com,webstar-electro.com##[class^="banner"]
 jeu.info##[class^="banniere-"]
 sofoot.com##[class^="bloc-partenaires"]
+4k-stream.net,4k-streaming.com##[class^="bnr"]
 forumconstruire.com##[class^="habillage"]
 igen.fr,macg.co,orange.fr,watchgeneration.fr##[class^="lig_"]
 filesupload.org##[class^="modal"]
