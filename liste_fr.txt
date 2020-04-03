@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gFLMs0GpkVVeyZU7SuhPUA
-! Version: 202004022034
+! Checksum: 6fvh0Basd7Wfe0yh6ePtoA
+! Version: 202004030307
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12550,6 +12550,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||s-sfr.fr^*/pubtb.
 ||s-sfr.fr^*/pubwm.
 ||s-sfr.fr^*/sky160navmulti.json?
+||sabqpress.net/wp-content/uploads/2020/03/0.jpg
+||sabqpress.net/wp-content/uploads/2020/03/mobilis.jpg
 ||sainte-marie-mineral.com/img/pub_
 ||sataid.net/banners/
 ||satim-dz.com/images2/
@@ -15134,6 +15136,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.desktop-dsa
 ##.desktop-ff-ads
 ##.desktop-ff-ads__main
+##.desktop-mobile-ads
+##.desktop-mobile-ads__desktop
 ##.desktopAd
 ##.desktopbottomad
 ##.desktopbottomad1
