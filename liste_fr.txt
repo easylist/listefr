@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: VQpwv+lPyAkAhYoJW0iVOA
-! Version: 202004030709
+! Checksum: 6V5YnOpfmmQEk9qnkOrVfg
+! Version: 202004030732
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -5389,7 +5389,6 @@ debugger:$popup
 /^https?:\/\/[0-9a-z\-]+\.(click|club|com|cricket|bid|date|download|life|link|men|network|online|party|racing|review|site|space|stream|top|trade|uk|webcam|website|win|xyz)\/[0-9]{1}\/[0-9]{7}\/\?var\=[0-9]{7}$/$popup,third-party
 /^https?:\/\/[0-9a-z\-]+\.(com|net)\/[0-9]{1}\/[0-9]{7}$/$popup,third-party
 /^https?:\/\/[0-9a-z\-]+\.(com|net)\/[0-9]{5,8}\.html\?q$/$popup,third-party
-|oukrocky.com^
 ||059e025e7484.com^
 ||0879dbbeb31e0c83d.com^
 ||09fee6914d1b6450885.com^
@@ -5510,6 +5509,7 @@ debugger:$popup
 ||areapebeg.club^
 ||arescadon.com^
 ||arkbuyarm.club^
+||artandand.online^
 ||artantash.club^
 ||ascraftan.com^
 ||ashchiasp.club^
@@ -5522,6 +5522,7 @@ debugger:$popup
 ||b9ba73f1cd9b6.com^
 ||baipagid.com^
 ||balvalur.com^
+||banalbjar.com^
 ||bc41541f262379cf54.com^
 ||bdgfhdfggdh5yhdhed4yhdfhd.com^
 ||beeashale.club^
@@ -5689,6 +5690,7 @@ debugger:$popup
 ||hertforthatharrigh.pro^
 ||himanyo.com^
 ||hirurdou.net^
+||hoemasfat.site^
 ||hoohavoa.com^
 ||hoozique.net^
 ||hosoojat.net^
@@ -5790,6 +5792,7 @@ debugger:$popup
 ||pastoupt.com^
 ||paujoawa.top^
 ||paupepsu.click^
+||peachdamwhiffs.store^
 ||peehotim.com^
 ||peevopoy.com^
 ||pekreecy.com^
@@ -5834,6 +5837,7 @@ debugger:$popup
 ||ptoafauz.net^
 ||ptocmaux.com^
 ||ptouckoo.net^
+||punpisurn.site^
 ||pushails.com^
 ||pushalk.com^
 ||pushamir.com^
@@ -5922,6 +5926,7 @@ debugger:$popup
 ||thoonsie.click^
 ||thoorest.com^
 ||thukrubs.com^
+||titoaktop.com^
 ||toawouph.uk^
 ||togroltu.net^
 ||totdorancaltert.club^
