@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: iMxhzS3x+gAewqTQ/uwm/g
-! Version: 202004030558
+! Checksum: rTnsZZwlkb0czk9/dmKTtg
+! Version: 202004030638
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2010,6 +2010,7 @@
 /Pub200x250.
 /pub250.
 /pub300-250.
+/pub300.
 /pub300x250.
 /pub420.
 /pub468-60.
@@ -12268,6 +12269,9 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||mtvnimages.com/habillage/
 ||mubawab-media.com/habillagesPictures/
 ||multiup.*/compiled_js
+||musculaction.com/images/*-300x420.
+||musculaction.com/images/*-960x90.
+||musculaction.com/images/nutripure-
 ||musculaction.com/img/245x90-
 ||muslimette-magazine.com/wp-content/uploads/*/125X125-
 ||muslimshop.fr/vers-integration.jpg
@@ -14355,6 +14359,9 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###pubdudessous
 ###pubflottante
 ###pubfooter
+###pubfooter-md-lg
+###pubfooter-sm
+###pubfooter-xs
 ###pubgauche
 ###pubgoogle
 ###pubhaut
@@ -14390,6 +14397,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###pubright
 ###pubsCommentGoodDeals
 ###pubsidebar
+###pubsousmenu
+###pubsousmenu-md-lg
 ###pubtop
 ###quads-ad1
 ###quads-ad3
@@ -17004,7 +17013,6 @@ paris-communiques.com,plateformemedia.com###publaterale
 troc-velo.com###publine
 focus-numerique.com,lapresse.ca,les-terrains.com###pubs
 algerie360.com###pubsousVid
-musculaction.com###pubsousmenu
 gamaniak.com###pubtopmenu
 jeu.net###pubz
 search.free.fr###pud_search
@@ -18268,6 +18276,7 @@ france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.
 4k-stream.net,4k-streaming.com##div[id^="float"]
 annonces.nc,automobiles.nc,batiment.nc,drones.nc,embauche.nc,immobilier.nc,mobilier.nc,nautisme.nc,piecesauto.nc,puericulture.nc,rencontres.nc,wamland.nc##div[id^="hab_"]
 dsih.fr##div[id^="pub"]
+musculaction.com##div[id^="pubsousmenu"]
 pagesjaunes.fr##div[id^="push"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
 filmz.info,streaminggratuitvf.com,tfarjo.com##div[onclick]
