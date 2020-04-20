@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 0SFcD/DOD+TUN+/Sz3gjUg
-! Version: 202004202006
+! Checksum: k5um9dXT0Nva4yTIY7Km9w
+! Version: 202004202011
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18650,7 +18650,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||maps.google.com^$script,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 @@||maps.googleapis.com^$script,domain=heures.be|hours.be|openingstijdengids.nl|openingsurengids.be
 @@||mrsexe.com/api/video.6.6.3.min.js$script,domain=mrsexe.com
-@@||mstreamcdn.com^*/snapshot.jpg|$image,domain=mstream.best|mstream.fun|mstream.icu|mstream.rocks|mstream.space|mstream.xyz|mystream.to
+@@||mstreamcdn.com^*/snapsho$image,domain=mstream.best|mstream.fun|mstream.icu|mstream.rocks|mstream.space|mstream.xyz|mystream.to
 @@||mystream.io/img/$image,domain=mstream.best|mstream.fun|mstream.icu|mstream.rocks|mstream.space|mstream.xyz|mystream.to
 @@||plugins.longtailvideo.com^$script,domain=vidhos.com|vidstodo.me|vidto.me|vidto.se|vidtoro.com
 @@||releases.flowplayer.org^*/flowplayer.$script,domain=flowyourvideo.com
