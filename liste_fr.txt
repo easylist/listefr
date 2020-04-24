@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: v/iSzdZf4Ru60WTQVyYF1A
-! Version: 202004242017
+! Checksum: /zLGeYgF3fanSzYQu/KVRw
+! Version: 202004242026
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1038,6 +1038,7 @@
 /adx/*/native.
 /adxAdmin/*
 /adxplatino.
+/adzads_
 /aeXP/src.
 /af-250x250.
 /af-300x250.
@@ -3719,6 +3720,7 @@ debugger:$popup
 ||adnetworkus.com^$third-party
 ||adnotbad.com^$third-party
 ||adnplay.com^$third-party
+||adnsolution.net^$third-party
 ||adnxtr.com^$third-party
 ||adoftheyear.com^$third-party
 ||adonads.com^$third-party
@@ -11011,7 +11013,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||annonce.lequipement.fr^
 ||annonces-automobile.com/images/data/banniere/
 ||annonces-automobile.com/images/partenaire/
-||annonces-dz.com/tassili.png
 ||annonces-nc.com/PUBS/
 ||annonces.ci/widgets/$third-party
 ||annonces.nc/pubs/
@@ -16814,7 +16815,6 @@ millenium.org###habillagesite
 geekopolis.fr###habitdroit
 geekopolis.fr###habitgauche
 football.fr,sports.fr###hablinkzone
-annonces-dz.com###hb
 classement.pro###headbanner
 clubpronostics.com###header-banner
 ezgif.com###header-infoblock
@@ -18393,7 +18393,6 @@ virusphoto.com##table[width="300"][height="280"]
 societe.com##table[width="303"] > tbody > tr > td[valign="top"][height="260"]
 radiofrance.fr##table[width="765"][height="100"]
 codeshttp.com##table[width="800"][height="100"]
-annonces-dz.com##table[width="800"][height="115"]
 codeshttp.com##table[width="800"][height="118"]
 algeriatenders.com##tbody > tr[style="height:92px;"]
 torlock.com,torrentfunk.com##td > img[class^="z"]
