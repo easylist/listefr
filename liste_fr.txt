@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: jlgFGpvRxlL0iUoaDUh2IQ
-! Version: 202004242032
+! Checksum: 7fRp3AGVtPHBO7rqhJnXJg
+! Version: 202004242043
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1978,6 +1978,8 @@
 /pub/*/300_300_
 /pub/*/ad.
 /pub/*/ads.
+/pub/*/banniere_
+/pub/*_300x600.
 /pub/300.
 /pub/300600/*
 /pub/300_top.
@@ -10334,7 +10336,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||soft-66.net/open.js
 ||soft-mining.net/images/banner_
 ||solvemedia.com/acmedia/$image,media
-||soonnight.com^*.html?width=
+||soonnight.com/images/pub/
 ||sophielibertine.com/images/Banniere
 ||sos-trique.com/ban/$third-party
 ||sousstube.net/pub/
@@ -12647,14 +12649,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||sofoot.com/img/sofoot_partenaires/
 ||soleilinvest.com/ima/prom/
 ||solimba.com/js/topbar.min.js
-||soonnight.com/images/mini_ban_partenaire/
+||soonnight.com/*_ban_partenaire/
 ||soonnight.com/intro.php?
-||soonnight.com/template/page/pub/
-||soonnight.com/template/purr/
-||soonnight.com/template/skins/*/images/skin.jpg
-||soonnight.com/template/skins/*/skin.css
-||soonnight.com/template/skins/*_ovh_$image
-||soonnight.com/template/skins/1/images2/miniban_funradio.jpg
 ||soonnight.com^*/bande_partenaires.png
 ||sortir-prod.s3.amazonaws.com/uploads/annonce/
 ||sosvirus.net/wp-content/uploads/*336x*.png
