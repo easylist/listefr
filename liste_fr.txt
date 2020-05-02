@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: dCBEE2JYDC8NQ4WcfyYQzg
-! Version: 202005021607
+! Checksum: BVOJNZ4v2B5mKgWo0A/Omw
+! Version: 202005021614
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12708,6 +12708,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||streamay.co/fply.html
 ||streambox.club/jsfeed/
 ||streamcomplet.*/play.php?$popup
+||streamcomplet.vet^*_redirect_$popup
 ||streamcomplet.xyz/img/a/
 ||streamcomplet.xyz/popup/
 ||streaming-series.me/my.php
