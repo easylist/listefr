@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Y7NxuWyvL/GAr2vhG+7dqw
-! Version: 202005180001
+! Checksum: DzHXuorlnzhPy93Ex/Zc6w
+! Version: 202005180016
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12457,6 +12457,9 @@ $other,domain=dood.watch
 ||nouvelobs.com/les-bons-plans-shopping/
 ||nouvelobs.com^*/iframe-boxes/
 ||nouvelobs.com^*/partenaria
+||numerama.com/content/*/ban-expressvpn.
+||numerama.com/content/*/incontent-expressvpn.
+||numerama.com/content/*/sidebar-expressvpn.
 ||numerama.com/content/themes/*habillage_
 ||numeric.dz/IMG/swf/NUMERIC_KIA_MOTORSE_
 ||objectifgard.com/wp-content/uploads/*-banniere
@@ -17708,6 +17711,7 @@ gamekult.com##.mpubas-wrapper
 hds-stream.com,illimitestreaming.net##.myButton
 hds-stream.com##.mydll
 tchatche.com##.native-banner
+cyberguerre.numerama.com##.native.ic-native
 agroligne.com##.nbs-flexisel-container
 directvelo.com##.news-banner
 porndoe.com##.news-ticker-wrap
