@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 8Szpi31zxyKWeJzP1d1B5A
-! Version: 202005202018
+! Checksum: OPxGMWxsEveZdgRHp3vm1Q
+! Version: 202005202044
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12924,6 +12924,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||thepiratebay.cr^$script
 ||thepiratebay.red^$script
 ||there.to/asset/rev/
+||thesiteoueb.net/uploads/banniere/
 ||thevid.*/style/medio/
 ||thevideo.$subdocument,domain=thevideo.ch|thevideo.io|thevideo.me|thevideo.us|vev.io|vev.red|vidop.icu|vidup.io|vidup.tv
 ||ti.bank.free.fr/images/jarrety
@@ -18599,6 +18600,7 @@ sketchucation.com#?#.post:-abp-has(.postprofile:-abp-has(strong:-abp-contains(Ad
 starbike.com#?#.post.has-profile:-abp-has(.postbody:-abp-has(.adsbygoogle))
 t9.vc,torrent09.uno,torrent9.ai,torrent9.cz,torrent9.is,torrent9.so,torrent9.sx#?#div[style]:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
 t9.vc,torrent09.uno,torrent9.ai,torrent9.cz,torrent9.is,torrent9.so,torrent9.sx#?#table[style]:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
+thesiteoueb.net#?#.panel:-abp-has(.panel-heading:-abp-has(.panel-title:-abp-contains(Publicité)))
 tourmag.com#?#.wm-module:-abp-contains(Contenu sponsorisé)
 tourmag.com#?#.wm-module:-abp-has(a[href^="https://www.hoteletlodgepro.biz/"])
 tsa-algerie.com#?#.jwpv-desktop:-abp-contains(Publicité)
