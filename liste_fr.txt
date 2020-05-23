@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 6SUK9+whLMxTkAJorq7lzw
-! Version: 202005231839
+! Checksum: FaU4dMwJlaRucwo85P9rVQ
+! Version: 202005231858
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -16716,6 +16716,7 @@ amazon.fr###DAadrp
 amazon.fr###DAr2
 journaldelenvironnement.net###ExpoPermanente
 lefigaro.fr###Fe_Gigaban
+forumconstruire.com###ForumconstruireHB_ATF_300x600
 dsih.fr###Hab_banner
 caradisiac.com###Habillage1
 caradisiac.com###Habillage2
@@ -18566,7 +18567,7 @@ dzgeek.com#?#li + .postbit:-abp-has(img[src$="/avatars/partenaire.png"])
 ebay.fr#?#.sresult:-abp-has(.promoted-lv)
 ebay.fr#?#[id^="nume_html_"]:-abp-has(.mfe-card-group:-abp-has(.mfe-card-group-title:-abp-contains(sponsorisées)))
 ebay.fr#?#[id^="nume_html_"]:-abp-has(.mfe-header:-abp-has(.mfe-pull-left:-abp-contains(sponsorisés)))
-forumconstruire.com#?#div.post_classic:-abp-has(.post_classic_pseudo:-abp-contains(Autopromo))
+forumconstruire.com#?#.post_simple:-abp-has(.postsimple_pseudo:-abp-contains(/Auto-promo|Autopromo/))
 forumpiscine.com#?#div[id][class^="postbox_forum_"]:-abp-has(.forum_pseudo_contener:-abp-contains(Autopromo))
 frandroid.com#?#.container_native_home-list:-abp-has(.aligot-icon)
 frandroid.com#?#.home_bloc_zh:-abp-has(.aligot-icon)
