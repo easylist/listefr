@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: UaLyKsyZFKeIwcd6xs3Yrw
-! Version: 202006080339
+! Checksum: DtLL1sZYnY+OvGSp96LmZw
+! Version: 202006080452
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2826,12 +2826,14 @@ digitalocean.gif|
 /bk_lder.php
 /ex_loader.js
 /exa/fron_
+/exo/ExoNative
 /frond_der.js
 /frontend_loader.$script
 /frontend_loador.$script
 /frontendz_loader.
 /gofd_fl.js
 /milfs/floader.js
+/nb/thejsfile.js
 /neverblock-
 /neverblock/*
 /njs/*?z=*&sub=
@@ -4316,6 +4318,7 @@ debugger:$popup
 ||fgn.me^$third-party
 ||fhserve.com^$third-party
 ||filestatic.xyz^$third-party
+||filexan.com^$third-party
 ||findadvertise.com^$third-party
 ||findgoogl.com^$third-party
 ||findyourpussy.net^$third-party
@@ -4496,6 +4499,7 @@ debugger:$popup
 ||koodoo.net^$third-party
 ||koqtrn1b.site^$third-party
 ||kreaffiliation.com^$third-party
+||krenovo.online^
 ||ksplayer.com^$third-party
 ||kyoads.com^$third-party
 ||laborates.com^$third-party
@@ -5329,6 +5333,7 @@ debugger:$popup
 ||youwatchtab.com^$third-party
 ||youzapping.com^$third-party
 ||yoyadsdom.com^$third-party
+||ys1pve.site^
 ||yume.com^$third-party
 ||yunbofangbt.com^$third-party
 ||yx-ads*.com^$third-party
@@ -9634,6 +9639,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||cadremploi.fr/assets/widgets/$third-party
 ||call-of-passion.com/banner/
 ||camgasm.com/affiliates/
+||camsaim.com^*&campaign=$third-party
 ||camsoda1.com/promos/$third-party
 ||camtempel.com/banner/
 ||canaljeuvideo.com/var/storage/habillages/
