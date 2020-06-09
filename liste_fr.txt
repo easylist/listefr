@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: OESqIrUPmP3UX4NWXkrejA
-! Version: 202006091934
+! Checksum: zTG/yV77tpA2UWBl3mbx8w
+! Version: 202006092104
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -11472,6 +11472,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||cheminots.net/forum/uploads/*/B3F0CA1B-1340-4BCC-A1FE-7250D6ABB2B0.jpeg
 ||cheminots.net/forum/uploads/*/banniere_
 ||chilitag.cloudapp.net^
+||chine.in/lk090620/
 ||chine.in/regie
 ||choisir-ses-lunettes.com^*/banners/
 ||choisir-ses-lunettes.com^*/bannieres/
@@ -17854,6 +17855,7 @@ ad4.fr##.nicebtn
 echoroukonline.com##.no_design
 jolpress.com##.node-banner
 futura-sciences.com##.nomatch > ul > li[id^="post_"]
+chine.in##.nomobile[style="float:right;"]
 msn.com##.non-empty-ad
 moteurs-regionaux.com##.normalCoupProjo
 valeursactuelles.com##.nos-partenaires
@@ -18671,6 +18673,7 @@ people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ifp.re,pfiramz.biz,pframe.eu,piframe.eu,plink.re,prfr.re,prifr.eu,protect-iframe.com,smed79pauvretache.eu,smed79pisseuse.eu,smed79tocard.eu##video
 youporn.com##video[autoplay][loop]
+||chine.in/lk090620/
 ! xooit.com
 1freebb.com,babaorum.info,bboard.it,bestforum4u.com,bestforumforyou.com,bestoof.com,bestthread.com,bigboardlive.com,bigforum4you.com,boardforyou.com,cforum.info,clicforum.com,clicforum.fr,coolforum.info,discuforum.info,discussionforyou.com,ebboard.com,fansforum.info,forum-box.com,forumdesfans.com,forumforever.com,forumserv.com,forumuslim.com,hereboard.com,hotforum4u.com,hotforumonline.com,leforum.cc,leforum.eu,leforum.tv,level52.com,lolforum.com,lolforum.info,majz.com,myforumlive.com,newforumlive.com,ogameteam.com,phpboard1.com,positiforum.info,quickforum.info,smileforum.info,soforums.com,theforumcity.com,topbboard.com,urtopic.com,vraiforum.com,webrpg.info,xoo.it,xooit.be,xooit.biz,xooit.cc,xooit.co.uk,xooit.com,xooit.eu,xooit.fr,xooit.info,xooit.org,xooit.org.uk,xooit.tv##body > div[id][style*="z-index: 99999999; height: 92px; width: 100%;"]
 ##iframe[style="border: 0; width: 728px; height: 110px;"]
@@ -18689,8 +18692,8 @@ amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com,senscritique.com,seriehentai.c
 annuaire-telechargement.com,extreme-down.ninja,extreme-download.ninja,t9.vc,torrent09.uno,torrent9.ai,torrent9.cz,torrent9.is,torrent9.so,torrent9.sx,zone-annuaire.com,zone-telechargement.net,zone-telechargement.stream,zone-telechargement.to,zone-telechargement1.world,zone-telechargement9.com#?#a:-abp-contains(/ANONYME|Anonyme|anonyme|RAPIDE|Usenet|VPN|Vpn/)
 businessinsider.fr#?#.post-nonfeatured:-abp-has(.title-studio:-abp-contains(Contenu Sponsorisé))
 ccm.net#?#.ccm_list_catch__item:-abp-contains(Sponsored)
-chine.in#?#a:-abp-contains(/PARTENAIRE|PUB/)
-chine.in#?#div[style^="width:300px;height:250px;"]:-abp-contains(/PARTENAIRE|PUB/)
+chine.in#?#a:-abp-contains(/ANNONCE/BOUTIQUE/PARTENAIRE|PUB/)
+chine.in#?#div[style^="width:300px;height:250px;"]:-abp-contains(/ANNONCE/BOUTIQUE/PARTENAIRE|PUB/)
 cnetfrance.fr#?#.riverPost:-abp-has(.tag-desktop:-abp-contains(Publicité))
 commentcamarche.com,commentcamarche.net#?#.ccm_list_catch__item:-abp-contains(Annonces)
 discordbots.org,top.gg#?#.bot-card:-abp-has(.lib:-abp-contains(Promoted))
