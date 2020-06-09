@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 1yHEZ+NgqAXJwoADVENMuw
-! Version: 202006091718
+! Checksum: b4GGrwf3+l/q12DLQ/6tnw
+! Version: 202006091743
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -15090,6 +15090,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.ads_vert
 ##.adsbanner
 ##.adsblockpop
+##.adsbygoogle-wrapper
 ##.adsbygoogle_desktop
 ##.adsbygoogle_h_250
 ##.adsbygoogle_wrap
@@ -18668,6 +18669,8 @@ korben.info#?#div > hr + article.type-post:-abp-has(header:-abp-has(a[href^="htt
 korben.info#?#div > hr + article.type-post:-abp-has(header:-abp-has(a[href^="http://bitly.com/"]))
 lemonde.fr#?#.area--ops:-abp-has(p:-abp-contains(Contenus partenaires))
 lemonde.fr#?#.bd__bloc:-abp-has(.bd__header:-abp-contains(Barnebys.fr))
+linfoweb.com#?#.isnotmobi:-abp-has(a:-abp-contains(sponsorisé))
+linfoweb.com#?#tbody:-abp-has(i:-abp-contains(sponsorisé))
 macommune.info#?#.box_article:-abp-has(.is-text-publi-infos)
 macommune.info#?#.widget_article:-abp-has(.title_widget:-abp-contains(/PUBLI INFO|Publi-info/))
 maison-islam.com#?#aside:-abp-has(.widget-title:-abp-contains(Publicité))
