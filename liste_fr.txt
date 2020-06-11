@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: SpJy+jxfVczXK+Ncrv+M3w
-! Version: 202006112047
+! Checksum: Aw5fVuzS7/Fc5DepPJmAVg
+! Version: 202006112103
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1304,6 +1304,8 @@
 /block.*/rotator-$script,third-party
 /block.*/rotator/$script,third-party
 /blockadvertising/*
+/blockpubcarree.
+/blockpubcarree2.
 /blog/ads_
 /bn/728/*
 /bn_bnad_
@@ -15360,6 +15362,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.block_pub1
 ##.block_pub2
 ##.block_small_pub
+##.blockpubiframe
 ##.blocpub
 ##.blocpubbas
 ##.border-box-ad
@@ -17221,7 +17224,7 @@ les-reponses.fr###pann_bas
 lemonde.fr###panneau-programme-emploi
 saucissonsexe.com###paragraphe
 aujourdhui-en-france.fr,leparisien.fr###parisien-partenaires
-geoflotte.com,judgehype.com,redlist-ultimate.be,soonnight.com###partenaire
+geoflotte.com,judgehype.com,redlist-db.be,soonnight.com###partenaire
 tube-teen.fr###partenaire_img
 tube-teen.fr###partenaire_link
 batiactu.com###partenaire_premium
@@ -18583,7 +18586,6 @@ cheznous.fr,tikiwin.com##div[style*="width:728px; height:90px;"]
 tayo.fr##div[style*="width:728px;"]
 stream365.pro,vip7stream.pw##div[style*="z-index:"]
 voyageforum.com##div[style="display: block; margin-top: 0px; width: 836px; margin-bottom: -7px; height: 285px;"]
-redlist-ultimate.be##div[style="display:none;"] + .block
 photofunky.net##div[style="float:left; width:100%; clear:both; margin-bottom:10px; text-align:center; height:90px;"]
 androidpit.fr##div[style="float:left; width:976px; line-height:0; min-height:90px; margin-bottom:5px; text-align:center;"]
 douniamusic.com##div[style="float:left;width:500px;height:300px;"]
