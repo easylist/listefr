@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AKZ/Nbr+PgX68i1Al9UL1A
-! Version: 202006112033
+! Checksum: gCCZYW3ckDuJvXXr1zpaOw
+! Version: 202006112042
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4042,7 +4042,6 @@ debugger:$popup
 ||buporez.xyz^$third-party
 ||bursttraffic.net^$third-party
 ||businesswithchina.pw^$third-party
-||buswabowro.xyz^$third-party
 ||buy-targeted-traffic.com^$third-party
 ||buzzvet.com^$third-party
 ||bvmvd.com^$third-party
@@ -4660,11 +4659,8 @@ debugger:$popup
 ||myxpass.net^$third-party
 ||myxpub.com^$third-party
 ||n*adserv.com^$third-party
-||n1*adserv.com^$third-party
-||n1*adserv.xyz^$third-party
+||n*adserv.xyz^$third-party
 ||n1.webedia.fr^$third-party
-||n2*adserv.com^$third-party
-||n339adserv.com^$third-party
 ||nadstive.com^$third-party
 ||namesakeoscilloscopemarquis.com^
 ||narjesmedia.com^$third-party
@@ -7615,9 +7611,21 @@ debugger:$popup
 ||smpbhfiwr.com^
 ||uaadi.com^
 ||vornz.com^
-!
+! n*adserv
+||aj1017.online^
+||clalaviluc.xyz^
+||crephorure.xyz^
+||frodalupri.xyz^
+||gajomusiju.xyz^
+||kapronucra.xyz^
+||lichawadre.xyz^
 ||nuphewrich.xyz^
+||probrabeuo.xyz^
+||repochuwra.xyz^
+||ribrabache.xyz^
 ||stakiwrisl.xyz^
+||stospubede.xyz^
+||trunokochu.xyz^
 ||wrislopeda.xyz^
 ! getPublica
 ||arskwmlh.com^
@@ -16707,7 +16715,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href^="https://platform.jsecoin.com/?"]
 ##a[href^="https://r.ligatus.com/"]
 ##a[href^="https://recommendedforyou.xyz/"]
-##a[href^="https://repochuwra.xyz/"]
 ##a[href^="https://s.vimple.tv/"]
 ##a[href^="https://secure.securitetotale.com/"]
 ##a[href^="https://shop.spyoff.com/signup/mb?packageId="] > img
