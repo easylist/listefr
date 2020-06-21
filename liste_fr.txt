@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: RE/lHXiVzvPqYW76hToRPw
-! Version: 202006211737
+! Checksum: JZUylU+Fyco/FRCA386SZA
+! Version: 202006211811
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1838,6 +1838,7 @@
 /phpadclick.
 /phpbb_ads/*
 /player.*?adSetCode=
+/player/*/ads.
 /player/jw/ad.js
 /player/jw/ads.js
 /player_ad.
@@ -15413,6 +15414,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.closeStartAdZone
 ##.co-ads
 ##.col-advert
+##.col-droite-pub-milieu
 ##.column_in_pub
 ##.common-ad-styling
 ##.container-ad
@@ -17641,7 +17643,6 @@ yahoo.com##.classickick
 test-mobile.fr##.clickleft
 test-mobile.fr##.clickright
 test-mobile.fr##.clicktop
-futura-sciences.com##.col-droite-pub-milieu
 seloger.com##.col_right__service
 lequipe.fr##.colblock__item--promo
 mediadico.com##.cold-bloc-video-generique
@@ -17874,7 +17875,6 @@ tsa-algerie.com##.newsfeed__ooredoo
 ad4.fr##.nicebtn
 echoroukonline.com##.no_design
 jolpress.com##.node-banner
-futura-sciences.com##.nomatch > ul > li[id^="post_"]
 chine.in##.nomobile[style="float:right;"]
 msn.com##.non-empty-ad
 moteurs-regionaux.com##.normalCoupProjo
@@ -18997,7 +18997,6 @@ aep-hypnose.com,cnar.fr,vbqf.fr#@##adhesion
 bulleforum.net,les-ziboux.rasama.org#@##ads_fullsize
 lespep.org#@##container-ad
 fichier.net#@##contentAd
-futura-sciences.com#@##header-pub
 www.facebook.com#@##pagelet_advertiser_panel
 whatpub.com#@##pub-footer
 maghreb.space#@##pub-haut-adblock
