@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: m879dt0Jrp+ujCOsUyw+6A
-! Version: 202006221949
+! Checksum: KJK8oq+akhEn31MIZQ8K2A
+! Version: 202006221955
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18002,6 +18002,7 @@ iphonetweak.fr##.pub-img
 toplien.fr##.pub-index-gauche
 bdgest.com,bedetheque.com##.pub-interne-top
 lematin.ma##.pub-medium
+118712.fr##.pub-oan-hp
 yabiladi.com##.pub-read
 lequipement.fr##.pub-revendeur
 francebleu.fr##.pub-sidebar
@@ -18707,6 +18708,7 @@ youporn.com##video[autoplay][loop]
 onvasortir.com,urbeez.com###pub_leaderboard
 ! Filtres de propriété CSS pour Adblock Plus
 narcity.com##.article-thumbnail:-abp-has(.sponsored-mention)
+118712.fr#?#article:-abp-has(.pro:-abp-contains(Annonce))
 1fr1.net,3oloum.com,7olm.org,ahladalil.com,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,forum-gratuit.net,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumalgerie.net,forumpro.fr,forums-actifs.com,gid3an.com,jordanforum.net,lebonforum.com,own0.com,passionmilitaria.com,superforum.fr,syriaforums.net,yoo7.com#?#.post:-abp-has(.postprofile:-abp-contains(Contenu sponsorisé))
 20min.ch#?#.clusterTop:-abp-has(.teaser:-abp-has(h3:-abp-contains(Paid Post)))
 allocine.fr#?#.news-card:-abp-contains(Sponsorisé)
