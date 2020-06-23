@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: iA+dyWYoEHEPRL3tBUS0Cg
-! Version: 202006231949
+! Checksum: EStpWsqoXpMPUiWUH4h7fg
+! Version: 202006232000
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -3468,6 +3468,7 @@ _zoneid=*/rel/index.cfm?$popup
 /\/watch\?key\=([0-9a-f]{32})$/$popup,third-party
 /^http:\/\/[0-9a-z\-]+\.[a-z]{6,8}\.ru\/js\/[0-9a-zA-Z%]{450,}$/$popup,third-party
 /^http:\/\/[0-9a-z]+\.ru\/go\/[0-9a-f]{22}\?.*\&vid\=/$popup,third-party
+/^https?:\/\/(.*)\/(\d{5,6})\/\?scontext_r=/$popup,third-party
 /^https?:\/\/([0-9a-z]){5,14}\.(com|info|xyz)\/[0-9a-z]{5,15}\?(.*)&refer=(.*)%(.*)&key=[0-9a-z]{32}(.*)&adb=/$popup
 !
 data:*text*/*html*,$popup
@@ -8603,6 +8604,7 @@ debugger:$popup
 ||clofferap.com^$popup
 ||clotraiam.website^$popup,third-party
 ||cobalten.com^$popup,third-party
+||cogleapad.com^$popup
 ||coloredview.com^$popup,third-party
 ||cometstar.net^$popup,third-party
 ||companypolicyurl.com^$popup,third-party
@@ -8805,6 +8807,7 @@ debugger:$popup
 ||ichlnk.com^$popup,third-party
 ||idhad.com^$popup,third-party
 ||ihosetch.com^$popup
+||ilkmawgod.site^$popup
 ||illyx.com^$popup,third-party
 ||ilovemobi.com^$popup,third-party
 ||im.mobsweet.com^$popup,third-party
