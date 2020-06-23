@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: h7EeW9+t+K649mhzmy3BGw
-! Version: 202006231905
+! Checksum: RcqZd1gCZ2hdO8MkeIzdLA
+! Version: 202006231915
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -9167,6 +9167,9 @@ debugger:$popup
 ||scredir10.com^$popup,third-party
 ||scripmode.info^$popup,third-party
 ||scriptall.tk^$popup,third-party
+||search-converter.com^$popup
+||searchdimension.com^$popup
+||searchmulty.com^$popup
 ||secure-cloud.pro^$third-party
 ||secure.securitetotale.com^$popup,third-party
 ||secure.securitetotale.fr^$popup,third-party
@@ -9233,6 +9236,7 @@ debugger:$popup
 ||stoceezes.pro^$popup
 ||stream-all.com^$popup
 ||stream4stream.com^$popup,third-party
+||streamall-search.com^$popup
 ||streaming-serie.xyz^$popup,third-party
 ||stripchat.com^$popup,third-party
 ||strongboxes.xyz^$popup,third-party
