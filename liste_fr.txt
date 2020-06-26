@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gEW7kpVnHTk5yAihguJeng
-! Version: 202006261818
+! Checksum: zZ53yLg7oYUXkD/K9B3dkQ
+! Version: 202006261916
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2147,6 +2147,7 @@
 /regie_pub/*
 /regiepub/*
 /regietrk.
+/rek.*&zoneid=
 /rekban.php
 /rekladv/*
 /reklamm.js
@@ -10639,6 +10640,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||sexytube.com/affiliates/$popup
 ||sfo2.ktcdn.xyz/950x250.jpg
 ||sfr.fr/eTagP/hab.jsp
+||sfstatic.net/build/experiment/promoBlock-
 ||sftcdn.net^*/img/ablock/
 ||sg-autorepondeur.com/bannieres/
 ||shareasale.com/sale.cfm?amount=
