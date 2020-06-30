@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: F1AEF6NdbCvr6/ErznMQQA
-! Version: 202006301949
+! Checksum: 0ukYz+/Lr7Gj9h6/5/mSMw
+! Version: 202006302009
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18341,6 +18341,8 @@ korben.info##[data-cfpa]
 jeu.fr##[data-fallback-type="image"]
 tripadvisor.fr##[data-feed-reason="SPONSORED"]
 films-telecharger.eu##[data-hash]
+lemonde.fr##[data-partner="bienici"]
+lemonde.fr##[data-partner="gymglish"]
 youporn.com##[href*="./"]
 meteofrance.com##[href*=".xiti.com"] > img
 skytorrents.lol##[href^="https://www.skytorrents.lol/vpn-"]
