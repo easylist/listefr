@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: m6+wDO8J9aKNOLbr2CA8Cw
-! Version: 202007051957
+! Checksum: k4adD5bnJR1fsRxrnRzg2g
+! Version: 202007052019
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -10374,6 +10374,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||movietrailer.click^$subdocument
 ||mozoo.go2cloud.org^
 ||msecnd.net^*.gif$domain=jeux.com
+||multinews.me/produit/$popup
 ||multisurf.fr/upload/bannieres/
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
 ||mwzip.com/banner.
