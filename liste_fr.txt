@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Y7WnIlR6ESP/ZV3D2jVuLw
-! Version: 202007052123
+! Checksum: gEin0KAfsoslBSUFaXbnEw
+! Version: 202007052124
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17598,6 +17598,7 @@ neko-sama.fr##.aff-wrapper
 ed-protect.org##.affichier_lien > tbody > tr + tr[class]
 mvideoporno.xxx##.affiliate
 nestoria.fr##.afsDiv
+multiup.eu,multiup.org##.alert-info
 detecteur.net##.alert-warning
 algerianmag.com##.alger-in
 homecinema-fr.com##.aliencable-link
@@ -18638,7 +18639,6 @@ maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
 4k-stream.net,4k-streaming.com,french-stream.eu,french-stream.work,hd-stream.fr##a[target="_parent"]
 footpy.fr##a[target^="_blank"] > [style="width:303px"]
 footpy.fr##a[target^="_blank"] > [style="width:584px"]
-multiup.eu,multiup.org##alert-info
 gamergen.com,generation-nt.com##article .product
 tchatche.com##banner
 auto-utilitaire.com,mobilealgerie.com##body > a > img
