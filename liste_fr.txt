@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 1XgI5G/bMQ3zpHVRfchReQ
-! Version: 202007082204
+! Checksum: 4p0Tct067ezOD0tNZQPHIw
+! Version: 202007082206
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -16500,10 +16500,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a > #bg-ad
 ##a[class^="adsbutt_"]
 ##a[class^="mn-container-adsby"]
-##a[hre^="http://adtrack01.com/"]
-##a[hre^="https://ad.propellerads.com/"]
-##a[hre^="https://publishers.propellerads.com/#/"]
-##a[hre^="https://www.ucoz.net/?pguid="]
 ##a[href$="?id=300x250"][target="_blank"] > img
 ##a[href$="?id=728x90"][target="_blank"] > img
 ##a[href*="%2Fapi%2Fmpup%2F"]
@@ -16731,6 +16727,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href^="http://ads.reflexcash.com/"]
 ##a[href^="http://ads.wui.fr/"]
 ##a[href^="http://ads2.contentabc.com/"]
+##a[href^="http://adtrack01.com/"]
 ##a[href^="http://adv-mylegend."]
 ##a[href^="http://adv-myninja."]
 ##a[href^="http://adv-mypirate."]
@@ -16848,6 +16845,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href^="https://1fichier.com/?af="] > img
 ##a[href^="https://1xbet.sn/fr/?bf="] > img
 ##a[href^="https://ad.apps.fm/"]
+##a[href^="https://ad.propellerads.com/"]
 ##a[href^="https://admin.thrixxx.com/affiliates/"]
 ##a[href^="https://ads.regie24h00.com"]
 ##a[href^="https://app.monetizze.com.br/"]
@@ -16882,6 +16880,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href^="https://partner.zenmate.com/"]
 ##a[href^="https://plarium.com/"]
 ##a[href^="https://platform.jsecoin.com/?"]
+##a[href^="https://publishers.propellerads.com/#/"]
 ##a[href^="https://r.ligatus.com/"]
 ##a[href^="https://recommendedforyou.xyz/"]
 ##a[href^="https://s.vimple.tv/"]
@@ -16913,6 +16912,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href^="https://www.my-privacy-protection.com/"]
 ##a[href^="https://www.terraclicks.com/"]
 ##a[href^="https://www.tocontent.net/"]
+##a[href^="https://www.ucoz.net/?pguid="]
 ##a[href^="https://www.winamax.fr/landing/landing_leads.php?"] > img
 ##a[onclick*="/adserver/iframe?"]
 ##a[onclick*="FriendlyDuck.com"]
