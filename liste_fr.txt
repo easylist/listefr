@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: xIm+WEpZDArBpHYp8VW6jw
-! Version: 202007082133
+! Checksum: oHnjLyF17VQsn3bwocILnQ
+! Version: 202007082150
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -5424,12 +5424,13 @@ debugger:$popup
 ||pblv-scoop.cf^$~image,third-party
 ||pblv-scoop.tk^
 ! propellerads
-/^https:\/\/[0-9a-z]{5,12}\.(club|com|cz|info|me|pro|review|xyz)\/asset\/barr\.js\?a\=\d\&_\=\d{12,16}/$script,xmlhttprequest
-/^https:\/\/[0-9a-z]{7,15}\.(com|net)\/custom\?tid\=[0-9a-f]{8}-([0-9a-f]{4}\-){3}[0-9a-f]{12}$/$script,third-party,xmlhttprequest
-/^https:\/\/[0-9a-z]{7,15}\.(com|net)\/index\.css\?[0-9a-zA-Z]{64,}\=$/$stylesheet,third-party
 /^https?:\/\/[0-9a-z\-]+\.(click|club|com|cricket|bid|date|download|life|link|men|network|online|party|racing|review|site|space|stream|top|trade|uk|webcam|website|win|xyz)\/[0-9]{1}\/[0-9]{7}\/\?var\=[0-9]{7}$/$popup,third-party
 /^https?:\/\/[0-9a-z\-]+\.(com|net)\/[0-9]{1}\/[0-9]{7}$/$popup,third-party
 /^https?:\/\/[0-9a-z\-]+\.(com|net)\/[0-9]{5,8}\.html\?q$/$popup,third-party
+/^https?:\/\/[0-9a-z]{5,12}\.(club|com|cz|info|me|pro|review|xyz)\/asset\/barr\.js\?a\=\d\&_\=\d{12,16}/$script,xmlhttprequest
+/^https?:\/\/[0-9a-z]{7,15}\.(club|com|info|net|pro)\/\d{3}\/\d{6,8}\?excludes\=(.*)(&[cfstw])/$script,third-party,xmlhttprequest
+/^https?:\/\/[0-9a-z]{7,15}\.(com|net)\/custom\?tid\=[0-9a-f]{8}-([0-9a-f]{4}\-){3}[0-9a-f]{12}$/$script,third-party,xmlhttprequest
+/^https?:\/\/[0-9a-z]{7,15}\.(com|net)\/index\.css\?[0-9a-zA-Z]{64,}\=$/$stylesheet,third-party
 ||059e025e7484.com^
 ||080jxrab.top^
 ||0879dbbeb31e0c83d.com^
