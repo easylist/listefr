@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: n0I/h61DvPSJMxicgcfefQ
-! Version: 202007092154
+! Checksum: XScD3LqvB7RomhOu3FDHvw
+! Version: 202007092211
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -7487,6 +7487,11 @@ debugger:$popup
 ||zxwiejfbyr.com^
 ! bullads
 ||bgn2zqlce1eiya.icu^
+||bullhouse.network^
+||cmtmzvrku9uae.host^
+||d2vybwwevieya6j.monster^
+||jumpsite.vip^
+||kdjkfjekrkjer.xyz^
 ||zwdzm8egrhiadwu.website^
 ! popmyads
 ||imzahrwl.xyz^
@@ -7876,6 +7881,7 @@ debugger:$popup
 /safelinkconverter.js
 /scripts/miner.js
 /seed.bitcoin.
+/seed.btc.
 /simple-miner-
 /simple-monero-
 /sparechange.js
