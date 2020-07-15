@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: aGU8IlGLFxhm77guWfeEHw
-! Version: 202007152100
+! Checksum: iWKxFAF5VGtunh5naYZgtQ
+! Version: 202007152105
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1986,6 +1986,7 @@
 /pub/*/ad.
 /pub/*/ads.
 /pub/*/banniere_
+/pub/*/habillage.$image
 /pub/*_300x600.
 /pub/300.
 /pub/300600/*
@@ -11814,6 +11815,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||dzsat.org/images/pubicosium.gif
 ||e-jeune.net/flash/360x250_
 ||e-jeune.net/flash/banniere-
+||e-jeune.net/images/pub/
 ||e-mazal.com/images/banp2.gif
 ||e-mazal.com/images/MacaronBOW.gif
 ||e-orientations.com/bdd/habillage/
@@ -18025,6 +18027,7 @@ cine-media.fr##.lienbackground
 foot01.com##.lig
 trackitonline.org,trackitonline.ru##.liketable
 pagesjaunes.fr##.linkPushEmbauche
+e-jeune.net##.link_cover
 voir-films.com##.links-bottom
 voir-films.com##.links-top
 mavieencouleurs.fr##.list-brands-carousel
