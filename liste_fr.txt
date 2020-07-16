@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: NX4r0lSf1+YGBMYwHFIt3A
-! Version: 202007162227
+! Checksum: ww6Aukoqm39meiU8664gcQ
+! Version: 202007162233
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -19159,8 +19159,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||ajax.googleapis.com/ajax/libs/$script,domain=0xxx.ws|9anime.to|9xbuddy.com|9xbuddy.org|9xlinks.net|activetect.net|adf.ly|adshr.ink|adshrinks.com|american-dad-streaming.com|android-zone.org|anime-loads.org|animekaizoku.com|anitube.cz|atabencot.net|atomcurve.com|atominik.com|auto-login-xxx.com|awanpc.me|ay.gy|babblecase.com|bdcraft.net|biter.tv|bitigee.com|bluenik.com|brightvar.bid|briskgram.net|bypassed.in|byter.tv|cartoonwire.to|casualient.com|cinebo.net|clearload.bid|cocostreaming.co|coginator.com|cogismith.com|cpabien.ws|cpasbien.lol|cpasbien.tf|cpasbien.vg|cpasbien.wf|cpasbien9.net|cracksurl.com|crichd.com|crichd.to|crichd.xyz|cruzing.xyz|dailysport.pw|dailyuploads.net|ddl-island.org|direct-torrents.com|dl-protect1.com|downloadhub.lol|ed-protect.org|emule-island.org|eplstream.xyz|europixhd.com|europixhd.net|ezie.cc|fcine.tv|file-up.org|filmstreaming.buzz|filmstreamz.net|flowyourvideo.com|foumovies.net|fr-streaming.com|fs-stream.com|fullanimefr.com|g5u.pw|gamecopyworld.eu|gdriveplayer.me|gdriveplayer.us|getlink.pro|getsl.me|getsurl.com|gledajonline.net|gloyah.net|gnula.nu|gomostream.com|gsurl.in|gsurl.me|gum-gum-streaming.com|gum-gum-streaming.tv|hdeuropix.io|hdss.to|heures.be|hindipix.in|hours.be|illimitestreaming.net|immunicity.st|ithepiratebay.com|j.gs|japscan.co|jetanime.to|jeuxflash.com|kaitect.com|kializer.com|kibuilder.com|kimechanic.com|kinogo.cc|kinotochka.club|kvid.org|lapremse.fr|larati.net|liens-telechargement.com|manga-vf.fr|mavanimes.co|mcloud.to|microify.com|mmoity.com|moviescounter.io|mp3converter.net|nowvideo.club|official-film-illimite.to|offmp3.app|offmp3.com|onion.ly|onion.pet|openingstijdengids.nl|openingsurengids.be|ouo.io|ouo.press|oxtorrent.co|oxtorrent.com|oxtorrent.me|picocurl.com|picons.eu|pintient.com|piratebayblocked.com|prettyfast.to|protect-stream.com|prox3.info|q.gs|quainator.com|quamiller.com|queuecosm.bid|replaymod.com|restorecosm.bid|revivelink.com|riffhold.com|sapixmedia.com|security-links.com|shink.me|shon.xyz|simizer.com|simpson-en-streaming.com|skamaker.com|skamason.com|softmaroc.org|stream-island.org|stream-vf.com|streamelite.net|streaming-vostfr.com|streamlive.to|streamzt.com|swiftviz.net|t9.vc|the-big-bang-theory-streaming.net|thepiratebay.vip|thouth.net|threadsphere.bid|tinyium.com|topeuropix.com|topeuropix.net|torrent9.ac|torrent9.ai|torrent9.is|tpbprox.com|twineer.com|uclaut.net|ukpass.co|unblockall.org|unblocked2.fun|unblocked2.vip|unblocker.gdn|unblockthe.net|underclassblog.com|universanimeize.com|uppit.com|viahold.com|vializer.com|vidsource.me|vidsrc.me|vidstodo.me|vidto.me|vidto.se|vidtoro.com|viva-stream.net|viwright.com|voir-films.cc|voirfilms.club|voirfilms.film|waaw.tv|waaw1.tv|wawacity.co|wawacity.ninja|xterca.net|yabuilder.com|yamechanic.com|yoalizer.com|yobuilder.com|yoineer.com|yoitect.com|zipansion.com|zo.ee
 @@||api-secure.solvemedia.com/papi/$image,script,domain=clik.pw
 @@||api.peer5.com^$script,domain=vidlox.me|vidlox.tv
-@@||assets.hcaptcha.com/captcha/*&host=$subdocument,domain=gum-gum-streaming.co|jetanimes.co|mirrorace.com|zone-annuaire.com|zt-za.com
-@@||assets.hcaptcha.com/captcha/*/hcaptcha.min.js$script,domain=gum-gum-streaming.co|jetanimes.co|mirrorace.com|time2watch.top|zone-annuaire.com|zt-za.com
 @@||babesxworld.com/js/lazyload.js$script,~third-party
 @@||babesxworld.com/scj/includes/js/jquery.$script,~third-party
 @@||biter.tv/js/jwplayer/jwplayer.js$script,domain=biter.tv|byter.tv
@@ -19187,7 +19185,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||full-serie.com^$script,stylesheet,domain=full-serie.net
 @@||googleusercontent.com/docs/securesc/$xmlhttprequest,domain=hdsto.me
 @@||gslink.co/wp-$image,script,stylesheet,domain=g5u.pw|getsl.me|gsurl.in|gsurl.me
-@@||hcaptcha.com^*/api.js$script,domain=gum-gum-streaming.co|mirrorace.com|zone-annuaire.com|zt-za.com
 @@||indifiles.com/cgi-bin/upload.cgi?$xmlhttprequest,domain=bdupload.asia
 @@||jscloudflare.com/ajax/libs/$script,stylesheet,domain=11anim.com
 @@||justporno.tv/js/lazy.js$script,~third-party
@@ -19237,6 +19234,11 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||gstatic.com/cv/js/sender/v1/cast_sender.js$script
 @@||gstatic.com/recaptcha/$subdocument
 @@||recaptcha.net/recaptcha/$image,subdocument
+! hCaptcha
+@@||assets.hcaptcha.com/captcha/*&host=$subdocument
+@@||assets.hcaptcha.com/captcha/*/hcaptcha.js$script
+@@||assets.hcaptcha.com/captcha/*/hcaptcha.min.js$script
+@@||hcaptcha.com/1/api.js?onload=$script
 !
 !----------------------- Exceptions d'éléments -----------------------!
 !
