@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: fwSHAqHEzkyY6CO49+qFXw
-! Version: 202007201835
+! Checksum: 7b64N5Z1RzcMkNoNFooNtw
+! Version: 202007201838
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18615,6 +18615,7 @@ annuaire-telechargement.com,extreme-down.ninja,extreme-down.video,extreme-downlo
 quedustreaming.com##a[href*="xmediaserve"]
 fdesouche.com##a[href="#"] + img[src^="http://www.hostpic.org"]
 lemonde.fr##a[href="#panneau-programme-emploi"]
+dl-protect.xyz##a[href="/download"]
 corobizar.com##a[href="/g2a-link/"]
 macg.co##a[href="/macg-skross"]
 pmu.fr##a[href="/mon-pmu/easypari"]
