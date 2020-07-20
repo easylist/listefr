@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7b64N5Z1RzcMkNoNFooNtw
-! Version: 202007201838
+! Checksum: eLwImMuGWK9h3tF4/WSSaw
+! Version: 202007201903
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -892,6 +892,7 @@
 /ads16.
 /ads17.
 /ads1a.
+/ads2.
 /ads2a.
 /ads300m.
 /ads360/*
@@ -2405,6 +2406,7 @@
 /wwcAliAff/*
 /www/*&zoneid=
 /xads/publisher_
+/xbanner_728-
 /xbanniere-pub-
 /xcamstools.$third-party
 /xdirect.html?
@@ -13430,6 +13432,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||vodlocker.to/sw-vodlocker.to.js
 ||voidspace.org.uk/images/banners/
 ||vosfemmes.com^$script,subdocument
+||vostfr.club/system/banners/
 ||votrepromo.com/pub-
 ||voxmakers.fr/partenaires/
 ||voyages-sncf.com/ext/editorial/videos/
@@ -14112,6 +14115,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###ad125ul
 ###ad125ur
 ###ad160b
+###ad2-placeholder
 ###ad3
 ###ad336b
 ###ad4
