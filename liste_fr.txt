@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 6rYzRJih4aUVa/D6GfvbUg
-! Version: 202007232214
+! Checksum: HSs/DaiU2/RDRVhFkmz9lw
+! Version: 202007240019
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -54,6 +54,7 @@
 &adv_sub=
 &advertiser=*&campaign=
 &arabycash_
+&campaign_id=*&subAffId=$third-party
 &campaign_key=
 &cbrandom=
 &click_id=*=AD&$subdocument,third-party
@@ -257,6 +258,8 @@
 -popads_
 -popunder-
 -popunders.
+-popup&subid1=
+-popup&subid2=
 -popup/js/vex.js
 -position-ads.
 -promo/ad_
@@ -697,6 +700,7 @@
 /adbetnet.$domain=~adbetnet.com
 /adbkicker.
 /adblock.php
+/adblock/advertisement-
 /adblock_banners/*
 /adblockbanner/*
 /adblockinsert.
@@ -1778,6 +1782,7 @@
 /nginad.
 /nmads_caf_
 /no-banner-$image
+/noaabd/*&promo=
 /noticead/*
 /notify.php?key=$script,third-party
 /novaonads.
@@ -1802,6 +1807,10 @@
 /out?zoneid=
 /outil-dating-affiliation.
 /outil-dating.$third-party
+/outils.*&subid1=$script,subdocument
+/outils.*&subid2=$script,subdocument
+/outils.*/noaabd/
+/outils2.*&aabd2=
 /p_tools/rotation.
 /p_under.
 /p_under_
@@ -1914,6 +1923,7 @@
 /popupyous.js
 /porn_ad.
 /porn_ads.
+/post/*&pstool=*&psid=$third-party
 /prebid-dfp.
 /prebid-dfp/*
 /prebidtad_
@@ -1949,6 +1959,7 @@
 /pu-placer.js
 /pu.*?type=pu&
 /pu/*?psid=
+/pu/?*&psid=*&pstool=$third-party
 /pu/license.$script
 /pu/script.$script
 /pu?psid=
@@ -2115,6 +2126,7 @@
 /pubs/dfp/*
 /pubs/habillage/*
 /pubs_portail/*
+/PubSitesX.
 /pubsky.php
 /pubvw.
 /pulicense.js
@@ -3026,6 +3038,8 @@ _frontend_loader.$script
 %26referrer%*%26cmp%$popup
 %3dadblock_pop%$popup
 &_r=*.adult.&$popup
+&aabd2=outils2.$popup
+&aabd=outils.$popup
 &ad*&affiliateId=$popup
 &ad_*&rotation_$popup
 &ad_domain=$popup
@@ -3296,6 +3310,8 @@ _frontend_loader.$script
 /proxy.php?*/site_id/*$popup
 /pu/*&psid=$popup
 /pu/*_rnd=$popup
+/pu/?*&psid=$popup
+/pu/?*&pstool=$popup
 /pu/?*&site=$popup
 /pu/?*&utm_$popup
 /pu/?*?utm_$popup
@@ -4004,6 +4020,7 @@ debugger:$popup
 ||avenir-affiliation.fr^$third-party
 ||awm.trade^$third-party
 ||awms.ws^$third-party
+||awprt.com^$third-party
 ||awsclic.com^$third-party
 ||azerty.solutions^$third-party
 ||backclick.net^$third-party
@@ -4095,6 +4112,7 @@ debugger:$popup
 ||caramec.com^$third-party
 ||carasexe.com^$third-party
 ||carasexe.info^$third-party
+||carasexe.name^$third-party
 ||carpediem.fr^$third-party
 ||cash-manager.biz^$third-party
 ||cashpage.net^$third-party
@@ -4667,6 +4685,7 @@ debugger:$popup
 ||moxielinks.com^$third-party
 ||mozoo.com^$third-party
 ||mpixeli.com^$third-party
+||mptgate.com^$third-party
 ||mrmserve.com^$third-party
 ||multilinkhost.com^$third-party
 ||mumbai-invest.email^$third-party
@@ -4867,6 +4886,7 @@ debugger:$popup
 ||promobar.tools^$third-party
 ||propadx.com^$third-party
 ||propixelfire.com^$third-party
+||protawe.com^$third-party
 ||prox-go.com^$third-party
 ||prsliders.com^$third-party
 ||prstatics.com^$third-party
@@ -5340,6 +5360,7 @@ debugger:$popup
 ||xclick24.com^$third-party
 ||xdnujiqpvejrydkpddgye.com^$third-party
 ||xfactact.com^$third-party
+||xflirt.com^$third-party
 ||xfore.org^$third-party
 ||xfreeservice.com^$third-party
 ||xiacaidd.com^$third-party
@@ -8822,6 +8843,7 @@ debugger:$popup
 ||dealitright.click^$popup,third-party
 ||delibert.info^$popup,third-party
 ||deliverymodo.com^$popup,third-party
+||delmarmora.pro^$popup
 ||delnapb.com^$popup,third-party
 ||demotrade.org^$popup
 ||derby-digital.com^$popup,third-party
@@ -9350,6 +9372,7 @@ debugger:$popup
 ||safelinktracker.com^$popup,third-party
 ||safeshieldredir.com^$popup,third-party
 ||salesforce.ma^$popup,third-party
+||schjmp.com^$popup
 ||scredir10.com^$popup,third-party
 ||scripmode.info^$popup,third-party
 ||scriptall.tk^$popup,third-party
@@ -9544,6 +9567,7 @@ debugger:$popup
 ||video-on-demand.link^$popup
 ||video1404.info^$popup,third-party
 ||videoroow.com^$popup,third-party
+||videos-baise-porno.com^$popup
 ||viewmoregirls.com^$popup
 ||viiotp.com^$popup
 ||vikings-streaming.fr^$popup,third-party
@@ -9582,6 +9606,7 @@ debugger:$popup
 ||xcams.net^$popup,third-party
 ||xcapps.com^$popup,third-party
 ||xclick24.com^$popup,third-party
+||xflirt.com^$popup,third-party
 ||xfmlp.com^$popup
 ||xfore.org^$popup,third-party
 ||xl415.com^$popup,third-party
@@ -16612,6 +16637,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href*=".brucelead.com/"]
 ##a[href*=".chokoladsrv.net/"]
 ##a[href*=".club/clk?b="]
+##a[href*=".digital2cloud.com/?"]
 ##a[href*=".directtf.fun/"]
 ##a[href*=".directtl.fun/"]
 ##a[href*=".djfiln.com/"]
@@ -16641,6 +16667,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href*=".pub2srv.com/"]
 ##a[href*=".rktch.com/"]
 ##a[href*=".sastech.ru/"]
+##a[href*=".schjmp.com/"]
 ##a[href*=".shglegle.com/"]
 ##a[href*=".smrtgs.com/"]
 ##a[href*=".starsx.fr/"]
@@ -16945,6 +16972,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href^="https://admin.thrixxx.com/affiliates/"]
 ##a[href^="https://ads.regie24h00.com"]
 ##a[href^="https://app.monetizze.com.br/"]
+##a[href^="https://aweptjmp.com/"]
 ##a[href^="https://badoinkvr.com/?"]
 ##a[href^="https://bestapppro.com/"]
 ##a[href^="https://bj1110.online/"]
