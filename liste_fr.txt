@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 8nelCnvsOa0f4bBrQ5Q1yQ
-! Version: 202007272125
+! Checksum: 1gd/JH5/xcTCxdpojt3d3w
+! Version: 202007272145
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -11898,6 +11898,11 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||dynamique-mag.com/images/partenaire/
 ||dzair-info.com/images/1santeb.gif
 ||dzair-info.com/images/algerianewsb.gif
+||dzairmobile.com^*/wp-content/*/habillage_
+||dzairmobile.com^*/wp-content/nassimlouchaniads/
+||dzairmobile.com^*/wp-content/uploads/d728-90-
+||dzairmobile.com^*/wp-content/uploads/instawin_300-250.gif
+||dzairmobile.com^*/wp-content/uploads/izzy-insta.jpg
 ||dzautos.com/swf/
 ||dzentreprise.net/wp-content/uploads/DZEJuner.swf
 ||dzfoot.com/swf/
@@ -14313,6 +14318,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###ads_search_bar
 ###adselector-container
 ###adsence
+###adsense-box-sty
 ###adsense-droite-001
 ###adsense-droite-002
 ###adsense-fiche
@@ -16644,6 +16650,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##[id^="sas_"][style*="width: 300px; height: 250px;"]
 ##[id^="sas_"][style*="width: 728px; height: 90px;"]
 ##[id^="show_ads_"]
+##[id^="sn_ads-"]
 ##[id^="widget_pub-"]
 ##[onclick*="//adserver.adtech.de/"]
 ##[onclick*="/rel/index.cfm?RST="]
@@ -17231,6 +17238,7 @@ dogzer.com###affichage_tag_58
 zikinf.com###album
 akeo.fr###amazon
 millenium.org###amazon_container
+dzairmobile.com###animation_container
 soap-passion.com###annonce
 mcetv.fr###annonce-header
 upp-auteurs.fr###annonce_a
@@ -18424,6 +18432,7 @@ businessinsider.fr##.sidebar-push
 deavita.fr##.sidebar_banner
 clicbienetre.com##.sidebar_block
 tirage-gagnant.com##.sidebarclick
+dzairmobile.com##.sidenav
 francemobiles.com##.simpleoFlashBanner
 quebeccoupongratuit.com##.size_300_250
 quebeccoupongratuit.com##.size_300_600
