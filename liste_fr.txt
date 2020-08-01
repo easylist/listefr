@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 6duZ/EDTwojEgZOh1ATYsQ
-! Version: 202008010336
+! Checksum: hiMZy+2V5yFy0xJhiI40KA
+! Version: 202008012222
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2991,7 +2991,7 @@ _frontend_loader.$script
 ||com/func.js$script,~third-party
 ||com/js/*=.js?r=
 ||com/ntfc.php?p=*&r=$script,third-party
-||com/sw.js?$other,script,~third-party,domain=~gearbest.com
+||com/sw.js?$other,script,~third-party,domain=~gearbest.com|~wire.com
 ||gdn^$script,third-party,xmlhttprequest
 ||gdn^*&campaign_id=$third-party
 ||gdn^*&impid=$third-party
