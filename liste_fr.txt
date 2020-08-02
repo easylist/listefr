@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ujnMHn52V0J7aLUEyyPZww
-! Version: 202008022036
+! Checksum: DOlRqrR7F75dh8WKv1GZPw
+! Version: 202008022054
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1116,6 +1116,7 @@
 /api/ads_
 /api/syndicated/?$third-party
 /apop/js/zone/*
+/app-ads-
 /appwalletad/*
 /apu.php?id=
 /arabyads.
