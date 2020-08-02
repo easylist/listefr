@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: zjCD56cy3YPdFt/93dZZFA
-! Version: 202008021817
+! Checksum: lxf+EmdSufjk1I0iQClbYw
+! Version: 202008021826
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -15996,6 +15996,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.padAdv
 ##.padscreen
 ##.page-cover--ads
+##.page-head-ad
 ##.pageLoadAdBox
 ##.pane-st-dfp-ads
 ##.panel-ads
@@ -18917,7 +18918,7 @@ freemindparlexemple.fr##img[alt="Banniere_ENI"]
 abidjanshow.com##img[alt="PUBLICITE"]
 medialot.fr##img[height="38"][width="300"]
 forum-windows.com##img[height="60"][width="650"]
-forum-windows.com##img[height="600"][width="160"]
+electromenager-compare.com,forum-windows.com##img[height="600"][width="160"]
 dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
 chine.in,fullsharez.com,maison-et-domotique.com,pfiramz.biz,prfr.re,prifr.eu,protect-iframe.com,ratopi.com##img[src*="base64"]
 jpost.com##img[src^="blob:"]
