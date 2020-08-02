@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: DOlRqrR7F75dh8WKv1GZPw
-! Version: 202008022054
+! Checksum: KDmBjZ2T9/DD/C5Kh1Mg9A
+! Version: 202008022127
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4732,6 +4732,7 @@ debugger:$popup
 ||myskyspire.com^$third-party
 ||myspot.fr^$third-party
 ||mytemplatestorage.com^$third-party
+||myvidbid.ovh^$third-party
 ||myway2ch.com^$third-party
 ||mywebsquare.com^$third-party
 ||myxpass.com^$third-party
@@ -9144,6 +9145,7 @@ debugger:$popup
 ||myninja.xyz^$popup,third-party
 ||mystreamdeliveroo.club^$popup,third-party
 ||mystreamdelivery.xyz^$popup,third-party
+||myvidbid.ovh^$popup
 ||mywb.fr^$popup,third-party
 ||mywebsquare.com^$popup,third-party
 ||naruto-gaiden.com^$popup,third-party
