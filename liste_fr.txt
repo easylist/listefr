@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: sjEV5FCgZErvWo8lpKFvBQ
-! Version: 202008022008
+! Checksum: gJ1o4RPGZZ8W1VNZh2zK2Q
+! Version: 202008022022
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2056,6 +2056,7 @@
 /pub_315_250.
 /pub_428x90.
 /pub_72890_
+/pub_728_
 /pub_adblocker_
 /pub_affichage_web/*
 /pub_affiche.
@@ -2775,6 +2776,8 @@ _banner_46860.
 _banner_pub.
 _bannerad2-
 _bannerad2_
+_banniere-300.
+_banniere-468.
 _banniere-728.
 _barre_pub/
 _bnrrotator_
@@ -12011,6 +12014,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||femmeactuelle.fr/dist/img/partner/
 ||ferrarista.fr/forum-ferrari/uploads/referral-$image
 ||ffr.fr/static/partenaires.json
+||fiches-auto.fr/_carre_300_
 ||fifostream.tv/video.html
 ||file-upload.net/include/$subdocument
 ||filecrypt.*/blob/
