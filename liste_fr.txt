@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: flhFaSoG1g0Cgjm7U10Ejg
-! Version: 202008021741
+! Checksum: zjCD56cy3YPdFt/93dZZFA
+! Version: 202008021817
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -3539,6 +3539,7 @@ debugger:$popup
 ||bid^*&subid=$popup
 ||bid^*?affId=$popup
 ||bid^*watch?key=$popup,third-party
+||club^*.php?lpkey=$popup
 ||club^*?affid=*&utm_*&redirect=$popup
 ||club^*?site=*&sub1=$popup
 ||club^*?zoneid=$popup
@@ -7806,6 +7807,7 @@ debugger:$popup
 ||5081.site^
 ||adsrv.wtf^
 ||aelphotog.pro^
+||bestdealfor20.life^
 ||botkano.info^
 ||delascalles.com^
 ||descargacristiana.com^
@@ -7821,6 +7823,7 @@ debugger:$popup
 ||kirkir.xyz^
 ||lhyqor.ru^
 ||lodddd01.info^
+||marketwatchjpm.xyz^
 ||netfoxplus.com^
 ||paraveronline.com^
 ||pelidescarga.com^
@@ -7832,6 +7835,7 @@ debugger:$popup
 ||rydresa.info^
 ||schborg.com^
 ||setbeat.com^
+||sharpguard.club^
 ||simp3.eu^
 ||smitionsory.co^
 ||tallergestion.com^
@@ -8660,6 +8664,7 @@ debugger:$popup
 ||bestadbid.com^$popup,third-party
 ||bestanimegame.com^$popup
 ||bestarmour4u.net^$popup,third-party
+||bestdealfor20.life^$popup
 ||bestdealmedia.click^$popup,third-party
 ||bestgamesilo.com^$popup
 ||bestpprofile.com^$popup,third-party
