@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 94C+VcXJyT7WX/fjQwjYmA
-! Version: 202008022257
+! Checksum: h8eUVACp1l/2zU1WK+zuZw
+! Version: 202008031948
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1447,7 +1447,7 @@
 /dfp_ad/*
 /dfp_server.
 /DfpAd.
-/DfpAd|
+/DfpAd|$domain=~meteomedia.com
 /dfpconf.js
 /dfpSizes.js
 /dfpstuff.js
