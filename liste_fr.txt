@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: QZ3qsMirAo9LM8iz0CSaCQ
-! Version: 202008112138
+! Checksum: oP8h3NmtcJnG8nKdXV96ug
+! Version: 202008112226
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -9701,7 +9701,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||avefront.akamaized.net/extra/static/images/partners/
 ||awhoer.net^*/vpn_
 ||awin1.com/awclick.php?
-||awin1.com^$popup,domain=configspc.com
+||awin1.com^$popup,domain=configspc.com|livefoot.fr
 ||azureedge.net/img/*habillage$third-party
 ||azurewebsites.net/widget/
 ||b-cdn.net/uploads/banners_model/
@@ -12431,6 +12431,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||link.tl/fly/client_a.php?
 ||links.fhsarl.com^$popup,third-party
 ||livecad.net/img/pub_
+||livefoot.fr/1800x1000-affiliation.
 ||livefoot.fr/images/habillage_
 ||lkeria.com/media/Polo-Sedan.jpg
 ||lkeria.com/media/publier-
@@ -14432,6 +14433,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###header-pub
 ###header-pub-banner
 ###header-pub-top
+###headerPUB
 ###headerPub
 ###header_728x90_ad
 ###header_bloc2_pub
@@ -17263,6 +17265,7 @@ autonet.ca###inline + .master-banner
 freenews.fr###insidepic_widget
 loisirados.com###intersticiel
 conseils-courseapied.com###ja-banner
+livefoot.fr###jjj
 lavenir.net###jobat_content
 lemonde.fr###js_deroule_ope
 juritravail.com###jt-footerContainer
