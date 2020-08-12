@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: lO6ZfnC5ma7qeL7PAszMeQ
-! Version: 202008121808
+! Checksum: lw/Y8qbDJPZ4QEFCes6Okw
+! Version: 202008121828
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -6631,7 +6631,6 @@ debugger:$popup
 &uuid=*&refer=*&key=$popup,third-party
 /^https?:\/\/(www\.)?([a-z0-9]{3,10}\.)?[a-z0-9]{5,20}\.(click|co|com|bid|net|online|top|club)\/([a-z0-9]{2,3}\/){3}[a-f0-9]{32}\.js$/$script,xmlhttprequest
 /^https?:\/\/(www\.)?([a-z0-9]{3,10}\.)?[a-z0-9]{5,20}\.(click|co|com|bid|net|online|top|club)\/([a-z0-9]{3,4}\/){3}[0-9]{7}\/[a-z]{3,5}\.js$/$script,xmlhttprequest
-/^https?:\/\/(www\.)?([a-z0-9]{3,10}\.)?[a-z0-9]{5,20}\.(click|co|com|bid|net|online|top|club)\/([a-z0-9]{3}\/){1}[a-f0-9]{32}\.js$/$script,xmlhttprequest
 /^https?:\/\/(www\.)?[a-z0-9]{5,20}\.(click|co|com|bid|net|online|top|club)\/[0-9a-f]{32}\.js$/$script,third-party
 /^https?:\/\/(www\.)?[a-z0-9]{5,20}\.(click|co|com|bid|net|online|top|club)\/[0-9a-f]{32}\/invoke\.js$/$script,xmlhttprequest
 /^https?:\/\/(www\.)?[a-z0-9]{5,20}\.(click|co|com|bid|net|online|top|club)\/[0-9a-z]{8,12}\?key\=[0-9a-f]{32}$/$other,popup,third-party
@@ -12192,7 +12191,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||jackypc.com/bann*.swf
 ||jamsvu.fr/img/*_250x250.
 ||japscan.*/ujs/
-||japscan.*/zjs/
 ||jasonsavard.com/js/jasonsavard.js
 ||jeanmarcmorandini.com/sites/jeanmarcmorandini.com/files/morandinisante.jpg
 ||jemangejemincis.fr/wp-content/uploads/*banner
