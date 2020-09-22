@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: RsC8D90fq28hFTkkkhoixg
-! Version: 202008232354
+! Checksum: yEpLb5WPxQ7GHpJb+Gn6WA
+! Version: 202009221956
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -13241,6 +13241,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||vodlocker.to/sw-vodlocker.to.js
 ||voidspace.org.uk/images/banners/
 ||voir-stream.com/regarder-$popup
+||voirfilms.al/templates/*/habillage
 ||vosfemmes.com^$script,subdocument
 ||vostfr.club/system/banners/
 ||votrepromo.com/pub-
@@ -17645,6 +17646,7 @@ lexpress.fr##.block_partner
 cotemaison.fr,trictrac.net##.block_partners
 mystere-tv.com##.blockrightpub
 aveq.ca##.blog-sidebar a > img
+voirfilms.al##.body-clickable
 trocdestrains.com##.boite-partenaire-v
 liligo.fr##.bottom-banner
 jardiner-malin.fr##.boutiqueAd
