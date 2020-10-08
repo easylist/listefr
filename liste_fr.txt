@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: zmLAJYz3h4QBkns40A4qmg
-! Version: 202009222026
+! Checksum: 34/mMErrcAEaaOp6yjoJZg
+! Version: 202010080050
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -19039,7 +19039,8 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||ssl.p.jwpcdn.com/player/v/$script,stylesheet,xmlhttprequest,domain=allvid.co|anavids.com|arabramadan.com|cartoonwire.to|fcine.tv|french-stream.eu|french-stream.work|frenchstreaming.fr|gdriveplayer.me|gdriveplayer.us|hd-stream.fr|hds-streaming.org|mcloud.to|movcloud.net|onlystream.tv|prettyfast.to|streamty.com|streamup.xyz|supervideo.tv|vidhdr.com|vidia.tv|vidlo.us|vidspeed.net
 @@||st.chatango.com/js/gz/emb.js$script,domain=adkami.com|crichd.com|crichd.to|crichd.xyz|flystream.fr|fullsharez.com|gdriveplayer.us|jetanimes.co|ls-streaming.com|manga-vf.fr|mangas-anime.com|mavanimes.co|otakufr.com|planet-streaming.net|ratopi.com|robindesdroits.me|universanimeize.com|voiranime.com
 @@||st.chatango.com^*/id.html$subdocument,domain=adkami.com|crichd.com|crichd.to|crichd.xyz|fullsharez.com|gdriveplayer.us|jetanimes.co|ls-streaming.com|manga-vf.fr|mangas-anime.com|planet-streaming.net|ratopi.com|robindesdroits.me
-@@||static.stormwall.pro/jsav1.3.js$script,domain=zone-annuaire.com|zt-protect.com
+@@||static.stormwall.pro/captcha.css$stylesheet,domain=zone-annuaire.com|zt-protect.com|zt-za.com
+@@||static.stormwall.pro/jsav1.3.js$script,domain=zone-annuaire.com|zt-protect.com|zt-za.com
 @@||static.uppcdn.com^$image,script,domain=uppit.com
 @@||statics.msedge.network/embed.js$script,domain=mstream.best|mstream.fun|mstream.icu|mstream.press|mstream.rocks|mstream.space|mstream.website|mstream.xyz|mystream.to|premiumserver.club
 @@||statics.mystream.to/embed.js$script,domain=mstream.best|mstream.fun|mstream.icu|mstream.press|mstream.rocks|mstream.space|mstream.website|mstream.xyz|premiumserver.club
