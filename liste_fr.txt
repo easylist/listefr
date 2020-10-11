@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: mruS2+HHKaB7/PX/P4ewBw
-! Version: 202010111957
+! Checksum: AGcEACYxIyTGnR1zWcFupA
+! Version: 202010112038
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -15002,6 +15002,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.ad_showblock
 ##.ad_skin_left
 ##.ad_skin_right
+##.ad_skyscrap
 ##.ad_smartphbig
 ##.ad_title_mimic
 ##.ad_txt_1
@@ -15196,6 +15197,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.adsense-bottom
 ##.adsense-bottom-mob-tab
 ##.adsense-bottom-normal
+##.adsense-box-sty
 ##.adsense-footer
 ##.adsense-more
 ##.adsense-native-related
@@ -18787,6 +18789,8 @@ korben.info#?#div > hr + article.type-post:-abp-has(header:-abp-has(a[href^="htt
 korben.info#?#div > hr + article.type-post:-abp-has(header:-abp-has(a[href^="http://bitly.com/"]))
 lemonde.fr#?#.area--ops:-abp-has(p:-abp-contains(Contenus partenaires))
 lemonde.fr#?#.bd__bloc:-abp-has(.bd__header:-abp-contains(Barnebys.fr))
+leseclaireuses.com#?#.article.small:-abp-has(a[href*=".smartadserver.com"])
+leseclaireuses.com#?#.gslide:-abp-has(a[href^="https://bit.ly/"])
 linfoweb.com#?#.isnotmobi:-abp-has(a:-abp-contains(sponsorisé))
 linfoweb.com#?#tbody:-abp-has(i:-abp-contains(sponsorisé))
 macommune.info#?#.box_article:-abp-has(.is-text-publi-infos)
