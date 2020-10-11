@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: iRXmu2nIudjwHlx8dII2fQ
-! Version: 202010110134
+! Checksum: uY+A03+mXmH5or7HfhnJUQ
+! Version: 202010110258
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1780,7 +1780,7 @@
 /native-ad/*
 /native/feed/*/widget/*?b=$third-party
 /nav/ads.
-/neads.
+/neads.$domain=~neads.io
 /nendAdLoader.
 /networking/ref_
 /new/pu.js
