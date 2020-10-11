@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kyGln6/gfUOVG9UGrAyvxg
-! Version: 202010112058
+! Checksum: EMxf4M5mKlSK9XedDPdrIA
+! Version: 202010112132
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18782,6 +18782,7 @@ frandroid.com#?#.post-preview:-abp-has(.aligot-icon)
 frandroid.com#?#.post-preview:-abp-has(.aligot-icon-inline)
 frandroid.com#?#a:-abp-has(.aligot-icon-inline)
 frandroid.com#?#div[id^="i"][class^="i"]:-abp-has(.aligot-icon)
+futura-sciences.com#?#.postcontainer:-abp-has(.username:-abp-contains(Publicité))
 homify.fr#?#.photo__m:-abp-has(.top-label)
 homify.fr#?#.premium-card:-abp-has(.top-label)
 ici-londres.com#?#.articles_list_item:-abp-has(.category:-abp-contains(Sponsorisé))
