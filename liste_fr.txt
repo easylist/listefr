@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 0eIZcTj+3Se7dK84B0Xu2Q
-! Version: 202010150528
+! Checksum: fCSsDLzU0vCI37nV94eTCA
+! Version: 202010150719
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -4643,6 +4643,7 @@ debugger:$popup
 ||mobiflyd.com^$third-party
 ||mobiflys.com^$third-party
 ||mobifoth.com^$third-party
+||mobileoffers-*-download.com^$third-party
 ||mobilup.com^$third-party
 ||mobligo.com^$third-party
 ||mobsuccess.com^$third-party
