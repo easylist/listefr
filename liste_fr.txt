@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Usg3dSGMSptrxTIb9dRfPw
-! Version: 202010151023
+! Checksum: ZGLIcsTtdAMGMNteRRQTbg
+! Version: 202010151034
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -19003,6 +19003,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||www.bna.dz/media/djmediatools/cache/300x250-$image,~third-party
 @@||www.bouyguestelecom.fr^*/catalog/product/cache/*/image/300x600/$image,~third-party
 @@||www.les-terrains.com/images/chargement_en_cours.gif|$image,~third-party
+@@||www.lesnumeriques.com/publicite/*.html$~third-party,xmlhttprequest
 @@||www.omochasama.com/wp-content/uploads/*-120x240.$image,~third-party
 ! Liste blanche pour corriger le blocage strict
 @@||ab.9xbud.com/extract|$xmlhttprequest,domain=9xbuddy.org
