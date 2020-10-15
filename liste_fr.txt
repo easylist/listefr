@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: /uF6lcds/BuDRvV5PWnevA
-! Version: 202010150843
+! Checksum: tHCRXJIUtrZqp0oWj7NuJQ
+! Version: 202010150853
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12331,6 +12331,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||liens-de-telechargement.com/popmodal/
 ||lienscash.com/?ref=$subdocument
 ||lig.liberation.fr^
+||ligloo.fr/images/CreditImmo300x250px.gif
 ||likesgag.com/tags/
 ||liligo.*/compareSites/$popup
 ||link.tl/fly/client_a.php?
@@ -15864,6 +15865,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.pub-condor
 ##.pub-container
 ##.pub-demipage
+##.pub-detail-1
 ##.pub-double-bande
 ##.pub-droite-player
 ##.pub-fil-discussion
@@ -15882,6 +15884,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.pub-pave
 ##.pub-promo
 ##.pub-rectangle-php
+##.pub-replace
 ##.pub-right
 ##.pub-rotate-bottom
 ##.pub-sidebar1
