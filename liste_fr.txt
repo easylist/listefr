@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: N+8MDd13aja0sByCd6eG3Q
-! Version: 202010150429
+! Checksum: U6rs+BO9owajGJIc0YTAuA
+! Version: 202010150507
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -9780,7 +9780,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||crm-pour-pme.fr/images/copie%20de%20728-90.png
 ||crocastuce.fr/images/Boutons/
 ||croquettesbio.com/wp-content/uploads/*/skyscreeper-
-||crt.livejasmin.com/pu/
 ||csm-e.cds1.yospace.com^
 ||csstatic.com/banners/
 ||ctrip.com/?TypeID=$third-party
@@ -10165,6 +10164,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||livecareer.fr^$popup,domain=pole-emploi.fr
 ||liveflirt.net^*/?track=$subdocument,third-party
 ||livehost.fr^*/bannieres/
+||livejasmin.com/pu/$popup
 ||livejasmin.com^$?psid=$popup
 ||livejasmin.com^&utm_$popup
 ||livementor.com/widget-livementor?$third-party
