@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ZmPKdA+DG6vabsUncFjvnA
-! Version: 202010170635
+! Checksum: FIUGubn7+0fFDt/Yg/jMzw
+! Version: 202010170653
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -217,6 +217,7 @@
 -adv-1.
 -adv-2.
 -adv-3.
+-advanced-ads/
 -advertising/tmg-gpt.
 -affiliate-banner-
 -affiliate-earn-
@@ -11639,7 +11640,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||e-jeune.net/images/pub/
 ||e-mazal.com/images/banp2.gif
 ||e-mazal.com/images/MacaronBOW.gif
-||e-orientations.com/bdd/habillage/
+||e-orientations.com^*/habillage/
 ||e-sante.fr/sites/default/files/templates/$image
 ||e-tchat.net/302pop.js
 ||e-tchat.net^*/partenaire/
@@ -14349,6 +14350,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###gpt-ad-inread
 ###gpt-leaderboard-top
 ###grid-pub
+###habillage_pub
 ###haut_site_pub
 ###head-pub
 ###head_pub
@@ -17169,7 +17171,6 @@ autobip.com,ouedkniss.com###habillage_a
 autobip.com,ouedkniss.com###habillage_b
 besac.com###habillage_cliquable
 autobip.com,ouedkniss.com###habillage_flash
-e-orientations.com###habillage_pub
 buzzdefou.com,gerardmerinfo.fr###habillage_site
 millenium.org###habillagesite
 geekopolis.fr###habitdroit
