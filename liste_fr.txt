@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Tsz2LlTS5H5Bz3Fjq1p/wQ
-! Version: 202010170354
+! Checksum: 6dBIGhXzvsPKW26kvhAEtw
+! Version: 202010170544
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18813,6 +18813,8 @@ amateur-sexe.fr,annoncedesexe.com,jeux-hentai.com,senscritique.com,seriehentai.c
 android-mt.com#?#.boutonlink:-abp-has(a:-abp-contains(/VPN|rencontre/))
 annuaire-telechargement.com,annuaire-telechargement.net,extreme-down.ninja,extreme-down.video,extreme-download.ninja,t9.vc,torrent09.uno,torrent9.ac,torrent9.ai,torrent9.cz,torrent9.is,torrent9.so,torrent9.sx,zone-annuaire.com,zone-telechargement.net,zone-telechargement.to,zone-telechargement9.com,zt-za.com#?#a:-abp-contains(/ANONYME|Anonyme|anonyme|RAPIDE|Usenet|VPN|Vpn/)
 betaseries.com#?#.blockSearch:-abp-has(.adsbygoogle)
+blogdumoderateur.com#?#.breve:-abp-has(.breve-info:-abp-contains(Sponsorisé))
+blogdumoderateur.com#?#.sticky:-abp-has(.sponsorise)
 businessinsider.fr#?#.post-nonfeatured:-abp-has(.title-studio:-abp-contains(Contenu Sponsorisé))
 ccm.net#?#.ccm_list_catch__item:-abp-contains(Sponsored)
 chine.in#?#[style*="width:300px;"]:-abp-contains(/ANNONCE/BOUTIQUE/PARTENAIRE|PUB/)
