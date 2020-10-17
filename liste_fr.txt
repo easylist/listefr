@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: yfZIs3/5c5D4WCNNyCCMzA
-! Version: 202010151151
+! Checksum: 4EYEYC8zJiSWmsGJe7B9XA
+! Version: 202010170207
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18870,6 +18870,7 @@ voyageforum.com#?#div[style="width: 300px"]:-abp-contains(/Publicité|Publicité
 voyageforum.com#?#table[class="post"]:-abp-has(tbody:-abp-contains(annonces))
 voyageforum.com#?#table[id^="p"]:-abp-has(.postUserColTd:-abp-contains(annonceurs))
 ! facebook.com
+facebook.com##a[aria-label="Lien de l’annonceur"]
 facebook.com#?#.userContentWrapper:-abp-contains(Sponsorisé)
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(Nebulus))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(Sponsorisé))
