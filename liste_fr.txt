@@ -913,6 +913,7 @@
 /ads920.
 /ads920x90_
 /ads?*&autosize=
+/ads?device=
 /ads?idc=
 /ads?key=
 /ads?kind=
@@ -16359,6 +16360,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.zonepub
 ##[class$="_banner-sponsor"]
 ##[class*="_ad-container"]
+##[class*="_adLeaderboard"]
 ##[class*="proadszoneholder-"]
 ##[class^="ads300_600-widget-"]
 ##[class^="ads_inline_"]
@@ -16877,6 +16879,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##div[data-advn]
 ##div[data-iab-tag]
 ##div[data-ligatus-container]
+##div[data-native-ad-item]
 ##div[data-pmdfp-display]
 ##div[data-pmdfp-format]
 ##div[data-radium] > [class^="ak_placement_"]
