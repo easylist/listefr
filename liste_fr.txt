@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: BLH61qYquLDpYrnEIUKejg
-! Version: 202010250719
+! Checksum: DTbivJWxgCP+gYt4PV4aLA
+! Version: 202010250731
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2006,13 +2006,16 @@
 /pub/*-300x250.
 /pub/*-300x600/*
 /pub/*/1000x90.
+/pub/*/1075x90_
 /pub/*/120600.
 /pub/*/300_300_
 /pub/*/ad.
 /pub/*/ads.
 /pub/*/banniere_
 /pub/*/habillage.$image
+/pub/*_1075X90b.
 /pub/*_300x600.
+/pub/*_728x90_
 /pub/300.
 /pub/300600/*
 /pub/300_top.
@@ -10551,6 +10554,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||secure.2checkout.com/images/merchant/$third-party
 ||secure.avangate.com/images/merchant/$third-party
 ||securitetotale.com^$subdocument,third-party
+||sejt.com/pub/
 ||senditcloud.com^$popup
 ||seo-autosurf.esy.es^*/upload/bannieres/
 ||seoclerk.com/images/promotional/$third-party
@@ -11476,6 +11480,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||careerbuilder.fr/lts/jobstreamintl.aspx?
 ||carrefoune.com^$script
 ||carriere-algerie.com/carriere/pub_files/
+||carrosseriemagazine.com/image/carrosserie/pub/
 ||castorsrhonealpes.fr/images/banners/
 ||causeur.fr/wp-content/uploads/*/bannie%CC%80re-
 ||cbanque.com/i/*/habillage
@@ -11993,6 +11998,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||guide-fitness.fr/images/Investir123.gif
 ||guide-hebergeur.fr/img/lwssuper
 ||guide-hebergeur.fr/pub/
+||guide-lavage.com/image/guide-lavage/pub/
 ||guinee7.com/wp-content/uploads/*-460x68-
 ||guinee7.com/wp-content/uploads/*-800x120-
 ||guinee7.com/wp-content/uploads/*/baniere-
@@ -12880,6 +12886,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||roulettechat.fr/js/adsacwm.js
 ||roulettechat.fr^*/facebook-api-pub/
 ||routard.com/img/homepart/budget_air/
+||routiers.com/image/routiers/pub/
 ||rpgfrance.com^*_pubRPGF.
 ||rpjf.com/pubs/
 ||rtc.be/images/banners/
