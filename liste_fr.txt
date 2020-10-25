@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ksVa+BQ05WnB4Sn/cXXfag
-! Version: 202010250623
+! Checksum: +CkuRej4rdOjKfSKgIengg
+! Version: 202010250701
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2022,6 +2022,7 @@
 /pub/728_top.
 /pub/88x31.
 /pub/ban_
+/pub/bandeau_
 /pub/banniere/*
 /pub/banniere_
 /pub/bannieres/*
@@ -13162,6 +13163,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||tracking.easyzic.com^
 ||tranquille-emile.com/wp-content/uploads/*/pub.jpg
 ||transactiondalgerie.com/images/banners/
+||transporteurs.net/image/commun/boutique.gif
+||transporteurs.net/image/transporteurs/pub/
 ||trefle.com/js/modules/su.*.js
 ||trekmag.com/media/habillage/
 ||tribunejuive.info/wp-content/plugins/smart-pop-up/
@@ -16438,6 +16441,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##[onclick*="duckcash.eu/AF_"]
 ##[onclick*="friendlyduck.com/AF_"]
 ##[onclick*="http://www.affbuzzads.com/affiliate/"]
+##[onclick^="window.open('http://adserver.sejt.com/"]
 ##[slot-id^="div-gpt-ad-"]
 ##a > #bg-ad
 ##a[class^="adsbutt_"]
@@ -16667,6 +16671,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[href^="http://ads.reflexcash.com/"]
 ##a[href^="http://ads.wui.fr/"]
 ##a[href^="http://ads2.contentabc.com/"]
+##a[href^="http://adserver.sejt.com/"]
 ##a[href^="http://adtrack01.com/"]
 ##a[href^="http://adv-mylegend."]
 ##a[href^="http://adv-myninja."]
