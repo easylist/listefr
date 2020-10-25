@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +CkuRej4rdOjKfSKgIengg
-! Version: 202010250701
+! Checksum: BLH61qYquLDpYrnEIUKejg
+! Version: 202010250719
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -14466,6 +14466,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###overVideoAd
 ###over_video_ad
 ###pagelet_advertiser_panel
+###partner-ads
+###partner-ads2
 ###pave1_ad
 ###pave2_ad
 ###pave3_ad
@@ -16290,6 +16292,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.standard_adv_link
 ##.sticky-ad-holder
 ##.sticky-ads
+##.stickyads
 ##.stm-ad-player
 ##.structure_wrapper-ad
 ##.subimageAd
@@ -17044,6 +17047,7 @@ les-terrains.com###bandeauBas
 kairn.com###bandeauTheme > .video
 appcake.net,boursier.com,embedtvseries.com,htmlforums.com,lesaffaires.com,maliweb.net,nrj.fr###banner
 football.fr,sports.fr###banner-full
+boursier.com###banner-wrapper
 cpasbien9.net,hitradio.ma###banner2
 jeuxdelajungle.fr###bannerGameSkyscraperRight
 lil-life.com###bannerRightTop
@@ -17475,6 +17479,7 @@ amazon.fr###sp_detail2
 animeka.com,europages.fr###sponsor
 blogduwebdesign.com###sponsor250
 jeuxvideo.com###sponsor_google
+boursier.com###sponsored
 esi.dz,sfr.fr###sponsors
 forumconstruire.com###st_ad
 monjardinmamaison.fr###sticker-video-popin
@@ -18050,6 +18055,7 @@ lemonde.fr##.parstreet
 jeuxvideo.com##.part-boutique
 portail.free.fr,sante-dz.com##.partenaire
 lepoint.fr##.partenaire-block
+boursier.com##.partenaire-bourse
 ouest-france.fr##.partenaire-externe
 lepoint.fr##.partenaire-grid
 petitfute.com##.partenaire_mid
@@ -19168,7 +19174,7 @@ bulleforum.net,les-ziboux.rasama.org#@##ads_fullsize
 lespep.org#@##container-ad
 fichier.net#@##contentAd
 www.facebook.com#@##pagelet_advertiser_panel
-whatpub.com#@##pub-footer
+boursier.com,whatpub.com#@##pub-footer
 maghreb.space#@##pub-haut-adblock
 chantefrance.com#@##pub300x250
 chantefrance.com#@##pub728x90
