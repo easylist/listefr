@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: cfrFqyJ/fcDvI4aS5AZY9g
-! Version: 202011040726
+! Checksum: kT7RQr/mmQ0X2B1SkNBuuQ
+! Version: 202011040734
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18728,6 +18728,7 @@ welovetennis.fr##div[id*="banner-top"]
 notebookcheck.biz##div[id] + div[class] > img:first-child
 akvideo.stream,vakarm.net##div[id][onclick][style]
 voyageforum.com##div[id][style="display: block; width: 850px; margin-top: -9px; height: 285px;"]
+chine.in##div[id][style="float: right;"]
 voyageforum.com##div[id][style="width: 850px; height: 127px; overflow: hidden; vertical-align: top;"]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
 4k-stream.net,french-stream.eu,french-stream.work,hd-stream.fr##div[id^="ads"]
