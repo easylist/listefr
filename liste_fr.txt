@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +QwAnjU1cGgzwsqsBqhDpg
-! Version: 202010250740
+! Checksum: tFwpkqioG2ogqBf49UV0Pw
+! Version: 202011040006
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18983,6 +18983,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||adworks.fr^$~third-party
 @@||affiliation.leboncontact.fr/template/Affiliation/$~third-party
 @@||aka-cdn-ns.adtech.de/dt/common/DAC.js$script,domain=nrj.fr
+@@||aluson-eclairage.fr^*-120x60-$image,~third-party
 @@||ami2.com/resources/img/mysite/publicites/$image,~third-party
 @@||api.dedipass.com^*/pay$script,xmlhttprequest,domain=uptobox.com|uptostream.com
 @@||archives-numerisees.ain.fr^*/httpd/ad
