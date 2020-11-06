@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: i18xSIDMFn7a2AuAz2buXA
-! Version: 202011062055
+! Checksum: unB0ZOnOn8jcsPKa9LNIgw
+! Version: 202011062058
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -16936,7 +16936,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[onclick*="FriendlyDuck.com"]
 ##a[onclick^="CustomWLAdServer."]
 ##a[target="_blank"][href*="/buy-vpn?"] > img
-##data-ad-position
 ##div[ad-channel]
 ##div[ad-position]
 ##div[adonis-marker]
@@ -16968,11 +16967,13 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##div[class^="pub_tag_"]
 ##div[class^="quickads_"]
 ##div[data-ad-id]
+##div[data-ad-position]
 ##div[data-ad]
 ##div[data-adfscript]
 ##div[data-ads-block]
 ##div[data-adspace-id]
 ##div[data-adunit]
+##div[data-adv-formatid]
 ##div[data-advn]
 ##div[data-iab-tag]
 ##div[data-ligatus-container]
