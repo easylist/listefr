@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: tPKnExRHHHlq+Q6QPlMx6Q
-! Version: 202011090828
+! Checksum: /VVTJSlSE2XjM2UKKvz81g
+! Version: 202011091238
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12686,6 +12686,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||liligo.*/compareSites/$popup
 ||link.tl/fly/client_a.php?
 ||links.fhsarl.com^$popup,third-party
+||linternaute.com/api/block/*/renderview?
 ||livecad.net/img/pub_
 ||livefoot.fr/1800x1000-affiliation.
 ||livefoot.fr/images/habillage_
