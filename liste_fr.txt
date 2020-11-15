@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: cbTKTDXKGbjKFy31rNWIjQ
-! Version: 202011150910
+! Checksum: 4I3ihd/aKP1wUUhRQg6HNA
+! Version: 202011150915
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -9681,6 +9681,7 @@ debugger:$popup
 ||video-my.xyz^$popup,third-party
 ||video-on-demand.link^$popup
 ||videos-baise-porno.com^$popup
+||videos-on-demand.link^$popup
 ||viewmoregirls.com^$popup
 ||viiotp.com^$popup
 ||vikings-streaming.fr^$popup,third-party
@@ -12159,6 +12160,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||filmcomplet.*/?do=$popup
 ||filmhentai.fr/tpl2/tools/
 ||filmhentaiporno.com/boost/
+||filmsrip.*/?do=$popup
 ||filmstoon.*/?do=$popup
 ||filmstoon.*/templates/filmstoon/images/got.jpg
 ||filmstoon.*/templates/filmstoon/js/debugi.js
@@ -18837,7 +18839,7 @@ hd-stream.fr##a[href*="//is.gd/"]
 hd-stream.fr##a[href*="//tinyurl.com/"]
 flashx.pw,flashx.tv##a[href*="//trk."]
 presse-algerie.net##a[href*="/?ad="]
-filmcomplet.vip,filmstoon.cam##a[href*="/?do="]
+filmcomplet.vip,filmsrip.net,filmstoon.cam##a[href*="/?do="]
 artdeseduire.com##a[href*="/?part="][target="_blank"]
 chine.in##a[href*="/?t="][style]
 webactus.net##a[href*="/?utm_source="]
