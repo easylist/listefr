@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: mdkM2OfOhQfhL3lgGyMTCg
-! Version: 202011151015
+! Checksum: GVPWUf2ON75Lk2unFwj2Sw
+! Version: 202011151036
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -19299,6 +19299,8 @@ voyageforum.com#?#div[id]:-abp-properties(height: 127px;)
 voyageforum.com#?#div[style="width: 300px"]:-abp-contains(/Publicité|Publicités/)
 voyageforum.com#?#table[class="post"]:-abp-has(tbody:-abp-contains(annonces))
 voyageforum.com#?#table[id^="p"]:-abp-has(.postUserColTd:-abp-contains(annonceurs))
+windowsbulletin.com#?#.code-block:-abp-has(a[href^="http://www.reimageplus.com/"])
+windowsbulletin.com#?#strong:-abp-has(a[href^="http://www.reimageplus.com/"])
 ! facebook.com
 facebook.com##a[aria-label="Lien de l’annonceur"]
 facebook.com#?#.userContentWrapper:-abp-contains(Sponsorisé)
