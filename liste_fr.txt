@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: rB81jJhHd5iN12dEZdTWDw
-! Version: 202011160949
+! Checksum: zk6OprCKTtO2PF6toJx20g
+! Version: 202011160956
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -3335,9 +3335,9 @@ _frontend_loader.$script
 /propeller_$popup
 /proxy.php?*/site_id/*$popup
 /pu/*&psid=$popup
+/pu/*&pstool=$popup
 /pu/*_rnd=$popup
 /pu/?*&psid=$popup
-/pu/?*&pstool=$popup
 /pu/?*&site=$popup
 /pu/?*&utm_$popup
 /pu/?*?utm_$popup
@@ -12318,6 +12318,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||frenchweb.fr/wp-content/uploads/2020/01/Ozitem040220728.png
 ||frigoristes.fr/images/*_ban.
 ||frigoristes.fr/themes/frost/images/annonceurs/
+||frprn.com/even/
 ||ftp.uptobox.com^$media
 ||fullsharez.com/image/ban
 ||fullsharez.com/rota
@@ -13842,14 +13843,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||ww4.vidzi.
 ||ww45.vidzi.
 ||ww46.vidzi.
-! frprn.com
-@@||frprn.com/js/assets.js$script
-@@||frprn.com/js/jquery.min.js$script
-@@||frprn.com/js/KernelTeamVideoSharing$script
-@@||frprn.com/js/main.js$script
-@@||frprn.com/js/photoswipe$script
-@@||frprn.com/jwplayer7/jwplayer.js$script
-||frprn.com^$script
 ! 3movs.com
 @@||3movs.com/sd3/s/s/js/m/pr-before.js$script,~third-party
 ||3movs.com/ab-a.js
