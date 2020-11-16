@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: SbokJl0BgH+qGpPJTePFlw
-! Version: 202011162031
+! Checksum: PqWY9e3J6IEgMIRPbJ/Dhw
+! Version: 202011162101
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12412,6 +12412,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||herault-tribune.com^*/rep_pub/
 ||hibamusic.com/pub/
 ||hiqqu.xxx/static/n/
+||histoire-pour-tous.fr/images/banners/
 ||histoires-de-sexe.net/graf/
 ||histoires-de-sexe.net/histoires-sexe-videos.php$popup
 ||hitek.fr/img/*-ban.
@@ -13413,6 +13414,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||statique.lamarseillaise.fr/images/francemarches.jpg
 ||statique.lnc.nc/_slider/promo.nc/
 ||stefgagnant.com^*ban
+||storage.googleapis.com/kompagnion/$third-party
 ||strasbourg-tramway.fr/ban_
 ||strasbourg-tramway.fr/banner
 ||stream-island.*/bup/
@@ -14494,6 +14496,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###adsense_haut
 ###adsense_native
 ###adsense_pagination
+###adsensenative
 ###adsforsearchGrid
 ###adsforsearch_content
 ###adsite-unders
@@ -14960,11 +14963,14 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###pub-widget
 ###pub-widget2
 ###pub01
+###pub1-passback
 ###pub120x600
 ###pub160
 ###pub160x320
 ###pub160x600
+###pub2-passback
 ###pub250
+###pub3-passback
 ###pub300
 ###pub300250
 ###pub300_adscreen
@@ -14973,6 +14979,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###pub300x250
 ###pub336Criteo
 ###pub336bas-criteo
+###pub4-passback
 ###pub468x15
 ###pub468x60_centree
 ###pub468x60_droite
@@ -15112,6 +15119,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###pub_top_gauche
 ###pub_ventre
 ###pub_voyage
+###pubarticle2
+###pubarticle3
 ###pubbanner
 ###pubbas
 ###pubbetween
@@ -15163,6 +15172,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###publicite_top
 ###publicite_txt
 ###pubmegaban
+###pubnativepassback
 ###pubpreroll
 ###pubright
 ###pubsCommentGoodDeals
@@ -17845,6 +17855,7 @@ algerie360.com###pub_rand300a
 algerie360.com###pub_rand300b
 entrecoquins.com###pub_tatoo
 ouest-france.fr###pub_wallpaper
+histoire-pour-tous.fr###pubbott
 paris-communiques.com,plateformemedia.com###publaterale
 troc-velo.com###publine
 focus-numerique.com,lapresse.ca,les-terrains.com###pubs
