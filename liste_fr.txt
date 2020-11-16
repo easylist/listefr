@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: zk6OprCKTtO2PF6toJx20g
-! Version: 202011160956
+! Checksum: 1kb5bB0VU7MH41BlsmCXpQ
+! Version: 202011160958
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -13847,11 +13847,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 @@||3movs.com/sd3/s/s/js/m/pr-before.js$script,~third-party
 ||3movs.com/ab-a.js
 ||3movs.com/sd3/
-! xxximagetpb.org
-@@||xxximagetpb.org/app/lib/chevereto.min.js$script,domain=xxximagetpb.org
-@@||xxximagetpb.org/lib/Peafowl/js/scripts.min.js$script,domain=xxximagetpb.org
-@@||xxximagetpb.org/lib/Peafowl/peafowl.min.js$script,domain=xxximagetpb.org
-||xxximagetpb.org^$script
 ! eroprofile.com
 @@||static.eroprofile.com^*/common.js$script,~third-party
 @@||static.eroprofile.com^*/jquery-$script,~third-party
