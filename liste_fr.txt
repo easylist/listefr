@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: xD03DM68b+F3n/HwXM/9/g
-! Version: 202011211929
+! Checksum: d1TL7g4qca9+GtOG+9+4JQ
+! Version: 202011211937
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -13846,10 +13846,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||ww4.vidzi.
 ||ww45.vidzi.
 ||ww46.vidzi.
-! 3movs.com
-@@||3movs.com/sd3/s/s/js/m/pr-before.js$script,~third-party
-||3movs.com/ab-a.js
-||3movs.com/sd3/
 ! eroprofile.com
 @@||static.eroprofile.com^*/common.js$script,~third-party
 @@||static.eroprofile.com^*/jquery-$script,~third-party
@@ -17587,7 +17583,6 @@ ddl-island.co,ddl-island.org,emule-island.co,emule-island.org,stream-island.co,s
 ddl-island.co,ddl-island.org,emule-island.co,emule-island.org,stream-island.co,stream-island.org###droite_milieu
 boulistenaute.com###dropin
 petitfute.com###dv_partenaire
-3movs.com###el-ab-a
 webgirondins.com###encart-sky
 ladepeche.fr###encart_dernieres_annonces
 montelimar-news.fr###entreprises
@@ -18084,7 +18079,7 @@ syskb.com##.bandeaupub
 cdmail.fr##.bandeauvert
 iphone4.fr,jeux-mmorpg.com##.baner
 bismirabbika.com,coran-francais.com,orientation-chabab.com##.bann
-2conv.com,3movs.com,afrik-foot.com,afrik.com,afrikeco.com,flvto.biz,flvtomp3.cc,french-streams.com,glenatbd.com,hdnumerique.com,jizzbunker.com,journaldugeek.com,kpopfm.fr,manga-news.com,medialot.fr,mesbagages.com,orientation-chabab.com,telquel.ma,textnow.com,trimag.fr,ventsdouest.com##.banner
+2conv.com,afrik-foot.com,afrik.com,afrikeco.com,flvto.biz,flvtomp3.cc,french-streams.com,glenatbd.com,hdnumerique.com,jizzbunker.com,journaldugeek.com,kpopfm.fr,manga-news.com,medialot.fr,mesbagages.com,orientation-chabab.com,telquel.ma,textnow.com,trimag.fr,ventsdouest.com##.banner
 batiactu.com##.banner-background
 golem13.fr##.banner-halfpage
 jizzbunker.com##.banner-popup
