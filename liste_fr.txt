@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: S6e0WaB217ExDPBvN5MnSw
-! Version: 202011212039
+! Checksum: 9XrQBJISH4ydVqf0JANWtg
+! Version: 202011220131
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -15278,6 +15278,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###sponsor_sidebar
 ###sponsored-container
 ###sponsoredContainer
+###sponsoredItemtop
 ###sponsoredProducts
 ###sponsoredResultitem
 ###squareadevertise
@@ -18453,6 +18454,7 @@ rtl.fr##.money-talks
 allfilms.net##.movie-aye
 118712.fr##.mpl
 lemondeinformatique.fr##.mpu
+zdnet.fr##.mpu-middle
 gamekult.com##.mpubas-wrapper
 hds-stream.pro,illimitestreaming.net##.myButton
 hds-stream.pro##.mydll
@@ -18893,6 +18895,7 @@ algeriepatriotique.com##a[class][data-track][href]
 official-film-illimite.to##a[class^="button"]
 voyageforum.com##a[class^="offer"]
 wikimonde.com##a[data-affiliate]
+zdnet.fr##a[data-track-action="partners_traffic_drivers"]
 extreme-down.video,extreme-download.cc,moviz.org,planet-streaming1.com,youwatch-series.com##a[href$=".php"]
 cpasbien9.net,oxtorrent.me,torrent9.is,torrent9.so,torrent9.sx,torrent9.to##a[href$="/"]
 thebadbuzz.com##a[href$="/boost.php"]
