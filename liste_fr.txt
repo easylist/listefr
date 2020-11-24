@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ps9zjmNKAkalq9M1FuC2yQ
-! Version: 202011241729
+! Checksum: qQms3xLGTyf92zJ0YW98ew
+! Version: 202011241740
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -19362,8 +19362,6 @@ linfoweb.com#?#tbody:-abp-has(i:-abp-contains(sponsorisé))
 macommune.info#?#.box_article:-abp-has(.is-text-publi-infos)
 macommune.info#?#.widget_article:-abp-has(.title_widget:-abp-contains(/PUBLI INFO|Publi-info/))
 maison-islam.com#?#aside:-abp-has(.widget-title:-abp-contains(Publicité))
-nex-software.com#?#.toolinfo:-abp-has(a[href$="/reimage"])
-nex-software.com#?#h4:-abp-has(a[href$="/reimage"])
 nextinpact.com#?#.us-bas-ctr:-abp-has(a[href^="https://www.cybertek.fr/"])
 numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
 oxtorrent.me,torrent9.is,torrent9.so,torrent9.sx#?#div[style]:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
