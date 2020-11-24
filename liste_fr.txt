@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: aOIvj1iRphujjP2O18+mew
-! Version: 202011242108
+! Checksum: VWWmeixuhxfheTmcPGMgQw
+! Version: 202011242114
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -19585,7 +19585,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||tsawry.com/images/$image,domain=extreme-down.in|extreme-down.one|extreme-down.video
 @@||tsawry.net/images/$image,domain=extreme-down.in|extreme-down.one|extreme-down.video
 @@||uii.io/links/shorten|$~third-party,xmlhttprequest
-@@||unpkg.com^$script,domain=younetu.com
+@@||unpkg.com^$script,domain=waaw.tv|waaw1.tv|younetu.com
 @@||use.fontawesome.com^$script,stylesheet,domain=7-up.net|clicknupload.co|hdpopcorns.me|vup.to
 @@||vidlox.me/bootstrap.js|$script,domain=vidlox.tv
 @@||vidlox.me^$stylesheet,domain=vidlox.tv
