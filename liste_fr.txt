@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: z9kNwLjURYpwDBG3m04VNw
-! Version: 202011282003
+! Checksum: UyC4wEQ+kagGmjW6GTo2iw
+! Version: 202011290127
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -473,6 +473,7 @@
 /160_x_600
 /160by600two.
 /160x300_
+/160x600adblock.
 /160x600FR.
 /160x600v1.
 /160x600x.
@@ -546,6 +547,7 @@
 /728x300-banner.
 /728x45/*
 /728x45_
+/728x90adblock.
 /728x90bann.
 /728x90below_
 /728x90Blue.
@@ -13982,6 +13984,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||d1ejnc60jkzff4.cloudfront.net^
 ||d1ewpr7kbabyrj.cloudfront.net^
 ||d1eyk8qbbvsiyg.cloudfront.net^
+||d1f05vr3sjsuy7.cloudfront.net^
 ||d1f1lqyq09pe4q.cloudfront.net^
 ||d1f94w321xtzmt.cloudfront.net^
 ||d1fttzrngno3h1.cloudfront.net^
