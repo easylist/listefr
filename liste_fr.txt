@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: /pmS3q3IXEXp5Xj/FfUTjg
-! Version: 202012011630
+! Checksum: a7Q/yJdwG43ROEo98F9jcQ
+! Version: 202012011633
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -19393,6 +19393,7 @@ macommune.info#?#.widget_article:-abp-has(.title_widget:-abp-contains(/PUBLI INF
 maison-islam.com#?#aside:-abp-has(.widget-title:-abp-contains(Publicité))
 nextinpact.com#?#.us-bas-ctr:-abp-has(a[href^="https://www.cybertek.fr/"])
 numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
+ouedkniss.com#?#.annonce:-abp-has(#adsense_native)
 oxtorrent.me,torrent9.gg,torrent9.is,torrent9.so,torrent9.sx#?#div[style]:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
 oxtorrent.me,torrent9.gg,torrent9.is,torrent9.so,torrent9.sx#?#table[style]:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
 pandos2play.free.fr,soap-passion.com,ultimate-catch.eu#?#:-abp-properties(opacity:)
