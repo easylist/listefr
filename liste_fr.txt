@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: IPIZkdsXT01VTvgx3AjNRw
-! Version: 202012060839
+! Checksum: AssLH0rqo5AoIsrSJTT+mQ
+! Version: 202012060846
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -16939,6 +16939,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##[class*="_ad-container"]
 ##[class*="_adLeaderboard"]
 ##[class*="proadszoneholder-"]
+##[class="ads"][style^="width: 160px;"]
+##[class="ads"][style^="width: 300px;"]
 ##[class^="ads300_600-widget-"]
 ##[class^="ads_inline_"]
 ##[class^="jw-ad-block"]
@@ -17686,6 +17688,7 @@ sexeautop.com###catcher
 android-dz.com###cb-bg-to
 renovationettravaux.fr###cboxOverlay
 ddl-island.cc,ddl-island.co,ddl-island.org,emule-island.cc,emule-island.co,emule-island.ru,stream-island.cc,stream-island.co,stream-island.org###centre_haut
+ecranlarge.com###cgSidebarATF1
 wanarun.net###chaussuresCarousel
 sitedesmarques.com###check-also-box
 jetanimes.co###clickfakeplayer
