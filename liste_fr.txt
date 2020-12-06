@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: fGZM+QPFWciNvEK1dsvi1Q
-! Version: 202012060551
+! Checksum: JSxKzoR9MFzLIlEg4xBLtQ
+! Version: 202012060720
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -5221,7 +5221,6 @@ debugger:$popup
 ||tworismo.com^$third-party
 ||twpasol.com^$third-party
 ||txlpzpihveg.net^$third-party
-||uaadi.com^$third-party
 ||ublock.pw^$third-party
 ||ulclick.ru^$third-party
 ||ultrafiles.co^$third-party
@@ -6226,55 +6225,35 @@ debugger:$popup
 ||awfull.pro^
 ||belinicaller.pro^
 ||blionicking.pro^
-||bodfuck.com^
-||brells.pro^
-||cabirm.com^
-||chocrasoreding.info^
 ||coaturgle.info^
 ||contions.pro^
-||coormises.pro^
-||coricaves.pro^
-||donavits.pro^
 ||eneritchmax.info^
 ||entigatenturge.pro^
 ||essuddayon.pro^
-||evokuplizers.pro^
 ||exclargold.pro^
 ||expleates.pro^
 ||hilleness.info^
 ||japanesexxx.allowpush.com^
 ||javfind.allowpush.com^
-||klaudicustors.info^
 ||lainding.pro^
 ||misdem.pro^
 ||mystighty.info^
 ||notificationallow.com^
-||obelan.pro^
 ||overreare.co^
 ||pallsvility.pro^
 ||patracy.pro^
 ||pistentling.pro^
 ||popuble.pro^
-||priodiss.pro^
 ||reddleops.pro^
 ||refuzzlizing.pro^
 ||sticans.pro^
-||striticumber.pro^
 ||suregauzi.info^
 ||unlomblam.pro^
-||uthlosop.info^
-||wheets.pro^
-||willousloprowd.info^
 ||worlanned.pro^
 !
 ||ageodortair.info^
-||backsolizers.xyz^
-||condortants.xyz^
-||dunessemplic.xyz^
 ||emented.pro^
-||excile.xyz^
 ||expligaining.pro^
-||facitating.pro^
 ||incomposeced.xyz^
 ||ingeliteral.pro^
 ||licertle.co^
@@ -6282,14 +6261,9 @@ debugger:$popup
 ||mament.co^
 ||monklerm.pro^
 ||ophistler.pro^
-||pleboxviting.pro^
 ||plemil.info^
-||quaven.pro^
 ||rationalan.pro^
-||recodiss.xyz^
 ||seceive.pro^
-||smockeness.xyz^
-||splityndomets.pro^
 ||stoomeddert.info^
 ||trourted.pro^
 ||wiresurequezer.pro^
@@ -6298,19 +6272,13 @@ debugger:$popup
 ||aimairasp.club^
 ||aircotbad.club^
 ||allaptair.club^
-||allashail.club^
-||aniaimamp.club^
 ||apearmare.site^
 ||apeassape.com^
 ||aptalebow.site^
-||arcartall.club^
 ||armaimapt.club^
 ||armbadare.site^
-||artampbob.site^
 ||ashbowany.site^
-||askarmalb.club^
 ||askcoobaa.club^
-||beebuyart.club^
 ||boaarkcam.com^
 ||boxantany.com^
 ||chiartbar.com^
@@ -7519,20 +7487,11 @@ debugger:$popup
 ||warning.support^
 ! toroadvertising.com
 ||asadismn.xyz^$third-party
-||asjdfasas.xyz^$third-party
 ||cry-havok.org^$third-party
 ||cyclivate.com^$third-party
 ||fewfwe.net^$third-party
-||iisksudks.xyz^$third-party
 ||ip-51-255-80.eu^$third-party
-||lklasoo.xyz^$third-party
-||loasdfn.xyz^$third-party
-||oaasdfafff.xyz^$third-party
-||oijwemss.xyz^$third-party
 ||satellife.info^$third-party
-||vasoelv.xyz^$third-party
-||wpognfds.xyz^$third-party
-||zrefmeee.xyz^$third-party
 ! TeaserNet
 .com/promo/*?*=*&tid=*&vid=$popup,third-party
 /^https?:\/\/[a-z]{5,7}\.com\/[0-9a-z]{36}\/[0-9a-z]{15}\.js\?[0-9]{6}\&[0-9]{6}&[a-z]{5,7}\.com$/$script,third-party
@@ -7577,22 +7536,19 @@ debugger:$popup
 ||amavirgin.pro^
 ||arda0hylt58g4wg0.pro^
 ||audriasite.pro^
-||bradymadura.pro^
 ||briggbrought.pro^
 ||bxgjpocfz1g1jiwb.pro^
 ||caligula.pro^
 ||charalli.pro^
 ||clrpdhptoddatj49.pro^
 ||coltagainst.pro^
-||cosimocaseros.pro^
 ||cosimolaugh.pro^
 ||cosimotable.pro^
 ||daunteegyptian.pro^
-||daviedmamas.pro^
 ||dddomainccc.com^
 ||emmettperson.pro^
 ||esaiasegyptian.pro^
-||evalynbrought.pro^^
+||evalynbrought.pro^
 ||gedmhqqipuz6wfon.pro^
 ||gormancarry.pro^
 ||gwa8i3rrf9mwozpi.pro^
@@ -7604,8 +7560,6 @@ debugger:$popup
 ||marisappear.pro^
 ||noamiscience.pro^
 ||oqn2ujcvgki0fgqy.pro^
-||simicaseros.pro^
-||tekelapossible.pro^
 ||twillamadura.pro^
 ||vfl81ea28aztw7y3.pro^
 ||vknrfwwxhxaxupqp.pro^
@@ -7628,12 +7582,10 @@ debugger:$popup
 ||virtuaguyhd.com^$third-party
 ! visitweb.com
 ||gxxcbj.com^
-||mxvvivqho.com^
 ||ozwvd.com^
 ||qjudpxkisv.xyz^
 ||qkurtnucn.com^
 ||sckxppzdm.com^
-||smpbhfiwr.com^
 ||uaadi.com^
 ||vornz.com^
 ! n*adserv
