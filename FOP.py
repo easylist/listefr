@@ -54,7 +54,7 @@ COMMITPATTERN = re.compile(r"^(A|M|P)\:\s(\((.+)\)\s)?(.*)$")
 IGNORE = ("addChecksum.pl", "FOP.py", "hgignore", "pull.bat", "upload.bat")
 
 # List all Adblock Plus options (excepting domain, which is handled separately), as of version 1.3.9
-KNOWNOPTIONS = ("collapse", "csp", "document", "elemhide",
+KNOWNOPTIONS = ("collapse", "csp", "csp=frame-src", "csp=img-src", "csp=media-src", "csp=script-src", "csp=worker-src", "document", "elemhide",
                 "font", "genericblock", "generichide", "image", "match-case",
                 "object", "media", "object-subrequest", "other", "ping", "popup",
                 "rewrite=abp-resource:blank-css", "rewrite=abp-resource:blank-js", "rewrite=abp-resource:blank-html", "rewrite=abp-resource:blank-mp3", "rewrite=abp-resource:blank-text",
