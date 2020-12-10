@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 1vBwO/vCc8oDZYs+0TPJCg
-! Version: 202012100651
+! Checksum: YOsVw23p4SlBLGz2yH7ewA
+! Version: 202012100653
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18642,7 +18642,6 @@ pornojeune.net##.promo_texte2
 msn.com##.promobanner
 wikiclic.com##.promocentered
 pornofrance.org##.promomenu
-hongkiat.com##.promote
 meteosun.com##.promote_large
 tf1.fr##.promoted_image
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
@@ -18798,7 +18797,6 @@ msn.com##.sponsorship
 flvto.biz##.square-ads
 msn.com##.startpage > div.refreshbody[style^="top:"]
 msn.com##.stripecontainer[data-section-id="stripe.msstore"]
-filecrypt.cc,filecrypt.co##.support_2
 imobie.fr##.support_guide_download_upper
 lepetiteconomiste.com##.sw-banner
 forum.sportytrader.com##.tableau_bleu
@@ -18939,8 +18937,6 @@ jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 movietube.live##[id^="video"] a
 youporn.com##[onclick*="./"]
 filecrypt.cc,filecrypt.co##[onclick] img
-filecrypt.cc,filecrypt.co##[onclick^="location.href"]
-filecrypt.cc,filecrypt.co##[onclick^="top.location"]
 filecrypt.cc,filecrypt.co##[onmousedown]
 filecrypt.cc,filecrypt.co##[onmouseup]
 centrifuge-lemag.fr##[role="banner"] > #cb-logo-box
