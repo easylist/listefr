@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: wFshJGAqGwAyUNac5HNb1Q
-! Version: 202012100743
+! Checksum: kMt34vz+SnQIwLWfCiKjHw
+! Version: 202012101252
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -12778,6 +12778,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||opensubtitles.org^$subdocument,~third-party
 ||opensubtitles.org^*/banners/
 ||opex360.com/pub/
+||opinion-assurances.fr/images/assurlandlink03_2016.gif
 ||opt.be/images/db/banner/
 ||orientation-chabab.com/images/banniere-
 ||orientation-chabab.com/img/pub.
@@ -13740,6 +13741,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||d2w7avhumdk0s6.cloudfront.net^
 ||d2w88er3oa79h8.cloudfront.net^
 ||d2wekgv66wx77n.cloudfront.net^
+||d2x33sw8v4ayed.cloudfront.net/images/assurlandlink03_2016.gif
 ||d2xcimzl9ytdi0.cloudfront.net^
 ||d2xsy1lxezptdm.cloudfront.net^
 ||d2xvc2nqkduarq.cloudfront.net^
@@ -15064,6 +15066,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.ad-boxpursuit
 ##.ad-browse-wide-mid
 ##.ad-container
+##.ad-container--aside
 ##.ad-container--banner
 ##.ad-corner-top-250
 ##.ad-dfp
@@ -15889,6 +15892,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.nosub-side-ad
 ##.nosub-side-ad-pos
 ##.null-ad
+##.oa_bannerPub
 ##.oan_ad
 ##.oas-ad-160-600
 ##.oas-ad-728-90
