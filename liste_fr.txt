@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: YOsVw23p4SlBLGz2yH7ewA
-! Version: 202012100653
+! Checksum: SKXnIBZyF/mzSH6Pbwn9EA
+! Version: 202012100654
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -3125,7 +3125,6 @@ _frontend_loader.$script
 &zoneid=*&banner=$popup
 &zoneid=*&bannerid=$popup
 &zoneid=*&campaignid=$popup
-&zoneid=*&direct=$popup
 &zoneid=*&visitor_id=$popup
 +Popunder+$popup
 -banner.cib?$popup
@@ -3288,7 +3287,6 @@ _frontend_loader.$script
 /offer?*&placement=$popup
 /out.php?link=t$popup
 /out.php?wid=$popup,third-party
-/out?zoneId=$popup
 /p/*/&hosted=$popup,third-party
 /p/?*&exo=$popup
 /packcpm.$popup
@@ -3396,7 +3394,6 @@ _frontend_loader.$script
 /zcvisitor/*?campaignid=$popup
 ://aclick.$popup
 ://ad.*?_site=$popup
-://adn.*/zone/$popup
 ://ads2.$popup
 ://adv-mybankai.$popup
 ://adv-mylegend.$popup
