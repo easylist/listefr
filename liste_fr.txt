@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: O3Wdu/99cDIto1DZqPqFEw
-! Version: 202012110253
+! Checksum: SFvTArgRrg4AqUTQtscQeg
+! Version: 202012110310
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -605,7 +605,7 @@
 /abroad-ad.
 /abroad-adv.
 /acad.$script
-/acceptable.*/async|$domain=~millenium.org
+/acceptable.*/async
 /accrochePub300.
 /acecAdServer.
 /action/ad_
@@ -10948,14 +10948,15 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||nextwest.xyz^
 ! Webediads revolving adservers
 /acceptable.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|musiquemag.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
-/acceptable.$~script,domain=millenium.org
-/autopromo.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|lestream.fr|millenium.org|musiquemag.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
+/acceptable.$~script
+/autopromo.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|lestream.fr|millenium.gg|musiquemag.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 /autopromo.$~script,domain=jeuxvideo.com
-/autopromotion.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
+/autopromotion.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.gg|musiquemag.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 !
 ||a-staticwebedia.com^$third-party
 ||annexere.top^$third-party
 ||appeng.website^$third-party
+||ctxtfl.com^$third-party
 ||fripe.website^$third-party
 ||goutee.top^$third-party
 ||mediaathay.org.uk^$third-party
@@ -12581,8 +12582,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||michelin.fr/data/public/field/image/
 ||midi-madagasikara.mg/pub/
 ||milisexe.com/vador*.html
-||millenium.org/images/contenu/habillages/
-||millenium.org/indexpub.php?
+||millenium.gg/images/contenu/habillages/
+||millenium.gg/indexpub.php?
 ||minecraft.fr/wp-content/uploads/2019/09/acheter-
 ||minuteur-en-ligne.fr/pub/
 ||miroirsocial.com/uploads/images/partenaires/
@@ -14324,6 +14325,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###conteneurPub
 ###conteneur_pub
 ###content_left_pub
+###content_pub
 ###content_pub_carre
 ###contenu-text-publicite
 ###contextualAds
@@ -17060,7 +17062,7 @@ finalclap.com###aff_tuto_com
 dogzer.com###affichage_tag_58
 zikinf.com###album
 akeo.fr###amazon
-millenium.org###amazon_container
+millenium.gg###amazon_container
 dzairmobile.com###animation_container
 soap-passion.com###annonce
 mcetv.fr###annonce-header
@@ -17192,7 +17194,6 @@ geny.com###containerBanniere1mois
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr###conteneur_PROMO_Gauche
 voici.fr###content-right-shopping
 guadeloupe-paradise.fr###content-shadow
-millenium.org###content_pub
 spi0n.com###content_top
 journaldunet.com###ctn_infeed
 vfcomplet.vip###custom-media-player
@@ -17262,7 +17263,7 @@ autobip.com,ouedkniss.com###habillage_b
 besac.com###habillage_cliquable
 autobip.com,ouedkniss.com###habillage_flash
 buzzdefou.com,gerardmerinfo.fr###habillage_site
-millenium.org###habillagesite
+millenium.gg###habillagesite
 geekopolis.fr###habitdroit
 geekopolis.fr###habitgauche
 football.fr,sports.fr###hablinkzone
@@ -17336,7 +17337,7 @@ journaldugeek.com###linkhabillage
 ouedkniss.com###list-last-stores
 omgtorrent.bz,omgtorrent.cz###liste-des-fichiers
 a40ans.com###liste-webcams
-millenium.org###logo_droite
+millenium.gg###logo_droite
 centreimmo.com###logos-partenaires
 laposte.net###lpn_pub_main
 lamanchelibre.fr###marketing_top
