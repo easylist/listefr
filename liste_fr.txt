@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Q/j0j5smSo8UIBvpKeK52w
-! Version: 202012110729
+! Checksum: k/D8ta6eS6qQLI4ovll4Fw
+! Version: 202012112058
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -2265,6 +2265,7 @@
 /show.php?z=*&code=
 /show/?block_id=*&r=$script
 /show_adv.
+/show_adv.js
 /show_i.php?b=$subdocument
 /show_next_ads.
 /show_std.php?
@@ -13032,6 +13033,10 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||speedgame.fr/pub/
 ||sports.fr^*/habillage/
 ||sports.fr^*/partenaires/
+||stade-lavallois.com/media/anime_logo_gcm_470x90_
+||stade-lavallois.com/media/partenaires
+||stade-lavallois.com/media/pavecorevatine470x90_
+||stade-lavallois.com/media/pubrelaisalsace_
 ||stage-emploi.campus.lemonde.fr^*/widget
 ||starter.fm/blog/*/bg_$image
 ||starter.fm/images/*/bg_
@@ -14938,6 +14943,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###widget_box_pub
 ###wrapper-pub
 ###wrapper_inread
+###youfoot-ad-banner
 ###zatvorit-reklamu-popup1
 ###zone-sponso
 ###zone_pub
@@ -15389,6 +15395,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.adv_pop
 ##.adv_text
 ##.adv_text2
+##.advert iab_728x90
 ##.advert-header-wrapper
 ##.advert-left-slider
 ##.advert-out-left
@@ -15397,8 +15404,12 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.advert-under-hedaer2
 ##.advert-under-hedaer2-left
 ##.advert-under-hedaer2-right
+##.advert.iab_160x600
+##.advert.iab_468x60
+##.advert.iab_728x90
 ##.advert.leaderboard
 ##.advertStd
+##.advert_header onglet
 ##.advert_pos
 ##.advertisement-pub
 ##.advertisement_120x600
@@ -15533,6 +15544,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##.box_publicites2
 ##.box_publicites3
 ##.box_publicites_bg
+##.boxadvert
 ##.breaking-ad
 ##.bumpable-ima-ad-container
 ##.business-details-ads
