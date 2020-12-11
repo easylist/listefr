@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: QCJqMX7L9Sn/zmL4TvbpBQ
-! Version: 202012101428
+! Checksum: O3Wdu/99cDIto1DZqPqFEw
+! Version: 202012110253
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -430,7 +430,6 @@
 .swf?*=Ads.
 .tn/ads/
 .tn/ads_
-.vast.vpaid.$domain=cinenews.be
 .vod.ad_
 .wbdds.
 .xxx/adv.js
@@ -2370,6 +2369,7 @@
 /virtuagirl-
 /vivads_
 /votre_pub_
+/vpaidad.
 /vpn160.gif
 /vpn468.gif
 /vstadb.xml
@@ -17854,7 +17854,7 @@ logitheque.com##.description + .telechargement
 cpasbientorrent.fr##.description > center > a
 grosnews.com##.deuxcarres
 replay.fr##.dfa
-actu.fr##.dfp
+actu.fr,cinenews.be##.dfp
 rtl.fr##.dfp-pave
 nestoria.fr##.dfpDiv
 equirodi.be##.div_pt_pub
