@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 4L6ARV6XkXeAtw8clXS3mw
-! Version: 202012120402
+! Checksum: rvSBgVKbsGa7NWBOlKvvrg
+! Version: 202012120629
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1412,6 +1412,7 @@
 /cshoppingbox.
 /csi_ad_
 /custom/ads.
+/custom_ads.
 /customdata/banner/*
 /custompopup.php?
 /dacash.
@@ -7438,6 +7439,7 @@ debugger:$popup
 ||dryhuhrep.com^
 ||dugawegut.com^
 ||dustymural.com^
+||e7594ca72746.com^
 ||eelribbit.com^
 ||eemgl.com^
 ||effectuallyfoldinquire.com^
@@ -8566,6 +8568,7 @@ debugger:$popup
 ||51.68.161.25^$popup
 ||52.51.50.245^$popup,third-party
 ||54.200.58.62^$popup,third-party
+||56cb089749933725.xyz^$popup
 ||62.212.73.45^$popup,third-party
 ||741.net^$popup
 ||777-888.ru^$popup,third-party
@@ -8816,6 +8819,7 @@ debugger:$popup
 ||daitchest.com^$popup
 ||danmeneldur.com^$popup,third-party
 ||dataprovider.biz^$popup,third-party
+||datsgirl.com^$popup
 ||deliverymodo.com^$popup,third-party
 ||delmarmora.pro^$popup
 ||delnapb.com^$popup,third-party
@@ -9257,6 +9261,7 @@ debugger:$popup
 ||siement.info^$popup,third-party
 ||signoredom.com^$popup,third-party
 ||skl-874.com^$popup,third-party
+||slabshookwasted.com^$popup
 ||slimcdn.com^$popup,third-party
 ||slutroulette.com^$popup,third-party
 ||smart-dn.com^$popup,third-party
