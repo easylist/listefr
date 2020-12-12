@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: QBxU+YBxnR1gmVcgFwYAVQ
-! Version: 202012120646
+! Checksum: tiOLFD4DPG5Xr0ItgrdMYQ
+! Version: 202012120647
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -11981,7 +11981,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||ftp.uptobox.com^$media
 ||fullsharez.com/image/ban
 ||fullsharez.com/rota
-||fullstream.cx/wp-content/uploads/2017/09/hd-stream.png
 ||fullxmovies.com/catcheur-haut.php
 ||fullxmovies.com/fakeplayer/
 ||fullxmovies.com/payglad/
@@ -18730,7 +18729,7 @@ achat-bitcoins.com##a[rel="nofollow"] > img
 indoxx1.com##a[rel][style]
 igen.fr,macg.co,watchgeneration.fr##a[style*="width: 100%;"]
 media1fire.com,yggtorrent.ch,yggtorrent.gg,yggtorrent.is,yggtorrent.pe,yggtorrent.se,yggtorrent.si,yggtorrent.to,yggtorrents.gg##a[style][onclick]
-4downfiles.org,9divx.org,buzzporn.net,finobuzz.com,footnamurois.com,fullstream.cx,planet-streaming.net,planet-streaming1.com,serie-streaming.watch,seriezone.org,youwatch-series.com##a[target="_blank"] > img
+4downfiles.org,9divx.org,buzzporn.net,finobuzz.com,footnamurois.com,planet-streaming.net,planet-streaming1.com,serie-streaming.watch,seriezone.org,youwatch-series.com##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 lefigaro.fr##a[target="_blank"] > img[style="width: 463px; height: 170px;"]
