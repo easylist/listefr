@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: QOHT91MIoqs8MsuScsk42g
-! Version: 202012150330
+! Checksum: YqEAuPeOG89yGwi3+ruiGg
+! Version: 202012150657
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1860,7 +1860,6 @@
 /player.*?adSetCode=
 /player/*/ads.
 /player/jw/ad.js
-/player/jw/ads.js
 /player_ad.
 /player_sda.
 /plugins/adKnowMore.
@@ -1974,7 +1973,7 @@
 /Pub-300250.
 /Pub-300250v3.
 /pub-300x250.
-/pub-300x300/
+/pub-300x300/*
 /pub-accueil-droite.
 /pub-accueil-gauche.
 /pub-ads/*
@@ -2014,7 +2013,6 @@
 /pub/468.
 /pub/728.
 /pub/728_
-/pub/728_top.
 /pub/88x31.
 /pub/ban_
 /pub/bandeau_
@@ -2266,7 +2264,6 @@
 /show.php?z=*&code=
 /show/?block_id=*&r=$script
 /show_adv.
-/show_adv.js
 /show_i.php?b=$subdocument
 /show_next_ads.
 /show_std.php?
@@ -3005,7 +3002,6 @@ _frontend_loader.$script
 ||co^*?zoneId=
 ||com/func.js$script,~third-party
 ||com/js/*=.js?r=
-||com/ntfc.php?p=*&r=$script,third-party
 ||com/sw.js?$other,script,~third-party,domain=~gearbest.com|~wire.com
 ||com/wnload?a=*&tz=$third-party
 ||com/wnrw?aid=*&a=$third-party
@@ -3014,7 +3010,6 @@ _frontend_loader.$script
 ||gdn^*&impid=$third-party
 ||info/?tid=$script,third-party
 ||info^*/*.js?id=*&hash=$script,third-party
-||info^*?tag_id=*&sw_url=$script,third-party
 ||men^*.php?z=$third-party
 ||net/sw.js?$other,script,~third-party
 ||online/clk?b=$popup,third-party
@@ -3064,7 +3059,6 @@ _frontend_loader.$script
 &ad_domain=$popup
 &ad_id=$popup
 &ad_path=$popup
-&ad_path=*&adserver=$popup
 &ad_scheme=$popup
 &ad_spv=$popup
 &adbIsActive=$popup
@@ -3331,7 +3325,6 @@ _frontend_loader.$script
 /pu/*&psid=$popup
 /pu/*&pstool=$popup
 /pu/*_rnd=$popup
-/pu/?*&psid=$popup
 /pu/?*&site=$popup
 /pu/?*&utm_$popup
 /pu/?*?utm_$popup
@@ -3425,8 +3418,6 @@ _frontend_loader.$script
 ://pu.*/click/$popup
 ://push.*/?go=$popup
 ://rencontre.*&utm_*&utm_=$popup
-://router.*/click/*&click_id=$popup
-://router.*/click/*?sub_id=$popup
 ://see.*/offer?prod=$popup
 ://signup.*&sub_id=*&utm_$popup,third-party
 ://syndication.$popup,third-party
@@ -4157,9 +4148,7 @@ debugger:$popup
 ||clickcashmoney.com^$third-party
 ||clickenabler.com^$third-party
 ||clickioadv*.com^$third-party
-||clickioadv.com^$third-party
 ||clickiocdn*.com^$third-party
-||clickiocdn.com^$third-party
 ||clickioglobal.com^$third-party
 ||clickmena.com^$third-party
 ||clickscloud.net^$third-party
@@ -4423,9 +4412,7 @@ debugger:$popup
 ||hentaiheroes.com^$third-party
 ||hexaweb.net^$third-party
 ||hfagfcbadgjhdchaaej.ru^$third-party
-||hgub2polye.com^$third-party
 ||hibamedia.com^$third-party
-||hibids10.com^$third-party
 ||hinko.top^$third-party
 ||hipercontas.com.br^$third-party
 ||hits-exchange.me^$third-party
@@ -4615,7 +4602,6 @@ debugger:$popup
 ||mntzm.com^$third-party
 ||mobawaba.com^$third-party
 ||mobdel.com^$third-party
-||mobibiobi.com^$third-party
 ||mobidea.com^$third-party
 ||mobidevmod.com^$third-party
 ||mobidowr.com^$third-party
@@ -4725,7 +4711,6 @@ debugger:$popup
 ||oftrau54.com^$third-party
 ||ohmyad.co^$third-party
 ||onads.dk^$third-party
-||onclickrev.com^$third-party
 ||onclicktop.com^$third-party
 ||oneadserver.com^$third-party
 ||oneclickad.net^$third-party
@@ -4819,7 +4804,6 @@ debugger:$popup
 ||proche2moi.com^$third-party
 ||promo-earn.com^$third-party
 ||promo.alienbiz.com^$third-party
-||promo.ezstatic.com^$third-party
 ||promo.hysteriq.com^$third-party
 ||promo.indecentes-voisines.com^$third-party
 ||promoads.net^$third-party
@@ -4856,9 +4840,7 @@ debugger:$popup
 ||puls-dz.com^$third-party
 ||pureadexchange.com^$third-party
 ||purlive.com^$~image,third-party
-||push-notifications.top^$third-party
 ||pushazer.com^$third-party
-||pushinkaa.com^$third-party
 ||pushmejs.com^$third-party
 ||pushnews24.com^$third-party
 ||putbid.net^$third-party
@@ -5450,7 +5432,6 @@ debugger:$popup
 ||1wvw2jgkca.com^
 ||1x96klcdpn.com^
 ||1xdtscudjemp.com^
-||1zlyetcck7klyuy9.pro
 ||1zlyetcck7klyuy9.pro^
 ||1zv9jakhux.com^
 ||2.biqle.ru^
@@ -6507,8 +6488,6 @@ debugger:$popup
 ||jabaibou.net^
 ||jairoowe.com^
 ||jaizouji.com^
-||japanesexxx.allowpush.com^
-||javfind.allowpush.com^
 ||jbhle.com^
 ||jbjcv.com^
 ||jbm6c54upkui.com^
@@ -6954,7 +6933,6 @@ debugger:$popup
 ||pixelsrvdmn.com^
 ||pketred.com^
 ||platitudefivesnack.com^
-||playe.vidto.se^
 ||playhydrax.com^
 ||playurbano.com^
 ||plemil.info^
@@ -7550,12 +7528,10 @@ debugger:$popup
 ||wvhba6470p.com^
 ||ww1.flashx.co^
 ||ww1.flashx.pw^
-||ww2.flashx.pw^
 ||ww2.imgadult.com^
 ||ww2.imgtaxi.com^
 ||ww2.imgwallet.com^
 ||ww2.thepiratebay.rocks^
-||ww46.vidzi.tv^
 ||wwwa.123movies.net^
 ||wwznqib.com^
 ||wx61m0tmvh.com^
@@ -8111,7 +8087,6 @@ debugger:$popup
 ||play.mix.kinostuff.com^
 ||play.play1.videos.vidto.
 ||play.s01.vidtodo.pro^
-||play.tainiesonline.pw^
 ||play.vb.wearesaudis.net^
 ||play.vidzi.tv^
 ||playerassets.info^$third-party
@@ -8468,7 +8443,6 @@ debugger:$popup
 ||clddt.com^$popup,third-party
 ||click-cpa.net^$popup,third-party
 ||clickadilla.com^$popup
-||clickadilla.com^$popup,third-party
 ||clickadu.com^$popup,third-party
 ||clickanalyticssuite.com^$popup,third-party
 ||clickcdn.co^$popup
@@ -8709,7 +8683,6 @@ debugger:$popup
 ||linkbax.com^$popup,third-party
 ||linkf.org^$popup,third-party
 ||linkredirect.biz^$popup
-||linkredirect.biz^$popup,third-party
 ||lionsdrive.com^$popup,third-party
 ||live18ans.com^$popup,third-party
 ||livechatdates.com^$popup,third-party
@@ -8760,7 +8733,6 @@ debugger:$popup
 ||monastreaming.com^$popup
 ||monetizemytraffic.com^$popup,third-party
 ||monetizer.co^$popup
-||monetizer.co^$popup,third-party
 ||monetizze.com.br^$popup,third-party
 ||moneymak3rstrack.com^$popup,third-party
 ||morbitempus.com^$popup,third-party
@@ -10137,7 +10109,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||phone-look.com/img/ban_
 ||piazza.ch^$subdocument
 ||pimpland.pl/images/$third-party
-||pix.sr/images/banner
 ||pixel-secure.solvemedia.com^
 ||placelibertine.com^$image,third-party
 ||planet49.com^*?click=
@@ -10397,7 +10368,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||streaming-hentai.org^*?$popup
 ||streaming-illimite.com^$popup,domain=freemoviesdown.com
 ||streaminger.tv/ad*.
-||stripchat.com/api/embed/$third-party
 ||sublinet.com/www/public/images/*/72890_$third-party
 ||submanga.com/s/nnj.js
 ||suelaba.net^*/banners/
@@ -11327,7 +11297,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||csconstantine.com^*/fb-like-pop.js
 ||ctqui.com/pub/
 ||ctropbien.biz/partners.php
-||cupinteractive.com^*/campagne/$image,object,subdocument
 ||custos.twitchcdn.net^
 ||cut.so/banner/
 ||cyberbricoleur.com/jscripts/su.js
@@ -11336,7 +11305,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||darjadida.com/pub/
 ||datoporn.co^*.php?$popup
 ||ddl-island.*/bup/
-||ddl-island.*/images/pub/
 ||ddl-island.*/pop/
 ||ddl-island.*/pub/
 ||ddl-island.*/xxx/$popup
@@ -11490,7 +11458,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||emploitic.com/images/banners/
 ||emu-fr.net^*/img_partenariat/
 ||emule-island.*/bup/
-||emule-island.*/images/pub/
 ||emule-island.*/pop/
 ||emule-island.*/pub/
 ||emule-island.*/xxx/$popup
@@ -11858,7 +11825,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||ivocommunication.com/amenagement-stands-
 ||ivocommunication.com/file/*/agence_communication_
 ||ivocommunication.com/file/*/agence_voyage_
-||ivocommunication.com/file/*/agence_voyage_algerie_
 ||ivocommunication.com/file/*/amenagement-stands-
 ||ivocommunication.com/file/*/boite-communication-
 ||ivocommunication.com/file/*/boite_communication_
@@ -12150,7 +12116,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||lotusnoir.info^*/images/pub/ora-jeux-
 ||lyad.com/testrv/popdiv2.asp?
 ||lyoncapitale.fr/lyoncapx/
-||lyonkim.net/popup-
 ||lyonmag.com/medias/habillages/
 ||m1.streaming.estream.to^
 ||m2.streaming.estream.to^
@@ -12386,7 +12351,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||neozone.org/blog/wp-content/uploads/2018/05/ub2.jpg
 ||nestoria.fr/jsp/include/banners/
 ||netbeopen.com/clients/*/img/partners/
-||neteuros.fr/upload/ban/
 ||netiris.fr/imgs/wengo/
 ||nextwarez.com/wp-content/uploads/*-300x250.
 ||nextwarez.com/wp-content/uploads/*/banner_rapidseebox_
@@ -12553,7 +12517,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||presse.fr/campub/
 ||prix-portables.fr/js/suo.js
 ||prix-portables.fr^*/habillage-
-||progonline.com/bannieres/
 ||progonline.com/js/message_display.js
 ||projectfreetv.*?d=300x250
 ||promo-perso.com/Scripts/App/KelkooBottom.js
@@ -12571,7 +12534,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||ps-arena.com/mediadir/2/4/8/24859.swf
 ||ps3-infos.fr/p/
 ||psgenforce.net/upload/Bwin/
-||ptcocliques.fr^*/banners/
 ||pub.babygo.fr^
 ||pub.comics-sanctuary.com^
 ||pub.dozenofelites.com^
@@ -12590,7 +12552,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||pub.tetu.com^
 ||pub.webxfrance.org^
 ||publi.forum.ad^
-||public.libertyvf.*^$popup
+||public.libertyvf.$popup
 ||pubs.ouedkniss.com^
 ||pubster.twitch.tv^
 ||pxrbl.megafilms.me^
@@ -12785,7 +12747,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||strasbourg-tramway.fr/ban_
 ||strasbourg-tramway.fr/banner
 ||stream-island.*/bup/
-||stream-island.*/images/pub/
 ||stream-island.*/pop/
 ||stream-island.*/pub/
 ||stream-island.*/xxx/$popup
@@ -17033,7 +16994,6 @@ livefoot.fr###jjj
 lavenir.net###jobat_content
 lemonde.fr###js_deroule_ope
 juritravail.com###jt-footerContainer
-sexu.com###jw_video_popup
 virginradio.fr###la-promo-showskin-a
 lequipe.fr###la_boutique
 booska-p.com###ladivvid
@@ -17347,7 +17307,6 @@ lesechos.fr##.aamjrj-0.sc-14bv1cm-0.bcjcgr
 a10.com##.abspos
 shopping.fibladi.com##.accueil-derniere-annonce > #carou.well
 driverscloud.com##.accueil_pubotherlan
-cotemaison.fr##.actu_pub
 lagazettedescommunes.com##.actus-case-pub
 lagazettedescommunes.com##.actus-home-right-pub
 aerobuzz.fr,courrierinternational.com,directvelo.com,dna.fr,e-sante.fr,fabriquer-des-meubles.fr,femmeactuelle.fr,freepik.com,gamer-network.fr,gqmagazine.fr,journalmetro.com,ladepeche.fr,lematin.ch,lequotidiendumedecin.fr,lopinion.fr,maps.google.fr,marques.expert,msn.com,p-nintendo.com,photo.fr,rue89lyon.fr,smail.fr,soundlightup.com,tetu.com,tripadvisor.fr,truecaller.com,ubergizmo.com,zapiks.fr##.ad
@@ -17589,14 +17548,12 @@ mavanimes.co##.dmp_Player
 oujdacity.net,passion-net.fr##.ebuzzing_box
 echoroukonline.com##.ech-live__ads
 gamekult.com##.ed__news-h--native
-gamekult.com##.ed__tn__n--ad
 tsa-algerie.com##.ekk-footer-ad-wrapper
 batiactu.com##.emploi
 wp-infinity.com##.entry-featured
 jemangejemincis.fr##.entry-footer
 ruedesjoueurs.com##.esspo232x70
 ruedesjoueurs.com##.esspo736x110
-easyvoyage.com##.esv-pub-300-250
 orange.fr##.eui-footer-banner
 manga-news.com##.external-link
 direct-radio.fr##.externe-right
@@ -17800,7 +17757,6 @@ manjaro.fr##.nuxit
 lenouveleconomiste.fr##.nveco-widget
 jumia.ma##.nyroModalBg
 orange.fr##.o__pub
-118712.fr##.oan_ad
 eurosport.fr##.oas
 football.fr##.oas-middle
 nouvelobs.com##.obs-pub
@@ -17883,7 +17839,6 @@ sport-equipements.fr##.product-photo
 deco.fr,euro-2016-france.net,matchendirect.fr##.promo
 challenges.fr,nouvelobs.com##.promo-bottom-art
 meteomedia.com##.promo-box
-01net.com##.promo-extend-announce
 01net.com##.promo-extend-pub
 matchendirect.fr##.promoApp
 orange.fr##.promo_sur_etage
@@ -17903,7 +17858,6 @@ millepertuis.eu##.pub-gauche-flottant
 1point2vue.com,direct-radio.fr##.pub-header
 challenges.fr,sciencesetavenir.fr##.pub-home
 lefigaro.fr##.pub-icone
-iphonetweak.fr##.pub-img
 toplien.fr##.pub-index-gauche
 bdgest.com,bedetheque.com##.pub-interne-top
 lematin.ma##.pub-medium
@@ -17912,7 +17866,6 @@ yabiladi.com##.pub-read
 lequipement.fr##.pub-revendeur
 francebleu.fr##.pub-sidebar
 01net.com,bfmtv.com,pagesjaunes.fr##.pub-title
-basketusa.com##.pub-top
 horoscope.fr##.pub-transfo
 lefigaro.fr##.pub-zoom
 rueducommerce.fr##.pub1
