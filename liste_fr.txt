@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: PZPWp2kDeXIXZ53pfW+H/w
-! Version: 202012150830
+! Checksum: 6iUKtnBzZDK/x03F+PkJKw
+! Version: 202012150837
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1788,6 +1788,7 @@
 /nmads_caf_
 /no-banner-$image
 /noaabd/*&promo=
+/nordvpn-affiliate-
 /noticead/*
 /notify.php?key=$script,third-party
 /novaonads.
@@ -12781,6 +12782,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||synonymes.com/js/capping-horos.js
 ||synonymes.com/storpub/
 ||syskb.com/wp-content/uploads/*-ban.gif
+||syskb.com/wp-content/uploads/2020/06/img_5_3_1.gif
 ||syskb.com^*/wordpress-notification-bar
 ||systemed.fr/popunder/$popup
 ||szs.pw/sbbi/
