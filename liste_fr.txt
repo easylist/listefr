@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: nGj+nj7pKNqiB4vJjg9IcA
-! Version: 202012150136
+! Checksum: 16pNtIsc2MW5kknvAWhFiA
+! Version: 202012150318
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -6368,6 +6368,7 @@ debugger:$popup
 ||hagwooerscase.icu^
 ||halehoaxtools.icu^
 ||hamlipboat.com^
+||hamtitwet.com^
 ||hangesun.info^
 ||hartookr.link^
 ||hathick.info^
@@ -7074,6 +7075,7 @@ debugger:$popup
 ||raceparent.com^
 ||ragyukjaw.club^
 ||ransefti.com^
+||rapgasyogin.com^
 ||rapistory.info^
 ||rationalan.pro^
 ||ravaynore.com^
@@ -14051,6 +14053,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ###current_side_ad
 ###custom-ad
 ###custom-fake-media-player
+###data-ad-name
+###data-ad-provider
 ###derperd-ad
 ###desktopAd
 ###desktopMessageAd
@@ -16687,8 +16691,6 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##div[id*="_div_ads_header_"]
 ##div[id*="_main_ads_header_"]
 ##div[id*="_section_ads_header_"]
-##div[id="data-ad-name"]
-##div[id="data-ad-provider"]
 ##div[id^="M"][id*="Composite"]
 ##div[id^="PostAd"]
 ##div[id^="ad-artspons_"]
