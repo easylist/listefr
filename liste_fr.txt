@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Pgr+XbgxLtYT12nfvJH1ew
-! Version: 202012150716
+! Checksum: l+vb4ePdBtRf/QYkK4MpvA
+! Version: 202012150738
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18456,6 +18456,7 @@ france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.
 hd-stream.cc##div[id^="float"]
 annonces.nc,automobiles.nc,batiment.nc,drones.nc,embauche.nc,immobilier.nc,mobilier.nc,nautisme.nc,piecesauto.nc,puericulture.nc,rencontres.nc,wamland.nc##div[id^="hab_"]
 dsih.fr##div[id^="pub"]
+universfreebox.com##div[id^="publicite-"]
 musculaction.com##div[id^="pubsousmenu"]
 pagesjaunes.fr##div[id^="push"]
 coco.fr##div[onclick="window.open('http://www.joker.net/poker.html');"]
