@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 4Qflw2LY7lJ1RL0ttBjkFw
-! Version: 202012150747
+! Checksum: wmUC13SSISKs/oKXL9zL0w
+! Version: 202012150752
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -9052,7 +9052,7 @@ debugger:$popup
 ||url.rw^$popup,third-party
 ||urlcash.com^$popup,third-party
 ||usbmodmenu.com^$popup,third-party
-||utndln.com^$popup,third-party
+||utndln.com^$popup
 ||uyiiop.site^$popup
 ||valemedia.net^$popup
 ||vaniacozzolino.com^$popup
@@ -18169,7 +18169,7 @@ wikimonde.com##a[data-affiliate]
 zdnet.fr##a[data-track-action="partners_traffic_drivers"]
 zdnet.fr##a[data-track-category="powercenter"]
 extreme-down.video,extreme-download.cc##a[href$=".php"]
-cpasbien9.net,oxtorrent.me,torrent9.gg,torrent9.is,torrent9.so,torrent9.sx,torrent9.to##a[href$="/"]
+cpasbien9.net,oxtorrent.me,torrent9.gg,torrent9.is,torrent9.so,torrent9.sx,torrent9.to,yggtorrent.me##a[href$="/"]
 thebadbuzz.com##a[href$="/boost.php"]
 wlnk.ec##a[href$="="]
 1337x.st,1337x.to,cpasbien.ph,cpasbien.reviews,cpasbien.to,hdss.la,lapremse.fr,lemondedekevin.fr,oxtorrent.me,streaming-series.me,torrent9.gg,torrent9.is,torrent9.so,torrent9.sx,torrent999.com,x1337x.ws##a[href*=" "]
