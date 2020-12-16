@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: bdGBAq/wRjzcHJt0krA+/Q
-! Version: 202012160458
+! Checksum: K42pkV7Qjh0+pmeBfoSLCQ
+! Version: 202012160717
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18640,6 +18640,8 @@ macommune.info#?#.box_article:-abp-has(.is-text-publi-infos)
 macommune.info#?#.widget_article:-abp-has(.title_widget:-abp-contains(/PUBLI INFO|Publi-info/))
 maison-islam.com#?#aside:-abp-has(.widget-title:-abp-contains(Publicité))
 nextinpact.com#?#.us-bas-ctr:-abp-has(a[href^="https://www.cybertek.fr/"])
+nextinpact.com#?#app-home-item:-abp-has(.article:-abp-has(.sponsored))
+nextinpact.com#?#li[class="ng-star-inserted"]:-abp-has(.sponsored)
 numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
 numerama.com#?#.post-grid:-abp-has(.sponsoring-icon)
 ouedkniss.com#?#.annonce:-abp-has(#adsense_native)
