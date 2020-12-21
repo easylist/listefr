@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: J/a7get5FwBKZLriWV6ctA
-! Version: 202012210739
+! Checksum: AGo+78cjwdvQMniy7j2ZTQ
+! Version: 202012210740
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -189,8 +189,10 @@
 -ad-610x400.
 -ad-bar/
 -ad-cloud.
+-ad-content-
 -ad-management.
 -ad-mobile.
+-ad-script-
 -ad-test-cdn.
 -ad160x600.
 -ad300x250-
@@ -1392,6 +1394,7 @@
 /cointraffic-apps2.$third-party
 /col_droite_googleads2
 /comment-ads.
+/component-ad-
 /comunes/ads/*
 /config_dfp.js
 /content?promo_id=
@@ -12727,6 +12730,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||static.flashx.*/js/code.js
 ||static.lacentrale.fr/ressources/images/pages/home/spot_banner.jpg
 ||static.lci.fr/assets/scripts/modules/ad.js
+||static.lefigaro.fr/figads/
 ||static.mediafire.com/images/dl_
 ||static.neowebcar.com/app/nwc/pix/allianz-widget.jpg
 ||static.neowebcar.com/app/nwc/pix/cetelem-300.jpg
