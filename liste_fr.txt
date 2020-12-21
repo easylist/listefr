@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: MhAknQJ/o8omI8wMKC9tug
-! Version: 202012210449
+! Checksum: MnVUStf/6GT/xtiaKwHzPQ
+! Version: 202012210706
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -16153,6 +16153,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##[data-type="ad"][data-format]
 ##[data-type="ad"][data-publisher]
 ##[data-type="ligatus-script"]
+##[display-ad-location]
 ##[id*="-partners-adserver-"]
 ##[id*="/adunblock_"] > iframe
 ##[id*="ScrollDownAds"]
@@ -16617,6 +16618,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##a[onclick*="FriendlyDuck.com"]
 ##a[onclick^="CustomWLAdServer."]
 ##a[target="_blank"][href*="/buy-vpn?"] > img
+##display-ad-component
 ##div[ad-channel]
 ##div[ad-position]
 ##div[adonis-marker]
@@ -16629,6 +16631,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ##div[class*="view-id-ads_header_"]
 ##div[class*="view-id-ads_sidebar_"]
 ##div[class^="AffiliateBadgeUi-"]
+##div[class^="DisplayAd_"]
 ##div[class^="aadsbutt_"]
 ##div[class^="ad-inside-post-"]
 ##div[class^="ad_200_"]
