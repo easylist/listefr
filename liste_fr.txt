@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AGo+78cjwdvQMniy7j2ZTQ
-! Version: 202012210740
+! Checksum: qPB7PMOOKP2iTB+hV6uM7Q
+! Version: 202012210843
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -286,7 +286,7 @@
 .ad2.*?id=
 .ad4link.
 .ad4mat.$domain=~ad4mat.com
-.ad6.
+.ad6.$domain=~ad6.com
 .adfarm1.
 .ads.*?zone=
 .ads.dns-
