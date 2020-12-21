@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gYbNVMebpq0fBxkRklbkng
-! Version: 202012210438
+! Checksum: MhAknQJ/o8omI8wMKC9tug
+! Version: 202012210449
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18912,6 +18912,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||assets.hcaptcha.com/captcha/*/hcaptcha.js$script
 @@||assets.hcaptcha.com/captcha/*/hcaptcha.min.js$script
 @@||hcaptcha.com/1/api.js?onload=$script
+@@||hcaptcha.com/1/api.js?render=$script
 ! StormWall
 @@||static.stormwall.pro/captcha.css$stylesheet
 @@||static.stormwall.pro/jsav1.3.js$script
