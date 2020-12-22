@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: EVV0GLgWbu4e5d5nEMZUyg
-! Version: 202012222059
+! Checksum: d7QtJMpR8jZHid4RDa0DHQ
+! Version: 202012222214
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -1159,6 +1159,7 @@
 /ban728.js
 /ban728x901.
 /ban728x902.
+/ban_120_60_
 /ban_pub_
 /banads/*
 /bancode.php?id=
@@ -1286,10 +1287,14 @@
 /banniere/proxy2.php?
 /banniere300x250.
 /banniere300x250bas.
+/banniere400x60.
+/banniere438x60.
+/banniere450x60.
 /banniere468x60_
 /banniere728x90.
 /banniere728x90_
 /banniere728x90home.
+/banniere_282x60.
 /banniere_pub.
 /bannieres/habillage.
 /bannieres_fdf.
@@ -1621,6 +1626,7 @@
 /images/*_ads/
 /images/adsMB/*
 /images/affiliates/*
+/images/banniere468x
 /images/istripper/*
 /images/sponsored?
 /images/sponsors/*
@@ -3959,7 +3965,6 @@ debugger:$popup
 ||aj1197.online^$third-party
 ||aj1198.online^$third-party
 ||aj1206.online^$third-party
-||ajoutezvotresite.com^$third-party
 ||ak-is.net^$third-party
 ||aknod.com^$third-party
 ||akuitsdre.in^$third-party
@@ -9233,6 +9238,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||abcdelaremuneration.com/bouton.gif
 ||abowman.com/widgets/
 ||accueil.pro/annuaire468.png
+||accueil.pro/annuaire88.png
 ||achetezfacile.com^*/widget$third-party
 ||acommeassure.com/publicapi/$third-party
 ||ad.adriver.ru^$popup
@@ -9266,6 +9272,10 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||ahlaejaba.com^$subdocument
 ||airsexe.com^$subdocument,third-party
 ||ajoutezvotrelien.com/visuel46.png
+||ajoutezvotresite.com/button.php
+||ajoutezvotresite.com/images/*88.gif
+||ajoutezvotresite.com/images/allo-600.gif
+||ajoutezvotresite.com/images/le1er468.gif
 ||akacdn.ru/assets/min/random/
 ||akamaihd.net/*_vpaid.js
 ||akamaihd.net^$domain=dailymotion.com|youtube.com
@@ -9332,6 +9342,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||annuaire-fille-sexy.com/ban/$third-party
 ||annuaire-gay-sexe.com/annuaire/promo/$third-party
 ||annuaire-generaliste.fr/affiche_logo.php?
+||annuaire-sites.danslemonde.net/partenaires.php
 ||annuaire-transsexuelle.com/annuaire/ban/$third-party
 ||annuaire-web-france.com/partenaires/
 ||annuairedesexe.net^*/banniere
@@ -9365,6 +9376,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||awhoer.net^*/vpn_
 ||awin1.com/awclick.php?
 ||awin1.com^$popup,domain=configspc.com|livefoot.fr
+||awreferencement.com/conception_referencement_
 ||azureedge.net/img/*habillage$third-party
 ||azurewebsites.net/widget/
 ||b-cdn.net/uploads/banners_model/
@@ -9393,6 +9405,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||betclic.fr/partner.aspx?
 ||beurette-passion.com/ban/$third-party
 ||beurettes-faciles.com/promo/
+||biltoturf.com/logos/$third-party
+||biltoturf.com/logosturf/$third-party
 ||binnes.com/pubs/
 ||bismirabbika.com/img/$third-party
 ||bit.ly^$domain=nintendo-master.com|upload.ac
@@ -9422,6 +9436,9 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||booking.com^$popup,domain=viamichelin.at|viamichelin.be|viamichelin.ch|viamichelin.co.uk|viamichelin.com|viamichelin.de|viamichelin.es|viamichelin.fr|viamichelin.ie|viamichelin.it|viamichelin.nl|viamichelin.pl|viamichelin.pt
 ||boonex.com/modules/Txt/layout/default/img/txt-abt-file
 ||boostercash.fr/ban-
+||boostersite.com/css/$image,third-party
+||boostersite.com/css/*/boostersite-logo.gif
+||boostersite.com/site_ban/
 ||bourbonvoyages.fr^$subdocument,third-party
 ||bourgogne-restaurants.com/a_decouvrir_resto_$third-party
 ||boutique.aero/images/block_pub_
@@ -9515,6 +9532,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||club-salopes.com/partenaires/
 ||clublu.com^$script,subdocument,third-party
 ||clubmilliardairespmu.com/img/$third-party
+||clubsoleil.net/images/bannierecs.
 ||cmp.vidcoin.com^
 ||coachingminceur.go2cloud.org^
 ||coinhouse.io/images/banners/
@@ -9554,6 +9572,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||dailymotion.com^*autoplay=1$domain=animeko.com|animeresistance.com|bescherelletamere.fr|dailymotion.com|gum-gum-stream.com|gum-gum-streaming.co|gum-gum-streaming.com|gum-gum-streaming.tv|hitek.fr|mcetv.fr|monjardinmamaison.fr|otakufr.com|pokercast.eu|pokercast.tv|robindesdroits.me|sonyoutube.com|stream4free.pro
 ||damoh.schneevonmorgen.com^
 ||damtours.com/static/img/damtous_$third-party
+||danslemonde.net/images/pub
 ||dditscdn.com^*&isPromo=
 ||dealdog.net/advert.php$popup
 ||deals-du-web.com^
@@ -9633,6 +9652,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||eurasie.eu/sponsors-
 ||euro-gains.fr/upload/ban/
 ||euroclix.fr^$domain=176.31.96.119
+||europeturf.com/turf/$third-party
 ||europeup.com^$image,third-party
 ||eurosportbet.loa24.com^$domain=eurosport.fr
 ||evolucare.com/bannieres/
@@ -9667,6 +9687,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||films-2-boules.com/promo/$third-party
 ||findizer.fr/partners/
 ||fitnext.com/masculin_box$third-party
+||flashcourse.net/pronos/$third-party
 ||fliperamagames.ml/random.php?$subdocument,third-party
 ||flux.effiliation.com^
 ||flyrelax.com/wp-widget/widget.php
@@ -9691,6 +9712,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||g2a.com/r/$popup
 ||g2a.com/r/user-$subdocument,third-party
 ||gagne-facile.com/img/banner-
+||gainsturf.com/pronos/$third-party
 ||gamestorrents.*/realtime/
 ||gametap.com/convergence/Header/framed/?
 ||gametrailer.click^$subdocument
@@ -9732,6 +9754,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||grosnews.com/grosnews.php?
 ||groupolitan.fr/partners/
 ||gstatic.com^$domain=mycccam24.com
+||gtix.be/annuaire/$third-party
 ||gtw.xvideos.fr^$popup
 ||gu7socdn.txxx.com^
 ||guerirtout.com/GPAR.gif
@@ -9758,6 +9781,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||hop.com/sites/default/files/$third-party
 ||hostinrussia.com/user/$subdocument,third-party
 ||hotel-intime.com/banieres/
+||hotel-lion-or.com/banniere-
 ||hotpix.fr/widget_js.
 ||howfun.org/welcome.php
 ||href.li/?*://www.dailymotion.com/embed/video/$third-party
@@ -9895,6 +9919,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||ledeclycx.com/images/ban_
 ||leduplex.com/teaser/$third-party
 ||legagnant.com/legagnant$image
+||legagnant.com/pv$image
 ||leguide.com/*/partner/
 ||leguide.com/ogpe/*/banners/
 ||lejournaldelamaison.fr/wp-content/uploads/*/shoppingbox.
@@ -9958,6 +9983,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||mangahome.com/store/banners/
 ||mangatown.com^*/banners/
 ||mangavf.azurewebsites.net^$third-party
+||maraboutmekpo-wixsite-com.filesusr.com/html/8c3f10_
 ||marche-forex.com/popup*.js
 ||mas-e.cds1.yospace.com^
 ||matebux.com/gallery/banners/$third-party
@@ -10054,6 +10080,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||nolake.com^$popup,domain=animalcrossing-online.com
 ||nols-o-surf.fr/images/btn-autosurf-$third-party
 ||noogle.fr/banner/
+||norefer.com/anonyme80.png
+||nospartenaires.com/visuel$third-party
 ||noticrypto.website^$image,third-party
 ||nouslibertins.com^$image,third-party
 ||nouvelobs.s3-website-eu-west-1.amazonaws.com^
@@ -10166,6 +10194,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||premiumpress.com/banner/
 ||probux.com/images/banner*.gif
 ||prodownload.newbetakey.com^
+||produits-asiatiques.com/ascreen.jpg
 ||progonline.com/bannieres/
 ||promo.asiatique.org^
 ||promo.carasexe.com^
@@ -10184,6 +10213,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||promos.celebrix.fr^
 ||promovacances.com/?cid=$popup
 ||promovacances.com^$popup,domain=l-eaualabouche.com|rueducommerce.fr
+||pronostic-facile.fr/images/bandeau_
 ||pronoturf.free.fr/pub/
 ||protect-link.biz/embeddaily.php
 ||protect-link.biz/path/
@@ -10252,6 +10282,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||ruedeslibraires.com/livre-affiliation/
 ||rueducommerce.fr/images/locales/*/widget/ban/
 ||rugbygeneration.com^$popup,domain=kazeo.com
+||ruisseau-des-blaquieres.com/images/banniere
 ||rwabe.com/pub/
 ||s-sfr.fr/stats/authMsg.js
 ||s.beop.io^
@@ -10265,6 +10296,7 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||s3content.s3.amazonaws.com/imgemails/ban
 ||s3content.s3.amazonaws.com/imgemails/cf
 ||safervpn.com^*?a_aid=$third-party
+||saint-eloi-chateau-gombert.com/images/banniere_
 ||salopes-du-jour.com/sexy.js
 ||salopes-du-jour.com^$image,script,third-party
 ||sat-sharing.info/baners/
@@ -10436,6 +10468,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||torah-box.com/upl/ban/
 ||torcidatricolor.tv^$image,third-party
 ||torrent24h.net^$popup,third-party
+||tounet.com/button.php
+||tounet.com/button.php?
 ||tour.reelvidz.com^$popup,third-party
 ||tour.vidcube.com^$popup,third-party
 ||toutsurlesabdos.com/images/bannieres_$domain=europeplusnet.info
@@ -10554,6 +10588,8 @@ $popup,~third-party,domain=9divx.org|a40ans.com|airsexe.com|amairgil.cz|amateurd
 ||webcilon.tripod.com/bannieres/
 ||webcool69.com^$popup
 ||webdesignerhut.com^$subdocument
+||webjardiner.com/image/banniere
+||webjardiner.com/image/webjardiner.gif
 ||webself.net/WebselfEditeur/FormulaireDemo.aspx?
 ||websexkontakte.org/banner.html
 ||webstar-auto.com/iframe.php?$third-party
