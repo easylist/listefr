@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: m1Y1K+v20cpTNDV6qDrb4Q
-! Version: 202012230032
+! Checksum: uacmR5OO4am6HluTuU7Acw
+! Version: 202012230624
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -17280,6 +17280,7 @@ liligo.fr###pulledbanner
 liligo.fr###pulledbanner-right-top
 omgtorrent.bz,omgtorrent.cz###rechercher-le-torrent
 parolesmania.com###rectangle > .thinbox div[style="height: 250px;"]
+igen.fr,macg.co,watchgeneration.fr###refurb-widget
 lexpress.mu###region-user-second
 portail.free.fr###remonteesaktu
 radio-monaco.com###responsive-banner-slider
@@ -17728,6 +17729,7 @@ peuple-vert.fr##.header__banner
 lexpress.fr##.header_content_edito
 vakarm.net##.header_logo + div > table tr > td > a[target="_blank"]
 ouiounon.net##.headertitrelien[target="_blank"]
+igen.fr,macg.co,watchgeneration.fr##.hello-bar
 lafermeduweb.net##.homePub
 lo.st##.home_partner_img
 lagence.fr##.hor_banners
