@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Qt+VRK6QMyRw9Xx7GFHSvA
-! Version: 202012240528
+! Checksum: ceGA9ejYcrtiWn6f24iBuw
+! Version: 202012240544
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -10738,8 +10738,10 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||image.noelshack.com/fichiers/2019/28/1/1562572026-1562244212-close.png
 ||image.noelshack.com/fichiers/2019/28/6/1563047496-trouduculsmed79-nhghggh-play3.png
 ||image.prntscr.com/image/-Y15yLq6QJOZjhiNH9kr-A.gif
+||image.prntscr.com/image/069252da76834af48343ea96244f25da.jpg
 ||image.prntscr.com/image/2841f1d729ee472c8fc565a0544b4985.png
 ||image.prntscr.com/image/DEcb2ApWSOmwkz4nA1Lixw.gif
+||image.prntscr.com/image/ec463162c5f44be7b232f6d5046fba87.jpg
 ||image.prntscr.com/image/fd789e6681ec432d88b6c2d368fefd89.png
 ||images2.imgbox.com/c9/ea/LjZOipad_o.png
 ||img11.hostingpics.net/pics/517373PubSFR.jpg
@@ -16501,7 +16503,9 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##a[href^=".mftracking.com/"]
 ##a[href^=".php/ads/"]
 ##a[href^=".php/annonce/ads/"]
+##a[href^=".vddfe.club/"]
 ##a[href^="//out.tubecorporate.com/"]
+##a[href^="//postlnk.com/"]
 ##a[href^="//www.poweredbyliquidfire.mobi/"]
 ##a[href^="/engine/go.php?file2="][rel="nofollow"][target="_blank"] > img
 ##a[href^="/engine/go.php?movie="][rel="nofollow"][target="_blank"] > img
