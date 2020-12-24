@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ceGA9ejYcrtiWn6f24iBuw
-! Version: 202012240544
+! Checksum: utoCuiBeI5Dht0PQUicWXQ
+! Version: 202012240547
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -15695,6 +15695,8 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.player-screen-ads-item
 ##.player-screen-ads-list
 ##.player-screen-ads-wrapper
+##.player-section__ad-block
+##.player-section__ad-wrapper
 ##.player-sponsor-block
 ##.player__ads
 ##.player_bg_ad
