@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: VegdesIPwhotOWX/3QsJ8A
-! Version: 202012240526
+! Checksum: Qt+VRK6QMyRw9Xx7GFHSvA
+! Version: 202012240528
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -5418,6 +5418,7 @@ debugger:$popup
 ||virtuagirl.com^$third-party
 ||virtuaguyhd.com^$third-party
 ! Revolving adservers (propellerads, admeasures, admaven, hilltopads ...)
+|gloorajo.com^
 ||01counter.com^
 ||01jud3v55z.com^
 ||080jxrab.top^
@@ -10001,6 +10002,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||mypayingcryptoads.com/img/banners/$third-party
 ||myposeo.com^*250x250.swf?$third-party
 ||myxpass.com^*&affid=
+||naifei.shop/static/banner/
 ||nakedteens.video^$subdocument
 ||neko-hentai.com/banieres/
 ||neotokyo.com/banner/
@@ -10538,6 +10540,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||zeusmangax.com/baniere/
 ||zfemj.player.limpi.tv^
 ||zinc7.cc/images/banners/
+||zlpaste.net/banner/
 ||zone-hot.com/thumblink.php?
 ||zone.*.netdna-cdn.com^
 ||zupimages.net^$domain=jumia.com
