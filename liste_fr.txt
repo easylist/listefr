@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: tOTT/CePGxBZv3JUuxM8HQ
-! Version: 202101070306
+! Checksum: ZXQmBUiP9mhpLLMNME7Fqg
+! Version: 202101070319
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -3483,6 +3483,7 @@ _frontend_loader.$script
 ?disclaimer_accept=$popup
 ?exotracker=$popup
 ?floatpop=$popup
+?id=exoclick$popup
 ?id_publisher=*&id_$popup
 ?id_rotation=$popup
 ?ip=*&zoneid=$popup
@@ -7588,6 +7589,7 @@ debugger:$popup
 ||x2d2m87csh.com^
 ||x8rxr.top^
 ||xbc8fsvo5w75wwx8.pro^
+||xdserv.com^
 ||xep3gae.top^
 ||xhzz3moj1dsd.com^
 ||xijgedjgg5f55.com^
@@ -8647,6 +8649,9 @@ debugger:$popup
 ||grottogamer.com^$popup
 ||grtyi.com^$popup,third-party
 ||grushashuka.pro^$popup
+||gslink.co^$popup
+||gsurl.in^$popup
+||gsurl.me^$popup
 ||guqu.info^$popup,third-party
 ||havenwrite.com^$popup,third-party
 ||hdlet.com^$popup
@@ -10705,6 +10710,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||i.imgur.com/kiJ9Xmc.png
 ||i.imgur.com/MBfizp9.jpg
 ||i.imgur.com/nUEuHxd.png
+||i.imgur.com/o7VgXT5.png
 ||i.imgur.com/pCcLL3S.png
 ||i.imgur.com/pJJx0o1.gif
 ||i.imgur.com/PRdyOv3.gif
