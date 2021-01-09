@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: SsMZcqeA3f44UOkZjAtc2w
-! Version: 202101091616
+! Checksum: 9bNewMQDOkOSPnA+519WHA
+! Version: 202101091639
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -14897,6 +14897,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.ad.banner
 ##.ad.billboard
 ##.ad.half_page
+##.ad.leaderboard
 ##.ad160b
 ##.ad300d
 ##.ad336b
@@ -18727,7 +18728,6 @@ youporn.com##video[autoplay][loop]
 ! Éléments pour generichide
 onvasortir.com,urbeez.com###pub_leaderboard
 ! Filtres de propriété CSS pour Adblock Plus
-narcity.com##.article-thumbnail:-abp-has(.sponsored-mention)
 118712.fr#?#article:-abp-has(.pro:-abp-contains(Annonce))
 1fr1.net,3oloum.com,7olm.org,ahladalil.com,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,easyforumpro.com,fcmulhousefans.com,forum-gratuit.net,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumalgerie.net,forumpro.fr,forums-actifs.com,galoppourlavie.org,gid3an.com,jordanforum.net,lebonforum.com,manager-fifa.com,orizzontescuolaforum.net,own0.com,passionmilitaria.com,sorcieremonique.com,superforum.fr,syriaforums.net,walkingdead-rpg.com,yoo7.com,ze-43eme.com#?#.post:-abp-has(.postprofile:-abp-contains(Contenu sponsorisé))
 20min.ch#?#.clusterTop:-abp-has(.teaser:-abp-has(h3:-abp-contains(Paid Post)))
@@ -18785,6 +18785,7 @@ linfoweb.com#?#tbody:-abp-has(i:-abp-contains(sponsorisé))
 macommune.info#?#.box_article:-abp-has(.is-text-publi-infos)
 macommune.info#?#.widget_article:-abp-has(.title_widget:-abp-contains(/PUBLI INFO|Publi-info/))
 maison-islam.com#?#aside:-abp-has(.widget-title:-abp-contains(Publicité))
+narcity.com#?#.article-thumbnail:-abp-has(a:-abp-contains(/Sponsored|sponsorisé/))
 nextinpact.com#?#.us-bas-ctr:-abp-has(a[href^="https://www.cybertek.fr/"])
 nextinpact.com#?#app-home-item:-abp-has(.article:-abp-has(.sponsored))
 nextinpact.com#?#li[class="ng-star-inserted"]:-abp-has(.sponsored)
