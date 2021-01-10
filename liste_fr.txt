@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: VlPVnknNKckE9d8b9rhgLQ
-! Version: 202101100619
+! Checksum: GHLpEb+H49wG0KLS5NncPA
+! Version: 202101100620
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -18745,8 +18745,6 @@ onvasortir.com,urbeez.com###pub_leaderboard
 allocine.fr#?#.news-card:-abp-contains(Sponsorisé)
 allocine.fr#?#.video-card-trailer:-abp-has([class*="sponso"])
 allocine.fr#?#.video-card:-abp-has([class*="sponso"])
-amateur-sexe.fr#?#:-abp-properties(base64)
-amateur-sexe.fr,senscritique.com,seriehentai.com#?#:-abp-properties(data:)
 android-mt.com#?#.boutonlink:-abp-has(a:-abp-contains(/VPN|rencontre/))
 annuaire-telechargement.net,extreme-down.tv,extreme-down.video,oxtorrent.me,torrent9.gg,torrent9.is,torrent9.so,torrent9.sx,zt-za.com#?#a:-abp-contains(/ANONYME|Anonyme|anonyme|RAPIDE|Usenet|VPN|Vpn/)
 betaseries.com#?#.blockSearch:-abp-has(.adsbygoogle)
@@ -18809,6 +18807,7 @@ pandos2play.free.fr,soap-passion.com,ultimate-catch.eu#?#:-abp-properties(opacit
 paruvendu.fr#?#.lazyload_bloc:-abp-has([class*="sponsorise"])
 rakuten.com#?#[data-productid]:-abp-has(a[href^="/offer?action="])
 businessinsider.fr#?##related-post-:-abp-has(a[href*="/contenu-sponsorise"])
+senscritique.com,seriehentai.com#?#:-abp-properties(data:)
 sketchucation.com#?#.post:-abp-has(.postprofile:-abp-has(strong:-abp-contains(Ad Machine)))
 starbike.com#?#.post.has-profile:-abp-has(.postbody:-abp-has(.adsbygoogle))
 thesiteoueb.net#?#.panel:-abp-has(.panel-heading:-abp-has(.panel-title:-abp-contains(Publicité)))
