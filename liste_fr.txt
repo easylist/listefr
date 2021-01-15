@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: CfVVxt1P9MI8bIg6DeE0cg
-! Version: 202101150454
+! Checksum: kIUibyJiRxRa4IcNtyOrGg
+! Version: 202101152012
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2470,6 +2470,7 @@
 /zones?zone=$subdocument
 300x250.gif|
 336x280.gif|
+://a.*/loader?*&keywords=$third-party
 ://a.*/redirect/?spot_id=
 ://acces.*/a.php?
 ://aclick.
