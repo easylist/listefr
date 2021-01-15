@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kIUibyJiRxRa4IcNtyOrGg
-! Version: 202101152012
+! Checksum: D+smq2oVS1HXtmf2BHK5kA
+! Version: 202101152023
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2088,6 +2088,7 @@
 /pub_iframe_
 /pub_json_
 /pub_liens.
+/pub_mobile_placeholder.
 /pub_pave_
 /pub_smart.
 /pub_smart_
@@ -17771,7 +17772,7 @@ envertetcontretous.fr##.halfpage
 quotisexe.com##.happy-inside-player
 frandroid.com##.hb__ad
 refurbgeneration.com##.head_ebay
-avis-express.com##.header-banner
+avis-express.com,lnr-dz.com##.header-banner
 medialot.fr##.header-sub
 geek-malin.fr##.header-widget-area
 peuple-vert.fr##.header__banner
