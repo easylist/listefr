@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: D+smq2oVS1HXtmf2BHK5kA
-! Version: 202101152023
+! Checksum: mHJAykQRbdQ38nkgryp8Vg
+! Version: 202101192013
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11186,7 +11186,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||ad.zanox.com^$popup,domain=configspc.com
 ||alibaba.com^*&aff_platform=$popup,third-party,domain=~aliexpress.com
 ||aliexpress.com^$popup,domain=dzsat.org
-||aliexpress.com^*&aff_platform=$popup,third-party,domain=~alibaba.com|~forum.hardware.fr
 ||altusmediagroupinc.go2cloud.org^$popup
 ||amazon.fr^$popup,domain=fdesouche.com
 ||amzn.to^$popup,domain=dzsat.org|fdesouche.com
