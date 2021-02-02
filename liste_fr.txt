@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 6CLjW0cWtR4ikqpPCkP9eQ
-! Version: 202102021750
+! Checksum: 7xqrYV7DykMVLBWHmAYWqQ
+! Version: 202102021818
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -10933,6 +10933,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 !
 !----------------------- Sites spécifiques -----------------------!
 !
+[[batiactu.com/sites/all/libraries/bati/cronjobs/specials.js
 ||01porno.com/include/
 ||01streaming.net/wp-content/uploads/2020/08/mptoro-1.png
 ||0dt.net/js/script-
@@ -11166,6 +11167,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||banques-en-ligne.fr^*/habillage.
 ||bans.pornica.fr^
 ||bas88.com/data/$image
+||batiactu.com/cap_batiactu/
 ||batiactu.com/cap_pub/
 ||batiactu.com/images/pub/
 ||batiactu.com^*/partenaire/
@@ -17545,6 +17547,7 @@ lepoint.fr##.partenaire-block
 boursier.com##.partenaire-bourse
 ouest-france.fr##.partenaire-externe
 lepoint.fr##.partenaire-grid
+batiactu.com##.partenaire-wrapper
 petitfute.com##.partenaire_mid
 mamytwink.com##.partenaire_pave
 lachainemeteo.com##.partenaire_simple
@@ -17788,6 +17791,9 @@ lefigaro.fr##.tvm-ads-pave
 lefigaro.fr##.tvm-boutique
 lefigaro.fr##.tvm-boutique-iframe
 lefigaro.fr##.tvm-reagir__pub
+batiactu.com##.type-NAT_HOME
+batiactu.com##.type-native
+batiactu.com##.type-publi
 juritravail.com##.ui-pnotify
 cresus.dz##.uk-slideshow[style="height: 718px;"]
 jeuxetcompagnie.fr##.umbg-overlay-link
