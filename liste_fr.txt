@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7xqrYV7DykMVLBWHmAYWqQ
-! Version: 202102021818
+! Checksum: dFDHB1LxD8OmD54W3aTeaw
+! Version: 202102031126
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12867,14 +12867,14 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||telephoneannuaire.fr/resources/amz*.jpg
 ||telesatellite.com/images/ab-bis-module-offert.jpg
 ||telesatellite.com/images/antennistes-2020.jpg
-||telesatellite.com/images/banniere-telesat-alamaison.jpg
+||telesatellite.com/images/banniere-
 ||telesatellite.com/images/bg_
 ||telesatellite.com/images/dc-
-||telesatellite.com/images/fransat-compte-revendeur.jpg
+||telesatellite.com/images/fransat-
+||telesatellite.com/images/module-tv-fransat.jpg
 ||telesatellite.com/images/noel-2019-telesatellite-
 ||telesatellite.com/images/scdfnjukia.gif
-||telesatellite.com/images/soldes-
-||telesatellite.com/images/soldesh21.jpg
+||telesatellite.com/images/soldes
 ||telesatellite.com/images/tcv-
 ||telesatellite.com/images/telefoot-
 ||telesatellite.com/images/telesat-
@@ -16946,6 +16946,7 @@ lesoir.be###rossel-imu-bottom
 7sur7.be###rpVacature
 flaticon.com###s-p
 slappyto.net###shadow
+telesatellite.com###sheader
 zapiks.fr###shop
 aliceadsl.fr,laposte.net,portail.free.fr###shoppingBox
 sfr.fr###shoppingWrapper
@@ -17126,7 +17127,6 @@ causeur.fr##.asa_product_box
 msn.com##.aside-ad
 lindependant.fr##.auto300X250
 reezocar.com##.autopromo-container
-telesatellite.com##.aws_block + table
 buzzly.fr##.ayl-ad-article
 nintendo-master.com##.back_content
 animedigitalnetwork.fr##.background-click
@@ -17840,7 +17840,6 @@ portail.free.fr##.zoning--sticky
 lepetiteconomiste.com##.zoom
 fdesouche.com##[class$="-link"]
 ccm.net,commentcamarche.com,commentcamarche.net##[class$="_adsense"]
-telesatellite.com##[class$="bg"] > [id]:first-child
 amazon.fr##[class*="-advertising-"]
 amazon.fr##[class*="-sponsored-"]
 ccm.net,commentcamarche.com,commentcamarche.net##[class*="_item--sponsor"]
