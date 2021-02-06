@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: dFDHB1LxD8OmD54W3aTeaw
-! Version: 202102031126
+! Checksum: vjsWeOIjsFS6pudS0Rmziw
+! Version: 202102060151
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -298,7 +298,7 @@
 .ads7-
 .ads8-
 .adscroller.
-.adsearch.
+.adsearch.$domain=~adsearch.fr
 .adserverpub.$domain=~adserverpub.com
 .adsixmedia.
 .AdTech&
