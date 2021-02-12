@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: qDLY6YEGeMMC2IX4fYBkZA
-! Version: 202102112135
+! Checksum: 8f71ppRWGMspz0OeJtKYjw
+! Version: 202102120402
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14727,6 +14727,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.adv_block
 ##.adv_clickable
 ##.adv_cont
+##.adv_placeholder_728_90
 ##.adv_pop
 ##.adv_text
 ##.adv_text2
@@ -14893,6 +14894,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.cadrepub
 ##.cadrepubfooter
 ##.campagnePUBcoldroite
+##.cap-ads
 ##.carbon-ad
 ##.card--row-ads
 ##.carouselpub
@@ -14923,6 +14925,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.conteneur_pub_vertical
 ##.content-ad-bloc
 ##.content-pub-top
+##.coreads-wrapper
 ##.coreads_habillage
 ##.creatividad
 ##.criteo-ban
@@ -15797,6 +15800,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##[class^="trivago_widget_"]
 ##[class^="view-affichage-publicit"]
 ##[class^="view-id-affichage_publicit"]
+##[data-ads-core]
 ##[data-e2e="advertisement"]
 ##[data-qwertize-zone]
 ##[data-type="ad"][data-format]
@@ -17927,6 +17931,7 @@ space-blogs.net##a[href="http://www.bleuhabitat.fr/"] > img
 coco.fr##a[href="http://www.joker.net"]
 shinymen.com##a[href="http://www.karouikaroui.com/fr/outdoor/"]
 leparking.fr##a[href="http://www.ligloo.fr"]
+capital.fr##a[href="https://innoveralacampagne.fr"] > img
 jemangejemincis.fr##a[href="https://track.webgains.com/"]
 radioalgerie.dz##a[href="https://www.radioalgerie.dz/pub/"]
 tadpu.com##a[href^="//fr.ulule.com/insidezecube/?utm_campaign="]
