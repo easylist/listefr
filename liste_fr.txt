@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 8f71ppRWGMspz0OeJtKYjw
-! Version: 202102120402
+! Checksum: o4CCSpHucL76DcDm2hgt9A
+! Version: 202102120516
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18276,8 +18276,8 @@ futura-sciences.com#?#.postcontainer:-abp-has(.username:-abp-contains(Publicité
 homify.fr#?#.photo__m:-abp-has(.top-label)
 homify.fr#?#.premium-card:-abp-has(.top-label)
 ici-londres.com#?#.articles_list_item:-abp-has(.category:-abp-contains(Sponsorisé))
-igen.fr,macg.co,watchgeneration.fr#?#article:-abp-has(.sidebar-artitle:-abp-contains(📣))
-igen.fr,macg.co,watchgeneration.fr#?#article:-abp-has(h2:-abp-contains(📣))
+igen.fr,macg.co,watchgeneration.fr#?#article:-abp-has(.sidebar-artitle:-abp-contains(/📣|📌/))
+igen.fr,macg.co,watchgeneration.fr#?#article:-abp-has(h2:-abp-contains(/📣|📌/))
 indeed.fr#?#.jobsearch-SerpJobCard:-abp-has(.sponsoredGray)
 jeuxvideo.com#?#.item-small-pres:-abp-has(a:-abp-has(.sponsored-prefix))
 jeuxvideo.com#?#li:-abp-has(a:-abp-has(.sponsored-prefix))
