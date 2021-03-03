@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 6ihOWHKK+VhXK0ChNO9CtA
-! Version: 202102210510
+! Checksum: X/TJKFvkPubEp6/5yPeOtg
+! Version: 202103032207
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -5853,6 +5853,7 @@ debugger:$popup
 ||emoailtoo.com^
 ||emuboosag.com^
 ||encoding.ovh^
+||enflaquat.xyz^
 ||enjws5329l.com^
 ||enmbg.com^
 ||enninghannothat.info^
@@ -16347,6 +16348,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##div[id^="block-views-ads-sidebar-"]
 ##div[id^="crt-"][data-criteo-id]
 ##div[id^="div-adt-"]
+##div[id^="div-gpt-promo-"]
 ##div[id^="divsda-"]
 ##div[id^="exoNativeWidget"]
 ##div[id^="gpt-ad-banner"]
@@ -17064,7 +17066,7 @@ syskb.com##.bandeaupub
 cdmail.fr##.bandeauvert
 iphone4.fr,jeux-mmorpg.com##.baner
 bismirabbika.com,coran-francais.com,orientation-chabab.com##.bann
-2conv.com,afrik-foot.com,afrik.com,afrikeco.com,flvto.biz,flvtomp3.cc,glenatbd.com,hdnumerique.com,jizzbunker.com,journaldugeek.com,kpopfm.fr,manga-news.com,medialot.fr,mesbagages.com,orientation-chabab.com,telquel.ma,textnow.com,trimag.fr,ventsdouest.com##.banner
+2conv.com,afrik-foot.com,afrik.com,afrikeco.com,expressio.fr,flvto.biz,flvtomp3.cc,glenatbd.com,hdnumerique.com,jizzbunker.com,journaldugeek.com,kpopfm.fr,manga-news.com,medialot.fr,mesbagages.com,orientation-chabab.com,telquel.ma,textnow.com,trimag.fr,ventsdouest.com##.banner
 batiactu.com##.banner-background
 golem13.fr##.banner-halfpage
 jizzbunker.com##.banner-popup
@@ -17521,6 +17523,7 @@ msn.com##.promobanner
 wikiclic.com##.promocentered
 pornofrance.org##.promomenu
 meteosun.com##.promote_large
+expressio.fr##.promoted-vcontainer
 tf1.fr##.promoted_image
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ouedkniss.com##.ptipana
