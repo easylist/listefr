@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: SuTqZlfaSH6bxfQ7FaJ9/A
-! Version: 202103040154
+! Checksum: tTmf7mnENuU8/e2/Q90Apw
+! Version: 202103040212
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18295,6 +18295,7 @@ korben.info#?#blockquote:-abp-has(a[href*="http://bit.ly/"])
 korben.info#?#blockquote:-abp-has(a[href*="http://bitly.com/"])
 korben.info#?#div > hr + article.type-post:-abp-has(header:-abp-has(a[href^="http://bit.ly/"]))
 korben.info#?#div > hr + article.type-post:-abp-has(header:-abp-has(a[href^="http://bitly.com/"]))
+korben.info#?#div[class*="sous-article"]:-abp-has(a[href^="http://amzn.to/"])
 lebigdata.fr#?#.elementor-widget-wrap:-abp-has(a[href^="http://clickmetertracking.com/"])
 lemonde.fr#?#.area--ops:-abp-has(p:-abp-contains(Contenus partenaires))
 lemonde.fr#?#.bd__bloc:-abp-has(.bd__header:-abp-contains(Barnebys.fr))
