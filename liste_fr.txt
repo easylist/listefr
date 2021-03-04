@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 6gDTqve/EbE9cOtRjsVhdg
-! Version: 202103040233
+! Checksum: ca3OnTpykGjJZDhy5JvIWw
+! Version: 202103040257
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -9240,7 +9240,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||geek-nerd-server.firebaseapp.com^
 ||geekyalgeria.com/wp-content/uploads/*-600x400-
 ||generation-nt.com/img/ovh/
-||geo.img.pmdstatic.net/scale/*/300xauto/background-color/*/picture.gif
 ||gerardmerinfo.fr/pub/
 ||ggc.ninja^$subdocument
 ||ggstreaming.azurewebsites.net^
@@ -9333,6 +9332,8 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||img.fasttechcdn.com$domain=trackitonline.org|trackitonline.ru
 ||img.grouponcdn.com/gpn/$image,third-party
 ||img.nuxit.com/banners/
+||img.pmdstatic.net/scale/*/300xauto/*/picture.gif
+||img.pmdstatic.net/scale/*/360xauto/*/picture.gif
 ||img.root-top.com/topsite/$third-party
 ||img.webme.com/pic/p/piriketseverler/
 ||img6.bricozone.be/jquery-1.2.6.min.js
@@ -18033,7 +18034,6 @@ mega-p2p.net##a[href^="https://vpn."]
 fdesouche.com,wikimonde.com##a[href^="https://www.amazon.fr/"]
 qwant.com##a[href^="https://www.bing.com/aclick?"]
 qwant.com##a[href^="https://www.bing.com/aclk?"]
-capital.fr##a[href^="https://www.bod.fr/capital.html?"]
 maison-et-domotique.com##a[href^="https://www.bons-plans-elise.fr/"]
 mega-p2p.net##a[href^="https://www.clictune.com/"]
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
