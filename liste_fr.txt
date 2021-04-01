@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: R3PiqsLgjxyFeRmIsml/Sw
-! Version: 202104012001
+! Checksum: 1nMh9QJVcvAGKoh5BBawEQ
+! Version: 202104012008
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -4708,6 +4708,7 @@ debugger:$popup
 ||pureadexchange.com^$third-party
 ||purlive.com^$~image,third-party
 ||pushazer.com^$third-party
+||pushinpage.com^$third-party
 ||pushmejs.com^$third-party
 ||pushnews24.com^$third-party
 ||putbid.net^$third-party
@@ -8907,6 +8908,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||aolcdn.com/ads/
 ||apk.miuor.com/footer.js
 ||apk.miuor.com/header.js
+||app.partnerlottery.com/widget/$third-party
 ||appleboobs.com/images/banner/
 ||applet.horlogeparlante.com^$script,third-party
 ||april.fr/#/?$third-party
