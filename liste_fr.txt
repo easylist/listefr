@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 5kWKNGTQIiVemAGVxAJncQ
-! Version: 202104180434
+! Checksum: S+CWqsuWZ6gMMfwWZtKlVg
+! Version: 202104180735
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -1496,6 +1496,7 @@
 /doubleclick_dmm/*
 /drawpub2.
 /dreamads/*
+/dtc-adserver-
 /dub-dub-iad/*
 /dynamicAds?
 /e/cm?t=*&lt1=$subdocument
@@ -3951,6 +3952,7 @@ debugger:$popup
 ||appsha2.space^$third-party
 ||appupdate.center^$third-party
 ||apypxl.com^$third-party
+||aqua-adserver.com^$third-party
 ||aquaplatform.com^$third-party
 ||aquipelis.tv^$third-party
 ||ar-ads.net^$third-party
