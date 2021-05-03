@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: B8HturoVxfDFitHwOfOOmQ
-! Version: 202104180945
+! Checksum: qhmtq2a1ev9OKNkwpCZj2Q
+! Version: 202105031823
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -384,6 +384,10 @@
 .php/ads|
 .php/affiliate/
 .php?&zoneid=
+.php?*&b=160x600
+.php?*&b=300x250
+.php?*&b=468x60
+.php?*&b=728x90
 .php?*&bannerid*campaignid=
 .php?*&size=*&synergie=
 .php?*&sub_zoneid=
@@ -1682,6 +1686,7 @@
 /interstitial-ads.
 /interstitial/*?tid=
 /interstitial/*?uid=
+/intro-ad-*?
 /ip2/infopop2.
 /ipornia.*?Grupsnames=
 /iptvpub.
@@ -3800,6 +3805,7 @@ debugger:$popup
 ||adop.cc^$third-party
 ||adoptima.com^$third-party
 ||adoric.com^$third-party
+||adorion.net^$third-party
 ||adpaths.com^$third-party
 ||adpick.co.kr^$third-party
 ||adpicker.net^$third-party
@@ -3838,6 +3844,7 @@ debugger:$popup
 ||adsk2.co^$third-party
 ||adskom.com^$third-party
 ||adslead.com^$third-party
+||adsluna.com^$third-party
 ||adsmena.com^$third-party
 ||adsmmgp.com^$third-party
 ||adsoid.com^$third-party
@@ -4130,6 +4137,7 @@ debugger:$popup
 ||cougarmessenger.com^$third-party
 ||cpabuild.com^$third-party
 ||cpaofferstat.com^$third-party
+||cpm.media^$third-party
 ||cpmstar.com^$third-party
 ||cpmwizard.com^$third-party
 ||cptefr.com^$third-party
@@ -4460,6 +4468,7 @@ debugger:$popup
 ||maxprofitcontrol.com^$third-party
 ||maxrevenue1.com^$third-party
 ||maxtargetad.com^$third-party
+||mdgzg.com^$third-party
 ||mecacroquer.com^$third-party
 ||medi-8.net^$third-party
 ||media-clic.com^$third-party
@@ -4482,6 +4491,7 @@ debugger:$popup
 ||menaon.com^$third-party
 ||merciconseil.com^$third-party
 ||mescodespromos.com^$third-party
+||mfk-cpm.com^$third-party
 ||mhadsd.com^$third-party
 ||milan-pub.com^$third-party
 ||milfalone.com^$third-party
@@ -4948,6 +4958,7 @@ debugger:$popup
 ||top-games.me^$third-party
 ||topfreesoft4you.com^$third-party
 ||toponclick.com^$third-party
+||topporn.site^$third-party
 ||torabri.com^$third-party
 ||totaladperformance.com^$third-party
 ||totale-defonce.com^$third-party
@@ -5099,6 +5110,7 @@ debugger:$popup
 ||xsnap.me^$third-party
 ||xtraffstat.com^$third-party
 ||xxarbitrage.com^$third-party
+||xxnatxx.com^$third-party
 ||xxxtraff.com^$third-party
 ||xxxtraffic.biz^$third-party
 ||y-ads.net^$third-party
@@ -5649,6 +5661,7 @@ debugger:$popup
 ||chamsoop.net^
 ||chanicut.com^
 ||charmstroy.info^
+||chatmilkprude.casa^
 ||chautcho.com^
 ||chelsust.com^
 ||chevyadvancewhirlpool.com^
@@ -7165,6 +7178,7 @@ debugger:$popup
 ||vidhos.com^
 ||vidsizee.com^
 ||vidsplay.net^
+||vilercarpetfolk.com^
 ||viliaff.com^
 ||vimjobcue.work^
 ||vinfdv6b4j.com^
@@ -8184,6 +8198,7 @@ debugger:$popup
 ||globwo.online^$popup,third-party
 ||gloupa.com^$popup,third-party
 ||gmboxx.com^$popup,third-party
+||go.epn.bz^$popup,third-party
 ||go2boobs.net^$popup,third-party
 ||go2click.org^$popup,third-party
 ||gohillgo.com^$popup,third-party
@@ -8262,6 +8277,8 @@ debugger:$popup
 ||katuhus.com^$popup,third-party
 ||kds.media^$popup,third-party
 ||kfiopkln.com^$popup,third-party
+||klaviyo.com^$popup
+||klclick.com^$popup
 ||kroo66.com^$popup,third-party
 ||ksamsngcc.com^$popup
 ||ktrackdata.com^$popup,third-party
@@ -8343,6 +8360,7 @@ debugger:$popup
 ||mxttrf.com^$popup,third-party
 ||mybad.fr^$popup,third-party
 ||mybenne.com^$popup,third-party
+||mybestclick.net^$popup,third-party
 ||mycamptrack.com^$popup,third-party
 ||myhhjk.xyz^$popup
 ||myninja.info^$popup,third-party
@@ -8778,6 +8796,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 !
 ||000webhost.com/migrate?$third-party
 ||10-81.s.cdn15.com/cr/38440/
+||1080872514.rsc.cdn77.org^
 ||11footballclub.com/equipe/
 ||11footballclub.com^*/indexcolonne.php?
 ||11footballclub.com^*/indexhomepage2.php*&domain=
@@ -10218,7 +10237,9 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||i.goopics.net/vRo4o.jpg
 ||i.ibb.co/5v8KJgY/nordvpn.jpg
 ||i.ibb.co/6w36P4p/Express-VPNReview3.jpg
+||i.ibb.co/KqP9wqf/46.png
 ||i.ibb.co/Vj7Pgys/Express-VPN-Review-png.gif
+||i.ibb.co/Wg619PT/728.png
 ||i.ibb.co/WprZZcR/Express-VPNReview2.jpg
 ||i.imgbox.com/tGydQuRH.png
 ||i.imgur.com/0mKekma.jpg
