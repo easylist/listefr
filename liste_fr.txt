@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: iWtlv8ZqRgFbVqfuaP2+3Q
-! Version: 202105032001
+! Checksum: QhvT86gg70/TwRk4T+iRqA
+! Version: 202105032010
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11071,6 +11071,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||annuaire-telechargement.com/uploads/*iptv
 ||annuaire-telechargement.com/uploads/hola
 ||annuaire-telechargement.com/uploads/vosbiens.
+||api.qwant.com/*/ia/shopping?
 ||apipub.oumma.com^
 ||aps.dz/images/banners/clients/
 ||arabwebtv.com/arabwebtv.gif
@@ -18161,6 +18162,7 @@ lemonde.fr##div[data-partner="barnebys"]
 e-monsite.com##div[data-role="sp"]
 e-monsite.com##div[data-role="sp2"]
 edcom.fr##div[data-target]
+qwant.com##div[data-testid^="snippet"]
 net-iris.fr##div[id$="promo_container"]
 maisonapart.com##div[id*="-pub-"]
 maisonapart.com##div[id*="-publi-"]
