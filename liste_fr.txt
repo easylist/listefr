@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: hsMSuc1DQpC4VGBRbaBN+A
-! Version: 202105050424
+! Checksum: y4yM6728AWBQIkDWrEXgvQ
+! Version: 202105050458
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2943,7 +2943,7 @@ _frontend_loader.$script
 /\/(license|script)\.\d{1,5}\.js/$script
 /\/[a-z]{1,3}\?zoneId\=\d{7}\-\d{7}$/$script
 /\/cpanel\/b\.php\?t\=[0-9a-zA-Z]{24,}&index=[0-9]{1,6}/$script
-/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|click|club|cricket|date|download|faith|fun|ga|gdn|gq|link|loan|men|ml|network|ovh|party|pro|pw|racing|review|rocks|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~file.pizza|~instant.io|~mellivora.pro|~mellivora.trade|~myinterview.com|~webtorrent.io
+/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|click|club|cricket|date|download|faith|fun|ga|gdn|gq|link|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~arium.events|~file.pizza|~instant.io|~mellivora.pro|~mellivora.trade|~myinterview.com|~polkadot.js.org|~proctoredu.com|~proctoredu.ru|~redirect-ads.com|~spaceship.media.mit.edu|~webtorrent.io|~yorbbackend.xyz
 /^(https?|wss?):\/\/([0-9a-z\._-]+)\.(accountant|be|bid|cf|click|club|cricket|date|download|faith|fun|ga|gdn|gq|info|life|link|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|ru|science|site|space|stream|tk|top|trade|uk|webcam|website|win|xyz|zone)\.\/(.*)/$document,image,popup,script,stylesheet,subdocument,websocket,xmlhttprequest
 /^https?:\/\/[0-9a-z]+\.(bid|com|me)\/app\.js\?_=([a-z0-9]{8}-([a-z0-9]{4}-){3}[a-z0-9]{12})$/$script,third-party,xmlhttprequest
 /^https?:\/\/[0-9a-z]+\.(bid|com|me)\/watch\?([a-z]{2,3}=(([0-9a-z]{4,8}\-){4})[0-9a-z]{12}\&){2}$/$third-party,xmlhttprequest
