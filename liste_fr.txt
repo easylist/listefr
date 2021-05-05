@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: YUVEemaDyEAowOkukKQonw
-! Version: 202105050348
+! Checksum: hsMSuc1DQpC4VGBRbaBN+A
+! Version: 202105050424
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18537,6 +18537,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||syndication.twitter.com/tweets.json?*&ids=*&lang=*&suppress_response_codes=$script
 @@||systeme.io/public/*/show?source=*-iframe-$subdocument
 @@||systeme.io/public/remote/page/*.js|$script
+@@||thepiratebay.org/description.php?id=$popup,~third-party
 @@||v.fwmrm.net/ad/g/1?caid=*&vpaid=on|$xmlhttprequest,domain=mycanal.fr
 @@||videos-pub.ftv-publicite.fr/media/$object,domain=playerftp.videostream.fr
 @@||videos-pub.ftv-publicite.fr/player/ad2play.js$domain=tv5mondeplus.com
