@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: y4yM6728AWBQIkDWrEXgvQ
-! Version: 202105050458
+! Checksum: tplRdRBsayX/kjDLvnIuDA
+! Version: 202105050530
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2848,6 +2848,7 @@ _popup_frontend.$domain=~iledespecheurs.eu
 _popup_init.$domain=~iledespecheurs.eu
 _popup_pro.
 _pp_dhtml.
+_profits_ad-
 _program_ad.
 _pub.gif
 _pub_300x.
@@ -18131,6 +18132,9 @@ prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
 lefigaro.fr##a[target="_blank"] > img[style="width: 463px; height: 170px;"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="100"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
+forexmt4indicators.com##a[target="_blank"] > img[width="300"][height="250"]
+forexmt4indicators.com##a[target="_blank"] > img[width="300"][height="385"]
+forexmt4indicators.com##a[target="_blank"] > img[width="728"][height="90"]
 hd-stream.cc##a[target="_parent"]
 footpy.fr##a[target^="_blank"] > [style="width:303px"]
 footpy.fr##a[target^="_blank"] > [style="width:584px"]
