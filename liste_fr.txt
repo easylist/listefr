@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: umw66+SsY7GpEwQWSD/t5g
-! Version: 202105091728
+! Checksum: D0l0iKY3yYOTTVPinxTaiA
+! Version: 202105091805
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -10955,7 +10955,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||1baiser.com/image/$third-party
 ||1divx.co/images/ban*.jpg
 ||1fichier.fr/pub2/
-||1hds.to/wp-content/uploads/2020/05/1hds.to_.png
 ||1maxdegay.com^$subdocument,~third-party
 ||1me.club/hidden.php
 ||1movies.*/site/$xmlhttprequest
@@ -13762,6 +13761,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ###carre-pub
 ###carre_pub
 ###carrepubHome
+###clickfakeplayer
 ###colgauche_pub
 ###comment-ad
 ###commentad
@@ -16702,7 +16702,7 @@ loractu.fr###estate-widget
 easyvoyage.com###esv-pub-hp
 muslimshop.fr###evenement
 moov.mg###extruderLeft1
-1hds.to,hds-stream.pro,liensporno.com,sexandtrash.com###fakeplayer
+hds-stream.pro,liensporno.com,sexandtrash.com,streampourvous.com###fakeplayer
 israelmagazine.co.il###featgal
 ouedkniss.com###flash_transparent
 agroligne.com,auto-utilitaire.com,mobilealgerie.com###floatdiv
