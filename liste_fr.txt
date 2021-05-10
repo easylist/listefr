@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gzaunjVckAesTRnw45LODw
-! Version: 202105101315
+! Checksum: BP3bb40YcIDIupejGrqb2A
+! Version: 202105101320
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -10873,8 +10873,8 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||lien.lu^$popup,third-party
 ||live.lavoixdux.com^$popup,third-party
 ||livecareer.fr^$popup,domain=pole-emploi.fr
-||livejasmin.com^$?psid=$popup
-||livejasmin.com^&utm_$popup
+||livejasmin.com^*&utm_$popup
+||livejasmin.com^*?psid=$popup
 ||locamax.fr^*?popup=$popup
 ||maigris.com^$popup
 ||mb.indecentes-voisines.com^$popup
