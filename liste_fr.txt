@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Yev/z4Z+m0nxk1wIZ0+Cqg
-! Version: 202106131822
+! Checksum: vWcKKrx13CKErQj64sbT3Q
+! Version: 202106131855
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -3051,8 +3051,10 @@ _frontend_loader.$script
 ||online^*?type=pu&
 ||org/sw.js?$other,script,~third-party
 ||porn/func.js
+||porn/js/func.js$script,~third-party
 ||pro/*?video=video.fp-engine
 ||pro/func.js
+||pro/js/func.js$script,~third-party
 ||pro^*/ban/iframe/
 ||pro^*/pop/js/
 ||pro^*=/$script,third-party
@@ -3072,6 +3074,7 @@ _frontend_loader.$script
 ||tv/js/*=.js
 ||ws/exa/$script
 ||xxx/func.js
+||xxx/js/func.js$script,~third-party
 ||xxx^*/banner-
 ||xxx^*/banner2.
 ||xyz/scripts-php/gen.$script
@@ -7479,6 +7482,7 @@ debugger:$popup
 ||zeejuthu.com^
 ||zeeleeni.com^
 ||zeliteral.info^
+||zendplace.pro^
 ||zercenius.com^
 ||zewkj.com^
 ||zha6ivnktt.com^
