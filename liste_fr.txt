@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: vWcKKrx13CKErQj64sbT3Q
-! Version: 202106131855
+! Checksum: FxkbAwsigcTVqmE078Xj9Q
+! Version: 202106131857
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -1793,7 +1793,7 @@
 /mwpopunder.
 /myadcash.
 /myadproxy_
-/myads.$domain=~myads.agency
+/myads.$domain=~blocket.se|~myads.agency
 /myadvertisements.
 /n2ad_iframe.
 /nadstive.
