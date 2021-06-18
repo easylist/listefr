@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: T1m23DLo3gUchf0riwAfqw
-! Version: 202106181832
+! Checksum: Zc4c0qJNdPDmmUwrWgAzFA
+! Version: 202106181916
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -17766,8 +17766,6 @@ nicematin.com##.nm_ad
 nicematin.com##.nm_header_ad
 echoroukonline.com##.no_design
 jolpress.com##.node-banner
-chine.in##.nomobile [style="float:right;"]
-chine.in##.nomobile[style="float:right;"]
 msn.com##.non-empty-ad
 moteurs-regionaux.com##.normalCoupProjo
 valeursactuelles.com##.nos-partenaires
@@ -18153,7 +18151,6 @@ filecrypt.cc,filecrypt.co##[onclick] img
 filecrypt.cc,filecrypt.co##[onmousedown]
 filecrypt.cc,filecrypt.co##[onmouseup]
 centrifuge-lemag.fr##[role="banner"] > #cb-logo-box
-chine.in##[style*="base64"]
 amvtv.net##[style*="position: absolute; z-index: 99999"]
 forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding:15px"]
 lesoir.be##a > [width="300"][height="250"]
@@ -18205,7 +18202,6 @@ flashx.pw,flashx.tv##a[href*="//trk."]
 presse-algerie.net##a[href*="/?ad="]
 filmcomplet.in,filmcomplet.vip,filmsrip.net##a[href*="/?do="]
 artdeseduire.com##a[href*="/?part="][target="_blank"]
-chine.in##a[href*="/?t="][style]
 webactus.net##a[href*="/?utm_source="]
 sosvirus.net##a[href*="/affiliate-"] > img
 maghrebemergent.com,maghrebemergent.info##a[href*="/banners/click/"]
@@ -18241,7 +18237,6 @@ challenges.fr,nouvelobs.com##a[href*="?partnerlinkid="]
 jemangejemincis.fr##a[href*="?utm_campaign="]
 abcbourse.com,meteofrance.com##a[href*="?utm_source="]
 deco-smart.com##a[href*="?utm_source=ds_shop"]
-chine.in##a[href*="Fwww.objetschinois.com"]
 voyageforum.com##a[href*="_ads;"]
 welovebuzz.com##a[href*="_adw&"]
 jds.fr##a[href*="_clic.php?"]
@@ -18382,7 +18377,6 @@ savefrom.net##a[id][href][target][style]
 degrouptest.com##a[onclick*="/resultspage/"]
 dl-protect1.com,filerio.in,ifp.re,libertyvf.co,libertyvf.tv,liens-telechargement.com,pframe.eu,plink.re,prfr.re,prifr.eu,protect-iframe.com,torrents.io##a[onclick]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent'"]
-chine.in##a[onclick^="window.open"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 achat-bitcoins.com##a[rel="nofollow"] > img
 indoxx1.com##a[rel][style]
@@ -18448,7 +18442,6 @@ notebookcheck.biz##div[id] + div[class] > img:first-child
 akvideo.stream,vakarm.net##div[id][onclick][style]
 voyageforum.com##div[id][style*="float: left; height: 250px; width: 310px;"]
 voyageforum.com##div[id][style="display: block; width: 850px; margin-top: -9px; height: 285px;"]
-chine.in##div[id][style="float: right;"]
 voyageforum.com##div[id][style="width: 850px; height: 127px; overflow: hidden; vertical-align: top;"]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
 hd-stream.cc##div[id^="ads"]
@@ -18520,7 +18513,7 @@ abidjanshow.com##img[alt="PUBLICITE"]
 medialot.fr##img[height="38"][width="300"]
 electromenager-compare.com##img[height="600"][width="160"]
 dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
-chine.in,fullsharez.com,prfr.re,prifr.eu,protect-iframe.com,ratopi.com##img[src*="base64"]
+fullsharez.com,prfr.re,prifr.eu,protect-iframe.com,ratopi.com##img[src*="base64"]
 jpost.com##img[src^="blob:"]
 zataz.com##img[style$="width: 300px; height: 250px;"]
 filecrypt.cc,filecrypt.co##img[style^="display:"]
@@ -18571,6 +18564,19 @@ people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 drague.net##tr > td[height="95"][align="center"][colspan="2"]
 ifp.re,pframe.eu,plink.re,prfr.re,prifr.eu,protect-iframe.com##video
 youporn.com##video[autoplay][loop]
+! chine.in
+chine.in##.headerinfo:last-of-type
+chine.in##.nomobile [style="float:right;"]
+chine.in##.nomobile[style="float:right;"]
+chine.in##[style*="base64"]
+chine.in##a[href*="/?t="][style]
+chine.in##a[href*="Fwww.objetschinois.com"]
+chine.in##a[onclick^="window.open"]
+chine.in#?#.headerinfo:-abp-has(a[target="_blank"])
+chine.in#?#[style*="width:300px;"]:-abp-contains(/ANNONCE/BOUTIQUE/PARTENAIRE|PUB/)
+chine.in#?#a:-abp-contains(/ANNONCE/BOUTIQUE/PARTENAIRE|PUB/)
+chine.in##div[id][style="float: right;"]
+chine.in##img[src*="base64"]
 ! yggtorrent
 yggtorrent.li,yggtorrent.se,yggtorrent.si,yggtorrent.to##.hadopi
 yggtorrent.li,yggtorrent.se,yggtorrent.si,yggtorrent.to##.safe_download
@@ -18600,9 +18606,6 @@ blogdumoderateur.com#?#.breve:-abp-has(.breve-info:-abp-contains(Sponsorisé))
 blogdumoderateur.com#?#.sticky:-abp-has(.sponsorise)
 businessinsider.fr#?#.post-nonfeatured:-abp-has(.title-studio:-abp-contains(Contenu Sponsorisé))
 ccm.net#?#.ccm_list_catch__item:-abp-contains(Sponsored)
-chine.in#?#.headerinfo:-abp-has(a[target="_blank"])
-chine.in#?#[style*="width:300px;"]:-abp-contains(/ANNONCE/BOUTIQUE/PARTENAIRE|PUB/)
-chine.in#?#a:-abp-contains(/ANNONCE/BOUTIQUE/PARTENAIRE|PUB/)
 cnetfrance.fr#?#.riverPost:-abp-has(.tag-desktop:-abp-contains(Publicité))
 commentcamarche.com,commentcamarche.net#?#.ccm_list_catch__item:-abp-contains(Annonces)
 discordbots.org,top.gg#?#.bot-card:-abp-has(.lib:-abp-contains(Promoted))
