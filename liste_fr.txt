@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: YVyoVn5FrYqO0xgYEQvQ6g
-! Version: 202106211613
+! Checksum: pCL7OwLm5xGUChicLMMfpA
+! Version: 202106211614
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -9486,7 +9486,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||surfeurdor.free.fr^
 ||t5hkmjkmhfae.com^
 ||tac2.xcams.com/livecams/$third-party
-||tadpu.com/wp-content/uploads/*/boxbox.png
 ||tagbox.fr/banner/
 ||tcweb-host.com/*/pub/
 ||tea-cerede.com/devis/$third-party
@@ -17557,7 +17556,6 @@ capital.fr##a[href="https://innoveralacampagne.fr"] > img
 jemangejemincis.fr##a[href="https://track.webgains.com/"]
 radioalgerie.dz##a[href="https://www.radioalgerie.dz/pub/"]
 montorrent.com,omgtorrent.bz,omgtorrent.cz##a[href^="#"]
-tadpu.com##a[href^="//fr.ulule.com/insidezecube/?utm_campaign="]
 igen.fr,macg.co,watchgeneration.fr##a[href^="/ad-"]
 avocat.fr,jeunesfooteux.com,ladepeche.pf,ophtalmo.tv,rewmi.com,senioractu.com,zinfos974.com##a[href^="/ads/"]
 tahiti-infos.com##a[href^="/ads/"] > .image
