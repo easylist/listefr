@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: xjy0P2hnpPudmszhTvIFbQ
-! Version: 202106211503
+! Checksum: g8Sc52GbJ8sCkycAupRYDg
+! Version: 202106211609
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16532,8 +16532,6 @@ brain-magazine.fr###t_logo_pub
 dinogaia.com###tableau_info
 google.fr###tadsb
 montorrent.com,omgtorrent.bz,omgtorrent.cz###telechargement
-zataz.com###text-25
-zataz.com###text-26
 psthc.fr###thc_amz_content
 quick-tutoriel.com###the-post .warning
 phpsources.org###titre_librairie
@@ -16831,7 +16829,6 @@ ma-reduc.com##.covering
 games.softgames.de##.cpi-banner-description-content
 egaliteetreconciliation.fr##.cpt-parw
 egaliteetreconciliation.fr##.cpt-wrap
-zataz.com##.csa-popup
 hdss.la##.custom-fake-media-info
 cyberguerre.numerama.com##.cyberguerre-end-block-post
 blumei-piano.com##.cyt-affi-wrapper
@@ -17802,7 +17799,6 @@ electromenager-compare.com##img[height="600"][width="160"]
 dl.free.fr##img[onclick^="window.open('http://logiciel.telechargement.fr/redirprod.html?"]
 fullsharez.com,prfr.re,prifr.eu,protect-iframe.com,ratopi.com##img[src*="base64"]
 jpost.com##img[src^="blob:"]
-zataz.com##img[style$="width: 300px; height: 250px;"]
 filecrypt.cc,filecrypt.co##img[style^="display:"]
 gulfup.co##img[width="100"][height="35"]
 guinee7.com##img[width="1015"][height="221"]
@@ -17963,6 +17959,7 @@ voyageforum.com#?#div[style*="width: 300px"]:-abp-contains(/Publicité|Publicit�
 voyageforum.com#?#div[style*="width: 300px"]:-abp-has(.adsbygoogle)
 voyageforum.com#?#table[class="post"]:-abp-has(tbody:-abp-contains(/annonces|annonceurs/))
 voyageforum.com#?#table[style="width: 300px;"]:-abp-has(a)
+zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 ! facebook.com
 facebook.com##a[aria-label="Lien de l’annonceur"]
 facebook.com#?#.userContentWrapper:-abp-contains(Sponsorisé)
