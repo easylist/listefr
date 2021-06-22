@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 54Rm0eeToCvBdf/Nj/6LSA
-! Version: 202106211619
+! Checksum: uxYfu/Xktkf2WpyLuHBAXQ
+! Version: 202106221008
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18040,6 +18040,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||donnemoilinfo.com/tuto/Ad-Remover/img/Ad-remover$image
 @@||dqndusk8a84ol.cloudfront.net/cache/js/*.js|$script,domain=worldsurfleague.com
 @@||dzautos.com/swf/prix_du_neuf.swf
+@@||e-casier.mjustice.dz^$popup,~third-party
 @@||ebayrtm.com/rtm?RtmCmd&a=json&p=$script,domain=www.befr.ebay.be
 @@||ebayrtm.com/rtm?RtmPreviewContent&$subdocument,domain=www.befr.ebay.be
 @@||euromedicom.online^*=com_acymailing&*&mailid=$popup
