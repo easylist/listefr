@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 4EPX1QREdK9spCWyWVZfOQ
-! Version: 202107021903
+! Checksum: VtVQE3K7qzkwTBGeiuwipg
+! Version: 202107021922
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -1574,6 +1574,7 @@
 /frprn_ad.
 /full-page-script-$script
 /full-page-script.$script
+/fulladnet.js
 /fullpagebanner.js
 /games-ad.
 /games/ads.
@@ -8968,6 +8969,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||jardindespieux.com/pub/
 ||jardisexe.com/ban/$third-party
 ||javblow.com/imgDoe.php
+||javsubtitle.co/sponsor/
 ||jejethesniper.free.fr/Forum/Partenariat.gif
 ||jememontre.com/images/banners/
 ||jetinteraktif.com/depo/
@@ -17379,6 +17381,7 @@ valeursactuelles.com##.view-horizons-valeurs-actuelles
 geste.fr##.view-id-partenaires
 geste.fr##.view-partenaires
 bioalaune.com##.view-pub
+pornovore.fr##.vjs-toolbar
 elmoudjahid.com##.vpub
 brain-magazine.fr##.vv-hide
 rtl.be##.w-content-details-ligatus
