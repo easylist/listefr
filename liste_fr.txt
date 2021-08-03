@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: lDJC2HI5fsxSemdozaf7jg
-! Version: 202108032149
+! Checksum: ACLN5pR7wAHdKWtpC/V/nQ
+! Version: 202108032223
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15049,6 +15049,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.panel-ads
 ##.panel_pub
 ##.panet-mars-adv-panel
+##.parent-ad-desktop
 ##.partner-asset-left-ad
 ##.partner-asset-right-ad
 ##.partner-pub
@@ -17767,6 +17768,7 @@ babesxworld.com,cocogals.com##a[href^="/goto/"]
 nrj.be##a[href^="/imu/click/"]
 mayottehebdo.com##a[href^="/index.php?option=com_banners"]
 immigrer.com##a[href^="/p/bannieres/"]
+betaseries.com##a[href^="/partner/"]
 telemagazine.fr##a[href^="/produits_contextuels/"]
 confidentielles.com##a[href^="/rc_787_"]
 streaming-series.me##a[href^="/regarder"]
