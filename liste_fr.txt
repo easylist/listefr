@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: RdI7ly7oyOyl+Avpdlc/9Q
-! Version: 202108032040
+! Checksum: yGNV180jhWDG2leEnswnNw
+! Version: 202108032049
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -1289,6 +1289,7 @@
 /banners/pub-
 /banners/pub.
 /banners/pub2.
+/banners/pub3.
 /banners/show_flash.
 /banners?tid=
 /banners_*?size=$subdocument
@@ -11181,6 +11182,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||eco-algeria.com/sites/default/files/*-banner-
 ||eco-algeria.com/sites/default/files/pub_
 ||economiematin.fr^*-ban-300x150.
+||ecranlarge.com/pub/
 ||ed-protect.org/xvideo.js
 ||edcom.fr/images/gaml/
 ||edcom.fr/images/habillage/
