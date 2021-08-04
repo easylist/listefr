@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: yVWJFHuDt2VnZAPVBsr29Q
-! Version: 202108032253
+! Checksum: 4ukXKk6WH95Mv8fRO4RCBA
+! Version: 202108040019
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -9451,7 +9451,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||teambuildclub.com/images/$third-party
 ||techbeat.com/wp-content/custom-php/tbrecentposts3.php?
 ||technologiesaintjoseph.com/addon/script/*?integration=$third-party
-||techpowerup.com/-a/
 ||teen-passion.net/annuaire/ban/$third-party
 ||teenlolly.com^*/banners/
 ||teenskitten.com^$media,script
@@ -9487,6 +9486,9 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||tounet.com/button.php
 ||tounet.com/button.php?
 ||toutsurlesabdos.com/images/bannieres_$domain=europeplusnet.info
+||tpucdn.com/a/
+||tpucdn.com/b/
+||tpucdn.com/jutrfbvhjhred/
 ||traceless.me/api/$third-party
 ||track.bloglog.com^$third-party
 ||track.mdsmatch.com^
