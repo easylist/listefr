@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 4J67kyRgyxbUB05K5mpZAQ
-! Version: 202108042059
+! Checksum: 7udgpe8OVd83b3Rj6eROig
+! Version: 202108042126
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8352,6 +8352,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||accueil.pro/annuaire88.png
 ||achetezfacile.com^*/widget$third-party
 ||acommeassure.com/publicapi/$third-party
+||actu-direct.fr/rep/rep_pub/
 ||ad.ccmbg.com^
 ||ad.genybet.fr^
 ||ad.graciamediaweb.com^
@@ -13407,6 +13408,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ###large-banner-bottom-ad
 ###leaderboard.ads
 ###left-ads-rail
+###left_slide_pub
 ###libelle_pub
 ###liens_sponsorises
 ###loading-ad
@@ -13768,6 +13770,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ###right_ad_3
 ###right_ad_4
 ###right_pub
+###right_slide_pub
 ###rightadBorder3
 ###rightcolumn_160x600ad
 ###rightpubbox
@@ -14502,6 +14505,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.conteneur_pub_vertical
 ##.content-ad-bloc
 ##.content-pub-top
+##.content_slide_pub
 ##.coreads-wrapper
 ##.coreads_habillage
 ##.creatividad
@@ -15208,6 +15212,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.side-pub
 ##.side-pub-img
 ##.side_content_pub
+##.side_slide_pub
 ##.sidebar-ads160
 ##.sidebar-adv
 ##.sidebar-middle-ad
