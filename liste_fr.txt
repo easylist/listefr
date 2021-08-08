@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: s/6By8tt+f6sRNk7KHVM0w
-! Version: 202108062159
+! Checksum: hjTpWqySBTaqvXINAQ0Q1g
+! Version: 202108082056
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -10806,6 +10806,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||cheminots.net/forum/uploads/*/B3F0CA1B-1340-4BCC-A1FE-7250D6ABB2B0.jpeg
 ||cheminots.net/forum/uploads/*/banniere_
 ||chilitag.cloudapp.net^
+||chine.in/images/*/ban-
 ||chine.in/regie
 ||chococlic.com/photo/mod-21199920.png
 ||choisir-ses-lunettes.com^*/banners/
@@ -17806,8 +17807,9 @@ chine.in##a[href*="/?t="][style]
 chine.in##a[href*="Fwww.objetschinois.com"]
 chine.in##a[onclick^="window.open"]
 chine.in#?#.headerinfo:-abp-has(a[target="_blank"])
-chine.in#?#[style*="width:300px;"]:-abp-contains(/ANNONCE/BOUTIQUE/PARTENAIRE|PUB/)
-chine.in#?#a:-abp-contains(/ANNONCE/BOUTIQUE/PARTENAIRE|PUB/)
+chine.in#?#[class^="a"]:last-of-type
+chine.in#?#[style*="width:300px;"]:-abp-contains(/ANNONCE|Annonce|BOUTIQUE|PARTENAIRE|PUB/)
+chine.in#?#a:-abp-contains(/ANNONCE|Annonce|BOUTIQUE|PARTENAIRE|PUB/)
 chine.in##div[id][style="float: right;"]
 chine.in##img[src*="base64"]
 ! yggtorrent
