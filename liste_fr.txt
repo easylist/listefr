@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 5OEqdDxKrRM5FU6GPjADEA
-! Version: 202108121516
+! Checksum: Muu1WEomu9nzP3kc1gpVSw
+! Version: 202108122216
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -6793,6 +6793,7 @@ debugger:$popup
 ||wawoalte.com^
 ||waymapbud.com^
 ||wdt9iaspfv3o.com^
+||webadv.co^
 ||webair.com^
 ||webgekeniuos.com^
 ||webytom.com^
@@ -8228,6 +8229,7 @@ debugger:$popup
 ||watch-now.club^$popup
 ||wct.link^$popup,third-party
 ||web-affiliation.com^$popup,third-party
+||webadv.co^$popup
 ||webmasterspub.com^$popup,third-party
 ||weborama.fr^$popup,third-party
 ||webprod.cybertesteurs.com^$popup,third-party,domain=~iss.net
