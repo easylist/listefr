@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 1AzY5ZZuPOAt6FLxq4qlHw
-! Version: 202108202258
+! Checksum: 543sm41QEt/wJ5jrGVHyVQ
+! Version: 202108202307
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8631,7 +8631,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||centreautos.com/contents//annonce/$third-party
 ||centredecontrole.biz^$subdocument
 ||centreimmo.com/contents//annonce/$third-party
-||century21.fr^$subdocument,third-party
+||century21.fr^$subdocument,third-party,domain=~lesmeilleurstalents.com
 ||cex.io/rb/$third-party
 ||chaturbate.com^*/?track=$subdocument,third-party
 ||checkout.hidemyass.com/images/merchant/$third-party
