@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ObbkqXmkaqrg2T+Uefq7Ug
-! Version: 202108251526
+! Checksum: 1YJfuKgVBZRpQS7dDq3RjA
+! Version: 202108251529
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15447,6 +15447,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##[class^="trivago_widget_"]
 ##[class^="view-affichage-publicit"]
 ##[class^="view-id-affichage_publicit"]
+##[data-ad-text]
 ##[data-ads-core]
 ##[data-e2e="advertisement"]
 ##[data-qwertize-zone]
