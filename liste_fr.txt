@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: R5ffMlmAEn2SJGru0M1IwA
-! Version: 202108251511
+! Checksum: TeIbCi5J1rF+xAFg34GJdw
+! Version: 202108251520
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11797,6 +11797,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||media.funradio.fr/online/image/*_skin-vip$image
 ||media.lelogicielgratuit.com/*/img/banner-
 ||media.peterhahn.fr/is/image/peterhahn/*_skyscraper_
+||media.quetelecharger.com/*/img/banner-
 ||media.rtl.fr/online/image/*_skin-
 ||media.rtl.fr^*/image/*_habillage$image
 ||mediabong.*/campaign/
@@ -13546,6 +13547,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ###pub-728x90
 ###pub-730x90
 ###pub-970x90
+###pub-after-adownload
 ###pub-ban
 ###pub-banner
 ###pub-banner-content
@@ -14945,6 +14947,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.pub-980x200
 ##.pub-Adtech
 ##.pub-adsn
+##.pub-after-download
 ##.pub-ban
 ##.pub-banner
 ##.pub-block
@@ -14964,6 +14967,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.pub-haut
 ##.pub-home-news-bloc
 ##.pub-img
+##.pub-index
 ##.pub-label
 ##.pub-ligatus-article
 ##.pub-megaban
