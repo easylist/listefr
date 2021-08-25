@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 1YJfuKgVBZRpQS7dDq3RjA
-! Version: 202108251529
+! Checksum: 7soMWAaQMl0oiKv90evrJQ
+! Version: 202108251546
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14968,6 +14968,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.pub-home-news-bloc
 ##.pub-img
 ##.pub-index
+##.pub-index-gauche
 ##.pub-label
 ##.pub-ligatus-article
 ##.pub-megaban
@@ -17178,7 +17179,6 @@ millepertuis.eu##.pub-gauche-flottant
 1point2vue.com,direct-radio.fr##.pub-header
 challenges.fr,sciencesetavenir.fr##.pub-home
 lefigaro.fr##.pub-icone
-toplien.fr##.pub-index-gauche
 bdgest.com,bedetheque.com##.pub-interne-top
 lematin.ma##.pub-medium
 118712.fr##.pub-oan-hp
@@ -17658,9 +17658,11 @@ lamule.eu,yifyddl.co##a[href^="https://go.nordvpn.net/"]
 dailyuploads.net##a[href^="https://href.li/"]
 it-swarm-fr.com##a[href^="https://m.do.co/"]
 appsystem.fr##a[href^="https://shop.appsystem.fr/"] > img
+toplien.fr##a[href^="https://track.effiliation.com/servlet/effi.click?"]
 zetorrents.fr##a[href^="https://uploadsnack.com/"]
 mega-p2p.net##a[href^="https://vpn."]
 fdesouche.com,wikimonde.com##a[href^="https://www.amazon.fr/"]
+toplien.fr##a[href^="https://www.awin1.com/cread.php?"]
 qwant.com##a[href^="https://www.bing.com/aclick?"]
 qwant.com##a[href^="https://www.bing.com/aclk?"]
 maison-et-domotique.com##a[href^="https://www.bons-plans-elise.fr/"]
