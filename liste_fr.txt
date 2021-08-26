@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: nqR2ODAzyNf0N2bEKIrlPw
-! Version: 202108251624
+! Checksum: hy7bxYKwXhgWOxphzt4kxg
+! Version: 202108262108
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -3508,6 +3508,7 @@ _frontend_loader.$script
 ?cid=*&offer=pop&$popup
 ?cid=*&popeye=$popup
 ?cid=*_POP_$popup,third-party
+?clickId=*&subId=$popup,third-party
 ?clickid=*.adult.$popup
 ?disclaimer_accept=$popup
 ?exotracker=$popup
@@ -6640,6 +6641,7 @@ debugger:$popup
 ||startmode.biz^
 ||stat.ovh^
 ||staticbhyravabhotl.red^
+||stayplandad.top^
 ||stephn.xyz^
 ||steptaik.net^
 ||sticans.pro^
@@ -6738,6 +6740,7 @@ debugger:$popup
 ||traffikw.com^
 ||trahes.site^
 ||transfto.com^
+||trck.bid^
 ||treat93tubethanks.live^
 ||trecurlik.com^
 ||triedecu.com^
@@ -8147,6 +8150,7 @@ debugger:$popup
 ||stakiwrisl.xyz^$popup
 ||startnewtab.com^$popup,third-party
 ||starzplay.com^$popup,third-party
+||stayplandad.top^$popup
 ||steepto.com^$popup,third-party
 ||stoceezes.pro^$popup
 ||streamall-search.com^$popup
@@ -8217,6 +8221,7 @@ debugger:$popup
 ||transmith.info^$popup,third-party
 ||traqueto.com^$popup,third-party
 ||travelaudience.com^$popup,third-party
+||trck.bid^$popup
 ||tribalfusion.com^$popup,third-party
 ||trkfl.com^$popup,third-party
 ||trmnsite.com^$popup,third-party
