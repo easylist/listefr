@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 8r/xWwKIQHzGmuIMLPkMeA
-! Version: 202108262333
+! Checksum: hTJEqTvY7ecWIZzuWuzDtQ
+! Version: 202108271443
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -10482,6 +10482,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 !
 !----------------------- Sites spécifiques -----------------------!
 !
+||01net.com/front_office/static/telechargement/box/annonce.html
 ||01porno.com/include/
 ||01streaming.net/wp-content/uploads/2020/08/mptoro-1.png
 ||0dt.net/js/script-
@@ -14915,6 +14916,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.position_pub
 ##.ppub300
 ##.promo-extend-announce
+##.promo-extend-pub
 ##.promo-google-300x600
 ##.promo-google-300x600_new
 ##.promo-partenaire
@@ -16191,6 +16193,7 @@ onlinetri.com###box_link_left
 onlinetri.com###box_link_right
 onlinetri.com###box_link_top
 algerie360.com###boxes
+01net.com###bp-partner-yes
 conseils-courseapied.com###cadre-vignette-carnet
 soonnight.com###cadre_partenaire
 ktotv.com###campain-bandeau
@@ -17168,7 +17171,6 @@ buzzporn.net##.privacylinks
 sport-equipements.fr##.product-photo
 deco.fr,euro-2016-france.net,matchendirect.fr##.promo
 challenges.fr,nouvelobs.com##.promo-bottom-art
-01net.com##.promo-extend-pub
 matchendirect.fr##.promoApp
 orange.fr##.promo_sur_etage
 pornojeune.net##.promo_texte2
