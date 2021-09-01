@@ -3483,6 +3483,7 @@ _frontend_loader.$script
 =admaven-$popup
 =adplexmedia&$popup
 =monetizer_$popup
+=noAd-RedirRotaton$popup
 =partenariat&utm_campaign=$popup
 =popads&$popup
 =popads.$popup
@@ -3565,6 +3566,7 @@ _pop.php?z=$popup
 _pornofolies_$popup
 _redirect=*://look.$popup
 _regie/clic.$popup
+_siteunder/$popup
 _uri/*?parametr=$popup
 _zoneid=*/rel/index.cfm?$popup
 !
@@ -4288,6 +4290,7 @@ debugger:$popup
 ||firamayu.com^$third-party
 ||firstoffersfinder.com^$third-party
 ||flinteractive.fr^$third-party
+||flirt-x.co^$third-party
 ||flymob.com^$third-party
 ||fmstitial.xyz^$third-party
 ||folihentai.eu^$third-party
@@ -7737,6 +7740,7 @@ debugger:$popup
 ||filezsuivant.info^$popup
 ||firstadultgames.com^$popup,third-party
 ||flashtalking.com^$popup,third-party
+||flirt-x.co^$popup,third-party
 ||flowerfun.net^$popup,third-party
 ||flowlz.com^$popup,third-party
 ||formulawire.com^$popup,third-party
@@ -8186,6 +8190,7 @@ debugger:$popup
 ||th1sib3stway.com^$popup
 ||tharbadir.com^$popup
 ||the-adult-company.com^$popup,third-party
+||theadultcompany.biz^$popup,third-party
 ||thegoodcaster.com^$popup
 ||themoneytizer.com^$popup,third-party
 ||theopenads.com^$popup,third-party
@@ -8729,6 +8734,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||devisprox-media.s3-website-eu-west-1.amazonaws.com^
 ||devisprox.com/ld.js
 ||dhtml.pornravage.com^
+||dial.rencontres-celibataires.info^
 ||dibujos.net/images/banners/
 ||ding.pl/embed,$third-party
 ||dir-fr.com/banners/
@@ -12861,7 +12867,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||tahiti-infos.com/ads/$popup
 ||tchat-tarot.com/?partner=$popup
 ||techlatesnews.com/?camp=$popup
-||theadultcompany.biz/*/ff_siteunder/$popup
 ||toonanime.*/templates/$popup,~third-party
 ||tubave.com/redirect.$popup
 ||tube-teen.fr^$popup,script
