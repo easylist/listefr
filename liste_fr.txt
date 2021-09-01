@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: n0xQJjsu/Sny7ML3DtblIA
-! Version: 202109012142
+! Checksum: JPSIbVpY55mlYpoc1SYSjg
+! Version: 202109012150
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12860,6 +12860,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||tchat-tarot.com/?partner=$popup
 ||techlatesnews.com/?camp=$popup
 ||theadultcompany.biz/*/ff_siteunder/$popup
+||toonanime.tv/templates/$popup,~third-party
 ||tubave.com/redirect.$popup
 ||tube-teen.fr^$popup,script
 ||unblocked2.vip^*&$popup
