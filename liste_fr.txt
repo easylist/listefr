@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Yl4sMnRAO6ENmjMclsiIXA
-! Version: 202108271606
+! Checksum: n0xQJjsu/Sny7ML3DtblIA
+! Version: 202109012142
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -17894,7 +17894,7 @@ chine.in##img[src*="base64"]
 ! yggtorrent
 yggtorrent.li,yggtorrent.nz,yggtorrent.se,yggtorrent.si,yggtorrent.to##.hadopi
 yggtorrent.li,yggtorrent.nz,yggtorrent.se,yggtorrent.si,yggtorrent.to##.safe_download
-,yggtorrent.li,yggtorrent.se,yggtorrent.si,yggtorrent.to##.vpn
+yggtorrent.li,yggtorrent.se,yggtorrent.si,yggtorrent.to##.vpn
 yggtorrent.li,yggtorrent.nz,yggtorrent.se,yggtorrent.si,yggtorrent.to##a[href*="/get_vpn"]
 yggtorrent.li,yggtorrent.nz,yggtorrent.se,yggtorrent.si,yggtorrent.to##a[style][onclick]
 yggtorrent.li,yggtorrent.nz,yggtorrent.se,yggtorrent.si,yggtorrent.to##td[style][onclick]
