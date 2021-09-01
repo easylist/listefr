@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: NQrJhSXhZeT39FoZT0kDNQ
-! Version: 202109012235
+! Checksum: KPwjUSz7uDgMR6eY/VTz5g
+! Version: 202109012243
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11778,6 +11778,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||mangaku.info/wp-content/uploads/2019/01/gif-1.gif
 ||mangovideo.pw/player/float.php
 ||mangovideo.pw/player/html.php
+||maniabook.argentmania.com/uploads/news/1134/92yHtP4E4Z.gif
 ||manifone.com/banner/
 ||mappy.com/*/files/campaigns/
 ||mappy.com/services/annoncesjaunes/
@@ -16119,7 +16120,6 @@ top-for-phone.fr###background-cover
 euro-2016-france.net###background-promo
 meilleurmobile.com###backgrounddiv
 deavita.fr###badHabbitsPopup
-argentmania.com###ban
 manga-news.com###ban970250
 grandecran.fr###ban_big
 cdmail.fr###bandeau
@@ -16507,7 +16507,9 @@ entrecoquins.com###pub_tatoo
 ouest-france.fr###pub_wallpaper
 histoire-pour-tous.fr###pubbott
 paris-communiques.com,plateformemedia.com###publaterale
+argentmania.com###publeft
 troc-velo.com###publine
+argentmania.com###pubright
 focus-numerique.com,lapresse.ca,les-terrains.com###pubs
 algerie360.com###pubsousVid
 lamanchelibre.fr###pubsuper
@@ -17633,7 +17635,6 @@ algeriephilatelie.net##a[href^="http://clic.reussissonsensemble.fr/click.asp?"]
 premiere.fr##a[href^="http://clkde.tradedoubler.com/click?"]
 lefigaro.fr##a[href^="http://cplussur.lefigaro.fr/"]
 only-iphone.fr##a[href^="http://fr.copytrans.net/copytranscontacts.php?utm_source="]
-argentmania.com##a[href^="http://fr.scratchmania.com/?brandId="]
 aufeminin.com##a[href^="http://hyperurl.co/"]
 lefigaro.fr##a[href^="http://lefigaro.explorimmo.com/resultat/annonces.html?"]
 opensubtitles.org##a[href^="http://osdb.link/go?"]
