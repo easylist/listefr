@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: vktqOQIvj8aeZtPrErxhRw
-! Version: 202110011551
+! Checksum: 2m5+YgzsihmtEKPyi1BM+g
+! Version: 202110031151
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -734,6 +734,7 @@
 /AdClerks300.
 /AdConfig.aspx
 /adCTNRender.
+/adCustom-
 /addblock.js
 /addocking.
 /adengine2/*
@@ -13359,6 +13360,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ###advert_03
 ###advert_06
 ###advert_space
+###advertisePlacement
 ###advertisement-2
 ###advertisement-3
 ###advertising2-postroll
@@ -14043,6 +14045,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ###rightrail-ad-2
 ###rotate_textads_2
 ###roundPub
+###sabavisionIframeAds
 ###sagreklam
 ###sbPubRegie
 ###script-fallback-pub336
@@ -14233,6 +14236,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.ad-item-sd
 ##.ad-item-si
 ##.ad-item__title
+##.ad-itself
 ##.ad-largebanner
 ##.ad-leaderboard-mobile
 ##.ad-leaderboard-top-desktop
@@ -14574,6 +14578,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.adv_block
 ##.adv_clickable
 ##.adv_cont
+##.adv_middle
 ##.adv_placeholder_468_60
 ##.adv_placeholder_728_90
 ##.adv_pop
@@ -14594,6 +14599,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.advert.leaderboard
 ##.advertStd
 ##.advert_pos
+##.advertise-band
 ##.advertisement-pub
 ##.advertisement_120x600
 ##.advertisement_250x250
@@ -14820,6 +14826,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.drt-ad-url
 ##.drt-sponsor-block
 ##.drt-sponsor-data
+##.dsp-under-video-ad
 ##.e3lan
 ##.e3lan-below_header
 ##.e3lan-bottom
@@ -14904,6 +14911,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.head-pub
 ##.header-add-wrapper
 ##.header-adds
+##.header-blocked-ad
 ##.header-box-ads
 ##.header-promo
 ##.header-pub
@@ -14949,6 +14957,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.ipsAdvertisement_medium
 ##.ipsAdvertisement_small
 ##.istdg-sponsored
+##.it-sponsor-site
 ##.item-ad-header
 ##.item-izipub
 ##.item-pubb
@@ -15464,6 +15473,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.river-ad
 ##.row_pub
 ##.rtPaidAd
+##.sabavision-ads
 ##.sag-reklam-120x600
 ##.scpe-pub
 ##.sd-ad-container
@@ -15623,6 +15633,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.widgetpub
 ##.with-ad
 ##.with-ad-top
+##.with-corner-ad
 ##.wppasrotate
 ##.wrap-pub
 ##.wrapper-header-ad-slot
