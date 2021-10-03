@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gKKtqlwPBYF8JzUf2q0Ngg
-! Version: 202110031152
+! Checksum: 8nPAPXbRLfnBqyqlviC+3g
+! Version: 202110031159
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14272,6 +14272,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.ad-container
 ##.ad-container--aside
 ##.ad-container--banner
+##.ad-container--bottom
 ##.ad-corner-top-250
 ##.ad-dfp
 ##.ad-dfp-generic-content
@@ -14670,6 +14671,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.ady90
 ##.adziner-adzone
 ##.af_bloc_partners
+##.amazon_pub
 ##.an-advert-banner
 ##.an-sponsored
 ##.annnonces_partenaires
@@ -14695,6 +14697,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.avert--leaderboard
 ##.avert__criteo
 ##.avert__wrapper
+##.awardAd
 ##.ayl-injected-element
 ##.ban-728
 ##.ban_pub
@@ -16938,7 +16941,6 @@ sitesavisiter.com##.alj
 leparking-moto.fr##.alter
 portail.free.fr,quellecompagnie.com##.amazon
 montorrent.com,omgtorrent.bz,omgtorrent.cz##.amazon-affichage
-idees-de-genie.fr##.amazon_pub
 amazon.fr##.amzn-safe-frame-container
 tourhebdo.com##.annemp
 madagascar-tribune.com##.annonce
@@ -17474,7 +17476,6 @@ renders-graphiques.fr##.pub_galerie
 aerobuzz.fr##.pub_image
 influencia.net##.pub_large
 dzsat.org##.pub_logo
-idees-de-genie.fr##.pub_on
 space-blogs.net##.pub_ra
 jeuxvideopc.com##.pub_refonte
 paruvendu.fr##.pub_vignette
