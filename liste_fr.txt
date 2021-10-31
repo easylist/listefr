@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +ggObSAo4RdEKx2DMSbWbA
-! Version: 202110292151
+! Checksum: 0ZZ7E3g7Whl4SYr67KuM9Q
+! Version: 202110311323
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -9888,6 +9888,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||trivago.fr^/srv/$third-party
 ||trouart.fr/labo/
 ||truesteamachievements.com^$script,subdocument,third-party
+||try.abtasty.com^$domain=planet.fr
 ||tube-manga-hentai.com/promo/a.php?
 ||tube-manga-hentai.com/tools/bannieres/
 ||tudou.com^$subdocument
