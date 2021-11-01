@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: EbFuAXQ5N9rmEUZcTUA2pg
-! Version: 202111010258
+! Checksum: coC3n6yBwG9OwlvTNnFuJw
+! Version: 202111010402
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -13086,12 +13086,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||rel.nextinpact.com^
 ||rel2.nextinpact.com^
 ||zam.nextinpact.com^
-! omgtorrent
-@@||www.montorrent.com/assets/js/scripts.js$script,~third-party
-@@||www.montorrent.com/assets/js/vendors.js$script,~third-party
-||montorrent.com^$script
-||omgtorrent.bz^$script
-||omgtorrent.cz^$script
 ! powvideo.net
 ||aontent.powvideo.
 ||povvideo.*/ben/
@@ -16709,7 +16703,6 @@ footendirect.com###link-wrap-around
 degroupnews.com###link_pub
 journaldugeek.com###linkhabillage
 ouedkniss.com###list-last-stores
-montorrent.com,omgtorrent.bz,omgtorrent.cz###liste-des-fichiers
 a40ans.com###liste-webcams
 millenium.gg###logo_droite
 centreimmo.com###logos-partenaires
@@ -16860,7 +16853,6 @@ jeu.net###pubz
 search.free.fr###pud_search
 liligo.fr###pulledbanner
 liligo.fr###pulledbanner-right-top
-montorrent.com,omgtorrent.bz,omgtorrent.cz###rechercher-le-torrent
 parolesmania.com###rectangle > .thinbox div[style="height: 250px;"]
 igen.fr,macg.co,watchgeneration.fr###refurb-widget
 lexpress.mu###region-user-second
@@ -16913,7 +16905,6 @@ portail.free.fr###surleweb
 brain-magazine.fr###t_logo_pub
 dinogaia.com###tableau_info
 google.fr###tadsb
-montorrent.com,omgtorrent.bz,omgtorrent.cz###telechargement
 psthc.fr###thc_amz_content
 quick-tutoriel.com###the-post .warning
 phpsources.org###titre_librairie
@@ -17029,7 +17020,6 @@ homecinema-fr.com##.aliencable-link
 sitesavisiter.com##.alj
 leparking-moto.fr##.alter
 portail.free.fr,quellecompagnie.com##.amazon
-montorrent.com,omgtorrent.bz,omgtorrent.cz##.amazon-affichage
 amazon.fr##.amzn-safe-frame-container
 tourhebdo.com##.annemp
 madagascar-tribune.com##.annonce
@@ -17163,7 +17153,6 @@ lepoint.fr##.branding
 voyageforum.com##.breadcrumb
 beaute-test.com##.bt__ad
 upload.ac##.btn-dl-plus
-montorrent.com,omgtorrent.bz,omgtorrent.cz##.btn-regarder-torrent
 gamergen.com,generation-nt.com##.bup
 telechargement-film.club,telechargement-film.co,telechargement-film.link##.buttondll
 telechargement-film.club,telechargement-film.co,telechargement-film.link##.buttonstreaming
@@ -17602,7 +17591,6 @@ gonzai.com##.red-one-third
 lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.references
 igen.fr,macg.co,watchgeneration.fr##.refurb
 cdiscount.com##.regBloc
-montorrent.com,omgtorrent.bz,omgtorrent.cz##.regarder-le-torrent
 jds.fr##.regie_20
 archimag.com##.region-before-content
 endirect24.com##.rek
@@ -17776,8 +17764,6 @@ ccm.net,commentcamarche.com,commentcamarche.net##[class*="_item--sponsor"]
 aujourdhui-en-france.fr,leparisien.fr##[class*="ads-"]
 silicon.fr##[class*="displayed_advertisers-"]
 uploaded.net##[class*="pico-"]
-montorrent.com,omgtorrent.bz,omgtorrent.cz##[class*="usenet"]
-montorrent.com,omgtorrent.bz,omgtorrent.cz##[class*="vpn"]
 winamax.fr##[class][onclick]
 centrifuge-lemag.fr##[class][style] > a#cb-bg-to
 voyageforum.com##[class^="adShadow"]
@@ -17792,7 +17778,6 @@ voyageforum.com##[class^="offers"]
 ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
 fulltv.tv##[class^="publi"]
 guide-piscine.fr##[class^="regie_"]
-montorrent.com,omgtorrent.bz,omgtorrent.cz##[class^="toro"]
 reverso.net##[class^="vda-"]
 bestream.tv##[class^="widget_aff_"]
 bestream.tv##[class^="widget_nq_"]
@@ -17860,7 +17845,7 @@ je-ddl.com,streaming-series.me,streamiz-hd.xyz##a[href*=".html"] > img
 1001ebooks.com,1337x.st,1337x.to,9divx.org,agence-webside.fr,amairgil.cz,arciam.fr,cpasbien.reviews,cpasbien.to,cpasbien0.net,cpasbiens-netflix.com,cpasbiens-streaming.com,cpasbiens.net,ddl-island.cc,ddl-island.co,ddl-island.org,dpstreaming.to,easyplayer.cc,emule-island.cc,emule-island.co,emule-island.ru,enstream.co,espace-ehce.fr,extreme-down.link,extreme-down.live,eyonle.com,film01stream.com,film01stream.tube,filmcomplet.in,filmcomplet.vip,filmgratuit.net,films-telecharger.eu,filmstreaming.buzz,filmstreaming1.la,filmz.ws,filmzenstream.cloud,filmzenstream.xyz,free-telecharger.net,free-telecharger.org,free-telecharger.xyz,frtorrent.fr,fullsharez.com,fullstream.plus,guitare-luthier.fr,hdss.la,illimitestreaming.net,je-ddl.com,lemondedekevin.fr,lemonlemag.fr,mangas-anime.com,moulins-de-flandre.fr,nemours-medieval.fr,oxtorrent.cc,oxtorrent.co,oxtorrent.cx,oxtorrent9.com,papstream.cc,papystreaming.black,planet-streaming1.com,planetevideos.xyz,protect-stream.com,ratopi.com,rent2016.fr,rueduplanet.fr,sawstream.com,serie-streaming.watch,series-en-streaming.xyz,sillonsdeculture.fr,sokrostream.tube,stream-island.cc,stream-island.org,streaming-films-hd.com,streamingdivx.cc,streamingdivx.club,streamonsport.club,streamonsport.net,superchataigne2017.fr,topsddns.net,torrent9-super.com,torrent9.to,torrent9ph.fr,torrent9uno.fr,vfcomplet.vip,voir-films-series.com,voirfilmshds.com,voirfilmstreaming.tv,wawacity.one,wo2viral.com,x1337x.eu,x1337x.se,x1337x.ws,yggtorrent.co,youwatch-serie.com,youwatch-series.com,zone-annuaire.xyz,zone-telechargement.dev,zustream.ws##a[href*=".php"]
 leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
 meilleurs-hebergeurs.com##a[href*="/-"] > img
-7-up.net,abidjan.net,algerie-eco.com,algerie-focus.com,algerie360.com,bigbike-magazine.com,bismirabbika.com,brain-magazine.fr,cnetfrance.fr,coran-francais.com,doukkalia.press.ma,dzairmobile.com,filmhdstream.net,filmstreaming.la,frenchstreaming.fr,grimper.com,hentai-paradise.fr,hentaifr.net,igen.fr,internetparsatellite.net,kiteboarder-mag.com,ktotv.com,lebonfap.com,letagparfait.com,macg.co,montagnes-magazine.com,montorrent.com,mubawab.ma,nintendo-master.com,niveales.com,omgtorrent.bz,omgtorrent.cz,oxtorrent.cx,oxtorrent.me,portail.free.fr,public.fr,skieur.com,skimagazine.fr,snowsurf.com,streaming-one.com,supmag.fr,tahiti-infos.com,telecharger-jeuxpc.fr,telesatellite.com,topito.com,torrent9.ninja,torrent9.so,trekmag.com,unleashed.fr,upload.ac,urlcero.net,vakarm.net,watchgeneration.fr,widermag.com,windmag.com##a[href*="//bit.ly/"]
+7-up.net,abidjan.net,algerie-eco.com,algerie-focus.com,algerie360.com,bigbike-magazine.com,bismirabbika.com,brain-magazine.fr,cnetfrance.fr,coran-francais.com,doukkalia.press.ma,dzairmobile.com,filmhdstream.net,filmstreaming.la,frenchstreaming.fr,grimper.com,hentai-paradise.fr,hentaifr.net,igen.fr,internetparsatellite.net,kiteboarder-mag.com,ktotv.com,lebonfap.com,letagparfait.com,macg.co,montagnes-magazine.com,mubawab.ma,nintendo-master.com,niveales.com,oxtorrent.cx,oxtorrent.me,portail.free.fr,public.fr,skieur.com,skimagazine.fr,snowsurf.com,streaming-one.com,supmag.fr,tahiti-infos.com,telecharger-jeuxpc.fr,telesatellite.com,topito.com,torrent9.ninja,torrent9.so,trekmag.com,unleashed.fr,upload.ac,urlcero.net,vakarm.net,watchgeneration.fr,widermag.com,windmag.com##a[href*="//bit.ly/"]
 cdiscount.com,clubic.com,lemonde.fr,sosiphone.com,supertoinette.com,tomtomax.fr##a[href*="//clk.tradedoubler.com/click?"]
 abidjan.net,algerie-focus.com,algerie360.com,bc.vc,bismirabbika.com,coran-francais.com,direct-torrents.com,extratorrents.ch,gum-gum-streaming.co,gum-gum-streaming.com,igen.fr,instinct-voyageur.fr,israelmagazine.co.il,jeux.com,journaldumusulman.fr,limetorrents.cc,lnc.nc,macg.co,orientation-chabab.com,oxtorrent.cx,oxtorrent.me,proxylistpro.com,tendancehotellerie.fr,torrent9.gg,torrent9.is,torrent9.ninja,torrent9.so,watchgeneration.fr##a[href*="//goo.gl/"]
 flashx.pw,flashx.tv##a[href*="//trk."]
@@ -17937,7 +17922,6 @@ leparking.fr##a[href="http://www.ligloo.fr"]
 capital.fr##a[href="https://innoveralacampagne.fr"] > img
 jemangejemincis.fr##a[href="https://track.webgains.com/"]
 radioalgerie.dz##a[href="https://www.radioalgerie.dz/pub/"]
-montorrent.com,omgtorrent.bz,omgtorrent.cz##a[href^="#"]
 igen.fr,macg.co,watchgeneration.fr##a[href^="/ad-"]
 avocat.fr,jeunesfooteux.com,ladepeche.pf,ophtalmo.tv,rewmi.com,senioractu.com,zinfos974.com##a[href^="/ads/"]
 tahiti-infos.com##a[href^="/ads/"] > .image
