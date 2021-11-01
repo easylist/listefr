@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 3ftKGSpsuc1ENzKB8rNJAw
-! Version: 202111010523
+! Checksum: OVcStmjPEH9v86hFE+2XWA
+! Version: 202111010531
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -10115,7 +10115,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||coinlink.us^$script,third-party
 ||cpmlink.net^$script,third-party
 ||croco.me^$script,third-party
-||curs.io^$script,third-party
 ||cut-urls.com^$script,third-party
 ||e3raaf.com^$script,third-party
 ||faltuwap.com^$script,third-party
@@ -18688,7 +18687,7 @@ _blockadblock_
 @@.jpg#$image,domain=4downfiles.org|macgames-download.com|the-night-of-streaming.eu
 @@.png#$image,domain=4downfiles.org|leetgamerz.net|likeup.fr|radio-en-direct.fr|savefile.co|stream4free.live|tout-debrid.net|tout-gratuit.be
 @@/adblock.js$script,~third-party,domain=anilinkz.to|jdubuzz.com|jeuxvideo.com|journaldugamer.com|pixelistes.com
-@@/ads.js$script,~third-party,domain=adbilty.me|adhit.me|adpop.me|adshort.co|adshort.im|adshort.me|ah.pe|coinlink.co|coinlink.us|cuon.io|curs.io|cut-urls.com|cutly.win|cutwi.in|danpod.work|eues.io|euon.io|igram.im|kimo-link.com|lkky.co|manga-vf.fr|passetoncode.fr|shortenow.com|tune.pk|zonebourse.com|zype.xyz
+@@/ads.js$script,~third-party,domain=adbilty.me|adhit.me|adpop.me|adshort.co|adshort.im|adshort.me|ah.pe|coinlink.co|coinlink.us|cuon.io|cut-urls.com|cutly.win|cutwi.in|danpod.work|eues.io|euon.io|igram.im|kimo-link.com|lkky.co|manga-vf.fr|passetoncode.fr|shortenow.com|tune.pk|zonebourse.com|zype.xyz
 @@/advertisement.js$script,domain=chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghreb.space|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|videozix.com|zonebourse.com
 @@/advertisement.js$script,~third-party,domain=cap-public.fr|coco.fr|crash-aerien.aero|crash-aerien.news|leveldown.fr|quoverbis.com
 @@/advertising.js$script,~third-party,domain=animedigitalnetwork.fr
@@ -18725,7 +18724,6 @@ _blockadblock_
 @@||coolgames.com^$generichide
 @@||cours-de-droit.net^$generichide
 @@||cpmlink.net^$generichide
-@@||curs.io^$generichide
 @@||filespace.com^$generichide
 @@||flash-mail.xyz^$generichide
 @@||flyrelax.com^$generichide
