@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: aaqt2Ou7a+a/P0KMNMuLIA
-! Version: 202111190257
+! Checksum: n/qotONcvIpt0CfkRK0gCA
+! Version: 202111230511
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -10772,7 +10772,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||dealdog.net/advert.php$popup
 ||depannagedisquedur.fr/dll/$popup
 ||discutfree.com^$popup,domain=netvibes.com
-||djezzy.dz^$popup,domain=ouedkniss.com
 ||domautcr.com/clicki/$popup
 ||downloading.to/*?k=&ban=$popup
 ||druidx.com/?track=$popup
@@ -11264,6 +11263,8 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||cdn.flvto.biz/js/*_popup_
 ||cdn.flvto.biz/push_app.js
 ||cdn.mgig.fr/2020/03/mg-955d46a3-59d5-462b-9a97-full.jpg
+||cdn.ouedkniss.com/medias/images/
+||cdn.ouedkniss.com/medias/promotions/
 ||cdn.tirage-gagnant.com/js/dynamic-ban-
 ||cdn.tirage-gagnant.com/js/popup.js
 ||cdn.wpformation.com/wp-content/uploads/*/wpserveur-banner
@@ -12457,7 +12458,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||otaku-attitude.net^*/okazu-manga.gif
 ||otakufr.com/wp-content/uploads/*-300x115-
 ||otakufr.com/wp-content/uploads/*/banner.
-||ouedkniss.com^*/index_pub.js
 ||ouest-annonces.com/widgethomePAOFM.php
 ||ouest-france.fr/*ploads/banner/
 ||ouestfrance-auto.com/widget/$third-party
@@ -13251,7 +13251,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||mstx.com/top/$popup
 ||mvs4u.tv/wp-content/$popup
 ||navigateur-brave.fr/telecharger-navigateur-brave.html$popup
-||ouedkniss.com/pubs/$popup
 ||out.streamcomplet.$popup
 ||partoch.com/redir/$popup
 ||permispratique.com/ads/$popup
@@ -16684,7 +16683,6 @@ easyvoyage.com###esv-pub-hp
 moov.mg###extruderLeft1
 hds-stream.pro,liensporno.com,sexandtrash.com,streampourvous.com###fakeplayer
 israelmagazine.co.il###featgal
-ouedkniss.com###flash_transparent
 agroligne.com,auto-utilitaire.com,mobilealgerie.com###floatdiv
 algeriepatriotique.com###flottante_droite
 algeriepatriotique.com###flottante_gauche
@@ -16715,10 +16713,10 @@ banques-en-ligne.fr,bd-sanctuary.com,bioalaune.com,c8.fr,cine-sanctuary.com,comi
 leparking.fr###habillage-pub
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-right
 alternance.com,bac-es.net,bac-l.net,bac-pro.net,bac-s.net,bac-stg.net,brevetdescolleges.fr,devoirs.fr,doc-etudiant.fr,ingenieurs.com,marketing-etudiant.fr,mediaetudiant.fr###habillage-top
-autobip.com,ouedkniss.com###habillage_a
-autobip.com,ouedkniss.com###habillage_b
+autobip.com###habillage_a
+autobip.com###habillage_b
 besac.com###habillage_cliquable
-autobip.com,ouedkniss.com###habillage_flash
+autobip.com###habillage_flash
 buzzdefou.com,gerardmerinfo.fr###habillage_site
 millenium.gg###habillagesite
 geekopolis.fr###habitdroit
@@ -16790,7 +16788,6 @@ lachainemeteo.com###lig
 footendirect.com###link-wrap-around
 degroupnews.com###link_pub
 journaldugeek.com###linkhabillage
-ouedkniss.com###list-last-stores
 a40ans.com###liste-webcams
 millenium.gg###logo_droite
 centreimmo.com###logos-partenaires
@@ -16846,9 +16843,6 @@ gameblog.fr###overlayFnac
 forum-iphoneaddict.fr###p00
 cdiscount.com###paFooterPubPartner
 lebonfap.com###page-sexcam--roomlist
-ouedkniss.com###page_annonces_top
-ouedkniss.com###page_interstitiel
-ouedkniss.com###page_top_right
 blogspot.com###pageflip
 les-reponses.fr###pann_bas
 lemonde.fr###panneau-programme-emploi
@@ -16972,7 +16966,6 @@ jvn.com###skin
 batiactu.com###skip-link
 ezgif.com###sky
 peterhahn.fr###skyscraper
-ouedkniss.com###slideWrapper
 aujourdhui.com###slidebox
 channelbiz.fr,itespresso.fr,silicon.fr###slider-partnerzone
 maitresrestaurateurs.com###sliderPartenaire
@@ -17518,6 +17511,8 @@ generation-nt.com##.ntSponsored
 manjaro.fr##.nuxit
 lenouveleconomiste.fr##.nveco-widget
 jumia.ma##.nyroModalBg
+ouedkniss.com##.o-promo
+ouedkniss.com##.o-promo-carousel
 orange.fr##.o__pub
 eurosport.fr##.oas
 football.fr##.oas-middle
@@ -17578,7 +17573,6 @@ footballclubdemarseille.fr##.pb-sidebar-article
 envertetcontretous.fr##.pb300
 paruvendu.fr##.pb_inter_CONT
 seriesaddict.fr##.pbl728x90
-ouedkniss.com##.pcare160
 supprimer-spyware.com##.phone_support_banner
 yopmail.com,yopmail.fr,yopmail.net##.pindexhautctn
 pagesjaunes.fr##.place-reservee
@@ -17610,7 +17604,6 @@ meteosun.com##.promote_large
 expressio.fr##.promoted-vcontainer
 tf1.fr##.promoted_image
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
-ouedkniss.com##.ptipana
 ados.fr,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,bienpublic.com,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,dictionnaire-synonymes.com,docteurclic.com,elbotola.com,elheddaf.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forumsims3.com,franceinfo.fr,franceinter.fr,gratuiciel.com,hellokids.com,ici.tou.tv,igen.fr,inovaovao.com,internetparsatellite.net,iphonesoft.fr,iphonetweak.fr,jeux-hentai.com,jeux-mmorpg.com,ktotv.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,leprogres.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,logicielmac.com,logitheque.com,loractu.fr,macg.co,macommune.info,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,midilibre.fr,montelimar-news.fr,mots-croises.ch,nextinpact.com,nintendo-master.com,nordeclair.be,orange.fr,orange.mu,ouest-france.fr,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,remede.org,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,vipsg.fr,watchgeneration.fr,yabiladi.com,yatahonga.com,zupimages.net##.pub
 degrouptest.com##.pub-bonaboSite
 lefigaro.fr##.pub-carrousel-mini
@@ -17921,7 +17914,6 @@ wlnk.ec##a[href$="="]
 1337x.st,1337x.to,cpasbien.reviews,cpasbien.to,hdss.la,lapremse.fr,lemondedekevin.fr,oxtorrent.cx,oxtorrent.me,streaming-series.me,torrent9.gg,torrent9.is,torrent9.ninja,torrent9.so,torrent999.com,x1337x.ws##a[href*=" "]
 sante-nutrition.org##a[href*="&pos="]
 audiofanzine.com##a[href*="&ref="]
-ouedkniss.com##a[href*="&stype=pub_slide&"]
 free-reseau.fr##a[href*="&tag=freereseaufr-"]
 3dnatives.com,audiofanzine.com,lesimprimantes3d.fr##a[href*="&utm_"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
@@ -18394,7 +18386,7 @@ nextinpact.com#?#app-home-item:-abp-has(.article:-abp-has(.sponsored))
 nextinpact.com#?#li[class="ng-star-inserted"]:-abp-has(.sponsored)
 numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
 numerama.com#?#.post-grid:-abp-has(.sponsoring-icon)
-ouedkniss.com#?#.annonce:-abp-has(#adsense_native)
+ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/Sponsored Stores|Stores à la une/))
 oxtorrent.cx,oxtorrent.me,torrent9.gg,torrent9.is,torrent9.ninja,torrent9.so#?#div[style]:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
 oxtorrent.cx,oxtorrent.me,torrent9.gg,torrent9.is,torrent9.ninja,torrent9.so#?#table[style]:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
 pandos2play.free.fr,soap-passion.com,ultimate-catch.eu#?#:-abp-properties(opacity:)
