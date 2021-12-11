@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: I405o+0LFwtB+72wPLaoJw
-! Version: 202112020006
+! Checksum: doLXUWdsyrY9A+nHe5qWwA
+! Version: 202112112126
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11671,6 +11671,8 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||fdesouche.com/wp-content/uploads/2018/02/ArloQ_Header.jpg
 ||fdesouche.com/wp-content/uploads/2018/02/Sans-titre-2.jpg
 ||feed4u.me/feedipop.js
+||femmeactuelle.fr/assets/images/cosmoeus-mobile.jpeg
+||femmeactuelle.fr/assets/images/cosmoeus.jpeg
 ||femmeactuelle.fr/dist/img/partner/
 ||ferrarista.fr/forum-ferrari/uploads/referral-$image
 ||ffr.fr/static/partenaires.json
@@ -14595,7 +14597,9 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.ad.banner
 ##.ad.billboard
 ##.ad.half_page
+##.ad.isSticky
 ##.ad.leaderboard
+##.ad.onlyMobile
 ##.ad160b
 ##.ad300d
 ##.ad336b
@@ -17378,6 +17382,7 @@ quetelecharger.com##.content-bloc-pub
 cotemaison.fr,lexpress.fr##.content_inside_partner
 nintendo-master.com##.content_kelkoo_link
 thebadbuzz.com##.contenu_pop
+femmeactuelle.fr##.cosmoeus
 lotusnoir.info##.countclick
 boredpanda.com##.cover-banner
 ma-reduc.com##.covering
@@ -18442,6 +18447,7 @@ dzgeek.com#?#li + .postbit:-abp-has(img[src$="/avatars/partenaire.png"])
 ebay.fr#?#.sresult:-abp-has(.promoted-lv)
 ebay.fr#?#[id^="nume_html_"]:-abp-has(.mfe-card-group:-abp-has(.mfe-card-group-title:-abp-contains(sponsorisées)))
 ebay.fr#?#[id^="nume_html_"]:-abp-has(.mfe-header:-abp-has(.mfe-pull-left:-abp-contains(sponsorisés)))
+femmeactuelle.fr#?#.specialCard:-abp-has(a[href^="https://cosmoeus.fr/"])
 forumconstruire.com#?#.post_simple:-abp-has(.postsimple_pseudo:-abp-contains(/Auto-promo|Autopromo/))
 forumpiscine.com#?#.post_classic:-abp-has(.post_classic_pseudo:-abp-has(span:-abp-contains(/Auto-promo|Autopromo/)))
 frandroid.com#?#.container_native_home-list:-abp-has(.aligot-icon)
