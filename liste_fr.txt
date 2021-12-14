@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: yFLF/7d+Cowy13G/p0tPHg
-! Version: 202112130332
+! Checksum: GojY8Ekp5LMOqP4TIRdvMA
+! Version: 202112140746
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14650,6 +14650,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.ad-page_top
 ##.ad-pave
 ##.ad-provider-yahoo
+##.ad-reserve
 ##.ad-right-600
 ##.ad-right-img
 ##.ad-sidebar-125-1r
@@ -15432,6 +15433,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.middle-publicite
 ##.mobile-ads__close
 ##.mobile-ads__main
+##.mobile_ad
 ##.mobile_adhesion
 ##.mobile_instream_ad
 ##.mod-ad-middle
@@ -15931,6 +15933,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.sponsor_leaderboard-wrap
 ##.sponsor_sidebar
 ##.sponsored-amazon
+##.sponsored-articles
 ##.sponsored-by__highlighted
 ##.sponsored-by__main
 ##.sponsored-by__main-wrap
@@ -15942,6 +15945,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.sponsored-fly__head
 ##.sponsored-fly__head-outer
 ##.sponsored-fly__open
+##.sponsored-panel
 ##.sponsoredLinksContainer
 ##.sponsoredLinksInfo
 ##.sponsoredPrisma
