@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ksgIqvNruEU/rBy9z4O/7A
-! Version: 202112140852
+! Checksum: 8XFDV75gTSogrC4pDaLOgg
+! Version: 202112170518
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -217,7 +217,7 @@
 -ads-live.
 -ads-model/
 -ads-sidebar.
--ads.js&script
+-ads.js&$script
 -ads/920x
 -ads/ads.
 -ads720.
@@ -614,7 +614,6 @@
 /a4u_pu_timer.js
 /a?*&zone_id=
 /aabd?rand=
-/aabv*.php?*/*
 /aads728.
 /ab_im_desktop_b.
 /ab_locations/*$script
@@ -3590,8 +3589,6 @@ _zoneid=*/rel/index.cfm?$popup
 /^https?:\/\/(.*)\/(service\-worker|sw|\d+sw)\.js\?[0-9a-zA-Z_&%]{32,}/$popup
 /^https?:\/\/([0-9a-z]){5,14}\.(com|info|xyz)\/[0-9a-z]{5,15}\?(.*)&refer=(.*)%(.*)&key=[0-9a-z]{32}(.*)&adb=/$popup
 !
-data:*text*/*html*,$popup
-debugger:$popup
 |data:,|$popup
 |data:;|$popup
 |javascript^$popup
