@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: f9X6Ltf5nGSlHziPxf3Rtg
-! Version: 202112170549
+! Checksum: lVVW5jUzjzMt+3m7bt2YWQ
+! Version: 202112170615
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -752,6 +752,7 @@
 /adhesion_ad.
 /adhosting.
 /adimage-
+/adimage3.
 /adinit?
 /adintop.
 /adj?auid=
@@ -2917,6 +2918,7 @@ digitalocean.gif|
 /bk_lder.php
 /ex_loader.js
 /exa/fron_
+/exo/pu.js
 /frond_der.js
 /frontend_loader.$script
 /frontend_loador.$script
@@ -13901,6 +13903,8 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ###colgauche_pub
 ###comment-ad
 ###commentad
+###community-ad
+###community-ad-unit
 ###container-pub
 ###container_pub
 ###container_pub_left
@@ -14576,6 +14580,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.WallPaperAd
 ##._ads_ch
 ##._meltypub
+##.a-d-v
 ##.a4u_banner_js
 ##.a_d-left
 ##.ab-300x250
@@ -14698,6 +14703,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.adSystem_ads
 ##.ad_970x90
 ##.ad__contents
+##.ad__disclosure--ex
 ##.ad__remove
 ##.ad_area_wrap
 ##.ad_column_wrapper
@@ -15018,6 +15024,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.adziner-adzone
 ##.af_bloc_partners
 ##.amazon_pub
+##.amk_adContainer
 ##.an-advert-banner
 ##.an-sponsored
 ##.annnonces_partenaires
@@ -16003,6 +16010,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.txt-pub
 ##.txt-top-publicity
 ##.unForceAdBlock
+##.underplayer_banner
 ##.upload-advert
 ##.ustreklam
 ##.vda-block
