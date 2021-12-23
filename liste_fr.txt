@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: nihpGnE9qowTKbpZ8+MMZw
-! Version: 202112230255
+! Checksum: otmKy9jNo14/58VVNzyv5Q
+! Version: 202112230318
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11615,6 +11615,8 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||douniamusic.com/InterDouniaMusic.swf
 ||douploads.com/sw
 ||down-paradise.com/asset/bull.js
+||dramapassion.com/box.jpg
+||dramapassion.com/images/aside/pub_
 ||dsih.fr/pub/
 ||dvbxtreme.com/wp-content/uploads/2016/03/CCCAM-VUPLUS.gif
 ||dvbxtreme.com/wp-content/uploads/2016/03/free-cccam.jpg
@@ -14030,6 +14032,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ###footerpub3
 ###footerpubs
 ###for_ad
+###free_pub_head
 ###fuck-adb-enabled
 ###fullScreenAdBg
 ###game_leaderboard_container
@@ -16921,7 +16924,6 @@ liberation.fr###footer-partners-box
 lequipe.fr###footer_boutique
 hardware.fr###footer_img
 pornofrance.org###formulaire
-dramapassion.com###free_pub_head
 equirodi.be###ft_partners
 ca-sudrhonealpes.fr###fullscreen
 developpez.com###gabarit_pub0
@@ -18984,7 +18986,7 @@ _blockadblock_
 @@.png#$image,domain=4downfiles.org|leetgamerz.net|likeup.fr|radio-en-direct.fr|savefile.co|stream4free.live|tout-debrid.net|tout-gratuit.be
 @@/adblock.js$script,~third-party,domain=anilinkz.to|jdubuzz.com|jeuxvideo.com|journaldugamer.com|pixelistes.com
 @@/ads.js$script,~third-party,domain=adbilty.me|adhit.me|adpop.me|adshort.co|adshort.im|adshort.me|ah.pe|coinlink.co|coinlink.us|cuon.io|cut-urls.com|cutly.win|cutwi.in|danpod.work|eues.io|euon.io|igram.im|kimo-link.com|lkky.co|manga-vf.fr|passetoncode.fr|shortenow.com|tune.pk|zonebourse.com|zype.xyz
-@@/advertisement.js$script,domain=chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|dramapassion.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghreb.space|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|videozix.com|zonebourse.com
+@@/advertisement.js$script,domain=chats-perdus.net|chiens-perdus.net|chine-informations.com|concours-du-net.com|debridnet.com|easybillets.com|evilox.com|files.newsnetz.ch|freets3.ovh|funeralforamanga.fr|gamersconnexion.com|jeux.fr|kelbillet.com|kpopfm.fr|maghreb.space|streaming-french-dvdrip.com|streamwatching.fr|turfomania.fr|tuto4you.fr|videozix.com|zonebourse.com
 @@/advertisement.js$script,~third-party,domain=cap-public.fr|coco.fr|crash-aerien.aero|crash-aerien.news|leveldown.fr|quoverbis.com
 @@/advertising.js$script,~third-party,domain=animedigitalnetwork.fr
 @@/static/image/ad_top_bg2.png?$image,~third-party,domain=adf.ly|ay.gy|babblecase.com|briskgram.net|gamecopyworld.click|go.awanpc.me|j.gs|kaitect.com|picocurl.com|pintient.com|q.gs|replaymod.com|uclaut.net
