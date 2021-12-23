@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: /yejotDASINwvSdPXaM1bA
-! Version: 202112230443
+! Checksum: GdcoY8oayDzeudaVu3az2w
+! Version: 202112230446
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -17924,7 +17924,6 @@ portail.free.fr##.shopping_carrousel_produit
 korben.info##.side a[href*="://bit.ly/"]
 jeuxvideo.com##.sideStore
 gmx.fr##.sideadd
-voyage-economique.fr##.sideaff-container
 foot01.com##.sidebar img:first-child
 ecranlarge.com##.sidebar-banner
 wikiclic.com##.sidebar-promotion
@@ -18675,7 +18674,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||adserve.atedra.com/serve.php?z=$script,domain=pourquoipas.ca|vilaingeek.ca
 @@||adserve.atedra.com/vast/$domain=pourquoipas.ca
 @@||adserve.atedra.com/zones.php$xmlhttprequest,domain=pourquoipas.ca
-@@||adv.voyage-economique.fr^$domain=voyage-economique.fr
 @@||advertising.wellpack.fr/sites_annexes/optout/$~third-party
 @@||adworks.fr^$~third-party
 @@||affiliation.leboncontact.fr/template/Affiliation/$~third-party
