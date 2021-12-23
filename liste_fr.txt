@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7tK3t9KUW58tZcWqgRdnWg
-! Version: 202112230407
+! Checksum: PHDLhvjKGxrrELfFBkwzFw
+! Version: 202112230414
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11525,6 +11525,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||confidentielles.com/*/pubimppixel.php?
 ||confidentielles.com/bloquage_liens.js
 ||confidentielles.fr/dl/images/habillage/
+||config-gamer.fr/images/*__pub__
 ||config-gamer.fr/images/banners/
 ||conseils-courseapied.com/images/boutique-marathon/
 ||conseils-courseapied.com/images/overstims/
@@ -18236,7 +18237,6 @@ igen.fr,macg.co,watchgeneration.fr##a[href^="/ad-"]
 avocat.fr,jeunesfooteux.com,ladepeche.pf,ophtalmo.tv,rewmi.com,senioractu.com,zinfos974.com##a[href^="/ads/"]
 tahiti-infos.com##a[href^="/ads/"] > .image
 tunisie-news.com##a[href^="/artpublic/banniere/click3.php?"]
-config-gamer.fr##a[href^="/banners/"]
 marianne.net##a[href^="/blogsecretdefense/ads/"]
 aujourdhui-en-france.fr,leparisien.fr##a[href^="/bons-plans/"]
 skitour.fr##a[href^="/campagnes/clic.php?"]
