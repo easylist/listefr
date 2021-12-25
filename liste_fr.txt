@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Ja1C2p5axheEg7HTGcNuEA
-! Version: 202112250043
+! Checksum: oQ3qXdW0sM+bGsGaxxndBw
+! Version: 202112250119
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -186,6 +186,7 @@
 -90x728_
 -920x180.gif
 -960x80.
+-970-x-250.
 -970-x-90-
 -970x250.
 -970x250_
@@ -824,6 +825,7 @@
 /ads.*/go.
 /ads.*/go2.
 /ads.*/www/*
+/ads.*?site=
 /ads.cgi?
 /ads.slot.
 /ads.xml
@@ -1379,6 +1381,7 @@
 /cadre/728-$subdocument
 /campagne/redir/*
 /campaigns/banner?
+/cams/live-banners/*
 /CanvasAd.
 /carasexe.html$subdocument
 /carousel/*?site_id=*&niche=*&items=
@@ -1858,6 +1861,7 @@
 /p_tools/rotation.
 /p_under.
 /p_under_
+/pab-ssl.js
 /packcpm.
 /packpopup.
 /pad_ban.
@@ -2351,6 +2355,7 @@
 /sw.js?*%2E
 /sw.js?*&puid=
 /sw.js?tag_id=
+/sw/pub.js
 /syndication.*&idzone=
 /syndication/pub/*
 /Tag/go2?url=$subdocument
@@ -13794,6 +13799,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ###advertisePlacement
 ###advertisement-2
 ###advertisement-3
+###advertising-disclosure-block
 ###advertising2-postroll
 ###advertising_label
 ###advertising_label_1
@@ -15044,6 +15050,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.advertisement-pub
 ##.advertisement_120x600
 ##.advertisement_250x250
+##.advertiser-disclosure-block
 ##.advertising-box
 ##.advertising-box-full
 ##.advertising-item-bottom
