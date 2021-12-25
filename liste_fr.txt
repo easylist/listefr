@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: X/pEstcFu5AuElYfzdQfbA
-! Version: 202112230600
+! Checksum: ukscccMtR7HrVs+5WOUP2Q
+! Version: 202112250041
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12113,7 +12113,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||jeux-hentai.com/videos/
 ||jeux-mmorpg.com/habillage/
 ||jeux-mmorpg.fr/media/habillage/
-||jeux-porno.net^$script,~third-party
+||jeux-porno.net^*/assets/img/banners/
 ||jeux-sexe-gratuit.com/img/
 ||jeux-sexe-gratuit.com^$media
 ||jeux-sexe-gratuit.fr/images/banners/
@@ -16068,6 +16068,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.widget_publicite
 ##.widgetadv
 ##.widgetpub
+##.wio-xbanner
 ##.with-ad
 ##.with-ad-top
 ##.with-corner-ad
@@ -17584,7 +17585,7 @@ le2minutes.com##.habillage-top
 turfomania.fr##.habillageLien
 cbanque.com##.habpage
 envertetcontretous.fr##.halfpage
-quotisexe.com##.happy-inside-player
+jeux-porno.net,quotisexe.com##.happy-inside-player
 frandroid.com##.hb__ad
 refurbgeneration.com##.head_ebay
 avis-express.com,lnr-dz.com##.header-banner
@@ -18440,7 +18441,6 @@ copine-coquine.com##div[style^="width:300px;height:250px"]
 echoroukonline.com##div[style^="width:728px;height:90px;"]
 vpngratuit.fr##h1 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
 vpngratuit.fr##h2 > a[href^="http://vpngratuit.fr/choisir-service-vpn-gratuit/"]
-jeux-porno.net##iframe[src]
 developpez.net##iframe[width="300"][height="250"]
 developpez.net##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
