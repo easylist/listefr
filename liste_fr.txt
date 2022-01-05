@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: V42SDAl6D7f4hFL63sybLQ
-! Version: 202112290250
+! Checksum: 86XRnAkKl+ypm+1IbmMqww
+! Version: 202201050343
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12129,6 +12129,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||jeu.info/casino/
 ||jeu.net/pub/
 ||jeu.video/bg/bg-
+||jeu.video/bg_pb/
 ||jeunessedalgerie.com/photos/pub1.jpg
 ||jeux-gratuits.com/images/*/bandeau-
 ||jeux-hentai.com/bg/
@@ -18355,6 +18356,7 @@ petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent'"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 achat-bitcoins.com##a[rel="nofollow"] > img
 igen.fr,macg.co,watchgeneration.fr##a[style*="width: 100%;"]
+jeu.video##a[style="position: fixed;top: 110px;left: 0;bottom: 0;width: 50%;"]
 4downfiles.org,9divx.org,buzzporn.net,finobuzz.com,footnamurois.com,planet-streaming.net,planet-streaming1.com,serie-streaming.watch,seriezone.org,youwatch-serie.com,youwatch-series.com##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 prix.pcastuces.com##a[target="_blank"] > img[src^="images/logo_"]
