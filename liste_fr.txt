@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: CUZ1fSzEOCVPFc2XwGx0/w
-! Version: 202201050414
+! Checksum: nQdMk8RnNdwpb8s9Fg3o2A
+! Version: 202201050444
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12496,19 +12496,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||meetmuslima.net/bannieres300/
 ||meetmuslima.net/bannieres728/
 ||mega-debrid.eu/images/cessfull.png
-||mega-p2p.net/468-
-||mega-p2p.net/agif219.gif
-||mega-p2p.net/brave-
-||mega-p2p.net/hma%205.jpg
-||mega-p2p.net/hma-
-||mega-p2p.net/images/surfashark-vpn_
-||mega-p2p.net/images/tv-jeux.png
-||mega-p2p.net/je%20m'inscris%20vpn
-||mega-p2p.net/mha-
-||mega-p2p.net/pic_9378.gif
-||mega-p2p.net/streaming-direct-
-||mega-p2p.net/vpn
-||mega-p2p.net/xxx.jpg
 ||meilleures-grandes-ecoles.com/*/int-mb/
 ||meilleures-grandes-ecoles.com/images/habillage/
 ||meilleures-grandes-ecoles.com/intertitiel/
@@ -12623,6 +12610,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||mybloggertricks.googlecode.com/files/mbtlikebox2.js
 ||myfreesurf.com/partenaires/
 ||mylink1.biz/?ref=$subdocument
+||mylink1.biz/media.php?subid=
 ||mymanga.io/ga/
 ||myzen.tv/images/banners/
 ||myzen.tv/images/OmmStudio.jpg
@@ -17024,6 +17012,8 @@ confidentielles.com###hunt
 algerianmag.com,avis-express.com###icegram_messages_container
 madstef.com###idkey1ban
 madstef.com###idkey2ban
+mega-p2p.net###imCell_259
+mega-p2p.net###imStickyBar_imObjectButton_03
 ladepeche.fr,midilibre.fr###immobilier
 autonet.ca###inline + .master-banner
 freenews.fr###insidepic_widget
@@ -18354,7 +18344,6 @@ it-swarm-fr.com##a[href^="https://m.do.co/"]
 appsystem.fr##a[href^="https://shop.appsystem.fr/"] > img
 toplien.fr##a[href^="https://track.effiliation.com/servlet/effi.click?"]
 zetorrents.fr##a[href^="https://uploadsnack.com/"]
-mega-p2p.net##a[href^="https://vpn."]
 fdesouche.com,wikimonde.com##a[href^="https://www.amazon.fr/"]
 toplien.fr##a[href^="https://www.awin1.com/cread.php?"]
 qwant.com##a[href^="https://www.bing.com/aclick?"]
@@ -18370,7 +18359,6 @@ braindamaged.fr##a[href^="index.php?adclick="]
 security-links.com,upload4earn.org,uploadbyte.com,zone-telechargement.dev##a[href^="javascript:"]
 windsurfjournal.com##a[href^="link,"]
 quedustream.com##a[href^="streaming-series"]
-mega-p2p.net##a[href^="vpn"]
 savefrom.net##a[id][href][target][style]
 degrouptest.com##a[onclick*="/resultspage/"]
 dl-protect1.com,filerio.in,ifp.re,libertyvf.co,libertyvf.tv,liens-telechargement.com,pframe.eu,plink.re,prfr.re,prifr.eu,protect-iframe.com,torrents.io##a[onclick]
@@ -18378,6 +18366,7 @@ petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent'"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 achat-bitcoins.com##a[rel="nofollow"] > img
 igen.fr,macg.co,watchgeneration.fr##a[style*="width: 100%;"]
+mega-p2p.net##a[style*="width: 98%; height: 100%; inset:"]
 jeu.video##a[style="position: fixed;top: 110px;left: 0;bottom: 0;width: 50%;"]
 4downfiles.org,9divx.org,buzzporn.net,finobuzz.com,footnamurois.com,planet-streaming.net,planet-streaming1.com,serie-streaming.watch,seriezone.org,youwatch-serie.com,youwatch-series.com##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
