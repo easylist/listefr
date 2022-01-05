@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 6+aNkM3oW38XzTVM+fd5eg
-! Version: 202201050506
+! Checksum: f4uuZw1Kv0uKGQW/ne9sDw
+! Version: 202201050614
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15116,6 +15116,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.article__article-ads
 ##.article__article-mobile-ads
 ##.article__mobile-ads
+##.article__pub
 ##.article_pub
 ##.aside-pub-300
 ##.ast-block-adslot
@@ -15527,6 +15528,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.module_epg_publicite
 ##.module_epg_publicite_level0
 ##.module_sponsored
+##.moduletable-pub2
 ##.mom-ads-wrap
 ##.movie_728_90
 ##.mueveads
@@ -16101,6 +16103,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.video_adp3
 ##.video_reklama
 ##.videocontrols-ads
+##.view-publicites
 ##.vjs-onceux-ad-container
 ##.vud_ads
 ##.wads-script
@@ -16869,6 +16872,7 @@ lepetitjournal.com###block-larubriquesponsoriseinternational
 lemouv.fr###block-lemouv_bloc-pub_ftv_right
 lemouv.fr,mouv.fr###block-lemouv_bloc-pub_ftv_top
 manga-news.com###block-up
+lanutrition.fr###block-views-remote-products-block-home
 voyages-sncf.com###block-vsct_vsca-megabanner
 franceinfo.fr###block-zerobloc-pub-ftv-carre
 bricoleurdudimanche.com###block_a_decouvrir
@@ -17754,7 +17758,6 @@ nicematin.com##.modal_background
 techno-science.net##.module.moduleBoutiqueEncart
 aujourdhui-en-france.fr,leparisien.fr##.moduleNew300
 lanutrition.fr##.moduletable-banner
-lanutrition.fr##.moduletable-pub2
 rtl.fr##.money-talks
 allfilms.net##.movie-aye
 118712.fr##.mpl
@@ -17863,6 +17866,7 @@ leparking-moto.fr,leparking.fr##.premium
 kelkoo.fr##.priceminister
 buzzporn.net##.privacylinks
 sport-equipements.fr##.product-photo
+lanutrition.fr##.product-shop
 deco.fr,euro-2016-france.net,matchendirect.fr##.promo
 challenges.fr,nouvelobs.com##.promo-bottom-art
 matchendirect.fr##.promoApp
@@ -17927,6 +17931,7 @@ buzzly.fr##.pubright
 cci.fr,inovaovao.com,tennisactu.net##.pubs
 orangeinfo.fr##.pubside
 jeuxflash.com##.pull-left
+lanutrition.fr##.push--shop
 flvto.biz##.push-offer
 femmeactuelle.fr##.push-partenaire
 avcesar.com##.px_container
