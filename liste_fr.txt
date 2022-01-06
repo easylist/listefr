@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: EeRzEBXCOXiKNmjn47yIjQ
-! Version: 202201060746
+! Checksum: 6yrI5oaR42rxsO9eyKHbZA
+! Version: 202201061957
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2581,7 +2581,7 @@
 ://promoimage.
 ://pub.*?zoneid=
 ://reclame.
-://regiepub.
+://regiepub.$domain=~regiepub.pcl.ch
 ://report-ads-to.
 ://res.ads.
 ://rotator.
