@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 6yrI5oaR42rxsO9eyKHbZA
-! Version: 202201061957
+! Checksum: 9TvH6oeuYXWKCsjKuu/wKA
+! Version: 202201180225
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18658,7 +18658,7 @@ nextinpact.com#?#app-home-item:-abp-has(.article:-abp-has(.sponsored))
 nextinpact.com#?#li[class="ng-star-inserted"]:-abp-has(.sponsored)
 numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
 numerama.com#?#.post-grid:-abp-has(.sponsoring-icon)
-ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/Sponsored Stores|Stores à la une/))
+ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/Sponsored|sponsorisées/))
 oxtorrent.cx,oxtorrent.me,torrent9.gg,torrent9.is,torrent9.ninja,torrent9.so#?#div[style]:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
 oxtorrent.cx,oxtorrent.me,torrent9.gg,torrent9.is,torrent9.ninja,torrent9.so#?#table[style]:-abp-contains(/ANONYME|Anonyme|anonyme|Usenet|VPN|Vpn/)
 pandos2play.free.fr,soap-passion.com,ultimate-catch.eu#?#:-abp-properties(opacity:)
