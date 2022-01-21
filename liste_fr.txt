@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: bCwm1aQkh2pmtJ/mvH49aA
-! Version: 202201211405
+! Checksum: 1v3nMm7pMvL3XxOkugbzoA
+! Version: 202201211415
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18850,6 +18850,7 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||serrurier-menuisier-31-ad2.fr^$~third-party
 @@||serrurier-menuisier-31-ad2.site-privilege.pagesjaunes.fr^$image,third-party
 @@||static.caradisiac.com/img_site/autopromo/300x90_autopromo_depot_avis.png|$image
+@@||static.jeux123.fr/ads/promo_$image,~third-party
 @@||static.meilleur-mobile.com/images-product/logos-marchands/sprite_logosMarchands_120x60.png|$image
 @@||static.s-sfr.fr/resources/custom/adsl/
 @@||stcwbd.com/ads/plugins/jwplayer/player.swf$domain=eurosport.fr|ozap.com|puretrend.com
