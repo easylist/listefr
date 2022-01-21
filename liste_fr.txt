@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: jNMCB8qBJE4nP54fJ1YQOw
-! Version: 202201211356
+! Checksum: bCwm1aQkh2pmtJ/mvH49aA
+! Version: 202201211405
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18705,6 +18705,7 @@ rakuten.com#?#[data-productid]:-abp-has(a[href^="/offer?action="])
 businessinsider.fr#?##related-post-:-abp-has(a[href*="/contenu-sponsorise"])
 senscritique.com,seriehentai.com#?#:-abp-properties(data:)
 sketchucation.com#?#.post:-abp-has(.postprofile:-abp-has(strong:-abp-contains(Ad Machine)))
+sookbtp.com#?#.owl-item:-abp-has(figure:-abp-has(img[src^="publicites/"]))
 starbike.com#?#.post.has-profile:-abp-has(.postbody:-abp-has(.adsbygoogle))
 thesiteoueb.net#?#.panel:-abp-has(.panel-heading:-abp-has(.panel-title:-abp-contains(Publicité)))
 tourmag.com#?#.wm-module:-abp-contains(Contenu sponsorisé)
