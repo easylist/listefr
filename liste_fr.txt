@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: zaPQkViOunlDsfNbNO9BXg
-! Version: 202201251110
+! Checksum: wJJs5yi5OqbYVCnn/mD4YA
+! Version: 202201270157
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18938,6 +18938,7 @@ whatpub.com#@#.pub_left
 bsv.admin.ch#@#.pub_outer
 lechainonmanquant.com,love-hinax.com#@#.publicite
 ta-meteo.fr,xn--mto-bmab.fr#@#.topbanneradvertise
+leparisien.fr#@#a[href^="https://track.effiliation.com/servlet/effi.redir?"]
 kijiji.ca#@#div[data-ad-id]
 !
 !-------------------------- Anti-Adblock -------------------------!
