@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 6m4s5/SUEgtW/dwzpvC1Ng
-! Version: 202201270330
+! Checksum: +wXE0rpcQEc5dZMHrrZqmw
+! Version: 202201270331
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2347,6 +2347,7 @@
 /static.ads-
 /static/*/ads/
 /static/t/b.js
+/stickyad3.
 /stickyads|
 /stocksad1.
 /stocksad2.
@@ -16624,8 +16625,10 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##div[class*="view-ads-header-"]
 ##div[class*="view-id-ads_header_"]
 ##div[class*="view-id-ads_sidebar_"]
+##div[class^="AdLayout-"]
 ##div[class^="AffiliateBadgeUi-"]
 ##div[class^="DisplayAd_"]
+##div[class^="StickyAd-"]
 ##div[class^="aadsbutt_"]
 ##div[class^="ad-inside-post-"]
 ##div[class^="ad_200_"]
