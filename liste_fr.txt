@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +wXE0rpcQEc5dZMHrrZqmw
-! Version: 202201270331
+! Checksum: U9N5HFqmH/wsN1GwZAkt3g
+! Version: 202201270343
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8316,6 +8316,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||dl6q95zf.top^$popup
 ||docymas.com^$popup,third-party
 ||dollario.com^$popup,third-party
+||dooloust.net^$popup
 ||dosya-indirici.online^$popup
 ||download366.net^$popup,third-party
 ||downloadity.net^$popup,third-party
@@ -9461,6 +9462,9 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||frequence-tv.com/images/frpub.gif
 ||fuckandcdn.com^*/ads/
 ||full-wallpaper.com/wallpaperday.js$third-party
+||full.video/*.htm#
+||full.video/*.php?
+||full.video/btn.js
 ||fullqurandownload.com^$subdocument
 ||funnel-me.com^$subdocument
 ||funradio.fr/partenaires/
@@ -18099,8 +18103,8 @@ forumconstruire.com##[class^="habillage"]
 igen.fr,macg.co,orange.fr,watchgeneration.fr##[class^="lig_"]
 filesupload.org##[class^="modal"]
 voyageforum.com##[class^="offers"]
+fulltv.tv##[class^="pub"]
 ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
-fulltv.tv##[class^="publi"]
 guide-piscine.fr##[class^="regie_"]
 reverso.net##[class^="vda-"]
 bestream.tv##[class^="widget_aff_"]
