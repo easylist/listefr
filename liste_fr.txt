@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 0hrewG3/oPsZza73tKo9Sw
-! Version: 202201281810
+! Checksum: FKCy1ByL+Rdaj+sM4/fmlQ
+! Version: 202201281855
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16405,6 +16405,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##a[href^="/engine/go.php?file2="][rel="nofollow"][target="_blank"] > img
 ##a[href^="/engine/go.php?movie="][rel="nofollow"][target="_blank"] > img
 ##a[href^="/rdh?"]
+##a[href^="://ad.zanox.com/"] > img
 ##a[href^="://manage.hostvn.net/aff.php?"] > img
 ##a[href^="ads.php?id="]
 ##a[href^="annonceur.php?id_banniere="]
@@ -18207,7 +18208,6 @@ booska-p.com##a[href*="/rf/"][style]
 zone-mania.com##a[href*="/telecharger/"]
 seneweb.com##a[href*="/xban/"]
 rtl.be##a[href*="://ad.doubleclick.net/"]
-comment-supprimer.com,igen.fr,leparking.fr,macg.co,needsandmoods.com,refurbgeneration.com,sosiphone.com,watchgeneration.fr##a[href*="://ad.zanox.com/"]
 ddl-island.cc,ddl-island.co,ddl-island.org,emule-island.cc,emule-island.co,emule-island.ru,stream-island.cc,stream-island.org##a[href*="://ads."]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
 jeuxetcompagnie.fr##a[href*="://www.ludeek.com/"] > img
