@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: shVdS8VnnHG92G6Nc2nlpA
-! Version: 202201281755
+! Checksum: +WMb9Z3zxnPJ0hOds1gsWQ
+! Version: 202201281803
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12615,6 +12615,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||nintendo-master.com/img/default/fullsize_
 ||niooz.fr^$subdocument
 ||niveales.com/media/habillage/
+||nordicmag.info/wp-content/uploads/*_habillage_
 ||norefer.com/images/echangedeclics.png
 ||norefer.com/images/fornobody.png
 ||norefer.com/images/legagnant.png
@@ -16594,6 +16595,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##a[href^="https://thebestusenet.online/"]
 ##a[href^="https://tpmr.com/r/"]
 ##a[href^="https://traceless.me/lp/"]
+##a[href^="https://track.effiliation.com/servlet/effi.click?"] > img
 ##a[href^="https://tubexxxone.com/?"]
 ##a[href^="https://uploadgig.com/premium/index/"] > img
 ##a[href^="https://windscribe.com/?affid="] > img
@@ -17292,6 +17294,7 @@ troc-velo.com###xpubpart
 yahoo.com###yad-billboard
 mateur.tv###zone-out-bis
 terredauphinoise.fr###zone-pub1
+nordicmag.info###zox-wallpaper
 alloforfait.fr###zzone
 118712.fr,voila.fr##.ADS
 vfcomplet.vip##.Ad
