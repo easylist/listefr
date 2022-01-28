@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +WMb9Z3zxnPJ0hOds1gsWQ
-! Version: 202201281803
+! Checksum: 0hrewG3/oPsZza73tKo9Sw
+! Version: 202201281810
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -4651,6 +4651,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||onlivestreams.online^$third-party
 ||ooxad.com^$third-party
 ||opressity.com^$third-party
+||opti-digital.com^$third-party
 ||optimaladbid.com^$third-party
 ||orangepublicite.fr^$third-party
 ||ovnet.fr^$third-party
@@ -14142,8 +14143,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ###nuggadcontentadIF
 ###oPublicite
 ###om_ads-7
-###optidigital-adslot-Billboard_1
-###optidigital-adslot-Billboard_2
 ###overVideoAd
 ###over_video_ad
 ###pagelet_advertiser_panel
