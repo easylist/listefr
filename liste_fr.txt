@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: a+nvLV6Vsz2/WbXYi18q6g
-! Version: 202201290300
+! Checksum: kGfdDWPU5EEuHCKW76fi2A
+! Version: 202201300211
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -13580,6 +13580,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ###abd-ad-div
 ###abd-ad-iframe
 ###abd-ad-iframe-wrapper
+###ad-300_atf-label
 ###ad-300_btf-label
 ###ad-300_mtf-label
 ###ad-300x250_Pave_Bas_Desktop
@@ -13593,6 +13594,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ###ad-adhesive-footer
 ###ad-ban-bet-load
 ###ad-ban-load
+###ad-banner_atf-label
 ###ad-banner_mtf-label
 ###ad-banners
 ###ad-before-content
@@ -15454,6 +15456,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.job-ads
 ##.job_ads_container
 ##.js-ads-imu-sticky
+##.js-smart-ad
 ##.js_DivPublicityLateral
 ##.jt-poublicidadContainer
 ##.kadmer-ad
@@ -16681,8 +16684,12 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##div[class^="pub_tag_"]
 ##div[class^="quickads_"]
 ##div[data-ad-id]
+##div[data-ad-name]
+##div[data-ad-playerid]
 ##div[data-ad-position]
+##div[data-ad-provider]
 ##div[data-ad-refresh]
+##div[data-ad-sticky-follow]
 ##div[data-ad]
 ##div[data-adfscript]
 ##div[data-ads-block]
@@ -18296,6 +18303,7 @@ mayottehebdo.com##a[href^="/index.php?option=com_banners"]
 immigrer.com##a[href^="/p/bannieres/"]
 betaseries.com##a[href^="/partner/"]
 telemagazine.fr##a[href^="/produits_contextuels/"]
+lesnumeriques.com##a[href^="/publicite/"]
 confidentielles.com##a[href^="/rc_787_"]
 streaming-series.me##a[href^="/regarder"]
 edcom.fr##a[href^="/regie"]
@@ -18836,7 +18844,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||www.bna.dz/media/djmediatools/cache/300x250-$image,~third-party
 @@||www.bouyguestelecom.fr^*/catalog/product/cache/*/image/300x600/$image,~third-party
 @@||www.les-terrains.com/images/chargement_en_cours.gif|$image,~third-party
-@@||www.lesnumeriques.com/publicite/*.html$~third-party,xmlhttprequest
 @@||www.omochasama.com/wp-content/uploads/*-120x240.$image,~third-party
 ! Liste blanche pour corriger le blocage strict
 @@||ab.9xbud.com/extract|$xmlhttprequest,domain=9xbuddy.org
