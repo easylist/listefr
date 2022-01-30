@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kGfdDWPU5EEuHCKW76fi2A
-! Version: 202201300211
+! Checksum: HjV1izN3LBuNJFUYzTCRsQ
+! Version: 202201300219
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2413,6 +2413,7 @@
 /userfiles/ads/*
 /userfiles/banners/*
 /userlist?site_id=*&orientation=$third-party
+/va/ads/*
 /vast.xml?key=
 /vaxadserver.
 /vbs-ads.
@@ -19050,7 +19051,6 @@ _blockadblock_
 @@||foglio.basilic.io/ad/basilic.adsense.js
 @@||geek-malin.fr/wp-content/plugins/adziner/Front/Js/ads.min.js?
 @@||gorin.multiup.org/pop.js|$script,domain=filesupload.org
-@@||gowonda.com^$image,~third-party
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=h5.4j.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.cdn.famobi.com
 @@||nouvelle-fiat500.fr/ad-pub.js$script
