@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 9AhsMywvwoLWSv0+ee0Zbw
-! Version: 202201300518
+! Checksum: KOVJ5iRr/Lrkhh5NSHGQaw
+! Version: 202202041843
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -5188,7 +5188,6 @@ _zoneid=*/rel/index.cfm?$popup
 ||com-directory.co^
 ||digiads.tv^$third-party
 ||kiloh.ovh^$third-party
-||kskss.ovh^$third-party
 ||mlllllllmmm.ovh^$third-party
 ||mllllllmmm.ovh^$third-party
 ||mlllllmmmm.ovh^$third-party
@@ -5205,8 +5204,6 @@ _zoneid=*/rel/index.cfm?$popup
 ||statcounterfree.com^$third-party
 ||webcontadores.com^$third-party
 ! toroadvertising.com
-||asadismn.xyz^$third-party
-||cry-havok.org^$third-party
 ||cyclivate.com^$third-party
 ||fewfwe.net^$third-party
 ||ip-51-255-80.eu^$third-party
@@ -10385,15 +10382,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ! dailymotion.com
 ||dailymotion.com/cdn/$media,script
 ||dmcdn.net^$media
-! dblock-ads.com
-||biebettude.xyz^
-||craterbuild.pw^
-||donager.xyz^
-||generalrichardpmccarthy.xyz^
-||gothrough.xyz^
-||lickroll.xyz^
-||nextwesst.xyz^
-||nextwest.xyz^
 ! Webediads revolving adservers
 /acceptable.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lebonguide.com|lestream.fr|musiquemag.com|ozap.com|plurielles.fr|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com|villaschweppes.com
 /acceptable.$~script
@@ -10421,8 +10409,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 /^https?:\/\/(www\.desinhibition\.com|www\.jacquieetmichel\.net|www\.jacquieetmicheltv\.net|www\.jacquieetmicheltv2\.net|www\.lavideodujourjetm\.net|www\.pornovoisines\.com|www\.tonpornodujour\.com|www\.voyeurfrance\.net)\/[0-9a-z]+(.html)?$/$script,subdocument,~third-party
 ||rencontres-coquines.jacquieetmichel.net/jm/?
 ! Auto short link scripts
-||123lnk.com^$script,third-party
-||4top.in^$script,third-party
 ||abelhux.net^$script,third-party
 ||adhit.me^$script,third-party
 ||adyou.co^$script,third-party
@@ -10430,7 +10416,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||al.ly^$script,third-party
 ||ally.sh^$script,third-party
 ||binbox.io^$script,third-party
-||bit.gy^$script,third-party
 ||bitly.com^$script,third-party
 ||by6dk.com^$script,third-party
 ||cdn.j.gs^$script,third-party,domain=~adf.ly|~q.gs
@@ -10440,10 +10425,8 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||clkim.com^$script,third-party
 ||coinlink.us^$script,third-party
 ||cpmlink.net^$script,third-party
-||croco.me^$script,third-party
 ||cut-urls.com^$script,third-party
 ||e3raaf.com^$script,third-party
-||faltuwap.com^$script,third-party
 ||fas.li^$script,third-party
 ||getsl.me^$script,third-party
 ||getsurl.com^$script,third-party
@@ -10454,7 +10437,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||link-download.in^$script,third-party
 ||link.tl^$script,third-party
 ||linkshorts.net^$script,third-party
-||lyon.kim^$script,third-party
 ||novaenreta.space^$script,third-party
 ||ouo.press^$script,third-party
 ||safelinku.com^$script,third-party
@@ -10462,12 +10444,9 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||shon.xyz^$script,third-party
 ||shorte.st^$script,third-party
 ||shortem.com^$script,subdocument,third-party
-||shortn.pw^$script,third-party
 ||tmearn.com^$script,third-party
-||uskip.me^$script,third-party
 ||yourlink.in^$script,third-party
 ||zap.buzz^$script,subdocument,third-party
-||zype.xyz^$script,third-party
 ! images hosting
 ||1.bp.blogspot.com/-AEd6bgkmnCw/*/s1600/recrutement-freemobilesurf.jpg
 ||1.bp.blogspot.com/-C7hQTHR_qPg/*/s1600/DailyInstaller-Download-button-green.png
@@ -10645,10 +10624,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||appcdn.xyz^
 ||kcdn.cf^
 ||kstream.xyz^
-||kvcdn.cf^
-||kvidcdn.cf^
-||kvstream.cf^
-||linkredirect.cf^
 ! savefrom.net
 ||sfstatic.net/build/js/chunk~inpagePush2-js-main-js
 ||sfstatic.net/build/js/chunk~partnersBlock-js-main-js
@@ -13410,11 +13385,9 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
 ! nextinpact.com
-||cdn5.nextinpact.com^
 ||edmi.nextinpact.com^
 ||nextinpact.com/bundles/mtm
 ||pam.nextinpact.com^
-||poum.nextinpact.com^
 ||rel.nextinpact.com^
 ||rel2.nextinpact.com^
 ||zam.nextinpact.com^
@@ -19101,164 +19074,6 @@ _blockadblock_
 @@||uploadx.link^$generichide
 @@||urbeez.com^$generichide
 @@||xavierstuder.com^$generichide
-! adBack.co
-||albertsonmendocino.com^
-||algomalillie.com^
-||arnotshawmut.com^
-||attleboroarchcape.com^
-||avingtonkinoulton.com^
-||babblenorah.com^
-||bascomdeary.com^
-||baskettellsinore.com^
-||bayfieldharleysville.com^
-||baysidethorntown.com^
-||beehousebalta.com^
-||bellevillelickingville.com^
-||benkelmantimberville.com^
-||bonnymansabanaseca.com^
-||buttonwillowbroseley.com^
-||cedarlaneblackshear.com^
-||chaumontbalko.com^
-||cleelumyards.com^
-||colerainefaunsdale.com^
-||daisettagreybull.com^
-||delcomeyersdale.com^
-||depauvillepinson.com^
-||diabloweissert.com^
-||dieterichtaylorville.com^
-||doyondeville.com^
-||dunfermlinemulkeytown.com^
-||dunsmuirdeferiet.com^
-||earltonmolena.com^
-||eckelsonmoro.com^
-||eekmarchand.com^
-||eldersvillewarrenville.com^
-||elizabethtonunionhall.com^
-||ellisvillehillsboro.com^
-||elmoswanville.com^
-||emeighglenellen.com^
-||enolatekoa.com^
-||eppingtoluca.com^
-||etoileironton.com^
-||folkstonelizabethtown.com^
-||fonddulacstewartsville.com^
-||foyilhardburly.com^
-||franksvillereddick.com^
-||freelandvillalba.com^
-||gabrielsmidfield.com^
-||gilfordboyers.com^
-||glenoldencedarburg.com^
-||glenviewexcello.com^
-||glorietapedricktown.com^
-||goldendalepremont.com^
-||graylandmosier.com^
-||greenlawnmantador.com^
-||hagarstowndilworth.com^
-||haileyhebert.com^
-||hawifallon.com^
-||hazelcrestcoxsackie.com^
-||heatonnikolski.com^
-||hibbingnakina.com^
-||hobsonlucinda.com^
-||hollandaleresaca.com^
-||hollinsmcalpin.com^
-||horshamoronoco.com^
-||hosmermurdock.com^
-||hosted.adback.co^
-||hunkersummit.com^
-||hurlinesswhitchurch.com^
-||iliamnapalco.com^
-||janesvillelykens.com^
-||jeromesvillerockfall.com^
-||johnsburgclarksville.com^
-||kahlotuswoodmere.com^
-||keaaudarrington.com^
-||kernvilleuniontown.com^
-||killawogkanosh.com^
-||kulpsvillerochdale.com^
-||lampeleoti.com^
-||langtrydelaplaine.com^
-||lansdaleweare.com^
-||laqueyimmaculata.com^
-||leclairesligo.com^
-||lenoramanning.com^
-||lothairhansboro.com^
-||lovevilleyulan.com^
-||lovilialaceyville.com^
-||lynbrookoriska.com^
-||malakoffrockholds.com^
-||maloupperville.com^
-||markhamglascote.com^
-||mauckportcynwyd.com^
-||mayaguezyerington.com^
-||mayodanorem.com^
-||mecostasenath.com^
-||medonohley.com^
-||menomonierolette.com^
-||miquonearlham.com^
-||mokaneroxton.com^
-||monettapawhuska.com^
-||moshervillethawville.com^
-||mulvaneruston.com^
-||murrietaullin.com^
-||narkadarfur.com^
-||oakfordshiro.com^
-||onawaykeeline.com^
-||oswegocanastota.com^
-||owensborowaltonville.com^
-||owlsheadcoalwood.com^
-||parishvilleclaudville.com^
-||parmelecumbola.com^
-||pawpawheidrick.com^
-||pembinecastana.com^
-||pennvillemuscoda.com^
-||pepeekeosummershade.com^
-||peterboroughapalachicola.com^
-||pinckardpyote.com^
-||polaccafaison.com^
-||potterpetrey.com^
-||renovosartell.com^
-||rhinecliffstarkville.com^
-||rickettsharrell.com^
-||ridgedaletecopa.com^
-||rodantheamory.com^
-||romneypaauilo.com^
-||roosebeckseaforth.com^
-||rosaliaarnett.com^
-||rulevillemantador.com^
-||rutheronwenonah.com^
-||saranacwillows.com^
-||scappoosebirds.com^
-||scarbrotoivola.com^
-||sedalianoctor.com^
-||shortervilleaimwell.com^
-||slckhmhphm.com^
-||smithersworonoco.com^
-||springtownwahiawa.com^
-||stinnettjarratt.com^
-||sunlandspivey.com^
-||tidiouteburket.com^
-||toomsborogreycliff.com^
-||torringtonguion.com^
-||tougaloocolerain.com^
-||trimontbrewer.com^
-||troutdalebrooks.com^
-||tylertonedwardsport.com^
-||waleskamekinock.com^
-||waltersburgburgoon.adback.co^
-||wanchesegarvin.com^
-||watkinsvillesilerton.com^
-||wawinamilmay.com^
-||welakaschleswig.com^
-||werringtonlasborough.com^
-||wetmoremottville.com^
-||whitesboromcbee.com^
-||wilburnkeithsburg.com^
-||wyacondahamptonville.com^
-||wynnburgbottineau.com^
-||wynnewoodmacdoel.com^
-||yaucoplumerville.com^
-||zelienopleprattsville.com^
 !
 /^((?!(^https?):\/\/(([0-9a-z\.\-]+)\.(20mn\.fr|amazonaws\.com|axept\.io|axeptio\.eu|azureedge\.net|beop\.io|beopinion\.com|coralproject\.net|disquscdn\.com|doyoudreamup\.com|edgecastcdn\.net|facebook\.com|facebook\.net|fastly\.net|jokerly\.com|lcl\.fr|netdna-ssl\.com|nexcesscdn\.net|og4\.me|qualifio\.com|qualifioapp\.com|sdv\.fr|verifiedbyvisa\.com|wp\.com)|([0-9a-z]+\.)?disqus\.com|(ajax|cdnjs)\.cloudflare\.com|(d3oaqdppb204mi)\.cloudfront\.net|(ajax|maps|storage)\.googleapis\.com|api\.(viafoura\.co|viafoura\.com)|(apis|fundingchoicesmessages|plus|www|youtube-ui\.l)\.google\.com|(api|assets|cdn)\.poool\.fr|(api|de|en|fr|www)\.tipeee\.com|(api|assets)\.pinterest\.com|(api|cdn|cdn1|cdn2|cdn3|cdn4)\.wibbitz\.com|(api|static1)\.dmcdn\.net|(api|app|static)\.flymenu\.fr|(assets|secure\.assets)\.tumblr\.com|(beta|static|www)\.qiota\.com|(cdn-us|embed)\.air\.tv|(cdn\.digitrust|quantcast|static\.quantcast)\.mgr\.consensu\.org|art19\.com|builder-assets\.unbounce\.com|castbox\.fm|cdn-files\.prsmedia\.fr|(cdns|cdns2|cdns\.eu1)\.gigya\.com|sdk-gcp\.privacy-center\.org|(embedr|widgets)\.flickr\.com|forum\.mmzstatic\.com|(i|s)\.po\.st|(maxcdn|stackpath)\.bootstrapcdn\.com|(odb|storage|widgets)\.outbrain\.com|(resources|widget)\.usersnap\.com|payments\.mppglobal\.com|(platform|www)\.instagram\.com|(secure|www)\.ultimedia\.com|(tel\.cdn|tra\.scds)\.pmdstatic\.net|api\.matchchat\.co\.uk|app\.viewdeos\.com|assets\.(afcdn\.com|reach5\.co)|build\.suggestv\.io|cdn\.([0-9a-z\.\-]+)\.(nicematin\.com)|cdn\.(ampproject\.org|jwplayer\.com|polyfill\.io|syndication\.twimg\.com|viafoura\.net)|(cdn|trc)\.taboola\.com|code\.jquery\.com|content\.invisioncic\.com|content\.jwplatform\.com|e\.infogr\.am|embed\.waze\.com|graphcomment\.com|hap\.h-cdn\.com|images\.marmitoncdn\.org|js\.stripe\.com|jwpsrv\.com|mb\.pixel\.swello\.com|p\.monetico-services\.com|paiement\.creditmutuel\.fr|platform\.twitter\.com|player\.(acast\.com|ausha\.co|pippa\.io|vimeo\.com)|players\.brightcove\.net|po\.st|rcijeux\.fr|ressources\.regionsjob\.com|s\.pinimg\.com|s\.ytimg\.com|sadmin\.brightcove\.com|scontent-rtl\.akamaized\.net|sdk\.privacy-center\.org|snapwidget\.com|ssl\.p\.jwpcdn\.com|static\.(afcdn\.com|allovoisins\.com|bfmtv\.com|lephoceen\.net|mmzstatic\.com|payzen\.eu)|twitter\.com|use\.edgefonts\.net|vjs\.zencdn\.net|widget\.(ausha\.co|beopinion\.com|crowdleap\.com)|widgets\.snack-projects\.co\.uk|www\.(bloglovin\.com|dailymotion\.com|httpcs\.com|radioking\.com|rtbf\.be|rtl\.be|stanza\.co|youtube\.com|zap-tele\.com))\/).*)$/$script,subdocument,third-party,domain=alfemminile.com|alsumaria.tv|americanlisted.com|arcinfo.ch|astucesexpress.com|audiofanzine.com|aufeminin.com|aujourdhui.com|autojournal.fr|autoplus.fr|basketusa.com|betaseries.com|bibamagazine.fr|blog-rct.com|butfootballclub.fr|cabaneaidees.com|caradisiac.com|chezasite.com|clubic.com|collegehumor.com|cuisineaz.com|direct-radio.fr|eclypsia.com|enfemenino.com|enfermeriahoy.com|familyhandyman.com|focus-numerique.com|football365.fr|fourchette-et-bikini.fr|gameblog.fr|gofeminin.de|grands-meres.net|grazia.fr|hommedumatch.fr|journaldugeek.com|ketoconnect.net|lacote.ch|ladepeche.fr|lejournaldelamaison.fr|lenouvelliste.ch|lephoceen.fr|lequipe.fr|lesoir.be|letribunaldunet.fr|lippycorn.com|livepeople.fr|madmoizelle.com|mariefrance.fr|marmiton.org|mcetv.fr|mercato365.com|mjsbigblog.com|monacomatin.mc|netmums.com|nicematin.com|nrj-play.fr|obsev.com|ofeminin.pl|olhardigital.com.br|paroles-musique.com|passeportsante.net|planificacionmedios.com|portail.free.fr|recreatisse.com|rugby365.fr|science-et-vie.com|sofeminine.co.uk|sport365.fr|sportauto.fr|supertoinette.com|taofeminino.com.br|telechargerunevideo.com|thecelticblog.com|thelovenerds.com|tuttogusto.it|ultimate-catch.eu|varmatin.com|viedemerde.fr|viepratique.fr|weather-wherever.co.uk|wewomen.be|worldfreeware.com
 ! Adyoulike
@@ -19274,19 +19089,12 @@ $script,~third-party,domain=supertoinette.com|viedemerde.fr|www.lephoceen.fr
 @@||www.viedemerde.fr/lib/jquery-ui.js$script,~third-party
 @@||www.viedemerde.fr/lib/jquery.min.js$script,~third-party
 ! Secret Media Adservers
-||aingrow.com^$third-party
 ||apitalofuruguaygazellasubgutturosa.ws^$third-party
-||arctocebuscalabarensiscostcutting.net^$third-party
 ||capiruta.com^$third-party
 ||capitalofuruguaygazellasubgutturosa.ws^$third-party
 ||churccivic.com^$third-party
 ||dontblockthisdomain.com^$third-party
-||eclampsialemontree.net^$third-party
-||exhaustmanifoldcloudy.com^$third-party
 ||freefontstore.com^$third-party
-||grazedrumpusroom.com^$third-party
-||induearth.com^$third-party
-||jitterblackhawk.com^$third-party
 ||karien.org^$third-party
 ||keloks.com^$third-party
 ||secretify.xyz^$third-party
