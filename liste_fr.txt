@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: p47AGBPG3WUUN3hZMlTxQQ
-! Version: 202202041930
+! Checksum: 4hPwp+xmuWBGNVElU5c5oA
+! Version: 202202042039
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12249,7 +12249,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||lcd-compare.com/images/main/*/pub.png
 ||le1er.net/pub-
 ||le2minutes.com/pub/
-||leboncoin.fr/fronttools/js/hb_3-20-0.js
 ||leboncoin.fr^*-habillage-
 ||lebuteur.com/danone/
 ||lebuteur.com/data/dzauto.swf
@@ -14123,6 +14122,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ###leaderboard.ads
 ###left-ads-rail
 ###left_slide_pub
+###lht-advertising
 ###libelle_pub
 ###liens_sponsorises
 ###loading-ad
@@ -16665,6 +16665,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##div[class^="offerAd"]
 ##div[class^="pub_tag_"]
 ##div[class^="quickads_"]
+##div[class^="styles_advertising_"]
 ##div[data-ad-id]
 ##div[data-ad-name]
 ##div[data-ad-playerid]
@@ -17325,7 +17326,6 @@ essonneinfo.fr##.Partenaire
 jardiner-malin.fr##.Pblc
 jardiner-malin.fr##.Pblc2
 frenchddl.com##.Usenet
-leboncoin.fr##._3eDdy
 amazon.fr##.a-link-normal[href*="&adId="]
 lesechos.fr##.aamjrj-0.jzxvkd-1.cYYPF
 lesechos.fr##.aamjrj-0.jzxvkd-1.fggLLS
