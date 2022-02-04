@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: mNnujrAkT2lIoE8xcFCwnA
-! Version: 202202041853
+! Checksum: m3Juzt2g97xahQ82GjR8IQ
+! Version: 202202041902
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -13328,9 +13328,8 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||wii-info.fr/ban/
 ||wii-info.fr/bane/
 ||wii-info.fr/p/
+||wikimonde.com/get_aff.
 ||wikimonde.com/mo.js
-||wikimonde.com/wmo.js
-||wikimonde.com^$xmlhttprequest
 ||willemsefrance.fr/media/*/partenariat/
 ||winamax.fr/img/banners/
 ||winamax.fr/img/pub/
@@ -18173,7 +18172,6 @@ jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
 algeriepatriotique.com##a[class][data-track][href]
 voyageforum.com##a[class^="offer"]
-wikimonde.com##a[data-affiliate]
 zdnet.fr##a[data-track-action="partners_traffic_drivers"]
 zdnet.fr##a[data-track-category="powercenter"]
 cpasbien.reviews,cpasbien.to,extreme-download.im,extreme-download.me,oxtorrent.cx,oxtorrent.me,torrent9.gg,torrent9.is,torrent9.ninja,torrent9.si,torrent9.so,torrent9.to,yggtorrent.co,yggtorrent.me##a[href$="/"]
@@ -18406,7 +18404,6 @@ lefigaro.fr##div[class*="mad__partenaire__"]
 lefigaro.fr##div[class*="mad__pub__"]
 paruvendu.fr##div[class*="partenairessidebox"]
 booska-p.com##div[class][style^="background"]
-wikimonde.com##div[class^="am_"]
 paruvendu.fr##div[class^="auto2010_"]
 frandroid.com##div[class^="container_native_"]
 maison-et-domotique.com##div[class^="deals"]
@@ -18423,7 +18420,6 @@ mahjong.fr##div[class^="sub_jeu_72890"]
 msn.com##div[data-aop="stripe.autos.ad_ad"]
 msn.com##div[data-aop="stripe.health.ad_ad"]
 msn.com##div[data-aop^="stripe.shopping"]
-wikimonde.com##div[data-cache]
 msn.com##div[data-module-id*=".shopping."]
 lemonde.fr##div[data-partner="barnebys"]
 e-monsite.com##div[data-role="sp"]
@@ -18821,7 +18817,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||videos-pub.ftv-publicite.fr/player/ad2play.js$domain=tv5mondeplus.com
 @@||weborama.fr/wbo_performance.js$domain=pmu.fr
 @@||wifeo.com/ads/promo/advertise-publicite.gif$image,domain=wifeo.com
-@@||wikimonde.com/list_authors.php?$~third-party,xmlhttprequest
 @@||www.bluesteel.fr/affiliation/$~third-party
 @@||www.bna.dz/media/djmediatools/cache/300x250-$image,~third-party
 @@||www.bouyguestelecom.fr^*/catalog/product/cache/*/image/300x600/$image,~third-party
