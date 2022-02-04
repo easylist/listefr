@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: m3Juzt2g97xahQ82GjR8IQ
-! Version: 202202041902
+! Checksum: 7h7skws0PF25K7nIZdduHQ
+! Version: 202202041918
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12458,6 +12458,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||med-it.com/ban/
 ||med.tn/uploads/banners/
 ||media-ext.wanarun.net^
+||media.castorama.fr/is/image/KingfisherDigital
 ||media.freepik.com/sponsor/
 ||media.funradio.fr/online/image/*_skin-vip$image
 ||media.lelogicielgratuit.com/*/img/banner-
@@ -18357,6 +18358,7 @@ qwant.com##a[href^="https://www.bing.com/aclk?"]
 maison-et-domotique.com##a[href^="https://www.bons-plans-elise.fr/"]
 mega-p2p.net##a[href^="https://www.clictune.com/"]
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
+castorama.fr##a[href^="https://www.needhelp.com/projet.php?"]
 anime-vf.fr##a[href^="https://www.newsly24.com/"]
 credit-agricole.fr##a[href^="https://www.onatousuncotefoot.fr/"]
 undernews.fr##a[href^="https://www.undernews.fr/redirect/"]
