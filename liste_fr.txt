@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7moVvfTFQsQfRKWB5ciuRQ
-! Version: 202202050022
+! Checksum: B5tt0K2zOc7apq46Xc2IoQ
+! Version: 202202050105
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -9198,6 +9198,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||autosurf.me/promo/
 ||autosurf4u.com/images/autosurf*.gif
 ||autotrack.be/scripts/partner/
+||autotrends.be^*/widget/$third-party
 ||avefront.akamaized.net/extra/static/images/partners/
 ||awhoer.net^*/vpn_
 ||awin1.com/awclick.php?
@@ -9744,6 +9745,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||localbitcoins.com/affiliate-
 ||location-vacances-bretagne.eu/location_
 ||logic-immo.be/embed/$third-party
+||logic-immo.be^*/widget/$third-party
 ||login.meexy.com^
 ||logo.gralon.net/plogo-gralon-$third-party
 ||lotebo.com^$script,third-party
@@ -16893,6 +16895,8 @@ manga-news.com###block-up
 lanutrition.fr###block-views-remote-products-block-home
 voyages-sncf.com###block-vsct_vsca-megabanner
 franceinfo.fr###block-zerobloc-pub-ftv-carre
+dhnet.be###block26
+dhnet.be###block31
 bricoleurdudimanche.com###block_a_decouvrir
 explorimmo.com###bob
 soudure.fr###bodytopbanner
@@ -17294,6 +17298,7 @@ algeriepatriotique.com###topbanner_wrapper
 forumbismillah.com,freepik.com###topbar
 embed.tune.pk###tpkp-toolbar
 savefrom.net###tplInstallNow + .install-now
+dhnet.be###trackuity
 cbanque.com###trk_promoforum
 zimbra.free.fr###troiscents
 portail.free.fr###trousse
@@ -18406,6 +18411,9 @@ forexmt4indicators.com##a[target="_blank"] > img[width="728"][height="90"]
 footpy.fr##a[target^="_blank"] > [style="width:303px"]
 footpy.fr##a[target^="_blank"] > [style="width:584px"]
 gamergen.com,generation-nt.com##article .product
+dhnet.be##aside[id^="HALFPAGE_"]
+dhnet.be##aside[id^="LEADERBOARD_"]
+dhnet.be##aside[id^="RECTANGLE_"]
 tchatche.com##banner
 auto-utilitaire.com,mobilealgerie.com##body > a > img
 trictrac.net##body > div + .row.align-center.section
