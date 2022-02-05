@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: B5tt0K2zOc7apq46Xc2IoQ
-! Version: 202202050105
+! Checksum: Q9YV1GURtu+eHNY0vF9+lA
+! Version: 202202050115
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -1977,6 +1977,7 @@
 /post/*&pstool=*&psid=$third-party
 /prebid-dfp.
 /prebid-dfp/*
+/prebidLibrary.
 /prebidtad_
 /previews/ads/*
 /pro_ad.
