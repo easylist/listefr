@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: SgJlzAtDMVGWNAL4zv76Rg
-! Version: 202202050129
+! Checksum: Oz0i5R2lKPyLu82gp98Xag
+! Version: 202202050204
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12749,6 +12749,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||play.js.vidoza.net^
 ||playe.vidto.
 ||plx.gameblog.fr^
+||plx.tukif.com^
 ||pmd-vp-aka.canal-plus.com^
 ||pme-dz.com/wp-content/uploads/2019/07/01.jpg
 ||pme-dz.com/wp-content/uploads/2019/07/02-1.jpg
@@ -13192,6 +13193,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||tube-x-matures.com/catcher/
 ||tubeanal.fr^*/images/banniere_
 ||tubixe.com/site/images/*.gif
+||tukif.com/webcams/
 ||turbo.fr/themes/turbo/img/333x50-
 ||turbobit.net/vbxpvz/
 ||turf-fr.com/images/*x250.
@@ -17635,6 +17637,7 @@ tube8.fr##.footerBanner
 gameblog.fr##.footer__partners
 orange.fr##.footer_autopromo
 legagnant.com##.footer_banners
+tukif.com##.footer_partner_container_wrapper
 realmadrid.com##.footer_sponsors
 voila.fr##.footer_tr
 gratuit-xxx.com##.footerboost
@@ -18098,7 +18101,7 @@ valeursactuelles.com##.view-horizons-valeurs-actuelles
 geste.fr##.view-id-partenaires
 geste.fr##.view-partenaires
 bioalaune.com##.view-pub
-pornovore.fr##.vjs-toolbar
+pornovore.fr,tukif.com##.vjs-toolbar
 elmoudjahid.com##.vpub
 brain-magazine.fr##.vv-hide
 rtl.be##.w-content-details-ligatus
