@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Oz0i5R2lKPyLu82gp98Xag
-! Version: 202202050204
+! Checksum: lFjVF5d9SivgKm/RfLCtIA
+! Version: 202202050247
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14123,6 +14123,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ###inlineaddesktop
 ###innerpub
 ###insidepage_ads
+###intextad
 ###ipBlock-LargeAdBox
 ###ipBlock-mainAdBox
 ###j_ads
@@ -16901,6 +16902,7 @@ franceinfo.fr###block-zerobloc-pub-ftv-carre
 dhnet.be###block26
 dhnet.be###block31
 bricoleurdudimanche.com###block_a_decouvrir
+cowcotland.com###blocpub1
 explorimmo.com###bob
 soudure.fr###bodytopbanner
 memoclic.com###bom_ban
@@ -16909,6 +16911,7 @@ silicon.fr###boostToaster
 liligo.fr###bottom-banner-smart
 000webhost.com###bottom-banner-with-counter-holder-desktop
 rugbyfederal.com###bottom_768x90
+cowcotland.com###bottom_pubN2
 magicmaman.com###boutiqueRight
 meilleurmobile.com###bouyguestelecom
 moov.mg###box-link-left
