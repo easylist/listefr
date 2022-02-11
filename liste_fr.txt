@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 9lLzeLDDAkR9R/ugeVeuMg
-! Version: 202202091409
+! Checksum: wL3N/LontaU88GivvrSNMw
+! Version: 202202112040
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -356,6 +356,7 @@
 .fr/adv_
 .fr/adver/
 .fr/affiliate/
+.fr/affiliates/
 .fr/js/out.js
 .fr/publicity/
 .get_pinder_ads
@@ -3133,6 +3134,7 @@ _frontend_loader.$script
 &bann=$popup
 &camp=*&uclick=$popup
 &cbiframe=$popup
+&cid=*_banner_in_$popup
 &click_to_display=$popup
 &clickverify=*&utm_$popup
 &direct=*&zoneid=$popup
@@ -8550,6 +8552,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||im.mobsweet.com^$popup,third-party
 ||imitrk.com^$popup,third-party
 ||imzahrwl.xyz^$popup
+||incontro-veloce.com^$popup
 ||india-zed.com^$popup,third-party
 ||infokz.com^$popup
 ||informereng.com^$popup,third-party
@@ -12435,6 +12438,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||link.tl/fly/client_a.php?
 ||linternaute.com/api/block/
 ||linternaute.fr/api/block/
+||live.whassup.fr/*&campaign=
 ||livecad.net/img/pub_
 ||livefoot.fr/1800x1000-affiliation.
 ||livefoot.fr/images/habillage_
@@ -13388,6 +13392,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||weshrak.com^*/imp.php?
 ||weshrak.com^*/pub.php?
 ||wgcdn.net/widget/
+||whassup.fr/wp-content/uploads/*/banner_
 ||wheregoes.com/img/banners/
 ||whoer.net*/vpn-
 ||whois-raynette.fr/*/domaine-libre-big.gif
@@ -16294,6 +16299,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##a[href*=".igraal.com/#parrain="] > img
 ##a[href*=".igraal.com/?parrain="] > img
 ##a[href*=".igraal.com/inscription?parrain="] > img
+##a[href*=".incontro-veloce.com/"]
 ##a[href*=".infra.systems/"]
 ##a[href*=".irtyd.com/"]
 ##a[href*=".irtyf.com"]
@@ -16305,6 +16311,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##a[href*=".leadzutw.com/"]
 ##a[href*=".m4adata.com/"]
 ##a[href*=".madamecam.com/"]
+##a[href*=".medgoodfood.com/"]
 ##a[href*=".morbitempus.com/"]
 ##a[href*=".oopt.fr"]
 ##a[href*=".ourtoolbar.com"]
@@ -17097,6 +17104,7 @@ loisirados.com###intersticiel
 conseils-courseapied.com###ja-banner
 livefoot.fr###jjj
 lavenir.net###jobat_content
+whassup.fr###js-fixed-bar
 lemonde.fr###js_deroule_ope
 juritravail.com###jt-footerContainer
 virginradio.fr###la-promo-showskin-a
