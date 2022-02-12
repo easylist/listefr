@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: H+f/tz4+82HpzEyjSVG58w
-! Version: 202202112112
+! Checksum: 04hVVPaYLtAoU3FSnCztgw
+! Version: 202202120408
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -6971,6 +6971,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||pubfruitlesswording.com^
 ||publishgoaling.casa^
 ||publpush.com^
+||pubpowerplatform.io^
 ||pugrigypy.com^
 ||punchpeasspat.com^
 ||puqqpjywka.com^
@@ -14782,6 +14783,8 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.ad-ops
 ##.ad-page_top
 ##.ad-pave
+##.ad-pos
+##.ad-pos-middle
 ##.ad-provider-yahoo
 ##.ad-reserve
 ##.ad-right-600
@@ -15032,6 +15035,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.adsbygoogle_h_250
 ##.adsbygoogle_wrap
 ##.adsbykyo
+##.adsbypubpower
 ##.adsbyskyline
 ##.adsderecha
 ##.adsdisplay
@@ -16224,7 +16228,9 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##[data-ad-text]
 ##[data-ads-core]
 ##[data-block-type="block:ads"]
+##[data-desktop-ad-id]
 ##[data-e2e="advertisement"]
+##[data-mobile-ad-id]
 ##[data-qwertize-zone]
 ##[data-testid="adTag"]
 ##[data-type="ad"][data-format]
