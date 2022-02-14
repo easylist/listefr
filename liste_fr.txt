@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Q77AKpNiETkvrCYYuL+J1Q
-! Version: 202202120535
+! Checksum: c6HG8OhArQvJaFY/l9QJwA
+! Version: 202202141746
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14050,6 +14050,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ###content_pub
 ###content_pub_carre
 ###contenu-text-publicite
+###contenu_liens-sponso
 ###contextualAds
 ###contextuel-publicite-video
 ###coreads-wrapper
@@ -14799,6 +14800,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.ad-sponsored
 ##.ad-table-cell
 ##.ad-tablet
+##.ad-texte-intercale
 ##.ad-theme-content
 ##.ad-title-megaban
 ##.ad-title-pave
@@ -18757,6 +18759,7 @@ pandos2play.free.fr,soap-passion.com,ultimate-catch.eu#?#:-abp-properties(opacit
 paruvendu.fr#?#.lazyload_bloc:-abp-has([class*="sponsorise"])
 rakuten.com#?#[data-productid]:-abp-has(a[href^="/offer?action="])
 businessinsider.fr#?##related-post-:-abp-has(a[href*="/contenu-sponsorise"])
+santemagazine.fr#?#[data-identifier]:-abp-has(div:-abp-has(.sponsor-color))
 senscritique.com,seriehentai.com#?#:-abp-properties(data:)
 sketchucation.com#?#.post:-abp-has(.postprofile:-abp-has(strong:-abp-contains(Ad Machine)))
 sookbtp.com#?#.owl-item:-abp-has(figure:-abp-has(img[src^="publicites/"]))
