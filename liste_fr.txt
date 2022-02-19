@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: H14va9U4AxujdmD861i93w
-! Version: 202202191455
+! Checksum: mFctqykKCgsfb0KrBLXm8w
+! Version: 202202191517
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15399,6 +15399,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.esv-pub-300-250
 ##.etiq-ads
 ##.expressAdBanner
+##.ezoic-adpicker-ad
 ##.facebook-twitter-ads-728-90
 ##.fakeAd
 ##.fake_embed_ad_close
@@ -17619,7 +17620,7 @@ girlsgogames.fr##.categoryBanner
 android-dz.com##.cb-sidebar-widget
 ccm.net,commentcamarche.com,commentcamarche.net##.ccm_pugoo__sponso
 grosbill.com##.cda-iab
-maxiapple.com##.cegg_widget_products
+maison-et-domotique.com,maxiapple.com##.cegg_widget_products
 akelys.com##.cellulePUB
 neowebcar.com##.cetelem
 hclips.com,txxx.com##.chan_banner
@@ -17656,6 +17657,7 @@ hdss.la##.custom-fake-media-info
 cyberguerre.numerama.com##.cyberguerre-end-block-post
 blumei-piano.com##.cyt-affi-wrapper
 igen.fr,macg.co,watchgeneration.fr##.deal-item
+maison-et-domotique.com##.deal_daywoo
 begeek.fr##.deals-container-widget
 logitheque.com##.description + .telechargement
 cpasbientorrent.fr##.description > center > a
@@ -17673,6 +17675,8 @@ echoroukonline.com##.ech-live__ads
 gamekult.com##.ed__news-h--native
 howtofix.guide##.eds-animate
 tsa-algerie.com##.ekk-footer-ad-wrapper
+maison-et-domotique.com##.elementor-widget-heading
+maison-et-domotique.com##.elementor-widget-post_carousel_mod
 batiactu.com##.emploi
 femmeactuelle.fr##.encartAstro
 wp-infinity.com##.entry-featured
