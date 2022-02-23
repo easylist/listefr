@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: dMs8vpeEDNiStiV1knksjQ
-! Version: 202202230712
+! Checksum: slbLuXBVQ5ezjmG5XNacYA
+! Version: 202202230728
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -13239,7 +13239,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||tennistemple.com/images/shop/bann/
 ||terre.tv/images/partenaires/
 ||terredauphinoise.fr/casiope/serveur/partage/
-||test-achats.be^*/images/skins/
+||test-achats.be/*/skins/
 ||test.sexeanonyme.com^
 ||tetesaclaques.tv/public/images/promo_
 ||textograto.com/iframe1.php
@@ -18139,8 +18139,8 @@ quebeccoupongratuit.com##.size_200_90
 quebeccoupongratuit.com##.size_300_250
 quebeccoupongratuit.com##.size_300_600
 quebeccoupongratuit.com##.size_728_90
+test-achats.be##.skin
 funradio.fr,lesinrocks.com,rtl.fr##.skin-link
-test-achats.be##.skin-wrapper
 picmix.com##.sky
 alvinet.com##.skyscraper
 jeuxjeuxjeux.fr##.skyscraper-container
