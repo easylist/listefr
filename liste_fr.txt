@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: slbLuXBVQ5ezjmG5XNacYA
-! Version: 202202230728
+! Checksum: d4LpKO9FVLJYTf8FYzePOw
+! Version: 202202230743
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18750,6 +18750,7 @@ blogdumoderateur.com#?#.breve:-abp-has(.breve-info:-abp-contains(Sponsorisé))
 blogdumoderateur.com#?#.sticky:-abp-has(.sponsorise)
 businessinsider.fr#?#.post-nonfeatured:-abp-has(.title-studio:-abp-contains(Contenu Sponsorisé))
 ccm.net#?#.ccm_list_catch__item:-abp-contains(Sponsored)
+clubic.com#?#.HeroListingCard2 > .grid-x:-abp-has(.post-label--sponso)
 clubic.com#?#.posts:-abp-has(.post-label--sponso)
 cnetfrance.fr#?#.riverPost:-abp-has(.tag-desktop:-abp-contains(Publicité))
 commentcamarche.com,commentcamarche.net#?#.ccm_list_catch__item:-abp-contains(Annonces)
