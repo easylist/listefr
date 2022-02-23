@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ZQcIUL0W2uX6BvTNNeGNww
-! Version: 202202232105
+! Checksum: PUovIBFreonSEr07fDxSBQ
+! Version: 202202232109
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2907,6 +2907,9 @@ _strip_ad/
 _waframedia_
 _werbebanner_
 digitalocean.gif|
+! adv url shortener script
+/urlshortener.js
+/urlshortener.min.js
 ! zergnet.com
 /zerg-inf-multi.js
 /zerg-inf.js
@@ -13113,7 +13116,6 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||static.mediafire.com/images/dl_
 ||static.neowebcar.com/app/nwc/pix/allianz-widget.jpg
 ||static.neowebcar.com/app/nwc/pix/cetelem-300.jpg
-||static.opensubtitles.org/libs/js/urlshortener.js
 ||static.pornovore.fr/droite/
 ||static.pornovore.fr/template/defaut/js/123soleil.js
 ||static.pornovore.fr/zboobz/
