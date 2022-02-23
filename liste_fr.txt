@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: KThjkAAisFJvYB+HRbN7ng
+! Checksum: QhsjojCcCtWA7R8CCD4BpQ
 ! Version: 202202232111
 ! Title: Liste FR
 ! Expires: 1 days
@@ -15591,6 +15591,8 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##.label_advertising
 ##.large-ad-center-close
 ##.large-left-ad
+##.layout__adHeader
+##.layout__adPlaceHolder
 ##.lazypubli
 ##.lbl-ad
 ##.leaderboard728
@@ -16290,6 +16292,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##[class^="trivago_widget_"]
 ##[class^="view-affichage-publicit"]
 ##[class^="view-id-affichage_publicit"]
+##[data-ad-position]
 ##[data-ad-text]
 ##[data-ads-core]
 ##[data-advadstrackid]
