@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: V5yYUMGc+mdwjxXWNkT3qA
-! Version: 202202232103
+! Checksum: ZQcIUL0W2uX6BvTNNeGNww
+! Version: 202202232105
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12301,8 +12301,13 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||joowala.com/images/banners/
 ||journaldelenvironnement.net/images/pub_
 ||journaldesfemmes.fr/api/block/
+||journaldu4x4.com/wp-content/uploads/*-banni%C3%A8re.
+||journaldu4x4.com/wp-content/uploads/*-pub.
+||journaldu4x4.com/wp-content/uploads/*.gif
+||journaldu4x4.com/wp-content/uploads/*/300x250
+||journaldu4x4.com/wp-content/uploads/*/banner-
 ||journaldu4x4.com/wp-content/uploads/*/pub-
-||journaldu4x4.com/wp-content/uploads/2018/01/*.gif
+||journaldu4x4.com/wp-content/uploads/*/publicit%C3%A9-
 ||journaldugeek.com/content/*/carrefour-desktop.js
 ||journaldugeek.com/wp-content/themes/*/habillages$image
 ||journaldumusulman.fr/wp-content/uploads/*.gif
@@ -16284,6 +16289,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##[class^="view-id-affichage_publicit"]
 ##[data-ad-text]
 ##[data-ads-core]
+##[data-advadstrackid]
 ##[data-block-type="block:ads"]
 ##[data-desktop-ad-id]
 ##[data-e2e="advertisement"]
