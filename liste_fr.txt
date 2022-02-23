@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: d4LpKO9FVLJYTf8FYzePOw
-! Version: 202202230743
+! Checksum: AYdX9PdAb+MdfJWL83i7gA
+! Version: 202202230745
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -1759,7 +1759,7 @@
 /ligadis.$script
 /ligatus.js
 /link-converter.$script
-/linkad.
+/linkad.$domain=~linkad.fr
 /linkreplacer.js
 /linkshrink.js
 /linkto/ads.
