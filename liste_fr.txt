@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: tQD92JQYGPQylTIQqSQL2Q
-! Version: 202202232113
+! Checksum: QZRQZlZgUro1b8MaNKR/FA
+! Version: 202202232139
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -5060,7 +5060,6 @@ _zoneid=*/rel/index.cfm?$popup
 ||vacature.com^$third-party
 ||vador.com^$third-party
 ||valemedia.net^$third-party
-||vanwa.tech^$third-party
 ||varsloqt.name^$third-party
 ||vdo.ai^$third-party
 ||vertoz.com^$third-party
@@ -10411,6 +10410,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ||url.ph/banners/
 ||us-ugc-aka.canal-plus.com^
 ||users.skynet.be/freewaooh2/ban.png
+||vanwa.tech/assets/js/app.js
 ||varaineturf.com/logos/$third-party
 ||vegemiam.fr/wp-content/uploads/$third-party
 ||vendezvotrevoiture.fr^$subdocument,third-party
