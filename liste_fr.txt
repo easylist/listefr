@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: QZRQZlZgUro1b8MaNKR/FA
-! Version: 202202232139
+! Checksum: wKQ+gYuyI7AYy1WSKTnXsw
+! Version: 202202240237
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16890,6 +16890,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##iframe[id^="ylt"][style][sandbox][width][height]
 ##iframe[name*="/adunblock_"]
 ##ins[data-ad-position]
+##pub-megabanbas
 ##reklaamacasino2
 ##script[src^="http://www.pubdirecte.com/script/"]
 ##section[onclick*="/publicite-300-250/"]
@@ -17128,8 +17129,6 @@ hardware.fr###footer_img
 pornofrance.org###formulaire
 equirodi.be###ft_partners
 ca-sudrhonealpes.fr###fullscreen
-developpez.com###gabarit_pub0
-developpez.com###gabarit_pub1
 centerblog.net###gauche > iframe[width="300"][height="250"]
 gameblog.fr###gbFnac300
 gameblog.fr###gb_home_sponsor
@@ -18616,6 +18615,9 @@ forumconstruire.com##div[id^="bloc_discussion_"] > :first-child + div
 fan2.fr,mcm.fr,melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,meltyxtrem.fr,virginradio.fr##div[id^="container_A2_"]
 frandroid.com##div[id^="container_native_"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr##div[id^="eShowPub"]
+developpez.com,developpez.net##div[id^="gabarit_megaban"]
+developpez.com,developpez.net##div[id^="gabarit_pub"]
+##div[id^="gabarit_pub"]
 dsih.fr##div[id^="pub"]
 universfreebox.com##div[id^="publicite-"]
 musculaction.com##div[id^="pubsousmenu"]
