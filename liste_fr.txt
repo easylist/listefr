@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: wKQ+gYuyI7AYy1WSKTnXsw
-! Version: 202202240237
+! Checksum: q4hfaLhgnT+BNg40aKBcQA
+! Version: 202202240718
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16870,6 +16870,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|9xu
 ##div[id^="div-gpt-promo-"]
 ##div[id^="divsda-"]
 ##div[id^="exoNativeWidget"]
+##div[id^="gabarit_pub"]
 ##div[id^="gpt-ad-banner"]
 ##div[id^="gpt-ad-masthead"]
 ##div[id^="gpt-ad-mpu"]
@@ -18617,7 +18618,6 @@ frandroid.com##div[id^="container_native_"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr##div[id^="eShowPub"]
 developpez.com,developpez.net##div[id^="gabarit_megaban"]
 developpez.com,developpez.net##div[id^="gabarit_pub"]
-##div[id^="gabarit_pub"]
 dsih.fr##div[id^="pub"]
 universfreebox.com##div[id^="publicite-"]
 musculaction.com##div[id^="pubsousmenu"]
