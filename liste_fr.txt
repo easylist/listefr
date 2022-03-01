@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Jq8dhRoVSAPvBmCEEIlO9A
-! Version: 202202271403
+! Checksum: Iu6D94F1CY3ZDdt07PcUgg
+! Version: 202203010200
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -3483,7 +3483,7 @@ _frontend_loader.$script
 ://go.*/watch?$popup
 ://go.*?zoneid=$popup
 ://goto.*/watch?$popup
-://landing./?ats=$popup,third-party
+://landing.*/?ats=$popup,third-party
 ://lp1.*&publisher=$popup
 ://pdv.$popup
 ://pop.*.&$popup
@@ -5226,8 +5226,8 @@ _zoneid=*/rel/index.cfm?$popup
 &uuid=*&refer=*&key=$popup,third-party
 /^https?:\/\/(www\.)?([a-z0-9]{3,16}\.)?[a-z0-9]{5,32}\.(click|co|club|com|bid|date|download|men|net|network|online|party|pw|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/([a-z0-9]{2,3}\/){3}[a-f0-9]{32}\.js$/$script,xmlhttprequest
 /^https?:\/\/(www\.)?([a-z0-9]{3,16}\.)?[a-z0-9]{5,32}\.(click|co|club|com|bid|date|download|men|net|network|online|party|pw|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/([a-z0-9]{3,4}\/){3}[0-9]{7}\/[a-z]{3,5}\.js$/$script,xmlhttprequest
+/^https?:\/\/(www\.)?([a-z0-9]{8,16}\.)?[a-z0-9]{5,32}\.(click|co|club|com|bid|date|download|men|net|network|online|party|pw|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[0-9a-f]{32}\.js$/$script,third-party
 /^https?:\/\/(www\.)?[0-9a-z]{5,32}\.(click|co|club|com|bid|date|download|men|net|network|online|party|pw|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[a-z]\/[0-9a-f]{32}\.js\?id=[0-9]{6}$/$script,third-party
-/^https?:\/\/(www\.)?[a-z0-9]{5,32}\.(click|co|club|com|bid|date|download|men|net|network|online|party|pw|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[0-9a-f]{32}\.js$/$script,third-party
 /^https?:\/\/(www\.)?[a-z0-9]{5,32}\.(click|co|club|com|bid|date|download|men|net|network|online|party|pw|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[0-9a-f]{32}\/invoke\.js$/$script,xmlhttprequest
 /^https?:\/\/(www\.)?[a-z0-9]{5,32}\.(click|co|club|com|bid|date|download|men|net|network|online|party|pw|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[0-9a-z]{8,12}\?key\=[0-9a-f]{32}$/$other,popup,third-party
 /^https?:\/\/[a-z0-9]{5,32}\.(click|co|club|com|bid|date|download|men|net|network|online|party|pw|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/[a-z]{2}\/[a-zA-Z0-9]{64}\=[a-zA-Z]{3}\.js$/$script,third-party,xmlhttprequest
@@ -5331,6 +5331,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||391e04933a.com^
 ||3969aa67d1.com^
 ||39irqwnzlv.com^
+||3a92600f42.com^
 ||3ac46b4f5a.com^
 ||3b26cbed75120f.com^
 ||3ba87e4828c5a95.com^
@@ -5350,6 +5351,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||442438f989.com^
 ||452428e4ea.com^
 ||45eijvhgj2.com^
+||46d845a455.com^
 ||4716140e82.com^
 ||48a7b291c1.com^
 ||49863d99e314a.com^
@@ -5436,6 +5438,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||8pvgabnulk.com^
 ||91475d578d.com^
 ||91aa46b949d20.com^
+||93348ef7f0.com^
 ||9526s7bwd0.com^
 ||95p5qep4aq.com^
 ||96n5r5va.top^
@@ -5629,6 +5632,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||awfull.pro^
 ||awfulporetroys.casa^
 ||awlinsdeb.com^
+||awmbed.com^
 ||axialivylow.com^
 ||axwxrnk5ydzy.com^
 ||ayeboagnu.com^
@@ -5761,6 +5765,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||c52llumx.com^
 ||c545d86c18d22.com^
 ||c7486c5c0a.com^
+||c9fdfce120.com^
 ||cadbitff.com^
 ||cairalei.com^
 ||caligula.pro^
@@ -5995,6 +6000,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||ducatoathelf.com^
 ||duginamis.com^
 ||duhmonkssand.cam^
+||dulogav.com^
 ||dumakuli.pro^
 ||duoleioaf.com^
 ||dupelipperan.com^
@@ -6023,6 +6029,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||easyjetset.online^
 ||eb4b188b26.com^
 ||ebbaidfie.com^
+||ec3d33ea03.com^
 ||eclogicmeows.com^
 ||ederrassi.com^
 ||edgar2al2larngpoer.com^
@@ -6154,6 +6161,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||fitthings.info^
 ||fiwyfawhy.com^
 ||fkehg.com^
+||fla4n6ne7r8ydcohcojnnor.com^
 ||flamedissemble.com^
 ||flapfountlefty.com^
 ||flowhot.info^
@@ -6518,6 +6526,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||kentorjose.com^
 ||keqrd.top^
 ||keraclya.com^
+||kerkorur.com^
 ||kesepsowy.pro^
 ||keyrolan.com^
 ||kftlldvkhk.xyz^
@@ -6528,6 +6537,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||kikoosso.net^
 ||kimsacka.net^
 ||kinak.top^
+||king3rsc7ol9e3ge.com^
 ||kipoutch.net^
 ||kittyboltdid.work^
 ||kjaay.com^
@@ -6968,6 +6978,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||phiriaxi.com^
 ||phohagyli.com^
 ||phyhegroga.com^
+||phyphuphuxy.com^
 ||piarecdn.com^
 ||pichusydu.com^
 ||picmedia.biz^
@@ -7028,6 +7039,8 @@ _zoneid=*/rel/index.cfm?$popup
 ||psopsywhuti.com^
 ||psourgem.com^
 ||psughooy.com^
+||ptapjmp.com^
+||ptewhustophe.com^
 ||ptidsezi.com^
 ||ptigjkkds.com^
 ||ptitiwiti.pro^
@@ -7067,6 +7080,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||putmereold.casa^
 ||puturebraving.com^
 ||pvafh.com^
+||pwmctl.com^
 ||pwnwiltpear.com^
 ||pyksf.com^
 ||pyreelsepipe.com^
@@ -7526,6 +7540,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||unflesholchi.com^
 ||unhorseaa.com^
 ||unique2lazy.com^
+||unjointbobbed.com^
 ||unmovedfilch.com^
 ||unrestgrits.com^
 ||unrotomon.com^
@@ -7564,6 +7579,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||venkrana.com^
 ||vennala.pw^
 ||vestynale.com^
+||vevecheri.com^
 ||vexacion.com^
 ||vezatagn.com^
 ||vfhkljw5f6ss.com^
@@ -7638,6 +7654,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||witchcraftcash.com^
 ||witlayvet.com^
 ||wivamyno.pro^
+||wmbbsat.com^
 ||wokvesperlog.com^
 ||wolqundera.com^
 ||wombalayah.com^
