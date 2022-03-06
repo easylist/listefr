@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: QdazbmnIZ7go0htQjd8qJw
-! Version: 202203061827
+! Checksum: A8AX50gxpGu8PJ+z/tLiKg
+! Version: 202203061837
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11553,6 +11553,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|ads
 ||aps.dz/images/banners/clients/
 ||arabwebtv.com/arabwebtv.gif
 ||archaic.fr/wp-content/uploads/link-library-images/
+||archimag.com/sites/archimag.com/files/*-ban-900x150_
 ||archimag.com/sites/archimag.com/files/adds/
 ||ariase.com/css/themes/
 ||ariase.com^*/media/pub/
@@ -16417,6 +16418,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|ads
 ##[id^="adswidget2-quick-adsense"]
 ##[id^="adswidget3-quick-adsense"]
 ##[id^="adswidget4-quick-adsense"]
+##[id^="block-views-affichage-publicit-block"]
 ##[id^="block-xiti_oas-"]
 ##[id^="codeneric_ad_widget-"]
 ##[id^="criteoDivPave"]
@@ -18156,7 +18158,6 @@ lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.refe
 igen.fr,macg.co,watchgeneration.fr##.refurb
 cdiscount.com##.regBloc
 jds.fr##.regie_20
-archimag.com##.region-before-content
 endirect24.com##.rek
 jeux-e.com##.rek_ban
 dhnet.be,lalibre.be##.relookingHtml
