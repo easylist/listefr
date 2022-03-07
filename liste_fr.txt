@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: IrFwRqVVHGBSrwDhMt/y+w
-! Version: 202203061839
+! Checksum: l0g1RW7POrxd8lPvrCmLuA
+! Version: 202203070441
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -13814,6 +13814,7 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|ads
 ###ad-adhesive-footer
 ###ad-ban-bet-load
 ###ad-ban-load
+###ad-banner_atf
 ###ad-banner_mtf-label
 ###ad-banners
 ###ad-before-content
@@ -19168,6 +19169,7 @@ bsv.admin.ch#@#.pub_outer
 lechainonmanquant.com,love-hinax.com#@#.publicite
 ta-meteo.fr,xn--mto-bmab.fr#@#.topbanneradvertise
 kijiji.ca#@#div[data-ad-id]
+gamekult.com#@#div[data-ad-sticky-follow]
 !
 !-------------------------- Anti-Adblock -------------------------!
 ! Guide anti-adblock pour les webmasters : https://easylist.to/2013/05/10/anti-adblock-guide-for-site-admins.html
