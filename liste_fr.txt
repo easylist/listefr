@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: l0g1RW7POrxd8lPvrCmLuA
-! Version: 202203070441
+! Checksum: y8WjorWvn+Vzv/J4NK5CJw
+! Version: 202203070543
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14340,6 +14340,8 @@ $stylesheet,third-party,domain=1fichier.com|247tpb.club|7-up.net|9xupload.me|ads
 ###inReadVideo
 ###inads
 ###incontent_ad
+###incontent_ad2
+###incontent_ad3
 ###index_module_pub
 ###infinite-adslot-2
 ###infopopup > a > img
@@ -17879,6 +17881,7 @@ lexpress.fr##.immo
 pagesblanches.be,rtbf.be##.imu
 vidoza.net##.in-block
 tsa-algerie.com##.in-ooredoo
+hitek.fr##.incontent
 boursorama.com##.injected.block
 quebeccoupongratuit.com##.inner-pub
 zoomdici.fr##.innerArtAdd
