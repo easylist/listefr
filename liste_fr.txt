@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7nlrY+qd7ktCOU5Tiw52dg
-! Version: 202203070700
+! Checksum: kWb6lXe8UYyqhL2BTbbZog
+! Version: 202203072045
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -17131,7 +17131,7 @@ gratuiciel.com,logitheque.com###bloc-droite-bas-250-250
 gratuiciel.com,logitheque.com###bloc-milieu-300-250
 graphistesonline.com###bloc-partenaires
 aujourdhui-en-france.fr,leparisien.fr###blocMarketing
-mail.voila.fr,orange.fr###blocServices
+orange.fr###blocServices
 maisonbrico.com###blocSponsor
 ouest-france.fr###bloc_annonces_immo
 batiactu.com###bloc_partenaire
@@ -17235,7 +17235,6 @@ agroligne.com,auto-utilitaire.com,mobilealgerie.com###floatdiv
 algeriepatriotique.com###flottante_droite
 algeriepatriotique.com###flottante_gauche
 test-mobile.fr###fondhabillage
-search.ke.voila.fr###fontDivVignette
 forum.oujdacity.net###footer
 amateur2sexe.fr###footer-boom
 boursier.com###footer-partenaires
@@ -17315,7 +17314,6 @@ virginradio.fr###la-promo-showskin-a
 lequipe.fr###la_boutique
 booska-p.com###ladivvid
 lafermeduweb.net###lastBar
-118712.fr###le712_lr_pub
 webactus.net###leader-small
 marketing-professionnel.fr###leader-wrapper
 zdnet.fr###leaderBottom
@@ -17375,7 +17373,6 @@ p-nintendo.com###network > ul > .jm
 vacanceo.com###new_travelbloc
 judgehype.com###news-droite-nepasmanquer a[href^="http://www.materiel.net/"]
 net-iris.fr###ni-barreGroup
-voila.fr###nosPartenaires
 bienvenue-a-la-ferme.com###nos_partenaires
 xrares.com###nuevoa
 orange.fr###o_carrepub
@@ -17587,7 +17584,6 @@ mateur.tv###zone-out-bis
 terredauphinoise.fr###zone-pub1
 nordicmag.info###zox-wallpaper
 alloforfait.fr###zzone
-118712.fr,voila.fr##.ADS
 vfcomplet.vip##.Ad
 ivocommunication.com,ivoprint.com##.Ads
 genybet.fr##.GGFODTBDCS
@@ -17895,7 +17891,6 @@ orange.fr##.footer_autopromo
 legagnant.com##.footer_banners
 tukif.com##.footer_partner_container_wrapper
 realmadrid.com##.footer_sponsors
-voila.fr##.footer_tr
 gratuit-xxx.com##.footerboost
 jizzbunker.com##.ftr-banners
 mistergooddeal.com##.ftr_partners
@@ -18044,7 +18039,6 @@ aujourdhui-en-france.fr,leparisien.fr##.moduleNew300
 lanutrition.fr##.moduletable-banner
 rtl.fr##.money-talks
 allfilms.net##.movie-aye
-118712.fr##.mpl
 lemondeinformatique.fr##.mpu
 zdnet.fr##.mpu-middle
 gamekult.com##.mpubas-wrapper
@@ -18170,7 +18164,6 @@ challenges.fr,sciencesetavenir.fr##.pub-home
 lefigaro.fr##.pub-icone
 bdgest.com,bedetheque.com##.pub-interne-top
 lematin.ma##.pub-medium
-118712.fr##.pub-oan-hp
 yabiladi.com##.pub-read
 lequipement.fr##.pub-revendeur
 francebleu.fr##.pub-sidebar
@@ -18327,8 +18320,6 @@ fan-de-cinema.com##.topmargin
 instinct-voyageur.fr##.topsky
 ca-briepicardie.fr##.total-cover
 monpetitforfait.com##.tpa
-search.ke.voila.fr##.tpl_slpartner_container_bottom
-search.ke.voila.fr##.tpl_slpartner_container_top
 yatahonga.com##.tpub
 forum-actif.net##.tradeDoubler
 expat.com##.travel-insurance
@@ -18857,7 +18848,6 @@ yggtorrent.li,yggtorrent.nz,yggtorrent.re,yggtorrent.se,yggtorrent.si,yggtorrent
 ##iframe[style="border: 0; width: 728px; height: 110px;"]
 ##iframe[style="border: 0; width: 970px; height: 110px;"]
 ! Filtres de propriété CSS pour Adblock Plus
-118712.fr#?#article:-abp-has(.pro:-abp-contains(Annonce))
 1fr1.net,3oloum.com,7olm.org,ahladalil.com,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,easyforumpro.com,fcmulhousefans.com,forum-gratuit.net,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumalgerie.net,forumpro.fr,forums-actifs.com,galoppourlavie.org,gid3an.com,jordanforum.net,lebonforum.com,manager-fifa.com,orizzontescuolaforum.net,own0.com,passionmilitaria.com,sorcieremonique.com,superforum.fr,syriaforums.net,walkingdead-rpg.com,yoo7.com,ze-43eme.com#?#.post:-abp-has(.postprofile:-abp-contains(Contenu sponsorisé))
 20min.ch#?#.clusterTop:-abp-has(.teaser:-abp-has(h3:-abp-contains(Paid Post)))
 algerie-eco.com#?#.td_block_wrap:-abp-has(.block-title:-abp-contains(sponsorisés))
