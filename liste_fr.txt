@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: FIuPpDh69A6l+hmzZGFslw
-! Version: 202203080443
+! Checksum: Ge2SJwiq/Ou/zwIBtbuaVw
+! Version: 202203081701
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -423,7 +423,6 @@
 .php?idb_=*&idc_=$subdocument
 .php?img_adv=
 .php?sponsor=
-.png|$script
 .popunders.
 .popundersc.js
 .productads.
@@ -9919,8 +9918,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||img.fasttechcdn.com$domain=trackitonline.org|trackitonline.ru
 ||img.grouponcdn.com/gpn/$image,third-party
 ||img.nuxit.com/banners/
-||img.pmdstatic.net/scale/*/300xauto/*/picture.$image,xmlhttprequest
-||img.pmdstatic.net/scale/*/360xauto/*/picture.$image,xmlhttprequest
+||img.pmdstatic.net/scale/*.2Fa2d63f0c-9037-40f5-9138-1355b1642ffc.2Egif
+||img.pmdstatic.net/scale/*.2Fb38a701e-ca38-407a-adba-3fdc460005fc.2Egif
 ||img.root-top.com/topsite/$third-party
 ||img.webme.com/pic/p/piriketseverler/
 ||img6.bricozone.be/jquery-1.2.6.min.js
@@ -17737,6 +17736,7 @@ boursorama.com##.bloc-liens-partenaires
 nouvelobs.com##.bloc-partenaires
 nouvelobs.com##.bloc-partners
 aujourdhui-en-france.fr,leparisien.fr##.bloc-pratique
+capital.fr##.bloc-services
 aeroport.fr##.bloc-shopping
 aujourdhui-en-france.fr,leparisien.fr##.blocPartenaire
 auto-utilitaire.com,mobilealgerie.com##.bloc_728x90_brd
