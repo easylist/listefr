@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: XpbJTODTXbFrWevqn+5otQ
-! Version: 202203091858
+! Checksum: d1f0VgoPhoaUQ/dO9gGjEQ
+! Version: 202203091914
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11857,7 +11857,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||altusmediagroupinc.go2cloud.org^$popup
 ||amazon.fr^$popup,domain=fdesouche.com
 ||amzn.to^$popup,domain=dzsat.org|fdesouche.com
-||awin1.com^$popup,domain=configspc.com|livefoot.fr
+||awin1.com^$popup,domain=configspc.com
 ||baidu.com/link?url=$popup,third-party
 ||beaverscripts.com^$popup,third-party
 ||bet365.com^*?affiliate=$popup
@@ -17796,7 +17796,6 @@ ladepeche.fr,midilibre.fr###immobilier
 freenews.fr###insidepic_widget
 loisirados.com###intersticiel
 conseils-courseapied.com###ja-banner
-livefoot.fr###jjj
 lavenir.net###jobat_content
 whassup.fr###js-fixed-bar
 lemonde.fr###js_deroule_ope
