@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Eae0G7n3uCn+fisE4Mrxpg
-! Version: 202203110137
+! Checksum: yHiHeXVGd0Zpb2nk3USPjg
+! Version: 202203110744
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8139,6 +8139,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||toojaipi.net^
 ||tookjvyljyibrah.com^
 ||topadbid.com^
+||topdatingclub.life^
 ||topwwnews.com^
 ||tosuicunea.com^
 ||tozoruaon.com^
@@ -8425,6 +8426,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||whaighem.net^
 ||whammodrive.com^
 ||whapsomuku.com^
+||whatabouthotbabies.com^
 ||whataboutnews.com^
 ||whegadry.com^
 ||whehilru.com^
@@ -9953,6 +9955,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||toroadvertising.com^$popup,third-party
 ||tororango.com^$popup,third-party
 ||totifiquo.com^$popup,third-party
+||totlnkcl.com^$popup
 ||track-*.link^*utm_$popup,third-party
 ||track2cash.com^$popup,third-party
 ||trackeoz.fr^$popup,third-party
@@ -13571,6 +13574,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||pons.com/p/files/dict_images/widgets/
 ||pooki.fr/img/integrations/habillage
 ||pooki.fr/js/popup.
+||pop.porn.fr^
+||pop3.porn.fr^
 ||porn.com^$xmlhttprequest
 ||porn.fr/v3/index.php?
 ||porndoe.com/movie/preroll/$media
@@ -17370,6 +17375,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="https://syndication.exdynsrv.com/"]
 ##a[href^="https://t.hrtya.com/"]
 ##a[href^="https://thebestusenet.online/"]
+##a[href^="https://totlnkcl.com/"]
 ##a[href^="https://tpmr.com/r/"]
 ##a[href^="https://traceless.me/lp/"]
 ##a[href^="https://track.effiliation.com/servlet/effi.click?"] > img
