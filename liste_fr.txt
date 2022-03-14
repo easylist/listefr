@@ -12358,8 +12358,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||cdn.flvto.biz/js/*_popup_
 ||cdn.flvto.biz/push_app.js
 ||cdn.mgig.fr/2020/03/mg-955d46a3-59d5-462b-9a97-full.jpg
-||cdn.ouedkniss.com/medias/images/
-||cdn.ouedkniss.com/medias/promotions/
 ||cdn.tirage-gagnant.com/js/dynamic-ban-
 ||cdn.tirage-gagnant.com/js/popup.js
 ||cdn.wpformation.com/wp-content/uploads/*/wpserveur-banner
@@ -13511,6 +13509,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||otaku-attitude.net^*/okazu-manga.gif
 ||otakufr.com/wp-content/uploads/*-300x115-
 ||otakufr.com/wp-content/uploads/*/banner.
+||ouedkniss.com/medias/images/
+||ouedkniss.com/medias/promotions/
 ||ouest-annonces.com/widgethomePAOFM.php
 ||ouest-france.fr/*ploads/banner/
 ||ouestfrance-auto.com/widget/$third-party
@@ -19374,8 +19374,10 @@ nextinpact.com#?#app-home-item:-abp-has(.article:-abp-has(.sponsored))
 nextinpact.com#?#li[class="ng-star-inserted"]:-abp-has(.sponsored)
 numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
 numerama.com#?#.post-grid:-abp-has(.sponsoring-icon)
-ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/Sponsored|sponsorisées|Stores à la une/))
+ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/Sponsored|Sponsorisées|Stores à la une/))
+ouedkniss.com#?#.ok-swiper:-abp-has(.swiper-slide[style^="width: 960px;"])
 ouedkniss.com#?#.v-dialog--fullscreen:-abp-has(.v-toolbar-promo)
+ouedkniss.com#?#a:-abp-has(div:-abp-has(.adsbygoogle))
 pandos2play.free.fr,soap-passion.com,ultimate-catch.eu#?#:-abp-properties(opacity:)
 paruvendu.fr#?#.lazyload_bloc:-abp-has([class*="sponsorise"])
 rakuten.com#?#[data-productid]:-abp-has(a[href^="/offer?action="])
