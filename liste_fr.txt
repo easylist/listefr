@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: /O4qxoX0Y/Ut/Qu80ffs7A
-! Version: 202203140445
+! Checksum: BnEA8sf95rAhtJ2Byj3hPw
+! Version: 202203140459
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15118,6 +15118,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ###pubPosition1
 ###pubPosition2
 ###pubRight
+###pubRight-show
 ###pubSidebarHaut
 ###pubTop
 ###pubTopPage
@@ -15340,6 +15341,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ###spaceForPub
 ###splashbox-advcorner
 ###sponsor-block
+###sponsor_google
 ###sponsor_sidebar
 ###sponsored-container
 ###sponsoredContainer
@@ -18005,7 +18007,6 @@ amazon.fr###sp_detail
 amazon.fr###sp_detail2
 animeka.com,europages.fr###sponsor
 blogduwebdesign.com###sponsor250
-jeuxvideo.com###sponsor_google
 boursier.com###sponsored
 esi.dz,sfr.fr###sponsors
 forumconstruire.com###st_ad
@@ -19347,6 +19348,7 @@ ici-londres.com#?#.articles_list_item:-abp-has(.category:-abp-contains(Sponsoris
 igen.fr,macg.co,watchgeneration.fr#?#article:-abp-has(.sidebar-artitle:-abp-contains(/📣|📌/))
 igen.fr,macg.co,watchgeneration.fr#?#article:-abp-has(h2:-abp-contains(/📣|📌/))
 indeed.fr#?#.jobsearch-SerpJobCard:-abp-has(.sponsoredGray)
+jeuxvideo.com#?#.card:-abp-has(.badge:-abp-contains(Sponsorisé))
 jeuxvideo.com#?#.item-small-pres:-abp-has(a:-abp-has(.sponsored-prefix))
 jeuxvideo.com#?#li:-abp-has(a:-abp-has(.sponsored-prefix))
 journaldugeek.com#?#.entry__item:-abp-has(.entry__img-container--sponso)
