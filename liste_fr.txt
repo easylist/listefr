@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: HTYQgFTeTLuppCSoj++ntg
-! Version: 202203180849
+! Checksum: TajXZ8uqV+HFMJPiZ0okcw
+! Version: 202203180909
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -9280,6 +9280,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||adxprts.com^$popup,third-party
 ||adyieldoptimizer.com^$popup,third-party
 ||adzs.com^$popup,third-party
+||affcpatrk.com^$popup
 ||affforce.com^$popup,third-party
 ||affilanity.com^$popup,third-party
 ||affiliation-france.com^$popup,third-party
@@ -17335,6 +17336,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="https://ad.propellerads.com/"]
 ##a[href^="https://admin.thrixxx.com/affiliates/"]
 ##a[href^="https://ads.regie24h00.com"]
+##a[href^="https://affcpatrk.com/"]
 ##a[href^="https://afflat3d1.com/"]
 ##a[href^="https://app.monetizze.com.br/"]
 ##a[href^="https://badoinkvr.com/?"]
@@ -17346,7 +17348,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="https://clickadilla.com/?"]
 ##a[href^="https://clk.notallowedscripttradedoubler.com/click?"]
 ##a[href^="https://clk.pvnsolutions.com/"]
-##a[href^="https://dl-protect.info/url4premium?"]
+##a[href^="https://dl-protect.info/url"]
 ##a[href^="https://dl11a.club/"]
 ##a[href^="https://go.alvexo.com/"]
 ##a[href^="https://go.blackbullmarkets.com/"] > img
