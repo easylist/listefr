@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: GyVxO3uG/8cuy9F4JtUctg
-! Version: 202203231515
+! Checksum: x4aj3bVKSc3yrffWPLOahg
+! Version: 202203231522
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14790,6 +14790,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||tubave.com/redirect.$popup
 ||tube-teen.fr^$popup,script
 ||unblocked2.vip^*&$popup
+||vanime.co/templates/*/images/$popup
+||vanime.me/templates/*/images/$popup
 ||vfcomplet.org/*.php$popup
 ||voir-films-series.net/streaming.html$popup
 ||voir-stream.com/regarder-$popup
