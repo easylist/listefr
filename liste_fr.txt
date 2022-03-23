@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ICKHHsNeebyO1JKnv73M7Q
-! Version: 202203231508
+! Checksum: GyVxO3uG/8cuy9F4JtUctg
+! Version: 202203231515
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12397,6 +12397,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||hdpopcorns.me/wp-$popup
 ||hdvideos.porn/?id=$popup
 ||hentai-tube.fr^*?$popup
+||i.imgur.com/$popup,domain=french-stream.so
 ||iosfull.com/anizan/$popup
 ||iqbroker.com/lp/$popup
 ||jacquieetmicheltv.net^*&ref=$popup
