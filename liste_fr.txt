@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ArDGBZdkKJpcN/BfHMXkDg
-! Version: 202203231412
+! Checksum: THhTojTzI8nsjZQ/w6Cgpg
+! Version: 202203231416
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -19828,6 +19828,7 @@ igen.fr,macg.co,watchgeneration.fr#?#article:-abp-has(.sidebar-artitle:-abp-cont
 igen.fr,macg.co,watchgeneration.fr#?#article:-abp-has(h2:-abp-contains(/📣|📌/))
 indeed.fr#?#.jobsearch-SerpJobCard:-abp-has(.sponsoredGray)
 jeuxvideo.com#?#.anchorMiddleOne:-abp-has(.badge:-abp-contains(Sponsorisé))
+jeuxvideo.com#?#.anchorWrapper:-abp-has(.cardHorizontalList__footer:-abp-contains(Sponsorisé))
 jeuxvideo.com#?#.card:-abp-has(.badge:-abp-contains(Sponsorisé))
 jeuxvideo.com#?#.item-small-pres:-abp-has(a:-abp-has(.sponsored-prefix))
 jeuxvideo.com#?#li:-abp-has(a:-abp-has(.sponsored-prefix))
