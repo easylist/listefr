@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 9fKAgHvANRB9jjpIb+S8RA
-! Version: 202203231455
+! Checksum: ICKHHsNeebyO1JKnv73M7Q
+! Version: 202203231508
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14780,6 +14780,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||streamcomplet.*/play.php?$popup
 ||streamcomplet.*_redirect_$popup
 ||streamcomplet3.net/rt/$popup
+||streaming-french.com/wp-content/uploads/$popup
 ||systemed.fr/popunder/$popup
 ||t.nl.francetv.fr/r/?id=$popup
 ||tahiti-infos.com/ads/$popup
