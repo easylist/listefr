@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: C0PUF7Xn4bPHoYtyjGkzeA
-! Version: 202203291654
+! Checksum: d305cJplcMlPRdxdyhMSHQ
+! Version: 202203291908
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -3792,6 +3792,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||adaccess.fr^$third-party
 ||adaraby.com^$third-party
 ||adback.co^$third-party
+||adbison.com^$third-party
 ||adbox.lt^$third-party
 ||adc-lc.eu^$third-party
 ||adcapt.com^$third-party
@@ -6868,6 +6869,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||hrcnrgtsfahdxxk.com^
 ||hretabbtgrutmxp.com^
 ||hrojhwrbpkgacs.com^
+||hrxhdlyryumymt.xyz^
 ||hsauoenjanphsng.com^
 ||hsnkgljeclt.xyz^
 ||htcxgh.com^
@@ -7545,6 +7547,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||mousheen.net^
 ||mppegwckbtp.com^
 ||mpxbfivfu.xyz^
+||mqcuurwr.xyz^
 ||mqirfkiwbgqifeg.com^
 ||mqpiorkowf.xyz^
 ||mqvgkrtppupi.xyz^
@@ -7664,6 +7667,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||nlcptrcvscxh.com^
 ||nld0jsg9s9p8.com^
 ||nlfsqvqf.com^
+||nlkeppisxchivbr.com^
 ||nlwquqyiwjylm.xyz^
 ||nlxiuuhswf.xyz^
 ||nmvmffulvnyyb.xyz^
@@ -7692,6 +7696,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||npaiurgpelr.xyz^
 ||npbnj.com^
 ||npftsftpcrmq.xyz^
+||nqmqmminjyjo.com^
 ||nrciwnfhkv.xyz^
 ||nrged.com^
 ||nrpytlwohljfjgc.xyz^
@@ -7720,6 +7725,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||nwmum.com^
 ||nwpvywljoxnn.xyz^
 ||nwqsxndlawka.xyz^
+||nwuwkjuictkaw.com^
 ||nxhkie.com^
 ||nydocypi.pro^
 ||nyifpthoqgwr.com^
@@ -7989,6 +7995,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||placingstandardanthem.com^
 ||planesglensituated.com^
 ||planningunavoidablenull.com^
+||platformstaticcdn.website^
 ||playhydrax.com^
 ||playurbano.com^
 ||plemil.info^
@@ -8347,6 +8354,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||rwqbilrg.xyz^
 ||rwrwyjso.xyz^
 ||rxfttmmtljpt.xyz^
+||rxhrlimarwdw.com^
 ||rxjfh.com^
 ||rxubmccmxhlpa.xyz^
 ||rydlvobb.xyz^
@@ -9008,6 +9016,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||vncgatvelmf.xyz^
 ||vneffwecka.com^
 ||vnldaly8r5.com^
+||voberphvte.com^
 ||vodlgaarknlkfxh.xyz^
 ||volvejudgetneig.info^
 ||voqfowggj.xyz^
@@ -9032,6 +9041,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||vugnubier.com^
 ||vuqlwdmiygl.xyz^
 ||vuurnfmp.xyz^
+||vuyyvkwxhvbmv.com^
 ||vvnruopychccxn.com^
 ||vvpcdke43x.com^
 ||vwecqqqbnevcn.xyz^
@@ -9211,6 +9221,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||xctwbnui.xyz^
 ||xdsaiqoqegxwwta.com^
 ||xdserv.com^
+||xehinnrh.com^
 ||xfb00.com^
 ||xfgmosvesua.xyz^
 ||xfhykgowayd.xyz^
@@ -10116,6 +10127,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||cobalten.com^$popup,third-party
 ||cogleapad.com^$popup
 ||coloredview.com^$popup,third-party
+||com-1.pro^$popup
 ||compazenad.com^$popup,third-party
 ||conceau.co^$popup,third-party
 ||configs-pc.com^$popup,third-party
@@ -17968,6 +17980,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="http://click.union.ucweb.com/"]
 ##a[href^="http://clicks.totemcash.com/"]
 ##a[href^="http://clicks.toteme.com/"]
+##a[href^="http://com-1.pro/"]
 ##a[href^="http://downloadity.net/"]
 ##a[href^="http://earth-111.com/"]
 ##a[href^="http://fave.co/"]
