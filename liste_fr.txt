@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 2fncjoIBCDrTuG+MX+e1JQ
-! Version: 202204092111
+! Checksum: TmVE3amJHrlOHURuLxenOw
+! Version: 202204110354
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11428,6 +11428,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||bitport.io/assets/banners/
 ||blablaland.com/pubosaure/
 ||blc-concept.fr^*/upload/bannieres/
+||blickdeal.ch/blickdeal.xml$third-party
 ||blob.core.windows.net/ressources/img/autopromo/$third-party
 ||block.mediavenus.biz^
 ||block.s*block.com^$script
@@ -14658,6 +14659,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||pharmasite.fr/img/pub/
 ||pharmasite.fr/medias/pub/
 ||pharmnet-dz.com/img/pubs/
+||php.blick.ch/static/*_blickdeal/
 ||phpsources.org/images_amazon/$image
 ||pictime.fr/boss/img/
 ||piecesauto.nc/pubs/
@@ -15762,6 +15764,17 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ###annonce_pub_contenu
 ###annoncegoogle
 ###annoncepub
+###appnexus-placement-articleTextAd1
+###appnexus-placement-articleTextAd2
+###appnexus-placement-articleTextAd3
+###appnexus-placement-articleTextAd4
+###appnexus-placement-endOfPageAd
+###appnexus-placement-leaderboard
+###appnexus-placement-teaser1
+###appnexus-placement-teaser2
+###appnexus-placement-topicblockAd0
+###appnexus-placement-topicblockAd1
+###appnexus-placement-topstoriesAd
 ###article-pub-content
 ###article_add468x60
 ###article_add_300x600
@@ -20009,6 +20022,7 @@ youporn.com##[href*="./"]
 meteofrance.com##[href*=".xiti.com"] > img
 filecrypt.cc,filecrypt.co##[href^="javascript:"]
 voyageforum.com##[id*="billboardArround"]
+blick.ch##[id^="appnexus-placement"]
 comarketing-news.fr##[id^="comar-"]
 3dnatives.com##[id^="dnati-"]
 commentcamarche.com,commentcamarche.net,free.fr,journaldesfemmes.com,orange.fr,turf-fr.com##[id^="lig_"]
@@ -20226,6 +20240,7 @@ petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent'"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 achat-bitcoins.com##a[rel="nofollow"] > img
 toonanime.cc,voirseries.io##a[rel^="nofollow"]
+blick.ch##a[rel^="sponsored"]
 igen.fr,macg.co,watchgeneration.fr##a[style*="width: 100%;"]
 mega-p2p.net##a[style*="width: 98%; height: 100%; inset:"]
 jeu.video##a[style="position: fixed;top: 110px;left: 0;bottom: 0;width: 50%;"]
