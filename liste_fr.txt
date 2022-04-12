@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: NS8BwceN4k7DH0MeSCXt2w
-! Version: 202204120357
+! Checksum: Rowmcne0xHA+aNfmeN7zYw
+! Version: 202204121708
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2457,6 +2457,7 @@
 /wgAds.
 /widget.advertisement.
 /widget_ads/*
+/widget_mntzm.
 /widgets-bazarchic-
 /widgets-zoom-annonce-shopping.
 /widgets-zoom-mytravelchic.
@@ -4548,6 +4549,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||onlivestreams.online^$third-party
 ||opti-digital.com^$third-party
 ||optimaladbid.com^$third-party
+||optimhub.com^$third-party
 ||orangepublicite.fr^$third-party
 ||ovnet.fr^$third-party
 ||ovnet.net^$third-party
@@ -12648,6 +12650,9 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||zlpaste.net/banner/
 ||zone-hot.com/thumblink.php?
 ||zone.*.netdna-cdn.com^
+! edisound.com (podcast sponsorisé)
+||platform.edisound.com^$domain=lejournaldelamaison.fr
+||publishers.edisound.com^$domain=lejournaldelamaison.fr
 ! dailymotion.com
 ||dailymotion.com/cdn/$media,script
 ||dmcdn.net^$media
@@ -14537,6 +14542,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||maison-travaux.fr/wp-content/uploads/*/bouton-300x160.
 ||maison-travaux.fr/wp-content/uploads/sites/8/2019/06/bouton.jpg
 ||maison-travaux.fr/wp-content/uploads/sites/8/2019/10/300x160-1.jpg
+||maison-travaux.fr/wp-content/uploads/sites/8/2021/04/deco.jpg
 ||mameworld.info/net/pics/da.gif
 ||mamytwink.com^*/images/partenaires/
 ||manager-online.fr/images/sidebar/
