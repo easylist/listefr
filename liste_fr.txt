@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Rowmcne0xHA+aNfmeN7zYw
-! Version: 202204121708
+! Checksum: FF6J56iN/hH2cIrpgClPYw
+! Version: 202204122054
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14094,7 +14094,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||goldenboys.fr/images/klops-promo-goldenboys-180x180-v5.jpg
 ||goldenmoustache.com/wp-content/uploads/*/300x250
 ||gonzai.com/wp-content/uploads/*/gonzai-renault.$image
-||goole.fr/images/pub.jpg
 ||goziga.com/ban/
 ||goziga.com^*/banangela.gif
 ||goziga.com^*/banhead_
@@ -20398,6 +20397,7 @@ qwant.com##a[href^="https://www.bing.com/aclick?"]
 qwant.com##a[href^="https://www.bing.com/aclk?"]
 maison-et-domotique.com##a[href^="https://www.bons-plans-elise.fr/"]
 mega-p2p.net##a[href^="https://www.clictune.com/"]
+goole.fr##a[href^="https://www.ebay.fr/itm/"]
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
 castorama.fr##a[href^="https://www.needhelp.com/projet.php?"]
 anime-vf.fr##a[href^="https://www.newsly24.com/"]
