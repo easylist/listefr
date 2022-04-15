@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: KZJP/vUg6lM5MjpYlclyGA
-! Version: 202204150253
+! Checksum: qML+hlW2SvXn8r1/Ljn05g
+! Version: 202204150255
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14456,6 +14456,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||lebuteur.com/interstitiel/swf/
 ||lecancer.fr/media/*/logo_partenaires_
 ||lechiffredaffaires.com/images/banners/
+||lecho.be/ad/
 ||lecompagnon.info/promo/
 ||leconews.com/campub/
 ||lecourrier-dalgerie.com/images/pub.gif
@@ -18850,6 +18851,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##div[id^="PostAd"]
 ##div[id^="ad-adsensesidebar"]
 ##div[id^="ad-artspons_"]
+##div[id^="adhese_sponsored"]
+##div[id^="adhese_tijdpartner"]
 ##div[id^="ads_banner_"]
 ##div[id^="ads_block_"]
 ##div[id^="adsatlas-"]
@@ -19640,6 +19643,7 @@ beaute-test.com##.bt__ad
 upload.ac##.btn-dl-plus
 gamergen.com,generation-nt.com##.bup
 20minutes.fr##.c-20-minutes-ad-bar-custom
+lecho.be##.c-adh-connecthpwrapper
 rtl.fr##.c-prebid
 terrafemina.com##.c-product
 750g.com##.c-pwned-gg
@@ -19918,6 +19922,7 @@ valeursactuelles.com##.nos-partenaires
 generation-nt.com##.ntSponsored
 manjaro.fr##.nuxit
 lenouveleconomiste.fr##.nveco-widget
+lecho.be##.o-hpgrid__row-sponsoredcombo
 ouedkniss.com##.o-promo
 ouedkniss.com##.o-promo-carousel
 ouedkniss.com##.o-promo-mobile
