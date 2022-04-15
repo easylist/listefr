@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: CZRDyjyclPDiXzIcay1rNg
-! Version: 202204140426
+! Checksum: KZJP/vUg6lM5MjpYlclyGA
+! Version: 202204150253
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11835,6 +11835,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||echangegagnant.com/gagnant468.png
 ||ecomnewsmed.com/application/images/banners/
 ||eden-deco.fr/media/banniere/
+||edge1-us-priority.akamacdn.com^$subdocument
 ||edi-static.fr/Images/Pubs/
 ||education.ti.com^$domain=ti.bank.free.fr
 ||efficacitemaximale.com/wp-content/uploads/*/bann
@@ -12823,6 +12824,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||i.imgur.com/0UpfQtJ.png
 ||i.imgur.com/2758lJa.png
 ||i.imgur.com/2Azjukl.png
+||i.imgur.com/2hGm0lj.gif
 ||i.imgur.com/3RxyL0Z.png
 ||i.imgur.com/4cUwoPk.gif
 ||i.imgur.com/4FFURwf.png
@@ -13239,6 +13241,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||domautcr.com/clicki/$popup
 ||downloading.to/*?k=&ban=$popup
 ||druidx.com/?track=$popup
+||edge1-us-priority.akamacdn.com^$popup
 ||effiliation.com^$popup,domain=configspc.com|dzsat.org|permispratique.com
 ||emp3s.ws/spon/$popup
 ||emptyloop.com/unlocker/welcome.htm$popup,domain=emptyloop.com
