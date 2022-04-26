@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: wc4grFsbEeDJeRFW1CRW3w
-! Version: 202204260154
+! Checksum: fjRmwUpB7RWhgVq49InVIQ
+! Version: 202204260744
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2466,17 +2466,6 @@
 /wish_list_product_$script
 /wmadv.
 /wordcoin-ad-
-/wp-content/*/bloc-partenaire-
-/wp-content/banners/*$third-party
-/wp-content/plugins/baw-bon-plan/*
-/wp-content/plugins/mm-ad-widget/*
-/wp-content/plugins/mm-kelkoo/*
-/wp-content/plugins/mts-wp-in-post-ads/*
-/wp-content/plugins/the-moneytizer/*
-/wp-content/plugins/wp-banners/*
-/wp-content/themes/*/ads/*
-/wp-content/uploads/wp-banners/*
-/wp-totemtools/*
 /wpra-ad.
 /wpxtube/*
 /wtop_bannieres/*$third-party
@@ -2912,6 +2901,18 @@ _strip_ad/
 _waframedia_
 _werbebanner_
 digitalocean.gif|
+! WordPress cms
+/wp-content/*/bloc-partenaire-
+/wp-content/banners/*$third-party
+/wp-content/plugins/baw-bon-plan/*
+/wp-content/plugins/mm-ad-widget/*
+/wp-content/plugins/mm-kelkoo/*
+/wp-content/plugins/mts-wp-in-post-ads/*
+/wp-content/plugins/the-moneytizer/*
+/wp-content/plugins/wp-banners/*
+/wp-content/themes/*/ads/*
+/wp-content/uploads/wp-banners/*
+/wp-totemtools/*
 ! adv url shortener script
 /urlshortener.js
 /urlshortener.min.js
