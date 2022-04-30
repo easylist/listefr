@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: FKAttW10RH24GeD+7X1TLg
-! Version: 202204300328
+! Checksum: 9mUiiA/ywVhgkQQIOaNRmw
+! Version: 202204300332
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14702,6 +14702,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||mameworld.info/net/pics/da.gif
 ||mamytwink.com^*/images/partenaires/
 ||manager-online.fr/images/sidebar/
+||manga-news.com/public/bans/
 ||manga-sanctuary.com/cg/
 ||mangaku.info/wp-content/uploads/2019/01/gif-1.gif
 ||mangovideo.*/player/float.php
@@ -15722,6 +15723,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||liligo.*/compareSites/$popup
 ||links.fhsarl.com^$popup,third-party
 ||lkeria.com/redirect.$popup
+||manga-news.com/redirection.php?$popup
 ||matchendirect.fr/tux/habillage/$popup
 ||mevio.me/playdownload.html$popup
 ||mstx.com/top/$popup
@@ -19088,6 +19090,7 @@ grandecran.fr###ban_big
 cdmail.fr###bandeau
 les-terrains.com###bandeauBas
 kairn.com###bandeauTheme > .video
+manga-news.com###bangeante
 appcake.net,boursier.com,htmlforums.com,lesaffaires.com,maliweb.net,nrj.fr###banner
 football.fr,sports.fr###banner-full
 boursier.com###banner-wrapper
