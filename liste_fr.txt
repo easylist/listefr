@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: lE3Q8IZIXJbUCxST9nnlOw
-! Version: 202204292033
+! Checksum: FKAttW10RH24GeD+7X1TLg
+! Version: 202204300328
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2068,6 +2068,7 @@
 /pub/banniere/*
 /pub/banniere_
 /pub/bannieres/*
+/pub/bg.php?
 /pub/dfp.
 /pub/dfp/*
 /pub/djezzy-
@@ -3413,6 +3414,7 @@ _frontend_loader.$script
 /pu/?*?utm_$popup
 /pu/?psid=$popup
 /pu2redirector.$popup
+/pub/bg.php?$popup
 /pub2/redirect.$popup
 /publicidad.$popup
 /puopen.php?$popup
