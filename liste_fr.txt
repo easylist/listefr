@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ll9QjF4/VnN6G3jccI+bWw
-! Version: 202206031813
+! Checksum: 07TS31QFljKrtXv05omCew
+! Version: 202206031838
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -3062,6 +3062,8 @@ _frontend_loader.$script
 /cdn-cgi/pe/bag2?*xpopunder.
 /cdn-cgi/pe/bag2?*yesmessenger.com
 /cdn-cgi/pe/bag2?r*juicyads.
+! Unblockia ads (Adpone)
+/cdn.unblockia.com/*
 ! TLD
 ||ac/adx/
 ||bid^*&zone_key=
@@ -4891,6 +4893,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||tworismo.com^$third-party
 ||ulclick.ru^$third-party
 ||ultrafiles.co^$third-party
+||unblockia.com^$third-party
 ||unicefworld12.ovh^$third-party
 ||unit-sense.net^$third-party
 ||univers-animers.net^
