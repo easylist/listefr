@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: w6BPAFGlIqZgpCZfN9bMsA
-! Version: 202206071819
+! Checksum: T0jghLyBX/75dO5/nFLcLQ
+! Version: 202206071853
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12354,6 +12354,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||buzzypeople.fr/download/115163_k.gif
 ||buzzypeople.fr/pluginbarre/
 ||buzzypeople.fr/webplayertv/728x90wa.png
+||c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2022/01/mon-petit-placement-1.jpg
 ||ca.xxxshame.com^
 ||cadremploi.fr/assets/widgets/$third-party
 ||call-of-passion.com/banner/
@@ -21468,6 +21469,7 @@ nextinpact.com#?#.us-bas-ctr:-abp-has(a[href^="https://www.cybertek.fr/"])
 nextinpact.com#?#app-home-item:-abp-has(.article:-abp-has(.sponsored))
 nextinpact.com#?#li[class="ng-star-inserted"]:-abp-has(.sponsored)
 numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
+numerama.com#?#.post-card:-abp-has(span:-abp-contains(sponso))
 numerama.com#?#.post-grid:-abp-has(.sponsoring-icon)
 ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/Sponsored|Sponsorisées|Stores à la une/))
 ouedkniss.com#?#.ok-swiper:-abp-has(.swiper-slide[style^="width: 960px;"])
