@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: yUPDF9/tjfIN8jXVS3HvVQ
-! Version: 202206071940
+! Checksum: gF4GsJEU2rWXOgX53AmSkA
+! Version: 202206072206
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21526,10 +21526,10 @@ chine.in#?#a:-abp-contains(/ANNONCE|Annonce|BOUTIQUE|PARTENAIRE|PUB/)
 chine.in##div[id][style="float: right;"]
 chine.in##img[src*="base64"]
 ! yggtorrent
-yggtorrent.la,yggtorrent.li,yggtorrent.nz,yggtorrent.re,yggtorrent.se,yggtorrent.si,yggtorrent.to##.vpn
-yggtorrent.la,yggtorrent.li,yggtorrent.nz,yggtorrent.re,yggtorrent.se,yggtorrent.si,yggtorrent.to##a[href*="/get_vpn"]
-yggtorrent.la,yggtorrent.li,yggtorrent.nz,yggtorrent.re,yggtorrent.se,yggtorrent.si,yggtorrent.to##a[style][onclick]
-yggtorrent.la,yggtorrent.li,yggtorrent.nz,yggtorrent.re,yggtorrent.se,yggtorrent.si,yggtorrent.to##td[style][onclick]
+yggtorrent.fi,yggtorrent.la,yggtorrent.li,yggtorrent.nz,yggtorrent.re,yggtorrent.se,yggtorrent.si,yggtorrent.to##.vpn
+yggtorrent.fi,yggtorrent.la,yggtorrent.li,yggtorrent.nz,yggtorrent.re,yggtorrent.se,yggtorrent.si,yggtorrent.to##a[href*="/get_vpn"]
+yggtorrent.fi,yggtorrent.la,yggtorrent.li,yggtorrent.nz,yggtorrent.re,yggtorrent.se,yggtorrent.si,yggtorrent.to##a[style][onclick]
+yggtorrent.fi,yggtorrent.la,yggtorrent.li,yggtorrent.nz,yggtorrent.re,yggtorrent.se,yggtorrent.si,yggtorrent.to##td[style][onclick]
 ! forumactif.com
 1fr1.net,3oloum.com,7olm.org,ahladalil.com,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,darkbb.com,easyforumpro.com,fcmulhousefans.com,forum-gratuit.net,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumalgerie.net,forumpro.fr,forums-actifs.com,galoppourlavie.org,gid3an.com,jordanforum.net,lebonforum.com,manager-fifa.com,orizzontescuolaforum.net,own0.com,passionmilitaria.com,sorcieremonique.com,superforum.fr,syriaforums.net,walkingdead-rpg.com,yoo7.com,ze-43eme.com##.croco_wrapper, [onclick^="_"], [onclick^="var"], [style*="position:relative; height: 90px;"]
 ! xooit.com
