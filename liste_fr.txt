@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: QEPEVE7ZJxgyNxYIP4vy0g
-! Version: 202206071905
+! Checksum: yUPDF9/tjfIN8jXVS3HvVQ
+! Version: 202206071940
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14880,6 +14880,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||framboise314.fr/wp-content/uploads/*/banner-
 ||framboise314.fr/wp-content/uploads/*/pub_
 ||framboise314.fr/wp-content/uploads/2020/06/our-300250.gif
+||france-alerte.com/wp-content/uploads/popup.jpg
 ||france-pittoresque.com/Espace_Mag_
 ||france-pittoresque.com/expstickybar.js
 ||france-pittoresque.com/pub.js
@@ -20222,6 +20223,7 @@ jvn.com###skin
 batiactu.com###skip-link
 ezgif.com###sky
 peterhahn.fr###skyscraper
+france-alerte.com###slide
 aujourdhui.com###slidebox
 channelbiz.fr,itespresso.fr,silicon.fr###slider-partnerzone
 maitresrestaurateurs.com###sliderPartenaire
@@ -21015,6 +21017,7 @@ autoalgerie.com##.td-banner-wrap-full
 turbo.fr##.textPub
 lexpress.fr##.thematic_widget
 laposte.fr##.tile--flag--partner
+france-alerte.com##.titre-publi
 moteurs-regionaux.com##.titreCoupProjo
 cinemotions.com##.titre_paragraphe + div[style="height:450px; margin-left:12px;"]
 viamichelin.be,viamichelin.ch,viamichelin.com,viamichelin.fr##.toggle-adinmap
