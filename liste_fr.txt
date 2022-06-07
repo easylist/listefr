@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: P935aEq8sfdpp5+PKzv8Pw
-! Version: 202206051845
+! Checksum: XYzEfAChaZTnFiPSHaSbjw
+! Version: 202206071718
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -17494,6 +17494,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.WallPaperAd
 ##._ads_ch
 ##._meltypub
+##.a-badge.-ad
 ##.a-d-v
 ##.a4u_banner_js
 ##.a_d-left
@@ -20565,6 +20566,7 @@ msn.com##.logo > a[target="_blank"] > img[width="300"]
 mavieencouleurs.fr##.logo-brand
 caradisiac.com##.logosPartenaires
 cdiscount.com##.lpTradeRegie
+ma-reduc.com##.m-coveringIab
 marmiton.org##.m_amazon_product_bloc
 cuisineactuelle.fr##.magazineBlock
 allocine.fr##.main-banner
