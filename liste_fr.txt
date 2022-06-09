@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: juT4ZbRk6ZQNeh7IvZINPA
-! Version: 202206091755
+! Checksum: urmkiMW64xWFOp6sxhIlkQ
+! Version: 202206091758
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -1959,6 +1959,7 @@
 /popunderjs.
 /popundersc/*
 /popup-display-pub.
+/popup-pub-
 /popup.*&ads=
 /popup.*&pub=
 /popup.*?affil_id=
@@ -19768,6 +19769,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href*="//media.unibet.fr/redirect.aspx?pid="] > img
 ##a[href*="//mob1ledev1ces.com/"]
 ##a[href*="//nrg.red-by-sfr.fr/dynclick/"] > img
+##a[href*="//propellerads.com/?rfd="]
+##a[href*="//propellerads.com/publishers/?ref_"]
 ##a[href*="//toroadvertisingmedia.com/"]
 ##a[href*="//tracking.publicidees.com/clic.php?"] > img
 ##a[href*="//www.awin1.com/cread.php?"] > img
@@ -19955,7 +19958,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="http://porno.pornocrados.com/"]
 ##a[href^="http://promo.avec.votresite.ca/?r="] > img
 ##a[href^="http://promo.vador.com/"]
-##a[href^="http://propellerads.com/?rfd="]
 ##a[href^="http://reallygoodlink.free3dadultgames.com/"]
 ##a[href^="http://redir.bebi.com/"]
 ##a[href^="http://refer.ccbill.com/cgi-bin/clicks.cgi?"]
