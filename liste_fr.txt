@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: J5LpKaWVOqQ8g1kzvX6l/w
-! Version: 202206250659
+! Checksum: DTeEXkETVuVC7kn+bkQ3kA
+! Version: 202207050557
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -1614,6 +1614,7 @@
 /getPromotedClassifiedAd.
 /getPub.php
 /getSplashScreenAds|
+/getstatus?site=banner&tail=
 /gfx/adv/*
 /gfx/banner/*
 /gfx/banner_
@@ -5659,6 +5660,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||b3kyo0de1fr0.com^
 ||b3ra6hmstrioek54er.com^
 ||b42rracj.com^
+||b44b115392.com^
 ||b46d59ded1.com^
 ||b55376b5e3.com^
 ||b6b4rhsbdawj.com^
@@ -7650,6 +7652,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||hshuxfwikwvamki.com^
 ||hsjwnmdcjb.com^
 ||hsnkgljeclt.xyz^
+||hsrvz.com^
 ||htcxgh.com^
 ||htldkxfadykfcy.com^
 ||htobnkbgovpinet.xyz^
@@ -7666,6 +7669,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||huldeeelfwife.com^
 ||hulyagedikci.com^
 ||humspfvdpu.com^
+||hunchbacktransformation.com^
 ||hurndgudm.com^
 ||hurricaneabjection.com^
 ||hussarsestop.com^
@@ -8179,6 +8183,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||kaqbesov.xyz^
 ||karayarillock.cam^
 ||kaseine.info^
+||katebugs.com^
 ||kaunairu.net^
 ||kauzishy.com^
 ||kaxccitjvgor.com^
@@ -8358,6 +8363,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||laiqmigio.com^
 ||lakegibe.com^
 ||lalapush.com^
+||landlordmexicansole.com^
 ||landscapedeputyirreparable.com^
 ||lappepnow.com^
 ||largesscoue.com^
@@ -8411,6 +8417,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||lgqgrsbjh.com^
 ||lgvgluvipmynpm.xyz^
 ||lgvguopvrncv.com^
+||lhefrhkbvtpyq.com^
 ||lhjdxfmchncinxd.com^
 ||lhoeslhcngh.com^
 ||lhradjgrrtruob.com^
@@ -8438,6 +8445,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||lkdyvvukn.com^
 ||lkhmansiaibup.com^
 ||lkjtptbruyoija.com^
+||lkkwtqbhqvnuadn.com^
 ||lkogfucm.com^
 ||lkpksjtvjbw.xyz^
 ||lktnejyavxqfk.com^
@@ -8506,6 +8514,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||ltiukpnshdkxqn.com^
 ||ltiwowsphvnfj.com^
 ||ltsvdgipwd.com^
+||ltwvvixywp.com^
 ||lu.dddiplont.com^
 ||lucllhoxlkki.com^
 ||lugtardam.com^
@@ -9216,6 +9225,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||opshuckleor.com^
 ||opskln.com^
 ||opugokgmxah.com^
+||opwckdrfrlbipyj.com^
 ||oqbuvfelw.com^
 ||oqnajkccqbbqg.xyz^
 ||oqrqonoqypgxo.xyz^
@@ -9277,6 +9287,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||overkirliaan.com^
 ||overmewer.com^
 ||overonixa.com^
+||overtimepersuasivecounsellor.com^
 ||overzoruaon.com^
 ||ovhddcesev.xyz^
 ||ovtiqqwfl.xyz^
@@ -10617,6 +10628,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||toobaiji.net^
 ||toojaipi.net^
 ||tookjvyljyibrah.com^
+||tooviolatesymptom.com^
 ||topadbid.com^
 ||topdatingclub.life^
 ||topwwnews.com^
@@ -10823,6 +10835,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||undom.net^
 ||uneasydoll.com^
 ||uneqkctr.com^
+||unfinishedheir.com^
 ||unflesholchi.com^
 ||ungainarmers.com^
 ||ungratefulnaivenearest.com^
@@ -10867,6 +10880,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||uqtsmptxkgcfdm.com^
 ||urbanodecalle.com^
 ||urechar.com^
+||urgentlychimerasupernatural.com^
 ||uriren.pw^
 ||urlaylmjfpsg.com^
 ||urmavite.com^
@@ -12608,6 +12622,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||houseofpubs.com^$popup,third-party
 ||howtosimplified.com^$popup,third-party
 ||hpmstr.com^$popup,third-party
+||hsrvz.com^$popup
 ||hydrax.net^$popup
 ||hyperline88.com^$popup,third-party
 ||hyperpromote.com^$popup,third-party
@@ -20119,6 +20134,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href*=".hgbasics.com/"]
 ##a[href*=".hop.clickbank.net"] > img
 ##a[href*=".hrtye.com/"]
+##a[href*=".hsrvz.com"]
 ##a[href*=".igraal.com/#parrain="] > img
 ##a[href*=".igraal.com/?parrain="] > img
 ##a[href*=".igraal.com/inscription?parrain="] > img
