@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: jXWpVmLQQleyDymh4aVR5w
-! Version: 202207081619
+! Checksum: Myu0upn/9h/0wsjyURsV7w
+! Version: 202207111023
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2006,6 +2006,7 @@
 /promotools/rotation.
 /propads.
 /provider-banners/*
+/proxy/pub/*/bg.php?
 /proxy_eds.php?
 /proxy_iframe.php?url=
 /ptp/banners/*
@@ -14927,6 +14928,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||d2od2b2huvmzuj.cloudfront.net^
 ||d2pppxxtaciku9.cloudfront.net^
 ||d2psf55e0gm6yv.cloudfront.net^
+||d2r44jb1nipto0.cloudfront.net^
 ||d2skqnrxz11esv.cloudfront.net^
 ||d2srh5nls758p0.cloudfront.net^
 ||d2t15uaqqm1mjb.cloudfront.net^
@@ -22044,6 +22046,7 @@ france-alerte.com##.titre-publi
 moteurs-regionaux.com##.titreCoupProjo
 cinemotions.com##.titre_paragraphe + div[style="height:450px; margin-left:12px;"]
 viamichelin.be,viamichelin.ch,viamichelin.com,viamichelin.fr##.toggle-adinmap
+ecranlarge.com##.top-banner
 jeretiens.net##.top-bar
 euro-2016-france.net##.top-pub
 gfycat.com##.top-slot
