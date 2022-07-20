@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +kz8V/4ynE2q/wLXtRlhxA
-! Version: 202207200518
+! Checksum: 01327IReScg/CGRZ/kbWUg
+! Version: 202207200546
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2909,6 +2909,8 @@ digitalocean.gif|
 /wp-content/*/bloc-partenaire-
 /wp-content/banners/*$third-party
 /wp-content/plugins/baw-bon-plan/*
+/wp-content/plugins/bazooka-shopping/*
+/wp-content/plugins/easy-affiliate-links/*
 /wp-content/plugins/mm-ad-widget/*
 /wp-content/plugins/mm-kelkoo/*
 /wp-content/plugins/mts-wp-in-post-ads/*
@@ -21647,6 +21649,7 @@ neko-sama.fr##.aff-wrapper
 ed-protect.org##.affichier_lien > tbody > tr + tr[class]
 mvideoporno.xxx##.affiliate
 nestoria.fr##.afsDiv
+pix-geeks.com##.afxshop
 multiup.eu,multiup.org##.alert-info
 detecteur.net##.alert-warning
 algerianmag.com##.alger-in
@@ -21788,6 +21791,7 @@ promos-algerie.com##.bstpar
 beaute-test.com##.bt__ad
 upload.ac##.btn-dl-plus
 gamergen.com,generation-nt.com##.bup
+pix-geeks.com##.bzkshop
 20minutes.fr##.c-20-minutes-ad-bar-custom
 lecho.be##.c-adh-connecthpwrapper
 rtl.fr##.c-prebid
