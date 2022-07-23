@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AvUY0zw5xrBd2ao048xKfg
-! Version: 202207232024
+! Checksum: ve1PydOwEzLqYMQ72Sa7/w
+! Version: 202207232104
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16168,6 +16168,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||finbuzzactu.files.wordpress.com/*/250x250
 ||finbuzzactu.files.wordpress.com/*/image-couple2016.jpg
 ||finbuzzactu.files.wordpress.com/*/sex-pistol.jpg
+||firebasestorage.googleapis.com^$domain=avito.ma
 ||fitshr.net/pg.php
 ||flaghit.com/images/nordvpn.gif
 ||flam.me/*/divers/partners/
@@ -22749,6 +22750,7 @@ echoroukonline.com,maxifoot.fr##div[style*="width:468px;"]
 livehost.fr##div[style*="width:728px"]
 cheznous.fr##div[style*="width:728px; height:90px;"]
 tayo.fr##div[style*="width:728px;"]
+avito.ma##div[style="display: block; margin-bottom: 10px;"] > ._LaI0D
 voyageforum.com##div[style="display: block; margin-top: 0px; width: 836px; margin-bottom: -7px; height: 285px;"]
 photofunky.net##div[style="float:left; width:100%; clear:both; margin-bottom:10px; text-align:center; height:90px;"]
 androidpit.fr##div[style="float:left; width:976px; line-height:0; min-height:90px; margin-bottom:5px; text-align:center;"]
