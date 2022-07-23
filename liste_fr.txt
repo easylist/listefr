@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: aaKb5l4Gp44z8gIwmu5dTw
-! Version: 202207231805
+! Checksum: XD1MWCUNHVYcuMzEOZm1hA
+! Version: 202207231838
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -22900,6 +22900,7 @@ ici-londres.com#?#.articles_list_item:-abp-has(.category:-abp-contains(Sponsoris
 igen.fr,macg.co,watchgeneration.fr#?#article:-abp-has(.sidebar-artitle:-abp-contains(/📣|📌/))
 igen.fr,macg.co,watchgeneration.fr#?#article:-abp-has(h2:-abp-contains(/📣|📌/))
 indeed.fr#?#.jobsearch-SerpJobCard:-abp-has(.sponsoredGray)
+iphonesoft.fr#?#article:-abp-has(.date:-abp-contains(Sponso))
 jeuxvideo.com#?#.anchorMiddleOne:-abp-has(.badge:-abp-contains(Sponsorisé))
 jeuxvideo.com#?#.anchorWrapper:-abp-has(.cardHorizontalList__footer:-abp-contains(Sponsorisé))
 jeuxvideo.com#?#.card:-abp-has(.badge:-abp-contains(Sponsorisé))
