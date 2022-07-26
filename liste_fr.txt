@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: t7KMAyV3TBk6LTcB8CmHtw
-! Version: 202207262205
+! Checksum: YudvVj8wltcTnrmoQGWwtQ
+! Version: 202207262222
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21117,12 +21117,14 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##div[id^="amzn-native-ad"]
 ##div[id^="betAds"]
 ##div[id^="block-dfp-728-"]
+##div[id^="block-dm-services-ads"]
 ##div[id^="block-views-ads-header-"]
 ##div[id^="block-views-ads-sidebar-"]
 ##div[id^="crt-"][data-criteo-id]
 ##div[id^="div-adt-"]
 ##div[id^="div-gpt-promo-"]
 ##div[id^="divsda-"]
+##div[id^="dm_ads_Middle"]
 ##div[id^="exoNativeWidget"]
 ##div[id^="gabarit_pub"]
 ##div[id^="gpt-ad-banner"]
@@ -21742,7 +21744,7 @@ allostreaming-fr.com##.addInfos + a
 vinyculture.com##.addLink
 lejsl.com##.addPic
 sonetcyber.com##.adkiss
-actustar.com,antoineguilbert.fr,aujourdhui-en-france.fr,boursier.com,clubic.com,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,hentaihaven.org,hostinger.fr,htmlforums.com,jeune-independant.net,jooble.org,ldlc.com,leblogjeuvideo.be,leparisien.fr,lephpfacile.com,lequipe.fr,oujdacity.net,over-blog.com,p30day.com,pokestrat.com,raje.fr,replay.fr,shemsfm.net,sortiesdvd.com,stars-portraits.com,televiseurs.net,tonmanga.com,universalis.fr,viamichelin.be,viamichelin.ch,viamichelin.com,viamichelin.fr,webstar-auto.com,webstar-electro.com##.ads
+actustar.com,antoineguilbert.fr,aujourdhui-en-france.fr,boursier.com,clubic.com,cnews.fr,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,hentaihaven.org,hostinger.fr,htmlforums.com,jeune-independant.net,jooble.org,ldlc.com,leblogjeuvideo.be,leparisien.fr,lephpfacile.com,lequipe.fr,oujdacity.net,over-blog.com,p30day.com,pokestrat.com,raje.fr,replay.fr,shemsfm.net,sortiesdvd.com,stars-portraits.com,televiseurs.net,tonmanga.com,universalis.fr,viamichelin.be,viamichelin.ch,viamichelin.com,viamichelin.fr,webstar-auto.com,webstar-electro.com##.ads
 cvya.dz##.ads-vert
 hooper.fr,pooki.fr##.adsense
 ipadsl.net##.adsl
