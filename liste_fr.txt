@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: SOfli/gq/rqcMsJ7OcCzDA
-! Version: 202207262147
+! Checksum: i+yd5TCbcM24/tae3Pk9nw
+! Version: 202207262148
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -20599,6 +20599,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##[data-ads-core]
 ##[data-advadstrackid]
 ##[data-block-type="block:ads"]
+##[data-d-ad-id]
 ##[data-e2e="advertisement"]
 ##[data-identifier="advertisement"]
 ##[data-incontent-ad]
@@ -21967,6 +21968,7 @@ replay.fr##.dfa
 actu.fr,cinenews.be##.dfp
 rtl.fr##.dfp-pave
 nestoria.fr##.dfpDiv
+apkcombo.com##.diseanmevrtt
 equirodi.be##.div_pt_pub
 linguee.com,linguee.fr##.dlTopBanner
 dailymotion.com##.dm_widget_advert_iabrighttitle
