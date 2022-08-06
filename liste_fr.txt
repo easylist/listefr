@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kq5MJcoEccOUeGoXsZq9ow
-! Version: 202208060746
+! Checksum: kvwJNLUwTM2YsU9SKMP+Gg
+! Version: 202208060814
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -23071,6 +23071,7 @@ ballad-et-vous.fr##a > img[width^="728"][height="90"]
 cowcotland.com##a#habiclic
 jeuxvideo.org##a.homepage_background
 touslesdrivers.com##a.seo
+manomano.fr##a[class*="sponsoredProductCard"]
 algeriepatriotique.com##a[class][data-track][href]
 voyageforum.com##a[class^="offer"]
 zdnet.fr##a[data-track-action="partners_traffic_drivers"]
