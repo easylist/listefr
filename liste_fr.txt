@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kvwJNLUwTM2YsU9SKMP+Gg
-! Version: 202208060814
+! Checksum: bbqco6r6Ti/eAOLb4/2yfg
+! Version: 202208060829
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -1733,7 +1733,6 @@
 /js/adv_
 /js/infopop_
 /js/marketing/marketing.js
-/js/monetization.
 /js/pub.js
 /js/sda-
 /js/tc_loader.js
@@ -1806,7 +1805,6 @@
 /mobileadslide.
 /modalads.
 /modules.pub.js
-/monetization.js
 /money/ad.
 /mosaique/track.php?
 /mpop.js
@@ -23622,7 +23620,6 @@ heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##a[class^="aff"]
 @@||aw-experience.com/banners/b0.png
 @@||bannieres.telethon.fr/compteurs/$image,subdocument
 @@||bibed-concept.com/modules/blockadvertising/advertising_custom.jpg
-@@||bitchute.com/static/*/js/monetization.js$script,~third-party
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
 @@||bs.serving-sys.com/Serving/adServer.bs?$popup,domain=guide-epargne.be
 @@||cdn.adsafeprotected.com/iasPET.$script,domain=gentside.com|maxisciences.com|ohmymag.com
