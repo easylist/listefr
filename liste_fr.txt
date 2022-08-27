@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: PC2gK3rTzQ0mWgJHu4wjFw
-! Version: 202208271452
+! Checksum: wenNnzAZR0WqqagC4SiYSg
+! Version: 202208271456
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -17625,8 +17625,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||mamytwink.com^*/images/partenaires/
 ||manager-online.fr/images/sidebar/
 ||manga-news.com/public/bans/
-||manga-sanctuary.com/cg/
-||manga-sanctuary.com/pub2/
+||manga-sanctuary.com^*?*==
 ||mangaku.info/wp-content/uploads/2019/01/gif-1.gif
 ||mangovideo.*/player/float.php
 ||mangovideo.*/player/html.php
@@ -22088,6 +22087,7 @@ sexeautop.com###catcher
 android-dz.com###cb-bg-to
 renovationettravaux.fr###cboxOverlay
 ecranlarge.com###cgSidebarATF1
+manga-sanctuary.com###cg_skin
 wanarun.net###chaussuresCarousel
 sitedesmarques.com###check-also-box
 hds-streaming.su,jetanimes.com###clickfakeplayer
