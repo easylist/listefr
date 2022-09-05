@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Wn1hWn23JEyp5rZznC3pHA
-! Version: 202209050831
+! Checksum: kWg3rmEX1Fi65b5g6TBcog
+! Version: 202209050901
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16393,6 +16393,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||ukit.com/hit?^$popup
 ||unblockwebsites.pw/ext/$popup
 ||uptoporn.com/randomize/$popup
+||verytoon.com^*&mtm_$popup
 ||viafeed.mobi^$popup
 ||video-finder.link/search/$popup
 ||videoplaza.tv/proxy/$popup
@@ -16767,6 +16768,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||cdn.flvto.biz/push_app.js
 ||cdn.lechiffredaffaires.dz/wp-content/uploads/2022/03/investplus-300x201.png
 ||cdn.mgig.fr/2020/03/mg-955d46a3-59d5-462b-9a97-full.jpg
+||cdn.scanmanga.eu/img/hFUvc/
 ||cdn.tirage-gagnant.com/js/dynamic-ban-
 ||cdn.tirage-gagnant.com/js/popup.js
 ||cdn.wpformation.com/wp-content/uploads/*/wpserveur-banner
@@ -22011,6 +22013,7 @@ streamcomplet3.biz###PapaGooGorHDVid
 installations-home-cinema.eu###Partenaire
 bfmtv.com###Tpromo
 mappy.com###a300x600
+scan-manga.com###ab_bg
 ahlaejaba.com,net-iris.fr,orange.fr,radio.co.ma,vido.fun,zalotech.com###ad
 annuaire-inverse-france.com,ecouter-en-direct.com,ed-protect.org,liveradio.fr,telecharger-jeu-pc.com###ad1
 ecouter-en-direct.com,ed-protect.org###ad2
@@ -22144,6 +22147,7 @@ ktotv.com###campain-bandeau
 piwee.net###campain_bg
 lafranceapoil.com###cams
 pooki.fr###cardTopSummaryPrices
+scan-manga.com###carouselTOPContainer
 sexeautop.com###catcher
 android-dz.com###cb-bg-to
 renovationettravaux.fr###cboxOverlay
@@ -22373,6 +22377,7 @@ comptoir-info.com###pb_sq
 charentelibre.fr,lindependant.fr###petitesAnnoncesBlock
 topanalyse.com###pid_f
 voirfilms.bz###playerOver
+scan-manga.com###pob_haut
 terre.tv###point_part
 clicbienetre.com###popup
 soonnight.com###popup_connect
