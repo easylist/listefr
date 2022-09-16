@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 6nP4Ks5ciHiWn9pA2hmMPQ
-! Version: 202209092142
+! Checksum: RGceA7uaijyKH3uoyqmTZQ
+! Version: 202209160909
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -23799,6 +23799,7 @@ allocine.fr#?#.news-card:-abp-contains(Sponsorisé)
 allocine.fr#?#.video-card-trailer:-abp-has([class*="sponso"])
 allocine.fr#?#.video-card:-abp-has([class*="sponso"])
 android-mt.com#?#.boutonlink:-abp-has(a:-abp-contains(/VPN|rencontre/))
+android-mt.com#?#.bp-fin:-abp-has(a:-abp-contains(/VPN|rencontre/))
 betaseries.com#?#.blockSearch:-abp-has(.adsbygoogle)
 blogdumoderateur.com#?#.breve:-abp-has(.breve-info:-abp-contains(Sponsorisé))
 blogdumoderateur.com#?#.sticky:-abp-has(.sponsorise)
