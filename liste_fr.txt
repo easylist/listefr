@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +hUb16USrQYILfUFlybtTg
-! Version: 202209181355
+! Checksum: VZT4LBh5wjz5D7UkIfg7kA
+! Version: 202209181412
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -1069,6 +1069,7 @@
 /advertisement?
 /advertiserv/*
 /advertiserv2/*
+/advertising-core/*
 /advertising/*-leaderboard.
 /AdvertisingBanners/*
 /advertisingView?
@@ -1436,6 +1437,7 @@
 /content?promo_id=
 /contents/other/player/*$media,~third-party
 /coolads.
+/core-ads-
 /core/ad2/*
 /core/ad3/*
 /core/ads_
@@ -16942,7 +16944,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||cdn.flvto.biz/push_app.js
 ||cdn.lechiffredaffaires.dz/wp-content/uploads/2022/03/investplus-300x201.png
 ||cdn.mgig.fr/2020/03/mg-955d46a3-59d5-462b-9a97-full.jpg
-||cdn.scanmanga.eu/img/hFUvc/
+||cdn.scanmanga.eu/*/hGUvc/
+||cdn.scanmanga.eu/img/*/habillage_
 ||cdn.tirage-gagnant.com/js/dynamic-ban-
 ||cdn.tirage-gagnant.com/js/popup.js
 ||cdn.wpformation.com/wp-content/uploads/*/wpserveur-banner
@@ -18316,6 +18319,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||satmag.fr/pub/
 ||saucissonsexe.com/wp-content/uploads/*.gif
 ||sbx.pagesjaunes.fr^
+||scan-manga.com/js/global_functions.js
 ||scifi-movies.com/images/site/promo/
 ||scoopnest.com/content_rb.php?
 ||script-pag.com/demo/fr/images/pub/
@@ -22190,6 +22194,7 @@ installations-home-cinema.eu###Partenaire
 bfmtv.com###Tpromo
 mappy.com###a300x600
 scan-manga.com###ab_bg
+scan-manga.com###ac_bg
 ahlaejaba.com,net-iris.fr,orange.fr,radio.co.ma,vido.fun,zalotech.com###ad
 annuaire-inverse-france.com,ecouter-en-direct.com,ed-protect.org,liveradio.fr,telecharger-jeu-pc.com###ad1
 ecouter-en-direct.com,ed-protect.org###ad2
@@ -22904,6 +22909,7 @@ franceculture.fr##.box-partner-link
 challenges.fr,nouvelobs.com##.box-simulation-immo
 banques-en-ligne.fr##.boxEliracashLNA
 aujardin.info,telerama.fr##.boxpub
+scan-manga.com##.bpub
 mamzouka.com##.brand-link
 lepoint.fr##.branding
 voyageforum.com##.breadcrumb
