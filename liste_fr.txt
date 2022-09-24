@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: prkF0NDX3a1Kw6DyrHzvzQ
-! Version: 202209240343
+! Checksum: Rpn2SJ2Ec6hzp/eNQc4BQg
+! Version: 202209241025
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18811,15 +18811,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||ztat.net^*/affiliate/
 ! nautiljon.com
 @@||google.com/cse$script,domain=nautiljon.com
-@@||nautiljon.com/inc/ajax/collection$xmlhttprequest
-@@||nautiljon.com/inc/ajax/derniers$xmlhttprequest
-@@||nautiljon.com/inc/ajax/favoris$xmlhttprequest
-@@||nautiljon.com/inc/ajax/membre$xmlhttprequest
-@@||nautiljon.com/inc/ajax/notifications$xmlhttprequest
-@@||nautiljon.com/inc/ajax/search$xmlhttprequest
-@@||nautiljon.com/inc/ajax/setNote$xmlhttprequest
-@@||nautiljon.com/inc/ajax/swapGalerie$xmlhttprequest
-@@||nautiljon.com/inc/ajax/update$xmlhttprequest
+@@||nautiljon.com/inc/ajax/*.php?$~third-party,xmlhttprequest
+@@||nautiljon.com/membre/collections.php?$xmlhttprequest
 ||nautiljon.com/*.php?
 ! ecranlarge.com
 ||ecranlarge.com/*?$script
