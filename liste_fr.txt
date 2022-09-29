@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: xWRytVLNTpbLEGpYC675yw
-! Version: 202209261243
+! Checksum: F/Dv/q7dlKOrsl6VSlH1NQ
+! Version: 202209291637
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18335,6 +18335,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||sabqpress.net/wp-content/uploads/2020/03/0.jpg
 ||sabqpress.net/wp-content/uploads/2020/03/mobilis.jpg
 ||sainte-marie-mineral.com/img/pub_
+||sanctuary.fr/pub*/*.php?
 ||sataid.net/banners/
 ||satim-dz.com/images2/
 ||satlinker.dz/iso_album/partenaires_
@@ -18825,10 +18826,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
-! sanctuary.fr
-@@||www.sanctuary.fr/core/*.php?$~third-party,xmlhttprequest
-@@||www.sanctuary.fr/index.php?$~third-party
-||www.sanctuary.fr/*.php?
 ! ecranlarge.com
 ||ecranlarge.com/*?$script
 ! nextinpact.com
