@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: PoPxjcUBHKI9zi7zstl2gw
-! Version: 202210042055
+! Checksum: LmE0SVThFn2+8rYQk5/BBQ
+! Version: 202210051827
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2649,7 +2649,7 @@
 ?aads=
 ?action=VIEWAD&
 ?ad_domain=
-?ad_id=$domain=~olx.pl
+?ad_id=$domain=~olx.bg|~olx.kz|~olx.pl|~olx.ro|~olx.ua|~olx.uz
 ?ad_server_
 ?ad_sub=
 ?ADFassetID=
