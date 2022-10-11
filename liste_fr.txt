@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: i6Q12Fhit5XMg2gLoLVjRg
-! Version: 202210102150
+! Checksum: KF/nGVzf4yey1RW1h/Cuag
+! Version: 202210110711
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -1145,6 +1145,7 @@
 /api.*/ads?
 /api/*?m=html&search_type=*&language=*&count=
 /api/ads_
+/api/senddata?site=banner&
 /api/syndicated/?$third-party
 /apop/js/zone/*
 /app-ads-
@@ -1244,6 +1245,7 @@
 /banner468-
 /banner720x90/*
 /banner728.
+/banner728.gif
 /banner?*&domain=
 /banner?sid=
 /banner_*?size=$subdocument
@@ -5041,10 +5043,12 @@ _zoneid=*/rel/index.cfm?$popup
 ||virtuaguyhd.com^$third-party
 ! Revolving adservers (propellerads, admeasures, admaven, hilltopads ...)
 ||00261bc6d5.com^
+||003gjzy7k1wc.top^
 ||01counter.com^
 ||01jud3v55z.com^
 ||02df4ad692.com^
 ||02fb858c60.com^
+||035d9df4c5.com^
 ||04-f-bmf.com^
 ||047026a0a97c.com^
 ||0519ace294.com^
@@ -5059,10 +5063,13 @@ _zoneid=*/rel/index.cfm?$popup
 ||0cfe97d936.com^
 ||0d6cirpa7nrd.top^
 ||0dd8940efd.com^
+||0dsyfr2fxogj.top^
 ||0eijh8996i.com^
 ||0gr21f08o1mr.top^
 ||0icep80f.com^
+||0jcn4veha2oz.top^
 ||0jzxzd21.com^
+||0l1201s548b2.top^
 ||0n55f9zgy7.com^
 ||0pyn37dv3m.com^
 ||0ra5eylno4zs.com^
@@ -5096,6 +5103,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||10skdjfbks10.monster^
 ||10skhdbfjsf10.monster^
 ||110d6dc54b.com^
+||114f3eaf8b.com^
 ||117d0d6899.com^
 ||11ausdasd12.monster^
 ||12734a9353.com^
@@ -5104,6 +5112,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||13f8ee481f.com^
 ||14419bbfee.com^
 ||1506527e41.com^
+||1527bf2da3.com^
 ||16-merchant-s.com^
 ||16yp1ji92a.com^
 ||1772c9ffd2.com^
@@ -5126,6 +5135,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||1d4e81684f.com^
 ||1dbjhsjdfbj1.monster^
 ||1dhbfjgdhj11.monster^
+||1dsw4fe427q0.top^
 ||1e46e721dc.com^
 ||1exefleready1.com^
 ||1f935d910e.com^
@@ -5181,6 +5191,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||20dnfksdf20.monster^
 ||20ksjbdf20.monster^
 ||20sjndkfs32.monster^
+||210f3810db.com^
 ||216996b326.com^
 ||22domainforwork22.com^
 ||22downl0ad22x.com^
@@ -5188,6 +5199,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||233fa9221f.com^
 ||235630618b.com^
 ||238ym2umhodj.top^
+||24396c1ede.com^
 ||24df420ec6.com^
 ||24fa533251.com^
 ||24newstech.com^
@@ -5209,8 +5221,10 @@ _zoneid=*/rel/index.cfm?$popup
 ||2bjdd22.monster^
 ||2bmn51418f7t.top^
 ||2c4p24o6zp0y.top^
+||2c9bc8255a.com^
 ||2d56d0483a.com^
 ||2ef3b1ddae.com^
+||2ef780b705.com^
 ||2go7v1nes8.com^
 ||2heaoc.com^
 ||2iiyrxk0.com^
@@ -5270,6 +5284,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||39irqwnzlv.com^
 ||3a92600f42.com^
 ||3ac46b4f5a.com^
+||3advlqyrzenj.top^
 ||3ahgsdasd33.monster^
 ||3ajhbdja33.monster^
 ||3ajhbjdad33.monster^
@@ -5315,6 +5330,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||3urnt1b7bv5w.top^
 ||3y3m0zjdyvvc.top^
 ||3z6hirxo24.com^
+||3zh8rjvfbruq.top^
 ||4-interads.com^
 ||414a048c3b.com^
 ||421npyd4nd.com^
@@ -5339,9 +5355,11 @@ _zoneid=*/rel/index.cfm?$popup
 ||4b08fc8597.com^
 ||4cj5qu70.top^
 ||4d3e6cda67.com^
+||4e381657ad.com^
 ||4ea88e180d.com^
 ||4ebh3yrxat58.top^
 ||4fde9983d9.com^
+||4g3tj3l2r7zr.top^
 ||4hsjadsd13.monster^
 ||4i-app-mobile.com^
 ||4jabsdjf4s.monster^
@@ -5374,16 +5392,20 @@ _zoneid=*/rel/index.cfm?$popup
 ||4skbfjhsef44.monster^
 ||4th3d48.com^
 ||4y0ypujq2hr6.com^
+||4zz86tzf170m.top^
 ||5-internads-7.com^
 ||5-n-appmobile.com^
 ||50h6v79p.top^
 ||51628bcde4.com^
 ||51b05be022.com^
+||51eb0c7c5b.com^
+||51z1hc93avfn.top^
 ||5206a9500e.com^
 ||52b7d78514f3cb9d.com^
 ||532lho7ycvwd.top^
 ||532xcxypmpnp.com^
 ||538962aca5.com^
+||538d550c96.com^
 ||544e649ba3.com^
 ||551327fd36.com^
 ||55e52fe6.com^
@@ -5430,11 +5452,15 @@ _zoneid=*/rel/index.cfm?$popup
 ||5xd3jfwl9e8v.com^
 ||607399b0a8.com^
 ||61-nmobads.com^
+||625725ef23.com^
 ||64p3am9x95ct.com^
+||65101905fd.com^
 ||65u0tvf9l4.com^
 ||6628bfd652.com^
+||667de02040.com^
 ||669fb3128e4b4.com^
 ||678c043773.com^
+||6899a76aa7.com^
 ||68e8fd59a4.com^
 ||6987fbf4c0.com^
 ||69fd28fb17.com^
@@ -5480,6 +5506,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||7-itrndsbrands.com^
 ||73-j-pinnable.com^
 ||761f1b3960.com^
+||76b9011198.com^
 ||7713gsefc0.com^
 ||7882f4ee63.com^
 ||7995238c64.com^
@@ -5528,6 +5555,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||8032be028e.com^
 ||809041c56d.com^
 ||82307fca0b.com^
+||83192f7135.com^
 ||855656c3a0.com^
 ||85b333a64c.com^
 ||86a7149f2c.com^
@@ -5542,6 +5570,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||8dkjfkgdfg88.monster^
 ||8e7iazfvf2.com^
 ||8e86a1fbc4.com^
+||8fe51775fb.com^
 ||8fzyhamgc9.com^
 ||8gs4unh05aq6.com^
 ||8hjsbdjfsd8.monster^
@@ -5574,12 +5603,17 @@ _zoneid=*/rel/index.cfm?$popup
 ||934a46b417.com^
 ||93savmobile-m.com^
 ||9526s7bwd0.com^
+||95bd06d118.com^
 ||95p5qep4aq.com^
 ||969ad027f0.com^
 ||96n5r5va.top^
+||98f6e12627.com^
 ||99044b0caf.com^
 ||996f0a8.com^
 ||998k.at^
+||9997484e4c4b694c4e6602.online^
+||9997494f4c4b694c4f6702.online^
+||9997494f4d4b694d4f6702.online^
 ||99b3da8d81.com^
 ||99ba476edf.com^
 ||9ahsbjd19.monster^
@@ -5624,6 +5658,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||9xeqynu3gt7c.com^
 ||a-94interdads.com^
 ||a0a28d3c97a4e566.com^
+||a0e9ac04ce.com^
 ||a14refresh.com^
 ||a14tdsa.com^
 ||a23e391b84.com^
@@ -5633,6 +5668,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||a3f75e78e5.com^
 ||a66675b6ab.com^
 ||a882299d44.com^
+||a9c44e3c7e.com^
 ||aa9aa8ae44.com^
 ||aab-check.me^
 ||aab-proxy-tests.top^
@@ -5647,6 +5683,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||aatmrsfkve.com^
 ||aaucwbe.com^
 ||aawgpkmq.com^
+||ab910ac1aa.com^
 ||abattoirpleatsprinkle.com^
 ||abatvgeqcaackgh.com^
 ||abazelfan.com^
@@ -5675,6 +5712,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||absenttaxpayer.com^
 ||abservinean.com^
 ||abskursin.com^
+||absolutechapelequation.com^
 ||absolvecarriagenotify.com^
 ||absolveparticlesanti.com^
 ||absorbingconstitution.com^
@@ -5684,6 +5722,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||abyjtyvgmtqgp.com^
 ||abyssesbathman.com^
 ||ac2e81c7b8.com^
+||ac38125bf8.com^
 ||acaciaarraydebate.com^
 ||academand.com^
 ||academyenrage.com^
@@ -5693,6 +5732,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||accessiblescopevisitor.com^
 ||accomplishedgradual.com^
 ||accordinglytongue.com^
+||accountsdead.com^
 ||accusationankle.com^
 ||accustomparkedcrave.com^
 ||acedacc160.com^
@@ -5779,6 +5819,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||afcrjsktycrdka.com^
 ||affairscollar.com^
 ||affairsmithbloke.com^
+||affectionatelypartiesdependant.com^
 ||affectionmimic.com^
 ||affiliatetracker.io^
 ||affluentlathe.com^
@@ -5847,6 +5888,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||akfftagyhxn.com^
 ||akgsfgpruogqtph.com^
 ||akhoondoutsert.com^
+||akininducepredator.com^
 ||aklsyovkpoyv.com^
 ||akptnuhth.com^
 ||akrbeeskorehr.com^
@@ -6035,6 +6077,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||arshelmeton.com^
 ||artespipe.com^
 ||articlegarlandferment.com^
+||articlesteakmoth.com^
 ||artistperhapscomfort.com^
 ||arwartortleer.com^
 ||arwhismura.com^
@@ -6048,8 +6091,10 @@ _zoneid=*/rel/index.cfm?$popup
 ||ashamemafia.com^
 ||asharbutdints.info^
 ||ashyknob.com^
+||asidegoswillingness.com^
 ||askcoobaa.club^
 ||askedantipathyhappiness.com^
+||askedappear.com^
 ||asklinklanger.com^
 ||askshopmyna.com^
 ||askthjwipw.com^
@@ -6133,6 +6178,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||aumaupoy.net^
 ||aumsookr.com^
 ||aungoutsy.com^
+||aunthunter.com^
 ||auntieimpetus.com^
 ||auspiceunworthy.com^
 ||authcaptcha.com^
@@ -6189,6 +6235,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||b3ad0c7867.com^
 ||b3fb511da0.com^
 ||b3ra6hmstrioek54er.com^
+||b40c7bfff2.com^
 ||b42rracj.com^
 ||b46d59ded1.com^
 ||b55376b5e3.com^
@@ -6196,6 +6243,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||b6bc9446da.com^
 ||b7b06aa9a2.com^
 ||b89f341f46.com^
+||ba817fdb5d.com^
 ||babkaumbriel.com^
 ||babuiinqdvp.com^
 ||back2yard.biz^
@@ -6310,6 +6358,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||beenego.com^
 ||beetydentoid.com^
 ||beeweedisomer.com^
+||beforehanddonkeyannouncement.com^
 ||beforehandeccentricinhospitable.com^
 ||befriendgenialviscount.com^
 ||beggingneglect.com^
@@ -6459,6 +6508,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||blueomatic.com^
 ||blukavsup.online^
 ||blunkseldrich.com^
+||bluntabsolutionoblique.com^
 ||bluriceberg.com^
 ||bmcwwjfpoxgc.xyz^
 ||bmfftnhnxnu.xyz^
@@ -6494,6 +6544,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||bohonef.com^
 ||bohvgxul.com^
 ||boiidvfjipomxa.com^
+||boilslashtasted.com^
 ||boisterousemblem.com^
 ||bokeden.com^
 ||boldudroned.com^
@@ -6657,12 +6708,14 @@ _zoneid=*/rel/index.cfm?$popup
 ||c20f1f2292.com^
 ||c29e083d1d.com^
 ||c378c89b59.com^
+||c3ba62c153.com^
 ||c52d0ca9c5.com^
 ||c52llumx.com^
 ||c67adca.com^
 ||c71genemobile.com^
 ||c7486c5c0a.com^
 ||c785e43db1.com^
+||c86970797a.com^
 ||cacb0fa258.com^
 ||cachedwasegua.com^
 ||cacxdalhen.com^
@@ -6728,6 +6781,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||cbvcwain.com^
 ||cbvvphiomh.com^
 ||cc29bca73b.com^
+||cca57f4672.com^
 ||ccc7e91712.com^
 ||ccdhgtixk.com^
 ||ccfpjqgkr.xyz^
@@ -6743,6 +6797,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||cdexvangxfarwl.com^
 ||cdnion.com^
 ||ce3fbb6bac.com^
+||ce984bae91.com^
 ||ceasechampagneparade.com^
 ||cecmuthejooz.com^
 ||cecokfkn.xyz^
@@ -6917,6 +6972,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||cobwebcomprehension.com^
 ||cobweblockerdiana.com^
 ||coconutsoftenedput.com^
+||codblessit.com^
 ||coefficientpayslipssuicide.com^
 ||coepitta.com^
 ||coffeemildness.com^
@@ -7145,10 +7201,12 @@ _zoneid=*/rel/index.cfm?$popup
 ||d3faulte.com^
 ||d4110b7044.com^
 ||d44a6fef5a.com^
+||d45181620c.com^
 ||d4q8zgf756.com^
 ||d556638cbe.com^
 ||d61a5529f66a1daef77.com^
 ||d6a801e08a.com^
+||d7ig4ieghb8arika.com^
 ||d8d5624ef8.com^
 ||d92d10ea23.com^
 ||da31993232.com^
@@ -7800,7 +7858,9 @@ _zoneid=*/rel/index.cfm?$popup
 ||f1leloadinf.com^
 ||f1leman3w.com^
 ||f340400b5b.com^
+||f3d77f61ec.com^
 ||f43ffc31e1.com^
+||f44b8ca163.com^
 ||f53d8e67f8.com^
 ||f619d624b9.com^
 ||f64927dfde9be4.com^
@@ -7859,6 +7919,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||fdslhhapmmkb.com^
 ||fdsur.com^
 ||fduunxkm.com^
+||fe79132d90.com^
 ||fearlesselevated.com^
 ||fearwild.com^
 ||feastbackunreasonable.com^
@@ -8207,6 +8268,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||getcoder.me^
 ||getf1leonc3.com^
 ||getidglutton.com^
+||getrpahqya.com^
 ||getstart3d12.monster^
 ||getsurv2you.com^
 ||getsurv2you.net^
@@ -8611,6 +8673,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||hlpgnvwnqg.com^
 ||hlpjsypdvxu.com^
 ||hlxnntobidvhcm.xyz^
+||hmafhczsos.com^
 ||hmbvvktsegufhbh.xyz^
 ||hmycgbkhyw.com^
 ||hnabdooyiwj.com^
@@ -9051,6 +9114,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||iyymdpifwlnq.com^
 ||iz682noju02ye5.com^
 ||j6mn99mr0m2n.com^
+||j8ff09dbyo.com^
 ||j9j6l.top^
 ||jabaibou.net^
 ||jaggedunaccustomeddime.com^
@@ -9095,6 +9159,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||jelbltsndlb.com^
 ||jellyprehistoricpersevere.com^
 ||jelqr4dqeep7.com^
+||jennyrace.com^
 ||jeopardizeincentive.com^
 ||jeoyehkc7z.com^
 ||jergocast.com^
@@ -9445,6 +9510,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||kobeden.com^
 ||kobnjfwmi.com^
 ||kodmagic1.me^
+||kolobif.com^
 ||kombr.ru^
 ||komygvfalbwkpav.com^
 ||koolecou.com^
@@ -10310,6 +10376,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||nujngfoucjros.xyz^
 ||nuniceberg.com^
 ||nupcwjbrx.com^
+||nuroflem.com^
 ||nutatesthreip.com^
 ||nutattorneyjack.com^
 ||nuuujilikscegot.com^
@@ -10331,6 +10398,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||nyapacwcxdvfub.com^
 ||nydocypi.pro^
 ||nyftxnyswwi.com^
+||nygwcwsvnu.com^
 ||nyifpthoqgwr.com^
 ||nyjmjfjdb.xyz^
 ||nylefykdmdgrwyw.com^
@@ -10588,6 +10656,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||ovxkqpkmcx.com^
 ||ovyopwovq.xyz^
 ||owdrxsamxd.com^
+||owlunimmvn.com^
 ||oxjfccudwtcrv.com^
 ||oxjhoaxweskixn.com^
 ||oxnrtneymou.com^
@@ -11698,6 +11767,7 @@ _zoneid=*/rel/index.cfm?$popup
 ||slietap.com^
 ||slimilycosaque.com^
 ||slipheirphysician.com^
+||sllscc.com^
 ||slopeac.com^
 ||slqbbercfdveuxb.com^
 ||sltvhyjthx.com^
