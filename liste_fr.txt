@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Zf/J+Xs2uAWP/DXT2TfwDw
-! Version: 202210241029
+! Checksum: d+RSqPMRVfEbubIU6naZiQ
+! Version: 202210241030
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21955,6 +21955,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="https://www.onclickmega.com/"]
 ##a[href^="https://www.ucoz.net/?pguid="]
 ##a[href^="https://www.winamax.fr/landing/landing_leads.php?"] > img
+##a[onclick*="//vimeonk.com/"]
 ##a[onclick*="/adserver/iframe?"]
 ##a[onclick*="FriendlyDuck.com"]
 ##a[onclick^="CustomWLAdServer."]
