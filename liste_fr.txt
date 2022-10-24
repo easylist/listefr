@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: N/KsGjfNZEkyRvNZiGDCgg
-! Version: 202210241050
+! Checksum: YIJMGZ2KVTRMbviS1sUREA
+! Version: 202210241104
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -23964,6 +23964,8 @@ lemonde.fr#?#.area--ops:-abp-has(p:-abp-contains(Contenus partenaires))
 lemonde.fr#?#.bd__bloc:-abp-has(.bd__header:-abp-contains(Barnebys.fr))
 leseclaireuses.com#?#.article.small:-abp-has(a[href*=".smartadserver.com"])
 leseclaireuses.com#?#.gslide:-abp-has(a[href^="https://bit.ly/"])
+libhunt.com#?#.boxed:-abp-has(.tag:-abp-contains(Sponsored))
+libhunt.com#?#.repo-component:-abp-has(label:-abp-contains(sponsored))
 linfoweb.com#?#.isnotmobi:-abp-has(a:-abp-contains(sponsorisé))
 linfoweb.com#?#tbody:-abp-has(i:-abp-contains(sponsorisé))
 macommune.info#?#.box_article:-abp-has(.is-text-publi-infos)
