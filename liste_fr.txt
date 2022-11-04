@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: WYSKmpzVrzffKayhZgZNPg
-! Version: 202211042148
+! Checksum: 8h1WXXF3lUZtVq6uoZXVoQ
+! Version: 202211042223
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -205,8 +205,6 @@
 .ads7-
 .ads8-
 .adscroller.
-.adsearch.$domain=~adsearch.fr
-.adserverpub.$domain=~adserverpub.com
 .adsixmedia.
 .AdTech&
 .adtech.
@@ -327,7 +325,6 @@
 .productads.
 .pub-ban-
 .pub.preroll/
-.pubdirecte.$domain=~pubdirecte.com
 .publicite.
 .ru/ads.
 .ru/banner/$third-party
@@ -1045,7 +1042,6 @@
 /b-1-468-$image
 /b.n.php?aid=
 /b/ads/*
-/b2bad.$domain=~aliexpress.com
 /b728x90a.
 /b_right.$subdocument
 /back-adsens.
@@ -1185,7 +1181,6 @@
 /banniere_pub.
 /bannieres/habillage.
 /bannieres_fdf.
-/bannieres_pub/*$domain=~sgmaroc.com
 /bannieresadultes.
 /bannner_footer.
 /banpub.
@@ -1566,7 +1561,6 @@
 /ligadis.$script
 /ligatus.js
 /link-converter.$script
-/linkad.$domain=~linkad.fr
 /linkreplacer.js
 /linkshrink.js
 /linkto/ads.
@@ -1619,7 +1613,6 @@
 /mwpopunder.
 /myadcash.
 /myadproxy_
-/myads.$domain=~blocket.se|~myads.agency
 /myadvertisements.
 /n2ad_iframe.
 /nadstive.
@@ -1628,7 +1621,6 @@
 /nanalab.js
 /native-ad/*
 /nav/ads.
-/neads.$domain=~neads.io
 /nendAdLoader.
 /networking/ref_
 /new/pu.js
@@ -2288,7 +2280,6 @@
 ://adscdn.
 ://adspaces.
 ://adss.
-://adst.$domain=~mp.pl
 ://adx.
 ://afflight.$third-party
 ://ar.ads.
@@ -2344,7 +2335,6 @@
 ://promoimage.
 ://pub.*?zoneid=
 ://reclame.
-://regiepub.$domain=~regiepub.pcl.ch
 ://report-ads-to.
 ://res.ads.
 ://rotator.
@@ -2892,7 +2882,6 @@ _frontend_loader.$script
 &pubid=*.adult.*&$popup
 &publisherid=$popup
 &pubpoint=*&subid=$popup
-&pubref=*&utm_$popup,domain=~yaoota.com
 &pubsite=$popup
 &pubzone=*&subid=$popup
 &redid=*&pop=$popup
@@ -2957,7 +2946,6 @@ _frontend_loader.$script
 /?*&a_aid=*&$popup
 /?a_bid=$popup
 /?ad=*aclick.$popup
-/?id=*&langue=*&buying=$popup,domain=~eurolive.site
 /?token=*&q=$popup
 /__utm.gif$popup
 /a.php?mode=*&pgid=$popup
@@ -3383,7 +3371,6 @@ _siteunder/$popup
 ||104.238.189.$script,third-party
 ||108.163.194.100^$third-party
 ||123prix.com^$third-party
-||130.211.$third-party,domain=~picoxia.com|~picoxia.fr
 ||138.197.81.16^$third-party
 ||145.239.218.240^$third-party
 ||146.148.85.61^$third-party
@@ -14205,7 +14192,6 @@ _siteunder/$popup
 ||slimcdn.com^$popup,third-party
 ||slutroulette.com^$popup,third-party
 ||smapp.work^$popup
-||smartadserver.com^$popup,third-party,domain=~cnetfrance.fr|~dealabs.com|~lesnumeriques.com
 ||smartbestbargain.su^$popup
 ||smartclickz.com^$popup,third-party
 ||smartoffer.site^$popup,third-party
@@ -14346,7 +14332,6 @@ _siteunder/$popup
 ||webadv.co^$popup
 ||webmasterspub.com^$popup,third-party
 ||weborama.fr^$popup,third-party
-||webprod.cybertesteurs.com^$popup,third-party,domain=~iss.net
 ||webpushdirect.biz^$popup
 ||wekiss.co^$popup
 ||wellmov.com^$popup,third-party
@@ -14518,10 +14503,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||ali.pub^$subdocument,third-party
 ||ali.ski^$subdocument,third-party
 ||alicdn.com^*-300x250.$domain=~alibaba.com|~aliexpress.com|~aliexpress.ru
-||alicdn.com^*-725x90.$domain=~alibaba.com|~aliexpress.com|~aliexpress.ru
-||alicdn.com^*/725x90.$domain=~alibaba.com|~aliexpress.com|~aliexpress.ru
 ||alicdn.com^*_220x220.$domain=~alibaba.com|~aliexpress.com|~aliexpress.ru
-||alicdn.com^*_320_480.$domain=~alibaba.com|~aliexpress.com|~aliexpress.ru
 ||aliencable.com/images/$third-party
 ||all-ladies.net/banners/
 ||allkeyshop.com/blog/wp-content/uploads/guide_a.
