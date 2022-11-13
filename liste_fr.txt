@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: hYeYlV9+Qaa8N3i105gR1g
-! Version: 202211130714
+! Checksum: f9kQ7RnCD9sW0TSzJFxgQQ
+! Version: 202211130715
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18203,6 +18203,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||papvacances.fr/images/*-partenaire-
 ||papystreaming.*/bn-cs.gif
 ||parlonspiscine.com/pubs/
+||partenaire.leparticulier.fr^
 ||paruvendu.fr/pub/
 ||passback.free.fr/console/html/pub.html
 ||passeportsante.net^*/controls/pub/
@@ -23560,7 +23561,6 @@ blick.ch##[id^="appnexus-placement"]
 comarketing-news.fr##[id^="comar-"]
 3dnatives.com##[id^="dnati-"]
 commentcamarche.com,commentcamarche.net,free.fr,journaldesfemmes.com,orange.fr,turf-fr.com##[id^="lig_"]
-leparticulier.fr##[id^="loca_service_simulateur_"]
 agate-france.com##[id^="pbad_"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 filecrypt.cc,filecrypt.co##[onclick] img
@@ -23596,7 +23596,7 @@ free-reseau.fr##a[href*="&tag=freereseaufr-"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
 streaming-series.me##a[href*=".html"]
 1001ebooks.com,1337x.st,1337x.to,agence-webside.fr,amairgil.cz,arciam.fr,blablastream.com,blablastream.rip,cinemay.vip,cpasbien.gg,dadyflix.co,dpstreaming.to,espace-ehce.fr,extreme-down.art,extreme-down.blue,extreme-down.plus,extreme-down.site,film01stream.com,film01stream.ws,filmcomplet.cam,filmgratuit.net,films-telecharger.eu,filmstreaming01.org,filmstreaming1.in,filmzenstream.cloud,filmzenstream.xyz,free-telecharger.net,free-telecharger.org,free-telecharger.xyz,fullstream.plus,gktorrents.org,guitare-luthier.fr,hdss.la,jmto.fr,lemondedekevin.fr,lemonlemag.fr,moulins-de-flandre.fr,nemours-medieval.fr,ostreaming.biz,oxtorrent.cc,papadustream.co,papystreaming.black,papystreaming.fyi,papystreaming.stream,planet-streaming1.com,planetevideos.xyz,protect-stream.com,rent2016.fr,sawstream.com,serie-streaming.watch,series-en-streaming.xyz,sillonsdeculture.fr,sokrostream.tube,streaming-films-hd.com,streamonsport.club,streamonsport.net,superchataigne2017.fr,tfarjo.me,topsddns.net,torrent9-super.com,torrent9ph.fr,torrent9uno.fr,vfcomplet.vip,voir-films-series.com,voirfilm-vf.com,voirfilm.top,voirfilms.al,voirfilms.bz,voirfilms.live,voirfilmstreaming.tv,wawacity.red,wo2viral.com,x1337x.eu,x1337x.se,x1337x.ws,yggtorrent.co,youwatch-serie.com,youwatch-series.com,zone-annuaire.xyz##a[href*=".php"]
-leparticulier.fr,paruvendu.fr##a[href*=".xiti.com/go.click?"]
+paruvendu.fr##a[href*=".xiti.com/go.click?"]
 meilleurs-hebergeurs.com##a[href*="/-"] > img
 7-up.net,abidjan.net,algerie-eco.com,algerie-focus.com,algerie360.com,bigbike-magazine.com,bismirabbika.com,brain-magazine.fr,cnetfrance.fr,coran-francais.com,doukkalia.press.ma,filmstreaming.la,freeonline.org,grimper.com,igen.fr,internetparsatellite.net,kiteboarder-mag.com,ktotv.com,lebonfap.com,letagparfait.com,macg.co,montagnes-magazine.com,mubawab.ma,nintendo-master.com,niveales.com,portail.free.fr,public.fr,radego.over-blog.com,skieur.com,skimagazine.fr,snowsurf.com,streaming-one.com,supmag.fr,tahiti-infos.com,telecharger-jeuxpc.fr,telesatellite.com,topito.com,trekmag.com,unleashed.fr,upload.ac,urlcero.net,vakarm.net,watchgeneration.fr,widermag.com,windmag.com##a[href*="//bit.ly/"]
 cdiscount.com,clubic.com,lemonde.fr,sosiphone.com,supertoinette.com,tomtomax.fr##a[href*="//clk.tradedoubler.com/click?"]
