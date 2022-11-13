@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 23UNyRP2YY29E7leZi5yNQ
-! Version: 202211130552
+! Checksum: hYeYlV9+Qaa8N3i105gR1g
+! Version: 202211130714
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21733,8 +21733,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href*=".club/clk?b="]
 ##a[href*=".concord.systems/"]
 ##a[href*=".digital2cloud.com/?"]
-##a[href*=".directtf.fun/"]
-##a[href*=".directtl.fun/"]
 ##a[href*=".djfiln.com/"]
 ##a[href*=".egresspath.com"]
 ##a[href*=".free-datings.com/"]
@@ -21780,7 +21778,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href*="//ads.ad-center.com/"]
 ##a[href*="//afftrack001.com/"]
 ##a[href*="//ammankeyan.com/"]
-##a[href*="//ghoto-12.win/"]
 ##a[href*="//go.mobtrks.com/"]
 ##a[href*="//go.oclasrv.com/"]
 ##a[href*="//jsmentry.com/"]
@@ -21846,7 +21843,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href*="://c.tnkexchange.com/"]
 ##a[href*="://click.a-ads.com/"]
 ##a[href*="://code.tubeadvertising.eu/"]
-##a[href*="://duck-quack.com/"]
 ##a[href*="://eroges.com/"] > img
 ##a[href*="://go.nordvpn.net/"] > img
 ##a[href*="://hilltopads.net/"]
@@ -21942,7 +21938,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="http://ali.ski/"] > img
 ##a[href^="http://altadefinizone.click/"]
 ##a[href^="http://altarisoluzione.online/"]
-##a[href^="http://always-parser.xyz/"]
 ##a[href^="http://api.adlure.net/"]
 ##a[href^="http://bestentrypoint.com/"]
 ##a[href^="http://bruceleadx2.com/"]
@@ -22029,7 +22024,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="https://checkout.hidemyass.com/affiliate.php?"] > img
 ##a[href^="https://click.hooligapps.com/?pid="]
 ##a[href^="https://clickadilla.com/?"]
-##a[href^="https://clk.notallowedscripttradedoubler.com/click?"]
 ##a[href^="https://clk.pvnsolutions.com/"]
 ##a[href^="https://dl-protect.info/free-url-premium?"]
 ##a[href^="https://dl-protect.info/url"]
@@ -22853,7 +22847,7 @@ syskb.com##.bandeaupub
 cdmail.fr##.bandeauvert
 iphone4.fr,jeux-mmorpg.com##.baner
 bismirabbika.com,coran-francais.com,orientation-chabab.com##.bann
-2conv.com,afrik-foot.com,afrik.com,afrikeco.com,expressio.fr,flvto.biz,flvtomp3.cc,glenatbd.com,hdnumerique.com,jizzbunker.com,journaldugeek.com,kpopfm.fr,lautomarche.com,manga-news.com,medialot.fr,mesbagages.com,mob.org,orientation-chabab.com,photofiltres.fr,telquel.ma,textnow.com,trimag.fr,ventsdouest.com##.banner
+2conv.com,afrik-foot.com,afrik.com,afrikeco.com,expressio.fr,flvto.biz,flvtomp3.cc,glenatbd.com,hdnumerique.com,jizzbunker.com,journaldugeek.com,lautomarche.com,manga-news.com,medialot.fr,mesbagages.com,mob.org,orientation-chabab.com,photofiltres.fr,telquel.ma,textnow.com,trimag.fr,ventsdouest.com##.banner
 batiactu.com##.banner-background
 golem13.fr##.banner-halfpage
 jizzbunker.com##.banner-popup
@@ -24150,7 +24144,6 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 @@||static.jeux123.fr/ads/promo_$image,~third-party
 @@||static.meilleur-mobile.com/images-product/logos-marchands/sprite_logosMarchands_120x60.png|$image
 @@||static.s-sfr.fr/resources/custom/adsl/
-@@||stcwbd.com/ads/plugins/jwplayer/player.swf$domain=eurosport.fr|ozap.com|puretrend.com
 @@||syndication.twitter.com/tweets.json?*&ids=*&lang=*&suppress_response_codes=$script
 @@||systeme.io/public/*/show?source=*-iframe-$subdocument
 @@||systeme.io/public/remote/page/*.js|$script
