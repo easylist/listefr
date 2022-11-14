@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: bY6QLBAiIPXl70KTIQkvDA
-! Version: 202211130902
+! Checksum: 0LGQrhwg9X/hZt+GyQrqvg
+! Version: 202211140348
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -3035,6 +3035,7 @@ _frontend_loader.$script
 /ead-publisher=$popup
 /earn.php?feed=$popup
 /enter.php?*&id=*cmp=$popup
+/exotrck.$popup
 /ext-link/*&block=$popup
 /ext-link/*?pub=$popup
 /feedclick?$popup
@@ -5813,6 +5814,7 @@ _siteunder/$popup
 ||bookstaircasenaval.com^
 ||bookwormtiger.com^
 ||boolevool.com^
+||boonaity.xyz^
 ||boopjugdd.com^
 ||booshoune.com^
 ||bopdqufcfbekmti.com^
@@ -7309,6 +7311,7 @@ _siteunder/$popup
 ||exhtxfeowvk.com^
 ||exiqukhftrlocq.top^
 ||existencethrough.com^
+||exotrck.com^
 ||exp6m7soyor.com^
 ||expansioneggnog.com^
 ||expedientabnormaldeceased.com^
@@ -7390,6 +7393,7 @@ _siteunder/$popup
 ||faiptauz.com^
 ||fairfeeling.com^
 ||fairlyleadingenquiry.com^
+||faisashy.com^
 ||faithedzones.com^
 ||faiwastauk.com^
 ||fallaciousfifth.com^
@@ -7751,6 +7755,7 @@ _siteunder/$popup
 ||g3tstart3d22.com^
 ||g91games.com^
 ||g9qnk89pd5ic.com^
+||gabagloo.xyz^
 ||gacjyyuo.xyz^
 ||gadsatz.com^
 ||gagaribber.casa^
@@ -7910,6 +7915,7 @@ _siteunder/$popup
 ||glorifyzodiacthrift.com^
 ||glorioustube.com^
 ||glothouw.link^
+||glouckee.com^
 ||gloupsoo.xyz^
 ||gloushekra.com^
 ||glowtexture.com^
@@ -8016,6 +8022,7 @@ _siteunder/$popup
 ||grimechethy.pro^
 ||grimpils.com^
 ||gritaware.com^
+||griwhouy.com^
 ||grlemdjrncu.top^
 ||grmkpnmcjae.com^
 ||groacmaz.com^
@@ -9945,6 +9952,7 @@ _siteunder/$popup
 ||neepsolufab.com^
 ||neesemicah.com^
 ||neglectheroismambitious.com^
+||negrusoo.net^
 ||neighbourhoodprosper.com^
 ||nej7wwpp1u.com^
 ||nepachethy.pro^
@@ -10760,6 +10768,7 @@ _siteunder/$popup
 ||psalrausoa.com^
 ||psarecommendas.com^
 ||pselygliwho.com^
+||psepiroo.xyz^
 ||psevaulr.net^
 ||pshdom.ru^
 ||psigozouns.com^
@@ -11131,6 +11140,7 @@ _siteunder/$popup
 ||rdsvwmcqlbsf.com^
 ||rdthoavhkybqo.xyz^
 ||rdxdmlvsvqvdww.com^
+||ready-for-download.com^
 ||reager30.com^
 ||reasulty.com^
 ||reauthenticator.com^
