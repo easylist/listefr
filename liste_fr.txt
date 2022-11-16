@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: nG2WYcDHhxoM5QjmJhfYQA
-! Version: 202211160620
+! Checksum: dvLgbBkbnFI463Hg/tK5Ig
+! Version: 202211160625
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -24327,7 +24327,7 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 @@||playiri.com/player8/jwplayer.$script,domain=vidlooz.com
 @@||playiri.com/player8/provider.$script,domain=vidlooz.com
 @@||releases.flowplayer.org^*/flowplayer.$script,domain=flowyourvideo.com
-@@||ssl.p.jwpcdn.com/player/v/$script,stylesheet,xmlhttprequest,domain=allviid.live|allviid.xyz|allviids.xyz|anavids.com|cloudemb.com|databasegdriveplayer.co|gdriveplayer.me|gdriveplayer.us|kvid.org|liivideo.com|mcloud.to|mcloud2.to|movcloud.net|onlystream.tv|prettyfast.to|streamfree.top|streamty.com|supervideo.tv|theproxy.how|vadbam.com|vedbam.xyz|vedbom.com|vidbam.org|vidcloud9.com|vidembed.io|vidembed.me|vidhdr.com|vidlo.us|vidnext.net|vidshar.org|vidspeed.net|vidspeeds.com
+@@||ssl.p.jwpcdn.com/player/v/$script,stylesheet,xmlhttprequest,domain=allviid.live|allviid.xyz|allviids.xyz|anavids.com|cloudemb.com|databasegdriveplayer.co|gdriveplayer.me|gdriveplayer.us|kvid.org|liivideo.com|mcloud.to|mcloud2.to|movcloud.net|onlystream.tv|prettyfast.to|sbanh.com|sbembed.com|sblongvu.com|streamfree.top|streamsb.com|streamty.com|supervideo.tv|theproxy.how|vadbam.com|vedbam.xyz|vedbom.com|vidbam.org|vidcloud9.com|vidembed.io|vidembed.me|vidhdr.com|vidlo.us|vidnext.net|vidshar.org|vidspeed.net|vidspeeds.com
 @@||st.chatango.com/js/gz/emb.js$script,domain=adkami.com|crichd.com|crichd.to|crichd.xyz|flystream.fr|gdriveplayer.us|jetanimes.com|mavanimes.cc|mavanimes.co|otakufr.com|robindesdroits.me|universanimeize.com|voiranime.com|vostanimes.tv
 @@||st.chatango.com^*/id.html$subdocument,domain=adkami.com|crichd.com|crichd.to|crichd.xyz|gdriveplayer.us|jetanimes.com|robindesdroits.me
 @@||static.uppcdn.com^$image,script,domain=uppit.com
