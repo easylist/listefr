@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Pc0CxEXIcD+m0GC1or4b+w
-! Version: 202211231633
+! Checksum: 62viwj9+rW1TKlW72DUeqA
+! Version: 202211231658
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -22919,6 +22919,7 @@ voyageforum.com##a[class^="offer"]
 zdnet.fr##a[data-track-action="partners_traffic_drivers"]
 zdnet.fr##a[data-track-category="powercenter"]
 thebadbuzz.com##a[href$="/boost.php"]
+free-telecharger.link##a[href$="php"]
 hdss.la,lemondedekevin.fr,x1337x.ws##a[href*=" "]
 sante-nutrition.org##a[href*="&pos="]
 audiofanzine.com##a[href*="&ref="]
@@ -23494,6 +23495,7 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 @@||cloudflare.com/ajax/libs/$script,stylesheet,domain=11anim.com|7-up.net|activetect.net|adf.ly|adkami.com|adshr.ink|adshrinks.com|android-zone.ws|anime-loads.org|arabseed.ink|atabencot.net|atomcurve.com|atominik.com|ay.gy|babblecase.com|brightvar.bid|casualient.com|cinebo.net|cloudemb.com|coginator.com|cogismith.com|cpmlink.net|cracksurl.com|databasegdriveplayer.co|dood.pm|dood.re|dood.wf|doodstream.co|doodstream.com|espn-live.stream|ezie.cc|file-up.org|file-upload.com|file-upload.net|filemoon.sx|fux0r.fyi|fux0r.icu|fux0r.ooo|fux0r.top|gamecopyworld.eu|gdriveplayer.me|gdriveplayer.to|gktorrents.org|hdss.la|immunicity.st|insta-stories.com|ithepiratebay.com|j.gs|japscan.me|kaitect.com|kializer.com|kibuilder.com|kimechanic.com|kooralive.info|larati.net|lirescan.me|mavanimes.cc|mavanimes.co|mcloud.to|mcloud2.to|microify.com|mmoity.com|onion.ly|onion.pet|onlystream.tv|ouo.io|ouo.press|picocurl.com|picons.eu|pintient.com|piratebayblocked.com|prettyfast.to|protect-stream.com|q.gs|quainator.com|quamiller.com|queuecosm.bid|replaymod.com|riffhold.com|sandup.co|sapixmedia.com|sbanh.com|sbembed.com|sblongvu.com|simizer.com|skamaker.com|skamason.com|sonyoutube.com|streamzt.com|subfb.us|swiftviz.net|t911.tv|teleriumtv.com|thepiratebay.vip|theproxy.how|thouth.net|tinyium.com|toonanime.cc|toonanime.tv|toonanime.xyz|torrent9.gg|torrent9.nl|torrent911.tv|tpbprox.com|tubeload.co|twineer.com|ukpass.co|unblocked2.fun|unblocked2.vip|uploadrar.com|upstream.to|upvid.net|uqload.com|uqload.org|viahold.com|vializer.com|vidplay.ch|vidsrc.me|viwright.com|voe.sx|voir-films-series.net|voiranime.org|voirfilms.al|voirfilms.bz|voirfilms.live|waaw.tv|waaw1.tv|yabuilder.com|yamechanic.com|yoalizer.com|yobuilder.com|yoineer.com|yoitect.com|youwatch-serie.com|zipansion.com|zone-anime.me|zone-annuaire.xyz|zone-telechargements.com
 @@||cloudflare.com/cdn-cgi/scripts/*/cloudflare-static/rocket-loader.min.js$script
 @@||code.jquery.com^$script,domain=adkami.com|animecomplet.com|blablastream.com|blablastream.rip|flowyourvideo.com|fux0r.fyi|fux0r.icu|fux0r.ooo|fux0r.top|geneafrance.com|getsurl.com|ianimes.org|immunicity.st|indishare.org|insta-stories.com|japscan.me|lirescan.me|mixdrop.ch|mp4upload.com|protect-mylinks.com|protect-stream.com|sandup.co|shahidlive.co|sonyoutube.com|streamingvf-vostfr.com|subfb.us|sznpaste.net|theproxy.how|tntendirect.com|torlock.com|unblocked2.vip|uploadrar.com|videowood.tv|voirfilms.al|voirfilms.bz|voirfilms.live|waaw.tv
+@@||connect.facebook.net/fr_FR/all.js$script,domain=free-telecharger.link
 @@||connect.facebook.net^*/sdk.js$script,domain=file-upload.com|force-download.com
 @@||content.jwplatform.com/libraries/$script,domain=animevostfr.tv|protect-stream.com|streamfree.top
 @@||disqus.com/embed.js$script,domain=apkmirrorfull.com|cocostreaming.com|jetanimes.com|k-vid.co|k-vid.net|kshows.to|time2watch.top|waaw.tv|waaw1.tv
