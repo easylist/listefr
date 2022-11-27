@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: wNDDBqlIk5iDiEzpi7eEHw
-! Version: 202211262001
+! Checksum: 1Yxc1xvgM1SWb6JUF0OACQ
+! Version: 202211271853
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -23524,6 +23524,7 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 @@||api-secure.solvemedia.com/papi/$image,script,domain=clik.pw
 @@||bootstrapcdn.com^$script,stylesheet,domain=7-up.net|9goal.tv|9goaltv.to|american-dad-streaming.com|anitube.cx|anitube.cz|clicknupload.to|dailysport.pw|direct-torrents.com|ettvdl.com|europixhd.com|europixhd.net|ezie.cc|filerio.in|gktorrents.org|gledajonline.net|gostream.pro|hdeuropix.io|hdss.la|indishare.org|insta-stories.com|ithepiratebay.com|lirescan.me|mavanimes.cc|mavanimes.co|onion.ly|onion.pet|piratebayblocked.com|protect-stream.com|shahidlive.co|snowfiles.com|sonyoutube.com|streamingvf-vostfr.com|t911.tv|the-big-bang-theory-streaming.net|thepiratebay.vip|theproxy.how|topeuropix.com|topeuropix.net|torrent9.gg|torrent9.nl|torrent911.tv|tpbprox.com|ukpass.co|upbam.org|uploadrar.com|uppom.live|xfilesharing.com|yodbox.com
 @@||cdn.fluidplayer.com^*/current/$script,domain=filmpornofrancais.fr
+@@||cdn.googlepeer.cloud/gpeer.jwplayer8.plugins.js$script,domain=9goal.tv|9goaltv.to
 @@||cdn.jsdelivr.net^$script,stylesheet,domain=7-up.net|dailysport.pw|databasegdriveplayer.co|espn-live.stream|japscan.me|lelmanga.com|ninjastream.to|stream4free.live|streamcdn.to|streaming-french.wiki|teleriumtv.com|theproxy.how|videobin.co|voe.sx|voirfilms.al|voirfilms.bz|voirfilms.live|voirseries.co|voirseries.io|voirseries.rip|waaw.tv|waaw1.tv
 @@||cdn.jwplayer.com/libraries/$script,domain=movcloud.net
 @@||cdn.streamroot.io^$script,domain=ninjastream.to
