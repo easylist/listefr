@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: YJXKnzdECKkmePPrNdsWdA
-! Version: 202211291822
+! Checksum: yYAIyIbLu5U+4BO5Z5TW3Q
+! Version: 202211301735
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -20002,51 +20002,9 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.adus__cntn
 ##.adus__label
 ##.adus__sticky
-##.adv--float
-##.adv-237
-##.adv-here
-##.adv-inner
-##.adv-mid
 ##.adv-placeholder
-##.adv-space
-##.adv-title
-##.adv120x600
-##.adv160_600
-##.adv160x600
 ##.adv2
-##.adv3
-##.adv300-topnews
-##.adv300_250
-##.adv350200
-##.adv4
-##.adv468_60
-##.adv468x60
-##.advBackground
-##.adv__rectangle
-##.adv_big
 ##.adv_block
-##.adv_clickable
-##.adv_cont
-##.adv_middle
-##.adv_placeholder_468_60
-##.adv_placeholder_728_90
-##.adv_pop
-##.adv_text
-##.adv_text2
-##.advert iab_728x90
-##.advert-header-wrapper
-##.advert-left-slider
-##.advert-out-left
-##.advert-out-right
-##.advert-owl
-##.advert-under-hedaer2
-##.advert-under-hedaer2-left
-##.advert-under-hedaer2-right
-##.advert.iab_160x600
-##.advert.iab_468x60
-##.advert.iab_728x90
-##.advert.leaderboard
-##.advertStd
 ##.advert_h_larg
 ##.advertisement-pub
 ##.advertisement2
@@ -20261,7 +20219,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.desktopbottomad
 ##.desktopbottomad1
 ##.desktopbottomad2
-##.dfp > a > img
 ##.dfp-ads
 ##.dfp-slot-bas-banniere
 ##.dfp-slot-habillage
@@ -20409,7 +20366,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.iklan2
 ##.in_stream_banner
 ##.in_up_ad-area
-##.info_pop > a > img
 ##.inpage-adspace
 ##.inplayer_banners
 ##.insertPadList
@@ -20602,8 +20558,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.propads
 ##.pstAd
 ##.pstAdLegend
-##.puFloatLine > #puFloatDiv
-##.puFloatLine > .puFloatDiv
 ##.pub-1000x90
 ##.pub-1000x90-bottom
 ##.pub-1000x90-top
@@ -20908,10 +20862,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.r-pub--leader
 ##.ratio-ad-header
 ##.rd-widget-ads
-##.recipe-col-droite-ad
-##.recipe-col-droite-ad-caption
-##.reclame
-##.red-ad
 ##.regiePub
 ##.regiePub2
 ##.regiePub728
@@ -20948,7 +20898,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.ritBigAds
 ##.river-ad
 ##.row_pub
-##.rtPaidAd
 ##.sag-reklam-120x600
 ##.scpe-pub
 ##.sd-ad-container
@@ -20959,7 +20908,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.section-ads-center
 ##.seoAdWrapper
 ##.separepub
-##.sgAdLabel
 ##.shareaholic-ad
 ##.shareaholic-ad-content
 ##.shareaholic-canvas
@@ -21021,7 +20969,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.sponsoredPrisma
 ##.sponsored_banner
 ##.sponsorfooter
-##.sqrpub
 ##.square-pub
 ##.squareadboxext
 ##.squareadevertise
@@ -21097,7 +21044,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.wide_add
 ##.widget-advert
 ##.widget-advert-300-600
-##.widget-beapi-widget-advertising
 ##.widget-le_guide
 ##.widget-paruvendu
 ##.widget-pub
@@ -21125,41 +21071,15 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.zone_annonceurs
 ##.zone_pub_orange
 ##.zonepub
-##[class$="_banner-sponsor"]
-##[class*="_ad-container"]
-##[class*="_adLeaderboard"]
-##[class*="proadszoneholder-"]
-##[class="ads"][style^="width: 160px;"]
-##[class="ads"][style^="width: 300px;"]
-##[class^="Ad-adContainer-"]
-##[class^="ads300_600-widget-"]
-##[class^="ads_inline_"]
-##[class^="jw-ad-block"]
-##[class^="lig_campaign_"]
-##[class^="lig_wrapper_ad_"]
-##[class^="region-pub-bottom-"]
-##[class^="region-pub-position-"]
-##[class^="thumb-pub-860"]
-##[class^="trivago_widget_"]
-##[class^="view-affichage-publicit"]
-##[class^="view-id-affichage_publicit"]
 ##[data-ad-position]
 ##[data-ad-text]
 ##[data-ads-core]
-##[data-block-type="block:ads"]
-##[data-e2e="advertisement"]
-##[data-identifier="advertisement"]
 ##[data-incontent-ad]
 ##[data-qwertize-zone]
 ##[data-testid="adTag"]
 ##[data-type="ad"][data-format]
 ##[data-type="ad"][data-publisher]
-##[data-type="ligatus-script"]
 ##[display-ad-location]
-##[id*="-partners-adserver-"]
-##[id*="/adunblock_"] > iframe
-##[id*="ScrollDownAds"]
-##[id*="_ads_id_"]
 ##[id*="_custom_ads-"]
 ##[id^="ad_block_"]
 ##[id^="ad_holder_text_"]
@@ -21178,7 +21098,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##[id^="criteoDivPave"]
 ##[id^="dfp_ban_"]
 ##[id^="dfp_banner"]
-##[id^="div-gpt-"] + [id^="ctr-"]
 ##[id^="lig_wrapper_ad_"]
 ##[id^="ligatus-"]
 ##[id^="ligatus_"]
@@ -21186,28 +21105,14 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##[id^="pub_728x90_"]
 ##[id^="pub_dart_"]
 ##[id^="pub_google"]
-##[id^="sas_"][style*="width: 300px; height: 250px;"]
-##[id^="sas_"][style*="width: 728px; height: 90px;"]
 ##[id^="show_ads_"]
 ##[id^="sn_ads-"]
 ##[id^="widget_pub-"]
-##[onclick*="//adserver.adtech.de/"]
-##[onclick*="/rel/index.cfm?RST="]
-##[onclick*="/rel/index.cfm?TAD="]
-##[onclick*="FriendlyDuck.com/AF_"]
-##[onclick*="friendlyduck.com/AF_"]
-##[onclick*="http://www.affbuzzads.com/affiliate/"]
-##[onclick^="window.open('http://adserver.sejt.com/"]
-##[onclick^="window.open('https://vpn-offers.org/"]
 ##[slot-id^="div-gpt-ad-"]
-##a > #bg-ad
 ##a[class^="adsbutt_"]
 ##a[class^="mn-container-adsby"]
-##a[href$="?id=300x250"][target="_blank"] > img
-##a[href$="?id=728x90"][target="_blank"] > img
 ##a[href*="%2Fapi%2Fmpup%2F"]
 ##a[href*="&ad_unit="]
-##a[href*="&adurl="] > img
 ##a[href*=".ad2up.com/"]
 ##a[href*=".adbooth.com/"]
 ##a[href*=".adhoc1.net/"]
