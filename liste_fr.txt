@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AF9xE5tCJjbqWq+g2CGIcg
-! Version: 202212020644
+! Checksum: j+WrFxlBLbbNQlfug+iiSQ
+! Version: 202212020704
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -143,6 +143,7 @@
 -banner-728.
 -banner-rotation.
 -banner.marketing.
+-banner/?*&subAffId=
 -banner250-
 -banner300-
 -banner728.
@@ -12971,6 +12972,7 @@ _siteunder/$popup
 ||wlpcrfrhsg.xyz^
 ||wlvupulqadyuhr.xyz^
 ||wmober.com^
+||wmptctl.com^
 ||wmrubpdhoqe.xyz^
 ||wmxoxmyfbovn.xyz^
 ||wmynuyogbwrm.xyz^
@@ -21458,6 +21460,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^=".mftracking.com/"]
 ##a[href^=".php/ads/"]
 ##a[href^=".php/annonce/ads/"]
+##a[href^="//apptjmp.com/"]
 ##a[href^="//out.tubecorporate.com/"]
 ##a[href^="//www.poweredbyliquidfire.mobi/"]
 ##a[href^="/engine/go.php?file2="][rel="nofollow"][target="_blank"] > img
