@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: QafMwhw38chQi6QHx1KlYQ
-! Version: 202212051355
+! Checksum: 1aA9xeB5BK9uiA7a0fwTUw
+! Version: 202212062137
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -1041,6 +1041,7 @@
 /avantajadas/*
 /ax/bnnr/*$script
 /b-1-468-$image
+/b.isbnrs.
 /b.n.php?aid=
 /b/ads/*
 /b728x90a.
@@ -2682,6 +2683,7 @@ digitalocean.gif|
 /nvrbl/*
 /pfr_loader.js
 /player/html.php?aid=*&video_id=*&category_ids=*,*&referer=*&rnd=
+/preroll_exo/*
 /sbackend_loader.$script
 /sfrontend_loader.$script
 /wfxbackend_loader.
@@ -3926,6 +3928,7 @@ _siteunder/$popup
 ||goodaction.com^$third-party
 ||goracash.com^$third-party
 ||greatregie.com^$third-party
+||grupoxxx.com^$third-party
 ||gtburst.com^$third-party
 ||guestcash.com^$third-party
 ||hascosafety.com^$third-party
