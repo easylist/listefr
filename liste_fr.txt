@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: z9cbdvrPAuosGknrDL5D8g
-! Version: 202212150116
+! Checksum: bqSl9GDYhTfwlHKmisM+uQ
+! Version: 202212150241
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16663,6 +16663,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||emploitic.com/images/banner/
 ||emploitic.com/images/banners/
 ||emu-fr.net^*/img_partenariat/
+||emu-france.com/wp-content/themes/emufrance/*casino
 ||emule-island.*/bup/
 ||emule-island.*/pop/
 ||emule-island.*/pub/
@@ -21703,6 +21704,7 @@ vo2.fr###pub_background
 maxifoot-live.com###pub_bc
 entrecoquins.com###pub_boutique
 jeuxvideo.com###pub_carre1
+emu-france.com###pub_casino_header
 entrecoquins.com###pub_club
 elwatan.com###pub_habillage_lien
 soonnight.com###pub_imu
@@ -21741,6 +21743,7 @@ sfr.fr###shoppingWrapper
 choisirsonforfait.com###sidPub
 herault-tribune.com###side_pub1
 herault-tribune.com###side_pub2
+emu-france.com###sidebar-right a > img[style^="width:"]
 mobigeeks.fr###sidebar-shell-2
 lematin.ch###sidebarSky
 forum.ad###sidebar_header
@@ -22018,6 +22021,7 @@ lacentrale.fr##.caradisiac
 orange.fr##.carousel-hp-pub2
 tomsguide.fr##.carousel-multi-css-side
 psychologies.com##.carrousel_partenaires
+emu-france.com##.cas_version_mobile_cache_grande_pub
 comptoir-hardware.com##.cat_bons_plans_du_comptoir
 phonandroid.com##.category-publicite
 korben.info##.category-sponsor
@@ -22972,6 +22976,7 @@ algerie-eco.com,autosurfs.fr,framboise314.fr,francoischarron.com,jeu.fr,maliweb.
 mediaguinee.org##img[width="740"][height="161"]
 mediaguinee.org##img[width="740"][height="185"]
 mediaguinee.org##img[width="800"][height="150"]
+emu-france.com##img[width="88"]
 guinee7.com##img[width="958"][height="142"]
 undernews.fr##img[width][height][alt$="VPN"]
 faireunlien.com##img[width^="728height=90"]
