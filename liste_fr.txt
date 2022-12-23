@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: uAvOKkMWHwu8dP7apE57hA
-! Version: 202212230711
+! Checksum: OK5nM9buWB+bOhXaI0g0hw
+! Version: 202212231834
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15353,6 +15353,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||theliverugby.com^$subdocument,third-party
 ||thetrafficincome.com/img/banners/$third-party
 ||tools.indecentes-voisines.com^
+||tools.prnewswire.com^$third-party
 ||tools.sexedenfer.com^
 ||tools.vpscash.nl^
 ||toolspro.indecentes-voisines.com^
@@ -17610,6 +17611,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||papystreaming.*/bn-cs.gif
 ||parlonspiscine.com/pubs/
 ||partenaire.leparticulier.fr^
+||partners.challenges.fr^
 ||passback.free.fr/console/html/pub.html
 ||passeportsante.net^*/controls/pub/
 ||passionlachasse.com/publi
@@ -20292,6 +20294,9 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.pub-carre-smart-php
 ##.pub-condor
 ##.pub-container
+##.pub-container-bas
+##.pub-container-haut
+##.pub-container-middle
 ##.pub-demipage
 ##.pub-detail-1
 ##.pub-double-bande
@@ -21622,6 +21627,7 @@ lessentiel.lu###min_rectangle
 jeu.video###mobile_clic
 le-buzz.fr###modal_chrome
 edcom.fr###modals-container
+challenges.fr###moneytag-INARTICLE-ATF
 aujourdhui-en-france.fr,leparisien.fr###moteur-billetterie
 zdnet.fr###mpuBottom
 zdnet.fr###mpuTop
@@ -21977,7 +21983,7 @@ boursorama.com##.bloc-liens-partenaires
 nouvelobs.com##.bloc-partenaires
 nouvelobs.com##.bloc-partners
 aujourdhui-en-france.fr,leparisien.fr##.bloc-pratique
-capital.fr##.bloc-services
+capital.fr,challenges.fr##.bloc-services
 aeroport.fr##.bloc-shopping
 aujourdhui-en-france.fr,leparisien.fr##.blocPartenaire
 auto-utilitaire.com,mobilealgerie.com##.bloc_728x90_brd
