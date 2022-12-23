@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: rzMeOyIxJay8yJ4gd5961g
-! Version: 202212230601
+! Checksum: yiHxa3UjAeefiXkrrgE0qQ
+! Version: 202212230657
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -22175,6 +22175,7 @@ lexpress.fr##.header_content_edito
 vakarm.net##.header_logo + div > table tr > td > a[target="_blank"]
 ouiounon.net##.headertitrelien[target="_blank"]
 igen.fr,macg.co,watchgeneration.fr##.hello-bar
+ouedkniss.com##.home-promo-header
 lafermeduweb.net##.homePub
 lagence.fr##.hor_banners
 valeursactuelles.com##.horizons-va-sidebar
@@ -22677,6 +22678,7 @@ free-reseau.fr##a[href*="&tag=freereseaufr-"]
 meilleures-grandes-ecoles.com,meilleures-licences.com,meilleurs-masters.com##a[href*="&utm_campaign="]
 streaming-series.me##a[href*=".html"]
 1001ebooks.com,1337x.biz,1337x.st,1337x.to,amairgil.cz,arciam.fr,blablastream.com,blablastream.rip,cinemay.vip,cocostream.rip,cpasbien.gg,cpasfini.me,cpasmieux.land,dadyflix.co,dpstreaming.to,espace-ehce.fr,extreme-down.art,extreme-down.plus,extreme-down.site,film01stream.com,film01stream.ws,filmcomplet.cam,filmgratuit.net,films-telecharger.eu,filmstreaming.la,filmstreaming01.org,filmzenstream.cloud,filmzenstream.xyz,free-telecharger.net,free-telecharger.org,free-telecharger.xyz,fullstream.plus,gktorrents.org,guitare-luthier.fr,hdss.la,jmto.fr,lemondedekevin.fr,lemonlemag.fr,mistergeek.net,moulins-de-flandre.fr,nemours-medieval.fr,ostreaming.biz,oxtorrent.ac,papadustream.co,papystreaming.black,papystreaming.fyi,papystreaming.stream,planetevideos.xyz,protect-stream.com,rent2016.fr,sawstream.com,serie-streaming.watch,series-en-streaming.xyz,sillonsdeculture.fr,sokrostream.tube,streaming-films-hd.com,streamonsport.club,streamonsport.net,superchataigne2017.fr,tfarjo.me,topsddns.net,torrent9-super.com,torrent9ph.fr,torrent9uno.fr,vfcomplet.vip,voir-films-series.com,voirfilm.top,voirfilms.al,voirfilms.bz,voirfilms.live,voirfilmstreaming.tv,wawacity.red,wo2viral.com,x1337x.eu,x1337x.se,x1337x.ws,yggtorrent.co,youwatch-serie.com,youwatch-series.com,zone-annuaire.xyz##a[href*=".php"]
+ouedkniss.com##a[href*=".safex.dz/"]
 meilleurs-hebergeurs.com##a[href*="/-"] > img
 7-up.net,abidjan.net,algerie-eco.com,algerie-focus.com,algerie360.com,bigbike-magazine.com,bismirabbika.com,brain-magazine.fr,cnetfrance.fr,doukkalia.press.ma,filmstreaming.la,freeonline.org,grimper.com,igen.fr,internetparsatellite.net,kiteboarder-mag.com,ktotv.com,lebonfap.com,letagparfait.com,macg.co,montagnes-magazine.com,mubawab.ma,nintendo-master.com,niveales.com,portail.free.fr,public.fr,radego.over-blog.com,skieur.com,skimagazine.fr,snowsurf.com,streaming-one.com,supmag.fr,tahiti-infos.com,telecharger-jeuxpc.fr,telesatellite.com,topito.com,trekmag.com,unleashed.fr,upload.ac,vakarm.net,watchgeneration.fr,widermag.com,windmag.com##a[href*="//bit.ly/"]
 cdiscount.com,clubic.com,lemonde.fr,sosiphone.com,supertoinette.com,tomtomax.fr##a[href*="//clk.tradedoubler.com/click?"]
@@ -23094,6 +23096,7 @@ numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
 numerama.com#?#.post-card:-abp-has(span:-abp-contains(sponso))
 numerama.com#?#.post-grid:-abp-has(.sponsoring-icon)
 on-mag.fr#?#.uk-margin-remove-last-child:-abp-has(div:-abp-has(span:-abp-contains(PUBLICITÉ)))
+ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/Sponsored|Sponsorisées/))
 phonandroid.com#?#li:-abp-has(a:-abp-contains(sponso))
 rakuten.com#?#[data-productid]:-abp-has(a[href^="/offer?action="])
 businessinsider.fr#?##related-post-:-abp-has(a[href*="/contenu-sponsorise"])
