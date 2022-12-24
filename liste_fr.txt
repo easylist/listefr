@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: hUQlF8HopeTmpEAynt9uvg
-! Version: 202212240238
+! Checksum: F5KC96DhCSWS46q0ciPbfA
+! Version: 202212240240
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -3070,6 +3070,7 @@ digitalocean.gif|
 ://xml.*/click?$popup
 =admaven-$popup
 =adplexmedia&$popup
+=exoclick-proxy-$popup
 =monetizer_$popup
 =partenariat&utm_campaign=$popup
 =popads&$popup
@@ -14046,6 +14047,7 @@ _siteunder/$popup
 ||producebreed.com^$popup
 ||profitablecpmnetwork.com^$popup
 ||promotools.biz^$popup,third-party
+||prtord.com^$popup
 ||prurl.cc^$popup
 ||ps4ux.com^$popup,third-party
 ||pt21na.com^$popup,third-party
@@ -20997,6 +20999,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^=".php/ads/"]
 ##a[href^=".php/annonce/ads/"]
 ##a[href^="//out.tubecorporate.com/"]
+##a[href^="//prtord.com/"]
 ##a[href^="//www.poweredbyliquidfire.mobi/"]
 ##a[href^="/engine/go.php?file2="][rel="nofollow"][target="_blank"] > img
 ##a[href^="/engine/go.php?movie="][rel="nofollow"][target="_blank"] > img
