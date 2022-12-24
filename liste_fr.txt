@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: OK5nM9buWB+bOhXaI0g0hw
-! Version: 202212231834
+! Checksum: hUQlF8HopeTmpEAynt9uvg
+! Version: 202212240238
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -23102,7 +23102,7 @@ numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
 numerama.com#?#.post-card:-abp-has(span:-abp-contains(sponso))
 numerama.com#?#.post-grid:-abp-has(.sponsoring-icon)
 on-mag.fr#?#.uk-margin-remove-last-child:-abp-has(div:-abp-has(span:-abp-contains(PUBLICITÉ)))
-ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/Sponsored|Sponsorisées/))
+ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/Sponsored|Sponsorisées|Stores à la une/))
 phonandroid.com#?#li:-abp-has(a:-abp-contains(sponso))
 rakuten.com#?#[data-productid]:-abp-has(a[href^="/offer?action="])
 businessinsider.fr#?##related-post-:-abp-has(a[href*="/contenu-sponsorise"])
