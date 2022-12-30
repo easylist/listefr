@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: zQsV52vHH0+XcAw5h+WTMg
-! Version: 202212250146
+! Checksum: 7QGOgtQAWZ60KC+WuazzwQ
+! Version: 202212300053
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -10449,7 +10449,7 @@ _siteunder/$popup
 ||opposalactinal.cam^
 ||opshvjyqniuj.xyz^
 ||opskln.com^
-||opsktp.com^
+||opsktp.com^$~subdocument
 ||opticlygremio.com^
 ||optimuum.com^
 ||optionsdisk.com^
