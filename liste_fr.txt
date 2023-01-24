@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: HKUKDN5ya++wlWZaTiqUgg
-! Version: 202301240056
+! Checksum: suxwRZ7qhOmLCFIykC79eA
+! Version: 202301240202
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2635,8 +2635,10 @@ digitalocean.gif|
 /wp-content/plugins/mm-ad-widget/*
 /wp-content/plugins/mm-kelkoo/*
 /wp-content/plugins/mts-wp-in-post-ads/*
+/wp-content/plugins/progressads/*
 /wp-content/plugins/quick-adsense-reloaded/*
 /wp-content/plugins/the-moneytizer/*
+/wp-content/plugins/wp-adsense-guard/*
 /wp-content/plugins/wp-banners/*
 /wp-content/themes/*/ads/*
 /wp-content/uploads/wp-banners/*
@@ -18746,6 +18748,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ###carre-pub
 ###carre_pub
 ###carrepubHome
+###cb_t1_before_content_ad
 ###colgauche_pub
 ###comment-ad
 ###commentad
@@ -21794,6 +21797,7 @@ journaldugeek.com##.aawp-product
 a10.com##.abspos
 shopping.fibladi.com##.accueil-derniere-annonce > #carou.well
 driverscloud.com##.accueil_pubotherlan
+allotech-dz.com##.active.progressModal
 lagazettedescommunes.com##.actus-case-pub
 lagazettedescommunes.com##.actus-home-right-pub
 aerobuzz.fr,courrierinternational.com,directvelo.com,dna.fr,e-sante.fr,fabriquer-des-meubles.fr,femmeactuelle.fr,freepik.com,gamer-network.fr,gqmagazine.fr,journalmetro.com,ladepeche.fr,lematin.ch,lequotidiendumedecin.fr,lopinion.fr,marques.expert,msn.com,p-nintendo.com,photo.fr,rue89lyon.fr,smail.fr,soundlightup.com,tetu.com,tripadvisor.fr,truecaller.com,ubergizmo.com,zapiks.fr##.ad
