@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: bb+6NZ5Od1XWCIC08Ne3MQ
-! Version: 202301240234
+! Checksum: Ey+J6/oAc6ODSdpk0/kgKQ
+! Version: 202301272044
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15,6 +15,7 @@
 !----------------------- Filtres génériques ----------------------!
 !
 &ad_count=
+&ad_target_
 &ad_unit_
 &adInstanceId=
 &ADMode=
@@ -602,6 +603,7 @@
 /ad_placements/*
 /ad_player/*
 /ad_result.
+/ad_setting?
 /ad_smallflow/*
 /ad_smallflow_
 /ad_trafic.
@@ -3631,6 +3633,7 @@ _siteunder/$popup
 ||findgoogl.com^$third-party
 ||findyourpussy.net^$third-party
 ||firamayu.com^$third-party
+||fireworkadservices1.com^$third-party
 ||flinteractive.fr^$third-party
 ||flirt-x.co^$third-party
 ||flymob.com^$third-party
