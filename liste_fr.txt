@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Ey+J6/oAc6ODSdpk0/kgKQ
-! Version: 202301272044
+! Checksum: b2S/qDESzfBkoFp1XvMf+w
+! Version: 202301272107
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -19433,6 +19433,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.MIXADVERT_NET
 ##.Middle-Ad
 ##.MobAdsHeader
+##.PopSlot.inread
 ##.PostAd
 ##.PubAdAI
 ##.PubBox_300
@@ -21329,7 +21330,7 @@ betaseries.com###banner_top
 nticweb.com###banners
 aliceadsl.fr###bannershop
 cowcotland.com###bannertop
-france-pittoresque.com,matchendirect.mobi,radiofrance.fr###banniere
+france-pittoresque.com,matchendirect.mobi###banniere
 actu-environnement.com,emploi-environnement.com###banniereRight
 lafranceagricole.fr###banniereTop
 toutcash.com###banniere_top
@@ -21785,6 +21786,7 @@ bienpublic.com,lalsace.fr##.OffreHabitat
 essonneinfo.fr##.Partenaire
 jardiner-malin.fr##.Pblc
 jardiner-malin.fr##.Pblc2
+radiofrance.fr##.PopSlot
 frenchddl.com##.Usenet
 amazon.fr##.a-link-normal[href*="&adId="]
 lesechos.fr##.aamjrj-0.jzxvkd-1.cYYPF
@@ -22944,7 +22946,6 @@ bonjourmadame.fr##object[width="728"][height="90"]
 dealabs.com##section[data-track*="widget_pirates_carousel"]
 virusphoto.com##table[width="300"][height="280"]
 societe.com##table[width="303"] > tbody > tr > td[valign="top"][height="260"]
-radiofrance.fr##table[width="765"][height="100"]
 depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
 people-looks.com##td[width="340"][height="265"][align="center"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
