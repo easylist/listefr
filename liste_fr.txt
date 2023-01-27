@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: b2S/qDESzfBkoFp1XvMf+w
-! Version: 202301272107
+! Checksum: +34gfMVBUuNlY7rLyb9m8w
+! Version: 202301272218
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -3351,6 +3351,7 @@ _siteunder/$popup
 ||affidirect.com^$third-party
 ||affil4you.com^$third-party
 ||affilcenter.com^$third-party
+||affiliatable.io^$third-party
 ||affiliatehub.co.in^$third-party
 ||affiliaweb.eu^$third-party
 ||affiliaweb.fr^$third-party
@@ -15367,6 +15368,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||videoplaza.tv/proxy/vpsupport.js
 ||videorolls.row.aiv-cdn.net^*.mp4$domain=amazon.fr
 ||videos-pornographiques.com/promo/
+||viously.com/amp/szuG21KBA-F$domain=positivr.fr
 ||vip-cccam.biz/banners/
 ||vip-tv.org.ua/logos/banner
 ||viteundevis.com/ads/
@@ -20690,6 +20692,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.widget_advncdads
 ##.widget_box_pub
 ##.widget_om_ads
+##.widget_positivr-sponsored-posts
 ##.widget_publicite
 ##.widgetadv
 ##.widgetpub
@@ -22082,6 +22085,7 @@ orange.fr##.footer_autopromo
 legagnant.com##.footer_banners
 tukif.com##.footer_partner_container_wrapper
 realmadrid.com##.footer_sponsors
+positivr.fr##.front-page-featured_partnr-section-container
 jizzbunker.com##.ftr-banners
 mistergooddeal.com##.ftr_partners
 mistergooddeal.com##.ftr_pub
@@ -22529,6 +22533,7 @@ geste.fr##.view-partenaires
 bioalaune.com##.view-pub
 pornovore.fr,tukif.com##.vjs-toolbar
 elmoudjahid.com##.vpub
+positivr.fr##.vsly-player, .positivr-positivrtv-cta
 brain-magazine.fr##.vv-hide
 rtl.be##.w-content-details-ligatus
 vidoza.net##.wait_buffer
@@ -23042,6 +23047,7 @@ numerama.com#?#.post-grid:-abp-has(.sponsoring-icon)
 on-mag.fr#?#.uk-margin-remove-last-child:-abp-has(div:-abp-has(span:-abp-contains(PUBLICITÉ)))
 ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/Sponsored|Sponsorisées|Stores à la une/))
 phonandroid.com#?#li:-abp-has(a:-abp-contains(sponso))
+positivr.fr#?#article:-abp-has(.sponsored-notice)
 rakuten.com#?#[data-productid]:-abp-has(a[href^="/offer?action="])
 businessinsider.fr#?##related-post-:-abp-has(a[href*="/contenu-sponsorise"])
 santemagazine.fr#?#[data-identifier]:-abp-has(div:-abp-has(.sponsor-color))
