@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: w/YjqXZRilVE/gbIVRaBRg
-! Version: 202302042030
+! Checksum: UmDBNbaMuZuIBIxWKt0FaA
+! Version: 202302042035
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21100,6 +21100,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="https://tubexxxone.com/?"]
 ##a[href^="https://uploadgig.com/premium/index/"] > img
 ##a[href^="https://vimeonk.com/"]
+##a[href^="https://vin.mecalife.com/?idaff="] > img
 ##a[href^="https://windscribe.com/?affid="] > img
 ##a[href^="https://wiztube.xyz/"]
 ##a[href^="https://www.clickadu.com/?"]
