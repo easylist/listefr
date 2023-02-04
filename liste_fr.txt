@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +34gfMVBUuNlY7rLyb9m8w
-! Version: 202301272218
+! Checksum: k66W0MebfgRgDXCyAR721Q
+! Version: 202302042013
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21849,6 +21849,7 @@ centre-presse.fr,lamontagne.fr,larep.fr,le-pays.fr,leberry.fr,lechorepublicain.f
 voyageforum.com##.annoncer_sur
 herault-tribune.com##.annonces-legales
 01net.com##.announce_container_600
+leboncoin.fr##.apn-na
 opnminded.com##.apnmndd-single
 linternaute.com##.app_amazon_content
 journaldunet.com,linternaute.com##.app_aside--content_commerce
@@ -23025,7 +23026,7 @@ korben.info#?#div[class*="sous-article"]:-abp-has(a[href^="http://amzn.to/"])
 latribune.fr#?#.article-wrapper:-abp-has(.subheading:-abp-contains(Partenaire))
 latribune.fr#?#.homepage-section.supplement-section:-abp-has(span:-abp-contains(Partenaires))
 lebigdata.fr#?#.elementor-widget-wrap:-abp-has(a[href^="http://clickmetertracking.com/"])
-leboncoin.fr#?#div[class^="styles_ad"]:-abp-has([color]:-abp-contains(Sponsorisé))
+leboncoin.fr#?#a[data-test-id]:-abp-has([class]:-abp-contains(/À la une|Sponsorisé|Urgent/))
 lemonde.fr#?#.area--ops:-abp-has(p:-abp-contains(Contenus partenaires))
 lemonde.fr#?#.bd__bloc:-abp-has(.bd__header:-abp-contains(Barnebys.fr))
 leseclaireuses.com#?#.article.small:-abp-has(a[href*=".smartadserver.com"])
