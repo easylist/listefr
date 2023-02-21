@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 0D8oYQkxdV6d/PZpC5Hw2A
-! Version: 202302211426
+! Checksum: lDzTJlRNnxNYarRS8GcXig
+! Version: 202302211444
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18636,14 +18636,19 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ###annonce_pub_contenu
 ###annoncegoogle
 ###annoncepub
+###appnexus-placement-afterArticleTextAd
 ###appnexus-placement-articleTextAd1
 ###appnexus-placement-articleTextAd3
 ###appnexus-placement-articleTextAd4
 ###appnexus-placement-endOfPageAd
 ###appnexus-placement-leaderboard
+###appnexus-placement-newstickerAd
+###appnexus-placement-rectangle
+###appnexus-placement-sideBarAd
 ###appnexus-placement-teaser1
 ###appnexus-placement-teaser2
 ###appnexus-placement-topstoriesAd
+###appnexus-placement-welcomeAd
 ###article-pub-content
 ###article_add468x60
 ###article_add_300x600
@@ -22522,6 +22527,7 @@ batiactu.com##.type-publi
 juritravail.com##.ui-pnotify
 cresus.dz##.uk-slideshow[style="height: 718px;"]
 jeuxetcompagnie.fr##.umbg-overlay-link
+blick.ch##.unblurred
 fibladi.com##.urad
 excel-pratique.com##.vba_300
 souk.ma##.vbanner-wrap
@@ -22801,7 +22807,6 @@ hqq.to,hqq.tv##a[onclick^="openAuc"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 achat-bitcoins.com##a[rel="nofollow"] > img
 toonanime.cc,voirseries.io##a[rel^="nofollow"]
-blick.ch##a[rel^="sponsored"]
 igen.fr,macg.co,watchgeneration.fr##a[style*="width: 100%;"]
 mega-p2p.net##a[style*="width: 98%; height: 100%; inset:"]
 jeu.video##a[style="position: fixed;top: 110px;left: 0;bottom: 0;width: 50%;"]
