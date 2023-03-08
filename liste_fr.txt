@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: jXAkkXisbP+RWCwqSp3iZQ
-! Version: 202303080838
+! Checksum: 4W3f/z2YQm0ZwRWzgTCa5w
+! Version: 202303081029
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -1586,6 +1586,7 @@
 /mailorama120600.
 /main/ads_
 /makeBanner.js
+/marketing/*/pub/*
 /MarketingResourceImages/*
 /markt/banner/*
 /matomyads160x600.
@@ -15109,6 +15110,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||pronoturf.free.fr/pub/
 ||proxy.vidazoo.com^
 ||ptp-cash.net/banclickcpm
+||pub-algeriatenders.s3.eu-central-1.amazonaws.com^
 ||pub-bans.sexytools.be^
 ||pub.cuisineaz.com^
 ||pub.gdb-host.com^
@@ -16151,6 +16153,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||ajoutezvotresite.com/partenaires/
 ||alalettre.com/pics/pecho.png
 ||alapage.ma/images/carglasshome.gif
+||algeriatenders.com/pub/
 ||algerie-eco.com/wp-content/uploads/$media
 ||algerie-eco.com/wp-content/uploads/*-banner.
 ||algerie-eco.com/wp-content/uploads/*-banniere-
