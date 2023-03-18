@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: cfbsmpJzbC2y6pXmYW1xVg
-! Version: 202303180308
+! Checksum: jW4aPmwKRKRXzHA4Jp64oA
+! Version: 202303180323
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16486,6 +16486,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||compteur-gratuit.fr/images/bandeau_
 ||compteur-gratuit.fr/pub_
 ||comptoir-info.com/pb/
+||condor.dz/imgs/bannieres_accueil/294.jpg
 ||confidentielles.com/*/pubimppixel.php?
 ||confidentielles.com/bloquage_liens.js
 ||confidentielles.fr/dl/images/habillage/
@@ -22823,6 +22824,7 @@ rugby365.fr##a[href^="https://bit.ly/"] > img
 zone-telechargement1.space##a[href^="https://cutt.us/"]
 it-swarm-fr.com##a[href^="https://db.tt/"]
 hentaifr.net##a[href^="https://drmanga.net"]
+condor.dz##a[href^="https://e-faciliti.dz/"]
 frenchweb.fr##a[href^="https://experiences.microsoft.fr/"]
 lefigaro.fr##a[href^="https://go.babbel.com/"]
 yifyddl.co##a[href^="https://go.nordvpn.net/"]
