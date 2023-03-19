@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 1ZnVpZ9e1MmeBbfHbvgcwg
-! Version: 202303191039
+! Checksum: YS9GvM4DQdIAy8HSlLvwqw
+! Version: 202303191046
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21819,7 +21819,6 @@ verif.com###verif_pub_vignette
 europages.fr###vipBox
 systemed.fr###vitrineFabricants
 sibnet.ru###vjs-overlayclip-container-box
-gktorrents.org###vpnvpn
 vivastreet.com###vs-summary-300x250
 rtl.be###w-leaderboard
 marocannonces.com###wafasalf
@@ -22719,6 +22718,7 @@ centre-audition.com,easyzic.com,info-algerie.com##a[href*="/redirect."]
 booska-p.com##a[href*="/rf/"][style]
 20min.ch##a[href*="/sponsored/"]
 zone-mania.com##a[href*="/telecharger/"]
+cpasbien.si##a[href*="/vpn"]
 seneweb.com##a[href*="/xban/"]
 rtl.be##a[href*="://ad.doubleclick.net/"]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
@@ -22934,7 +22934,7 @@ dsih.fr##div[id^="pub"]
 universfreebox.com##div[id^="publicite-"]
 musculaction.com##div[id^="pubsousmenu"]
 pagesjaunes.fr##div[id^="push"]
-gktorrents.cc##div[id^="vpn"]
+cpasbien.ch,cpasbien.si,gktorrents.cc,gktorrents.org##div[id^="vpn"]
 gamalive.com##div[style$="width:300px;height:250px;"]
 ma-reduc.com##div[style*="/ads/"]
 impotsurlerevenu.org##div[style*="float:right;width:300px;"]
