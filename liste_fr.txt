@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: waJktODPSuD9ECjCHf4nbg
-! Version: 202303220454
+! Checksum: hd8NNYnCKGGWNGghmeBFFQ
+! Version: 202303222121
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16436,7 +16436,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||cci.fr/sites/default/files/src/pub/
 ||cciaf.org/uploads/tx_macinabanners/
 ||cdiscount.com/imagesok/*/partners/
-||cdiscount.com/include/css/op_skin/
+||cdiscount.com/include/*/op_skin/
 ||cdmail.fr//pro/Images/ban_
 ||cdmail.fr/bandeau/
 ||cdmail.fr/banniere/
@@ -21614,6 +21614,7 @@ journaldugeek.com###linkhabillage
 a40ans.com###liste-webcams
 millenium.gg###logo_droite
 centreimmo.com###logos-partenaires
+cdiscount.com###lpHeadlineMain.headlineWithoutLogo
 laposte.net###lpn_pub_main
 lamanchelibre.fr###marketing_top
 hellokids.com###mask
@@ -21661,7 +21662,6 @@ youtube.com###offer-module
 e-wok.tv,mp4upload.com###overlay
 carrefour.fr###overlayBase
 gameblog.fr###overlayFnac
-cdiscount.com###paFooterPubPartner
 lebonfap.com###page-sexcam--roomlist
 blogspot.com###pageflip
 les-reponses.fr###pann_bas
@@ -22231,7 +22231,6 @@ lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.jobs
 automobile-magazine.fr##.js-bloc-reezocar-event
 dealabs.com##.js-idealo-section
 trovit.fr##.js-loadPremium
-cdiscount.com##.jsNoPrdtBloc
 vivastreet.com##.kiwii-box-300x250
 booska-p.com##.l-top__header
 linguee.com,linguee.fr##.l_deepl_ad_container
@@ -22260,7 +22259,6 @@ algerie-eco.com##.local-home-300x600
 msn.com##.logo > a[target="_blank"] > img[width="300"]
 mavieencouleurs.fr##.logo-brand
 caradisiac.com##.logosPartenaires
-cdiscount.com##.lpTradeRegie
 ma-reduc.com##.m-coveringIab
 marmiton.org##.m_amazon_product_bloc
 cuisineactuelle.fr##.magazineBlock
@@ -22469,7 +22467,6 @@ lemonde.fr##.reco_cross_site_outbrain
 gonzai.com##.red-one-third
 lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.references
 igen.fr,macg.co,watchgeneration.fr##.refurb
-cdiscount.com##.regBloc
 jds.fr##.regie_20
 endirect24.com##.rek
 jeux-e.com##.rek_ban
@@ -22701,7 +22698,7 @@ streaming-series.me##a[href*=".html"]
 1001ebooks.com,1337x.biz,1337x.st,1337x.to,4kstreamz.pw,amairgil.cz,arciam.fr,blablastream.com,blablastream.rip,cinemay.vip,cocostream.rip,cpasfini.me,cpasmal.vin,cpasmieux.buzz,cpasmieux.land,dadyflix.co,disneyplus.vin,divxstreaming.pw,dpstreaming.to,espace-ehce.fr,extreme-down.art,extreme-down.plus,extreme-down.site,film01stream.com,film01stream.ws,filmcomplet.cam,filmgratuit.net,filmotv.uno,films-telecharger.eu,filmstreaming.la,filmstreaming01.org,filmstub.life,filmzenstream.cloud,filmzenstream.rip,filmzenstream.xyz,francoischarron.vin,free-telecharger.lol,fullstream.plus,gktorrents.org,guitare-luthier.fr,hd-stream.life,hdss.la,hdss.work,jmto.fr,lemondedekevin.fr,lemonlemag.fr,lesseriestreaming.vin,megastream.buzz,mistergeek.net,monstream.win,moulins-de-flandre.fr,nemours-medieval.fr,novaflix.io,novaflix.me,novaflix.one,ostreaming.biz,oxtorrent.ac,papadustream.co,papystreaming.black,papystreaming.fyi,papystreaming.stream,papystreaming.win,planet-streaming.ws,planetevideos.xyz,protect-stream.com,rent2016.fr,sakstream.win,sawstream.com,senscritique.uno,serie-streaming.watch,series-en-streaming.xyz,series-streamings.vin,sillonsdeculture.fr,sokrostream.tube,streaming-films-hd.com,streaming-films.life,streamingvf.cam,streamnews.vin,streamonsport.club,streamonsport.net,streampourvous.lol,superchataigne2017.fr,tfarjo.me,tirexo.fun,topsddns.net,topsitestreaming.top,torrent9-super.com,torrent9ph.fr,torrent9uno.fr,vfcomplet.vip,vfserie.win,vofilms.vin,voir-films-series.com,voirfilm.top,voirfilms.al,voirfilms.bz,voirfilms.live,voirfilms.win,voirfilmstreaming.tv,wawacity.red,wawacity.vin,weserie.info,wifilix.club,wo2viral.com,x1337x.eu,x1337x.se,x1337x.ws,yggtorrent.co,youwatch-serie.com,youwatch-series.com,zone-annuaire.xyz##a[href*=".php"]
 meilleurs-hebergeurs.com##a[href*="/-"] > img
 7-up.net,abidjan.net,algerie-eco.com,algerie-focus.com,algerie360.com,bigbike-magazine.com,bismirabbika.com,brain-magazine.fr,cnetfrance.fr,doukkalia.press.ma,filmstreaming.la,freeonline.org,grimper.com,igen.fr,internetparsatellite.net,kiteboarder-mag.com,ktotv.com,lebonfap.com,letagparfait.com,macg.co,montagnes-magazine.com,mubawab.ma,nintendo-master.com,niveales.com,ouedkniss.com,portail.free.fr,public.fr,radego.over-blog.com,skieur.com,skimagazine.fr,snowsurf.com,streaming-one.com,supmag.fr,tahiti-infos.com,telecharger-jeuxpc.fr,telesatellite.com,topito.com,trekmag.com,unleashed.fr,upload.ac,vakarm.net,watchgeneration.fr,widermag.com,windmag.com##a[href*="//bit.ly/"]
-cdiscount.com,clubic.com,lemonde.fr,sosiphone.com,supertoinette.com,tomtomax.fr##a[href*="//clk.tradedoubler.com/click?"]
+clubic.com,lemonde.fr,sosiphone.com,supertoinette.com,tomtomax.fr##a[href*="//clk.tradedoubler.com/click?"]
 abidjan.net,algerie-focus.com,algerie360.com,bc.vc,bismirabbika.com,direct-torrents.com,extratorrents.ch,gum-gum-streaming.com,igen.fr,instinct-voyageur.fr,israelmagazine.co.il,jeux.com,journaldumusulman.fr,lnc.nc,macg.co,orientation-chabab.com,proxylistpro.com,tendancehotellerie.fr,watchgeneration.fr##a[href*="//goo.gl/"]
 sobusygirls.fr,toplien.fr##a[href*="//tracking.publicidees.com/"]
 flashx.pw,flashx.tv,papystreaming-fr.com##a[href*="//trk."]
@@ -23047,6 +23044,9 @@ blogdumoderateur.com#?#.breve:-abp-has(.breve-info:-abp-contains(Sponsorisé))
 blogdumoderateur.com#?#.sticky:-abp-has(.sponsorise)
 businessinsider.fr#?#.post-nonfeatured:-abp-has(.title-studio:-abp-contains(Contenu Sponsorisé))
 ccm.net#?#.ccm_list_catch__item:-abp-contains(Sponsored)
+cdiscount.com#?#.fpColFloatAddisplayBloc:-abp-has(.c-sponsoredMentions)
+cdiscount.com#?#.o-block:-abp-has(.o-block__content:-abp-has(.c-sponsoredMentions))
+cdiscount.com#?#li:-abp-has(.prdtBlocInline:-abp-has(.c-sponsoredMentions))
 clubic.com#?#.HeroListingCard2 > .grid-x:-abp-has(.post-label--sponso)
 clubic.com#?#.posts:-abp-has(.post-label--sponso)
 cnetfrance.fr#?#.riverPost:-abp-has(.tag-desktop:-abp-contains(Publicité))
