@@ -21614,6 +21614,7 @@ journaldugeek.com###linkhabillage
 a40ans.com###liste-webcams
 millenium.gg###logo_droite
 centreimmo.com###logos-partenaires
+cdiscount.com###lpHeadlineMain
 laposte.net###lpn_pub_main
 lamanchelibre.fr###marketing_top
 hellokids.com###mask
@@ -23053,6 +23054,7 @@ cnetfrance.fr#?#.riverPost:-abp-has(.tag-desktop:-abp-contains(Publicité))
 commentcamarche.com,commentcamarche.net#?#.ccm_list_catch__item:-abp-contains(Annonces)
 discordbots.org,top.gg#?#.bot-card:-abp-has(.lib:-abp-contains(Promoted))
 discordbots.org,top.gg#?#.bot-card:-abp-has(.lib:-abp-has(img))
+cdiscount.com#?#li:-abp-has(.prdtBlocInline:-abp-has(.c-sponsoredMentions))
 dzgeek.com#?#li + .postbit:-abp-has(img[src$="/avatars/partenaire.png"])
 ebay.fr#?#.sresult:-abp-has(.promoted-lv)
 ebay.fr#?#[id^="nume_html_"]:-abp-has(.mfe-card-group:-abp-has(.mfe-card-group-title:-abp-contains(sponsorisées)))
