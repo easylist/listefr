@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: a+gfj/QkNZkLbhSIyYDL/Q
-! Version: 202304020311
+! Checksum: BnsuILiby6IBnBobRlXlsA
+! Version: 202304020327
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -17628,7 +17628,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||toutgagner.com/jeux-concours/specifique/img/
 ||toutmontpellier.fr/bannieres/
 ||toutpratique.com/imgs/pub/
-||toutvendre.fr/js/app.min.js?
+||toutvendre.fr/js/appl1cation.min.js?
 ||trackandnews.fr/wp-content/uploads/*/bg-
 ||tracking.easyzic.com^
 ||trafficzipper.com/rotatorShowBanners-
@@ -22552,6 +22552,7 @@ universfreebox.com##div[id^="publicite-"]
 musculaction.com##div[id^="pubsousmenu"]
 pagesjaunes.fr##div[id^="push"]
 cpasbien.ch,cpasbien.si,gktorrents.cc,gktorrents.org,oxtorrent.tk##div[id^="vpn"]
+toutvendre.fr##div[id^=bup]
 gamalive.com##div[style$="width:300px;height:250px;"]
 ma-reduc.com##div[style*="/ads/"]
 impotsurlerevenu.org##div[style*="float:right;width:300px;"]
