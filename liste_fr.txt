@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gPqTrZQkcVs6zI1FkLWfGw
-! Version: 202304042131
+! Checksum: dyxRb+RvusSPpLbH2vOi8Q
+! Version: 202304042136
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21159,7 +21159,6 @@ gmx.fr,lebonguide.com,online-image-editor.com##.add
 allostreaming-fr.com##.addInfos + a
 vinyculture.com##.addLink
 lejsl.com##.addPic
-newpharma.fr##.adh-banner
 actustar.com,antoineguilbert.fr,aujourdhui-en-france.fr,clubic.com,cnews.fr,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,hentaihaven.org,hostinger.fr,huffingtonpost.fr,jeune-independant.net,jooble.org,ldlc.com,leblogjeuvideo.be,leparisien.fr,lephpfacile.com,lequipe.fr,oujdacity.net,over-blog.com,p30day.com,pokestrat.com,raje.fr,replay.fr,shemsfm.net,sortiesdvd.com,stars-portraits.com,televiseurs.net,tonmanga.com,universalis.fr,viamichelin.be,viamichelin.ch,viamichelin.com,viamichelin.fr,webstar-auto.com,webstar-electro.com##.ads
 cvya.dz##.ads-vert
 hooper.fr,pooki.fr##.adsense
@@ -22182,6 +22181,7 @@ gamopat-forum.com##div#wrapper > div#right img[src*="/11/03/61/79/"]
 finansemble.fr##div.div_description_v2[style="max-width:750px;"]
 kozikaza.com##div[class$="item--ad"]
 net-iris.fr##div[class$="promo-container"]
+newpharma.fr##div[class*="adh-banner"]
 lefigaro.fr##div[class*="mad__partenaire__"]
 lefigaro.fr##div[class*="mad__pub__"]
 booska-p.com##div[class][style^="background"]
