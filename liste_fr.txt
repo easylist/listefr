@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: H6NeAyyxZfLL0GIGxsMpRQ
-! Version: 202304070300
+! Checksum: QK3fCJM3Ul2PjXyvSYdPng
+! Version: 202304070310
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -20506,6 +20506,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="https://network.nutaku.net/"]
 ##a[href^="https://onclickads.net/"]
 ##a[href^="https://online-xxxmovies.com/?"]
+##a[href^="https://partner.pcloud.com/r/"] > img
 ##a[href^="https://partner.zenmate.com/"]
 ##a[href^="https://plarium.com/"]
 ##a[href^="https://platform.jsecoin.com/?"]
@@ -21597,6 +21598,7 @@ automobile-magazine.fr##.js-bloc-reezocar-event
 dealabs.com##.js-idealo-section
 trovit.fr##.js-loadPremium
 vivastreet.com##.kiwii-box-300x250
+technplay.com##.kt-inside-inner-col
 booska-p.com##.l-top__header
 linguee.com,linguee.fr##.l_deepl_ad_container
 agenceecofin.com##.land-management-sgs
