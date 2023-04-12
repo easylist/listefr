@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: nm/QB4pmbe81PvzkbTjAHA
-! Version: 202304102207
+! Checksum: Gt0ovQGW6nWa2GGJRgJHCw
+! Version: 202304122137
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -5156,6 +5156,7 @@ _siteunder/$popup
 ||ahwhihes.xyz^
 ||ahwjtvxeyoqe.com^
 ||ahxmarhuhak.com^
+||aidfrkjwjhu.xyz^
 ||aidraiphejpb.com^
 ||aidrapani.com^
 ||aidroang.net^
@@ -6896,6 +6897,7 @@ _siteunder/$popup
 ||egyubvcjdurg.xyz^
 ||ehedflach.com^
 ||ehfoafnwgg.com^
+||ehmjkcjltbj.com^
 ||ehuadmtmnwrp.com^
 ||eiedlgcmeq.com^
 ||eievegorgr.com^
@@ -7671,6 +7673,7 @@ _siteunder/$popup
 ||gleenkettles.tech^
 ||gleeptoa.com^
 ||glentabasco.com^
+||glersakr.com^
 ||glidequite.com^
 ||gliderpured.com^
 ||glisskalkvis.live^
@@ -8160,6 +8163,7 @@ _siteunder/$popup
 ||hsjwnmdcjb.com^
 ||hsnkgljeclt.xyz^
 ||hsrvz.com^
+||hst2y.com^
 ||hsywucjxefyiya.com^
 ||htldkxfadykfcy.com^
 ||htobnkbgovpinet.xyz^
@@ -8549,6 +8553,7 @@ _siteunder/$popup
 ||iyymdpifwlnq.com^
 ||iz682noju02ye5.com^
 ||izationsuchas.xyz^
+||j0ss4np1c5.site^
 ||j8ff09dbyo.com^
 ||j9j6l.top^
 ||jacquieetmichel-contact.com^
@@ -13326,6 +13331,7 @@ _siteunder/$popup
 ||houseofpubs.com^$popup,third-party
 ||howtosimplified.com^$popup,third-party
 ||hpmstr.com^$popup,third-party
+||hst2y.com^$popup
 ||hydrax.net^$popup
 ||hyperpromote.com^$popup,third-party
 ||hypertrackeraff.com^$popup,third-party
@@ -16351,6 +16357,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||gamer-network.fr/wp-content/uploads/*/banniere.
 ||gamereactor.dk/prerolls/
 ||gamovideo.com/js/ulnt.js
+||gauleporno.xxx/assets/js/head.
+||gauleporno.xxx/nbjs/
 ||geek-malin.fr/pm-728.gif
 ||geekopolis.fr/images/habillage_$image
 ||generation-nt.com/img/habillages/
@@ -17132,6 +17140,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||pop3.porn.fr^
 ||porn.com^$xmlhttprequest
 ||porn.fr/v3/index.php?
+||pornburst.xxx/assets/js/head.
+||pornburst.xxx/nbjs/
 ||porndoe.com/movie/preroll/$media
 ||porndoepremium.com/video/fake.
 ||porno-gratuit.ws/boost/
@@ -20310,6 +20320,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href*=".infra.systems/"]
 ##a[href*=".irtyd.com/"]
 ##a[href*=".irtyf.com"]
+##a[href*=".j0ss4np1c5.site/"]
 ##a[href*=".jads.co/"]
 ##a[href*=".kfiopkln.com/"]
 ##a[href*=".klkus.xyz/"]
@@ -21855,6 +21866,7 @@ sport-equipements.fr##.product-photo
 lanutrition.fr##.product-shop
 deco.fr,euro-2016-france.net,matchendirect.fr##.promo
 challenges.fr,nouvelobs.com##.promo-bottom-art
+gauleporno.xxx,pornburst.xxx##.promo-gauleporno
 ouedkniss.com##.promo-loader
 matchendirect.fr##.promoApp
 orange.fr##.promo_sur_etage
@@ -22364,6 +22376,7 @@ finansemble.fr##div.div_description_v2[style="max-width:750px;"]
 kozikaza.com##div[class$="item--ad"]
 net-iris.fr##div[class$="promo-container"]
 newpharma.fr##div[class*="adh-banner"]
+gauleporno.xxx,pornburst.xxx##div[class*="banner"]
 lefigaro.fr##div[class*="mad__partenaire__"]
 lefigaro.fr##div[class*="mad__pub__"]
 booska-p.com##div[class][style^="background"]
@@ -22481,6 +22494,7 @@ guinee7.com##img[width="958"][height="142"]
 undernews.fr##img[width][height][alt$="VPN"]
 faireunlien.com##img[width^="728height=90"]
 bonjourmadame.fr##object[width="728"][height="90"]
+related-sites2--superporn
 dealabs.com##section[data-track*="widget_pirates_carousel"]
 virusphoto.com##table[width="300"][height="280"]
 societe.com##table[width="303"] > tbody > tr > td[valign="top"][height="260"]
