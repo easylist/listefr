@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: RFfETdk55mQ+DFKTDAyn6g
-! Version: 202304142358
+! Checksum: iVgbhSw1qMZJQugb0AyFHg
+! Version: 202304150723
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15242,7 +15242,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||tripadvisor.*/PriceFinderPopunder$popup
 ||trustzonevpn.info/r.php?$popup
 ||ts.obsceneoffers.com^$popup
-||ukit.com/hit?^$popup
+||ukit.com/hit?$popup
 ||unblockwebsites.pw/ext/$popup
 ||uptoporn.com/randomize/$popup
 ||verytoon.com^*&mtm_$popup
