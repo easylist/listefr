@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kqa3PFMJkks9JE3yWLwg0A
-! Version: 202304192221
+! Checksum: v/nhTV2HSJ+VK0H31BmJww
+! Version: 202304192228
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14479,6 +14479,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||static.twincdn.com^$script,third-party
 ||static.vadorcdn.com^*/banner/
 ||static.wii-info.fr^$subdocument,third-party
+||static.wui.fr/widget-uptogo/$third-party
 ||static2.dmcdn.net/mc/skin_assets/*/body$image
 ||statotierce.org/banniere.gif
 ||statstools.porn.fr^
@@ -19234,6 +19235,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.inplayer_banners
 ##.insertPadList
 ##.insert_pub_center
+##.inside-pub-container
 ##.inside_adv_section
 ##.istdg-sponsored
 ##.it-sponsor-site
@@ -21753,6 +21755,7 @@ juritravail.com##.ui-pnotify
 cresus.dz##.uk-slideshow[style="height: 718px;"]
 jeuxetcompagnie.fr##.umbg-overlay-link
 blick.ch##.unblurred
+autonews.fr##.uptogo
 fibladi.com##.urad
 excel-pratique.com##.vba_300
 souk.ma##.vbanner-wrap
