@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: lZTHJey1yPEFo25jaPB6EQ
-! Version: 202304192145
+! Checksum: kqa3PFMJkks9JE3yWLwg0A
+! Version: 202304192221
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2634,6 +2634,7 @@ digitalocean.gif|
 ! WordPress cms
 /wp-content/*/bloc-partenaire-
 /wp-content/banners/*$third-party
+/wp-content/plugins/affilizz/*
 /wp-content/plugins/baw-bon-plan/*
 /wp-content/plugins/bazooka-shopping/*
 /wp-content/plugins/easy-affiliate-links/*
@@ -15477,6 +15478,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||autojazair.com/wp-content/uploads/*-banniere-
 ||automobiles.nc/pubs/
 ||automobiles.nc/wam_pubs_
+||autoplus.fr/wp-content/plugins/voiture-occasion/
 ||autopromo.jeuxvideo.com^$third-party
 ||autopromostatic.jeuxvideo.com^$~image
 ||autoreflex.com^*/logo_map_partenaires.png
@@ -21072,6 +21074,7 @@ montelimar-news.fr##.annonce_bloc
 batiactu.com,montelimar-news.fr##.annonce_immo
 centre-presse.fr,lamontagne.fr,larep.fr,le-pays.fr,leberry.fr,lechorepublicain.fr,lejdc.fr,lepopulaire.fr,lyonne.fr##.annonce_prompteur
 voyageforum.com##.annoncer_sur
+autoplus.fr##.annonces-container
 herault-tribune.com##.annonces-legales
 01net.com##.announce_container_600
 leboncoin.fr##.apn-na
