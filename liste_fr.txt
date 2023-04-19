@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: v/nhTV2HSJ+VK0H31BmJww
-! Version: 202304192228
+! Checksum: YYGgA92t1vblha5Jro4nAQ
+! Version: 202304192238
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15477,6 +15477,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||autodeclics.com/images/partner/
 ||autodeclics.com/inc/iframe/300x90.php
 ||autojazair.com/wp-content/uploads/*-banniere-
+||autojournal.fr/wp-content/plugins/voiture-occasion/
+||autojournal.fr/wp-content/uploads/autojournal/2022/04/300x160.jpg
 ||automobiles.nc/pubs/
 ||automobiles.nc/wam_pubs_
 ||autoplus.fr/wp-content/plugins/voiture-occasion/
@@ -21077,6 +21079,7 @@ batiactu.com,montelimar-news.fr##.annonce_immo
 centre-presse.fr,lamontagne.fr,larep.fr,le-pays.fr,leberry.fr,lechorepublicain.fr,lejdc.fr,lepopulaire.fr,lyonne.fr##.annonce_prompteur
 voyageforum.com##.annoncer_sur
 autoplus.fr##.annonces-container
+autojournal.fr##.annonces-container-sidebar
 herault-tribune.com##.annonces-legales
 01net.com##.announce_container_600
 leboncoin.fr##.apn-na
