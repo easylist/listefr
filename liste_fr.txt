@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: jA16zGwYedZOfnrtdI/aIw
-! Version: 202304192319
+! Checksum: YEgAtxXJCEA0nZMki+1/oA
+! Version: 202304200719
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -20760,6 +20760,7 @@ virginradio.fr###la-promo-showskin-a
 lequipe.fr###la_boutique
 booska-p.com###ladivvid
 lafermeduweb.net###lastBar
+flaticon.com###layer_coupon
 webactus.net###leader-small
 marketing-professionnel.fr###leader-wrapper
 zdnet.fr###leaderBottom
@@ -22241,6 +22242,7 @@ ebay.fr#?#[id^="nume_html_"]:-abp-has(.mfe-card-group:-abp-has(.mfe-card-group-t
 ebay.fr#?#[id^="nume_html_"]:-abp-has(.mfe-header:-abp-has(.mfe-pull-left:-abp-contains(sponsorisés)))
 extreme-down.art,extreme-down.io,extreme-down.plus,extreme-down.site,free-telecharger.lol,gktorrents.org,t911.tv,torrent9.gg,torrent9.nl,torrent9.si,torrent911.tv#?#a:-abp-contains(/ANONYME|Anonyme|anonyme|PREMIUM|Premium|RAPIDE|Rapide|Usenet|VPN|Vpn/)
 femmeactuelle.fr#?#.specialCard:-abp-has(a[href^="https://cosmoeus.fr/"])
+flaticon.com#?#.soul-p:-abp-has(.footer-sponsor)
 forumconstruire.com#?#.post_simple:-abp-has(.postsimple_pseudo:-abp-contains(/Auto-promo|Autopromo/))
 forumpiscine.com#?#.post_classic:-abp-has(.post_classic_pseudo:-abp-has(span:-abp-contains(/Auto-promo|Autopromo/)))
 frandroid.com#?#.container_native_home-list:-abp-has(.aligot-icon)
