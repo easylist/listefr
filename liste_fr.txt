@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: RSeIdQT84WjG69TwYvymag
-! Version: 202304200754
+! Checksum: LdjVjsRgjjZiyUUtM33cRA
+! Version: 202304200758
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -22080,7 +22080,6 @@ annuaire-horaire.fr##div#aq
 pyrenees-team.com##div#link
 gamopat-forum.com##div#wrapper > div#right img[src*="/11/03/61/79/"]
 finansemble.fr##div.div_description_v2[style="max-width:750px;"]
-toutvendre.fr##div[class$="bup"]
 kozikaza.com##div[class$="item--ad"]
 net-iris.fr##div[class$="promo-container"]
 newpharma.fr##div[class*="adh-banner"]
@@ -22116,6 +22115,7 @@ voyageforum.com##div[id][style="width: 850px; height: 127px; overflow: hidden; v
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
 korben.info##div[id^="alderaan-"]
 forumconstruire.com##div[id^="bloc_discussion_"] > :first-child + div
+toutvendre.fr##div[id^="bup"]
 fan2.fr,mcm.fr,melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,meltyxtrem.fr,virginradio.fr##div[id^="container_A2_"]
 frandroid.com##div[id^="container_native_"]
 france2.fr,france3.fr,france4.fr,france5.fr,franceo.fr,francetv.fr,francetvinfo.fr,la1ere.fr,pluzz.fr##div[id^="eShowPub"]
