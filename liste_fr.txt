@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 011jzPmwmopxBwHkXntDBA
-! Version: 202304241801
+! Checksum: tHHfI/Jgkd4HrAA4cw8k/w
+! Version: 202304241925
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15320,6 +15320,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 !
 !----------------------- Sites spécifiques -----------------------!
 !
+||01net.com/app/uploads/2023/03/nordvpn-tesla-side.jpg
 ||01net.com/front_office/static/telechargement/box/annonce.html
 ||01porno.com/include/
 ||01streaming.net/wp-content/uploads/2020/08/mptoro-1.png
@@ -15371,7 +15372,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||ad.mailo.com^
 ||ad.mediabong.com^
 ||ad.oujdacity.net^
-||ad.referencement.01net.com^
 ||adblock.vidomo.xyz^
 ||adbull.*/js/prb.js
 ||adlipay.com/webroot/referrals/
@@ -19458,7 +19458,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.porn-videos-ads
 ##.position_pub
 ##.ppub300
-##.promo-extend-announce
 ##.promo-extend-pub
 ##.promo-google-300x600
 ##.promo-google-300x600_new
@@ -19962,6 +19961,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.widget.ad
 ##.widget_advncdads
 ##.widget_box_pub
+##.widget_keleops-adhalfpage
 ##.widget_om_ads
 ##.widget_positivr-sponsored-posts
 ##.widget_publicite
@@ -20665,7 +20665,6 @@ onlinetri.com###box_link_left
 onlinetri.com###box_link_right
 onlinetri.com###box_link_top
 algerie360.com###boxes
-01net.com###bp-partner-yes
 conseils-courseapied.com###cadre-vignette-carnet
 soonnight.com###cadre_partenaire
 ktotv.com###campain-bandeau
@@ -21027,7 +21026,6 @@ igen.fr,macg.co,watchgeneration.fr###unepromo
 verif.com###verif_pub_adsense_commander
 verif.com###verif_pub_pave
 verif.com###verif_pub_vignette
-01net.com###videoplaza
 europages.fr###vipBox
 systemed.fr###vitrineFabricants
 sibnet.ru###vjs-overlayclip-container-box
@@ -21124,7 +21122,6 @@ voyageforum.com##.annoncer_sur
 autoplus.fr##.annonces-container
 autojournal.fr##.annonces-container-sidebar
 herault-tribune.com##.annonces-legales
-01net.com##.announce_container_600
 leboncoin.fr##.apn-na
 opnminded.com##.apnmndd-single
 linternaute.com##.app_amazon_content
@@ -21536,7 +21533,10 @@ orange.fr##.o__pub
 eurosport.fr##.oas
 football.fr##.oas-middle
 nouvelobs.com##.obs-pub
+01net.com##.od-tlc
+01net.com##.od-wrapper
 livescore.in##.oddsPlacement
+01net.com##.offers-selector
 rakuten.com##.offersKelkoo
 galaxynote.fr##.offre
 aujourdhui-en-france.fr,leparisien.fr##.offresStage
@@ -22122,7 +22122,6 @@ booska-p.com##div[class][style^="background"]
 frandroid.com##div[class^="container_native_"]
 maison-et-domotique.com##div[class^="deals"]
 gamekult.com##div[class^="gk__ads"]
-01net.com##div[class^="od-"]
 algerie360.com##div[class^="pub300"]
 algerie360.com##div[class^="pub600"]
 algerie360.com##div[class^="pub728"]
