@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: YZNNr0cZ78B3sl3EeElaVw
-! Version: 202304270357
+! Checksum: Fr2BGG5vyxFwhEko/83j1A
+! Version: 202304270402
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -22082,7 +22082,7 @@ degrouptest.com##a[onclick*="/resultspage/"]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent'"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 achat-bitcoins.com##a[rel="nofollow"] > img
-lejournaldelamaison.fr##a[rel="sponsored"]
+lejournaldelamaison.fr,mariefrance.fr##a[rel="sponsored"]
 igen.fr,macg.co,watchgeneration.fr##a[style*="width: 100%;"]
 mega-p2p.net##a[style*="width: 98%; height: 100%; inset:"]
 jeu.video##a[style="position: fixed;top: 110px;left: 0;bottom: 0;width: 50%;"]
