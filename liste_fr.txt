@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 4i0KirfIKz2aD3dOyyYUZg
-! Version: 202304270414
+! Checksum: h1KwY6GPD7SUJE2ZYH1iKw
+! Version: 202304270426
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -22248,6 +22248,8 @@ societe.com##table[width="303"] > tbody > tr > td[valign="top"][height="260"]
 depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
 people-looks.com##td[width="340"][height="265"][align="center"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
+! Éléments (utilisé avec $generichide)
+web.archive.org##.placeholder-pub_dfp
 ! forumactif.com
 1fr1.net,3oloum.com,7olm.org,ahladalil.com,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,darkbb.com,easyforumpro.com,fcmulhousefans.com,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumalgerie.net,forumpro.fr,forums-actifs.com,galoppourlavie.org,gid3an.com,jordanforum.net,lebonforum.com,manager-fifa.com,orizzontescuolaforum.net,own0.com,passionmilitaria.com,sorcieremonique.com,superforum.fr,syriaforums.net,walkingdead-rpg.com,yoo7.com,ze-43eme.com##.croco_wrapper, [onclick^="_"], [onclick^="var"], [style*="position:relative; height: 90px;"]
 ! xooit.com
