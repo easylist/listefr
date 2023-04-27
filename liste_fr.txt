@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: IuRnJRuU3p45FTH6J6IClQ
-! Version: 202304261336
+! Checksum: TuiS4lyzAiWkyV47tV2W5Q
+! Version: 202304270342
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2634,7 +2634,6 @@ digitalocean.gif|
 ! WordPress cms
 /wp-content/*/bloc-partenaire-
 /wp-content/banners/*$third-party
-/wp-content/plugins/affilizz/*
 /wp-content/plugins/baw-bon-plan/*
 /wp-content/plugins/bazooka-shopping/*
 /wp-content/plugins/easy-affiliate-links/*
@@ -19837,6 +19836,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.side_slide_pub
 ##.sidebar-ads160
 ##.sidebar-adv
+##.sidebar-header-pub
 ##.sidebar-middle-ad
 ##.sidebar-wrapper-advert
 ##.sidebarAdHome
@@ -20832,8 +20832,8 @@ sfr.fr###meeticWrapper
 goldenmoustache.com###mega-hab
 cartimini.com###megaban-footer
 channelbiz.fr,elwatan.com,franceantilles.fr,franceguyane.fr,glenatbd.com,itespresso.fr,lerevenu.com,ventsdouest.com###megabanner
-lejournaldelamaison.fr,mariefrance.fr###megabanner_bottom
-lejournaldelamaison.fr,mariefrance.fr###megabanner_top
+autoplus.fr,lejournaldelamaison.fr,mariefrance.fr###megabanner_bottom
+autoplus.fr,lejournaldelamaison.fr,mariefrance.fr###megabanner_top
 jeuxvideo-live.com###meilleursPrix
 jeuxvideo.com###menu_topventes
 captchme.com###menubanner
@@ -21121,7 +21121,7 @@ batiactu.com,montelimar-news.fr##.annonce_immo
 centre-presse.fr,lamontagne.fr,larep.fr,le-pays.fr,leberry.fr,lechorepublicain.fr,lejdc.fr,lepopulaire.fr,lyonne.fr##.annonce_prompteur
 voyageforum.com##.annoncer_sur
 autoplus.fr##.annonces-container
-autojournal.fr##.annonces-container-sidebar
+autojournal.fr,autoplus.fr##.annonces-container-sidebar
 herault-tribune.com##.annonces-legales
 leboncoin.fr##.apn-na
 opnminded.com##.apnmndd-single
