@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: h1KwY6GPD7SUJE2ZYH1iKw
-! Version: 202304270426
+! Checksum: /kZGzEXXp2zYSSepocidMw
+! Version: 202304281538
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2452,6 +2452,8 @@
 ?varpub=
 ?voluumdata=
 ?w=468&h=60
+?zoneid=*&ab=$script
+?zoneid=*&cid=$script
 ?zoneid=*&ext=$third-party
 ?zoneid=*&placement=
 ?zoneid=*&r=
@@ -2902,6 +2904,7 @@ digitalocean.gif|
 /fr/adcr/*$popup
 /ga-audiences?*&pid=$popup,third-party
 /gopartner.php?pid=$popup
+/goto.*&adurl=$popup
 /gtm.js?*&pid=$popup,third-party
 /iframePopUpLoader.$popup
 /imp/*/?scontext_r=$popup
@@ -6087,6 +6090,7 @@ _siteunder/$popup
 ||commkkpfgv.com^
 ||compactdiverse.com^
 ||companygenial.com^
+||compassionatecheek.com^
 ||conceptarithmetic.com^
 ||concerninggills.com^
 ||concerningnineteen.com^
@@ -9174,6 +9178,7 @@ _siteunder/$popup
 ||liquidgaveler.com^
 ||liticismov.xyz^
 ||litrefloored.com^
+||littlegirlies.org^
 ||litznards.com^
 ||live18ans.com^
 ||live2delivery.com^
@@ -11369,6 +11374,7 @@ _siteunder/$popup
 ||shibaglybu.com^
 ||shifoagn.uk^
 ||shink.link^
+||shiowbafrrra.com^
 ||shipyards.xyz^
 ||shirtbladder.com^
 ||shistwtdy.com^
@@ -12334,6 +12340,7 @@ _siteunder/$popup
 ||windychinese.com^
 ||wingcasquet.com^
 ||winnedfifth.com^
+||wissenwhen.live^
 ||wlpcjltvaqxm.com^
 ||wnvqixbifi.com^
 ||wouvista.com^
@@ -13545,6 +13552,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||ads-tracking.beop.io^
 ||ads-tracking.beopinion.com^
 ||ads.itv.com^
+||ads.vnhell.com^
 ||adultempire.com/bn/
 ||aduwoc.footeo.com^
 ||adv.tf1.fr^
@@ -13739,6 +13747,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||cdn.mgig.fr^*_1800x900.
 ||cdn.nkstatic.com/images/*-skins.
 ||cdn.playwire.com^$domain=filehippo.com
+||cdn.vndown.top/zo3x.
 ||cdn.x1cdn.com^*/banner/
 ||cdn1.lp.saboom.com^
 ||cdn13.com^*/banners/
@@ -20058,6 +20067,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href*=".hop.clickbank.net"] > img
 ##a[href*=".hrtye.com/"]
 ##a[href*=".hsrvz.com"]
+##a[href*=".hue2a.com/"]
 ##a[href*=".igraal.com/#parrain="] > img
 ##a[href*=".igraal.com/?parrain="] > img
 ##a[href*=".igraal.com/inscription?parrain="] > img
