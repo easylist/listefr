@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: DTlHHlussOLbel35fK2jvA
-! Version: 202304302149
+! Checksum: 8ZbJSxI+DiJTXwcip7avNQ
+! Version: 202304302221
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -22303,6 +22303,7 @@ sookbtp.com#?#.owl-item:-abp-has(figure:-abp-has(img[src^="publicites/"]))
 starbike.com#?#.post.has-profile:-abp-has(.postbody:-abp-has(.adsbygoogle))
 temp-mail.org#?#li:-abp-has(.inboxSenderEmail:-abp-contains(AD | Temp Number))
 thesiteoueb.net#?#.panel:-abp-has(.panel-heading:-abp-has(.panel-title:-abp-contains(Publicité)))
+google.fr#?##topstuff:-abp-has(h2:-abp-contains(Publicité Google))
 tourmag.com#?#.wm-module:-abp-contains(Contenu sponsorisé)
 tourmag.com#?#.wm-module:-abp-has(a[href^="https://www.hoteletlodgepro.biz/"])
 tsa-algerie.com#?#.jwpv-desktop:-abp-contains(Publicité)
