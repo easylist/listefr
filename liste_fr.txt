@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: K8RbG8eZ6rHPdVgyPONn+Q
-! Version: 202305021955
+! Checksum: P7PPoWa4A0YIsXJkV2buGw
+! Version: 202305022032
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21800,7 +21800,7 @@ sookbtp.com#?#.owl-item:-abp-has(figure:-abp-has(img[src^="publicites/"]))
 starbike.com#?#.post.has-profile:-abp-has(.postbody:-abp-has(.adsbygoogle))
 temp-mail.org#?#li:-abp-has(.inboxSenderEmail:-abp-contains(AD | Temp Number))
 thesiteoueb.net#?#.panel:-abp-has(.panel-heading:-abp-has(.panel-title:-abp-contains(Publicité)))
-google.fr#?##topstuff:-abp-has(h2:-abp-contains(Publicité Google))
+google.ae,google.be,google.bh,google.cd,google.cf,google.cg,google.ch,google.cm,google.com,google.dz,google.eg,google.et,google.fr,google.gh,google.gp,google.gy,google.ht,google.iq,google.jo,google.ke,google.kw,google.lb,google.ly,google.ma,google.ml,google.mw,google.na,google.ne,google.ng,google.om,google.ps,google.qa,google.rw,google.sa,google.sn,google.td,google.tg,google.tn,google.tt,google.tz,google.ug,google.zm,google.zw#?##topstuff:-abp-has(.SRfaKe)
 tourmag.com#?#.wm-module:-abp-contains(Contenu sponsorisé)
 tourmag.com#?#.wm-module:-abp-has(a[href^="https://www.hoteletlodgepro.biz/"])
 tsa-algerie.com#?#.jwpv-desktop:-abp-contains(Publicité)
