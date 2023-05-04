@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: LrE3wJnIBMthxYtMipRjgA
-! Version: 202305032141
+! Checksum: EHAAyXV8QV1NuhSbk55uqQ
+! Version: 202305040051
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -20684,6 +20684,7 @@ francetvsport.fr##.block-ftv-loading-of-mad
 d8.tv##.block-mozaic-pub
 latribune.fr##.block-partner
 lemonde.fr##.block-partners
+nrj.fr##.blockDisplay
 20minutes.fr##.blockLinkSkin-communication
 laposte.net##.blockShopping
 maison-travaux.fr##.blockUI
@@ -21587,6 +21588,7 @@ gauleporno.xxx,pornburst.xxx##div[class*="banner"]
 lefigaro.fr##div[class*="mad__partenaire__"]
 lefigaro.fr##div[class*="mad__pub__"]
 booska-p.com##div[class][style^="background"]
+nrj.fr##div[class^="StyledAds"]
 frandroid.com##div[class^="container_native_"]
 maison-et-domotique.com##div[class^="deals"]
 gamekult.com##div[class^="gk__ads"]
@@ -21851,7 +21853,6 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 @@||advertising.wellpack.fr/sites_annexes/optout/$~third-party
 @@||adworks.fr^$~third-party
 @@||affiliation.leboncontact.fr/template/Affiliation/$~third-party
-@@||aka-cdn-ns.adtech.de/dt/common/DAC.js$script,domain=nrj.fr
 @@||aluson-eclairage.fr^*-120x60-$image,~third-party
 @@||ami2.com/resources/img/mysite/publicites/$image,~third-party
 @@||api.dedipass.com^*/pay$script,xmlhttprequest,domain=uptobox.com|uptostream.com
@@ -21862,7 +21863,6 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 @@||bannieres.telethon.fr/compteurs/$image,subdocument
 @@||bourgogne-publicite.com/jeuxconcours/_bienpublic/$image,domain=bienpublic.com
 @@||bs.serving-sys.com/Serving/adServer.bs?$popup,domain=guide-epargne.be
-@@||cdn.adswizz.com/adswizz/js/SynchroClient2.js$script,domain=nrj.fr
 @@||cdn.ay.gy/static/image/$image,~third-party
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
 @@||clic.reussissonsensemble.fr/click*.asp$domain=forfait-mobile-moins-cher.com
