@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 2I/qf99ia5fAAAHfY9/zdg
-! Version: 202305161737
+! Checksum: 6e628aG+/+VU1Do7slYIvA
+! Version: 202305161814
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21599,6 +21599,7 @@ newpharma.fr##div[class*="adh-banner"]
 gauleporno.xxx,pornburst.xxx##div[class*="banner"]
 lefigaro.fr##div[class*="mad__partenaire__"]
 lefigaro.fr##div[class*="mad__pub__"]
+rakuten.com##div[class*="rads_placement"]
 booska-p.com##div[class][style^="background"]
 nrj.fr##div[class^="StyledAds"]
 frandroid.com##div[class^="container_native_"]
