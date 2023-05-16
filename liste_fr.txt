@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kqAGJuRGXIFKqgWS7TmXbA
-! Version: 202305040101
+! Checksum: 2I/qf99ia5fAAAHfY9/zdg
+! Version: 202305161737
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -20916,6 +20916,7 @@ automobile-magazine.fr##.js-bloc-reezocar-event
 dealabs.com##.js-idealo-section
 trovit.fr##.js-loadPremium
 vivastreet.com##.kiwii-box-300x250
+darty.com##.kmino-ad
 technplay.com##.kt-inside-inner-col
 booska-p.com##.l-top__header
 linguee.com,linguee.fr##.l_deepl_ad_container
@@ -21169,6 +21170,8 @@ goldenboys.fr##.right-minipub
 tube8.fr##.rightColBanner
 mappy.com##.rightHabillage
 joursferies.fr##.rightnav[style="background-color: #efefef;"]
+darty.com##.rm-format
+darty.com##.rm-product
 abonnes.lemonde.fr##.rubrique_marque_fleuve
 vista-xp.fr##.rules + script + .topic-actions + .clear + .post
 lefigaro.fr##.s24-pub
