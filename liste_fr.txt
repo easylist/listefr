@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: cUXeH8zj0K0DiEFwJ9Q+4A
-! Version: 202305222154
+! Checksum: Bjdh7+V7ffN3fhwC7TGzEw
+! Version: 202305222252
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -20694,6 +20694,7 @@ buzzly.fr##.article_pubtop
 causeur.fr##.asa_product_box
 msn.com##.aside-ad
 nrj-play.fr##.aside-pub
+telerama.fr##.auto-promo > a[target="_blank"]
 lindependant.fr##.auto300X250
 reezocar.com##.autopromo-container
 buzzly.fr##.ayl-ad-article
