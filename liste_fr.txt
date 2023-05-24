@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Bjdh7+V7ffN3fhwC7TGzEw
-! Version: 202305222252
+! Checksum: TcKFhDusDCKeAp/QCq72Xg
+! Version: 202305240810
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15352,8 +15352,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||doc.btc.com/*/poster/production/explorer-banner.json
 ||doc.btc.com/*/poster/production/main-space.json
 ||doc.btc.com/poster/banner/
-||doctissimo.fr/event-block/
-||doctissimo.fr/product/
 ||docvelo.com^*/kamvban.gif
 ||dojinshi.biz/wp-content/uploads/*.gif
 ||domimmo.com/assets/img/app/di/financement/
@@ -20877,6 +20875,7 @@ equirodi.be##.div_pt_pub
 linguee.com,linguee.fr##.dlTopBanner
 dailymotion.com##.dm_widget_advert_iabrighttitle
 mavanimes.co##.dmp_Player
+doctissimo.fr##.doc-sticky-col-container
 oujdacity.net,passion-net.fr##.ebuzzing_box
 echoroukonline.com##.ech-live__ads
 gamekult.com##.ed__news-h--native
@@ -21423,6 +21422,7 @@ narkive.com,tourte.org##[class^="ads_"]
 webstar-electro.com##[class^="banner"]
 jeu.info##[class^="banniere-"]
 sofoot.com##[class^="bloc-partenaires"]
+doctissimo.fr##[class^="doc-ad-"]
 forumconstruire.com##[class^="habillage"]
 igen.fr,macg.co,orange.fr,watchgeneration.fr##[class^="lig_"]
 voyageforum.com##[class^="offers"]
