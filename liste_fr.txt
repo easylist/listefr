@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 4q7D7xHuQbVokfr0APqPyA
-! Version: 202305240814
+! Checksum: eNtdmlqp0GR1eihkDfS9zg
+! Version: 202305272220
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12435,7 +12435,6 @@ _siteunder/$popup
 ||allyourmobi.com^$popup,third-party
 ||alosafada.com^$popup,third-party
 ||altadefinizone.click^$popup,third-party
-||altarisoluzione.online^$popup,third-party
 ||am-media.fr^$popup,third-party
 ||amazing-dates.com^$popup
 ||amclicks.com^$popup,third-party
@@ -12658,7 +12657,6 @@ _siteunder/$popup
 ||gsurl.me^$popup
 ||havenwrite.com^$popup,third-party
 ||hdlet.com^$popup
-||hertchilchart.ga^$popup
 ||hexaweb.net^$popup,third-party
 ||hfkfh.com^$popup,third-party
 ||hhsp2.com^$popup
@@ -13140,7 +13138,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||ad.graciamediaweb.com^
 ||ad.munion.in^
 ||ad.net-c.com^
-||ad.prismamediadigital.com^
 ||ad.publicidees.com^
 ||ad.vacanceo.com^
 ||ad.zanox.com^
@@ -13192,7 +13189,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||allstatics.com/pub/
 ||alphascore.com/wp-content/uploads/$third-party
 ||altadefinizione.blue^
-||altarisoluzione.online^
 ||amateursvideos.net/banners/
 ||amazon.fr/exec/*/external-search?$subdocument,third-party
 ||amazonaws.com/accio-lib/accip_script.js
@@ -18775,7 +18771,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.esv-pub-300-250
 ##.etiq-ads
 ##.expressAdBanner
-##.ezoic-adpicker-ad
 ##.facebook-twitter-ads-728-90
 ##.fakeAd
 ##.fake_embed_ad_close
@@ -19272,20 +19267,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.pub_video
 ##.pub_vignette
 ##.pub_visuel
-##.pub_voyage_1
-##.pub_voyage_2
-##.pub_voyage_award
-##.pub_voyage_bg
-##.pub_voyage_button
-##.pub_voyage_city
-##.pub_voyage_image
-##.pub_voyage_image2
-##.pub_voyage_image3
-##.pub_voyage_image4
-##.pub_voyage_image5
-##.pub_voyage_logo_hotel
-##.pub_voyage_text
-##.pub_voyage_visiter
 ##.pubaccueildroite1
 ##.pubaccueilgauche1
 ##.pubads
@@ -19818,10 +19799,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="http://3dxchat.com/?"]
 ##a[href^="http://4kmoviesclub.co/"]
 ##a[href^="http://acces.direction-x.com/a.php?"] > img
-##a[href^="http://ad.prismamediadigital.com/"]
 ##a[href^="http://adminlady.info/"]
 ##a[href^="http://adprovider."]
-##a[href^="http://ads.affiliation-france.com/"]
 ##a[href^="http://ads.reflexcash.com/"]
 ##a[href^="http://ads.wui.fr/"]
 ##a[href^="http://ads2.contentabc.com/"]
@@ -19835,13 +19814,10 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="http://ali.pub/"] > img
 ##a[href^="http://ali.ski/"] > img
 ##a[href^="http://altadefinizone.click/"]
-##a[href^="http://altarisoluzione.online/"]
 ##a[href^="http://api.adlure.net/"]
 ##a[href^="http://bestentrypoint.com/"]
 ##a[href^="http://bruceleadx2.com/"]
 ##a[href^="http://centredecontrole.biz/ads/"]
-##a[href^="http://choualbox.xyz/"]
-##a[href^="http://click.union.ucweb.com/"]
 ##a[href^="http://clicks.toteme.com/"]
 ##a[href^="http://downloadity.net/"]
 ##a[href^="http://fave.co/"]
@@ -19852,8 +19828,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="http://gamingadult.biz/"]
 ##a[href^="http://gamingaffiliation.com/"]
 ##a[href^="http://givemeclip.com/"]
-##a[href^="http://hertchilchart.ga/"]
-##a[href^="http://hits.epochstats.com/"]
 ##a[href^="http://js.bulkhentai.com/"]
 ##a[href^="http://lifeselector.com/game/listGames?"]
 ##a[href^="http://m.mobilerevenu.com/idw/"]
@@ -19878,7 +19852,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="http://topadbid.com/"]
 ##a[href^="http://witalfieldt.com/"]
 ##a[href^="http://wlx-secure.com/"]
-##a[href^="http://www.affiliation-france.com/"]
 ##a[href^="http://www.allopass.com/"] > img
 ##a[href^="http://www.apk-download-free.com/"]
 ##a[href^="http://www.ba-click.com/?ref="]
@@ -19945,7 +19918,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="https://plarium.com/"]
 ##a[href^="https://platform.jsecoin.com/?"]
 ##a[href^="https://publishers.propellerads.com/#/"]
-##a[href^="https://r.ligatus.com/"]
 ##a[href^="https://rdsb2.club/"]
 ##a[href^="https://recommendedforyou.xyz/"]
 ##a[href^="https://secure.securitetotale.com/"]
