@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: WLtW48Mj8GbeVrLqlyYNXA
-! Version: 202305290000
+! Checksum: 5NhsRdzr4S4KMurRSUsJKA
+! Version: 202305290030
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15610,8 +15610,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||forumconstruire.com^*/a.php
 ||forumdz.com/pub/
 ||forzamotorsport.fr/img/pub/
-||fourchette-et-bikini.fr/sites/default/files/*-315x250$image
-||fourchette-et-bikini.fr/sites/default/files/315x250$image
 ||framapad.org/static/img/bearstech_hosted.png
 ||framboise314.fr/wp-content/uploads/*/banner-
 ||framboise314.fr/wp-content/uploads/*/pub_
@@ -20658,7 +20656,7 @@ gmx.fr,lebonguide.com,online-image-editor.com##.add
 allostreaming-fr.com##.addInfos + a
 vinyculture.com##.addLink
 lejsl.com##.addPic
-actustar.com,antoineguilbert.fr,aujourdhui-en-france.fr,clubic.com,cnews.fr,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,hentaihaven.org,hostinger.fr,huffingtonpost.fr,jeune-independant.net,jooble.org,ldlc.com,leblogjeuvideo.be,leparisien.fr,lephpfacile.com,lequipe.fr,oujdacity.net,over-blog.com,p30day.com,pokestrat.com,raje.fr,replay.fr,shemsfm.net,sortiesdvd.com,stars-portraits.com,televiseurs.net,tonmanga.com,universalis.fr,viamichelin.be,viamichelin.ch,viamichelin.com,viamichelin.fr,webstar-auto.com,webstar-electro.com##.ads
+actustar.com,antoineguilbert.fr,aujourdhui-en-france.fr,clubic.com,cnews.fr,cvya.dz,fairytailmx.com,floriankarmen.com,footespagnol.fr,fourchette-et-bikini.fr,hentaihaven.org,hostinger.fr,huffingtonpost.fr,jeune-independant.net,jooble.org,ldlc.com,leblogjeuvideo.be,leparisien.fr,lephpfacile.com,lequipe.fr,oujdacity.net,over-blog.com,p30day.com,pokestrat.com,raje.fr,replay.fr,shemsfm.net,sortiesdvd.com,stars-portraits.com,televiseurs.net,tonmanga.com,universalis.fr,viamichelin.be,viamichelin.ch,viamichelin.com,viamichelin.fr,webstar-auto.com,webstar-electro.com##.ads
 cvya.dz##.ads-vert
 hooper.fr,pooki.fr##.adsense
 ipadsl.net##.adsl
@@ -20851,6 +20849,7 @@ yahoo.com##.classickick
 test-mobile.fr##.clickleft
 test-mobile.fr##.clickright
 test-mobile.fr##.clicktop
+fourchette-et-bikini.fr##.cluj
 bienpublic.com,dna.fr,estrepublicain.fr,lalsace.fr,ledauphine.com,lejsl.com,leprogres.fr,republicain-lorrain.fr,vosgesmatin.fr##.colStickyWrapperP2
 seloger.com##.col_right__service
 lequipe.fr##.colblock__item--promo
@@ -21163,7 +21162,6 @@ phpboost.com##.partner-picture
 caci.dz,lavenir.net,nintendo-master.com,ogaming.tv,savefrom.net##.partners
 psg.fr##.partners-v2
 aujourdhui-en-france.fr,leparisien.fr##.partners__lpbox-container
-fourchette-et-bikini.fr##.pavePub
 grands-reportages.com,montagnes-magazine.com##.pavepub
 footballclubdemarseille.fr##.pb-sidebar-article
 envertetcontretous.fr##.pb300
@@ -21473,7 +21471,6 @@ elmihwar.com##a > [width="720"][height="98"]
 basket-infos.com##a > img[alt^="Pub"]
 medialot.fr##a > img[height="250"]
 launedalgerie.com##a > img[src^="/images/stories/U"]
-fourchette-et-bikini.fr##a > img[style="width: 660px; height: 190px;"]
 israelmagazine.co.il##a > img[width="238"]
 ballad-et-vous.fr##a > img[width^="30"][height="250"]
 ballad-et-vous.fr##a > img[width^="300"][height="500"]
@@ -21540,7 +21537,6 @@ voyageforum.com##a[href*="_ads;"]
 welovebuzz.com##a[href*="_adw&"]
 jds.fr##a[href*="_clic.php?"]
 metaboli.fr##a[href*="gametap.com/convergence/?"]
-fourchette-et-bikini.fr##a[href*="go2cloud.org/aff_c?"]
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 jemangejemincis.fr##a[href*="leadpages.co/"]
 nouvelobs.com##a[href*="leguide.com/"]
