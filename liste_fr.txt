@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 5NhsRdzr4S4KMurRSUsJKA
-! Version: 202305290030
+! Checksum: QgYjGAg/QkKjEAhsCge3Sg
+! Version: 202305290120
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -956,6 +956,7 @@
 /advertisement?
 /advertiserv/*
 /advertiserv2/*
+/advertising-block.
 /advertising-core/*
 /AdvertisingBanners/*
 /advertisingView?
@@ -15236,6 +15237,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||capital.fr^*/boutons-pub-header/
 ||careerbuilder.fr/lts/jobstreamintl.aspx?
 ||carrefoune.com^$script
+||carrefour.fr/js-ssr/footer-partner-banner.
 ||carrosseriemagazine.com/image/carrosserie/pub/
 ||casavie.com/images/index_logo.gif
 ||casavie.com/pubs/
@@ -20434,7 +20436,6 @@ orange.fr###oan_ora_2_300x250_hp.prospects
 net-iris.fr###offer
 youtube.com###offer-module
 e-wok.tv,mp4upload.com###overlay
-carrefour.fr###overlayBase
 gameblog.fr###overlayFnac
 lebonfap.com###page-sexcam--roomlist
 blogspot.com###pageflip
@@ -20930,6 +20931,7 @@ orientation-chabab.com##.footer
 lavenir.net##.footer--partners
 jeunesfooteux.com##.footer-actuly
 pixelads.fr##.footer-partner
+carrefour.fr##.footer-partner-banner
 bx1.be,lephoceen.fr##.footer-partners
 tube8.fr##.footerBanner
 gameblog.fr##.footer__partners
