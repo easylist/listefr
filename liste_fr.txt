@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: SPUiCOrrrG+i92jwwyloSw
-! Version: 202305290431
+! Checksum: vZT4cJPET32FnhMWG3uI5g
+! Version: 202305290432
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21020,6 +21020,7 @@ lacapitale.be,lameuse.be,lanouvellegazette.be,laprovince.be,nordeclair.be##.jobs
 automobile-magazine.fr##.js-bloc-reezocar-event
 dealabs.com##.js-idealo-section
 trovit.fr##.js-loadPremium
+cdiscount.com##.jsNoPrdtBloc
 vivastreet.com##.kiwii-box-300x250
 darty.com##.kmino-ad
 technplay.com##.kt-inside-inner-col
@@ -21856,6 +21857,7 @@ ccm.net#?#.ccm_list_catch__item:-abp-contains(Sponsored)
 cdiscount.com#?#.fpColFloatAddisplayBloc:-abp-has(.c-sponsoredMentions)
 cdiscount.com#?#.o-block:-abp-has(.o-block__content:-abp-has(.c-sponsoredMentions))
 cdiscount.com#?#li:-abp-has(.prdtBlocInline:-abp-has(.c-sponsoredMentions))
+cdiscount.com#?#li[data-sku]:-abp-has(.c-sponsoredMentions)
 clubic.com#?#.HeroListingCard2 > .grid-x:-abp-has(.post-label--sponso)
 clubic.com#?#.posts:-abp-has(.post-label--sponso)
 cnetfrance.fr#?#.riverPost:-abp-has(.tag-desktop:-abp-contains(Publicité))
