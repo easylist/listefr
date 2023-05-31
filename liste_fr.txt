@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: jtlo5xx3diQiTU7zoxnZAg
-! Version: 202305311041
+! Checksum: vIFfODBQaKwQXpnwhoX0kA
+! Version: 202305311944
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21890,7 +21890,9 @@ emu-france.com##img[width="88"]
 guinee7.com##img[width="958"][height="142"]
 undernews.fr##img[width][height][alt$="VPN"]
 faireunlien.com##img[width^="728height=90"]
+bol.com##li.js_sponsored_product
 bonjourmadame.fr##object[width="728"][height="90"]
+bol.com##section.js_slot-sponsored-products
 dealabs.com##section[data-track*="widget_pirates_carousel"]
 virusphoto.com##table[width="300"][height="280"]
 societe.com##table[width="303"] > tbody > tr > td[valign="top"][height="260"]
