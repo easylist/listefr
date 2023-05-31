@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Tw5t4dfIaPrJN2L6azEveA
-! Version: 202305310937
+! Checksum: DzJD1z+gGxd6zvvAEEl8mw
+! Version: 202305310938
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21505,6 +21505,7 @@ jeu.fr##[data-fallback-type="image"]
 tripadvisor.fr##[data-feed-reason="SPONSORED"]
 films-telecharger.eu##[data-hash]
 lemonde.fr##[data-partner="bienici"]
+qwantjunior.com##[data-testid="autopromoJuniorLink"]
 toutvendre.fr##[href*=".kelkoogroup.net/"]
 meteofrance.com##[href*=".xiti.com"] > img
 filecrypt.cc,filecrypt.co,hdss.work,streaming-films.life##[href^="javascript:"]
