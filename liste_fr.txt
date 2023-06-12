@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: JhwwwMKVWXGDgrYkAl4KTw
-! Version: 202306101717
+! Checksum: USJLfh9cDHnBlDNOSs8F/Q
+! Version: 202306122048
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15103,6 +15103,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||directvelo.com/images/*/pub-
 ||directvelo.com/images/habillage/
 ||directvelo.com/images/partenaires/
+||distrowatch.com/images/k/
 ||djelfa.info/logo/
 ||dknews-dz.com/themes/frontend/images/desigual.jpg
 ||dlive.pagesjaunes.fr^
@@ -21513,6 +21514,7 @@ forum-des-oranges.fr##div[style^="width: 728px;"]
 echoroukonline.com##div[style^="width:200px; padding:2px; border:#AAA 1px solid;"]
 copine-coquine.com##div[style^="width:300px;height:250px"]
 echoroukonline.com##div[style^="width:728px;height:90px;"]
+distrowatch.com##h2 > a > img
 developpez.net##iframe[width="300"][height="250"]
 developpez.net##iframe[width="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
@@ -21592,6 +21594,7 @@ cnetfrance.fr#?#.riverPost:-abp-has(.tag-desktop:-abp-contains(Publicité))
 commentcamarche.com,commentcamarche.net#?#.ccm_list_catch__item:-abp-contains(Annonces)
 discordbots.org,top.gg#?#.bot-card:-abp-has(.lib:-abp-contains(Promoted))
 discordbots.org,top.gg#?#.bot-card:-abp-has(.lib:-abp-has(img))
+distrowatch.com#?#.News1:-abp-has(td:-abp-contains(Sponsored))
 doctolib.fr#?#.dl-card:-abp-has(.dl-card-sponsored-pill)
 dzgeek.com#?#li + .postbit:-abp-has(img[src$="/avatars/partenaire.png"])
 ebay.fr#?#.sresult:-abp-has(.promoted-lv)
