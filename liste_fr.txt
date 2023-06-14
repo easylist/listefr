@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: MT4PQqqnn6P54rKot44miQ
-! Version: 202306122222
+! Checksum: /ZutC+NryWgMZeMBJz96bg
+! Version: 202306142202
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16620,7 +16620,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||undernews.fr/wp-content/uploads/2018/04/cyberghost-vpn_inPost.png
 ||undernews.fr/wp-content/uploads/2019/06/cyberghost_inpost.jpg
 ||une-recette.com/include/$subdocument
-||une-recette.com/include/*.php
 ||unionrunningworld.com/upload/bannieres/
 ||unleashed.fr/media/habillage/
 ||unsimpleclic.com/wp-includes/js/wp-embed.min.js
@@ -18662,6 +18661,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.logo-right-ads
 ##.logo_pub
 ##.lrAds
+##.lst_ads
 ##.ltas_adspot
 ##.m-adbanner
 ##.m-adbanner--megaban
@@ -20486,9 +20486,6 @@ cultivoo.com,laverite.mg,rtc.be,sudhorizons.dz##.bannergroup
 liberte-algerie.com##.bannergroup_pave
 emploitic.com,laverite.mg,maghrebemergent.com##.banneritem
 actu-environnement.com,chouf-chouf.com,emploi-environnement.com,webfrance.com##.banniere
-une-recette.com##.banniere1
-une-recette.com##.banniere2
-une-recette.com##.bannierebas
 boulette.fr,envertetcontretous.fr##.banpub
 soonnight.com##.bas_colonne
 laposte.fr##.basic-pub
@@ -20819,7 +20816,6 @@ igraal.com##.merchant__banner-wrap
 elwatan.com##.mh-banner
 euroiphone.eu##.middle-banner
 ceesty.com,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,sh.st,shorte.st,skipp.io##.middle-container
-une-recette.com##.milieubanniere2
 bhmag.fr##.mini-pub
 academiedugout.fr##.mod-promo--simple
 meteofrance.com##.mod-publiinfos
@@ -21452,9 +21448,11 @@ lefigaro.fr##div[class*="mad__pub__"]
 rakuten.com##div[class*="rads_placement"]
 booska-p.com##div[class][style^="background"]
 nrj.fr##div[class^="StyledAds"]
+une-recette.com##div[class^="banniere"]
 frandroid.com##div[class^="container_native_"]
 maison-et-domotique.com##div[class^="deals"]
 gamekult.com##div[class^="gk__ads"]
+une-recette.com##div[class^="milieubanniere"]
 algerie360.com##div[class^="pub300"]
 algerie360.com##div[class^="pub600"]
 algerie360.com##div[class^="pub728"]
