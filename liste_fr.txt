@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kdftDNAWQbiIJF2bICwJNA
-! Version: 202306171529
+! Checksum: FhreYnpriRZK0qg8YzCW2g
+! Version: 202306171623
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -20770,6 +20770,7 @@ bienpublic.com,republicain-lorrain.fr##.iookaz
 ed-protect.org##.ip-warning
 frandroid.com##.is-corporate-mule.is-hidden-mobile
 numerama.com##.is-terrible-chinchilla
+frandroid.com##.is-unacceptable-parakeet
 numerama.com##.is-wrong-porcupine
 jeuxvideo.com##.item-home-accroche-sponso
 largus.fr##.item-partenaire
@@ -21640,6 +21641,7 @@ femmeactuelle.fr#?#.specialCard:-abp-has(a[href^="https://cosmoeus.fr/"])
 flaticon.com#?#.soul-p:-abp-has(.footer-sponsor)
 forumconstruire.com#?#.post_simple:-abp-has(.postsimple_pseudo:-abp-contains(/Auto-promo|Autopromo/))
 forumpiscine.com#?#.post_classic:-abp-has(.post_classic_pseudo:-abp-has(span:-abp-contains(/Auto-promo|Autopromo/)))
+frandroid.com#?#.post-card:-abp-has(a[href^="https://native.humanoid.fr/"])
 futura-sciences.com#?#.postcontainer:-abp-has(.username:-abp-contains(Publicité))
 gameblog.fr#?#.highlight-item:-abp-has(.word-wrapper:-abp-contains(sponso))
 gameblog.fr#?#.item.full.gameblog:-abp-has(.post-details:-abp-contains(sponsorisé))
