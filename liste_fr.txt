@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: pWp7aKYHw/Zyn2Ib3TMPHw
-! Version: 202306182003
+! Checksum: JprlQN2VeESnrL3LCx/t8g
+! Version: 202306231634
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -13871,7 +13871,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||sponsorboost.com/banniere-rotative.
 ||sponsoweb.com/htdocs/templates/banners/
 ||ssl-images-amazon.com^$domain=fdesouche.com|tempr.email|wikimonde.com
-||stackpathcdn.com/wp-content/uploads/*/ban-$domain=telecharger-jeuxpc.fr
 ||stankyrich.com/relman/
 ||stars-passion.com/ban/$third-party
 ||state-of-the-art-mailer.com/rfredir.php
@@ -21086,7 +21085,6 @@ picmix.com##.sky
 alvinet.com##.skyscraper
 jeuxjeuxjeux.fr##.skyscraper-container
 lequipement.fr##.skyscrapper-produit
-telecharger-jeuxpc.fr##.slidein-overlay
 infoconcert.com##.slider.container
 lemoteur.fr##.slpartner
 boursorama.com##.smart
@@ -21424,6 +21422,7 @@ qwant.com##a[href^="https://www.bing.com/aclk?"]
 maison-et-domotique.com##a[href^="https://www.bons-plans-elise.fr/"]
 mega-p2p.net##a[href^="https://www.clictune.com/"]
 goole.fr##a[href^="https://www.ebay.fr/itm/"]
+telecharger-jeuxpc.fr##a[href^="https://www.instant-gaming.com/"]
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
 bleachmx.fr##a[href^="https://www.leboncoin.fr/"]
 castorama.fr##a[href^="https://www.needhelp.com/projet.php?"]
