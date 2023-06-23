@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AJtuH380RdXQrL/WS96t0w
-! Version: 202306231812
+! Checksum: b7qMPWGhh3q0Cx1Md35QOg
+! Version: 202306231828
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2765,6 +2765,7 @@ digitalocean.gif|
 &utm_*&alert=*&tid_$popup
 &utm_*=banner-ad&$popup
 &utm_*=cpm&$popup
+&utm_ad=$popup
 &utm_medium=ads$popup
 &voluumdata=$popup
 &xzoneid=$popup
