@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 0Wkx/TCL9bEWMcnb6M2YQg
-! Version: 202306290406
+! Checksum: BWwgjoe1x31aDhkTYm/s7Q
+! Version: 202307051908
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -4109,6 +4109,7 @@ _siteunder/$popup
 ||sperse.com^$third-party
 ||sports-streams-online.xyz^
 ||spykemediatrack.com^$third-party
+||starti.pl^$third-party
 ||static-od.com^$third-party
 ||statisticresearch.com^$third-party
 ||staubsefoo.com^$third-party
@@ -15562,7 +15563,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||idurarweb.com/file/manual/formation_infographie_
 ||iframe.lachainemeteo.com^
 ||iiv.pl/banner/
-||ijero.com/assets/partners/
 ||imabox.fr/pub/
 ||imados.fr^*/habbo/
 ||imadrassa.com/static/images/background
@@ -20244,7 +20244,6 @@ expat.com###partner-ajax-on-forum
 cciaf.org###partner_content
 miroirsocial.com,netbeopen.com,slateafrique.com###partners
 sante-dz.com###partners-container
-ijero.com###partners-wrapper
 windsurfjournal.com###pave300x250
 windsurfjournal.com###pave695x90
 windsurfjournal.com###paves214x157
