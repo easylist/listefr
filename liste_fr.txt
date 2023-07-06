@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 2nkOt34b2qQsOK1mIo/Hxw
-! Version: 202307061911
+! Checksum: RZEu+kQFsbEMEsySJXStLQ
+! Version: 202307061915
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -4130,7 +4130,7 @@ _siteunder/$popup
 ||surfactif.fr^$third-party
 ||svonm.com^$third-party
 ||swingers-match.com^$third-party
-||systeme.io^$~image,third-party
+||systeme.io^$~image,third-party,domain=~coaching4u.fr
 ||t4b.tv^$third-party
 ||t4btv.com^$third-party
 ||tag101.com^$third-party
