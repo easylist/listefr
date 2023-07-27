@@ -20744,6 +20744,7 @@ orange.fr##.footer_autopromo
 legagnant.com##.footer_banners
 tukif.com##.footer_partner_container_wrapper
 realmadrid.com##.footer_sponsors
+cdiscount.com##.fpColFloatAddisplayBloc
 positivr.fr##.front-page-featured_partnr-section-container
 jizzbunker.com##.ftr-banners
 mistergooddeal.com##.ftr_partners
@@ -21671,6 +21672,7 @@ businessinsider.fr#?#.post-nonfeatured:-abp-has(.title-studio:-abp-contains(Cont
 ccm.net#?#.ccm_list_catch__item:-abp-contains(Sponsored)
 cdiscount.com#?#.fpColFloatAddisplayBloc:-abp-has(.c-sponsoredMentions)
 cdiscount.com#?#.o-block:-abp-has(.o-block__content:-abp-has(.c-sponsoredMentions))
+cdiscount.com#?#div.o-block:-abp-has(div.u-mt-sm>svg)
 cdiscount.com#?#li:-abp-has(.prdtBlocInline:-abp-has(.c-sponsoredMentions))
 cdiscount.com#?#li[data-sku]:-abp-has(.c-sponsoredMentions)
 clubic.com#?#.HeroListingCard2 > .grid-x:-abp-has(.post-label--sponso)
