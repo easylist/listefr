@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: xeFM/w9ltQh1qn7MP3T2jQ
-! Version: 202307192153
+! Checksum: mcOog15hz5Jc9VADQAB+Qg
+! Version: 202307272204
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -4945,10 +4945,13 @@ _siteunder/$popup
 ||ab910ac1aa.com^
 ||abatvgeqcaackgh.com^
 ||abbitbcwtkwkyx.xyz^
+||abbotinexperienced.com^
 ||abdqgbkux.xyz^
 ||abductatabq.xyz^
 ||abjwkkabu.com^
 ||abluawagiwdr.xyz^
+||abnegateexcavator.com^
+||abominableexhibition.com^
 ||abouixgccbne.com^
 ||abourgers.space^
 ||abrocvhkwhd.com^
@@ -4964,6 +4967,7 @@ _siteunder/$popup
 ||acbdmbhhmsfx.com^
 ||acbwsojecs.com^
 ||accedebuzz.com^
+||acceptablefabric.com^
 ||acesbashlyk.com^
 ||acfmycpgiunq.com^
 ||acfyahhd.com^
@@ -4975,6 +4979,7 @@ _siteunder/$popup
 ||acoossz.top^
 ||acquitjeans.com^
 ||actionrtb.com^
+||activepoststale.com^
 ||actoriends.info^
 ||actuanius.com^
 ||acylbirri.digital^
@@ -5000,6 +5005,7 @@ _siteunder/$popup
 ||adtracker2.com^
 ||adtrk20.com^
 ||advancedisco.com^
+||adverbrequire.com^
 ||aeb33be3f8.com^
 ||aecosanu.com^
 ||aeffe3nhrua5hua.com^
@@ -5095,6 +5101,8 @@ _siteunder/$popup
 ||allownotifications.com^
 ||allowpush.com^
 ||allrightpaint.com^
+||allureoutlayterrific.com^
+||almostcomponent.com^
 ||alnuinkwintra.com^
 ||aloftlarge.com^
 ||alonged.com^
@@ -5112,6 +5120,7 @@ _siteunder/$popup
 ||amitaephapse.com^
 ||amjwipvapvrux.com^
 ||amomumgarcons.com^
+||amorphouspain.com^
 ||amplis-online.com^
 ||amusedcoating.digital^
 ||amuseer.com^
@@ -5132,6 +5141,7 @@ _siteunder/$popup
 ||anfilm.mobi^
 ||anfndbgsumshfex.com^
 ||anginasallodge.com^
+||anglemarrowoccurs.com^
 ||angryheadlong.com^
 ||anidianskirts.com^
 ||ankaonvqf.xyz^
@@ -5228,6 +5238,7 @@ _siteunder/$popup
 ||astemolgachan.com^
 ||astmjdeyhwxf.xyz^
 ||astonedunfound.com^
+||astonishingscold.com^
 ||astrutfluoran.com^
 ||asvvpqvmmus.com^
 ||asvvzezk.com^
@@ -5261,10 +5272,12 @@ _siteunder/$popup
 ||aunxqvrmywxg.xyz^
 ||auqeaeehunyx.com^
 ||aureneceriman.com^
+||authorizeharnessuncle.com^
 ||authorsradius.com^
 ||authsmtp.vidox.net^
 ||autopsyfowl.com^
 ||avehistoric.com^
+||aversionatrocious.com^
 ||avfatpygr.xyz^
 ||aviulcvfgunqgy.com^
 ||avkvfpwsx.com^
@@ -5326,6 +5339,7 @@ _siteunder/$popup
 ||bamboss.ru^
 ||banalbjar.com^
 ||bandageloathe.com^
+||bandageretaliateemail.com^
 ||bandkpowar.cf^
 ||bandwjtnqi.xyz^
 ||bangalsskfyuflc.xyz^
@@ -21672,7 +21686,7 @@ businessinsider.fr#?#.post-nonfeatured:-abp-has(.title-studio:-abp-contains(Cont
 ccm.net#?#.ccm_list_catch__item:-abp-contains(Sponsored)
 cdiscount.com#?#.fpColFloatAddisplayBloc:-abp-has(.c-sponsoredMentions)
 cdiscount.com#?#.o-block:-abp-has(.o-block__content:-abp-has(.c-sponsoredMentions))
-cdiscount.com#?#div.o-block:-abp-has(div.u-mt-sm>svg)
+cdiscount.com#?#div.o-block:-abp-has(div.u-mt-sm > svg)
 cdiscount.com#?#li:-abp-has(.prdtBlocInline:-abp-has(.c-sponsoredMentions))
 cdiscount.com#?#li[data-sku]:-abp-has(.c-sponsoredMentions)
 clubic.com#?#.HeroListingCard2 > .grid-x:-abp-has(.post-label--sponso)
