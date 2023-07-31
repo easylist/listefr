@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: CrhE6H6eKYaLrH0j/GkdXA
-! Version: 202307311712
+! Checksum: k4Strf2XpZpXtcLQwfaWHg
+! Version: 202307311724
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21663,6 +21663,11 @@ people-looks.com##td[width="340"][height="265"][align="center"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
 ! Éléments (utilisé avec $generichide)
 web.archive.org##.placeholder-pub_dfp
+! frandroid.com
+frandroid.com##.is-big-rook.is-big-rookb.is-flex.is-align-items-center.is-justify-content-center.is-hidden-mobile
+frandroid.com##.is-big-rook.is-big-rookb.mb-5.is-flex.is-align-items-center.is-justify-content-center.is-hidden-mobile
+frandroid.com##.is-big-rook.is-big-rookb.mt-5.is-flex.is-align-items-center.is-justify-content-center.is-hidden-mobile
+frandroid.com##.is-big-rook.is-big-rookh.is-hidden-mobile
 ! forumactif.com
 1fr1.net,3oloum.com,7olm.org,ahladalil.com,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,darkbb.com,easyforumpro.com,fcmulhousefans.com,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumalgerie.net,forumpro.fr,forums-actifs.com,galoppourlavie.org,gid3an.com,jordanforum.net,lebonforum.com,manager-fifa.com,orizzontescuolaforum.net,own0.com,passionmilitaria.com,sorcieremonique.com,superforum.fr,syriaforums.net,walkingdead-rpg.com,yoo7.com,ze-43eme.com##.croco_wrapper, [onclick^="_"], [onclick^="var"], [style*="position:relative; height: 90px;"]
 ! xooit.com
@@ -21925,6 +21930,7 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 @@||playiri.com/player8/jwplayer.$script,domain=vidlooz.com
 @@||playiri.com/player8/provider.$script,domain=vidlooz.com
 @@||releases.flowplayer.org^*/flowplayer.$script,domain=flowyourvideo.com
+@@||sdk.privacy-center.org^$script,domain=frandroid.com
 @@||ssl.p.jwpcdn.com/player/v/$script,stylesheet,xmlhttprequest,domain=ahvsh.com|allviid.live|allviid.xyz|allviids.xyz|cloudemb.com|daktna.net|databasegdriveplayer.co|embed.scdn.to|filelions.com|filelions.to|gdriveplayer.me|gdriveplayer.to|liivideo.com|lvturbo.com|mcloud.to|membed1.com|movcloud.net|onlystream.tv|prettyfast.to|sbanh.com|sbembed.com|sblona.com|sblongvu.com|sbrapid.com|segavid.com|streamhide.com|streamhide.to|streamsb.com|streamsss.net|strema.site|supervideo.tv|theproxy.how|vadbam.com|vadbam.net|vedbam.xyz|vedbom.com|vidbam.org|vidcloud9.com|vidembed.me|vidhdr.com|vidlo.us|vidmoly.to|vidplay.ch|vidshar.org|vidspeed.net|vidspeeds.com
 @@||st.chatango.com/js/gz/emb.js$script,domain=adkami.com|crichd.com|crichd.to|crichd.xyz|flystream.fr|gdriveplayer.to|jetanimes.com|mavanimes.cc|mavanimes.co|otakufr.com|voiranime.com
 @@||st.chatango.com^*/id.html$subdocument,domain=adkami.com|crichd.com|crichd.to|crichd.xyz|jetanimes.com
