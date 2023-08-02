@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: k4Strf2XpZpXtcLQwfaWHg
-! Version: 202307311724
+! Checksum: GYKe7r6nPE59RCjIjx6+iA
+! Version: 202308022325
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15339,6 +15339,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||eroprofile.com/ra/
 ||eroprofile.com^*/nvbl.
 ||esoxiste.com/wp-content/images/*.gif
+||esoxiste.com/wp-content/images/bandeau-
+||esoxiste.com/wp-content/images/banni%C3%A8re-
 ||esoxiste.com/wp-content/images/pub-
 ||espaceagro.com/frasp/
 ||espritlib.com/banniere/
@@ -21245,7 +21247,6 @@ macg.co##.wrapper > a
 papergeek.fr,phonandroid.com##.wrapper-banner
 flaghit.com##.xd_footer
 boulistenaute.com##.xo-banner-ad-footer
-esoxiste.com##.xoxo a > img
 lapresse.ca##.xtra
 lepetiteconomiste.com##.zoom
 alloforfait.fr##.zpart
@@ -21497,7 +21498,7 @@ igen.fr,macg.co,watchgeneration.fr##a[style*="width: 100%;"]
 mega-p2p.net##a[style*="width: 98%; height: 100%; inset:"]
 jeu.video##a[style="position: fixed;top: 110px;left: 0;bottom: 0;width: 50%;"]
 fusevideo.net##a[target="_blank"]
-buzzporn.net,finobuzz.com,planet-streaming.net,serie-streaming.watch,seriezone.org,upload4earn.org,youwatch-serie.com,youwatch-series.com##a[target="_blank"] > img
+buzzporn.net,esoxiste.com,finobuzz.com,planet-streaming.net,serie-streaming.watch,seriezone.org,upload4earn.org,youwatch-serie.com,youwatch-series.com##a[target="_blank"] > img
 israelmagazine.co.il##a[target="_blank"] > img[src$=".gif"]
 lefigaro.fr##a[target="_blank"] > img[style="width: 463px; height: 170px;"]
 maliweb.net##a[target="_blank"] > img[width="300"][height="100"]
