@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: W43mBhiFnLA/2MkXY989Nw
-! Version: 202309131839
+! Checksum: 2tWrxjmOaixoPK3DX3L4xQ
+! Version: 202309131859
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16817,6 +16817,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||slpubmedias.tf1.fr^$media,rewrite=abp-resource:blank-mp3,domain=tf1.fr
 ||static.6cloud.fr^*.mp4$media,rewrite=abp-resource:blank-mp3,domain=6play.fr
 ||tf1.fr/assets/js/build/lib/ad$rewrite=abp-resource:blank-js,domain=tf1.fr
+||vod.6cloud.fr/pub/*.mp4$media,rewrite=abp-resource:blank-mp3,domain=6play.fr
 !----------------------- Sites spécifiques popup -----------------!
 !
 ||1divx.co/*-film-$popup,~third-party
@@ -21815,6 +21816,7 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 @@||www.bna.dz/media/djmediatools/cache/300x250-$image,~third-party
 @@||www.bouyguestelecom.fr^*/catalog/product/cache/*/image/300x600/$image,~third-party
 @@||www.les-terrains.com/images/chargement_en_cours.gif|$image,~third-party
+@@||yospace.com/csm/*.mpd^$xmlhttprequest,domain=6play.fr
 ! Liste blanche pour corriger le blocage strict
 @@||ab.9xbud.com/extract|$xmlhttprequest,domain=9xbuddy.xyz
 @@||ab.9xbud.com/token|$xmlhttprequest,domain=9xbuddy.xyz
