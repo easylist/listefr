@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: TnZoW7eGDoT3ySGxN4jsEA
-! Version: 202309131717
+! Checksum: 4dGuAPv4VBc9ooo+NH0zaA
+! Version: 202309131732
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21678,6 +21678,7 @@ narcity.com#?#.article-thumbnail:-abp-has(a:-abp-contains(/Sponsored|sponsorisé
 nextinpact.com#?#.us-bas-ctr:-abp-has(a[href^="https://www.cybertek.fr/"])
 nextinpact.com#?#app-home-item:-abp-has(.article:-abp-has(.sponsored))
 nextinpact.com#?#li[class="ng-star-inserted"]:-abp-has(.sponsored)
+nocibe.fr#?#.proditem:-abp-has(.rm-sponsorise)
 numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
 numerama.com#?#.post-card:-abp-has(span:-abp-contains(sponso))
 numerama.com#?#.post-grid:-abp-has(.sponsoring-icon)
