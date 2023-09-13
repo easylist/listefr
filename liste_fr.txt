@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: c3lV8tqXAbV5KzZPztyI3w
-! Version: 202309131632
+! Checksum: TnZoW7eGDoT3ySGxN4jsEA
+! Version: 202309131717
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21732,7 +21732,7 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 @@||affiliation.leboncontact.fr/template/Affiliation/$~third-party
 @@||aluson-eclairage.fr^*-120x60-$image,~third-party
 @@||ami2.com/resources/img/mysite/publicites/$image,~third-party
-@@||api.dedipass.com^*/pay$script,xmlhttprequest,domain=uptobox.com|uptostream.com
+@@||api.dedipass.com^*/pay$script,xmlhttprequest,domain=uptobox.com|uptobox.eu|uptobox.fr|uptobox.link|uptostream.com
 @@||archives-numerisees.ain.fr^*/httpd/ad
 @@||assiste.com/Assiste/media/images/Ad-Aware_$image
 @@||assiste.com^*_publicite_$image,~third-party
@@ -21763,7 +21763,7 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 @@||francesurfinfo.com/affiliation/
 @@||francetelevisions.fr^*/publicite/silverlight.php?
 @@||gareautheatre.com^*/image_resize.php?img=*/$image
-@@||geoip.dedipass.com/|$xmlhttprequest,domain=uptobox.com|uptostream.com
+@@||geoip.dedipass.com/|$xmlhttprequest,domain=uptobox.com|uptobox.eu|uptobox.fr|uptobox.link|uptostream.com
 @@||gironde.fr/css/csspacker.jsp?css=$stylesheet
 @@||gpsfront.aliexpress.com/queryGpsProductAjax.do?*&imageSize=$script,~third-party
 @@||host3.adhese.be/tag/tagv1.js$script,domain=lavenir.net
