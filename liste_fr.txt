@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: A5n0W4XSZqvTCnT1l71/eA
-! Version: 202309182110
+! Checksum: pcI3J/X5u4rLPOjNKdpkYw
+! Version: 202309182120
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16671,6 +16671,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||voirfilms.*/embediplayer-
 ||voirfilms.*/templates/*/300x600
 ||voirfilms.*/templates/*/habillage
+||voiturego.com/ezoimgfmt/m.media-amazon.com/
 ||vosfemmes.com^$script,subdocument
 ||vostfr.club/system/banners/
 ||vostfree.cx/atag.js
@@ -20420,7 +20421,7 @@ neko-sama.fr##.aff-wrapper
 ed-protect.org##.affichier_lien > tbody > tr + tr[class]
 mvideoporno.xxx##.affiliate
 nestoria.fr##.afsDiv
-pix-geeks.com##.afxshop
+pix-geeks.com,voiturego.com##.afxshop
 multiup.eu,multiup.org##.alert-info
 detecteur.net##.alert-warning
 homecinema-fr.com##.aliencable-link
