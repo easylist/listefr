@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ushUjr7jIus9ZZ+AVHTRJA
-! Version: 202309182032
+! Checksum: 3s6pSvXVtK6ptA+7p0K3gA
+! Version: 202309182041
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21874,12 +21874,13 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 @@||xcdnpro.com/plugin/epay/$script,domain=cam4.com|cam4.fr
 @@||xcdnpro.com/web/js/$script,domain=cam4.com|cam4.fr
 @@||xcdnpro.com/web/v2/app/js/$script,domain=cam4.com|cam4.fr
-! reCAPTCHA + Google Drive Player + Chrome cast
+! reCAPTCHA + Google Drive Player + Chrome cast + YouTube
 @@||gstatic.com/*/cast_sender.js$script
 @@||gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js$script
 @@||gstatic.com/recaptcha/$subdocument,xmlhttprequest
 @@||recaptcha.net/recaptcha/$image,subdocument,xmlhttprequest
 @@||www.google.com/recaptcha/api2/$subdocument
+@@||youtube.com/iframe_api|$script
 ! Turnstile Captcha
 @@||challenges.cloudflare.com/turnstile/*/api.js?$script
 ! hCaptcha
