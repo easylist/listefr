@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: /LS/lESX3ig8cRDLP95aFg
-! Version: 202310040332
+! Checksum: JG6J3cQFGvVrVzw3BWNBbQ
+! Version: 202310040351
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16385,7 +16385,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||satmag.fr/pub/
 ||saucissonsexe.com/wp-content/uploads/*.gif
 ||sbx.pagesjaunes.fr^
-||scan-manga.com/azmanga_
 ||scifi-movies.com/images/site/promo/
 ||scoopnest.com/content_rb.php?
 ||script-pag.com/demo/fr/images/pub/
@@ -21504,6 +21503,7 @@ footpy.fr##a[target^="_blank"] > [style="width:303px"]
 footpy.fr##a[target^="_blank"] > [style="width:584px"]
 gamergen.com,generation-nt.com##article .product
 auchan.fr##article[data-list^="SPONSORING_MEDIA"]
+scan-manga.com##article[itemtype="https://schema.org/Product"]
 dhnet.be##aside[id^="HALFPAGE_"]
 dhnet.be##aside[id^="LEADERBOARD_"]
 dhnet.be##aside[id^="RECTANGLE_"]
