@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: YBV4BGIB5XVz1YgUhQFIew
-! Version: 202310040232
+! Checksum: kjLxH4co00kJvRibaShsdg
+! Version: 202310040250
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -960,6 +960,7 @@
 /advertising-core/*
 /AdvertisingBanners/*
 /advertisingView?
+/advertisting-placeholder-
 /adx-dir-
 /adx-instream.
 /adx.js
@@ -15021,6 +15022,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||capital.fr^*/boutons-pub-header/
 ||careerbuilder.fr/lts/jobstreamintl.aspx?
 ||carrefoune.com^$script
+||carrefour.fr/api/v1/recommendations?
 ||carrefour.fr/js-ssr/footer-partner-banner.
 ||carrosseriemagazine.com/image/carrosserie/pub/
 ||casavie.com/images/index_logo.gif
@@ -18349,6 +18351,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.advertising-box
 ##.advertising-box-full
 ##.advertising-item-bottom
+##.advertising-placeholder-recommendation
 ##.advertisingLeft
 ##.advhead
 ##.advid
