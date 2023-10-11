@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: LYKxmTwsHCrTmAgXxRuy4A
-! Version: 202310110404
+! Checksum: UOU+osmWUdr1EnYxxas6PA
+! Version: 202310110413
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15562,6 +15562,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||hentaihaven.org/_
 ||hentaihaven.org/beta/
 ||hentaihaven.org/lube/
+||heures.be/template/images/publi/
 ||hibamusic.com/pub/
 ||hifipcguide.com/wp-content/uploads/smsl-ad18-hifi.jpg
 ||hiqqu.xxx/static/n/
@@ -15576,6 +15577,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||horlogeparlante.com/wp-content/uploads/2021/*_08_99_05_
 ||hotvideo.fr/pub/
 ||hotvideo.fr^*/banners/
+||hours.be/template/images/publi/
 ||html.net/dm/recovery.js
 ||humanite.fr/sites/default/files/field/image/banniere_
 ||humanite.fr/sites/default/files/medias/*/header_pub_
@@ -16192,6 +16194,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||onvasortir.com/pub/
 ||onvasortir.com/triogical_anime.gif
 ||oomoviz.com/jsfeed/
+||openingstijdengids.nl/template/images/publi/
+||openingsurengids.be/template/images/publi/
 ||openrunner.com/upor/bg/
 ||opensourcecms.com/demo/arvixe.php
 ||openspa.webhop.info/img/electrocrisan_
@@ -21002,6 +21006,8 @@ kelkoo.fr##.priceminister
 buzzporn.net##.privacylinks
 sport-equipements.fr##.product-photo
 lanutrition.fr##.product-shop
+heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##.promSB
+heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##.promSidebar
 deco.fr,euro-2016-france.net,matchendirect.fr,pokaa.fr##.promo
 challenges.fr,nouvelobs.com##.promo-bottom-art
 gauleporno.xxx,pornburst.xxx##.promo-gauleporno
@@ -21053,6 +21059,7 @@ internetparsatellite.net##.pubbas
 tasante.com##.pubcontent
 winds-up.com##.pubhaut
 orangeinfo.fr,scifi-universe.com##.pubheader
+heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##.publSibar
 lemondeinformatique.fr##.publi-info
 24heures.ch##.publiBox
 jeuxvideo.com##.publi_info
