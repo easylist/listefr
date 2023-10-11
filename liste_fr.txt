@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: VUtjfUvbmTM6bKT4Gy3MOQ
-! Version: 202310110344
+! Checksum: YJ2iYAXSdMq26xxS2qkSZg
+! Version: 202310110353
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21128,7 +21128,6 @@ test-achats.be##.skin
 funradio.fr,lesinrocks.com,rtl.fr##.skin-link
 picmix.com##.sky
 alvinet.com##.skyscraper
-jeuxjeuxjeux.fr##.skyscraper-container
 lequipement.fr##.skyscrapper-produit
 infoconcert.com##.slider.container
 ladiagonale.net##.slidingDiv2
@@ -21617,6 +21616,9 @@ forum-des-oranges.fr##div[style^="width: 728px;"]
 echoroukonline.com##div[style^="width:200px; padding:2px; border:#AAA 1px solid;"]
 copine-coquine.com##div[style^="width:300px;height:250px"]
 echoroukonline.com##div[style^="width:728px;height:90px;"]
+poki.com##div[width="160"][height="600"]
+poki.com##div[width="300"][height="250"]
+poki.com##div[width="728"][height="90"]
 distrowatch.com##h2 > a > img
 developpez.net##iframe[width="300"][height="250"]
 developpez.net##iframe[width="728"][height="90"]
