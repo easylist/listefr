@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: x6PXZQXtKSgWSnOgebC0xg
-! Version: 202310102303
+! Checksum: Wq1S+JkWv2r9NluM9YemNg
+! Version: 202310110326
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16848,7 +16848,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||zone-telechargement.*/uploads/hola
 ||zone911.com/images/banners/
 ||zone911.com/images/logo-banniere/
-||zonebourse.com/content_o_a_s.php?
+||zonebourse.com/content_
 ||zonecss.fr/js/dmc_banniere_
 ||zoom-algerie.com/charte/images/klash16.swf
 ||zoom-algerie.com/images/amazigh-united-250.jpg
@@ -19913,7 +19913,6 @@ algerie360.com###AlireAussi
 belgique-tourisme.be,opt.be###BannerFrontpage
 basketusa.com###Basketusa_Habillage
 annoncesbateau.com###BlocPartenaires
-zonebourse.com###Bottom
 eurosport.fr###Container_OAS_Right
 amazon.fr###DAadrp
 amazon.fr###DAr2
@@ -19927,7 +19926,6 @@ kijiji.ca###HeaderFeature > #FeatureContent
 koaci.com###KPubSetTop
 africanmanager.com###Layer1
 nostalgie.be###Leaderboard_row
-zonebourse.com###Middle2_id
 streamcomplet3.biz###PapaGooGorHDVid
 installations-home-cinema.eu###Partenaire
 scan-manga.com###TOPAMZ720
@@ -20775,7 +20773,6 @@ tube8.fr##.gridBanner
 star7arab.com##.grid[style="width: 770px; height: 69px;"]
 footmercato.net##.gtag
 semageek.com##.h300
-zonebourse.com##.hPubRight2
 francetransactions.com##.hab
 homecinema-fr.com##.hab_link
 cbanque.com,clubpronostics.com,gratuiciel.com,lelogicielgratuit.com,logicielmac.com,logitheque.com,made-in-algeria.com,made-in-tunisia.net,maghrebex.com,mediscom.com,quetelecharger.com,toucharger.com##.habillage
@@ -21580,6 +21577,7 @@ universfreebox.com##div[id^="publicite-"]
 musculaction.com##div[id^="pubsousmenu"]
 pagesjaunes.fr##div[id^="push"]
 cpasbien.fi,gktorrents.cc,gktorrents.org,oxtorrent.tk,torrent9.cm,torrent911.me,torrent911.ws,yggtorrents.lol##div[id^="vpn"]
+zonebourse.com##div[id^="zpp"]
 gamalive.com##div[style$="width:300px;height:250px;"]
 ma-reduc.com##div[style*="/ads/"]
 impotsurlerevenu.org##div[style*="float:right;width:300px;"]
