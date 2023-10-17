@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: cmFxkITv2YQlCV+giKgHJA
-! Version: 202310172016
+! Checksum: CAu3Fdkd2jLGV4EWZO7f2Q
+! Version: 202310172022
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -19910,7 +19910,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 !
 !----------------------- Éléments -----------------------!
 !
-cnews.fr###.ban-bottom-desktop
 echoroukonline.com###Advertisement
 bienpublic.com###AjaxCarreEditoIoomyz
 algerie360.com###AlireAussi
@@ -20536,6 +20535,7 @@ buzzly.fr##.ayl-ad-article
 nintendo-master.com##.back_content
 animedigitalnetwork.fr##.background-click
 katibin.fr##.background-cover
+cnews.fr##.ban-bottom-desktop
 bdgest.com,bedetheque.com##.ban-top
 cnews.fr##.ban-top-habillage
 zebulon.fr##.ban2
