@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: v/RvcDRsFUH3YkCNzefK7Q
-! Version: 202311090359
+! Checksum: 0pL88FEAbzSi9EP+B3magw
+! Version: 202311090409
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -20963,7 +20963,7 @@ eurosport.fr##.oas
 football.fr##.oas-middle
 nouvelobs.com##.obs-pub
 01net.com##.od-tlc
-01net.com##.od-wrapper
+01net.com,journaldugeek.com##.od-wrapper
 livescore.in##.oddsPlacement
 01net.com##.offers-selector
 rakuten.com##.offersKelkoo
@@ -21499,6 +21499,7 @@ it-swarm-fr.com##a[href^="https://m.do.co/"]
 paruvendu.fr##a[href^="https://res.paruvendu.fr/"]
 notre-siecle.com,perelafouine.com##a[href^="https://riskassur-boutique.com/"] > img
 appsystem.fr##a[href^="https://shop.appsystem.fr/"] > img
+journaldugeek.com##a[href^="https://shop.journaldugeek.com/go/"] > img
 toplien.fr##a[href^="https://track.effiliation.com/servlet/effi.click?"]
 zetorrents.fr##a[href^="https://uploadsnack.com/"]
 fdesouche.com,lacoccinelle.net,wikimonde.com##a[href^="https://www.amazon.fr/"]
