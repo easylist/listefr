@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: R7S6dJhjPABh3Cm0gRnYZA
-! Version: 202312031939
+! Checksum: COFD5zKg30xsfiEp7Rto2g
+! Version: 202312031953
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -531,6 +531,8 @@
 /ad-eu-east-
 /ad-eu-west-
 /ad-footer.
+/ad-inserter-pro/*
+/ad-inserter/*
 /ad-market/*
 /ad-netc-
 /ad-networks/*
@@ -21923,6 +21925,7 @@ korben.info#?#div[class*="sous-article"]:-abp-has(a[href^="http://amzn.to/"])
 latribune.fr#?#.article-wrapper:-abp-has(.subheading:-abp-contains(Partenaire))
 latribune.fr#?#.homepage-section.supplement-section:-abp-has(span:-abp-contains(Partenaires))
 lebigdata.fr#?#.elementor-widget-wrap:-abp-has(a[href^="http://clickmetertracking.com/"])
+leboncoin.fr#?#.undefined:-abp-contains(Sponsorisé)
 leboncoin.fr#?#a[data-test-id]:-abp-has([class]:-abp-contains(/À la une|Sponsorisé|Urgent/))
 lemonde.fr#?#.area--ops:-abp-has(p:-abp-contains(Contenus partenaires))
 lemonde.fr#?#.bd__bloc:-abp-has(.bd__header:-abp-contains(Barnebys.fr))
