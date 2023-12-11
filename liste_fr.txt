@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: MIEUHRXVEzMo9Pyuh5xajA
-! Version: 202312110306
+! Checksum: a89rw4IXE4TlHOcEc8uOsw
+! Version: 202312110411
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -3014,6 +3014,7 @@ digitalocean.gif|
 /rotation_redir.$popup
 /router.*/click/*&click_id=$popup
 /router.*/click/*?sub_id=$popup
+/s2iurl.php?$popup
 /script/campagne.php?cp=$popup
 /script/redirect.php?$popup
 /scripts.php?zone=$third-party
@@ -4357,6 +4358,7 @@ _siteunder/$popup
 ||0be2be6d31.com^
 ||0be4b18db7.com^
 ||0byv9mgbn0.com^
+||0c09748660.com^
 ||0dsyfr2fxogj.top^
 ||0f1d62f955.com^
 ||0fa972d0d7.com^
@@ -4415,6 +4417,7 @@ _siteunder/$popup
 ||1ad6ea4211.com^
 ||1admav3n1.com^
 ||1aed915a81.com^
+||1afd9d663c.com^
 ||1ajhsjdas11.monster^
 ||1ajhsjdasd1.monster^
 ||1ajshdjas1.monster^
@@ -4812,6 +4815,7 @@ _siteunder/$popup
 ||752d4117dc.com^
 ||760ead33eb.com^
 ||76246af4af.com^
+||76497105d4.com^
 ||76740cd4ae.com^
 ||76a9e2d7ca.com^
 ||77c4175fc7.com^
@@ -4860,6 +4864,7 @@ _siteunder/$popup
 ||7zh5iam3.xyz^
 ||80953973b9.com^
 ||809a5f203c.com^
+||8139b82e6e.com^
 ||813d8347e7.com^
 ||81410d9609.com^
 ||82307fca0b.com^
@@ -5068,6 +5073,8 @@ _siteunder/$popup
 ||admonishmentforcedirritating.com^
 ||adnetwrk.com^
 ||adopcwxswygcsfh.xyz^
+||adpointbreakrtb.com^
+||adpointrtb.com^
 ||ads-6686.top^
 ||ads-blue.com^
 ||adslop.com^
@@ -5425,6 +5432,7 @@ _siteunder/$popup
 ||b0bf3dc8c2.com^
 ||b0omr3wn6u4b.com^
 ||b109bc2bfc.com^
+||b120ceab1c.com^
 ||b1cee97d27.com^
 ||b2e2b89cc1.com^
 ||b39184855b.com^
@@ -6035,6 +6043,7 @@ _siteunder/$popup
 ||ckytiloczpt.com^
 ||classerhyponym.store^
 ||clavalbusaos.com^
+||cleardexchange.com^
 ||cleoidsoftish.com^
 ||clicvortex.com^
 ||climbingsmuggle.com^
@@ -6802,6 +6811,7 @@ _siteunder/$popup
 ||e11c0ad270.com^
 ||e19fa55209ac.com^
 ||e2059f0a49.com^
+||e218cdc27d.com^
 ||e23f9d993d.com^
 ||e3151012c3.com^
 ||e3d2d0cafa.com^
@@ -10851,6 +10861,7 @@ _siteunder/$popup
 ||rtb42td.com^
 ||rtb4lands.com^
 ||rtbanalytics.com^
+||rtbbonline.com^
 ||rtbdem.com^
 ||rtbinternet.com^
 ||rtbtraf.com^
@@ -12083,6 +12094,7 @@ _siteunder/$popup
 ||xizopiwhu.com^
 ||xjahlvtycxm.com^
 ||xjepbbgxshpef.xyz^
+||xu2.com^
 ||xubpveewfyj.com^
 ||xujanxdro.com^
 ||xvdnmytuiwh.xyz^
@@ -12403,6 +12415,7 @@ _siteunder/$popup
 ||172.255.6.$popup,third-party
 ||1clic1don.fr^$popup
 ||2date.club^$popup
+||35.224.227.218^$popup
 ||380tl.com^$popup,third-party
 ||3wr110.net^$popup,third-party
 ||5movies.live^$popup
@@ -12443,6 +12456,8 @@ _siteunder/$popup
 ||adorika.com^$popup,third-party
 ||adorika.net^$popup,third-party
 ||adpile.net^$popup,third-party
+||adpointbreakrtb.com^$popup
+||adpointrtb.com^$popup
 ||adquantix.com^$popup,third-party
 ||ads2rtb.com^$popup,third-party
 ||adschemist.com^$popup,third-party
@@ -12573,6 +12588,7 @@ _siteunder/$popup
 ||cld2r.com^$popup,third-party
 ||cld3r.com^$popup,third-party
 ||clddt.com^$popup,third-party
+||cleardexchange.com^$popup
 ||click2m.org^$popup
 ||clickadilla.com^$popup
 ||clickadu.com^$popup,third-party
@@ -12960,6 +12976,7 @@ _siteunder/$popup
 ||ridingintractable.com^$popup
 ||rotorrents.com^$popup,third-party
 ||rtbanalytics.com^$popup,third-party
+||rtbbonline.com^$popup
 ||rtbdem.com^$popup,third-party
 ||rtbzone.com^$popup,third-party
 ||rtpdn11.com^$popup
@@ -13126,6 +13143,7 @@ _siteunder/$popup
 ||xmladserver.com^$popup,third-party
 ||xtraserp.com^$popup
 ||xttaff.com^$popup,third-party
+||xu2.com^$popup
 ||yes-messenger.com^$popup,third-party
 ||yesmessenger.com^$popup,third-party
 ||yggtorrent.com^$popup
