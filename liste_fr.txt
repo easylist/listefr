@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: IK1plxtr7n65vwKVzqK67Q
-! Version: 202401051751
+! Checksum: QJ+/qKuCxlFySS2mHDf8Fg
+! Version: 202401061932
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15401,6 +15401,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||annonce.lequipement.fr^
 ||annonces-automobile.com/images/data/banniere/
 ||annonces-automobile.com/images/partenaire/
+||annonces-dz.com/bellat.png
 ||annonces-nc.com/PUBS/
 ||annonces.ci/widgets/$third-party
 ||annonces.nc/pubs/
@@ -22164,6 +22165,7 @@ poki.com##div[width="728"][height="90"]
 distrowatch.com##h2 > a > img
 developpez.net##iframe[width="300"][height="250"]
 developpez.net##iframe[width="728"][height="90"]
+annonces-dz.com##iframe[width^="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
 abidjanshow.com##img[alt="PUBLICITE"]
 medialot.fr##img[height="38"][width="300"]
