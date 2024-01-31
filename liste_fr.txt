@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 6V9A0tcYiWTCkqbTJRVWXA
-! Version: 202401312045
+! Checksum: f/nBOMWZgqzfvwxWlbBJjw
+! Version: 202401312254
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15330,9 +15330,9 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||ad.zanox.com^$popup,domain=configspc.com
 ||aliexpress.com^$popup,domain=dzsat.org
 ||altusmediagroupinc.go2cloud.org^$popup
-||amazon.fr^$popup,domain=fdesouche.com
+||amazon.fr^$popup,domain=fdesouche.com|manga-versus.fr
 ||amzn.to^$popup,domain=dzsat.org|fdesouche.com
-||awin1.com^$popup,domain=configspc.com
+||awin1.com^$popup,domain=configspc.com|manga-versus.fr
 ||baidu.com/link?url=$popup,third-party
 ||beaverscripts.com^$popup,third-party
 ||bet365.com^*?affiliate=$popup
@@ -16733,6 +16733,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||manga-news.com/js/_external.js
 ||manga-news.com/public/bans/
 ||manga-sanctuary.com/pub*/*.php?
+||manga-versus.fr/wp-content/plugins/popup-builder/
 ||mangovideo.*/player/float.php
 ||mangovideo.*/player/html.php
 ||maniabook.argentmania.com/uploads/news/1134/92yHtP4E4Z.gif
