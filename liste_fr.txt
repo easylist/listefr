@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: W3VYyWe42e2CcIZiOtAwWw
-! Version: 202401310115
+! Checksum: 6V9A0tcYiWTCkqbTJRVWXA
+! Version: 202401312045
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21000,7 +21000,6 @@ captchme.com###menubanner
 aujourdhui-en-france.fr,leparisien.fr###meteo-immo
 liligo.fr###midbanner
 20min.ch###min_billboard
-lessentiel.lu###min_rectangle
 jeu.video###mobile_clic
 w0rld.tv###modal
 le-buzz.fr###modal_chrome
@@ -22046,6 +22045,7 @@ jeu.fr##[data-fallback-type="image"]
 tripadvisor.fr##[data-feed-reason="SPONSORED"]
 films-telecharger.eu##[data-hash]
 lemonde.fr##[data-partner="bienici"]
+lessentiel.lu##[data-testid="Ad"]
 qwantjunior.com##[data-testid="autopromoJuniorLink"]
 toutvendre.fr##[href*=".kelkoogroup.net/"]
 meteofrance.com##[href*=".xiti.com"] > img
@@ -22307,6 +22307,7 @@ lefigaro.fr##div[class*="mad__pub__"]
 rakuten.com##div[class*="rads_placement"]
 leboncoin.fr##div[class="vl"]
 booska-p.com##div[class][style^="background"]
+lessentiel.lu##div[class^="ContentPage_insideFullTopPlaceholder"]
 nrj.fr##div[class^="StyledAds"]
 une-recette.com##div[class^="banniere"]
 frandroid.com##div[class^="container_native_"]
@@ -22533,6 +22534,7 @@ lemonde.fr#?#.area--ops:-abp-has(p:-abp-contains(Contenus partenaires))
 lemonde.fr#?#.bd__bloc:-abp-has(.bd__header:-abp-contains(Barnebys.fr))
 leseclaireuses.com#?#.article.small:-abp-has(a[href*=".smartadserver.com"])
 leseclaireuses.com#?#.gslide:-abp-has(a[href^="https://bit.ly/"])
+lessentiel.lu#?#aside:-abp-has(div + span:-abp-contains(Publicité))
 libhunt.com#?#.boxed:-abp-has(.tag:-abp-contains(Sponsored))
 libhunt.com#?#.repo-component:-abp-has(label:-abp-contains(sponsored))
 linfoweb.com#?#.isnotmobi:-abp-has(a:-abp-contains(sponsorisé))
