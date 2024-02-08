@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: SHODdpNZyPsPd4evLAYavw
-! Version: 202402071505
+! Checksum: qmJBzeoDM2kA6Q3VIuKeBg
+! Version: 202402081645
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14333,8 +14333,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||jobtransport.com^$subdocument,third-party
 ||jobup.ch/*?server=$third-party
 ||jokconcept.net/images/jok-concept-annuaire-referencement.gif
-||jokerly.com^*/_final_landscape.
-||jokerly.com^*/habillage/
 ||jolstatic.fr/www/modules/pub/
 ||jolstatic.fr/www/skins/
 ||jolstatic.fr/www/themes/*/habi
@@ -21767,7 +21765,6 @@ meteofrance.com##.mod-publiinfos
 etudiant.lefigaro.fr##.mod.breve.pave-bg
 formation-dz.com##.mod_banners
 le-buzz.fr##.modal-backdrop
-nicematin.com##.modal_background
 techno-science.net##.module.moduleBoutiqueEncart
 aujourdhui-en-france.fr,leparisien.fr##.moduleNew300
 lanutrition.fr##.moduletable-banner
@@ -21784,8 +21781,6 @@ directvelo.com##.news-banner
 porndoe.com##.news-ticker-wrap
 tsa-algerie.com##.newsfeed__ooredoo
 ad4.fr##.nicebtn
-nicematin.com##.nm_ad
-nicematin.com##.nm_header_ad
 echoroukonline.com##.no_design
 msn.com##.non-empty-ad
 moteurs-regionaux.com##.normalCoupProjo
@@ -22649,6 +22644,7 @@ narcity.com#?#.article-thumbnail:-abp-has(a:-abp-contains(/Sponsored|sponsorisé
 nextinpact.com#?#.us-bas-ctr:-abp-has(a[href^="https://www.cybertek.fr/"])
 nextinpact.com#?#app-home-item:-abp-has(.article:-abp-has(.sponsored))
 nextinpact.com#?#li[class="ng-star-inserted"]:-abp-has(.sponsored)
+nicematin.com#?#section:-abp-has(.brand:-abp-contains(sponsorisé))
 nocibe.fr#?#.proditem:-abp-has(.rm-sponsorise)
 numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
 numerama.com#?#.post-card:-abp-has(span:-abp-contains(sponso))
