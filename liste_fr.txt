@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: n8+vNAhbQOJ3X+wgkchUhg
-! Version: 202402090535
+! Checksum: di4kYldFB4osWFRTDt6QYw
+! Version: 202402100051
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -4472,6 +4472,7 @@ _siteunder/$popup
 ||1dbjhsjdfbj1.monster^
 ||1dhbfjgdhj11.monster^
 ||1dsw4fe427q0.top^
+||1e18a448a6.com^
 ||1e397a960b.com^
 ||1e49ec466f.com^
 ||1e628b0c26.com^
@@ -9854,6 +9855,7 @@ _siteunder/$popup
 ||mechantrifian.com^
 ||mediaathay.org.uk^
 ||mediadate.net^
+||mediasama.com^
 ||medncom.com^
 ||meet4you.org^
 ||meetaffiliate.com^
@@ -13430,6 +13432,7 @@ _siteunder/$popup
 ||frtyl.com^$popup
 ||frtyo.com^$popup,third-party
 ||funsafetab.com^$popup,third-party
+||gadlt.nl^$popup
 ||gadsims.com^$popup
 ||galacticmenueasier.com^$popup
 ||gamingaffiliation.com^$popup,third-party
@@ -13542,6 +13545,7 @@ _siteunder/$popup
 ||mavq.net^$popup,third-party
 ||max-adserv.com^$popup,third-party
 ||maxonclick.com^$popup,third-party
+||mediasama.com^$popup
 ||mediavenus.biz^$popup,third-party
 ||medleyads.com^$popup,third-party
 ||medncom.com^$popup,third-party
@@ -15876,7 +15880,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||android-mt.com/wp-content/uploads/2018/11/bouygues.jpg
 ||animefight.com^*/partenaires/
 ||animeka.com/_img/cache/partner/
-||animeserv.net/public/style_extra/partenaires/
 ||annonce.lequipement.fr^
 ||annonces-automobile.com/images/data/banniere/
 ||annonces-automobile.com/images/partenaire/
@@ -20731,6 +20734,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="https://dl-protect.info/url"]
 ##a[href^="https://dl11a.club/"]
 ##a[href^="https://download.uphost.click/?"]
+##a[href^="https://gadlt.nl/"]
 ##a[href^="https://go.alvexo.com/"]
 ##a[href^="https://go.blackbullmarkets.com/"] > img
 ##a[href^="https://go2cliks.net/"]
