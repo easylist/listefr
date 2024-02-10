@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: wmEUSj7QtNkNgR+fazdqoA
-! Version: 202402102033
+! Checksum: h57COodnCeFSbo3nJRux4g
+! Version: 202402102119
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16579,8 +16579,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||maxxxblog.com/disclaimer-st.js
 ||mayottehebdo.com/images/banners/
 ||mayottehebdo.com^*/pub_bottom.
-||mcetv.fr^*/ban-partenaires-
-||mcetv.fr^*/habillage-
 ||med.tn/uploads/banners/
 ||media-ext.wanarun.net^
 ||media.freepik.com/sponsor/
@@ -18436,8 +18434,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ###pub_megaban
 ###pub_megabanner
 ###pub_middle_home
-###pub_nativ1
-###pub_nativ2
 ###pub_pave
 ###pub_pave2
 ###pub_pave3
@@ -20522,7 +20518,6 @@ zikinf.com###album
 akeo.fr###amazon
 millenium.gg###amazon_container
 soap-passion.com###annonce
-mcetv.fr###annonce-header
 upp-auteurs.fr###annonce_a
 upp-auteurs.fr###annonce_b
 leberry.fr###appel_BR_home_BPI_Stonest
@@ -22139,6 +22134,8 @@ developpez.com,developpez.net##div[id^="gabarit_megaban"]
 lachainemeteo.com##div[id^="ob_footer"]
 lachainemeteo.com##div[id^="ob_in-feed"]
 dsih.fr##div[id^="pub"]
+ouest-france.fr##div[id^="pub_native"]
+ouest-france.fr##div[id^="pub_pave_article"]
 universfreebox.com##div[id^="publicite-"]
 musculaction.com##div[id^="pubsousmenu"]
 pagesjaunes.fr##div[id^="push"]
