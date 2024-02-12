@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: h57COodnCeFSbo3nJRux4g
-! Version: 202402102119
+! Checksum: W7VxuuXXKn7elOp41p3VQA
+! Version: 202402120034
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15749,8 +15749,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||dealsdugamer.fr/wp-content/uploads/2020/03/encart-argentplus.jpg
 ||degroupnews.com/*/img/fond/
 ||degroupnews.com/*/img/sidebar/
-||degrouptest.com/images/bonabo-promo/
-||degrouptest.com/images/pub-
 ||demotivateur.fr/images/hab*.jpg
 ||depechedekabylie.com/themes/ddk/img/pub_
 ||des-vieilles-salopes.com/promo/
@@ -20541,6 +20539,7 @@ manga-news.com###ban970250
 grandecran.fr###ban_big
 cdmail.fr###bandeau
 les-terrains.com###bandeauBas
+degrouptest.com###bandeauFooter
 manga-news.com###bangeante
 appcake.net,boursier.com,lesaffaires.com,maliweb.net,nrj.fr###banner
 football.fr,sports.fr###banner-full
@@ -20882,7 +20881,6 @@ telequebec.tv###pubBaniereContainer
 voyageforum.com###pubColumn
 telequebec.tv###pubIlotContainer
 gamer-network.fr###pubLarge
-degrouptest.com###pubLink
 xoo.it###pubRdc
 betaseries.com,soundlightup.com###pubSidebar1
 remede.org###pubSky
@@ -21582,7 +21580,6 @@ expressio.fr##.promoted-vcontainer
 tf1.fr##.promoted_image
 channelbiz.fr,itespresso.fr,silicon.fr##.promotion-box
 ados.fr,afrik-cuisine.com,afrik-foot.com,afrik.com,afrikeco.com,agoravox.fr,agoravox.tv,annuaire-streaming.com,bhmag.fr,bienpublic.com,cciaf.org,centerblog.net,cio-online.com,commentreparer.com,construiresamaison.com,cuisineactuelle.fr,dictionnaire-synonymes.com,docteurclic.com,educatout.com,elbotola.com,elheddaf.com,elitepresse.com,ennaharonline.com,europages.ma,fan-de-cinema.com,femmeactuelle.fr,foot01.com,forumsims3.com,franceinfo.fr,franceinter.fr,gratuiciel.com,hellokids.com,ici.tou.tv,igen.fr,infoconcert.com,inovaovao.com,internetparsatellite.net,iphonesoft.fr,iphonetweak.fr,jeux-hentai.com,jeux-mmorpg.com,ktotv.com,lacapitale.be,lacentrale.fr,ladepeche.fr,lameuse.be,lanouvellegazette.be,laprovince.be,larousse.fr,lefigaro.fr,lemonde.fr,leprogres.fr,lesdebiles.com,lesechos.fr,lesoir.be,lexpress.fr,logicielmac.com,logitheque.com,loractu.fr,macg.co,macommune.info,mapiaule.com,maximiles.com,meilleurtaux.com,menara.ma,midilibre.fr,montelimar-news.fr,mots-croises.ch,nextinpact.com,nintendo-master.com,nordeclair.be,orange.fr,orange.mu,ouest-france.fr,over-blog.com,programme.tv,radio-monaco.com,radioclassique.fr,remede.org,sfr.fr,skirandomag.com,slate.fr,sofoot.com,soonnight.com,telemb.be,telequebec.tv,tf1.fr,tsa-algerie.com,turbo.fr,vipsg.fr,watchgeneration.fr,yabiladi.com,yatahonga.com,zupimages.net##.pub
-degrouptest.com##.pub-bonaboSite
 yggtorrent.ch,yggtorrent.do,yggtorrent.fi,yggtorrent.is,yggtorrent.la,yggtorrent.li,yggtorrent.lol,yggtorrent.nz,yggtorrent.re,yggtorrent.se,yggtorrent.si,yggtorrent.to,yggtorrent.wtf##.pub-box
 lefigaro.fr##.pub-carrousel-mini
 constructeurdemaison.net##.pub-content
@@ -22045,7 +22042,6 @@ upload4earn.org##a[href^="javascript:"]
 windsurfjournal.com##a[href^="link,"]
 quedustream.com##a[href^="streaming-series"]
 savefrom.net##a[id][href][target][style]
-degrouptest.com##a[onclick*="/resultspage/"]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent'"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 thefreeagent.fr##a[rel*="sponsored"]
@@ -22405,7 +22401,6 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 @@||d2rbodpj0xodc.cloudfront.net/stories/*x$image,domain=steller.co
 @@||dai.bfmtv.com/csm/live/*.m3u8?yo.po=$object,domain=bfmtv.com
 @@||dai.bfmtv.com/csm/live/*/*.m3u8;jsessionid=*.cds1.yospace.com?yo.po=$object,domain=bfmtv.com
-@@||degrouptest.com/images/pub-colonne-droite/$image,third-party
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/Ad-Remover/img/Ad-remover$image
 @@||dqndusk8a84ol.cloudfront.net/cache/js/*.js|$script,domain=worldsurfleague.com
