@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: mZ95ReK1ilyKZb/E7fnQLQ
-! Version: 202402120949
+! Checksum: PHVjH5InV1fbt9zCVxDz0g
+! Version: 202402151953
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -4944,6 +4944,7 @@ _siteunder/$popup
 ||alonged.com^
 ||alpmjtkxs.xyz^
 ||alqherreh.com^
+||alsoexplain.com^
 ||altairceleb.com^
 ||altitudefolkastonishment.com^
 ||alulsdsubwro.com^
@@ -5249,6 +5250,7 @@ _siteunder/$popup
 ||bakeryordinal.com^
 ||balaraocleanly.website^
 ||balizevicinal.com^
+||ballblemish.com^
 ||balletsbeep.com^
 ||bamboss.ru^
 ||banalbjar.com^
@@ -5325,6 +5327,7 @@ _siteunder/$popup
 ||beeweedisomer.com^
 ||befamespiked.website^
 ||beguesscrabbit.com^
+||beheldnaive.com^
 ||beheldsled.com^
 ||beigefindaccurate.com^
 ||beigeiros.pw^
@@ -6001,6 +6004,7 @@ _siteunder/$popup
 ||cusqvmqdqpyyct.com^
 ||cuttuberaxis.com^
 ||cuwewegiaesvoi.com^
+||cuysuumrqin.com^
 ||cvifwsxiwmje.xyz^
 ||cvphlqvuvtah.com^
 ||cvrhukknsmuu.com^
@@ -7270,6 +7274,7 @@ _siteunder/$popup
 ||grubbysplay.com^
 ||grudgedflubs.com^
 ||gruffwhitsun.com^
+||grumpclarre.com^
 ||grushashuka.pro^
 ||grvhjsexg.com^
 ||gsaopxqo.com^
@@ -7336,6 +7341,7 @@ _siteunder/$popup
 ||hahsarcane.website^
 ||hailofficemeasure.com^
 ||hajilijnemo.com^
+||halalasxxii.com^
 ||halffullglassnews.com^
 ||hallchiflow.live^
 ||hallionguglet.com^
@@ -7602,6 +7608,7 @@ _siteunder/$popup
 ||iahaisqt.xyz^
 ||iaifxndha.com^
 ||ialmhnjijfsdt.com^
+||iambrevels.guru^
 ||iaxwhriaeku.com^
 ||ibjkowhvrnj.com^
 ||ibksconorccmw.com^
@@ -10047,6 +10054,7 @@ _siteunder/$popup
 ||serratepellaea.com^
 ||serrularockier.com^
 ||sersh.com^
+||serumchicha.com^
 ||service4refresh.info^
 ||servicecouplemagpie.com^
 ||serviusboxers.com^
@@ -10091,6 +10099,7 @@ _siteunder/$popup
 ||shglegle.com^
 ||shibaglybu.com^
 ||shibahcays.com^
+||shibahscarp.top^
 ||shipyards.xyz^
 ||shirtbladder.com^
 ||shklbdtlluu.com^
@@ -11004,6 +11013,7 @@ _siteunder/$popup
 ||whoansee.com^
 ||whoisablet.com^
 ||whouledu.com^
+||whustemu.com^
 ||windsattributeron.com^
 ||windychinese.com^
 ||wingcasquet.com^
@@ -12034,7 +12044,7 @@ _siteunder/$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
-$csp=default-src 'self' 'unsafe-inline' data: *.bootstrapcdn.com *.cloudflare.com *.google.com *.googleapis.com *.gstatic.com *.hcaptcha.com *.jquery.com .jwpcdn.com *.recaptcha.net *.video-delivery.net *.youtube.com *.zencdn.net i.doodcdn.co img.doodcdn.co,domain=d0000d.com|do0od.com|dood.la|dood.pm|dood.re|dood.sh|dood.so|dood.to|dood.watch|dood.wf|dood.ws|dood.yt|doods.pro|doodstream.co|doodstream.com|doodstream.me|dooood.com
+$csp=default-src 'self' 'unsafe-inline' data: *.bootstrapcdn.com *.cloudflare.com *.google.com *.googleapis.com *.gstatic.com *.hcaptcha.com *.jquery.com .jwpcdn.com *.recaptcha.net *.video-delivery.net *.youtube.com *.zencdn.net i.doodcdn.co img.doodcdn.co static.doodcdn.co,domain=d0000d.com|do0od.com|dood.la|dood.pm|dood.re|dood.sh|dood.so|dood.to|dood.watch|dood.wf|dood.ws|dood.yt|doods.pro|doodstream.co|doodstream.com|doodstream.me|dooood.com
 $csp=worker-src 'none',domain=atk-exotics.com|atkebony.com|centrum-dramy.pl|chemikino.ru|clipwatching.com|coinfaucet.eu|cracklists.com|crictime.com|crictime.is|crimedocumentary.com|deltabit.co|descargas2020.com|domnuleprimar.ro|fileone.tv|filmovix.com|filmovix.net|filmovix.org|firstone.tv|firstonetv.eu|firstonetv.live|funtik.tv|genashowalter.com|hdvid.tv|ianimes.org|lewd.ninja|luckybitco.in|nahnoji.cz|neurozinzin.com|novator.az|openload.cc|ovid.tv|peliculas24.me|powvideo.net|salon.com|shush.se|sickrage.ca|studio100.it|tapemovie.com|theappguruz.com|thepiratebay.vip|onion.pet|onion.ly|thepiratebay.cr|thepiratebay.org|torrentrapid.com|tubetitties.com|vidoza.co|vidtodo.com|void.cat
 !
 $websocket,domain=ceesty.com|centrum-dramy.pl|chemikino.ru|clipwatching.com|clkmein.com|cllkme.com|corneey.com|cracklists.com|crimedocumentary.com|datpiff.com|deltabit.co|descargas2020.com|destyy.com|djs.sk|dp-stream.com|festyy.com|firstone.tv|firstonetv.eu|firstonetv.live|ithepiratebay.com|jkanime.net|kinogo.cc|kinogo.club|kinohabr.net|kinokrad.co|kinoprofi.org|kinotochka.club|kinotochka.net|lewd.ninja|love-drama.pl|luckybitco.in|nahnoji.cz|netiap.com|neurozinzin.com|nod-key.su|onion.ly|onion.pet|openload.cc|pblv-plusbellelavie.fr|peliculas24.me|piratebayblocked.com|primewire.li|primewire.tf|reactor.cc|rednubes.de|salon.com|sh.st|shorte.st|shrink-service.it|sickrage.ca|skipp.io|thepiratebay.cr|thepiratebay.vip|tubetitties.com|vido.fun|vidoza.co|vidshare.tv|void.cat|xvideosharing.com
