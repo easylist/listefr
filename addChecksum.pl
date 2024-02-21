@@ -66,11 +66,11 @@ my $checksum = md5_base64(encode_utf8($checksumData));
 die "List has not changed.\n" if (($oldchecksum) and ($checksum eq $oldchecksum));
 
 # Update the date and time.
-my $updated = strftime("%Y-%m-%d %H:%M UTC", gmtime);
+my $updated = strftime("%Y-%m-%d %H:%M %S UTC", gmtime);
 $data =~ s/(^.*!.*(Last modified|Updated):\s*)(.*)\s*$/$1$updated/gmi if ($data =~ m/^.*!.*(Last modified|Updated)/gmi);
 
 # Update version
-my $version = strftime("%Y%m%d%H%M" ,gmtime);
+my $version = strftime("%Y%m%d%H%M%S" ,gmtime);
 $data =~ s/^.*!\s*Version:.*/! Version: $version/gmi;
 
 # Recalculate the checksum as we've altered the date
