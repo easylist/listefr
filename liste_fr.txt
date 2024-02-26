@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: YlGCq9stOV8kfWR9b/LltA
-! Version: 20240226031654
+! Checksum: 3i6QVwgmiO3mfP/NfgyX7w
+! Version: 20240226053233
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2199,6 +2199,8 @@
 /video/pub-
 /videojs-ads/*
 /videojs.adss.
+/view/468/*$script,subdocument
+/view/728/*$script,subdocument
 /virtuagirl-
 /vivads_
 /votre_pub_
@@ -4092,6 +4094,7 @@ _siteunder/$popup
 ||tagcodes.net^$third-party
 ||tagsrvcs.com^$third-party
 ||tango-deg.com^$third-party
+||tapub.fr^$third-party
 ||tbvid.com^$third-party
 ||tc-clicks.com^$third-party
 ||tdsapi.com^$third-party
@@ -9910,6 +9913,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||cinenews.be/partners/
 ||classement.pro/banners/
 ||classement.pro/button.php
+||classement.pro/campagnes/files/banner_
+||classement.pro^$image,third-party
 ||classistatic.com/*/banner/
 ||classistatic.com/*/homepage-banner/
 ||clicjeux.net/bann/
@@ -9989,10 +9994,11 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||easy5now.com/images/b/
 ||ebooks-logiciels.com/depassez-vos-limites/ban/
 ||ecchi.fr/banieres/
-||echangedebannieres.fr/userbanners
+||echangedebannieres.fr/userbanners/
 ||echangedeclics.com/plus468.png
 ||echangedeclics.fr/lien468.gif
-||echangegagnant.com/gagnant468.png
+||echangedeliens.fr/images/alloref.gif
+||echangegagnant.com^$image,third-party
 ||ecomnewsmed.com/application/images/banners/
 ||eden-deco.fr/media/banniere/
 ||edi-static.fr/Images/Pubs/
@@ -10018,6 +10024,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||escort-galleries.com/images/banner/
 ||escortspots.com/static/bn/
 ||essayassist.com/images/banner/
+||etrevisible.com^$image,third-party
 ||etudiant-podologie.fr/images/banniere_
 ||etwvideo.com^*/getvideos&*&name=
 ||euroclix.fr^$domain=176.31.96.119
@@ -10029,8 +10036,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||extrasurf.fr/promo/
 ||extremeporn.info/images/misc/$third-party
 ||f00.psgsm.net/p/891014/sigma-forum.gif
-||faireunlien.com/ful468.
-||faireunlien.com/promo/
+||faireunlien.com^$image,third-party
 ||fanslave.com/images/stories/*/banner-$third-party
 ||fapbase.com/widgets?
 ||fapmd.com/widgets/populars/$third-party
@@ -10205,6 +10211,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||lafranceapoil.com/tools/
 ||lagence.fr/*728-
 ||lagence.fr/immo$third-party
+||lagence.top^$image,third-party
 ||lagitane.com/ban-sites-phares/
 ||laposte.net/webmail/*/panels/images/Pied_de_Mail_
 ||laprocure.com/i/bannieres/
@@ -10279,10 +10286,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||maraboutmekpo-wixsite-com.filesusr.com/html/8c3f10_
 ||mas-e.cds1.yospace.com^
 ||matebux.com/gallery/banners/$third-party
-||maxannu.com/img/cdp125.
-||maxannu.com/img/cdp250.
-||maxannu.com/max468.
-||maxannu.com/promo/
+||maxannu.com^$image,third-party
 ||maximobileshop.com/widget/
 ||maximumwall.com/images/top_ban_
 ||mayakado.net/parrainage/
@@ -10563,7 +10567,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||shopoon.fr/catalog/$third-party
 ||shopping.com/publisher/$third-party
 ||simplyptp.com/images/banner
-||sinstaller.com/immo$third-party
+||sinstaller.com^$image,third-party
 ||sixtyonemedia.com/?campaign=
 ||skrobs.com/pub/
 ||sky-animes.com/public/Partenariat/
@@ -10648,6 +10652,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||topsites.re^$script,third-party
 ||torah-box.com/upl/ban/
 ||tounet.com/button.php
+||tounet.com/campagnes/files/banner_
 ||toutsurlesabdos.com/images/bannieres_$domain=europeplusnet.info
 ||traceless.me/api/$third-party
 ||track.bloglog.com^$third-party
@@ -10774,6 +10779,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||yellowapi.com/twn/?
 ||yimg.com/hl/ap/default/*/HP_*.jpg
 ||yospace.com/csm/
+||youpinet.com^$image,third-party
 ||youtube.com^*autoplay=1$domain=eldjoumhouria.dz|hitek.fr|mon-compte.org
 ||ypncdn.com/static/partner/
 ||yubee.free.fr/admin/bannieres/
@@ -11836,10 +11842,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||easy.onvid.
 ||easyrencontre.com/promo
 ||echangedeclics.com/files/ban
-||echangedeclics.fr/echange.js
 ||echangedeclics.fr/files/ban
 ||echangedeclics.fr/images/echange
-||echangedeclics.fr/images/enligne.gif
 ||echangedeclics.fr/images/maxdetrafic.gif
 ||echoroukonline.com/sponsors2015/
 ||eco-algeria.com/sites/default/files/*-banner-
@@ -12398,6 +12402,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||lautomarche.com/wp-content/uploads/*/pub-
 ||lautomarche.com/wp-content/uploads/2014/10/emerger-animation5-copie-31.gif
 ||lautomarche.com/wp-content/uploads/2014/10/flash-liqui-moly-kadiri-copie1.gif
+||lautosurf.com/images/cdp
 ||laverite.mg/images/Autodiffusion-
 ||laverite.mg/images/pub-
 ||lcd-compare.com/images/*?nzkcheck=
@@ -12589,8 +12594,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||matin.mg/wp-content/uploads/*/matin_
 ||mature-amateur.com^$script
 ||max-videos.com/tools/
-||maxannu.com/img/autosurf.png
-||maxannu.com/img/legagnant250.png
 ||maxisciences.com/js/amazon/
 ||maxisexy.com/pub/
 ||maxxxblog.com/disclaimer-st.js
@@ -16714,7 +16717,6 @@ millenium.gg###habillagesite
 geekopolis.fr###habitdroit
 geekopolis.fr###habitgauche
 football.fr,sports.fr###hablinkzone
-classement.pro###headbanner
 clubpronostics.com###header-banner
 ezgif.com###header-infoblock
 mobiles-actus.com###header3
@@ -17772,6 +17774,7 @@ batiactu.com##.type-NAT_HOME
 batiactu.com##.type-native
 batiactu.com##.type-publi
 topito.com##.type-shopping
+classement.pro,tounet.com##.ubm_banner
 juritravail.com##.ui-pnotify
 cresus.dz##.uk-slideshow[style="height: 718px;"]
 jeuxetcompagnie.fr##.umbg-overlay-link
@@ -18203,7 +18206,7 @@ algerie-eco.com##img[width="300"][height="500"]
 framboise314.fr,guinee7.com##img[width="300"][height="600"]
 guinee7.com,mediaguinee.org##img[width="460"][height="60"]
 supplychainmagazine.fr##img[width="468"]
-abandonware-definition.org,abandonware-magazines.org,abandonware-videos.org,abandonware.org,comparatif-vpn.fr,echangedeclics.fr,echangegagnant.com,espace-francophone.com,genhit.com,israelmagazine.co.il,lankhor.net,space-blogs.net,undernews.fr##img[width="468"][height="60"]
+abandonware-definition.org,abandonware-magazines.org,abandonware-videos.org,abandonware.org,comparatif-vpn.fr,espace-francophone.com,genhit.com,israelmagazine.co.il,lankhor.net,space-blogs.net,undernews.fr##img[width="468"][height="60"]
 mediaguinee.org##img[width="600"][height="62"]
 israelmagazine.co.il##img[width="600"][height="90"]
 mediaguinee.org##img[width="692"][height="100"]
@@ -18216,7 +18219,6 @@ mediaguinee.org##img[width="800"][height="150"]
 emu-france.com##img[width="88"]
 guinee7.com##img[width="958"][height="142"]
 undernews.fr##img[width][height][alt$="VPN"]
-faireunlien.com##img[width^="728height=90"]
 bol.com##li.js_sponsored_product
 leroymerlin.fr##li[data-product-list-id*="sponsored"]
 bonjourmadame.fr##object[width="728"][height="90"]
