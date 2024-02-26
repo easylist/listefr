@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: fGvPLcxbNV2Ae2Q7VAvX3w
-! Version: 20240226055716
+! Checksum: dArakRnukYkJ36NiOIer8Q
+! Version: 20240226062248
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16651,8 +16651,6 @@ solutions-numeriques.com###clickable
 jetanimes.com###clickfakeplayer
 auchan.fr###cms-slot-disclaimerSlot
 tukif.com###co_sponsor
-zebulon.fr###col_droite
-zebulon.fr###col_droite_fine
 soundlightup.com###colonnePub
 renovationettravaux.fr###colorbox
 signification-prenom.com###colpub > #bloc_forum
@@ -17062,7 +17060,7 @@ neko-sama.fr##.aff-wrapper
 ed-protect.org##.affichier_lien > tbody > tr + tr[class]
 mvideoporno.xxx##.affiliate
 nestoria.fr##.afsDiv
-pix-geeks.com,voiturego.com##.afxshop
+pix-geeks.com,voiturego.com,zebulon.fr##.afxshop
 multiup.eu,multiup.org##.alert-info
 detecteur.net##.alert-warning
 homecinema-fr.com##.aliencable-link
@@ -17104,7 +17102,6 @@ katibin.fr##.background-cover
 cnews.fr##.ban-bottom-desktop
 bdgest.com,bedetheque.com##.ban-top
 cnews.fr##.ban-top-habillage
-zebulon.fr##.ban2
 archzine.fr##.banPlace1
 agroligne.com##.ban_holder
 largus.fr##.bandeau-annonce
@@ -18364,6 +18361,7 @@ voyageforum.com#?#div[style*="width: 300px"]:-abp-has(.adsbygoogle)
 voyageforum.com#?#table[class="post"]:-abp-has(tbody:-abp-contains(/annonces|annonceurs/))
 voyageforum.com#?#table[style="width: 300px;"]:-abp-has(a)
 zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
+zebulon.fr#?#.penci-feed:has(a[href*="/sponso-"])
 ! facebook.com
 ||facebook.com/ajax/qm/
 ||facebook.com/tr/
