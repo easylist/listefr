@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: tPS7bjH9KNmgNrk84UtOMQ
-! Version: 20240228070434
+! Checksum: JhSEm4EzdDPXWzfIxgaYyQ
+! Version: 20240228134912
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2343,7 +2343,6 @@
 ://msk.*/redir/
 ://na.ads.
 ://partner.$third-party,domain=~lopinion.fr|~viator.com|~viatorcom.de|~viatorcom.fr|~viatorcom.nl|~viatorcom.no|~viatorcom.se
-://partners.$third-party
 ://play.*/red/?code=
 ://pop.$script,subdocument,third-party,xmlhttprequest
 ://promo.*?site_id=
