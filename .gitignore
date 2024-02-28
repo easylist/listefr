@@ -1,8 +1,9 @@
-# Track txt/md/py/pl files
-!*.txt
-!*.md
-!*.py
-!*.pl
+# Tracked files
+!addChecksum.pl
+!domains.txt
+!FOP.py
+!liste_fr.txt
+!README.md
 
-# Ignore all other types of files
-*.*
+# Untrack other files and folders
+*
