@@ -51,7 +51,7 @@ BLANKPATTERN = re.compile(r"^\s*$")
 COMMITPATTERN = re.compile(r"^(A|M|P)\:\s(\((.+)\)\s)?(.*)$")
 
 # List the files that should not be sorted, either because they have a special sorting system or because they are not filter files
-IGNORE = ("addChecksum.pl", "FOP.py", "hgignore", "pull.bat", "upload.bat")
+IGNORE = ("addChecksum.pl", "FOP.py", "hgignore", "hosts.txt", "pull.bat", "README.md", "upload.bat")
 
 # List all Adblock Plus options (excepting domain, which is handled separately), as of version 1.3.9
 KNOWNOPTIONS = ("collapse", "csp", "csp=frame-src", "csp=img-src", "csp=media-src", "csp=script-src", "csp=worker-src", "document", "elemhide",
