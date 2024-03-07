@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 8Tont7Oehs/monqKajMWbQ
-! Version: 20240306033329
+! Checksum: 0Znkf++GETwRpyxY8mhTgg
+! Version: 20240307142332
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -1387,6 +1387,7 @@
 /exit_pop_up.
 /exoclick300m.
 /extads.
+/ezais/dynamic?
 /ezban.
 /ezmtdata|
 /f.php?aid=AID
@@ -3605,6 +3606,7 @@ _siteunder/$popup
 ||explorads^$third-party
 ||expressusenet.site^$third-party
 ||extensionfactory.com^$third-party
+||ezojs.com^$third-party
 ||ezpopups.com^$third-party
 ||ezstatic.com^$third-party
 ||f5biz.biz^$third-party
@@ -13677,7 +13679,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||webftp.ki-oon.com^
 ||weblettres.net/@images/pub/
 ||webmarchand.be/js/ov.js.php?
-||webrankinfo.com/js/*-adsense.
+||webrankinfo.com/images/partenaires/
 ||webstar-auto.com/banners_pub/
 ||webstar-auto.com/documents/document_service_*.swf
 ||webstar-auto.com/iframe_autos_neufs_occasions.php
@@ -17386,7 +17388,6 @@ amazon.fr##.amzn-safe-frame-container
 tourhebdo.com##.annemp
 madagascar-tribune.com##.annonce
 sortir.eu##.annonce-container
-webrankinfo.com##.annonce-gris
 estrepublicain.fr##.annonceLoc
 estrepublicain.fr##.annonceOr
 montelimar-news.fr##.annonce_bloc
