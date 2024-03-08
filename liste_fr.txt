@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: lQQB6ZymFmvcsxc+1AFEfw
-! Version: 20240307171157
+! Checksum: E07i6+1EViIkX6a51NwnPg
+! Version: 20240308090028
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11653,6 +11653,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||gamingadult.biz/?$popup
 ||gateway.eravage.com/hit.php?$popup
 ||gearbest.com^*?utm_$popup,third-party
+||go.hackmodsapk.com^$popup
 ||go2cloud.org^$popup,domain=jeux-mmorpg.com
 ||goo.gl/QavS0C$popup
 ||goo.gl^$popup,domain=algerie360.com|easybib.com|jeux.com|lnc.nc|openrunner.com|p0rno.org|seriezone.org|trackandnews.fr|za-gay.org
