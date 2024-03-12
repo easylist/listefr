@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: x9i8EHrw6g1Ox5ejfmCXrQ
-! Version: 20240312014120
+! Checksum: wd8S3vwyqjRnL3xtYFLqLg
+! Version: 20240312175400
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -3606,7 +3606,6 @@ _siteunder/$popup
 ||explorads^$third-party
 ||expressusenet.site^$third-party
 ||extensionfactory.com^$third-party
-||ezojs.com^$third-party
 ||ezpopups.com^$third-party
 ||ezstatic.com^$third-party
 ||f5biz.biz^$third-party
@@ -10532,6 +10531,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||exoner.com^$subdocument,third-party
 ||extrasurf.fr/promo/
 ||extremeporn.info/images/misc/$third-party
+||ezojs.com/ezoic/
 ||f00.psgsm.net/p/891014/sigma-forum.gif
 ||faireunlien.com^$image,third-party
 ||fanslave.com/images/stories/*/banner-$third-party
