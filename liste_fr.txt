@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: yuUeaegMDMfQYT4w/mTo9w
-! Version: 20240312180815
+! Checksum: F3VhnAYRmSGHNVfH9/gGuw
+! Version: 20240313185232
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12296,6 +12296,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||distrowatch.com/images/k/
 ||djelfa.info/logo/
 ||dknews-dz.com/themes/frontend/images/desigual.jpg
+||dl-protect.link/assets/images/dd
 ||dl-protect.link/assets/images/dl
 ||dl-protect.link/assets/images/st
 ||dlive.pagesjaunes.fr^
@@ -16768,6 +16769,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="https://click.hooligapps.com/?pid="]
 ##a[href^="https://clickadilla.com/?"]
 ##a[href^="https://clk.pvnsolutions.com/"]
+##a[href^="https://dl-protect.link/request-access-url?"]
 ##a[href^="https://dl-protect.link/request-direct-url?"]
 ##a[href^="https://dl11a.club/"]
 ##a[href^="https://download.uphost.click/?"]
@@ -18749,7 +18751,7 @@ dzgeek.com#?#li + .postbit:-abp-has(img[src$="/avatars/partenaire.png"])
 ebay.fr#?#.sresult:-abp-has(.promoted-lv)
 ebay.fr#?#[id^="nume_html_"]:-abp-has(.mfe-card-group:-abp-has(.mfe-card-group-title:-abp-contains(sponsorisées)))
 ebay.fr#?#[id^="nume_html_"]:-abp-has(.mfe-header:-abp-has(.mfe-pull-left:-abp-contains(sponsorisés)))
-extreme-down.art,extreme-down.moe,extreme-down.site,free-telecharger.lol,gktorrents.org,t911.tv,torrent9.cm,torrent9.fm,torrent911.ws#?#a:-abp-contains(/ANONYME|Anonyme|anonyme|PREMIUM|Premium|RAPIDE|Rapide|Usenet|VPN|Vpn/)
+extreme-down.art,extreme-down.moe,free-telecharger.lol,gktorrents.org,t911.tv,torrent9.cm,torrent9.fm,torrent911.ws#?#a:-abp-contains(/ANONYME|Anonyme|anonyme|PREMIUM|Premium|RAPIDE|Rapide|Usenet|VPN|Vpn/)
 femmeactuelle.fr#?#.specialCard:-abp-has(a[href^="https://cosmoeus.fr/"])
 flaticon.com#?#.soul-p:-abp-has(.footer-sponsor)
 forumconstruire.com#?#.post_simple:-abp-has(.postsimple_pseudo:-abp-contains(/Auto-promo|Autopromo/))
