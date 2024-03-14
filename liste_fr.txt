@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: F3VhnAYRmSGHNVfH9/gGuw
-! Version: 20240313185232
+! Checksum: zACxel4jBWg94/SErwlNWw
+! Version: 20240314104536
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -492,6 +492,7 @@
 /970-x-90.
 /970x90.
 /980x90_$image
+/:\/\/ban\.[\w-]+\./$third-party
 /?cdlad=
 /?placement=*&async$script
 /?placement=*&redirect
@@ -2301,7 +2302,6 @@
 ://afflight.$third-party
 ://ar.ads.
 ://ashot.$script
-://ban.$third-party
 ://banner-gateway.$third-party
 ://banner.*click
 ://banner.*utm_
