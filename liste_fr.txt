@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: R2xH7NvS2Um1GQHVCCnG1A
-! Version: 20240323033925
+! Checksum: 6Sa2RUxT7v/G/GlTMbY+Wg
+! Version: 20240324145206
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18120,7 +18120,7 @@ lecho.be##.c-adh-connecthpwrapper
 rtl.fr##.c-prebid
 terrafemina.com##.c-product
 750g.com##.c-pwned-gg
-manomano.fr##.c8t8QEI
+manomano.fr##.c0mvxYj.X0Q2rg, .nfJi5Z.X0Q2rg
 metronews.fr##.campaign-push-wrapper
 lejsl.com##.campaignImage
 lacentrale.fr##.caradisiac
@@ -19238,7 +19238,6 @@ linfoweb.com#?#tbody:-abp-has(i:-abp-contains(sponsorisé))
 macommune.info#?#.box_article:-abp-has(.is-text-publi-infos)
 macommune.info#?#.widget_article:-abp-has(.title_widget:-abp-contains(/PUBLI INFO|Publi-info/))
 maison-islam.com#?#aside:-abp-has(.widget-title:-abp-contains(Publicité))
-manomano.fr#?#a[class]:-abp-has([data-testid="product-card-sponsored-label"])
 multiup.io#?#.panel-featured-success:has([alt="Usennet.nl"])
 narcity.com#?#.article-thumbnail:-abp-has(a:-abp-contains(/Sponsored|sponsorisé/))
 nextinpact.com#?#.us-bas-ctr:-abp-has(a[href^="https://www.cybertek.fr/"])
