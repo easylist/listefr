@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: aympKqnMQXgtaefV+nKu6A
-! Version: 20240325034830
+! Checksum: JCM327K66m673jvmvX5Vhw
+! Version: 20240325151147
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12954,7 +12954,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||forum.ad/publi/
 ||forum308.com/images/lavageautomoto-5.jpg
 ||forumactif.*/dx?i=
-||forumconstruire.com/*.php?campagne_id=
 ||forumconstruire.com/img/*/bandeau_
 ||forumconstruire.com/img/*/habillage/
 ||forumconstruire.com/img/*/promoto/
@@ -12963,7 +12962,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||forumconstruire.com/img/pubs/
 ||forumconstruire.com/img/sicked/
 ||forumconstruire.com/letsgo/
-||forumconstruire.com^*/a.php
 ||forumdz.com/pub/
 ||forzamotorsport.fr/img/pub/
 ||framapad.org/static/img/bearstech_hosted.png
@@ -14411,7 +14409,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||film01stream.*/voir.php?$popup
 ||filmcomplet.*/?do=$popup
 ||filmsrip.*/?do=$popup
-||forumconstruire.com^*/click.php?$popup
 ||go.filmstreaming1.$popup
 ||guide-du-travail.com/popupaudio.php$popup
 ||histoires-de-sexe.net/histoires-sexe-videos.php$popup
@@ -17404,7 +17401,6 @@ amazon.fr###DAadrp
 amazon.fr###DAr2
 journaldelenvironnement.net###ExpoPermanente
 lefigaro.fr###Fe_Gigaban
-forumconstruire.com###ForumconstruireHB_ATF_300x600
 dsih.fr###Hab_banner
 caradisiac.com###Habillage1
 caradisiac.com###Habillage2
@@ -17774,7 +17770,6 @@ terre.tv###point_part
 clicbienetre.com###popup
 soonnight.com###popup_connect
 sitedesmarques.com###posPub
-forumconstruire.com###pre_element_bloc + .post_background_contener_table0
 aufeminin.com###precontent
 hellokids.com###preroll
 lequipement.fr###prixendirect_block
@@ -17864,7 +17859,6 @@ amazon.fr###sp_detail2
 animeka.com,europages.fr###sponsor
 blogduwebdesign.com###sponsor250
 esi.dz,sfr.fr###sponsors
-forumconstruire.com###st_ad
 monjardinmamaison.fr###sticker-video-popin
 ruedesjoueurs.com###supersticiel
 brain-magazine.fr###t_logo_pub
@@ -18625,7 +18619,6 @@ lemoteur.fr##.slpartner
 boursorama.com##.smart
 telecharger-jeu-pc.com##.smartstore
 slappyto.net##.sonicprice
-forumconstruire.com,forumpiscine.com##.sospon_contener
 echoroukonline.com##.soundcloud-related
 playtv.fr##.span-sidebar
 lefigaro.fr##.spec-ops-box
@@ -18778,7 +18771,6 @@ toutvendre.fr##[onclick*=".kelkoogroup.net/"]
 filecrypt.cc,filecrypt.co##[onclick] img
 filecrypt.cc,filecrypt.co##[onmousedown]
 filecrypt.cc,filecrypt.co##[onmouseup]
-forumconstruire.com,forumpiscine.com##[style="width:350px;cursor:pointer;padding:15px"]
 lesoir.be##a > [width="300"][height="250"]
 basket-infos.com##a > img[alt^="Pub"]
 maligue2.fr##a > img[alt^="Sponsor"]
@@ -18814,7 +18806,6 @@ artdeseduire.com##a[href*="/?part="][target="_blank"]
 webactus.net##a[href*="/?utm_source="]
 sosvirus.net##a[href*="/affiliate-"] > img
 maghrebemergent.com,maghrebemergent.info##a[href*="/banners/click/"]
-forumconstruire.com##a[href*="/click.php?"]
 espritlib.com##a[href*="/goto_part.php?"]
 nouvelobs.com##a[href*="/leguide-shopping."]
 nouvelobs.com##a[href*="/les-bons-plans-shopping/"]
@@ -18987,8 +18978,6 @@ auto-utilitaire.com,mobilealgerie.com##body > a > img
 trictrac.net##body > div + .row.align-center.section
 lokan.fr##body:last-child > div#message
 jeux-sexe-gratuit.com##canvas
-forumpiscine.com##div#\31
-forumconstruire.com##div#\32
 domimmo.com##div#an-fin
 domimmo.com##div#an-fin-legales
 annuaire-horaire.fr##div#aq
@@ -19036,7 +19025,6 @@ voyageforum.com##div[id][style="display: block; width: 850px; margin-top: -9px; 
 voyageforum.com##div[id][style="width: 850px; height: 127px; overflow: hidden; vertical-align: top;"]
 routard.com,sfr.fr##div[id^="A2dEmplacement"]
 korben.info##div[id^="alderaan-"]
-forumconstruire.com##div[id^="bloc_discussion_"] > :first-child + div
 toutvendre.fr##div[id^="bup"]
 fan2.fr,mcm.fr,melty.fr,meltybuzz.fr,meltycampus.fr,meltyfashion.fr,meltyfood.fr,meltystyle.fr,meltyxtrem.fr,virginradio.fr##div[id^="container_A2_"]
 frandroid.com##div[id^="container_native_"]
@@ -19193,8 +19181,6 @@ ebay.fr#?#[id^="nume_html_"]:-abp-has(.mfe-header:-abp-has(.mfe-pull-left:-abp-c
 extreme-down.art,extreme-down.boats,extreme-down.moe,free-telecharger.lol,gktorrent.sh,gktorrents.org,t911.tv,torrent9.fm#?#a:-abp-contains(/ANONYME|Anonyme|anonyme|PREMIUM|Premium|RAPIDE|Rapide|Usenet|VPN|Vpn/)
 femmeactuelle.fr#?#.specialCard:-abp-has(a[href^="https://cosmoeus.fr/"])
 flaticon.com#?#.soul-p:-abp-has(.footer-sponsor)
-forumconstruire.com#?#.post_simple:-abp-has(.postsimple_pseudo:-abp-contains(/Auto-promo|Autopromo/))
-forumpiscine.com#?#.post_classic:-abp-has(.post_classic_pseudo:-abp-has(span:-abp-contains(/Auto-promo|Autopromo/)))
 frandroid.com#?#.post-card:-abp-has(a[href^="https://native.humanoid.fr/"])
 french-stream.*#?##banning
 futura-sciences.com#?#.postcontainer:-abp-has(.username:-abp-contains(Publicité))
