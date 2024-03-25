@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: w1fiKrVAQVxO+oWdjVS3xg
-! Version: 20240324210437
+! Checksum: b/hcgqqFbAZN7STuY5ifZA
+! Version: 20240325015907
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12593,7 +12593,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||besac.com/habillage/
 ||best-fr.com/images/abcdelaremuneration.gif
 ||best-fr.com/images/le1er.gif
-||bfmtv.com/csm/
 ||bibamagazine.fr/extension/mfstandard/design/standard/javascript/lib/reload/mf.
 ||bienpublic.com/images/pub/
 ||bigbike-magazine.com/media/HABILLAGE/
@@ -17491,7 +17490,6 @@ nostalgie.be###Leaderboard_row
 streamcomplet3.biz###PapaGooGorHDVid
 installations-home-cinema.eu###Partenaire
 scan-manga.com###TOPAMZ720
-bfmtv.com###Tpromo
 mappy.com###a300x600
 ahlaejaba.com,net-iris.fr,orange.fr,paruvendu.fr,radio.co.ma,zalotech.com###ad
 annuaire-inverse-france.com,ecouter-en-direct.com,ed-protect.org,liveradio.fr,telecharger-jeu-pc.com###ad1
@@ -18111,6 +18109,7 @@ archzine.fr##.banner_sidebar
 auto-utilitaire.com,mobilealgerie.com##.banner_sp
 auto-utilitaire.com,mobilealgerie.com##.banner_sp_art
 auto-utilitaire.com,mobilealgerie.com##.banner_sp_cat
+bfmtv.com##.banner_top
 cultivoo.com,laverite.mg,rtc.be,sudhorizons.dz##.bannergroup
 liberte-algerie.com##.bannergroup_pave
 emploitic.com,laverite.mg,maghrebemergent.com##.banneritem
@@ -19383,8 +19382,6 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 @@||cowcotland.com/scripjs.php?files=*,jquery.lazyload-ad-$script
 @@||cstatic.weborama.fr/js/advertiser/wbo_performance.js$domain=pmu.fr
 @@||d2rbodpj0xodc.cloudfront.net/stories/*x$image,domain=steller.co
-@@||dai.bfmtv.com/csm/live/*.m3u8?yo.po=$object,domain=bfmtv.com
-@@||dai.bfmtv.com/csm/live/*/*.m3u8;jsessionid=*.cds1.yospace.com?yo.po=$object,domain=bfmtv.com
 @@||diplomatie.gouv.fr^*?adtype=
 @@||donnemoilinfo.com/tuto/Ad-Remover/img/Ad-remover$image
 @@||dqndusk8a84ol.cloudfront.net/cache/js/*.js|$script,domain=worldsurfleague.com
