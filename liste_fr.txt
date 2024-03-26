@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +6mxoQZG0vzK2WkuskHUfA
-! Version: 20240326201952
+! Checksum: m+aqEY5gcXiNBDSZ3AMMFQ
+! Version: 20240326222858
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12630,7 +12630,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||celebjihad.com/images/*.gif
 ||celebjihad.com/widget.js
 ||centerblog.net/buyproxies-
-||centerblog.net/cadre-*?zoneid=$subdocument
+||centerblog.net/cadre-*?zoneid=
+||centerblog.net/cu.js
 ||centerblog.net/your-private-proxy-
 ||centreimmo.com/contents/edition/lien/
 ||cergyvie.fr/wp-content/uploads/*/pub-
