@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: m+aqEY5gcXiNBDSZ3AMMFQ
-! Version: 20240326222858
+! Checksum: ltdUtGwrGqArW4jpjcc29w
+! Version: 20240328213328
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -10885,6 +10885,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||croquettesbio.com/wp-content/uploads/*/skyscreeper-
 ||csm-e.cds1.yospace.com^
 ||csstatic.com/banners/
+||ctb.intersport.fr^
 ||ctrip.com/?TypeID=$third-party
 ||cupinteractive.com^*/campagne/
 ||cyberbaiseuses.com^$subdocument
@@ -10997,6 +10998,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||free.fr/images/bannieres/
 ||freeflights.net/electronique/bannieres/
 ||frenchfriendfinder.com^$domain=choualbox.com
+||fsx.i-run.fr^
 ||fuckandcdn.com^*/ads/
 ||full-wallpaper.com/wallpaperday.js$third-party
 ||full.video/*.htm#
@@ -11521,6 +11523,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||spilcloud.com/gameapi/*_banner_
 ||sponsorboost.com/banniere-rotative.
 ||sponsoweb.com/htdocs/templates/banners/
+||ssa.direct-running.fr^
 ||ssl-images-amazon.com^$domain=fdesouche.com|tempr.email|wikimonde.com
 ||stankyrich.com/relman/
 ||state-of-the-art-mailer.com/rfredir.php
