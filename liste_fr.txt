@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 9CfFux5XcXMaEb+H2vYQOg
-! Version: 20240404070025
+! Checksum: Cw362Izm43L6XXhyOwzgbA
+! Version: 20240404070108
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18978,6 +18978,7 @@ replay.fr##.dfa
 actu.fr,cinenews.be##.dfp
 rtl.fr##.dfp-pave
 nestoria.fr##.dfpDiv
+beaute-test.com##.dfp_banner_atf
 equirodi.be##.div_pt_pub
 linguee.com,linguee.fr##.dlTopBanner
 mavanimes.co##.dmp_Player
@@ -19390,6 +19391,7 @@ foot01.com##.sidebar img:first-child
 ecranlarge.com##.sidebar-banner
 wikiclic.com##.sidebar-promotion
 businessinsider.fr##.sidebar-push
+beaute-test.com##.sidebar-sticky
 deavita.fr##.sidebar_banner
 clicbienetre.com##.sidebar_block
 tirage-gagnant.com##.sidebarclick
