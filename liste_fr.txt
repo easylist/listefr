@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: eyCFR2fOBjj/jJ+LOQHY6A
-! Version: 20240404065845
+! Checksum: w5rvIiINEwhWBCFJCRJMxQ
+! Version: 20240404065945
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16505,6 +16505,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.ad_hidden
 ##.ad_holder_text
 ##.ad_location
+##.ad_mobil
+##.ad_mobil2
 ##.ad_pave-1
 ##.ad_pave-2
 ##.ad_placholder
