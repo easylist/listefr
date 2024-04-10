@@ -20281,6 +20281,7 @@ voyageforum.com#?#div[style*="width: 300px"]:-abp-has(.adsbygoogle)
 voyageforum.com#?#table[class="post"]:-abp-has(tbody:-abp-contains(/annonces|annonceurs/))
 voyageforum.com#?#table[style="width: 300px;"]:-abp-has(a)
 zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
+krefel.be#?#div[class^="Flex-styled__StyledFlex-"]:has(h3:-abp-contains(Produits sponsorisés))
 ! facebook.com
 ||facebook.com/ajax/qm/
 ||facebook.com/tr/
