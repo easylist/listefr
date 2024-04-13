@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: s0xm/yHwrjdNnnSqwzGAkA
-! Version: 20240408220546
+! Checksum: Nk7sVm5ftTro4OTsgPAcxg
+! Version: 20240412235944
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -20232,6 +20232,7 @@ korben.info#?#blockquote:-abp-has(a[href*="http://bitly.com/"])
 korben.info#?#div > hr + article.type-post:-abp-has(header:-abp-has(a[href^="http://bit.ly/"]))
 korben.info#?#div > hr + article.type-post:-abp-has(header:-abp-has(a[href^="http://bitly.com/"]))
 korben.info#?#div[class*="sous-article"]:-abp-has(a[href^="http://amzn.to/"])
+krefel.be#?#div[class^="Flex-styled__StyledFlex-"]:has(h3:-abp-contains(Produits sponsorisés))
 latribune.fr#?#.article-wrapper:-abp-has(.subheading:-abp-contains(Partenaire))
 latribune.fr#?#.homepage-section.supplement-section:-abp-has(span:-abp-contains(Partenaires))
 lebigdata.fr#?#.elementor-widget-wrap:-abp-has(a[href^="http://clickmetertracking.com/"])
@@ -20281,7 +20282,6 @@ voyageforum.com#?#div[style*="width: 300px"]:-abp-has(.adsbygoogle)
 voyageforum.com#?#table[class="post"]:-abp-has(tbody:-abp-contains(/annonces|annonceurs/))
 voyageforum.com#?#table[style="width: 300px;"]:-abp-has(a)
 zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
-krefel.be#?#div[class^="Flex-styled__StyledFlex-"]:has(h3:-abp-contains(Produits sponsorisés))
 ! facebook.com
 ||facebook.com/ajax/qm/
 ||facebook.com/tr/
