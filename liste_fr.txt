@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: iOhaM0PnKnZOH5Xv+67W1g
-! Version: 20240416084702
+! Checksum: X0kEZ4mF1hWlQ7NQGEVjrA
+! Version: 20240416094209
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -263,7 +263,6 @@
 .get_pinder_ads
 .gif?partner=
 .hahaadblock|
-.html?imgPrefix=/$xmlhttprequest
 .html?placement_id=
 .id/ads.
 .io/ads?
@@ -308,7 +307,6 @@
 .php?*/728x90$script
 .php?*/popup_$script
 .php?*/pop|$script
-.php?*=adSlot
 .php?adf_in=
 .php?ads&
 .php?aid=*_ban=
@@ -321,7 +319,6 @@
 .php?format=160x600
 .php?format=728x90
 .php?id=*&ref=$script,third-party
-.php?idb_=*&idc_=$subdocument
 .php?img_adv=
 .php?sponsor=
 .popunders.
@@ -378,7 +375,6 @@
 /160-px-600-
 /160-x-600-
 /160-x-600.
-/160/600|$subdocument
 /160_x_600
 /160by600two.
 /160x300_
@@ -494,17 +490,8 @@
 /970-x-90.
 /970x90.
 /980x90_$image
-/:\/\/ban\.[\w-]+\./$third-party
 /?cdlad=
-/?placement=*&async$script
-/?placement=*&redirect
-/?redirect&placement=
-/?rpartner=$subdocument
-/_affiliate/hubtraffic/*
-/_ra_lib*.php$script
 /a.ads.
-/a.php?*=infopop$script
-/a.php?mode=*&pgid=$script
 /a.php?t=*&pgid=*&rebill=
 /a3lan-
 /a3lan_
@@ -559,7 +546,6 @@
 /ad/*/animation_
 /ad/*/iframe?
 /ad/*/pjs.js
-/ad/*?amtarget=$subdocument
 /ad/*_300250_
 /ad/920-
 /ad/ad3/*
@@ -748,7 +734,6 @@
 /ads/920-
 /ads/920.
 /ads/970x
-/ads/?pubid=
 /ads/?subid=
 /ads/ad1.
 /ads/ad2.
@@ -776,7 +761,6 @@
 /ads/footer2.
 /ads/footer3.
 /ads/footer4.
-/ads/genere_ban.
 /ads/get_
 /ads/gif/*
 /ads/gordiy.
@@ -939,7 +923,6 @@
 /adv/www/*
 /adv/z/?
 /Adv728.
-/adv?banners=
 /adv_300.
 /adv_300_
 /adv_728.
@@ -950,7 +933,6 @@
 /adv_js.
 /adv_pi.
 /advalidation.js
-/advcash.$domain=~advcash.com
 /adver_imgs/*
 /adver_link.
 /advert-serv.
@@ -973,7 +955,6 @@
 /adxAdmin/*
 /adxplatino.
 /adzads_
-/aeXP/src.
 /af-250x250.
 /af-300x250.
 /aff/ads/*
@@ -1014,7 +995,6 @@
 /affilist-$third-party
 /affilitybanners.
 /affpx.php
-/affs?addonname=
 /afiliados/*
 /afiliasi/*/banners/
 /afilyads1.
@@ -1034,7 +1014,6 @@
 /aoa-functions.
 /api.*/ads?
 /api/ads_
-/api/senddata?site=banner&
 /apop/js/zone/*
 /app-ads-
 /appwalletad/*
@@ -1043,7 +1022,6 @@
 /aradpardaz_
 /arriveesPmu_
 /article/ads/*
-/as/go/dl.js$~third-party
 /ashot.js
 /assets/abpe-
 /assets/adf-
@@ -1057,7 +1035,6 @@
 /b.n.php?aid=
 /b/ads/*
 /b728x90a.
-/b_right.$subdocument
 /back-adsens.
 /ball/nomad/*
 /ban-520x20.
@@ -1078,17 +1055,14 @@
 /bandeau_pub_
 /bandeaupublicite/*
 /bandeaux_pub/*
-/bandito.php?$xmlhttprequest
 /banener_pub.
 /baner/ads/*
 /banger.js?cb=
 /banks-ads.
-/banLight.*?ref=
 /bann120x600_
 /bann468X60.
 /banner-*?zoneId=
 /banner-ads
-/banner-publi-lateral.
 /Banner-Tag-
 /banner.ashx?
 /banner.control.
@@ -1119,7 +1093,6 @@
 /banner720x90/*
 /banner728.
 /banner728.gif
-/banner?*&domain=
 /banner?sid=
 /banner_160x60.
 /banner_300x250
@@ -1218,11 +1191,8 @@
 /blog/ads_
 /bn/728/*
 /bn_bnad_
-/bnjs.php?*&aff=
-/bnjs.php?aff=
 /bnr.php?*&format=
 /bnr.php?*&pub=
-/bnr.php?section=
 /bnr/300-150-
 /bnr/300/*
 /bnr/468.
@@ -1236,7 +1206,6 @@
 /bnr_xload.
 /bnrs/yn_bnr.
 /bodyclick.php?id=
-/bonga/*_banner.$subdocument
 /bouton_pub.
 /brand-ads-
 /brightcoveAds.
@@ -1255,7 +1224,6 @@
 /cd_pop_dhtml-
 /cd_pop_dhtml/*
 /cdn-ads-
-/cdn.*/ads.$domain=~tubitv.com
 /cdn.adv.
 /cdn/affiliates/*
 /cdn/banners/*
@@ -1339,7 +1307,6 @@
 /display/*&468&60
 /display/*&728&90
 /display/?affid=
-/display/?method=$subdocument
 /display/ads.
 /display/ads_
 /display/items.*&
@@ -1360,10 +1327,6 @@
 /eas/ads/*
 /ebam/ads.
 /ebayads/*
-/ec_adalt.
-/ec_adalt/*
-/ec_adalt_
-/ec_connectorDelivery.
 /edb.php?*&size=
 /edmonton.webp?
 /effiliation/*
@@ -1448,7 +1411,6 @@
 /gif/sponsor_
 /grafik/ads/*
 /grid/ads/*
-/hashcash.$domain=~hashcash.io
 /hbams/hb_
 /hbams/lib/hb_
 /header-ads.
@@ -1462,7 +1424,6 @@
 /html5/ads/*
 /i54eads.
 /iab-vendors.
-/iab/banner|
 /iadbn?
 /ibd-ads/*
 /ichhar.
@@ -1534,7 +1495,6 @@
 /ipvanish-300x250.
 /iStripper-
 /it/adv/*
-/ivdisclaimer.*?aff=
 /iwadserver.
 /jad-money.
 /javascript/ads_
@@ -1567,7 +1527,6 @@
 /lgads.
 /lgpub.
 /lib/*&adl=$subdocument
-/lib/*&adr=$subdocument
 /libs/ads.
 /license.packed.$script
 /license.packed_$script
@@ -1615,7 +1574,6 @@
 /miniads/*
 /missaffiliate/*
 /mm-ad-widget-
-/mnf_*x*.gif
 /mobile-ad/*
 /mobilead.
 /mobilead300.
@@ -1626,6 +1584,8 @@
 /mosaique/track.php?
 /mpop.js
 /mpopunder.
+/ms-ad-indicator.
+/ms-ad-knowmore.
 /msconfig/ads/*
 /mwpopunder.
 /myadcash.
@@ -1649,21 +1609,18 @@
 /noaabd/*&promo=
 /nordvpn-affiliate-
 /noticead/*
-/notify.php?key=$script,third-party
 /novaonads.
 /npawAdAdapter.
 /npop.js|
 /ntfc.php?p=
 /nugg.ad.
 /nugg.add.
-/null/*/Tag.$script,third-party,xmlhttprequest
 /oas/oas.php?
 /okads_
 /olyhdliveextraads-
 /onmeda_ads_
 /onmedaCmp.
 /open_pub.
-/openwindow.js?puurl=
 /oreo-ad.
 /origin-ads.
 /otherads/*
@@ -1719,8 +1676,6 @@
 /plugins/adKnowMore.
 /plugins/dfp/*$script
 /plugins/em_ad/*
-/plugins/ms-ad-indicator.
-/plugins/ms-ad-knowmore.
 /plugins/vp_pub/*
 /plus728.
 /plx_popup.js
@@ -1729,7 +1684,6 @@
 /polyad.
 /pooads.
 /pop-ads.
-/pop-url/|$script
 /pop.js?ref=
 /pop.packed.
 /pop.php?id=
@@ -1939,7 +1893,6 @@
 /pubdirect-
 /pubdirect.
 /pubdirecte-
-/pubdirecte.$domain=~pubdirecte.com
 /pubdirecte_
 /pubExchange.
 /pubiframe/*
@@ -2004,7 +1957,6 @@
 /reactAds.
 /reader/ads/*
 /redir-ad-
-/redir.*&id_emplacement=*&hash=$subdocument
 /redirect/*?banner=
 /redirect/?spot_id=$script
 /redirect/dl.
@@ -2028,7 +1980,6 @@
 /rekladv/*
 /reklamm.js
 /reklamstore.js
-/reklamy/*$domain=~csbydgoszcz.pl
 /rel/index.cfm?*&TAD=
 /relativeAdsScript.
 /reloadads.
@@ -2056,7 +2007,6 @@
 /rulespop.js
 /sales/*_leaderboard_
 /sas-banner-
-/script.*&promo=*&product_id=$script
 /script.*?partnerid=
 /script.packed.
 /script.packed_
@@ -2225,7 +2175,6 @@
 /watch?*&zone_key=
 /watch?site_key=
 /wbdds.
-/web-clients/bootloaders/*/bootloader.js
 /web/bannieres/*
 /Web_Ad.
 /Web_Ad_
@@ -2332,7 +2281,6 @@
 ://fr.ads.
 ://gateway-banner.
 ://get.*&clickid=
-://get.*?pid=*&subid=
 ://go.*&zoneid=
 ://go.*?af_sub=
 ://go.*?zoneid=
@@ -2340,14 +2288,11 @@
 ://goto.*?zoneid=
 ://imads.
 ://install.*&clickid=
-://install.*?pid=*&subid=
 ://link.*&siteid=$third-party
 ://look.*/offer?prod=
 ://ma.ads.
 ://msk.*/redir/
-://na.ads.
 ://partner.$third-party,domain=~lopinion.fr|~viator.com|~viatorcom.de|~viatorcom.fr|~viatorcom.nl|~viatorcom.no|~viatorcom.se
-://play.*/red/?code=
 ://pop.$script,subdocument,third-party,xmlhttprequest
 ://promo.*?site_id=
 ://promo2.$third-party
@@ -2397,7 +2342,6 @@
 =iframe_pub&
 =popunder&
 =publicite&
-=reklama_*&campaignid=
 =show_ads;
 =sponsored_links_
 =videoAd&
@@ -2409,7 +2353,6 @@
 ?468&60&
 ?728&90&
 ?aads=
-?action=VIEWAD&
 ?ad_domain=
 ?ad_server_
 ?ad_sub=
@@ -2444,7 +2387,6 @@
 ?redir=*/click?
 ?reqType=AdsSetup&
 ?runauction=
-?shu=*&refer=*&key=
 ?size=728x90|$subdocument
 ?sponsor=*&sId=
 ?style=160x600-
@@ -2562,7 +2504,6 @@ _adv_728.
 _advertising_img.
 _affadsense_
 _affiliate.$subdocument
-_affiliate/images/habillage
 _affiliate_banner_
 _alenty.js
 _android_ads.
@@ -2672,7 +2613,6 @@ digitalocean.gif|
 /ai/s/s/js/ssu.v2.js
 /ai/s/s/su.php?
 /backend/*.php?url=
-/exo.go.js
 /nb/thejsfile.js
 /preroll_exo/*
 |https://*/nb.js/*,
@@ -2688,7 +2628,6 @@ digitalocean.gif|
 ! regex filters
 /^https?:\/\/(www\.)?([a-z0-9]{3,16}\.)?[a-z0-9]{5,32}\.([a-z]{2,8})\/([a-z0-9]{2,4}\/){3}[a-f0-9]{32}\.js$/$script,xmlhttprequest
 /^https?:\/\/(www\.)?([a-z0-9]{5,32}\.)([a-z]{2,8})\/[0-9a-f]{32}\/invoke\.js$/$script,xmlhttprequest
-/^https?:\/\/vitamiiin\.com\/(?!wp-content|uploads|plugins|themes)(.*)/$image
 !
 ! Unblockia ads (Adpone)
 /cdn.unblockia.com/*
@@ -2698,10 +2637,7 @@ digitalocean.gif|
 ||com/wnload?a=*&tz=$third-party
 ||net/sw.js?$other,script,~third-party
 ||org/sw.js?$other,script,~third-party
-||pro/*?video=video.fp-engine
 ||pro/js/func.js$script,~third-party
-||xxx/*?video=video.fp-engine
-||xyz^*?resource=*&widgets=*&isct=*&iscs=$third-party
 !
 !------------------------ Génériques popup -----------------------!
 !
