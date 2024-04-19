@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AP3+Zr0DpmxrE5fQKSOkQA
-! Version: 20240416134932
+! Checksum: rQWt+PiNf35JTDsyBZOOBw
+! Version: 20240419001658
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -20290,6 +20290,7 @@ frandroid.com##.is-big-rook.is-big-rookh.is-hidden-mobile
 ##iframe[style="border: 0; width: 728px; height: 110px;"]
 ##iframe[style="border: 0; width: 970px; height: 110px;"]
 ! Filtres de propriété CSS pour Adblock Plus
+auchan.fr##.hp-banner:has(.hp-banner__message-sponsored)
 zebulon.fr##.penci-feed:has(a[href*="/sponso-"])
 1fr1.net,3oloum.com,7olm.org,ahladalil.com,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,easyforumpro.com,fcmulhousefans.com,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumalgerie.net,forumpro.fr,forums-actifs.com,galoppourlavie.org,gid3an.com,jordanforum.net,lebonforum.com,orizzontescuolaforum.net,own0.com,passionmilitaria.com,sorcieremonique.com,superforum.fr,syriaforums.net,walkingdead-rpg.com,yoo7.com,ze-43eme.com#?#.post:-abp-has(.postprofile:-abp-contains(Contenu sponsorisé))
 20min.ch#?#.clusterTop:-abp-has(.teaser:-abp-has(h3:-abp-contains(Paid Post)))
@@ -20303,7 +20304,6 @@ allocine.fr#?#.video-card:-abp-has([class*="sponso"])
 android-mt.com#?#.boutonlink:-abp-has(a:-abp-contains(/VPN|rencontre/))
 android-mt.com#?#.bp-fin:-abp-has(a:-abp-contains(/VPN|rencontre/))
 annonces.nc#?#annonces-post-detail:-abp-has(.bg-boosted)
-auchan.fr##.hp-banner:has(.hp-banner__message-sponsored)
 auchan.fr##article.product-thumbnail:has(.product-thumbnail__sponsored)
 betaseries.com#?#.blockSearch:-abp-has(.adsbygoogle)
 blogdumoderateur.com#?#.breve:-abp-has(.breve-info:-abp-contains(Sponsorisé))
