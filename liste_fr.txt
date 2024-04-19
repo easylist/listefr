@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: mZF0mn52OIIr3YH/VqvM2w
-! Version: 20240419002434
+! Checksum: Y/Z4WLNm4jFVf2mgXBZiUw
+! Version: 20240419010136
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -13907,6 +13907,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||coincodex.com/apps/coincodex/lib/$subdocument
 ||coingecko.com/assets/partners/
 ||commentcamarche.net/api/block/
+||commentseduire.net/wp-content/uploads/2014/12/chaturbate-gratuit.webp
 ||commitstrip.com^*/images/wejusthavetoeat/
 ||comparatif-vpn.fr/wp-content/uploads/*/comparatif-vpn-
 ||compteur-gratuit.fr/images/bandeau_
@@ -20118,6 +20119,7 @@ maliweb.net##a[target="_blank"] > img[width="300"][height="200"]
 forexmt4indicators.com##a[target="_blank"] > img[width="300"][height="250"]
 forexmt4indicators.com##a[target="_blank"] > img[width="300"][height="385"]
 forexmt4indicators.com##a[target="_blank"] > img[width="728"][height="90"]
+commentseduire.net##a[target="blank"] > img
 footpy.fr##a[target^="_blank"] > [style="width:303px"]
 footpy.fr##a[target^="_blank"] > [style="width:584px"]
 gamergen.com,generation-nt.com##article .product
