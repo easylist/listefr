@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: j6KvA74yId9kHjKk5WicWw
-! Version: 20240508214423
+! Checksum: xgPJCCYtlxu3IxeJ340k1A
+! Version: 20240510163339
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -19354,6 +19354,7 @@ largus.fr##.conteneur-sas
 quetelecharger.com##.content-bloc-pub
 cotemaison.fr,lexpress.fr##.content_inside_partner
 nintendo-master.com##.content_kelkoo_link
+japscan.lol##.copinees
 japscan.lol##.copines
 lotusnoir.info##.countclick
 boredpanda.com##.cover-banner
@@ -19580,6 +19581,7 @@ allo-streaming.one##.mvic-btn
 jetanimes.com##.mysticky-welcomebar-fixed
 tchatche.com##.native-banner
 cyberguerre.numerama.com##.native.ic-native
+japscan.lol##.nav-item:has( > .text-truncate.nav-link.font-weight-bold[href*="/manga/?type=nav&content="])
 agroligne.com##.nbs-flexisel-container
 directvelo.com##.news-banner
 porndoe.com##.news-ticker-wrap
