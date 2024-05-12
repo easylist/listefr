@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: xgPJCCYtlxu3IxeJ340k1A
-! Version: 20240510163339
+! Checksum: g15YrvdD8vCdWtJ0j+l5tQ
+! Version: 20240512215613
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18495,6 +18495,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="https://www.eurodns.com/?utm_source="] > img
 ##a[href^="https://www.exoclick.com"]
 ##a[href^="https://www.g2a.com/r/"] > img
+​##a[href^="https://www.g2fame.com/"] > img
 ##a[href^="https://www.get-express-vpn.com/torrent-vpn/?"]
 ##a[href^="https://www.get-express-vpn.com/torrent-vpn?"]
 ##a[href^="https://www.indecentes-voisines.com/iv.php?"]
