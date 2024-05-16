@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: SGyFjv7XTHcuamFvcnjgKw
-! Version: 20240515215033
+! Checksum: 9SpoJBwVppABEPO7ji5WLg
+! Version: 20240516000746
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2597,6 +2597,7 @@ digitalocean.gif|
 /wp-content/plugins/mts-wp-in-post-ads/*
 /wp-content/plugins/progressads/*
 /wp-content/plugins/quick-adsense-reloaded/*
+/wp-content/plugins/rnotify1.*/assets/public/custom.js
 /wp-content/plugins/wp-adsense-guard/*
 /wp-content/plugins/wp-banners/*
 /wp-content/themes/*/ads/*
