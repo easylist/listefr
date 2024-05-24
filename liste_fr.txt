@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Vw7NTy5sbEzMnDquPM5wuQ
-! Version: 20240524012656
+! Checksum: azSNgTtzskSuSdSs+cU3qA
+! Version: 20240524012846
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -18267,6 +18267,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##[data-type="ad"][data-format]
 ##[data-type="ad"][data-publisher]
 ##[display-ad-location]
+##[href^=".tourpowouro.shop/"]
 ##[id*="_custom_ads-"]
 ##[id^="ad_block_"]
 ##[id^="ad_holder_text_"]
