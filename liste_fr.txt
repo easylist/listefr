@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: HKb4+CZ9APwGwPAs1VqsWQ
-! Version: 20240524020029
+! Checksum: hnGAdSQ+70NmzVQFzhEQoA
+! Version: 20240524020903
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -974,7 +974,7 @@
 /affichban.
 /affiliate-butler-
 /affiliate.*/banner
-/affiliate.js
+/affiliate.js$domain=~mercari.com
 /affiliate.min.js
 /affiliate/*/banners/*
 /affiliate/banner.
