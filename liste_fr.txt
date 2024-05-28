@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: NHW5iEB9smPtnk49+4JXAA
-! Version: 20240525054941
+! Checksum: NPOdGZLJraH/XPJHwQX5KA
+! Version: 20240528060453
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15766,8 +15766,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||zoom-algerie.com/images/amazigh-united-250.jpg
 ||zoomdici.fr/media/pub/
 ||ztat.net^*/affiliate/
-! ecranlarge.com
-||ecranlarge.com/*?$script
 ! eroprofile.com
 @@||static.eroprofile.com^*/common.js$script,~third-party
 @@||static.eroprofile.com^*/jquery-$script,~third-party
@@ -17340,6 +17338,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.bloc_pub_left
 ##.bloc_rightcol_pub
 ##.blocactucatpub
+##.block-advertising-insert
 ##.block-artwhere-ads
 ##.block-cPublicite
 ##.block-dm-ads-prisma
@@ -19495,7 +19494,6 @@ grosbill.com##.cda-iab
 maison-et-domotique.com,maxiapple.com##.cegg_widget_products
 akelys.com##.cellulePUB
 neowebcar.com##.cetelem
-ecranlarge.com##.cgIncontentSlot
 hclips.com,txxx.com##.chan_banner
 dhnet.be,lalibre.be##.cinebelSmall
 yahoo.com##.classickick
@@ -19947,7 +19945,6 @@ korben.info##.side a[href*="://bit.ly/"]
 jeuxvideo.com##.sideStore
 gmx.fr##.sideadd
 foot01.com##.sidebar img:first-child
-ecranlarge.com##.sidebar-banner
 wikiclic.com##.sidebar-promotion
 businessinsider.fr##.sidebar-push
 beaute-test.com##.sidebar-sticky
