@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 """ FOP
     Filter Orderer and Preener
     Copyright (C) 2011 Michael
@@ -15,28 +16,35 @@
 
     You should have received a copy of the GNU General Public License
     along with this program. If not, see <http://www.gnu.org/licenses/>."""
+
 # FOP version number
+
 VERSION = 3.9
 
 # Import the key modules
+
 import collections, filecmp, os, re, subprocess, sys
 
 # Check the version of Python for language compatibility and subprocess.check_output()
+
 MAJORREQUIRED = 3
 MINORREQUIRED = 1
 if sys.version_info < (MAJORREQUIRED, MINORREQUIRED):
     raise RuntimeError("FOP requires Python {reqmajor}.{reqminor} or greater, but Python {ismajor}.{isminor} is being used to run this program.".format(reqmajor = MAJORREQUIRED, reqminor = MINORREQUIRED, ismajor = sys.version_info.major, isminor = sys.version_info.minor))
 
 # Import a module only available in Python 3
+
 from urllib.parse import urlparse
 
 # Compile regular expressions to match important filter parts (derived from Wladimir Palant's Adblock Plus source code)
+
 ELEMENTDOMAINPATTERN = re.compile(r"^([^\/\*\|\@\"\!]*?)#\@?#")
 FILTERDOMAINPATTERN = re.compile(r"(?:\$|\,)domain\=([^\,\s]+)$")
 ELEMENTPATTERN = re.compile(r"^([^\/\*\|\@\"\!]*?)(#\@?#?)([^{}]+)$")
 OPTIONPATTERN = re.compile(r"^(.*)\$(~?[\w\-]+(?:=[^,\s]+)?(?:,~?[\w\-]+(?:=[^,\s]+)?)*)$")
 
 # Compile regular expressions that match element tags and pseudo classes and strings and tree selectors; "@" indicates either the beginning or the end of a selector
+
 SELECTORPATTERN = re.compile(r"(?<=[\s\[@])([a-zA-Z]*[A-Z][a-zA-Z0-9]*)((?=([\[\]\^\*\$=:@#\.]))|(?=(\s(?:[+>~]|\*|[a-zA-Z][a-zA-Z0-9]*[\[:@\s#\.]|[#\.][a-zA-Z][a-zA-Z0-9]*))))")
 PSEUDOPATTERN = re.compile(r"(\:[a-zA-Z\-]*[A-Z][a-zA-Z\-]*)(?=([\(\:\@\s]))")
 REMOVALPATTERN = re.compile(r"((?<=([>+~,]\s))|(?<=(@|\s|,)))(\*)(?=([#\.\[\:]))")
@@ -45,15 +53,19 @@ TREESELECTOR = re.compile(r"(\\.|[^\+\>\~\\\ \t])\s*([\+\>\~\ \t])\s*(\D)")
 UNICODESELECTOR = re.compile(r"\\[0-9a-fA-F]{1,6}\s[a-zA-Z]*[A-Z]")
 
 # Compile a regular expression that describes a completely blank line
+
 BLANKPATTERN = re.compile(r"^\s*$")
 
 # Compile a regular expression that validates commit comments
+
 COMMITPATTERN = re.compile(r"^(A|M|P)\:\s(\((.+)\)\s)?(.*)$")
 
 # List the files that should not be sorted, either because they have a special sorting system or because they are not filter files
+
 IGNORE = ("addChecksum.pl", "FOP.py", "hgignore", "hosts.txt", "pull.bat", "README.md", "upload.bat")
 
 # List all Adblock Plus options (excepting domain, which is handled separately), as of version 1.3.9
+
 KNOWNOPTIONS = ("collapse", "csp", "csp=frame-src", "csp=img-src", "csp=media-src", "csp=script-src", "csp=worker-src", "document", "elemhide",
                 "font", "genericblock", "generichide", "image", "match-case",
                 "object", "media", "object-subrequest", "other", "ping", "popup",
@@ -62,6 +74,7 @@ KNOWNOPTIONS = ("collapse", "csp", "csp=frame-src", "csp=img-src", "csp=media-sr
                 "script", "stylesheet", "subdocument", "third-party", "websocket", "webrtc", "xmlhttprequest")
 
 # List the supported revision control system commands
+
 REPODEF = collections.namedtuple("repodef", "name, directory, locationoption, repodirectoryoption, checkchanges, difference, commit, pull, push")
 GIT = REPODEF(["git"], "./.git/", "--work-tree=", "--git-dir=", ["status", "-s", "--untracked-files=no"], ["diff"], ["commit", "-a", "-m"], ["pull"], ["push"])
 HG = REPODEF(["hg"], "./.hg/", "-R", None, ["stat", "-q"], ["diff"], ["commit", "-m"], ["pull"], ["push"])
