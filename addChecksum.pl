@@ -46,40 +46,48 @@ die "Specified file: $file doesn't exist!\n" unless (-e $file);
 my $data = path($file)->slurp_utf8;
 
 # Get existing checksum
+
 $data =~ /^.*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n/gmi;
 my $oldchecksum = $1;
 
 # Remove already existing checksum
+
 $data =~ s/^.*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n//gmi;
 
 # Calculate new checksum: remove all CR symbols and empty
 # lines and get an MD5 checksum of the result (base64-encoded,
 # without the trailing = characters)
+
 my $checksumData = $data;
 $checksumData =~ s/\r//g;
 $checksumData =~ s/\n+/\n/g;
 
 # Calculate new checksum
+
 my $checksum = md5_base64(encode_utf8($checksumData));
 
 # If the old checksum matches the new one die
 die "List has not changed.\n" if (($oldchecksum) and ($checksum eq $oldchecksum));
 
-# Update the date and time.
+# Update the date and time
+
 my $updated = strftime("%Y-%m-%d %H:%M %S UTC", gmtime);
 $data =~ s/(^.*!.*(Last modified|Updated):\s*)(.*)\s*$/$1$updated/gmi if ($data =~ m/^.*!.*(Last modified|Updated)/gmi);
 
 # Update version
+
 my $version = strftime("%Y%m%d%H%M%S" ,gmtime);
 $data =~ s/^.*!\s*Version:.*/! Version: $version/gmi;
 
 # Recalculate the checksum as we've altered the date
+
 $checksumData = $data;
 $checksumData =~ s/\r//g;
 $checksumData =~ s/\n+/\n/g;
 $checksum = md5_base64(encode_utf8($checksumData));
 
 # Insert checksum into the file
+
 $data =~ s/(\r?\n)/$1! Checksum: $checksum$1/;
 
 path($file)->spew_utf8($data);
