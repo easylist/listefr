@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: SrZn8+a47U3AvBxxhs13aw
-! Version: 20240615175532
+! Checksum: Od5fYsNIlDhxk3TJgIr7+g
+! Version: 20240615180510
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -9278,6 +9278,7 @@ _siteunder/$popup
 ||orgalso.com^
 ||organaamnions.com^
 ||orhpvrrlw.top^
+||origoclick.com^
 ||orjzy.com^
 ||orkhovdimin.xyz^
 ||ormlgwepno.com^
@@ -9874,6 +9875,7 @@ _siteunder/$popup
 ||roughyshahs.com^
 ||rougloowhair.com^
 ||roundynews.com^
+||routinato.shop^
 ||rowdyfleamy.com^
 ||rowingsdestiny.top^
 ||rqixssvhwdq.com^
@@ -10783,6 +10785,7 @@ _siteunder/$popup
 ||urbanproxy.eu^
 ||ureckeeds.com^
 ||urediarechaw.com^
+||urgingsnags.com^
 ||uriren.pw^
 ||urlcash.com^
 ||urqdmuhjwea.xyz^
@@ -11801,6 +11804,7 @@ _siteunder/$popup
 ||oopt.fr^$popup,third-party
 ||opsktp.com^$popup
 ||optimuum.com^$popup,third-party
+||origoclick.com^$popup
 ||p.porn.fr^$popup,third-party
 ||pafpaf.com^$popup,third-party
 ||pafutos.com^$popup,third-party
@@ -11878,6 +11882,7 @@ _siteunder/$popup
 ||revenuehits.com^$popup,third-party
 ||revsharecash.com^$popup,third-party
 ||rotorrents.com^$popup,third-party
+||routinato.shop^$popup
 ||rtbanalytics.com^$popup,third-party
 ||rtbbonline.com^$popup
 ||rtbdem.com^$popup,third-party
@@ -12052,6 +12057,7 @@ $popup,domain=123moviesjr.cc|1fichier.com|1movietv.com|2embed.to|3movs.com|3rbup
 $popup,third-party,domain=allmyvideos.net|ceesty.com|clkmein.com|cllkme.com|corneey.com|destyy.com|festyy.com|nincontent.com|sendspace.com|sh.st|shorte.st|skipp.io|yourvid.io|zo3x.com
 $popup,~third-party,domain=a40ans.com|airsexe.com|amatrys.com|gareauxcoquines.com|mrsexe.com|mustvideos.com|plancul-gratuit.fr|plancul-gratuit.org|pornz.fr|rabbitfinder.com|sexeautop.com
 !
+&utm_source=japscan$popup
 |about:blank$popup,domain=japscan.lol
 !
 $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshrinks.com|ahlamtv.com|allviid.xyz|allviids.xyz|clik.pw|cloudvideo.tv|dailyuploads.net|file-up.org|filescdn.com|filescdn.net|gnula.nu|gsurl.in|gsurl.me|ithepiratebay.com|jawcloud.co|jetanimes.com|kissanime.ru|linkcaptcha.net|mavanimes.cc|mavanimes.co|mega-p2p.net|onion.ly|onion.pet|protect-mylinks.com|revivelink.com|short.pe|site-de-streaming.com|streaming-french.wiki|tntendirect.com|toonanime.cc|upload4earn.org|upvid.net|videobin.co
@@ -19125,6 +19131,7 @@ millenium.gg###logo_droite
 centreimmo.com###logos-partenaires
 cdiscount.com###lpHeadlineMain.headlineWithoutLogo
 laposte.net###lpn_pub_main
+japscan.lol###main > .card:has(a[href*="/manga/?type="][href*="&content="][target="_blank"])
 lamanchelibre.fr###marketing_top
 hellokids.com###mask
 gulli.fr###masthead
@@ -19789,7 +19796,6 @@ wiflix.date##.myButton
 jetanimes.com##.mysticky-welcomebar-fixed
 tchatche.com##.native-banner
 cyberguerre.numerama.com##.native.ic-native
-japscan.lol##.nav-item:has( > .text-truncate.nav-link.font-weight-bold[href*="/manga/?type=nav&content="])
 agroligne.com##.nbs-flexisel-container
 directvelo.com##.news-banner
 porndoe.com##.news-ticker-wrap
