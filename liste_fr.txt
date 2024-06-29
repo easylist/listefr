@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: cXSqPNb3fdtTqHi7M4EK7A
-! Version: 20240629163438
+! Checksum: f8u2tp1oiACXoCCC5+faRA
+! Version: 20240629165727
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -17408,6 +17408,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##.article__mobile-ads
 ##.article__pub
 ##.article_pub
+##.arunn-ad
 ##.aside-pub-300
 ##.ban-728
 ##.ban_pub
@@ -20585,7 +20586,7 @@ frandroid.com##.is-big-rook.is-big-rookb.mb-5.is-flex.is-align-items-center.is-j
 frandroid.com##.is-big-rook.is-big-rookb.mt-5.is-flex.is-align-items-center.is-justify-content-center.is-hidden-mobile
 frandroid.com##.is-big-rook.is-big-rookh.is-hidden-mobile
 ! forumactif.com
-1fr1.net,3oloum.com,7olm.org,ahladalil.com,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,darkbb.com,easyforumpro.com,fcmulhousefans.com,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumalgerie.net,forumpro.fr,forums-actifs.com,galoppourlavie.org,gid3an.com,jordanforum.net,lebonforum.com,orizzontescuolaforum.net,own0.com,passionmilitaria.com,sorcieremonique.com,superforum.fr,syriaforums.net,walkingdead-rpg.com,yoo7.com,ze-43eme.com##.croco_wrapper, [onclick*="_"], [onclick*="var"], [onmousedown*="\x"], [style*="height: 90px;"]
+1fr1.net,3oloum.com,7olm.org,ahladalil.com,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,darkbb.com,easyforumpro.com,fcmulhousefans.com,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumalgerie.net,forumpro.fr,forums-actifs.com,galoppourlavie.org,gid3an.com,jordanforum.net,lebonforum.com,orizzontescuolaforum.net,own0.com,passionmilitaria.com,sorcieremonique.com,superforum.fr,syriaforums.net,walkingdead-rpg.com,yoo7.com,ze-43eme.com##.croco_wrapper, [onclick*="var"], [onmousedown*="\x"], [style*="height: 90px;"]
 ! xooit.com
 1freebb.com,babaorum.info,bboard.it,bestforum4u.com,bestforumforyou.com,bestoof.com,bestthread.com,bigboardlive.com,bigforum4you.com,boardforyou.com,cforum.info,clicforum.com,clicforum.fr,coolforum.info,discuforum.info,discussionforyou.com,ebboard.com,fansforum.info,forum-box.com,forumdesfans.com,forumforever.com,forumserv.com,hereboard.com,hotforum4u.com,hotforumonline.com,leforum.cc,leforum.eu,leforum.tv,level52.com,lolforum.com,lolforum.info,majz.com,myforumlive.com,newforumlive.com,ogameteam.com,phpboard1.com,positiforum.info,quickforum.info,smileforum.info,soforums.com,theforumcity.com,topbboard.com,urtopic.com,vraiforum.com,webrpg.info,xoo.it,xooit.be,xooit.biz,xooit.cc,xooit.co.uk,xooit.com,xooit.eu,xooit.fr,xooit.info,xooit.org,xooit.org.uk,xooit.tv##body > div[id][style*="z-index: 99999999; height: 92px; width: 100%;"]
 ##iframe[style="border: 0; width: 728px; height: 110px;"]
