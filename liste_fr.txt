@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: NmemSRTOfTSLcv5Nx9Qy9A
-! Version: 20240718224630
+! Checksum: SF3G0JfphJ/AgCLJmop7TA
+! Version: 20240722074617
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12885,6 +12885,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||rueducommerce.fr/images/locales/*/widget/ban/
 ||ruisseau-des-blaquieres.com/images/banniere
 ||rwabe.com/pub/
+||rza.pmu.fr^
 ||s-sfr.fr/stats/authMsg.js
 ||s.beop.io^
 ||s.beopinion.com^
@@ -15255,8 +15256,10 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||progonline.com/js/message_display.js
 ||projectfreetv.*?d=300x250
 ||promo.vador.com^
+||pronosoft.com/*/bookmakers/bwin/
 ||pronosoft.com/*/bookmakers/unibet/
-||pronosoft.com^*/bookmakers/bwin/
+||pronosoft.com/*/resultats/butenlive.jpg
+||pronosoft.com/img/pub/
 ||protect-url.net/imgbup/
 ||ps3-infos.fr/p/
 ||psgenforce.net/upload/Bwin/
