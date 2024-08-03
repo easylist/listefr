@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gbSmsB0CzcJLNFo13dRj9A
-! Version: 20240803213838
+! Checksum: 9apKIMAHhRL3AbzN8I4naw
+! Version: 20240803215046
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14897,7 +14897,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||lanouvellerepublique.fr/pub/
 ||lanutrition.fr/images/banners/
 ||laposte.net^*/scripts/pub_
-||laprovence.com/sites/all/themes/lpv4/js/pubs.js
 ||laptopspirit.fr/js/suo.js
 ||laptopspirit.fr/wp-content/uploads/new/f22j.gif
 ||laptopspirit.fr^*/habillage-
@@ -20487,6 +20486,7 @@ japscan.lol##div.container > [href]
 finansemble.fr##div.div_description_v2[style="max-width:750px;"]
 kozikaza.com##div[class$="item--ad"]
 net-iris.fr##div[class$="promo-container"]
+laprovence.com##div[class*="Ads_ad_"]
 newpharma.fr##div[class*="adh-banner"]
 gauleporno.xxx,pornburst.xxx##div[class*="banner"]
 lefigaro.fr##div[class*="mad__partenaire__"]
