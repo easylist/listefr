@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 13hm4uG8/Ch0C73Et2ASBQ
-! Version: 20240730213150
+! Checksum: zxZhL3ILhb3HXHPI5PaYhQ
+! Version: 20240803213541
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -20576,6 +20576,7 @@ frandroid.com##.is-big-rook.is-big-rookh.is-hidden-mobile
 ! Filtres de propriété CSS pour Adblock Plus
 auchan.fr##.hp-banner:has(.hp-banner__message-sponsored)
 zebulon.fr##.penci-feed:has(a[href*="/sponso-"])
+nocibe.fr##.product-grid-column:has(.product-tile__sponsored)
 20min.ch#?#.clusterTop:-abp-has(.teaser:-abp-has(h3:-abp-contains(Paid Post)))
 2ememain.be#?#.hz-Listing--list-item:-abp-has(.hz-Listing-priority:-abp-contains(Pub au top))
 algerie-eco.com#?#.td_block_wrap:-abp-has(.block-title:-abp-contains(sponsorisés))
@@ -20661,7 +20662,6 @@ nextinpact.com#?#.us-bas-ctr:-abp-has(a[href^="https://www.cybertek.fr/"])
 nextinpact.com#?#app-home-item:-abp-has(.article:-abp-has(.sponsored))
 nextinpact.com#?#li[class="ng-star-inserted"]:-abp-has(.sponsored)
 nicematin.com#?#section:-abp-has(.brand:-abp-contains(sponsorisé))
-nocibe.fr##.product-grid-column:has(.product-tile__sponsored)
 nocibe.fr#?#.proditem:-abp-has(.rm-sponsorise)
 numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
 numerama.com#?#.post-card:-abp-has(span:-abp-contains(sponso))
