@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: f2JnRqIsQXjOuUU88PQrfw
-! Version: 20240820220255
+! Checksum: 72EqqEPE+aTgiJ+tv/n6gA
+! Version: 20240904214649
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -3137,6 +3137,7 @@ _siteunder/$popup
 ||affidate.com^$third-party
 ||affidirect.com^$third-party
 ||affil4you.com^$third-party
+||affilae.com^$third-party
 ||affilcenter.com^$third-party
 ||affiliatable.io^$third-party
 ||affiliatehub.co.in^$third-party
@@ -12474,6 +12475,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||amateursvideos.net/banners/
 ||amazon.fr/exec/*/external-search?$subdocument,third-party
 ||amazonaws.com/accio-lib/accip_script.js
+||amazonaws.com/aeup/$domain=~affilae.com
 ||amazonaws.com/hbams/
 ||amazonaws.com/mftracker/
 ||amazonaws.com/pubfig/
@@ -13494,6 +13496,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||wp.com/mediaguinee.org/wp-content/uploads/*/banni%c3%a8re-
 ||wp.com/mediaguinee.org/wp-content/uploads/*/banniere-
 ||wp.com/medialot.fr/wp-content/uploads/*?resize=300%2C38
+||wp.com/static.affilae.com/$domain=~affilae.com
 ||wp.com/static.k2s.cc/images/i/
 ||wp.com/static.keep2share.cc/images/i/
 ||wp.com^*-300x250.
