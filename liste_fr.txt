@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 72EqqEPE+aTgiJ+tv/n6gA
-! Version: 20240904214649
+! Checksum: IOnkY2SbX43yoZaUX+7jPw
+! Version: 20240904215257
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -21154,6 +21154,7 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 flasharch.com#@#.ad_area_wrap
 payfit.com#@#.publicity
 casualgame.hange.jp#@#a[href*="/adclick?"]
+newsdig.tbs.co.jp#@#div[data-ad]
 !
 !-------------------------- Anti-Adblock -------------------------!
 ! Guide anti-adblock pour les webmasters :
