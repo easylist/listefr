@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: wsRZd4/WRBS43WRO3/d+8A
-! Version: 20240904223623
+! Checksum: x5EQhmiapHu7+vLfNkSO7Q
+! Version: 20240905212001
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -19038,7 +19038,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="://manage.hostvn.net/aff.php?"] > img
 ##a[href^="ads.php?id="]
 ##a[href^="annonceur.php?id_banniere="]
-##a[href^="href="https://secured.lol/"]
 ##a[href^="http://142.91.159.218/"]
 ##a[href^="http://162.215.254.42/"]
 ##a[href^="http://178.175.132.130/"]
@@ -19168,6 +19167,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="https://recommendedforyou.xyz/"]
 ##a[href^="https://secure.securitetotale.com/"]
 ##a[href^="https://secure.securitetotale.fr/"]
+##a[href^="https://secured.lol/"]
 ##a[href^="https://sharemyads.com/click.php?"]
 ##a[href^="https://shop.spyoff.com/signup/mb?packageId="] > img
 ##a[href^="https://snapmrsexe.com/lp/"]
