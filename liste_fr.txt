@@ -2460,6 +2460,8 @@ digitalocean.gif|
 /backend/*.php?url=
 /nb/thejsfile.js
 /preroll_exo/*
+/s/s/su.php?*&referrer
+/s/s/su.php?*&width=
 |https://*/nb.js/*,
 ! nsfw
 %*.juicyads.
@@ -12750,6 +12752,7 @@ _siteunder/$popup
 ||juicyads.rocks^$popup,third-party
 ||jumpers.mobi^$popup,third-party
 ||justgetitfaster.com^$popup,third-party
+||karissavip.com^$popup
 ||kastafor.com^$popup,third-party
 ||katuhus.com^$popup,third-party
 ||kfiopkln.com^$popup,third-party
@@ -13080,6 +13083,7 @@ _siteunder/$popup
 ||yggtorrent.com^$popup
 ||yoyadsdom.com^$popup,third-party
 ||zaful.com^$popup,third-party
+||ztdog.com^$popup
 ||zwaar.net^$popup,third-party
 ||zwaar.org^$popup,third-party
 !
@@ -19783,6 +19787,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="https://www.shareasale.com/u.cfm?"]
 ##a[href^="https://www.ucoz.net/?pguid="]
 ##a[href^="https://www.winamax.fr/landing/landing_leads.php?"] > img
+##a[href^="https://ztdog.com/"]
 ##a[onclick*="//vimeonk.com/"]
 ##a[onclick*="/adserver/iframe?"]
 ##a[onclick*="FriendlyDuck.com"]
