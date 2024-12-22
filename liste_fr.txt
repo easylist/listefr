@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: eekU9/huG6OJ96sIfK4X6g
-! Version: 20241222044520
+! Checksum: 06SUvUwqzsAjxQzy0EsfdA
+! Version: 20241222045113
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16745,6 +16745,7 @@ leroymerlin.fr##li[data-product-list-id*="sponsored"]
 bonjourmadame.fr##object[width="728"][height="90"]
 bol.com##section.js_slot-sponsored-products
 dealabs.com##section[data-track*="widget_pirates_carousel"]
+codepromo.ouest-france.fr##t1-ad-side-bars
 virusphoto.com##table[width="300"][height="280"]
 societe.com##table[width="303"] > tbody > tr > td[valign="top"][height="260"]
 depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
