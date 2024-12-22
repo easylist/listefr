@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 06SUvUwqzsAjxQzy0EsfdA
-! Version: 20241222045113
+! Checksum: hsHC/ouI26ChK8A8tAFzPQ
+! Version: 20241222083845
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11831,6 +11831,10 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||thevid.*/style/medio/
 ||ticketac.com/upload/banniere/
 ||tignes.net/data/habillages/
+||tiplanet.org/forum/images/banniere_
+||tiplanet.org/forum/images/calcuso_group_2024.webp
+||tiplanet.org/forum/images/jarrety5.webp
+||tiplanet.org/forum/images/navbar-sprite.gif
 ||tlemcen-electronic.com/dfox.gif
 ||tlemcen-electronic.com/forum/vf.gif
 ||tlemcen-electronic.com/mf.swf
@@ -15350,6 +15354,7 @@ marketing-professionnel.fr###leader-wrapper
 zdnet.fr###leaderBottom
 zdnet.fr###leaderTop
 agriaffaires.com,bloggif.com,lesoir.be,play3-live.com,topquizz.fr###leaderboard
+tiplanet.org###left_column > .archive:not([id])
 rugbyfederal.com###left_sky
 grandecran.fr###les_pubs_locales
 orange.fr###lienComPart
@@ -15419,6 +15424,7 @@ expat.com###partner-ajax-on-forum
 cciaf.org###partner_content
 miroirsocial.com,netbeopen.com,slateafrique.com###partners
 sante-dz.com###partners-container
+tiplanet.org###partnersWidget
 windsurfjournal.com###pave300x250
 windsurfjournal.com###pave695x90
 windsurfjournal.com###paves214x157
