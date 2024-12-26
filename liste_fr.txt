@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: FvygOkgNv2biXnTWWJmDjQ
-! Version: 20241223022658
+! Checksum: SURV9Il0U5y8iFI2O9dE8A
+! Version: 20241226092407
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -16650,6 +16650,7 @@ developpez.net##iframe[width="728"][height="90"]
 annonces-dz.com##iframe[width^="728"][height="90"]
 freemindparlexemple.fr##img[alt="Banniere_ENI"]
 abidjanshow.com##img[alt="PUBLICITE"]
+inter-lignes.com##img[alt^="Instit_970p"]
 medialot.fr##img[height="38"][width="300"]
 jpost.com##img[src^="blob:"]
 filecrypt.cc,filecrypt.co##img[style^="display:"]
@@ -16664,7 +16665,7 @@ avis-express.com##img[width="280"][height="425"]
 algerie-eco.com,framboise314.fr,francoischarron.com,israelmagazine.co.il,jeu.fr,maliweb.net,soonnight.com,undernews.fr##img[width="300"][height="250"]
 mediaguinee.org##img[width="300"][height="300"]
 algerie-eco.com##img[width="300"][height="500"]
-framboise314.fr,guinee7.com##img[width="300"][height="600"]
+framboise314.fr,guinee7.com,inter-lignes.com##img[width="300"][height="600"]
 guinee7.com,mediaguinee.org##img[width="460"][height="60"]
 supplychainmagazine.fr##img[width="468"]
 abandonware-definition.org,abandonware-magazines.org,abandonware-videos.org,abandonware.org,comparatif-vpn.fr,israelmagazine.co.il,lankhor.net,space-blogs.net,undernews.fr##img[width="468"][height="60"]
