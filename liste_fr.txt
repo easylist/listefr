@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: A8x8ypINhcTOg8JglehZ1g
-! Version: 20241226094448
+! Checksum: sEofECWSSkvTR9RNOyIufA
+! Version: 20241226095113
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -15735,7 +15735,6 @@ lepoint.fr##.branding
 voyageforum.com##.breadcrumb
 promos-algerie.com##.bstpar
 upload.ac##.btn-dl-plus
-wiflix-catalogue.autos,wiflix-hd.store,wiflixien.space##.btnnew
 gamergen.com,generation-nt.com##.bup
 pix-geeks.com##.bzkshop
 lecho.be##.c-adh-connecthpwrapper
@@ -16197,7 +16196,6 @@ lefigaro.fr##.s24-pub
 lefigaro.fr##.s24-shopping
 lefigaro.fr##.s24-thematique--igraal
 telesatellite.com##.sad
-wiflix-catalogue.autos,wiflix-hd.store,wiflixien.space##.sadst
 ygg.re##.safe_download
 phpsources.org##.sample-lst
 avito.ma##.sc-1p6rkuz-0.bdJKQF
@@ -16726,6 +16724,9 @@ depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
 solutions-numeriques.com##td[onclick^="window.open('https://www.solutions-numeriques.com/r/?"]
 people-looks.com##td[width="340"][height="265"][align="center"]
 people-looks.com##td[width="980"][height="40"][bgcolor="#FFFFFF"]
+! TLD Éléments
+wiflix-catalogue.*,wiflix-hd.*,wiflixien.*##.btnnew
+wiflix-catalogue.*,wiflix-hd.*,wiflixien.*##.sadst
 ! Éléments (utilisé avec $generichide)
 web.archive.org##.placeholder-pub_dfp
 ! frandroid.com
