@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: dbwxYKO0dVyIFtvyrMI5jg
-! Version: 20250102143100
+! Checksum: oKdgT3grbSckrjIqK/Mdpg
+! Version: 20250102143650
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -9564,6 +9564,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||cjoint.com/doc/19_03/ICtp7oZTVeO_top.png
 ||extraimage.net/images/2016/11/26/0cae02446b2049dba84e3968299f4f09.gif
 ||extraimage.net/images/2018/11/11/94c4487764f4012566a15610fac99d9a.png
+||h.top4top.io/p_24851d31n1.png
 ||hostingpics.net/pics/*468x60.
 ||hostingpics.net/pics/*ban.png
 ||hostpic.org^$domain=fdesouche.com
@@ -16259,7 +16260,8 @@ tomsguide.fr##.tabletoff
 walfoot.be##.take-banner
 japscan.lol##.tangoai
 diaspordc.com##.td-a-rec-id-content_bottom
-mobilealgerie.com##.td-header-sp-recs
+auto-utilitaire.com##.td-a-rec-id-content_top
+auto-utilitaire.com,mobilealgerie.com##.td-header-sp-recs
 lexpress.fr##.teads__block
 turbo.fr##.textPub
 lexpress.fr##.thematic_widget
