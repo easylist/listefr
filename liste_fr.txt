@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: IzvHzeBVXpzyhGma1ASrCA
-! Version: 20250102144223
+! Checksum: phgI9P19DGBYjfXegAeNug
+! Version: 20250102152621
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8551,6 +8551,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||azureedge.net/img/*habillage$third-party
 ||azurewebsites.net/widget/
 ||b-cdn.net/uploads/banners_model/
+||b.clc2l.com^
+||b.clictoload.com^
 ||b.photobucket.com^
 ||ba.commentcamarche.net^
 ||ba.copainsdavant.com^
@@ -16816,6 +16818,9 @@ leboncoin.fr#?#.undefined:-abp-contains(Sponsorisé)
 leboncoin.fr#?#a[data-test-id]:-abp-has([class]:-abp-contains(/À la une|Sponsorisé|Urgent/))
 leseclaireuses.com#?#.article.small:-abp-has(a[href*=".smartadserver.com"])
 leseclaireuses.com#?#.gslide:-abp-has(a[href^="https://bit.ly/"])
+lesnumeriques.com#?#.l-section:has(.tops__items)
+lesnumeriques.com#?#.l-section:has(a[href*="/contenus-partenaires"])
+lesnumeriques.com#?#.m-grid__item:has(.c-icon--star)
 lessentiel.lu#?#aside:-abp-has(div + span:-abp-contains(Publicité))
 libhunt.com#?#.boxed:-abp-has(.tag:-abp-contains(Sponsored))
 libhunt.com#?#.repo-component:-abp-has(label:-abp-contains(sponsored))
