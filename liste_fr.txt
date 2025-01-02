@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: PbFU6F0k4vCXEJIEJrQqQA
-! Version: 20241230112510
+! Checksum: QOc5fELuWVtkNYGqfHrc/A
+! Version: 20250102135238
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11452,7 +11452,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||otaku-attitude.net^*/okazu-manga.gif
 ||otakufr.co/wp-content/uploads/*-300x115-
 ||otakufr.co/wp-content/uploads/*/banner.
-||ouedkniss.com/medias/images/
 ||ouestfrance-auto.com/widget/$third-party
 ||ouifm.fr^*/images/partners/
 ||oujdacity.net/kelkoo*.html
@@ -15890,6 +15889,7 @@ vakarm.net##.header_logo + div > table tr > td > a[target="_blank"]
 ouiounon.net##.headertitrelien[target="_blank"]
 igen.fr,macg.co,watchgeneration.fr##.hello-bar
 frandroid.com##.home-featured-plans-container
+ouedkniss.com##.home-land-header
 ouedkniss.com##.home-promo-footer
 ouedkniss.com##.home-promo-header
 lafermeduweb.net##.homePub
@@ -16378,6 +16378,7 @@ commentcamarche.com,commentcamarche.net,free.fr,journaldesfemmes.com,orange.fr,t
 agate-france.com##[id^="pbad_"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 moneyvox.fr##[mam-campaign="Ban"]
+ouedkniss.com##[no-adsense]
 toutvendre.fr##[onclick*=".kelkoogroup.net/"]
 filecrypt.cc,filecrypt.co,lacoccinelle.net##[onclick] img
 filecrypt.cc,filecrypt.co##[onmousedown]
@@ -16834,7 +16835,7 @@ numerama.com#?#.container_native_sidebar:-abp-has(.sponsoring-icon)
 numerama.com#?#.post-card:-abp-has(span:-abp-contains(sponso))
 numerama.com#?#.post-grid:-abp-has(.sponsoring-icon)
 on-mag.fr#?#.uk-margin-remove-last-child:-abp-has(div:-abp-has(span:-abp-contains(PUBLICITÉ)))
-ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/Sponsored|Sponsorisées|Stores à la une/))
+ouedkniss.com#?#.v-container:has(.o-section-heading:-abp-contains(/Ad|Publicité|Sponsored|Sponsorisées|Stores à la une|إعلان|إعلانات في المقدمة|متاجر في المقدمة/))
 phonandroid.com#?#li:-abp-has(a:-abp-contains(sponso))
 positivr.fr#?#article:-abp-has(.sponsored-notice)
 rakuten.com#?#[data-productid]:-abp-has(a[href^="/offer?action="])
