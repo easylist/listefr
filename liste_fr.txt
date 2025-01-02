@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: rjoku4LRxJPBkLYe4PMfeg
-! Version: 20250102221235
+! Checksum: TxGTMc3fqGM6z6yYbKXhZw
+! Version: 20250102233225
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -9576,9 +9576,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ! edisound.com (podcast sponsorisé)
 ||platform.edisound.com^$domain=lejournaldelamaison.fr
 ||publishers.edisound.com^$domain=lejournaldelamaison.fr
-! dailymotion.com
-||dailymotion.com/cdn/$media,script
-||dmcdn.net^$media
 ! Webediads revolving adservers
 /acceptable.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lebonguide.com|lestream.fr|musiquemag.com|ozap.com|plurielles.fr|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com|villaschweppes.com
 /acceptable.$~script
