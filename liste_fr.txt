@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AI1XusnidQLGM3iyP1Gd9A
-! Version: 20250102214800
+! Checksum: +mnMFmM7vBmDG+hWY+KiCg
+! Version: 20250102220446
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8956,6 +8956,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||i.alicdn.com/*/show-window/index.js
 ||i.ebayimg.com$domain=trackitonline.org|trackitonline.ru
 ||i0.wp.com/galsen221.com/wp-content/uploads/2018/09/1xbanner.png
+||i0.wp.com/www.frenchweb.fr/wp-content/uploads/2024/10/we_pub.png
 ||ichwuerde.com/images/b/
 ||icpc.tv/banners/$domain=europeplusnet.info
 ||idcloudhost.com/wp-content/uploads/$third-party
@@ -10820,8 +10821,12 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||freepik.com/coupons/popup?
 ||freepik.com/media/img/banners/
 ||frenchweb.fr/wp-content/uploads/2018/02/webinar4opportunites.jpg
-||frenchweb.fr/wp-content/uploads/2020/01/Nuxeo3001201200.png
-||frenchweb.fr/wp-content/uploads/2020/01/Ozitem040220728.png
+||frenchweb.fr/wp-content/uploads/2020/01/nuxeo3001201200.png
+||frenchweb.fr/wp-content/uploads/2020/01/ozitem040220728.png
+||frenchweb.fr/wp-content/uploads/2024/05/ovh-gitex-2024.png
+||frenchweb.fr/wp-content/uploads/2024/10/we_pub.png
+||frenchweb.fr/wp-content/uploads/2024/12/brevo_pub2.png
+||frenchweb.fr/wp-content/uploads/2024/12/display-970x250-beginners-1-2.jpg
 ||frigoristes.fr/images/*_ban.
 ||frigoristes.fr/themes/frost/images/annonceurs/
 ||frprn.com/even/
@@ -15592,6 +15597,7 @@ brain-magazine.fr###t_logo_pub
 dinogaia.com###tableau_info
 lelmanga.com###teaser3
 tech2tech.fr###text-html-widget-20
+frenchweb.fr###text-html-widget-324
 psthc.fr###thc_amz_content
 quick-tutoriel.com###the-post .warning
 phpsources.org###titre_librairie
@@ -15680,6 +15686,7 @@ lejsl.com##.addPic
 actustar.com,antoineguilbert.fr,clubic.com,cnews.fr,cvya.dz,floriankarmen.com,footespagnol.fr,fourchette-et-bikini.fr,hentaihaven.org,hostinger.fr,huffingtonpost.fr,jeune-independant.net,jooble.org,ldlc.com,leparisien.fr,lephpfacile.com,lequipe.fr,oujdacity.net,over-blog.com,p30day.com,pokestrat.com,raje.fr,replay.fr,shemsfm.net,sortiesdvd.com,stars-portraits.com,supertoinette.com,televiseurs.net,tonmanga.com,universalis.fr,viamichelin.be,viamichelin.ch,viamichelin.com,viamichelin.fr,webstar-auto.com,webstar-electro.com##.ads
 jeux.org##.adtitle
 fusac.fr,laposte.fr,lebonfap.com,lefigaro.fr,letagparfait.com,rajacasablanca.com##.adv
+frenchweb.fr##.adv-link
 crawlclocks.com,fipradio.fr,francemusique.fr,girlsgogames.fr,jeu.fr,lesoir.be,lestrepublicain.com,midilibre.fr,monpetitforfait.com##.advert
 decitre.fr##.advertise
 lemoniteur.fr,skipass.com,telerama.fr##.advertisement
@@ -16793,7 +16800,7 @@ israelmagazine.co.il##img[width="600"][height="90"]
 mediaguinee.org##img[width="692"][height="100"]
 mediaguinee.org##img[width="692"][height="85"]
 mediaguinee.org##img[width="695"][height="86"]
-algerie-eco.com,autosurfs.fr,framboise314.fr,francoischarron.com,jeu.fr,maliweb.net,mediacritik.com,norefer.com,tlemcen-electronic.com,undernews.fr##img[width="728"][height="90"]
+algerie-eco.com,autosurfs.fr,framboise314.fr,francoischarron.com,frenchweb.fr,jeu.fr,maliweb.net,mediacritik.com,norefer.com,tlemcen-electronic.com,undernews.fr##img[width="728"][height="90"]
 mediaguinee.org##img[width="740"][height="161"]
 mediaguinee.org##img[width="740"][height="185"]
 mediaguinee.org##img[width="800"][height="150"]
