@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +mnMFmM7vBmDG+hWY+KiCg
-! Version: 20250102220446
+! Checksum: 1xZBrKiKRg/GcqaHDFPJfw
+! Version: 20250102221042
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -10087,6 +10087,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||starzplayarabia.com/partners/$popup
 ||starzplayarabia.com^&utm_$popup
 ||static.tellerium.com^$popup
+||stock.adobe.com^$popup,domain=freepik.com
 ||streaming-hentai.org^*?$popup
 ||t.vptbn.com^$popup
 ||thekingavatar.com/wp-content/uploads/$popup,third-party
