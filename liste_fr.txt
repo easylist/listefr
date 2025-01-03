@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: InzkbAkxqcshemij7kzzEQ
-! Version: 20250102235516
+! Checksum: SnEV5ixXSc7wHYlPXpHm4w
+! Version: 20250103000851
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8509,6 +8509,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||123plaisir.com^$script,subdocument,third-party
 ||123rfapis.com/crossdomain.xml
 ||1873083787.rsc.cdn77.org^
+||1f2e7.v.fwmrm.net^
 ||1ink.cc/banners/
 ||1movietv.com/favis/
 ||2img.net/i/fa/banner/
@@ -8520,6 +8521,10 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||46.105.62.117/vador/
 ||4j.com/images/banners/
 ||50centfreedom.us^$image,third-party
+||7b9de.v.fwmrm.net^
+||7bd92.v.fwmrm.net^
+||7cbf2.v.fwmrm.net^
+||7cd77.v.fwmrm.net^
 ||a7.org^$subdocument
 ||a75-10-so.ssl.cdn13.com^
 ||abc-du-gratuit.com^$image,third-party
@@ -8650,6 +8655,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||barredesurf.com/includes/images/bannieres/
 ||baseturf.com/bannieres/
 ||bcrncdn.com/promotions/
+||be-rtl.videoplaza.tv^
 ||be.com/wp-content/uploads/$third-party
 ||belle-salope.fr/ban/$third-party
 ||belledesfleurs.com/ban/$third-party
@@ -9269,6 +9275,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||promopure.com^$subdocument,third-party
 ||pronostic-facile.fr/images/bandeau_
 ||pronoturf.free.fr/pub/
+||proxy.ads.canalplus-bo.net^
 ||proxy.vidazoo.com^
 ||ptp-cash.net/banclickcpm
 ||pub-algeriatenders.s3.eu-central-1.amazonaws.com^
@@ -10178,6 +10185,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||adn.tukif.com^
 ||adopteunmec.com^*/pave_partenaire_
 ||adproxy.tf1.fr^
+||adserve.lasentinelle.mu^
+||adserver.icimedias.ca^
 ||aeroport.fr/sites/default/files/*/pub-
 ||aeroport.fr/sites/default/files/users/*.gif
 ||afcdn.com^*/smart_recovery.js
