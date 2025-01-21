@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: w/f/vc/IcRNpJ8VcLG7+fA
-! Version: 20250121025956
+! Checksum: +QpdzRreZlAqHmHyFrlldQ
+! Version: 20250121031344
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8723,8 +8723,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||affaires-dz.com/images/banners/
 ||affiliate.vpn.express/scripts/$script
 ||affination.com^*/banners/$third-party
-||africaguinee.com/nds/banners/
-||africaguinee.com/sites/default/files/banniere_
+||africaguinee.com/*/banner
+||africaguinee.com/*/bannier
 ||africanmanager.com/oad/
 ||afrik-cuisine.com^*-partenaires.
 ||afromeet.com/img/ban_
@@ -15324,19 +15324,19 @@ supplychainmagazine.fr##img[width="120"][height="240"]
 ajoutezvotresite.com,jeu.fr##img[width="160"][height="600"]
 guinee7.com,mediaguinee.org##img[width="1667"][height="250"]
 avis-express.com##img[width="280"][height="425"]
-algerie-eco.com,framboise314.fr,francoischarron.com,israelmagazine.co.il,jeu.fr,maliweb.net,soonnight.com,undernews.fr##img[width="300"][height="250"]
-mediaguinee.org##img[width="300"][height="300"]
+africaguinee.com,algerie-eco.com,framboise314.fr,francoischarron.com,israelmagazine.co.il,jeu.fr,maliweb.net,soonnight.com,undernews.fr##img[width="300"][height="250"]
+africaguinee.com,mediaguinee.org##img[width="300"][height="300"]
 algerie-eco.com##img[width="300"][height="500"]
 framboise314.fr,guinee7.com,inter-lignes.com##img[width="300"][height="600"]
 guinee7.com,mediaguinee.org##img[width="460"][height="60"]
 supplychainmagazine.fr##img[width="468"]
-abandonware-definition.org,abandonware-magazines.org,abandonware-videos.org,abandonware.org,comparatif-vpn.fr,israelmagazine.co.il,lankhor.net,space-blogs.net,undernews.fr##img[width="468"][height="60"]
+abandonware-definition.org,abandonware-magazines.org,abandonware-videos.org,abandonware.org,africaguinee.com,comparatif-vpn.fr,israelmagazine.co.il,lankhor.net,space-blogs.net,undernews.fr##img[width="468"][height="60"]
 mediaguinee.org##img[width="600"][height="62"]
 israelmagazine.co.il##img[width="600"][height="90"]
 mediaguinee.org##img[width="692"][height="100"]
 mediaguinee.org##img[width="692"][height="85"]
 mediaguinee.org##img[width="695"][height="86"]
-algerie-eco.com,autosurfs.fr,framboise314.fr,francoischarron.com,frenchweb.fr,jeu.fr,maliweb.net,mediacritik.com,norefer.com,tlemcen-electronic.com,undernews.fr##img[width="728"][height="90"]
+africaguinee.com,algerie-eco.com,autosurfs.fr,framboise314.fr,francoischarron.com,frenchweb.fr,jeu.fr,maliweb.net,mediacritik.com,norefer.com,tlemcen-electronic.com,undernews.fr##img[width="728"][height="90"]
 mediaguinee.org##img[width="740"][height="161"]
 mediaguinee.org##img[width="740"][height="185"]
 mediaguinee.org##img[width="800"][height="150"]
