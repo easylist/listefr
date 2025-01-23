@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: bjSjU8DUxOa4+5RvBgQN/g
-! Version: 20250123041959
+! Checksum: I5d7dGO/H5gjrJfnOGlbPg
+! Version: 20250123050102
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8957,7 +8957,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||capital.fr^*/boutons-pub-header/
 ||careerbuilder.fr/lts/jobstreamintl.aspx?
 ||carrefoune.com^$script
-||carrefour.fr/api/v1/recommendations?
+||carrefour.fr/api/advertising/
 ||carrefour.fr/js-ssr/footer-partner-banner.
 ||carrosseriemagazine.com/image/carrosserie/pub/
 ||casavie.com/images/index_logo.gif
@@ -14465,7 +14465,6 @@ orientation-chabab.com##.footer
 lavenir.net##.footer--partners
 jeunesfooteux.com##.footer-actuly
 pixelads.fr##.footer-partner
-carrefour.fr##.footer-partner-banner
 bx1.be,lephoceen.fr##.footer-partners
 tube8.fr##.footerBanner
 gameblog.fr##.footer__partners
@@ -14976,6 +14975,7 @@ uploaded.net##[class*="pico-"]
 winamax.fr##[class][onclick]
 voyageforum.com##[class^="adShadow"]
 narkive.com,tourte.org##[class^="ads_"]
+carrefour.fr##[class^="advertising-placeholder"]
 webstar-electro.com##[class^="banner"]
 agroligne.com,auto-utilitaire.com,mobilealgerie.com##[class^="banner_"]
 sofoot.com##[class^="bloc-partenaires"]
@@ -15002,6 +15002,7 @@ delhaize.be##[id*="sponsored_products"]
 blick.ch##[id^="appnexus-placement"]
 comarketing-news.fr##[id^="comar-"]
 boulanger.com##[id^="criteo_pageListe"]
+carrefour.fr##[id^="data-advertising"]
 3dnatives.com##[id^="dnati-"]
 commentcamarche.com,commentcamarche.net,free.fr,journaldesfemmes.com,orange.fr,turf-fr.com##[id^="lig_"]
 agate-france.com##[id^="pbad_"]
