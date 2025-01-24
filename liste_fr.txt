@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: f+CFb9yKxoTmMAK0lKRB3g
-! Version: 20250124034356
+! Checksum: bLaPtQ4Jplh4geRPpJgPSQ
+! Version: 20250124053719
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2069,6 +2069,7 @@ _build=iclick-$popup
 ||psmardr.com^$third-party
 ||pub2srv.com^$third-party
 ||pubagence.com^$third-party
+||pubcircle.ai^$third-party
 ||pubinteractive.ca^$third-party
 ||publicideas.com^$third-party
 ||publy.net^$third-party
@@ -8894,6 +8895,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||bitcoin.fr/wp-content/uploads/2021/03/paymium.jpg
 ||blablastream.watch/voir/
 ||blague.info/pub/
+||bleachmx.fr/dl/promo
 ||bleachmx.fr/wp-content/uploads/bleach-
 ||blog-adulte.fr/sextoy.gif
 ||blog-nouvelles-technologies.fr/wp-content/annonceurs/
@@ -15075,6 +15077,7 @@ deco-smart.com##a[href*="?utm_source=ds_shop"]
 voyageforum.com##a[href*="_ads;"]
 welovebuzz.com##a[href*="_adw&"]
 jds.fr##a[href*="_clic.php?"]
+bleachmx.fr##a[href*="californiansmiles.com/products/"]
 metaboli.fr##a[href*="gametap.com/convergence/?"]
 forum-vista.net##a[href*="http://www.liutilities.com/aff"]
 jemangejemincis.fr##a[href*="leadpages.co/"]
@@ -15152,6 +15155,7 @@ hentaifr.net##a[href^="https://drmanga.net"]
 condor.dz##a[href^="https://e-faciliti.dz/"]
 lefigaro.fr##a[href^="https://go.babbel.com/"]
 dailyuploads.net##a[href^="https://href.li/"]
+bleachmx.fr##a[href^="https://meccha-japan.com/"]
 paruvendu.fr##a[href^="https://res.paruvendu.fr/"]
 notre-siecle.com,perelafouine.com##a[href^="https://riskassur-boutique.com/"] > img
 appsystem.fr##a[href^="https://shop.appsystem.fr/"] > img
@@ -15166,7 +15170,6 @@ mega-p2p.net##a[href^="https://www.clictune.com/"]
 goole.fr##a[href^="https://www.ebay.fr/itm/"]
 telecharger-jeuxpc.fr##a[href^="https://www.instant-gaming.com/"]
 lalibre.be##a[href^="https://www.ipmstore.be/"] > img
-bleachmx.fr##a[href^="https://www.leboncoin.fr/"]
 castorama.fr##a[href^="https://www.needhelp.com/projet.php?"]
 solutions-numeriques.com##a[href^="https://www.solutions-numeriques.com/r/?"]
 undernews.fr##a[href^="https://www.undernews.fr/redirect/"]
