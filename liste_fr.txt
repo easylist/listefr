@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 5Kb3R+OW31QHZaWEqOYJzg
-! Version: 20250123051101
+! Checksum: f+CFb9yKxoTmMAK0lKRB3g
+! Version: 20250124034356
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14993,6 +14993,7 @@ reverso.net##[class^="vda-"]
 korben.info##[data-cfpa]
 jeu.fr##[data-fallback-type="image"]
 tripadvisor.fr##[data-feed-reason="SPONSORED"]
+leboncoin.fr##[data-test-id^="advertising"]
 lessentiel.lu##[data-testid="Ad"]
 qwantjunior.com##[data-testid="autopromoJuniorLink"]
 toutvendre.fr##[href*=".kelkoogroup.net/"]
