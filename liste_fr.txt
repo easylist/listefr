@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 0nFeXfjaV0TYzazwEl9MFw
-! Version: 20250126024752
+! Checksum: Ribmo9YfjMq7yoyiGv2AMw
+! Version: 20250126025028
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14931,6 +14931,8 @@ lessentiel.lu##[data-testid="Ad"]
 meteomedia.com##[data-testid="ad-with-pre-text"]
 qwantjunior.com##[data-testid="autopromoJuniorLink"]
 meteomedia.com##[data-testid="content-feed-ad-slot"]
+meteomedia.com##[data-testid="header-ad-content"]
+meteomedia.com##[data-testid="pre-ad-text"]
 toutvendre.fr##[href*=".kelkoogroup.net/"]
 meteofrance.com##[href*=".xiti.com"] > img
 filecrypt.cc,filecrypt.co##[href^="javascript:"]
