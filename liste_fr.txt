@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 97llcksItAQmLZq1D/SWzQ
-! Version: 20250211050948
+! Checksum: 7PcKWiLX4aaS7dHGdwkG2A
+! Version: 20250211051906
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -6824,7 +6824,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||piazza.ch^$subdocument
 ||pimpland.pl/images/$third-party
 ||pix-cdn.org/banners/
-||pixel-secure.solvemedia.com^
 ||placelibertine.com^$image,third-party
 ||planet49.com^*?click=
 ||planete-adulte.com/hit.php?
@@ -6977,7 +6976,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||socialporn.com/banner/
 ||socialporn.com/cx/$third-party
 ||sofascore.com/affiliate/
-||solvemedia.com/acmedia/$image,media
 ||soonnight.com/images/pub/
 ||sophielibertine.com/images/Banniere
 ||space-blogs.com/*/images/banners/
@@ -13033,9 +13031,7 @@ zdnet.fr###mpuBottom
 zdnet.fr###mpuTop
 presse-citron.net,touchdownactu.com###mvp-leader-wrap
 presse-citron.net,touchdownactu.com###mvp-wallpaper
-api.solvemedia.com###myContent
 agroligne.com###myModal
-api.solvemedia.com###myVideo
 p-nintendo.com###network > ul > .jm
 vacanceo.com###new_travelbloc
 net-iris.fr###ni-barreGroup
@@ -14629,7 +14625,6 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 @@||ab.9xbud.com/token|$xmlhttprequest,domain=9xbuddy.online
 @@||ajax.googleapis.com/ajax/libs/$script,domain=4anime.to|9anime.to|9xbuddy.online|adf.ly|adshr.ink|adshrinks.com|android-zone.ws|anime-loads.org|atomcurve.com|atominik.com|ay.gy|babblecase.com|casualient.com|coginator.com|cogismith.com|cracksurl.com|crichd.com|crichd.to|crichd.xyz|dailyuploads.net|databasegdriveplayer.co|direct-torrents.com|dlpsgame.com|europixhd.com|ezie.cc|file-up.org|filmpornofrancais.fr|foumovies.net|gamecopyworld.eu|gdriveplayer.me|gdriveplayer.to|gktorrent.my|gnula.nu|gomo.to|gsurl.in|gsurl.me|gum-gum-streaming.com|ithepiratebay.com|j.gs|kaitect.com|kializer.com|kibuilder.com|kickassanime.mx|kimechanic.com|kinovibe.co|koora.vip|larati.net|lelscanvf.com|mavanimes.co|microify.com|mmoity.com|offmp3.com|onion.ly|onion.pet|ouo.io|ouo.press|picocurl.com|picons.eu|pintient.com|q.gs|quainator.com|quamiller.com|replaymod.com|riffhold.com|saison-streaming.com|segavid.com|shahidlive.co|shink.me|shon.xyz|simizer.com|simkl.com|skamaker.com|skamason.com|softmaroc.org|streamenvf.net|streamlive.to|syrialive.cc|syrialive.tv|t911.pw|theproxy.how|tinyium.com|toonanime.cc|toonanime.xyz|torrent9.se|torrent911.ke|torrentdownload.info|twineer.com|ukpass.co|unblocked2.fun|unblocked2.vip|uppit.com|viahold.com|vializer.com|vidsrc.in|vidsrc.me|vidsrc.net|vidsrc.pm|vidsrc.to|vidsrc.xyz|viwright.com|voirfilms.live|wawacity.nl|xfilesharing.com|yabuilder.com|yacine-tv.vip|yamechanic.com|yoalizer.com|yobuilder.com|yoineer.com|yoitect.com|zipansion.com
 @@||akamai-video-content.com/hls$xmlhttprequest,domain=lvturbo.com|sblona.com|sbrapid.com|streamsb.com
-@@||api-secure.solvemedia.com/papi/$image,script,domain=clik.pw
 @@||bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js$domain=japscan.lol
 @@||bootstrapcdn.com^$script,stylesheet,domain=7-up.net|clicknupload.click|clicknupload.co|clicknupload.red|direct-torrents.com|ettvdl.com|europixhd.com|ezie.cc|filerio.in|gktorrent.my|indishare.org|ithepiratebay.com|mavanimes.co|onion.ly|onion.pet|sadisflix.ing|sadisflix.lat|sadisflix.mom|sadisflix.wiki|shahidlive.co|snowfiles.com|t911.pw|theproxy.how|torrent9.se|torrent911.ke|ukpass.co|uploadrar.com|uupbom.com|xfilesharing.com|youdbox.site
 @@||cdn.fluidplayer.com^*/current/$script,domain=filmpornofrancais.fr
