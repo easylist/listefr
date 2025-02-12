@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: cTyk8bSNgfFV3MMEIDyfwQ
-! Version: 20250212023349
+! Checksum: hC/Avl4gnPUfUcS7kMJGdQ
+! Version: 20250212023618
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -7400,13 +7400,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||zupimages.net/up/20/11/vb6g.png
 ||zupimages.net/up/20/27/1372.gif
 ||zupimages.net/up/21/14/7x9v.gif
-! savefrom.net
-||sfstatic.net/build/js/chunk~inpagePush2-js-main-js
-||sfstatic.net/build/js/chunk~partnersBlock-js-main-js
-||sfstatic.net/build/js/chunk~pBlock-js-main-js
-||sfstatic.net/build/js/chunk~propclick-js-main-js
-||sfstatic.net/build/js/chunk~propellerPush-js-main-js
-||sfstatic.net/build/js/chunk~revive-js-main-js
 ! amazonaws.com
 ||amazonaws.com^$domain=anyanime.com|ay.gy|brain-magazine.fr|citethisforme.com|ddl1.best|despair-paradise.com|easybib.com|esgentside.com|gamecopyworld.click|gamecopyworld.eu|gentside.com|gentside.com.br|gentside.de|gogoanime.io|gorillavid.com|inkapelis.com|istream2watch.com|maquillage.com|maxisciences.com|namemc.com|ohmymag.com|ohmymag.com.br|ohmymag.de|pausefun.com|pausepeople.com|pelisplus.to|replaymod.com|solidfiles.com|stream2watch.org|tokenfly.pw|uploadcrazy.net|vercanalestv1.com|vosbooks.tv|zippyshare.com|zlshorte.net
 ! cloudfront.net
@@ -13182,7 +13175,6 @@ elmoudjahid.com###topads
 mac4ever.com###topappWidget
 algeriepatriotique.com###topbanner_wrapper
 freepik.com###topbar
-savefrom.net###tplInstallNow + .install-now
 dhnet.be###trackuity
 cbanque.com###trk_promoforum
 matchendirect.fr###tux728x90
@@ -14196,7 +14188,6 @@ mr-bricolage.fr##a[href^="https://www.velux.fr/campagnes/offre-jumo?utm_source="
 braindamaged.fr##a[href^="index.php?adclick="]
 upload4earn.org##a[href^="javascript:"]
 windsurfjournal.com##a[href^="link,"]
-savefrom.net##a[id][href][target][style]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent'"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 thefreeagent.fr##a[rel*="sponsored"]
