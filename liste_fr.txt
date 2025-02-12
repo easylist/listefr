@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: hC/Avl4gnPUfUcS7kMJGdQ
-! Version: 20250212023618
+! Checksum: K8BNoOomi0uVUi+Syq8rLA
+! Version: 20250212025307
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8541,12 +8541,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||idurarweb.com/file/manual/formation_infographie_
 ||iframe.lachainemeteo.com^
 ||igg-games.com/wp-content/uploads/20*.gif
-||igg-games.com/wp-content/uploads/2024/02/aaa.jpg
-||igg-games.com/wp-content/uploads/2024/02/hhh3.png
-||igg-games.com/wp-content/uploads/2024/02/sss.jpg
-||igg-games.com/wp-content/uploads/2024/03/f0ff3r-1.jpg
-||igg-games.com/wp-content/uploads/2024/03/fhhd-1.jpg
-||igg-games.com/wp-content/uploads/2024/03/hx.jpg
 ||iiv.pl/banner/
 ||imabox.fr/pub/
 ||imados.fr^*/habbo/
@@ -14035,6 +14029,7 @@ maligue2.fr##a > img[alt^="Sponsor"]
 medialot.fr##a > img[height="250"]
 launedalgerie.com##a > img[src^="/images/stories/U"]
 israelmagazine.co.il##a > img[width="238"]
+igg-games.com##a > img[width^="30"][height="25"]
 ballad-et-vous.fr##a > img[width^="30"][height="250"]
 ballad-et-vous.fr##a > img[width^="300"][height="500"]
 ballad-et-vous.fr##a > img[width^="728"][height="90"]
@@ -14120,6 +14115,7 @@ agroligne.com,zone911.com##a[href^="/component/banners/"]
 babesxworld.com,cocogals.com##a[href^="/goto/"]
 nrj.be##a[href^="/imu/click/"]
 mayottehebdo.com##a[href^="/index.php?option=com_banners"]
+igg-games.com##a[href^="/offernf?"]
 immigrer.com##a[href^="/p/bannieres/"]
 betaseries.com##a[href^="/partner/"]
 telemagazine.fr##a[href^="/produits_contextuels/"]
