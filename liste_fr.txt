@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: N51+2O1YnNDpQwaN4rE62A
-! Version: 20250214091823
+! Checksum: uNJukInwVMdIuoNUSJWwUA
+! Version: 20250215205658
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14523,10 +14523,12 @@ wiflix-catalogue.*,wiflix-hd.*,wiflixien.*##.sadst
 ! Filtres de propriété CSS pour Adblock Plus
 planetegrandesecoles.com##.elementor-element:has(picture.attachment-full.size-full)
 auchan.fr##.hp-banner:has(.hp-banner__message-sponsored)
+frandroid.com##.is-hidden-mobile:has([class^="Billboard"])
 zebulon.fr##.penci-feed:has(a[href*="/sponso-"])
 frandroid.com##.post-card:has(a[href^="https://native.humanoid.fr/"])
 fr.shopping.rakuten.com##.prd_side:has(.gtm_ads_caption)
 nocibe.fr##.product-grid-column:has(.product-tile__sponsored)
+frandroid.com##.sticky-content:has([class^="HalfpageAd"])
 20min.ch#?#.clusterTop:-abp-has(.teaser:-abp-has(h3:-abp-contains(Paid Post)))
 2ememain.be#?#.hz-Listing--list-item:-abp-has(.hz-Listing-priority:-abp-contains(Pub au top))
 fr.shopping.rakuten.com##[data-productid]:has([class^="style_sponsoredAds"])
