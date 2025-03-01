@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 5/lJdKEEH7Aq8DhHA7YJJA
-! Version: 20250301195513
+! Checksum: uG6yibQTGmUB5K+mCD2g4A
+! Version: 20250301200403
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -6629,7 +6629,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||alicdn.com^*-300x250.$domain=~alibaba.com|~aliexpress.com|~aliexpress.ru
 ||alicdn.com^*_220x220.$domain=~alibaba.com|~aliexpress.com|~aliexpress.ru
 ||all-ladies.net/banners/
-||allkeyshop.com/blog/wp-content/uploads/guide_a.
+||allkeyshop.com/blog/wp-content/uploads/g2a-
 ||allo-heberge.com/interface/bannieres/
 ||allo-nom.com/interface/bannieres/
 ||allodiagnostic.com/partenariat/$third-party
@@ -6966,7 +6966,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ||go.nordvpn.net^$third-party
 ||go.pancafepro.com^
 ||go2cloud.org^*?offer_id=
-||goclecd.fr/wp-content/themes/reviewit/freekey/
 ||godaddy.com/getSeal?
 ||gold-barre.com/banner*.
 ||golden-blog-awards.fr/votePlugin.$third-party
@@ -13711,8 +13710,6 @@ soonnight.com##.bas_colonne
 laposte.fr##.basic-pub
 ebay.fr##.beta-placement
 multiup.io##.bg-info
-allkeyshop.com,goclecd.fr##.bg-link-left
-allkeyshop.com,goclecd.fr##.bg-link-right
 iladit.com##.bg-pub-interne
 jeu.video##.bgClick
 moov.mg##.bgTGC
@@ -13795,6 +13792,8 @@ neowebcar.com##.cetelem
 hclips.com,txxx.com,txxx.tube##.chan_banner
 dhnet.be,lalibre.be##.cinebelSmall
 yahoo.com##.classickick
+allkeyshop.com,goclecd.fr##.clb-left
+allkeyshop.com,goclecd.fr##.clb-right
 test-mobile.fr##.clickleft
 test-mobile.fr##.clickright
 test-mobile.fr##.clicktop
