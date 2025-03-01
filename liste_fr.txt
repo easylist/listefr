@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: /c3FDUEFl3g94IIq2etpqQ
-! Version: 20250301194123
+! Checksum: 5/lJdKEEH7Aq8DhHA7YJJA
+! Version: 20250301195513
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14572,6 +14572,7 @@ mr-bricolage.fr##a[href^="https://www.velux.fr/campagnes/offre-jumo?utm_source="
 braindamaged.fr##a[href^="index.php?adclick="]
 upload4earn.org##a[href^="javascript:"]
 windsurfjournal.com##a[href^="link,"]
+free-telecharger.fun##a[onclick]
 petit-bulletin.fr##a[onclick^="_gaq.push(['_trackEvent'"]
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr##a[onclick^="xiti_clic('N', 'Promo_"]
 thefreeagent.fr##a[rel*="sponsored"]
