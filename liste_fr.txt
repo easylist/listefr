@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AbkxPLue/wDzzO3HJyqyLQ
-! Version: 20250308023636
+! Checksum: CaLBOOz8JDB+Q6O+UzrOdw
+! Version: 20250308025314
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -132,6 +132,7 @@
 /affiliate.js$domain=~mercari.com
 /affiliate.min.js
 /affiliates-landing-
+/affilizz.js
 /amp-ad-exit-
 /api.*/ads?
 /assets/adf-
@@ -917,6 +918,7 @@ _build=iclick-$popup
 ||affilinks.fr^$third-party
 ||affilipub.com^$third-party
 ||affility.com^$third-party
+||affilizz.com^$third-party
 ||afflight.biz^$third-party
 ||afftrack001.com^$third-party
 ||afilio.com.br^$third-party
@@ -9432,7 +9434,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ||meilleurs-masters.com/images/habillage/
 ||meilleurs-masters.com/intertitiel/
 ||meilleurstreaminggratuit.com/cgi-bin/snippet.cgi?
-||melty.fr/wp-content/cache/min/1/affilizz.js
 ||memoireetvie.com^$subdocument
 ||mensuelautomobile.com/files/banners/
 ||mensup.fr/*/pub/
