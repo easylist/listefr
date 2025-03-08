@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: uuO6kWDMxBBgoiBixui2wQ
-! Version: 20250308020129
+! Checksum: AbkxPLue/wDzzO3HJyqyLQ
+! Version: 20250308023636
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8911,6 +8911,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ||gameblog.fr/skins/$image
 ||gamekult.com/ajax-info/partner-
 ||gamekult.com/i/partenaires/
+||gamekult.com/publicite/
 ||gamer-network.fr/wp-content/*/g2a-
 ||gamer-network.fr/wp-content/uploads/*/banniere.
 ||gamereactor.dk/prerolls/
@@ -13957,6 +13958,7 @@ jizzbunker.com##.ftr-banners
 mistergooddeal.com##.ftr_partners
 mistergooddeal.com##.ftr_pub
 algeriepatriotique.com,israelmagazine.co.il##.g-dyn
+gamekult.com##.g2__a-dc
 nautiljon.com##.gad
 gamekult.com##.gamerprices-tab
 phonandroid.com##.gm-vpn
@@ -14631,7 +14633,7 @@ appsystem.fr##a[href^="https://shop.appsystem.fr/"] > img
 journaldugeek.com##a[href^="https://shop.journaldugeek.com/go/"] > img
 toplien.fr##a[href^="https://track.effiliation.com/servlet/effi.click?"]
 fdesouche.com,lacoccinelle.net,wikimonde.com##a[href^="https://www.amazon.fr/"]
-toplien.fr##a[href^="https://www.awin1.com/"]
+gamekult.com,toplien.fr##a[href^="https://www.awin1.com/"]
 qwant.com##a[href^="https://www.bing.com/aclick?"]
 qwant.com##a[href^="https://www.bing.com/aclk?"]
 maison-et-domotique.com##a[href^="https://www.bons-plans-elise.fr/"]
