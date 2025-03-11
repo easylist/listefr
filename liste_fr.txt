@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: c5rxtN0/P+Iu78fj4JYFZg
-! Version: 20250309202109
+! Checksum: kpWQo7RMwW+N8TP5Y3ac/w
+! Version: 20250311061352
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8687,6 +8687,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ||forexalgerie.com/img/pub/
 ||formation-dz.com/images/banners/
 ||formation-dz.com/modules/mod_banners/
+||forum-xiaomi.com/as/
 ||forum308.com/images/lavageautomoto-5.jpg
 ||forumactif.*/dx?i=
 ||forumconstruire.com/img/*/bandeau_
@@ -14149,6 +14150,7 @@ lefigaro.fr##.s24-pub
 lefigaro.fr##.s24-shopping
 lefigaro.fr##.s24-thematique--igraal
 ygg.re##.safe_download
+forum-xiaomi.com##.samItem
 phpsources.org##.sample-lst
 avito.ma##.sc-1p6rkuz-0.bdJKQF
 senscritique.com##.sc-klass
@@ -14386,6 +14388,7 @@ booska-p.com##a[href*="/rf/"][style]
 20min.ch##a[href*="/sponsored/"]
 seneweb.com##a[href*="/xban/"]
 rtl.be##a[href*="://ad.doubleclick.net/"]
+fdesouche.com,forum-xiaomi.com##a[href*="://amzn.to/"]
 channelbiz.fr,itespresso.fr,silicon.fr##a[href*="://pubads.g.doubleclick.net/"]
 jeuxetcompagnie.fr##a[href*="://www.ludeek.com/"] > img
 mistergooddeal.com##a[href*="=H_pub_"]
@@ -14444,7 +14447,6 @@ skitour.fr##a[href^="divers/a/out.php?"]
 skitour.fr##a[href^="divers/annonces/out.php?"]
 boursorama.com##a[href^="http://ads."]
 oujdacity.net##a[href^="http://ads.oujdacity.net/"]
-fdesouche.com##a[href^="http://amzn.to/"]
 macg.co,watchgeneration.fr##a[href^="http://aos.prf.hn/"]
 igen.fr##a[href^="http://aos.prf.hn/"] img
 dhnet.be##a[href^="http://bf1.be/"] > img
