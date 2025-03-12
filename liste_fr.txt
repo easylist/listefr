@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: CrM8KqDwlf+j2rtDLcFrNQ
-! Version: 20250312042204
+! Checksum: L55R07JOjK8tR4W5Yogm2g
+! Version: 20250312205402
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12538,6 +12538,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ##.widget-pub-300x250
 ##.widget_advncdads
 ##.widget_box_pub
+##.widget_keleops-ad
 ##.widget_keleops-adhalfpage
 ##.widget_om_ads
 ##.widget_positivr-sponsored-posts
@@ -14013,6 +14014,7 @@ nouvelobs.com##.obs-pub
 01net.com##.od-tlc
 01net.com,journaldugeek.com##.od-wrapper
 livescore.in##.oddsPlacement
+01net.com##.offers
 01net.com##.offers-selector
 rakuten.com##.offersKelkoo
 galaxynote.fr##.offre
