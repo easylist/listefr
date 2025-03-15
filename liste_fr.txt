@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: SA+rh+3N2tom6Y6WfmwDng
-! Version: 20250315033312
+! Checksum: KIMJGxMu3aGjulmpcow9Zw
+! Version: 20250315040207
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -34,6 +34,7 @@
 -970x250.
 -ad-content-
 -banner-728.
+-banners/ads/
 -content-ads-
 -iframe/?zoneId=
 -native-ad-
@@ -8105,6 +8106,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ||1maxdegay.com^$subdocument,~third-party
 ||1movies.*/site/$xmlhttprequest
 ||1parrainage.com/logos/habillage
+||2ememain.be/lrp/api/complementary-listings?
 ||3dnatives.com/wp-content/uploads/$script
 ||3dnatives.com/wp-content/uploads/*-bannie
 ||3dnatives.com/wp-content/uploads/*/banniere
@@ -13511,6 +13513,7 @@ quick-tutoriel.com###the-post .warning
 phpsources.org###titre_librairie
 plancul-gratuit.fr,plancul-gratuit.org###toast-container
 viewsurf.com###top-ban
+2ememain.be###top-banner-root
 liligo.fr###top-banner-smart
 webgirondins.com###top-pub-header
 itele.fr###topBanner
@@ -13656,6 +13659,7 @@ bismirabbika.com,orientation-chabab.com##.bann
 jizzbunker.com##.banner-popup
 lareclame.fr##.banner-url
 judgehype.com##.bannerATF_container
+2ememain.be##.bannerContainerLoading
 darjadida.com##.banner_125x125
 wheregoes.com##.banner_leaderboard
 roadsexe.com##.banner_right
@@ -13885,6 +13889,7 @@ valeursactuelles.com##.horizons-va-sidebar
 clubpronostics.com##.horizontal-banner
 meteosun.com##.hotelteaser
 rakuten.com##.hp--categories-populaires--pub
+2ememain.be##.hz-Banner
 vide-greniers.org##.iad
 lexpress.fr##.immo
 pagesblanches.be,rtbf.be##.imu
@@ -14737,6 +14742,7 @@ nocibe.fr##.product-grid-column:has(.product-tile__sponsored)
 frandroid.com##.sticky-content:has([class^="HalfpageAd"])
 20min.ch#?#.clusterTop:-abp-has(.teaser:-abp-has(h3:-abp-contains(Paid Post)))
 2ememain.be#?#.hz-Listing--list-item:-abp-has(.hz-Listing-priority:-abp-contains(Pub au top))
+2ememain.be#?#.hz-Listing--list-item:-abp-has(.hz-Listing-seller-link:-abp-contains(Visiter le site internet))
 boulanger.com##[class*="kamino"]:has(.product-list__product-sponsored)
 cleanrider.com##[class*="min-h-"]:has([id^="optidigital-ad"])
 fr.shopping.rakuten.com##[data-productid]:has([class^="style_sponsoredAds"])
