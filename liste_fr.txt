@@ -14726,6 +14726,8 @@ wiflix-catalogue.*,wiflix-hd.*,wiflix-pro.*,wiflixien.*##.sadst
 ##iframe[style="border: 0; width: 728px; height: 110px;"]
 ##iframe[style="border: 0; width: 970px; height: 110px;"]
 ! Filtres de propriété CSS pour Adblock Plus
+boulanger.com##[class*="kamino"]:has(.product-list__product-sponsored)
+boulanger.com##[id*="kamino"]:has(.product-list__product-sponsored)
 japscan.lol###main > .card:has(a[href*="/manga/?type="][href*="&content="][target="_blank"])
 planetegrandesecoles.com##.elementor-element:has(picture.attachment-full.size-full)
 auchan.fr##.hp-banner:has(.hp-banner__message-sponsored)
