@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: KIMJGxMu3aGjulmpcow9Zw
-! Version: 20250315040207
+! Checksum: s3jyKNRjOK7Efce5iaYlOA
+! Version: 20250316123617
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14757,6 +14757,7 @@ android-mt.com#?#.boutonlink:-abp-has(a:-abp-contains(/VPN|rencontre/))
 android-mt.com#?#.bp-fin:-abp-has(a:-abp-contains(/VPN|rencontre/))
 annonces.nc#?#annonces-post-detail:-abp-has(.bg-boosted)
 auchan.fr##article.product-thumbnail:has(.product-thumbnail__sponsored)
+french-stream.*#?##banning
 betaseries.com#?#.blockSearch:-abp-has(.adsbygoogle)
 blogdumoderateur.com#?#.breve:-abp-has(.breve-info:-abp-contains(Sponsorisé))
 blogdumoderateur.com#?#.sticky:-abp-has(.sponsorise)
@@ -14779,7 +14780,6 @@ ebay.fr#?#[id^="nume_html_"]:-abp-has(.mfe-card-group:-abp-has(.mfe-card-group-t
 ebay.fr#?#[id^="nume_html_"]:-abp-has(.mfe-header:-abp-has(.mfe-pull-left:-abp-contains(sponsorisés)))
 extreme-down.party,mega-torrent1.com,nextorrent.cz,nortorrent.com,nortorrent1.com,rantop.my#?#a:-abp-contains(/ANONYME|Anonyme|anonyme|PREMIUM|Premium|premium|RAPIDE|Rapide|Usenet|VPN|Vpn/)
 flaticon.com#?#.soul-p:-abp-has(.footer-sponsor)
-french-stream.*#?##banning
 futura-sciences.com#?#.postcontainer:-abp-has(.username:-abp-contains(Publicité))
 gameblog.fr#?#.highlight-item:-abp-has(.word-wrapper:-abp-contains(sponso))
 gameblog.fr#?#.item.full.gameblog:-abp-has(.post-details:-abp-contains(sponsorisé))
