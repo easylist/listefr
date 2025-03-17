@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: I82cI7/8MKrLYrvOlrSxhQ
-! Version: 20250317203721
+! Checksum: OPRj0tiX6Vu54s1NR0XCPg
+! Version: 20250317205255
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -10267,6 +10267,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ###ad-inread
 ###ad-inread-load
 ###ad-interstitial
+###ad-intro-text
 ###ad-lb-bottom
 ###ad-lb-top
 ###ad-ligatus-article-load
@@ -13344,6 +13345,7 @@ madstef.com###idkey2ban
 mega-p2p.net###imCell_259
 mega-p2p.net###imStickyBar_imObjectButton_03
 ladepeche.fr,midilibre.fr###immobilier
+walfoot.be###imu
 freenews.fr###insidepic_widget
 loisirados.com###intersticiel
 conseils-courseapied.com###ja-banner
@@ -13955,7 +13957,7 @@ faclic.com##.lbx_content
 faclic.com##.lbx_overlay
 lefigaro.fr##.le-figaro-ad-bar-custom
 nouvelobs.com##.leGuideContainer
-alvinet.com,hotmixradio.fr,jeu.fr,marques.expert,meteovista.be,radiox.com,rtbf.be##.leaderboard
+alvinet.com,hotmixradio.fr,jeu.fr,marques.expert,meteovista.be,radiox.com,rtbf.be,walfoot.be##.leaderboard
 mappy.com##.leftHabillage
 actualitte.com##.lienExterne
 laptopspirit.fr,prix-portables.fr##.lien_hab
