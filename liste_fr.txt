@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: CAaCiC50ewh++NwDk5mmfQ
-! Version: 20250316155751
+! Checksum: I82cI7/8MKrLYrvOlrSxhQ
+! Version: 20250317203721
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -6579,6 +6579,9 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ||3dxbucks.com^*/banners/
 ||46.105.62.117/vador/
 ||4j.com/images/banners/
+||4k.video/*.htm
+||4k.video/*.php?
+||4k.video/b.js
 ||50centfreedom.us^$image,third-party
 ||a7.org^$subdocument
 ||abc-du-gratuit.com^$image,third-party
@@ -6936,7 +6939,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ||fsx.i-run.fr^
 ||fuckandcdn.com^*/ads/
 ||full-wallpaper.com/wallpaperday.js$third-party
-||full.video/*.htm#
+||full.video/*.htm
 ||full.video/*.php?
 ||full.video/btn.js
 ||fullqurandownload.com^$subdocument
@@ -14364,7 +14367,6 @@ doctissimo.fr##[class^="doc-ad-"]
 forumconstruire.com##[class^="habillage"]
 igen.fr,macg.co,orange.fr,watchgeneration.fr##[class^="lig_"]
 voyageforum.com##[class^="offers"]
-fulltv.tv##[class^="pub"]
 ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
 guide-piscine.fr##[class^="regie_"]
 dl-protect.link,extreme-down.party,gktorrent.cz##[class^="trust"]
