@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: vJmeGl0y58tyFn5ew6RGBg
-! Version: 20250319075009
+! Checksum: ygdFMN8En/vvnnl3ajM8vg
+! Version: 20250319210240
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8111,6 +8111,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ||stock.adobe.com^$popup,domain=freepik.com
 ||streaming-hentai.org^*?$popup
 ||t.vptbn.com^$popup
+||temu.com^*_ads_$popup
 ||thekingavatar.com/wp-content/uploads/$popup,third-party
 ||tool.acces-vod.com^$popup
 ||tour.reelvidz.com^$popup,third-party
