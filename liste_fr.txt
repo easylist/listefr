@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 0Bh0hf0Wh1ffxVVAzOVrvA
-! Version: 20250330024710
+! Checksum: REjNblramCdQin7EubtQCA
+! Version: 20250330031226
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11108,6 +11108,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ##.buzz-ad-post-top
 ##.buzz-ads
 ##.bxl-advert
+##.c-ads-sidebar
 ##.cadre-162-pub
 ##.cadre-pub-google
 ##.cadre_pub
@@ -12872,6 +12873,7 @@ upload.ac##.btn-dl-plus
 gamergen.com,generation-nt.com##.bup
 pix-geeks.com##.bzkshop
 lecho.be##.c-adh-connecthpwrapper
+cheriefm.fr##.c-block-display--covering
 terrafemina.com##.c-product
 750g.com##.c-pwned-gg
 manomano.fr##.c0mvxYj.X0Q2rg, .nfJi5Z.X0Q2rg
@@ -13492,6 +13494,7 @@ cleanrider.com##[data-content="ad"]
 jeu.fr##[data-fallback-type="image"]
 tripadvisor.fr##[data-feed-reason="SPONSORED"]
 frandroid.com##[data-gtm-bic]
+cheriefm.fr##[data-page-builder--block-analytics-block-title-value="ad"]
 leboncoin.fr##[data-test-id^="advertising"]
 lessentiel.lu##[data-testid="Ad"]
 meteomedia.com##[data-testid="ad-with-pre-text"]
