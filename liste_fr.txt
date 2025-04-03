@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: a6/nFeFE9bOPvnes7X1DHg
-! Version: 20250403211610
+! Checksum: pdfZEnM5j2Xa9fSx1RxwVg
+! Version: 20250403212736
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -6873,6 +6873,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ||cdn-dekbh.nitrocdn.com/*/wp-content/uploads/2021/04/*.kidludik-top.jpg
 ||cdn.*/static/js/amvn.js
 ||cdn.a9fast.com^*/misc/partner/
+||cdn.biff.travel^
 ||cdn.citytourgirls.com/static/bn/
 ||cdn.escortdude.com/static/bn/
 ||cdn.ev.mu/js/optim/gg_cc/ev/boot.js$domain=~easyviaggio.com|~easyviajar.com|~easyvols.fr|~easyvoyage.co.uk|~easyvoyage.com|~easyvoyage.de
@@ -12749,7 +12750,6 @@ midilibre.fr,sudouest.fr##.ad-box
 basketusa.com##.ad-large
 eurosport.fr##.ad.mpu
 vinyculture.com##.ad2
-lastminute.com##.adContainer
 fusac.fr##.adblock
 msn.com,sourds.net##.adcontainer
 reverso.net##.adcontent
