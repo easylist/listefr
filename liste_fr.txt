@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: X2i+vnySHZ+0ue3Gbn4XoQ
-! Version: 20250406170539
+! Checksum: Ybp21KvEpS2/1yV1LATRhw
+! Version: 20250406172935
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12189,6 +12189,9 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ##a[href*="://xat.com/"]
 ##a[href*="://xmediaserve.com/"]
 ##a[href*="://yotefiles.com/"]
+##a[href*="?bz=160*600"] > img[src*=".alicdn.com/"]
+##a[href*="?bz=300*250"] > img[src*=".alicdn.com/"]
+##a[href*="?bz=725*90"] > img[src*=".alicdn.com/"]
 ##a[href*="adshostnet.com/"]
 ##a[href*="aozoiekopoaka.shop/"]
 ##a[href*="digadser.com/"]
