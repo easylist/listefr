@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: HEWh4ua72NWxhXoXvsmNfA
-! Version: 20250412014126
+! Checksum: Z39osvwRvwPRm6YED9sDxA
+! Version: 20250414231836
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -10052,7 +10052,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ||seduireunhomme.fr/wp-content/uploads/*/Banner_
 ||sendspace.com/images/shutter.png
 ||seneweb.com/dynamic/modules/banners/
-||senscritique.com/img/*/desktop.jpg
 ||serre-editeur.fr/images/banners/
 ||sexadonf.net/_images/$image
 ||sexadonf.net/web/hqlinks.gif
@@ -13289,7 +13288,6 @@ hitek.fr##.h_ad_970x250
 francetransactions.com##.hab
 homecinema-fr.com##.hab_link
 cbanque.com,clubpronostics.com,gratuiciel.com,lelogicielgratuit.com,logicielmac.com,logitheque.com,made-in-algeria.com,made-in-tunisia.net,maghrebex.com,mediscom.com,quetelecharger.com,toucharger.com##.habillage
-senscritique.com##.habillage-banner
 le2minutes.com,senscritique.com##.habillage-left
 le2minutes.com,senscritique.com##.habillage-right
 le2minutes.com##.habillage-top
@@ -13616,7 +13614,6 @@ yggtorrent.top##.safe_download
 forum-xiaomi.com##.samItem
 phpsources.org##.sample-lst
 avito.ma##.sc-1p6rkuz-0.bdJKQF
-senscritique.com##.sc-klass
 ouedkniss.com##.search-top-1
 lejournaldelamaison.fr,mariefrance.fr##.shoopingbox_products
 likeup.fr##.shop-subscribe
@@ -14258,7 +14255,6 @@ positivr.fr#?#article:-abp-has(.sponsored-notice)
 rakuten.com#?#[data-productid]:-abp-has(a[href^="/offer?action="])
 businessinsider.fr#?##related-post-:-abp-has(a[href*="/contenu-sponsorise"])
 santemagazine.fr#?#[data-identifier]:-abp-has(div:-abp-has(.sponsor-color))
-senscritique.com#?#:-abp-properties(data:)
 sketchucation.com#?#.post:-abp-has(.postprofile:-abp-has(strong:-abp-contains(Ad Machine)))
 sookbtp.com#?#.owl-item:-abp-has(figure:-abp-has(img[src^="publicites/"]))
 starbike.com#?#.post.has-profile:-abp-has(.postbody:-abp-has(.adsbygoogle))
