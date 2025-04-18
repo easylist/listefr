@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: e7LhoRPd5oZccYSqff51ew
-! Version: 20250418010742
+! Checksum: TF07RB6m/pVftR69Cr8roQ
+! Version: 20250418013606
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -2124,6 +2124,7 @@ _build=iclick-$popup
 ||aheadprincessmeal.com^
 ||ahimsaslatrate.com^
 ||ahtate.ru^
+||aicandy.link^
 ||aidsairdul.net^
 ||aidsbecry.click^
 ||aidsideused.live^
@@ -2917,6 +2918,7 @@ _build=iclick-$popup
 ||campusexcessively.com^
 ||candiedsquall.com^
 ||candouraggravate.com^
+||candyai.gg^
 ||candygainpeace.com^
 ||cannedrestrict.com^
 ||cannetstoups.click^
@@ -13172,7 +13174,6 @@ lavenir.net##.footer--partners
 jeunesfooteux.com##.footer-actuly
 pixelads.fr##.footer-partner
 bx1.be,lephoceen.fr##.footer-partners
-tube8.fr##.footerBanner
 gameblog.fr##.footer__partners
 orange.fr##.footer_autopromo
 legagnant.com##.footer_banners
@@ -13193,7 +13194,6 @@ voyages-sncf.com##.gondola__video
 pagesjaunes.fr##.goodDealBlock
 lesoir.be##.gr-panel--entreprise
 lemondeinformatique.fr##.gradient-sponsor + .bloc-container
-tube8.fr##.gridBanner
 star7arab.com##.grid[style="width: 770px; height: 69px;"]
 footmercato.net##.gtag
 semageek.com##.h300
@@ -13514,7 +13514,6 @@ kelkoo.fr##.results-lrec
 premsgo.fr##.results-sidebar
 sante-dz.com##.revenue-wrapper
 goldenboys.fr##.right-minipub
-tube8.fr##.rightColBanner
 mappy.com##.rightHabillage
 joursferies.fr##.rightnav[style="background-color: #efefef;"]
 darty.com##.rm-format
@@ -13742,6 +13741,7 @@ presse-algerie.net##a[href*="/?ad="]
 amateur2sexe.fr,pornovore.fr##a[href*="/?id="]
 artdeseduire.com##a[href*="/?part="][target="_blank"]
 webactus.net##a[href*="/?utm_source="]
+tube8.fr##a[href*="/_xa/ads?"]
 1337x.cz,cpasbien-support.com,cpasbien4.com,gktorrent.cz,mega-torrent3.com,nextorrent2.com,nortorrent.support,nortorrent4.com,omgtorrent1.com,oxtorrent2.com,oxtorrent3.com,partage-torrent1.com,rantop.cc,torrent-p2p.my,torrent-site.com,ultimate-torrent1.com,wiflix.rent,yggtorrent2.com,yggtorrents.top,zetorrents1.com,zktorrent.support,zktorrent3.com,zone-torrent1.com##a[href*="/adsby/"]
 sosvirus.net##a[href*="/affiliate-"] > img
 maghrebemergent.com,maghrebemergent.info##a[href*="/banners/click/"]
