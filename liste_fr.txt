@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: EPl0O3EVhUeILLsIOGWx5w
-! Version: 20250420220432
+! Checksum: 1RPBneiNkxh6Uk7XCuaV3w
+! Version: 20250420222649
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -10452,7 +10452,12 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 !
 ###ADSblock
 ###ad-300_atf-label
+###ad-banner-mobile
 ###ad-banner_atf
+###ad-desktop-top-banner
+###ad-masonry
+###ad-medium-rectangle-1
+###ad-medium-rectangle-2
 ###ad3
 ###ad_video
 ###balloonads
@@ -13692,6 +13697,10 @@ qwantjunior.com##[data-testid="autopromoJuniorLink"]
 meteomedia.com##[data-testid="content-feed-ad-slot"]
 meteomedia.com##[data-testid="header-ad-content"]
 meteomedia.com##[data-testid="pre-ad-text"]
+seloger.com##[data-testid="serp-inline-ad"]
+seloger.com##[data-testid="serp-masthead-testid"]
+seloger.com##[data-testid="serp-side-skyscraper"]
+seloger.com##[data-testid="serp-side-skyscraper-top"]
 toutvendre.fr##[href*=".kelkoogroup.net/"]
 meteofrance.com##[href*=".xiti.com"] > img
 filecrypt.cc,filecrypt.co##[href^="javascript:"]
@@ -14073,6 +14082,7 @@ frandroid.com##.sticky-content:has([class^="HalfpageAd"])
 boulanger.com##[class*="kamino"]:has(.product-list__product-sponsored)
 cleanrider.com##[class*="min-h-"]:has([id^="optidigital-ad"])
 fr.shopping.rakuten.com##[data-productid]:has([class^="style_sponsoredAds"])
+seloger.com##[data-testid="serp-core-suggestion-card-testid"]:has([aria-haspopup])
 boulanger.com##[id*="kamino"]:has(.product-list__product-sponsored)
 intermarche.com##[id^="stime-product-item"]:has(.stime-product--details__sponsored)
 comptoir.io##a:has(.prime)
