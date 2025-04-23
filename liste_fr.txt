@@ -1539,6 +1539,7 @@ _build=iclick-$popup
 ||vo-publishing.be^$third-party
 ||vorcu.com^$third-party
 ||vyking.io^$third-party
+||vzbl.eu^
 ||wamland.com^$third-party
 ||wbsadsdel.com^$third-party
 ||wbsadsdel2.com^$third-party
@@ -13213,6 +13214,7 @@ buzzporn.net##.privacylinks
 boulanger.com##.product-list__item-sponsored-products
 sport-equipements.fr##.product-photo
 lanutrition.fr##.product-shop
+leroymerlin.fr##.product-thumbnail[data-vzbl-id]
 nitrotype.com##.profile-ad
 codeur.com##.project-option-premium
 heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##.promSB
