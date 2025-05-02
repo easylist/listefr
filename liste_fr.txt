@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: az9kI9eeVe3mt98ZFrknpA
-! Version: 20250430191919
+! Checksum: 5v9nqoeMBkiFFF1Xwl2ipA
+! Version: 20250502080827
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -9703,7 +9703,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ||toolslib.net/assets/custom/img/4d5/
 ||toolslib.net/assets/img/placeholders/
 ||toomai.fr/img/banner/
-||top-for-phone.fr/visuels/
+||top-for-phone.fr/imgs/
 ||topachat.com/images/configo_*compos-
 ||topjetm.net^*/img/pub.
 ||topliste-fr.com/filmsdivx.gif
@@ -11829,7 +11829,6 @@ africanmanager.com###bLayer
 lenouveleconomiste.fr###b_top
 commentcamarche.com,commentcamarche.net###ba_position4
 commentcamarche.com,commentcamarche.net###ba_right
-top-for-phone.fr###background-cover
 euro-2016-france.net###background-promo
 meilleurmobile.com###backgrounddiv
 deavita.fr###badHabbitsPopup
@@ -12331,7 +12330,7 @@ reezocar.com##.autopromo-container
 buzzly.fr##.ayl-ad-article
 nintendo-master.com##.back_content
 animedigitalnetwork.fr##.background-click
-katibin.fr##.background-cover
+katibin.fr,top-for-phone.fr##.background-cover
 codeur.com##.badge-project-urgent
 cnews.fr##.ban-bottom-desktop
 bdgest.com,bedetheque.com##.ban-top
