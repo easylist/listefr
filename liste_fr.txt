@@ -13405,6 +13405,7 @@ wiflix-max.*,wiflix-catalogue.*,wiflix-hd.*,wiflix-pro.*,wiflixien.*##.sadst
 ##iframe[style="border: 0; width: 728px; height: 110px;"]
 ##iframe[style="border: 0; width: 970px; height: 110px;"]
 ! Filtres de propriété CSS pour Adblock Plus
+leroymerlin.fr##.ml-container:has(> [data-st-type*="sponsored caroussel"])
 japscan.lol###main > .card:has(a[href*="/manga/?type="][href*="&content="][target="_blank"])
 planetegrandesecoles.com##.elementor-element:has(picture.attachment-full.size-full)
 auchan.fr##.hp-banner:has(.hp-banner__message-sponsored)
