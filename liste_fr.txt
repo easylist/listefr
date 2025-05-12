@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ganfeSi8bz7uTSjoh5l5Lw
-! Version: 20250502081427
+! Checksum: 4DXSu/6Im/bu/IpjiOAePQ
+! Version: 20250512060310
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -13405,11 +13405,11 @@ wiflix-max.*,wiflix-catalogue.*,wiflix-hd.*,wiflix-pro.*,wiflixien.*##.sadst
 ##iframe[style="border: 0; width: 728px; height: 110px;"]
 ##iframe[style="border: 0; width: 970px; height: 110px;"]
 ! Filtres de propriété CSS pour Adblock Plus
-leroymerlin.fr##.ml-container:has(> [data-st-type*="sponsored caroussel"])
 japscan.lol###main > .card:has(a[href*="/manga/?type="][href*="&content="][target="_blank"])
 planetegrandesecoles.com##.elementor-element:has(picture.attachment-full.size-full)
 auchan.fr##.hp-banner:has(.hp-banner__message-sponsored)
 frandroid.com##.is-hidden-mobile:has([class^="Billboard"])
+leroymerlin.fr##.ml-container:has(> [data-st-type*="sponsored caroussel"])
 zebulon.fr##.penci-feed:has(a[href*="/sponso-"])
 frandroid.com##.post-card:has(a[href^="https://native.humanoid.fr/"])
 fr.shopping.rakuten.com##.prd_side:has(.gtm_ads_caption)
