@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 4DXSu/6Im/bu/IpjiOAePQ
-! Version: 20250512060310
+! Checksum: YfhhkI0QlbXGqj5rd0trhQ
+! Version: 20250515221004
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11767,7 +11767,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ##a[href*="?bz=160*600"] > img[src*=".alicdn.com/"]
 ##a[href*="?bz=300*250"] > img[src*=".alicdn.com/"]
 ##a[href*="?bz=725*90"] > img[src*=".alicdn.com/"]
-##div[class$="-adlabel"]
 ##div[data-ad-id]
 ##div[data-ad]
 ##div[data-iab-tag]
