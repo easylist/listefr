@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: HdpFOhdnELFc4tfQPBZl3w
-! Version: 20250517060658
+! Checksum: 6byEbHaO/p2LKSYSBZYcsg
+! Version: 20250520202710
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12942,7 +12942,6 @@ yggtorrent.top##.safe_download
 forum-xiaomi.com##.samItem
 phpsources.org##.sample-lst
 avito.ma##.sc-1p6rkuz-0.bdJKQF
-radio-canada.ca##.sc-eEbqID
 ouedkniss.com##.search-top-1
 lejournaldelamaison.fr,mariefrance.fr##.shoopingbox_products
 likeup.fr##.shop-subscribe
@@ -13481,6 +13480,7 @@ japscan.lol###main > .card:has(a[href*="/manga/?type="][href*="&content="][targe
 planetegrandesecoles.com##.elementor-element:has(picture.attachment-full.size-full)
 auchan.fr##.hp-banner:has(.hp-banner__message-sponsored)
 frandroid.com##.is-hidden-mobile:has([class^="Billboard"])
+radio-canada.ca##.max-w-150:has(.srcPubZone)
 leroymerlin.fr##.ml-container:has(> [data-st-type*="sponsored caroussel"])
 zebulon.fr##.penci-feed:has(a[href*="/sponso-"])
 frandroid.com##.post-card:has(a[href^="https://native.humanoid.fr/"])
