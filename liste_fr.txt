@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: O87juPkhBwQK9GNmGcL2ZQ
-! Version: 20250525124653
+! Checksum: xUnZHUwAjaPv9C/6AsRQ+g
+! Version: 20250525131850
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -6283,6 +6283,8 @@ _build=iclick-$popup
 ||getlinksinaseconds.com^$popup,third-party
 ||getresponse.com^$popup
 ||ggcorp.me^$popup,third-party
+||ggpickaff.com^$popup
+||ggpickyaff.com^$popup
 ||globaloffers.link^$popup,third-party
 ||gloupa.com^$popup,third-party
 ||gmboxx.com^$popup,third-party
