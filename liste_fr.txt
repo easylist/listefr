@@ -13423,6 +13423,8 @@ winamax.fr##[class][onclick]
 voyageforum.com##[class^="adShadow"]
 narkive.com,tourte.org##[class^="ads_"]
 carrefour.fr##[class^="advertising-placeholder"]
+carrefour.fr##.product-banner__slide:has(.product-banner__advertising-item)
+carrefour.fr##.product-list-grid__item:has(.product-list-card-plp-grid__sponsored)
 webstar-electro.com##[class^="banner"]
 agroligne.com,auto-utilitaire.com,mobilealgerie.com##[class^="banner_"]
 sofoot.com##[class^="bloc-partenaires"]
