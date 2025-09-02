@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: FTKVoVWywWhBFJ6L8+zLOA
-! Version: 20250902073232
+! Checksum: OmuJYVFsDY++eehqu3zqSw
+! Version: 20250902102649
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14171,6 +14171,7 @@ leparisien.fr##[class*="ads-"]
 silicon.fr##[class*="displayed_advertisers-"]
 uploaded.net##[class*="pico-"]
 winamax.fr##[class][onclick]
+therealdeal.com##[class^="AdUnit_"]
 voyageforum.com##[class^="adShadow"]
 narkive.com,tourte.org##[class^="ads_"]
 carrefour.fr##[class^="advertising-placeholder"]
