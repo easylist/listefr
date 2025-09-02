@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: BtaQ6+7750+Ccp2DzehZ1A
-! Version: 20250902070523
+! Checksum: cPSeYFJOr55rvNyzD2i/2g
+! Version: 20250902072403
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8125,6 +8125,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ||liveflirt.net^*/?track=$subdocument,third-party
 ||livehost.fr^*/bannieres/
 ||livementor.com/widget-livementor?$third-party
+||lm-publicities.nyc3.digitaloceanspaces.com^
 ||loadshare.org/custom/
 ||localbitcoins.com/affiliate-
 ||logic-immo.be/embed/$third-party
@@ -11880,6 +11881,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ###thePubDiv2
 ###ticker_ad
 ###titre-publicite
+###top-ad-image
 ###top-left-pub
 ###topAdContainer728
 ###topAdscenter
