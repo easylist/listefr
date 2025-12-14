@@ -14695,6 +14695,8 @@ wiflix-max.*,wiflix-catalogue.*,wiflix-hd.*,wiflix-pro.*,wiflixien.*##.sadst
 ##iframe[style="border: 0; width: 728px; height: 110px;"]
 ##iframe[style="border: 0; width: 970px; height: 110px;"]
 ! Filtres de propriété CSS pour Adblock Plus
+carrefour.fr##.ds-carousel-refonte__slide:has([id*="data-advertising-sponsored-products-"])
+carrefour.fr##.product-list-grid__item:has([id*="data-advertising-sponsored-products"])
 japscan.lol###main > .card:has(a[href*="/manga/?type="][href*="&content="][target="_blank"])
 cdiscount.com##.c-productCard:has(a[href*="?idOffre="][href*="&sw="])
 tvanouvelles.ca##.dfp-container:has(.dfp-ad)
