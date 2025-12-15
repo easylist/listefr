@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: vxzwLPMpedJ4H7GUxEgo/w
-! Version: 20251215011059
+! Checksum: nX1LgVTakSs1nML4jtDqqw
+! Version: 20251215012544
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -466,6 +466,7 @@ _300-x-250_
 _300_600.
 _300x250/
 _300x250@
+_300x250px_
 _300x250v1.
 _300x300.gif
 _300x400.gif
@@ -486,6 +487,7 @@ _728-x-90_
 _728x350.
 _728x90(2).
 _728x90@
+_728x90px_
 _728x90pxl_
 _728x90v2.
 _758x60.
@@ -4412,6 +4414,7 @@ _build=iclick-$popup
 ||imfrk12.com^
 ||imftrk1.com^
 ||imftrk1.net^
+||imglnkx.com^
 ||imglov.com^
 ||imiitrk22.com^
 ||imiitrk23.com^
@@ -7177,6 +7180,7 @@ _build=iclick-$popup
 ||ampxchange.com^$popup,third-party
 ||angrilyanimatorcuddle.com^$popup
 ||anrdoezrs.net^$popup,third-party
+||antfa.link^$popup
 ||antivirusfit.co^$popup
 ||antj.link^$popup
 ||anytheengmedia.com^$popup,third-party
@@ -13045,6 +13049,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ##[id^="adswidget"]
 ##[id^="dfp_ban_"]
 ##[id^="dfp_banner"]
+##a[href*=".antfa.link/"]
 ##a[href*=".antj.link/"]
 ##a[href*=".atimaze.com/"]
 ##a[href*=".digital2cloud.com/?"]
