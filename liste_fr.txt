@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: nX1LgVTakSs1nML4jtDqqw
-! Version: 20251215012544
+! Checksum: SemdD++27TKdW23BBAJ4Zw
+! Version: 20251215013528
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -7166,6 +7166,7 @@ _build=iclick-$popup
 ||ai.me^$popup,third-party
 ||aimportfoliosquid.com^$popup
 ||airartapt.site^$popup
+||ajrkm3.com^$popup
 ||ak-is.net^$popup,third-party
 ||alibabato.com^$popup,third-party
 ||alitems.com^$popup,third-party
@@ -8322,6 +8323,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ||mwzip.com/banner.
 ||my.aliexpress.$third-party
 ||my24hourincome.com/img/banners/$third-party
+||mym-db.com/storage/$third-party
 ||mynewblog.com/tracker.php?
 ||mynewsnet.ch^$subdocument
 ||mynonpublic.com^*/_sponsoren/
@@ -13049,6 +13051,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ##[id^="adswidget"]
 ##[id^="dfp_ban_"]
 ##[id^="dfp_banner"]
+##a[href*=".ajrkm3.com/"]
 ##a[href*=".antfa.link/"]
 ##a[href*=".antj.link/"]
 ##a[href*=".atimaze.com/"]
