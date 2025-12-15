@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: LcqQywE+Ooi62MdZWsNkdQ
-! Version: 20251215002946
+! Checksum: SSszMtj4yEP5FfKvKtA4tw
+! Version: 20251215003142
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -13050,7 +13050,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ##a[href*="?bz=300*250"] > img[src*=".alicdn.com/"]
 ##a[href*="?bz=725*90"] > img[src*=".alicdn.com/"]
 ##a[href^="https://cosmicfundboost.com/trck/"]
-##div[data-ad-id]
 ##div[data-ad]
 ##div[data-iab-tag]
 !
