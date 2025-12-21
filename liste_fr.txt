@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Pfvp+KRXG/ZZzjY6txphhQ
-! Version: 20251215022644
+! Checksum: FrEriszC/TnfwLEcVXLSYA
+! Version: 20251221224932
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -13096,7 +13096,6 @@ droidsoft.fr###addBlock
 courrierlaval.com###add_bottom
 courrierlaval.com,letraitdunion.com###add_top
 zoneadsl.com###adfd
-oisd.nl###adgbn
 telechargerunevideo.com###adlbl
 logitheque.com###adni_widgets-2
 clicanoo.re###adress_utiles
@@ -14354,6 +14353,7 @@ seloger.com##[data-testid="serp-side-skyscraper"]
 seloger.com##[data-testid="serp-side-skyscraper-top"]
 toutvendre.fr##[href*=".kelkoogroup.net/"]
 meteofrance.com##[href*=".xiti.com"] > img
+oisd.nl##[href^="https://adguard.com/?aid="]
 filecrypt.cc,filecrypt.co##[href^="javascript:"]
 fnac.com##[id$="-sponsored_products-0"]
 voyageforum.com##[id*="billboardArround"]
