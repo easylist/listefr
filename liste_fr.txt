@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: EvDxqbuJphywkCe1Y42vBA
-! Version: 20251226030527
+! Checksum: zus+8Sw/1asonowzqM9HiQ
+! Version: 20251226052456
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -14224,6 +14224,7 @@ skyyart.fr##.sponsors
 fifa.com##.sponsors-section
 msn.com##.sponsorship
 msn.com##.startpage > div.refreshbody[style^="top:"]
+tvanouvelles.ca##.sticky-ad-container
 lesmobiles.com##.stickyBestOffer
 msn.com##.stripecontainer[data-section-id="stripe.msstore"]
 imobie.fr##.support_guide_download_upper
@@ -14694,6 +14695,7 @@ mediaguinee.org##img[width="800"][height="150"]
 emu-france.com##img[width="88"]
 guinee7.com##img[width="958"][height="142"]
 undernews.fr##img[width][height][alt$="VPN"]
+tvanouvelles.ca##li.dfpMultiflexStickyBigBox
 bol.com##li.js_sponsored_product
 leroymerlin.fr##li[data-product-list-id*="sponsored"]
 bonjourmadame.fr##object[width="728"][height="90"]
