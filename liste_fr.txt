@@ -14818,6 +14818,7 @@ carrefour.fr##.ds-carousel-refonte__slide:has([id*="data-advertising-sponsored-p
 planetegrandesecoles.com##.elementor-element:has(picture.attachment-full.size-full)
 auchan.fr##.hp-banner:has(.hp-banner__message-sponsored)
 frandroid.com##.is-hidden-mobile:has([class^="Billboard"])
+carrefour.fr##.lc-banner:has([src*="ressources.luckycart.com"])
 radio-canada.ca##.max-w-150:has(.srcPubZone)
 leroymerlin.fr##.ml-container:has(> [data-st-type*="sponsored caroussel"])
 zebulon.fr##.penci-feed:has(a[href*="/sponso-"])
