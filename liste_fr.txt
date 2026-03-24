@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Ulo6gDhbQZd+cc3g0Qc5Wg
-! Version: 20260324063005
+! Checksum: j/mDSkbUbNk+UXM1MoFpAw
+! Version: 20260324064423
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11397,6 +11397,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 !------------------ Éléments génériques -----------------!
 !
 ###ADSblock
+###AdvertisingBanner
 ###ad-300_atf-label
 ###ad-banner-mobile
 ###ad-banner_atf
@@ -14685,6 +14686,7 @@ leboncoin.fr##div[class^="styles_ad"]#outlined
 mahjong.fr##div[class^="sub_jeu_160"]
 mahjong.fr##div[class^="sub_jeu_300"]
 mahjong.fr##div[class^="sub_jeu_72890"]
+fnac.com##div[data-component-id="kamino"]
 e-monsite.com##div[data-role="sp"]
 e-monsite.com##div[data-role="sp2"]
 edcom.fr##div[data-target]
