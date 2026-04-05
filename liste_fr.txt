@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Z6+Yk1qSgw5If2pC22dXZA
-! Version: 20260402180513
+! Checksum: aUoCIPc4rHc8vnNlfsTMYw
+! Version: 20260405003103
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -11988,6 +11988,7 @@ boulanger.com##[id*="kamino"]:has(.product-list__product-sponsored)
 intermarche.com##[id^="stime-product-item"]:has(.stime-product--details__sponsored)
 zktorrent.org##[onclick]:has(script)
 comptoir.io##a:has(.prime)
+search.lilo.org##a:has([data-testid="advertiserAdsSignature"])
 algerie-eco.com#?#.td_block_wrap:-abp-has(.block-title:-abp-contains(sponsorisés))
 aliexpress.com,aliexpress.us#?#._2FypS:-abp-has(._1rKqn:-abp-contains(/AD|Annonce|إعلان/))
 aliexpress.com,aliexpress.us#?#.search-item-card-wrapper-gallery:-abp-has([class^="multi--ax"]:-abp-contains(/AD|Annonce|إعلان/))
