@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: b9GY8uSaAhmLqCW2M1hdvw
-! Version: 20260609215628
+! Checksum: dFFpWf/m0gvo6DSYGPVlpg
+! Version: 20260609220739
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -9371,6 +9371,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|all
 ###zone_pub1
 ###zone_pub2
 ##.Ad--970x90
+##.HalfpageAd_1
+##.HalfpageAd_2
 ##.MIXADVERT_NET
 ##.Middle-Ad
 ##.ad--desk
@@ -10370,6 +10372,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|all
 ##[id^="adswidget"]
 ##[id^="dfp_ban_"]
 ##[id^="dfp_banner"]
+##[id^="optidigital-adslot"]
 ##a[href*=".ajrkm3.com/"]
 ##a[href*=".antfa.link/"]
 ##a[href*=".antj.link/"]
@@ -11323,7 +11326,6 @@ leparisien.fr##.offresStage
 ruedesjoueurs.com##.offretopsite
 ouest-france.fr##.ofm-widget
 numerama.com##.oopnative
-wamiz.com##.orange
 lefigaro.fr##.oto-blocvit
 promos-algerie.com##.ourselection-right
 ledenicheur.fr##.outsider-ads
