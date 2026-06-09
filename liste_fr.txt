@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: KBLVKyu0ywqyFQzBhkQ9gw
-! Version: 20260609214330
+! Checksum: b9GY8uSaAhmLqCW2M1hdvw
+! Version: 20260609215628
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -5811,7 +5811,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|all
 ||royalautosurf.com^*/upload/bannieres/
 ||rue89.com^*/wall89/widget-
 ||ruedeslibraires.com/livre-affiliation/
-||rueducommerce.fr/images/locales/*/widget/ban/
 ||ruisseau-des-blaquieres.com/images/banniere
 ||rwabe.com/pub/
 ||rza.pmu.fr^
@@ -6525,7 +6524,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|all
 ||promo.streaming-illimite.ma^$popup
 ||promonautes.com/publicite.$popup
 ||promovacances.com/?cid=$popup
-||promovacances.com^$popup,domain=rueducommerce.fr
 ||realnswag.fr^$popup,domain=rapghetto.com
 ||redtube.com^*?utm_source=paid$popup
 ||referer.us/?*&placement=$popup
@@ -11422,7 +11420,6 @@ francebleu.fr##.pub-sidebar
 01net.com,bfmtv.com,pagesjaunes.fr##.pub-title
 horoscope.fr##.pub-transfo
 lefigaro.fr##.pub-zoom
-rueducommerce.fr##.pub1
 cdiscount.com##.pubBloc
 fsolver.fr##.pubCLS
 meilleurmobile.com##.pubCarre
