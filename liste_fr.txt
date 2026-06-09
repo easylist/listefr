@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 46sISpn3eBkZpMl8Q8wBrg
-! Version: 20260609213237
+! Checksum: KBLVKyu0ywqyFQzBhkQ9gw
+! Version: 20260609214330
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -6525,7 +6525,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|all
 ||promo.streaming-illimite.ma^$popup
 ||promonautes.com/publicite.$popup
 ||promovacances.com/?cid=$popup
-||promovacances.com^$popup,domain=l-eaualabouche.com|rueducommerce.fr
+||promovacances.com^$popup,domain=rueducommerce.fr
 ||realnswag.fr^$popup,domain=rapghetto.com
 ||redtube.com^*?utm_source=paid$popup
 ||referer.us/?*&placement=$popup
@@ -9372,6 +9372,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|all
 ###zone_pub
 ###zone_pub1
 ###zone_pub2
+##.Ad--970x90
 ##.MIXADVERT_NET
 ##.Middle-Ad
 ##.ad--desk
@@ -9669,6 +9670,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|all
 ##.in_up_ad-area
 ##.inpage-adspace
 ##.inplayer_banners
+##.inread_ads-wrapper
 ##.insertPadList
 ##.insert_pub_center
 ##.inside-pub-container
