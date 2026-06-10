@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 3pix+bLOoFEEbZBDigkWpA
-! Version: 20260609233606
+! Checksum: xCr4DUsgzpsDC5cYzllT7A
+! Version: 20260610215223
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -7675,11 +7675,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|all
 ||lesechos.fr/pratique/
 ||lesechos.fr/promo-solutions/
 ||lesimprimantes3d.fr/partenaires/
-||lesmobiles.com/habillage/
-||lesmobiles.com/img/mobile-banners/
-||lesmobiles.com/img/popins/
-||lesmobiles.com/img/skins/
-||lesmobiles.com/img/slidebars/
 ||lesnumeriques.com/habillages/
 ||lesoirdalgerie.com/articles/*/dzauto.swf
 ||lespac.com/1/banners/
@@ -10481,7 +10476,7 @@ manga-news.com###ban970250
 grandecran.fr###ban_big
 cdmail.fr###bandeau
 les-terrains.com###bandeauBas
-degrouptest.com###bandeauFooter
+degrouptest.com,lesmobiles.com###bandeauFooter
 manga-news.com###bangeante
 appcake.net,boursier.com,lesaffaires.com,maliweb.net,nrj.fr###banner
 jeuxvideo-live.com###banner-ig
@@ -10581,6 +10576,9 @@ ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr###conteneur_PROMO_Gauche
 voici.fr###content-right-shopping
 guadeloupe-paradise.fr###content-shadow
 journaldunet.com###ctn_infeed
+lesmobiles.com###ctn_right
+lesmobiles.com###ctn_top
+lesmobiles.com###ctn_top2
 edcom.fr###decouvrirActu
 amazon.fr###desktop-rhs-carousels_click_within_right
 papvacances.fr###details-services
@@ -10713,7 +10711,7 @@ liligo.fr###midbanner
 jeu.video###mobile_clic
 w0rld.tv###modal
 le-buzz.fr###modal_chrome
-edcom.fr,lesmobiles.com###modals-container
+edcom.fr###modals-container
 challenges.fr###moneytag-INARTICLE-ATF
 leparisien.fr###moteur-billetterie
 zdnet.fr###mpuBottom
@@ -11130,7 +11128,6 @@ echoroukonline.com##.ech-live__ads
 gamekult.com##.ed__news-h--native
 howtofix.guide##.eds-animate
 tsa-algerie.com##.ekk-footer-ad-wrapper
-lesmobiles.com##.emplacement__popin
 wp-infinity.com##.entry-featured
 jemangejemincis.fr##.entry-footer
 orange.fr##.eui-footer-banner
@@ -11557,7 +11554,6 @@ fifa.com##.sponsors-section
 msn.com##.sponsorship
 msn.com##.startpage > div.refreshbody[style^="top:"]
 tvanouvelles.ca##.sticky-ad-container
-lesmobiles.com##.stickyBestOffer
 msn.com##.stripecontainer[data-section-id="stripe.msstore"]
 imobie.fr##.support_guide_download_upper
 lepetiteconomiste.com##.sw-banner
@@ -11641,7 +11637,6 @@ lecrabeinfo.net##.zohxnobrur
 jawharafm.net##.zone_banner_content
 lepetiteconomiste.com##.zoom
 alloforfait.fr##.zpart
-lesmobiles.com##[action^="/regieV.php?"]
 fdesouche.com##[class$="-link"]
 ccm.net,commentcamarche.com,commentcamarche.net##[class$="_adsense"]
 amazon.fr##[class*="-advertising-"]
