@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kJti2EbRrVu1ykoRqWnkbw
-! Version: 20260610215414
+! Checksum: 0deDcuLIhlSQ9BV0s2T3sg
+! Version: 20260610220303
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -7350,6 +7350,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|all
 ||guide-hebergeur.fr/img/lwssuper
 ||guide-hebergeur.fr/pub/
 ||guide-lavage.com/image/guide-lavage/pub/
+||guide-piscine.fr/medias/emc/
 ||guinee7.com/wp-content/uploads/*-460x68-
 ||guinee7.com/wp-content/uploads/*-800x120-
 ||guinee7.com/wp-content/uploads/*/baniere-
@@ -10582,6 +10583,7 @@ lesmobiles.com###ctn_top2
 edcom.fr###decouvrirActu
 amazon.fr###desktop-rhs-carousels_click_within_right
 papvacances.fr###details-services
+guide-piscine.fr###devis-lien-popup
 japscan.vip###dlinkc
 fluvore.com###download
 boulistenaute.com###dropin
@@ -11263,6 +11265,7 @@ voir-films.com##.links-bottom
 voir-films.com##.links-top
 mavieencouleurs.fr##.list-brands-carousel
 team-aaa.com##.list-sponsors
+guide-piscine.fr##.liste-produits
 lequipement.fr##.listepartenairecomplete
 frandroid.com##.listplans-shortcode-container
 lesnumeriques.com##.ln__a-dc
@@ -11658,8 +11661,7 @@ fnac.com##[class^="f-kamino-"]
 forumconstruire.com##[class^="habillage"]
 igen.fr,macg.co,orange.fr,watchgeneration.fr##[class^="lig_"]
 voyageforum.com##[class^="offers"]
-ambiance-noel.fr,guide-piscine.fr##[class^="pub_"]
-guide-piscine.fr##[class^="regie_"]
+ambiance-noel.fr##[class^="pub_"]
 dl-protect.link##[class^="trust"]
 reverso.net##[class^="vda-"]
 korben.info##[data-cfpa]
@@ -11818,7 +11820,6 @@ alsacreations.com##a[href^="http://www.amazon.fr/gp/product/"]
 djelfa.info##a[href^="http://www.djelfa.info/ar/click/"]
 dzsat.org##a[href^="http://www.dzsat.org/forum/rbs_banner.php?"]
 notre-siecle.com,perelafouine.com##a[href^="http://www.fredbaroussechacunsonstyle.com/"] > img
-guide-piscine.fr##a[href^="http://www.guide-piscine.fr/scripts/gp_div_clic.php?"]
 cowcotland.com##a[href^="http://www.ldlc.com#aff"] > img
 lyonmag.com##a[href^="http://www.lyonmag.com/home/habillage/"]
 meetmuslima.net##a[href^="http://www.meetmuslima.net/go/"]
