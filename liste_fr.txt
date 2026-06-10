@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 0deDcuLIhlSQ9BV0s2T3sg
-! Version: 20260610220303
+! Checksum: 7cYCMyRxtGR1jmxgzWjRKg
+! Version: 20260610220934
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -7243,6 +7243,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|all
 ||forumconstruire.com/img/pubs/
 ||forumconstruire.com/img/sicked/
 ||forumconstruire.com/letsgo/
+||forumconstruire.com/pubs/
 ||forumdz.com/pub/
 ||forzamotorsport.fr/img/pub/
 ||framapad.org/static/img/bearstech_hosted.png
@@ -11277,7 +11278,6 @@ cdiscount.com##.lpMBan
 ma-reduc.com##.m-coveringIab
 cuisineactuelle.fr##.magazineBlock
 allocine.fr##.main-banner
-parlonspiscine.com##.margin_bottom[style="padding:5px;border:1px solid #8F8F8F;border-radius:5px 0px 5px 0px;box-shadow: 0px 0px 10px #000000;"]
 leparisien.fr##.marketingParisien
 driverscloud.com##.mcdescresumepub
 driverscloud.com##.mcdescresumepubnews
@@ -11945,6 +11945,7 @@ zonebourse.com##div[id^="zpp"]
 gamalive.com##div[style$="width:300px;height:250px;"]
 ma-reduc.com##div[style*="/ads/"]
 impotsurlerevenu.org##div[style*="float:right;width:300px;"]
+androidpit.fr,forumpiscine.com##div[style*="min-height:90px;"]
 oxtorrent.my##div[style*="opacity:"]
 superphysique.org##div[style*="text-align: center"][style*="width:250px"]
 gamalive.com##div[style*="width:160px;height:600px;"]
@@ -11954,7 +11955,6 @@ livehost.fr##div[style*="width:728px"]
 tayo.fr##div[style*="width:728px;"]
 avito.ma##div[style="display: block; margin-bottom: 10px;"] > ._LaI0D
 voyageforum.com##div[style="display: block; margin-top: 0px; width: 836px; margin-bottom: -7px; height: 285px;"]
-androidpit.fr##div[style="float:left; width:976px; line-height:0; min-height:90px; margin-bottom:5px; text-align:center;"]
 forum.gsmhosting.com##div[style="float:right; width:336px; height:560px; margin-left:10px"]
 1fichier.fr##div[style="float:right;width:300px;height:600px"]
 futura-sciences.com##div[style="height:250px; width:300px;"]
