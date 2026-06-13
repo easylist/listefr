@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: bpzYxc4C+YlN+T/sJcF3Yg
-! Version: 20260611230534
+! Checksum: 0gTY9QML9OF2fw4yekGfAQ
+! Version: 20260613231211
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -7810,7 +7810,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|all
 ||margxt.fr/wp-content/uploads/2022/12/mgs-shop.jpg
 ||marianne.net/photo/background-
 ||maroc1000.net/pub/
-||matchendirect.fr/image/tux/
+||matchendirect.fr/html_template/ad/
+||matchendirect.fr/html_template/zone/
 ||matin.mg/wp-content/uploads/*/matin_
 ||mature-amateur.com^$script
 ||max-videos.com/tools/
@@ -7886,7 +7887,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|all
 ||mister-auto.com^*/visuals/*_background_
 ||mitula.*/destacadosPisosSEM.
 ||mmzstatic.com/wp-content/uploads/*940$image
-||mobile.matchendirect.fr/html_template/mobile/header_info.html
 ||mobilealgerie.com/banniere_
 ||mobilealgerie.com/files/banners/
 ||mobilealgerie.com/wp-content/uploads/*/banniere-
@@ -8638,7 +8638,6 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|all
 ||links.fhsarl.com^$popup,third-party
 ||lkeria.com/redirect.$popup
 ||manga-news.com/redirection.php?$popup
-||matchendirect.fr/tux/habillage/$popup
 ||mstx.com/top/$popup
 ||out.streamcomplet.$popup
 ||partoch.com/redir/$popup
@@ -10487,6 +10486,7 @@ ustart.org###ads_tall
 cuisineaz.com###advi
 finalclap.com###aff_tuto_com
 dogzer.com###affichage_tag_58
+matchendirect.fr###akceloTopAdArea
 zikinf.com###album
 akeo.fr###amazon
 millenium.gg###amazon_container
@@ -10606,7 +10606,6 @@ renovationettravaux.fr###colorbox
 signification-prenom.com###colpub > #bloc_forum
 orange.fr###commercial-links
 oujdacity.net###common-top-widget
-matchendirect.fr###comparateur
 geny.com###containerBanniere1mois
 refurbgeneration.com###container_ebay
 ca-anjou-maine.fr,ca-centrest.fr,ca-sudrhonealpes.fr###conteneur_PROMO_Gauche
@@ -10896,9 +10895,6 @@ mac4ever.com###topappWidget
 algeriepatriotique.com###topbanner_wrapper
 freepik.com###topbar
 cbanque.com###trk_promoforum
-matchendirect.fr###tux728x90
-matchendirect.fr###tux_centrale
-matchendirect.fr###tux_liste_bookmaker
 hclips.com,txxx.com,txxx.tube###und_ban
 igen.fr,macg.co,watchgeneration.fr###unepromo
 flaticon.com###unicorn
@@ -11451,13 +11447,12 @@ nitrotype.com##.profile-ad
 codeur.com##.project-option-premium
 heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##.promSB
 heures.be,hours.be,openingstijdengids.nl,openingsurengids.be##.promSidebar
-deco.fr,euro-2016-france.net,matchendirect.fr,pokaa.fr##.promo
+deco.fr,euro-2016-france.net,pokaa.fr##.promo
 challenges.fr,nouvelobs.com##.promo-bottom-art
 gauleporno.xxx,pornburst.xxx##.promo-gauleporno
 ouedkniss.com##.promo-loader
 ouedkniss.com##.promo-loader-interstitial
 tvanouvelles.ca##.promo-tva-inner
-matchendirect.fr##.promoApp
 orange.fr##.promo_sur_etage
 msn.com##.promobanner
 wikiclic.com##.promocentered
