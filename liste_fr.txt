@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: FdBU04J0bfT5uyhdAC5t1Q
-! Version: 20260621030635
+! Checksum: cMZIe2DTbRh5Wqzfz/Wlnw
+! Version: 20260622155054
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -5960,6 +5960,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|all
 ||paraisowebcam.com^$subdocument,third-party
 ||parked-content.godaddy.com/park/$third-party
 ||parlonspiscine.com/img/pubs/
+||partenaire.bemove.fr^
 ||partenaires.feerik.com^$third-party
 ||partner-ts.groupon.fr^
 ||partners.cmptch.com^
@@ -10702,7 +10703,7 @@ manga-news.com###ban970250
 grandecran.fr###ban_big
 cdmail.fr###bandeau
 les-terrains.com###bandeauBas
-degrouptest.com,lesmobiles.com###bandeauFooter
+degrouptest.com,edcom.fr,lesmobiles.com###bandeauFooter
 manga-news.com###bangeante
 appcake.net,boursier.com,lesaffaires.com,maliweb.net,nrj.fr###banner
 jeuxvideo-live.com###banner-ig
