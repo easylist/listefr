@@ -12314,6 +12314,7 @@ novaplanet.com##.sponsor-home-square
 novaplanet.com##.sponsor-top
 telquel.ma,trovit.fr,tsa-algerie.com##.sponsored
 tsa-algerie.com##.sponsored-by
+laredoute.fr##.sponsoredBanner
 xstory-fr.com##.sponsorise
 skyyart.fr##.sponsors
 fifa.com##.sponsors-section
@@ -12835,6 +12836,7 @@ boulanger.com##[id*="kamino"]:has(.product-list__product-sponsored)
 intermarche.com##[id^="stime-product-item"]:has(.stime-product--details__sponsored)
 zktorrent.org##[onclick]:has(script)
 comptoir.io##a:has(.prime)
+laredoute.fr##.pl-product:has(.sponsoredContent_label)
 search.lilo.org##a:has([data-testid="advertiserAdsSignature"])
 algerie-eco.com#?#.td_block_wrap:-abp-has(.block-title:-abp-contains(sponsorisés))
 aliexpress.com,aliexpress.us#?#._2FypS:-abp-has(._1rKqn:-abp-contains(/AD|Annonce|إعلان/))
