@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kdm3rU+PFI4H93HWaw0SVw
-! Version: 20260707224404
+! Checksum: 8757oh65qWUmMP8NB+oCUw
+! Version: 20260708215106
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12814,6 +12814,7 @@ carrefour.fr##.lc-banner:has([src*="ressources.luckycart.com"])
 radio-canada.ca##.max-w-150:has(.srcPubZone)
 leroymerlin.fr##.ml-container:has(> [data-st-type*="sponsored caroussel"])
 zebulon.fr##.penci-feed:has(a[href*="/sponso-"])
+laredoute.fr##.pl-product:has(.sponsoredContent_label)
 frandroid.com##.post-card:has(a[href^="https://native.humanoid.fr/"])
 fr.shopping.rakuten.com##.prd_side:has(.gtm_ads_caption)
 carrefour.fr##.product-banner__products:has(.product-banner__advertising)
@@ -12836,7 +12837,6 @@ boulanger.com##[id*="kamino"]:has(.product-list__product-sponsored)
 intermarche.com##[id^="stime-product-item"]:has(.stime-product--details__sponsored)
 zktorrent.org##[onclick]:has(script)
 comptoir.io##a:has(.prime)
-laredoute.fr##.pl-product:has(.sponsoredContent_label)
 search.lilo.org##a:has([data-testid="advertiserAdsSignature"])
 algerie-eco.com#?#.td_block_wrap:-abp-has(.block-title:-abp-contains(sponsorisés))
 aliexpress.com,aliexpress.us#?#._2FypS:-abp-has(._1rKqn:-abp-contains(/AD|Annonce|إعلان/))
