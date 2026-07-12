@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 8757oh65qWUmMP8NB+oCUw
-! Version: 20260708215106
+! Checksum: jb9VG+srHlroAJK66mx9Rw
+! Version: 20260712222034
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12813,6 +12813,7 @@ frandroid.com##.is-hidden-mobile:has([class^="Billboard"])
 carrefour.fr##.lc-banner:has([src*="ressources.luckycart.com"])
 radio-canada.ca##.max-w-150:has(.srcPubZone)
 leroymerlin.fr##.ml-container:has(> [data-st-type*="sponsored caroussel"])
+frandroid.com##.ops-next-mobile:has(.sponsored-label)
 zebulon.fr##.penci-feed:has(a[href*="/sponso-"])
 laredoute.fr##.pl-product:has(.sponsoredContent_label)
 frandroid.com##.post-card:has(a[href^="https://native.humanoid.fr/"])
