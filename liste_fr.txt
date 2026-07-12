@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: e19vCye+ahfnI/ptnQm9Dw
-! Version: 20260712232659
+! Checksum: gSWstkKn1witvUTSQv7D2w
+! Version: 20260712233815
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -729,7 +729,6 @@ _werbebanner_
 ?MediaSegmentId=$popup
 ?pub_id=$popup
 ?pubid=*&subid=$popup,third-party
-_build=iclick-$popup
 ! TLD popups
 ||club^*&zoneid=$popup
 ||cyou^*_$popup
