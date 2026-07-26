@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: u0E76/3C9eRCsLcy5DMSiQ
-! Version: 20260717111735
+! Checksum: 8wrs5GnlnYMPDKvgS8FvpQ
+! Version: 20260726061400
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -13098,6 +13098,7 @@ yggtorrent.support##html
 @@||static.jeux123.fr/ads/promo_$image,~third-party
 @@||static.meilleur-mobile.com/images-product/logos-marchands/sprite_logosMarchands_120x60.png|$image
 @@||static.s-sfr.fr/resources/custom/adsl/
+@@||stream-us-east-1.getpublica.com/cl/*.m3u8?i=$xmlhttprequest,domain=klowdtv.com
 @@||syndication.twitter.com/tweets.json?*&ids=*&lang=*&suppress_response_codes=$script
 @@||thepiratebay.org/description.php?id=$popup,~third-party
 @@||videos-pub.ftv-publicite.fr/player/ad2play.js$domain=tv5mondeplus.com
