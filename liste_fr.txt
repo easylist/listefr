@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AnueCm9xsCXoFcRmzhujRQ
-! Version: 20260726062312
+! Checksum: uXeDbadRcYI11gKCv9yjMw
+! Version: 20260731215412
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12908,7 +12908,6 @@ cleanrider.com##[class*="min-h-"]:has([id^="optidigital-ad"])
 fr.shopping.rakuten.com##[data-productid]:has([class^="style_sponsoredAds"])
 seloger.com##[data-testid="serp-core-suggestion-card-testid"]:has([aria-haspopup])
 boulanger.com##[id*="kamino"]:has(.product-list__product-sponsored)
-redcare-apotheke.ch,redcare-pharmacie.fr,farmaline.be##li[data-qa-id="result-list-entry"]:has(a[href^="https://api.sae.systems/"])
 intermarche.com##[id^="stime-product-item"]:has(.stime-product--details__sponsored)
 zktorrent.org##[onclick]:has(script)
 comptoir.io##a:has(.prime)
@@ -12985,6 +12984,7 @@ lesnumeriques.com#?#.l-section:has(.tops__items)
 lesnumeriques.com#?#.l-section:has(a[href*="/contenus-partenaires"])
 lesnumeriques.com#?#.m-grid__item:has(.c-icon--star)
 lessentiel.lu#?#aside:has(div + span:has-text(Publicité))
+farmaline.be,redcare-apotheke.ch,redcare-pharmacie.fr##li[data-qa-id="result-list-entry"]:has(a[href^="https://api.sae.systems/"])
 libhunt.com#?#.boxed:has(.tag:has-text(Sponsored))
 libhunt.com#?#.repo-component:has(label:has-text(sponsored))
 linfoweb.com#?#.isnotmobi:has(a:has-text(sponsorisé))
