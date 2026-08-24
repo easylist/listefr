@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: FukVaYTlL68KjgMYAaAbDQ
-! Version: 20260824145549
+! Checksum: O6PldIGnezqEXaZw1dt+Qw
+! Version: 20260824151528
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12847,6 +12847,7 @@ voyageforum.com##[class^="offers"]
 ambiance-noel.fr##[class^="pub_"]
 dl-protect.link##[class^="trust"]
 reverso.net##[class^="vda-"]
+g2a.com##[data-ad-placement-rail]
 korben.info##[data-cfpa]
 cleanrider.com##[data-content="ad"]
 jeu.fr##[data-fallback-type="image"]
