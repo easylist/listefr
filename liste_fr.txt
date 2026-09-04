@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +HrltJ2NMT2IOr1IjMLvcw
-! Version: 20260904091913
+! Checksum: XZBgWu3DQRZ8bG50ycWvSA
+! Version: 20260904092440
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -5652,6 +5652,7 @@ voethrusts.cfd
 ||yeukxysters.com^
 ||ygg.re^
 ||yggtorrent.com^
+||yggtorrent.lat^
 ||yggtorrent.org^
 ||yggtorrent.support^
 ||yggtorrent.to^
@@ -13435,7 +13436,7 @@ ouedkniss.com##.pg-top.d-print-none { height: 0px; }
 ||facebook.net^*/fbds.js$third-party
 ||facebook.net^*/fbevents.js$third-party
 ! Fake Sites
-yggtorrent.support##html
+yggtorrent.lat,yggtorrent.support##html
 !
 !----------------------- Exceptions -----------------------!
 ! Note : le but des exceptions de la Liste FR n'est en aucun cas de laisser passer des publicités,
