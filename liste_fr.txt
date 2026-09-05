@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +9EQeCuAWgFwDTTwSt+pbw
-! Version: 20260905205735
+! Checksum: nu8mO7NIZ1SmqKBmQimfRQ
+! Version: 20260905211558
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -6481,6 +6481,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|dai
 ||baise3x.com/ban/
 ||bandeiracorp.biz/images/$third-party
 ||banner-adz.com/view.php
+||banner.chimeratool.com^
 ||barredesurf.com/includes/images/bannieres/
 ||baseturf.com/bannieres/
 ||bcrncdn.com/promotions/
@@ -6565,6 +6566,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|dai
 ||century21.fr^$subdocument,third-party,domain=~lesmeilleurstalents.com
 ||cex.io/rb/$third-party
 ||chaturbate.com^*/?track=$subdocument,third-party
+||chimeratool.com/?source=
 ||chimeratool.com/banner/
 ||chp.org.tr^$domain=link.tl|pubiza.com
 ||chtiflouz.com/upload/ban/
@@ -6715,6 +6717,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|dai
 ||funradio.fr/partenaires/
 ||fused.com/images/banners/
 ||fusion.localpoint.ch/widgets/$third-party
+||fywc6.chimeratool.com^
 ||g*.txxx.com^
 ||g2a.com/r/user-$subdocument,third-party
 ||gagne-facile.com/img/banner-
