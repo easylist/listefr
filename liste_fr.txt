@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ITqoAoCUc7FgtJZAGYSGrQ
-! Version: 20260905191549
+! Checksum: gGTi+vmC5/VscssPqZy7kA
+! Version: 20260905192626
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -6917,6 +6917,9 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|dai
 ||mdhcdn.com^*/banner_
 ||media.easybib.com/images/gr_
 ||mediafire.com/file/*.exe|$subdocument
+||medias.gupy.fr/*/maliste
+||medias.gupy.fr/*/nordvpn
+||medias.gupy.fr/*/prime
 ||mediastay.net^*/js/offers-dyn.
 ||mediastay.net^*/js/OMBanners-
 ||mediastay.net^*/offers.php?
@@ -12750,6 +12753,7 @@ cdiscount.com##.regBloc
 jds.fr##.regie_20
 endirect24.com##.rek
 jeux-e.com##.rek_ban
+dulourd.net##.responsive-banner
 qwant.com##.result--ext
 kelkoo.fr##.results-lrec
 premsgo.fr##.results-sidebar
