@@ -13289,6 +13289,7 @@ seloger.com##[data-testid="serp-inline-ad"]
 seloger.com##[data-testid="serp-masthead-testid"]
 seloger.com##[data-testid="serp-side-skyscraper"]
 seloger.com##[data-testid="serp-side-skyscraper-top"]
+cdiscount.com##[data-e2e="lplr-partner-carousel"]
 toutvendre.fr##[href*=".kelkoogroup.net/"]
 meteofrance.com##[href*=".xiti.com"] > img
 oisd.nl##[href^="https://adguard.com/?aid="]
@@ -13664,6 +13665,8 @@ carrefour.fr##.product-list-grid__item:has(.product-list-card-plp-grid__sponsore
 carrefour.fr##.product-list-grid__item:has([id*="data-advertising-sponsored-products"])
 boulanger.com##.product-list__item:has(.product-list__product-sponsored)
 frandroid.com##.sticky-content:has([class^="HalfpageAd"])
+cdiscount.com##[data-e2e="offer-wrapper"]:has(.sponsor > button[aria-haspopup="dialog"])
+cdiscount.com##[data-e2e="search-result-block"] > section:has(> button[aria-haspopup="dialog"])
 20min.ch#?#.clusterTop:has(.teaser:has(h3:has-text(Paid Post)))
 2ememain.be#?#.hz-Listing--list-item:has(.hz-Listing-priority:has-text(Pub au top))
 2ememain.be#?#.hz-Listing--list-item:has(.hz-Listing-seller-link:has-text(Visiter le site internet))
