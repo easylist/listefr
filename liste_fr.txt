@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ElzNWG3IIzyKIKn12gwIZg
-! Version: 20261010093452
+! Checksum: +QIWYqHMMRidsYmRUH5Duw
+! Version: 20261010093731
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -13656,6 +13656,7 @@ leroymerlin.fr##.ml-container:has(> [data-st-type*="sponsored caroussel"])
 frandroid.com##.ops-next-mobile:has(.sponsored-label)
 zebulon.fr##.penci-feed:has(a[href*="/sponso-"])
 laredoute.fr##.pl-product:has(.sponsoredContent_label)
+laredoute.fr##.plp-grid_item:has(.sponsoredContent_label)
 frandroid.com##.post-card:has(a[href^="https://native.humanoid.fr/"])
 fr.shopping.rakuten.com##.prd_side:has(.gtm_ads_caption)
 carrefour.fr##.product-banner__products:has(.product-banner__advertising)
@@ -13670,7 +13671,6 @@ frandroid.com##.sticky-content:has([class^="HalfpageAd"])
 20min.ch#?#.clusterTop:has(.teaser:has(h3:has-text(Paid Post)))
 2ememain.be#?#.hz-Listing--list-item:has(.hz-Listing-priority:has-text(Pub au top))
 2ememain.be#?#.hz-Listing--list-item:has(.hz-Listing-seller-link:has-text(Visiter le site internet))
-laredoute.fr##.plp-grid_item:has(.sponsoredContent_label)
 boulanger.com##[class*="kamino"]:has(.product-list__product-sponsored)
 cleanrider.com##[class*="min-h-"]:has([id^="optidigital-ad"])
 cdiscount.com##[data-e2e="offer-wrapper"]:has(.sponsor > button[aria-haspopup="dialog"])
