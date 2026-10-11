@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 9cJP5ZNtvJUAPk1x55zmuA
-! Version: 20261011211311
+! Checksum: Ogig0VDaNP9X92eWRsrlNA
+! Version: 20261011214103
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -13851,6 +13851,7 @@ lesnumeriques.com#?#.l-section:has(.tops__items)
 lesnumeriques.com#?#.l-section:has(a[href*="/contenus-partenaires"])
 lesnumeriques.com#?#.m-grid__item:has(.c-icon--star)
 lessentiel.lu#?#aside:has(div + span:has-text(Publicité))
+futura-sciences.com##li[class*="article-"]:has(.tag-sponsorise)
 farmaline.be,redcare-apotheke.ch,redcare-pharmacie.fr##li[data-qa-id="result-list-entry"]:has(a[href^="https://api.sae.systems/"])
 libhunt.com#?#.boxed:has(.tag:has-text(Sponsored))
 libhunt.com#?#.repo-component:has(label:has-text(sponsored))
