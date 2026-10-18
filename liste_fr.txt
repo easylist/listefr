@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: dHhkD76v3V1jfWxUxpcyTg
-! Version: 20261018010720
+! Checksum: eoIxos05Royk72JI72jYkA
+! Version: 20261018012524
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -9249,6 +9249,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|dai
 ||kairn.com/files/pub/
 ||kalo.onvid.
 ||kamehashop.fr/partenaire/
+||kami-labs.fr/*/ads-widget.js
+||kami-labs.fr/*/house-ads.js
 ||katibin.fr/pubs/
 ||katibin.fr/wp-content/uploads/*/600x100-
 ||katibin.fr/wp-content/uploads/*/BG_
@@ -13397,6 +13399,7 @@ blick.ch##[id^="appnexus-placement"]
 comarketing-news.fr##[id^="comar-"]
 boulanger.com##[id^="criteo_pageListe"]
 3dnatives.com##[id^="dnati-"]
+kami-labs.fr##[id^="kl-ad"]
 commentcamarche.com,commentcamarche.net,free.fr,journaldesfemmes.com,orange.fr,turf-fr.com##[id^="lig_"]
 jeuxvideomoinschers.fr,tahiti-infos.com##[id^="pub_"]
 yggtorrent2.my##[id^="vpn"]
