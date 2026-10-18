@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 1wphU/U11xixtq3quHRBuQ
-! Version: 20261011215149
+! Checksum: dHhkD76v3V1jfWxUxpcyTg
+! Version: 20261018010720
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12935,7 +12935,6 @@ largus.fr##.item-partenaire
 viamichelin.be,viamichelin.ch,viamichelin.com,viamichelin.fr##.itinerary-index-advertising
 idf1.fr##.jcarousel
 automobile-magazine.fr##.js-bloc-reezocar-event
-dealabs.com##.js-idealo-section
 trovit.fr##.js-loadPremium
 cdiscount.com##.jsNoPrdtBloc
 boulanger.com##.kaminoBillboard
@@ -13373,6 +13372,7 @@ frandroid.com##[data-gtm-bic]
 qub.ca##[data-hide-empty-ads]
 cheriefm.fr##[data-page-builder--block-analytics-block-title-value="ad"]
 manomano.fr##[data-sponsored-product]
+dealabs.com##[data-t="bannerAd"]
 leboncoin.fr##[data-test-id^="advertising"]
 lessentiel.lu##[data-testid="Ad"]
 radio-canada.ca##[data-testid="ad"]
@@ -13721,7 +13721,6 @@ leroymerlin.fr##li[data-product-list-id*="sponsored"]
 bonjourmadame.fr##object[width="728"][height="90"]
 lesoir.be,sudinfo.be##r-pub
 bol.com##section.js_slot-sponsored-products
-dealabs.com##section[data-track*="widget_pirates_carousel"]
 virusphoto.com##table[width="300"][height="280"]
 societe.com##table[width="303"] > tbody > tr > td[valign="top"][height="260"]
 depannetonpc.net##td[align="left"][colspan="3"] > div[style="width:70%;"]
