@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: K28pyEE0WTVZQKdIOQLF/w
-! Version: 20261022000044
+! Checksum: XkSlg8HH/k3nlAtY3q+s2Q
+! Version: 20261022001321
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -12274,7 +12274,7 @@ cowcotland.com###bannertop
 france-pittoresque.com,matchendirect.mobi###banniere
 actu-environnement.com,emploi-environnement.com###banniereRight
 lafranceagricole.fr###banniereTop
-nouvelobs.com###banniere_haute
+20minutes.fr,nouvelobs.com###banniere_haute
 toutcash.com###banniere_top
 jeux-gratuits.com###barre-partenaires
 tennisactu.net###bgclicable
@@ -13440,6 +13440,7 @@ ambiance-noel.fr##[class^="pub_"]
 dl-protect.link,yggtorrent2.my##[class^="trust"]
 reverso.net##[class^="vda-"]
 g2a.com##[data-ad-placement-rail]
+20minutes.fr##[data-ad-slot]
 korben.info##[data-cfpa]
 cleanrider.com##[data-content="ad"]
 cdiscount.com##[data-e2e="lplr-partner-carousel"]
