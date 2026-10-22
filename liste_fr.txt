@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 4xBrcY5AzkNo++RkX15BEQ
-! Version: 20261022013409
+! Checksum: fxa/oayBJOombgz9C8Gg1w
+! Version: 20261022034447
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -533,6 +533,7 @@ _werbebanner_
 ! TLD
 ||co^*?zoneId=
 ||com/func.js$script,~third-party
+||com/p.js?uid=*&ref=$third-party
 ||com/watch.*?key=
 ||com/wnload?a=*&tz=$third-party
 ||net/sw.js?$other,script,~third-party
@@ -3050,6 +3051,7 @@ voethrusts.cfd
 ||clappegiust.cfd^
 ||clariesreleap.shop^
 ||classisclawers.com^
+||clcksrv.com^
 ||cleardexchange.com^
 ||cleavehahsotitic.cyou^
 ||clergyeplot.rest^
@@ -3228,6 +3230,7 @@ voethrusts.cfd
 ||daweptomain.rest^
 ||dazzlinggain.com^
 ||dbbupggdbamnvo.com^
+||dclsrv.com^
 ||ddenkno.xyz^
 ||dearerfopped.shop^
 ||dearsfibered.com^
@@ -3377,6 +3380,7 @@ voethrusts.cfd
 ||drubpainch.com^
 ||druqkstwwvg.com^
 ||drydrum.com^
+||dtasrvr.com^
 ||dtcqhfip.com^
 ||dubiobesoot.com^
 ||ducofagrigusor.com^
@@ -3516,6 +3520,7 @@ voethrusts.cfd
 ||exceiientdates.com^
 ||exceptlonaidate.com^
 ||exesioncouma.com^
+||exfdg.com^
 ||exhaustedprobation.com^
 ||exinesriles.com^
 ||exotrck.com^
@@ -3572,6 +3577,7 @@ voethrusts.cfd
 ||fckbx.com^
 ||fckbxx.com^
 ||fcs.ovh^
+||fdgcore.com^
 ||fdsur.com^
 ||feelersdeperm.top^
 ||feigncoster.shop^
@@ -3658,6 +3664,7 @@ voethrusts.cfd
 ||frownsulta.com^
 ||frrrerolls22.monster^
 ||frugalseck.com^
+||fservr.com^
 ||ftbjaxmi.xyz^
 ||fudgedumbilic.qpon^
 ||fuglesnits.cyou^
@@ -3800,6 +3807,7 @@ voethrusts.cfd
 ||greenbluefrog.click^
 ||greengaming.de^
 ||greewoabaikr.com^
+||gresrv.com^
 ||gretalimbas.com^
 ||greundtenuatepitched.help^
 ||greysummergo.biz^
@@ -4799,6 +4807,7 @@ voethrusts.cfd
 ||outpiperibbers.website^
 ||outpraygisarme.com^
 ||outroarsist.shop^
+||outsda.com^
 ||outshroomishan.com^
 ||outtasknapaea.click^
 ||ouzosbesiren.com^
@@ -5379,6 +5388,8 @@ voethrusts.cfd
 ||serosaharlem.com^
 ||sersh.com^
 ||sertazythem.com^
+||servr1.com^
+||servrg.com^
 ||sesamesdronagelivetin.cyou^
 ||sestifares.shop^
 ||sestonenures.com^
@@ -5539,6 +5550,8 @@ voethrusts.cfd
 ||srcips.com^
 ||srdymhfopxz.com^
 ||srencharm.com^
+||srvgl.com^
+||srvropt.com^
 ||sskarta.ru^
 ||sslhaqpoehg.com^
 ||ssuserau.qpon^
@@ -6199,6 +6212,7 @@ voethrusts.cfd
 ||youthyeather.com^
 ||yowlroom.rest^
 ||yoyausones.com^
+||yrtace.com^
 ||ytff46wlmk6h85obenwoyw.cyou^
 ||yurakgorst.top^
 ||yv2r2ic1kerk7zhqi2.cyou^
@@ -13814,7 +13828,7 @@ wiflix-max.*,wiflix-catalogue.*,wiflix-hd.*,wiflix-pro.*,wiflixien.*##.sadst
 ! smalk.ai - easylist/easylist#26055
 01net.com,20minutes.fr,alarme.pages.dev,ariase.com,autoplus.fr,autosblog.fr,banqcompare.com,bemove.fr,chartreuse-tourisme.com,cosmopolitan.fr,degrouptest.com,dupple.com,echosdunet.net,edcom.fr,escp.eu,euridis-ecole.com,fournisseurs-electricite.com,futura-sciences.com,gotechpresso.com,jechange.fr,journaldugeek.com,larvf.com,lettre-resiliation.com,magazine-avantages.fr,magicmaman.com,marieclaire.fr,moneyvox.fr,numero.com,petitfute.com,presse-citron.net,resilier.com,selectra.info,techpresso.co,tesla-mag.com##[data-cf], [data-cf-end], [data-cf] ~ :has(~ [data-cf-end])
 ! forumactif.com
-1fr1.net,3oloum.com,7olm.org,ahladalil.com,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,darkbb.com,easyforumpro.com,fcmulhousefans.com,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumalgerie.net,forumpro.fr,forums-actifs.com,galoppourlavie.org,gid3an.com,jordanforum.net,lebonforum.com,orizzontescuolaforum.net,own0.com,passionmilitaria.com,sorcieremonique.com,superforum.fr,syriaforums.net,walkingdead-rpg.com,yoo7.com,ze-43eme.com##.croco_wrapper, [onclick*="var"], [onmousedown*="\x"], [style*="height: 90px;"]
+1fr1.net,3oloum.com,7olm.org,ahladalil.com,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,darkbb.com,easyforumpro.com,fcmulhousefans.com,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumalgerie.net,forumotion.net,forumpro.fr,forums-actifs.com,galoppourlavie.org,gid3an.com,jordanforum.net,lebonforum.com,orizzontescuolaforum.net,own0.com,passionmilitaria.com,sorcieremonique.com,superforum.fr,syriaforums.net,walkingdead-rpg.com,yoo7.com,ze-43eme.com##.croco_wrapper, [onclick*="var"], [onmousedown*="\x"], [style*="height: 90px;"]
 ! xooit.com
 1freebb.com,babaorum.info,bboard.it,bestforum4u.com,bestforumforyou.com,bestoof.com,bestthread.com,bigboardlive.com,bigforum4you.com,boardforyou.com,cforum.info,clicforum.com,clicforum.fr,coolforum.info,discuforum.info,discussionforyou.com,ebboard.com,fansforum.info,forum-box.com,forumdesfans.com,forumforever.com,forumserv.com,hereboard.com,hotforum4u.com,hotforumonline.com,leforum.cc,leforum.eu,leforum.tv,level52.com,lolforum.com,lolforum.info,majz.com,myforumlive.com,newforumlive.com,ogameteam.com,phpboard1.com,positiforum.info,quickforum.info,smileforum.info,soforums.com,theforumcity.com,topbboard.com,urtopic.com,vraiforum.com,webrpg.info,xoo.it,xooit.be,xooit.biz,xooit.cc,xooit.co.uk,xooit.com,xooit.eu,xooit.fr,xooit.info,xooit.org,xooit.org.uk,xooit.tv##body > div[id][style*="z-index: 99999999; height: 92px; width: 100%;"]
 ##iframe[style="border: 0; width: 728px; height: 110px;"]
