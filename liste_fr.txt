@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: cV3n2b05AwxEOsqs/nJM1g
-! Version: 20261117040015
+! Checksum: duj28q40/yaG2rRCfEKcEw
+! Version: 20261117042211
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8083,9 +8083,9 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|dai
 ! Webediads revolving adservers
 /acceptable.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lebonguide.com|lestream.fr|musiquemag.com|ozap.com|plurielles.fr|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com|villaschweppes.com
 /acceptable.$~script
-/autopromo.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|lebonguide.com|lestream.fr|millenium.gg|musiquemag.com|ozap.com|plurielles.fr|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com|villaschweppes.com
+/autopromo.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|lebonguide.com|lestream.fr|millenium.gg|millenium.org|musiquemag.com|ozap.com|plurielles.fr|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com|villaschweppes.com
 /autopromo.$~script,domain=jeuxvideo.com
-/autopromotion.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lebonguide.com|lestream.fr|millenium.gg|musiquemag.com|ozap.com|plurielles.fr|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com|villaschweppes.com
+/autopromotion.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lebonguide.com|lestream.fr|millenium.gg|millenium.org|musiquemag.com|ozap.com|plurielles.fr|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com|villaschweppes.com
 ! webchoc
 /license.$domain=amateurfrancais.com|sexefelin.com|tootx.com|tubixe.com|twistedporn.com|vidsexe.com|webchoc.com
 /script.$domain=amateurfrancais.com|sexefelin.com|tootx.com|tubixe.com|twistedporn.com|vidsexe.com|webchoc.com
@@ -9825,7 +9825,8 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|dai
 ||michelin.fr/data/public/field/image/
 ||midi-madagasikara.mg/pub/
 ||millenium.gg/images/contenu/habillages/
-||millenium.gg/indexpub.php?
+||millenium.org/images/contenu/habillages/
+||millenium.org/indexpub.php?
 ||minecraft.fr/wp-content/uploads/2019/09/acheter-
 ||minuteur-en-ligne.fr/pub/
 ||miroirsocial.com/uploads/images/partenaires/
@@ -12431,7 +12432,7 @@ dogzer.com###affichage_tag_58
 matchendirect.fr###akceloTopAdArea
 zikinf.com###album
 akeo.fr###amazon
-millenium.gg###amazon_container
+millenium.org###amazon_container
 soap-passion.com###annonce
 upp-auteurs.fr###annonce_a
 upp-auteurs.fr###annonce_b
@@ -12605,7 +12606,7 @@ autobip.com###habillage_b
 besac.com###habillage_cliquable
 autobip.com###habillage_flash
 buzzdefou.com,gerardmerinfo.fr###habillage_site
-millenium.gg###habillagesite
+millenium.org###habillagesite
 geekopolis.fr###habitdroit
 geekopolis.fr###habitgauche
 clubpronostics.com###header-banner
@@ -12665,7 +12666,7 @@ footendirect.com###link-wrap-around
 degroupnews.com###link_pub
 journaldugeek.com###linkhabillage
 a40ans.com###liste-webcams
-millenium.gg###logo_droite
+millenium.org###logo_droite
 centreimmo.com###logos-partenaires
 cdiscount.com###lpHeadlineMain.headlineWithoutLogo
 laposte.net###lpn_pub_main
