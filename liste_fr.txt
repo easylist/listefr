@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: qmeM9HjIzgb0fWJonWchKQ
-! Version: 20261117034801
+! Checksum: cV3n2b05AwxEOsqs/nJM1g
+! Version: 20261117040015
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -10013,6 +10013,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|dai
 ||playe.vidto.
 ||plx.gameblog.fr^
 ||plx.tukif.com^
+||plx.tukif.porn^
 ||pmd-vp-aka.canal-plus.com^
 ||pme-dz.com/wp-content/uploads/2019/07/01.jpg
 ||pme-dz.com/wp-content/uploads/2019/07/02-1.jpg
@@ -10358,7 +10359,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|dai
 ||tsa-algerie.com/wp-content/uploads/*-ads.
 ||tube-teen.fr/tools/
 ||tubixe.com/site/images/*.gif
-||tukif.com/webcams/
+||tukif.*/webcams/
 ||turbo.fr/themes/turbo/img/333x50-
 ||turbobit.net/vbxpvz/
 ||turf-fr.com/images/*x250.
@@ -13586,7 +13587,7 @@ geste.fr##.view-id-partenaires
 geste.fr##.view-partenaires
 bioalaune.com##.view-pub
 mariefrance.fr,science-et-vie.com##.viously-player
-pornovore.fr,tukif.com##.vjs-toolbar
+pornovore.fr,tukif.com,tukif.porn##.vjs-toolbar
 elmoudjahid.com##.vpub
 gupy.fr##.vrd_label_sponsored
 gupy.fr##.vrd_tickets_sponsored
