@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: DErLPh7K98lfeeen2vVn9Q
-! Version: 20261117143410
+! Checksum: 0rxKeA56BS1AwgtFwULoSw
+! Version: 20261122142237
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -8771,7 +8771,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|allviid.xyz|dai
 ||api.annonces.nc/posts/random-boosted
 ||apiclas.sofoot.com^
 ||apipub.oumma.com^
-||aps.dz/images/banners/clients/
+||aps.dz/*/image?*%2Fbanner
 ||arabwebtv.com/arabwebtv.gif
 ||archaic.fr/wp-content/uploads/link-library-images/
 ||archimag.com/sites/archimag.com/files/*-ban-900x150_
@@ -13859,6 +13859,7 @@ hentaifr.net##a[href^="https://ahegao.fr"]
 rugby365.fr##a[href^="https://bit.ly/"] > img
 hentaifr.net##a[href^="https://drmanga.net"]
 condor.dz##a[href^="https://e-faciliti.dz/"]
+aps.dz##a[href^="https://gica.dz/"]
 lefigaro.fr##a[href^="https://go.babbel.com/"]
 dailyuploads.net##a[href^="https://href.li/"]
 bleachmx.fr##a[href^="https://meccha-japan.com/"]
@@ -13866,6 +13867,7 @@ paruvendu.fr##a[href^="https://res.paruvendu.fr/"]
 notre-siecle.com,perelafouine.com##a[href^="https://riskassur-boutique.com/"] > img
 appsystem.fr##a[href^="https://shop.appsystem.fr/"] > img
 journaldugeek.com##a[href^="https://shop.journaldugeek.com/go/"] > img
+aps.dz##a[href^="https://solutions.djezzy.dz/"]
 toplien.fr##a[href^="https://track.effiliation.com/servlet/effi.click?"]
 fdesouche.com,lacoccinelle.net,wikimonde.com##a[href^="https://www.amazon.fr/"]
 gamekult.com,toplien.fr##a[href^="https://www.awin1.com/"]
