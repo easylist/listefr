@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: khcfbhDNQ3wdy8DR381xXg
-! Version: 20261125142400
+! Checksum: mq58aBo16UQXz9ZJw7iL1Q
+! Version: 20261127044420
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres publicitaires francophones complémentaires à EasyList
@@ -13010,6 +13010,7 @@ radiofrance.fr##.PopSlot
 marmiton.org##.RCP__sc-i1pqes-4
 marmiton.org##.SHRD__sc-juz8gd-2
 marmiton.org##.SHRD__sc-oypy6n-0
+leboncoin.fr##.USmUZW_advertisingSlotAdSearchLink
 amazon.fr##.a-link-normal[href*="&adId="]
 journaldugeek.com##.aawp-product
 driverscloud.com##.accueil_pubotherlan
@@ -14162,6 +14163,7 @@ wiflix-max.*,wiflix-catalogue.*,wiflix-hd.*,wiflix-pro.*,wiflixien.*##.sadst
 ##iframe[style="border: 0; width: 970px; height: 110px;"]
 ! Filtres de propriété CSS pour Adblock Plus
 japscan.foo###main > .card:has(a[href*="/manga/?type="][href*="&content="][target="_blank"])
+leboncoin.fr###video-listing:has([src^="/_next/static/media/logo."])
 cdiscount.com##.c-productCard:has(a[href*="?idOffre="][href*="&sw="])
 tvanouvelles.ca##.dfp-container:has(.dfp-ad)
 carrefour.fr##.ds-carousel-refonte__slide:has([id*="data-advertising-sponsored-products-"])
